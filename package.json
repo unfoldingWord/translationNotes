@@ -10,6 +10,7 @@
     "proposed_changes_module"
   ],
   "main": "View.js",
+  "display": "app",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
