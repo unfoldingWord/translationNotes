@@ -1,5 +1,5 @@
 {
-  "name": "translationNotes_Check_plugin",
+  "name": "TranslationNotesChecker",
   "version": "1.0.0",
   "description": "This is a tool to check the grammatical structure of phrases.",
   "title": "translationNotes Check",
