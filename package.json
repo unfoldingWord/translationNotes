@@ -1,0 +1,19 @@
+{
+  "name": "translationNotes_Check_plugin",
+  "version": "1.0.0",
+  "description": "This is a tool to check the grammatical structure of phrases.",
+  "title": "translationNotes Check",
+  "include": [
+    "translation_academy",
+    "t_pane",
+    "comment_box",
+    "proposed_changes_module"
+  ],
+  "main": "View.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.16.0"
+  }
+}
