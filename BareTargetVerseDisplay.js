@@ -144,7 +144,8 @@ class TargetVerseDisplay extends React.Component{
               direction: api.getDataFromCommon('params').direction == 'ltr' ? 'ltr' : 'rtl',
               width: '100%',
               marginBottom: '5px',
-              WebkitUserSelect: 'text'
+              WebkitUserSelect: 'text',
+              userSelect: "none",
             }}>
                 <h4>{this.props.currentVerse}</h4>
                 {/*This is the only way to use CSS psuedoclasses inline JSX*/}
