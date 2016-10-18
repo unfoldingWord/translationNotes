@@ -257,7 +257,7 @@ const TargetVerseDisplay = React.createClass({
           direction: api.getDataFromCommon('params').direction == 'ltr' ? 'ltr' : 'rtl'
         }}
       >
-        <h4 style={{marginTop: "0px"}}>{this.props.currentVerse}</h4>
+        <h4 style={{marginTop: "0px", userSelect: "none"}}>{this.props.currentVerse}</h4>
         <span>{words}</span>
       </div>
     );
