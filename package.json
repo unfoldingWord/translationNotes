@@ -4,10 +4,10 @@
   "description": "This is a tool to check the grammatical structure of phrases.",
   "title": "translationNotes Check",
   "include": [
-    "translation_academy",
-    "t_pane",
-    "comment_box",
-    "proposed_changes_module"
+    "TranslationAcademy",
+    "TPane",
+    "CommentBox",
+    "ProposedChanges"
   ],
   "main": "View.js",
   "display": "app",
