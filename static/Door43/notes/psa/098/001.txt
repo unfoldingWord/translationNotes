@@ -1,0 +1,80 @@
+====== Psalm 098:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Sing to Yahweh a new song,
+\q1 because he has done wonderful things!
+\q1 By his power \f + \ft metonymy \f* and his great strength \f + \ft doublet \f* he has defeated \add his enemies\add*.
+\q1
+\v 2 Yahweh has declared to people that he has defeated his enemies;
+\q2 he has revealed that he has punished \add his enemies\add*,
+\q2 and people in all the world have seen that he has done it.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Sing to Yahweh a new song
+\q1 because he has done wonderful things!
+\q1 By his power he has defeated his enemies.
+\q1
+\v 2 Yahweh has declared to people that he has defeated his enemies;
+\q2 he has revealed that he has punished his enemies,
+\q2 and people in all the world have seen that he has done it.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 98
+\p
+\d A psalm.
+\b
+\q
+\v 1 Oh, sing to Yahweh a new song,
+\q for he has done marvelous things;
+\q his right hand and his holy arm have given him victory.
+\q
+\v 2 Yahweh has made known his salvation;
+\q he has openly showed his justice to all the nations.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:psalm]]
+  * [[:en:obe:kt:yahweh]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:kt:righthand]]
+  * [[:en:obe:kt:holy]]
+  * [[:en:obe:other:know]]
+  * [[:en:obe:kt:salvation]]
+  * [[:en:obe:kt:justice]]
+  * [[:en:obe:other:nation]]
+
+===== translationNotes: =====
+
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+
+  * **a new song** - a song no one has ever sung before. See how this is translated in [[:en:bible:notes:psa:096:001|96:1]].
+  * **his right hand and his holy arm have** - The words "right hand" and "holy arm" refer to Yahweh's strength. Together they emphasize how great his strength is. AT: "his very great power has" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_doublet]])
+  * **right hand** - the more powerful and skilled hand
+  * **holy arm** - Here "arm" is a metonym for power. AT: "the power that is his alone" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **given him victory** - Possible meanings are 1) "enabled him to defeat his enemies" or 2) "enabled him to save his people" (See: [[:en:ta:vol2:translate:figs_abstractnouns]]) 
+  * **made known his salvation** - The abstract noun "salvation" can be translated using the verb "save." AT: "showed people that he saves his people" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **showed his justice to all the nations** - The abstract noun "justice" can be translated using the adjective "just." The word "nations" is a metonym for "the people who live in all the nations." AT: "showed the people who live in all the nations that he is just" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+
+===== Links: =====
+
+  * [[:en:bible:notes:psa:000:intro]]
+  * [[:en:bible:notes:psa:098:000]]
+  * [[:en:bible:questions:comprehension:psa:098]]
+**[[:en:bible:notes:psa:097:012|<<]] | [[:en:bible:notes:psa:098:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish p2check book4}}
+
+~~NOCACHE~~

@@ -1,0 +1,70 @@
+====== 1 Chronicles 01:1-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add The first person God created was Adam\add*. Adam's \add son was\add* Seth. \add Seth's son was\add* Enosh. \add Enosh's son was\add* Kenan.
+\v 2 \add Kenan's son was\add* Mahalalel. \add Mahalalel's son was\add* Jared. \add Jared's son was\add* Enoch.
+\v 3 \add Enoch's son was\add* Methuselah. \add Methusalah's son was\add* Lamech. \add Lamech's son was\add* Noah.
+\v 4 \add Noah's sons were\add* Shem, Ham, and Japheth.
+
+\li1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 The first person God created was Adam. Adam's son was Seth. Seth's son was Enosh. Enosh's son was Kenan.
+\v 2 Kenan's son was Mahalalel. Mahalalel's son was Jared. Jared's son was Enoch.
+\v 3 Enoch's son was Methuselah. Methusalah's son was Lamech. Lamech's son was Noah.
+\v 4 Noah's sons were Shem, Ham, and Japheth.
+
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 Adam, Seth, Enosh,
+\v 2 Kenan, Mahalalel, Jared,
+\v 3 Enoch, Methuselah, Lamech.
+\v 4 The sons of Noah were Shem, Ham, and Japheth.
+\f + \ft Some versions omit \fqa The sons of ... \fqa , but others include this expression. \f*
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:adam]]
+  * [[:en:obe:other:seth]]
+  * [[:en:obe:other:enoch]]
+  * [[:en:obe:other:lamech]]
+  * [[:en:obe:other:noah]]
+  * [[:en:obe:other:shem]]
+  * [[:en:obe:other:ham]]
+  * [[:en:obe:other:japheth]]
+===== translationNotes: =====
+
+
+  * **The sons of Noah were Shem, Ham, and Japheth** - Some versions, including the ULB and UDB, include "The sons of" in order to make it clear that Shem, Ham, and Japheth were brothers to each other and sons of Noah. Otherwise, the reader would assume that each person represented one generation farther away from Noah, their ancestor. 
+  * **Enosh, Kenan, Mahalalel, Jared ... Methuselah** - These names are a list of ancestors. If your language has a specific way to mark this kind of list, you can use it here. (See: [[:en:ta:vol1:translate:translate_names]])
+
+
+ 
+===== Links: =====
+
+  * [[:en:bible:notes:1ch:00:intro]]
+  * [[:en:bible:notes:1ch:01:00]]
+  * [[:en:bible:questions:comprehension:1ch:01]]
+** | [[:en:bible:notes:1ch:01:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish p2edit enoch japheth seth}}
+
+~~NOCACHE~~

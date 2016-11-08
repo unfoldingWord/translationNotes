@@ -1,0 +1,58 @@
+====== Matthew 01:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add This is\add* the record of the ancestors of Jesus Christ\f + \ft Or: the Messiah \f*, the descendant of \add King\add* David and of Abraham, \add from whom all we Jews have descended\add*.
+\v 2 Abraham was the father of Isaac. Isaac was the father of Jacob. Jacob was the father of Judah and Judah's \add older and younger\add* brothers.
+\v 3 Judah was the father of Perez and Zerah, \add and their mother\add* was Tamar. Perez was the father of Hezron. Hezron was the father of Ram.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 This is the record of the ancestors of Jesus the Messiah, the descendant of King David and of Abraham.
+\v 2 Abraham was the father of Isaac. Isaac was the father of Jacob. Jacob was the father of Judah and of his brothers.
+\v 3 Judah was the father of Perez and Zerah, and their mother was Tamar. Perez was the father of Hezron. Hezron was the father of Ram.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 The book of the genealogy of Jesus Christ son of David son of Abraham.
+\v 2 Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers. 
+\v 3 Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:son]]
+  * [[:en:obe:other:david]]
+  * [[:en:obe:other:abraham]]
+  * [[:en:obe:other:isaac]]
+  * [[:en:obe:other:jacob]]
+  * [[:en:obe:other:judah]]
+  * [[:en:obe:other:tamar]]
+
+===== translationNotes: =====
+
+  * **General Information:** - The author begins with Jesus' genealogy in order to show that he is a descendant of King David and of Abraham. The genealogy continues through [[:en:bible:notes:mat:01:15|1:17]].
+
+  * **The book of the genealogy of Jesus Christ** - You could translate this as a complete sentence. AT: "This is the list of the ancestors of Jesus Christ."
+  * **son of David son of Abraham** - There were many generations between Jesus, David, and Abraham. Here "son" means "descendant." AT: "a descendant of David, who was a descendant of Abraham" 
+  * **son of David** - Sometimes the phrase "son of David" is used as a title, but here it seems to be used only to identify Jesus' ancestry.
+  * **Abraham was the father of Isaac** - "Abraham became the father of Isaac" or "Abraham had a son Isaac" or "Abraham had a son named Isaac." There are different ways you could translate this. Whichever way you translate it here, it would be best to translate it the same way throughout the list of Jesus' ancestors. 
+  * **Perez and Zerah ... Hezron ... Ram** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Perez the father ... Hezron the father** - Here the word "was" is understood. AT: "Perez was the father ... Hezron was the father" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+
+===== Links: =====
+
+  * [[:en:bible:notes:mat:00:intro]]
+  * [[:en:bible:notes:mat:01:00]]
+  * [[:en:bible:questions:comprehension:mat:01]]
+**| [[:en:bible:notes:mat:01:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish p2pass abraham tamar}}
