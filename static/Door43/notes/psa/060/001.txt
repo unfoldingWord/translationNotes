@@ -1,0 +1,73 @@
+<code>
+
+</code>
+
+====== Psalm 060:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add I prayed\add*, "God, you have rejected us \add Israelites\add*!
+\q1 Because you have been angry \add with us\add*,
+\q2 you have \add enabled our enemies\add* to break through our ranks.
+\q1 Please enable us to be strong again!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 I prayed, "God, you have rejected us Israelites!
+\q1 Because you have been angry with us,
+\q2 you have enabled our enemies to break through our ranks.
+\q1 Please enable us to be strong again!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 60
+\p
+\d For the chief musician; set to Shushan Eduth. A michtam of David, for teaching. When he fought with Aram Naharaim and with Aram Zobah, and Joab returned and killed twelve thousand Edomites in the valley of Salt.
+\b
+\q
+\v 1 God, you have cast us off; you have broken through our defenses;
+\q you have been angry; restore us again.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:chief]]
+  * [[:en:obe:other:david]]
+  * [[:en:obe:other:aram]]
+  * [[:en:obe:other:joab]]
+  * [[:en:obe:other:edom]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:angry]]
+  * [[:en:obe:kt:restore]]
+===== translationNotes: =====
+
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+
+  * **For the chief musician** - "This is for the director of music to use in worship" 
+  * **set to Shushan Eduth** - This probably tells what tune or musical style to use when singing the psalm. AT: "sing this psalm using the tune of 'Shushan Eduth'" or "sing this using the Shushan Eduth style"
+  * **Shushan Eduth** - This means "Lily of the Promise." Translators may either write the meaning or copy the Hebrew words. (See: [[:en:ta:vol1:translate:translate_unknown]] and [[:en:ta:vol1:translate:translate_transliterate]])
+  * **A michtam** - The meaning of the word "michtam" is uncertain. You may use the word "psalm" instead. This can be written as: "This is a psalm that David wrote." See how you translated this in [[:en:bible:notes:psa:016:001|16:1]]. 
+  * **Aram Naharaim ... Aram Zobah** - "Aram of the two rivers ... the Aramean nation of Zobah" These are places. (See: [[[[:en:ta:vol1:translate:translate_names]])
+  * **Joab** - This refers to Joab and the army that he led. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **twelve thousand Edomites** - "12,000 Edomites" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **you have cast us off** - God's rejecting people is spoken of as if he had thrown them away. AT: "you have rejected us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you have broken through our defenses** - God's allowing Israel's enemies to break through their defenses is spoken of as God himself had done it. AT: "you have allowed our enemies to break through our defenses: (See: [[:en:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * [[:en:bible:notes:psa:000:intro]]
+  * [[:en:bible:notes:psa:060:000]]
+  * [[:en:bible:questions:comprehension:psa:060]]
+**[[:en:bible:notes:psa:059:016|<<]] | [[:en:bible:notes:psa:060:002|>>]]**
+
+~~DISCUSSION~~{{tag>publish p2check book2 aram}}
+
+~~NOCACHE~~
