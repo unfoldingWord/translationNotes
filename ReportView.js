@@ -168,6 +168,15 @@ class ReportItem extends React.Component {
       </div>
     );
   }
+  gatewayLanguage() {
+    if(!this.props.check.gatewayLanguage)
+      return undefined;
+    return (
+      <div>
+        <span style={{fontWeight: "bold"}}>Verse: </span><br />{this.props.check.gatewayLanguage}
+      </div>
+    )
+  }
   commentsDiv() {
     if(!this.props.check.comment)
       return undefined;
@@ -205,6 +214,9 @@ class ReportItem extends React.Component {
         <br />
         </Row>
         <Row className="show-grid">
+        <Col xs={12} md={12} lg={12}>
+          {this.gatewayLanguage()}
+        </Col>
         <Col xs={4} md={4} lg={4}>
           {this.selectedWordsDiv()}
         </Col>

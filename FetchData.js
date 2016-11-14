@@ -97,7 +97,16 @@ var parseObject = function (object) {
 function saveData(phraseObject, params, onCompleteFunction) {
   api.putDataInCheckStore('TranslationNotesChecker', 'book', api.convertToFullBookName(params.bookAbbr));
   //TODO: This shouldn't be put in check store because we don't want it to be saved
-  api.putDataInCheckStore('TranslationNotesChecker', 'groups', phraseObject['groups']);
+  var groups = phraseObject['groups'];
+  var gatewayLanguage = api.getDataFromCommon('gatewayLanguage');
+  for (var group in groups) {
+    for (var item in groups[group].checks) {
+      var checkObject = groups[group].checks[item];
+      var gatewayAtVerse = gatewayLanguage[checkObject.chapter][checkObject.verse];
+      groups[group].checks[item].gatewayLanguage = gatewayAtVerse;
+    }
+  }
+  api.putDataInCheckStore('TranslationNotesChecker', 'groups', groups);
   api.putDataInCheckStore('TranslationNotesChecker', 'currentCheckIndex', 0);
   api.putDataInCheckStore('TranslationNotesChecker', 'currentGroupIndex', 0);
   onCompleteFunction(null);
