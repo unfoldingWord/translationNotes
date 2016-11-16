@@ -13,7 +13,7 @@ const DataFetcher = function (params, progress, onComplete) {
   var chapterData = {};
   onCompleteFunction = onComplete;
     //progress(done / total * 100);
-    var book = getULBFromDoor43Static(params.bookAbbr);
+    var book = getULBFromDoor43Static(params.bookAbr);
       //check to see if gatewayLanguage has already been loaded
       var gatewayLanguage = api.getDataFromCommon('gatewayLanguage');
       if (!gatewayLanguage) {
