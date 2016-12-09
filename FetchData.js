@@ -75,14 +75,14 @@ var parseObject = function (object) {
     var newGroup = { group: type, checks: [] };
     for (let verse of object[type].verses) {
       let newVerse = Object.assign({}, verse);
-      // i spent probably two hours trying to figure out
-      // why my chapter and verse references were 1 off
-      // i found why
-      // #stopsamfaulkner2016
-      //newVerse.chapter += 1;
-      //newVerse.verse += 1;
       newVerse.flagged = false;
       newVerse.checkStatus = "UNCHECKED";
+      newVerse.spelling = false;
+      newVerse.wordChoice = false;
+      newVerse.punctuation = false;
+      newVerse.meaning = false;
+      newVerse.grammar = false;
+      newVerse.other = false;
       newVerse.retained = "";
       newVerse.comments = "";
       newVerse.group = type;
