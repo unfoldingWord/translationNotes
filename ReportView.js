@@ -246,7 +246,7 @@ class ReportItem extends React.Component {
           {this.proposedChangesDiv()}
         </Col>
         <Col xs={4} md={4} lg={4}>
-        {this.retainedMeaningDiv()}
+        {this.checkBoxesDiv()}
         </Col>
         <Col xs={12} md={12} lg={12}>
         <div style={{width: "100%"}}>
