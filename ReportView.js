@@ -149,13 +149,35 @@ class ReportItem extends React.Component {
     );
   }
 
-  retainedMeaningDiv(){
-    if(!this.props.check.retained)
-      return undefined;
+  checkBoxesDiv(){
+    let checkBoxesMarked = [];
+    if(this.props.check.spelling){
+      checkBoxesMarked.push(<li>Spelling</li>);
+    }
+    if(this.props.check.wordChoice){
+      checkBoxesMarked.push(<li>Word Choice</li>);
+    }
+    if(this.props.check.punctuation){
+      checkBoxesMarked.push(<li>Punctuation</li>);
+    }
+    if(this.props.check.meaning){
+      checkBoxesMarked.push(<li>Meaning</li>);
+    }
+    if(this.props.check.grammar){
+      checkBoxesMarked.push(<li>Grammar</li>);
+    }
+    if(this.props.check.other){
+      checkBoxesMarked.push(<li>other undifined issues</li>);
+    }
     return (
-    <div>
-      <span style={{fontWeight: "bold"}}>The figure has been: </span><br />{this.props.check.retained}
-    </div>
+      <div>
+        <span style={{fontWeight: "bold"}}>
+          Proposed Changes address:
+        </span><br />
+        <ul>
+        {checkBoxesMarked}
+        </ul>
+      </div>
     );
   }
 
