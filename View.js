@@ -5,7 +5,7 @@ const api = window.ModuleApi;
 const React = api.React;
 
 //Modules not defined within translationNotes_Check_plugin
-var TPane = null;
+var scripturePane = null;
 var ProposedChanges = null;
 var CommentBox = null;
 var TranslationAcademy = null;
@@ -34,7 +34,7 @@ class View extends React.Component {
     this.state = {
       currentCheck: null,
     }
-    TPane = api.getModule('TPane');
+    scripturePane = api.getModule('scripturePane');
     ProposedChanges = api.getModule('ProposedChanges');
     CommentBox = api.getModule('CommentBox');
     TranslationAcademy = api.getModule('TranslationAcademy');
@@ -294,7 +294,7 @@ class View extends React.Component {
       var checkStatus = this.state.currentCheck.checkStatus;
       return (
         <div>
-          <TPane />
+          <scripturePane />
           <Row className="show-grid" style={{ marginTop: '25px' }}>
             <h3 style={{ margin: '5px 0 5px 20px', width: '100%', fontWeight: 'bold', fontSize: '28px' }}>
               <span style={{ color: '#44c6ff' }}>
