@@ -285,6 +285,10 @@ class View extends React.Component {
    * @description - Defines how the entire page will display, minus the Menu and Navbar
    */
   render() {
+    //this may be temporary
+    let proposedChangesStore = api.getDataFromCheckStore('ProposedChanges');
+    //this may be temporary
+    let commentBoxStore = api.getDataFromCheckStore('CommentBox');
     if (!this.state.currentCheck) {
       return (<div></div>);
     }
@@ -313,7 +317,8 @@ class View extends React.Component {
               <CheckStatusButtons updateCheckStatus={this.updateCheckStatus.bind(this) }
                 getCurrentCheck={this.getCurrentCheck.bind(this) }
                 />
-              <ProposedChanges getCurrentCheck={this.getCurrentCheck.bind(this)} />
+                <ProposedChanges currentCheck={this.state.currentCheck}
+                                 proposedChangesStore={proposedChangesStore} />
             </Col>
             <Col md={6} style={{ paddingLeft: '2.5px' }}>
               <ConfirmDisplay
@@ -325,7 +330,8 @@ class View extends React.Component {
           </Row>
           <Row className="show-grid">
             <Col md={12}>
-              <CommentBox val={this.state.currentCheck.comment || ""} ref={"CommentBox"} />
+              <CommentBox currentCheck={this.state.currentCheck}
+                          commentBoxStore={commentBoxStore} />
             </Col>
           </Row>
         </div>
