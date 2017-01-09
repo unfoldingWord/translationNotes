@@ -5,7 +5,7 @@ const api = window.ModuleApi;
 const React = api.React;
 
 //Modules not defined within translationNotes_Check_plugin
-var scripturePane = null;
+var ScripturePane = null;
 var ProposedChanges = null;
 var CommentBox = null;
 var TranslationAcademy = null;
@@ -34,7 +34,7 @@ class View extends React.Component {
     this.state = {
       currentCheck: null,
     }
-    scripturePane = api.getModule('scripturePane');
+    ScripturePane = api.getModule('ScripturePane');
     ProposedChanges = api.getModule('ProposedChanges');
     CommentBox = api.getModule('CommentBox');
     TranslationAcademy = api.getModule('TranslationAcademy');
