@@ -294,7 +294,7 @@ class View extends React.Component {
       var checkStatus = this.state.currentCheck.checkStatus;
       return (
         <div>
-          <scripturePane />
+          <ScripturePane currentCheck={this.state.currentCheck} />
           <Row className="show-grid" style={{ marginTop: '25px' }}>
             <h3 style={{ margin: '5px 0 5px 20px', width: '100%', fontWeight: 'bold', fontSize: '28px' }}>
               <span style={{ color: '#44c6ff' }}>
