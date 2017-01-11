@@ -5,9 +5,9 @@
   "title": "translationNotes Check",
   "include": {
     "TranslationAcademy": "1.0.0",
+    "ProposedChanges": "1.0.2",
     "ScripturePane": "1.0.2",
-    "CommentBox": "1.0.2",
-    "ProposedChanges": "1.0.2"
+    "CommentBox": "1.0.2"
   },
   "main": "View.js",
   "display": "app",
