@@ -9,7 +9,7 @@
     "ScripturePane": "1.0.2",
     "CommentBox": "1.0.2"
   },
-  "main": "View.js",
+  "main": "Container.js",
   "display": "app",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
