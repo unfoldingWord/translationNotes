@@ -4,29 +4,30 @@ const api = window.ModuleApi;
 const React = api.React;
 const ReactBootstrap = api.ReactBootstrap;
 
-var natural = require('natural');
-var XRegExp = require('xregexp');
-var nonUnicodeLetter = XRegExp('\\PL');
+let natural = require('natural');
+let XRegExp = require('xregexp');
+let nonUnicodeLetter = XRegExp('\\PL');
 
 //Wordlength tokenizer
 const tokenizer = new natural.RegexpTokenizer({pattern: nonUnicodeLetter});
 
-const GatewayVerseDisplay = React.createClass({
-  generateWordArray: function() {
-    var words = tokenizer.tokenize(this.props.verse),
+class GatewayVerseDisplay extends React.Component {
+
+  generateWordArray() {
+    let words = tokenizer.tokenize(this.props.gatewayVerse),
       wordArray = [],
       index = 0,
       tokenKey = 1,
       wordKey = 0;
-    for (var word of words) {
-      var wordIndex = this.props.verse.indexOf(word, index);
+    for (let word of words) {
+      let wordIndex = this.props.gatewayVerse.indexOf(word, index);
       if (wordIndex > index) {
         wordArray.push(
           <span
             key={wordKey++}
             style={this.cursorPointerStyle}
           >
-            {this.props.verse.substring(index, wordIndex)}
+            {this.props.gatewayVerse.substring(index, wordIndex)}
           </span>
         );
       }
@@ -35,10 +36,9 @@ const GatewayVerseDisplay = React.createClass({
       index = wordIndex + word.length;
     }
     return wordArray;
-  },
+  }
 
-  render: function() {
-    var words = this.generateWordArray();
+  render(){
     return (
       <div
         bsSize={'small'}
@@ -50,11 +50,19 @@ const GatewayVerseDisplay = React.createClass({
           padding: '9px'
         }}
       >
-        <h4 style={{marginTop: "0px"}}>{this.props.currentVerse}</h4>
-        <span>{words}</span>
+        <h4 style={{marginTop: "0px"}}>
+        {this.props.currentCheck.book
+         + " " + this.props.currentCheck.chapter
+         + ":" + this.props.currentCheck.gatewayVerse
+         + (this.props.currentCheck.verseEnd ? "-"
+         + this.props.currentCheck.verseEnd : "")}
+        </h4>
+        <span>
+          {this.generateWordArray()}
+        </span>
       </div>
     );
-  },
-});
+  }
+}
 
 module.exports = GatewayVerseDisplay;
