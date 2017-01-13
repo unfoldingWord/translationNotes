@@ -7,6 +7,14 @@ const Parser = require('./parsers/tNParser.js');
 const Door43DataFetcher = require('./parsers/Door43DataFetcher.js');
 
 const DataFetcher = function (params, progress, onComplete) {
+  /**
+  * @description This fetches the data for translationHelps (TranslationAcademy
+  * specifically)
+  *******************************************************************************/
+  var sectionList = require('./static/SectionList.json');
+  var tASectionList = sectionList.sectionList;
+  api.putDataInCheckStore('TranslationHelps', 'sectionList', tASectionList);
+
   var phraseData;
   params = params;
   var DoorDataFetcher = new Door43DataFetcher();
@@ -34,9 +42,9 @@ const DataFetcher = function (params, progress, onComplete) {
         newStructure.title = api.convertToFullBookName(params.bookAbbr);
         api.putDataInCommon('gatewayLanguage', newStructure);
       }
-      chapterData = DoorDataFetcher.getTNFromBook(book, params.bookAbbr);
-      phraseData = parseObject(chapterData);
-      saveData(phraseData, params, onComplete);
+  chapterData = DoorDataFetcher.getTNFromBook(book, params.bookAbbr);
+  phraseData = parseObject(chapterData, tASectionList);
+  saveData(phraseData, params, onComplete);
 };
 
 function getULBFromDoor43Static(bookAbr) {
@@ -68,14 +76,21 @@ function getULBFromDoor43Static(bookAbr) {
   return ULB;
 }
 
-var parseObject = function (object) {
+var parseObject = function (object, tASectionList) {
   let phraseObject = {};
   phraseObject["groups"] = [];
   for (let type in object) {
     var newGroup = { group: type, checks: [] };
+    //parsing the headers/phrases removing uncessesary and messy data
+    let typeMD = type + ".md";
+      for(var sectionFileName in tASectionList) {
+        if(sectionFileName === typeMD){
+          var titleKeyAndValue = tASectionList[sectionFileName]['file'].match(/title: .*/)[0];
+          var title = titleKeyAndValue.substr(titleKeyAndValue.indexOf(':') + 1);
+        }
+      }
     for (let verse of object[type].verses) {
       let newVerse = Object.assign({}, verse);
-      newVerse.flagged = false;
       newVerse.checkStatus = "UNCHECKED";
       newVerse.spelling = false;
       newVerse.wordChoice = false;
@@ -83,9 +98,9 @@ var parseObject = function (object) {
       newVerse.meaning = false;
       newVerse.grammar = false;
       newVerse.other = false;
-      newVerse.retained = "";
-      newVerse.comments = "";
-      newVerse.group = type;
+      newVerse.proposedChanges = "";
+      newVerse.comment = "";
+      newVerse.groupName = title;
       newGroup.checks.push(newVerse);
     }
     phraseObject["groups"].push(newGroup);

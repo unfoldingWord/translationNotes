@@ -1,15 +1,15 @@
 {
   "name": "TranslationNotesChecker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a tool to check the grammatical structure of phrases.",
   "title": "translationNotes Check",
   "include": {
-    "TranslationAcademy": "1.0.0",
+    "TranslationHelps": "1.0.0",
     "ProposedChanges": "1.0.2",
     "ScripturePane": "1.0.2",
     "CommentBox": "1.0.2"
   },
-  "main": "View.js",
+  "main": "Container.js",
   "display": "app",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

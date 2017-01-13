@@ -1,346 +1,119 @@
-//View.js//
-
+/**
+ * @description:
+ *  This class defines the entire view for translationNotes tool
+ */
 //Api Consts
 const api = window.ModuleApi;
 const React = api.React;
-
-//Modules not defined within translationNotes_Check_plugin
-var ScripturePane = null;
-var ProposedChanges = null;
-var CommentBox = null;
-var TranslationAcademy = null;
-
-//Bootstrap consts
 const RB = api.ReactBootstrap;
-const {Row, Col} = RB;
-
-//Modules that are defined within translationNotes_Check_plugin
+//Bootstrap consts
+const {Row, Col, Tabs, Tab, Glyphicon} = RB;
+//Modules not defined within translationNotes
+let ScripturePane = null;
+let ProposedChanges = null;
+let CommentBox = null;
+let TranslationHelps = null;
+//Components
+const DragTargetVerseDisplay = require('./subcomponents/BareTargetVerseDisplay');
 const ClickTargetVerseDisplay = require('./subcomponents/TargetVerseDisplay');
-const DragTargetVerseDisplay = require('./BareTargetVerseDisplay');
 const GatewayVerseDisplay = require('./subcomponents/GatewayVerseDisplay.js');
-const ConfirmDisplay = require('./subcomponents/ConfirmDisplay');
 const CheckStatusButtons = require('./subcomponents/CheckStatusButtons');
-const EventListeners = require('./ViewEventListeners.js');
-//String constants
-const NAMESPACE = "TranslationNotesChecker",
-  UNABLE_TO_FIND_LANGUAGE = "Unable to find language from the store";
+const ConfirmDisplay = require('./subcomponents/ConfirmDisplay');
+const style = require('./css/Style');
 
-/**
- * @description - This class defines the entire view for the TranslationNotes Check Module
- */
+
 class View extends React.Component {
-  constructor() {
+  constructor(){
     super();
-    this.state = {
-      currentCheck: null,
-    }
     ScripturePane = api.getModule('ScripturePane');
     ProposedChanges = api.getModule('ProposedChanges');
     CommentBox = api.getModule('CommentBox');
-    TranslationAcademy = api.getModule('TranslationAcademy');
-
-    this.updateState = this.updateState.bind(this);
-    this.goToNextListener = EventListeners.goToNext.bind(this);
-    this.goToPreviousListener = EventListeners.goToPrevious.bind(this);
-    this.goToCheckListener = EventListeners.goToCheck.bind(this);
-    this.changeCurrentCheckInCheckStore = this.changeCurrentCheckInCheckStore.bind(this);
-    this.changeCheckTypeListener = EventListeners.changeCheckType.bind(this);
-    this.getTargetVerseDisplay = this.getTargetVerseDisplay.bind(this);
+    TranslationHelps = api.getModule('TranslationHelps');
   }
-
-  componentWillMount() {
-    this.updateState();
-    api.registerEventListener('goToNext', this.goToNextListener);
-    api.registerEventListener('goToPrevious', this.goToPreviousListener);
-    api.registerEventListener('goToCheck', this.goToCheckListener);
-    api.registerEventListener('changeCheckType', this.changeCheckTypeListener);
-    api.registerEventListener('phraseDataLoaded', this.updateState);
-  }
-
-  componentDidMount() {
-    //this should already be set in the state from componentWillMount
-    var currentCheck = this.state.currentCheck;
-    if (currentCheck) {
-      //Let T Pane know to scroll to are current verse
-      api.emitEvent('goToVerse', { chapterNumber: currentCheck.chapter, verseNumber: currentCheck.verse });
+  render(){
+    let TargetVerseDisplay = null;
+    if(this.props.dragToSelect){
+      TargetVerseDisplay = <DragTargetVerseDisplay
+                                verse={this.props.targetVerse}
+                                updateSelectedWords={this.props.updateSelectedWords.bind(this)}
+                                style={style.targetVerse}
+                                currentCheck={this.props.currentCheck}
+                                direction={this.props.direction}
+                                bookName={this.props.bookName}
+                           />
+    }else {
+      TargetVerseDisplay = <ClickTargetVerseDisplay
+                                verse={this.props.targetVerse}
+                                updateSelectedWords={this.props.updateSelectedWords.bind(this)}
+                                style={style.targetVerse}
+                                currentCheck={this.props.currentCheck}
+                                direction={this.props.direction}
+                                bookName={this.props.bookName}
+                            />
     }
-  }
-
-  componentWillUnmount() {
-    api.removeEventListener('goToNext', this.goToNextListener);
-    api.removeEventListener('goToPrevious', this.goToPreviousListener);
-    api.removeEventListener('goToCheck', this.goToCheckListener);
-    api.removeEventListener('changeCheckType', this.changeCheckTypeListener);
-    api.removeEventListener('phraseDataLoaded', this.updateState);
-  }
-
-  getCurrentCheck() {
-    var groups = api.getDataFromCheckStore(NAMESPACE, 'groups');
-    var currentGroupIndex = api.getDataFromCheckStore(NAMESPACE, 'currentGroupIndex');
-    var currentCheckIndex = api.getDataFromCheckStore(NAMESPACE, 'currentCheckIndex');
-    var currentCheck = groups[currentGroupIndex]['checks'][currentCheckIndex];
-    return currentCheck;
-  }
-
-  updateUserAndTimestamp() {
-    let currentCheck = this.getCurrentCheck();
-    let currentUser = api.getLoggedInUser();
-    let timestamp = new Date();
-    currentCheck.user = currentUser;
-    currentCheck.timestamp = timestamp;
-  }
-
-  /**
-   * @description - updates the status of the check that is the current check in the check store
-   * @param {object} newCheckStatus - the new status chosen by the user
-   */
-  updateCheckStatus(newCheckStatus, selectedWords) {
-    var groups = api.getDataFromCheckStore(NAMESPACE, 'groups');
-    var currentGroupIndex = api.getDataFromCheckStore(NAMESPACE, 'currentGroupIndex');
-    var currentCheckIndex = api.getDataFromCheckStore(NAMESPACE, 'currentCheckIndex');
-    var currentCheck = groups[currentGroupIndex]['checks'][currentCheckIndex];
-    if (currentCheck.checkStatus) {
-      currentCheck.checkStatus = newCheckStatus;
-      api.emitEvent('changedCheckStatus', {
-        groupIndex: currentGroupIndex,
-        checkIndex: currentCheckIndex,
-        checkStatus: newCheckStatus,
-      });
-      this.updateUserAndTimestamp();
-    }
-    this.updateState();
-    api.Toast.info('Current check was marked as:', newCheckStatus, 2);
-  }
-
-  updateSelectedWords(selectedWords, selectedWordsRaw, selectionRange = [0, 0]) {
-    var currentCheck = this.getCurrentCheck();
-    currentCheck.selectedWords = selectedWords;
-    //This is needed to make the display persistent, but won't be needed in reports
-    currentCheck.selectedWordsRaw = selectedWordsRaw;
-    currentCheck.selectionRange = selectionRange;
-    this.updateUserAndTimestamp();
-  }
-
-
-  /**
-   * @description - This is used to change our current check index and group index within the store
-   * @param {object} newGroupIndex - the group index of the check selected in the navigation menu
-   * @param {object} newCheckIndex - the group index of the check selected in the navigation menu
-   */
-  changeCurrentCheckInCheckStore(newGroupIndex, newCheckIndex) {
-    let comment = this.refs.CommentBox.getComment();
-    let currentCheck = this.getCurrentCheck();
-    let loggedInUser = api.getLoggedInUser();
-    let userName = loggedInUser ? loggedInUser.userName : 'GUEST_USER';
-
-    if (currentCheck) {
-      if (comment && comment != "") {
-        currentCheck.comment = comment;
-        this.refs.CommentBox.setComment("");
-      }
-    }
-
-    var groups = api.getDataFromCheckStore(NAMESPACE, 'groups');
-    var currentGroupIndex = api.getDataFromCheckStore(NAMESPACE, 'currentGroupIndex');
-    var currentCheckIndex = api.getDataFromCheckStore(NAMESPACE, 'currentCheckIndex');
-    //error check to make sure we're going to a legal group/check index
-    if (newGroupIndex !== undefined && newCheckIndex !== undefined) {
-      if (newGroupIndex < groups.length) {
-        api.putDataInCheckStore(NAMESPACE, 'currentGroupIndex', newGroupIndex);
-        if (newCheckIndex < groups[currentGroupIndex].checks.length) {
-          api.putDataInCheckStore(NAMESPACE, 'currentCheckIndex', newCheckIndex);
-        }
-        /* In the case that we're incrementing the check and now we're out of bounds
-         * of the group, we increment the group.
-         */
-        else if (newCheckIndex == groups[currentGroupIndex].checks.length &&
-          currentGroupIndex < groups.length - 1) {
-          api.putDataInCheckStore(NAMESPACE, 'currentGroupIndex', currentGroupIndex + 1);
-          api.putDataInCheckStore(NAMESPACE, 'currentCheckIndex', 0);
-        }
-        /* In the case that we're decrementing the check and now we're out of bounds
-          * of the group, we decrement the group.
-          */
-        else if (newCheckIndex == -1 && currentGroupIndex >= 0) {
-          var newGroupLength = groups[currentGroupIndex - 1].checks.length;
-          api.putDataInCheckStore(NAMESPACE, 'currentGroupIndex', currentGroupIndex - 1);
-          api.putDataInCheckStore(NAMESPACE, 'currentCheckIndex', newGroupLength - 1);
-        }
-        //invalid indices: don't do anything else
-        else {
-          return;
-        }
-      }
-    }
-    //Save Project
-    var commitMessage = 'user: ' + userName + ', namespace: ' + NAMESPACE +
-      ', group: ' + currentGroupIndex + ', check: ' + currentCheckIndex;
-    api.saveProject(commitMessage);
-    //Display toast notification
-    if (currentCheck.checkStatus !== 'UNCHECKED' || currentCheck.comment != undefined) {
-      api.Toast.success('Check data was successfully saved', '', 2);
-    }
-    // Update state to render the next check
-    this.updateState();
-  }
-
-  /**
-   * @description - This method grabs the information that is currently in the
-   * store and uses it to update our state which in turn updates our view. This method is
-   * typically called after the store is updated so that our view updates to the latest
-   * data found in the store
-   */
-  updateState() {
-    var currentGroupIndex = api.getDataFromCheckStore(NAMESPACE, 'currentGroupIndex');
-    var currentCheckIndex = api.getDataFromCheckStore(NAMESPACE, 'currentCheckIndex');
-    if (currentGroupIndex === null || currentCheckIndex === null) {
-      console.warn("TranslationNotes Check wasn't able to retrieve it's indices");
-      return;
-    }
-    var currentCheck = api.getDataFromCheckStore(NAMESPACE, 'groups')[currentGroupIndex]['checks'][currentCheckIndex];
-    var currentWord = api.getDataFromCheckStore(NAMESPACE, 'groups')[currentGroupIndex].group;
-        var emitEvent = function() {
-      api.emitEvent('goToVerse', { chapterNumber: currentCheck.chapter, verseNumber: currentCheck.verse, verseEnd: currentCheck.verseEnd });
-    }
-    this.setState({
-      book: api.getDataFromCheckStore(NAMESPACE, 'book'),
-      currentCheck: currentCheck,
-      currentWord: currentWord,
-      currentFile: this.getFile(currentWord)
-    }, emitEvent());
-    if (this.refs.CommentBox) {
-      this.refs.CommentBox.setComment(currentCheck.comment || "");
-    }
-  }
-
-  /**
-   * @description - This retrieves the translationAcademy file from the store so that we
-   * can pass it as a prop to the TranslationAcademy
-   */
-  getFile(currentWord) {
-    var TranslationAcademyObject = api.getDataFromCheckStore('TranslationAcademy', 'sectionList');
-    var file = currentWord + ".md";
-    return TranslationAcademyObject[file].file;
-  }
-
-  getVerse(language) {
-    var currentCheck = this.state.currentCheck;
-    var currentVerseNumber = currentCheck.verse;
-    var verseEnd = currentCheck.verseEnd || currentVerseNumber;
-    var currentChapterNumber = currentCheck.chapter;
-    var desiredLanguage = api.getDataFromCommon(language);
-    try {
-      if (desiredLanguage) {
-        let verse = "";
-        for (let v = currentVerseNumber; v <= verseEnd; v++) {
-          verse += (desiredLanguage[currentChapterNumber][v] + " \n ");
-        }
-        return verse;
-      }
-    }
-    catch (e) {
-
-    }
-  }
-
-  getTargetVerseDisplay() {
-    var targetVerse = this.getVerse('targetLanguage');
-    if (api.getSettings('textSelect') == 'drag') {
-      return (
-        <DragTargetVerseDisplay
-          currentVerse={this.state.currentCheck.book
-            + " " + this.state.currentCheck.chapter
-            + ":" + this.state.currentCheck.verse + (this.state.currentCheck.verseEnd ? "-" + this.state.currentCheck.verseEnd : "") }
-          verse={targetVerse}
-          ref={"TargetVerseDisplay"}
-          onWordSelected={this.updateSelectedWords.bind(this) }
-          style={{
-            minHeight: '120px',
-            margin: '0 2.5px 5px 0'
-          }}
-          currentCheck={this.state.currentCheck}
-          />
-      )
-    } else {
-      return (
-        <ClickTargetVerseDisplay
-          currentVerse={this.state.currentCheck.book
-            + " " + this.state.currentCheck.chapter
-            + ":" + this.state.currentCheck.verse + (this.state.currentCheck.verseEnd ? "-" + this.state.currentCheck.verseEnd : "") }
-          verse={targetVerse}
-          ref={"TargetVerseDisplay"}
-          onWordSelected={this.updateSelectedWords.bind(this) }
-          style={{
-            minHeight: '120px',
-            margin: '0 2.5px 5px 0'
-          }}
-          currentCheck={this.state.currentCheck}
-          />
-      )
-    }
-
-  }
-
-  /**
-   * @description - Defines how the entire page will display, minus the Menu and Navbar
-   */
-  render() {
-    //this may be temporary
-    let proposedChangesStore = api.getDataFromCheckStore('ProposedChanges');
-    //this may be temporary
-    let commentBoxStore = api.getDataFromCheckStore('CommentBox');
-    if (!this.state.currentCheck) {
-      return (<div></div>);
-    }
-    else {
-      var gatewayVerse = this.getVerse('gatewayLanguage');
-      var targetVerse = this.getVerse('targetLanguage');
-      var checkStatus = this.state.currentCheck.checkStatus;
-      return (
-        <div>
-          <ScripturePane currentCheck={this.state.currentCheck} />
-          <Row className="show-grid" style={{ marginTop: '25px' }}>
-            <h3 style={{ margin: '5px 0 5px 20px', width: '100%', fontWeight: 'bold', fontSize: '28px' }}>
-              <span style={{ color: '#44c6ff' }}>
-                translationNotes
-              </span> Check
-            </h3>
-            <Col md={6} className="confirm-area" style={{ paddingRight: "2.5px" }}>
-              <GatewayVerseDisplay
-                check={this.state.currentCheck}
-                verse={gatewayVerse}
-                currentVerse={this.state.currentCheck.book
-                  + " " + this.state.currentCheck.chapter
-                  + ":" + this.state.currentCheck.verse + (this.state.currentCheck.verseEnd ? "-" + this.state.currentCheck.verseEnd : "") }
-                />
-              {this.getTargetVerseDisplay() }
-              <CheckStatusButtons updateCheckStatus={this.updateCheckStatus.bind(this) }
-                getCurrentCheck={this.getCurrentCheck.bind(this) }
-                />
-                <ProposedChanges currentCheck={this.state.currentCheck}
-                                 proposedChangesStore={proposedChangesStore} />
-            </Col>
-            <Col md={6} style={{ paddingLeft: '2.5px' }}>
-              <ConfirmDisplay
-                phraseInfo={this.state.currentCheck.phraseInfo}
-                phrase={this.state.currentCheck.phrase}
-                />
-              <TranslationAcademy file={this.state.currentFile} style={{ width: "100%" }}/>
-            </Col>
-          </Row>
-          <Row className="show-grid">
-            <Col md={12}>
-              <CommentBox currentCheck={this.state.currentCheck}
-                          commentBoxStore={commentBoxStore} />
-            </Col>
-          </Row>
-        </div>
-      );
-    }
+    let proposedChangesGlyph = <Glyphicon glyph="pencil" style={{color: "#FFFFFF"}} />;
+    let commentGlyph = <Glyphicon glyph="comment" style={{color: "#FFFFFF"}} />;
+    return (
+      <div>
+        <ScripturePane currentCheck={this.props.currentCheck} />
+        <Row className="show-grid" style={{ marginTop: '0px' }}>
+          <div style={style.currentWordDiv}>
+            {this.props.currentCheck.groupName}
+          </div>
+          <Col sm={12} md={6} lg={4} style={{padding: '0px'}}>
+            <div style={{padding: '0px', height: "348px"}}>
+              {TargetVerseDisplay}
+            </div>
+            <div style={{padding: '0px'}}>
+              <CheckStatusButtons updateCheckStatus={this.props.updateCheckStatus.bind(this)}
+                                  currentCheck={this.props.currentCheck}/>
+            </div>
+          </Col>
+          <Col sm={12} md={6} lg={4} style={{padding: '0px', display: "flex"}}>
+              <Tabs activeKey={this.props.tabKey}
+                    onSelect={e => this.props.handleSelectTab(e)}
+                    id="controlled-tab-example"
+                    bsStyle='pills'
+                    style={{backgroundColor: "#747474"}}>
+                  <Tab eventKey={1} title={proposedChangesGlyph}
+                       style={style.tabStyling}>
+                    <ProposedChanges currentCheck={this.props.currentCheck}
+                                     proposedChangesStore={this.props.proposedChangesStore} />
+                  </Tab>
+                  <Tab eventKey={2} title={commentGlyph}
+                       style={style.tabStyling}>
+                     <CommentBox currentCheck={this.props.currentCheck}
+                                 commentBoxStore={this.props.commentBoxStore} />
+                  </Tab>
+              </Tabs>
+              <div style={style.buttonsDivPanel}>
+                <button onClick={this.props.goToPrevious}
+                        title="Click to go to the previous check"
+                        style={style.goToPreviousButton}>
+                  <Glyphicon glyph="chevron-up" style={style.buttonGlyphicons} />
+                </button>
+                <button onClick={this.props.goToNext}
+                        title="Click to go to the next check"
+                        style={style.goToNextButton}>
+                  <Glyphicon glyph="chevron-down" style={style.buttonGlyphicons} />
+                </button>
+              </div>
+          </Col>
+          <Col sm={12} md={6} lg={4} style={{padding: "0px"}}>
+            <div style={{height: "128px"}}>
+              <ConfirmDisplay phraseInfo={this.props.currentCheck.phraseInfo}
+                              phrase={this.props.currentCheck.phrase}
+              />
+            </div>
+            <div style={{height: "262px"}}>
+              <TranslationHelps currentFile={this.props.currentFile} />
+            </div>
+          </Col>
+        </Row>
+      </div>
+    );
   }
 }
 
-module.exports = {
-  name: NAMESPACE,
-  view: View
-}
+
+module.exports = View;

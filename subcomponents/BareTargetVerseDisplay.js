@@ -147,7 +147,6 @@ class TargetVerseDisplay extends React.Component{
               WebkitUserSelect: 'text',
               userSelect: "none",
             }}>
-                <h4>{this.props.currentVerse}</h4>
                 {/*This is the only way to use CSS psuedoclasses inline JSX*/}
                 <style dangerouslySetInnerHTML={{
                     __html: [
@@ -159,6 +158,9 @@ class TargetVerseDisplay extends React.Component{
                 </style>
                 <div className='highlighted'>
                     {this.getHighlightedWords()}
+                </div><br />
+                <div style={{float: "right"}}>
+                  {this.props.bookName + " " + chapter + ":" + verse}
                 </div>
             </div>
         )
