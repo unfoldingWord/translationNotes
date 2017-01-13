@@ -200,8 +200,10 @@ class Container extends React.Component {
       ', group: ' + currentGroupIndex + ', check: ' + currentCheckIndex;
     api.saveProject(commitMessage);
     //Display toast notification
-    if (currentCheck.checkStatus !== 'UNCHECKED') {
-      api.Toast.success('Check data was successfully saved', '', 2);
+    if(currentCheck.checkStatus){
+      if(currentCheck.checkStatus !== 'UNCHECKED'){
+        api.Toast.success('Check data was successfully saved', '', 2);
+      }
     }
     // Update state to render the next check
     this.updateState();
