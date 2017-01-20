@@ -51,61 +51,69 @@ class View extends React.Component {
                                 bookName={this.props.bookName}
                             />
     }
-    let proposedChangesGlyph = <Glyphicon glyph="pencil" style={{color: "#FFFFFF"}} />;
-    let commentGlyph = <Glyphicon glyph="comment" style={{color: "#FFFFFF"}} />;
+    let toolGlyph = <img src="images/tNIcon.png" style={{height: "25px"}}/>;
+    let proposedChangesGlyph = <Glyphicon glyph="pencil" style={{color: "#FFFFFF", fontSize: "20px"}} />;
+    let commentGlyph = <Glyphicon glyph="comment" style={{color: "#FFFFFF", fontSize: "20px"}} />;
+    let questionGlyph = <Glyphicon glyph="question-sign" style={{color: "#FFFFFF", fontSize: "20px"}} />;
     return (
       <div>
         <ScripturePane currentCheck={this.props.currentCheck} />
-        <Row className="show-grid" style={{ marginTop: '0px' }}>
-          <div style={style.currentWordDiv}>
-            {this.props.currentCheck.groupName}
-          </div>
-          <Col sm={12} md={6} lg={4} style={{padding: '0px'}}>
-            <div style={{padding: '0px', height: "348px"}}>
-              {TargetVerseDisplay}
-            </div>
-            <div style={{padding: '0px'}}>
+        <Row className="show-grid" style={{marginTop: '0px', bottom: "0px",  height: "calc(100vh - 256px)", backgroundColor: "#333333"}}>
+          <Col sm={12} md={6} lg={8} style={{height: "100%", padding: '0px',
+                   borderLeft: "20px solid #0277BD", borderTop: "20px solid #0277BD", borderRight: "20px solid #0277BD"}}>
+            <div style={{padding: '10px', display: "flex", backgroundColor: "#FFFFFF"}}>
+              <div style={{padding: '0px', display: "box"}}>
+                <h4>Target Language</h4>
+                {TargetVerseDisplay}
+              </div>
               <CheckStatusButtons updateCheckStatus={this.props.updateCheckStatus.bind(this)}
-                                  currentCheck={this.props.currentCheck}/>
+                                  currentCheck={this.props.currentCheck}
+                                  goToNext={this.props.goToNext}
+                                  goToPrevious={this.props.goToPrevious}
+              />
             </div>
-          </Col>
-          <Col sm={12} md={6} lg={4} style={{padding: '0px', display: "flex"}}>
               <Tabs activeKey={this.props.tabKey}
                     onSelect={e => this.props.handleSelectTab(e)}
                     id="controlled-tab-example"
-                    bsStyle='pills'
-                    style={{backgroundColor: "#747474"}}>
-                  <Tab eventKey={1} title={proposedChangesGlyph}
-                       style={style.tabStyling}>
-                    <ProposedChanges currentCheck={this.props.currentCheck}
-                                     proposedChangesStore={this.props.proposedChangesStore} />
-                  </Tab>
-                  <Tab eventKey={2} title={commentGlyph}
-                       style={style.tabStyling}>
-                     <CommentBox currentCheck={this.props.currentCheck}
-                                 commentBoxStore={this.props.commentBoxStore} />
-                  </Tab>
+                    bsClass="newTabs"
+                    style={{backgroundColor: "#FFFFFF", width: "100%"}}>
+                <Tab eventKey={1} title={toolGlyph}
+                                      style={style.tabStyling}>
+                      <div style={{padding: "25px", height: "100%", backgroundColor: "#333333", boxSizing: "border-box"}}>
+                        <div style={style.currentWord}>
+                          <h4 style={{color: "#FFFFFF"}}>translationNotes</h4>
+                          <h5 style={{color: "#FFFFFF"}}>
+                            {'"' + this.props.currentCheck.groupName + '"'}
+                          </h5>
+                        </div>
+                        <ConfirmDisplay phraseInfo={this.props.currentCheck.phraseInfo}
+                                        phrase={this.props.currentCheck.phrase}/>
+                      </div>
+                </Tab>
+                <Tab eventKey={2} title={proposedChangesGlyph}
+                                      style={style.tabStyling}>
+                      <div style={{height: "100%", backgroundColor: "#333333", boxSizing: "border-box"}}>
+                        <ProposedChanges currentCheck={this.props.currentCheck}
+                                         proposedChangesStore={this.props.proposedChangesStore} />
+                      </div>
+                </Tab>
+                <Tab eventKey={3} title={commentGlyph}
+                                      style={style.tabStyling}>
+                      <div style={{height: "calc(100vh - 511px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
+                        <CommentBox currentCheck={this.props.currentCheck}
+                                    commentBoxStore={this.props.commentBoxStore} />
+                      </div>
+                </Tab>
+                <Tab eventKey={4} title={questionGlyph}
+                                          style={style.tabStyling}>
+                      <div style={{height: "100%", backgroundColor: "#333333", boxSizing: "border-box"}}>
+
+                      </div>
+                </Tab>
               </Tabs>
-              <div style={style.buttonsDivPanel}>
-                <button onClick={this.props.goToPrevious}
-                        title="Click to go to the previous check"
-                        style={style.goToPreviousButton}>
-                  <Glyphicon glyph="chevron-up" style={style.buttonGlyphicons} />
-                </button>
-                <button onClick={this.props.goToNext}
-                        title="Click to go to the next check"
-                        style={style.goToNextButton}>
-                  <Glyphicon glyph="chevron-down" style={style.buttonGlyphicons} />
-                </button>
-              </div>
           </Col>
           <Col sm={12} md={6} lg={4} style={{padding: "0px"}}>
-            <div style={{height: "128px"}}>
-              <ConfirmDisplay phraseInfo={this.props.currentCheck.phraseInfo}
-                              phrase={this.props.currentCheck.phrase}
-              />
-            </div>
-            <div style={{height: "262px"}}>
+            <div style={{height: "calc(100vh - 256px)"}}>
               <TranslationHelps currentFile={this.props.currentFile} />
             </div>
           </Col>
