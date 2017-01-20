@@ -2,11 +2,14 @@
 const api = window.ModuleApi;
 const React = api.React;
 const RB = api.ReactBootstrap;
-const {Glyphicon, Button, ButtonGroup} = RB;
+const {Glyphicon, Button, ButtonGroup, utils} = RB;
+const bootstrapUtils = utils.bootstrapUtils;
 const style = require('../css/style');
-
-const CORRECT = "Correct in Context",
-      FLAGGED = "Flag for Review";
+bootstrapUtils.addStyle(Button, 'correct');
+bootstrapUtils.addStyle(Button, 'flag');
+bootstrapUtils.addStyle(Button, 'darkGrey');
+bootstrapUtils.addStyle(Button, 'correctActive');
+bootstrapUtils.addStyle(Button, 'flagActive');
 
 class CheckStatusButtons extends React.Component{
   render(){
@@ -14,15 +17,65 @@ class CheckStatusButtons extends React.Component{
     let { checkStatus } = currentCheck;
     return (
       <div>
+      <style type="text/css">
+        {`
+          .btn-correct {
+            background-color: #747474;
+            color: white;
+          }
+          .btn-flag {
+            background-color: #747474;
+            color: white;
+          }
+          .btn-darkGrey {
+            background-color: #333333;
+            color: white;
+          }
+          .btn-correct:hover {
+            background-color: #4eba6f;
+          }
+          .btn-flag:hover {
+            background-color: #fdd910;
+          }
+          .btn-correctActive {
+            background-color: #4eba6f;
+          }
+          .btn-flagActive {
+            background-color: #fdd910;
+          }
+          .btn-darkGrey:hover {
+            background-color: #0277BD;
+          }
+          .btn:focus {
+            outline: none
+          }
+        `}
+      </style>
         <ButtonGroup style={style.checkStatusComponent.buttonGroup}>
-          <Button style={style.checkStatusComponent.buttons} bsStyle="success"
-                  className={checkStatus == 'CORRECT' ? 'active':''}
-                  onClick={this.props.updateCheckStatus.bind(this, 'CORRECT')}>
-            <Glyphicon glyph="ok" /> {CORRECT}</Button>
-          <Button style={style.checkStatusComponent.buttons} bsStyle="warning"
-                  className={checkStatus == 'FLAGGED' ? 'active':''}
-                  onClick={this.props.updateCheckStatus.bind(this, 'FLAGGED')}>
-            <Glyphicon glyph="flag" /> {FLAGGED}</Button>
+          <Button bsStyle="darkGrey"
+                  style={style.checkStatusComponent.buttonPrevious}
+                  onClick={this.props.goToPrevious}
+                  title="Click to go to the previous check">
+            <Glyphicon glyph="chevron-up" style={style.buttonGlyphicons} />
+          </Button>
+          <Button bsStyle={checkStatus == 'CORRECT' ? 'correctActive': "correct"}
+                  style={style.checkStatusComponent.buttons}
+                  onClick={this.props.updateCheckStatus.bind(this, 'CORRECT')}
+                  title="Click to mark as Correct in Context">
+            <Glyphicon glyph="ok" style={style.buttonGlyphicons}/>
+          </Button>
+          <Button bsStyle={checkStatus == 'FLAGGED' ? 'flagActive': "flag"}
+                  style={style.checkStatusComponent.buttons}
+                  onClick={this.props.updateCheckStatus.bind(this, 'FLAGGED')}
+                  title="Click to Flag for Review">
+            <Glyphicon glyph="flag" style={style.buttonGlyphicons}/>
+          </Button>
+          <Button bsStyle="darkGrey"
+                  style={style.checkStatusComponent.buttonNext}
+                  onClick={this.props.goToNext}
+                  title="Click to go to the next check">
+            <Glyphicon glyph="chevron-down" style={style.buttonGlyphicons} />
+          </Button>
         </ButtonGroup>
       </div>
     );

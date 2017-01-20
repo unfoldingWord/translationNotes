@@ -157,10 +157,7 @@ class TargetVerseDisplay extends React.Component{
                     }}>
                 </style>
                 <div className='highlighted'>
-                    {this.getHighlightedWords()}
-                </div><br />
-                <div style={{float: "right"}}>
-                  {this.props.bookName + " " + chapter + ":" + verse}
+                    {verse + " "}{this.getHighlightedWords()}
                 </div>
             </div>
         )
