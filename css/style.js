@@ -3,8 +3,8 @@ var style = {
     overflowY: "scroll",
     minWidth: "100%",
     padding: '9px',
-    minHeight: "258px",
-    maxHeight: "258px",
+    minHeight: "390px",
+    maxHeight: "390px",
     backgroundColor: "#c4c4c4"
   },
   targetVerseDisplayContent: {
@@ -16,25 +16,33 @@ var style = {
   },
   checkStatusComponent: {
     buttonGroup:{
-      width:'100.5%',
-      paddingBottom: "2.5px"
+      padding: "0px",
+      width: "85px"
     },
     buttons:{
-      width:'50%',
+      width:'100%',
       borderRadius: "0px",
       padding: "10px"
+    },
+    buttonPrevious: {
+      marginLeft: "-1px",
+      width:'100%',
+      borderRadius: "0px",
+      padding: "8px"
+    },
+    buttonNext:{
+      width:'100%',
+      borderRadius: "0px",
+      padding: "8px"
     },
   },
   targetVerse:{
     minHeight: '120px',
     margin: '0 2.5px 5px 0'
   },
-  currentWordDiv:{
-    width: "100%",
-    height: "40px",
-    backgroundColor: "#333333",
+  currentWord:{
     color: "#FFFFFF",
-    padding: "7px",
+    padding: "0px",
     boxSizing: "border-box",
     fontSize: "20px"
   },
@@ -43,27 +51,14 @@ var style = {
     backgroundColor: "#333333",
   },
   buttonsDivPanel:{
-    width: "40px",
+    width: "100%",
     height: "390px",
     backgroundColor: "#747474",
     boxSizing: "border-box",
   },
-  goToPreviousButton:{
-    backgroundColor: "#333",
-    border: "none",
-    width: "100%",
-    height: "40px",
-  },
-  goToNextButton:{
-    backgroundColor: "#000",
-    border: "none",
-    width: "100%",
-    height: "40px",
-    transform: "translate(0, 310px)",
-  },
   buttonGlyphicons:{
     color: "#FFFFFF",
-    fontSize: "28px"
+    fontSize: "20px"
   },
 }
 
