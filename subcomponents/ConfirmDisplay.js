@@ -5,10 +5,10 @@ const React = api.React;
 class ConfirmDisplay extends React.Component{
   render(){
     return (
-      <div style={{padding: '9px', overflowY: "scroll", width: "100%", maxHeight: "128px", minHeight: "128px"}}>
-        <span style={{marginTop: "0px", backgroundColor: "yellow"}}>
+      <div style={{fontSize: "14px", color: "#FFFFFF", overflowY: "scroll", width: "100%", height: "100%"}}>
+        <span style={{marginTop: "0px"}}>
           <strong>
-            {this.props.phrase}
+            {'"' + this.props.phrase + '"'}
           </strong>
         </span><br />
         <span>
