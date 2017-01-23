@@ -94,6 +94,7 @@ class View extends React.Component {
                                       style={style.tabStyling}>
                       <div style={{height: "100%", backgroundColor: "#333333", boxSizing: "border-box"}}>
                         <ProposedChanges currentCheck={this.props.currentCheck}
+                                         updateCurrentCheck={this.props.updateCurrentCheck.bind(this)}
                                          proposedChangesStore={this.props.proposedChangesStore} />
                       </div>
                 </Tab>
@@ -101,6 +102,7 @@ class View extends React.Component {
                                       style={style.tabStyling}>
                       <div style={{height: "calc(100vh - 511px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
                         <CommentBox currentCheck={this.props.currentCheck}
+                                    updateCurrentCheck={this.props.updateCurrentCheck.bind(this)}
                                     commentBoxStore={this.props.commentBoxStore} />
                       </div>
                 </Tab>

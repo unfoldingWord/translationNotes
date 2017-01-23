@@ -158,7 +158,7 @@ class Container extends React.Component {
   /**
    * @description - This is used to change our current check index and group index within the store
    * @param {object} newGroupIndex - the group index of the check selected in the navigation menu
-   * @param {object} newCheckIndex - the group index of the check selected in the navigation menu
+   * @param {ob1ject} newCheckIndex - the group index of the check selected in the navigation menu
    */
   changeCurrentCheckInCheckStore(newGroupIndex, newCheckIndex) {
     let currentCheck = this.getCurrentCheck();
@@ -275,6 +275,14 @@ class Container extends React.Component {
      this.setState({tabKey});
   }
 
+  updateCurrentCheck(newCurrentCheck, proposedChangesField){
+    let currentCheck = this.getCurrentCheck();
+    currentCheck.proposedChanges = newCurrentCheck.proposedChanges;
+    currentCheck.comment = newCurrentCheck.comment;
+    currentCheck[proposedChangesField] = newCurrentCheck[proposedChangesField];
+    api.saveProject();
+  }
+
   render(){
     if (!this.state.currentCheck) {
       return (<div></div>);
@@ -293,6 +301,7 @@ class Container extends React.Component {
       return (
         <View
           currentCheck={this.state.currentCheck}
+          updateCurrentCheck={this.updateCurrentCheck.bind(this)}
           bookName={bookName}
           currentFile={this.state.currentFile}
           gatewayVerse={gatewayVerse}
