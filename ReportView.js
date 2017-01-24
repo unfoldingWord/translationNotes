@@ -152,22 +152,22 @@ class ReportItem extends React.Component {
   checkBoxesDiv(){
     let checkBoxesMarked = [];
     if(this.props.check.spelling){
-      checkBoxesMarked.push(<li>Spelling</li>);
+      checkBoxesMarked.push(<li key="Spelling">Spelling</li>);
     }
     if(this.props.check.wordChoice){
-      checkBoxesMarked.push(<li>Word Choice</li>);
+      checkBoxesMarked.push(<li key="WordChoice">Word Choice</li>);
     }
     if(this.props.check.punctuation){
-      checkBoxesMarked.push(<li>Punctuation</li>);
+      checkBoxesMarked.push(<li key="Punctuation">Punctuation</li>);
     }
     if(this.props.check.meaning){
-      checkBoxesMarked.push(<li>Meaning</li>);
+      checkBoxesMarked.push(<li key="Meaning">Meaning</li>);
     }
     if(this.props.check.grammar){
-      checkBoxesMarked.push(<li>Grammar</li>);
+      checkBoxesMarked.push(<li key="Grammar">Grammar</li>);
     }
     if(this.props.check.other){
-      checkBoxesMarked.push(<li>other undifined issues</li>);
+      checkBoxesMarked.push(<li key="other">other undefined issues</li>);
     }
     return (
       <div>
