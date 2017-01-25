@@ -137,29 +137,30 @@ class TargetVerseDisplay extends React.Component{
     }
 
     render(){
-        return (
-            <div style={{
-              padding: '9px',
-              minHeight: '128px',
-              direction: api.getDataFromCommon('params').direction == 'ltr' ? 'ltr' : 'rtl',
-              width: '100%',
-              marginBottom: '5px',
-              WebkitUserSelect: 'text',
-              userSelect: "none",
-            }}>
-                {/*This is the only way to use CSS psuedoclasses inline JSX*/}
-                <style dangerouslySetInnerHTML={{
-                    __html: [
-                        '.highlighted::selection {',
-                        '  background: yellow;',
-                        '}'
-                        ].join('\n')
-                    }}>
-                </style>
-                <div className='highlighted'>
-                    {verse + " "}{this.getHighlightedWords()}
-                </div>
-            </div>
+      let { verse } = this.props;
+      return (
+          <div style={{
+            padding: '9px',
+            minHeight: '128px',
+            direction: api.getDataFromCommon('params').direction == 'ltr' ? 'ltr' : 'rtl',
+            width: '100%',
+            marginBottom: '5px',
+            WebkitUserSelect: 'text',
+            userSelect: "none",
+          }}>
+              {/*This is the only way to use CSS psuedoclasses inline JSX*/}
+              <style dangerouslySetInnerHTML={{
+                  __html: [
+                      '.highlighted::selection {',
+                      '  background: yellow;',
+                      '}'
+                      ].join('\n')
+                  }}>
+              </style>
+              <div className='highlighted'>
+                  {verse + " "}{this.getHighlightedWords()}
+              </div>
+          </div>
         )
     }
 
