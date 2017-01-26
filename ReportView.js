@@ -8,7 +8,7 @@ const ReportFilters = api.ReportFilters;
 
 // TODO: Namespace needs to be hard linked with View.js
 const NAMESPACE = 'TranslationNotesChecker';
-const TITLE = ' translationNotes: ';
+const TITLE = 'translationNotes ';
 const extensionRegex = new RegExp('\\.\\w+\\s*$');
 
 function TranslationNotesReport(chapter, verse, query) {
@@ -52,9 +52,9 @@ function TranslationNotesReport(chapter, verse, query) {
     }
   }
   return (
-      <div style={{background:"rgb(68, 198, 255)", padding: "5px", paddingTop: "10px", marginBottom: "5px", color: "white"}}>
+      <div style={{background:"#0277BD", padding: "3px", paddingTop: "8px", marginBottom: "10px", color: "#FFFFFF"}}>
         <h3 style={{marginLeft: '5px', display: 'inline'}}>{TITLE}</h3>
-        <span style={{fontSize: "18px", color: "black"}}>{bookChapVer}</span>
+        <span style={{fontSize: "16px", color: "#FFFFFF"}}>{" " + bookChapVer}</span>
         <div className='pull-right'><h5>{numChecked}/{checks.length} Completed</h5></div>
         <br /><br />
         {checkList}
