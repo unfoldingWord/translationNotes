@@ -19,7 +19,7 @@ const ClickTargetVerseDisplay = require('./subcomponents/TargetVerseDisplay');
 const GatewayVerseDisplay = require('./subcomponents/GatewayVerseDisplay.js');
 const CheckStatusButtons = require('./subcomponents/CheckStatusButtons');
 const ConfirmDisplay = require('./subcomponents/ConfirmDisplay');
-const style = require('./css/Style');
+const style = require('./css/style');
 
 
 class View extends React.Component {
