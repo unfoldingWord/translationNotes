@@ -19,6 +19,7 @@ const ClickTargetVerseDisplay = require('./subcomponents/TargetVerseDisplay');
 const GatewayVerseDisplay = require('./subcomponents/GatewayVerseDisplay.js');
 const CheckStatusButtons = require('./subcomponents/CheckStatusButtons');
 const ConfirmDisplay = require('./subcomponents/ConfirmDisplay');
+const HelpInfo = require('./subcomponents/HelpInfo');
 const style = require('./css/style');
 
 
@@ -109,7 +110,7 @@ class View extends React.Component {
                 <Tab eventKey={4} title={questionGlyph}
                                           style={style.tabStyling}>
                       <div style={{height: "100%", backgroundColor: "#333333", boxSizing: "border-box"}}>
-
+                        <HelpInfo />
                       </div>
                 </Tab>
               </Tabs>
