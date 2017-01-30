@@ -110,9 +110,6 @@ class Container extends React.Component {
       this.addSelectedWord(wordObj, currentCheck);
     }
     this.updateState();
-    //the code below dont seen be needed
-    //currentCheck.selectedWords = selectedWords;
-    //currentCheck.selectionRange = selectionRange;
   }
 
   addSelectedWord(wordObj, currentCheck){

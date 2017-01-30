@@ -85,7 +85,9 @@ class TargetVerseDisplay extends React.Component{
             end: endsAt
         });
 
-        this.props.onWordSelected([text],[text],[beginsAt,endsAt]);
+        let currentCheck = this.getCurrentCheck();
+        currentCheck.selectionRange = [beginsAt, endsAt];
+        api.saveProject();
     }
 
     getWords(){
@@ -158,7 +160,7 @@ class TargetVerseDisplay extends React.Component{
                   }}>
               </style>
               <div className='highlighted'>
-                  {verse + " "}{this.getHighlightedWords()}
+                {this.getHighlightedWords()}
               </div>
           </div>
         )
