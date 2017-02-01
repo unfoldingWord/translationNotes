@@ -4,6 +4,7 @@ const React = api.React;
 
 class ConfirmDisplay extends React.Component{
   render(){
+    var phraseInfo = this.props.phraseInfo;
     return (
       <div style={{fontSize: "14px", color: "#FFFFFF", overflowY: "scroll", width: "100%", height: "100%"}}>
         <span style={{marginTop: "0px"}}>
@@ -12,7 +13,7 @@ class ConfirmDisplay extends React.Component{
           </strong>
         </span><br />
         <span>
-          {this.props.phraseInfo}
+          {phraseInfo.replace(/\(See:.*/g,"")}
         </span>
       </div>
     );
