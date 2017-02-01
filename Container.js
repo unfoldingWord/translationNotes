@@ -17,13 +17,6 @@ class Container extends React.Component {
     this.onCurrentCheckChange = this.onCurrentCheckChange.bind(this);
   }
 
-   getFile(currentWord) {
-     var currentWord = this.props.groups[this.props.currentGroupIndex].group;
-     var file = currentWord + ".md";
-     var TranslationAcademyObject = api.getDataFromCheckStore('TranslationHelps', 'sectionList');
-     return TranslationAcademyObject[file].file;
-   }
-
   saveProjectAndTimestamp(){
     let { currentCheck, userdata, currentGroupIndex, currentCheckIndex} = this.props;
     let currentUser;
@@ -49,7 +42,12 @@ class Container extends React.Component {
   updateCheckStatus(newCheckStatus) {
     let { currentCheck, currentGroupIndex, currentCheckIndex } = this.props;
     if (currentCheck.checkStatus) {
-      currentCheck.checkStatus = newCheckStatus;
+      if(currentCheck.checkStatus === newCheckStatus){
+        currentCheck.checkStatus = "UNCHECKED";
+        newCheckStatus = "UNCHECKED";
+      }else {
+        currentCheck.checkStatus = newCheckStatus;
+      }
       api.emitEvent('changedCheckStatus', {
         groupIndex: currentGroupIndex,
         checkIndex: currentCheckIndex,
