@@ -84,7 +84,6 @@ class View extends React.Component {
                         <div style={style.currentWord}>
                           <h4 style={{color: "#FFFFFF"}}>translationNotes</h4>
                           <h5 style={{color: "#FFFFFF"}}>
-                            {'"' + this.props.currentCheck.groupName + '"'}
                           </h5>
                         </div>
                         <ConfirmDisplay phraseInfo={this.props.currentCheck.phraseInfo}
