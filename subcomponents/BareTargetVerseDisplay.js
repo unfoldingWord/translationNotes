@@ -6,8 +6,8 @@
 const api = window.ModuleApi;
 const React = api.React;
 const ReactBootstrap = api.ReactBootstrap;
-
 const Well = ReactBootstrap.Well;
+const style = require('../css/style');
 
 class TargetVerseDisplay extends React.Component{
     constructor(){
@@ -105,6 +105,8 @@ class TargetVerseDisplay extends React.Component{
     }
 
     getHighlightedWords(){
+        let chapterNumber = this.props.currentCheck.chapter;
+        let verseNumber = this.props.currentCheck.verse;
         let verse = this.props.verse
         let range = this.getCurrentCheck().selectionRange;
         if(range){
@@ -112,7 +114,7 @@ class TargetVerseDisplay extends React.Component{
             let highlighted = verse.substring(range[0], range[1]);
             let after = verse.substring(range[1], verse.length);
             return(
-                <div>
+                <div>{chapterNumber + ":" + verseNumber + " "}
                     <span onMouseUp={() => this.textSelected("pre")}>
                         {before}
                     </span>
@@ -129,22 +131,19 @@ class TargetVerseDisplay extends React.Component{
             )
         }else{
             return(
-                <div>
-                    <span onMouseUp={() => this.textSelected()}>
-                         {verse}
-                    </span>
-                </div>
-            )
+              <span onMouseUp={() => this.textSelected()}>
+                   {chapterNumber + ":" + verseNumber + " " + verse}
+              </span>
+            );
         }
     }
 
     render(){
-      let { verse } = this.props;
       return (
           <div style={{
             padding: '9px',
             minHeight: '128px',
-            direction: api.getDataFromCommon('params').direction == 'ltr' ? 'ltr' : 'rtl',
+            direction: this.props.direction,
             width: '100%',
             marginBottom: '5px',
             WebkitUserSelect: 'text',
@@ -159,7 +158,7 @@ class TargetVerseDisplay extends React.Component{
                       ].join('\n')
                   }}>
               </style>
-              <div className='highlighted'>
+              <div className='highlighted' style={{}}>
                 {this.getHighlightedWords()}
               </div>
           </div>
