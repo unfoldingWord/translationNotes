@@ -17,6 +17,25 @@ class Container extends React.Component {
     this.onCurrentCheckChange = this.onCurrentCheckChange.bind(this);
   }
 
+  componentWillMount(){
+    let checkStatus = this.props.currentCheck.checkStatus;
+    if(checkStatus === "UNCHECKED"){
+      this.setState({tabKey: 1});
+    }else {
+      this.setState({tabKey: 2});
+    }
+  }
+
+  componentWillReceiveProps(nextProps) {
+    let checkStatus = nextProps.currentCheck.checkStatus;
+    if(checkStatus === "UNCHECKED"){
+      this.setState({tabKey: 1});
+    }else {
+      this.setState({tabKey: 2});
+    }
+  }
+
+
   saveProjectAndTimestamp(){
     let { currentCheck, userdata, currentGroupIndex, currentCheckIndex} = this.props;
     let currentUser;
