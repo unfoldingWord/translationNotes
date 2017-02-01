@@ -147,14 +147,16 @@ class Container extends React.Component {
     let currentCheck = this.props.currentCheck;
     currentCheck.proposedChanges = newCurrentCheck.proposedChanges;
     currentCheck.comment = newCurrentCheck.comment;
-    currentCheck[proposedChangesField] = newCurrentCheck[proposedChangesField];
+    if(proposedChangesField){
+      currentCheck[proposedChangesField] = newCurrentCheck[proposedChangesField];
+    }
     this.props.updateCurrentCheck(NAMESPACE, currentCheck);
     this.saveProjectAndTimestamp();
   }
 
   render(){
     let dragToSelect = false;
-    if(api.getSettings('textSelect') === 'drag'){
+    if(this.props.currentSettings.textSelect === 'drag'){
       dragToSelect = true;
     }
     let proposedChangesStore = api.getDataFromCheckStore('ProposedChanges');
