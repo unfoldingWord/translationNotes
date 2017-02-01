@@ -76,7 +76,7 @@ class TargetVerseDisplay extends React.Component {
         <div style={{direction: this.props.direction}}
              onMouseUp={this.textSelected}
              className="TargetVerseSelectionArea">
-             {verse + " "}{this.generateWordArray()}
+             {chapter + ":" + verse + " "}{this.generateWordArray()}
         </div>
       </div>
     );
