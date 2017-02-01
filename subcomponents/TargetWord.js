@@ -1,7 +1,4 @@
-
-
-const api = window.ModuleApi;
-const React = api.React;
+const React = require('react');
 
 /* Contains a word from the target language, defines a lot of listeners for clicks */
 class TargetWord extends React.Component {

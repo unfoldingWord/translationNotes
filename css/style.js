@@ -8,9 +8,10 @@ var style = {
     backgroundColor: "#c4c4c4"
   },
   targetVerseDisplayContent: {
-    fontSize: "20px",
+    fontSize: "16px",
     overflowY: "scroll",
     minHeight: '128px',
+    Width: '482px',
     marginBottom: '5px',
     padding: '9px'
   },

@@ -2,11 +2,7 @@
  * A more organic implementation of the Target Verse Display
  * Author: Luke Wilson
  */
-
-const api = window.ModuleApi;
-const React = api.React;
-const ReactBootstrap = api.ReactBootstrap;
-const Well = ReactBootstrap.Well;
+const React = require('react');
 const style = require('../css/style');
 
 class TargetVerseDisplay extends React.Component{
@@ -17,7 +13,6 @@ class TargetVerseDisplay extends React.Component{
             start: 0,
             end: 0
         }
-
         this.getSelectedWords = this.getSelectedWords.bind(this);
         this.textSelected = this.textSelected.bind(this);
         this.getWords = this.getWords.bind(this);
@@ -25,21 +20,16 @@ class TargetVerseDisplay extends React.Component{
     }
 
     componentWillMount(){
-        this.getSelectedWords();
+      this.getSelectedWords();
     }
 
     getSelectedWords(){
-        var checkIndex = api.getDataFromCheckStore('TranslationNotesChecker', 'currentCheckIndex');
-        var groupIndex = api.getDataFromCheckStore('TranslationNotesChecker', 'currentGroupIndex');
-        if(checkIndex != null && groupIndex != null){
-            var check = api.getDataFromCheckStore('TranslationNotesChecker', 'groups')[groupIndex].checks[checkIndex];
-            if(check && check.selectionRange){
-                this.setState({
-                    start: check.selectionRange[0],
-                    end: check.selectionRange[1]
-                });
-            }
-        }
+      let { currentCheck } = this.props;
+      currentCheck.selectionRange
+      this.setState({
+          start: currentCheck.selectionRange[0],
+          end: currentCheck.selectionRange[1]
+      });
     }
 
     clearSelection(){
@@ -51,12 +41,10 @@ class TargetVerseDisplay extends React.Component{
     }
 
     textSelected(selectionRelativity){
-
         //We reset the state here so that you cant highlight
         //something that is already highlighted (which caus
         //es a bug where the highlighted text renders twice)
         this.clearSelection();
-
         var text = "";
         var selection = window.getSelection();
         if(selection) {
@@ -78,16 +66,14 @@ class TargetVerseDisplay extends React.Component{
           endsAt = 0;
           selection = "";
         }
-
         this.setState({
             selection: text,
             start: beginsAt,
             end: endsAt
         });
-
-        let currentCheck = this.getCurrentCheck();
+        let currentCheck = this.props.currentCheck;
         currentCheck.selectionRange = [beginsAt, endsAt];
-        api.saveProject();
+        this.props.updateCurrentCheck(currentCheck);
     }
 
     getWords(){
@@ -96,30 +82,22 @@ class TargetVerseDisplay extends React.Component{
         return [this.state.selection];
     }
 
-    getCurrentCheck() {
-        var groups = api.getDataFromCheckStore('TranslationNotesChecker', 'groups');
-        var currentGroupIndex = api.getDataFromCheckStore('TranslationNotesChecker', 'currentGroupIndex');
-        var currentCheckIndex = api.getDataFromCheckStore('TranslationNotesChecker', 'currentCheckIndex');
-        var currentCheck = groups[currentGroupIndex]['checks'][currentCheckIndex];
-        return currentCheck;
-    }
-
     getHighlightedWords(){
-        let chapterNumber = this.props.currentCheck.chapter;
-        let verseNumber = this.props.currentCheck.verse;
-        let verse = this.props.verse
-        let range = this.getCurrentCheck().selectionRange;
+        let { currentCheck, chapter, verse, selectionRange } = this.props.currentCheck;
+        let verseText = this.props.verse;
+        let range = selectionRange;
         if(range){
-            let before = verse.substring(0, range[0]);
-            let highlighted = verse.substring(range[0], range[1]);
-            let after = verse.substring(range[1], verse.length);
+            let before = verseText.substring(0, range[0]);
+            let highlighted = verseText.substring(range[0], range[1]);
+            let after = verseText.substring(range[1], verseText.length);
             return(
-                <div>{chapterNumber + ":" + verseNumber + " "}
+                <div style={style.targetVerseDisplayContent}>
+                    {chapter + ":" + verse + " "}
                     <span onMouseUp={() => this.textSelected("pre")}>
                         {before}
                     </span>
                     <span
-                        style={{backgroundColor: 'yellow', fontWeight: 'bold'}}
+                        style={{backgroundColor: '#FDD910', fontWeight: 'bold'}}
                         onMouseUp = {() => this.textSelected("in")}
                         >
                         {highlighted}
@@ -132,35 +110,27 @@ class TargetVerseDisplay extends React.Component{
         }else{
             return(
               <span onMouseUp={() => this.textSelected()}>
-                   {chapterNumber + ":" + verseNumber + " " + verse}
+                   {chapter + ":" + verse + " " + verseText}
               </span>
             );
         }
     }
-
     render(){
       return (
-          <div style={{
-            padding: '9px',
-            minHeight: '128px',
-            direction: this.props.direction,
-            width: '100%',
-            marginBottom: '5px',
-            WebkitUserSelect: 'text',
-            userSelect: "none",
-          }}>
-              {/*This is the only way to use CSS psuedoclasses inline JSX*/}
-              <style dangerouslySetInnerHTML={{
-                  __html: [
-                      '.highlighted::selection {',
-                      '  background: yellow;',
-                      '}'
-                      ].join('\n')
-                  }}>
-              </style>
-              <div className='highlighted' style={{}}>
-                {this.getHighlightedWords()}
-              </div>
+          <div bsSize={'small'}
+               style={{WebkitUserSelect: 'text', userSelect: "none"}}>
+           {/*This is the only way to use CSS psuedoclasses inline JSX*/}
+           <style dangerouslySetInnerHTML={{
+               __html: [
+                   '.highlighted::selection {',
+                   '  background: #FDD910;',
+                   '}'
+                   ].join('\n')
+               }}>
+           </style>
+            <div className='highlighted' style={{direction: this.props.direction}}>
+                 {this.getHighlightedWords()}
+            </div>
           </div>
         )
     }

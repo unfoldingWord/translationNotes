@@ -6,7 +6,7 @@ const HTMLScraper = require('./parsers/HTMLscraper');
 const Parser = require('./parsers/tNParser.js');
 const Door43DataFetcher = require('./parsers/Door43DataFetcher.js');
 
-const DataFetcher = function (params, progress, onComplete) {
+const DataFetcher = function (params, progress, callback) {
   /**
   * @description This fetches the data for translationHelps (TranslationAcademy
   * specifically)
@@ -14,12 +14,10 @@ const DataFetcher = function (params, progress, onComplete) {
   var sectionList = require('./static/SectionList.json');
   var tASectionList = sectionList.sectionList;
   api.putDataInCheckStore('TranslationHelps', 'sectionList', tASectionList);
-
+  var ulb;
   var phraseData;
-  params = params;
   var DoorDataFetcher = new Door43DataFetcher();
   var chapterData = {};
-  onCompleteFunction = onComplete;
     //progress(done / total * 100);
     var book = getULBFromDoor43Static(params.bookAbbr);
       //check to see if gatewayLanguage has already been loaded
@@ -27,11 +25,11 @@ const DataFetcher = function (params, progress, onComplete) {
       if (!gatewayLanguage) {
         ulb = DoorDataFetcher.getULBFromBook(book);
         var newStructure = { title: '' };
-        for (chapter in ulb) {
-          for (verses in ulb[chapter]) {
+        for (let chapter in ulb) {
+          for (let verses in ulb[chapter]) {
             var chapterNumber = ulb[chapter][verses].num;
             newStructure[chapterNumber] = {};
-            for (verse in ulb[chapter][verses].verses) {
+            for (let verse in ulb[chapter][verses].verses) {
               var verseNumber = ulb[chapter][verses].verses[verse].num;
               var verse = ulb[chapter][verses].verses[verse].text;
               newStructure[chapterNumber][verseNumber] = verse;
@@ -44,7 +42,7 @@ const DataFetcher = function (params, progress, onComplete) {
       }
   chapterData = DoorDataFetcher.getTNFromBook(book, params.bookAbbr);
   phraseData = parseObject(chapterData, tASectionList);
-  saveData(phraseData, params, onComplete);
+  saveData(phraseData, params, callback);
 };
 
 function getULBFromDoor43Static(bookAbr) {
@@ -109,7 +107,7 @@ var parseObject = function (object, tASectionList) {
 };
 
 // Saves phrase data into the CheckStore
-function saveData(phraseObject, params, onCompleteFunction) {
+function saveData(phraseObject, params, callback) {
   api.putDataInCheckStore('TranslationNotesChecker', 'book', api.convertToFullBookName(params.bookAbbr));
   //TODO: This shouldn't be put in check store because we don't want it to be saved
   var groups = phraseObject['groups'];
@@ -124,7 +122,7 @@ function saveData(phraseObject, params, onCompleteFunction) {
   api.putDataInCheckStore('TranslationNotesChecker', 'groups', groups);
   api.putDataInCheckStore('TranslationNotesChecker', 'currentCheckIndex', 0);
   api.putDataInCheckStore('TranslationNotesChecker', 'currentGroupIndex', 0);
-  onCompleteFunction(null);
+  callback(null);
 }
 
 module.exports = DataFetcher;

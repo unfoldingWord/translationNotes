@@ -1,12 +1,8 @@
 ///TargetVerseDisplay.js//
-
-const api = window.ModuleApi;
-const React = api.React;
-const ReactBootstrap = api.ReactBootstrap;
-
-var natural = require('natural');
-var XRegExp = require('xregexp');
-var nonUnicodeLetter = XRegExp('\\PL');
+const React = require('react');
+const natural = require('natural');
+const XRegExp = require('xregexp');
+const nonUnicodeLetter = XRegExp('\\PL');
 const TargetWord = require('./TargetWord');
 const style = require('../css/style');
 
@@ -73,9 +69,8 @@ class TargetVerseDisplay extends React.Component {
     return (
       <div bsSize={'small'}
            style={style.targetVerseDisplayContent}>
-        <div style={{direction: this.props.direction}}
-             onMouseUp={this.textSelected}
-             className="TargetVerseSelectionArea">
+        <div style={{direction: this.props.direction, width: "100%"}}
+             onMouseUp={this.textSelected}>
              {chapter + ":" + verse + " "}{this.generateWordArray()}
         </div>
       </div>
