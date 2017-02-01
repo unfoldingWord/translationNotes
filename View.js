@@ -36,7 +36,7 @@ class View extends React.Component {
     if(this.props.dragToSelect){
       TargetVerseDisplay = <DragTargetVerseDisplay
                                 verse={this.props.targetVerse}
-                                updateSelectedWords={this.props.updateSelectedWords.bind(this)}
+                                updateCurrentCheck={this.props.updateCurrentCheck.bind(this)}
                                 style={style.targetVerse}
                                 currentCheck={this.props.currentCheck}
                                 direction={this.props.direction}
