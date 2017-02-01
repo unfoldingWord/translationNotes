@@ -63,7 +63,7 @@ class View extends React.Component {
           <Col sm={12} md={6} lg={8} style={{height: "100%", padding: '0px',
                    borderLeft: "20px solid #0277BD", borderTop: "20px solid #0277BD", borderRight: "20px solid #0277BD"}}>
             <div style={{padding: '10px', display: "flex", backgroundColor: "#FFFFFF"}}>
-              <div style={{padding: '0px', display: "box"}}>
+              <div style={{padding: '0px', display: "box", width: "500px"}}>
                 <h4>Target Language</h4>
                 {TargetVerseDisplay}
               </div>
