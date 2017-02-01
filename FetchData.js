@@ -16,7 +16,6 @@ const DataFetcher = function (params, progress, callback) {
   api.putDataInCheckStore('TranslationHelps', 'sectionList', tASectionList);
   var ulb;
   var phraseData;
-  params = params;
   var DoorDataFetcher = new Door43DataFetcher();
   var chapterData = {};
     //progress(done / total * 100);
