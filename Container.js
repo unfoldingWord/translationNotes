@@ -26,6 +26,10 @@ class Container extends React.Component {
     }
   }
 
+  componentDidMount() {
+    this.addTargetLanguageToChecks();
+  }
+
   componentWillReceiveProps(nextProps) {
     let checkStatus = nextProps.currentCheck.checkStatus;
     if(checkStatus === "UNCHECKED"){
@@ -35,6 +39,18 @@ class Container extends React.Component {
     }
   }
 
+  addTargetLanguageToChecks() {
+    let groups = api.getDataFromCheckStore(NAMESPACE, 'groups');
+    var targetLanguage = api.getDataFromCommon('targetLanguage');
+    for (var group in groups) {
+      for (var item in groups[group].checks) {
+        var co = groups[group].checks[item];
+        var targetAtVerse = targetLanguage[co.chapter][co.verse];
+        groups[group].checks[item].targetLanguage = targetAtVerse;
+      }
+    }
+    api.putDataInCheckStore(NAMESPACE, 'groups', groups);
+  }
 
   saveProjectAndTimestamp(){
     let { currentCheck, userdata, currentGroupIndex, currentCheckIndex} = this.props;
