@@ -40,7 +40,7 @@ class Container extends React.Component {
   }
 
   addTargetLanguageToChecks() {
-    let groups = api.getDataFromCheckStore(NAMESPACE, 'groups');
+    let groups = this.props.groups;
     var targetLanguage = api.getDataFromCommon('targetLanguage');
     for (var group in groups) {
       for (var item in groups[group].checks) {
