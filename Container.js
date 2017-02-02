@@ -26,6 +26,10 @@ class Container extends React.Component {
     }
   }
 
+  componentDidMount() {
+    this.addTargetLanguageToChecks();
+  }
+
   componentWillReceiveProps(nextProps) {
     let checkStatus = nextProps.currentCheck.checkStatus;
     if(checkStatus === "UNCHECKED"){
@@ -35,6 +39,18 @@ class Container extends React.Component {
     }
   }
 
+  addTargetLanguageToChecks() {
+    let groups = api.getDataFromCheckStore(NAMESPACE, 'groups');
+    var targetLanguage = api.getDataFromCommon('targetLanguage');
+    for (var group in groups) {
+      for (var item in groups[group].checks) {
+        var co = groups[group].checks[item];
+        var targetAtVerse = targetLanguage[co.chapter][co.verse];
+        groups[group].checks[item].targetLanguage = targetAtVerse;
+      }
+    }
+    api.putDataInCheckStore(NAMESPACE, 'groups', groups);
+  }
 
   saveProjectAndTimestamp(){
     let { currentCheck, userdata, currentGroupIndex, currentCheckIndex} = this.props;
@@ -187,13 +203,17 @@ class Container extends React.Component {
       gatewayVerse = this.getVerse('gatewayLanguage');
       targetVerse = this.getVerse('targetLanguage');
     }
+    let currentFile = '';
     var currentWord = this.props.groups[this.props.currentGroupIndex].group;
     var file = currentWord + ".md";
     var TranslationAcademyObject = api.getDataFromCheckStore('TranslationHelps', 'sectionList');
-    let currentFile = TranslationAcademyObject[file].file;
-    let title = currentFile.match(/title: .*/)[0].replace('title: ', '');
-    currentFile = currentFile.replace(/---[\s\S]+---/g, '');
-    currentFile = '## ' + title + '\n' + currentFile;
+    try{
+      currentFile = TranslationAcademyObject[file].file;
+      let title = currentFile.match(/title: .*/)[0].replace('title: ', '');
+      currentFile = currentFile.replace(/---[\s\S]+---/g, '');
+      currentFile = '## ' + title + '\n' + currentFile;   
+    }catch(e){
+    }
     return (
       <View
         currentCheck={this.props.currentCheck}
