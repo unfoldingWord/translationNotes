@@ -187,10 +187,14 @@ class Container extends React.Component {
       gatewayVerse = this.getVerse('gatewayLanguage');
       targetVerse = this.getVerse('targetLanguage');
     }
+    let currentFile = '';
     var currentWord = this.props.groups[this.props.currentGroupIndex].group;
     var file = currentWord + ".md";
     var TranslationAcademyObject = api.getDataFromCheckStore('TranslationHelps', 'sectionList');
-    let currentFile = TranslationAcademyObject[file].file;
+    try{
+      currentFile = TranslationAcademyObject[file].file;
+    }catch(e){
+    }
     return (
       <View
         currentCheck={this.props.currentCheck}
