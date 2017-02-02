@@ -191,6 +191,9 @@ class Container extends React.Component {
     var file = currentWord + ".md";
     var TranslationAcademyObject = api.getDataFromCheckStore('TranslationHelps', 'sectionList');
     let currentFile = TranslationAcademyObject[file].file;
+    let title = currentFile.match(/title: .*/)[0].replace('title: ', '');
+    currentFile = currentFile.replace(/---[\s\S]+---/g, '');
+    currentFile = '## ' + title + '\n' + currentFile;
     return (
       <View
         currentCheck={this.props.currentCheck}
