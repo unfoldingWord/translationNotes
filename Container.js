@@ -45,8 +45,12 @@ class Container extends React.Component {
     for (var group in groups) {
       for (var item in groups[group].checks) {
         var co = groups[group].checks[item];
-        var targetAtVerse = targetLanguage[co.chapter][co.verse];
-        groups[group].checks[item].targetLanguage = targetAtVerse;
+        try {
+          var targetAtVerse = targetLanguage[co.chapter][co.verse];
+          groups[group].checks[item].targetLanguage = targetAtVerse;
+        } catch (err) {
+          //Happens with incomplete books.
+        }
       }
     }
     api.putDataInCheckStore(NAMESPACE, 'groups', groups);
@@ -211,7 +215,7 @@ class Container extends React.Component {
       currentFile = TranslationAcademyObject[file].file;
       let title = currentFile.match(/title: .*/)[0].replace('title: ', '');
       currentFile = currentFile.replace(/---[\s\S]+---/g, '');
-      currentFile = '## ' + title + '\n' + currentFile;   
+      currentFile = '## ' + title + '\n' + currentFile;
     }catch(e){
     }
     return (
