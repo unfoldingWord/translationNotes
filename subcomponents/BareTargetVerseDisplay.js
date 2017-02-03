@@ -13,27 +13,16 @@ class TargetVerseDisplay extends React.Component{
             start: 0,
             end: 0
         }
-        this.getSelectedWords = this.getSelectedWords.bind(this);
         this.textSelected = this.textSelected.bind(this);
         this.getWords = this.getWords.bind(this);
         this.clearSelection = this.getWords.bind(this);
     }
 
-    componentWillMount(){
-      this.getSelectedWords();
-    }
-
-    getSelectedWords(){
-      let { currentCheck } = this.props;
-      try{
-        currentCheck.selectionRange
-        this.setState({
-            start: currentCheck.selectionRange[0],
-            end: currentCheck.selectionRange[1]
-        });
-      }catch(e){
-
-      }
+    componentWillReceiveProps(nextProps){
+      this.setState({
+          start: nextProps.currentCheck.selectionRange[0],
+          end: nextProps.currentCheck.selectionRange[1]
+      });
     }
 
     clearSelection(){
