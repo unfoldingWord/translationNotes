@@ -16,7 +16,7 @@ class CheckStatusButtons extends React.Component{
     let { currentCheck } = this.props;
     let { checkStatus } = currentCheck;
     return (
-      <div>
+      <div style={{float: "right", right: "10px", position: "absolute"}}>
       <style type="text/css">
         {`
           .btn-correct {
