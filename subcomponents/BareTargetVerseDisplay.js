@@ -25,11 +25,15 @@ class TargetVerseDisplay extends React.Component{
 
     getSelectedWords(){
       let { currentCheck } = this.props;
-      currentCheck.selectionRange
-      this.setState({
-          start: currentCheck.selectionRange[0],
-          end: currentCheck.selectionRange[1]
-      });
+      try{
+        currentCheck.selectionRange
+        this.setState({
+            start: currentCheck.selectionRange[0],
+            end: currentCheck.selectionRange[1]
+        });
+      }catch(e){
+
+      }
     }
 
     clearSelection(){
