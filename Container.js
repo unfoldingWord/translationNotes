@@ -19,10 +19,10 @@ class Container extends React.Component {
 
   componentWillMount(){
     let checkStatus = this.props.currentCheck.checkStatus;
-    if(checkStatus === "UNCHECKED"){
-      this.setState({tabKey: 1});
-    }else {
+    if(checkStatus === "FLAGGED"){
       this.setState({tabKey: 2});
+    }else {
+      this.setState({tabKey: 1});
     }
   }
 
@@ -32,10 +32,10 @@ class Container extends React.Component {
 
   componentWillReceiveProps(nextProps) {
     let checkStatus = nextProps.currentCheck.checkStatus;
-    if(checkStatus === "UNCHECKED"){
-      this.setState({tabKey: 1});
-    }else {
+    if(checkStatus === "FLAGGED"){
       this.setState({tabKey: 2});
+    }else {
+      this.setState({tabKey: 1});
     }
   }
 
