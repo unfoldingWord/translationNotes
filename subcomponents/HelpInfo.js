@@ -3,7 +3,7 @@ const React = api.React;
 class HelpInfo extends React.Component{
   render(){
    return (
-     <div style={{color: "#fff"}}>
+     <div style={{color: "#fff", height: "100%", overflowY: 'scroll'}}>
        <h3 style={{marginTop: "0px"}}>
          To complete this check:
        </h3>
