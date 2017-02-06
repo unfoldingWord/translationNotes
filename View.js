@@ -52,10 +52,10 @@ class View extends React.Component {
                                 bookName={this.props.bookName}
                             />
     }
-    let toolGlyph = <img src="images/tNIcon.png" style={{height: "25px"}}/>;
-    let proposedChangesGlyph = <Glyphicon glyph="pencil" style={{color: "#FFFFFF", fontSize: "20px"}} />;
-    let commentGlyph = <Glyphicon glyph="comment" style={{color: "#FFFFFF", fontSize: "20px"}} />;
-    let questionGlyph = <Glyphicon glyph="question-sign" style={{color: "#FFFFFF", fontSize: "20px"}} />;
+    let toolGlyph = <img src="images/tNIcon.png" style={{height: "25px", marginLeft: "10px"}}/>;
+    let proposedChangesGlyph = <Glyphicon glyph="pencil" style={{color: "#FFFFFF", fontSize: "20px", marginLeft: "12px"}} />;
+    let commentGlyph = <Glyphicon glyph="comment" style={{color: "#FFFFFF", fontSize: "20px", marginLeft: "12px"}} />;
+    let questionGlyph = <Glyphicon glyph="question-sign" style={{color: "#FFFFFF", fontSize: "20px", marginLeft: "12px"}} />;
     return (
       <div>
         <ScripturePane currentCheck={this.props.currentCheck} />
@@ -108,7 +108,7 @@ class View extends React.Component {
                 </Tab>
                 <Tab eventKey={4} title={questionGlyph}
                                           style={style.tabStyling}>
-                      <div style={{height: "100%", backgroundColor: "#333333", boxSizing: "border-box"}}>
+                      <div style={{padding: '10px', height: "calc(100vh - 511px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
                         <HelpInfo />
                       </div>
                 </Tab>
