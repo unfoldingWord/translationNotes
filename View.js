@@ -86,7 +86,7 @@ class View extends React.Component {
                           <h5 style={{color: "#FFFFFF"}}>
                           </h5>
                         </div>
-                        <ConfirmDisplay phraseInfo={this.props.currentCheck.phraseInfo.replace(/\(See: .+\)/g, '')}
+                        <ConfirmDisplay phraseInfo={this.props.currentCheck.phraseInfo}
                                         phrase={this.props.currentCheck.phrase}/>
                       </div>
                 </Tab>
