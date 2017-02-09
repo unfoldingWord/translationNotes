@@ -109,9 +109,8 @@ class Container extends React.Component {
   }
 
   addSelectedWord(wordObj, currentCheck){
-    let selectedWords = [];
     let idFound = false;
-    if(currentCheck.selectedWordsRaw){
+    if(currentCheck.selectedWordsRaw.length > 0){
       for (var i in currentCheck.selectedWordsRaw) {
         if (currentCheck.selectedWordsRaw[i].key == wordObj.key) {
           idFound = true;
@@ -122,8 +121,7 @@ class Container extends React.Component {
         this.sortSelectedWords(currentCheck.selectedWordsRaw);
       }
     }else{
-      selectedWords.push(wordObj);
-      currentCheck.selectedWordsRaw = selectedWords;
+      currentCheck.selectedWordsRaw.push(wordObj);
     }
     this.props.updateCurrentCheck(NAMESPACE, currentCheck);
     this.saveProjectAndTimestamp();

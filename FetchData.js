@@ -100,6 +100,7 @@ var parseObject = function (object, tASectionList) {
       newVerse.comment = "";
       newVerse.groupName = title;
       newVerse.selectionRange = [0, 0];
+      newVerse.selectedWordsRaw = [];
       newGroup.checks.push(newVerse);
     }
     phraseObject["groups"].push(newGroup);
