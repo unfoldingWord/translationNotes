@@ -78,15 +78,15 @@ var parseObject = function (object, tASectionList) {
   let phraseObject = {};
   phraseObject["groups"] = [];
   for (let type in object) {
-    var newGroup = { group: type, checks: [] };
     //parsing the headers/phrases removing uncessesary and messy data
     let typeMD = type + ".md";
       for(var sectionFileName in tASectionList) {
         if(sectionFileName === typeMD){
           var titleKeyAndValue = tASectionList[sectionFileName]['file'].match(/title: .*/)[0];
-          var title = titleKeyAndValue.substr(titleKeyAndValue.indexOf(':') + 1);
+          var groupName = titleKeyAndValue.substr(titleKeyAndValue.indexOf(':') + 1);
         }
       }
+    var newGroup = { group: type, groupName: groupName, checks: [] };
     for (let verse of object[type].verses) {
       let newVerse = Object.assign({}, verse);
       newVerse.checkStatus = "UNCHECKED";
@@ -98,7 +98,6 @@ var parseObject = function (object, tASectionList) {
       newVerse.other = false;
       newVerse.proposedChanges = "";
       newVerse.comment = "";
-      newVerse.groupName = title;
       newVerse.selectionRange = [0, 0];
       newVerse.selectedWordsRaw = [];
       newGroup.checks.push(newVerse);
