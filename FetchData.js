@@ -32,7 +32,9 @@ const DataFetcher = function (params, progress, callback) {
             for (let verse in ulb[chapter][verses].verses) {
               var verseNumber = ulb[chapter][verses].verses[verse].num;
               var verse = ulb[chapter][verses].verses[verse].text;
-              newStructure[chapterNumber][verseNumber] = verse;
+              console.log(verse);
+              console.log(verse.replace(/\n.*/, ''));
+              newStructure[chapterNumber][verseNumber] = verse.replace(/\n.*/, '');
             }
           }
         }
