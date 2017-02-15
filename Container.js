@@ -19,6 +19,7 @@ class Container extends React.Component {
 
   componentWillMount(){
     let checkStatus = this.props.currentCheck.checkStatus;
+    this.currentCheck = this.props.currentCheck;
     if(checkStatus === "FLAGGED"){
       this.setState({tabKey: 2});
     }else {
@@ -32,6 +33,12 @@ class Container extends React.Component {
 
   componentWillReceiveProps(nextProps) {
     let checkStatus = nextProps.currentCheck.checkStatus;
+    nextProps.currentCheck.isCurrentItem = true;
+    if (JSON.stringify(this.currentCheck) === JSON.stringify(nextProps.currentCheck)) {
+      return;
+    } else {
+      this.currentCheck = nextProps.currentCheck;
+    }
     if(checkStatus === "FLAGGED"){
       this.setState({tabKey: 2});
     }else {
@@ -187,6 +194,7 @@ class Container extends React.Component {
     if(proposedChangesField){
       currentCheck[proposedChangesField] = newCurrentCheck[proposedChangesField];
     }
+    this.currentCheck = currentCheck;
     this.props.updateCurrentCheck(NAMESPACE, currentCheck);
     this.saveProjectAndTimestamp();
   }
