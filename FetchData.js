@@ -118,6 +118,17 @@ function saveData(phraseObject, params, callback) {
       var checkObject = groups[group].checks[item];
       var gatewayAtVerse = gatewayLanguage[checkObject.chapter][checkObject.verse];
       groups[group].checks[item].gatewayLanguage = gatewayAtVerse;
+      let wordMatch = gatewayAtVerse.match(groups[group].checks[item].phrase);
+      if(wordMatch){
+        groups[group].checks[item].wordIndex = wordMatch.index;
+      }else {
+        /* This only happens when the phrase is shorten for example
+         * "For every kind of ... mankind" instead of the actual quote
+         * For every kind of wild animal, bird, reptile, and sea creature
+         * is being tamed and has been tamed by mankind.
+         */
+        groups[group].checks[item].wordIndex = null;
+      }
     }
   }
   api.putDataInCheckStore('TranslationNotesChecker', 'groups', groups);
