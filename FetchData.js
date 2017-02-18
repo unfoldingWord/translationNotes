@@ -118,6 +118,7 @@ function saveData(phraseObject, params, callback) {
       var checkObject = groups[group].checks[item];
       var gatewayAtVerse = gatewayLanguage[checkObject.chapter][checkObject.verse];
       groups[group].checks[item].gatewayLanguage = gatewayAtVerse;
+      groups[group].checks[item].wordOccurrence = 1;
       let wordMatch = gatewayAtVerse.match(groups[group].checks[item].phrase);
       if(wordMatch){
         groups[group].checks[item].wordIndex = wordMatch.index;
