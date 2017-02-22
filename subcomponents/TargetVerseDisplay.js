@@ -23,6 +23,7 @@ class TargetVerseDisplay extends React.Component {
         _sentence = _sentence.replace(regex, '');
         words.push(match[1] + match[2]);
       })
+      words.push(_sentence);
     }else {
       words = [];
     }

@@ -5,7 +5,7 @@ class TargetWord extends React.Component {
     render() {
       return (
         <span
-          className={this.props.highlighted ? 'text-primary-highlighted' : 'text-muted'}
+          className={this.props.highlighted ? 'text-primary-highlighted' : ''}
           onClick={this.props.updateSelectedWords.bind(this, this.props.wordObj, this.props.highlighted)}
           style={{cursor: 'pointer'}}
         >
