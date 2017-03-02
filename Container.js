@@ -102,7 +102,8 @@ class Container extends React.Component {
       this.props.updateCurrentCheck(NAMESPACE, currentCheck);
       this.saveProjectAndTimestamp();
     }
-    api.Toast.info('Current check was marked as:', newCheckStatus, 2);
+    let message = 'Current check was marked as: ' + newCheckStatus;
+    this.props.showNotification(message, 4);
     this.handleSelectTab(2);
   }
 
