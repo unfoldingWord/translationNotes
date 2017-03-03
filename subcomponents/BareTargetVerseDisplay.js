@@ -11,7 +11,8 @@ class TargetVerseDisplay extends React.Component{
         this.state = {
             selection: "",
             start: 0,
-            end: 0
+            end: 0,
+            inBox:false
         }
         this.textSelected = this.textSelected.bind(this);
         this.getWords = this.getWords.bind(this);
@@ -75,6 +76,14 @@ class TargetVerseDisplay extends React.Component{
         return [this.state.selection];
     }
 
+    inDisplayBox(type, insideDisplayBox) {
+        this.setState({inBox:insideDisplayBox, inBoxType:type});
+        if (!insideDisplayBox && Math.abs(window.getSelection().extentOffset - window.getSelection().baseOffset) > 0) {
+            this.textSelected(type);
+        }
+        window.getSelection().empty();
+    }
+
     getHighlightedWords(){
         let { currentCheck, chapter, verse, selectionRange } = this.props.currentCheck;
         let verseText = this.props.verse;
@@ -86,16 +95,20 @@ class TargetVerseDisplay extends React.Component{
             return(
                 <div style={style.targetVerseDisplayContent}>
                     {chapter + ":" + verse + " "}
-                    <span onMouseUp={() => this.textSelected("pre")}>
+                    <span onMouseUp={() => this.textSelected("pre")} onMouseLeave={()=>this.inDisplayBox("pre", false)}
+                    onMouseEnter={()=>this.inDisplayBox("pre", true)}>
                         {before}
                     </span>
                     <span
                         style={{backgroundColor: '#FDD910', fontWeight: 'bold'}}
                         onMouseUp = {() => this.textSelected("in")}
+                        onMouseLeave={()=>this.inDisplayBox("in", false)}
+                        onMouseEnter={()=>this.inDisplayBox("in", true)}
                         >
                         {highlighted}
                     </span>
-                    <span onMouseUp={() => this.textSelected("post")}>
+                    <span onMouseUp={() => this.textSelected("post")} onMouseLeave={()=>this.inDisplayBox("post", false)}
+                    onMouseEnter={()=>this.inDisplayBox("post", true)}>
                         {after}
                     </span>
                 </div>
