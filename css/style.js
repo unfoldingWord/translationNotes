@@ -61,6 +61,26 @@ var style = {
     color: "#FFFFFF",
     fontSize: "20px"
   },
+  tHelpsOpen:{
+    float: "left",
+    marginTop: "100%",
+    zIndex: "999",
+    color: "#fff",
+    backgroundColor: "#333333",
+    padding: "10px 0px 10px",
+    marginLeft: "-15px",
+    borderRadius: "5px 0px 0px 5px"
+  },
+  tHelpsClosed:{
+    float: "right",
+    marginTop: "100%",
+    zIndex: "999",
+    color: "#fff",
+    backgroundColor: "#333333",
+    padding: "10px 0px 10px",
+    marginLeft: "-15px",
+    borderRadius: "5px 0px 0px 5px"
+  },
 }
 
 module.exports = style;

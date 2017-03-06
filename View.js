@@ -111,10 +111,15 @@ class View extends React.Component {
                 </Tab>
               </Tabs>
           </Col>
-          <Col sm={12} md={6} lg={4} style={{padding: "0px"}}>
+          <Col sm={12} md={6} lg={4} style={{padding: "0px", backgroundColor: this.props.showHelps ? "" : "#fff"}}>
             <div style={{height: "calc(100vh - 256px)"}}>
-              <TranslationHelps currentFile={this.props.currentFile}
-                                online={this.props.online}/>
+              <Glyphicon glyph={this.props.showHelps ? "chevron-right" : "chevron-left"}
+                         style={this.props.showHelps ? style.tHelpsOpen : style.tHelpsClosed}
+                         onClick={this.props.toggleHelps} />
+              <div style={{display: this.props.showHelps ? "block" : "none"}}>
+                <TranslationHelps currentFile={this.props.currentFile}
+                                  online={this.props.online}/>
+              </div>
             </div>
           </Col>
         </Row>
