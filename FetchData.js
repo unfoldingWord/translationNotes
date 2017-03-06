@@ -98,7 +98,7 @@ var parseObject = function (object, tASectionList) {
       newVerse.other = false;
       newVerse.proposedChanges = "";
       newVerse.comment = "";
-      newVerse.selectionRange = [0, 0];
+      newVerse.selectedText = [];
       newVerse.selectedWordsRaw = [];
       newGroup.checks.push(newVerse);
     }
