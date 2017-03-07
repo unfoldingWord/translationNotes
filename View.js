@@ -116,8 +116,13 @@ class View extends React.Component {
           </Col>
           <Col sm={12} md={6} lg={3} style={{height: "100%", padding: "0px"}}>
             <div style={{height: "100vh"}}>
-              <TranslationHelps currentFile={this.props.currentFile}
-                                online={this.props.online}/>
+              <Glyphicon glyph={this.props.showHelps ? "chevron-right" : "chevron-left"}
+                         style={this.props.showHelps ? style.tHelpsOpen : style.tHelpsClosed}
+                         onClick={this.props.toggleHelps} />
+              <div style={{display: this.props.showHelps ? "block" : "none", height: "100vh"}}>
+                <TranslationHelps currentFile={this.props.currentFile}
+                                  online={this.props.online}/>
+              </div>
             </div>
           </Col>
         </Row>

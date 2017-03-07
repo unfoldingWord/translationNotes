@@ -11,7 +11,8 @@ class Container extends React.Component {
     super();
     this.state = {
       currentFile: null,
-      tabKey: 1
+      tabKey: 1,
+      showHelps: true
     }
     this.saveProjectAndTimestamp = this.saveProjectAndTimestamp.bind(this);
     this.onCurrentCheckChange = this.onCurrentCheckChange.bind(this);
@@ -200,6 +201,10 @@ class Container extends React.Component {
     this.saveProjectAndTimestamp();
   }
 
+  toggleHelps(){
+    this.setState({showHelps: !this.state.showHelps});
+  }
+
   render(){
     let dragToSelect = false;
     if(this.props.currentSettings.textSelect === 'drag'){
@@ -245,6 +250,8 @@ class Container extends React.Component {
         handleSelectTab={this.handleSelectTab.bind(this)}
         goToPrevious={this.goToPrevious.bind(this)}
         goToNext={this.goToNext.bind(this)}
+        showHelps={this.state.showHelps}
+        toggleHelps={this.toggleHelps.bind(this)}
       />
     );
   }
