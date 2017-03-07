@@ -1,12 +1,10 @@
 const _ = require('lodash')
 
-module.exports.selectionArray = function(string, selections) {
-  var selectionArray = []
-  var ranges = module.exports.selectionsToRanges(string, selections)
-  selectionArray = module.exports.spliceStringOnRanges(string, ranges)
-  return selectionArray
-}
-
+/**
+ * Splice string into array of ranges, flagging what is selected
+ * @param {array}  ranges - array of ranges [[int,int],...]
+ * @returns {array} - array of objects [obj,...]
+ */
 module.exports.spliceStringOnRanges = function(string, ranges) {
   var selectionArray = [] // response
   // sort ranges - this ensures we build the string correctly and don't miss selections
@@ -17,16 +15,18 @@ module.exports.spliceStringOnRanges = function(string, ranges) {
   var rangeShift = 0
   ranges.forEach(function(rangeObject) {
     var range = rangeObject.range
-    var subString = remainingString.slice(range[0]-rangeShift,range[1]+1-rangeShift)
-    var splitArray = remainingString.split(subString)
-    var beforeSelection = splitArray[0]
+    // save all the text before the selection
+    var beforeSelection = remainingString.slice(0,range[0]-rangeShift)
     // console.log('beforeSelection: ', beforeSelection)
-    // console.log('subString: ', subString)
-    var afterSelection = splitArray.slice(1).join(subString)
+    // save the text in the selection
+    var selection = remainingString.slice(range[0]-rangeShift,range[1]+1-rangeShift)
+    // console.log('subString: ', selection)
+    // save all the text after the selection
+    var afterSelection = remainingString.slice(range[1]-rangeShift+1)
     // console.log('afterSelection: ', afterSelection)
     selectionArray.push({text: beforeSelection, selected: false})
     selectionArray.push({
-                          text: subString,
+                          text: selection,
                           selected: true,
                           occurrence: rangeObject.occurrence,
                           occurrences: rangeObject.occurrences
@@ -35,13 +35,24 @@ module.exports.spliceStringOnRanges = function(string, ranges) {
     remainingString = afterSelection
     // shift the range up to last char of substring (before+sub)
     rangeShift += beforeSelection.length
-    rangeShift += subString.length
+    rangeShift += selection.length
   })
   selectionArray.push({text: remainingString, selected: false})
   // remove empty text from selectionArray
   return selectionArray
 }
+//
+// Use the following lines to test the previous function
+// var string = "01 234 56789qwertyuiopasdfghjklzxcvbnmtyui01 234 567890"
+// var ranges = [ { range: [ 45, 47 ], occurrence: 2, occurrences: 2 } ]
+// console.log(module.exports.spliceStringOnRanges(string, ranges))
 
+/**
+ * This converts ranges to array of selection objects
+ * @param {string} string - text used to get the ranges of
+ * @param {array} selections - array of selections [obj,...]
+ * @returns {array} - array of range objects
+ */
 module.exports.selectionsToRanges = function(string, selections) {
   var ranges = []
     selections.forEach(function(selection) {
@@ -60,6 +71,34 @@ module.exports.selectionsToRanges = function(string, selections) {
     })
   return ranges
 }
+//
+// Use the following lines to test the previous function
+// var string = "01 234 56789qwertyuiopasdfghjklzxcvbnmtyui01 234 567890"
+// var selections = [
+//   { text: '234', occurrence: 2, occurrences: 2 },
+// ]
+// console.log(module.exports.selectionsToRanges(string, selections))
+
+/**
+ * Splice string into array of substrings, flagging what is selected
+ * @param {string} string - text used to get the ranges of
+ * @param {array} selections - array of selections [obj,...]
+ * @returns {array} - array of objects
+ */
+module.exports.selectionArray = function(string, selections) {
+  var selectionArray = []
+  var ranges = module.exports.selectionsToRanges(string, selections)
+  selectionArray = module.exports.spliceStringOnRanges(string, ranges)
+  return selectionArray
+}
+//
+// Use the following lines to test the previous function
+// var string = "01 234 56789qwertyuiopasdfghjklzxcvbnmtyui01 234 567890"
+// var selections = [
+//   { text: '234', occurrence: 2, occurrences: 2 },
+// ]
+// console.log(module.exports.selectionArray(string, selections))
+
 
 /**
  * This abstracts complex handling of ranges such as order, deduping, concatenating, overlaps
@@ -72,7 +111,7 @@ module.exports.optimizeRanges = function(ranges) {
   ranges = _.sortBy(ranges, function(range) { return range[0] })// order ranges by start char index as primary
   ranges = _.uniq(ranges) // remove duplicates
   // combine overlapping and contiguous ranges
-  var _range = [0,0]
+  var _range = []
   ranges.forEach(function(range, index) {
     if (range[0] >= _range[0] && range[0] <= _range[1]+1) { // the start occurs in the running range and +1 handles contiguous
       if (range[1] >= _range[0] && range[1] <= _range[1]) { // if the start occurs inside running range then let's check the end
@@ -81,10 +120,10 @@ module.exports.optimizeRanges = function(ranges) {
         _range[1] = range[1] // extend running range
       }
     } else { // the start does not occur in the running range
-      if (_range[1] - _range[0] > 0) optimizedRanges.push(_range) // the running range is closed push it to optimizedRanges
+      if (_range.length != 0) optimizedRanges.push(_range) // the running range is closed push it to optimizedRanges
       _range = range // reset the running range to this one
     }
-    if (ranges.length === index + 1 && _range[1] - _range[0] > 0) { // this is the last one and it isn't blank
+    if (ranges.length === index + 1 && _range[1] - _range[0] >= 0) { // this is the last one and it isn't blank
       optimizedRanges.push(_range) // push the last one to optimizedRanges
     }
   })
@@ -92,10 +131,9 @@ module.exports.optimizeRanges = function(ranges) {
 }
 //
 // Use the following lines to test the previous function
-// var ranges = [[5,9],[3,4],[2,3],[7,10],[20,40],[15,16],[14,17]]
-// console.log(module.exports.optimizeRanges(ranges))
-// => [ [ 2, 10 ], [ 14, 17 ], [ 20, 40 ] ]
-//
+var ranges = [[1,1],[5,9],[3,4],[7,10],[20,40],[15,16],[14,17]]
+console.log(module.exports.optimizeRanges(ranges))
+// => [ [ 1, 1 ], [ 3, 10 ], [ 14, 17 ], [ 20, 40 ] ]
 
 /**
  * This converts ranges to array of selection objects
@@ -149,6 +187,10 @@ module.exports.optimizeSelections = function(string, selections) {
 //
 // Use the following lines to test the previous function
 // var string = "0123456789qwertyuiopasdfghjklzxcvbnmtyui01234567890"
+// var string = "0123456789qwertyuiopasdfghjklzxcvbnmtyui01234567890"
+// var selections = [
+//   { text: '234', occurrence: 2, occurrences: 2 },
+// ]
 // var selections = [
 //   { text: 'not found in here', occurrence: 2, occurrences: 2 },
 //   { text: '234', occurrence: 1, occurrences: 2 },
@@ -160,6 +202,9 @@ module.exports.optimizeSelections = function(string, selections) {
 //   { text: 'asdfghjklzxcvbnmtyui0', occurrence: 1, occurrences: 1 }
 // ]
 // console.log(module.exports.optimizeSelections(string, selections))
+
+
+
 
 
 // Use for testing/debugging...
