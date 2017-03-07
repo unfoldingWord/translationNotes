@@ -1,7 +1,3 @@
-/**
- * A more organic implementation of the Target Verse Display
- * Author: Luke Wilson
- */
 const React = require('react');
 const style = require('../css/style');
 const SelectionHelpers = require('../utils/selectionHelpers')
@@ -94,7 +90,7 @@ class TargetVerseDisplay extends React.Component {
       );
     }
   }
-  
+
 
   inDisplayBox(insideDisplayBox) {
     this.setState({ inBox: insideDisplayBox });
