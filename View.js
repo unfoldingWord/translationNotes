@@ -57,67 +57,70 @@ class View extends React.Component {
     let commentGlyph = <Glyphicon glyph="comment" style={{color: "#FFFFFF", fontSize: "20px", marginLeft: "12px"}} />;
     let questionGlyph = <Glyphicon glyph="question-sign" style={{color: "#FFFFFF", fontSize: "20px", marginLeft: "12px"}} />;
     return (
-      <div>
-        <ScripturePane currentCheck={this.props.currentCheck} />
-        <Row className="show-grid" style={{marginTop: '0px', bottom: "0px",  height: "calc(100vh - 256px)", backgroundColor: "#333333"}}>
-          <Col sm={12} md={6} lg={8} style={{height: "100%", padding: '0px', border: "20px solid #0277BD"}}>
-            <div style={{padding: '10px', display: "flex", backgroundColor: "#FFFFFF"}}>
-              <div style={{padding: '0px', display: "box", width: "500px"}}>
-                <h4>Target Language</h4>
-                {TargetVerseDisplay}
+        <Row className="show-grid" style={{margin: '0px', bottom: "0px",  height: "100%"}}>
+          <Col sm={12} md={6} lg={9} style={{height: "100%", padding: '0px'}}>
+            <ScripturePane currentCheck={this.props.currentCheck} />
+            <Col sm={12} md={12} lg={12} style={{height: "100%", padding: '0px', border: "20px solid #0277BD"}}>
+              <div style={{padding: '10px', display: "flex", backgroundColor: "#FFFFFF"}}>
+                <div style={{padding: '0px', display: "box", width: "500px"}}>
+                  <h4>Target Language</h4>
+                  {TargetVerseDisplay}
+                </div>
+                <CheckStatusButtons updateCheckStatus={this.props.updateCheckStatus.bind(this)}
+                                    currentCheck={this.props.currentCheck}
+                                    goToNext={this.props.goToNext}
+                                    goToPrevious={this.props.goToPrevious}
+                />
               </div>
-              <CheckStatusButtons updateCheckStatus={this.props.updateCheckStatus.bind(this)}
-                                  currentCheck={this.props.currentCheck}
-                                  goToNext={this.props.goToNext}
-                                  goToPrevious={this.props.goToPrevious}
-              />
-            </div>
-              <Tabs activeKey={this.props.tabKey}
-                    onSelect={e => this.props.handleSelectTab(e)}
-                    id="controlled-tab-example"
-                    style={{backgroundColor: "#FFFFFF", width: "100%"}}>
-                <Tab eventKey={1} title={toolGlyph}
-                                      style={style.tabStyling}>
-                      <div style={{overflowY: 'scroll', padding: "25px", height: "calc(100vh - 531px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
-                        <div style={style.currentWord}>
-                          <h4 style={{color: "#FFFFFF"}}>translationNotes</h4>
+                <Tabs
+                  activeKey={this.props.tabKey}
+                  onSelect={e => this.props.handleSelectTab(e)}
+                  id="tabs"
+                  style={{backgroundColor: "#FFFFFF", width: "100%"}}>
+                  <Tab
+                    eventKey={1}
+                    title={toolGlyph}
+                    style={style.tabStyling}>
+                    <div style={{overflowY: 'scroll', padding: "25px", height: "calc(100vh - 531px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
+                      <div style={style.currentWord}>
+                        <h4 style={{color: "#FFFFFF"}}>translationNotes</h4>
+                      </div>
+                      <ConfirmDisplay phraseInfo={this.props.currentCheck.phraseInfo}
+                                      phrase={this.props.currentCheck.phrase}/>
+                    </div>
+                  </Tab>
+                  <Tab eventKey={2} title={proposedChangesGlyph}
+                                        style={style.tabStyling}>
+                        <div style={{height: "calc(100vh - 531px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
+                          <ProposedChanges currentCheck={this.props.currentCheck}
+                                           updateCurrentCheck={this.props.updateCurrentCheck.bind(this)}
+                                           proposedChangesStore={this.props.proposedChangesStore} />
                         </div>
-                        <ConfirmDisplay phraseInfo={this.props.currentCheck.phraseInfo}
-                                        phrase={this.props.currentCheck.phrase}/>
-                      </div>
-                </Tab>
-                <Tab eventKey={2} title={proposedChangesGlyph}
-                                      style={style.tabStyling}>
-                      <div style={{height: "100%", backgroundColor: "#333333", boxSizing: "border-box"}}>
-                        <ProposedChanges currentCheck={this.props.currentCheck}
-                                         updateCurrentCheck={this.props.updateCurrentCheck.bind(this)}
-                                         proposedChangesStore={this.props.proposedChangesStore} />
-                      </div>
-                </Tab>
-                <Tab eventKey={3} title={commentGlyph}
-                                      style={style.tabStyling}>
-                      <div style={{height: "calc(100vh - 531px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
-                        <CommentBox currentCheck={this.props.currentCheck}
-                                    updateCurrentCheck={this.props.updateCurrentCheck.bind(this)}
-                                    commentBoxStore={this.props.commentBoxStore} />
-                      </div>
-                </Tab>
-                <Tab eventKey={4} title={questionGlyph}
-                                          style={style.tabStyling}>
-                      <div style={{padding: '10px', height: "calc(100vh - 531px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
-                        <HelpInfo />
-                      </div>
-                </Tab>
-              </Tabs>
+                  </Tab>
+                  <Tab eventKey={3} title={commentGlyph}
+                                        style={style.tabStyling}>
+                        <div style={{height: "calc(100vh - 531px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
+                          <CommentBox currentCheck={this.props.currentCheck}
+                                      updateCurrentCheck={this.props.updateCurrentCheck.bind(this)}
+                                      commentBoxStore={this.props.commentBoxStore} />
+                        </div>
+                  </Tab>
+                  <Tab eventKey={4} title={questionGlyph}
+                                            style={style.tabStyling}>
+                        <div style={{padding: '10px', height: "calc(100vh - 531px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
+                          <HelpInfo />
+                        </div>
+                  </Tab>
+                </Tabs>
+            </Col>
           </Col>
-          <Col sm={12} md={6} lg={4} style={{padding: "0px"}}>
-            <div style={{height: "calc(100vh - 256px)"}}>
+          <Col sm={12} md={6} lg={3} style={{height: "100%", padding: "0px"}}>
+            <div style={{height: "100vh"}}>
               <TranslationHelps currentFile={this.props.currentFile}
                                 online={this.props.online}/>
             </div>
           </Col>
         </Row>
-      </div>
     );
   }
 }
