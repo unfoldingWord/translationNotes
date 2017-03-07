@@ -58,8 +58,7 @@ class TargetVerseDisplay extends React.Component {
   render() {
     let { chapter, verse} = this.props.currentCheck;
     return (
-      <div bsSize={'small'}
-           style={style.targetVerseDisplayContent}>
+      <div style={style.targetVerseDisplayContent}>
         <div style={{direction: this.props.direction, width: "100%"}}
              onMouseUp={this.textSelected}>
              {chapter + ":" + verse + " "}{this.generateWordArray()}

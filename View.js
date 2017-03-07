@@ -75,7 +75,6 @@ class View extends React.Component {
               <Tabs activeKey={this.props.tabKey}
                     onSelect={e => this.props.handleSelectTab(e)}
                     id="controlled-tab-example"
-                    bsClass="newTabs"
                     style={{backgroundColor: "#FFFFFF", width: "100%"}}>
                 <Tab eventKey={1} title={toolGlyph}
                                       style={style.tabStyling}>
