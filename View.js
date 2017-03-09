@@ -21,6 +21,8 @@ const CheckStatusButtons = require('./subcomponents/CheckStatusButtons');
 const ConfirmDisplay = require('./subcomponents/ConfirmDisplay');
 const HelpInfo = require('./subcomponents/HelpInfo');
 const style = require('./css/style');
+const CheckInfoCard = require('./subcomponents/CheckInfoCard.js');
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
 
 
 class View extends React.Component {
@@ -56,10 +58,13 @@ class View extends React.Component {
     let proposedChangesGlyph = <Glyphicon glyph="pencil" style={{color: "#FFFFFF", fontSize: "20px", marginLeft: "12px"}} />;
     let commentGlyph = <Glyphicon glyph="comment" style={{color: "#FFFFFF", fontSize: "20px", marginLeft: "12px"}} />;
     let questionGlyph = <Glyphicon glyph="question-sign" style={{color: "#FFFFFF", fontSize: "20px", marginLeft: "12px"}} />;
+    let groupName = this.props.groups[this.props.currentGroupIndex].groupName.trim();
     return (
+      <MuiThemeProvider>
         <Row className="show-grid" style={{margin: '0px', bottom: "0px",  height: "100%"}}>
           <Col sm={12} md={6} lg={9} style={{height: "100%", padding: '0px'}}>
             <ScripturePane {...this.props} currentCheck={this.props.currentCheck} />
+            <CheckInfoCard phraseTitle={groupName} openHelps={this.props.toggleHelps} showHelps={this.props.showHelps} title={this.props.currentCheck.phrase} file={this.props.currentCheck.phraseInfo}/>
             <Col sm={12} md={12} lg={12} style={{height: "100%", padding: '0px', border: "20px solid #0277BD"}}>
               <div style={{padding: '10px', display: "flex", backgroundColor: "#FFFFFF"}}>
                 <div style={{padding: '0px', display: "box", width: "500px"}}>
@@ -126,6 +131,7 @@ class View extends React.Component {
             </div>
           </Col>
         </Row>
+      </MuiThemeProvider>
     );
   }
 }
