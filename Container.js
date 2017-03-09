@@ -232,6 +232,7 @@ class Container extends React.Component {
     }
     return (
       <View
+        {...this.props}
         currentCheck={this.props.currentCheck}
         updateCurrentCheck={(newCurrentCheck, proposedChangesField) => {
           this.onCurrentCheckChange(newCurrentCheck, proposedChangesField)
