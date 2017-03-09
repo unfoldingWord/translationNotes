@@ -59,7 +59,7 @@ class View extends React.Component {
     return (
         <Row className="show-grid" style={{margin: '0px', bottom: "0px",  height: "100%"}}>
           <Col sm={12} md={6} lg={9} style={{height: "100%", padding: '0px'}}>
-            <ScripturePane currentCheck={this.props.currentCheck} />
+            <ScripturePane {...this.props} currentCheck={this.props.currentCheck} />
             <Col sm={12} md={12} lg={12} style={{height: "100%", padding: '0px', border: "20px solid #0277BD"}}>
               <div style={{padding: '10px', display: "flex", backgroundColor: "#FFFFFF"}}>
                 <div style={{padding: '0px', display: "box", width: "500px"}}>
