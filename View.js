@@ -2,38 +2,22 @@
  * @description:
  *  This class defines the entire view for translationNotes tool
  */
-//Api Consts
-const api = window.ModuleApi;
-const React = api.React;
-const RB = api.ReactBootstrap;
-//Bootstrap consts
-const {Row, Col, Tabs, Tab, Glyphicon} = RB;
-//Modules not defined within translationNotes
-let ScripturePane = null;
-let ProposedChanges = null;
-let CommentBox = null;
-let TranslationHelps = null;
-//Components
-const DragTargetVerseDisplay = require('./subcomponents/BareTargetVerseDisplay');
-const ClickTargetVerseDisplay = require('./subcomponents/TargetVerseDisplay');
-const GatewayVerseDisplay = require('./subcomponents/GatewayVerseDisplay.js');
-const CheckStatusButtons = require('./subcomponents/CheckStatusButtons');
-const ConfirmDisplay = require('./subcomponents/ConfirmDisplay');
-const HelpInfo = require('./subcomponents/HelpInfo');
-const style = require('./css/style');
-const CheckInfoCard = require('./subcomponents/CheckInfoCard.js');
+import React from 'react'
+import {Row, Col, Tabs, Tab, Glyphicon} from 'react-bootstrap'
+import DragTargetVerseDisplay from './subcomponents/BareTargetVerseDisplay'
+import ClickTargetVerseDisplay from './subcomponents/TargetVerseDisplay'
+import GatewayVerseDisplay from './subcomponents/GatewayVerseDisplay.js'
+import CheckStatusButtons from './subcomponents/CheckStatusButtons'
+import ConfirmDisplay from './subcomponents/ConfirmDisplay'
+import HelpInfo from './subcomponents/HelpInfo'
+import CheckInfoCard from './subcomponents/CheckInfoCard.js'
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
-
+import style from './css/style'
 
 class View extends React.Component {
-  constructor(){
-    super();
-    ScripturePane = api.getModule('ScripturePane');
-    ProposedChanges = api.getModule('ProposedChanges');
-    CommentBox = api.getModule('CommentBox');
-    TranslationHelps = api.getModule('TranslationHelps');
-  }
   render(){
+    //Modules not defined within translationNotes
+    const { ScripturePane, ProposedChanges, CommentBox, TranslationHelps } = this.props.modules;
     let TargetVerseDisplay = null;
     if(this.props.dragToSelect){
       TargetVerseDisplay = <DragTargetVerseDisplay
