@@ -81,6 +81,28 @@ var style = {
     marginLeft: "-15px",
     borderRadius: "5px 0px 0px 5px"
   },
+  linkActive: {
+    fontWeight: 'bold',
+    color: '#FFFFFF',
+    marginTop: '20px',
+    textAlign: 'right',
+    cursor: 'pointer'
+  },
+  linkInactive: {
+    fontWeight: 'bold',
+    color: '#e7e7e7',
+    marginTop: '20px',
+    textAlign: 'right',
+    cursor: 'not-allowed'
+  },
+  title: {
+    textTransform: 'capitalize',
+    textAlign: 'center',
+    fontSize: '16px',
+    fontWeight: 'bold',
+    color: '#ffffff',
+    margin: '15px'
+  },
 }
 
 module.exports = style;

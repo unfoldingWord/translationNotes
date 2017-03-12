@@ -6,31 +6,8 @@
 const React = api.React;
 const RB = api.ReactBootstrap;
 const {Row, Glyphicon, Col} = RB;
+const styles = require('../css/style.js');
 import {Card, CardActions, CardHeader, CardMedia, CardTitle, CardText} from 'material-ui/Card';
-let Styles = {
-  linkActive: {
-    fontWeight: 'bold',
-    color: '#FFFFFF',
-    marginTop: '20px',
-    textAlign: 'right',
-    cursor: 'pointer'
-  },
-  linkInactive: {
-    fontWeight: 'bold',
-    color: '#e7e7e7',
-    marginTop: '20px',
-    textAlign: 'right',
-    cursor: 'not-allowed'
-  },
-  title: {
-    textTransform: 'capitalize',
-    textAlign: 'center',
-    fontSize: '16px',
-    fontWeight: 'bold',
-    color: '#ffffff',
-    margin: '15px'
-  }
-}
 
 class CheckInfoCard extends React.Component {
     render() {
@@ -43,7 +20,7 @@ class CheckInfoCard extends React.Component {
         <Card zDepth={2} style={{ background: '#03A9F4', padding: "20px"}}>
           <Row>
             <Col md={4} style={{borderRight: '1px solid #FFFFFF'}}>
-              <div style={Styles.title}>
+              <div style={styles.title}>
                 {this.props.title}
               </div>
             </Col>
@@ -52,7 +29,7 @@ class CheckInfoCard extends React.Component {
                 {phraseInfo}
               </div>
               <div onClick={this.props.showHelps ? null : this.props.openHelps}
-              style={this.props.showHelps ? Styles.linkInactive : Styles.linkActive}>
+              style={this.props.showHelps ? styles.linkInactive : styles.linkActive}>
               See More: {this.props.phraseTitle}
               </div>
             </Col>
