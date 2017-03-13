@@ -1,11 +1,11 @@
 ///TargetVerseDisplay.js//
-const React = require('react');
-//const natural = require('natural');
-const XRegExp = require('xregexp');
+import React from 'react'
+//import natural from 'natural'
+import XRegExp from 'xregexp'
+import TargetWord from './TargetWord'
+import style from '../css/style'
+//nonUnicodeLetter declaration
 const nonUnicodeLetter = XRegExp('[^\\pL\\pM]+?');
-const TargetWord = require('./TargetWord');
-const style = require('../css/style');
-
 //Wordlength tokenizer
 //const tokenizer = new natural.RegexpTokenizer({pattern: nonUnicodeLetter});
 

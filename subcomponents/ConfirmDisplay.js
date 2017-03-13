@@ -1,6 +1,4 @@
-
-const api = window.ModuleApi;
-const React = api.React;
+import React from 'react'
 
 class ConfirmDisplay extends React.Component{
   render(){

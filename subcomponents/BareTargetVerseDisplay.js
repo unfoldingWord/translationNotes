@@ -1,6 +1,6 @@
-const React = require('react');
-const style = require('../css/style');
-const SelectionHelpers = require('../utils/selectionHelpers')
+import React from 'react'
+import style from '../css/style'
+import SelectionHelpers from '../utils/selectionHelpers'
 
 class TargetVerseDisplay extends React.Component {
   constructor() {

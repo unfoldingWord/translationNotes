@@ -1,10 +1,8 @@
-
-const api = window.ModuleApi;
-const React = api.React;
-const RB = api.ReactBootstrap;
-const {Glyphicon, Button, ButtonGroup, utils} = RB;
+import React from 'react'
+import { Glyphicon, Button, ButtonGroup, utils } from 'react-bootstrap'
+import style from '../css/style'
+//bootstrapUtils declaration
 const bootstrapUtils = utils.bootstrapUtils;
-const style = require('../css/style');
 bootstrapUtils.addStyle(Button, 'correct');
 bootstrapUtils.addStyle(Button, 'flag');
 bootstrapUtils.addStyle(Button, 'darkGrey');

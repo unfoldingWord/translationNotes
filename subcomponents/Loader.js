@@ -1,8 +1,5 @@
-
-const api = window.ModuleApi;
-var React = api.React;
-var RB = api.ReactBootstrap;
-var {ProgressBar} = RB;
+import React from 'react'
+import { ProgressBar } from 'react-bootstrap'
 
 class Loader extends React.Component{
   render(){
