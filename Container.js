@@ -1,8 +1,7 @@
 //Api Consts
 const api = window.ModuleApi;
-const React = require('react');
-//Modules that are defined within translationNotes_Check_plugin
-const View = require('./View.js');
+import React from 'react'
+import View from './View.js'
 //String constants
 const NAMESPACE = "TranslationNotesChecker";
 

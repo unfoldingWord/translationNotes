@@ -1,6 +1,6 @@
 import React from 'react'
 import { Glyphicon, Button, ButtonGroup, utils } from 'react-bootstrap'
-import style = from '../css/style'
+import style from '../css/style'
 //bootstrapUtils declaration
 const bootstrapUtils = utils.bootstrapUtils;
 bootstrapUtils.addStyle(Button, 'correct');
