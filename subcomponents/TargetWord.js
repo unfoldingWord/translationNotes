@@ -1,6 +1,8 @@
-const React = require('react');
+/**
+ * @description Contains a word from the target language
+ */
+import React from 'react'
 
-/* Contains a word from the target language, defines a lot of listeners for clicks */
 class TargetWord extends React.Component {
     render() {
       return (
