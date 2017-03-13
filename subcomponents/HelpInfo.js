@@ -1,4 +1,4 @@
-const React = api.React;
+import React from 'react'
 
 class HelpInfo extends React.Component{
   render(){
