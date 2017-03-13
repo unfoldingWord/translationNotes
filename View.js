@@ -83,7 +83,7 @@ class View extends React.Component {
                         <div style={{height: "calc(100vh - 531px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
                           <ProposedChanges currentCheck={this.props.currentCheck}
                                            updateCurrentCheck={this.props.updateCurrentCheck.bind(this)}
-                                           proposedChangesStore={this.props.proposedChangesStore} />
+                          />
                         </div>
                   </Tab>
                   <Tab eventKey={3} title={commentGlyph}
@@ -91,7 +91,7 @@ class View extends React.Component {
                         <div style={{height: "calc(100vh - 531px)", backgroundColor: "#333333", boxSizing: "border-box"}}>
                           <CommentBox currentCheck={this.props.currentCheck}
                                       updateCurrentCheck={this.props.updateCurrentCheck.bind(this)}
-                                      commentBoxStore={this.props.commentBoxStore} />
+                          />
                         </div>
                   </Tab>
                   <Tab eventKey={4} title={questionGlyph}
