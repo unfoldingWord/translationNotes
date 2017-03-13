@@ -1,13 +1,9 @@
 ///GatewayVerseDisplay.js//
-
-const api = window.ModuleApi;
-const React = api.React;
-const ReactBootstrap = api.ReactBootstrap;
-
-let natural = require('natural');
-let XRegExp = require('xregexp');
-let nonUnicodeLetter = XRegExp('\\PL');
-
+import React from 'react'
+import natural from 'natural'
+import XRegExp from 'xregexp'
+//nonUnicodeLetter declaration
+const nonUnicodeLetter = XRegExp('\\PL');
 //Wordlength tokenizer
 const tokenizer = new natural.RegexpTokenizer({pattern: nonUnicodeLetter});
 
