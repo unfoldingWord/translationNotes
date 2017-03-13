@@ -1,17 +1,15 @@
 //CheckInfoCard.js//
 /**
- * @author Ian Hoegen
  * @description This component is a display component for the Check Info Cards.
  */
-const React = api.React;
-const RB = api.ReactBootstrap;
-const {Row, Glyphicon, Col} = RB;
-const styles = require('../css/style.js');
+import React from 'react'
+import {Row, Glyphicon, Col} from 'react-bootstrap'
+import styles from '../css/style.js'
 import {Card, CardActions, CardHeader, CardMedia, CardTitle, CardText} from 'material-ui/Card';
 
 class CheckInfoCard extends React.Component {
     render() {
-      var phraseInfo = this.props.file;
+      let phraseInfo = this.props.file;
       if(phraseInfo){
         phraseInfo = phraseInfo.replace(/\(See:.*/g,"");
       }
