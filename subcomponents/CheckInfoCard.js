@@ -1,5 +1,4 @@
-//CheckInfoCard.js//
-/**
+/** @file CheckInfoCard.js
  * @description This component is a display component for the Check Info Cards.
  */
 import React from 'react'
