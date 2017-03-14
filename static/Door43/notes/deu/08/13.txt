@@ -20,8 +20,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 And be careful when your herds and your flocks multiply, and when your silver and your gold increase, and when all that you have multiplies,
-\v 14 that then your heart become lifted up, and you forget Yahweh your God—who brought you out of the land of Egypt, out of the house of bondage.
+\v 13 Be careful when your herds and flocks multiply and when your silver and gold increase, and all that you have is multiplied,
+\v 14 then your heart becomes lifted up and you forget Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage.
 </usfm>
 
 
@@ -38,12 +38,10 @@
 
   * **General Information:** - Moses continues to speak to the Israelites as if they are one person. (See: [[:en:ta:vol1:translate:figs_you]])
  
-  * **when your herds ... gold increase** - These words are the end of the list of "when" clauses that begins with "when you eat" ([[:en:bible:notes:deu:08:11|8:12]]).
-  * **your herds and your flocks** - "your herds of cattle and your flocks of sheep and goats"
+  * **your herds and flocks** - "your herds of cattle and flocks of sheep and goats"
   * **multiply** - "increase in number" or "become many"
-  * **all that you have multiplies** - "you have many more things" or "you have many more possessions"
-  * **that then your heart become lifted up ... you forget Yahweh** - Moses tells of two things that will happen if all the "when" statements ([[:en:bible:notes:deu:08:11|8:12-13]]) become true.
-  * **your heart become lifted up** - This is an idiom. AT: "you might become proud" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **all that you have is multiplied** - This can be stated in active form. AT: "you have many more things" or "you have many more possessions" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your heart becomes lifted up** - Here "heart" represents the inner person. To become prideful and no longer obey Yahweh is spoken of as if the person's heart is lifted up. See how you translated a similar phrase in [[:en:bible:notes:deu:08:11|8:12]]. AT: "you become prideful and no longer obey Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **who brought you out** - Moses begins to remind the Israelites of what they know about Yahweh. (See: [[:en:ta:vol2:translate:figs_distinguish]])
   * **out of the house of bondage** - This is a metaphor for the time they were slaves in Egypt. AT: "out from the place where you were slaves" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
@@ -56,6 +54,6 @@
 
 **[[:en:bible:notes:deu:08:11|<<]] | [[:en:bible:notes:deu:08:15|>>]]**
 
-~~DISCUSSION~~ {{tag>publish p2check}}
+~~DISCUSSION~~ {{tag>publish p2pass}}
 
 ~~NOCACHE~~

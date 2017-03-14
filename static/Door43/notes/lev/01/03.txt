@@ -1,6 +1,5 @@
 ====== Leviticus 01:3-4 ======
 
-
 ===== TFT: =====
 
 <usfm>
@@ -8,14 +7,12 @@
 \v 4 You must lay your hands on the head of the bull. When you do that, Yahweh will accept \add its death in your place\add* to forgive\f + \ft Or: pardon \f* you for the sins that you have committed.
 </usfm>
 
-
 ===== UDB: =====
 
 <usfm>
 \v 3 If what you are offering is a bull to be completely burned on the altar, it must be without any defect. You must take it to the entrance to the sacred tent, in order that it may be acceptable to Yahweh.
 \v 4 You must lay your hands on the head of the bull. When you do that, Yahweh will accept its death in your place to forgive you for the sins that you have committed.
 </usfm>
-
 
 ===== ULB: =====
 
@@ -25,40 +22,31 @@
 \v 4 He is to lay his hand on the head of the burnt offering, and then it will be accepted on his behalf to make atonement for himself.
 </usfm>
 
-
 ===== translationWords: =====
 
-  * [[:en:obe:other:burntoffering]]
-  * [[:en:obe:other:flock]]
-  * [[:en:obe:other:blemish]]
-  * [[:en:obe:other:tentofmeeting]]
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:kt:atonement]]
- 
+  * [[:en:obe:other:burntoffering|burnt offering, offering by fire]]
+  * [[:en:obe:other:flock|flock, herd]]
+  * [[:en:obe:other:blemish|blemish]]
+  * [[:en:obe:other:tentofmeeting|tent of meeting]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:kt:atonement|atonement, atone]]
 
 ===== translationNotes: =====
 
   * **General Information:** - Yahweh continues telling Moses what the people must do so that their sacrifices will be acceptable to Yahweh.
 
-  * **If his offering ... he must offer** - Here "his" and "he" refer to the person bringing an offering to Yahweh. It can be translated in the second person as it is in [[:en:bible:notes:lev:01:01|1:2]]. AT: "If your offering ... you must offer" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **so that it may be accepted before Yahweh** - This can be stated in active form. AT: "so that Yahweh will accept it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **lay his hand on the head** - This is a symbolic action that identifies the person with the animal he is offering. In this way the person is offering himself through the animal to Yahweh, so that God will forgive the person's sins when they kill the animal. (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **then it will be accepted on his behalf to make atonement for himself** - This can be stated in active form. AT: "then Yahweh will accept it in his place and forgive his sins" (See: [[:en:ta:vol2:translate:figs_activepassive]])
- 
- 
+  * **If his offering ... he must offer** - Here "his" and "he" refer to the person bringing an offering to Yahweh. It can be translated in the second person as it is in [[:en:bible:notes:lev:01:01|1:2]]. AT: "If your offering ... you must offer" (See: [[:en:ta:vol2:translate:figs_123person|First, Second or Third Person]])
+  * **so that it may be accepted before Yahweh** - This can be stated in active form. AT: "so that Yahweh will accept it" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **lay his hand on the head** - This is a symbolic action that identifies the person with the animal he is offering. In this way the person is offering himself through the animal to Yahweh, so that God will forgive the person's sins when they kill the animal. (See: [[:en:ta:vol2:translate:translate_symaction|Symbolic Action]])
+  * **then it will be accepted on his behalf to make atonement for himself** - This can be stated in active form. AT: "then Yahweh will accept it in his place and forgive his sins" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
 ===== Links: =====
 
-  * [[:en:bible:notes:lev:00:intro]]
-  * [[:en:bible:notes:lev:01:00]]
-  * [[:en:bible:questions:comprehension:lev:01]]
-
- 
+  * [[:en:bible:notes:lev:00:intro|Introduction to Leviticus]]
+  * [[:en:bible:notes:lev:01:00|Leviticus 01 General Notes]]
+  * [[:en:bible:questions:comprehension:lev:01|Leviticus 01 Translation Questions]]
 
 **[[:en:bible:notes:lev:01:01|<<]] | [[:en:bible:notes:lev:01:05|>>]]**
 
-~~DISCUSSION~~
-
-
-{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

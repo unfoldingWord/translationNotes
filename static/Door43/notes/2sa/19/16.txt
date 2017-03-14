@@ -46,9 +46,10 @@
 
 ===== translationNotes: =====
 
-  * **Gera ... Ziba** - These are the names of men (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Benjamite** - This is a member of the tribe of Benjamin
-  * **Bahurim** - This is the name of a place (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Gera ... Ziba** - These are the names of men. Translate the name "Ziba" the same as you did in [[:en:bible:notes:2sa:09:01|9:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Bahurim** - Translate the name of this place the same as you did in [[:en:bible:notes:2sa:03:14|3:16]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **one thousand men ... fifteen sons ... twenty servants** - "1,000 men ... 15 sons ... 20 servants" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **in the presence of the king** - This means that the king was there and was aware of what was happening. AT: "at the place where the king was" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -63,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

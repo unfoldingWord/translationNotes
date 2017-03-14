@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 28 All these things happened to King Nebuchadnezzar:
+\v 28-29 All these things happened to King Nebuchadnezzar: Twelve months later, he was walking around on the roof of his palace in Babylon,
 \v 30 and he looked out over the city and said to those around him, "I have built this great city of Babylon to be the place where I rule! I have built it with my own power to show people my honor and my greatness."
 
 
@@ -22,8 +22,8 @@
 
 <usfm>
 \p
-\v 28-29 All these things happened to King Nebuchadnezzar in twelve months. He was walking at the royal palace in Babylon.
-\v 30 The king was saying, "Is this not the great Babylon, which I have built for my royal residence, for the glory of my majesty?"
+\v 28-29 All these things happened to King Nebuchadnezzar. Twelve months later he was walking on the roof of the royal palace in Babylon,
+\v 30 and he said, "Is this not the great Babylon, which I have built for my royal residence, for the glory of my majesty?"
 </usfm>
 
 ===== translationWords: =====
@@ -39,8 +39,12 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - Verses 19-33 use the third person to describe the punishment of Nebuchadnezzar. (See: [[:en:ta:vol2:translate:figs_123person]])
+
   * **All these things ... in Babylon** - The information in [[:en:bible:notes:dan:04:28|4:28-29]] has been rearranged so its meaning can be more easily understood. (See: [[:en:ta:vol2:translate:translate_versebridge]])
-  * **twelve months** - "12 months" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Twelve months** - "12 months" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Is this not the great Babylon ... for the glory of my majesty?** - Nebuchadnezzar asks this question to emphasize his own glory. This can be translated as a statement. AT: "This is the great Babylon ... for the glory of my majesty!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **for the glory of my majesty** - "to show people my honor and my greatness" (UDB)
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -48,6 +52,6 @@
   * [[:en:bible:questions:comprehension:dan:04]]
 **[[:en:bible:notes:dan:04:26|<<]] | [[:en:bible:notes:dan:04:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

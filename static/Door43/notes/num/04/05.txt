@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 5 When the camp prepares to move forward, Aaron and his sons must go into the tent, take down the curtain that separates the most holy place from the holy place, and cover the ark of the covenant decrees with it.
+\v 5 When the camp prepares to move forward, Aaron and his sons must go into the tent, take down the curtain that separates the most holy place from the holy place and cover the ark of the testimony with it.
 \v 6 They must cover the ark with sea cow skins. They must spread a blue cloth over it. They must insert the poles to carry it.
 </usfm>
 
@@ -36,9 +36,9 @@
 
 ===== translationNotes: =====
 
-  * **When the camp prepares** - Here "camp" refers to all of the people in the camp.  AT: "When the people prepare to move forward" or  (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **to move forward** - This refers to the people moving to another location. AT: "When the camp prepares to move to another location" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **cover the ark of the covenant decrees with it** - The word "it" refers to the curtain that separated the most holy place from the holy place.
+  * **When the camp prepares** - Here "camp" refers to all of the people in the camp.  AT: "When the people prepare" or  (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to move forward** - This refers to the people moving to another location. AT: "to move to another location" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **cover the ark of the testimony with it** - The word "it" refers to the curtain that separated the most holy place from the holy place.
   * **insert the poles** - The poles were inserted into rings on the sides of the ark so that the poles could be used to carry the ark. This can be stated clearly. AT: "insert the poles into the rings on the ark's sides" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:num:04]]
 **[[:en:bible:notes:num:04:01|<<]] | [[:en:bible:notes:num:04:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check curtain seacow}}
+~~DISCUSSION~~{{tag>publish p2pass curtain seacow}}
 
 ~~NOCACHE~~

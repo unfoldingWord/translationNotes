@@ -32,7 +32,6 @@
 \q1
 \v 9 What there is to know about God is wider than the earth
 \q2 and wider than the ocean.
-\b
 
 
 \q1
@@ -66,13 +65,13 @@
 
 ===== translationNotes: =====
 
-  * **Can you understand God by searching for him ... Can you comprehend the Almighty perfectly** - These two parallel questions are asking the same thing. The writer uses the form of a question to add emphasis. AT: "You cannot understand God by searching for him!" and AT: "You will never have a complete understanding of the Almighty!" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **The matter** - AT: "To know God fully"
-  * **as high as heaven ... deeper than Sheol ... longer than the earth ... wider than the sea** - These parallel phrases compare the greatness of God with concepts or ideas that are already familiar to the reader. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **what can you do** - AT: "you cannot understand it fully." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **what can you know** - AT: "you cannot know all there is to know." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
-  * **Its measure** - AT: "What there is to know about God" 
-
+  * **Can you understand God by searching for him? Can you comprehend the Almighty perfectly?** - These two parallel questions are asking the same thing. The writer uses the form of a question to add emphasis. AT: "You cannot understand God by searching for him, and you will never completely understand the Almighty!" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **The matter** - This refers to understanding God. AT: "To understand God" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **is as high as heaven ... deeper than Sheol** - The impossibility of understanding God is spoken of as if it were impossible to go to these extremely far away places. AT: "is as inaccessible as the highest places in heaven ... is more inaccessible than the deepest places in Sheol" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **what can you do?** - Zophar uses this question to show that a person cannot do anything to understand God fully. AT: "you cannot do anything." or "you cannot understand him fully." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **what can you know?** - Zophar uses this question to show that a person cannot do anything to know God fully. AT: "you cannot know God fully." or "you cannot know all there is to know." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **Its measure** - Possible meanings are that this refers to 1) God's greatness or 2) the greatness of God's wisdom.
+  * **is longer than the earth ... wider than the sea** - God's greatness or wisdom is spoken of as if it could be measured in distance. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -80,6 +79,6 @@
   * [[:en:bible:questions:comprehension:job:11]]
 **[[:en:bible:notes:job:11:04|<<]] | [[:en:bible:notes:job:11:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

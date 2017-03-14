@@ -20,7 +20,6 @@
 <usfm>
 \v 15 God actually rescues people by causing them to suffer;
 \q2 by afflicting them, he causes them to listen to what he is telling them.
-\b
 \q1
 \v 16 Job, I think that God wants to bring you out of your troubles
 \q2 and allow you to live without distress;
@@ -41,7 +40,6 @@
 \v 16 Indeed, he would like to draw you out of distress
 \q into a broad place where there is no hardship
 \q and where your table would be set with food full of fatness.
-\b
 </usfm>
 
 
@@ -52,8 +50,10 @@
 
 ===== translationNotes: =====
 
-  * **opens their ears** - See how you translated this in [[:en:bible:notes:job:36:10|36:10]].
-  * **your table would be set** - AT: "your servants would set your table" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he opens their ears** - Elihu speaks of God causing a person to listen as if God were opening their ears. See how you translated this in [[:en:bible:notes:job:36:10|36:10]]. AT: "he causes them to listen" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **into a broad place where there is no hardship** - Elihu speaks of living without trouble as if it were being in a wide-open space where there were no hardships. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **where your table would be set with food full of fatness** - Elihu speaks of living prosperously as if it were having one's table filled with the best foods. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **your table would be set** - This can be stated in active form. AT: "your servants would set your table" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **food full of fatness** - Meat that had plenty of fat on it was a sign of prosperity because the animals were healthy and well-fed. AT: "the very best food" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:job:36]]
 **[[:en:bible:notes:job:36:13|<<]] | [[:en:bible:notes:job:36:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 38 If a man or a woman has white spots on the skin, 
+\v 38 If a man or a woman has white spots on the skin,
 \v 39 then the priest must examine the person to see if the spots are a dull white, which is only a rash that has broken out in the skin. He is clean.
 </usfm>
 
@@ -37,6 +37,7 @@
 
   * **a dull white** - "a faded white"
   * **rash** - Translate this word in the same way you did in [[:en:bible:notes:lev:13:05|13:6]].
+  * **He is clean** - "That person is clean" (See: [[:en:ta:vol2:translate:figs_gendernotations]])
   * **He is clean** - The person whom other people may touch is spoken of as if he were physically clean. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:lev:13]]
 **[[:en:bible:notes:lev:13:35|<<]] | [[:en:bible:notes:lev:13:40|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

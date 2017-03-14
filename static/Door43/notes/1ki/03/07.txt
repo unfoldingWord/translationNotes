@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 7 And now, Yahweh my God, you have made your servant king in the place of David my father, though I am only a little child. I do not know how to go out or come in.
+\v 7 Now Yahweh my God, you have made your servant king in the place of David my father, though I am only a little child. I do not know how to go out or come in.
 \v 8 Your servant is in the midst of the people whom you have chosen, a great people, too numerous to be numbered or counted.
 \v 9 So give your servant an understanding heart to judge your people, so that I may discern between good and evil. For who is able to judge this great people of yours?"
 </usfm>
@@ -47,9 +47,11 @@
 
   * **General Information:** - Solomon asks for wisdom.
 
-  * **I am only a little child** - Solomon is saying that he is like a child who does know as much as a father. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I do not know how to go out or come in** - AT: "I do not know the right way to do things" or "I do not know how to be the king" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **For who is able to judge this great people of yours?** - Solomon is asking a question where the answer is obvious. The answer is "no one." AT: "No one is able to judge this great people of yours." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **your servant** - Solomon speaks as if he is another person to show respect to Yahweh. AT: "me" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **I am only a little child** - Solomon is saying that he is like a child who does not know as much as a father. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I do not know how to go out or come in** - This is hyperbole for not knowing anything about what he is supposed to do. AT: "I do not know the right way to do things" or "I do not know how to be the king" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **For who is able to judge this great people of yours?** - Solomon asks a question to emphasize that he knows that no one can judge. AT: "No one is able to judge this great people of yours." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -57,6 +59,6 @@
   * [[:en:bible:questions:comprehension:1ki:03]]
 **[[:en:bible:notes:1ki:03:06|<<]] | [[:en:bible:notes:1ki:03:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit judge discernment}}
+~~DISCUSSION~~{{tag>publish p2pass judge discernment}}
 
 ~~NOCACHE~~

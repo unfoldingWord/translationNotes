@@ -16,13 +16,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 When you see a dog return to his vomit, 
+\v 11 When you see a dog return to his vomit,
 \q2 that is just like a fool who does the same foolish thing over and over again.
 \q1
 \v 12 Do you know someone who has this idea about himself—
 \q2 he thinks he is a very wise person?
-\q2 It is easier to teach a fool than him. 
-
+\q2 It is easier to teach a fool than him.
 
 \q1
 </usfm>
@@ -34,7 +33,7 @@
 \v 11 As a dog returns to his own vomit,
 \q so is a fool who repeats his folly.
 \q
-\v 12 Do you see someone who is wise in his own eyes? 
+\v 12 Do you see someone who is wise in his own eyes?
 \q There is more hope for a fool than for him.
 </usfm>
 
@@ -46,8 +45,9 @@
 ===== translationNotes: =====
 
 
-  * **Do you see someone who is wise in his own eyes?** - AT: "Consider the person who thinks he is wise" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **As a dog returns to his own vomit** - "As a dog eats its own vomit" 
+  * **Do you see someone who is wise in his own eyes?** - This question is used to lead the reader to think about someone who is wise in his own eyes. The phrase "is wise in his own eyes" means "thinks he is wise," and here it implies that the person is not truly wise. AT: "Consider the person who thinks he is wise but is not." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **There is more hope for a fool than for him** - "A fool can become wise more easily than he can"
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:pro:26]]
 **[[:en:bible:notes:pro:26:09|<<]] | [[:en:bible:notes:pro:26:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -22,7 +22,6 @@
 \q1
 \v 15 When it becomes daylight, the wicked do not have the darkness that they like;
 \q2 in the daylight they no longer are able to hurt anyone.
-\b
 
 
 \q1
@@ -38,7 +37,6 @@
 \q
 \v 15 From wicked people their 'light' is taken away;
 \q their uplifted arm is broken.
-\b
 </usfm>
 
 
@@ -51,10 +49,11 @@
  
 ===== translationNotes: =====
 
-  * **The earth is changed in appearance like clay changes under a seal** - At night time, people cannot see clearly, but in the morning the light reveals the distinct shape of everything, just like a seal creates distinct images in clay. (See: [[:en:ta:vol1:translate:figs_simile]]) 
-  * **From wicked people their 'light' is taken away** - AT: "The morning takes away the light of wicked people." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The earth is changed in appearance like clay changes under a seal** - At nighttime, people cannot see clearly, but in the morning the light reveals the distinct shape of everything, just like a seal creates distinct images in clay. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **all things on it stand out clearly like the folds of a piece of clothing** - Here "it" refers to the earth. This phrase has a similar meaning to the first phrase in this verse. (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **From wicked people their 'light' is taken away** - This can be stated in active form. AT: "The morning takes away the 'light' of wicked people." (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **their 'light'** - The wicked consider darkness to be their light, because they do their evil deeds in the darkness and they are familiar with the darkness. (See: [[:en:ta:vol1:translate:figs_irony]])
-  * **their uplifted arm is broken** - The raised arm of the wicked shows that they have the power and the intention to do evil things, but the morning light breaks their arm so that they are not able to do evil things. AT: "in the daylight they no longer are able to hurt anyone." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **their uplifted arm is broken** - The raised arm of the wicked represents their power and intention to do evil things, but the wicked stop doing those evil things when the morning light comes. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -69,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

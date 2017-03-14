@@ -35,9 +35,10 @@
  
 ===== translationNotes: =====
 
-  * **She arose, bowed herself** - Abigail responded by bowing
-  * **See, your female servant is a servant to wash the feet of the servants of my master** - Abigail humbles herself as David's new wife by offering to wash the feet of David's servants. 
-
+  * **She arose, bowed herself** - Abigail responded by bowing. The reader should understand that she was probably already standing when the men were talking to her in [[:en:bible:notes:1sa:25:39|25:40]], and so the word "arose" is a metonym for deciding to bow down. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **See, your female servant is a servant to wash the feet of the servants of my master** - Abigail speaks as if she were another person to show that she is humble. She shows that she desires to be David's new wife by offering to wash the feet of David's servants. AT: "See, I will serve you, the servants of my master David, by washing your feet" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **hurried and arose, and rode** - You may need to make explicit what Abigail did after she arose and before she rode. AT: "quickly did what she needed to do to prepare for the journey, and then she rode" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **five servant girls of hers who followed her** - Abigail was riding a donkey, but the servant girls were walking.
  
 ===== Links: =====
 
@@ -49,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

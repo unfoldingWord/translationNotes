@@ -34,9 +34,10 @@
 
   * **Connecting Statement:** - This verse is a continuation from the previous chunk.
 
-  * **this city has been a provocation of my wrath and fury since the day that they built it.** - The words "wrath" and "fury" mean basically the same thing and emphasize the intensity of his wrath. AT: "the people of Jerusalem have made me very angry since the day they built their city." (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **It has been that right up to this present day** - AT: "They continue to make me angry even now"
-  * **from before my face** - AT: "from my presence" or "completely" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **this city has been a provocation of my wrath and fury since the day that they built it.** - The words "wrath" and "fury" mean basically the same thing and emphasize how very angry he is. AT: "the people of Jerusalem have made me very angry since the day they built their city." (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **has been a provocation of** - The abstract noun "provocation" can be translated as a verb. AT: "has been something that has provoked" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **It has been that right up to this present day** - "They continue to make me angry even now"
+  * **from before my face** - The face is a metonym for the person's presence. AT: "from my presence" or "completely" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:jer:32]]
 **[[:en:bible:notes:jer:32:29|<<]] | [[:en:bible:notes:jer:32:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

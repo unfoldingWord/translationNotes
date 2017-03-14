@@ -23,7 +23,7 @@
 
 <usfm>
 \v 57 When David returned from killing the Philistine, Abner took him, and brought him before Saul with the head of the Philistine in his hand.
-\v 58 Saul said to him, "Whose son are you, young man?" And David answered, "I am the son of your servant Jesse the Bethlehemite."
+\v 58 Saul said to him, "Whose son are you, young man?" David answered, "I am the son of your servant Jesse the Bethlehemite."
 </usfm>
 
 
@@ -40,6 +40,9 @@
 ===== translationNotes: =====
 
   * **in his hand** - Here "his" refers to David.
+  * **Whose son are you** - "Who is your father"
+  * **I am the son of your servant Jesse the Bethlehemite** - "My father is your servant Jesse, the Bethlehemite"
+  * **your servant Jesse** - David referred to his father as "your servant" to show that his father was faithful to King Saul.
  
 ===== Links: =====
 
@@ -48,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1sa:17]]
 **[[:en:bible:notes:1sa:17:55|<<]] | [[:en:bible:notes:1sa:18:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

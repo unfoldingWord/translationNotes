@@ -17,8 +17,7 @@
 
 <usfm>
 \v 27 The one who has learned knowledge, learned to speak well using few words,
-\q2 and the one who has understanding, does not lose his temper. 
-\b
+\q2 and the one who has understanding, does not lose his temper.
 \q1
 \v 28 When a fool keeps silent, some may think he is very wise;
 \q2 when he keeps his mouth shut, even a fool looks intelligent.
@@ -46,8 +45,10 @@
 
 ===== translationNotes: =====
 
-  * **keeps his mouth shut** - AT: "does not speak" 
-
+  * **uses few words** - This refers to the way he speaks. AT: "speaks with few words" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Even a fool is thought to be wise** - This can be written in active form. AT: "People even think a fool is wise" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **keeps his mouth shut** - This means that he does not speak. AT: "does not speak" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **he is considered to be intelligent** - This can be written in active form. AT: "people consider him to be intelligent" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -55,6 +56,6 @@
   * [[:en:bible:questions:comprehension:pro:17]]
 **[[:en:bible:notes:pro:17:25|<<]] | [[:en:bible:notes:pro:18:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

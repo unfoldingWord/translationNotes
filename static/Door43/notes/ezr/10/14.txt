@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 So allow our leaders to decide for all of us what we should do. Tell everyone who has married a woman who is not Israelite to come at a time that you decide. They should come with the 
+\v 14 So allow our leaders to decide for all of us what we should do. Tell everyone who has married a woman who is not Israelite to come at a time that you decide. They should come with the
 elders and judges from each city. If we do that, our God will stop being angry with us because of what we have done."
 \p
 \v 15 Jonathan son of Asahel, and Jahzeiah son of Tikvah disagreed with this, and Meshullam and Shabbethai, a descendant of Levi, supported them.
@@ -40,9 +40,9 @@ elders and judges from each city. If we do that, our God will stop being angry w
   * [[:en:obe:other:levite]]
 ===== translationNotes: =====
 
-  * **Jonathan son of Asahel and Jahzeiah son of Tikvah opposed this** - Possible meanings are, 1) these men opposed the delay of first having the city officials investigate the offenses, or 2) they opposed the investigation. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Meshullam and Shabbethai the Levite supported them** - These men agreed with Jonathan and Asahel in their opposition. (See: [[:en:ta:vol1:translate:translate_names]])
-
+  * **at the time that will be fixed with the city elders and the city judges** - This can be translated in active form and as separate sentences. AT: "at the time that you will determine. Let them come with the city elder and the city judges" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Jonathan ... Asahel ... Jahzeiah ... Tikvah ... Meshullam ... Shabbethai** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Jonathan son of Asahel and Jahzeiah son of Tikvah opposed this** - Possible meanings are, 1) these men did not want the city officials to investigate the offenses or 2) they did not want anyone to investigate the people's marriages.
 
 ===== Links: =====
 
@@ -54,6 +54,6 @@ elders and judges from each city. If we do that, our God will stop being angry w
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

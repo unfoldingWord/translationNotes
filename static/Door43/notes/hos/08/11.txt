@@ -17,7 +17,7 @@
 
 <usfm>
 \v 11 The people of Ephraim have built many altars on which to offer sacrifices for their sins;
-\q2 however, these altars have become places where the people commit terrible sins against me. 
+\q2 however, these altars have become places where the people commit terrible sins against me.
 \q1
 \v 12 Even if I wrote out for the people of Israel my laws ten thousand times,
 \q2 they would refuse to obey them.
@@ -31,12 +31,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q
 \v 11 For Ephraim has multiplied altars for sin offerings,
 \q but they have become altars for committing sins instead.
 \q
-\v 12 I could write down my law for them ten thousand times, 
+\v 12 I could write down my law for them ten thousand times,
 \q but they would view it as something strange to them.
 </usfm>
 
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:hos:08]]
 **[[:en:bible:notes:hos:08:08|<<]] | [[:en:bible:notes:hos:08:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

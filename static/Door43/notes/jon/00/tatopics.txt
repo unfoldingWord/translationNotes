@@ -1,13 +1,28 @@
-====== List of translationAcademy Topics in Jonah ======
+===== List of translationAcademy Topics in Jonah =====
+
+* [[:en:ta:vol2:translate:figs_abstractnouns]] is found in:
+ [[:en:bible:notes:jon:02:09|02:09]]
 
 * [[:en:ta:vol2:translate:figs_activepassive]] is found in:
- [[:en:bible:notes:jon:02:03|02:03]], [[:en:bible:notes:jon:02:09|02:09]], [[:en:bible:notes:jon:03:08|03:08]]
+ [[:en:bible:notes:jon:01:04|01:04]], [[:en:bible:notes:jon:02:03|02:03]], [[:en:bible:notes:jon:03:08|03:08]]
+
+* [[:en:ta:vol2:translate:figs_doublet]] is found in:
+ [[:en:bible:notes:jon:02:03|02:03]]
 
 * [[:en:ta:vol1:translate:figs_explicit]] is found in:
- [[:en:bible:notes:jon:01:01|01:01]], [[:en:bible:notes:jon:01:06|01:06]], [[:en:bible:notes:jon:01:08|01:08]], [[:en:bible:notes:jon:01:11|01:11]], [[:en:bible:notes:jon:03:04|03:04]], [[:en:bible:notes:jon:03:06|03:06]], [[:en:bible:notes:jon:03:08|03:08]], [[:en:bible:notes:jon:04:01|04:01]]
+ [[:en:bible:notes:jon:01:01|01:01]], [[:en:bible:notes:jon:01:04|01:04]], [[:en:bible:notes:jon:01:06|01:06]], [[:en:bible:notes:jon:01:08|01:08]], [[:en:bible:notes:jon:01:11|01:11]], [[:en:bible:notes:jon:01:14|01:14]], [[:en:bible:notes:jon:03:04|03:04]], [[:en:bible:notes:jon:03:06|03:06]], [[:en:bible:notes:jon:03:08|03:08]], [[:en:bible:notes:jon:03:10|03:10]], [[:en:bible:notes:jon:04:01|04:01]], [[:en:bible:notes:jon:04:08|04:08]], [[:en:bible:notes:jon:04:10|04:10]]
+
+* [[:en:ta:vol1:translate:figs_idiom]] is found in:
+ [[:en:bible:notes:jon:01:01|01:01]], [[:en:bible:notes:jon:01:06|01:06]], [[:en:bible:notes:jon:03:01|03:01]]
 
 * [[:en:ta:vol1:translate:figs_metaphor]] is found in:
- [[:en:bible:notes:jon:02:05|02:05]]
+ [[:en:bible:notes:jon:01:14|01:14]], [[:en:bible:notes:jon:02:01|02:01]], [[:en:bible:notes:jon:02:05|02:05]], [[:en:bible:notes:jon:02:07|02:07]], [[:en:bible:notes:jon:03:10|03:10]]
+
+* [[:en:ta:vol2:translate:figs_metonymy]] is found in:
+ [[:en:bible:notes:jon:01:01|01:01]], [[:en:bible:notes:jon:01:08|01:08]], [[:en:bible:notes:jon:03:01|03:01]]
+
+* [[:en:ta:vol2:translate:figs_parallelism]] is found in:
+ [[:en:bible:notes:jon:02:03|02:03]]
 
 * [[:en:ta:vol1:translate:figs_rquestion]] is found in:
  [[:en:bible:notes:jon:01:06|01:06]], [[:en:bible:notes:jon:01:08|01:08]], [[:en:bible:notes:jon:02:03|02:03]], [[:en:bible:notes:jon:03:08|03:08]], [[:en:bible:notes:jon:04:01|04:01]], [[:en:bible:notes:jon:04:04|04:04]], [[:en:bible:notes:jon:04:08|04:08]], [[:en:bible:notes:jon:04:10|04:10]]
@@ -20,3 +35,6 @@
 
 * [[:en:ta:vol2:translate:translate_numbers]] is found in:
  [[:en:bible:notes:jon:03:04|03:04]], [[:en:bible:notes:jon:04:10|04:10]]
+
+* [[:en:ta:vol2:translate:writing_background]] is found in:
+ [[:en:bible:notes:jon:04:10|04:10]]

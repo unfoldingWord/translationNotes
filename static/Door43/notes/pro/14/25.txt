@@ -14,9 +14,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 25 A witness who tells the truth, saves the lives of the innocent; 
-\q2 a lying witness is filled with deceit. 
-
+\v 25 A witness who tells the truth, saves the lives of the innocent;
+\q2 a lying witness is filled with deceit.
 
 \q1
 </usfm>
@@ -26,7 +25,7 @@
 
 <usfm>
 \q
-\v 25 A truthful witness saves lives, 
+\v 25 A truthful witness saves lives,
 \q but a false witness breathes out lies.
 </usfm>
 
@@ -38,12 +37,10 @@
   * [[:en:obe:kt:save]]
   * [[:en:obe:kt:life]]
   * [[:en:obe:other:falsewitness]]
- 
 
 ===== translationNotes: =====
 
-
-  * **breathes out lies** - See how you translated this phrase in [[:en:bible:notes:pro:06:17|6:19]].
+  * **breathes out lies** - This figure of speech uses "breathes" to refer to lying constantly. See how you translated this phrase in [[:en:bible:notes:pro:06:17|6:19]]. AT: "constantly lies" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -51,13 +48,11 @@
   * [[:en:bible:notes:pro:14:00]]
   * [[:en:bible:questions:comprehension:pro:14]]
 
- 
-
 **[[:en:bible:notes:pro:14:23|<<]] | [[:en:bible:notes:pro:14:26|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

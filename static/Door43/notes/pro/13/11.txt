@@ -18,7 +18,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 People who think too much of themselves will spend all their money; 
+\v 11 People who think too much of themselves will spend all their money;
 \q2 the one who makes his money by working with his hands, will find ways to make his money grow.
 \q1
 \v 12 When hope for the future is postponed, it makes you sick—you feel you will never receive what you long for,
@@ -33,8 +33,8 @@
 
 <usfm>
 \q
-\v 11 Wealth dwindles away when there is too much vanity, 
-\q but the one who makes money by working with his hand will make his money grow. 
+\v 11 Wealth dwindles away when there is too much vanity,
+\q but the one who makes money by working with his hand will make his money grow.
 \q
 \v 12 When hope is postponed, it breaks the heart,
 \q but a longing fulfilled is a tree of life.
@@ -52,12 +52,12 @@
 
 
   * **Wealth dwindles away** - "Wealth decreases" or "Wealth slowly disappears"
-  * **vanity** - excessive pride in one's self
-  * **by working with his hand** - AT: "by working hard"
+  * **working with his hand** - The phrase "working with his hand" refers to physical work instead of only mental or other types of work. Many people give physical work a low value. AT: "working with physical strength" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **make his money grow** - Money is compared to a tree that grows. AT: "make his money increase" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **When hope is postponed** - "When hope is delayed" or "When God delays hope" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **it breaks the heart** - AT: "it causes intense sadness" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **tree of life** - See how you translated this in [[:en:bible:notes:pro:03:17|3:18]].
+  * **When hope is postponed** - Here "hope" represents the thing a person hopes for. This can be stated in active form. AT: "When a person hopes for something but does not receive it for a very long time" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **it breaks the heart** - Breaking a person's heart represents overwhelming that person with sadness. AT: "it causes intense sadness" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **a longing fulfilled is a tree of life** - Someone receiving what they hoped for and becoming very happy is spoken of as if the fulfillment of their hope were a tree that gives life. AT: "a longing fulfilled is like a tree of life" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **tree of life** - "a tree that gives life" or "a tree whose fruit sustains life." Translate this as you did in [[:en:bible:notes:pro:03:17|3:18]].
  
 ===== Links: =====
 
@@ -72,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

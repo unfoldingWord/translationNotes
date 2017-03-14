@@ -24,7 +24,6 @@
 \q1
 \v 8 then I hope that when I plant seeds, someone else will harvest the crops and eat them,
 \q2 and that others will uproot the crops that I have planted.
-\b
 
 
 \q1
@@ -41,7 +40,7 @@
 \q
 \v 8 then let me sow and let another eat;
 \q indeed, let the harvest be uprooted out of my field.
-\b
+\m
 </usfm>
 
 
@@ -57,11 +56,11 @@
 
   * **General Information:** - Job continues describing situations in which he would deserve God's punishment, but he knows they are not true. (See: [[:en:ta:vol1:translate:figs_hypo]])
 
-  * **If my step has turned out of the right way** - AT: "If I have stopped doing what is right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **if my heart has walked after my eyes** - AT: "if I have done any wicked things" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **if any spot of impurity has clung to my hands** - AT: "if I am guilty of any sin at all"
-  * **let the harvest be uprooted out of my field** - AT: "let someone else come and take the harvest from my field" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **If my step has turned out of the right way** - Here "my step" is a metaphor for Job's behavior, and "turned out of the right way" is a metaphor for changing from living right. AT: "If I have changed from living right" or "If I have stopped doing what is right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **if my heart has walked after my eyes** - Here "my heart"  and "my eyes" are metonyms for what Job desires and sees. The heart walking after the eyes is a metaphor for desiring to do what he sees. It is implied that this refers to sinful things that Job sees. AT: "if I have have wanted to do any sinful things that I see" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **if any spot of impurity has clung to my hands** - This is a metaphor for being guilty. AT: "if I am guilty of any sin at all" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **then let me sow and let another eat ... my field** - Job is saying that if he really has sinned, then this bad thing should happen to him. He would do the hard work of sowing his fields, but he would not be able to eat any of it.
+  * **let the harvest be uprooted out of my field** - This can be stated in active form. AT: "let someone else come and take the harvest from my field" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -69,6 +68,6 @@
   * [[:en:bible:questions:comprehension:job:31]]
 **[[:en:bible:notes:job:31:05|<<]] | [[:en:bible:notes:job:31:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

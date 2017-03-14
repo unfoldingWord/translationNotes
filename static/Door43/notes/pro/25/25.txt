@@ -21,7 +21,7 @@
 \v 25 When you receive news from a far away country,
 \q2 that is like giving cold water to a person who is thirsty.
 \q1
-\v 26 A good person who falls before the wicked, 
+\v 26 A good person who falls before the wicked,
 \q2 that is as bad as a spring that becomes muddied or a fountain that becomes polluted.
 
 
@@ -36,8 +36,8 @@
 \v 25 Like cold waters to one who is thirsty,
 \q so is good news from a far country.
 \q
-\v 26 Like a fouled spring or a ruined fountain 
-\q is a good man who totters before wicked people.
+\v 26 Like a fouled spring or a ruined fountain
+\q is a righteous person tottering before wicked people.
 </usfm>
 
 
@@ -52,9 +52,11 @@
 ===== translationNotes: =====
 
 
-  * **Like cold waters to one who is thirsty, so is good news from a far country** - Cold water is compared to good news that are both refreshing and delightful (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Like a fouled spring or a ruined fountain is a good man who totters before wicked people** - One expects a spring or fountain to have clear water, just as one expects a righteous man to stand for what he believes. A polluted spring or fountain is compared to a righteous man who falls. (See: [[:en:ta:vol1:translate:figs_simile]])
- 
+  * **Like cold waters to one who is thirsty, so is good news from a far country** - Cold water is compared to good news that is both refreshing and delightful. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Like a fouled spring or a ruined fountain is a righteous person tottering before wicked people** - One expects a spring or fountain to have clear water, just as one expects a righteous man to stand for what he believes. A polluted spring or fountain is compared to a righteous man who falls. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **tottering before wicked people** - Tottering is a metaphor for either 1) refusing to fight wicked people or 2) joining in their wickedness. AT: "who allows wicked people to do wickedness" or "who starts to do what wicked people do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **tottering** - This is a metaphor for being unable to continue to do good. AT: "unable to stand" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **before wicked people** - Possible meanings are 1) "when wicked people attack him" or 2) "when wicked people urge him to do evil." (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -69,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

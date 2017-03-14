@@ -19,12 +19,10 @@
 
 <usfm>
 \v 7 The wise scatter knowledge about like the farmer scatters his seed,
-\q2 but the hearts of fools are not so generous. 
-\b
+\q2 but the hearts of fools are not so generous.
 \q1
 \v 8 Yahweh hates it when the wicked offer their sacrifices,
-\q2 but when those who please him pray, he is delighted. 
-
+\q2 but when those who please him pray, he is delighted.
 
 \q1
 </usfm>
@@ -35,9 +33,9 @@
 <usfm>
 \q
 \v 7 The lips of wise people scatter knowledge about,
-\q but not so the hearts of fools. 
+\q but not so the hearts of fools.
 \q
-\v 8 Yahweh hates the sacrifices of wicked people, 
+\v 8 Yahweh hates the sacrifices of wicked people,
 \q but the prayer of upright people is his delight.
 </usfm>
 
@@ -55,14 +53,10 @@
  
 ===== translationNotes: =====
 
-
-  * **The lips of wise people scatter knowledge about** - AT: "Wise people spread knowledge everywhere by what they say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **not so the hearts of fools** - AT: "but the hearts of fools do not scatter knowledge about" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the hearts of fools** - AT: "fools" or "foolish people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Yahweh hates the sacrifices of wicked people** - AT: "Yahweh hates it when wicked people sacrifice to him" or "Yahweh hates it when wicked people worship him"
-  * **upright people** - See how you translated this phrase in [[:en:bible:notes:pro:03:31|3:32]].
-  * **is his delight** - AT: "pleases him" or "is Yahweh's delight"
-
+  * **The lips of wise people scatter knowledge about** - The word "lips" represents what wise people say. The writer speaks of knowledge as if it were seeds that wise people scatter around when they speak. AT: "The speech of wise people spreads knowledge" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **not so the hearts of fools** - Possible meanings are 1) the word "hearts" is synecdoche for the fools themselves and means that they do not scatter knowledge like wise people do. AT: "fools do not scatter knowledge about" or 2) fools do not have knowledge in their hearts, with "hearts" being a metonym for the thoughts. AT: "fools do not understand knowledge" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **upright people** - "people who live rightly"
+  * **is his delight** - "pleases him"
  
 ===== Links: =====
 
@@ -71,6 +65,6 @@
   * [[:en:bible:questions:comprehension:pro:15]]
 **[[:en:bible:notes:pro:15:05|<<]] | [[:en:bible:notes:pro:15:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

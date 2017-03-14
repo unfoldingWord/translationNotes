@@ -16,7 +16,7 @@
 <usfm>
 \v 19 Then Hezekiah replied to Isaiah, "The message from Yahweh that you have given to me is good." He said that because he was thinking, "Even if that happens, there will be peace and security in Israel all during the remaining time that I remain alive."
 \p
-\v 20 If you want to know more about all the other things that Hezekiah did, about his brave deeds in battle, about how he commanded his people to build a reservoir in the city and a tunnel to be dug to bring water into the reservoir, they are all written in the Book of the Events of the Kings of Judah.
+\v 20 If you want to know more about all the other things that Hezekiah did, about his brave deeds in battle, about how he commanded his people to build a reservoir in the city and a tunnel to be dug to bring water into the reservoir, they are all written in the book of the events of the Kings of Judah.
 \v 21 Later Hezekiah died, and his son Manasseh became the king.
 </usfm>
 
@@ -25,7 +25,7 @@
 
 <usfm>
 \v 19 Then Hezekiah said to Isaiah, "The word of Yahweh that you have spoken is good." For he thought, "Will there not be peace and stability in my days?"
-\v 20 As for the other matters concerning Hezekiah, and all his power, and how he constructed the pool and the conduit, and how he brought water into the city—are they not written in The Book of the Events of the Kings of Judah?
+\v 20 As for the other matters concerning Hezekiah, and all his power, and how he constructed the pool and the conduit, and how he brought water into the city—are they not written in the book of the events of the kings of Judah?
 \v 21 Hezekiah slept with his ancestors, and Manasseh his son became king in his place.
 </usfm>
 
@@ -39,13 +39,14 @@
   * [[:en:obe:other:kingdomofjudah]]
   * [[:en:obe:kt:sleep]]
   * [[:en:obe:other:manasseh]]
+
 ===== translationNotes: =====
 
   * **For he thought** - "Because Hezekiah thought" 
-  * **Will there not be peace and stability in my days?** - "I can be sure that there will be peace and stability in my days." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Will there not be peace and stability in my days?** - Hezekiah asks this question for emphasis knowing the answer already. AT: "I can be sure that there will be peace and stability in my days." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **pool** - A small area of still water for storage
   * **conduit** - A tunnel for carrying the water 
-  * **are they not written ... Judah?** - "they are written ... Judah." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **are they not written in The Book of the Events of the Kings of Judah?** - This question is used to remind the reader that these things are recorded. See how this phrase is translated in [[:en:bible:notes:2ki:08:22|8:23]]. AT: "they are written in the book of the History of the Kings of Judah." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -53,13 +54,11 @@
   * [[:en:bible:notes:2ki:20:00]]
   * [[:en:bible:questions:comprehension:2ki:20]]
 
- 
-
 **[[:en:bible:notes:2ki:20:16|<<]] | [[:en:bible:notes:2ki:21:01|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

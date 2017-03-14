@@ -42,11 +42,17 @@
 
 ===== translationNotes: =====
 
+  * **Connecting Statement:** - Yahweh continues to challenge Job.
+
   * **he searches for victims** - Here the word "he" refers to the eagle.
-  * **his eyes see them** - AT: "he sees them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **victims** - "animals that he can kill and eat"
+  * **his eyes see them** - Here "his eyes" refer to the eagle. AT: "he sees them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **His young** - "The baby eagles." It may be helpful to state that this happens after the eagle kills and animal. AT: "After an eagle kills an animal, the baby eagles"
+  * **drink up blood** - "drink the blood of the animal that he killed"
   * **where killed people are** - "where there are dead people." This phrase refers to dead bodies that are lying out in the open, not to bodies that are buried in the ground.
-  * **there he is** - AT: "he is there to eat them" (See: [[:en:ta:vol1:translate:figs_explicit]])
- 
+  * **there he is** - It can be made explicit that he comes to eat the dead bodies. AT: "he is there to eat them" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -54,6 +60,6 @@
   * [[:en:bible:questions:comprehension:job:39]]
 **[[:en:bible:notes:job:39:27|<<]] | [[:en:bible:notes:job:40:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

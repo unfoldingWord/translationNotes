@@ -28,7 +28,6 @@
 \v 3 But I have as much good sense as you do;
 \q2 I am no less wise than you are.
 \q2 Certainly everyone knows all that you have said.
-\b
 
 
 \q1
@@ -60,10 +59,9 @@
 
   * **No doubt** - "Surely"
   * **you are the people** - "you are the important people who know everything"
-  * **No doubt you are the people; wisdom will die with you.** - In this figure of speech, Job mocks how they are acting and shows how ridiculous they sound. (See: [[:en:ta:vol1:translate:figs_irony]]). "Surely you are all such important people that wisdom cannot exist without you." AT: "You are all acting like you are the only source of wisdom and without you wisdom would disappear."
+  * **No doubt you are the people; wisdom will die with you.** - Job mocks how they are acting and shows how ridiculous they sound. AT: "Surely you are such important people that wisdom cannot exist without you" or "You all act like you are the only wise people and that when you die, wisdom will disappear" (See: [[:en:ta:vol1:translate:figs_irony]]).
   * **you** - This is plural here and in the next two sentences. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **Indeed, who does not know such things as these?** - Job used this question to express a truth that should be obvious to his listeners. It can be expressed as a statement. AT: "Indeed, there is no one who does not know such things as these." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Indeed, who does not know such things as these?** - The word "not" in this rhetorical question emphasizes that everyone knows these things. AT: "In fact, everyone understands these things." (See [[:en:ta:vol2:translate:figs_litotes]])
+  * **Indeed, who does not know such things as these?** - Job used this question to express a truth that should be obvious to his listeners. It can be expressed as a statement. AT: "Indeed, there is no one who does not know such things as these" or "Indeed, everyone knows these things" (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -78,6 +76,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

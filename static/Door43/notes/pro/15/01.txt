@@ -19,9 +19,9 @@
 
 <usfm>
 \v 1 A gentle answer turns away anger,
-\q but a harsh reply stirs up anger even more. 
+\q but a harsh reply stirs up anger even more.
 \q1
-\v 2 When wise people speak, they give praise to the value of knowledge; 
+\v 2 When wise people speak, they give praise to the value of knowledge;
 \q2 foolish people continually say foolish things.
 
 
@@ -52,16 +52,14 @@
   * [[:en:obe:kt:wise]]
   * [[:en:obe:other:know]] 
   * [[:en:obe:kt:foolish]]
+
 ===== translationNotes: =====
 
-
-  * **A gentle answer** - "A tender answer" AT: "a friendly answer"
-  * **a harsh word stirs up anger** - AT: "an offensive word causes anger" or "a painful word makes a person angry"
-  * **The tongue of wise people compliments** - AT: "Wise people compliment" or "When wise people speak they compliment" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **compliments knowledge** - "treats knowledge well" or "does good to knowledge"
-  * **knowledge** - This refers to both information and to the process of learning and teaching. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **the mouth of fools** - AT: "fools" or "foolish people" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
- 
+  * **A gentle answer turns away wrath** - Causing a person to stop being angry is spoken of as if it were turning that person's wrath away. AT: "Answering a person gently will calm that person's wrath" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **but a harsh word stirs up anger** - Causing a person to become more angry is spoken of as if it were stirring up or awakening anger. AT: "but speaking harshly causes that person to become more angry" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The tongue of wise people compliments knowledge** - Here the word "tongue" refers to the person who speaks. AT: "Wise people compliment knowledge when they speak" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **compliments knowledge** - "makes knowledge attractive" or "uses knowledge correctly"
+  * **the mouth of fools pours out folly** - The writer speaks of fools' mouths as if they were containers and of folly as if it were the liquid that filled them. When fools speak, their mouths pour out the liquid. The word "mouth" represents those who speak. AT: "fools are always speaking folly" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]]) 
  
 ===== Links: =====
 
@@ -76,6 +74,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

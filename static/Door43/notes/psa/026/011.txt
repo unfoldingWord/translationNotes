@@ -16,7 +16,6 @@
 <usfm>
 \v 11 But as for me, I always try to do what is right.
 \q2 So act kindly toward me and rescue me.
-\b
 \q1
 \v 12 I stand in places where I am safe,
 \q2 and when all your people gather together, I praise you.
@@ -44,7 +43,7 @@
 ===== translationNotes: =====
 
   * **But as for me** - This phrase shows that the writer is changing from speaking about wicked people to talking about himself.
-  * **I will walk in integrity** - Here acting or behaving is spoken of as if it were walking. Also, "integrity" is spoken of as if it were a path on which people could walk. AT: "I will do what is right"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will walk in integrity** - "Walk" is a metaphor for behavior. AT: "I will behave with integrity"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **My foot stands** - Here "foot" represents the whole person. AT: "I stand" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **level ground** - Possible meanings are that "level ground" represents 1) a safe place or 2) right behavior (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **in the assemblies will I bless Yahweh** - "when I gather with the people of Israel I will praise you"
@@ -55,6 +54,6 @@
   * [[:en:bible:questions:comprehension:psa:026]]
 **[[:en:bible:notes:psa:026:009|<<]] | [[:en:bible:notes:psa:027:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

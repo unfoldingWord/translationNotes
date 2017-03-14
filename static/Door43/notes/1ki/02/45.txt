@@ -14,7 +14,7 @@
 <usfm>
 \v 45 But Yahweh will bless me, and he will enable David's descendants to rule forever."
 \p
-\v 46 Then the king gave an order to Benaiah, and he went and killed Shimei.
+\v 46 Then the king gave a command to Benaiah son of Jehoiada. He went out and put Shimei to death.
 \p So Solomon obtained complete control of the kingdom.
 </usfm>
 
@@ -22,7 +22,8 @@
 
 <usfm>
 \v 45 But King Solomon will be blessed and the throne of David will be established before Yahweh forever."
-\v 46 So the king commanded Benaiah son of Jehoiada he went out and put Shimei to death. So the rule was well established in Solomon's hand.
+\v 46 Then the king gave a command to Benaiah son of Jehoiada. He went out and put Shimei to death. 
+\q So the rule was well established in Solomon's hand.
 </usfm>
 
 ===== translationWords: =====
@@ -48,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:02]]
 **[[:en:bible:notes:1ki:02:43|<<]] | [[:en:bible:notes:1ki:03:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

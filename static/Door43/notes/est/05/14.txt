@@ -23,8 +23,11 @@
  
 ===== translationNotes: =====
 
-  * **gallows** - Translate as in [[:en:bible:notes:est:02:22|Esther 2:23]].
-  * **fifty cubits** - "50 cubits" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_bdistance]])
+
+  * **a gallows** - a structure used for killing a person by tying one end of a a rope around the top of the structure and the other end of the rope around the person's neck and hanging him from it. See how you translated this in [[:en:bible:notes:est:02:22|2:23]]. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **fifty cubits high** - "50 cubits high." You may convert this to a modern measure. AT: "twenty-three meters high" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_bdistance]])
+  * **he had the gallows constructed** - "he told people to construct the gallows"
+  * **This pleased Haman** - "Haman liked this idea"
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -32,6 +35,6 @@
   * [[:en:bible:questions:comprehension:est:05]]
 **[[:en:bible:notes:est:05:12|<<]] | [[:en:bible:notes:est:06:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -1,19 +1,25 @@
-====== List of translationAcademy Topics in Haggai ======
+===== List of translationAcademy Topics in Haggai =====
 
 * [[:en:ta:vol1:translate:figs_idiom]] is found in:
- [[:en:bible:notes:hag:01:03|01:03]], [[:en:bible:notes:hag:01:14|01:14]]
+ [[:en:bible:notes:hag:01:01|01:01]], [[:en:bible:notes:hag:01:03|01:03]], [[:en:bible:notes:hag:01:14|01:14]], [[:en:bible:notes:hag:02:01|02:01]], [[:en:bible:notes:hag:02:10|02:10]], [[:en:bible:notes:hag:02:20|02:20]]
 
 * [[:en:ta:vol2:translate:figs_metonymy]] is found in:
  [[:en:bible:notes:hag:01:03|01:03]], [[:en:bible:notes:hag:01:10|01:10]]
 
 * [[:en:ta:vol1:translate:figs_rquestion]] is found in:
- [[:en:bible:notes:hag:01:03|01:03]], [[:en:bible:notes:hag:02:18|02:18]]
-
-* [[:en:ta:vol1:translate:figs_simile]] is found in:
- [[:en:bible:notes:hag:02:03|02:03]]
+ [[:en:bible:notes:hag:01:03|01:03]], [[:en:bible:notes:hag:02:03|02:03]], [[:en:bible:notes:hag:02:18|02:18]]
 
 * [[:en:ta:vol2:translate:figs_synecdoche]] is found in:
  [[:en:bible:notes:hag:01:01|01:01]], [[:en:bible:notes:hag:01:03|01:03]], [[:en:bible:notes:hag:01:07|01:07]], [[:en:bible:notes:hag:01:10|01:10]], [[:en:bible:notes:hag:01:12|01:12]], [[:en:bible:notes:hag:02:01|02:01]], [[:en:bible:notes:hag:02:15|02:15]]
 
+* [[:en:ta:vol2:translate:translate_bvolume]] is found in:
+ [[:en:bible:notes:hag:02:15|02:15]]
+
+* [[:en:ta:vol2:translate:translate_hebrewmonths]] is found in:
+ [[:en:bible:notes:hag:01:01|01:01]], [[:en:bible:notes:hag:01:14|01:14]], [[:en:bible:notes:hag:02:01|02:01]], [[:en:bible:notes:hag:02:10|02:10]], [[:en:bible:notes:hag:02:20|02:20]]
+
 * [[:en:ta:vol1:translate:translate_names]] is found in:
  [[:en:bible:notes:hag:01:01|01:01]], [[:en:bible:notes:hag:02:01|02:01]], [[:en:bible:notes:hag:02:10|02:10]], [[:en:bible:notes:hag:02:20|02:20]], [[:en:bible:notes:hag:02:23|02:23]]
+
+* [[:en:ta:vol2:translate:translate_ordinal]] is found in:
+ [[:en:bible:notes:hag:01:01|01:01]], [[:en:bible:notes:hag:01:14|01:14]], [[:en:bible:notes:hag:02:10|02:10]]

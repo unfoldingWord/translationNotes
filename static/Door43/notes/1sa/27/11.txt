@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 David would keep neither man nor woman alive to bring them to Gath, saying, "So that they cannot say about us, 'David did such and such.'" This was what he did all the while he has lived in the country of the Philistines.
+\v 11 David would keep neither man nor woman alive to bring them to Gath, saying, "So that they cannot say about us, 'David did such and such.'" This was what he did all the while he was living in the country of the Philistines.
 \v 12 Achish believed David, saying, "He has made his people Israel utterly abhor him; he will therefore be my servant forever."
 </usfm>
 
@@ -31,7 +31,7 @@
 ===== translationNotes: =====
 
   * **Gath** - one of five Philistine city-states. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Achish** - a king of Gath
+  * **Achish** - the king of Gath (See: [[:en:ta:vol2:translate:figs_pronouns]])
 
 
 ===== Links: =====
@@ -41,6 +41,6 @@
   * [[:en:bible:questions:comprehension:1sa:27]]
 **[[:en:bible:notes:1sa:27:10|<<]] | [[:en:bible:notes:1sa:28:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

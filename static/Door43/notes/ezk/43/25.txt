@@ -36,10 +36,10 @@
 
 ===== translationNotes: =====
 
-  * **You** - See how you translated "You" in [[:en:bible:notes:ezk:43:18|43:19]].
+  * **You must prepare** - This is spoken to Ezekiel and so the word "You" is singular. (See: [[:en:ta:vol2:translate:figs_pronouns]])
   * **it will come about that** - This phrase is used here to mark an important part of the instructions. If your language has a way for doing this, you could consider using it here.
-  * **your burnt offerings ... your peace offerings ... accept you** - The words "yours" and "you" are second person plural and refer to the people of Israel in general. (See: [[:en:ta:vol2:translate:figs_123person]] and [[:en:ta:vol1:translate:figs_you]])
-  * **will accept you** - "will receive you with favor" or "will be pleased with you"
+  * **your burnt offerings ... your peace offerings ... accept you** - The words "yours" and "you" are second person plural and refer to the people of Israel in general. (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **will accept you** - "will gladly receive you"
  
 ===== Links: =====
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:ezk:43]]
 **[[:en:bible:notes:ezk:43:22|<<]] | [[:en:bible:notes:ezk:44:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit atonement}}
+~~DISCUSSION~~{{tag>publish p2check atonement}}
 
 ~~NOCACHE~~

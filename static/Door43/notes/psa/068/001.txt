@@ -32,7 +32,7 @@
 \v 3 But may the righteous people be joyful;
 \q2 may they rejoice when they are in God's presence;
 \q2 may they be happy and very joyful.
-\b
+
 
 
 \q1
@@ -42,9 +42,8 @@
 
 <usfm>
 \c 68
-\p
+\m
 \d For the chief musician; A psalm of David, a song.
-\b
 \q
 \v 1 Let God arise; let his enemies be scattered;
 \q let those also who hate him flee before him.
@@ -72,17 +71,17 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **For the chief musician** - "This is for the director of music to use in worship;" 
+  * **For the chief musician** - "This is for the director of music to use in worship" 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **Let God arise** - God beginning to act is spoke of as if he stands up. AT: "Let God begin to act" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **let his enemies be scattered** - This can be stated in active form. AT: "Let God chase away his enemies" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **let his enemies be scattered** - This can be stated in active form. AT: "let God chase away his enemies" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **As smoke is driven away, so drive them away** - God's enemies are spoken of as if they are smoke that is easily blown away by the wind. This can be stated in active form. AT: "Drive them away as the wind blows away smoke" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **as wax melts before the fire** - God's enemies are spoken of as if they are wax that is easily melted by a fire. AT: "cause them to disappear as wax melts before a fire" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the wicked** - This refers to the wicked people in general. (See: [[:en:ta:vol2:translate:figs_nominaladj]])
   * **the righteous** - This refers to the righteous people in general. (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **rejoice and be happy** - These means the same thing and emphasize the amount of joy they feel. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **rejoice and be happy** - These means the same thing and emphasizes the amount of joy they feel. (See: [[:en:ta:vol2:translate:figs_doublet]])
  
 ===== Links: =====
 
@@ -91,6 +90,6 @@
   * [[:en:bible:questions:comprehension:psa:068]]
 **[[:en:bible:notes:psa:067:007|<<]] | [[:en:bible:notes:psa:068:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2 exult}}
+~~DISCUSSION~~{{tag>publish p2pass book2 exult}}
 
 ~~NOCACHE~~

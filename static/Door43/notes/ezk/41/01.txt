@@ -11,8 +11,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 Then in the vision the man brought me to into the holy place in the temple and measured the doorposts on either side of the entrance; they were each about 3.2 meters wide.
-\v 2 The entrance was about 5.4 meters wide, and the walls of each side of it were about 2.7 meters long. He also measured the holy place; it was about twenty-two meters long and about eleven meters wide.
+\v 1 Then in the vision the man brought me to into the holy place in the temple and measured the doorposts on either side of the entrance; they were each three and one-tenth meters wide.
+\v 2 The entrance was five and two-fifth meters wide, and the walls of each side of it were two and three-quarter meters long. He also measured the holy place. It was twenty-two meters long and eleven meters wide.
 
 
 \p
@@ -23,9 +23,9 @@
 <usfm>
 \c 41
 \p
-\v 1 Then the man brought me into the temple's holy place and measured the doorposts—six cubits wide on either side.
-\f + \ft After \fqa six cubits wide on either side \fqa* , most ancient copies and some modern versions add \fqa the width of the tent \fqa* . \f*
-\v 2 The width of the doorway was ten cubits; the wall on each side was five cubits long. Then the man measured the dimensions of the holy place—forty cubits long and twenty cubits wide.
+\v 1 Then the man brought me into the temple's holy place and measured the doorposts—six cubits in width on either side.
+\f + \ft After \fqa six cubits in width on either side \fqa* , most ancient copies and some modern versions add \fqa the width of the tent \fqa* . \f*
+\v 2 The width of the doorway was ten cubits; the wall on each side was five cubits in length. Then the man measured the dimensions of the holy place—forty cubits in length and twenty cubits in width.
 </usfm>
 
 ===== translationWords: =====
@@ -38,6 +38,16 @@
 
   * **General Information:** - The man in Ezekiel's vision ([[:en:bible:notes:ezk:40:03|40:3]]) continues to show Ezekiel around the temple.
 
+  * **the temple's holy place** - the room in the temple in front of the "most holy place"
+  * **six cubits in width on either side** - These cubits were the "long" cubits ([[:en:bible:notes:ezk:40:05|40:5]]), 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. "they were six cubits in width on both sides"
+  * **six cubits** - about 3.2 meters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **cubits** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **ten cubits** - about 5.4 meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **five cubits** - about 2.7 meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **the dimensions** - "the size"
+  * **forty cubits** - about 22 meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **twenty cubits** - about 11 meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -45,6 +55,6 @@
   * [[:en:bible:questions:comprehension:ezk:41]]
 **[[:en:bible:notes:ezk:40:48|<<]] | [[:en:bible:notes:ezk:41:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit holyplace}}
+~~DISCUSSION~~{{tag>publish p2check holyplace}}
 
 ~~NOCACHE~~

@@ -22,7 +22,6 @@
 \q1
 \v 12 What you have said—the things that you think are so wise—are as useless as ashes;
 \q2 what you say to defend how you think is no better than clay that quickly crumbles.
-\b
 
 
 \q1
@@ -38,7 +37,6 @@
 \q
 \v 12 Your memorable sayings are proverbs made of ashes;
 \q your defenses are defenses made of clay.
-\b
 </usfm>
 
 
@@ -50,9 +48,11 @@
 
 ===== translationNotes: =====
 
-  * **Would not his majesty make you afraid? Would not his dread fall upon you?** - Job speaks of God's Position and His behavior are to be deeply respected. "I am absolutely certain that his majesty would make you afraid and that his dread would fall on you!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **proverbs made of ashes ... defenses made of clay** - Job compares their useless proverbs to ashes and their resistance to the truth to clay. Both statements mean the same for emphasis. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
-
+  * **Would not his majesty make you afraid? Would not his dread fall upon you?** - Job uses these questions to rebuke his friends. Possible meanings are 1) Job is saying that they should fear God. AT: "His majesty should make you afraid, and his dread should fall on you" or 2) Job is saying that they will fear God. AT: "His majesty will make you afraid, and his dread will fall on you!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Would not his dread fall upon you** - Dead falling on people represents them becoming terribly afraid. AT: "Would you not be terribly afraid" or "Would you not be terrified" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Your memorable sayings are proverbs made of ashes** - Ashes represent things that are worthless and do not last. AT: "Your memorable sayings are worthless like ashes" or "Your memorable sayings will be forgotten like ashes that are blown away" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **your defenses are defenses made of clay** - Job speaks of what they say as if it were a wall around a city made of clay; it cannot defend the people because clay breaks easily. AT: "What you say in defense is as useless as a wall of clay" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **your defenses** - Possible meanings are that this refers to 1) what they say to defend themselves or 2) what they say to defend God.
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -60,6 +60,6 @@
   * [[:en:bible:questions:comprehension:job:13]]
 **[[:en:bible:notes:job:13:09|<<]] | [[:en:bible:notes:job:13:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

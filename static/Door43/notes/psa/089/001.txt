@@ -22,7 +22,7 @@
 \q1
 \v 2 I will tell people that you will faithfully love us forever,
 \q2 and that your being faithful to do what you have promised is as permanent as the sky.
-\b
+
 
 
 \q1
@@ -33,16 +33,14 @@
 
 <usfm>
 \c 89
-\p
+\m
 \d A maschil of Ethan the Ezrahite.
-\b
 \q
 \v 1 I will sing of Yahweh's acts of covenant faithfulness forever.
 \q I will proclaim your truthfulness to future generations.
 \q
 \v 2 For I have said, "Covenant faithfulness has been established forever;
 \q your truthfulness you have established in the heavens."
-\b
 </usfm>
 
 
@@ -58,7 +56,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A maschil** - This may refer to a style of music. See how you translated this in [[:en:bible:notes:psa:032:001|32:1]].
   * **Ethan** - This is the name of the writer. (See: [[:en:ta:vol1:translate:translate_names]])
@@ -81,6 +79,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book3}}
+{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

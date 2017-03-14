@@ -38,14 +38,14 @@
 
 <usfm>
 \c 47
-\p
+\m
 \q1
 \v 1 Come down and sit in the dust, virgin daughter of Babylon;
-\q1 sit on the ground without a throne, daughter of the Chaldeans. 
+\q1 sit on the ground without a throne, daughter of the Chaldeans.
 \q1 You will no longer be called dainty and delicate.
 
 \q1
-\v 2 Take the millstone and grind flour; remove your veil, 
+\v 2 Take the millstone and grind flour; remove your veil,
 \q1 strip off your flowing robe, uncover your legs, cross the streams.
 </usfm>
 
@@ -60,12 +60,15 @@
 
 ===== translationNotes: =====
 
-  * **sit in the dust, virgin daughter of Babylon; sit on the ground ... daughter of the Chaldeans.** - These two phrases mean basically the same thing and emphasize how greatly Yahweh will humiliate the Babylonians. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **virgin daughter of Babylon** - The "virgin daughter" of a city means the attractive and delicate people of the city. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **without a throne** - Here "throne" refers to their power to rule. AT: "without the power to rule" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **daughter of the Chaldeans** - The "daughter" of a city means the people of the city. AT: "the Chaldean people" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **You will no longer be called dainty and delicate** - This can be stated in active form. AT: "People will no longer call you beautiful" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **General Information:** - In this chapter, Yahweh speaks to Babylon about her downfall as if she were a queen who is humiliated. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
+
+  * **sit in the dust, virgin daughter of Babylon; sit on the ground ... daughter of the Chaldeans.** - These two phrases mean basically the same thing. Sitting in the dust was a sign of humiliation. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:translate_symaction]])
+  * **virgin daughter of Babylon ... daughter of the Chaldeans** - Both of these phrases refer to the city, Babylon, which is spoken of as if it were a daughter. That the city is a "daughter" indicates how people think fondly of her. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **without a throne** - Here "throne" refers to the power to rule. AT: "without the power to rule" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **You will no longer be called dainty and delicate** - This can be stated in active form. AT: "People will no longer call you dainty and delicate" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **dainty and delicate** - These two words share similar meanings. They describe one who is beautiful and lives in luxury. AT: "very beautiful" or "very luxurious" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **millstone** - a large stone used to grind grain
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -73,6 +76,6 @@
   * [[:en:bible:questions:comprehension:isa:47]]
 **[[:en:bible:notes:isa:46:12|<<]] | [[:en:bible:notes:isa:47:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit veil}}
+~~DISCUSSION~~{{tag>publish p2pass p2example veil}}
 
 ~~NOCACHE~~

@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 29 Also to the elders who were in Racal, and to those who were in the cities of the Jerahmeelites, and to those who were in the cities of the Kenites,
+\v 29 He also sent some to the elders who were in Racal, and to those who were in the cities of the Jerahmeelites, and to those who were in the cities of the Kenites,
 \v 30 and to those who were in Hormah, and to those who were in Borashan, and to those who were in Athach,
 \v 31 and to those who were in Hebron, and to all the places where David himself and his men habitually went.
 </usfm>
@@ -36,9 +36,10 @@
 
 ===== translationNotes: =====
 
+  * **Connecting Statement:** - The writer ends the list of cities whose elders received gifts from David that began in [[:en:bible:notes:1sa:30:26|30:27]]. You may be able to combine the list items from [[:en:bible:notes:1sa:30:26|30:27-31]] into one list.
+
   * **Racal ... Hormah ... Borashan ... Athach** - These are the names of towns. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Jerahmeelites ... Kenites** - These are the names of people groups. (See: [[:en:ta:vol1:translate:translate_names]])
-
  
 ===== Links: =====
 
@@ -47,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1sa:30]]
 **[[:en:bible:notes:1sa:30:26|<<]] | [[:en:bible:notes:1sa:31:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

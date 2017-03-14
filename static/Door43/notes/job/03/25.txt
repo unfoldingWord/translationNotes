@@ -44,8 +44,8 @@
 ===== translationNotes: =====
 
   * **the thing that I feared has come on me; what I was afraid of has come to me** - These two phrases mean the same thing. AT: "what I feared most has happened to me" or "my worst fear has come true." (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **I am not at ease, I am not quiet, and I have no rest** - Job expresses his anguish in three separate phrases. AT: "I am very anxious" or "I am emotionally and physically tormented"
-  * **trouble comes instead** - AT: "distress torments me instead"
+  * **I am not at ease, I am not quiet, and I have no rest** - Job expresses his anguish in three separate phrases. AT: "I am very anxious" or "I am emotionally and physically tormented" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **trouble comes instead** - Trouble is spoken of as if it were an object that could come to Job. AT: "distress torments me instead" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:job:03]]
 **[[:en:bible:notes:job:03:23|<<]] | [[:en:bible:notes:job:04:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

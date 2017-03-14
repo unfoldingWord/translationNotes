@@ -25,7 +25,6 @@
 \q2 I can no longer see because of my tears.
 \q1 The sins that I have committed are more than the hairs on my head.
 \q2 I am very discouraged.
-\b
 \q1
 \v 13 O Yahweh, please save me!
 \q2 Come quickly to help me!
@@ -58,7 +57,7 @@
 ===== translationNotes: =====
 
   * **Troubles that cannot be numbered surround me** - Here troubles are spoken of as if they were objects that surround and trap the speaker. AT: "there are more troubles around me than I can count" or "more troubles come to me than I can count" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **cannot be numbered** - This is stated in negative form to intensify the number. AT: "that are vast in number." See how you translated this in [[:en:bible:notes:psa:040:005|40:5]]. (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **that cannot be numbered** - This is stated in negative form to intensify the number.See how you translated this in [[:en:bible:notes:psa:040:005|40:5]]. AT: "that are vast in number" (See: [[:en:ta:vol2:translate:figs_litotes]])
   * **my iniquities** - This refers to the consequences of his sin. AT: "the consequences of my iniquities" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **have caught up with me** - The writer's iniquities are spoken of as if they were his enemies who were harming him. (See: [[:en:ta:vol2:translate:figs_personification]]) 
   * **I am no longer able to see anything** - Versions differ in how to understand this difficult passage. It may mean that the speaker is crying so much that he cannot see anything because of his tears.
@@ -75,6 +74,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book1}}
+{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

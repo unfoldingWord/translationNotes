@@ -21,7 +21,7 @@
 
 <usfm>
 \v 21 She named the child Ichabod, saying, "The glory has gone away from Israel!" for the ark of God had been captured, and because of her father-in-law and her husband.
-\v 22 And she said, "The glory has gone away from Israel, because the ark of God has been captured."
+\v 22 She said, "The glory has gone away from Israel, because the ark of God has been captured."
 </usfm>
 
 ===== translationWords: =====
@@ -32,7 +32,7 @@
 
 ===== translationNotes: =====
 
-  * **Ichabod** - The name is actually a phrase that means "no glory." A proper name sometimes reveals information about the person, place, or thing it refers to. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ichabod** - The name is actually a phrase that means "no glory." The name of a person sometimes reveals information about the person, place, or thing it refers to. (See: [[:en:ta:vol1:translate:translate_names]])
   * **for the ark of God had been captured ... the ark of God has been captured."** - This can be stated in active form. AT: "for the Philistines had captured the ark of God ... because the Philistines have captured the ark of God" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
@@ -45,6 +45,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2check p2example}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

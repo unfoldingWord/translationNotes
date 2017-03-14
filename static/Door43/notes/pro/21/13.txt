@@ -16,10 +16,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 When the poor cried out for help, there was a person who refused to listen to their cries, 
-\q2 but when he cried out, because he covered his ears to their cries, no one heard his cries. 
+\v 13 When the poor cried out for help, there was a person who refused to listen to their cries,
+\q2 but when he cried out, because he covered his ears to their cries, no one heard his cries.
 \q1
-\v 14 Give a gift to a person who is angry with you, and it may turn away his anger; 
+\v 14 Give a gift to a person who is angry with you, and it may turn away his anger;
 \q2 a secret gift may help a person who is angry at you to calm down.
 
 
@@ -30,11 +30,11 @@
 
 <usfm>
 \q
-\v 13 The one who will not hear the cry of poor people,
-\q when he also cries out, he will not be heard.
+\v 13 The one who shuts his ears to the cry of the poor,
+\q he also will cry out, but he will not be answered.
 \q
 \v 14 A gift in secret appeases anger
-\q and a concealed gift takes away strong wrath.
+\q and a concealed gift appeases strong wrath.
 </usfm>
 
 ===== translationWords: =====
@@ -45,10 +45,9 @@
 
 ===== translationNotes: =====
 
-  * **The one who will not hear the cry of poor people** - "The one who will not listen to the outcry of the poor" AT: "The one who will not pay attention to how the poor suffer" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **he will not be heard** - AT: "no one will hear him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **A gift in secret ... a concealed gift takes** - These two phrases express the same idea to emphasize how effective this can be. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **appeases anger** - AT: "turns anger into peace"
+  * **The one who shuts his ears to the cry of the poor** - This is an idiom. AT: "The one who will not listen when poor people ask for help" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **he will not be answered** - The word "answered" is a metonym for a person hearing another person ask for help and acting to help. This can be translated in active form. AT: "no one will do anything to help him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **appeases anger** - "makes an angry person feel better so he is no longer angry"
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:11|<<]] | [[:en:bible:notes:pro:21:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

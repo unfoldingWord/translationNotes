@@ -28,11 +28,12 @@
 
 <usfm>
 \p
-\v 23 After the soldiers crucified Jesus, they took his clothes and made four shares; a share for each soldier, and the tunic. Now the tunic was without seams, woven completely from the top.
-\v 24 Then they said to each other, "Let us not tear it apart, but instead let us cast lots for it to decide whose it will be." This happened so that the scripture would be fulfilled that said,
-\q "They divided my garments among themselves;
-\q they cast lots for my clothing."
+\v 23 When the soldiers crucified Jesus, they took his clothes, divided them into four shares, one for each of them; and also the tunic. Now the tunic was seamless, woven in one piece from the top.
+\v 24 Then they said to each other, "Let us not tear it, but instead let us cast lots for it to decide whose it will be." This happened so that the scripture would be fulfilled which said,
+\q "They divided my garments among themselves
+\q and cast lots for my clothing."
 \m
+This is what the soldiers did.
 </usfm>
 
 ===== translationWords: =====
@@ -46,11 +47,10 @@
 
   * **General Information:** - At the end of verse 24 there is a break from the main storyline as the John tells us how this event fulfills Scriture. (See: [[:en:ta:vol2:translate:writing_background]])
 
-  * **and the tunic** - The soldiers kept the tunic separate and did not divide it. AT: "and they kept his tunic separate" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **and also the tunic** - "and they also took his tunic." The soldiers kept the tunic separate and did not divide it. AT: "and they kept his tunic separate" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]]) 
   * **let us cast lots for it to decide whose it will be** - The soldiers will gamble and the winner will receive the shirt. AT: "let us gamble for the tunic and the winner will get to keep it" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **so that the scripture would be fulfilled that said** - You can translate this in an active form. AT: "This fulfilled the scripture that said" or "This happened to make the scripture come true that said" 
-  * **they cast lots** - This was how the soldiers divided Jesus' clothing among themselves. AT: "they gambled"
-
+  * **so that the scripture would be fulfilled which said** - You can translate this in an active form. AT: "This fulfilled the scripture that said" or "This happened to make the scripture come true which said" 
+  * **and cast lots** - This was how the soldiers divided Jesus' clothing among themselves. AT: "they gambled"
 ===== Links: =====
 
   * [[:en:bible:notes:jhn:00:intro]]

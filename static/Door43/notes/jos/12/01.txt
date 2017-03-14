@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 The Israelites took control of the land that was east of the Jordan River, from the Arnon River gorge in the south to Mount Hermon in the north, including all the land on the eastern side of the plain along the Jordan. 
+\v 1 The Israelites took control of the land that was east of the Jordan River, from the Arnon River gorge in the south to Mount Hermon in the north, including all the land on the eastern side of the plain along the Jordan.
 \m
 \v 2 Sihon was the king of the Amorites. He lived in Heshbon and ruled over the area from Aroer along the Arnon River gorge, north to the Jabbok River. His land started in the middle of the gorge, which was the border between his land and the land of the Ammonites. Sihon also ruled over half of the region of Gilead.
 </usfm>
@@ -24,7 +24,7 @@
 <usfm>
 \c 12
 \p
-\v 1 Now these are the kings of the land, whom the men of Israel conquered. The Israelites took possession of the land on the east side of the Jordan where the sun rises, from the valley of the Arnon River to Mount Hermon, and all the Arabah to the east.
+\v 1 Now these are the kings of the land, whom the men of Israel conquered. The Israelites took possession of the land on the east side of the Jordan where the sun rises, from the Valley of the Arnon River to Mount Hermon, and all the Arabah to the east.
 \q
 \v 2 Sihon, king of the Amorites, lived in Heshbon. He ruled from Aroer, which is on the rim of the Arnon Gorge from the middle of the valley, and half of Gilead down to the Jabbok River on the border of the Ammonites.
 </usfm>
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check ammon}}
+{{tag>publish p2pass ammon}}
 
 ~~NOCACHE~~

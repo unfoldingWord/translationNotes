@@ -19,11 +19,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 When she sees the young man, she firmly takes hold of him, and then she kisses him.
-\q2 and without any shame and with great boldness, she says, 
+\v 13 When she saw the young man, she firmly took hold of him, and then she kissed him.
+\q2 Without any shame and with great boldness, she said,
 \q1
 \v 14 "Today I have meat in my house, because I made a sacrifice in the temple to promise friendship with Yahweh.
-\q2 In this way I kept my vows to Yahweh, 
+\q2 In this way I kept my vows to Yahweh,
 \q1
 \v 15 and now I have come out here to meet you.
 \q2 I was looking for you, and now I have found you!
@@ -37,14 +37,14 @@
 
 <usfm>
 \q
-\v 13 So she grabs him and kisses him, 
-\q with a bold face she says to him,
+\v 13 So she grabbed him and kissed him,
+\q with a strong face she said to him,
 \q
-\v 14 "I made my peace offering today, 
-\q I paid my vows, 
+\v 14 "I made my peace offering today,
+\q I paid my vows,
 \q
 \v 15 so came I out to meet you,
-\q to eagerly seek your face and I have found you.
+\q to eagerly seek your face, and I have found you.
 </usfm>
 
 
@@ -57,10 +57,12 @@
 
 ===== translationNotes: =====
 
-  * **she** - She is the woman that was introduced in [[:en:bible:notes:pro:07:10|7:10]].
-  * **grabs him** - "takes hold of him firmly"
-  * **with a bold face** - AT: "with a shameless expression on her face" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **your face** - AT: "you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **she** - "She" refers to the woman that was introduced in [[:en:bible:notes:pro:07:10|7:10]].
+  * **grabbed him** - "took hold of him firmly"
+  * **with a strong face** - Here "strong" represents "stubborn." A "strong face" means a stubborn expression on a person's face. This implies that the woman is acting in a stubborn way, that she is deliberately doing what she knows is wrong. AT: "with a shameless expression on her face" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **I paid my vows** - Here "vows" represents what the person promised to sacrifice to God. AT: "I made the sacrifices I promised to God" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **seek your face** - Here "face" represents the person and especially the person's presence. AT: "look for you" or "find out where you are" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+
 
 ===== Links: =====
 
@@ -69,6 +71,6 @@
   * [[:en:bible:questions:comprehension:pro:07]]
 **[[:en:bible:notes:pro:07:10|<<]] | [[:en:bible:notes:pro:07:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit vow peaceoffering}}
+~~DISCUSSION~~{{tag>publish p2pass vow peaceoffering}}
 
 ~~NOCACHE~~

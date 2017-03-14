@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 21 However, if the person is poor and cannot afford these sacrifices, then he may take one male lamb as a guilt offering to be waved, to make atonement for himself, and one tenth of an ephah of fine flour mixed with oil as a grain offering, and a log of oil, 
+\v 21 However, if the person is poor and cannot afford these sacrifices, then he may take one male lamb as a guilt offering to be waved, to make atonement for himself, and one-tenth of an ephah of fine flour mixed with oil as a grain offering, and a log of oil,
 \v 22 together with two doves or two young pigeons, such as he is able to get; one bird will be a sin offering and the other a burnt offering.
 \v 23 On the eighth day he must bring them for his cleansing to the priest, to the entrance to the tent of meeting, before Yahweh.
 </usfm>
@@ -49,8 +49,8 @@
   * **General Information:** - Yahweh continues telling Moses and Aaron what the people must do when someone is cleansed of a skin disease.
 
   * **cannot afford** - "does not have enough money to buy"
-  * **to be raised and presented ... for himself** - This can be translated in active form. AT: "that the priest will raise and present ... for him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **one tenth of an ephah** - One tenth of an ephah is 22 liters. (See: [[:en:ta:vol2:translate:translate_bvolume]])
+  * **to be waved ... for himself** - This can be translated in active form. AT: "that the priest will wave ... for him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **one-tenth of an ephah** - One-tenth of an ephah is 22 liters. (See: [[:en:ta:vol2:translate:translate_bvolume]])
   * **log** - One log is 0.31 liters. (See: [[:en:ta:vol2:translate:translate_bvolume]])
 
 ===== Links: =====
@@ -60,6 +60,6 @@
   * [[:en:bible:questions:comprehension:lev:14]]
 **[[:en:bible:notes:lev:14:19|<<]] | [[:en:bible:notes:lev:14:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check lamb}}
+~~DISCUSSION~~{{tag>publish p2pass lamb}}
 
 ~~NOCACHE~~

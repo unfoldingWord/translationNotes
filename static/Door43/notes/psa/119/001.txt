@@ -28,9 +28,9 @@
 
 <usfm>
 \c 119
-\p
+\m
 \d ALEPH.
-\p
+\m
 \q
 \v 1 Blessed are those whose ways are blameless,
 \q who walk in the law of Yahweh.
@@ -51,13 +51,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **ALEPH** - This is the name of the first letter of the Hebrew alphabet. 
   * **Blessed are those** - "How good it is for those"
   * **those whose ways are blameless** - How a person behaves is spoken of as "ways" or "paths." AT: "those whose behavior is blameless" or "those whom no one can blame for doing wrong" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **who walk in the law of Yahweh** - The way a person lives or behaves is spoken of as walking. AT: "who live according to the law of Yahweh" or "who obey the law of Yahweh." This phrase clarifies the meaning of "whose ways are blameless." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **who seek him with all their heart** - To "seek" God means to want to know him, and "with all of their heart" means intensely. AT: "who really want to know him" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who seek him with all their heart** - To "seek" God means to want to know him. 
+  * **with all their heart** - This is an idiom which means intensely or sincerely. AT: "with all their being" or "with everything in them" or "sincerely" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -65,6 +66,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:118:029|<<]] | [[:en:bible:notes:psa:119:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

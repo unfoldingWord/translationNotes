@@ -21,10 +21,9 @@
 \q1
 \v 2 Yahweh loves that city, Jerusalem, more than he loves any other place in Israel.
 \q1
-\v 3 You people in Jerusalem,
+\v 3 All you people in Jerusalem,
 \q2 other people say wonderful things about your city.
 
-\b
 
 
 \q1
@@ -34,16 +33,15 @@
 
 <usfm>
 \c 87
-\p
+\m
 \d A psalm of the sons of Korah; a song.
-\b
 \q
 \v 1 On the holy mount stands the city he founded;
 \q
 \v 2 Yahweh loves the gates of Zion
 \q more than all the tents of Jacob.
 \q
-\v 3 Glorious things are said of you, city of God. 
+\v 3 Glorious things are said of you, city of God.
 \qs Selah\qs*
 </usfm>
 
@@ -66,7 +64,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A psalm of the sons of Korah; a song** - "This is a psalm that the sons of Korah wrote"
   * **gates of Zion** - Here "gates of Zion" represents the entire city of Jerusalem. AT: "city of Jerusalem" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
@@ -81,6 +79,6 @@
   * [[:en:bible:questions:comprehension:psa:087]]
 **[[:en:bible:notes:psa:086:015|<<]] | [[:en:bible:notes:psa:087:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3 lordyahweh}}
+~~DISCUSSION~~{{tag>publish p2pass book3 lordyahweh}}
 
 ~~NOCACHE~~

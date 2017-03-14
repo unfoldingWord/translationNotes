@@ -19,7 +19,7 @@
 
 <usfm>
 \v 10 Yahweh says, "When I found Israel, it was like someone finding grapes growing in the wilderness.
-\q1 When I saw your ancestors, they were like the very first figs that appear in the year, figs growing on a young fig tree. 
+\q1 When I saw your ancestors, they were like the very first figs that appear in the year, figs growing on a young fig tree.
 \q1 But when they came to Mount Peor,
 \q2 they gave themselves completely to that disgusting idol Baal,
 \q2 and they became as detestable as the idol they loved.
@@ -32,7 +32,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q
 \v 10 Yahweh says, "When I found Israel, it was like finding grapes in the wilderness.
 \q Like the firstfruit of the season on the fig tree, I found your fathers.
@@ -69,6 +68,6 @@
   * [[:en:bible:questions:comprehension:hos:09]]
 **[[:en:bible:notes:hos:09:08|<<]] | [[:en:bible:notes:hos:09:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check grape}}
+~~DISCUSSION~~{{tag>publish p2pass grape}}
 
 ~~NOCACHE~~

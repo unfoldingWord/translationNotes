@@ -14,7 +14,7 @@
 <usfm>
 \v 13 Eleazar and all the leaders of the people and Moses went outside the camp to greet them.
 \p
-\v 14 But Moses was angry with some of the men who had returned from the battle. He was angry with the army officers and the men who were commanders of a thousand men and those who were commanders of a hundred men.
+\v 14 But Moses was angry with some of the men who had returned from the battle. He was angry with the army officers, those men who were commanders over thousands of men and those who were commanders over hundreds of men.
 \v 15 He asked them, "Why did you allow the women to live?
 </usfm>
 
@@ -33,9 +33,10 @@
 
 ===== translationNotes: =====
 
-  * **the commanders of thousands** - Men who commanded more than 1,000 men but less than 10,000 men. (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **the captains of hundreds** - Men who commanded more than 100 men but less than 1000 men. (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **Have you let all the women live?** - The Law was explicit on who would be permitted to live. The army violated the law by allowing all the women and children to live. This was a rebuke to the army leaders. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the commanders of thousands** - These are military leaders who commanded more than 1,000 men but less than 10,000 men. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **of thousands ... of hundreds** - The words "of soldiers" is understood. AT: "of thousands of soldiers ... of hundreds of soldiers" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **the captains of hundreds** - These are military leaders who commanded more than 100 men but less than 1,000 men. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Have you let all the women live?** - The law was explicit on who would be permitted to live. The army violated the law by allowing all the women and children to live. This was a rebuke to the army leaders. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -43,6 +44,6 @@
   * [[:en:bible:questions:comprehension:num:31]]
 **[[:en:bible:notes:num:31:11|<<]] | [[:en:bible:notes:num:31:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

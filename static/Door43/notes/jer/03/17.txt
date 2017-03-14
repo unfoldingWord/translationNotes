@@ -51,8 +51,12 @@
 
 ===== translationNotes: =====
 
-  * **the house of Judah will walk with the house of Israel** - "the people of Judah will live together with the people of Israel"
-
+  * **This is Yahweh's throne** - Here "Yahweh's throne" represents where Yahweh rules from. AT: "This is where Yahweh rules from" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They will no longer walk in the stubbornness of their wicked hearts** - Yahweh speaks of people's actions as if the people were walking along a path. Here the word "hearts" represents their minds or wills. AT: "They will no longer stubbornly do the wicked things that they want to do" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the house of Judah will walk with the house of Israel** - Here "walk with" represents being united. AT: "the people of Judah will be united with the people of Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the house of Judah** - The word "house" is a metonym for the family that lives in the house. In this case it refers to the kingdom of Judah, which included the descendants of Judah and Benjamin. Translate as in [[:en:bible:notes:jer:11:09|11:10]]. AT: "Judah" or "the kingdom of Judah" or "the people of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house. In this case it refers to the kingdom of Israel. Translate as in [[:en:bible:notes:jer:03:17|3:18]]. AT: "Israel" or "the kingdom of Israel" or "the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the land that I gave your ancestors as an inheritance** - God speaks of giving them the land to possess forever as if it were an inheritance. AT: "the land that I gave to your ancestors so that it would belong to their descendants forever" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -66,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit stiffnecked}}
+{{tag>publish p2check stiffnecked}}
 
 ~~NOCACHE~~

@@ -15,13 +15,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 My son, as sinners try to draw you into their sin with smooth talk and flattery, 
+\v 10 My son, as sinners try to draw you into their sin with smooth talk and flattery,
 \q2 do not listen to what they say and do not follow them.
 \q1
 \v 11 They may say, "Come with us! Join us!
 \q2 We will hide in wait and we will take the life of one who passes by.
-\q2 We will hide ourselves and we will rise up and attack a person who has done us no wrong—that will be our sport. 
-
+\q2 We will hide ourselves and we will rise up and attack a person who has done us no wrong—that will be our sport.
 
 \q1
 </usfm>
@@ -45,9 +44,10 @@
 
 ===== translationNotes: =====
 
-  * **entice** - attract
-  * **If they say** - What follows is what sinners might say. (See: [[:en:ta:vol1:translate:figs_hypo]])
-  * **lie in wait** - "hide and wait for the right time" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **try to entice you into their sin** - "try to persuade you to sin as they do"
+  * **refuse to follow them** - "refuse them" or "do not listen to them"
+  * **If they say** - Here the speaker gives an example of what sinners may try to entice someone to do. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **lie in wait** - "hide and wait for the right time"
 
 ===== Links: =====
 
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:pro:01]]
 **[[:en:bible:notes:pro:01:07|<<]] | [[:en:bible:notes:pro:01:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

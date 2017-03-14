@@ -29,7 +29,7 @@
 
 <usfm>
 \p
-\v 14 These were the heads of their fathers' houses: The sons of Reuben, the firstborn of Israel, were Hanoch, Pallu, Hezron, and Carmi. These were the clan ancestors of Reuben.
+\v 14 These were the heads of their fathers' houses: the sons of Reuben, the firstborn of Israel, were Hanoch, Pallu, Hezron, and Carmi. These were the clan ancestors of Reuben.
 \v 15 The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul—the son of a Canaanite woman. These were the clan ancestors of Simeon.
 </usfm>
 
@@ -48,8 +48,7 @@
 
 ===== translationNotes: =====
 
- 
-  * **heads** - Often this term is used to refer to someone who is in authority over people. 
+  * **the heads of their fathers' houses** - Here "heads" refers to the original ancestors of the clan. AT: "the ancestors of the clans"
   * **Hanoch ... Shaul** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
@@ -58,6 +57,6 @@
   * [[:en:bible:questions:comprehension:exo:06]]
 **[[:en:bible:notes:exo:06:10|<<]] | [[:en:bible:notes:exo:06:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

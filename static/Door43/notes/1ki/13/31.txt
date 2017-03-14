@@ -21,7 +21,7 @@
 
 <usfm>
 \v 31 Then after he had buried him, the old prophet spoke to his sons, saying, "When I am dead, bury me in the tomb in which the man of God is buried. Lay my bones beside his bones.
-\v 32 For the message he declared by the word of Yahweh, against the altar in Bethel and against all the houses on the high places in the cities of Samaria, will certainly happen.
+\v 32 For the message he declared by the word of Yahweh, against the altar in Bethel and against all the houses on the high places in the cities of Samaria, will certainly happen."
 </usfm>
 
 ===== translationWords: =====
@@ -36,6 +36,8 @@
 ===== translationNotes: =====
 
   * **he had buried him** - Here the word "he" refers to the old prophet and the word "him" refers to the man of God.
+  * **Lay my bones beside his bones** - Here "my bones" represents his entire body. AT: "Lay my dead body beside his bones" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **houses on the high places** - The implied information is that these were houses of worship. AT: "houses of worship on the high places" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -44,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:13]]
 **[[:en:bible:notes:1ki:13:29|<<]] | [[:en:bible:notes:1ki:13:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

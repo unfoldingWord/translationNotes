@@ -45,6 +45,7 @@
 
 ===== translationNotes: =====
 
+  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
   * **from the tent of meeting, saying, "Speak to the people of Israel and tell them, 'When any man** - Here Yahweh begins speaking to Moses. This speech ends in 3:17. This can be translated without the quotation within the quotation. AT: "from the tent of meeting and told Moses to say this to the people of Israel: 'When any man" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
   * **When any man from among you** - "When any one of you" or "When any of you"
 ===== Links: =====
@@ -54,6 +55,6 @@
   * [[:en:bible:questions:comprehension:lev:01]]
 ** | [[:en:bible:notes:lev:01:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check tentofmeeting}}
+~~DISCUSSION~~{{tag>publish p2pass tentofmeeting}}
 
 ~~NOCACHE~~

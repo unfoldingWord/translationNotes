@@ -1,10 +1,4 @@
-======= List of translationWords in Joel =======
-
-* [[:en:obe:kt:yahweh]] is found in:
- [[:en:bible:notes:jol:03:20|03:20]]
-
-* [[:en:obe:other:zion]] is found in:
- [[:en:bible:notes:jol:03:20|03:20]]
+===== List of translationWords in Joel =====
 
 * [[:en:obe:kt:almighty]] is found in:
  [[:en:bible:notes:jol:01:15|01:15]]
@@ -51,20 +45,11 @@
 * [[:en:obe:kt:compassion]] is found in:
  [[:en:bible:notes:jol:02:14|02:14]]
 
-* [[:en:obe:kt:consecrate]] is found in:
- [[:en:bible:notes:jol:02:15|02:15]]
-
 * [[:en:obe:kt:darkness]] is found in:
  [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:02:30|02:30]]
 
 * [[:en:obe:kt:dayofthelord]] is found in:
  [[:en:bible:notes:jol:01:15|01:15]], [[:en:bible:notes:jol:02:10|02:10]], [[:en:bible:notes:jol:02:30|02:30]], [[:en:bible:notes:jol:03:14|03:14]]
-
-* [[:en:obe:kt:death]] is found in:
- [[:en:bible:notes:jol:01:08|01:08]]
-
-* [[:en:obe:other:declare]] is found in:
- [[:en:bible:notes:jol:01:13|01:13]]
 
 * [[:en:obe:other:desert]] is found in:
  [[:en:bible:notes:jol:01:18|01:18]], [[:en:bible:notes:jol:02:03|02:03]], [[:en:bible:notes:jol:02:21|02:21]], [[:en:bible:notes:jol:03:18|03:18]]
@@ -150,6 +135,9 @@
 * [[:en:obe:kt:harvest]] is found in:
  [[:en:bible:notes:jol:01:11|01:11]], [[:en:bible:notes:jol:02:21|02:21]], [[:en:bible:notes:jol:03:12|03:12]]
 
+* [[:en:obe:other:head]] is found in:
+ [[:en:bible:notes:jol:03:04|03:04]]
+
 * [[:en:obe:other:heart]] is found in:
  [[:en:bible:notes:jol:02:12|02:12]]
 
@@ -157,7 +145,7 @@
  [[:en:bible:notes:jol:02:10|02:10]], [[:en:bible:notes:jol:02:30|02:30]], [[:en:bible:notes:jol:03:16|03:16]]
 
 * [[:en:obe:kt:holy]] is found in:
- [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:03:16|03:16]]
+ [[:en:bible:notes:jol:01:13|01:13]], [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:02:15|02:15]], [[:en:bible:notes:jol:03:16|03:16]]
 
 * [[:en:obe:kt:holyspirit]] is found in:
  [[:en:bible:notes:jol:02:28|02:28]]
@@ -273,12 +261,6 @@
 * [[:en:obe:other:sackcloth]] is found in:
  [[:en:bible:notes:jol:01:08|01:08]], [[:en:bible:notes:jol:01:13|01:13]]
 
-* [[:en:obe:other:sacred]] is found in:
- [[:en:bible:notes:jol:01:13|01:13]], [[:en:bible:notes:jol:02:15|02:15]]
-
-* [[:en:obe:other:sacrifice]] is found in:
- [[:en:bible:notes:jol:01:08|01:08]]
-
 * [[:en:obe:kt:save]] is found in:
  [[:en:bible:notes:jol:02:32|02:32]]
 
@@ -343,10 +325,10 @@
  [[:en:bible:notes:jol:01:01|01:01]]
 
 * [[:en:obe:kt:yahweh]] is found in:
- [[:en:bible:notes:jol:01:08|01:08]], [[:en:bible:notes:jol:01:13|01:13]], [[:en:bible:notes:jol:01:18|01:18]], [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:02:10|02:10]], [[:en:bible:notes:jol:02:12|02:12]], [[:en:bible:notes:jol:02:14|02:14]], [[:en:bible:notes:jol:02:17|02:17]], [[:en:bible:notes:jol:02:18|02:18]], [[:en:bible:notes:jol:02:21|02:21]], [[:en:bible:notes:jol:02:26|02:26]], [[:en:bible:notes:jol:02:32|02:32]], [[:en:bible:notes:jol:03:07|03:07]], [[:en:bible:notes:jol:03:11|03:11]], [[:en:bible:notes:jol:03:16|03:16]], [[:en:bible:notes:jol:03:18|03:18]]
+ [[:en:bible:notes:jol:01:08|01:08]], [[:en:bible:notes:jol:01:13|01:13]], [[:en:bible:notes:jol:01:18|01:18]], [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:02:10|02:10]], [[:en:bible:notes:jol:02:12|02:12]], [[:en:bible:notes:jol:02:14|02:14]], [[:en:bible:notes:jol:02:17|02:17]], [[:en:bible:notes:jol:02:18|02:18]], [[:en:bible:notes:jol:02:21|02:21]], [[:en:bible:notes:jol:02:26|02:26]], [[:en:bible:notes:jol:02:32|02:32]], [[:en:bible:notes:jol:03:07|03:07]], [[:en:bible:notes:jol:03:11|03:11]], [[:en:bible:notes:jol:03:16|03:16]], [[:en:bible:notes:jol:03:18|03:18]], [[:en:bible:notes:jol:03:20|03:20]]
 
 * [[:en:obe:kt:zealous]] is found in:
  [[:en:bible:notes:jol:02:18|02:18]]
 
 * [[:en:obe:other:zion]] is found in:
- [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:02:15|02:15]], [[:en:bible:notes:jol:02:21|02:21]], [[:en:bible:notes:jol:02:32|02:32]], [[:en:bible:notes:jol:03:16|03:16]]
+ [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:02:15|02:15]], [[:en:bible:notes:jol:02:21|02:21]], [[:en:bible:notes:jol:02:32|02:32]], [[:en:bible:notes:jol:03:16|03:16]], [[:en:bible:notes:jol:03:20|03:20]]

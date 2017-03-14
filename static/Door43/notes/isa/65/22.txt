@@ -39,10 +39,10 @@
 
 <usfm>
 \q1
-\v 22 No longer will they build a house and another live in it; they will not plant, and another eat; 
+\v 22 No longer will they build a house and another live in it; they will not plant, and another eat;
 \q1 for as the days of trees will be the days of my people. My chosen will fully outlive the work of their hands.
 \q1
-\v 23 They will not labor in vain, nor give birth to dismay. 
+\v 23 They will not labor in vain, nor give birth to dismay.
 \q1 For they are the children of those blessed by Yahweh, and their descendants with them.
 </usfm>
 
@@ -65,6 +65,7 @@
 
   * **General Information:** - Yahweh continues speaking about his faithful people.
 
+  * **for as the days of trees will be the days of my people** - "Days" refers to the span of their lifetime. AT: "for my people will live as long as trees live" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **they are the children of those blessed by Yahweh** - This can be stated in active form. AT: "they are the children of those whom Yahweh blessed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
@@ -73,6 +74,6 @@
   * [[:en:bible:questions:comprehension:isa:65]]
 **[[:en:bible:notes:isa:65:20|<<]] | [[:en:bible:notes:isa:65:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit elect}}
+~~DISCUSSION~~{{tag>publish p2pass elect}}
 
 ~~NOCACHE~~

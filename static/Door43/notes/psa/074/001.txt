@@ -22,7 +22,7 @@
 \v 1 God, why have you abandoned us?
 \q2 Will you keep rejecting us forever?
 \q1 Why are you angry with us
-\q2 since we are like sheep in your pasture and you are like our shepherd? 
+\q2 since we are like sheep in your pasture and you are like our shepherd?
 \q1
 \v 2 Do not forget your people whom you chose long ago,
 \q2 the people whom you freed from being slaves in Egypt and caused to become your tribe.
@@ -37,9 +37,8 @@
 
 <usfm>
 \c 74
-\p
+\m
 \d A maschil of Asaph.
-\b
 \q
 \v 1 God, why have you rejected us forever?
 \q Why does your anger burn against the sheep of your pasture?
@@ -67,7 +66,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A maschil of Asaph** - "This is a maschil that Asaph wrote."
   * **A maschil** - This may refer to a style of music. See how you translated this in [[:en:bible:notes:psa:032:001|32:1]].
@@ -84,6 +83,6 @@
   * [[:en:bible:questions:comprehension:psa:074]]
 **[[:en:bible:notes:psa:073:027|<<]] | [[:en:bible:notes:psa:074:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

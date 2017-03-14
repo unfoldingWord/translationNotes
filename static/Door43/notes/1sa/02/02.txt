@@ -18,7 +18,6 @@
 \v 2 There is no one who is holy like you, Yahweh.
 \q2 There is no other god like you.
 \q2 The is no one like you, our God, who can protect us as though you were putting us on top of a huge rock where we can be safe from danger.
-\b
 
 
 \q1
@@ -42,7 +41,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Hannah continues to recite a song to Yahweh. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Connecting Statement:** - Hannah continues to recite a song to Yahweh. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **there is no rock like our God** - This is another way of saying that God is strong and faithful. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **rock** - This is a rock large enough to hide behind or to stand on and so be high above one's enemies.
@@ -54,6 +53,6 @@
   * [[:en:bible:questions:comprehension:1sa:02]]
 **[[:en:bible:notes:1sa:02:01|<<]] | [[:en:bible:notes:1sa:02:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

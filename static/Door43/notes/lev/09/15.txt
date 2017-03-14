@@ -51,7 +51,7 @@
 ===== translationNotes: =====
 
   * **the first goat** - The word "first" is the ordinal number for one. AT: "the goat for his own offering" (UDB) (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **along with the morning's burnt offering** - This refers to the first sacrifice of each day. The priests would offer this burnt sacrifice in the morning before any other sacrifice. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **along with the morning's burnt offering** - This refers to the first sacrifice of each day. The priests would offer this burnt sacrifice in the morning before any other sacrifice. The full meaning of this statement can be made explicit. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -66,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

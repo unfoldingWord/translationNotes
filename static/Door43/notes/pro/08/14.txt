@@ -19,7 +19,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 I give good advice and I have the best wisdom; 
+\v 14 I give good advice and I have the best wisdom;
 \q2 I have true understanding about the nature of things, and I have great strength.
 \q1
 \v 15 When kings are wise, they rule well;
@@ -43,8 +43,8 @@
 \v 15 By me kings reign—
 \q also noblemen, and all who govern justly.
 \q
-\v 16 By me princes rule
-\q and nobles and all who govern with justice.
+\v 16 By me princes rule,
+\q nobles, and all who govern with justice.
 </usfm>
 
 
@@ -65,22 +65,19 @@
   * **good advice** - "wise suggestions"
   * **advice** - counsel that is given to help someone
   * **sound** - good, reliable
-  * **I am insight** - This expression means, "I have insight." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **noblemen** - leading members of an important family
+  * **I am insight** - Here Wisdom is spoken of as if she were insight. AT: "I have insight" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **nobles** - noblemen, leading members of important families in the nation
 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
   * [[:en:bible:notes:pro:08:00]]
   * [[:en:bible:questions:comprehension:pro:08]]
-
- 
-
 **[[:en:bible:notes:pro:08:12|<<]] | [[:en:bible:notes:pro:08:17|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit }}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

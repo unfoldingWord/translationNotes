@@ -18,12 +18,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 17 It is better to have a simple meal with vegetables when there is love in the home, 
-\q2 than to enjoy a delicious meal served by people who hate you. 
+\v 17 It is better to have a simple meal with vegetables when there is love in the home,
+\q2 than to enjoy a delicious meal served by people who hate you.
 \q1
 \v 18 When a person is angry, he stirs up more arguments,
-\q2 but one who does not quickly become angry, he is able to stop an argument and make peace. 
-\b
+\q2 but one who does not quickly become angry, he is able to stop an argument and make peace.
 
 
 \q1
@@ -35,9 +34,9 @@
 <usfm>
 \q
 \v 17 Better is a meal with vegetables where there is love
-\q than a fatted calf served with hatred. 
+\q than a fatted calf served with hatred.
 \q
-\v 18 An angry man stirs up arguments, 
+\v 18 An angry man stirs up arguments,
 \q but a person who is slow to anger quiets a quarrel.
 </usfm>
 
@@ -51,11 +50,12 @@
 
 ===== translationNotes: =====
 
-
-  * **fatted calf** - The fattened calf represents a delicious meal or a feast. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **fatted** - This means that the calf has been given extra food so that when it is killed, it will give more meat.
-  * **with hatred** - Possible meanings are 1) with people who hate you (UDB) 2) with people who hate each other and constantly quarrel.
-  * **stirs up arguments** - AT: "causes arguments" or "stirs up dispute"
+  * **a meal with vegetables** - The vegetables represent a small meal with very little food. AT: "a small meal" or "very little food" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **where there is love** - The word "love" can be translated with a verbal phrase. AT: "where people love one another" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **a fatted calf served with hatred** - This can be translated in active form. AT: "a fatted calf that someone serves with hatred" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a fatted calf** - This refers to a calf that has been fed a lot of food so that it will become fat. Here it represents a delicious meal or a feast. AT: "a luxurious meal" or "a feast" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **with hatred** - The word "hatred" can be translated with a verbal phrase. AT: "where people hate one another" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **stirs up arguments** - Causing people to argue more is spoken of as if it were stirring up or awakening arguments. AT: "causes people to argue more" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -64,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:15]]
 **[[:en:bible:notes:pro:15:15|<<]] | [[:en:bible:notes:pro:15:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

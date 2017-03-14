@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 However, many years later, a new king began to rule in Egypt. He was not at all thankful for the good things Joseph had done for the people of Egypt long ago.
+\v 8 However, many years later, a new king began to rule in Egypt. He did not know about all the good things Joseph had done for the people of Egypt long ago.
 \v 9 He said to his people, "Look at what has happened! The Israelite people have become so many and so powerful that they are dangerous to us!
 \v 10 We must find a way to control them! If we do not do that, there will be more of them. Then, if enemies attack us, the Israelites will join with our enemies and fight against us, and they will escape from our land."
 
@@ -27,9 +27,9 @@
 
 <usfm>
 \p
-\v 8 Then a new king arose over Egypt, who did not care for the memory of Joseph.
-\v 9 He said to his people, "Look at the Israelites; they are more numerous and stronger than we are.
-\v 10 Come, let us deal wisely with them. Otherwise they will continue to multiply, and if war breaks out, they will join our enemies, fight against us, and leave the land."
+\v 8 Now then a new king arose over Egypt, one who did not know about Joseph.
+\v 9 He said to his people, "Look, the Israelites are more numerous and stronger than we are.
+\v 10 Come, let us deal with them wisely, otherwise they will continue to grow in numbers, and if war breaks out, they will join our enemies, fight against us, and leave the land."
 </usfm>
 
 
@@ -45,12 +45,13 @@
 ===== translationNotes: =====
 
   * **arose over Egypt** - Here "Egypt" refers to the people of Egypt. AT: "began to rule over the people of Egypt" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the memory of Joseph** - This refers to the good things that Joseph had done for Egypt. AT: "the good things that Joseph did for the people of Egypt" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **He said to his people** - "The king said to his people"
   * **his people** - These were the people who lived in Egypt, the Egyptians.
   * **let us** - The word "us" is inclusive and refers to the king and his people, the Egyptians. (See: [[:en:ta:vol2:translate:figs_inclusive]])
   * **war breaks out** - Here war is spoken of as a person that is able to act. (See: [[:en:ta:vol2:translate:figs_personification]])
   * **leave the land** - "leave Egypt"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:exo:00:intro]]
@@ -61,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

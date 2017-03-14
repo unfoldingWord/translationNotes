@@ -43,7 +43,9 @@
 ===== translationNotes: =====
 
   * **behold!** - The word "behold" here adds emphasis to what follows.
-  * **committed** - "done"
+  * **he does not eat on the mountains** - People often worshiped and offered sacrifices to pagan gods on the mountains. It is implied that this person has not participated in these kinds of pagan rituals. See how you translated a similar phrase in [[:en:bible:notes:ezk:18:05|18:6]]. AT: "he does not eat meat sacrificed to idols on the mountains" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **he does not lift up his eyes to the idols** - The idiom "lifted up his eyes" refers to looking toward something. With reference to idols, this gesture represents worshiping or praying to idols. See how you translated a similar phrase in [[:en:bible:notes:ezk:18:05|18:6]]. AT: "he does not worship the idols" or "he does not pray to the idols" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate as in [[:en:bible:notes:ezk:03:16|3:1]]. AT: "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -52,6 +54,6 @@
   * [[:en:bible:questions:comprehension:ezk:18]]
 **[[:en:bible:notes:ezk:18:12|<<]] | [[:en:bible:notes:ezk:18:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

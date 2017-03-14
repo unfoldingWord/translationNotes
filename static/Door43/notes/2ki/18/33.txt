@@ -16,8 +16,7 @@
 <usfm>
 \v 33 The gods that people of other nations worship have never rescued them from the power of the king of Assyria!
 \v 34 Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim, Hena, and Ivvah? Did any of their gods delivered Samaria out of my hand?
-\v 35 None of these gods kept their people from being destroyed by the king of Assyria. Do you think your God Yahweh, can do any better? 
-
+\v 35 None of these gods kept their people from being destroyed by the king of Assyria. Do you think your God Yahweh, can do any better?
 
 \p
 </usfm>
@@ -42,15 +41,18 @@
   * [[:en:obe:kt:save]]
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:other:mighty]]
+
 ===== translationNotes: =====
 
   * **General Information:** - Rabshakeh continues telling the message from the king of Assyria to King Hezekiah's men.
 
-  * **Where are the gods of ... Arpad?** - "I have destroyed the gods of ... Arpad!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Hamath ... Arpad ... Sepharvaim, Hena ... Ivvah** - place names (See: [[:en:ta:vol1:translate:translate_names]])
-  * **out of my hand** - "out from my control" [[:en:ta:vol2:translate:figs_metonymy]])
-  * **from my power** - "from me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **How could Yahweh save Jerusalem from my might?** - AT: "There is no way Yahweh can save Jerusalem from my might!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Has any of the gods ... Assyria?** He asks this question for emphasis because they know the answer. AT: "None the gods of the peoples have rescued them ... Assyria." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Where are the gods of ... Arpad?** - He asks this question for emphasis because they know the answer. AT: "I have destroyed the gods of ... Arpad!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Hamath ... Arpad ... Sepharvaim ... Hena ... Ivvah ... Samaria** - These are the names of places that represent the people living there. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **out of my hand** - "Hand" is metonymy for control, power, or authority. AT: "out from my control" [[:en:ta:vol2:translate:figs_metonymy]])
+  * **is there any god who has rescued his land from my power?** - He asks this question for emphasis because they know the answer. AT: "No god has rescued his land from my power." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **from my power** - "My power" is metonymy for the person holding it. AT: "from me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **How could Yahweh save Jerusalem from my might?** - He asks this question for emphasis because they know the answer. AT: "There is no way Yahweh can save Jerusalem from my might!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -62,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

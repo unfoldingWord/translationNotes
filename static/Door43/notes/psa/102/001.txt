@@ -22,7 +22,7 @@
 \v 2 Do not turn away!
 \q1 Listen to me,
 \q2 and answer me quickly now when I am calling out to you!
-\b
+
 
 
 \q1
@@ -32,9 +32,8 @@
 
 <usfm>
 \c 102
-\p
+\m
 \d A prayer of the afflicted when he is overwhelmed and pours out his lament before Yahweh.
-\b
 \q
 \v 1 Hear my prayer, Yahweh;
 \q hear my cry to you.
@@ -56,7 +55,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **the afflicted** - This refers to a man who is afflicted. AT: "the afflicted man" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
   * **overwhelmed** - "faint" or "weak"
@@ -70,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:102]]
 **[[:en:bible:notes:psa:101:007|<<]] | [[:en:bible:notes:psa:102:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4 lament}}
+~~DISCUSSION~~{{tag>publish p2pass book4 lament}}
 
 ~~NOCACHE~~

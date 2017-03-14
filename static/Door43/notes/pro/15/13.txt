@@ -20,11 +20,9 @@
 <usfm>
 \v 13 When people are happy, they have smiles on their faces,
 \q2 but sadness is so strong it crushes the person.
-\b
 \q1
 \v 14 The longing of the one who is wise is to gain more knowledge,
 \q2 but foolish people only say foolish things.
-\b
 
 
 \q1
@@ -35,7 +33,7 @@
 
 <usfm>
 \q
-\v 13 A joyful heart makes the face cheerful, 
+\v 13 A joyful heart makes the face cheerful,
 \q but heartache crushes the spirit.
 \q
 \v 14 The heart of the discerning seeks knowledge,
@@ -51,16 +49,13 @@
   * [[:en:obe:other:discernment]]
   * [[:en:obe:other:know]]
   * [[:en:obe:kt:foolish]]
- 
 
 ===== translationNotes: =====
 
-
-  * **crushes the spirit** - See how you translated this in [[:en:bible:notes:pro:15:03|15:4]].
-  * **the discerning** - "a discerning person" AT: "a wise person"
-  * **the mouth of fools** - AT: "foolish people" (See [[:en:ta:vol2:translate:figs_metonymy]])
-  * **feeds on folly** - AT: "desire folly" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **A joyful heart makes the face cheerful** - Here the word "heart" represents the person. AT: "When a person is joyful, his face is cheerful" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **crushes the spirit** - The writer speaks of a person being discouraged as if that person's spirit were an object that is crushed. See how you translated this in [[:en:bible:notes:pro:15:03|15:4]]. AT: "makes a person discouraged" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The heart of the discerning** - Here the word "heart" represents the mind and thoughts. AT: "The mind of the discerning person" or "The discerning person" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the mouth of fools feeds on folly** - Here the word "mouth" represents the person. The writer speaks of fools desiring foolish things as if they ate foolish things. AT: "foolish people desire folly as if it were the food that they eat" (See [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -75,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

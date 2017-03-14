@@ -48,11 +48,14 @@
 
 ===== translationNotes: =====
 
-  * **I am against you, rock of the plain** - AT: "I oppose you, Jerusalem" or "I am going to punish you, people of Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **this is Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|1:8]].
-  * **Who will come down to attack us? ... Who will enter our houses?** - AT: "No one will attack us and no one will enter our houses" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **I have assigned the fruit of your practices to come against you** - AT: "I will punish you as you deserve because of the things you have done" See: ([[:en:ta:vol2:translate:figs_metonymy]])
-  * **the fruit of your practices** - AT: "the result of your deeds" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **See** - This alerts the reader to pay special attention to what follows. AT: "Pay attention"
+  * **inhabitant of the valley** - Possible meanings are 1) this may refer to Jerusalem which was located above a valley because "inhabitant" is singular and feminine, as is Jerusalem or 2) this is directed to another city or group of people. Most versions leave the original form rather than specifying the city.
+  * **I am against** - "I oppose" or "I am going to punish"
+  * **rock of the plain** - This refers to the city that was located on a rocky plain. This is also a metonym for the people who live in that city. AT: "you people who live on the rocky plain" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Who will come down to attack us? ... Who will enter our houses?** - These questions are used to state their confidence that they can resist attack. AT: "No one will attack us! ... No one will enter our houses!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **I have assigned the fruit of your practices to come against you** - The results of their evil deeds is spoken of as fruit which grew from those practices. AT: "I will punish you as you deserve because of the things you have done" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in the thickets** - Possible meanings are 1) this is a metaphor for the columns of wood that supported the palace or 2) these are literal patches of brush. (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
  
 ===== Links: =====
@@ -60,14 +63,11 @@
   * [[:en:bible:notes:jer:00:intro]]
   * [[:en:bible:notes:jer:21:00]]
   * [[:en:bible:questions:comprehension:jer:21]]
-
- 
-
 **[[:en:bible:notes:jer:21:11|<<]] | [[:en:bible:notes:jer:22:01|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

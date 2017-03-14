@@ -53,12 +53,12 @@
  
 ===== translationNotes: =====
 
-  * **He will not be rich; his wealth will not last** - These two phrases express the same thought and are used together to emphasize that the wicked will not be wealthy. AT: "he will be poor; all his money will disappear" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **not even his shadow will last on the earth** - This repeats the idea that all the possessions of the wicked will disappear. Other translations may read: "nor will his possessions spread out on the earth" or "nor will his grain bend down to the ground"
-  * **He will not depart out of darkness** - Darkness here represents death. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **He will not be rich; his wealth will not last** - These two litotes express that he will be the opposite of rich, that he will be poor. AT: "he will be poor; all his money will disappear" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **not even his shadow will last on the earth** - This repeats the idea that all the possessions of the wicked will disappear. Other translations may read: "nor will his possessions spread out on the earth."
+  * **out of darkness** - Darkness here represents death. AT: "out of the darkness of death" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
   * **a flame will dry up his stalks** - Here the flame represents God's judgment and the drying up of his stalks represents either the fact that his possessions disappear, or that he will die. AT: "God will take everything he owns away, like a fire dries out the moist branches of a tree" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the breath of God's mouth** - AT: "God's breath" or "God's judgment" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **he will go away** - This probably means that he will die (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **the breath of God's mouth** - Here God's "breath" represents his judgement. AT: "God's breath" or "God's judgment" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he will go away** - This  to his refers to him dying. AT: "he will die" (See: [[:en:ta:vol2:translate:figs_euphemism]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -66,6 +66,6 @@
   * [[:en:bible:questions:comprehension:job:15]]
 **[[:en:bible:notes:job:15:27|<<]] | [[:en:bible:notes:job:15:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

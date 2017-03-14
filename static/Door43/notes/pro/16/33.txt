@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 33 The stones making up the "lot" are thrown into a person's lap, 
+\v 33 The stones making up the "lot" are thrown into a person's lap,
 \q2 but Yahweh decides on which side of the stones they will stop rolling.
 </usfm>
 
@@ -30,8 +30,11 @@
 
   * [[:en:obe:other:lots]]
   * [[:en:obe:kt:yahweh]]
+
 ===== translationNotes: =====
 
+  * **The lots are thrown into the lap** - This can be stated in active form. AT: "A person throws the lots into his lap" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the decision is from Yahweh** - Possible meanings are 1) Yahweh decides how the lots will land or 2) it is not the lots, but Yahweh who determines what will happen.
 
 ===== Links: =====
 
@@ -46,6 +49,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

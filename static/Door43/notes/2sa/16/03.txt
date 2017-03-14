@@ -28,7 +28,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 The king said, "And where is your master's grandson?" Ziba replied to the king, "Look, he has stayed behind in Jerusalem, for he said, 'Today the house of Israel will restore my father's kingdom to me.'"
+\v 3 The king said, "Then where is your master's grandson?" Ziba replied to the king, "Look, he has stayed behind in Jerusalem, for he said, 'Today the house of Israel will restore my father's kingdom to me.'"
 \v 4 Then the king said to Ziba, "Look, all that belonged to Mephibosheth now belongs to you." Ziba answered, "I bow in humility to you, my master, king. Let me find favor in your sight."
 </usfm>
 
@@ -49,9 +49,15 @@
 
 ===== translationNotes: =====
 
+  * **your master's grandson** - "Mephibosheth, your master's grandson" 
   * **grandson** - the son of one's son or daughter
-  * **house of Israel** - This metonym refers to the nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **Mephibosheth** - Translate this as you did in [[:en:bible:notes:2sa:04:04|4:4]].
+  * **Look** - Here this word is used to draw someone's attention to what is said next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **house of Israel** - This refers to the people of Israel. AT: "the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **will restore my father's kingdom to me** - Having a descendant of Saul being allowed to rule is spoken of as the kingdom being restored to their family. AT: "will allow me to rule the kingdom that my grandfather ruled" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Mephibosheth** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:04:04|4:4]].
+  * **I bow in humility to you** - Ziba is not literally bowing before the king when he is speaking here. This means that he will serve the king with the same amount of humility he would be showing if he were literally bowing before him. AT: "I will humbly serve you" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Let me find favor in your sight** - The phrase "find favor" means to be approved of by someone. The phrase "your sight" refers to what the king thinks. AT: "I want you to be pleased with me" or "I desired you for to be please with me" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -65,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

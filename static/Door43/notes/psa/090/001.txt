@@ -22,7 +22,7 @@
 \q2 before you formed the earth and everything that is in it,
 \q1 you were eternally God,
 \q2 and you will be God forever.
-\b
+
 
 
 \q1
@@ -33,9 +33,8 @@
 <usfm>
 \ms Book Four
 \c 90
-\p
+\m
 \d A prayer of Moses the man of God.
-\b
 \q
 \v 1 Lord, you have been our refuge
 \q throughout all generations.
@@ -57,7 +56,7 @@
   * [[:en:obe:kt:eternity]]
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A prayer of Moses** - "This is a prayer that Moses wrote"
   * **Lord, you have been our refuge** - God protecting his people is spoken of as if God were a refuge or shelter. AT: "Lord, you have been like a shelter for us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -80,6 +79,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book4}}
+{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

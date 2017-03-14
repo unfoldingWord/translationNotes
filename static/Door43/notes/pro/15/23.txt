@@ -20,11 +20,9 @@
 <usfm>
 \v 23 People rejoice when they give a good answer,
 \q2 and how nice is the right word spoken at the right moment.
-\b
 \q1
 \v 24 The path leading to life goes up, away from death;
 \q2 he follows that way and turns from the place of the dead.
-\b
 
 
 \q1
@@ -38,7 +36,7 @@
 \v 23 A person finds joy when he gives a pertinent reply;
 \q how good is a timely word!
 \q
-\v 24 The path of life leads upward for prudent people, 
+\v 24 The path of life leads upward for prudent people,
 \q that they may turn away from Sheol beneath.
 </usfm>
 
@@ -54,10 +52,9 @@
 
 ===== translationNotes: =====
 
-  * **a pertinent reply** - "a good answer" (UDB) or "an answer"
-  * **how good is a timely word** - This is an exclamation that functions to emphasize that a timely word is very good. AT: "a word at the right time is very good"
-  * **leads upward** - This is a positive thing. AT: "makes life go better"
-  * **prudent** - "wise"
+  * **a pertinent reply** - "a fitting reply" or "an appropriate answer"
+  * **how good is a timely word** - This exclamation emphasizes that a word spoken at the right time is very good. AT: "a word that a person speaks at the right time is very good" (See: [[:en:ta:vol2:translate:figs_exclamations]])
+  * **The path of life leads upward ... from Sheol beneath** - The writer speaks of a lifestyle that results in life as if it were a path that goes upward towards life and of a lifestyle that results in death as if it were a path that leads down to the place of the dead. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -66,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:15]]
 **[[:en:bible:notes:pro:15:21|<<]] | [[:en:bible:notes:pro:15:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

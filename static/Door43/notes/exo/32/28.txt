@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 28 The Levites did what Moses ordered. That day about three thousand men out of the people died.
+\v 28 The Levites did what Moses ordered. That day about three thousand of the people died.
 \v 29 Moses said to the Levites, "You have been placed into Yahweh's service today, for each of you has taken action against his son and his brother, so Yahweh might give you a blessing today."
 </usfm>
 
@@ -38,6 +38,7 @@
 
 ===== translationNotes: =====
 
+  * **three thousand of the people** - "3000 of the people" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **You have been placed into Yahweh's service** - This probably means "You have been chosen to serve Yahweh" or "You have become Yahweh's servants."
   * **for each of you has taken action against his son and his brother** - The fact that they did this in obedience to God can be stated clearly. AT: "for you have obeyed Yahweh and killed your sons and your brothers" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:exo:32]]
 **[[:en:bible:notes:exo:32:25|<<]] | [[:en:bible:notes:exo:32:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

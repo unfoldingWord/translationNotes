@@ -37,13 +37,15 @@
   * [[:en:obe:other:nation]]
   * [[:en:obe:other:praise]]
   * [[:en:obe:kt:name]]
+
+
 ===== translationNotes: =====
 
   * **I am set free** - This can be stated in active form. AT: "God has set me free" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **you lifted me above** - This can mean that Yahweh has put the writer in a higher position of power, or safety. AT: "you made me more powerful than" or "you put me in a safe place" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **you lifted me above** - Yahweh's protection of the writer is spoken of as if he lifted the writer up so high that his enemies could not reach him to harm him. AT: "you put me in a safe place high above" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **who rose against me** - "who attacked me" or "who rebelled against me"
   * **violent men** - "cruel men" or "savage men"
-  * **among the nations** - Here the writer means that he will give thanks to Yahweh so that all people will hear of Yahweh's greatness. AT: "so all the nations will hear it" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **among the nations** - Here the writer means that he will give thanks to Yahweh so that all people will hear of Yahweh's greatness. AT: "so all the nations will hear about it" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
   * **to your name** - Here "name" represents God himself. AT: "in honor of your name" or "to you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
@@ -53,6 +55,6 @@
   * [[:en:bible:questions:comprehension:psa:018]]
 **[[:en:bible:notes:psa:018:046|<<]] | [[:en:bible:notes:psa:018:050|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

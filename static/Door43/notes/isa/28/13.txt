@@ -33,9 +33,9 @@
 
 <usfm>
 \q1
-\v 13 So the word of Yahweh will be to them 
-\q1 command upon command, command upon command; rule upon rule, rule upon rule; 
-\q1 here a little, there a little; 
+\v 13 So the word of Yahweh will be to them
+\q1 command upon command, command upon command; rule upon rule, rule upon rule;
+\q1 here a little, there a little;
 \q1 so that they may go and fall backward, and be broken, ensnared, and captured.
 </usfm>
 
@@ -47,9 +47,11 @@
 
 ===== translationNotes: =====
 
-  * **So the word of Yahweh** - AT: "So Yahweh's message"
-  * **command upon command, command upon command; rule upon rule, rule upon rule; here a little, there a little** - See how you translated this in [[:en:bible:notes:isa:28:09|28:10]].
+  * **So the word of Yahweh** - Here "word" represents a message. AT: "So Yahweh's message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **command upon command, command upon command; rule upon rule, rule upon rule; here a little, there a little** - These are the words that the drunk priests and prophets used to criticize how Isaiah teaches them. See how you translated this in [[:en:bible:notes:isa:28:09|28:10]].
   * **so that they may go and fall backward, and be broken, ensnared, and captured** - This can be stated in active form. AT: "in order that the army of Assyria will come and defeat them and take them as captives" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **go and fall backward, and be broken** - People losing in battle to the enemy army is spoken of as if the people will fall down and break. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **ensnared** - The enemy soldiers capturing the people of Israel is spoken of as if they were hunters that catch an animal in a snare. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -64,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

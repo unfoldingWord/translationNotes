@@ -24,8 +24,7 @@
 \q1 You say, 'God knows that I am innocent,'
 \q1
 \v 3 and you also say, 'What good have I received for not sinning?
-\q2 What benefit have I received that I would not have had, even if I had sinned?' 
-
+\q2 What benefit have I received that I would not have had, even if I had sinned?'
 
 \q1
 </usfm>
@@ -41,8 +40,8 @@
 \v 2 "Do you think this is just
 \q when you say, 'My right before God'?
 \q
-\v 3 For you ask, 'What use is it to me'
-\q and 'Would I be better off if I had sinned?'
+\v 3 For you ask, 'What use is it to me?'
+\q and, 'Would I be better off if I had sinned?'
 </usfm>
 
 
@@ -54,9 +53,11 @@
 
 ===== translationNotes: =====
 
-  * **Do you think this is just ... 'My right before God'?** - Elihu uses questions to challenge Job. AT: "You must think you are right ... 'My right before God'." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Do you think this is just ... 'My right before God'?** - Elihu uses questions to challenge Job. AT: "You must think you are right ... 'My right before God.'" or "It is not just ... 'My right before God.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Do you think this is just when you say** - "Do you think it is right for you to say"
   * **Do you think** - Here "you" is singular and refers to Job. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **For you ask, 'What use is it to me' and 'Would I be better off if I had sinned?'** - AT: "For you say that it does not matter that you are righteous, and that it is no more benefit to you than if you had sinned." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **My right before God** - Possible meanings are 1) Job is claiming to be innocent before God or 2) Job is claiming that he, rather than God, is right.
+  * **For you ask, 'What use is it to me?' and, 'Would I be better off if I had sinned?'** - Elihu quotes Job as saying the these two rhetorical questions. AT: "For you say, 'It does not benefit me' and, 'I am no better off than if I had sinned.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -65,6 +66,6 @@
   * [[:en:bible:questions:comprehension:job:35]]
 **[[:en:bible:notes:job:34:36|<<]] | [[:en:bible:notes:job:35:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

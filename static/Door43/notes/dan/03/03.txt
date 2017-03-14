@@ -47,12 +47,14 @@
 
 ===== translationNotes: =====
 
-  * **the provincial governors, regional governors, ... officials of the provinces** - See how you translated this list in [[:en:bible:notes:dan:03:01|3:2]].
+  * **the provincial governors, regional governors, ... officials of the provinces** - Translate this list as in [[:en:bible:notes:dan:03:01|3:2]].
+  * **the statue that Nebuchadnezzar had set up** - That Nebuchadnezzar's men had set up the statue is spoken of as if Nebuchadnezzar had set it up. AT: "the statue that Nebuchadnezzar's men had set up" (See: [[:en:ta:vol2:translate:figs_metonymy]])  
   * **herald** - This person is an official messenger for the king.
-  * **You are commanded** - "The king commands you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **zithers** - These are musical instruments similar to the harps. They are shaped like triangles and have four strings.
-  * **fall down and prostrate yourselves** - This is an act of worship.
-  * **the golden statue that King Nebuchadnezzar has set up** - "the golden statue that King Nebuchadnezzar commanded his men to set up" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **You are commanded** - This can be stated in active form. "The king commands you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **peoples, nations, and languages** - Here "nations" and "languages" represent people from different nations who speak different languages. AT: "people from different nations and who speak different languages" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **zithers** - These are musical instruments similar to harps. They are shaped like triangles and have four strings.
+  * **fall down** - Here "fall down" means "quickly lie down"
+  * **prostrate yourselves to** - "stretch yourselves out on the ground face down in worship of" ([[:en:ta:vol2:translate:translate_symaction]])
 
 ===== Links: =====
 
@@ -61,6 +63,6 @@
   * [[:en:bible:questions:comprehension:dan:03]]
 **[[:en:bible:notes:dan:03:01|<<]] | [[:en:bible:notes:dan:03:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit nation flute harp}}
+~~DISCUSSION~~{{tag>publish p2pass nation flute harp}}
 
 ~~NOCACHE~~

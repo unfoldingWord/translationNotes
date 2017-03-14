@@ -22,14 +22,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 You must begin your search for knowledge by honoring Yahweh and respecting him, 
+\v 7 You must begin your search for knowledge by honoring Yahweh and respecting him,
 \q2 a fool who dishonors himself hates wisdom and fights against the one who corrects him.
 \q1
 \v 8 My son, listen when your father teaches you
 \q2 and do not disobey the rules your mother set down.
 \q1
-\v 9 Their teaching is a wreath upon your head, 
-\q2 and beautiful necklaces around your neck, 
+\v 9 Their teaching is a wreath upon your head,
+\q2 and beautiful necklaces around your neck,
 \q2 they are priceless gifts from your parents.
 
 
@@ -42,7 +42,7 @@
 <usfm>
 \q
 \v 7 The fear of Yahweh is the beginning of knowledge—
-\q fools despise wisdom and discipline.
+\q fools despise wisdom and instruction.
 \q
 \v 8 My son, hear the instruction of your father
 \q and do not lay aside the rules of your mother;
@@ -62,17 +62,17 @@
   * [[:en:obe:kt:discipline]]
   * [[:en:obe:other:father]]
 
-
- 
-
 ===== translationNotes: =====
 
   * **General Information:** - A father teaches his child.
 
-  * **despise** - "hate" (UDB) or "dislike very much" or "think of as unimportant"
-  * **they will be** - the teachings of the father and mother will be
-  * **wreath ... pendants** - These show that the person who wears them is worthy of honor. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The fear of Yahweh is the beginning of knowledge** - The abstract nouns "fear," "beginning," and "knowledge" can be stated as verbs. AT: "You must first fear Yahweh in order to begin to know what is wise" or "You must first honor and respect Yahweh in order to learn what is wise" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
+  * **fools despise wisdom and instruction** - "those who do not value what is wise and instructive are fools"
+  * **do not lay aside** - This is an idiom that means "do not ignore" or "do not reject" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **they will be a graceful wreath for your head and pendants hanging from your neck** - The rules and instructions that parents teach their children are so valuable and important that they are spoken of as if they were a beautiful wreath or pendant that a person wears. AT: "they will make you wise just as wearing a wreath on your head or a pendant around your neck makes you beautiful" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **wreath** - an woven circle made of leaves or flowers
+  * **pendants** - jewelry that is worn around the neck
 
 ===== Links: =====
 
@@ -87,6 +87,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

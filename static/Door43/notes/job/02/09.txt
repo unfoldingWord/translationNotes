@@ -29,7 +29,7 @@
 
 <usfm>
 \v 9 Then his wife said to him, "Do you still hold fast to your integrity? Curse God and die."
-\v 10 But he said to her, "You talk like a foolish woman. Do you really think that we should receive good at the hand of God and not evil?" In all this matter, Job did not sin with his lips.
+\v 10 But he said to her, "You talk as a foolish woman talks. Should we receive the good from God and not receive the bad?" In all this matter, Job did not sin with his lips.
 </usfm>
 
 
@@ -46,11 +46,15 @@
  
 ===== translationNotes: =====
 
-  * **his wife said to him** - "Job's wife said to him"
+  * **Do you still hold fast to your integrity?** - This rhetorical question represents a statement. AT: "You should not still be holding fast to your integrity." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Curse God** - "Reject God"
-  * **You talk like a foolish woman** - Job is saying she talks like a fool. AT: "You talk as if you are a stupid woman."
-  * **at the hand of God** - "hand of God" is an expression for God. AT: "from God" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **sin with his lips** - AT: "sin by speaking against God"
+  * **You talk as a foolish woman** - Job is saying she talks like a fool. AT: "You talk as if you were a stupid woman."
+  * **Should we receive the good from God and not receive the bad?** - This rhetorical question represents a statement. AT: "We should certainly receive the bad from God as well as the good." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **receive the good** - "benefit from all the good things"
+  * **the good** - This represents all the good things that God gives us. (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **receive the bad** - "suffer all the bad things without complaining"
+  * **the bad** - This represents all the bad things that God makes or allows us to experience. (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **sin with his lips** - Here "lips" represents the act of speaking. AT: "sin by speaking against God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -65,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

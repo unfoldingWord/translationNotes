@@ -34,7 +34,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 7 For her blood is in the midst of her. She has set it on the smooth rock; she has not poured it out on the ground to cover it with dust, 
+\v 7 For her blood is in the midst of her. She has set it on the smooth rock; she has not poured it out on the ground to cover it with dust,
 \v 8 so it brings fury up to exact vengeance. I placed her blood on the smooth rock so it could not be covered.
 </usfm>
 
@@ -46,11 +46,15 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues giving Ezekiel his message to the people of Jerusalem.
+  * **General Information:** - Yahweh continues telling a parable to Ezekiel about a cooking pot that represents Jerusalem. This parable continues through [[:en:bible:notes:ezk:24:14|24:14]]. (See: [[:en:ta:vol1:translate:figs_parables]])
 
+  * **For her blood is in the midst of her** - This means that the blood from those who were murdered in Jerusalem is still there. AT: "For the blood of those who were murdered among here is still there" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **her** - The word "her" refers to Jerusalem, which is represented by the cooking pot.
+  * **She has set it on the smooth rock; she has not poured it out on the ground to cover it with dust** - This personifies Jerusalem as a person who murdered the people and chose where to put their blood. AT: "They were murdered on the smooth rocks; not on the dirt where the dust would hide their blood" or "Their blood fell on the smooth rocks; it did not fall on the ground where the dust would cover it" (See: [[:en:ta:vol2:translate:figs_personification]])
   * **has set it on the smooth rock** - "has put the blood on bare rocks"
-  * **to cover it with dust** - "and cover it with dirt"
+  * **so it brings fury up to exact vengeance** - Here Yahweh is speaking about himself taking revenge on those who murdered the people in Jerusalem. AT: "in order that I could see it and then be angry and get revenge" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **so it could not be covered** - This can be stated in active form. AT: "so that no one could cover it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 
 ===== Links: =====
 
@@ -59,6 +63,6 @@
   * [[:en:bible:questions:comprehension:ezk:24]]
 **[[:en:bible:notes:ezk:24:06|<<]] | [[:en:bible:notes:ezk:24:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

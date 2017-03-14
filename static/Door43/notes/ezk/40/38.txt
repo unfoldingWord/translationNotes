@@ -13,7 +13,7 @@
 
 <usfm>
 \v 38 In each of the inner entrances there was a room with a door. They were rooms where the carcasses of the animals that were to be completely burned on the altar were washed.
-\v 39 In each portico were two tables, one on either side. On those tables would be slaughtered the animals that were to be completely burned, also the animals for offerings of sins that people had committed, and offerings that acknowledged their guilt for having sinned against other people.
+\v 39 In each portico were four tables, two on each side. On those tables would be slaughtered the animals that were to be completely burned, also the animals for offerings of sins that people had committed, and offerings that acknowledged their guilt for having sinned against other people.
 </usfm>
 
 
@@ -22,7 +22,7 @@
 <usfm>
 \p
 \v 38 There was a room with a door by each of the inner gateways. This was where they rinsed the burnt offerings.
-\v 39 There were two tables on either side of each portico, on which the burnt offering was slaughtered, and also the sin offering and the guilt offering.
+\v 39 There were two tables on each side of each portico, on which the burnt offering was slaughtered, and also the sin offering and the guilt offering.
 </usfm>
 
 
@@ -36,9 +36,12 @@
 ===== translationNotes: =====
 
   * **by each of the inner gateways** - "in each of the inner gates"
-  * **they rinsed the burnt offerings** - The word "they" refers to people or priests who were bringing an offering.
-  * **either side** - "on both sides"
-  * **the burnt offering was slaughtered** - AT: "they slaughtered the burnt offering" or "they killed the animals that they would burn as an offering." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they rinsed the burnt offerings** - Possible meanings for "they" are 1) the people who were bringing offerings or 2) the priests who killed the animals.
+  * **the burnt offerings** - the animals that would be killed and burned as offerings
+  * **There were two tables on each side of each portico** - there were four tables—two on each side of each portico
+  * **the burnt offering was slaughtered** - This can be stated in active form. AT: "they killed the burnt offering" or "they killed the animals that they would burn as an offering" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -46,6 +49,6 @@
   * [[:en:bible:questions:comprehension:ezk:40]]
 **[[:en:bible:notes:ezk:40:35|<<]] | [[:en:bible:notes:ezk:40:40|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

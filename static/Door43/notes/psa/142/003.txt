@@ -25,14 +25,12 @@
 <usfm>
 \v 3 When I am very discouraged,
 \q2 you know what I should do.
-\b
 \q1 Wherever I walk, it is as though my enemies have hidden traps for me to fall into.
 \q1
 \v 4 I look around,
 \q2 but there is no one who sees me,
 \q2 no one who will protect me,
 \q2 and no one who cares about what happens to me.
-\b
 \q1
 \v 5 So Yahweh, I cry out to you to help me;
 \q2 you are the one who protects me;
@@ -51,7 +49,7 @@
 \q In the way that I walk
 \q they have hidden a trap for me.
 \q
-\v 4 I look to my right and see
+\v 4 I look to my right and and see
 \q that there is no one who cares about me.
 \q There is no escape for me;
 \q no one cares about my life.
@@ -71,7 +69,7 @@
 ===== translationNotes: =====
 
   * **my spirit is weak within me** - "I am weak" or "I am extremely discouraged"
-  * **you know my path** - "you know the path I should take." The psalmist speaks as if what a person does were a path that that person walked along. AT: "you know the way I should live"
+  * **you know my path** - "you know the path I should take." The psalmist speaks as if what a person does were a path that that person walked along. AT: "you know the way I should live" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **In the way that I walk they have hidden a trap for me** - The psalmist speaks of people wanting to harm him as if they were trying to trap an animal. AT: "They are making plans so that whatever I do they can harm me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **my life** - This is a metonym for "me." (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **called out to you** - This is a call for help. AT: "called to you now for help" (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -84,6 +82,6 @@
   * [[:en:bible:questions:comprehension:psa:142]]
 **[[:en:bible:notes:psa:142:001|<<]] | [[:en:bible:notes:psa:142:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

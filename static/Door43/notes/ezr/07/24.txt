@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 24 We are also commanding that none of the priests, descendants of Levi who work in the temple, musicians, temple guards, or other men who work in the temple, will be required to 
+\v 24 We are also commanding that none of the priests, descendants of Levi who work in the temple, musicians, temple guards, or other men who work in the temple, will be required to
 pay any taxes.
 </usfm>
 
@@ -34,8 +34,10 @@ pay any taxes.
  
 ===== translationNotes: =====
 
-  * **not to impose any tribute or taxes** - This only exempts those who are involved in the daily operation of the temple, not all of Israel or everyone living in Jerusalem.
-  * **musicians** - players of musical instruments
+  * **Connecting Statement:** - This continues the decree that King Artaxerxes gave to Ezra.
+
+  * **We are informing them about you not to impose any tribute or taxes** - "We are telling them not to impose any tribute or taxes"
+  * **musicians** - people who play musical instruments
  
 ===== Links: =====
 
@@ -50,6 +52,6 @@ pay any taxes.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

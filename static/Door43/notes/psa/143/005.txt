@@ -24,7 +24,7 @@
 \v 6 I lift up my hands to you while I pray;
 \q2 I want very much to be with you as much as I would thirst for water in a vast wilderness.
 
-\b
+
 
 
 \q1
@@ -39,7 +39,7 @@
 \q I reflect on your accomplishments.
 \q
 \v 6 I spread my hands out to you in prayer;
-\q my soul thirsts for you in a parched land. 
+\q my soul thirsts for you in a parched land.
 \qs Selah\qs*
 </usfm>
 
@@ -57,10 +57,10 @@
   * **your accomplishments** - The abstract noun "accomplishments" can be translated using the verb "accomplish." AT: "all that you have accomplished" or "all the great things you have done" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **spread my hands out to you in prayer** - "pray to you with my hands lifted up at my sides"
   * **my soul thirsts for you in a parched land** - The psalmist speaks of wanting to be with God as if he were in a parched land and he also was about to die of thirst. AT: "I want to be with you the way a person in a parched land who is very thirsty wants water."
-  * **my soul thirsts for you** - The soul is a metonym for the person. AT: "I am thirsty for you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **parched land** - "a land where everything has died because there is no water"
+  * **my soul thirsts for you** - The psalmist desires to know Yahweh. The intensity of his desire to know Yahweh is like one who is very thirsty. AT: "I long for you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my soul** - The soul is a metonym for the person. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **parched land** - A land where everything has died because there is no water.
   * **Selah** - This may be a musical term that tells people how to sing or play their instruments here. Some translations write the Hebrew word, and some translations do not include it. See how you translated this in [[:en:bible:notes:psa:003:001|3:2]]. (See: [[:en:ta:vol1:translate:translate_transliterate]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -68,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:143]]
 **[[:en:bible:notes:psa:143:003|<<]] | [[:en:bible:notes:psa:143:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

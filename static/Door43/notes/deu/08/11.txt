@@ -21,8 +21,8 @@
 
 <usfm>
 \p
-\v 11 Be careful that you do not forget Yahweh your God, and that you do not neglect his commandments, his ordinances, and his statutes that I am commanding you today.
-\v 12 Be careful that, when you eat and are full, and when you build good houses and live in them.
+\v 11 Be careful that you do not forget Yahweh your God, and that you do not neglect his commandments, his ordinances, and his statutes that I am commanding you today,
+\v 12 otherwise, when you eat and are full, and when you build good houses and live in them, your heart will be lifted up.
 </usfm>
 
 
@@ -35,10 +35,9 @@
 
   * **General Information:** - Moses continues to speak to the Israelites as if they are one person. (See: [[:en:ta:vol1:translate:figs_you]])
 
-  * **do not neglect his commandments** - "do not stop obeying his commandments" or "continue to obey his commandments" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **Be careful that, when you eat ... live in them** - Moses begins to tell them the second thing they need to be careful of. This is a long list that continues into the following verses.
-  * **Be careful that, when you eat and are full, and when you build** - Another possible meaning is that these are not "when" clauses but are instead the beginning of a list of results of neglecting Yahweh's commandments: "If you neglect his commandments, you will eat and be full and build."
+  * **do not neglect his commandments** - "do not stop obeying his commandments" or "continue to obey his commandments"
   * **when you eat and are full** - "when you have enough food to eat"
+  * **your heart will be lifted up** - Here "heart" represents the inner person. To become prideful and no longer obey Yahweh is spoken of as if the person's heart is lifted up. AT: "you will become prideful and no longer obey Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:deu:00:intro]]
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:deu:08]]
 **[[:en:bible:notes:deu:08:09|<<]] | [[:en:bible:notes:deu:08:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

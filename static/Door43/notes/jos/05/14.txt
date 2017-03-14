@@ -21,7 +21,7 @@
 
 <usfm>
 \v 14 He said, "Neither. For I am the commander of the army of Yahweh. Now I have come." Then Joshua lay facedown on the ground to worship and said to him, "What does my master say to his servant?"
-\v 15 The commander of Yahweh's army said to Joshua, "Take off your sandals from your feet, because the place you are standing is holy." And Joshua did so.
+\v 15 The commander of Yahweh's army said to Joshua, "Take off your sandals from your feet, because the place you are standing is holy." That is what Joshua did.
 </usfm>
 
 
@@ -40,9 +40,9 @@
 ===== translationNotes: =====
 
   * **He said** - The word "he" refers to the man Joshua saw.
-  * **Neither** - This is beginning of the man's answer to Joshua's question, "Are you for us or for our enemies?" This short answer could be clarified. AT: I am neither for you nor for your enemies"
+  * **Neither** - This is the beginning of the man's answer to Joshua's question, "Are you for us or for our enemies?" This short answer could be clarified. AT: "I am neither for you nor for your enemies"
   * **Joshua lay facedown on the ground to worship** - This was an act of worship. (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **take off your sandals from your feet** - This was an act of reverence. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **Take off your sandals from your feet** - This was an act of reverence. (See: [[:en:ta:vol2:translate:translate_symaction]])
  
 ===== Links: =====
 
@@ -54,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check sandal}}
+{{tag>publish p2pass sandal}}
 
 ~~NOCACHE~~

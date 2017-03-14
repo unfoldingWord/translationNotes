@@ -30,7 +30,6 @@
 \q1
 \v 40 then I wish that thorns would grow in my fields instead of wheat,
 \q2 and that bad weeds would grow instead of barley!"
-\b
 \q1 That is the end of what Job said to his three friends.
 </usfm>
 
@@ -47,7 +46,7 @@
 \q
 \v 40 then let thorns grow instead of wheat
 \q and weeds instead of barley."
-\b
+\m
 \p The words of Job are finished.
 </usfm>
 
@@ -65,8 +64,9 @@
 
   * **General Information:** - This concludes Job's description of situations in which he would deserve God's punishment, but he knows they are not true. (See: [[:en:ta:vol1:translate:figs_hypo]])
 
-  * **If my land ever cries out against me, and its furrows weep together** - Job describes the land as a person who cries because Job has stolen it from its proper owner. (See: [[:en:ta:vol2:translate:figs_personification]])
-
+  * **If my land ever cries out against me, and its furrows weep together** - Job speaks of being guilty as if his land were a person who cries out against Job because of the wrong Job has done to the land. AT: "If I have done wrong concerning my land" or "If I have stolen my land from someone" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **to lose their lives** - This represents dying. AT: "to die" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and weeds instead of barley** - The words "let" and "grow" are understood from the previous phrase. AT: "and let weeds grow instead of barley" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -74,6 +74,6 @@
   * [[:en:bible:questions:comprehension:job:31]]
 **[[:en:bible:notes:job:31:35|<<]] | [[:en:bible:notes:job:32:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit barley}}
+~~DISCUSSION~~{{tag>publish p2check barley}}
 
 ~~NOCACHE~~

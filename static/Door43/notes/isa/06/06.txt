@@ -26,7 +26,7 @@
 <usfm>
 \p
 \v 6 Then one of the seraphim flew to me; he had a glowing coal in his hand, that he had taken with the tongs from off the altar.
-\v 7 He touched my mouth with it and said, 
+\v 7 He touched my mouth with it and said,
 \q1 "See, this has touched your lips; your guilt has been taken away, and your sin atoned for."
 </usfm>
 
@@ -42,9 +42,10 @@
 
   * **General Information:** - Isaiah continues to describe his vision.
 
-  * **seraphim** - See how you translated this word in [[:en:bible:notes:isa:06:01|6:2]].
-  * **tongs** - tools used for grabbing or holding objects
-  * **your guilt has been taken away, and your sin atoned for** - These two phrases say basically the same thing. This can be stated in active form. AT: "God has completely forgiven your sins" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **seraphim** - This word suggests that the creatures might have a fiery appearance or resemble snakes. Because we do not know exactly what "seraphim" means, you could translate these as "creatures" or "living things" or "beings." Or you can borrow the word and use it in your language. See how you translated this word in [[:en:bible:notes:isa:06:01|6:2]]. (See: [[:en:ta:vol1:translate:translate_unknown]] and [[:en:ta:vol1:translate:translate_transliterate]])
+  * **tongs** - a tool used for grabbing or holding objects
+  * **your guilt has been taken away, and your sin atoned for** - These two phrases say basically the same thing. This can be stated in active form. AT: "Yahweh has taken away your guilt and has forgiven your sins" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your guilt has been taken away** - Yahweh no longer considering a person to be guilty is spoken of as if "guilt" were an object that someone could take away from someone else. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -56,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit guilt}}
+{{tag>publish p2pass guilt}}
 
 ~~NOCACHE~~

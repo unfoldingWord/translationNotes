@@ -26,7 +26,6 @@
 \q2 and you examine everything that we are thinking.
 \q1 Allow me to watch you getting revenge on the people who want to kill me,
 \q2 because I trust that you will do for me what is right."
-\b
 
 
 \p
@@ -38,7 +37,7 @@
 <usfm>
 \p
 \v 18 Yahweh made me know these things, so I know them. You, Yahweh, made me see their deeds.
-\v 19 I was like a gentle lamb being led to a butcher. I did not know that they had formed plans against me, "Let us destroy the tree with its fruit! Let us cut him off from the land of the living 
+\v 19 I was like a gentle lamb being led to a butcher. I did not know that they had formed plans against me, "Let us destroy the tree with its fruit! Let us cut him off from the land of the living
 so his name will be no longer remembered."
 \q
 \v 20 Yet Yahweh of hosts is the righteous judge who examines the heart and the mind.
@@ -64,8 +63,16 @@ so his name will be no longer remembered."
 
 ===== translationNotes: =====
 
-  * **being led to a butcher** - AT: "that my enemies were leading to a butcher" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **his name will be no longer remembered** - AT: "People will no longer remember his name" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Yahweh made me know these things, so I know them** - "You have revealed things to me and so I know them." The refers to Yahweh revealing to Jeremiah that his enemies were planning to kill him. 
+  * **made me see their deeds** - The refers to Yahweh revealing to Jeremiah that his enemies were planning to kill him. This is spoken of here as if Jeremiah has already see their actions. AT: "have revealed to me their evil plans" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I was like a gentle lamb being led to a butcher** - This speaks of Jeremiah being unaware of his enemies' plans to kill him by comparing him to a lamb who is being led to be slaughtered. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **being led to a butcher** - This can be stated in active form. AT: "that my enemies were leading to a butcher" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Let us destroy the tree with its fruit** - Here Jeremiah's enemies speak of killing him as if he were a fruit tree that they were planning to destroy. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Let us cut him off from the land of the living** - The phrase "cut him off" means to destroy him. Also, "the living" refers to living people. AT: "Let is kill him so he is no longer in the land of those who are alive" or "Let us destroy him so that he is no longer among the world of living people" (See: [[:en:ta:vol1:translate:figs_idiom]] and  [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **his name will be no longer remembered** - This can be stated in active form. AT: "People will no longer remember his name" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the heart and the mind** - The heart is a metonym for what a person feelings and desires and "the mind" is a metonym for what a person thinks and decides. AT: "a person's feelings and thoughts" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will witness your vengeance** - The word "vengeance" here can be expressed as a verb. AT: "I will watch you take revenge" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+
 
 ===== Links: =====
 
@@ -78,6 +85,6 @@ so his name will be no longer remembered."
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit lamb}}
+{{tag>publish p2check lamb}}
 
 ~~NOCACHE~~

@@ -37,8 +37,10 @@
 ===== translationNotes: =====
 
   * **terrified** - "extremely afraid"
-  * **rage** - "great anger"
-
+  * **The king got up in a rage** - Being in a rage is an idiom for being extremely angry. AT: "The king was extremely angry and got up" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to beg for his life from Queen Esther** - "to beg Queen Esther to save his life"
+  * **He saw that disaster was being decided** - Here seeing represents realizing or understanding. AT: "He realized that disaster was being decided" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **disaster was being decided against him by the king** - This can be stated in active form. The abstract noun "disaster" can be expressed with the more concrete verbs "destroy" or "kill." AT: "the king was deciding to cause a disaster against him" or "the king was deciding to destroy him" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -53,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

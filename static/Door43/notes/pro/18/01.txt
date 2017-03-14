@@ -23,7 +23,6 @@
 \q1
 \v 2 A foolish person does not enjoy understanding anything;
 \q2 he only wants to tell others what he thinks.
-\b
 
 
 \q1
@@ -52,9 +51,12 @@
 
 ===== translationNotes: =====
 
-  * **quarrels** - "disagrees"
-  * **sound judgment** - AT: "common sense" or "wise choices"
-  * **revealing what is in his own heart** - AT: "talking about himself"
+  * **isolates himself** - "keeps away from other people" (UDB)
+  * **quarrels with all sound judgment** - This speaks of a person disagreeing with sound judgment as if "sound judgment" were a person he fought with. AT: "he disagrees with all sound judgment" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **sound judgment** - "good judgment" or "wise choices"
+  * **A fool finds no pleasure in understanding, but only** - "A fool does not care about understanding, but only about" This means the fool considers "understanding" the opposite of pleasure. AT: "A fool detests understanding and only finds pleasure in" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **but only in revealing what is in his own heart** - This means that the fool only finds pleasure in telling other people what he feels and desires in his heart. AT: "but only in telling others what is in his own heart" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **what is in his own heart** - The contents of a person's heart refers to the person's thoughts and feelings. AT: "what he thinks" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -63,6 +65,6 @@
   * [[:en:bible:questions:comprehension:pro:18]]
 **[[:en:bible:notes:pro:17:27|<<]] | [[:en:bible:notes:pro:18:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

@@ -34,8 +34,10 @@
 
 ==== translationNotes: =====
 
-  * **Laish** - Translate translate the name of this town the same as you did in [[:en:bible:notes:jdg:18:07| 18:7]].
-  * **Do you know that in these houses there are an ephod, ... and a cast metal figure?** - The five men asked this question to suggest and encourage the men that they should steal the idols. This question can be written as statement and include the implied information. AT: "These houses contain an ephod, household gods, a carved idol, and a cast idol. We should take them." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **Laish** - Translate the name of this town the same as you did in [[:en:bible:notes:jdg:18:07| 18:7]].
+  * **in these houses there are an ephod, ... metal figure? Decide ... will do** - The five men asked this question to suggest and encourage the men that they should steal the idols. This can be written as a statement, and the implied information may be given in a parenthetical phrase. AT: "these houses contain an ephod, ... metal figure. (They were suggesting that the men steal these things.) Decide ... will do" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **in these houses there are** - "in one of these house there is" or "among these houses is"
+
 ===== Links: =====
 
   * [[:en:bible:notes:jdg:00:intro]]
@@ -43,6 +45,6 @@
   * [[:en:bible:questions:comprehension:jdg:18]]
 **[[:en:bible:notes:jdg:18:11|<<]] | [[:en:bible:notes:jdg:18:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

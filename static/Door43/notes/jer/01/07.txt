@@ -15,7 +15,6 @@
 <usfm>
 \v 7 Yahweh replied, "Do not say that you are too young, because you must go to everyone to whom I will send you, and you must tell them everything that I tell you to say.
 \v 8 And you must not be afraid of the people to whom you will speak, because I will protect you from being harmed by them. This will surely happen because I, Yahweh, have said it!"
-\m
 
 
 \m
@@ -44,7 +43,10 @@
  
 ===== translationNotes: =====
 
-  * **Yahweh's declaration** - "what Yahweh has declared" or "what Yahweh has said"
+  * **Do not be afraid of them** - "Do not be afraid of the people I will send you to speak to"
+  * **this is Yahweh's declaration** - The word "this" refers to what Yahweh just said in verses 7 and 8.
+  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+
 
  
 ===== Links: =====
@@ -57,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 
 <usfm>
 \v 14 They are certain to die just like sheep
-\q2 when a shepherd leads them away to be slaughtered. 
+\q2 when a shepherd leads them away to be slaughtered.
 \q1 In the morning the righteous people will rule over them,
 \q1 and then those wealthy people will die and their bodies will quickly decay in their graves;
 \q2 they will be where dead people are, far from their homes.
@@ -28,7 +28,7 @@
 \v 15 But it is certain that God will rescue me so that I am not held fast in the place of the dead;
 \q2 he will take me to himself.
 
-\b
+
 
 
 \q1
@@ -38,14 +38,14 @@
 
 <usfm>
 \q
-\v 14 They are appointed like a flock to go to Sheol
+\v 14 Like sheep they are appointed for Sheol,
 \q and death will be their shepherd.
-\q The upright will have power over them in the morning
-\q and Sheol will consume their bodies
-\q and there be no place for them to live.
+\q The upright will rule over them in the morning,
+\q and their bodies will be consumed in Sheol,
+\q with no place for them to live.
 \q
-\v 15 But God will redeem my life from the hand of Sheol;
-\q he will receive me. 
+\v 15 But God will redeem my life from the power of Sheol;
+\q he will receive me.
 \qs Selah\qs*
 </usfm>
 
@@ -65,13 +65,15 @@
 
   * **General Information:** - The author continues to describe people who believe their wealth will save them.
 
-  * **They are appointed** - This can be stated in active form. AT: "God has appointed them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **like a flock** - The writer compares people who will all die to a flock of sheep. Just as sheep cannot escape when the butcher decides to slaughter them, so men will not escape when it is their time to die. (See [[:en:ta:vol1:translate:figs_simile]])
+  * **Like sheep** - The writer compares people who will all die to a flock of sheep. Just as sheep cannot escape when the butcher decides to slaughter them, so men will not escape when it is their time to die. (See [[:en:ta:vol1:translate:figs_simile]])
+  * **they are appointed** - This can be stated in active form. AT: "God has appointed them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **death will be their shepherd** - The writer speaks of men dying by personifying death as a shepherd who leads them into the grave. AT: "death will take them away as a shepherd leads away sheep to be slaughtered" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]]) 
   * **in the morning** - Here the word "morning" is a metaphor that refers to a time when God will vindicate righteous people and save them from evil people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Sheol will consume their bodies** - The writer speaks of Sheol, the place of the dead, as if it were a person or animal. He speaks of the decay of dead bodies as if Sheol were eating them. AT: "their bodies will decompose in the grave" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **God will redeem my life from the hand of Sheol** - Here "hand" refers to power. The writer speaks of Sheol as if it were a person who has power over those who die. From the context, it is implied that this power refers to consuming the bodies of the dead. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **their bodies will be consumed in Sheol** - The writer speaks of Sheol, the place of the dead, as if it were a person or animal. He speaks of the decay of dead bodies as if Sheol were eating them. AT: "their bodies will decompose in the grave" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **God will redeem my life from the power of Sheol** - The writer speaks of Sheol as if it were a person who has power over those who die. From the context, it is implied that this power refers to consuming the bodies of the dead. (See: [[:en:ta:vol2:translate:figs_personification]])
   * **God will redeem my life** - Here the word "life" refers to the whole person. AT: "God will redeem me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -79,6 +81,6 @@
   * [[:en:bible:questions:comprehension:psa:049]]
 **[[:en:bible:notes:psa:049:012|<<]] | [[:en:bible:notes:psa:049:016|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2 receive upright}}
+~~DISCUSSION~~{{tag>publish p2pass book2 receive upright}}
 
 ~~NOCACHE~~

@@ -30,11 +30,10 @@
 
 <usfm>
 \c 11
-\p
+\m
 \d For the chief musician. A psalm of David.
-\b
 \q
-\v 1 I take refuge in Yahweh; 
+\v 1 I take refuge in Yahweh;
 \q how will you say to me,
 \q "Flee like a bird to the mountain"?
 \q
@@ -56,13 +55,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **For the chief musician** - "This is for the director of music to use in worship."
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **take refuge in Yahweh** - Going to Yahweh for protection is spoken of as taking refuge in him. AT: "go to Yahweh for protection" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **how will you say to me, "Flee like a bird to the mountain"?** - This question is asked to provide emphasis. AT: "So do not ask me to run away!" ([[:en:ta:vol1:translate:figs_rquestion]])
+  * **how will you say to me, "Flee like a bird to the mountain"?** - This question is asked to provide emphasis. It can be translated as a statement. AT: "So do not ask me to run away!" ([[:en:ta:vol1:translate:figs_rquestion]])
   * **For see! The wicked prepare their bows. They make ready their arrows on the strings to shoot in the darkness at the upright in heart** - "Look! the wicked are preparing to attack upright people"
+  * **upright in heart** - Here "upright in heart" refers to godly or righteous people. 
 
 ===== Links: =====
 
@@ -71,6 +71,6 @@
   * [[:en:bible:questions:comprehension:psa:011]]
 **[[:en:bible:notes:psa:010:017|<<]] | [[:en:bible:notes:psa:011:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

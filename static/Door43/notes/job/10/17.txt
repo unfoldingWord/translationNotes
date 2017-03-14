@@ -16,7 +16,6 @@
 \v 17 You constantly find more witnesses to testify that I have done what is wrong,
 \q2 and you continually become more angry with me.
 \q2 It is as though you are [were] always bringing new troops to attack me.
-\b
 
 
 \q1
@@ -29,7 +28,7 @@
 \v 17 You bring new witnesses against me
 \q and increase your anger against me;
 \q you attack me with fresh armies.
-\b
+\m
 </usfm>
 
 ===== translationWords: =====
@@ -39,8 +38,9 @@
 
 ===== translationNotes: =====
 
-  * **bring new witnesses** - AT: "keep on bringing more people to say that I have done something wrong"
-  * **you attack me with fresh armies** - AT: I feel like I am always being attacked by fresh armies." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **You bring new witnesses against me** - Job's troubles from God are spoken of as if they were people who were witnesses against him. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and increase your anger against me** - The abstract noun "anger" can be translated as the adjective "angry." AT: "and are more and more angry with me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **you attack me with fresh armies** - God sending troubles against Job is spoken of as if God was constantly sending new armies against him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:job:10]]
 **[[:en:bible:notes:job:10:15|<<]] | [[:en:bible:notes:job:10:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

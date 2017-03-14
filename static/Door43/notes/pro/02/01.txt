@@ -35,8 +35,8 @@
 \v 1 My son, if you receive my words
 \q and treasure up my commandments with you,
 \q
-\v 2 listen to wisdom
-\q and you will incline your heart to understanding.
+\v 2 make your ears pay attention to wisdom
+\q and incline your heart to understanding.
 </usfm>
 
 
@@ -54,9 +54,13 @@
 
   * **General Information:** - A father teaches his child using poetry. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **receive** - "accept" or "welcome"
-  * **treasure up my commandments with you** - "have the same zeal to learn my commandments that you have to gain treasures" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **incline your heart to understanding** - "strongly desire to gain understanding" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **if you receive my words** - Here "words" represents a teaching. AT: "if you listen to what I am teaching you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **if you receive** - This begins a series of conditional statements that concludes in 2:5. If it is more natural for your language, you can translate these conditional statements as commands as in the UDB.
+  * **treasure up my commandments with you** - Valuing what is commanded is spoken of as if the commandments were a treasure and the person were a safe place to store the treasure. AT: "consider my commands to be as valuable as a treasure" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **make your ears pay attention to wisdom and incline your heart to understanding** - If you translated 2:1 as a command, you can translate 2:2 as a command, as in the UDB. Or, if you translated 2:1 as a conditional statement, you could translate 2:2 as a conditional statement also. AT: "if you make your ears pay attention to wisdom and incline your heart to understanding" (See: [[:en:ta:vol2:translate:figs_imperative]])
+  * **make your ears pay attention** - This is an idiom. AT: "force yourself to listen carefully" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **wisdom** - This abstract noun can be stated as an adjective. AT: "listen to the wise things I am teaching you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **incline your heart to understanding** - Here "heart" represents a person's mind. The phrase "incline your heart" is an idiom that means to commit or fully dedicate one's mind to a task. AT: "try hard to understand what is wise" (UDB) or "fully dedicate yourself to understanding wise teachings" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
 
  
  
@@ -73,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

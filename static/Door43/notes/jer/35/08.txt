@@ -29,8 +29,8 @@
 
 <usfm>
 \v 8 We have obeyed the voice of Jonadab son of Rechab, our ancestor, in all that he commanded us, to never drink wine all of our days, we, our wives, our sons, and our daughters.
-\v 9 And we will never build houses to live in, and there will be no vineyard, field, or seed in our possession.
-\v 10 We have lived in tents and listened and followed all that Jonadab our ancestor commanded us.
+\v 9 We will never build houses to live in, and there will be no vineyard, field, or seed in our possession.
+\v 10 We have lived in tents and we have obeyed and done all that Jonadab our ancestor commanded us.
 \v 11 But when Nebuchadnezzar king of Babylon attacked the land, we said, 'Come, we must go to Jerusalem to escape from the Chaldean and Aramean armies.' So we are living in Jerusalem."
 </usfm>
 
@@ -51,8 +51,8 @@
 ===== translationNotes: =====
 
 
-  * **the voice of Jonadab** - The word "voice" here refers to "command." AT: "the command of Jonadab" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **all of our days** - "Days" refers to the span of time. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the voice of Jonadab** - The word "voice" is a metonym for the command that Jonadab spoke. AT: "the command of Jonadab" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **all of our days** - "Days" refers to the span of time. AT: "as long as we live" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -67,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

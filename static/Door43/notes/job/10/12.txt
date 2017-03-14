@@ -20,7 +20,6 @@
 <usfm>
 \v 12 You have caused me to be alive; you have faithfully loved me,
 \q2 and you have carefully preserved me.
-\b
 \q1
 \v 13 But you kept secret what you were planning to do to me;
 \q2 I am certain that you were planning to do these things to me.
@@ -59,11 +58,12 @@
 
 ===== translationNotes: =====
 
-  * **covenant faithfulness** - "love that never ends;"
+  * **You have granted me life and covenant faithfulness** - Here the abstract noun "life" means physical life and "covenant faithfulness" refers to God being faithful to his promises. They can be translated as verbs. AT: "You have allowed me to live and have faithfully protected me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **your help** - "your care"
-  * **you hid in your heart** - "you kept this a secret" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_personification]])
-  * **that if I sinned, you would notice it** - "if I sinned, you would see it;"
-  * **you would not acquit me of my iniquity** - "you would not allow me to go unpunished." or "you would not overlook my sin."
+  * **guarded my spirit** - Here "spirit" represents Job's life. AT: "guarded me" or "watched carefully over me" or "kept me safe" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **these things you hid in your heart** - Here "these things" refer to the things spoken of in the verses that follow.
+  * **these things you hid in your heart** - Here "you hid in your heart" means God kept them secret or hidden. AT: "these things you kept secret" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you would notice it** - "you would watch me"
 
 ===== Links: =====
 
@@ -72,6 +72,6 @@
   * [[:en:bible:questions:comprehension:job:10]]
 **[[:en:bible:notes:job:10:10|<<]] | [[:en:bible:notes:job:10:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish acquit p2edit}}
+~~DISCUSSION~~{{tag>publish acquit p2pass}}
 
 ~~NOCACHE~~

@@ -48,7 +48,7 @@
 \q
 \v 6 Look away from him that he may rest,
 \q so that he may enjoy his day like a hired man if he can do so.
-\b
+\m
 </usfm>
 
 
@@ -61,10 +61,13 @@
 
 ===== translationNotes: =====
 
-  * **Who can bring something clean out of something unclean? No one** - This is a rhetorical question with the answer. AT: "No one can bring something clean out of something unclean" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Man's days are determined** - AT: "You determined a man's days" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **hired man** - a man who is hired to do a job and goes home afterwards
+  * **General Information:** Job continues speaking to God.
 
+  * **Who can bring something clean out of something unclean? No one** - Job uses this question to persuade God to apply what he knows about unclean things to Job. AT: "No one can bring something clean out of something unclean" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Man's days are determined** - This can be expressed in active form. AT: "You determine a man's days" or "You decide how long a man lives" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The number of his months is with you** - The number of man's months being with God represents God deciding the number of months that the man will live. "You decide how many months he will live" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you have appointed his limits that he cannot pass** - Passing a limit represents living past a time that God has set for a person to die. AT: "you have appointed the time that he will die, and he cannot live longer than that.(See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **hired man** - a man who is hired to do a job and goes home afterwards
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -72,6 +75,6 @@
   * [[:en:bible:questions:comprehension:job:14]]
 **[[:en:bible:notes:job:14:01|<<]] | [[:en:bible:notes:job:14:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

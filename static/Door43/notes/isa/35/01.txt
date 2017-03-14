@@ -38,14 +38,14 @@
 
 <usfm>
 \c 35
-\p
+\m
 \q1
-\v 1 The wilderness and the Arabah will be glad; and the desert will rejoice and blossom 
-\q1 like the rose.
+\v 1 The wilderness and the Arabah will be glad; and the desert will rejoice and blossom.
+\q1 Like the rose,
 \q1
-\v 2 It will blossom abundantly and rejoice with joy and singing; 
+\v 2 it will blossom abundantly and rejoice with joy and singing;
 \q1 the glory of Lebanon will be given to it, the
-splendor of Carmel and Sharon; 
+splendor of Carmel and Sharon;
 \q1 they will see the glory of Yahweh, the splendor of our God.
 </usfm>
 
@@ -65,9 +65,13 @@ splendor of Carmel and Sharon;
 
 ===== translationNotes: =====
 
-  * **The wilderness and the Arabah will be glad; and the desert will rejoice** - These two phrases mean basically the same thing. Isaiah describes these places as a person who is glad because they see Yahweh's glory. (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **the glory of Lebanon will be given to it, the splendor of Carmel and Sharon** - This can be stated in active form. AT: "Yahweh will make the desert as beautiful as Lebanon, Carmel, and Sharon" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the glory of Yahweh, the splendor of our God** - These two phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **The wilderness and the Arabah will be glad; and the desert will rejoice** - These two phrases have basically the same meaning. These places are described as being glad, like a person is glad, because they have received water and are blossoming. AT: "It will be like the wilderness and the Arabah are glad and the desert will rejoice" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **and blossom** - This speaks of the plants in the desert blossoming as if the desert itself were blossoming. AT: "and its plants will blossom" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Like the rose, it will blossom abundantly** - This compares the way the plants of the desert blossom to the way a rose has many blossoms. AT: "The desert will grow many new plants and trees" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **and rejoice with joy and singing** - This speaks of the desert as if it were happy and singing like a person. AT: "it will be as though everything is rejoicing and singing!" (UDB) (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **the glory of Lebanon will be given to it** - This can be stated in active form. This speaks of Yahweh making the desert looks as glorious as Lebanon as if he were giving the desert Lebanon's glory. AT: "Yahweh will give it the glory of Lebanon" or "Yahweh will make it as glorious as Lebanon" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the splendor of Carmel and Sharon** - The missing words may be added. Also, this speaks of Yahweh making the desert look beautiful as Carmel and Sharon as if he were giving the desert their splendor. AT: "the splendor of Carmel and Sharon will be given to it" or "Yahweh will make it as splendid as Carmel and Sharon" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the glory of Yahweh, the splendor of our God** - These two phrases mean basically the same thing and emphasize Yahweh's appearance. (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
 
@@ -76,6 +80,6 @@ splendor of Carmel and Sharon;
   * [[:en:bible:questions:comprehension:isa:35]]
 **[[:en:bible:notes:isa:34:16|<<]] | [[:en:bible:notes:isa:35:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit glory}}
+~~DISCUSSION~~{{tag>publish p2pass p2example glory}}
 
 ~~NOCACHE~~

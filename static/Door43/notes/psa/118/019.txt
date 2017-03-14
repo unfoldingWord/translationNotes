@@ -28,7 +28,7 @@
 \q1
 \v 21 Yahweh, I thank you that you answered my prayer
 \q2 and that you saved me from my enemies.
-\b
+
 
 
 \q1
@@ -57,8 +57,8 @@
 
 ===== translationNotes: =====
 
-  * **Open to me the gates of righteousness** - "Open to me the gates through which the righteous enter." This is a reference to the gates of the temple, and the writer is addressing the gatekeepers. AT: "Open for me the temple gates" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the gate of Yahweh** - "the gate that leads to Yahweh's presence" or "Yahweh's gate"
+  * **Open to me the gates of righteousness** - "Open to me the gates through which the righteous people enter." This is a reference to the gates of the temple, and the writer is addressing the gatekeepers. The full meaning of this can be made clear. AT: "Open for me the temple gates" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the gate of Yahweh** - "the gate that leads to Yahweh's presence" or "Yahweh's gate" 
   * **I will give thanks to you** - Here the writer begins to speak to Yahweh.
   * **you have become my salvation** - The word "salvation" can be translated with a verbal phrase. AT: "you have saved me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:118]]
 **[[:en:bible:notes:psa:118:017|<<]] | [[:en:bible:notes:psa:118:022|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

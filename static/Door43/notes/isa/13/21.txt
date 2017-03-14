@@ -35,7 +35,7 @@
 
 <usfm>
 \q1
-\v 21 But wild animals of the desert will lie there. Their houses will be full of owls; 
+\v 21 But wild animals of the desert will lie there. Their houses will be full of owls;
 \q1 and ostriches and wild goats will skip about there.
 \q1
 \v 22 Hyenas will cry in their fortresses, and jackals in the beautiful palaces. Her time is near, and her days will not be delayed.
@@ -49,15 +49,16 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - This may be Isaiah or Yahweh speaking.
+  * **Connecting Statement:** - Yahweh continues speaking about what will happen to Babylon.
 
   * **will lie there** - "will lie in Babylon"
   * **Their houses** - "The people's houses"
-  * **owl** - a bird that hunts at night (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **ostrich** - a large bird that runs fast and cannot fly
-  * **Hyenas** - large animals that eat dead animals and are known for their loud cry that sounds similar to a person laughing.
-  * **jackal** - a wild dog
-  * **Her time is near, and her days will not be delayed** - These two phrases mean basically the same thing. This can be stated in active form. AT: "The time that all of this will happen to the people of Babylon is near, and nothing will stop it" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **owls** - Owls are wild birds that hunt at night. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **ostriches** - Ostriches are large wild birds that run fast and cannot fly. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **Hyenas** - Hyenas are large wild animals that look like dogs and eat dead animals. Their loud cry sounds like a person laughing. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **and jackals in the beautiful palaces** - The words "will cry" are understood. AT: "And jackals will cry in the beautiful palaces" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **jackals** - wild dogs (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **Her time is near, and her days will not be delayed** - These two phrases mean basically the same thing. "Her time" and "her days" both refer to the time that God has chosen for Babylon to be destroyed. This can be stated in active form. AT: "The time that all of this will happen to the people of Babylon is near, and nothing will stop it" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -71,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -17,8 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 Then the princes of the Philistines said, "What are these Hebrews doing here?" Achish said to the other princes of the Philistines, "Is not this David, the servant of Saul, the king of Israel,
-who has been with me these days, or rather these years, and I have found no fault with him since he came away to me to this day?"
+\v 3 Then the princes of the Philistines said, "What are these Hebrews doing here?" Achish said to the other princes of the Philistines, "Is not this David, the servant of Saul, the king of Israel, who has been with me these days, or rather these years, and I have found no fault with him since he came away to me to this day?"
 </usfm>
 
 ===== translationWords: =====
@@ -34,6 +33,8 @@ who has been with me these days, or rather these years, and I have found no faul
 
 ===== translationNotes: =====
 
+  * **What are these Hebrews doing here?** - Possible ways to translate this rhetorical question as a statement are AT: 1) "You should not have allowed these Hebrews, our enemies, to be here with us." or 2) "Tell us who these Hebrews are." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Is not this David ... these years, and I have found ... this day?** - Another possible translation is "Is not this David, ... these years? I have found ... this day." The rhetorical question can be translated as a statement. AT: "You should know that this is David ... these years. I have found ... this day." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **I have found no fault with him** - This can be stated in positive form. AT: "I know of nothing that he has done wrong" or "I am very pleased with him" (See: [[:en:ta:vol2:translate:figs_litotes]])
 
 ===== Links: =====
@@ -43,6 +44,6 @@ who has been with me these days, or rather these years, and I have found no faul
   * [[:en:bible:questions:comprehension:1sa:29]]
 **[[:en:bible:notes:1sa:29:01|<<]] | [[:en:bible:notes:1sa:29:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

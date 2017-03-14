@@ -28,7 +28,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 So Joab came near to her, and the woman said, "Are you Joab?" He answered, "I am." Then she said to him, "Listen to the words of your servant." He answered, "I am listening." 
+\v 17 So Joab came near to her, and the woman said, "Are you Joab?" He answered, "I am." Then she said to him, "Listen to the words of your servant." He answered, "I am listening."
 \v 18 Then she spoke, "They used to say in old times, 'Surely seek advice at Abel,' and that advice would end the matter.
 \v 19 We are a city that is one of the most peaceful and faithful in Israel. You are trying to destroy a city that is a mother in Israel. Why do you want to swallow up the inheritance of Yahweh?"
 </usfm>
@@ -46,11 +46,14 @@
 
 ===== translationNotes: =====
 
-  * **Listen to the words of your servant** - The woman refers to herself as "your servant." This is a polite way to speak to someone with greater authority. AT: "Please, listen to me, your servant"
+  * **Listen to the words of your servant** - The woman refers to herself as "your servant." This is a polite way to speak to someone with greater authority. 
   * **and that advice would end the matter** - "and that advice would solve the problem"
-  * **city that is a mother in Israel** - Here the importance of this city is compared to that of being a mother to the nation of Israel. AT: "that everyone in Israel respects like they would their mother" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Why do you want to swallow up the inheritance of Yahweh?** - The woman uses a question for emphasis. This rhetorical question can be translated as a statement. AT: "Please, do not destroy this city that belongs to Yahweh." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **swallow up** - The woman compares the destruction of the city to swallowing food. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **most peaceful and faithful in Israel** - The missing word may be added. AT: "most peaceful and faithful cities in Israel" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **city that is a mother in Israel** - This speaks of the importance of this city among the nation of Israel as if it were a well respected mother. AT: "city that everyone in Israel respects like they would their mother" or "city that is very important and that Israel respects" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Why do you want to swallow up the inheritance of Yahweh?** - Here the woman uses a rhetorical question to suggest to Joab what they should not do. This question can be written as a statement. AT: "You should not destroy the city that is Yahweh's inheritance!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **swallow up** - Here the woman speaks of the army destroying the city as if the city were food to be swallowed. AT: "destroy" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the inheritance of Yahweh** - Here the city is referred to as Yahweh's inheritance to emphasize that it belongs to Yahweh. AT: "a city that belongs to Yahweh" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -64,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

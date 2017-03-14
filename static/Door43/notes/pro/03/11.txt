@@ -29,7 +29,7 @@
 
 <usfm>
 \q
-\v 11 My son, do not despise Yahweh's discipline
+\v 11 My son, do not despise Yahweh's instruction
 \q and do not hate his rebuke,
 \q
 \v 12 for Yahweh disciplines those he loves,
@@ -39,16 +39,16 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:kt:discipline]]
   * [[:en:obe:other:rebuke]]
+  * [[:en:obe:kt:discipline]]
   * [[:en:obe:kt:love]]
-
 
 ===== translationNotes: =====
 
   * **General Information:** - The writer writes as a father teaching his son.
 
-  * **loves** - This is kind of love that comes from God that is focused on the good of others, even when it does not benefit oneself. This kind of love cares for others, no matter what they do. 
+  * **a son who pleases him** - "a son in whom he delights." This refers to the father's affection for the son, and not to the father's approval of the son's behavior. AT: "a son whom he loves" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:pro:03]]
 **[[:en:bible:notes:pro:03:09|<<]] | [[:en:bible:notes:pro:03:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

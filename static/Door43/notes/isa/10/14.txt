@@ -18,7 +18,6 @@
 \q2 we have taken away the treasures of other countries.
 \q1 The people were not like birds that would have flapped their wings or chirp loudly to protest about their eggs being stolen;
 \q2 the people did not object at all to their treasures being stolen.'
-\b
 
 
 \q1
@@ -28,8 +27,8 @@
 
 <usfm>
 \q1
-\v 14 My hand has seized, as from a nest, the wealth of nations, 
-\q1 and as one gathers abandoned eggs, I gathered all the earth. 
+\v 14 My hand has seized, as from a nest, the wealth of nations,
+\q1 and as one gathers abandoned eggs, I gathered all the earth.
 \q1 None fluttered their wings or opened their mouth or chirped."
 </usfm>
 
@@ -42,6 +41,7 @@
 
   * **General Information:** - Yahweh is still quoting the king of Assyria. (See: [[:en:bible:notes:isa:10:12|10:13]])
 
+  * **My hand has seized** - The hand is a metonym for either the king's power or his army. AT: "In my power I have seized" or "My army has seized" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **My hand has seized, as from a nest, the wealth of nations** - The king of Assyria compares taking the treasures from the nations to a person taking eggs out of a bird's nest. This emphasizes how easy it was for him and his army to conquer these other kingdoms. AT: "My army has stolen the wealth from the nations just as easily as a man takes eggs from a nest" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **and as one gathers abandoned eggs, I gathered all the earth** - "and just as a person takes eggs from a nest when the bird is not there to protect them, my army has taken the treasures of every nation" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **None fluttered their wings or opened their mouth or chirped** - This compares the nations to a bird who sits quietly while her eggs are taken. This emphasizes that the nations did nothing while the army of Assyria took all of their possessions. AT: "And like a bird that does not make a sound or flap her wings when someone steals her eggs, the nations did nothing as we took their treasure" (See: [[:en:ta:vol1:translate:figs_simile]])
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:isa:10]]
 **[[:en:bible:notes:isa:10:12|<<]] | [[:en:bible:notes:isa:10:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

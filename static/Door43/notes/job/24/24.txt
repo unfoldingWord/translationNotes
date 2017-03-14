@@ -48,13 +48,16 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - This concludes Job's speech.
+  * **Connecting Statement:** - This concludes Job's speech.
 
-  * **they will be brought low** - AT: "God will bring them low" or "God will destroy them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they will be brought low** - This can be stated in active form. AT: "God will bring them low" or "God will destroy them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **they will be gathered up like all the others** - Some translations are based on a different early text, which says "they wither and fade like weeds." (See [[:en:ta:vol2:translate:translate_textvariants]])
-  * **they will be gathered up like all the others** - This can be expressed with an active verb. What "the others" refers to can be stated clearly. AT: "God will gather them up as he gathered up the other wicked people." See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **they will be cut off like the tops of ears of grain** - AT: "God will cut them off like a farmer cuts off the top of a stalk of grain" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **If it is not so, who can prove me to be a liar; who can make my speech worth nothing?** - The implicit answer is: "no one." AT: "This is true, and no one can prove that I am a liar; no one can prove me wrong" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **they will be gathered up like all the others** - This can be stated in active form. What "the others" refers to can be stated clearly. AT: "God will gather them up as he gathered up the other wicked people" See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **they will be cut off like the tops of ears of grain** - These wicked people will be cut off in the same way heads of grain are cut off during harvest. This can be stated in active form. AT: "God will cut them off like a farmer cuts off the top of a stalk of grain" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **If it is not so, who can prove me to be a liar; who can make my speech worth nothing?** - Job uses this question to express the certainty of his argument. The implicit answer is: "no one." AT: "This is true, and no one can prove that I am a liar; no one can prove me wrong." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **make my speech worth nothing** - "prove what I say is wrong"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -62,6 +65,6 @@
   * [[:en:bible:questions:comprehension:job:24]]
 **[[:en:bible:notes:job:24:22|<<]] | [[:en:bible:notes:job:25:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

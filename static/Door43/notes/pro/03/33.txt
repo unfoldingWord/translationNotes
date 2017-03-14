@@ -16,7 +16,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 33 Yahweh promises punishment to the families of those who do evil things. 
+\v 33 Yahweh promises punishment to the families of those who do evil things.
 \q2 but he makes happy the families of the good.
 \q1
 \v 34 Yahweh makes fools of those who treat others with disrespect,
@@ -31,7 +31,7 @@
 
 <usfm>
 \q
-\v 33 The curse of Yahweh is on the house of wicked people,
+\v 33 The curse of Yahweh is on the house of the wicked person,
 \q but he blesses the home of righteous people.
 \q
 \v 34 He mocks mockers,
@@ -50,12 +50,13 @@
   * [[:en:obe:other:mock]]
   * [[:en:obe:kt:favor]]
   * [[:en:obe:other:humble]]
- 
 
 ===== translationNotes: =====
 
-  * **bless** - This means to cause good and beneficial things to happen to the person or thing that is being blessed.
-  * **house** - This means "household," referring to the people who live together in one house.
+  * **The curse of Yahweh is on the house of the wicked person** - The writer speaks of Yahweh's curse as if it were an object that he placed on top of the wicked person's house. The word "house" is a metonym for family. AT: "Yahweh has cursed the family of the wicked person" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he blesses the home of righteous people** - The word "home" represents the family. AT: "he blesses the families of righteous people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he gives his favor to humble people** - The writer speaks of Yahweh's favor as if it were an object that he gives to people. AT: "he shows his favor to humble people" or "he is gracious to humble people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -66,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

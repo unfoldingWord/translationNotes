@@ -36,10 +36,10 @@
 
 ===== translationNotes: =====
 
-  * **see!** - The word "see" here adds emphasis to what follows. AT: "Indeed"
-  * **this is Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|1:8]].
-  * **when it will no longer be said** - AT: "when people will no longer say" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **As Yahweh lives** - See how you translated this in [[:en:bible:notes:jer:12:16|12:16]].
+  * **see!** - The word "see" here alerts us to pay attention to the surprising information that follows.
+  * **this is Yahweh's declaration** - Yahweh speaks of himself as if he were another person so that Jeremiah and the people of Judah will listen carefully to what he says. Translate as in [[:en:bible:notes:jer:01:07|01:8]]. AT: "this is what Yahweh has declared" or "this is what Yahweh has said" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **when it will no longer be said** - This can be stated in active form. AT: "when people will no longer say" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **As Yahweh lives** - "as surely as Yahweh is alive." The people use this expression to show that what they say next is certainly true. This is a way of making a solemn promise. Translate as in [[:en:bible:notes:jer:12:16|12:16]]. AT: "I solemnly swear" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:jer:16]]
 **[[:en:bible:notes:jer:16:12|<<]] | [[:en:bible:notes:jer:16:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

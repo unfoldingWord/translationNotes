@@ -40,13 +40,11 @@
 
 <usfm>
 \q1
-\v 3 What will you do on judgment day when the destruction comes from far away? 
-\q1 To whom will you flee for
-help, and where will you leave your wealth?
+\v 3 What will you do on judgment day when the destruction comes from far away?
+\q1 To whom will you flee for help, and where will you leave your wealth?
 \q1
-\v 4 Nothing remains, and you crouch among the prisoners or fall among the killed. 
-\q1 For all this Yahweh's anger does not subside,
- but his hand is still raised to strike.
+\v 4 Nothing remains, and you crouch among the prisoners or fall among the killed.
+\q1 In all these things, his anger does not subside; instead, his hand is still stretched out.
 </usfm>
 
 ===== translationWords: =====
@@ -58,12 +56,13 @@ help, and where will you leave your wealth?
 
 ===== translationNotes: =====
 
-  * **judgment day** - "the day when God comes to judge you" or "when God punishes you"
-  * **What will you do on judgment day when the destruction comes from far** - Isaiah uses a question to scold those in Judah who harm the poor and weak people. AT: "But there is nothing you will be able to do when Yahweh judges you and when those from far away come to destroy you!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **To whom will you flee for help, and where will you leave your wealth** - Isaiah uses a question to scold those in Judah who harm the poor and weak people. AT: "There is nowhere to run for help, and you will have nowhere to hide your riches!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Nothing remains** - "Nothing remains for you to do"
+  * **What will you do on judgment day ... away?** - Isaiah uses a question to scold those in Judah who harm the poor and weak people. AT: "You will be able to do nothing on judgment day ... away!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **judgment day** - "the day when Yahweh comes to judge you" or "the day when Yahweh punishes you"
+  * **To whom will you flee for help, and where will you leave your wealth?** - Isaiah uses a question to scold those in Judah who harm the poor and weak people. AT: "You have nowhere to run for help, and you will have nowhere to hide your riches!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Nothing remains** - "Nothing remains for you to do" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **and you crouch among the prisoners or fall among the killed** - "and your enemies will either take you as a prisoner or will kill you"
-  * **For all this Yahweh's anger does not subside, but his hand is still raised to strike** - See how you translated this in [[:en:bible:notes:isa:05:25|5:25]].
+  * **In all these things, his anger does not subside** - "Even though all these things have happened, he is still angry." Translate as in [[:en:bible:notes:isa:05:25|5:25]].
+  * **his hand is still stretched out** - Isaiah speaks as if Yahweh were a person about to hit another person with his fist. This is a metaphor for Yahweh punishing Israel. AT: "he will still be ready to punish them" Translate as in [[:en:bible:notes:isa:05:25|5:25]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -72,6 +71,6 @@ help, and where will you leave your wealth?
   * [[:en:bible:questions:comprehension:isa:10]]
 **[[:en:bible:notes:isa:10:01|<<]] | [[:en:bible:notes:isa:10:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit yahweh}}
+~~DISCUSSION~~{{tag>publish p2pass p2example yahweh}}
 
 ~~NOCACHE~~

@@ -40,12 +40,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to speak about Jerusalem and the people of Israel as his unfaithful wife.
+  * **General Information:** - Yahweh continues to speak about Jerusalem as if the city were his unfaithful wife. The city represents the people who live there. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
 
-  * **bore for me** - "gave birth to"
-  * **Are your acts of prostitution a small matter?** - AT: "you act like your acts of prostitution are not a serious sin." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **slaughtered** - killed
-  * **naked and bare** - See how you translated this in [[:en:bible:notes:ezk:16:06|16:7]].
+  * **whom you bore for me** - "who were my children"
+  * **you sacrificed them to the images to be devoured as food ... put them into the fire** - Here Yahweh does not use a metaphor, but speaks of something that the people of Israel had actually done. They sacrificed their children to pagan idols.
+  * **you sacrificed them to the images to be devoured as food** - In these ancient pagan sacrifices, the people believed that the gods would eat the food that they offered to them. This can be stated in active form. AT: "you sacrificed them to the images so that the images could devour them as food" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Are your acts of prostitution a small matter? You slaughtered** - Yahweh asks this rhetorical question to emphasize that the woman is acting as if her prostitution was not bad enough and so decided to sacrifice her children, as well. This can be translated as a statement. AT: "You must think that your acts of prostitution are a small matter, and so you slaughtered" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **put them into the fire** - It is implicit that she put them into the fire in order to offer them as burnt offerings to her images. AT: "sacrificed them as burnt offerings" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **naked and bare** - These two words mean the same thing. Translate as in [[:en:bible:notes:ezk:16:06|16:7]]. AT: "completely naked" (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
 
@@ -54,6 +56,6 @@
   * [[:en:bible:questions:comprehension:ezk:16]]
 **[[:en:bible:notes:ezk:16:17|<<]] | [[:en:bible:notes:ezk:16:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit devour}}
+~~DISCUSSION~~{{tag>publish p2check devour}}
 
 ~~NOCACHE~~

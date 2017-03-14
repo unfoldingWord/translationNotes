@@ -30,9 +30,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 34 And the priests, the Levites, and the people cast lots for the wood offering. The lots would select which of our families would bring wood into the house of our God at the appointed times each year. The wood would be burned on the altar of Yahweh our God, as it is written in the law.
+\v 34 The priests, the Levites, and the people cast lots for the wood offering. The lots would select which of our families would bring wood into the house of our God at the appointed times each year, to be burned on the altar of Yahweh our God, as it is written in the law.
 \v 35 We promised to bring to the house of Yahweh the firstfruits grown from our soil, and the firstfruits of every tree each year.
-\v 36 And as it is written in the law, we promised to bring to the house of God and to the priests who serve there, the firstborn of our sons and of our herds and flocks.
+\v 36 As it is written in the law, we promised to bring to the house of God and to the priests who serve there, the firstborn of our sons and of our herds and flocks.
 </usfm>
 
 
@@ -61,8 +61,9 @@
 
   * **General Information:** - In these verses, the people continue describing the content of the oath they were making in [[:en:bible:notes:neh:10:28|10:29]].
 
-  * **the people cast lots** - "the people threw marked stones to decide who would be responsible"
-
+  * **to be burned** - This can be stated in active form. AT: "for the Levites to burn" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **as it is written** - This can be stated in active form. AT: "as it states" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **from our soil** - "in our soil" or "on our land"
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:neh:10]]
 **[[:en:bible:notes:neh:10:32|<<]] | [[:en:bible:notes:neh:10:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit priest}}
+~~DISCUSSION~~{{tag>publish p2pass priest}}
 
 ~~NOCACHE~~

@@ -22,7 +22,6 @@
 
 <usfm>
 \v 24 Yahweh, commander of the angel armies, has also solemnly promised this:
-\b
 \q1 "The things that I have planned will surely happen.
 \q1
 \v 25 When the army of Assyria is in my land of Israel,
@@ -30,7 +29,6 @@
 \q2 It will be as though I had trampled them on my mountains.
 \q1 My people will no longer be the slaves of the people of Assyria;
 \q2 It will be as though I had taken away the burdens that were on their shoulders.
-\b
 
 
 \q1
@@ -40,13 +38,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 24 Yahweh of hosts has sworn, "Surely, 
-\q1 as I have intended, so it will come about; and as I have purposed, so
-it will be:
+\v 24 Yahweh of hosts has sworn, 
+\q1 "Surely, as I have intended, so it will come about; 
+\q1 and as I have purposed, so it will be:
 \q1
-\v 25 I will break the Assyrian in my land, and on my mountains trample him under foot. 
+\v 25 I will break the Assyrian in my land, and on my mountains trample him under foot.
 \q1 Then his yoke will be lifted from
 off them and his burden from off their shoulder."
 </usfm>
@@ -62,11 +59,15 @@ off them and his burden from off their shoulder."
 
 ===== translationNotes: =====
 
-  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
   * **as I have intended, so it will come about; and as I have purposed, so it will be** - These two phrases mean basically the same thing. AT: "the things that I have planned will surely happen" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **the Assyrian** - AT: "the king of Assyria and his army" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Then his yoke will be lifted from off them and his burden from off their shoulder** - These two phrases mean basically the same thing. This can be stated in active form. AT: "Then I will free the people of Israel from the king of Assyria like taking the yoke off of an ox" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **I will break the Assyrian in my land** - Breaking represents defeating. AT: "I will defeat the Assyrian in my land" or "I will cause the Assyrian in my land to be defeated" (See [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the Assyrian** - This represents the Assyrian king and his army. AT: "the king of Assyria and his army" or "the Assyrian army" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **trample him under foot** - This represents completely defeating him. (See [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Then his yoke will be lifted from off them and his burden from off their shoulder** - This can be expressed with an active verb. AT: "Then I will lift his yoke from them and his burden from their shoulder" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Then his yoke will be lifted from off them and his burden from off their shoulder** - These two phrases mean basically the same thing. Lifting the yoke and burden represents setting people free from slavery.  AT: "Then I will set the Israelites free from slavery to Assyria like removing a heavy burden from their shoulder " (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **his yoke ... his burden** - The word "his" refers to Assyria.
+  * **from off them ... from off their shoulder** - The words "them" and "their" refer to the people of Israel.
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -80,6 +81,6 @@ off them and his burden from off their shoulder."
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

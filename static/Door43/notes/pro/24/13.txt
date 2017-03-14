@@ -22,10 +22,9 @@
 \v 13 My son, eat honey, because it tastes good;
 \q2 the honeycomb is sweet.
 \q1
-\v 14 Wisdom is like the honeycomb, it feeds your life, if you can find it. 
-\q2 If you can find it, you will have a future, 
-\q2 and you will come to the future with hope that will not be cut short. 
-
+\v 14 Wisdom is like the honeycomb, it feeds your life, if you can find it.
+\q2 If you can find it, you will have a future,
+\q2 and you will come to the future with hope that will not be cut short.
 
 
 \q1
@@ -37,7 +36,7 @@
 <usfm>
 \q
 \v 13 My son, eat honey because it is good,
-\q because the drippings of honeycomb are sweet to your taste.
+\q because the drippings of the honeycomb are sweet to your taste.
 \q
 \v 14 Such is wisdom for your soul—
 \q if you find it, there will be a future
@@ -56,8 +55,9 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **your hope will not be cut off** - AT: "your hope will continue" or "no one will take your hope away" (See: [[:en:ta:vol2:translate:figs_litotes]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your hope will not be cut off** - Possible meanings are 1) this is a simple passive that can be translated as in active form. AT: "no one will take your hope away" or 2) this is litotes that can be translated in positive form. AT: "your hope will surely continue" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_litotes]])
  
 ===== Links: =====
 
@@ -72,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

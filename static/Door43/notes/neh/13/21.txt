@@ -16,8 +16,7 @@
 <usfm>
 \v 21 I warned them, "It is useless for you to stay here outside the walls on Friday night! If you do this again, I will take you and remove you myself!" So after that, they did not come on Sabbath days.
 \v 22 I also commanded the descendants of Levi to perform the ritual to purify themselves and to take up their stations to guard the City Gates, to make sure that the Sabbath was kept holy by not allowing merchants to enter it on that holy day.
-\p My God, do not forget what I have done for you! And be kind to me, as kind as your love is for me. 
-
+\p My God, do not forget what I have done for you! And be kind to me, as kind as your love is for me.
 
 \p
 </usfm>
@@ -26,8 +25,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 21 But I warned them, "Why do you camp outside the wall? If you do so again, I will lay hands on you!" From that time on they did not come on the Sabbath. 
-\v 22 And I commanded the Levites to purify themselves, and come and guard the gates, to sanctify the Sabbath day. 
+\v 21 But I warned them, "Why do you camp outside the wall? If you do so again, I will lay hands on you!" From that time on they did not come on the Sabbath.
+\v 22 Then I commanded the Levites to purify themselves, and come and guard the gates, to sanctify the Sabbath day.
 \p Call me to mind for this also, my God, and have mercy on me because of the covenant loyalty you have toward me.
 </usfm>
 
@@ -47,10 +46,9 @@
   * [[:en:obe:kt:covenant]]
 ===== translationNotes: =====
 
-  * **Why do you camp outside the wall?** - Nehemiah poses this question not to receive an answer but to rebuke merchants and to emphasize his command. AT: "You are camping outside the wall and it is against my direction." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **I will lay hands on you!** - "I will send you away by force!" or "I will remove you by force!"
-  * **Call me to mind for this also, my God** - "My God, remember me also for this." For the second time, Nehemiah is giving an account of the things he did to make sure that the Law was followed. This is not directed to the people, but directed to God. He asks God to remember what he has done. 
-  * **because of the covenant loyalty you have toward me** - "because of the promise of loyalty you have toward me."
+  * **Why do you camp outside the wall?** - Nehemiah uses a rhetorical question to rebuke merchants and to emphasize his command. This question can be translated as a statement.  The full meaning of this statement can also be made explicit. AT: "You are camping outside the wall against what I commanded." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **I will lay hands on you!** - The word "hands" is a metonym for forceful action. AT: "I will send you away by force!" or "I will remove you by force!" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Call me to mind for this also, my God** - "My God, remember me concerning this also." See how you translated a similar phrase in [[:en:bible:notes:neh:13:12|13:14]].
  
 ===== Links: =====
 
@@ -65,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

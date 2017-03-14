@@ -28,7 +28,7 @@
 \q1
 \v 7 Yes, Yahweh is on my side,
 \q2 so I will look triumphantly at my enemies while he defeats them.
-\b
+
 
 
 \q1
@@ -57,9 +57,9 @@
 ===== translationNotes: =====
 
   * **set me free** - The writer speaks of Yahweh saving him from distress as if Yahweh had taken him from a place of confinement to a wide open space where he could move about freely. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **what can man do to me?** - The writer asks this rhetorical question to emphasize that there is nothing that man can do to hurt him since Yahweh is with him. AT: "people cannot do anything to harm me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **what can man do to me?** - The writer asks this rhetorical question to emphasize that there is nothing that man can do to hurt him since Yahweh is with him. This question can be translated as a statement. AT: "people cannot do anything to harm me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Yahweh is on my side as my helper** - To be on one's side is an idiomatic expression that indicates that that person approves of and will help another. AT: "Yahweh approves of me and will help me" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **I will look in triumph on those who hate me** - It is implied that Yahweh is the one who will defeat the writer's enemies, while the writer looks on. AT: "I will see Yahweh defeating all those who hate me" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **I will look in triumph on those who hate me** - It is implied that Yahweh is the one who will defeat the writer's enemies, while the writer looks on. The full meaning of this can be made clear. AT: "I will see Yahweh defeating all those who hate me" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
 
 ===== Links: =====
 
@@ -68,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:118]]
 **[[:en:bible:notes:psa:118:003|<<]] | [[:en:bible:notes:psa:118:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

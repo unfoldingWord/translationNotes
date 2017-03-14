@@ -18,7 +18,7 @@
 
 <usfm>
 \v 7 Solomon was the father of Rehoboam, Rehoboam the father of Abijah, Abijah the father of Asa.
-\v 8 Asa was the father of Jehoshaphat, Jehoshaphat the father of Joram, and Joram the father of Uzziah.
+\v 8 Asa was the father of Jehoshaphat, Jehoshaphat the father of Joram, and Joram an ancestor of Uzziah.
 </usfm>
 
 ===== translationWords: =====
@@ -34,9 +34,7 @@
 
 ===== translationNotes: =====
 
-  * **Asa** - This name was written as "Asaph" here. (See: [[:en:ta:vol2:translate:translate_textvariants]])
-  * **Joram the father of Uzziah** - Joram was actually Uzziah's grandfather's grandfather, so "father" can be translated as "ancestor" (UDB).
-  * **Joram** - "Joram" was also known as Jehoram (UDB). (See: [[:en:ta:vol2:translate:translate_textvariants]])
+  * **Rehoboam the father of Abijah, Abijah the father of Asa** - The word "was" is understood in both of these phrases. AT: "Rehoboam was the father of Abijah, and Abijah was the father of Asa" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]

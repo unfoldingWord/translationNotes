@@ -20,13 +20,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 The fact is that the rick often have power over the poor, 
+\v 7 The fact is that the rich often have power over the poor,
 \q2 and one who borrows money is almost like a slave to the one who lends him the money.
 \q1
 \v 8 If you plant the seeds of wickedness, you can expect a crop of trouble,
-\q2 and when you use a rod to discipline your child, 
-\q2 but you use it when you are furious, it will do no good. 
-
+\q2 and when you use a rod to discipline your child,
+\q2 but you use it when you are furious, it will do no good.
 
 \q1
 </usfm>
@@ -39,8 +38,8 @@
 \v 7 Rich people rule over poor people
 \q and one who borrows is a slave to the one who lends.
 \q
-\v 8 He who sows wickedness will reap trouble
-\q and the rod of his fury will be of no use.
+\v 8 He who sows injustice will reap trouble
+\q and the rod of his fury will fade away.
 </usfm>
 
 
@@ -53,14 +52,15 @@
   * [[:en:obe:other:reap]]
   * [[:en:obe:other:trouble]]
   * [[:en:obe:kt:wrath]]
+
 ===== translationNotes: =====
 
 
-  * **borrows ... lends** - "borrows money ... lends money"
-  * **He who sows wickedness will reap trouble** - "A person who does bad things will get in trouble" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the rod of his fury** - AT: "his fierce anger" or "becoming very angry" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will be of no use** - "will not help him"
- 
+  * **borrows ... lends** - You may need to make explicit what it is that is borrowed or lent. AT: "borrows money ... lends money" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **He who sows injustice will reap trouble** - The writer speaks of a ruler or other powerful person treating those less powerful unjustly as if he were planting seeds that will give birth to plants that bring trouble. AT: "If a person treats those less powerful than he is unjustly, they will cause him trouble later on" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the rod of his fury will fade away** - The word "rod" is a metonym for power over other people. Possible meanings are 1) the unjust ruler will lose the power that he had that allowed him to treat other people unjustly or 2) when the people respond to the injustice he had done by harming him, he will have no power to stop them. AT: "he will no longer have the power that he had used to harm people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **rod of his fury** - The word "rod" is a metonym for power over other people. The unjust man was harming innocent people as if he were very angry with them. AT: "the rod he had used as if he were punishing people" or "the power he used to harm others" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will fade away** - The word translated "fade away" is also used of plants drying up. 
  
 ===== Links: =====
 
@@ -75,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

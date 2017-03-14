@@ -28,7 +28,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 26 But concerning the dead that are raised, have you not read in The Book of Moses, in the account about the bush, how God spoke to him and said, 'I am the God of Abraham and the God of Isaac and the God of Jacob'?
+\v 26 But concerning the dead ones that are raised, have you not read in The Book of Moses, in the account about the bush, how God spoke to him and said, 'I am the God of Abraham and the God of Isaac and the God of Jacob'?
 \v 27 He is not the God of the dead, but of the living. You are quite mistaken."
 </usfm>
 
@@ -42,7 +42,6 @@
 
 ===== translationNotes: =====
 
-  * **the dead that** - This refers to dead people. AT: "dead people who" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
   * **that are raised** - The missing information may be added. AT: "who are raised from being dead" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **The Book of Moses** - "the book that Moses wrote" (UDB)
   * **account** - "passage"

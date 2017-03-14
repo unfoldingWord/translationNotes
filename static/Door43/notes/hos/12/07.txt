@@ -19,14 +19,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 The merchants are wicked; they use scales that give wrong weights and measures, 
+\v 7 The merchants are wicked; they use scales that give wrong weights and measures,
 \q2 so they can cheat those who buy from them.
 \q1
 \v 8 The people of Israel boast,
 \q2 "We are very rich,
-\q1 and we have found ways to make ourselves even more wealthy than we are now. 
+\q1 and we have found ways to make ourselves even more wealthy than we are now.
 \q2 In all our buying and selling, no one can see anything wrong in what we do."
-\b
 
 
 \q1
@@ -36,7 +35,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q
 \v 7 The merchants have false scales in their hands;
 \q they love to defraud.
@@ -72,6 +70,6 @@
   * [[:en:bible:questions:comprehension:hos:12]]
 **[[:en:bible:notes:hos:12:05|<<]] | [[:en:bible:notes:hos:12:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

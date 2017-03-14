@@ -22,9 +22,8 @@
 
 <usfm>
 \c 77
-\p
+\m
 \d For the chief musician; after the manner of Jeduthun. A psalm of Asaph.
-\b
 \q
 \v 1 I will call out with my voice to God;
 \q I will call with my voice to God, and my God will hear me.
@@ -41,7 +40,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **For the chief musician** - "This is for the director of music to use in worship"
   * **Jeduthun** - One of David's chief musicians had this same name. This may refer to him. See how you translated this in [[:en:bible:notes:psa:039:001|39:1]]. (See: [[:en:ta:vol1:translate:translate_names]])
@@ -54,6 +53,6 @@
   * [[:en:bible:questions:comprehension:psa:077]]
 **[[:en:bible:notes:psa:076:011|<<]] | [[:en:bible:notes:psa:077:002|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

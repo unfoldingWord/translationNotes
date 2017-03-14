@@ -44,11 +44,13 @@
 
 ===== translationNotes: =====
 
-  * **Why is light given to a man whose way is hidden, a man whom God has hedged in?** - AT: "Why does God give life to a man and then take away his future and confine him?"
-  * **Why is light given** - The word "light" is referring to life. 
+  * **Why is light given to a man whose way is hidden, a man whom God has hedged in?** - Job asks this question in order to make a statement. AT: "God should not give life to a man and then take away his future and confine him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Why is light given to a man** - Here light represents life. AT: "Why does God keep a man alive" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **whose way is hidden** - Here Job speaks of his future, which he does not know in advance, as if God had hidden it from him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **a man whom God has hedged in** - Here being in difficulties and dangers is spoken of as if it were being confined within narrow limits. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **For my sighing happens instead of eating; my groaning is poured out like water** - Job expresses his anguish in two ways. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **my sighing happens instead of eating** - AT: "Instead of eating, I mourn."
-  * **my groaning is poured out like water** - Job's grief overflows like water pouring from a vessel. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **my sighing happens instead of eating** - "Instead of eating, I mourn"
+  * **my groaning is poured out like water** - Moral qualities and emotions such as grief are often spoken of as if they were water. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -56,6 +58,6 @@
   * [[:en:bible:questions:comprehension:job:03]]
 **[[:en:bible:notes:job:03:20|<<]] | [[:en:bible:notes:job:03:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

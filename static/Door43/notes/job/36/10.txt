@@ -30,7 +30,6 @@
 \v 12 But if they do not listen to him,
 \q2 they will die violently
 \q2 because they understand nothing about God and what he wants them to do.
-\b
 
 
 \q1
@@ -68,9 +67,11 @@
 
 ===== translationNotes: =====
 
-  * **opens their ears to his instruction** - "makes them listen to his instruction" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **their days ... their years** - These two phrases refer to the person's lifetime. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **they will perish by the sword** - "they will die a violent death" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **He also opens their ears** - Elihu speaks of causing a person to listen as if it were opening that person's ear. AT: "He also causes them to listen" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **to his instruction** - The noun "instruction" can be translated with a verbal phrase. AT: "to what he is instructing them" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **to turn back from iniquity** - Elihu speaks of stopping an action as if it were turning back from it. AT: "to stop committing iniquity" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they will spend their days in prosperity, their years in contentment** - The words "days" and "years" both refer to the person's lifetime. AT: "they will spend their lives in prosperity and contentment" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **they will perish by the sword** - Elihu speaks of a person dying violently as if someone had killed them with a sword. AT: "they will die a violent death" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -79,6 +80,6 @@
   * [[:en:bible:questions:comprehension:job:36]]
 **[[:en:bible:notes:job:36:08|<<]] | [[:en:bible:notes:job:36:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit prosper}}
+~~DISCUSSION~~{{tag>publish p2check prosper}}
 
 ~~NOCACHE~~

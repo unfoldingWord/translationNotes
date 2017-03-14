@@ -19,7 +19,7 @@
 <usfm>
 \p
 \v 15 The Lord Yahweh says this to Tyre, 'Will not the islands quake with the sound of your downfall, and with the groans of the wounded when the terrible slaughter is in your midst?
-\v 16 None of the sins that he has committed will be called to mind for him. He has acted justly and rightly; he will surely live.
+\v 16 Then all the princes of the sea will step down from their thrones and remove their robes and cast off their embroidered garments. They will clothe themselves with trembling, they will sit on the ground and tremble every moment, and they will be appalled because of you.
 </usfm>
 
 ===== translationWords: =====
@@ -34,9 +34,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues giving Ezekiel his message to Tyre.
+  * **Connecting Statement:** - Yahweh continues giving Ezekiel his message to Tyre.
 
-  * **Will not the islands quake ... in your midst** - "The islands quake ... in your midst." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Will not the islands quake ... in your midst?** - This question expects a positive answer and emphasizes the results of Tyre's destruction. It can be translated as a statement. AT: "The islands will quake ... in your midst." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Will not the islands quake** - Here "the islands" represents the people living on the islands. AT: "Will not the people of the islands quake with fear" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **princes of the sea** - "princes of the coastlands"
+  * **They will clothe themselves with trembling** - This metaphor represents the princes trembling enough to seem like it was their clothing. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **appalled** - "astonished" or "dismayed"
 
 ===== Links: =====
 
@@ -45,6 +49,6 @@
   * [[:en:bible:questions:comprehension:ezk:26]]
 **[[:en:bible:notes:ezk:26:12|<<]] | [[:en:bible:notes:ezk:26:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit chief}}
+~~DISCUSSION~~{{tag>publish p2check chief}}
 
 ~~NOCACHE~~

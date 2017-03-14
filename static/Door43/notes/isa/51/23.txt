@@ -27,7 +27,7 @@
 
 <usfm>
 \q1
-\v 23 I will put it into the hand of your tormentors, those who have said to you, 'Lie down, that we may walk over you'; 
+\v 23 I will put it into the hand of your tormentors, those who have said to you, 'Lie down, that we may walk over you';
 \q1 you made your back like the ground and like the street for them to walk on."
 </usfm>
 
@@ -40,8 +40,10 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **I will put it into the hand of your tormentors** - "I will put the cup of staggering into the hands of those who hurt you." This means God will now punish the enemies of Israel. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **you made your back like the ground and like the street for them to walk on** - AT: "you lay in the streets so your enemies could walk on your backs" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **I will put it into the hand of your tormentors** - This speaks of Yahweh punishing their enemies as if he were going to force them to drink from the cup filled with his anger. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will put it into the hand of your tormentors** - It is implied that by putting the cup of his anger in their hand Yahweh will be forcing them to drink what is in the cup. AT: "I will force your tormentors to drink from the wine of the bowl of my anger" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **your tormentors** - The word "tormentors" may be expressed with a verb. AT: "those who have tormented you" or "those who have caused you to suffer" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **you made your back like the ground and like the street for them to walk on** - This compares the way their enemies walked on their back to the way people walk on the street. AT: "you lay in the streets so your enemies could walk on your backs" (See: [[:en:ta:vol1:translate:figs_simile]])
 
  
 ===== Links: =====
@@ -51,6 +53,6 @@
   * [[:en:bible:questions:comprehension:isa:51]]
 **[[:en:bible:notes:isa:51:21|<<]] | [[:en:bible:notes:isa:52:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

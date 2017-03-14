@@ -36,12 +36,13 @@
 
   * **Connecting Statement:** - Jesus continues to explain to his disciples the parable about a person who sows seeds.
 
- is the person who hears the word and immediately receives it with joy, 
-
-  * **What was sown on rocky ground** - If a literal translation makes no sense, try to translate so the reader understands that Jesus is the sower, the message is the seed, and the hearer is the rocky ground. AT: "This is how it is with the seed that the sower scattered on the rocky ground" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **yet he has no root in himself but endures for a while.** - "Yet he has shallow roots and only lasts for a little while." This is a metaphor that means the person was excited at first about the message, but he was not completely devoted to it. AT: "But like a plant that sprouts quickly but does not grow deep roots, he only endures for a little while" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **because of the word** - Here "word" refers to a message. AT: "because of the message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **he quickly falls away** - Here "falls away" means to stop believing. AT: "immediately he falls away" or "he proves his faith was not a true faith" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **What was sown on rocky ground** - The phrase "what was sown" refers to seed that fell. AT: "The seed that fell on rocky ground" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **What was sown on rocky ground is** - "The rocky ground where seed was sown represents" or "The rocky ground where seed fell fell represents" 
+  * **the person who hears the word** - In the parable, the seed represents the word.
+  * **the word** - This represents God's message. AT: "the message" or "God's teaching" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **receives it with joy** - Believing the word is spoken of as receiving it. AT: "joyfully believes it" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **yet he has no root in himself and he endures for a while** - "Yet he has shallow roots and only lasts for a little while." The root represents what makes a person continue to believe God's message. AT: "But like a plant that does not grow deep roots, he only endures for a little while" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he quickly falls away** - Here "falls away" means to stop believing. AT: "immediately he falls away" or "he quickly stops believing the message" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -50,6 +51,6 @@
   * [[:en:bible:questions:comprehension:mat:13]]
 **[[:en:bible:notes:mat:13:18|<<]] | [[:en:bible:notes:mat:13:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass endure tribulation persecute}}
+~~DISCUSSION~~{{tag>publish p2pass endure tribulation persecute p2example}}
 
 ~~NOCACHE~~

@@ -21,7 +21,6 @@
 <usfm>
 \v 9 I am thankful for the leaders and soldiers who volunteered to fight.
 \q2 I praise you, Yahweh, for them!
-\b
 \q1
 \v 10 You wealthy people who ride on donkeys,
 \q2 sitting on nice padded saddles,
@@ -60,7 +59,7 @@
 
 
   * **My heart goes out to the commanders of Israel** - The word "heart" represents a person's emotions. The phrase "My heart goes out to" is a way of saying that Deborah feels gratitude or appreciation. AT: "I appreciate the commanders of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **you who ride on white donkeys ... you who walk along the road** - This contrast probably refers to rich people and poor people. AT: "you rich people who ride on white donkeys ... you poor people who walk along the road." The two opposite extremes are used together to mean everyone. (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **you who ride on white donkeys ... you who walk along the road** - This contrast probably refers to rich people and poor people. AT: "you rich people who ride on white donkeys ... you poor people who walk along the road" (See: [[:en:ta:vol2:translate:figs_merism]])
   * **sitting on rugs for saddles** - These rugs were probably used as saddles on the donkey's back to make the rider more comfortable. 
 
 
@@ -73,6 +72,6 @@
   * [[:en:bible:questions:comprehension:jdg:05]]
 **[[:en:bible:notes:jdg:05:07|<<]] | [[:en:bible:notes:jdg:05:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

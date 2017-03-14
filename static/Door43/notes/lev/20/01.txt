@@ -22,7 +22,7 @@
 <usfm>
 \c 20
 \p
-\v 1 Yahweh spoke to Moses, saying, 
+\v 1 Yahweh spoke to Moses, saying,
 \v 2 "Say to the people of Israel, 'Anyone among the people of Israel, or any foreigner who lives in Israel who gives any of his children to Molech, must certainly be put to death. The people in the land must stone him with stones.
 </usfm>
 
@@ -42,7 +42,7 @@
 
 ===== translationNotes: =====
 
-  * **gives any of his children to Molech** - This can be made explicit. AT: "kills any of his children as a sacrifice to Molech" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **gives any of his children to Molech** - Those who worshiped Molech sacrificed their children to him by means of fire. The full meaning of this statement can be made explicit. AT: "kills any of his children as a sacrifice to Molech" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **must certainly be put to death. The people in the land must stone him with stones** - This can be translated in active form. AT: "the people in the land must stone him to death" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
@@ -58,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -50,10 +50,9 @@
 
   * **General Information:** - This section lists the names of priests whose descendants returned from the exile along with the number in each group. (See: [[:en:ta:vol2:translate:translate_numbers]])
 
-  * **Jedaiah ... Immer ... Pashhur** - These are men's names. (See: [[ en:ta:vol1:translate:translate_names]])
-  * **Jeshua** - See how you translated this in [[:en:bible:notes:ezr:02:03|2:06]].
-  * **Immer** - This is a man's name. (See: [[ en:ta:vol1:translate:translate_names]])
-  * **Harim** - See how you translated this in [[:en:bible:notes:ezr:02:31|2:32]]. Note that in this list Harim is the name of a man, not the name of a place.
+  * **Jedaiah ... Immer ... Pashhur ... Harim** - These are men's names. (See: [[ en:ta:vol1:translate:translate_names]])
+  * **Jeshua** - This is a man's name. Translate as in [[:en:bible:notes:ezr:02:03|2:06]].
+  * **Harim** - The "Harim" in [[:en:bible:notes:ezr:02:31|2:32]] is the name of a place, but here "Harim" is the name of a man.
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -61,6 +60,6 @@
   * [[:en:bible:questions:comprehension:ezr:02]]
 **[[:en:bible:notes:ezr:02:34|<<]] | [[:en:bible:notes:ezr:02:40|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

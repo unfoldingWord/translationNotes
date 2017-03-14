@@ -21,8 +21,8 @@
 
 <usfm>
 \p
-\v 18 It came about that, as he was praying alone, the disciples were with him, and he questioned them, saying, "Who do the multitudes say that I am?"
-\v 19 Answering, they said, "John the Baptist, but others say Elijah, and others say that one of the prophets from ancient times has risen again."
+\v 18 It came about while Jesus was praying by himself, the disciples were with him. He questioned them, saying, "Who do the crowds say that I am?"
+\v 19 They answered, "John the Baptist. But others say Elijah, and others say that one of the prophets from long ago has risen."
 </usfm>
 
 
@@ -40,14 +40,11 @@
 
   * **Connecting Statement:** - Jesus is praying, alone with his disciples, and they begin to talk about who Jesus is. Jesus tells them of his death and resurrection that will follow and urges them to follow him no matter what happens.
 
-  * **It came about that** - This phrase is used here to mark the beginning of a new event. (See: [[:en:ta:vol2:translate:writing_newevent]])
-  * **as he was praying** - "as Jesus was praying"
-  * **praying alone** - The disciples were with Jesus, but he was praying personally and privately by himself. 
-  * **Answering, they said** - "They answered him by saying"
+  * **It came about** - This phrase is used here to mark the beginning of a new event. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **praying by himself** - "praying alone." The disciples were with Jesus, but he was praying personally and privately by himself. 
   * **John the Baptist** - It may be helpful to restate part of the question here. AT: "Some say you are John the Baptist" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **one of the prophets from ancient times has risen again** - It may be helpful to restate part of the question here. AT: "you are one of the prophets from ancient times who has risen again" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **from ancient times** - "who lived a very long time ago"
-  * **has risen again** - "has come back to life"
+  * **that one of the prophets from long ago has risen** - It may be helpful to clarify how this answer relates to Jesus' question. AT: "that you are one of the prophets from long ago and have risen" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **has risen** - "has come back to life"
 ===== Links: =====
 
   * [[:en:bible:notes:luk:00:intro]]

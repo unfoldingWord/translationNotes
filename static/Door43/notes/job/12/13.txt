@@ -38,7 +38,7 @@
 <usfm>
 \q
 \v 13 With God are wisdom and might;
-\q he has good thoughts and understanding.
+\q he has counsel and understanding.
 \q
 \v 14 See, he breaks down, and it cannot be built again;
 \q if he imprisons someone, there can be no release.
@@ -57,12 +57,14 @@
  
 ===== translationNotes: =====
 
-  * **he has good thoughts** - AT: "he has good advice"
-  * **See** - "Behold" This word marks where Job wants the listener to pay special attention.
-  * **it cannot be built again** - AT: "no one can rebuild it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **if he imprisons someone, there can be no release** - Job says that no one can free a person if God does not allow. AT: "if God shuts someone in, no one can release that person" (See: [[:en:ta:vol1:translate:figs_hypo]])
-  * **if he withholds the waters, they dry up** - Whatever kind of water, whether rain, flood, rivers or wells will stop when God wants. AT: "If he blocks up the places where water comes from, they dry up"
-  * **if he sends them out, they overwhelm the land** - Here Job is again saying that God can control the waters to overflowing. AT: "if he makes them flow out, they flood the land"
+  * **General Information:** - Verse 13 says that God is wise and mighty. The rest of this chapter shows that this is true by telling about the wise and mighty things that God does.
+
+  * **With God are wisdom and might** - The abstract nouns "wisdom" and "might" can be expressed with the adjectives "wise" and "mighty." AT: "God is wise and mighty" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **See** - This word marks where Job wants the listener to pay special attention.
+  * **it cannot be built again** - This can be stated in active form. AT: "no one can rebuild it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **if he imprisons someone, there can be no release** - The abstract noun "release" can be expressed with the verb "release." AT: "if God shuts someone in, no one can release him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **if he withholds the waters, they dry up** - Possible meanings are that withholding waters represents 1) preventing the rain from falling. AT: "if he stops the rain from falling the land dries up" or 2) preventing running water from flowing. AT: "if he stops the water from flowing, the land dries up" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **if he sends them out, they overwhelm the land** - Possible meanings are that sending them out is a metaphor meaning 1) causing the rain to fall. AT: "if he causes a lot of rain to fall, it floods the land" or 2) causing the waters to flow. AT: "if he makes a lot of water flow, it floods the land"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -77,6 +79,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

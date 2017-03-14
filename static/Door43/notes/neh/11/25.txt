@@ -20,8 +20,8 @@
 
 <usfm>
 \p
-\v 25 As for the villages and their fields, some of the people of Judah lived in Kiriath Arba and its villages, and in Dibon and its villages, and in Jekabzeel and its villages.
-\v 26 They also lived in Jeshua, Moladah, Beth Pelet,
+\v 25 As for the villages and their fields, some of the people of Judah lived in Kiriath Arba and its villages, and in Dibon and its villages, and in Jekabzeel and its villages,
+\v 26 and in Jeshua, Moladah, Beth Pelet,
 \v 27 Hazar Shual, and Beersheba and its villages.
 </usfm>
 
@@ -32,7 +32,7 @@
   * [[:en:obe:kt:life]]
 ===== translationNotes: =====
 
-  * **Kiriath Arba ... Dibon ... Jekabzeel ... Jeshua ... Moladah ... Beth Pelet ... Hazar Shual ... Beersheba** - These are names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Kiriath Arba ... Dibon ... Jekabzeel ... Jeshua ... Moladah ... Beth Pelet ... Hazar Shual ... Beersheba** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -41,6 +41,6 @@
   * [[:en:bible:questions:comprehension:neh:11]]
 **[[:en:bible:notes:neh:11:22|<<]] | [[:en:bible:notes:neh:11:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

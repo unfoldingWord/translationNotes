@@ -30,7 +30,7 @@
 \q2
 \v 3 They should praise him because he is very great;
 \q2 he is holy!
-\b
+
 
 
 \q1
@@ -40,7 +40,7 @@
 
 <usfm>
 \c 99
-\p
+\m
 \q
 \v 1 Yahweh reigns; let the nations tremble.
 \q He sits enthroned above the cherubim; the earth quakes.
@@ -50,7 +50,6 @@
 \q
 \v 3 Let them praise your great and awesome name;
 \q he is holy.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -69,14 +68,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **the nations** - the people of all nations
+  * **the nations** - This refers to the people of all nations. AT: "the people of all nations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **tremble** - shake with fear
   * **He sits enthroned above the cherubim** - The psalmist speaks as if the throne on which Yahweh sits is above the cherubim on the lid of the ark of the covenant decrees in the temple.
   * **quakes** - shakes
   * **Yahweh is great in Zion; he is exalted above all the nations** - "Not only is Yahweh great in Zion, he is exalted above all the nations" or "Not only does Yahweh rule in Zion, he rules over all the nations"
-  * **he is exalted above all the nations** - "people in all the nations exalt him" or "people in all nations praise him greatly"
+  * **he is exalted above all the nations** - This can be stated in active form. AT: "people in all the nations exalt him" or "people in all nations praise him greatly" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **Let them praise your great and awesome name** - Here the author shifts from speaking about God, to speaking to God. After this phrase though, he shifts back to speaking about God.
 
 ===== Links: =====
@@ -86,6 +85,6 @@
   * [[:en:bible:questions:comprehension:psa:099]]
 **[[:en:bible:notes:psa:098:007|<<]] | [[:en:bible:notes:psa:099:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

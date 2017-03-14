@@ -35,10 +35,10 @@
 
 <usfm>
 \q1
-\v 7 Their land is full of silver and gold, and is there no limit to their wealth; 
+\v 7 Their land is full of silver and gold, and is there no limit to their wealth;
 \q1 their land also is full of horses, nor is there limit to their chariots.
 \q1
-\v 8 Their land also is full of idols; 
+\v 8 Their land also is full of idols;
 \q1 they worship the craftsmanship of their own hands, things that their own fingers have made.
 </usfm>
 
@@ -55,8 +55,12 @@
 
 ===== translationNotes: =====
 
-  * **the craftsmanship of their own hands, things that their own fingers have made.** - These two phrases mean the same thing and emphasize that these are not real gods. AT: "things that they themselves have made." (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **General Information:** - Isaiah speaks to Yahweh in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
+  * **Their land is full of silver ... their land also is full of horses ... Their land also is full of idols** - Isaiah speaks as if the land were a container in which someone had placed silver, horses, and idols. The word "land" is a metonym for the people themselves, and the words "is full of" is a metaphor for the people possessing these items. AT: "They possess much silver ... they also possess many horses ... They also possess many idols" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the craftsmanship of their own hands, things that their own fingers have made** - These two phrases mean almost the same thing and emphasize that these are not real gods. If your language has no general word for something someone has made, you can combine these two phrases into one. AT: "things that they themselves have made" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **craftsmanship of their own hands** - The word "hands" is a synecdoche for the people themselves. AT: "their own craftsmanship" or "their own work" or "things they have made with their hands" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **things that their own fingers have made** - The word "fingers" is a synecdoche for the people themselves. AT: "things that they have made with their own fingers" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -68,4 +72,4 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}

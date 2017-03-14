@@ -24,7 +24,6 @@
 \v 4 And after our enemies have been defeated,
 \q1 we, your people, will take away all our enemies' possessions,
 \q2 like caterpillars and locusts strip off all the leaves of plants.
-\b
 
 
 \q1
@@ -47,10 +46,11 @@
 
 ===== translationNotes: =====
 
-  * **arise** - "begin acting" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Your spoil is gathered as the locusts gather** - This can be stated in active form. This can mean 1) God's people will take plunder from their enemies, specifically the Assyrians, or 2) God's people will take the plunder that Assyrians have taken from others. (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **gather** - "gather food"
-  * **as locusts leap** - The locusts see food and jump to get it. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **At the loud noise the peoples flee** - Possible meanings of "the loud noise" are 1) it refers to Yahweh's voice. AT: "The peoples flee at the sound of your loud voice" or 2) it refers the loud sounds of Yahweh's army. AT: "The people flee at the sound of your army" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **arise** - This means to begin doing something. AT: "begin acting" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the nations are scattered** - This can be written in active form. AT: "the nations scatter" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Your spoil is gathered as the locusts gather; as locusts leap, men leap on it** - This compares how quick and eager Yahweh's people are when they gather the spoils from their enemies to the eagerness of locusts when they gather food. This can be stated in active form. AT: "Your people gather spoils from your enemies with the same fierceness as the locusts have who devour green plants" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -64,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

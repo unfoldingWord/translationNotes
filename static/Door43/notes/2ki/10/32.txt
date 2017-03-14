@@ -23,7 +23,7 @@
 <usfm>
 \p
 \v 32 In those days Yahweh began to cut off regions from Israel, and Hazael defeated the Israelites at the borders of Israel,
-\v 33 from the Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the valley of the Arnon, through Gilead to Bashan.
+\v 33 from the Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the Valley of the Arnon, through Gilead to Bashan.
 </usfm>
 
 ===== translationWords: =====
@@ -37,10 +37,13 @@
   * [[:en:obe:other:bashan]]
 ===== translationNotes: =====
 
+  * **began to cut off regions from Israel** - "began to cause the territory controlled by Israel to become smaller"
   * **regions** - "areas of land"
-  * **from Israel** - "from the nation of Israel's control,"
-  * **Hazael** - AT: "King Hazael's Aramean army" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Aroer ... Arnon ... Gilead ... Bashan** - These are all names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Hazael defeated** - Here "Hazael" refers to himself and his army. AT: "Hazael and his army" or "King Hazael's Aramean army" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Hazael** - Translate this king's name the same as you did in [[:en:bible:notes:2ki:08:07|8:8]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **from the Jordan eastward** - "from the land east of the Jordan" 
+  * **Aroer ... Bashan** - These are all names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the Arnon** - "the Arnon River" This is the name of a river. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -49,6 +52,6 @@
   * [[:en:bible:questions:comprehension:2ki:10]]
 **[[:en:bible:notes:2ki:10:29|<<]] | [[:en:bible:notes:2ki:10:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

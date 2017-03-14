@@ -20,8 +20,8 @@
 
 <usfm>
 \v 9 He will place his battering rams to hit against your walls, and his tools will tear down your towers.
-\v 10 So you, son of man, say to the house of Israel, 'You are saying this, "Our transgressions and our sins are on us, and we are decaying in them. How can we live?"'
-\v 11 Say to them, 'As I live—this is the Lord Yahweh's declaration—I do not delight in the death of the wicked, for if the wicked repents from his way, then he will live. Repent! Repent from your wicked ways. For why should you die, house of Israel?'
+\v 10 His horses will be so many that their dust will cover you. Your walls will shake with the sound of horsemen, wagons, and chariots. When he enters your gates, he will enter as men come into a city whose walls have been broken down. 
+\v 11 The hoofs of his horses will trample all of your streets. He will kill your people with the sword and your mighty stone pillars will fall to the ground.
 </usfm>
 
 ===== translationWords: =====
@@ -30,17 +30,19 @@
   * [[:en:obe:other:chariot]]
   * [[:en:obe:kt:gate]]
   * [[:en:obe:other:hooves]]
-  * [[:en:obe:other:slaughter]]
   * [[:en:obe:other:sword]]
   * [[:en:obe:other:pillar]]
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues giving Ezekiel his message to Tyre.
+  * **Connecting Statement:** - Yahweh continues giving Ezekiel his message to Tyre.
+  * **General Information:** - The words "he" and "his" in these verses refer to Nebuchadnezzar, the king of Babylon, and represent the soldiers in Nebuchadnezzar's army doing these actions. The word "your" refers to the city of Tyre. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
-  * **He will place** - The word "he" refers to Nebuchadnezzar, the king of Babylon.
-  * **battering ram** - See how you translated this in [[:en:bible:notes:ezk:04:01|4:2]].
-  * **his tools** - "his instruments of war"
+  * **He will place his battering rams to hit against your walls, and his tools will tear down your towers** - Although the battering rams and tools are spoken of as acting against the walls and towers of Tyre, they would have been used by the soldiers in Nebuchadnezzar's army against the walls and towers. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **battering rams** - "Battering rams" are large trees or poles that many men in an army would pick up and hit against a wall or door so they could break it down and get inside. Translate this as you did in [[:en:bible:notes:ezk:04:01|4:2]].
+  * **tools** - Weapons or instruments made of iron used to tear down the towers
+  * **When he enters your gates, he will enter as men come into a city whose walls have been broken down** - Here Yahweh uses a simile to describe how Nebuchadnezzar's army will enter into the city of Tyre. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **whose walls have been broken down** - This can be stated in active form. AT: "after breaking down its walls" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -49,6 +51,6 @@
   * [[:en:bible:questions:comprehension:ezk:26]]
 **[[:en:bible:notes:ezk:26:07|<<]] | [[:en:bible:notes:ezk:26:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit hooves}}
+~~DISCUSSION~~{{tag>publish p2check hooves}}
 
 ~~NOCACHE~~

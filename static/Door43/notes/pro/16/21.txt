@@ -18,13 +18,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 21 One who has wisdom deep inside him is given the title, "discerning," 
-\q2 and those who speak in a way that can be understood 
-\q2 and can motivate their hearers, teach well. 
+\v 21 One who has wisdom deep inside him is given the title, "discerning,"
+\q2 and those who speak in a way that can be understood
+\q2 and can motivate their hearers, teach well.
 \q1
-\v 22 When you understand, it is as if you have found a fountain of life within you; 
-\q2 but fools find their punishment when their foolishness comes back to them. 
-
+\v 22 When you understand, it is as if you have found a fountain of life within you;
+\q2 but fools find their punishment when their foolishness comes back to them.
 
 \q1
 </usfm>
@@ -35,10 +34,10 @@
 <usfm>
 \q
 \v 21 The one who is wise in heart is called discerning
-\q and sweetness of speech improves the ability to teach. 
+\q and sweetness of speech improves the ability to teach.
 \q
 \v 22 Understanding is a fountain of life to the one who has it,
-\q but the punishment of fools is their foolishness.
+\q but the instruction of fools is their foolishness.
 </usfm>
 
 
@@ -49,13 +48,13 @@
   * [[:en:obe:other:discernment]]
   * [[:en:obe:other:fountain]]
   * [[:en:obe:kt:life]]
-  * [[:en:obe:other:punish]]
   * [[:en:obe:kt:foolish]] 
 ===== translationNotes: =====
 
-
-  * **sweetness of speech** - "speaking pleasantly"
-  * **Understanding is a fountain of life** - Understanding, or good sense, is a constant source of life and blessing, just as a fountain is a source of water that supports life. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The one who is wise in heart is called discerning** - This person will have a reputation of being a discerning person. This can be stated in active form. AT: "People will call the one who is wise in heart discerning" or "The one who is wise in heart will have a reputation of being a discerning person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The one who is wise in heart** - Here the heart represents the mind and thoughts. AT: "The one who is wise" or "The one who is wise in his thinking" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **sweetness of speech** - The writer speaks of kind or pleasant speech as if it were something that tastes sweet. AT: "kind speech" or "pleasant speech" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Understanding is a fountain of life** - The writer speaks of "Understanding" as if it were a fountain that continuously flows with water and which sustains the life of those who drink from it. AT: "Understanding is like a fountain flowing with life-giving water" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -70,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

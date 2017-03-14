@@ -20,11 +20,9 @@
 <usfm>
 \v 13 A king is happy when he hears someone speaking what is right;
 \q2 and he loves the one who is direct when he talks.
-\b
 \q1
-\v 14 If a king becomes angry, his wrath is a danger that can kill; 
-\q2 so wise people will try to calm him so that he is not too angry. 
-\b
+\v 14 If a king becomes angry, his wrath is a danger that can kill;
+\q2 so wise people will try to calm him so that he is not too angry.
 
 
 \q1
@@ -35,10 +33,10 @@
 
 <usfm>
 \q
-\v 13 A king delights in lips that say what is right 
-\q and he loves the one who speaks directly. 
+\v 13 A king delights in lips that say what is right
+\q and he loves the one who speaks directly.
 \q
-\v 14 A king's wrath is a messenger of death 
+\v 14 A king's wrath is a messenger of death
 \q but a wise man will try to calm his anger.
 </usfm>
 
@@ -55,10 +53,8 @@
 
 ===== translationNotes: =====
 
-
-  * **lips that say what is right** - "a person who speaks the truth" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **A king's wrath is a messenger of death** - If a king is angry, he may command that someone be killed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
- 
+  * **lips that say what is right** - Here the word "lips" represents the person who speaks. AT: "a person who speaks the truth" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **A king's wrath is a messenger of death** - The writer speaks of an angry king causing someone to die as if the king's wrath were a messenger that he sends out to kill someone. AT: "An angry king can put people to death" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -70,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

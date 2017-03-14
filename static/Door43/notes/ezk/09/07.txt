@@ -25,7 +25,7 @@
 
 <usfm>
 \v 7 He said to them, "Defile the house, and fill its courtyards with the dead. Proceed!" So they went out and attacked the city.
-\v 8 And as they were attacking it, I found myself alone and I fell on my face and cried out and said, "Ah, Lord Yahweh, will you destroy all the remnant of Israel in the outpouring of your wrath on Jerusalem?"
+\v 8 As they were attacking it, I found myself alone and I fell on my face and cried out and said, "Ah, Lord Yahweh, will you destroy all the remnant of Israel in the outpouring of your wrath on Jerusalem?"
 </usfm>
 
 
@@ -43,10 +43,12 @@
 
   * **General Information:** - God continuing to speak to the guards judging the people of Israel.
 
-  * **attacked the city** - "attacked the people in the city"
-  * **I fell on my face** - See how you translated this in [[:en:bible:notes:ezk:03:22|3:23]]
-  * **Ah, Lord Yahweh** - Ezekiel says this because he is very troubled by what the Lord told the men to do to Jerusalem. See how you translated this in [[:en:bible:notes:ezk:04:14|4:14]].
-  * **will you destroy all the remnant of Israel in the outpouring of your wrath on Jerusalem?** - "will you destroy all the remnant of Israel by pouring out your wrath on Jerusalem?" Ezekiel is actually pleading with Yahweh not to destroy the remnant. AT: "please do not destroy all the remnant of Israel by pouring out your wrath on Jerusalem!" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the house** - the temple
+  * **attacked the city** - The word "city" is a metonym for the people in the city. AT: "attacked the people in the city" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I fell on my face** - "I bowed down to the ground" or "I lay on the ground." Ezekiel did not fall by accident. He went down to the ground to show that he respected and feared Yahweh. Translate as in [[:en:bible:notes:ezk:01:27|1:28]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Ah, Lord Yahweh** - Ezekiel says this because he is very troubled by what the Lord told the men to do to Jerusalem. Translate as in [[:en:bible:notes:ezk:04:14|4:14]].
+  * **will you destroy all the remnant of Israel in the outpouring of your wrath on Jerusalem?** - Ezekiel is pleading with Yahweh not to destroy the remnant. AT: "please do not destroy all the remnant of Israel in the outpouring of your wrath on Jerusalem!" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **in the outpouring of your wrath on Jerusalem** - Wrath is spoken of as if it were a liquid that Yahweh could pour out of a container. The word "Jerusalem" is a metonym for the people in the city. The abstract noun "outpouring" can be translated as a verb. AT: "when you pour out your wrath on Jerusalem" or "when you punish the people of Jerusalem because you are very angry with them" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 
 ===== Links: =====
 
@@ -55,6 +57,6 @@
   * [[:en:bible:questions:comprehension:ezk:09]]
 **[[:en:bible:notes:ezk:09:05|<<]] | [[:en:bible:notes:ezk:09:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

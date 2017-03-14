@@ -29,10 +29,11 @@
 ===== ULB: =====
 
 <usfm>
+\q1
 \v 8 They will not look to the altars, the work of their hands, nor will they look to what their fingers have made, the Asherah poles or the sun images.
 
 \q1
-\v 9 On that day their strong cities will be like the abandoned wooded slopes on the hill summits, 
+\v 9 On that day their strong cities will be like the abandoned wooded slopes on the hill summits,
 \q1 that were forsaken because of the people of Israel and that will become a desolation.
 </usfm>
 
@@ -48,10 +49,11 @@
 
 ===== translationNotes: =====
 
-  * **They will not look** - "The people of Israel will not look"
-  * **look to** - "rely on"
-  * **that were forsaken because of the people of Israel** - It can be made explicit who left these lands. This can be stated in active form. AT: "that the Hivites and Amorites left after the people of Israel came" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
+  * **They will not look to the altars** - Looking to the altars represents worshiping idols with the hope that the idols will help them.  AT: "They will not worship idols at their altars" or "The people of Israel will not go to their altars and ask their idols to help them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the work of their hands** - Speaking of the hands here emphasizes that the people made the altars or idols. AT: "that they made with their hands" or "which they themselves built" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **what their fingers have made ... the Asherah poles or the sun images** - The second phrase identifies the things that the people made. Speaking of the fingers here emphasizes that the people made them, so these things are not real gods. AT: "the Asherah poles or the sun images, which they themselves made" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **that were forsaken because of the people of Israel** - It can be made explicit who left these lands. This can be stated in active form. AT: "that the Hivites and Amorites left after the people of Israel came" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -59,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:17]]
 **[[:en:bible:notes:isa:17:06|<<]] | [[:en:bible:notes:isa:17:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

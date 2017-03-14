@@ -35,7 +35,7 @@
 \q I fasted for them
 \q with my head bowed on my chest.
 \q
-\v 14 I went about in grief as for my brother; 
+\v 14 I went about in grief as for my brother;
 \q I bent down in mourning as for my mother.
 </usfm>
 
@@ -51,12 +51,12 @@
 ===== translationNotes: =====
 
 
-  * **when they were sick** - The word "they" refers to the "unrighteous witnesses" ([[:en:bible:notes:psa:035:011|35:11-12]]).
-  * **I wore sackcloth** - Sackcloth was rough, burlap clothing that was worn to show deep sadness. AT: "I showed that I was sad" (UDB) (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **with my head bowed on my chest** - "with my head bent down and my chin on my chest." This was a symbol of prayer. (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **in grief as for my brother** - The writer was a sad as if his own brother had died. AT: "grieving as if my own brother was ill" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **I bent down in mourning as for my mother** - The writer mourned as if his own mother had died. AT: "I mourned for them as if my own mother had died" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **I bent down** - This action was a symbol of pain and suffering. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **when they were sick** - The word "they" refers to the "unrighteous witnesses" ([[:en:bible:notes:psa:035:011|35:11]]).
+  * **I wore sackcloth** - "I showed that I was sad" (UDB)
+  * **with my head bowed on my chest** - This was a symbol of prayer. "with my head bent down in prayer" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **in grief as for my brother** - The writer was as sad as if his own brother had died. AT: "grieving as if my own brother was ill" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **I bent down in mourning as for my mother** - The writer mourned as if his own mother had died. AT: "I mourned as if my own mother had died" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **I bent down** - This was a symbol of pain and suffering. (See: [[:en:ta:vol2:translate:translate_symaction]])
  
  
 ===== Links: =====
@@ -69,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book1}}
+{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

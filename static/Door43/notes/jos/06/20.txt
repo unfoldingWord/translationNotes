@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 20 So the people shouted, and they gave blasts with the trumpets. It came about when the people heard the sound of the trumpet, they shouted with a great shout, and the wall fell down flat so that the people went up into the city, everyone straight ahead. And they captured the city.
+\v 20 When they gave blasts with the trumpets, the people gave a great shout  and the wall fell down flat, so every man charged straight in and captured the city.
 \v 21 They completely destroyed all that was in the city by the edge of the sword—man and woman, young and old, oxen, sheep and donkeys.
 </usfm>
 
@@ -40,23 +40,20 @@
 
 ===== translationNotes: =====
 
-
-  * **the people** - This phrase refers to the people of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the edge of the sword** - The word "edge" here refers to using the whole "sword." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the people gave a great shout** - "the people of Israel shouted"
+  * **gave blasts with the trumpets** - "sounded the trumpets loudly" or "blew into the ram's horn trumpets"
+  * **by the edge of the sword** - Although many of the people of Israel used swords, this may refer to a violent attack or battle in general. AT: "with their sharp swords" or "in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
   * [[:en:bible:notes:jos:06:00]]
   * [[:en:bible:questions:comprehension:jos:06]]
-
- 
-
 **[[:en:bible:notes:jos:06:17|<<]] | [[:en:bible:notes:jos:06:22|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

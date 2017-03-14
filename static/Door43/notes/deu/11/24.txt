@@ -25,7 +25,7 @@
 
 <usfm>
 \v 24 Every place where the sole of your foot will tread will be yours; from the wilderness to Lebanon, from the river, the Euphrates River, to the western sea will be your border.
-\v 25 No man will be able to stand before you; Yahweh your God will lay the fear of you and the terror of you upon all the land that you tread on, as he has said to you.
+\v 25 No man will be able to stand before you. Yahweh your God will lay the fear of you and the terror of you upon all the land that you tread on, as he has said to you.
 </usfm>
 
 
@@ -45,7 +45,7 @@
   * **Every place where the sole of your foot will tread** - Here "the sole of your foot" represents the whole person. AT: "Every place you go" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **from the river, the Euphrates River** - "from the Euphrates River"
   * **No man will be able to stand before you** - The phrase "stand before you" is an idiom. AT: "No one will be able to stop you" or "No one will be able to oppose you"
-  * **Yahweh your God will lay the fear of you and the terror of you upon all the land that you tread on** - Yahweh causing the people to be very afraid is spoken of as if fear and terror were an object that he will place on the people. AT: "Yahweh your God will cause the people in every place you go to be very afraid" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Yahweh your God will lay the fear of you and the terror of you upon all the land that you tread on** - Yahweh causing the people to be very afraid is spoken of as if fear and terror were an object that he will place on the people. AT: "Yahweh your God will cause the people in every place you go to be very afraid of you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the fear of you and the terror of you** - The words "fear" and "terror" mean the same thing and emphasize the intensity of fear. AT: "a terrible fear of you" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **upon all the land that you tread on** - Here "the land" is a metonym for all the people in the land. AT: "upon all the people in every place you go" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
 
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:deu:11]]
 **[[:en:bible:notes:deu:11:22|<<]] | [[:en:bible:notes:deu:11:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

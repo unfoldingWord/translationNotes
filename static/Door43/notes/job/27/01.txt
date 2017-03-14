@@ -18,7 +18,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 Job replied to his three friends by saying this:
+\v 1 Job continued speaking to his three friends:
 \q1
 \v 2 "Almighty God has refused to treat me justly.
 \q2 He has caused me to feel bitter.
@@ -36,13 +36,14 @@
 <usfm>
 \c 27
 \p
-\v 1 Job resumed speaking and said,
+\v 1 Job resumed speaking and he said,
 \q
-\v 2 "As God lives, has taken away my justice,
+\v 2 "As surely as God lives, who has taken away my justice,
 \q the Almighty, who made my life bitter,
 \q
-\v 3 as long as my life is yet in me
-\q and breath from God is in my nostrils.
+\v 3 while my life is yet in me,
+\q and the breath from God is in my nostrils, 
+\q this is what I will do.
 </usfm>
 
 
@@ -57,9 +58,13 @@
 
 ===== translationNotes: =====
 
-  * **as long as my life is yet in me** - AT: "as long as I am alive" 
-  * **nostrils** - AT: "nose"
-
+  * **As surely as God lives** - This phrase shows that Job is taking an oath. Job compares the certainty that God is alive to the certainty of what he is saying. This is a way of making a solemn promise. AT: "I swear by God"
+  * **has taken away my justice** - Justice is spoken of as if it were an object that could be taken away or given. Taking it away represents refusing to treat Job with justice. AT: "has refused to treat me justly" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **made my life bitter** - Job's "life" being bitter represents Job feeling resentful toward God. AT: "has caused me to become resentful" or "has made me feel angry because of the unfair way he has treated me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **while my life is yet in me** - This refers to the duration of the rest of his life. AT: "during the whole time that my live is yet in me" or "as long as my life is yet in me"
+  * **while my life is yet in me** - The abstract noun "life" can be expressed with the adjective "alive" or the verb "live." AT: "as long as I am still alive"  or "while I still live" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the breath from God is in my nostrils** - Breath in the nostrils represents being able to breathe. And "breath from God" represents God making him able to breath. AT: "God enables me to breathe" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **nostrils** - "nose"
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -67,6 +72,6 @@
   * [[:en:bible:questions:comprehension:job:27]]
 **[[:en:bible:notes:job:26:13|<<]] | [[:en:bible:notes:job:27:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

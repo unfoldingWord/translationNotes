@@ -27,9 +27,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 "In the first year of King Cyrus, Cyrus issued a decree about the house of God in Jerusalem: 'Let the house be rebuilt as a place for sacrifice. Let its foundations be laid. Let its height be sixty cubits and its width sixty cubits,
-\v 4 with three rows of large stones and a row of new timber. And let the cost be paid by the king's house.
-\v 5 Also, bring back the gold and silver objects belonging to the house of God that Nebuchadnezzar brought from the temple in Jerusalem to the temple in Babylon. Send them to the temple in Jerusalem and deposit them in the house of God.'
+\v 3 "In the first year of King Cyrus, Cyrus issued a decree about the house of God in Jerusalem: 'Let the house be rebuilt as a place for sacrifice, let its foundations be laid, let its height be sixty cubits, and its width sixty cubits,
+\v 4 with three rows of large stones and a row of new timber, and let the cost be paid by the king's house.
+\v 5 Now bring back the gold and silver objects belonging to the house of God, which Nebuchadnezzar brought to Babylon from the temple in Jerusalem and send them back to the temple in Jerusalem. You are to put them in the house of God.'
 </usfm>
 
 
@@ -48,8 +48,13 @@
   * [[:en:obe:other:babylon]]
 ===== translationNotes: =====
 
-  * **sixty cubits** - "60 cubits." A cubit is 46 centimeters. (See: [[:en:ta:vol2:translate:translate_bdistance]] and [[:en:ta:vol2:translate:translate_numbers]])
-  * **three rows** - 3 layers of foundation stones
+  * **General Information:** - This begins the record of King Cyrus's command that the Jews rebuild God's temple in Jerusalem.
+
+  * **In the first year of King Cyrus** - It can be stated clearly that this is the first year of his reign. AT: "In year 1 of the reign of King Cyrus" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:translate_numbers]])
+  * **Let the house be rebuilt** - This can be stated in active form. AT: "Let the Jews rebuild the house" or "The Jews must rebuild the house" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **sixty cubits** - "60 cubits." You may convert this to a modern measure. AT: "twenty-seven meters" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_bdistance]])
+  * **cubits, with three rows of large stones and a row of new timber** - This can be stated as a new sentence. Possible meanings are 1) this describes how to build the foundation. AT: "cubits. Build the foundation on three layers of large stones covered with one layer of timber" or 2) this describes how to build the walls. AT: "cubits. Build the house's walls with three layers of large stones alternating with one layer of timber" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **let the cost be paid by the king's house** - The phrase "the king's house" represents King Cyrus's own wealth in the royal treasury. This can be stated in active form. AT: "I will pay for it with money from the royal treasury" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -61,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

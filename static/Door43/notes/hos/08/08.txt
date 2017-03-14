@@ -24,9 +24,9 @@
 
 <usfm>
 \v 8 Other nations have destroyed Israel's power.
-\q2 Now Israel is like an old, broken pot that no one wants. 
+\q2 Now Israel is like an old, broken pot that no one wants.
 \q1
-\v 9 They asked the king of Assyria for help; 
+\v 9 They asked the king of Assyria for help;
 \q2 they were like a wild donkey wandering off by itself.
 \q1 The people of Israel have tried to pay other nations to protect them.
 \q1
@@ -42,7 +42,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q
 \v 8 Israel is swallowed up;
 \q now they lie among the nations like something useless.
@@ -75,7 +74,7 @@
 
   * **General Information:** - Yahweh is speaking.
 
-  * **Israel is swallowed up** - This can be stated in active form. "swallowed" means to be defeated and taken into exile. AT: "The enemies of Israel have taken the Israelites away to other lands" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Israel is swallowed up** - "swallowed" means to be defeated and taken into exile. This can be stated in active form. AT: "The enemies of Israel have taken the Israelites away to other lands" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **like a wild donkey all alone** - People often think of donkeys as being stubborn. This means the people of Israel refused to listen to Yahweh but instead went to the people of Assyria for help. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **Ephraim has hired lovers for herself** - Ephraim's alliances with other nations are spoken of as if they had paid them to become prostitutes for Ephraim. AT: "The people of Israel have tried to pay other nations to protect them" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **because of the oppression of the king of princes** - That is, because the Assyrian king, also called "the Great King," will make the people suffer. 
@@ -87,6 +86,6 @@
   * [[:en:bible:questions:comprehension:hos:08]]
 **[[:en:bible:notes:hos:08:06|<<]] | [[:en:bible:notes:hos:08:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

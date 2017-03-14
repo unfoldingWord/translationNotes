@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 11 Then it will happen on that day that I will make a place there for Gog—a grave in Israel, a valley for those who journey to the east of the sea. It will block those who wish to cross over. There they will bury Gog with all his multitudes. They will call it the valley of Hamon Gog.
+\v 11 Then it will happen on that day that I will make a place there for Gog—a grave in Israel, a valley for those who journey to the east of the sea. It will block those who wish to cross over. There they will bury Gog with all his multitudes. They will call it the Valley of Hamon Gog.
 </usfm>
 
 ===== translationWords: =====
@@ -29,15 +29,16 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues giving Ezekiel his message about Gog.
+  * **Connecting Statement:** - Yahweh begins to tell Ezekiel what will happen to Gog.
 
-  * **it will happen ... that** - an important event marker. If your language has a way for doing this, you could use it here.
+  * **it will happen ... that** - This signals an important event. If your language has a way for doing this, you could use it here.
   * **to the east of the sea** - A few modern versions interpret the Hebrew expression here as "to the east toward the sea."
-  * **It will block** - Possible meanings are 1) "the grave will block" or 2) "the dead army will block"
+  * **It will block** - Possible meanings are 1) "the grave will block" or 2) "the dead army will block."
   * **There they** - "There the house of Israel"
   * **They will call it** - "People will call it"
-  * **valley of Hamon Gog** - "valley of the Great Army of Gog"
- 
+  * **Valley of Hamon Gog** - "Valley of the Great Army of Gog"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:ezk:39]]
 **[[:en:bible:notes:ezk:39:09|<<]] | [[:en:bible:notes:ezk:39:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

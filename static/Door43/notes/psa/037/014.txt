@@ -21,12 +21,12 @@
 <usfm>
 \v 14 Wicked people pull out their swords
 \q2 and they put strings on their bows,
-\q1 ready to kill people who are poor 
+\q1 ready to kill people who are poor
 \q2 and to slaughter those who live righteously.
 \q1
 \v 15 But they will be killed by their own swords,
 \q2 and their bows will be broken.
-\b
+
 
 
 \q1
@@ -59,11 +59,11 @@
 ===== translationNotes: =====
 
   * **The wicked** - This refers to the wicked people. AT: "The wicked people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **have drawn out their swords ... have bent their bows** - Both "swords" and "bows" are weapons used to attack people. The fact that they are "drawn" and "bent" means the attacks are ready to begin. AT: "Have prepared their weapons in order to attack" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **have drawn out their swords ... have bent their bows** - Both "swords" and "bows" are weapons used to attack people. The fact that they are "drawn" and "bent" means they are ready to start attacking. AT: "have prepared their weapons in order to attack" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **to cast down** - This destruction of the needy people is spoken of as if they were clay pots that would break into pieces when thrown down on the ground. AT: "to destroy" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the oppressed and needy** - These terms both refer to people who are powerless to defend themselves. AT: "people who are not able to resist them" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **Their swords will pierce their own hearts** - Swords are examples of weapons and "hearts" represent the people. To "pierce the heart" is an idiom that means "to kill." AT: "Their weapons will be turned against them and they will kill themselves" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **their bows will be broken** - Bows are examples of the weapons the wicked use. AT: "The weapons they use against the righteous will be destroyed" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+
  
  
 ===== Links: =====
@@ -76,6 +76,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book1}}
+{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

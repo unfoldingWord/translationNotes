@@ -23,7 +23,7 @@
 
 <usfm>
 \p
-\v 5 My God put into my heart to gather together the nobles, the officials, and the people to enroll them by their families. I found The Book of the Genealogy of those who returned at the first and found the following written in it.
+\v 5 My God put into my heart to gather together the nobles, the officials, and the people to enroll them by their families. I found the book of the genealogy of those who returned at the first and found the following written in it.
 </usfm>
 
 
@@ -35,10 +35,10 @@
   * [[:en:obe:other:written]]
 ===== translationNotes: =====
 
-  * **My God put into my heart** - Though God did not really put a thought into Nehemiah's physical heart, he caused Nehemiah to have this idea. AT: "My God made me think of an idea" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **to enroll them** - "to list, register, and organize them"
-  * **The Book of the Genealogy** - an official book of parents and births that was part of Hebrew culture
-  * **and found the following written in it** - This can be expressed as a new sentence. "The items that follow are what I found and selected from those records."
+  * **put into my heart** - Here Nehemiah's "heart" refers to his thoughts and will. See how you translated this in [[:en:bible:notes:neh:02:11|2:12]]. AT: "inspired me" or "led me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to enroll them** - "to list and register them"
+  * **the book of the genealogy** - This was a book that no longer exists.
+  * **found the following written in it** - This can be expressed in active form. AT: "found that someone had written the following in it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
  
 ===== Links: =====
@@ -51,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

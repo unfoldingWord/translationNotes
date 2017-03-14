@@ -33,7 +33,7 @@
 
 <usfm>
 \q1
-\v 8 The happy sound of the tambourines stops, and the revelry of those who rejoice; 
+\v 8 The happy sound of the tambourines stops, and the revelry of those who rejoice;
 \q1 the joy of the lyre ceases.
 \q1
 \v 9 They no longer drink wine and sing, and the beer is bitter to those who drink it.
@@ -49,7 +49,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe a time in the future when God will judge the earth. Prophets sometimes describe a future event as something in the past or in the present. This emphasizes the event certainly will happen.
+  * **General Information:** - Isaiah continues to describe a time in the future when God will judge the earth. Prophets sometimes describe a future event as something in the past or in the present. This emphasizes the event certainly will happen. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
 
   * **tambourines ... lyre** - These are musical instruments. See how you translated these in [[:en:bible:notes:isa:05:11|5:12]].
 
@@ -67,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

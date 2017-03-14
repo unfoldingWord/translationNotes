@@ -30,7 +30,7 @@
 \q1
 \v 5 Yahweh, they do not pay attention to the wonderful things that you have done and that you have created;
 \q2 so get rid of them permanently and do not let them appear again!
-\b
+
 
 
 \q1
@@ -43,12 +43,11 @@
 \v 3 Do not drag me away with the wicked, those who do iniquity,
 \q who speak peace with their neighbors but have evil in their hearts.
 \q
-\v 4 Give them what their deeds deserve and repay them what their wickedness demands;
-\q repay them for the work of their hands; render to them their due.
+\v 4 Give them what their deeds deserve and repay them what their wickedness demands,
+\q repay them for the work of their hands and render to them their due.
 \q
 \v 5 Because they do not understand the deeds of Yahweh or the work of his hands,
 \q he will tear them down and never rebuild them.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -69,7 +68,7 @@
   * **the work of their hands** - Here "hands" represent what the person has done. AT: "the things they have done" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **render to them their due** - "give them what they deserve"
   * **Because they do not understand ... never rebuild them** - It is unclear if verse 5 is best understood as a statement (as in the ULB) or as a request (as in the UDB).
-  * **they do not understand the deeds of Yahweh** - Here "do not understand" means they ignore or do not honor. Also "ways" represents what God has done. AT: "they do not regard with honor what Yahweh has done"
+  * **they do not understand the deeds of Yahweh** - It is implied that "do not understand" means they ignore or do not honor Yahweh's works. AT: "they do not regard with honor what Yahweh has done" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **the work of his hands** - Here "hands" represents what Yahweh has done or created. AT: "what he has created" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **he will tear them down and never rebuild them** - The punishment of the wicked people is spoken of as if they were a building or a city that would be destroyed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
@@ -79,6 +78,6 @@
   * [[:en:bible:questions:comprehension:psa:028]]
 **[[:en:bible:notes:psa:028:001|<<]] | [[:en:bible:notes:psa:028:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

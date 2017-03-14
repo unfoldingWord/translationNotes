@@ -22,7 +22,7 @@
 \c 22
 \p
 \v 1 Then the word of Yahweh came to me and said,
-\v 2 "Now you, son of man, will you judge? Will you judge the city of blood? Make her know all her abominations. 
+\v 2 "Now you, son of man, will you judge? Will you judge the city of blood? Make her know all her abominations.
 \v 3 You must say, 'The Lord Yahweh says this: This is a city that pours out blood in her midst so that her time may come; a city that makes idols to make herself unclean.
 </usfm>
 
@@ -40,10 +40,16 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Now you, son of man, will you judge? Will you judge the city of blood?** - AT. "Son of man, go and judge. Go and judge the city of blood." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **city of blood** - Yahweh refers to Jerusalem as the city of blood. This refers to the murders and violence that happen in Jerusalem. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Now you, son of man, will you judge? Will you judge the city of blood?** - This rhetorical question functions as a command. AT. "Son of man, go and judge. Go and judge the city of blood." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **son of man** - "son of a human being" or "son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. Translate this as in [[:en:bible:notes:ezk:02:01|2:1]]. AT: "mortal person" or "human"
+  * **the city of blood** - This refers to the murders and violence that happen in Jerusalem. AT: "the city full of murders" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **her ... herself** - The word "her" refers to Jerusalem. Cities were often thought of as a woman. This continues through verse 32. (See [[:en:ta:vol2:translate:figs_gendernotations]] and [[:en:ta:vol2:translate:figs_personification]]).
+  * **This is a city** - Here the "city" represents the people who live there. AT: "This is a city of people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **that pours out blood in her midst** - This speaks of the city being a place where many people were killed as a place where blood is poured out in the streets. AT: "that sheds the blood of many people" or "that murders many people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **so that her time may come** - This refers to the time when Yahweh will destroy them. AT: "so that the time of her destruction may come" or "so that the time may come for her to be destroyed" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **unclean** - A person who God considers spiritually unacceptable or defiled is spoken of as if the person were physically unclean. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
  
 ===== Links: =====
 
@@ -52,6 +58,6 @@
   * [[:en:bible:questions:comprehension:ezk:22]]
 **[[:en:bible:notes:ezk:21:32|<<]] | [[:en:bible:notes:ezk:22:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

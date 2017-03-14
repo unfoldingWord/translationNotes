@@ -24,11 +24,9 @@
 \q1 Who is this who is wearing beautiful robes?"
 \q2 He replies, "It is I, Yahweh, declaring that I have defeated your enemies,
 \q1 and I am able to rescue you!"
-\b
 \q1
 \v 2 I ask him, "What are those red spots on your clothes?
 \q2 It appears that you have been treading on grapes to make wine."
-\b
 
 
 \q1
@@ -38,10 +36,10 @@
 
 <usfm>
 \c 63
-\p
+\m
 \q1
-\v 1 Who is this who comes from Edom, clothed in red from Bozrah? 
-\q1 Who is he in royal clothing, marching confidently because of his great strength? 
+\v 1 Who is this who comes from Edom, clothed in red from Bozrah?
+\q1 Who is he in royal clothing, marching confidently because of his great strength?
 \q1 It is I, speaking righteousness and powerfully able to save.
  \q1
 \v 2 Why are your clothes red, and why do they look like you have been treading grapes in a winepress?
@@ -58,9 +56,11 @@
 
 ===== translationNotes: =====
 
-  * **Who is this who comes from Edom** - This Isaiah speaking as a watchman. The question and answer format is a way of presenting this information, but it is not to be understood literally. Isaiah did not actually see Yahweh approaching.
+  * **Who is this who comes from Edom ... Bozrah** - Isaiah speaks as a watchman using the question and answer format to present this information about Yahweh's judgment on Edom, an enemy of Israel. This rhetorical question can be translated as a statement. AT: "I, Yahweh, am coming from Edom, clothed in red from Bozrah" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Bozrah** - This is the capital city of Edom. (See: [[:en:ta:vol1:translate:translate_names]])
   * **It is I** - Here "I" refers to Yahweh.
+  * **Why are your clothes red, and why ... winepress?** - This rhetorical question can be translated as a statement. AT: "The red on your clothing looks makes you look like you have been treading on grapes in a winepress." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **winepress** - A winepress is a low place carved out of rock in the ground where workers step on the grapes to crush them with their feet, in order to remove the grape juice. 
 
 ===== Links: =====
 
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:63]]
 **[[:en:bible:notes:isa:62:11|<<]] | [[:en:bible:notes:isa:63:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit winepress}}
+~~DISCUSSION~~{{tag>publish p2pass winepress}}
 
 ~~NOCACHE~~

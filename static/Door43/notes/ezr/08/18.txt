@@ -14,10 +14,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 18 Because God acted kindly toward us, they brought to us a man named Sherebiah and eighteen of his sons and other relatives. Sherebiah was a very wise man, a descendant of Mahli, 
+\v 18 Because God acted kindly toward us, they brought to us a man named Sherebiah and eighteen of his sons and other relatives. Sherebiah was a very wise man, a descendant of Mahli,
 who was a grandson of Levi.
 \v 19 They also sent to us Hashabiah, along with Jeshaiah, descendants of Levi's son Merari, and twenty of their relatives.
-\v 20 They also sent 220 other men to work in the temple. Those men's ancestors had been appointed by King David to assist the descendants of Levi. I listed the names of all 
+\v 20 They also sent 220 other men to work in the temple. Those men's ancestors had been appointed by King David to assist the descendants of Levi. I listed the names of all
 those men.
 
 
@@ -49,13 +49,13 @@ those men.
 
 ===== translationNotes: =====
 
-  * **Sherebiah ... Mahli ... Hashabiah ... Merari** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **by our God's good hand** - an idiom for expressing God's goodness or provision to them. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Sherebiah ... Mahli ... Hashabiah ... Jeshaiah ... Merari** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **So they sent us by our God's good hand a man** - God's "good hand" represents his kindness in providing for them. AT: "Because God was kind to us, they sent us a man" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **a prudent man** - This is a man of understanding and wisdom.
-  * **eighteen ... twenty** - 18, 20. (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **Jeshaiah** - See how you translated this in [[:en:bible:notes:ezr:08:04|8:7]].
-  * **officials** - People with specific authority within a government system.
-
+  * **son of Levi son of Israel** - Here "Israel" is a man's name. It is the name God gave to Jacob.
+  * **eighteen ... twenty** - 18 ... 20. (See:" [[:en:ta:vol2:translate:translate_numbers]])
+  * **Jeshaiah** - Translate this man's name as in [[:en:bible:notes:ezr:08:04|8:7]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **officials** - people with specific authority within a government system
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -69,6 +69,6 @@ those men.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

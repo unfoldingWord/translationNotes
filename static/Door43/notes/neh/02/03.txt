@@ -35,10 +35,10 @@
   * [[:en:obe:other:fire]]
 ===== translationNotes: =====
 
-  * **May the king live forever!** - "Long live the king!" or "May the king have a long life!" Nehemiah is showing honor to King Artaxerxes. 
-  * **Why should not my face be sad?** - AT: "I have very good reasons to be sad." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the place of my fathers' tombs** - AT: "the place of my ancestors"
-  * **lies in ruins** - "is destroyed"
+  * **May the king live forever** - Nehemiah is showing honor to King Artaxerxes. Here "forever" is an exaggeration that refers to a long life. AT: "Long live the king" or "May the king have a long life" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **Why should not my face be sad?** - Here Nehemiah uses this rhetorical question to tell the king that he has a reason to be sad. This can be written as a statement. AT: "I have very good reasons to be sad." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the place of my fathers' tombs** - "the place where my ancestors are buried"
+  * **its gates have been destroyed by fire** - This can be stated in active form. AT: "fire has destroyed its gates" or "our enemy has burned its gates" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:neh:02]]
 **[[:en:bible:notes:neh:02:01|<<]] | [[:en:bible:notes:neh:02:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

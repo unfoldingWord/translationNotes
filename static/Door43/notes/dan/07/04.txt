@@ -23,28 +23,34 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 The first was like a lion but had eagle's wings. As I was looking, its wings were torn off and it was lifted from the ground and made to stand on two feet, like a man. The mind of a man was given to it. 
+\v 4 The first was like a lion but had eagle's wings. As I was looking, its wings were torn off and it was lifted from the ground and made to stand on two feet, like a man. The mind of a man was given to it.
 \v 5 Then there was a second animal, like a bear, and it was bending over; it had three ribs between its teeth in its mouth. It was told, 'Get up and devour many people.'
 </usfm>
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:lion]]
-  * [[:en:obe:other:eagle]]
-  * [[:en:obe:other:mind]]
-  * [[:en:obe:other:devour]]
+  * [[:en:obe:other:lion|lion]]
+  * [[:en:obe:other:eagle|eagle]]
+  * [[:en:obe:other:mind|mind]]
+  * [[:en:obe:other:devour|devour]]
 
 ===== translationNotes: =====
 
-  * **it was lifted from the ground and made to stand on two feet, like a man** - AT: "someone made it stand on two feet like a human being" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **The mind of a man was given to it** - AT: "Someone gave it a mind like humans have"
-  * **ribs** - large curved bones that protect the chest of a person or animal
+  * **The first was like a lion but had eagle's wings** - This was a symbolic creature, and not an animal that exists. (See: [[:en:ta:vol2:translate:writing_symlanguage|Symbolic Language]])
+  * **its wings were torn off and it was lifted from the ground and made to stand on two feet, like a man** - This can be stated in active form. AT: "someone tore off its wings and lifted it up from the ground and made it stand on two feet like a human being" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **The mind of a man was given to it** - Here "mind" refers to thinking. This can be stated in active form. AT: "Someone gave it the ability to think like a human being" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]] and [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **a second animal, like a bear** - This was not an actual bear, but a symbolic animal that was similar to a bear. (See: [[:en:ta:vol2:translate:writing_symlanguage|Symbolic Language]])
+  * **ribs** - large curved bones of the chest that connect to the spine
+  * **It was told** - This can be stated in active form. AT: "Someone told it" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+
 ===== Links: =====
 
-  * [[:en:bible:notes:dan:00:intro]]
-  * [[:en:bible:notes:dan:07:00]]
-  * [[:en:bible:questions:comprehension:dan:07]]
+  * [[:en:bible:notes:dan:00:intro|Introduction to Daniel]]
+  * [[:en:bible:notes:dan:07:00|Daniel 07 General Notes]]
+  * [[:en:bible:questions:comprehension:dan:07|Daniel 07 Translation Questions]]
+
 **[[:en:bible:notes:dan:07:01|<<]] | [[:en:bible:notes:dan:07:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit eagle}}
-~~NOCACHE~~[[:en:bible:notes:dan:07:06|]]
+~~DISCUSSION~~{{tag>publish p2pass eagle}}
+
+~~NOCACHE~~

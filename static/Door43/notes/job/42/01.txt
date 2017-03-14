@@ -45,7 +45,7 @@
 \q that no purpose of yours can be stopped.
 \q
 \v 3 'Who is this who without knowledge conceals plans?'
-\q Indeed, I have spoken things that I did not understand, 
+\q Indeed, I have spoken things that I did not understand,
 \q things too difficult for me to understand, which I did not know about.
 </usfm>
 
@@ -58,9 +58,9 @@
  
 ===== translationNotes: =====
 
-  * **I know that you can do all things, that no purpose of yours can be stopped** - AT: "I know that you can do all things. I know that no purpose of yours can be stopped." This is the same idea expressed in two different ways. (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **no purpose of yours can be stopped** - AT: "no one can stop any of your plans" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Who is this who without knowledge conceals plans?** - Most modern versions agree that Job is loosely quoting God's own words from [[:en:bible:notes:job:38:01|38:2]]. Translators may therefore decide, as does the UDB, to make it clear that God asked this question of Job, and that Job is now remembering it. AT: "You said to me, 'Who is this who has no knowledge, but who dares to hide my plans from people?'" Or, "You said to me, 'You have no knowledge; you should not tell lies about my plans.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **I know that you can do all things, that no purpose of yours can be stopped** - You may need to repeat the words "I know." AT: "I know that you can do all things. I know that no purpose of yours can be stopped." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **no purpose of yours can be stopped** - This can be translated in active form. AT: "no one can stop any of your plans" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Who is this who without knowledge conceals plans?** - Most modern versions agree that Job is loosely quoting God's own words from [[:en:bible:notes:job:38:01|38:2]]. Translators may therefore decide, as does the UDB, to make it clear that God asked this question of Job and that Job is now remembering it. AT: "You said to me, 'Who is this who has no knowledge, but who dares to hide my plans from people?'" Or, "You said to me, 'You have no knowledge; you should not tell lies about my plans.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **conceals plans** - That is, conceals or misrepresents God's plans and advice. (See: [[:en:ta:vol1:translate:figs_explicit]])
  
  
@@ -71,6 +71,6 @@
   * [[:en:bible:questions:comprehension:job:42]]
 **[[:en:bible:notes:job:41:33|<<]] | [[:en:bible:notes:job:42:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

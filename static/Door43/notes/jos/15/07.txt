@@ -13,15 +13,15 @@
 
 <usfm>
 \v 7 From that point the border turned west and went through the Valley of Achor to Debir. From there it turned north again to go to Gilgal. Gilgal is north of the road that goes over the hill of Adummim, on the south side of the river valley. From Gilgal the border extended west to the springs at En Shemesh, and from there to En Rogel.
-\v 8 From that point the border along the south shoulder of the Jebusite city (that is, Jerusalem). The boundary goes to the top of the hill on the west side of Valley of Hinnom, at the northern end of the Valley of Rephaim.
+\v 8 From that point the border along the south shoulder of the Jebusite city (that is, Jerusalem). The boundary goes to the top of the hill on the west side ofValley of Hinnom, at the northern end of the Valley of Rephaim.
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\v 7 Then the border went up to Debir from the valley of Achor, and so northward, turning toward Gilgal, which is opposite the hill of Adummim, which is on the south side of the valley. Then the border passed along to the springs of En Shemesh and went to En Rogel.
-\v 8 Then the border went up the valley of Ben Hinnom to the south side of the Jebusite city (that is, Jerusalem). Then it went up to the top of the hill that lies over the valley of Hinnom, on the west, which is at the northern end of the valley of Rephaim.
+\v 7 Then the border went up to Debir from the Valley of Achor, and so northward, turning toward Gilgal, which is opposite the hill of Adummim, which is on the south side of the valley. Then the border passed along to the springs of En Shemesh and went to En Rogel.
+\v 8 Then the border went up the Valley of Ben Hinnom to the south side of the Jebusite city (that is, Jerusalem). Then it went up to the top of the hill that lies over the Valley of Hinnom, on the west, which is at the northern end of the Valley of Rephaim.
 </usfm>
 
 
@@ -34,7 +34,7 @@
 
 ===== translationNotes: =====
 
-  * **Debir ... the valley of Achor ... the hill of Adummim ... En Shemesh ... En Rogel ... the valley of Ben Hinnom ... the valley of Rephaim** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Debir ... the Valley of Achor ... the hill of Adummim ... En Shemesh ... En Rogel ... the Valley of Ben Hinnom ... the Valley of Rephaim** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -49,6 +49,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

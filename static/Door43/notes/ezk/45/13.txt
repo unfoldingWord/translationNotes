@@ -24,7 +24,7 @@
 <usfm>
 \p
 \v 13 This is the contribution that you must present: a sixth of an ephah for every homer of wheat, and you will give a sixth of an ephah for every homer of barley.
-\v 14 The regulation offering of oil will be a tenth of a bath for every kor (which is ten baths), or for every homer, since a homer is also ten baths.
+\v 14 The regulation offering of oil will be a tenth of a bath for every cor (which is ten baths), or for every homer, since a homer is also ten baths. 
 \v 15 One sheep or goat from the flock for every two hundred animals from the watered regions of Israel will be used for any burnt offering or peace offering to make atonement for the people—this is the Lord Yahweh's declaration.
 </usfm>
 
@@ -48,7 +48,8 @@
   * **for every homer of wheat** - It is implied that this is the amount of wheat that the people harvest. AT: "for every homer of wheat from the harvest." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **The regulation offering of oil will be** - "This is the rule about the oil, about the bath of oil"
   * **the watered regions of Israel** - "the parts of Israel that get a good amount of water" 
-  * **will be used for** - AT: "You will use these contributions for." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **will be used for** - This can be translated in active form. AT: "You will use these contributions for." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
  
 ===== Links: =====
 
@@ -57,6 +58,6 @@
   * [[:en:bible:questions:comprehension:ezk:45]]
 **[[:en:bible:notes:ezk:45:09|<<]] | [[:en:bible:notes:ezk:45:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2edp2checkit}}
 
 ~~NOCACHE~~

@@ -19,7 +19,7 @@
 
 <usfm>
 \v 14 Wise people continue to learn all that they can,
-\q2 but when foolish people speak, they will soon experience destruction. 
+\q2 but when foolish people speak, they will soon experience destruction.
 \q1
 \v 15 The wealth that rich people have protects them like a city is protected by a strong wall around it ,
 \q2 but because people are poor, they have no one to help them.
@@ -46,26 +46,24 @@
   * [[:en:obe:kt:wise]] 
   * [[:en:obe:other:know]]
   * [[:en:obe:kt:foolish]]
+
 ===== translationNotes: =====
 
 
-  * **the mouth of a fool** - "the words from a foolish person" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **destruction** - severe damage
+  * **the mouth of a fool** - "Mouth" represents what a person says. AT: "the words from a foolish person" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **his fortified city** - This represents wealth as a safe place. AT: "his safety" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
- 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
   * [[:en:bible:notes:pro:10:00]]
   * [[:en:bible:questions:comprehension:pro:10]]
 
- 
-
 **[[:en:bible:notes:pro:10:12|<<]] | [[:en:bible:notes:pro:10:16|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -37,7 +37,9 @@
 ===== translationNotes: =====
 
   * **Now do it** - "So now make David your king"
-  * **By the hand of my servant David** - The phrase "hand of my servant David" refers to David as being Yahweh's representative. AT: "My servant David will" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **By the hand of my servant David** - Here "hand" refers to David's power to defeat the Philistines. AT: "I will empower my servant David and" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the hand of the Philistines** - Here "hand" refers to power over Israel. AT: "the power of the Philistines" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the hand of all their enemies** - Here "hand" refers to power over Israel. AT: "the power of all of their enemies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -45,6 +47,6 @@
   * [[:en:bible:questions:comprehension:2sa:03]]
 **[[:en:bible:notes:2sa:03:14|<<]] | [[:en:bible:notes:2sa:03:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

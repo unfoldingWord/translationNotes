@@ -40,9 +40,8 @@
 
 <usfm>
 \c 79
-\p
+\m
 \d A psalm of Asaph.
-\b
 \q
 \v 1 God, foreign nations have come into your inheritance;
 \q they have defiled your holy temple;
@@ -76,7 +75,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A psalm of Asaph** - "This is a psalm that Asaph wrote." See how this is translated in [[:en:bible:notes:psa:050:001|50:1]].
   * **your inheritance** - "the land that was to be yours forever" See how this is translated in [[:en:bible:notes:psa:068:009|68:9]].
@@ -90,6 +89,6 @@
   * [[:en:bible:questions:comprehension:psa:079]]
 **[[:en:bible:notes:psa:078:070|<<]] | [[:en:bible:notes:psa:079:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3 inherit temple bury}}
+~~DISCUSSION~~{{tag>publish p2pass book3 inherit temple bury}}
 
 ~~NOCACHE~~

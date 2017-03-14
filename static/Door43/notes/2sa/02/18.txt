@@ -36,8 +36,9 @@
 ===== translationNotes: =====
 
   * **Zeruiah ... Joab ... Abishai ... Asahel ... Abner** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Asahel was swift in his feet like a wild gazelle.** - Here Asahel is compared to a gazelle, an animal that runs very fast. AT: "Ashahel could run very fast" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **wild gazelle** - This small, four-legged animal, with two long horns on its head, runs very fast. 
+  * **Asahel was swift in his feet like a wild gazelle** - Here Asahel is compared to a gazelle, an animal that runs very fast. AT: "Asahel could run very fast" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **wild gazelle** - This small, four-legged animal, with two long horns on its head, runs very fast.
+  * **followed him without turning away in any direction** - Here "without turning away" is stated in negative form to emphasize how closely he followed Abner's path. AT: "followed him wherever he went"
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:2sa:02]]
 **[[:en:bible:notes:2sa:02:16|<<]] | [[:en:bible:notes:2sa:02:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit joab}}
+~~DISCUSSION~~{{tag>publish p2pass joab}}
 
 ~~NOCACHE~~

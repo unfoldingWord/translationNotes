@@ -49,12 +49,12 @@
  
 ===== translationNotes: =====
 
-  * **You see the trouble** - Here "you" is plural, referring to all the people mentioned in [[:en:bible:notes:neh:02:15|02:16]].
-  * **so we will no longer be in disgrace** - "so we will end this disgrace." 
-  * **I told them** - "Then I said to them"
-  * **the good hand of my God was on me** - Here "good hand" is a metonym for God's presence or power. AT: "the powerful help of God was upon me" or "God was with me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Let us rise up and build** - The phrase "rise up and build" is an idiom. AT: "Let us begin building." (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **So they strengthened their hands for the good work** - "So they got ready to go to work" or "so they encouraged themselves to do the good work."
+  * **You see the trouble** - Here "you" is plural, referring to all the people mentioned in [[:en:bible:notes:neh:02:15|02:16]]. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **its gates have been destroyed by fire** - This can be stated in active form. AT: "how our enemies destroyed its gates by fire" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **so we will no longer be in disgrace** - "so we will no longer be ashamed"
+  * **the good hand of my God was on me** - God's "good hand" represents his "favor." AT: "my God's favor was upon me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **rise up and build** - This is an idiom. AT: "begin building" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **So they strengthened their hands for the good work** - The phrase "strengthened their hands" means to prepare to do something. AT: "So they prepared do this good work" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 
 ===== Links: =====
@@ -64,6 +64,6 @@
   * [[:en:bible:questions:comprehension:neh:02]]
 **[[:en:bible:notes:neh:02:15|<<]] | [[:en:bible:notes:neh:02:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -50,7 +50,9 @@
 
 ===== translationNotes: =====
 
-  * **completely destroy all that they have ... kill both man and woman, child and infant, ox and sheep, camel and donkey.** - These two phrases mean the same thing. The second phrase gives specific details about what they are to destroy completely. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the words of Yahweh** - This refers to the message that Yahweh spoke. AT: "the message of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **completely destroy all that they have ... kill both man and woman, child and infant, ox and sheep, camel and donkey** - These two phrases mean the same thing. The second phrase gives specific details about what they are to destroy completely. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Do not spare them** - This negative statement emphasizes the completeness of the destruction. (See: [[:en:ta:vol2:translate:figs_litotes]])
  
 ===== Links: =====
 
@@ -59,6 +61,6 @@
   * [[:en:bible:questions:comprehension:1sa:15]]
 **[[:en:bible:notes:1sa:14:52|<<]] | [[:en:bible:notes:1sa:15:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit ox}}
+~~DISCUSSION~~{{tag>publish p2pass ox}}
 
 ~~NOCACHE~~

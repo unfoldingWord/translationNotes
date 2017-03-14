@@ -20,14 +20,13 @@
 
 <usfm>
 \v 2 Hear, O heavens, and listen, O earth, because this is what Yahweh said:
-\q1 "I have raised people since they were born, 
+\q1 "I have raised people since they were born,
 \q2 but they have rebelled against me.
 \q1
 \v 3 Oxen know their owners,
 \q2 and donkeys know who feeds them,
 \q1 but Israel does not know;
 \q2 Israel does not understand."
-\b
 
 
 \q1
@@ -36,36 +35,40 @@
 ===== ULB: =====
 
 <usfm>
-\q1 
-\v 2 Hear, heavens, and listen, earth; for Yahweh has spoken:
+\q1
+\v 2 Hear, heavens, and give ear, earth; for Yahweh has spoken:
 \q1 "I have nourished and brought up children, but they have rebelled against me.
-\q1 
-\v 3 The ox knows his owner, and the donkey his master's feeding trough, 
+\q1
+\v 3 The ox knows his owner, and the donkey his master's feeding trough,
 \q1 but Israel does not know, Israel does not understand."
 </usfm>
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:heaven]]
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:other:rebel]]
-  * [[:en:obe:other:israel]]
+  * [[:en:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:other:rebel|rebel, rebellious, rebellion]]
+  * [[:en:obe:other:israel|Israel, Israelites, nation of Israel]]
 
 ===== translationNotes: =====
 
-  * **Hear, heavens, and listen, earth** - Although these prophecies were meant for the people of Jerusalem and Judah to hear, Isaiah told the "heavens" and "earth" to listen to what Yahweh said. By doing this, he emphasized how bad the people were. They were so bad that he was telling the heavens and earth about their sins. (See: [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_personification]])
-  * **I have nourished and brought up children** - This is what Yahweh was saying. AT: "I have taken care of the people living in Judah like they were my children" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The ox knows his owner, and the donkey his master's feeding trough, but Israel does not know, Israel does not understand** - God is scolding the people of Israel by saying that animals know their masters better than Israel knows their master.
-  * **the donkey his master's feeding trough** - "the donkey knows his master's feeding trough" or "the donkey knows where his master gives him food"
+  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism|Parallelism]])
+
+  * **Hear, heavens, and give ear, earth** - Although these prophecies were meant for the people of Jerusalem and Judah to hear, Isaiah knows they will not listen. Possible meanings are 1) he speaks in apostrophe, as though the "heavens" and "earth" would be able to listen to what Yahweh said, or 2) the words "heavens" and "earth" are metonyms and a merism for all living beings everywhere. AT: "you who live in the heavens ... you who live on the earth" (See: [[:en:ta:vol2:translate:figs_apostrophe|Apostrophe]] and [[:en:ta:vol2:translate:figs_personification|Personification]] and [[:en:ta:vol2:translate:figs_merism|Merism]])
+  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
+  * **I have nourished ... does not understand** - Words that Yahweh spoke and which Isaiah is speaking to the Israelites for Yahweh.
+  * **I have nourished and brought up children** - Yahweh speaks as if his words were food and as if the Israelites were his children. AT: "I have taken care of the people living in Judah like they were my children" (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **the donkey his master's feeding trough** - You can make clear the understood information. AT: "the donkey knows his master's feeding trough" or "the donkey knows where his master gives him food" (See: [[:en:ta:vol2:translate:figs_ellipsis|Ellipsis]])
   * **but Israel does not know, Israel does not understand** - This probably means "but the people of Israel do not know me, they do not understand that I am the one who cares for them."
-  * **Israel** - This refers to the nation of Israel. The kingdom of Judah was a part of it.
+  * **Israel** - This is a metonym for the people of Israel. Judah is part of what had been the nation of Israel. AT: "the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
 ===== Links: =====
 
-  * [[:en:bible:notes:isa:00:intro]]
-  * [[:en:bible:notes:isa:01:00]]
-  * [[:en:bible:questions:comprehension:isa:01]]
+  * [[:en:bible:notes:isa:00:intro|Introduction to Isaiah]]
+  * [[:en:bible:notes:isa:01:00|Isaiah 01 General Notes]]
+  * [[:en:bible:questions:comprehension:isa:01|Isaiah 01 Translation Questions]]
+
 **[[:en:bible:notes:isa:01:01|<<]] | [[:en:bible:notes:isa:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

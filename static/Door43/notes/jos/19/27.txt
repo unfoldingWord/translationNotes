@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 27 Then it turned eastward to Beth Dagon and went as far as Zebulun, and then to the valley of Iphtahel, northward to Bethemek and Neiel. Then it continued on to Cabul toward the north.
+\v 27 Then it turned eastward to Beth Dagon and went as far as Zebulun, and then to the Valley of Iphtahel, northward to Bethemek and Neiel. Then it continued on to Cabul toward the north.
 \v 28 It then went on to Ebron, Rehob, Hammon, and Kanah, as far as Greater Sidon.
 </usfm>
 
@@ -33,8 +33,7 @@
 
 ===== translationNotes: =====
 
-  * **Beth Dagon ... valley of Iphtahel ... Bethemek ... Neiel ... Cabul ... Ebron ... Rehob ... Hammon ... Kanah** - names of places (See: [[:en:ta:vol1:translate:translate_names]])
-
+  * **Beth Dagon ... Valley of Iphtahel ... Bethemek ... Neiel ... Cabul ... Ebron ... Rehob ... Hammon ... Kanah** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -47,6 +46,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

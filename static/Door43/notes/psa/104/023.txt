@@ -18,7 +18,6 @@
 <usfm>
 \v 23 During the daytime, people go to their work;
 \q2 they work until it is evening.
-\b
 \q1
 \v 24 Yahweh, you have made so many different kinds of things!
 \q2 You were very wise as you made them all.
@@ -58,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:104]]
 **[[:en:bible:notes:psa:104:021|<<]] | [[:en:bible:notes:psa:104:025|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

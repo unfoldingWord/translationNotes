@@ -33,7 +33,7 @@
   * [[:en:obe:other:gideon]]
 
 ===== translationNotes: =====
-  * **For Yahweh and for Gideon!** - The words "we fight" are understood. AT: "We fight for Yahweh and for Gideon!" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **For Yahweh and for Gideon!** - The words "we fight" are implied. AT: "We fight for Yahweh and for Gideon!" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -42,6 +42,6 @@
   * [[:en:bible:questions:comprehension:jdg:07]]
 **[[:en:bible:notes:jdg:07:15|<<]] | [[:en:bible:notes:jdg:07:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

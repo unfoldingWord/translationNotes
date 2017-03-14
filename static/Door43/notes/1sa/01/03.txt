@@ -34,9 +34,12 @@
   * [[:en:obe:other:phinehas]]
   * [[:en:obe:kt:priest]]
   * [[:en:obe:kt:yahweh]]
+
+
 ===== translationNotes: =====
 
   * **This man** - "This man" refers to Elkanah. 
+  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
   * **Eli, Hophni and Phinehas** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
@@ -46,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1sa:01]]
 **[[:en:bible:notes:1sa:01:01|<<]] | [[:en:bible:notes:1sa:01:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check }}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

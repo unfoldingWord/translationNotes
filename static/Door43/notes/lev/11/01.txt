@@ -19,7 +19,7 @@
 <usfm>
 \c 11
 \p
-\v 1 Yahweh spoke to Moses and to Aaron, saying, 
+\v 1 Yahweh spoke to Moses and to Aaron, saying,
 \v 2 "Speak to the people of Israel, saying, 'These are the living things which you may eat among all the animals that are on the earth.
 </usfm>
 
@@ -42,6 +42,6 @@
   * [[:en:bible:questions:comprehension:lev:11]]
 **[[:en:bible:notes:lev:10:19|<<]] | [[:en:bible:notes:lev:11:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

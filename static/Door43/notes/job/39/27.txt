@@ -47,10 +47,13 @@
 
 ===== translationNotes: =====
 
-  * **Is it at your orders ... nest in high places?** - The implicit answer to this question is "no." AT: "It is not at your orders ... nest in high places." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Is it at your orders** - AT: "Is it because you tell it to do so" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **mounts up** - AT: "flies up into the sky" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Connecting Statement:** - Yahweh continues to challenge Job.
+
+  * **Is it at your orders ... nest in high places?** - Yahweh uses this question to prove that Job is not powerful enough to command the eagles. The implicit answer to this question is "no." AT: "You are not able to command the eagle to mount up and build his nest in high places." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **at your orders** - The abstract noun "orders" can be stated as a verb. AT: "because you tell it to do so" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **mounts up** - This means he flies upward. AT: "flies up into the sky" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **a stronghold** - The high cliffs are strongholds for eagles because the animals that would want to eat them cannot reach them.
+
 
 ===== Links: =====
 
@@ -59,6 +62,6 @@
   * [[:en:bible:questions:comprehension:job:39]]
 **[[:en:bible:notes:job:39:26|<<]] | [[:en:bible:notes:job:39:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

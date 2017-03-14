@@ -30,7 +30,7 @@
 <usfm>
 \p
 \v 18 Then David the king went in and sat before Yahweh; he said, "Who am I, Yahweh God, and what is my family that you have brought me to this point?
-\v 19 And this was a small thing in your sight, Lord Yahweh. You have even spoken about your servant's family for a great while to come, and have shown me future generations, Lord Yahweh!
+\v 19 Now this was a small thing in your sight, Lord Yahweh. You have even spoken about your servant's family for a great while to come, and have shown me future generations, Lord Yahweh!
 \v 20 What more can I, David, say to you? You have honored your servant, Lord Yahweh.
 </usfm>
 
@@ -46,10 +46,12 @@
 
 ===== translationNotes: =====
 
-  * **Who am I, Yahweh God, and what is my family that you have brought me to this point?** - David asks this question to express the deep emotion he felt from hearing Yahweh's proclamation. This rhetorical question can be translated as a statement. AT: "I and my family are not worthy of this honor, Yahweh God." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **this was a small thing in your sight** - Here "your sight" stands for Yahweh. AT: "this was an easy thing for Yahweh to do" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **What more can I, David, say to you?** - This rhetorical question can be translated as a statement.  AT: "There is nothing more I can say to you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **you ... your** - All of the occurrences of these words refer only to Yahweh. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **Who am I, Yahweh God, and what is my family that you have brought me to this point?** - David asks this question to express the deep emotion he felt from hearing Yahweh's proclamation. This rhetorical question can be translated as a statement. AT: "My family and I are not worthy of this honor, Yahweh God." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **this was a small thing in your sight** - Here "your sight" represents what Yahweh considers something to be. AT: "this even seemed to you to be a small thing to do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **your servant's family** - Here David refers to himself as "your servant." This can be stated in first person. AT: "my family" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **for a great while to come** - This speaks about time as if it were something that travels and arrives somewhere. AT: "and what will happen to them in the future" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **What more can I, David, say to you?** - David uses this question to emphasize that he has nothing left to say to Yahweh. AT: "There is nothing more I can say to you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **your servant** - Here David refers to himself as "your servant." This can be stated in first person. AT: "me" (See: [[:en:ta:vol2:translate:figs_123person]])
 
 ===== Links: =====
 
@@ -58,6 +60,6 @@
   * [[:en:bible:questions:comprehension:2sa:07]]
 **[[:en:bible:notes:2sa:07:15|<<]] | [[:en:bible:notes:2sa:07:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

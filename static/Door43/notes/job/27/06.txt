@@ -19,7 +19,6 @@
 <usfm>
 \v 6 I will say that I am innocent, and I will never say anything different;
 \q2 my inner being will never reproach me as long as I live.
-\b
 \q1
 \v 7 I want God to punish my enemies like he will punish all wicked people;
 \q2 I want him to punish those who oppose me like he punishes all unrighteous people.
@@ -38,7 +37,6 @@
 \q
 \v 7 Let my enemy be like a wicked man;
 \q let him who rises up against me be like an unrighteous man.
-\b
 </usfm>
 
 
@@ -54,10 +52,14 @@
  
 ===== translationNotes: =====
 
-  * **my thoughts** - AT: "my heart"
-  * **Let my enemy be ... let him who rises up against me be** - These two clauses share the same meaning in order to provide emphasis through repetition. (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
 
-
+  * **I hold fast to my righteousness** - Here "hold fast" to is a metaphor that represents being determined to continue to say something. The abstract noun "righteousness" can be expressed with "righteous." AT: "I am determined to continue saying that I am righteous" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **will not let it go** - Here "will not let it go" is a metaphor that represents stopping saying something. AT: "will not stop saying that I am righteous" or "will not stop saying so" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my thoughts will not reproach me** - Here "my thoughts" represents Job. AT: "even in my thoughts, I will not reproach myself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Let my enemy be ... let him who rises up against me be** - The two clauses that start with these words share the same meaning. They are used together to emphasize Job's strong desire that this should happen. (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
+  * **Let my enemy be like a wicked man** - How he wants his enemy to be like a wicked person can be stated clearly. AT: "Let my enemy be punished like a wicked man" or "Let God punish my enemy as he punishes wicked people" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **let him who rises up against me be like an unrighteous man** - How he wants this person to be like an unrighteous man person can be stated clearly. AT: "Let him who rises up against me be punished like an unrighteous man" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **him who rises up against me** - Here "rises up against me" is a metaphor meaning oppose him. The whole phrase refers to Job's adversary. AT: "him who opposes me" or "my adversary" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -65,6 +67,6 @@
   * [[:en:bible:questions:comprehension:job:27]]
 **[[:en:bible:notes:job:27:04|<<]] | [[:en:bible:notes:job:27:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

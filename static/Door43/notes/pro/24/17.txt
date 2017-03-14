@@ -21,8 +21,7 @@
 \q2 and do not be happy when he stumbles,
 \q1
 \v 18 for Yahweh will see how you treat your enemy, and if he disapproves how you treat him,
-\q1 Yahweh may turn his wrath from your enemy and put it on you. 
-
+\q1 Yahweh may turn his wrath from your enemy and put it on you.
 
 \q1
 </usfm>
@@ -33,7 +32,7 @@
 <usfm>
 \q
 \v 17 Do not celebrate when your enemy falls
-\q and let not your heart be glad when he stumbles, 
+\q and let not your heart be glad when he stumbles,
 \q
 \v 18 or Yahweh will see and disapprove
 \q and turn away his wrath from him.
@@ -50,9 +49,12 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
+  * **your enemy falls** - "something bad happens to your enemy"
+  * **let not your heart be glad** - This is a strong command. The word "heart" is a metonym for the person. AT: "do not allow yourself to be glad" or "stop yourself from being glad" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **turn away his wrath from him** - The words "turn away his wrath" are an idiom for no longer being angry. What Yahweh would do instead can be made explicit. AT: "stop being angry with him and be angry with you instead" (see UDB) (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_explicit]])
 
- 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -66,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

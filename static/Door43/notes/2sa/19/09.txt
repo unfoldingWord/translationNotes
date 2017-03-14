@@ -24,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 9 All the people were arguing with each other throughout all the tribes of Israel saying, "The king rescued us out of the hand of our enemies. He saved us out of the hand of the Philistines and now he has run out of the country from Absalom.
-\v 10 And Absalom, whom we anointed over us, is dead in battle. So why are we not talking about bringing the king back?"
+\v 9 All the people were arguing with each other throughout all the tribes of Israel saying, "The king rescued us out of the hand of our enemies, and he saved us out of the hand of the Philistines, but now he has run out of the land because of Absalom.
+\v 10 Absalom, whom we anointed over us, has died in battle. So why do you say nothing about bringing the king back?"
 </usfm>
 
 
@@ -41,8 +41,11 @@
 
 ===== translationNotes: =====
 
-  * **hand** - Here "hand" means control and power. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **why are we not talking about bringing the king back?** - This means they needed to think about bringing David back now that Absalom was dead. The rhetorical question can be translated as a statement. AT: "we should be talking about bringing the king back." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **out of the hand of our enemies** - Here "hand" means control. AT: "from under the control of our enemies" or "from our enemies' control" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **out of the hand of the Philistines** - Here "hand" means control. AT: "from under the control of the Philistines" or "from the Philistines' control" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **out of the land because of Absalom** - This means that he had left the country fleeing from Absalom. This can be stated clearly. AT: "out of the country fleeing from Absalom" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **why do you say nothing about bringing the king back?** - This means they should consider bringing David back now that Absalom was dead. The question may be written as a statement. AT: "we should be talking about bringing the king back." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the king** - This refers to David.
  
 ===== Links: =====
 
@@ -54,6 +57,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

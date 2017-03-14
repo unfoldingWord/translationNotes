@@ -17,7 +17,7 @@
 \li the Gunites descended from his son Guni,
 \li the Jezerites descended from his son Jezer,
 \li the Shillemites descended from his son Shillem,
-\pi The Israelite leaders counted 45,400 men from the tribe of Naphtali. 
+\pi The Israelite leaders counted 45,400 men from the tribe of Naphtali.
 \m
 
 
@@ -30,11 +30,10 @@
 <usfm>
 \p
 \v 48 The clans of Naphtali's descendants were these:
-\q1
-By Jahzeel, the clan of the Jahzeelites,
+\q1 By Jahzeel, the clan of the Jahzeelites,
 \q1 by Guni, the clan of the Gunites,
 \q1
-\v 49 by Jezer, the clan of the Jezerites, 
+\v 49 by Jezer, the clan of the Jezerites,
 \q1 by Shillem, the clan of the Shillemites.
 \m
 \v 50 These were the clans of Naphtali's descendants, who numbered 45,400 men.
@@ -57,6 +56,6 @@ By Jahzeel, the clan of the Jahzeelites,
   * [[:en:bible:questions:comprehension:num:26]]
 **[[:en:bible:notes:num:26:44|<<]] | [[:en:bible:notes:num:26:51|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

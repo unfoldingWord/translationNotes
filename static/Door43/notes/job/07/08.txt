@@ -28,7 +28,6 @@
 \q1
 \v 10 they never return to their houses,
 \q2 and the people who are still alive do not remember them anymore.
-\b
 
 
 \q1
@@ -46,7 +45,7 @@
 \q
 \v 10 He will return no more to his house;
 \q neither will his place know him again.
-\b
+\m
 </usfm>
 
 ===== translationWords: =====
@@ -59,10 +58,12 @@
 
   * **General Information:** - The writer continues to use parallelism in each of these verses, conveying a single idea using two different statements to emphasize Job's thought that, after death, neither God nor the people he knew will see him again. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **The eye of God, who sees me, will see me no more** - The word "God" was added to this phrase because the context implies that Job is speaking with God. "The eye which sees me will see me no more." (See: [[:en:ta:vol1:translate:figs_explicit]]).
-  * **God's eyes will be on me, but I will not exist** - "Your eyes will be on me, but I will not exist."
-  * **As a cloud is consumed and vanishes away, so he who goes down to Sheol will come up no more** - Job is describing death in terms of the vanishing clouds. "As the cloud vanishes, so he who dies disappears" or "Once you are in the grave, you cannot arise." (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **As a cloud is consumed** - "As a cloud fades away"
+  * **The eye of God, who sees me, will see me no more** - Many versions of the Bible translate this as "The eye which sees me will see me no more." The words "of God" were added to this phrase because they are implied by the context. (See: [[:en:ta:vol1:translate:figs_explicit]]).
+  * **The eye of God, who sees me ... God's eyes will be on me** - God's "eyes" represent his seeing or noticing Job. AT: "God who watches me ... God will look for me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **As a cloud is consumed and vanishes away, so he who goes down to Sheol will come up no more** - Job is describing death as being like the clouds that disappear. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **As a cloud is consumed** - This can be expressed in active form. AT: "As a cloud fades" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he who goes down to Sheol will come up no more** - "he who dies will not return"
+  * **his place** - The words "his place" represent those who live in his place. AT: "the people who live in his place" or "his family" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -71,6 +72,6 @@
   * [[:en:bible:questions:comprehension:job:07]]
 **[[:en:bible:notes:job:07:06|<<]] | [[:en:bible:notes:job:07:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit consume}}
+~~DISCUSSION~~{{tag>publish p2check consume}}
 
 ~~NOCACHE~~

@@ -33,7 +33,9 @@
 
 ===== translationNotes: =====
 
-  * **For I was found blameless ... before you** - "He knows that I have done nothing wrong" (UDB); (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **For I was found blameless** - This can be stated in active form. AT: "He knows that I have done nothing wrong" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I have done you no harm** - "I have not harmed you at all"
+
 
 ===== Links: =====
 
@@ -42,6 +44,6 @@
   * [[:en:bible:questions:comprehension:dan:06]]
 **[[:en:bible:notes:dan:06:19|<<]] | [[:en:bible:notes:dan:06:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

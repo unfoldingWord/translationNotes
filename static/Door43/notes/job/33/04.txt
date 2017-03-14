@@ -22,7 +22,6 @@
 \q1
 \v 5 So answer what I say if you can;
 \q2 think carefully what you will reply to me.
-\b
 
 
 \q1
@@ -52,8 +51,7 @@
   * **General Information:** - Elihu continues speaking to Job.
 
   * **The Spirit of God ... has given me life** - These two lines mean the same thing. Elihu is emphasizing that God has made him and so gives authority to what he is saying. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **set your words in order before me and stand up** - "prepare what you will say and answer me"
-
+  * **set your words in order before me and stand up** - This speaks of Job preparing what he will say as if here were setting up and organizing physical objects. AT: "prepare what you will say, and stand up and answer me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -61,6 +59,6 @@
   * [[:en:bible:questions:comprehension:job:33]]
 **[[:en:bible:notes:job:33:01|<<]] | [[:en:bible:notes:job:33:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit holyspirit}}
+~~DISCUSSION~~{{tag>publish p2check holyspirit}}
 
 ~~NOCACHE~~

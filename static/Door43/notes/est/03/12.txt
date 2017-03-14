@@ -38,9 +38,17 @@
 
 ===== translationNotes: =====
 
+  * **the king's scribes were summoned ... a decree containing all that Haman had commanded was written** - This can be stated in active form. AT: "the king summoned his scribes ... they wrote a decree containing all that Haman had commanded" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **thirteenth day of the first month** - This is the first month of the Hebrew calendar. The thirteenth day is near the beginning of April on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **king's provincial governors** - "governors of the provinces" Use the same word or phrase for province as in [[:en:bible:notes:est:01:01|1:1]].
-  * **thirteenth day of the twelfth month (which is the month of Adar)** - "Adar" is the name of the twelfth and last month of the Hebrew calendar. The thirteenth day is near the beginning of March on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:translate_names]])
+  * **king's provincial governors** - "governors of the provinces." Translate "province" as in [[:en:bible:notes:est:01:01|1:1]].
+  * **It was written in the name of King Ahasuerus and was sealed with his ring** - This can be stated in active form. AT: "They wrote the decree in the name of King Ahasuerus and Haman sealed it with the king's signet ring" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in the name of** - Here "name" represents the authority of the king. AT: "in the authority of" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **hand-delivered** - This idiom means they personally delivered the letters. AT: "personally delivered" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **annihilate, kill, and destroy** - These words mean the same thing and emphasize the completeness of the destruction. AT: "completely destroy" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **thirteenth day of the twelfth month** - "day thirteen of month twelve" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **which is the month of Adar** - "Adar" is the name of the twelfth and last month of the Hebrew calendar. The thirteenth day is near the beginning of March on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and  [[:en:ta:vol1:translate:translate_names]])
+  * **plunder** - "take away"
+
 
 ===== Links: =====
 
@@ -49,6 +57,6 @@
   * [[:en:bible:questions:comprehension:est:03]]
 **[[:en:bible:notes:est:03:10|<<]] | [[:en:bible:notes:est:03:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -38,7 +38,9 @@
 
 ===== translationNotes: =====
 
-  * **if I have found favor in your eyes** - Here "found favor" is an idiom that refers to being pleased with someone. AT: "if you are pleased with me" or "if I am your friend" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **asked permission from me to go** - "asked me to allow him to go"
+  * **if I have found favor in your eyes** - Here the eyes represent seeing, and seeing represents thoughts or judgment. Translate as in [[:en:bible:notes:1sa:20:03|20:3]]. AT: "I have pleased you" or "you consider me favorably" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **the king's table** - Jonathan speaks of Saul as if he is another person to show that he respects Saul. AT: "your table" (See: [[:en:ta:vol2:translate:figs_pronouns]])
 
 ===== Links: =====
 
@@ -47,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1sa:20]]
 **[[:en:bible:notes:1sa:20:26|<<]] | [[:en:bible:notes:1sa:20:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

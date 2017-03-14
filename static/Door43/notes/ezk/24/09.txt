@@ -18,7 +18,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 Therefore, this is what I, Yahweh the Lord say:
+\v 9 Therefore, this is what I, Yahweh the Lord, say:
 \q1 'Terrible things will happen to that city that is full of murderers!
 \q2 It will be as though I also will pile high the wood in the fire.
 \q1
@@ -35,7 +35,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 9 Therefore, the Lord Yahweh says this: Woe to the city of blood. I will also enlarge the pile of wood. 
+\v 9 Therefore, the Lord Yahweh says this: Woe to the city of blood. I will also enlarge the pile of wood.
 \v 10 Stack up the wood and kindle the fire. Cook the meat well and mix in the spices and let the bones be charred.
 </usfm>
 
@@ -45,11 +45,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to compare Jerusalem with a cooking pot.
+  * **General Information:** - Yahweh continues telling a parable to Ezekiel about a cooking pot that represents Jerusalem. This parable continues through [[:en:bible:notes:ezk:24:14|24:14]]. (See: [[:en:ta:vol1:translate:figs_parables]])
 
-  * **I will also enlarge the pile of wood** - It is implied that the pile of wood is under the cooking pot, which represents Jerusalem. "I will make the pile of wood on the fire under you even bigger" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Stack up ... kindle ... Cook ... let the bones be charred** - Yahweh gives these commands to imaginary people who are part of the metaphor. 
-  * **let the bones be charred** - "burn the bones." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the city of blood** - Here "blood" is a reference to "murder." AT: "the city of murderers" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will also enlarge the pile of wood** - It is implied that the pile of wood is under the cooking pot that represents Jerusalem. "I will make the pile of wood on the fire under you even bigger" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **kindle the fire** - "light the fire" (UDB)
+  * **let the bones be charred** - This can be stated in active form. AT: "burn the bones" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
@@ -59,6 +60,6 @@
   * [[:en:bible:questions:comprehension:ezk:24]]
 **[[:en:bible:notes:ezk:24:07|<<]] | [[:en:bible:notes:ezk:24:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -25,7 +25,6 @@
 \q1
 \v 16 But Yahweh works against those who do what is evil.
 \q2 After they die, people here on earth will forget them completely.
-\b
 \q1
 \v 17 Yahweh hears righteous people when they call out to him;
 \q2 he rescues them from all their troubles.
@@ -62,7 +61,7 @@
  
 ===== translationNotes: =====
 
-  * **The eyes of Yahweh are on the righteous** - Here "the eyes of Yahweh" refer to his careful watching. AT: "Yahweh carefully watches over the righteous" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The eyes of Yahweh are on the righteous** - Here "the eyes of Yahweh" refer to his careful watching. "The righteous" is a reference to righteous people. AT: "Yahweh carefully watches over the righteous people" (See: [[:en:ta:vol2:translate:figs_metonymy]]) (See: [[:en:ta:vol2:translate:figs_nominaladj]])
   * **his ears are directed toward their cry** - Here "his ears" refers to Yahweh's desire to respond to them. AT: "he pays attention to their cry" or "he answers their cry" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **to cut off the memory of them from the earth** - Yahweh will cause people to so completely forget them when they die that it is as if he used a knife to cut off any memory of them. AT: "so that when they are dead, people will forget them completely" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Yahweh hears** - Here "hears" means that Yahweh desires to respond to them. AT: "Yahweh pays attention to them" (See: [[:en:ta:vol1:translate:figs_idiom]])
@@ -73,6 +72,6 @@
   * [[:en:bible:questions:comprehension:psa:034]]
 **[[:en:bible:notes:psa:034:012|<<]] | [[:en:bible:notes:psa:034:018|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

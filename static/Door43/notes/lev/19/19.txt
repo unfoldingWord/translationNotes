@@ -26,11 +26,11 @@
 
 <usfm>
 \p
-\v 19 You must keep my commands. 
+\v 19 You must keep my commands.
 \p
-Do not try to breed your animals with different kinds of other animals. 
+Do not try to breed your animals with different kinds of other animals.
 \p
-Do not mix two different kinds of seeds when planting your field. 
+Do not mix two different kinds of seeds when planting your field.
 \p
 Do not wear clothing made of two kinds of material mixed together.
 </usfm>
@@ -53,6 +53,6 @@ Do not wear clothing made of two kinds of material mixed together.
   * [[:en:bible:questions:comprehension:lev:19]]
 **[[:en:bible:notes:lev:19:17|<<]] | [[:en:bible:notes:lev:19:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -23,14 +23,13 @@
 <usfm>
 \v 1 God truly is good to us Israelite people,
 \q2 to those who, with all their inner being, want to do all that he desires.
-\b
 \q1
 \v 2 As for me, I almost stopped trusting in God;
 \q1 I was almost guilty of committing a great sin against him
 \q1
 \v 3 because I saw those who proudly said that they did not need God, and I wanted to be like them.
 \q2 I saw that they became wealthy even though they were wicked.
-\b
+
 
 
 \q1
@@ -42,9 +41,8 @@
 <usfm>
 \ms Book Three
 \c 73
-\p
+\m
 \d A psalm of Asaph.
-\b
 \q
 \v 1 Surely God is good to Israel,
 \q to those with a pure heart.
@@ -73,7 +71,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A psalm of Asaph** - "This is a psalm that Asaph wrote." See how this is translated in [[:en:bible:notes:psa:053:001|53:1]].
   * **my feet almost slipped; my feet almost slipped out from under me** - The psalmist speaks of being unable to trust God and wanting to sin as if he had almost fallen while walking on a slippery path. AT: "I almost stopped trusting in God; I was almost guilty of committing a great sin against him" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -89,6 +87,6 @@
   * [[:en:bible:questions:comprehension:psa:073]]
 **[[:en:bible:notes:psa:072:018|<<]] | [[:en:bible:notes:psa:073:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

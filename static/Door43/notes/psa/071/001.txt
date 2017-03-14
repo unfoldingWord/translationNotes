@@ -39,7 +39,7 @@
 
 <usfm>
 \c 71
-\p
+\m
 \q
 \v 1 In you, Yahweh, I take refuge;
 \q let me never be put to shame.
@@ -67,15 +67,16 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - This psalm is a prayer for help. See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]].
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - This psalm is a prayer for help.
 
   * **In you, Yahweh, I take refuge** - Going to Yahweh for protection is spoken of as taking refuge in him. AT: "go to you, Yahweh, for protection" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **let me never be put to shame** - This can be stated in active form. AT: "never let my enemies put me to shame" See how "do not let me be humiliated" is translated in [[:en:bible:notes:psa:025:001|25:2]]. (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **make me safe in your righteousness** - Possible meanings are 1) "make me safe because you always do what is right" or 2) "make me safe as I do what you want me to do" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **turn your ear to me** - Here "your ear" refers to God's willingness to hear someone who prays to him. AT: "pay attention to me" See how this is translated in [[:en:bible:notes:psa:017:006|17:6]] (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **turn your ear to me** - Here "your ear" refers to God's willingness to hear someone who prays to him. AT: "pay attention to me." See how this is translated in [[:en:bible:notes:psa:017:006|17:6]] (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Be to me a rock for refuge** - The psalmist requests that Yahweh make him as safe as he would be if he were hiding in a large rock or cliff where his enemies could not find him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **rock ... rock** - These are hills or mountains, not rocks one can hold in one's hand.
-  * **you have given a command** - "you have commanded your angels."
+  * **you have given a command** - "you have commanded your angels"
   * **save me** - "keep me safe"
   * **you are my rock and my fortress** - The psalmist believes that Yahweh will protect him and make him as safe as if he were hiding on top of a large mountain or inside a man-made fortress. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
@@ -86,6 +87,6 @@
   * [[:en:bible:questions:comprehension:psa:071]]
 **[[:en:bible:notes:psa:070:004|<<]] | [[:en:bible:notes:psa:071:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

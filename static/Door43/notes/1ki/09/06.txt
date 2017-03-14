@@ -32,15 +32,15 @@
   * [[:en:obe:kt:setapart]]
   * [[:en:obe:kt:name]]
   * [[:en:obe:other:castout]]
-  * [[:en:obe:other:proverb]]
+  * [[:en:obe:other:mock]]
   * [[:en:obe:other:peoplegroup]]
 
 ===== translationNotes: =====
 
   * **my commandments and my statutes** - Here the words "commandments" and "statutes" mean basically the same thing and emphasize all that Yahweh has commanded. (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **worship other gods and bow down to them** - These two phrases mean basically the same thing and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **set apart to my name** - AT: "set apart for myself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I will cast it out of my sight** - AT: "I will reject it" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **set apart to my name** - Here the word "name" is a metonym for the person who possesses something. AT: "set apart for myself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will cast it out of my sight** - The abstract noun "sight" can be expressed with the verb "see." Looking at something is a metaphor for protecting it. AT: "I will put it where I no longer have to see it" or "I will get rid of it so I no longer have to protect it" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:09]]
 **[[:en:bible:notes:1ki:09:04|<<]] | [[:en:bible:notes:1ki:09:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

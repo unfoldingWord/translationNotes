@@ -33,11 +33,12 @@
 
 ===== translationNotes: =====
 
-  * **He put it into the hands of his servants** - AT: "He entrusted it to his servants" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **He said** - AT: "He told his servants to say" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Look** - Here the word "Look" adds emphasis to what follows and to validate what was just said. AT: "As proof that I want a treaty with you" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Break your treaty with Baasha** - AT: "Break your treaty with Baasha and attack Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
-
+  * **He put it into the hands of his servants** - Putting things in their hands represents giving those things to them. It is implied that they would do with it what he wanted them to do. The full meaning of this statement can be made clear. AT: "He entrusted it to his servants" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **He said** - This means he spoke by means of his servants. Asa told his servants what to say to Ben Hadad and they did. The meaning of this can be made clear. AT: "Asa told his servants to say to Ben Hadad" or "Through his servants, Asa said to Ben Hadad" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **Let there be a covenant between me and you** - A covenant being between two people represents those two people having a covenant with each other. AT: "Let us have a covenant with each other" or "Let us make a peace treaty" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Look** - This is an idiom. Here the word "Look" adds emphasis to what follows and validates what was just said. AT: "As proof that I want a treaty with you" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Break your covenant with Baasha king of Israel** - Breaking a covenant represents canceling it and not doing what one has promised to do. AT: "Cancel your covenant with Baasha king of Israel" or "Do not be loyal to Baasha king of Israel as you promised in your covenant with him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Break your covenant with Baasha king of Israel** - Asa wanted Ben Hadad to attack Israel. Ben Hadad could only do that if he broke his covenant with the king of Israel. The meaning of this statement can be made explicit. AT: "Break your covenant with Baasha king of Israel, and attack Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:15]]
 **[[:en:bible:notes:1ki:15:16|<<]] | [[:en:bible:notes:1ki:15:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

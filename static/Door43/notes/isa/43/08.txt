@@ -19,7 +19,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 Summon the people who have eyes but acts as though they were blind;
+\v 8 Summon the people who have eyes but act as though they were blind;
 \q2 summon those who have ears but act as though they were deaf.
 \q1
 \v 9 Gather people of all nations together,
@@ -37,13 +37,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 8 Bring out the blind people, who have eyes, and the deaf, though they have ears.
+\v 8 Bring out the people who are blind, even though they have eyes, and the deaf, even though they have ears.
 \q1
-\v 9 All the nations gather together, and the peoples assemble. 
+\v 9 All the nations gather together, and the peoples assemble.
 \q1 Who among them could have declared this and announced to us
-earlier events? 
+earlier events?
 \q1 Let them bring their witnesses to prove themselves right, let them listen and affirm, 'It is true.'
 </usfm>
 
@@ -57,9 +56,10 @@ earlier events?
 
 ===== translationNotes: =====
 
-  * **the blind people ... the deaf** - This refers to those who are spiritually blind and deaf. This means they do not listen to or obey God. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Who among them could have declared this and announced to us earlier events?** - Here "us" refers to Isaiah and the people of Israel. Isaiah uses a question to mock the people of other nations and their idols. AT: "None of them could have declared this or told us what would happen in the future." (See: [[:en:ta:vol2:translate:figs_inclusive]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Let them bring their witnesses to prove themselves right, let them listen and affirm, 'It is true.'** - Isaiah challenges them to prove that the idols could tell them the future. But, he knows they cannot. AT: "None of them can say they heard their idol tell what would happen in the future" (See: [[:en:ta:vol1:translate:figs_irony]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the people who are blind ... the deaf** - Yahweh speaks of those who do not listen to him or obey him as if they were blind and deaf. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Who among them could have declared this and announced to us earlier events?** - This rhetorical question applies to the gods whom the people of the nations worship. The implied answer is that none of them could do this. This question can be translated as a statement. AT: "None of their gods could have declared this or announced to us earlier events." (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **announced to us earlier events** - This phrase refers to their ability to tell about events that happened in the past before they happened. AT: "announced to us earlier events before they happened" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Let them bring their witnesses to prove themselves right, let them listen and affirm, 'It is true.'** - Yahweh challenges the gods whom the nations worship to provide witnesses who will testify that they have been able to do these things, although he knows that they cannot do so. AT: "These gods have no witnesses who will prove them right, witnesses who will listen and affirm, 'It is true'" (See: [[:en:ta:vol1:translate:figs_irony]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -67,6 +67,6 @@ earlier events?
   * [[:en:bible:questions:comprehension:isa:43]]
 **[[:en:bible:notes:isa:43:06|<<]] | [[:en:bible:notes:isa:43:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -22,10 +22,10 @@
 
 <usfm>
 \q
-\v 3 Now the end is upon you, for I am sending out my wrath on you, and I will judge you according to your ways; 
+\v 3 Now the end is upon you, for I am sending out my wrath on you, and I will judge you according to your ways;
 \q then I will bring all your abominations upon you.
 \q
-\v 4 For my eyes will not pity you, and I will not spare you. Instead, I will bring your ways upon you, 
+\v 4 For my eyes will not pity you, and I will not spare you. Instead, I will bring your ways upon you,
 \q and your abominations will be in your midst, so you will know that I am Yahweh.
 </usfm>
 
@@ -42,13 +42,15 @@
 
   * **General Information:** - These are Yahweh's words to the people of Israel.
 
-  * **the end is upon you** - "your life is finished" or "the end of your time has arrived"
+  * **the end is upon you** - The "end" is spoken of as if it were a robber attacking the people. AT: "your life is finished" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **I am sending out my wrath on you** - "Wrath" is spoken of as if it were an arrow that Yahweh was shooting at the people. AT: "I am angry, and I will punish you"
   * **according to your ways** - "according to the things you do" or "because of the wicked things you do"
-  * **I will bring all your abominations upon you** - "I will make you experience the consequences of your disgusting behavior" or "I will punish you for doing those things that I hate so much"
-  * **abominations** - This refers here to behavior that God hates.
-  * **For my eyes will not pity you** - "For I will not look at you with compassion"
-  * **I will bring your ways upon you** - "I will make you experience the consequences of your bad behavior" or "I will punish you for the bad things you do."
-  * **your abominations will be in your midst** - 1) "the consequences of your disgusting behavior will surround you" or 2) "your idols will be with you and powerless." Abominations here either refers to punishment for the behavior that God hates, or to their idols, which God hates. (See: [[:en:ta:vol2:translate:figs_metonymy]]). 
+  * **I will bring all your abominations upon you** - "I will punish you for doing those things that I hate so much"
+  * **For my eyes will not pity you** - The eye is a metonym for what the person thinks. AT: "For I will not look at you with compassion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will bring your ways upon you** - The way a person lives is spoken of as a path on which one walks. AT: "I will punish you for the things you have done" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **your abominations will be in your midst** - Possible meanings are 1) "I will punish all of you because of your abominations" or 2) "this will happen as long as you continue to worship idols."
+  * **know that I am Yahweh** - When Yahweh says that people will know that he is Yahweh, he is implying that they will know that he is the one true God who has supreme authority and power. Translate as in [[:en:bible:notes:ezk:06:06|6:7]]. AT: "understand that I am Yahweh, the one true God" or "realize that I, Yahweh, have supreme power and authority" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -56,6 +58,6 @@
   * [[:en:bible:questions:comprehension:ezk:07]]
 **[[:en:bible:notes:ezk:07:01|<<]] | [[:en:bible:notes:ezk:07:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

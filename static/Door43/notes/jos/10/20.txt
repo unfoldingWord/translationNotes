@@ -25,7 +25,7 @@
 
 <usfm>
 \v 20 Joshua and the sons of Israel had finished slaughtering them with a very great slaughter, until they were almost completely destroyed; only a few survivors who escaped reached the fortified cities.
-\v 21 Then the whole army returned in peace to Joshua at the camp at Makkedah. And no one dared to say one word against any of the people of Israel.
+\v 21 Then the whole army returned in peace to Joshua at the camp at Makkedah. No one dared to say one word against any of the people of Israel.
 </usfm>
 
 
@@ -39,6 +39,7 @@
 ===== translationNotes: =====
 
   * **Makkedah** - Translate the same way as you did in [[:en:bible:notes:jos:10:09|10:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **No one dared to say one word against** - Here "one word" refers to the speaking of the enemies about Israel. AT: "no one dared to complain or protest against" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -52,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

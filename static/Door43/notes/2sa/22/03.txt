@@ -20,7 +20,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 Yahweh, you protect me. You are like a shield, 
+\v 3 Yahweh, you protect me. You are like a shield,
 \q2 and you are the powerful one who saves me.
 \q1 You are like a place where I find refuge.
 \q2 You save me from those who act violently toward me.
@@ -28,7 +28,6 @@
 \v 4 I call out to you, Yahweh.
 \q2 You deserve to be praised,
 \q2 and you rescue me from my enemies.
-\b
 
 
 \q1
@@ -39,8 +38,8 @@
 
 <usfm>
 \q
-\v 3 God is my rock. I take refuge in him. 
-\q He is my shield, the horn of my salvation, my stronghold, and my refuge, 
+\v 3 God is my rock. I take refuge in him.
+\q He is my shield, the horn of my salvation, my stronghold, and my refuge,
 \q the one who saves me from violence.
 \q
 \v 4 I will call on Yahweh, who is worthy to be praised,
@@ -67,7 +66,7 @@
 
   * **God is my rock ... He is my shield, the horn of my salvation, my stronghold** - All of these metaphors are symbols of God's strength and power. They emphasize God's ability to protect and save his people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **who is worthy to be praised** - This can be stated in active form. AT: "who is worthy to receive praise" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **I will be saved from my enemies** - This can be stated in active form. AT: "He will save me from my enemies" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I will be saved from my enemies** - This can be stated in active form. AT: "he will save me from my enemies" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -82,6 +81,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit refuge worthy horn}}
+{{tag>publish p2pass refuge worthy horn}}
 
 ~~NOCACHE~~

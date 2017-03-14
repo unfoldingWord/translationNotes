@@ -26,7 +26,7 @@
 
 <usfm>
 \q1
-\v 10 My threshed and winnowed ones, children of my threshing floor! 
+\v 10 My threshed and winnowed ones, children of my threshing floor!
 \q1 What I have heard from Yahweh of hosts,
 \q1 the God of Israel, I have declared to you.
 </usfm>
@@ -41,8 +41,9 @@
 
 ===== translationNotes: =====
 
-  * **My threshed and winnowed ones, children of my threshing floor** - The word "my" refers to Isaiah. This comparison emphasizes the suffering of the people of Judah. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **My threshed and winnowed ones, children of my threshing floor** - The people of Israel suffering because of the Babylonians is spoken of as if the people were grain that was threshed and winnowed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **My threshed** - The word "my" refers to Isaiah.
+  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
 
 ===== Links: =====
 
@@ -51,6 +52,6 @@
   * [[:en:bible:questions:comprehension:isa:21]]
 **[[:en:bible:notes:isa:21:08|<<]] | [[:en:bible:notes:isa:21:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit winnow}}
+~~DISCUSSION~~{{tag>publish p2pass winnow}}
 
 ~~NOCACHE~~

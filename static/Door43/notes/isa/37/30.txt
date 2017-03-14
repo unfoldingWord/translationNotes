@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 30 This will prove to you, Hezekiah that it is I, Yahweh, who will make all this happen:
+\v 30 "This will prove to you, Hezekiah that it is I, Yahweh, who will make all this happen:
 \q1 This year, you will eat only the crops that grow by themselves,
 \q2 and next year the same thing will happen.
 \q1 But in the third year you will plant crops and harvest them;
@@ -27,10 +27,9 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 30 This will be the sign for you: 
-\q1 This year you will eat what grows wild, and in the second year what grows from that. 
+\v 30 This will be the sign for you:
+\q1 This year you will eat what grows wild, and in the second year what grows from that.
 \q1 But in the third year you must plant and harvest, plant vineyards and eat their fruit.
 </usfm>
 
@@ -45,8 +44,11 @@
 
   * **General Information:** - This continues Yahweh's message to Hezekiah. (See: [[:en:bible:notes:isa:37:21|37:21]])
 
-  * **sign for you** - Here "you" is singular and refers to Hezekiah. (See: [[:en:ta:vol1:translate:figs_yousingular]])
+  * **sign for you** - "sign for you, Hezekiah." Here "you" is singular and refers to Hezekiah. (See: [[:en:ta:vol1:translate:figs_yousingular]])
   * **you will eat ... you must plant** - Here "you" is plural and refers to the people of Judah. (See: [[:en:ta:vol1:translate:figs_youdual]])
+  * **second year** - "2nd year" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the second year what grows** - The missing words may be added. AT: "in the second year you will eat what grows" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **what grows from that** - "what grows wild from that" or "what grows wild" 
 
 ===== Links: =====
 
@@ -55,6 +57,6 @@
   * [[:en:bible:questions:comprehension:isa:37]]
 **[[:en:bible:notes:isa:37:28|<<]] | [[:en:bible:notes:isa:37:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

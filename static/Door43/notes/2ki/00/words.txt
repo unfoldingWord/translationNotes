@@ -1,22 +1,4 @@
-======= List of translationWords in 2 Kings =======
-
-* [[:en:obe:other:ahaziah]] is found in:
- [[:en:bible:notes:2ki:01:01|01:01]]
-
-* [[:en:obe:kt:god]] is found in:
- [[:en:bible:notes:2ki:19:14|19:14]]
-
-* [[:en:obe:other:jerusalem]] is found in:
- [[:en:bible:notes:2ki:18:01|18:01]]
-
-* [[:en:obe:other:joram]] is found in:
- [[:en:bible:notes:2ki:01:17|01:17]]
-
-* [[:en:obe:kt:lord]] is found in:
- [[:en:bible:notes:2ki:06:04|06:04]]
-
-* [[:en:obe:other:samaria]] is found in:
- [[:en:bible:notes:2ki:15:08|15:08]]
+===== List of translationWords in 2 Kings =====
 
 * [[:en:obe:other:abraham]] is found in:
  [[:en:bible:notes:2ki:13:22|13:22]]
@@ -31,7 +13,7 @@
  [[:en:bible:notes:2ki:15:37|15:37]], [[:en:bible:notes:2ki:16:01|16:01]], [[:en:bible:notes:2ki:16:10|16:10]], [[:en:bible:notes:2ki:16:19|16:19]], [[:en:bible:notes:2ki:17:01|17:01]], [[:en:bible:notes:2ki:18:01|18:01]], [[:en:bible:notes:2ki:20:10|20:10]], [[:en:bible:notes:2ki:23:12|23:12]]
 
 * [[:en:obe:other:ahaziah]] is found in:
- [[:en:bible:notes:2ki:08:22|08:22]], [[:en:bible:notes:2ki:09:21|09:21]], [[:en:bible:notes:2ki:10:12|10:12]], [[:en:bible:notes:2ki:11:01|11:01]], [[:en:bible:notes:2ki:12:17|12:17]], [[:en:bible:notes:2ki:13:01|13:01]]
+ [[:en:bible:notes:2ki:01:01|01:01]], [[:en:bible:notes:2ki:08:22|08:22]], [[:en:bible:notes:2ki:09:21|09:21]], [[:en:bible:notes:2ki:10:12|10:12]], [[:en:bible:notes:2ki:11:01|11:01]], [[:en:bible:notes:2ki:12:17|12:17]], [[:en:bible:notes:2ki:13:01|13:01]]
 
 * [[:en:obe:other:altar]] is found in:
  [[:en:bible:notes:2ki:11:11|11:11]], [[:en:bible:notes:2ki:11:17|11:17]], [[:en:bible:notes:2ki:12:09|12:09]], [[:en:bible:notes:2ki:16:10|16:10]], [[:en:bible:notes:2ki:18:22|18:22]], [[:en:bible:notes:2ki:21:01|21:01]], [[:en:bible:notes:2ki:23:08|23:08]], [[:en:bible:notes:2ki:23:15|23:15]]
@@ -114,6 +96,15 @@
 * [[:en:obe:other:bethshemesh]] is found in:
  [[:en:bible:notes:2ki:14:11|14:11]]
 
+* [[:en:obe:other:biblicaltimeday]] is found in:
+ [[:en:bible:notes:2ki:25:01|25:01]], [[:en:bible:notes:2ki:25:08|25:08]], [[:en:bible:notes:2ki:25:27|25:27]]
+
+* [[:en:obe:other:biblicaltimemonth]] is found in:
+ [[:en:bible:notes:2ki:23:31|23:31]]
+
+* [[:en:obe:other:biblicaltimeyear]] is found in:
+ [[:en:bible:notes:2ki:23:31|23:31]], [[:en:bible:notes:2ki:25:01|25:01]], [[:en:bible:notes:2ki:25:08|25:08]], [[:en:bible:notes:2ki:25:27|25:27]]
+
 * [[:en:obe:kt:blood]] is found in:
  [[:en:bible:notes:2ki:03:21|03:21]], [[:en:bible:notes:2ki:09:07|09:07]], [[:en:bible:notes:2ki:09:25|09:25]], [[:en:bible:notes:2ki:16:13|16:13]], [[:en:bible:notes:2ki:21:16|21:16]], [[:en:bible:notes:2ki:24:03|24:03]]
 
@@ -148,7 +139,7 @@
  [[:en:bible:notes:2ki:08:07|08:07]]
 
 * [[:en:obe:other:captive]] is found in:
- [[:en:bible:notes:2ki:06:22|06:22]], [[:en:bible:notes:2ki:17:07|17:07]], [[:en:bible:notes:2ki:18:11|18:11]], [[:en:bible:notes:2ki:24:13|24:13]]
+ [[:en:bible:notes:2ki:06:22|06:22]], [[:en:bible:notes:2ki:17:07|17:07]], [[:en:bible:notes:2ki:24:13|24:13]]
 
 * [[:en:obe:other:carmel]] is found in:
  [[:en:bible:notes:2ki:02:23|02:23]], [[:en:bible:notes:2ki:04:25|04:25]]
@@ -171,6 +162,9 @@
 * [[:en:obe:other:cherubim]] is found in:
  [[:en:bible:notes:2ki:19:14|19:14]]
 
+* [[:en:obe:other:chiefpriests]] is found in:
+ [[:en:bible:notes:2ki:25:18|25:18]]
+
 * [[:en:obe:kt:children]] is found in:
  [[:en:bible:notes:2ki:08:05|08:05]], [[:en:bible:notes:2ki:10:12|10:12]], [[:en:bible:notes:2ki:11:01|11:01]], [[:en:bible:notes:2ki:17:39|17:39]]
 
@@ -181,7 +175,7 @@
  [[:en:bible:notes:2ki:05:08|05:08]]
 
 * [[:en:obe:other:command]] is found in:
- [[:en:bible:notes:2ki:05:13|05:13]], [[:en:bible:notes:2ki:10:04|10:04]], [[:en:bible:notes:2ki:11:04|11:04]], [[:en:bible:notes:2ki:14:06|14:06]], [[:en:bible:notes:2ki:14:23|14:23]], [[:en:bible:notes:2ki:16:15|16:15]], [[:en:bible:notes:2ki:17:13|17:13]], [[:en:bible:notes:2ki:17:19|17:19]], [[:en:bible:notes:2ki:18:06|18:06]], [[:en:bible:notes:2ki:18:11|18:11]], [[:en:bible:notes:2ki:18:36|18:36]], [[:en:bible:notes:2ki:21:04|21:04]], [[:en:bible:notes:2ki:21:07|21:07]], [[:en:bible:notes:2ki:22:11|22:11]], [[:en:bible:notes:2ki:23:03|23:03]], [[:en:bible:notes:2ki:23:21|23:21]], [[:en:bible:notes:2ki:24:03|24:03]]
+ [[:en:bible:notes:2ki:05:13|05:13]], [[:en:bible:notes:2ki:10:04|10:04]], [[:en:bible:notes:2ki:11:04|11:04]], [[:en:bible:notes:2ki:14:06|14:06]], [[:en:bible:notes:2ki:14:23|14:23]], [[:en:bible:notes:2ki:16:15|16:15]], [[:en:bible:notes:2ki:17:13|17:13]], [[:en:bible:notes:2ki:17:19|17:19]], [[:en:bible:notes:2ki:18:06|18:06]], [[:en:bible:notes:2ki:18:11|18:11]], [[:en:bible:notes:2ki:18:36|18:36]], [[:en:bible:notes:2ki:21:04|21:04]], [[:en:bible:notes:2ki:21:07|21:07]], [[:en:bible:notes:2ki:22:11|22:11]], [[:en:bible:notes:2ki:23:03|23:03]], [[:en:bible:notes:2ki:23:21|23:21]]
 
 * [[:en:obe:other:commander]] is found in:
  [[:en:bible:notes:2ki:04:12|04:12]], [[:en:bible:notes:2ki:05:01|05:01]], [[:en:bible:notes:2ki:08:20|08:20]], [[:en:bible:notes:2ki:11:04|11:04]], [[:en:bible:notes:2ki:25:08|25:08]], [[:en:bible:notes:2ki:25:18|25:18]]
@@ -195,14 +189,14 @@
 * [[:en:obe:other:confirm]] is found in:
  [[:en:bible:notes:2ki:23:03|23:03]], [[:en:bible:notes:2ki:23:24|23:24]]
 
-* [[:en:obe:kt:consecrate]] is found in:
- [[:en:bible:notes:2ki:12:17|12:17]]
-
 * [[:en:obe:other:consume]] is found in:
  [[:en:bible:notes:2ki:01:09|01:09]], [[:en:bible:notes:2ki:13:17|13:17]]
 
 * [[:en:obe:kt:corrupt]] is found in:
  [[:en:bible:notes:2ki:23:12|23:12]]
+
+* [[:en:obe:other:courage]] is found in:
+ [[:en:bible:notes:2ki:18:19|18:19]]
 
 * [[:en:obe:other:courtyard]] is found in:
  [[:en:bible:notes:2ki:20:04|20:04]], [[:en:bible:notes:2ki:21:04|21:04]], [[:en:bible:notes:2ki:23:12|23:12]]
@@ -394,7 +388,7 @@
  [[:en:bible:notes:2ki:02:01|02:01]]
 
 * [[:en:obe:kt:god]] is found in:
- [[:en:bible:notes:2ki:01:03|01:03]], [[:en:bible:notes:2ki:02:13|02:13]], [[:en:bible:notes:2ki:04:07|04:07]], [[:en:bible:notes:2ki:04:14|04:14]], [[:en:bible:notes:2ki:05:07|05:07]], [[:en:bible:notes:2ki:05:08|05:08]], [[:en:bible:notes:2ki:05:15|05:15]], [[:en:bible:notes:2ki:06:06|06:06]], [[:en:bible:notes:2ki:06:30|06:30]], [[:en:bible:notes:2ki:07:01|07:01]], [[:en:bible:notes:2ki:08:01|08:01]], [[:en:bible:notes:2ki:09:04|09:04]], [[:en:bible:notes:2ki:10:29|10:29]], [[:en:bible:notes:2ki:13:17|13:17]], [[:en:bible:notes:2ki:14:23|14:23]], [[:en:bible:notes:2ki:16:01|16:01]], [[:en:bible:notes:2ki:16:15|16:15]], [[:en:bible:notes:2ki:17:07|17:07]], [[:en:bible:notes:2ki:17:14|17:14]], [[:en:bible:notes:2ki:17:39|17:39]], [[:en:bible:notes:2ki:18:04|18:04]], [[:en:bible:notes:2ki:18:22|18:22]], [[:en:bible:notes:2ki:19:03|19:03]], [[:en:bible:notes:2ki:19:16|19:16]], [[:en:bible:notes:2ki:20:04|20:04]], [[:en:bible:notes:2ki:21:04|21:04]], [[:en:bible:notes:2ki:21:21|21:21]], [[:en:bible:notes:2ki:22:14|22:14]], [[:en:bible:notes:2ki:23:15|23:15]], [[:en:bible:notes:2ki:23:21|23:21]]
+ [[:en:bible:notes:2ki:01:03|01:03]], [[:en:bible:notes:2ki:02:13|02:13]], [[:en:bible:notes:2ki:04:07|04:07]], [[:en:bible:notes:2ki:04:14|04:14]], [[:en:bible:notes:2ki:05:07|05:07]], [[:en:bible:notes:2ki:05:08|05:08]], [[:en:bible:notes:2ki:05:15|05:15]], [[:en:bible:notes:2ki:06:06|06:06]], [[:en:bible:notes:2ki:06:30|06:30]], [[:en:bible:notes:2ki:07:01|07:01]], [[:en:bible:notes:2ki:08:01|08:01]], [[:en:bible:notes:2ki:09:04|09:04]], [[:en:bible:notes:2ki:10:29|10:29]], [[:en:bible:notes:2ki:13:17|13:17]], [[:en:bible:notes:2ki:14:23|14:23]], [[:en:bible:notes:2ki:16:01|16:01]], [[:en:bible:notes:2ki:16:15|16:15]], [[:en:bible:notes:2ki:17:07|17:07]], [[:en:bible:notes:2ki:17:14|17:14]], [[:en:bible:notes:2ki:17:39|17:39]], [[:en:bible:notes:2ki:18:04|18:04]], [[:en:bible:notes:2ki:18:22|18:22]], [[:en:bible:notes:2ki:19:03|19:03]], [[:en:bible:notes:2ki:19:14|19:14]], [[:en:bible:notes:2ki:19:16|19:16]], [[:en:bible:notes:2ki:20:04|20:04]], [[:en:bible:notes:2ki:21:04|21:04]], [[:en:bible:notes:2ki:21:21|21:21]], [[:en:bible:notes:2ki:22:14|22:14]], [[:en:bible:notes:2ki:23:15|23:15]], [[:en:bible:notes:2ki:23:21|23:21]]
 
 * [[:en:obe:other:gold]] is found in:
  [[:en:bible:notes:2ki:07:07|07:07]], [[:en:bible:notes:2ki:10:29|10:29]], [[:en:bible:notes:2ki:12:13|12:13]], [[:en:bible:notes:2ki:14:13|14:13]], [[:en:bible:notes:2ki:16:07|16:07]], [[:en:bible:notes:2ki:18:13|18:13]], [[:en:bible:notes:2ki:20:12|20:12]], [[:en:bible:notes:2ki:23:31|23:31]], [[:en:bible:notes:2ki:24:13|24:13]], [[:en:bible:notes:2ki:25:13|25:13]]
@@ -429,9 +423,6 @@
 * [[:en:obe:kt:harvest]] is found in:
  [[:en:bible:notes:2ki:04:17|04:17]], [[:en:bible:notes:2ki:04:42|04:42]], [[:en:bible:notes:2ki:08:05|08:05]], [[:en:bible:notes:2ki:19:29|19:29]]
 
-* [[:en:obe:other:head]] is found in:
- [[:en:bible:notes:2ki:10:06|10:06]]
-
 * [[:en:obe:other:heal]] is found in:
  [[:en:bible:notes:2ki:02:21|02:21]], [[:en:bible:notes:2ki:05:03|05:03]], [[:en:bible:notes:2ki:08:28|08:28]], [[:en:bible:notes:2ki:09:14|09:14]], [[:en:bible:notes:2ki:20:04|20:04]]
 
@@ -445,10 +436,13 @@
  [[:en:bible:notes:2ki:16:19|16:19]], [[:en:bible:notes:2ki:18:01|18:01]], [[:en:bible:notes:2ki:18:09|18:09]], [[:en:bible:notes:2ki:18:13|18:13]], [[:en:bible:notes:2ki:18:22|18:22]], [[:en:bible:notes:2ki:18:31|18:31]], [[:en:bible:notes:2ki:19:01|19:01]], [[:en:bible:notes:2ki:19:10|19:10]], [[:en:bible:notes:2ki:19:20|19:20]], [[:en:bible:notes:2ki:20:01|20:01]], [[:en:bible:notes:2ki:20:08|20:08]], [[:en:bible:notes:2ki:20:14|20:14]], [[:en:bible:notes:2ki:21:01|21:01]]
 
 * [[:en:obe:other:highplaces]] is found in:
- [[:en:bible:notes:2ki:12:01|12:01]], [[:en:bible:notes:2ki:14:04|14:04]], [[:en:bible:notes:2ki:15:04|15:04]], [[:en:bible:notes:2ki:15:34|15:34]], [[:en:bible:notes:2ki:16:03|16:03]], [[:en:bible:notes:2ki:17:09|17:09]], [[:en:bible:notes:2ki:17:29|17:29]], [[:en:bible:notes:2ki:17:32|17:32]],[[:en:bible:notes:2ki:18:04|18:04]], [[:en:bible:notes:2ki:18:22|18:22]], [[:en:bible:notes:2ki:21:01|21:01]], [[:en:bible:notes:2ki:23:04|23:04]], [[:en:bible:notes:2ki:23:12|23:12]], [[:en:bible:notes:2ki:23:19|23:19]]
+ [[:en:bible:notes:2ki:12:01|12:01]], [[:en:bible:notes:2ki:14:04|14:04]], [[:en:bible:notes:2ki:15:04|15:04]], [[:en:bible:notes:2ki:15:34|15:34]], [[:en:bible:notes:2ki:16:03|16:03]], [[:en:bible:notes:2ki:17:09|17:09]], [[:en:bible:notes:2ki:17:29|17:29]], [[:en:bible:notes:2ki:17:32|17:32]], [[:en:bible:notes:2ki:18:04|18:04]], [[:en:bible:notes:2ki:18:22|18:22]], [[:en:bible:notes:2ki:21:01|21:01]], [[:en:bible:notes:2ki:23:04|23:04]], [[:en:bible:notes:2ki:23:12|23:12]], [[:en:bible:notes:2ki:23:19|23:19]]
 
 * [[:en:obe:kt:highpriest]] is found in:
- [[:en:bible:notes:2ki:12:09|12:09]], [[:en:bible:notes:2ki:22:03|22:03]], [[:en:bible:notes:2ki:23:04|23:04]], [[:en:bible:notes:2ki:25:18|25:18]]
+ [[:en:bible:notes:2ki:12:09|12:09]], [[:en:bible:notes:2ki:22:03|22:03]], [[:en:bible:notes:2ki:23:04|23:04]]
+
+* [[:en:obe:other:hilkiah]] is found in:
+ [[:en:bible:notes:2ki:18:16|18:16]]
 
 * [[:en:obe:other:hittite]] is found in:
  [[:en:bible:notes:2ki:07:05|07:05]]
@@ -508,7 +502,7 @@
  [[:en:bible:notes:2ki:19:01|19:01]], [[:en:bible:notes:2ki:19:20|19:20]], [[:en:bible:notes:2ki:20:01|20:01]], [[:en:bible:notes:2ki:20:08|20:08]], [[:en:bible:notes:2ki:20:14|20:14]]
 
 * [[:en:obe:other:israel]] is found in:
- [[:en:bible:notes:2ki:05:11|05:11]], [[:en:bible:notes:2ki:05:15|05:15]], [[:en:bible:notes:2ki:09:04|09:04]], [[:en:bible:notes:2ki:10:21|10:21]], [[:en:bible:notes:2ki:10:29|10:29]], [[:en:bible:notes:2ki:14:01|14:01]], [[:en:bible:notes:2ki:17:34|17:34]], [[:en:bible:notes:2ki:18:04|18:04]], [[:en:bible:notes:2ki:19:14|19:14]], [[:en:bible:notes:2ki:21:01|21:01]], [[:en:bible:notes:2ki:21:07|21:07]], [[:en:bible:notes:2ki:22:14|22:14]], [[:en:bible:notes:2ki:23:12|23:12]], [[:en:bible:notes:2ki:23:21|23:21]], [[:en:bible:notes:2ki:24:13|24:13]]
+ [[:en:bible:notes:2ki:05:11|05:11]], [[:en:bible:notes:2ki:05:15|05:15]], [[:en:bible:notes:2ki:09:04|09:04]], [[:en:bible:notes:2ki:10:21|10:21]], [[:en:bible:notes:2ki:10:29|10:29]], [[:en:bible:notes:2ki:17:34|17:34]], [[:en:bible:notes:2ki:18:04|18:04]], [[:en:bible:notes:2ki:19:14|19:14]], [[:en:bible:notes:2ki:21:01|21:01]], [[:en:bible:notes:2ki:21:07|21:07]], [[:en:bible:notes:2ki:22:14|22:14]], [[:en:bible:notes:2ki:23:12|23:12]], [[:en:bible:notes:2ki:23:21|23:21]], [[:en:bible:notes:2ki:24:13|24:13]]
 
 * [[:en:obe:other:jacob]] is found in:
  [[:en:bible:notes:2ki:13:22|13:22]], [[:en:bible:notes:2ki:17:34|17:34]]
@@ -516,11 +510,14 @@
 * [[:en:obe:other:jehoiachin]] is found in:
  [[:en:bible:notes:2ki:24:15|24:15]], [[:en:bible:notes:2ki:25:27|25:27]]
 
+* [[:en:obe:other:jehoiada]] is found in:
+ [[:en:bible:notes:2ki:11:04|11:04]], [[:en:bible:notes:2ki:12:01|12:01]]
+
 * [[:en:obe:other:jehoiakim]] is found in:
  [[:en:bible:notes:2ki:23:34|23:34]], [[:en:bible:notes:2ki:24:01|24:01]], [[:en:bible:notes:2ki:24:18|24:18]]
 
 * [[:en:obe:other:jehoram]] is found in:
- [[:en:bible:notes:2ki:11:01|11:01]], [[:en:bible:notes:2ki:12:17|12:17]]
+ [[:en:bible:notes:2ki:01:17|01:17]], [[:en:bible:notes:2ki:11:01|11:01]], [[:en:bible:notes:2ki:12:17|12:17]]
 
 * [[:en:obe:other:jehoshaphat]] is found in:
  [[:en:bible:notes:2ki:01:17|01:17]], [[:en:bible:notes:2ki:03:01|03:01]], [[:en:bible:notes:2ki:08:16|08:16]], [[:en:bible:notes:2ki:09:01|09:01]], [[:en:bible:notes:2ki:12:17|12:17]]
@@ -535,7 +532,7 @@
  [[:en:bible:notes:2ki:03:01|03:01]], [[:en:bible:notes:2ki:09:09|09:09]], [[:en:bible:notes:2ki:10:29|10:29]], [[:en:bible:notes:2ki:13:01|13:01]], [[:en:bible:notes:2ki:13:06|13:06]], [[:en:bible:notes:2ki:13:10|13:10]], [[:en:bible:notes:2ki:13:12|13:12]], [[:en:bible:notes:2ki:14:15|14:15]], [[:en:bible:notes:2ki:14:23|14:23]], [[:en:bible:notes:2ki:15:01|15:01]], [[:en:bible:notes:2ki:15:08|15:08]], [[:en:bible:notes:2ki:15:17|15:17]], [[:en:bible:notes:2ki:15:23|15:23]], [[:en:bible:notes:2ki:15:27|15:27]], [[:en:bible:notes:2ki:17:21|17:21]], [[:en:bible:notes:2ki:23:15|23:15]]
 
 * [[:en:obe:other:jerusalem]] is found in:
- [[:en:bible:notes:2ki:08:16|08:16]], [[:en:bible:notes:2ki:09:27|09:27]], [[:en:bible:notes:2ki:12:01|12:01]], [[:en:bible:notes:2ki:12:17|12:17]], [[:en:bible:notes:2ki:14:01|14:01]], [[:en:bible:notes:2ki:14:13|14:13]], [[:en:bible:notes:2ki:15:01|15:01]], [[:en:bible:notes:2ki:15:32|15:32]], [[:en:bible:notes:2ki:16:01|16:01]], [[:en:bible:notes:2ki:18:16|18:16]], [[:en:bible:notes:2ki:18:33|18:33]], [[:en:bible:notes:2ki:19:10|19:10]], [[:en:bible:notes:2ki:19:20|19:20]], [[:en:bible:notes:2ki:21:01|21:01]], [[:en:bible:notes:2ki:21:10|21:10]], [[:en:bible:notes:2ki:22:01|22:01]], [[:en:bible:notes:2ki:22:14|22:14]], [[:en:bible:notes:2ki:23:01|23:01]], [[:en:bible:notes:2ki:23:19|23:19]], [[:en:bible:notes:2ki:23:31|23:31]], [[:en:bible:notes:2ki:23:36|23:36]], [[:en:bible:notes:2ki:24:03|24:03]], [[:en:bible:notes:2ki:24:08|24:08]], [[:en:bible:notes:2ki:24:18|24:18]], [[:en:bible:notes:2ki:25:01|25:01]], [[:en:bible:notes:2ki:25:08|25:08]]
+ [[:en:bible:notes:2ki:08:16|08:16]], [[:en:bible:notes:2ki:09:27|09:27]], [[:en:bible:notes:2ki:12:01|12:01]], [[:en:bible:notes:2ki:12:17|12:17]], [[:en:bible:notes:2ki:14:01|14:01]], [[:en:bible:notes:2ki:14:13|14:13]], [[:en:bible:notes:2ki:15:01|15:01]], [[:en:bible:notes:2ki:15:32|15:32]], [[:en:bible:notes:2ki:16:01|16:01]], [[:en:bible:notes:2ki:18:01|18:01]], [[:en:bible:notes:2ki:18:16|18:16]], [[:en:bible:notes:2ki:18:33|18:33]], [[:en:bible:notes:2ki:19:10|19:10]], [[:en:bible:notes:2ki:19:20|19:20]], [[:en:bible:notes:2ki:21:01|21:01]], [[:en:bible:notes:2ki:21:10|21:10]], [[:en:bible:notes:2ki:22:01|22:01]], [[:en:bible:notes:2ki:22:14|22:14]], [[:en:bible:notes:2ki:23:01|23:01]], [[:en:bible:notes:2ki:23:19|23:19]], [[:en:bible:notes:2ki:23:31|23:31]], [[:en:bible:notes:2ki:23:36|23:36]], [[:en:bible:notes:2ki:24:03|24:03]], [[:en:bible:notes:2ki:24:08|24:08]], [[:en:bible:notes:2ki:24:18|24:18]], [[:en:bible:notes:2ki:25:01|25:01]], [[:en:bible:notes:2ki:25:08|25:08]]
 
 * [[:en:obe:other:jew]] is found in:
  [[:en:bible:notes:2ki:18:28|18:28]]
@@ -577,7 +574,7 @@
  [[:en:bible:notes:2ki:19:14|19:14]], [[:en:bible:notes:2ki:19:19|19:19]], [[:en:bible:notes:2ki:20:12|20:12]]
 
 * [[:en:obe:other:kingdomofisrael]] is found in:
- [[:en:bible:notes:2ki:01:01|01:01]], [[:en:bible:notes:2ki:02:11|02:11]], [[:en:bible:notes:2ki:03:01|03:01]], [[:en:bible:notes:2ki:03:09|03:09]], [[:en:bible:notes:2ki:03:24|03:24]], [[:en:bible:notes:2ki:05:01|05:01]], [[:en:bible:notes:2ki:05:08|05:08]], [[:en:bible:notes:2ki:06:08|06:08]], [[:en:bible:notes:2ki:06:24|06:24]], [[:en:bible:notes:2ki:07:05|07:05]], [[:en:bible:notes:2ki:07:12|07:12]], [[:en:bible:notes:2ki:08:16|08:16]], [[:en:bible:notes:2ki:08:25|08:25]], [[:en:bible:notes:2ki:09:01|09:01]], [[:en:bible:notes:2ki:09:11|09:11]], [[:en:bible:notes:2ki:10:29|10:29]], [[:en:bible:notes:2ki:13:01|13:01]], [[:en:bible:notes:2ki:13:24|13:24]], [[:en:bible:notes:2ki:14:11|14:11]], [[:en:bible:notes:2ki:15:01|15:01]], [[:en:bible:notes:2ki:15:08|15:08]], [[:en:bible:notes:2ki:15:19|15:19]], [[:en:bible:notes:2ki:15:32|15:32]], [[:en:bible:notes:2ki:16:03|16:03]], [[:en:bible:notes:2ki:17:01|17:01]], [[:en:bible:notes:2ki:17:19|17:19]], [[:en:bible:notes:2ki:17:24|17:24]], [[:en:bible:notes:2ki:18:01|18:01]], [[:en:bible:notes:2ki:18:09|18:09]], [[:en:bible:notes:2ki:21:01|21:01]], [[:en:bible:notes:2ki:23:15|23:15]], [[:en:bible:notes:2ki:23:21|23:21]]
+ [[:en:bible:notes:2ki:01:01|01:01]], [[:en:bible:notes:2ki:02:11|02:11]], [[:en:bible:notes:2ki:03:01|03:01]], [[:en:bible:notes:2ki:03:09|03:09]], [[:en:bible:notes:2ki:03:24|03:24]], [[:en:bible:notes:2ki:05:01|05:01]], [[:en:bible:notes:2ki:05:08|05:08]], [[:en:bible:notes:2ki:06:08|06:08]], [[:en:bible:notes:2ki:06:24|06:24]], [[:en:bible:notes:2ki:07:05|07:05]], [[:en:bible:notes:2ki:07:12|07:12]], [[:en:bible:notes:2ki:08:16|08:16]], [[:en:bible:notes:2ki:08:25|08:25]], [[:en:bible:notes:2ki:09:01|09:01]], [[:en:bible:notes:2ki:09:11|09:11]], [[:en:bible:notes:2ki:10:29|10:29]], [[:en:bible:notes:2ki:13:01|13:01]], [[:en:bible:notes:2ki:13:24|13:24]], [[:en:bible:notes:2ki:14:01|14:01]], [[:en:bible:notes:2ki:14:11|14:11]], [[:en:bible:notes:2ki:15:01|15:01]], [[:en:bible:notes:2ki:15:08|15:08]], [[:en:bible:notes:2ki:15:19|15:19]], [[:en:bible:notes:2ki:15:32|15:32]], [[:en:bible:notes:2ki:16:03|16:03]], [[:en:bible:notes:2ki:17:01|17:01]], [[:en:bible:notes:2ki:17:19|17:19]], [[:en:bible:notes:2ki:17:24|17:24]], [[:en:bible:notes:2ki:18:01|18:01]], [[:en:bible:notes:2ki:18:09|18:09]], [[:en:bible:notes:2ki:21:01|21:01]], [[:en:bible:notes:2ki:23:15|23:15]], [[:en:bible:notes:2ki:23:21|23:21]]
 
 * [[:en:obe:other:kingdomofjudah]] is found in:
  [[:en:bible:notes:2ki:01:17|01:17]], [[:en:bible:notes:2ki:03:01|03:01]], [[:en:bible:notes:2ki:03:09|03:09]], [[:en:bible:notes:2ki:08:16|08:16]], [[:en:bible:notes:2ki:08:25|08:25]], [[:en:bible:notes:2ki:09:14|09:14]], [[:en:bible:notes:2ki:09:29|09:29]], [[:en:bible:notes:2ki:10:12|10:12]], [[:en:bible:notes:2ki:12:17|12:17]], [[:en:bible:notes:2ki:13:01|13:01]], [[:en:bible:notes:2ki:13:10|13:10]], [[:en:bible:notes:2ki:14:01|14:01]], [[:en:bible:notes:2ki:14:11|14:11]], [[:en:bible:notes:2ki:15:01|15:01]], [[:en:bible:notes:2ki:15:08|15:08]], [[:en:bible:notes:2ki:15:32|15:32]], [[:en:bible:notes:2ki:16:01|16:01]], [[:en:bible:notes:2ki:17:01|17:01]], [[:en:bible:notes:2ki:17:16|17:16]], [[:en:bible:notes:2ki:18:01|18:01]], [[:en:bible:notes:2ki:18:13|18:13]], [[:en:bible:notes:2ki:18:22|18:22]], [[:en:bible:notes:2ki:19:10|19:10]], [[:en:bible:notes:2ki:19:29|19:29]], [[:en:bible:notes:2ki:20:19|20:19]], [[:en:bible:notes:2ki:21:10|21:10]], [[:en:bible:notes:2ki:21:24|21:24]], [[:en:bible:notes:2ki:22:11|22:11]], [[:en:bible:notes:2ki:23:01|23:01]], [[:en:bible:notes:2ki:23:08|23:08]], [[:en:bible:notes:2ki:23:21|23:21]], [[:en:bible:notes:2ki:23:28|23:28]], [[:en:bible:notes:2ki:24:01|24:01]], [[:en:bible:notes:2ki:24:18|24:18]], [[:en:bible:notes:2ki:25:20|25:20]], [[:en:bible:notes:2ki:25:27|25:27]]
@@ -610,7 +607,10 @@
  [[:en:bible:notes:2ki:03:15|03:15]]
 
 * [[:en:obe:kt:lord]] is found in:
- [[:en:bible:notes:2ki:02:03|02:03]], [[:en:bible:notes:2ki:02:15|02:15]], [[:en:bible:notes:2ki:04:14|04:14]], [[:en:bible:notes:2ki:05:01|05:01]], [[:en:bible:notes:2ki:05:20|05:20]], [[:en:bible:notes:2ki:06:12|06:12]], [[:en:bible:notes:2ki:06:24|06:24]], [[:en:bible:notes:2ki:06:32|06:32]], [[:en:bible:notes:2ki:07:05|07:05]], [[:en:bible:notes:2ki:08:05|08:05]], [[:en:bible:notes:2ki:08:13|08:13]], [[:en:bible:notes:2ki:09:07|09:07]], [[:en:bible:notes:2ki:09:30|09:30]], [[:en:bible:notes:2ki:10:01|10:01]], [[:en:bible:notes:2ki:18:22|18:22]], [[:en:bible:notes:2ki:19:03|19:03]], [[:en:bible:notes:2ki:19:23|19:23]]
+ [[:en:bible:notes:2ki:02:03|02:03]], [[:en:bible:notes:2ki:02:15|02:15]], [[:en:bible:notes:2ki:04:14|04:14]], [[:en:bible:notes:2ki:05:01|05:01]], [[:en:bible:notes:2ki:05:20|05:20]], [[:en:bible:notes:2ki:06:04|06:04]], [[:en:bible:notes:2ki:06:12|06:12]], [[:en:bible:notes:2ki:06:24|06:24]], [[:en:bible:notes:2ki:06:32|06:32]], [[:en:bible:notes:2ki:08:05|08:05]], [[:en:bible:notes:2ki:08:13|08:13]], [[:en:bible:notes:2ki:09:07|09:07]], [[:en:bible:notes:2ki:09:30|09:30]], [[:en:bible:notes:2ki:10:01|10:01]], [[:en:bible:notes:2ki:18:22|18:22]], [[:en:bible:notes:2ki:19:03|19:03]]
+
+* [[:en:obe:kt:lordgod]] is found in:
+ [[:en:bible:notes:2ki:07:05|07:05]], [[:en:bible:notes:2ki:19:23|19:23]]
 
 * [[:en:obe:other:manasseh]] is found in:
  [[:en:bible:notes:2ki:10:32|10:32]], [[:en:bible:notes:2ki:20:19|20:19]], [[:en:bible:notes:2ki:21:01|21:01]], [[:en:bible:notes:2ki:21:10|21:10]], [[:en:bible:notes:2ki:21:19|21:19]], [[:en:bible:notes:2ki:23:12|23:12]], [[:en:bible:notes:2ki:23:26|23:26]], [[:en:bible:notes:2ki:24:03|24:03]]
@@ -692,9 +692,6 @@
 
 * [[:en:obe:other:palace]] is found in:
  [[:en:bible:notes:2ki:09:33|09:33]], [[:en:bible:notes:2ki:15:25|15:25]], [[:en:bible:notes:2ki:16:07|16:07]], [[:en:bible:notes:2ki:18:13|18:13]], [[:en:bible:notes:2ki:20:12|20:12]], [[:en:bible:notes:2ki:24:13|24:13]], [[:en:bible:notes:2ki:25:08|25:08]]
-
-* [[:en:obe:other:palm]] is found in:
- [[:en:bible:notes:2ki:09:35|09:35]]
 
 * [[:en:obe:other:pardon]] is found in:
  [[:en:bible:notes:2ki:05:17|05:17]], [[:en:bible:notes:2ki:24:03|24:03]]
@@ -832,16 +829,13 @@
  [[:en:bible:notes:2ki:06:30|06:30]], [[:en:bible:notes:2ki:19:01|19:01]]
 
 * [[:en:obe:other:sacred]] is found in:
- [[:en:bible:notes:2ki:03:01|03:01]], [[:en:bible:notes:2ki:10:25|10:25]], [[:en:bible:notes:2ki:17:09|17:09]], [[:en:bible:notes:2ki:18:04|18:04]], [[:en:bible:notes:2ki:23:12|23:12]]
+ [[:en:bible:notes:2ki:03:01|03:01]]
 
 * [[:en:obe:other:sacrifice]] is found in:
- [[:en:bible:notes:2ki:03:20|03:20]], [[:en:bible:notes:2ki:03:26|03:26]], [[:en:bible:notes:2ki:05:17|05:17]], [[:en:bible:notes:2ki:10:18|10:18]], [[:en:bible:notes:2ki:12:01|12:01]], [[:en:bible:notes:2ki:14:04|14:04]], [[:en:bible:notes:2ki:15:04|15:04]], [[:en:bible:notes:2ki:15:34|15:34]], [[:en:bible:notes:2ki:16:03|16:03]], [[:en:bible:notes:2ki:16:10|16:10]], [[:en:bible:notes:2ki:17:16|17:16]], [[:en:bible:notes:2ki:17:32|17:32]], [[:en:bible:notes:2ki:17:34|17:34]], [[:en:bible:notes:2ki:21:04|21:04]], [[:en:bible:notes:2ki:23:10|23:10]]
+ [[:en:bible:notes:2ki:03:20|03:20]], [[:en:bible:notes:2ki:03:26|03:26]], [[:en:bible:notes:2ki:05:17|05:17]], [[:en:bible:notes:2ki:10:18|10:18]], [[:en:bible:notes:2ki:12:01|12:01]], [[:en:bible:notes:2ki:14:04|14:04]], [[:en:bible:notes:2ki:15:04|15:04]], [[:en:bible:notes:2ki:15:34|15:34]], [[:en:bible:notes:2ki:16:03|16:03]], [[:en:bible:notes:2ki:16:10|16:10]], [[:en:bible:notes:2ki:17:16|17:16]], [[:en:bible:notes:2ki:17:32|17:32]], [[:en:bible:notes:2ki:17:34|17:34]]
 
 * [[:en:obe:other:samaria]] is found in:
- [[:en:bible:notes:2ki:01:01|01:01]], [[:en:bible:notes:2ki:02:23|02:23]], [[:en:bible:notes:2ki:03:01|03:01]], [[:en:bible:notes:2ki:05:03|05:03]], [[:en:bible:notes:2ki:06:17|06:17]], [[:en:bible:notes:2ki:06:24|06:24]], [[:en:bible:notes:2ki:07:01|07:01]], [[:en:bible:notes:2ki:07:18|07:18]], [[:en:bible:notes:2ki:10:01|10:01]], [[:en:bible:notes:2ki:10:12|10:12]], [[:en:bible:notes:2ki:13:01|13:01]], [[:en:bible:notes:2ki:14:13|14:13]], [[:en:bible:notes:2ki:14:15|14:15]], [[:en:bible:notes:2ki:14:23|14:23]], [[:en:bible:notes:2ki:15:17|15:17]], [[:en:bible:notes:2ki:15:25|15:25]], [[:en:bible:notes:2ki:17:01|17:01]], [[:en:bible:notes:2ki:17:24|17:24]], [[:en:bible:notes:2ki:18:09|18:09]], [[:en:bible:notes:2ki:18:33|18:33]], [[:en:bible:notes:2ki:21:13|21:13]], [[:en:bible:notes:2ki:23:17|23:17]]
-
-* [[:en:obe:kt:sanctify]] is found in:
- [[:en:bible:notes:2ki:10:18|10:18]]
+ [[:en:bible:notes:2ki:01:01|01:01]], [[:en:bible:notes:2ki:02:23|02:23]], [[:en:bible:notes:2ki:03:01|03:01]], [[:en:bible:notes:2ki:05:03|05:03]], [[:en:bible:notes:2ki:06:17|06:17]], [[:en:bible:notes:2ki:06:24|06:24]], [[:en:bible:notes:2ki:07:01|07:01]], [[:en:bible:notes:2ki:07:18|07:18]], [[:en:bible:notes:2ki:10:01|10:01]], [[:en:bible:notes:2ki:10:12|10:12]], [[:en:bible:notes:2ki:13:01|13:01]], [[:en:bible:notes:2ki:14:13|14:13]], [[:en:bible:notes:2ki:14:15|14:15]], [[:en:bible:notes:2ki:14:23|14:23]], [[:en:bible:notes:2ki:15:08|15:08]], [[:en:bible:notes:2ki:15:17|15:17]], [[:en:bible:notes:2ki:15:25|15:25]], [[:en:bible:notes:2ki:17:01|17:01]], [[:en:bible:notes:2ki:17:24|17:24]], [[:en:bible:notes:2ki:18:09|18:09]], [[:en:bible:notes:2ki:18:33|18:33]], [[:en:bible:notes:2ki:21:13|21:13]], [[:en:bible:notes:2ki:23:17|23:17]]
 
 * [[:en:obe:kt:save]] is found in:
  [[:en:bible:notes:2ki:06:10|06:10]], [[:en:bible:notes:2ki:14:26|14:26]], [[:en:bible:notes:2ki:16:07|16:07]], [[:en:bible:notes:2ki:18:33|18:33]], [[:en:bible:notes:2ki:19:19|19:19]]
@@ -863,6 +857,9 @@
 
 * [[:en:obe:other:serve]] is found in:
  [[:en:bible:notes:2ki:10:18|10:18]], [[:en:bible:notes:2ki:11:07|11:07]], [[:en:bible:notes:2ki:11:09|11:09]], [[:en:bible:notes:2ki:18:06|18:06]], [[:en:bible:notes:2ki:23:08|23:08]], [[:en:bible:notes:2ki:25:13|25:13]], [[:en:bible:notes:2ki:25:22|25:22]]
+
+* [[:en:obe:kt:setapart]] is found in:
+ [[:en:bible:notes:2ki:12:17|12:17]]
 
 * [[:en:obe:other:shadow]] is found in:
  [[:en:bible:notes:2ki:20:08|20:08]]
@@ -946,7 +943,7 @@
  [[:en:bible:notes:2ki:06:22|06:22]], [[:en:bible:notes:2ki:08:10|08:10]], [[:en:bible:notes:2ki:10:25|10:25]], [[:en:bible:notes:2ki:11:15|11:15]], [[:en:bible:notes:2ki:19:05|19:05]], [[:en:bible:notes:2ki:19:35|19:35]]
 
 * [[:en:obe:kt:temple]] is found in:
- [[:en:bible:notes:2ki:10:21|10:21]], [[:en:bible:notes:2ki:11:04|11:04]], [[:en:bible:notes:2ki:11:11|11:11]], [[:en:bible:notes:2ki:11:17|11:17]], [[:en:bible:notes:2ki:12:04|12:04]], [[:en:bible:notes:2ki:12:09|12:09]], [[:en:bible:notes:2ki:16:13|16:13]], [[:en:bible:notes:2ki:16:17|16:17]], [[:en:bible:notes:2ki:17:32|17:32]], [[:en:bible:notes:2ki:18:16|18:16]], [[:en:bible:notes:2ki:20:08|20:08]], [[:en:bible:notes:2ki:22:03|22:03]], [[:en:bible:notes:2ki:23:04|23:04]], [[:en:bible:notes:2ki:23:06|23:06]], [[:en:bible:notes:2ki:23:12|23:12]], [[:en:bible:notes:2ki:23:19|23:19]], [[:en:bible:notes:2ki:24:13|24:13]], [[:en:bible:notes:2ki:25:13|25:13]]
+ [[:en:bible:notes:2ki:10:21|10:21]], [[:en:bible:notes:2ki:11:04|11:04]], [[:en:bible:notes:2ki:11:11|11:11]], [[:en:bible:notes:2ki:11:17|11:17]], [[:en:bible:notes:2ki:12:04|12:04]], [[:en:bible:notes:2ki:12:09|12:09]], [[:en:bible:notes:2ki:16:13|16:13]], [[:en:bible:notes:2ki:16:17|16:17]], [[:en:bible:notes:2ki:17:32|17:32]], [[:en:bible:notes:2ki:18:16|18:16]], [[:en:bible:notes:2ki:20:08|20:08]], [[:en:bible:notes:2ki:22:03|22:03]], [[:en:bible:notes:2ki:23:04|23:04]], [[:en:bible:notes:2ki:23:06|23:06]], [[:en:bible:notes:2ki:23:12|23:12]], [[:en:bible:notes:2ki:24:13|24:13]], [[:en:bible:notes:2ki:25:13|25:13]]
 
 * [[:en:obe:other:tent]] is found in:
  [[:en:bible:notes:2ki:07:07|07:07]]
@@ -961,7 +958,7 @@
  [[:en:bible:notes:2ki:10:01|10:01]], [[:en:bible:notes:2ki:11:19|11:19]], [[:en:bible:notes:2ki:13:12|13:12]], [[:en:bible:notes:2ki:15:10|15:10]]
 
 * [[:en:obe:other:tomb]] is found in:
- [[:en:bible:notes:2ki:13:20|13:20]], [[:en:bible:notes:2ki:21:24|21:24]], [[:en:bible:notes:2ki:22:20|22:20]], [[:en:bible:notes:2ki:23:06|23:06]], [[:en:bible:notes:2ki:23:15|23:15]], [[:en:bible:notes:2ki:23:28|23:28]]
+ [[:en:bible:notes:2ki:09:27|09:27]], [[:en:bible:notes:2ki:13:20|13:20]], [[:en:bible:notes:2ki:21:24|21:24]], [[:en:bible:notes:2ki:22:20|22:20]], [[:en:bible:notes:2ki:23:06|23:06]], [[:en:bible:notes:2ki:23:15|23:15]], [[:en:bible:notes:2ki:23:28|23:28]]
 
 * [[:en:obe:kt:transgression]] is found in:
  [[:en:bible:notes:2ki:18:11|18:11]]
@@ -1006,7 +1003,7 @@
  [[:en:bible:notes:2ki:10:06|10:06]], [[:en:bible:notes:2ki:18:11|18:11]], [[:en:bible:notes:2ki:19:20|19:20]]
 
 * [[:en:obe:kt:walk]] is found in:
- [[:en:bible:notes:2ki:08:18|08:18]], [[:en:bible:notes:2ki:08:25|08:25]], [[:en:bible:notes:2ki:10:29|10:29]], [[:en:bible:notes:2ki:13:06|13:06]], [[:en:bible:notes:2ki:16:03|16:03]], [[:en:bible:notes:2ki:17:07|17:07]], [[:en:bible:notes:2ki:20:01|20:01]], [[:en:bible:notes:2ki:21:21|21:21]], [[:en:bible:notes:2ki:22:01|22:01]], [[:en:bible:notes:2ki:23:03|23:03]]
+ [[:en:bible:notes:2ki:08:18|08:18]], [[:en:bible:notes:2ki:08:25|08:25]], [[:en:bible:notes:2ki:10:29|10:29]], [[:en:bible:notes:2ki:16:03|16:03]], [[:en:bible:notes:2ki:17:07|17:07]], [[:en:bible:notes:2ki:20:01|20:01]], [[:en:bible:notes:2ki:21:21|21:21]], [[:en:bible:notes:2ki:22:01|22:01]], [[:en:bible:notes:2ki:23:03|23:03]]
 
 * [[:en:obe:other:warrior]] is found in:
  [[:en:bible:notes:2ki:25:18|25:18]]

@@ -20,7 +20,6 @@
 <usfm>
 \v 1 God, protect me
 \q because I go to you to keep me safe!
-\b
 \q1
 \v 2 I said to Yahweh, "You are my Lord;
 \q all the good things that I have come from you."
@@ -36,9 +35,8 @@
 
 <usfm>
 \c 16
-\p
+\m
 \d A michtam of David.
-\b
 \q
 \v 1 Protect me, God, for I take refuge in you.
 \q
@@ -61,7 +59,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A michtam of David** - The meaning of the word "michtam" is uncertain. You may use the word "psalm" instead. This can be written as: "This is a psalm that David wrote."
   * **take refuge in you** - Going to Yahweh for protection is spoken of as taking refuge in him. AT: "go to you for protection" (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -75,6 +73,6 @@
 
 **[[:en:bible:notes:psa:015:004|<<]] | [[:en:bible:notes:psa:016:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1 noble}}
+~~DISCUSSION~~{{tag>publish p2pass book1 noble}}
 
 ~~NOCACHE~~

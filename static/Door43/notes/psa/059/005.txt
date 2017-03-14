@@ -18,7 +18,7 @@
 \q2 arise and punish the people of all the nations who do not honor you;
 \q2 do not act mercifully toward those wicked people who have acted treacherously toward us.
 
-\b
+
 
 \q1
 </usfm>
@@ -29,7 +29,7 @@
 \q
 \v 5 You, Yahweh God of hosts, the God of Israel,
 \q arise and punish all the nations;
-\q do not be merciful to any wicked transgressors. 
+\q do not be merciful to any wicked transgressors.
 \qs Selah\qs*
 </usfm>
 
@@ -46,8 +46,9 @@
   * [[:en:obe:other:selah]]
 ===== translationNotes: =====
 
-  * **all the nations** - The word "nations" here represents the people of the nations that do not honor God. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
   * **arise** - Deciding to do something and beginning to do it is spoken of as getting up. AT: "do something" or "take action" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **all the nations** - The word "nations" here represents the people of the nations that do not honor God. AT: "the people of all the nations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -55,6 +56,6 @@
   * [[:en:bible:questions:comprehension:psa:059]]
 **[[:en:bible:notes:psa:059:003|<<]] | [[:en:bible:notes:psa:059:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

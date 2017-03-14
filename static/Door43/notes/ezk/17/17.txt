@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 And Pharaoh with his mighty army and assembling of many men for war will not protect him in battle, when the Babylonian army builds siege mounds and siege walls to destroy many lives.
+\v 17 Pharaoh with his mighty army and assembling of many men for war will not protect him in battle, when the Babylonian army builds siege mounds and siege walls to destroy many lives.
 \v 18 For the king despised his oath by breaking the covenant. Behold, he reached out with his hand to make a promise and yet he did all these things. He will not escape.
 </usfm>
 
@@ -43,10 +43,13 @@
   * **General Information:** - Yahweh speaking about the king of Jerusalem.
  
   * **mighty army and assembling of many men for war** - These two phrases mean basically the same thing and emphasize how large and strong Pharaoh's army is. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **assembling of many men for war** - The word "assembling" can be translated with a verbal phrase. AT: "many men whom he has assembled for war" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **will not protect him** - Here the word "him" refers to the king of Judah.
   * **siege walls** - this refers to a tower with ladders that can be placed next to a wall and allow soldiers to get over the wall and into the city.
-  * **Behold** - "Behold" adds emphasis to what follows. AT: "Indeed."
-  * **reached out with his hand to promise** - taking hold of another person's hand as a sign of friendship and agreement. 
+  * **to destroy many lives** - "to kill many people"
+  * **Behold** - "Indeed." The word "Behold" adds emphasis to what follows. 
+  * **reached out with his hand to make a promise** - This refers to taking hold of another person's hand as a sign of friendship and agreement. Here it represents the covenant oath that he made with the king of Babylon. (See: [[:en:ta:vol2:translate:translate_symaction]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -54,6 +57,6 @@
   * [[:en:bible:questions:comprehension:ezk:17]]
 **[[:en:bible:notes:ezk:17:15|<<]] | [[:en:bible:notes:ezk:17:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

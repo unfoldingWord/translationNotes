@@ -20,7 +20,7 @@
 \q1
 \v 21 Do not allow your oppressed people to be disgraced;
 \q2 help those poor and needy people in order that they will again praise you.
-\b
+
 
 
 \q1
@@ -49,12 +49,12 @@
 
   * **General Information:** - Asaph continues his lament to Yahweh.
 
-  * **Call to mind** - "Pay attention to." See how this is translated in [[:en:bible:notes:psa:074:001|74:2]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the dark regions of the earth are full of places of violence** - Asaph speaks of "regions" as if they were containers in which one could put "places of violence." AT: "violent people do evil deeds wherever they can in dark places on the earth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the dark regions of the earth** - The word "dark" is probably a metaphor for a place where bad things happen or for the lands to which the Israelites had been sent in exile, but these words should be translated literally if possible. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the dark regions of the land are full of places of violence** - Asaph speaks of "regions" as if they were containers in which one could put "places of violence." AT: "violent people do evil deeds in dark places in the land wherever they can" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the dark regions of the land** - The word "dark" is probably a metaphor for a place where bad things happen or for the lands to which the Israelites had been sent in exile, but these words should be translated literally if possible. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Do not let the oppressed be turned back in shame** - "Do not let wicked people defeat the oppressed and make them ashamed"
+  * **the oppressed** - These are people who are treated cruelly by powerful people.
   * **the poor and oppressed** - The words "poor" and "oppressed" mean basically the same thing and emphasize that Yahweh saves many who need his help. See how these words are translated in [[:en:bible:notes:psa:035:009|35:10]]. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **oppressed** - those to whom powerful people are cruel
+  
 
 
 ===== Links: =====
@@ -64,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:074]]
 **[[:en:bible:notes:psa:074:018|<<]] | [[:en:bible:notes:psa:074:022|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

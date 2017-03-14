@@ -10,8 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 Bezalel and Oholiab will take up this work along with all the other gifted men to whom Yahweh had given skills and the understanding to do all the work needed to build up the sacred tent. These men followed all the instructions that Yahweh gave them. 
-
+\v 1 Bezalel and Oholiab will take up this work along with all the other gifted men to whom Yahweh had given skills and the understanding to do all the work needed to build up the sacred tent. These men followed all the instructions that Yahweh gave them.
 
 \p
 </usfm>
@@ -21,7 +20,7 @@
 <usfm>
 \c 36
 \p
-\v 1 So Bezalel and Oholiab will work, as well as every who was wise of heart, in whom Yahweh has put skill and understanding to know how to build the holy place, following the instructions that he has given you to do."
+\v 1 So Bezalel and Oholiab and every skilled person to whom Yahweh has given skill and ability to know how to do any work in the construction of the holy place are to do the work according to all that Yahweh has commanded."
 </usfm>
 
 ===== translationWords: =====
@@ -40,8 +39,8 @@
 
   * **Bezalel** - This is the name of a man. See how you translated this in [[:en:bible:notes:exo:31:01|31:1-2]]. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Oholiab** - This is the name of a man. See how you translated this in [[:en:bible:notes:exo:31:06|31:6]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **every who was wise of heart** - Here "wise in heart" refers to the person who is wise. AT: "every wise person" or "every person who has wisdom" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **in whom Yahweh has put skill and understanding** - Here skill and understanding are spoken of as if they are something that Yahweh can place inside a person. AT: "who Yahweh has given skill and understanding" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **to whom Yahweh has given skill and ability** - Here skill and ability are spoken of as if they are something that Yahweh can place inside a person. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **according to all that Yahweh has commanded** - "just as Yahweh has commanded"
 ===== Links: =====
 
   * [[:en:bible:notes:exo:00:intro]]
@@ -49,6 +48,6 @@
   * [[:en:bible:questions:comprehension:exo:36]]
 **[[:en:bible:notes:exo:35:34|<<]] | [[:en:bible:notes:exo:36:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

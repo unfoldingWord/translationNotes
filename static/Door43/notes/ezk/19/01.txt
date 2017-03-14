@@ -43,12 +43,12 @@
 <usfm>
 \c 19
 \p
-\v 1 "And you, take up a lamentation against the leaders of Israel 
-\v 2 and say, 
-\q 'Who was your mother? A lioness, she lived with a lion's son; 
+\v 1 "Now you, take up a lamentation against the leaders of Israel
+\v 2 and say,
+\q 'Who was your mother? A lioness, she lived with a lion's son;
 \q in the midst of young lions, she nurtured her cubs.
 \q
-\v 3 And she raised up one of her cubs to become a young lion who learned to tear his victims. He devoured men.
+\v 3 She is the one who raised up one of her cubs to become a young lion, a lion who learned to tear apart his victims, and then he devoured men.
 \q
 \v 4 Then the nations heard about him. He was caught in their trap, and they brought him with hooks to the land of Egypt.
 </usfm>
@@ -65,15 +65,18 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh tells Ezekiel to speak to the people of Israel. He tells a story where the nation of Israel is a lioness and some of the past kings in the kingdom of Judah are her cubs.
+  * **General Information:** - Yahweh tells Ezekiel to speak to the people of Israel. He tells a story where the nation of Israel is a lioness and some of the past kings in the kingdom of Judah are her cubs. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
+  * **take up a lamentation** - This idiom means to sing a lamentation. AT: "sing a lamentation" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Who was your mother?** - Yahweh asks this ask a leading question in order to introduce the answer. AT: "This is who your mother is." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **He was caught in their trap** - This can be stated in active form. AT: "They caught him in their trap" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
   * [[:en:bible:notes:ezk:00:intro]]
   * [[:en:bible:notes:ezk:19:00]]
   * [[:en:bible:questions:comprehension:ezk:19]]
 **[[:en:bible:notes:ezk:18:31|<<]] | [[:en:bible:notes:ezk:19:05|>>]]**
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 ~~NOCACHE~~
 
 ~~DISCUSSION~~

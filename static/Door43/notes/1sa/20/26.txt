@@ -25,7 +25,7 @@
 
 <usfm>
 \v 26 Yet Saul did not say anything that day, because he thought, "Something has happened to him. He is not clean; surely he is not clean."
-\v 27 But on the second day, the day after the new moon, David's place was empty. Saul said to Jonathan his son, "Why has the son of Jesse not come to the meal, either yesterday or today?"
+\v 27 But on the second day, the day after the new moon, David's place was empty. Saul said to Jonathan his son, "Why has the son of Jesse not come to the meal either yesterday or today?"
 </usfm>
 
 
@@ -37,7 +37,8 @@
 
 ===== translationNotes: =====
 
-  * **He is not clean; surely he is not clean** - According to the law of Moses, if one is ceremonial unclean they are not to participate in the feast until they are declared clean. Saul repeats this phrase for emphasis, as if he is trying to convince himself. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **He is not clean; surely he is not clean** - According to the law of Moses, a person who is ceremonially unclean is not to participate in the feast until the priest declares that he is clean. Saul repeats this phrase as if he is trying to convince himself.
+
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1sa:20]]
 **[[:en:bible:notes:1sa:20:24|<<]] | [[:en:bible:notes:1sa:20:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

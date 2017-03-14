@@ -38,9 +38,11 @@
 
 ===== translationNotes: =====
 
-  * **Yet now our flesh and blood is the same as our brothers, and our children are the same as their children** - "We are of the same descent as our fellow Jews and our children are like theirs" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Some of our daughters have already been enslaved** - AT: "We have already sold some of our daughters into slavery."
-  * **But it is not in our power to help it because other men now own our fields and our vineyards** - This text assumes information which the hearers would have understood: The Jews' fields and vineyards must be in their possession to produce the money they need. AT: "But it is not in our power to change this situation because other men now own our fields and our vineyards which we need to support our lives." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Yet now our flesh and blood is the same as our brothers, and our children are the same as their children** - Here the Jews are implying that they are of the same Jewish descent as the other Jews and that they of the same importance as the others. The meaning of this can be made clear.  AT: "Yet our families are Jews just like the other Jew's families, and our children are just as important to us as their children are to them" (See: (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **our flesh and blood** - This is an idiom which refers to their family members. AT: "our family" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Some of our daughters have already been enslaved** - This can be stated in active form. AT: "We have already sold some of our daughters into slavery" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **But it is not in our power to help it because other men now own our fields and our vineyards** - Since the mens' fields and vineyards are not in their possession, they are unable to produce the money they need to support their families. The full meaning of this can be made clear. AT: "But we are unable to change this situation because other men now own our fields and our vineyards which we need to support our lives." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **it is not in our power** - This is an idiom which means that they do not have the resources to do something. AT: "we are unable" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -48,6 +50,6 @@
   * [[:en:bible:questions:comprehension:neh:05]]
 **[[:en:bible:notes:neh:05:01|<<]] | [[:en:bible:notes:neh:05:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit children}}
+~~DISCUSSION~~{{tag>publish p2pass children}}
 
 ~~NOCACHE~~

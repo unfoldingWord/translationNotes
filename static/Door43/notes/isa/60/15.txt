@@ -36,13 +36,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 15 Instead of you remaining abandoned and hated, with no one passing through you, 
+\v 15 Instead of you remaining abandoned and hated, with no one passing through you,
 \q1 I will make you a thing of pride forever, a
 joy from generation to generation.
 \q1
-\v 16 You will also drink the milk of the nations, and will nurse at the breast of kings; 
+\v 16 You will also drink the milk of the nations, and will nurse at the breast of kings;
 \q1 you will know that I, Yahweh, am
 your Savior and your Redeemer, the Mighty One of Jacob.
 </usfm>
@@ -66,10 +65,10 @@ your Savior and your Redeemer, the Mighty One of Jacob.
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **with no one passing through you** - "with everyone ignoring your land" or "with all the foreigners ignoring your land"
-  * **You will also drink the milk of the nations, and will nurse at the breast of kings** - This refers to the wealth that will be drained from foreign nations. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Redeemer** - See how you translated this in [[:en:bible:notes:isa:41:14|41:14]].
-  * **the Mighty One of Jacob** - See how you translated this in [[:en:bible:notes:isa:49:26|49:26]].
+  * **with no one passing through you** - "with everyone avoiding your land" or "with all the foreigners avoiding your land"
+  * **You will also drink the milk of the nations, and will nurse at the breast of kings** - This refers to the wealth and plenty that will be drained from foreign nations. Both clauses repeat the same idea for emphasis. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Redeemer** - Translate this as you did in [[:en:bible:notes:isa:41:14|41:14]].
+  * **the Mighty One of Jacob** - Translate this as you did in [[:en:bible:notes:isa:49:26|49:26]].
 
 ===== Links: =====
 
@@ -78,6 +77,6 @@ your Savior and your Redeemer, the Mighty One of Jacob.
   * [[:en:bible:questions:comprehension:isa:60]]
 **[[:en:bible:notes:isa:60:14|<<]] | [[:en:bible:notes:isa:60:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit savior}}
+~~DISCUSSION~~{{tag>publish p2pass savior}}
 
 ~~NOCACHE~~

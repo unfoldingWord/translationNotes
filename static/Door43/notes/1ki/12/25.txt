@@ -45,11 +45,11 @@
 
 ===== translationNotes: =====
 
-  * **Jeroboam built Shechem** - "Jeroboam's workers built Shechem" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **thought in his heart** - "thought to himself" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the house of David** - "the kings descended from David."
+  * **thought in his heart** - "Heart" is a metonym for a person's inner consciousness, thoughts, motivation, or feelings. AT: "thought to himself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the house of David** - Here "house" is a metonym representing family or descendants. AT: "the kings descended from David" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **If these people go up** - The words "these people" refer to the people of the northern ten tribes of Israel.
-  * **turn again to their master, to Rehoboam king of Judah ... return to Rehoboam king of Judah** - These phrases mean the same thing and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the heart of these people** - "Heart" is a metonym for the people's allegiance and affection. AT: "the allegiance of these people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **turn again to their master, to Rehoboam king of Judah ... return to Rehoboam king of Judah** - These phrases mean basically the same thing and are combined to emphasize Jeroboam's fear that the people would turn again to Rehoboam as king. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 ===== Links: =====
 
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:1ki:12]]
 **[[:en:bible:notes:1ki:12:22|<<]] | [[:en:bible:notes:1ki:12:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

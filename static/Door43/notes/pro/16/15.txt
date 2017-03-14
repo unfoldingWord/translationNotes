@@ -23,7 +23,6 @@
 \q1
 \v 16 Becoming wise is better than having gold;
 \q2 getting good understanding is better than having silver.
-\b
 
 
 \q1
@@ -55,9 +54,10 @@
 
   * **General Information:** - Verse 15 contrasts with verse 14.
 
-  * **the light of a king's face** - "a king's happy expression" 
-  * **How much better it is to get wisdom than gold.** - AT: "It is better to get wisdom than gold."
- 
+  * **In the light of a king's face is life** - The writer speaks of an expression of joy on the king's face as if his face emitted light. AT: "When the king is cheerful, people live" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **his favor is like a cloud that brings a spring rain** - The writer compares the king showing favor towards someone with a cloud that brings rain to make crops grow. Both promise blessing to those who receive them. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **How much better it is to get wisdom than gold** - This exclamation emphasizes that having wisdom is much better than having gold. AT: "It is much better to get wisdom than to get gold" (See: [[:en:ta:vol2:translate:figs_exclamations]])
+  * **To get understanding should be chosen more than silver** - This can be stated in active form. AT: "A person should choose to get understanding more than to get silver" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -72,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

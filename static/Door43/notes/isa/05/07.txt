@@ -21,9 +21,7 @@
 \q1 He expected them to be doing what is just,
 \q2 but instead, what he saw was people murdering others.
 \q1 He expected that they would be doing righteous deeds,
-\q2 but instead, he heard cries from people who were being attacked violently.
-
-
+\q2 but instead, he heard people shouting for someone to help them, because others were attacking them.
 
 \q1
 </usfm>
@@ -33,8 +31,8 @@
 <usfm>
 \q1
 \v 7 For the vineyard of Yahweh of hosts is the house of Israel,
-\q1 and the men of Judah his pleasant planting; 
-\q1 he waited for justice, but instead, there was killing; for righteousness, but, instead, a cry for help.
+\q1 and the man of Judah his pleasant planting;
+\q1 he waited for justice, but instead, there was killing; for righteousness, but, instead, a shout for help.
 </usfm>
 
 ===== translationWords: =====
@@ -49,13 +47,16 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah explains the parable he just told.
+  * **General Information:** - Isaiah explains the parable of the vineyard.
 
-  * **For the vineyard of Yahweh of hosts is the house of Israel** - "For the vineyard of Yahweh of hosts represents the house of Israel" or "The people of Israel are like the vineyard of Yahweh, Lord of the angel armies" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the men of Judah his pleasant planting** - "the people of Judah are like the vines the farmer cared for" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he waited for justice, but instead, there was killing** - This can be reworded so that the abstract nouns "justice" and "killing" are expressed as the verbs "do what is fair" and "killed one another." AT: "Yahweh waited for the people to do what is fair, but instead they killed one another" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **for righteousness** - The phrase "he waited" is left out but it is understood. AT: "He waited for righteousness" or "He waited for them to do what is right" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **instead, a cry for help** - "instead, there was a cry for help." The reason people cried out for help can be made explicit. AT: "instead those who were weak cried out to him for because others were attacking them" (See [[:en:ta:vol1:translate:figs_explicit]]).
+  * **For the vineyard of Yahweh of hosts is the house of Israel** - "For the vineyard of Yahweh of hosts represents the house of Israel" or "The people of Israel are like the vineyard of Yahweh, Lord of the angel armies" (See: [[:en:ta:vol1:translate:figs_parables]])
+  * **the house of Israel** - Nations and ethnic groups are often spoken of in the Bible as if they were houses, that is, families. AT: "the people of Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the man of Judah his pleasant planting** - "the people of Judah are like a vineyard that gives people pleasure" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the man of Judah** - Here "man" represents all the people of Judah. AT: "the people of Judah" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **he waited for justice, but instead, there was killing** - This can be changed so that the abstract noun "justice" can be expressed by the verb "do what is fair." The abstract noun "killing" can be expressed as "killed one another." AT: "Yahweh waited for the people to do what is fair, but instead they killed one another" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **for righteousness** - The phrase "he waited" is left out but it is understood. This understood information can be added to make the meaning clear. AT: "He waited for righteousness" or "He waited for them to do what is right" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **instead, a shout for help** - "instead, there was a shout for help." The reason people shouted out for help can be made explicit. AT: "instead, those who were weak shouted out for someone to help them because others were attacking them" (See [[:en:ta:vol1:translate:figs_explicit]]).
+  * **a shout** - This expression probably stands for many shouts. (See: [[:en:ta:vol2:translate:figs_genericnoun]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -63,6 +64,6 @@
   * [[:en:bible:questions:comprehension:isa:05]]
 **[[:en:bible:notes:isa:05:05|<<]] | [[:en:bible:notes:isa:05:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

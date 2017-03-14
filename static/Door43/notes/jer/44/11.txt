@@ -42,10 +42,12 @@
  
 ===== translationNotes: =====
 
-  * **set my face against you** - A decision is described by someone not moving from the direction they are looking. AT: "decide to be against you" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **They will fall** - This is a mild way to say that someone will die. (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **by sword** - War is described by the weapon used by most soldiers. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **From the least to the greatest** - People with the least and the respect in society are used to refer to everyone. (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **I am about to set my face against you** - Yahweh speaks of being opposed to a person as if he were to set his face against that person. See how you translated a similar phrase in [[:en:bible:notes:jer:21:08|21:10]]. AT: "I will be against you" or "I will oppose you" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **set my face** - Here "face" is a metonym for attention or gaze, and "set my face" refers to staring. AT: "stare" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to bring disaster to you** - Causing disaster to happen is spoken of as if disaster were an object that can be brought to someone. AT: "to cause disaster to happen to you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **They will fall by sword and famine** - Here "fall" means to die. And "sword" represents the enemies carrying weapons. AT: "Enemies will kill some of them and others will die of hunger" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **From the least to the greatest** - This is a way to refer to people from every social status. Here "least" and "greatest" represent those who are least important and those who are most important. AT: "all the people from every social status" or "all the people, including the least important and the most important people" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **and will become an object of swearing, cursing, reproaching, and a horrible thing** - "and people will be horrified because of what happened to the people of Judah, and people will mock and curse them" 
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -59,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

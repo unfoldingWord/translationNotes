@@ -21,7 +21,6 @@
 <usfm>
 \v 10 Because you love me, you will come to save me as you have promised;
 \q2 you will allow me to watch while you defeat my enemies.
-\b
 \q1
 \v 11 But do not kill them immediately;
 \q2 it is good that my people should not forget how you punished them!
@@ -56,7 +55,7 @@
 ===== translationNotes: =====
 
   * **My God will meet me** - God's rescuing the psalmist is spoken of as if God were to meet him. AT: "My God will rescue me"
-  * **my desire on my enemies** - The abstract noun "desire" can be expressed with the verb want. AT: "what I want to happen to my enemies" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **my desire on my enemies** - The abstract noun "desire" can be expressed with the verb "want." AT: "what I want to happen to my enemies" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **Scatter them** - "Cause them to wander around" 
   * **our shield** - God's protecting the righteous is spoken of as if God were a shield. AT: "our protector" or "the one who protects us like a shield" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
@@ -72,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book2}}
+{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

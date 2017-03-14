@@ -49,9 +49,15 @@
   * [[:en:obe:other:jeroboam]]
 ===== translationNotes: =====
 
-  * **He did what was evil in the sight of Yahweh** - AT: "He did things that Yahweh said were evil" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **he held on to the sins** - AT: "he continued to commit the sins" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-  * **he did not turn away from them** - AT: "he did not stop doing them"
+  * **in the eighteenth year of Jehoshaphat king of Judah** - This describes the time that Joram began to reign by stating how long the current king of Judah had reigned. The meaning of this statement can be made clear. AT: "in the eighteenth year that Jehoshaphat was king of Judah" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the eighteenth year** - "the 18th year" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **Joram son of Ahab** - Sometimes this man is referred to as "Jehoram." This is not the same person as the man mentioned in [[:en:bible:notes:2ki:01:17|1:17]] named "Jehoram."
+  * **He did what was evil in the sight of Yahweh** - The nominal adjective "evil" can be translated as a relative clause. Here Yahweh's "sight" refers to what he thinks. AT: "He did things that Yahweh said were evil" or "He did the things that Yahweh considers evil" (See: [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **but not like his father and his mother** - This compares how much evil he did to being less that the amount that his parents did. AT: "but he did not do as much evil as his father and mother had done" (UDB) (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **the sacred stone pillar of Baal** - This pillar was used in the worship of Baal, though it is unknown what the pillar looked like. AT: "the sacred stone pillar for worshiping Baal" (See: [[:en:ta:vol2:translate:figs_possession]])
+  * **he held on to the sins** - This is an idiom. Here "holding on" to something means to continue doing it. AT: "he continued to commit the sins" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **Nebat** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **he did not turn away from them** - "Turning away" from something is an idiom which means to stop doing it. AT: "he did not stop committing those sins" (UDB) or "he continued committing those sins" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
 
 ===== Links: =====
 
@@ -60,6 +66,6 @@
   * [[:en:bible:questions:comprehension:2ki:03]]
 **[[:en:bible:notes:2ki:02:23|<<]] | [[:en:bible:notes:2ki:03:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit jeroboam sacred}}
+~~DISCUSSION~~{{tag>publish p2pass p2example jeroboam sacred}}
 
 ~~NOCACHE~~

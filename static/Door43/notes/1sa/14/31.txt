@@ -38,12 +38,12 @@
 
   * **General Information:** - Jonathan's words lead the army to sin against God in their great hunger.
 
-  * **Michmash** - See how you translated the name of this town in [[:en:bible:notes:1sa:13:01|13:02]].
+  * **Michmash** - This is the name of a town. See how you translated this in [[:en:bible:notes:1sa:13:01|13:02]].
   * **Aijalon** - "Aijalon" is a place in Zebulun in Israel. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **The people** - This metonymy refers to the nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **ate them with the blood** - The were so hungry they did not drain the blood first before eating. This is a violation of the Law which was given to Moses for the nation of Israel. AT: "killed and ate with no preparation."
+  * **The people** - This refers to the Israelites. 
+  * **ate them with the blood** - The were so hungry they did not drain the blood first before eating. This was a violation of the Law which was given to Moses for the nation of Israel. This can be made explicit. AT: "ate them without draining the blood first as required by the law" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
- 
+
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -54,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit blood}}
+{{tag>publish p2pass blood}}
 
 ~~NOCACHE~~

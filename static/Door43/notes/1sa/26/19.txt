@@ -25,7 +25,7 @@
 
 <usfm>
 \v 19 Now therefore, I beg you, let my master the king listen to the words of his servant. If it is Yahweh who has stirred you up against me, let him accept an offering; but if it is human beings, may they be cursed in the sight of Yahweh, for they have today driven me out, that I should not cling to the inheritance of Yahweh; they have said to me, 'Go worship other gods.'
-\v 20 Now therefore, do not let my blood fall to the earth away from Yahweh's presence; for the king of Israel has come out to look for a flea, as when one hunts a partridge in the mountains."
+\v 20 Now therefore, do not let my blood fall to the earth away from Yahweh's presence; for the king of Israel has come out to look for the one flea as when one hunts a partridge in the mountains."
 </usfm>
 
 ===== translationWords: =====
@@ -46,9 +46,15 @@
 
 ===== translationNotes: =====
 
+  * **you, let my master the king listen to the words of his servant ... the king of Israel** - David speaks as if he and the king were other people to show respect to Saul. AT: "you my king, listen to my words ... you" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **stirred you up against me** - "caused you to be angry with me"
+  * **let him accept an offering** - You may need to make explicit the reason he will give an offering. AT: "I will give him an offering so he will no longer cause you to be angry with me" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **may they be cursed in the sight of Yahweh** - This can be translated in active form. AT: "may Yahweh decide to punish them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **for they have today driven me out, that I should not cling to the inheritance of Yahweh; they have said to me, 'Go worship other gods.'** - "for they have today driven me out. It is as if they want me to stop clinging to the inheritance of Yahweh. It is as if they have said to me, 'Go worship other gods.'"
+  * **that I should not cling to the inheritance of Yahweh** - "so that I will no longer trust that Yahweh will give me what he has promised me"
   * **do not let my blood fall to the earth** - This is a polite way of saying "do not kill me." (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **to look for a flea** - David is to Saul as a flea is to a human being which is not important. Alternate Meaning: David is able to hide easily, as if he is a flea. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **as when one hunts a partridge in the mountains** - Saul is chasing David as if he were hunting wild game such as a partridge which is a bird. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **the one flea** - David uses the word "flea" as a metaphor for a person, himself, who cannot do any great harm. AT: "this single flea" or "me, and I cannot harm you any more than one flea can" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **as when one hunts a partridge in the mountains** - Saul is chasing David as if he were hunting a valuable wild bird. (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:translate_unknown]])
 
  
 ===== Links: =====
@@ -58,6 +64,6 @@
   * [[:en:bible:questions:comprehension:1sa:26]]
 **[[:en:bible:notes:1sa:26:17|<<]] | [[:en:bible:notes:1sa:26:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

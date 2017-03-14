@@ -38,7 +38,6 @@
 \q
 \v 12 With aged men is wisdom;
 \q in length of days is understanding.
-\b
 </usfm>
 
 
@@ -51,8 +50,10 @@
  
 ===== translationNotes: =====
 
-  * **Does not the ear test words just as the palate tastes its food?** - Job compares ears that evaluate words to the mouth that tests food. This is a question that does not expect an answer for emphasis. AT: "The ear studies words just as the mouth tests food" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_rquestion]]) 
-  * **With aged men is wisdom; in length of days is understanding.** - This uses similar to say almost the same thing for emphasis. AT: "Wisdom and understanding come when men grow old and have many days" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Does not the ear test words just as the palate tastes its food?** - Job uses this question to emphasize that people listen to what others say and judge whether it is good or not. The ear and palate are metonyms for hearing and tasting. AT: "We hear what people say and test it just as we taste food test it" (See:  [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_simile]]) 
+  * **With aged men is wisdom** - "Aged men have wisdom." The abstract noun "wisdom" can be expressed with "wise." The word "men" refers to people in general. AT: "Old people are wise" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_gendernotations]]) 
+  * **in length of days is understanding** - The phrase 'length of days" is a metonym for living a long time. Understanding being in length of days represents people gaining understanding when the live a long time. The abstract noun "understanding" can be expressed with the phrase "understand much." AT: "People gain understanding when they live a long time" or "People who live a long time understand much" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+
  
 ===== Links: =====
 
@@ -67,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

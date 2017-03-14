@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 Saul listened to what Jonathan said. Then Saul said, "I solemnly promise that just as certain as Yahweh lives, I will not kill David."
+\v 6 Saul listened to what Jonathan said. Then Saul said, "I solemnly promise that just as surely as Yahweh is alive, I will not kill David."
 \p
 \v 7 Afterward, Jonathan summoned David and told him what he and Saul had said. Then Jonathan brought David to Saul, and David served Saul as he had done before.
 
@@ -39,7 +39,8 @@
 
 ===== translationNotes: =====
 
-  * **he will not be put to death** - Here "put to death" is an idiom that refers to kill. This can be stated in active form. AT: "I will not put him to death" or "I will not kill him" or "I will certainly keep him alive" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_litotes]])
+  * **he will not be put to death** - This can be stated in active form. AT: "I will not put him to death" or "I will not kill him" or "I will certainly keep him alive" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he was in his presence** - David was in Saul's presence.
 
 ===== Links: =====
 
@@ -48,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1sa:19]]
 **[[:en:bible:notes:1sa:19:04|<<]] | [[:en:bible:notes:1sa:19:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

@@ -29,7 +29,7 @@
 
 <usfm>
 \v 27 Before those days had expired, David went with his men and killed two hundred Philistines. David brought their foreskins, and they gave them in full number to the king, so that he might be the king's son-in-law. So Saul gave him Michal his daughter as his wife.
-\v 28 And Saul saw and knew that Yahweh was with David. Michal, Saul's daughter, loved him.
+\v 28 When Saul saw, and he knew that Yahweh was with David, and that Michal, Saul's daughter, loved him,
 \v 29 Saul was even more afraid of David. Saul was continually David's enemy.
 </usfm>
 
@@ -43,8 +43,9 @@
 
 ===== translationNotes: =====
 
-  * **two hundred Philistines** - "200 Philistines" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **saw and knew** - These two words share similar meanings and emphasize that Saul knew with certainty. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **two hundred Philistines** - This can be rendered numerically. AT: "200 Philistines" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **they gave them in full number to the king** - "David and his men gave all of them to the king"
+  * **Saul saw, and he knew** - Here the words "saw" and "knew" share similar meanings and emphasize that Saul knew with certainty. AT: "Saul recognized" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **Michal, Saul's daughter, loved him** - Here "loved" means she had romantic feelings for David.
  
 ===== Links: =====
@@ -60,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

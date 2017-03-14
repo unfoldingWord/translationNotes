@@ -24,7 +24,6 @@
 \q everything that he does is perfect and completely just.
 \q He always does what he says that he will do;
 \q he never does anything that is wrong.
-\b
 
 
 \q
@@ -59,7 +58,7 @@
 
   * **General Information:** - Moses speaks a poetic song to the people of Israel. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **proclaim the name of Yahweh** - "tell how good Yahweh is" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **proclaim the name of Yahweh** - This is an idiom.  "tell how good Yahweh is" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **ascribe greatness to our God** - "make sure people know that our God is great"
   * **The Rock** - This a proper name that Moses gives to Yahweh, who, like a rock, is strong and able to protect his people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **his work** - "everything he does"
@@ -73,6 +72,6 @@
   * [[:en:bible:questions:comprehension:deu:32]]
 **[[:en:bible:notes:deu:32:01|<<]] | [[:en:bible:notes:deu:32:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

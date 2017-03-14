@@ -17,7 +17,7 @@
 
 <usfm>
 \v 24 If they say to people who are guilty, "You are innocent,"
-\q2 they will be cursed by foreign peoples, and hated by nations. 
+\q2 they will be cursed by foreign peoples, and hated by nations.
 \q1
 \v 25 But if judges say that guilty people must be punished,
 \q2 things will go well for those judges, and they will receive gifts of goodness.
@@ -31,10 +31,10 @@
 
 <usfm>
 \q
-\v 24 Whoever says to the guilty, "You are in the right," 
-\q will be cursed by peoples and hated by nations. 
+\v 24 Whoever says to the wicked person, "You are a righteous person,"
+\q will be cursed by peoples and hated by nations.
 \q
-\v 25 But those who rebuke the wicked will have delight
+\v 25 But those who discipline the wicked will have delight
 \q and gifts of goodness will come to them.
 </usfm>
 
@@ -46,11 +46,15 @@
   * [[:en:obe:other:nation]] 
   * [[:en:obe:other:rebuke]]
   * [[:en:obe:kt:evil]]
+
 ===== translationNotes: =====
 
 
-  * **will have delight** - AT: "will be very happy"
-  * **gifts of goodness** - AT: "good things" or "blessings"
+  * **Whoever says to the wicked person, ... will be cursed by peoples and hated by nations** - The word "nations" is a metonym for the people who live in the nations. These words can be translated in active form. AT: "People will curse whoever says to the wicked person, ... , and the people of other nations will hate him"
+  * **the wicked person ... a righteous person** - Possible meanings are 1) people should never call any wicked person a righteous person or 2) no one should say of a person guilty of a crime that he is innocent. AT: "a person guilty of a crime ... innocent"
+  * **will have delight** - "will be very happy"
+  * **gifts of goodness will come to them** - Gifts are spoken of as if they were people who could move by themselves. The abstract noun "goodness" can be translated as an adjective. AT: "people will give them good gifts" (See: [[:en:ta:vol2:translate:figs_personification]] and[[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **gifts of goodness** - "good things" or "blessings"
  
 ===== Links: =====
 
@@ -65,7 +69,7 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 
 

@@ -30,7 +30,6 @@
 \q1
 \v 5 Pile wood on the fire,
 \q2 and cook the bones and the meat in the boiling water.'
-\b
 
 
 \m
@@ -39,14 +38,14 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 And speak a proverb against this rebellious house, a parable, and say to them, 'The Lord Yahweh says this:
+\v 3 So speak a proverb against this rebellious house, a parable. Say to them, 'The Lord Yahweh says this:
 \q Place the cooking pot. Place it and pour water into it.
 \q
 \v 4 Gather pieces of food within it, every good piece—the thigh and shoulder—
 \q and fill it with the best bones.
 \q
-\v 5 Take the best of the flock and heap up the bones under it.
-\q Boil it thoroughly nd also cook the bones in the midst of it.
+\v 5 Take the best of the flock and pile up the bones under it.
+\q Bring it to a boil and cook the bones in it.
 </usfm>
 
 ===== translationWords: =====
@@ -60,7 +59,12 @@
 
 ===== translationNotes: =====
 
-  * **heap up the bones under it** - Some cultures add bones to a fire because they burn longer than wood. AT: "place the rest of the bones under the pot to fuel the fire"
+  * **General Information:** - Yahweh speaks a parable to Ezekiel about a cooking pot that represents Jerusalem. This parable continues through [[:en:bible:notes:ezk:24:14|24:14]]. (See: [[:en:ta:vol1:translate:figs_parables]])
+
+  * **this rebellious house** - This is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate as in [[:en:bible:notes:ezk:02:04|2:5]]. AT: "this rebellious people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Gather pieces of food** - Here "food" refers specifically to meat. AT: "Place pieces of meat" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the best of the flock** - Here the "flock" refers to sheep, not birds. 
+  * **pile up the bones under it** - Some cultures add bones to a fire because they burn longer than wood. This refers to the bones that remained after the best bones were placed in the pot. AT: "place the rest of the bones under the pot to fuel the fire" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -68,6 +72,6 @@
   * [[:en:bible:questions:comprehension:ezk:24]]
 **[[:en:bible:notes:ezk:24:01|<<]] | [[:en:bible:notes:ezk:24:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

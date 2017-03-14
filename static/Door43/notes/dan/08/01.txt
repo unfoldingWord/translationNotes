@@ -23,7 +23,7 @@
 \c 8
 \p
 \v 1 In the third year of the reign of King Belshazzar, I, Daniel, had a vision appear to me (after the one that appeared to me at first).
-\v 2 I saw in the vision, as I was looking, that I was in the fortified city of Susa in the province of Elam. I saw in the vision that I was beside the Ulai Canal.
+\v 2 I saw in the vision, as I was looking, that I was in the fortress of Susa in the province of Elam. I saw in the vision that I was beside the Ulai Canal.
 </usfm>
 
 
@@ -39,11 +39,14 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - Chapters 7 and 8 are not in chronological order. They happened while Belshazzar was still the king, before the rule of Darius and Cyrus that was discussed in chapter 6. 
+  * **General Information:** - In Daniel's vision, he saw animals that were symbols of other things. Later in the vision someone explains the meaning of those symbols. (See: [[:en:ta:vol2:translate:writing_symlanguage]])
+
   * **In the third year** - "In year three" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **had a vision appear to me (after the one ... first)** - "had a second vision"
-  * **Belshazzar** - See how you translated this name in [[:en:bible:notes:dan:05:01|5:1]].
-  * **fortified** - guarded and protected
-  * **Susa ... Elam ... Ulai Canal** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Belshazzar** - This is the son of Nebuchadnezzar who became king after his father. See how you translated this name in [[:en:bible:notes:dan:05:01|5:1]].
+  * **had a vision appear to me (after the one ... first)** - This is background information to remind the reader that this is Daniel's second vision. AT: "had a second vision appear to me" (See: [[:en:ta:vol2:translate:writing_background]])
+  * **fortress** - a walled city that was guarded and protected
+  * **Susa ... Elam ... Ulai Canal** - These are names of places. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Canal** - A canal is a narrow man-made waterway.
  
 ===== Links: =====
@@ -53,6 +56,6 @@
   * [[:en:bible:questions:comprehension:dan:08]]
 **[[:en:bible:notes:dan:07:27|<<]] | [[:en:bible:notes:dan:08:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit biblicaltimeyear}}
+~~DISCUSSION~~{{tag>publish p2pass biblicaltimeyear}}
 
 ~~NOCACHE~~

@@ -29,12 +29,12 @@
 \q1 They worshiped worthless idols,
 \q2 and they themselves became worthless.
 \q1
-\v 6 They had no need to say, 'Yahweh is no longer able to help us, even though it was he who brought us safely out of Egypt
-\q1 and led us through a desert plain
-\q2 where there were a lot of pits.
-\q1 It was Yahweh who led us where there was no water and where it was very dangerous,
-\q2 through a land where no one lives or even travels.
-\q1 But Yahweh is useless for us now.'
+\v 6 They should have said, 
+\q2 'We need Yahweh. He is the one who brought us safely out of Egypt
+\q1 and led us through a desert plain where there were a lot of pits.
+\q2 We need Yahweh. He is the one who led us 
+\q1 where there was no water and where it was very dangerous,
+\q2 through a land where no one lives or even travels.'
 
 
 \q1
@@ -51,32 +51,38 @@
 \q
 \v 6 They did not say, 'Where is Yahweh, who brought us up from the land of Egypt?
 \q Where is Yahweh, who led us to the wilderness, into the land of the Arabah and pits,
-\q in a land of drought and deep darkness, 
+\q in a land of drought and deep darkness,
 \q a land through which no one passes and where no one lives?'
 </usfm>
 
 ===== translationWords: =====
 
   * [[:en:obe:kt:wordofgod]]
-  * [[:en:obe:other:house|house]]
-  * [[:en:obe:other:jacob|Jacob, Israel]]
-  * [[:en:obe:other:family|family]]
-  * [[:en:obe:other:father|father, forefather]]
-  * [[:en:obe:other:idol|idol, idolatrous]]
-  * [[:en:obe:other:egypt|Egypt, Egyptian]]
+  * [[:en:obe:other:house]]
+  * [[:en:obe:other:jacob]]
+  * [[:en:obe:other:family]]
+  * [[:en:obe:other:father]]
+  * [[:en:obe:other:idol]]
+  * [[:en:obe:other:egypt]]
   * [[:en:obe:other:desert]]
-  * [[:en:obe:other:arabah|Arabah]]
-  * [[:en:obe:other:pit|pit]]
-  * [[:en:obe:kt:darkness|darkness]]
+  * [[:en:obe:other:arabah]]
+  * [[:en:obe:other:pit]]
+  * [[:en:obe:kt:darkness]]
   * [[:en:obe:kt:life]]
 
 ===== translationNotes: =====
 
-  * **house of Jacob and every family in the house of Israel** - These two phrases mean the same thing and are combined for emphasis. AT: "all you descendants of Jacob" (See: [[:en:ta:vol2:translate:figs_parallelism|Parallelism]])
-  * **What did your fathers find wrong with me, that they went far from following me? That they went after useless idols and became useless themselves?** - AT: "I did nothing wrong to your forefathers, so they have offended me by no longer obeying me and by starting to worship useless idols and becoming useless themselves!" (See: [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **house of Jacob and every family in the house of Israel** - Jacob and Israel were two names for one man, and these two phrases refer to the same group of people. AT: "all you descendants of Jacob" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **house of Jacob** - The word "house" is a metonym for the family that lives in the house. In this case it refers to Jacob's descendants. AT: "descendants of Jacob" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house. In this case it refers to Israel's descendants, who had become the nation of Israel. AT: "the Israelites" or "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **What did your fathers find wrong with me, that they went far from following me? That they went after useless idols and became useless themselves?** - Yahweh uses these questions to say that since he has done no wrong, his people should not have rejected him and worshiped idols. AT: "I did nothing wrong to your forefathers, so they should not have gone far from following me, and they should not have gone after useless idols. By doing that they themselves have become useless!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **they went far from following me** - This represents rejecting God and refusing to be loyal to him. AT: "they rejected me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they went after useless idols** - This represents choosing to be loyal to idols and worship them. AT: "they worshiped useless idols" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **useless** - "worthless"
-  * **Where is Yahweh, who brought us ... Egypt? Where is Yahweh, who led us ... lives?** - "We should learn what Yahweh wants us to do. He is the one who brought us ... Egypt, and he is the one who led us ... lives."
-
+  * **They did not say** - It is implied that they should have said what follows. AT: "They should have said" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Where is Yahweh, who brought us ... Egypt?** - This rhetorical question would have been used to show the people's need of Yahweh. AT: "We need Yahweh. He is the one who brought us ... Egypt." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Where is Yahweh, who led us ... lives?** - This rhetorical question would have been used to show the people's need of Yahweh. AT: "We need Yahweh. He is the one who led us ... lives." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **a land of drought and deep darkness** - A "land of drought" is a land that does not have enough water. Here "deep darkness" is a metaphor for danger. AT: "a dangerous land where there is not enough water" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -84,6 +90,6 @@
   * [[:en:bible:questions:comprehension:jer:02]]
 **[[:en:bible:notes:jer:02:01|<<]] | [[:en:bible:notes:jer:02:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit arabah}}
+~~DISCUSSION~~{{tag>publish p2check arabah}}
 
 ~~NOCACHE~~

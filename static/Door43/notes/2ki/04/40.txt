@@ -25,18 +25,19 @@
 ===== ULB: =====
 
 <usfm>
-\v 40 So they poured out the stew for the men to eat. Later, as they were eating, they cried out and said, "Man of God, there is death in the pot!" And they could not eat it anymore.
-\v 41 But Elisha said, "Bring some flour." He threw it into the pot and said, "Pour it out for the people, so that they may eat." And there was no longer anything hurtful in the pot.
+\v 40 So they poured out the stew for the men to eat. Later, as they were eating, they cried out and said, "Man of God, there is death in the pot!" So they could not eat it anymore.
+\v 41 But Elisha said, "Bring some flour." He threw it into the pot and said, "Pour it out for the people, so that they may eat." Then there was no longer anything hurtful in the pot.
 </usfm>
 
 ===== translationWords: =====
 
 ===== translationNotes: =====
 
-  * **death in the pot** - This means that there was something in the pot that could kill them, not that there is something dead in the pot. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they poured out the stew** - "they poured the stew into bowls"
+  * **there is death in the pot** - This means that there was something in the pot that could kill them, not that there is something dead in the pot. AT: "there is something in the pot that will kill us" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **He threw it into the pot** - "He added it to the stew in the pot"
-  * **Pour it out for the people** - "Serve it to the people,"
-  * **there was no longer anything hurtful in the pot.** - AT: "eating the food from the pot did not hurt them."
+  * **Pour it out for the people** - "Serve it to the people"
+
 
 ===== Links: =====
 
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:2ki:04]]
 **[[:en:bible:notes:2ki:04:38|<<]] | [[:en:bible:notes:2ki:04:42|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

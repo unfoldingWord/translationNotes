@@ -26,7 +26,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 32 So this is what I, Yahweh, say 
+\v 32 So this is what I, Yahweh, say
 \q2 about the king of Assyria:
 \q "His armies will not enter this city;
 \q2 they will not even shoot any arrows into it.
@@ -41,10 +41,9 @@
 \q That will happen because I, Yahweh, have said it!
 \q
 \v 34 I will defend this city and prevent it from being destroyed.
-\q2 I will do this for the sake of my own reputation 
-\q2 and because of what I promised to King David, 
+\q2 I will do this for the sake of my own reputation
+\q2 and because of what I promised to King David,
 \q3 who served me well.'"
-\b
 
 
 \p
@@ -55,17 +54,17 @@
 
 <usfm>
 \v 32 Therefore Yahweh says this about the king of Assyria:
-\q "He will not come into this city 
+\q "He will not come into this city
 \q2 nor shoot an arrow here.
-\q Neither will he come before it with shield 
+\q Neither will he come before it with shield
 \q2 or build up a siege ramp against it.
-\q 
-\v 33 The way by which he came 
-\q2 will be the same way he will leave; 
-\q2 he will not enter this city. 
+\q
+\v 33 The way by which he came
+\q2 will be the same way he will leave;
+\q2 he will not enter this city.
 \q3 This is the declaration of Yahweh."
-\q 
-\v 34 For I will defend this city and rescue it, 
+\q
+\v 34 For I will defend this city and rescue it,
 \q2 for my own sake and for my servant David's sake.'"
 </usfm>
 
@@ -79,15 +78,15 @@
   * [[:en:obe:other:declare]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:other:david]]
+
 ===== translationNotes: =====
 
+  * **General Information:** - This is the end of the message from Yahweh, spoken through the prophet Isaiah to King Hezekiah.  It uses parallelism throughout. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **General Information:** - This is the end of the message from Yahweh, spoken through the prophet Isaiah to King Hezekiah. 
-
-  * **or build up a siege ramp against it** - "and they will not even build up high mounds of earth against the city wall to enable them to attack the city." (UDB)
+  * **nor shoot an arrow here** - "Arrow" is metonymy representing all tools of warfare and destruction. AT: "nor do any fighting here" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **or build up a siege ramp against it** - "and they will not even build up high mounds of earth against the city wall to enable them to attack the city" (UDB)
   * **This is the declaration of Yahweh** - For Yahweh to "declare" is for Yahweh to promise or commit to what He said He will do.
-  * **for my own sake and for my servant David's sake** - AT: "for the sake of my own reputation and because of what I promised to King David, who served me well." (UDB)
-
+  * **for my own sake and for my servant David's sake** - "for the sake of my own reputation and because of what I promised to King David, who served me well" (UDB)
  
 ===== Links: =====
 
@@ -99,6 +98,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

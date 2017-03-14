@@ -26,9 +26,9 @@
 
 <usfm>
 \c 52
-\p
+\m
 \q1
-\v 1 Awake, awake, put on your strength, Zion; 
+\v 1 Awake, awake, put on your strength, Zion;
 \q1 put on your beautiful garments, Jerusalem, holy city;
 \q1 for never again will the uncircumcised or the unclean enter you.
 </usfm>
@@ -43,9 +43,12 @@
 
 ===== translationNotes: =====
 
-  * **Awake, awake** - This word is repeated for emphasis and shows urgency. Isaiah is speaking to the people of Israel to arouse them, not to literally wake them from sleep. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
-  * **Zion ... Jerusalem** - "people of Zion ... people of Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **put on your strength** - "show your strength" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Awake, awake** - This word is repeated for emphasis and shows urgency. Isaiah trying to arouse the people is spoken of as if he were trying to wake them up from sleep. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **put on your strength** - Being strong again is spoken of as if strength were clothing that a person puts on. AT: "be strong" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Zion ... Jerusalem** - Both of these refer to the people who live in Jerusalem. Isaiah is speaking to the people as if they were there listening to him. AT: "people of Zion ... people of Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_apostrophe]])
+  * **the uncircumcised or the unclean** - These nominal adjectives can be stated as adjectives. AT: "Those who are uncircumcised or those who are unclean" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **the unclean** - This refers to unclean people. A person who God considers spiritually unacceptable or defiled is spoken of as if the person were physically unclean. AT: "those who are not acceptable to God" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **enter you** - Here "you" refers to Jerusalem which represents the people who live there. It is understood that the uncircumcised and unclean people would enter the city to attack the people. The missing words can be added to make the meaning clear. AT: "enter your city to attack you" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_ellipsis]]) 
 
 ===== Links: =====
 
@@ -54,6 +57,6 @@
   * [[:en:bible:questions:comprehension:isa:52]]
 **[[:en:bible:notes:isa:51:23|<<]] | [[:en:bible:notes:isa:52:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

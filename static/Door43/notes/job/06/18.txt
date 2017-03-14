@@ -62,15 +62,15 @@
  
 ===== translationNotes: =====
 
-  * **The caravans that travel by their way turn aside for water** - Job is continuing his description of his friends being as unreliable as streams that dry up. AT: "The paths of travelers change course looking for water"
-  * **The caravans** - This phrase can also be translated as "the paths of caravans" or "the paths of travelers" or "travelers."
-  * **they wander into barren land and then perish** - "they go nowhere and then die"
-  * **Tema** - This is the name of a place. The people of that place used caravans to trade things with people from other lands. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **while companies of Sheba hoped in them** - "while travelers from Sheba hoped for them"
-  * **Sheba** - This is the name of a place. The people of that place used caravans to trade things with people from other lands. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Connecting Statement:** - Job is continuing his description of his friends being as unreliable as streams that dry up. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+  * **The caravans that travel by their way turn aside for water** - "The caravans turn aside from the routes to find water" or "The caravans change course looking for water"
+  * **The caravans** - A caravan is a large group of travelers riding camels across the desert.
+  * **barren land** - "wasteland" or "empty land" 
+  * **Tema ... Sheba** - These are the names of places. The people of these places used caravans to trade things with people from other lands. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **while companies of Sheba** - "while caravans from Sheba" 
   * **hoped in them** - "hoped for them" or "put their hope in them"
-  * **They were disappointed because they had been confident of finding water** - "They were confused because they had trusted that they would find water"
-  * **but they were deceived** - AT: "but they were disappointed" or "but they were not satisfied"
+  * **but they were deceived** - This can be stated in active form. AT: "but they were disappointed" or "but they were not satisfied" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -79,6 +79,6 @@
   * [[:en:bible:questions:comprehension:job:06]]
 **[[:en:bible:notes:job:06:14|<<]] | [[:en:bible:notes:job:06:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

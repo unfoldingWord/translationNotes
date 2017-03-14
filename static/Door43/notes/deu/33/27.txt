@@ -43,11 +43,11 @@
 
 ===== translationNotes: =====
 
-  * **The eternal God is a refuge** - "The eternal God will protect his people" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **underneath are the everlasting arms** - The words "everlasting arms" are a metaphor for Yahweh's promise to protect his people forever. AT: "he will support and take care of you, his people, forever (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **He thrust out ... he said** - Moses speaks of the future as if it were the past to emphasize that what he is saying will come true. AT "He will thrust out ... he will say" [[:en:ta:vol2:translate:figs_pastforfuture]]
+  * **The eternal God is a refuge** - The abstract noun "refuge," which means a shelter or a place safe from danger, can be stated as a verb. AT: "The eternal God will protect his people" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **underneath are the everlasting arms** - The words "everlasting arms" are a metaphor for Yahweh's promise to protect his people forever. AT: "he will support and take care of his people forever" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He thrust out ... he said** - Moses speaks of the future as if it were the past to emphasize that what he is saying will come true. AT "He will thrust out ... he will say" (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
   * **before you ... Destroy** - Moses speaks to the Israelites as if they were one man, so the word "you" and the command "destroy" here are singular. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **he said, "Destroy!"** - "he will tell you to destroy them!" (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **he said, "Destroy!"** - If this direct quotation would not work well in your language, you may change it to an indirect quotation. AT: "he will tell you to destroy them!" (See: [[:en:ta:vol2:translate:figs_quotations]])
 ===== Links: =====
 
   * [[:en:bible:notes:deu:00:intro]]
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:deu:33]]
 **[[:en:bible:notes:deu:33:26|<<]] | [[:en:bible:notes:deu:33:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check p2example}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

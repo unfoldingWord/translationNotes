@@ -21,7 +21,7 @@
 
 <usfm>
 \p
-\v 5 As I was thinking about this, I saw a male goat come from the west, across the face of the whole earth, running fast, not seeming to touch the ground. The goat had a large horn between his eyes.
+\v 5 As I was thinking about this, I saw a male goat come from the west, who went across the surface of the whole earth, running fast, not seeming to touch the ground. The goat had a large horn between his eyes.
 \v 6 He came to the ram who had two horns—I had seen the ram standing on the bank of the canal—and the goat ran toward the ram in a powerful rage.
 </usfm>
 
@@ -34,23 +34,22 @@
  
 ===== translationNotes: =====
 
-  * **across the face of the whole earth** - AT: "across the land" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_hyperbole]]) 
-  * **in a powerful rage** - AT: "and it was very angry" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
- 
+  * **across the surface of the whole earth** - H The phrase "the whole earth" is an exaggeration that means he came from far away. AT: "from far away across the surface of the land" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_hyperbole]]) 
+  * **The goat had a large horn between his eyes** - Goats have two horns on the sides of their heads. This image should be explained. AT: "The goat had a single large horn in the center of his head" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **I had seen the ram standing on the bank of the canal** - This phrase is inserted as background information to explain where the ram was located. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **in a powerful rage** - "and it was very angry"
+
  
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
   * [[:en:bible:notes:dan:08:00]]
   * [[:en:bible:questions:comprehension:dan:08]]
-
- 
-
 **[[:en:bible:notes:dan:08:03|<<]] | [[:en:bible:notes:dan:08:07|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

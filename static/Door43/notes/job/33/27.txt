@@ -24,7 +24,6 @@
 \q1
 \v 28 He has saved me from dying and going to the place where dead people are,
 \q2 and I will continue to enjoy being alive.'
-\b
 
 
 \q1
@@ -41,7 +40,7 @@
 \q
 \v 28 God has rescued my soul from going down into the pit;
 \q my life will continue to see light.'
-\b
+\m
 </usfm>
 
 
@@ -57,9 +56,10 @@
 
   * **General Information:** - Elihu continues speaking to Job.
 
-  * **but my sin was not punished** - AT: "but God did not punish me for sinning" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **rescued my soul** - AT: "rescued me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **my life will continue to see light** - He will see the light of life instead of the darkness he would see in death. AT: "I will continue to live" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **but my sin was not punished** - This can be stated in active form. AT: "but God did not punish me for sinning" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **rescued my soul from going down into the pit** - Here the person is referred to by his "soul." AT: "rescued me from dying and going to the pit" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the pit** - The place where people go when they die is referred to here as "the pit." AT: "the place where dead people are" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my life will continue to see light** - Here the person is represented by his "life." Also, living is spoken of as seeing the light. AT: "I will continue to live and see the daylight" or "I will continue to live" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -68,6 +68,6 @@
   * [[:en:bible:questions:comprehension:job:33]]
 **[[:en:bible:notes:job:33:25|<<]] | [[:en:bible:notes:job:33:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit perverse}}
+~~DISCUSSION~~{{tag>publish p2check perverse}}
 
 ~~NOCACHE~~

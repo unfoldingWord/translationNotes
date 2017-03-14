@@ -34,12 +34,12 @@
 
 <usfm>
 \c 49
-\p
+\m
 \q1
-\v 1 Listen to me, you coastlands! And give attention, you distant peoples. 
+\v 1 Listen to me, you coastlands! Now give my your attention, you distant peoples.
 \q1 Yahweh has called me from birth by name, when my mother brought me into the world.
 \q1
-\v 2 He has made my mouth like a sharp sword; he hid me in the shadow of his hand; 
+\v 2 He has made my mouth like a sharp sword; he hid me in the shadow of his hand;
 \q1 he has made me into a polished arrow; in his quiver he has hidden me.
 </usfm>
 
@@ -56,9 +56,12 @@
 ===== translationNotes: =====
 
   * **Listen to me** - Here "me" refers to Yahweh's servant.
-  * **He has made my mouth like a sharp sword** - This means that his message has the power to save or destroy. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **he hid me in the shadow of his hand** - This means Yahweh has protected his servant and kept his purpose secret. (See: [[:en:ta:vol2:translate:figs_synecdoche]]).
-  * **he has made me into a polished arrow; in his quiver he has hidden me** - This also means Yahweh has protected his servant to be ready for attack later and kept his purpose secret. An arrow is used to attack an enemy. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you coastlands** - This refers to the people who live on the coastlands. AT: "you who live on the coastlands" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **He has made my mouth like a sharp sword** - Here the word "mouth" represents the words that he speaks. His words are compared to a sharp sword to emphasize that they will be effective. AT: "He has made my words as effective as a sharp sword" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **he hid me in the shadow of his hand** - Yahweh protecting his servant and keeping his purpose secret is spoken of as if Yahweh's hand cast a shadow over him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he has made me into a polished arrow; in his quiver he has hidden me** - Yahweh's servant being able to carry out Yahweh's purposes effectively is spoken of as if the servant were a sharp, new arrow. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in his quiver he has hidden me** - Yahweh protecting his servant and keeping his purpose secret is spoken of as if Yahweh kept him hidden in a quiver. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **quiver** - a case used to carry arrows
 
 ===== Links: =====
 
@@ -67,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:49]]
 **[[:en:bible:notes:isa:48:21|<<]] | [[:en:bible:notes:isa:49:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

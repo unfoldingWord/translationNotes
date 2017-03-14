@@ -18,7 +18,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 25 When a person is anxious, it is like he is carrying a heavy load, 
+\v 25 When a person is anxious, it is like he is carrying a heavy load,
 \q2 but a good word makes him feel better.
 \q1
 \v 26 The one who does right will be a good guide for his friend,
@@ -33,10 +33,10 @@
 
 <usfm>
 \q
-\v 25 Anxiety in the heart of a person weighs him down, 
+\v 25 Anxiety in the heart of a person weighs him down,
 \q but a good word makes him glad.
 \q
-\v 26 The one who does right is a guide for his friend, 
+\v 26 The righteous person is a guide for his friend,
 \q but the way of the wicked leads them astray.
 </usfm>
 
@@ -51,8 +51,8 @@
 
 
   * **Anxiety** - uneasy feeling of fear or dread, worry
-  * **weighs him down** - This phrase means to make a person sad or depressed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **but a good word makes him glad** - "but when others speak kindly to him, he is cheerful again" 
+  * **weighs him down** - "Weighing down" represents the idea of putting a very heavy load on a person so he cannot move freely. This phrase means to make a person sad or depressed. AT: "causes him to become sad or depressed" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **but a good word makes him glad** - The abstract noun "word" can be stated as the verb "speak." AT: "but when others speak kindly to him, he is cheerful again" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
  
 ===== Links: =====
@@ -68,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

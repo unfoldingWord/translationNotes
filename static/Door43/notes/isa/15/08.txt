@@ -31,10 +31,10 @@
 
 <usfm>
 \q1
-\v 8 The cry has gone around the territory of Moab; 
+\v 8 The cry has gone around the territory of Moab;
 \q1 the wailing as far as Eglaim and Beer Elim.
 \q1
-\v 9 For the waters of Dimon are full of blood; but I will bring even more upon Dimon. 
+\v 9 For the waters of Dimon are full of blood; but I will bring even more upon Dimon.
 \q1 A lion will attack those who escape from Moab and also those remaining in the land.
 </usfm>
 
@@ -49,8 +49,10 @@
 
   * **General Information:** - This continues the prophecy about the people of Moab. God describes events that will happen in the future as if it is happening in the present. (See: [[:en:bible:notes:isa:15:01|15:1-2]])
 
+  * **The cry has gone around the territory of Moab** - People's crying out and others hearing it is spoken of as if the cry had gone out. AT: "People all over the territory of Moab cry out"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the wailing as far as Eglaim and Beer Elim** - The words "has gone" are understood. People's wailing and others hearing it is spoken of as if the wailing had gone as far away as these two places. AT: "the wailing has gone as far as Egalim and Beer Elim" or "people even as far away as Elaim and Beer Elim wail" 
   * **Eglaim ... Beer Elim ... Dimon** - These are names of cities and towns. Dimon was the principal city of the country of Moab. Several modern versions have "Dibon" instead of "Dimon." (See: [[:en:ta:vol1:translate:translate_names]])
-  * **but I will bring even more upon Dimon** - Here "I" refers to Yahweh. Also, "upon Dimon" refers to the people. AT: "but I will cause even more trouble on the people of Dimon" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **but I will bring even more upon Dimon** - Here "I" refers to Yahweh. Also, "upon Dimon" refers to the people. AT: "but I will cause even more trouble for the people of Dimon" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -64,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

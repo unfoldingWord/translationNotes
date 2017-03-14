@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 And I said to them, "Do not open the gates of Jerusalem until the sun is hot. While the gatekeepers are on guard, you may shut the doors and bar them. Appoint guards from those who live in Jerusalem, some at the place of their guard station, and some in front of their own homes." 
+\v 3 I said to them, "Do not open the gates of Jerusalem until the sun is hot. While the gatekeepers are on guard, you may shut the doors and bar them. Appoint guards from those who live in Jerusalem, some at the place of their guard station, and some in front of their own homes."
 \v 4 Now the city was wide and large, but there were few people within it, and no houses had yet been rebuilt.
 </usfm>
 
@@ -35,14 +35,15 @@
   * [[:en:obe:kt:life]]
 ===== translationNotes: =====
 
-  * **I said to them** - The word "them" refers to Nehemiah's brother, the manager of the city, and to Hananiah, who was responsible for the citadel.
+  * **I said to them** - The word "them" refers to Hanani and Hananiah.
+  * **Do not open the gates of Jerusalem until the sun is hot. While the gatekeepers are on guard, you may shut the doors and bar them** - Possible meanings are 1) these actions were done by Hanani and Hananiah or 2) these actions were done by Hanani and Hananiah with the help of the gatekeepers or 3) the gatekeepers did these actions under the direction of Hanani and Hananiah.
   * **the sun is hot** - "the sun is high in the sky"
-  * **While the gatekeepers are on guard** - "If the gatekeepers are guarding the gate." The meaning here is "if the gatekeepers are challenging those approaching."
-  * **gatekeepers** - See how you translated this in [[:en:bible:notes:neh:07:01|7:1]]
-  * **you may shut the doors and bar them** - "you may close the gates and lock them"
-  * **Appoint guards from those who live in Jerusalem, some at the place of their guard station, and some in front of their own homes.** - These are the criteria for guards: those who live here and those whose homes are nearby. These people were not just hired but have a special interest in the security of that part of the city.
-  * **Now the city was wide and large, but there were few people within it, and no houses had yet been rebuilt** - The walled area was large but thinly populated, and people were still living in temporary shelters.
-  * **no houses had yet been rebuilt** - This may be an exaggeration to emphasize that the city was not in a finished state to house all the people. This can be stated in active form. AT: "the people had not yet rebuilt many houses" (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **While the gatekeepers are on guard, you may shut the doors and bar them** - "Shut the doors and bar them while the gatekeepers are still on guard"
+  * **gatekeepers** - Translate this as in [[:en:bible:notes:neh:07:01|7:1]]
+  * **shut the doors and bar them** - "close the gates and lock them"
+  * **Appoint guards from those who live in Jerusalem** - "Assign guards from those people who live in Jerusalem"
+  * **guard station** - "guard post" or "guard duty place"
+  * **no houses had yet been rebuilt** - This can be stated in active form. AT: "the people had not yet rebuilt the houses" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -57,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

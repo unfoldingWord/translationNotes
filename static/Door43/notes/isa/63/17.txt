@@ -31,7 +31,7 @@
 
 <usfm>
 \q1
-\v 17 Yahweh, why do you make us wander from your ways and harden our hearts, so we do not obey you? 
+\v 17 Yahweh, why do you make us wander from your ways and harden our hearts, so we do not obey you?
 \q1 Return for your servants' sake, the tribes of your inheritance.
 </usfm>
 
@@ -48,8 +48,9 @@
 
   * **General Information:** - The people of Israel continue speaking.
 
-  * **Yahweh, why do you make us wander from your ways and harden our hearts, so we do not obey you?** - They use a question to express their complaint to God. AT: "Yahweh, you have made us wander from your ways and become stubborn so that we do not obey you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **why do you make us wander from your ways** - This people lament, wondering if God has misled them so they wander off the correct path. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Yahweh, why do you make us wander from your ways and harden our hearts, so we do not obey you?** - Here the writer uses a question to express a complaint of the people to God. This question can be translated as a statement. AT: "Yahweh, you have made us wander from your ways and become stubborn so that we do not obey you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **why do you make us wander from your ways** - To not do what Yahweh commands is spoken of as if a person wanders off of the correct path. AT: "why do you make do what is wrong" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **harden our hearts** - This means to become resistant to Yahweh's teaching by refusing to listen and obey. Here "heart" represents their motives, feelings and desires. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:isa:63]]
 **[[:en:bible:notes:isa:63:15|<<]] | [[:en:bible:notes:isa:63:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

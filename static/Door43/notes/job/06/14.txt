@@ -44,7 +44,7 @@
 \v 14 To the person who is about to faint, faithfulness should be shown by his friend;
 \q even to him who forsakes the fear of the Almighty.
 \q
-\v 15 But my brothers have been as faithful to me as a desert streambed, 
+\v 15 But my brothers have been as faithful to me as a desert streambed,
 \q as channels of water that pass away to nothing,
 \q
 \v 16 which are darkened because of ice over them,
@@ -67,15 +67,15 @@
    
 ===== translationNotes: =====
 
-  * **To the person who is about to faint, faithfulness should be shown by his friend** - "A friend should be kind to the person who feels hopeless" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **even to him who forsakes the fear of the Almighty** - "even if he stops honoring Almighty God" (UDB) Possible meanings are 1) the person does not fear God or 2) His friend does not fear God.
-  * **But my brothers have been as faithful to me as a desert streambed** - Job is describing his friends as being like a "wadi" which is a stream that can suddenly dry up and is not dependable. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **To the person who is about to faint, faithfulness should be shown by his friend** - "A friend should be faithful to the person who feels who is about to faint" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **who is about to faint** - This speaks of a person who feels hopeless and is overwhelmed by his troubles as if he were about to physically faint. AT: "who feels hopeless" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **even to him who forsakes the fear of the Almighty** - "even if he stops fearing Almighty God." Possible meanings are 1) the faint person does not fear God or 2) his friend does not fear God.
+  * **But my brothers have been as faithful to me as a desert streambed** - Job speaks of his friends being unfaithful to him as being like a "wadi" which is a stream that can suddenly dry up. Also, Job refers to his friends ironically here as his "brothers." AT: "But my friends are unfaithful to me. They are like a desert streambed" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_irony]])
   * **as channels of water that pass away to nothing** - "like streams of water that dry up"
-  * **which are darkened because of ice over them** - "which are dark like ice"
-  * **and because of the snow that hides itself in them** - "and the snow hides in them" or "the snow disappears in them"
-  * **When they thaw out, they vanish** - "When they warm up, they disappear"
-  * **when it is hot, they melt out of their place** - "when it is hot, they dry up"
- 
+  * **which are darkened because of ice over them ... and because of the snow that hides itself in them** - This two phrases have the same meaning. They describe how the streambed is full ice and snow in the winter. AT: "in the winter they look dark because they are covered with ice and are full of melted snow" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **and because of the snow that hides itself in them** - This speaks of the snow melting and the water going into the streambed as if the snow were hiding in the streambed. AT: "and because the snow melts and goes into them" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **When they thaw out, they vanish ... when it is hot, they melt out of their place** - These two phrases have the same meaning. They describe how the streambed dries up in the hot season. AT: "but when it is hot, the ice melts and the streambeds dry up" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -86,4 +86,4 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit fear}}
+{{tag>publish p2check fear}}

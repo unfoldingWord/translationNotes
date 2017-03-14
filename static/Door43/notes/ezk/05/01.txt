@@ -19,8 +19,8 @@
 <usfm>
 \c 5
 \p
-\v 1 "Then you, son of man, take a sharp sword as a barber's razor for yourself. And pass the razor over your head and your beard, then take scales to weigh and divide your hair.
-\v 2 Burn a third of it with fire in the midst of the city when the days of the siege are completed. And take a third of the hair and strike it with the sword all around the city. Then scatter a third of it to the wind, and I will draw out a sword to chase after the people.
+\v 1 "Then you, son of man, take a sharp sword as a barber's razor for yourself, and pass the razor over your head and your beard, then take scales to weigh and divide your hair.
+\v 2 Burn a third of it with fire in the midst of the city when the days of the siege are completed, and take a third of the hair and strike it with the sword all around the city. Then scatter a third of it to the wind, and I will draw out a sword to chase after the people.
 </usfm>
 
 ===== translationWords: =====
@@ -30,17 +30,17 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking to Ezekiel.
+  * **General Information:** - Yahweh continues speaking to Ezekiel. All instances of "the city" refer to the "city" that Ezekiel carved onto the brick ([[:en:bible:notes:ezk:04:01|4:1]]).
 
-  * **son of man** - This refers to Ezekiel. See how you translated it in [[:en:bible:notes:ezk:02:01|2:3]].
+  * **son of man** - "son of a human being" or "son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. Translate this as in [[:en:bible:notes:ezk:02:01|2:1]]. AT: "mortal person" or "human"
   * **barber's razor** - "blade for cutting hair"
-  * **pass the razor over your head and your beard** - "shave your head and your face" or "remove the hair from your head and your beard"
-  * **Burn a third of it** - "Burn a third of your hair"
-  * **in the midst of the city** - "in the middle of the city." The phrase "the city" probably refers to the picture of Jerusalem.
+  * **pass the razor over your head and your beard** - "shave your head and your face" or "remove the hair from your head and the beard from your face"
+  * **Burn a third of it** - "Burn a third of your hair" (See: [[:en:ta:vol2:translate:translate_fraction]])
+  * **midst** - middle
   * **when the days of the siege are completed** - "when the days of Jerusalem's siege have ended" or "when the days have ended that you show how Jerusalem will put under siege"
-  * **take a third of the hair** - "take one of the three piles of hair"
+  * **take a third of the hair** - "take one of the three piles of hair" (See: [[:en:ta:vol2:translate:translate_fraction]])
   * **and strike it with the sword all around the city** - "and hit it with your sword all over the city"
-  * **scatter a third of it to the wind** - AT: "let the wind blow the last third of your hair in different directions."
+  * **scatter a third of it to the wind** - "let the wind blow the last third of your hair in different directions" (See: [[:en:ta:vol2:translate:translate_fraction]])
   * **I will draw out a sword to chase after the people** - The word "sword" is a metonym for enemy soldiers who will attack with their swords, and to "draw out a sword" is to send the soldiers into battle. AT: "I will cause their enemies to pursue them and attack them with swords." (UDB) (See [[:en:ta:vol2:translate:figs_metonymy]])
   * **I will draw out a sword** - "I will pull a sword out of its container"
 
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:ezk:05]]
 **[[:en:bible:notes:ezk:04:16|<<]] | [[:en:bible:notes:ezk:05:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

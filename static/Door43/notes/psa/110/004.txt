@@ -18,7 +18,7 @@
 \q2 and he will never change his mind;
 \q1 he has said to the king, "You will be a priest forever
 \q2 like Melchizedek."
-\b
+
 
 
 \q1
@@ -43,7 +43,7 @@
 ===== translationNotes: =====
 
   * **You are** - Yahweh is speaking to the lord.
-  * **will not change** - This means that he will not change what he has said. AT: "and will not change his mind" or "will not change what he has said" (See: [[:en:ta:vol1:translate:figs_explicit]])   
+  * **will not change** - This means that he will not change what he has said. AT: "will not change his mind" or "will not change what he has said" (See: [[:en:ta:vol1:translate:figs_explicit]])   
   * **after the manner of Melchizedek** - The missing words may be added. AT: "after the manner that Melchizedek was priest" or "in the same way that Melchizedek was priest" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:psa:110]]
 **[[:en:bible:notes:psa:110:002|<<]] | [[:en:bible:notes:psa:110:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5 melchizedek}}
+~~DISCUSSION~~{{tag>publish p2pass book5 melchizedek}}
 
 ~~NOCACHE~~

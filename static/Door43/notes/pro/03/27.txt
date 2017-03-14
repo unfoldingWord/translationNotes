@@ -19,12 +19,11 @@
 
 <usfm>
 \v 27 Give good gifts to those who deserve it,
-\q2 when you can, help them. 
+\q2 when you can, help them.
 \q1
 \v 28 Do not say to your neighbor, "Come back later;
 \q2 perhaps I will help you tomorrow,"
 \q2 when you have the money with you and can help them now.
-\b
 
 
 \q1
@@ -38,7 +37,7 @@
 \v 27 Do not withhold good from those who deserve it,
 \q when it is in your power to act.
 \q
-\v 28 Do not say to your neighbor, 
+\v 28 Do not say to your neighbor,
 \q "Go, and come again, and tomorrow I will give it,"
 \q when you have the money with you.
 </usfm>
@@ -54,10 +53,9 @@
 ===== translationNotes: =====
 
 
-  * **Do not withhold good from** - "Do good to" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **withhold** - "hold back"
-  * **those who deserve it** - "those to whom you should give it"
- 
+  * **Do not withhold good** - "Do not withhold good things" or "Do not withhold good actions"
+  * **when it is in your power to act** - "when you are able to help"
+  * **when you have the money with you** - "when you have the money with you now." The meaning here is that the person has the money to help today, but tells his neighbor to come back tomorrow.
  
 ===== Links: =====
 
@@ -72,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -17,7 +17,6 @@
 <usfm>
 \v 6 "This is a list of the people who returned to Jerusalem and to other places in Judea. They had been living in Babylonia. Nebuchadnezzar had taken them there. They returned to Jerusalem and to Judah. Each one who returned went back to his own city where his ancestors had lived before the exile.
 \v 7 They came back with Zerubbabel, Joshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah.
-\b
 \p The number of men from the people who returned to Judah are listed next.
 
 
@@ -47,10 +46,11 @@
 ===== translationNotes: =====
 
   * **These are the people of the province** - "These are the descendants of this region"
-  * **who went up** - "who returned" or "who came up"
-  * **whom Nebuchadnezzar the king of Babylon took into exile** - "whom Nebuchadnezzar, Ruler of Babylon took away from their home country"
-  * **Nebuchadnezzar ... Zerubbabel ... Jeshua ... Nehemiah ... Azariah ... Raamiah ... Nahamani ... Mordecai ... Bilshan ... Mispereth ... Bigvai ... Nehum ... Baanah** - These are the names of males. (See: [[:en:ta:vol1:translate:translate_names]]). 
-  * **The number of the men** - A census had been taken when the Israelites first returned to Jerusalem after the exile. The numbers represent how many men belonged to each family group. This sentence introduces the information in the next verse.
+  * **went up out of** - "returned from" or "came back from"
+  * **went up** - This is an idiom that refers to traveling toward Jerusalem, which was on higher ground than the surrounding area. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **whom Nebuchadnezzar the king of Babylon took into exile** - "whom Nebuchadnezzar, ruler of Babylon, took away from their home country." The army of Babylon did this under the command of Nebuchadnezzar. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Zerubbabel ... Jeshua ... Nehemiah ... Azariah ... Raamiah ... Nahamani ... Mordecai ... Bilshan ... Mispereth ... Bigvai ... Nehum ... Baanah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]]). 
+  * **The number of the men** - A census had been taken when the Israelites first returned to Jerusalem after the exile. The numbers represent how many men belonged to each family group. This sentence introduces the information in the following verses.
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -64,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

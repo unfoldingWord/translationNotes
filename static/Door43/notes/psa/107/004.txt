@@ -55,7 +55,7 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:desert|]]
+  * [[:en:obe:other:desert]]
   * [[:en:obe:kt:life]]
   * [[:en:obe:other:trouble]]
 
@@ -73,6 +73,6 @@
   * [[:en:bible:questions:comprehension:psa:107]]
 **[[:en:bible:notes:psa:107:001|<<]] | [[:en:bible:notes:psa:107:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

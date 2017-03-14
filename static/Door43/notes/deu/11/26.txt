@@ -23,9 +23,9 @@
 
 <usfm>
 \p
-\v 26 Look, I set before you today a blessing and a curse;
-\v 27 the blessing, if you will listen to the commandments of Yahweh your God that I command you today;
-\v 28 and the curse, if you will not listen to the commandments of Yahweh your God, but turn aside out of the way that I command you today, to go after other gods that you have not known.
+\v 26 Look, I set before you today a blessing and a curse:
+\v 27 the blessing, if you obey the commandments of Yahweh your God that I command you today,
+\v 28 and the curse, if you do not obey the commandments of Yahweh your God, but turn aside from the way that I command you today, to go after other gods that you have not known.
 </usfm>
 
 
@@ -39,13 +39,15 @@
   * [[:en:obe:other:know]]
 
 ===== translationNotes: =====
+
   * **General Information:** - Here Moses summarizes the two options the people of Israel could choose. They could choose to obey and receive God's blessing or they could choose to disobey and receive God's punishment.
 
-  * **Look, I set before you today a blessing and a curse** - Giving the people the choice as to whether they want God to bless them or curse them is spoken of as if a blessing and a curse are objects that Moses is setting in front of them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Look** - "Pay attention"
+  * **I set before you today a blessing and a curse** - Allowing the people to choose whether they want God to bless them or curse them is spoken of as if a blessing and a curse were objects that Moses is setting in front of them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the blessing** - This abstract noun can be stated as a verb. AT: "God will bless you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **the curse** - This abstract noun can be stated as a verb. AT: "God will curse you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **but turn aside out of the way that I command you today, to go after other gods** - The commands of Yahweh that Moses is telling the people is spoken of as if they were God's way or road. To not obey God's commands is spoken of as if the person physically turns in another direction away from Yahweh to follow other gods. AT: "but stop obeying what I command you today, in order to worship other gods" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **to go after other gods that you have not known** - The phrase "gods that you have not know" refers to the gods that other people groups worship. The Israelites know Yahweh because he has revealed himself to them and they have experienced his power.
+  * **but turn aside from the way that I command you today, to go after other gods** - The commands of Yahweh that Moses is telling the people are spoken of as if they were God's way or road. To not obey God's commands is spoken of as if people physically were to turn in another direction away from Yahweh to follow other gods. AT: "but stop obeying what I command you today, in order to worship other gods" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **other gods that you have not known** - This refers to the gods that other people groups worship. The Israelites know Yahweh because he has revealed himself to them and they have experienced his power.
 
 ===== Links: =====
 
@@ -54,6 +56,6 @@
   * [[:en:bible:questions:comprehension:deu:11]]
 **[[:en:bible:notes:deu:11:24|<<]] | [[:en:bible:notes:deu:11:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

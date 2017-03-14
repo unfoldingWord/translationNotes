@@ -48,7 +48,10 @@
 
 ===== translationNotes: =====
 
-  * **when David defeated** - AT: "when David's army killed" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Rezon ... Eliada ... Hadadezer** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Zobah ... Damascus ... Aram** - These are the name of locations. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **when David defeated** - "David" refers to all of David's forces. AT: "when David's army overcame" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **all the days of Solomon** - Here the word "days" refers to a period of time and "Solomon" refers to everything under his control. AT: "all the time when Solomon had control" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **Rezon abhorred Israel** - "Rezon hated Israel very much"
 
 ===== Links: =====
@@ -58,6 +61,6 @@
   * [[:en:bible:questions:comprehension:1ki:11]]
 **[[:en:bible:notes:1ki:11:20|<<]] | [[:en:bible:notes:1ki:11:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

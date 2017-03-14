@@ -17,7 +17,6 @@
 <usfm>
 \v 13 Then the people of Moab will be ashamed of their god Chemosh that they had trusted in, because it did not help them,
 \q2 like the Israelite people were ashamed because their gold statue of a calf was smashed at Bethel.
-\b
 \q1
 \v 14 The soldiers of Moab previously said, "We are warriors;
 \q2 we have fought bravely in battles!"
@@ -29,6 +28,7 @@
 ===== ULB: =====
 
 <usfm>
+\q
 \v 13 Then Moab will be ashamed of Chemosh just as the house of Israel was ashamed of Bethel, their object of trust.
 \q
 \v 14 How can you say, 'We are soldiers, powerful fighting men'?

@@ -17,7 +17,6 @@
 <usfm>
 \v 1 Tell Yahweh that you thank him very much for the good things that he has done for you!
 \q2 He faithfully loves us, his people, forever.
-\b
 \q1
 \v 2 You Israelite people should repeatedly shout,
 \q2 "He faithfully loves us, his people, forever!"
@@ -30,7 +29,7 @@
 
 <usfm>
 \c 118
-\p
+\m
 \q
 \v 1 Give thanks to Yahweh, for he is good,
 \q for his covenant faithfulness endures forever.
@@ -50,7 +49,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **Give thanks to Yahweh, for he is good** - "Thank Yahweh because of the good things he does"
   * **His covenant faithfulness endures forever** - "He faithfully loves us forever"
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:118]]
 **[[:en:bible:notes:psa:117:001|<<]] | [[:en:bible:notes:psa:118:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

@@ -18,7 +18,7 @@
 \li2
 \v 51 Gazzam, Uzza, Paseah,
 \li2
-\v 52 Besai, Meunim, Ephusesim who is also called Nephusim,
+\v 52 Besai, Meunim, Ephusesim who is also called Nephushesim,
 
 
 \li2
@@ -28,7 +28,7 @@
 
 <usfm>
 \v 50 The descendants of Reaiah, the descendants of Rezin, the descendants of Nekoda,
-\v 51 the descendants of Gazzam, the descendants of Uzza, the descendants of Paseah, 
+\v 51 the descendants of Gazzam, the descendants of Uzza, the descendants of Paseah,
 \v 52 the descendants of Besai, the descendants of Meunim, the descendants of Nephushesim.
 </usfm>
 
@@ -37,7 +37,9 @@
   * [[:en:obe:other:descendant]]
 ===== translationNotes: =====
 
-  * **Reaiah ... Rezin ... Nekoda ... Gazzam ... Uzza ... Paseah ... Besai ... Meunim ... Nephushesim** - These are names of males. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **General Information:** - These verses continue the names of people whose descendants returned from the exile.
+
+  * **Reaiah ... Rezin ... Nekoda ... Gazzam ... Uzza ... Paseah ... Besai ... Meunim ... Nephushesim** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -45,6 +47,6 @@
   * [[:en:bible:questions:comprehension:neh:07]]
 **[[:en:bible:notes:neh:07:46|<<]] | [[:en:bible:notes:neh:07:53|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

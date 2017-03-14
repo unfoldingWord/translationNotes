@@ -18,7 +18,7 @@
 \v 12 Then the woman said, "Your Majesty, please allow me to say one more thing to you." He replied, "Speak!"
 \p
 \v 13 The woman said, "Why have you done this bad thing to God's people? You have not allowed your son Absalom to return home. By saying what you have just said, you have certainly declared that what you have done is wrong.
-\v 14 We all die. We are like water that cannot be picked up after it is spilled on the ground. After we die, we cannot become alive again. Even God does not cause people who have died to become alive again. So Amnon cannot become alive again. But God creates ways for those who have been exiled to be able to return to their homes.
+\v 14 All of us will die. We are like water that cannot be picked up after it is spilled on the ground. God does not take life away, but instead, God creates ways for those who have been exiled to return and be restored to their people and to their homes.
 
 
 \p
@@ -31,7 +31,7 @@
 \p
 \v 12 Then the woman said, "Please let your servant speak a further word to my master the king." He said, "Speak on."
 \v 13 So the woman said, "Why then have you devised such a thing against the people of God? For in saying this thing, the king is like someone who is guilty, because the king has not brought back home again his banished son.
-\v 14 For we all must die and are like water spilled on the ground, which cannot be gathered up again. But God does not take away life; instead, he finds a way to bring back one whom he has driven away from himself.
+\v 14 For we all must die, and we are like water spilled on the ground, which cannot be gathered up again. But God will not take away life; instead, he finds a way for those who were driven away to be restored.
 </usfm>
 
 
@@ -41,11 +41,14 @@
 
 ===== translationNotes: =====
 
-  * **Please let your servant speak a further word to my master the king** - The woman is requesting permission to speak to King David on a new topic. "Please may I say something to you"
-  * **Speak on** - "You may speak to me"
-  * **Why then have you devised such a thing against the people of God?** - This question is asked to rebuke David and can be translated as a statement. AT: "What you have just said proved that you did wrong." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **For we all must die and are like water spilled on the ground ... again** - Here dying is being compared to water spilling. AT: "After we die we cannot be brought back to life again" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **God ... finds a way to bring back one whom he has driven away from himself** - "God brings back someone whom he has chased away from himself and you should bring back your son who has run away from you" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **your servant** - To show respect for the king the woman refers to herself as "your servant."
+  * **speak a further word to** - "talk about something else to." The woman is requesting to speak to the king about another topic. 
+  * **Speak on** - This is an idiom. The king was giving her permission to continue speaking. AT: "You may speak to me" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Why then have you devised such a thing against the people of God?** - The woman asks this rhetorical question to rebuke David for how he has treated Absalom. This question can be written as a statement. AT: "What you have just said proved that you did wrong." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the king is like someone who is guilty** - The woman compares the king to someone who is guilty to suggest that he is guilty without saying it directly. AT: "the king has declared himself guilty"
+  * **his banished son** - "his son whom he banished"
+  * **For we all must die, and we are like water spilled on the ground ... up again** - Here the woman speaks of a person dying as if they were water being spilled on the ground. AT: "We all must die, and after we die we cannot be brought back to life again" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **God ... finds a way for those who were driven away to be restored** - The woman is implying that David should bring his son back to himself. This can be stated clearly. AT: "God brings back someone whom he has driven away and you should do the same for your son" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
  
 ===== Links: =====
@@ -61,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

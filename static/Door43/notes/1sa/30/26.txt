@@ -26,7 +26,7 @@
 <usfm>
 \p
 \v 26 When David came to Ziklag, he sent some of the booty to the elders of Judah, to his friends, saying, "See, here is a present for you from the booty from Yahweh's enemies."
-\v 27 To the elders who were in Bethuel, and to those who were in Ramoth of the South, and to those who were in Jattir,
+\v 27 He also sent some to the elders who were in Bethuel, and to those who were in Ramoth of the South, and to those who were in Jattir,
 \v 28 and to those who were in Aroer, and to those who were in Siphmoth, and to those who were in Eshtemoa.
 </usfm>
 
@@ -43,7 +43,10 @@
 
 ===== translationNotes: =====
 
-  * **Ziklag ... Bethuel ... Jattir ... Aroer ... Siphmoth ... Eshtemoa** - These are the names of towns. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Connecting Statement:** - The writer begins a list of cities whose elders received gifts from David.
+
+  * **Ziklag ... Bethuel ... Jattir ... Aroer ... Siphmoth ... Eshtemoa** - names of towns (See: [[:en:ta:vol1:translate:translate_names]])
+  * **booty** - goods that David had taken from the Amalekites after the battle. Translate as in [[:en:bible:notes:1sa:30:16|30:16]].
   * **a present** - "a gift"
 
 ===== Links: =====
@@ -53,6 +56,6 @@
   * [[:en:bible:questions:comprehension:1sa:30]]
 **[[:en:bible:notes:1sa:30:23|<<]] | [[:en:bible:notes:1sa:30:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit kingdomofjudah}}
+~~DISCUSSION~~{{tag>publish p2pass p2example kingdomofjudah}}
 
 ~~NOCACHE~~

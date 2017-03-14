@@ -35,9 +35,12 @@
  
 ===== translationNotes: =====
 
-  * **from Dan to Beersheba** - This phrase means from the northern border of Israel to the southern border, or "the whole nation." (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **as numerous as the sands that are by the sea** - This is an exaggeration where all the grains of sand on a beach are compared to all the people of Israel, meaning the whole nation will follow Absalom. AT: "a very large number of people" (See: [[:en:ta:vol2:translate:figs_hyperbole]]) 
-  * **we will cover him as the dew falls on the ground** - Absalom's army is described as covering David's army like the dew covers the ground in the morning. AT: "we will completely defeat David's army" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **that all Israel should be gathered together to you** - This can be stated in active form. Also, the all of the soldiers in Israel are referred to here as "all Israel." AT: "that you should gather together all of the Israelite soldiers" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **from Dan to Beersheba** - This phrase means from the northern border of Israel to the southern border. AT: "from the whole nation of Israel" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **as numerous as the sands that are by the sea** - This is an exaggeration where all the grains of sand on a beach are compared to the number of Israelite soldiers. AT: "so many that they can barely be counted" (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol1:translate:figs_simile]]) 
+  * **that you go to battle in person** - The phrase "in person" means to go yourself and not send someone else instead. AT: "then lead them yourself into battle" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **come on him** - This means to purposefully go to where he is and then to attack. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **we will cover him as the dew falls on the ground** - Absalom's army is described as covering David's army like the dew covers the ground in the morning. AT: "we will overwhelm and completely defeat David's army" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **dew** - the fog or misty cloud of water that can fall onto the ground during the night, covering the ground and leaving it wet in the morning
   * **We will not leave even one of his men ... alive** - This negative sentence is used for emphasis and can be stated in a positive form. AT: "We will kill every one of his men" (See: [[:en:ta:vol2:translate:figs_litotes]]) 
   * **him himself** - Both these words refer to David. AT: "David himself" (See: [[:en:ta:vol2:translate:figs_rpronouns]])
@@ -56,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit beersheba}}
+{{tag>publish p2pass beersheba}}
 
 ~~NOCACHE~~

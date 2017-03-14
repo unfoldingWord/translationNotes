@@ -31,9 +31,8 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 20 Go, my people, enter into your rooms and shut your doors behind you; 
+\v 20 Go, my people, enter into your rooms and shut your doors behind you;
 \q1 hide for a little while, until the indignation has passed by.
 \q1
 \v 21 For, look, Yahweh is about to come out of his place to punish the inhabitants of the earth for their iniquity;
@@ -50,8 +49,9 @@ will uncover her bloodshed, and will no longer conceal her slain.
 
 ===== translationNotes: =====
 
-  * **my people** - Here "my" refers to Isaiah. Also "people" refers to the people of Judah.
-  * **the earth will uncover her bloodshed** - Isaiah describes the earth as a person who will reveal all the murders that have happened. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **my people** - Here "my" refers to Isaiah. Also "people" refers to the people of Israel.
+  * **until the indignation has passed by** - Translate the abstract noun "indignation" as the adjective "angry." AT: "until Yahweh is no longer angry with us" (See: [[:en:ta:vol2:translate:figs_abstractnouns]]) 
+  * **the earth will uncover her bloodshed, and will no longer conceal her slain** - Yahweh revealing all murders that have happened on the earth so that he can punish the murderers is spoken of as if the earth itself will reveal everyone who has been murdered. (See: [[:en:ta:vol2:translate:figs_personification]])
 
 ===== Links: =====
 
@@ -60,6 +60,6 @@ will uncover her bloodshed, and will no longer conceal her slain.
   * [[:en:bible:questions:comprehension:isa:26]]
 **[[:en:bible:notes:isa:26:19|<<]] | [[:en:bible:notes:isa:27:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit bloodshed slain}}
+~~DISCUSSION~~{{tag>publish p2pass bloodshed slain}}
 
 ~~NOCACHE~~

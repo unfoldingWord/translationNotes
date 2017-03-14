@@ -27,8 +27,8 @@
 <usfm>
 \p
 \v 20 All winged insects that walk on four legs are detestable to you.
-\v 21 Yet you may eat any of the flying insects that also walk on four legs if they have a jointed legs for hopping on the ground.
-\v 22 And you may also eat any kind of locust, katydid, cricket, or grasshopper.
+\v 21 Yet you may eat any of the flying insects that also walk on four legs if they have jointed legs for hopping on the ground.
+\v 22 You may also eat any kind of locust, katydid, cricket, or grasshopper.
 \v 23 But all the flying insects that have four feet must be detested by you.
 </usfm>
 
@@ -41,7 +41,7 @@
 
   * **All winged insects that walk on four legs are detestable to you** - The word "detestable" can be translated with a verbal phrase. AT: "You will detest all winged insects that walk on four legs" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **insects that walk on four legs** - Here the phrase "four legs" is an idiom that means to crawl on the ground and sets these insects apart from other flying things, such as birds, that have only two feet. AT: "insects that crawl on the ground" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **locust, katydid, cricket, or grasshopper** - These are small insects that eat plants and can jump . (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **locust, katydid, cricket, or grasshopper** - These are small insects that eat plants and can jump. (See: [[:en:ta:vol1:translate:translate_unknown]])
   * **flying insects that have four feet** - "flying insects that have four legs"
 
 ===== Links: =====
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:lev:11]]
 **[[:en:bible:notes:lev:11:17|<<]] | [[:en:bible:notes:lev:11:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -24,9 +24,9 @@
 
 <usfm>
 \p
-\v 13 It came about that on a day when his sons and his daughters were eating and drinking wine in their oldest brother's house,
-\v 14 a messenger came to Job and said, "The oxen were plowing and the donkeys were feeding beside them;
-\v 15 the Sabeans attacked them and took them away. Indeed, they have killed the servants with the edge of the sword; I only have escaped to tell you."
+\v 13 It came about that on a certain day, his sons and his daughters were eating and drinking wine in their oldest brother's house.
+\v 14 A messenger came to Job and said, "The oxen were plowing and the donkeys were feeding beside them.
+\v 15 Sheba fell on them and took them away. As for the servants, they have struck them with the mouth of the sword. I alone have escaped to tell you."
 </usfm>
 
 ===== translationWords: =====
@@ -42,7 +42,10 @@
 
 ===== translationNotes: =====
 
-  * **Sabeans** - A group of people from the land of Sheba located in modern day Yemen. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Sheba** - This was a region located in modern day Yemen. Here it represents a group of raiders or bandits from Sheba. (See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **fell on them** - Here "fell" represents the idea of attacking. AT: "attacked them" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **have struck** - Here striking represents killing. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the mouth of the sword** - Here "mouth" represents the part of swords that kill people, that is, either the point or the sharp edge. Also, all the swords of the men from Sheba are spoken of as if they were only one sword. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_genericnoun]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -50,6 +53,6 @@
   * [[:en:bible:questions:comprehension:job:01]]
 **[[:en:bible:notes:job:01:09|<<]] | [[:en:bible:notes:job:01:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

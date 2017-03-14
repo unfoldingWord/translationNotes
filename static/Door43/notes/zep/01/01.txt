@@ -21,7 +21,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 Yahweh's message came to Zephaniah son of Cushi, the grandson of Gedaliah, and the great-grandson of Amariah, whose father was King Hezekiah. 
+\v 1 Yahweh's message came to Zephaniah son of Cushi, the grandson of Gedaliah, and the great-grandson of Amariah, whose father was King Hezekiah.
 Yahweh gave this message during the time when King Amon's son Josiah was the king of Judah.
 \q1
 \v 2 Yahweh said,
@@ -31,7 +31,6 @@ Yahweh gave this message during the time when King Amon's son Josiah was the kin
 \q2 I will sweep away birds and fish.
 \q1 I will get rid of wicked people;
 \q2 so that there will be no more wicked people on the earth."
-\b
 
 
 
@@ -45,13 +44,12 @@ Yahweh gave this message during the time when King Amon's son Josiah was the kin
 \p
 \v 1 This is the word of Yahweh that came to Zephaniah son of Cushi son of Gedaliah son of Amariah son of
 Hezekiah, in the days of Josiah son of Amon, king of Judah.
-\p
 \q
-\v 2 "I will utterly destroy everything from off the face of the earth!—this is Yahweh's declaration.
+\v 2 "I will utterly destroy everything from off the surface of the earth—this is Yahweh's declaration.
 \q
-\v 3 I will destroy man and beast; I will destroy the birds of the heavens and the fish of the sea, 
-\q the ruins along with the wicked. 
-\q For I will cut off man from the face of the earth!—this is Yahweh's declaration.
+\v 3 I will destroy man and beast; I will destroy the birds of the heavens and the fish of the sea,
+\q the ruins along with the wicked.
+\q For I will cut off man from the surface of the earth—this is Yahweh's declaration.
 </usfm>
 
 ===== translationWords: ===== 
@@ -68,7 +66,9 @@ Hezekiah, in the days of Josiah son of Amon, king of Judah.
 ===== translationNotes: =====
 
   * **the word of Yahweh that came** - "the word that Yahweh God spoke" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **I will utterly destroy everything from off the face of the earth! ... I will cut off man from the face of the earth!** - These are deliberate exaggerations by Yahweh to emphasize his anger at the people's sin. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
+  * **I will utterly destroy everything from off the surface of the earth ... I will cut off man from the surface of the earth** - These are deliberate exaggerations by Yahweh to express his anger at the people's sin. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **cut off** - Destroying is spoken of as if it were cutting something off from what it was a part of. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 

@@ -19,11 +19,10 @@
 <usfm>
 \v 9 I want that the righteous behavior of your priests will always be evident,
 \q1 and that your people will always shout joyfully.
-\b
 \q1
 \v 10 You chose David to serve you as king of Israel;
 \q2 do not reject him!
-\b
+
 
 
 \q1
@@ -57,7 +56,7 @@
 
   * **May your priests be clothed with integrity** - Integrity is spoken of as if it were clothing.  AT: "May people recognize that your priests have integrity" or "I want people see how your priests always do what is right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **For your servant David's sake** - "Because of what happened to your servant David." See how you translated a similar phrase in [[:en:bible:notes:psa:132:001|132:1]].
-  * **do not turn away from your anointed king** - Ignoring or hating someone is spoken of as "turning away from them. AT: "do not abandon the king that you anointed" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **do not turn away from your anointed king** - Here "turning away" means to reject someone. AT: "do not abandon the king that you anointed" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -65,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:132]]
 **[[:en:bible:notes:psa:132:006|<<]] | [[:en:bible:notes:psa:132:011|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

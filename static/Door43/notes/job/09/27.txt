@@ -58,11 +58,13 @@
  
 ===== translationNotes: =====
 
-  * **my complaints** - This phrase can be made explicit. "my complaints against God" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **I would take off my sad face and be happy** - "I would stop looking unhappy and smile"
-  * **I would be afraid of all my sorrows** - Possible meanings are 1) Job is referring to his hurts 2) Job is referring to the complaints he has made against God, and is afraid that his complaining means that God will punish him. AT: "I would be scared of my troubles" or "I am scared of the bad things I have said against God"
-  * **I will be condemned** - "I will be falsely accused and punished"
-  * **why, then, should I try in vain?** - Job uses this question to emphasize that he does not think it is of any use trying to get God's attention AT: "It is no use working to get God's attention" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **I would forget about my complaints** - The abstract noun "complaint" can be translated as the verb "complain." AT: "I would stop complaining" or "I would stop complaining against God" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **my complaints** - The implied information can be added. AT: "my complaints against God" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **I would take off my sad face and be happy** - Job's sad face is spoken of here as if it was something that could be removed. AT: "I would stop looking unhappy and smile" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I would be afraid of all my sorrows** - Verses 28 and 29 express the consequences if Job does what he says in verse 27. AT: "Then I would be afraid of all my sorrows"
+  * **all my sorrows** - The abstract noun "sorrows" can be expressed as a verb. AT: "what will hurt me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **I will be condemned** - "I will be accused and punished." This can be stated in active form. AT: "God will condemn me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **why, then, should I try in vain?** - Job uses this question to emphasize that he does not think it is of any use trying to get God's attention. The implied information about what Job is trying can be made explicit. AT: "It is of no use to try to get God's attention" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
 
  
 ===== Links: =====
@@ -78,6 +80,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit condemn}}
+{{tag>publish p2check condemn}}
 
 ~~NOCACHE~~

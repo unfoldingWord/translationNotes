@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 8 At that time Yahweh chose the tribe of Levi to bear the covenant of Yahweh, to stand before Yahweh to serve him, and to bless people in his name, as today.
+\v 8 At that time Yahweh chose the tribe of Levi to carry the ark of the covenant of Yahweh, to stand before Yahweh to serve him, and to bless people in his name, as today.
 \v 9 Therefore Levi has no portion nor inheritance of land with his brothers; Yahweh is his inheritance, as Yahweh your God spoke to him.)
 </usfm>
 
@@ -44,10 +44,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The writer continues to tell where the Israelites had traveled. (See: [[:en:ta:vol2:translate:writing_background]]) 
+  * **General Information:** - The writer gives background information about the tribe of Levi. (See: [[:en:ta:vol2:translate:writing_background]]) 
  
-  * **bear the covenant of Yahweh** - The word "covenant" is a metonym for the ark of the covenant, which contained the tablets on which Yahweh had written the terms of the covenant. AT: "bear the ark of the covenant Yahweh made with us" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **to stand before Yahweh to serve him** - "to offer the sacrifices that Yahweh requires" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to stand before Yahweh to serve him** - This is an idiom. "to offer the sacrifices that Yahweh requires" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **in his name** - "with the authority of Yahweh" or "as a representative of Yahweh" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **as today** - "as they are doing today"
   * **no portion nor inheritance of land** - The tribe of Levi did not receive a portion of the promised land when they arrived there. The full meaning of this statement may be made explicit. (See: [[:en:ta:vol1:translate:figs_explicit]])
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:deu:10]]
 **[[:en:bible:notes:deu:10:06|<<]] | [[:en:bible:notes:deu:10:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

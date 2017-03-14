@@ -27,21 +27,23 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:god|God]]
-  * [[:en:obe:other:israel|Israel, Israelites, nation of Israel]]
-  * [[:en:obe:other:king|king]]
-  * [[:en:obe:other:kingdomofjudah|Judah, kingdom of Judah]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:israel]]
+  * [[:en:obe:other:king]]
+  * [[:en:obe:other:kingdomofjudah]]
   * [[:en:obe:other:siege]]
-  * [[:en:obe:other:sword|sword]]
-  * [[:en:obe:other:chaldeans|Chaldea, Chaldean]]
-  * [[:en:obe:kt:wrath|wrath]]
-  * [[:en:obe:kt:face|face]]
-  * [[:en:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:en:obe:other:sword]]
+  * [[:en:obe:other:chaldeans]]
+  * [[:en:obe:kt:wrath]]
+  * [[:en:obe:kt:face]]
+  * [[:en:obe:kt:evil]]
 
 ===== translationNotes: =====
 
+  * **that are torn down because of the siege ramps and the sword** - This can be translated in active form. Possible meanings are 1) the people tore the houses down to make walls to defend against the Chaldeans AT: "that the people have torn down to defend against the siege ramps and the sword" or 2) AT: "the houses that the Chaldeans have torn down to make siege ramps so they can make war." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the sword** - This is a metonym for people dying violently when soldiers kill with swords. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **in my wrath and fury** - The words "wrath" and "fury" mean basically the same thing and emphasize the intensity of his wrath. AT: "in my extreme wrath." (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **hide my face** - This phrase shows Yahweh's displeasure with the city. AT: "I have turned away from you" or "I am not longer concerned with you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **I hide my face** - This phrase shows Yahweh's displeasure with the city. AT: "I have turned away from you" or "I am no longer concerned with you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -50,6 +52,6 @@
   * [[:en:bible:questions:comprehension:jer:33]]
 **[[:en:bible:notes:jer:33:01|<<]] | [[:en:bible:notes:jer:33:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit siege}}
+~~DISCUSSION~~{{tag>publish p2check siege}}
 
 ~~NOCACHE~~

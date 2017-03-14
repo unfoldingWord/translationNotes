@@ -20,12 +20,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 22 For just as the new heavens and the new earth that I will make
 \q1 will remain before me—this is Yahweh's declaration—so your descendants will remain, and your name will remain.
 \q1
-\v 23 From one month to the next, and from one Sabbath to the next, 
+\v 23 From one month to the next, and from one Sabbath to the next,
 \q1 all people will come to bow down to me—says Yahweh.
 </usfm>
 
@@ -42,8 +41,10 @@
   * [[:en:obe:kt:bow]]
 
 ===== translationNotes: =====
-  * **the new heavens and the new earth** - See how you translated this in [[:en:bible:notes:isa:65:17|65:17]].
-  * **Yahweh's declaration** - See how you translated this in [[:en:bible:notes:isa:14:21|14:22]].
+
+  * **the new heavens and the new earth** - Translate this as in [[:en:bible:notes:isa:65:17|65:17]].
+  * **Yahweh's declaration** - Translate this as in [[:en:bible:notes:isa:14:21|14:22]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -51,6 +52,6 @@
   * [[:en:bible:questions:comprehension:isa:66]]
 **[[:en:bible:notes:isa:66:20|<<]] | [[:en:bible:notes:isa:66:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -29,7 +29,6 @@
 \q2 they took him to the king of Babylon.
 \q1 There they locked him up in a mountain prison,
 \q2 with the result that no one on the hills of Israel ever heard him roar again.'
-\b
 \p Also, say to the Israelite people:
 
 
@@ -43,7 +42,7 @@
 \v 8 But the nations came against him from the surrounding provinces;
 \q they spread their nets over him. He was caught in their trap.
 \q
-\v 9 They put him in a cage with hooks and brought him to the king of Babylon. 
+\v 9 They put him in a cage with hooks and brought him to the king of Babylon.
 \q They brought him into mountain fortresses so that his voice would no longer be heard on the mountains of Israel.
 </usfm>
 
@@ -59,11 +58,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to describe the nation of Israel as a lioness and the kings of the kingdom of Judah as her cubs.
+  * **General Information:** - Yahweh continues to describe the nation of Israel as a lioness and the kings of the kingdom of Judah as her cubs. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
-  * **against him** - The word "him" refers to the second young lion, who represents Jehoiachin. 
-  * **from the surrounding provinces** - AT: "from the provinces surrounding the land of Israel." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **provinces** - countries that were ruled by Babylon
+  * **He was caught in their trap** - This can be stated in active form. AT: "They caught him in their trap" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **from the surrounding provinces** - "from the provinces surrounding the land of Israel"
+  * **his voice would no longer be heard** - This can be stated in active form. AT: "people would no longer hear his voice" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -72,6 +71,6 @@
   * [[:en:bible:questions:comprehension:ezk:19]]
 **[[:en:bible:notes:ezk:19:05|<<]] | [[:en:bible:notes:ezk:19:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

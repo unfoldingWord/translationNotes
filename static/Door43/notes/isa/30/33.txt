@@ -24,8 +24,8 @@
 
 <usfm>
 \q1
-\v 33 For a place of burning was prepared long ago. Indeed, it is prepared for the king, and God has made it deep and wide. 
-\q1 The pile is ready with a fire and much wood. 
+\v 33 For a place of burning was prepared long ago. Indeed, it is prepared for the king, and God has made it deep and wide.
+\q1 The pile is ready with a fire and much wood.
 \q1 The breath of Yahweh, like a stream of brimstone, will set it on fire.
 </usfm>
 
@@ -38,9 +38,12 @@
 
 ===== translationNotes: =====
 
-  * **For a place of burning was prepared long ago** - The name "Topheth" means "a place of burning." This can be stated in active form. AT: "For long ago Yahweh prepared a place for burning" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **it is prepared for the king** - This can be stated in active form. It can be made more explicit. AT: "Yahweh prepared it for the king of Assyria" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **The breath of Yahweh, like a stream of brimstone, will set it on fire** - This compares the breath of Yahweh's mouth to a river of fire. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **For a place of burning was prepared long ago** - This can be stated in active form. AT: "For long ago Yahweh prepared a place for burning" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a place of burning** - This phrase is the meaning of the word "Topheth." Topheth is a place in the Hinnom Valley, south of Jerusalem, where at one time people burned their children as sacrifices to a false god. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **it is prepared for the king** - It is implied that this refers to the king of Assyria. This can be stated in active form. AT: "Yahweh prepared it for the king of Assyria" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The pile is ready with a fire and much wood** - "The pile is ready with much wood to make a fire"
+  * **The breath of Yahweh, like a stream of brimstone, will set it on fire** - This speaks of Yahweh's breath as if it were a river of fire that will set the pile on fire. (See: [[:en:ta:vol1:translate:figs_simile]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -48,6 +51,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:30:31|<<]] | [[:en:bible:notes:isa:31:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

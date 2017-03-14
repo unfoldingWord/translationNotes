@@ -12,7 +12,6 @@
 
 <usfm>
 \v 6 I want all living creatures to praise Yahweh!
-\b
 \q1 Praise Yahweh!
 </usfm>
 
@@ -40,6 +39,6 @@
   * [[:en:bible:questions:comprehension:psa:150]]
 **[[:en:bible:notes:psa:150:003|<<]] | **
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

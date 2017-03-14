@@ -36,10 +36,9 @@
 
 ===== translationNotes: =====
 
-  * **who sold himself to do what was evil** - AT: "dedicated himself to do what was evil" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **what was evil in the sight of Yahweh** - AT: "what Yahweh considered to be evil" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **whom Jezebel ... incited** - Here "whom" refers to Ahab.
-  * **removed before the people of Israel** - Here "Israel" refers to all twelve tribes of Israel and not just to the northern kingdom. AT: "removed from the presence of the people of Israel" or "drove out of the land before the people of Israel"
+  * **who sold himself to do what was evil** - A person being committed to doing what is evil is spoken of as if that person had sold himself to evil. See how you translated this idea in [[:en:bible:notes:1ki:21:19|21:20]]. AT: "who dedicated himself to doing what was evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **what was evil in the sight of Yahweh** - The phrase, "in the sight of" refers to someone's opinion. See how you translated this in [[:en:bible:notes:1ki:11:05|11:6]]. AT: "what Yahweh considers to be evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **removed before the people of Israel** - Here "Israel" refers to all twelve tribes of Israel and not just to the northern kingdom. AT: "removed from the presence of the people of Israel" or "drove out of the land before the people of Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -48,6 +47,6 @@
   * [[:en:bible:questions:comprehension:1ki:21]]
 **[[:en:bible:notes:1ki:21:23|<<]] | [[:en:bible:notes:1ki:21:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

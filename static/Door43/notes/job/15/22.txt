@@ -58,14 +58,17 @@
  
 ===== translationNotes: =====
 
-  * **He** - This refers to the wicked man whom Eliphaz started to describe in [[:en:bible:notes:job:15:19|15:20]].
-  * **return out of darkness** - AT: "return from the dead" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the sword waits for him** - The sword is a metaphor for death. At the same time the sword is described as if it were a person that is waiting. AT: "the sword is like a person that is waiting for him to kill him" or "death waits for him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the day of darkness** - AT: "the day of disaster" or "the moment of his death" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **is at hand** - AT: "is coming soon" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Distress and anguish** - These two words mean basically the same thing and emphasize the intensity of the emotion. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **they prevail against him** - "it will overpower him" or "they will defeat him"
-  * **as a king ready for battle** - This compares the fears he has to a king with an army. AT: "just like a king, who is ready for a battle, would prevail against him" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Connecting Statement:** - Eliphaz continues describing the wicked man he began to describe in [[:en:bible:notes:job:15:19|15:20]].
+
+  * **return out of darkness** - Here "darkness" is a metaphor for trouble or misfortune. AT: "escape misfortune" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the sword waits for him** - Here "the sword" is a metonym that represents an enemy who is waiting to kill the evil man. Possible meanings are 1) he is worried that someone will murder him. AT: "he worries that someone is about to murder him" or 2) it is certain that he is going to be murdered. AT: "someone is waiting to murder him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **for bread** - Here "bread" refers to food in general. AT: "for food" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the day of darkness** - This is an idiom. AT: "the day of disaster" or "the moment of his death" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **is at hand** - This is an idiom. AT: "is coming soon" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Distress and anguish make him afraid;
+they prevail against him** - The word "distress" and "anguish" mean basically the same thing and emphasize the intensity of the emotion. Here these feelings are spoken of as if they were an enemy who is attacking the wicked man. (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **prevail against** - "overpower" or "defeat" 
+  * **as a king ready for battle** - This compares how his distress and anguish overpower him to how a king, who is ready for battle, would prevail against him. AT: "just like a king, who is ready for a battle, would prevail against him" (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -73,6 +76,6 @@
   * [[:en:bible:questions:comprehension:job:15]]
 **[[:en:bible:notes:job:15:19|<<]] | [[:en:bible:notes:job:15:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit anguish}}
+~~DISCUSSION~~{{tag>publish p2check anguish}}
 
 ~~NOCACHE~~

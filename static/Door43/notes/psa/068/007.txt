@@ -18,7 +18,6 @@
 <usfm>
 \v 7 God, you led your people out of Egypt,
 \q2 and then you marched with them through the desert.
-
 \q1
 \v 8 After you did that,
 \q1 the earth shook at Mount Sinai when you appeared to your people,
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:068]]
 **[[:en:bible:notes:psa:068:004|<<]] | [[:en:bible:notes:psa:068:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

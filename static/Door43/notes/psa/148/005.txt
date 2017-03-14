@@ -16,13 +16,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 I want all of these to praise Yahweh 
+\v 5 I want all of these to praise Yahweh
 \q2 because by commanding that they exist, he created them.
 \q1
 \v 6 He set them in place;
 \q2 he commanded that they should be there forever.
 \q2 They cannot disobey that command!
-\b
+
 
 
 \q1
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:148]]
 **[[:en:bible:notes:psa:148:003|<<]] | [[:en:bible:notes:psa:148:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

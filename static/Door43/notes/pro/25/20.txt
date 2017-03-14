@@ -15,9 +15,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 20 Singing a song to someone who is feeling sad, 
+\v 20 Singing a song to someone who is feeling sad,
 \q2 it is as unhelpful as taking off a coat on a very cold day,
-\q2 or pouring vinegar into a wound.
+\q2 or pouring vinegar into soda, making it bubble.
 
 
 \q1
@@ -40,9 +40,9 @@
   * [[:en:obe:other:heart]]
 ===== translationNotes: =====
 
-
-  * **a heavy heart** - AT: "a sad person: (See: [[:en:ta:vol2:translate:figs_synecdoche]])
- 
+  * **carbonate of soda** - This is a kind of mineral that hisses and bubbles violently when it comes into contact with acids like vinegar. Many translations translate this phrase as "a wound."
+  * **sings songs** - You may need to make explicit what kind of songs the singer sings. AT: "sings happy songs" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **a heavy heart** - The heart is a synecdoche for the whole person. AT: "a sad person" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -57,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~
