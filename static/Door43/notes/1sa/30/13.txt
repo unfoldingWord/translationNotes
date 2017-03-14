@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 David said to him, "To whom do you belong? Where do you come from?" He said, "I am a young man of Egypt, servant to an Amalekite; my master left me, because three days ago I fell sick.
+\v 13 David said to him, "To whom do you belong? Where do you come from?" He said, "I am a young man of Egypt, servant to an Amalekite; my master left me because three days ago I fell sick.
 \v 14 We made a raid on the Negev of the Cherethites, and what belongs to Judah, and the Negev of Caleb, and we burned Ziklag."
 </usfm>
 
@@ -42,9 +42,10 @@
 
 ===== translationNotes: =====
 
-  * **David said to him** - David questions the Egyptian slave.
+  * **David said to him** - David questioned the Egyptian slave.
   * **three days ago** - "three days in the past"
-  * **We made a raid** - Raids or attacks on towns were a quick means to acquire wealth and slaves. 
+  * **three days** - 3 days (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **a raid** - an attack on a town to take property
  
 ===== Links: =====
 
@@ -53,6 +54,6 @@
   * [[:en:bible:questions:comprehension:1sa:30]]
 **[[:en:bible:notes:1sa:30:11|<<]] | [[:en:bible:notes:1sa:30:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

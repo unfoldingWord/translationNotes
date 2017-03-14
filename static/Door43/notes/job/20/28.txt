@@ -47,10 +47,11 @@
   * **General Information:** - This concludes Zophar's speech to Job.
 
   * **vanish** - "disappear" or "go away"
-  * **his goods will flow away** - AT: "his goods will float away as if in a flood" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **portion** - "share"
-  * **the heritage reserved for him by God** - AT: "this is what God will give to him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **his goods will flow away** - Here "flow away" represents being taken away from him. AT: "his goods will be taken away from him, like goods that float away in a flood" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **his goods** - "his possessions"
+  * **the day of God's wrath** - Here "wrath" represents punishment. The abstract noun "wrath" can be expressed with the verb punish. AT: "the day when God punishes people" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **This is the wicked man's portion from God** - Here "portion from God" represents what God has decided should happen to someone. It is spoken of as if it were something that God would give him. AT: "This is what God has decided should happen to the wicked man" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the heritage reserved for him by God** - This represents what God has decided should happen to someone. It is spoken of as if it were something that God would give ago him as an inheritance. AT: "what God has planned to give to him" or "what God has planned should happen to him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:job:20]]
 **[[:en:bible:notes:job:20:26|<<]] | [[:en:bible:notes:job:21:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

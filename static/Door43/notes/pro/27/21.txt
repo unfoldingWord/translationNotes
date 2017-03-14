@@ -17,8 +17,8 @@
 
 <usfm>
 \v 21 Silver is refined in a crucible, and gold is put into a furnace to be made pure;
-\q2 and how a person responds to the praise given to them 
-\q2 will tell you what kind of person he is. 
+\q2 and how a person responds to the praise given to them
+\q2 will tell you what kind of person he is.
 \q1
 \v 22 Though you grind a fool as if you were grinding up grain,
 \q2 you will not be able to take his foolishness out of him.
@@ -32,7 +32,7 @@
 <usfm>
 \q
 \v 21 A crucible is for silver and a furnace is for gold;
-\q and a person is tested when he is praised. 
+\q and a person is tested when he is praised.
 \q
 \v 22 Even if you crush a fool with the pestle—along with the grain—
 \q yet his foolishness will not leave him.
@@ -49,9 +49,12 @@
 
 ===== translationNotes: =====
 
-  * **crucible** - a container used for heating substances to very high temperatures
+  * **A crucible is for silver and a furnace is for gold** - This refers to how gold and silver are refined. A metal is refined by heating it to a high temperature so that it melts and the impurities may be removed. See how you translated the very similar phrase in [[:en:bible:notes:pro:17:03|17:3]]. AT: "A crucible is used to refine silver and a furnace is used to refine gold" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **crucible** - a container used for heating substances to very high temperatures (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **furnace** - an oven that can be made extremely hot (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **a person is tested when he is praised** - This can be stated in active form. AT: "when one praises a person, they are also testing that person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Even if you crush a fool ... yet his foolishness will not leave him** - This means that even if a fool is made to suffer hardship or pain (being crushed is often a metaphor for suffering in Hebrew), he will remain foolish. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **pestle** - a tool for grinding materials in a mortar
+  * **pestle** - a hard tool with a rounded end, used for crushing things in a bowl (See: [[:en:ta:vol1:translate:translate_unknown]])
 
 ===== Links: =====
 
@@ -60,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:27]]
 **[[:en:bible:notes:pro:27:19|<<]] | [[:en:bible:notes:pro:27:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

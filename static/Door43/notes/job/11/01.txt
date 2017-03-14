@@ -51,12 +51,11 @@
 
 ===== translationNotes: =====
 
-  * **Zophar ... Naamathite** - AT: "Zophar from the region of Naamah" (UDB) (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Should not such a multitude of words be answered?** - Zophar is asking a question in the negative to emphasize that Job's words must be challenged. AT: "We must answer all of these words!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Should this man, so full of talk, be believed?** - AT: "Your many words alone do not mean you are innocent." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Should your boasting make others remain silent?** - AT: "Just because you have spoken many words, this does not mean that others must keep silent." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **When you mock our teaching, will no one make you feel ashamed?** - AT: "You have mocked our teaching. Now we will make you feel ashamed!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **Zophar the Naamathite** - Translate this man's name as in [[:en:bible:notes:job:02:11|2:11]]. AT: "Zophar from the region of Naamah" (UDB) (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Should not such a multitude of words be answered?** - Zophar is asking a question in the negative to emphasize that Job's words must be challenged. AT: "We must answer all of these words!" or "Someone should respond to all these words" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Should this man, so full of talk, be believed?** - Zophar uses this question to emphasize that they should not believe what Job was saying. AT: "This man is so full of talk, but the people should not believe him" or "Your many words alone do not mean you are innocent." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Should your boasting make others remain silent?** - Zophar uses this question to rebuke Job. AT: "Just because you have spoken many words, this does not mean that others must keep silent." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **When you mock our teaching, will no one make you feel ashamed?** - Zophar uses this question to rebuke Job. AT: "You have mocked our teaching. Now we will make you feel ashamed!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:job:11]]
 **[[:en:bible:notes:job:10:20|<<]] | [[:en:bible:notes:job:11:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

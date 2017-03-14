@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 Alongside this sacred area will be a section of land that is about 13.5 kilometers long and about 2.7 kilometers wide. It will be for a city where anyone in Israel may live.
+\v 6 Alongside this sacred area will be a section of land that is thirteen and one-half kilometers long and two and three-quarter kilometers wide. It will be for a city where anyone in Israel may live.
 \p
 \v 7 The ruler of Israel will have the land that is on each side of the area formed by the temple district and the city. It will extend to the west from the western end of those areas, and to the east from the eastern end of those areas. The far eastern and far western borders of the king's land will measure the same as the parallel borders of those other tracts.
 </usfm>
@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 You will designate an area for the city, five thousand cubits wide and twenty-five thousand long, that will be next to the area reserved for the holy place; this city will belong to all the house of Israel.
+\v 6 You will designate an area for the city, five thousand cubits in width and twenty-five thousand in length, that will be next to the area reserved for the holy place; this city will belong to all the house of Israel.
 \v 7 The prince's land will be on both sides of the area reserved for the holy place and the city. It will be to their west and to their east. The length will correspond to the length of one of those portions, from the west to the east.
 </usfm>
 
@@ -32,9 +32,10 @@
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to the house of Israel.
  
-  * **reserved for the holy place** - AT: "that you gave for the holy place." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **five thousand cubits ... twenty-five thousand** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "5,000 cubits ... 25,000 cubits" or "about 2.7 kilometers ... about 13.5 kilometers" (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **reserved for the holy place** - This can be translated in active form. AT: "that you gave for the holy place." (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **The length will correspond to the length of one of those portions** - It is implied that Ezekiel is comparing the prince's land with the size of the land given to each of the tribes. AT: "The length will be the same as the length of one of the portions given to the tribes." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **from the west to the east** - It is implied that these are the western and eastern borders of the land of Israel. AT: "from the border of Israel on the sea" or "from the border of Israel on the west."
+  * **from the west to the east** - It is implied that these are the western and eastern borders of the land of Israel. "from the western border of Israel at the sea to the eastern border at the Jordan River"
 
 ===== Links: =====
 
@@ -43,6 +44,6 @@
   * [[:en:bible:questions:comprehension:ezk:45]]
 **[[:en:bible:notes:ezk:45:03|<<]] | [[:en:bible:notes:ezk:45:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

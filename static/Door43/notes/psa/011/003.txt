@@ -19,7 +19,6 @@
 <usfm>
 \v 3 When wicked people do not suffer for disobeying the laws,
 \q2 what can righteous people do?
-\b
 \q1
 \v 4 But Yahweh is sitting on his throne in his sacred temple in heaven,
 \q2 and he sees everything that people do.
@@ -53,7 +52,7 @@
 
 ===== translationNotes: =====
 
-  * **For if the foundations are ruined, what can the righteous do?** - This question is asked to add emphasis. AT: "What can the righteous do when evil people are not punished when they disobey the laws?" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **For if the foundations are ruined, what can the righteous do?** - Here "the foundations" may refer to law and order. This rhetorical question is asked to add emphasis. It can be translated as a statement. AT: "Righteous people cannot do anything when evil people are not punished when they disobey the laws!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **his eyes watch, his eyes examine the children of mankind** - Yahweh is aware of everything that happens. AT: "He examines all that humanity does" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **children of mankind** - "humanity"
 
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:011]]
 **[[:en:bible:notes:psa:011:001|<<]] | [[:en:bible:notes:psa:011:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

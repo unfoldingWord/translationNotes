@@ -22,8 +22,7 @@
 \q2 is a relative to the one who destroys everything.
 \q1
 \v 10 The name of Yahweh is like a castle that can never be overrun;
-\q2 those who do what is right run for safety into it, and in the fortress of his name, they are safe. 
-
+\q2 those who do what is right run for safety into it, and in the fortress of his name, they are safe.
 
 \q1
 </usfm>
@@ -37,7 +36,7 @@
 \q is a brother to the one who destroys the most.
 \q
 \v 10 The name of Yahweh is a strong tower;
-\q the one who does right runs into it and is safe.
+\q the righteous person runs into it and is safe.
 </usfm>
 
 
@@ -49,10 +48,13 @@
   * [[:en:obe:kt:save]]
 ===== translationNotes: =====
 
+  * **one who is slack in his work is a brother to the one who destroys** - This speaks of the one who is slack being similar to the one who destroys as if they were actually related. AT: "is closely related to" or "is very similar to" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **is slack** - "is lazy" or "is not interested"
-  * **is a brother to** - AT: "is closely related to" or "is very similar to" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The name of Yahweh is a strong tower** - AT: "Yahweh protects like a strong tower" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **runs into it and is safe** - This expands the metaphor of Yahweh as a strong tower. AT: "is like a person who runs into a tower to protect himself" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the one who destroys the most** - "the one who destroys everything" (UDB) or "the one who is always destructive" 
+  * **The name of Yahweh is a strong tower** - This speaks of Yahweh protecting his people as if he were a strong tower in which they could take refuge. AT: "Yahweh protects like a strong tower" or "Yahweh protects his people like a strong tower" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The name of Yahweh** - Here Yahweh is referred to by his name. AT: "Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the righteous** - This refers to righteous people. AT: "those who are righteous" or "righteous people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **runs into it and is safe** - This speaks of people seeking safety from Yahweh and Yahweh protecting them as if he were a strong tower that they ran into for safety. AT: "run to him and they are safe" or "seek him and they are safe" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
  
 ===== Links: =====
@@ -62,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:18]]
 **[[:en:bible:notes:pro:18:07|<<]] | [[:en:bible:notes:pro:18:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

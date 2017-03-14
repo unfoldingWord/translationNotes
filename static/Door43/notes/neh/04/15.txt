@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 Our enemies heard that we knew what they were planning to do and that God had spoiled all their plans to stop our work. So we all returned to work on the wall, at the same places we were working before. 
+\v 15 Our enemies heard that we knew what they were planning to do and that God had spoiled all their plans to stop our work. So we all returned to work on the wall, at the same places we were working before.
 \p
 \v 16 But after that, only half of the men there were doing the work on the wall. The others stood there holding their spears, shields, bows and arrows, and wearing armor for protection. The leaders stood guard behind the people of Judah.
 </usfm>
@@ -39,9 +39,11 @@
   * [[:en:obe:other:kingdomofjudah]]
 ===== translationNotes: =====
 
-  * **and God had frustrated** - AT: "and that God had frustrated"
-  * **my servants worked** - AT: "my young men worked" or "my administrative staff worked"
-  * **the leaders stood behind all the people** - AT: "the leaders positioned themselves behind all the people"
+  * **It came about** - "It happened that"
+  * **their plans were known to us** - This can be stated in active form. AT: "we knew about their plans" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **my servants worked** - "my young men worked"
+  * **half of my servants ... half of them** - "Half" means one part out of two equal parts. (See: [[:en:ta:vol2:translate:translate_fraction]])
+  * **the leaders stood behind all the people** - "the leaders positioned themselves behind all the people"
  
 ===== Links: =====
 
@@ -50,6 +52,6 @@
   * [[:en:bible:questions:comprehension:neh:04]]
 **[[:en:bible:notes:neh:04:12|<<]] | [[:en:bible:notes:neh:04:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit armor}}
+~~DISCUSSION~~{{tag>publish p2pass armor}}
 
 ~~NOCACHE~~

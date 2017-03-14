@@ -22,8 +22,8 @@
 
 <usfm>
 \p
-\v 12 Yahweh of hosts says this: 'In this desolate place, where now there is neither man nor beast, there will again be in all its cities a grazing place for shepherds who lead their flocks to lie down.
-\v 13 In the cities in the hill country, the lowlands, and the Negev—in the land of Benjamin and all around Jerusalem, and in the cities of Judah—the flocks will again pass under the hands of the ones counting them,' says Yahweh.
+\v 12 Yahweh of hosts says this: 'In this desolate place, where now there is neither man nor beast—in all its cities there will again be pastures where shepherds can rest their flocks. 
+\v 13 In the cities in the hill country, the lowlands, and the Negev,in the land of Benjamin and all around Jerusalem, and in the cities of Judah, the flocks will again pass under the hands of the ones counting them,' says Yahweh.
 </usfm>
 
 ===== translationWords: =====
@@ -36,8 +36,6 @@
 
 ===== translationNotes: =====
 
-  * **grazing place** - AT: "fields to feed their flocks"
- 
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -45,6 +43,6 @@
   * [[:en:bible:questions:comprehension:jer:33]]
 **[[:en:bible:notes:jer:33:10|<<]] | [[:en:bible:notes:jer:33:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

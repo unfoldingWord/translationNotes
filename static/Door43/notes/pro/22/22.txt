@@ -17,12 +17,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 22 Anyone can rob a poor person. Do not do it. 
+\v 22 Anyone can rob a poor person. Do not do it.
 \q2 And do not hurt them who are begging at the city gate,
 \q1
-\v 23 for Yahweh stands to defend them, 
-\q2 and he will take the life of those who stole from the poor. 
-
+\v 23 for Yahweh stands to defend them,
+\q2 and he will take the life of those who stole from the poor.
 
 \q1
 </usfm>
@@ -32,11 +31,11 @@
 
 <usfm>
 \q
-\v 22 Do not rob the poor person, because he is poor,
-\q or crush the needy person at the gate, 
+\v 22 Do not rob the poor because he is poor,
+\q or crush the needy at the gate,
 \q
-\v 23 for Yahweh will plead their case
-\q and he will rob those of life who robbed them.
+\v 23 for Yahweh will plead their case,
+\q and he will rob of life those who robbed them.
 </usfm>
 
 
@@ -49,11 +48,15 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - These verses begin the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **crush the needy** - AT: "oppress people who are in need"
-  * **at the gate** - This refers to the place where business transactions and judgments were made. AT: "during negotiations" or "in legal disputes"
-  * **Yahweh will plead their case** - AT: "Yahweh will defend people in need"
-  * **he will rob those of life who robbed them** - This phrase means that Yahweh will destroy those who oppress poor people. AT: "he will kill those who oppress poor people" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Do not rob ... or crush** - If your language has a way of showing that this is the way one person would speak strongly to another, different from a general rule that people are supposed to obey, you should use it here.
+  * **the poor** - This nominal adjective can be translated as a noun phrase. AT: "any poor person" or "poor people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **crush** - grind into powder. This is a metaphor for "treat unjustly." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the needy** - This nominal adjective can be translated as a noun phrase. AT: "any needy person" or "any person who does not have what he needs to live" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **at the gate** - The place where people bought and sold items and settled legal arguments is used as a metonym for business and legal activity. AT: "in court" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Yahweh will plead their case** - The metaphor is of a lawyer defending the needy in front of a judge. AT: "Yahweh will defend the needy from those who oppress them" or "Yahweh will see that the needy receive justice" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he will rob of life those who robbed them** - Yahweh is not a thief, but like a thief he will take life from those who do not choose to give it. AT: "he will destroy those who oppress poor people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -68,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

@@ -26,15 +26,14 @@
 \q1
 \v 10 You enable kings to defeat their enemies;
 \q2 you rescue those who serve you as I did.
-\b
 \q1
 \v 11 So I ask you to save me from being killed by the swords that those evil people carry.
 \q1 Rescue me from the power of those men from foreign countries
 \q2 who always tell lies.
-\q1 Even when they swear to tell the truth, 
+\q1 Even when they swear to tell the truth,
 \q2 they tell lies.
 
-\b
+
 
 
 \q1
@@ -53,7 +52,6 @@
 \v 11 Rescue me and free me from the hand of foreigners.
 \q Their mouths speak lies,
 \q and their right hand is falsehood.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -78,7 +76,7 @@
   * **David your servant** - David speaks of himself as if he were someone else. "me, David, your servant"
   * **from an evil sword** - David speaks of evil people as if they were the swords they use as weapons. AT: "from evil people who were trying to kill him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Rescue me and free me** - "Please rescue me and free me"
-  * **from the hand of foreigners** - Here "hand" refers to power. AT: "from the power of foreigners." Translate these words as you translated them in [[:en:bible:notes:psa:144:007|144:7-8]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **from the hand of foreigners** - Here "hand" refers to power. Translate these words as you translated them in [[:en:bible:notes:psa:144:007|144:7-8]]. AT: "from the power of foreigners" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Their mouths speak lies** - "They speak lies." Translate these words as you translated them in [[:en:bible:notes:psa:144:007|144:7-8]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **their right hand is falsehood** - Possible meanings are 1) David speaks of the custom of raising the right hand to swear that what one is about to say in court is true, "they lie even when they swear to tell the truth," or 2) the "right hand" is a metaphor for power, "everything they have gotten, they have gotten by telling lies."Translate these words as you translated them in [[:en:bible:notes:psa:144:007|144:7-8]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
@@ -88,6 +86,6 @@
   * [[:en:bible:questions:comprehension:psa:144]]
 **[[:en:bible:notes:psa:144:007|<<]] | [[:en:bible:notes:psa:144:012|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

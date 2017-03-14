@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 20 So the officials went and gave the message to Ben Hadad, and he did what Asa suggested. He sent his army commanders and their soldiers to attack some of the towns in Israel. They captured Ijon, Dan, Abel Beth Maacah, the area near the Sea of Galilee, and all the land of the tribe of Naphtali.
+\v 20 So the officials went and gave the message to Ben Hadad, and he did what Asa suggested. He sent his army commanders and their soldiers to attack some of the towns in Israel. They captured Ijon, Dan, Abel of Beth Maacah, the area near the Sea of Galilee, and all the land of the tribe of Naphtali.
 \v 21 When Baasha heard about that, he told his soldiers to stop working at Ramah. He and his soldiers returned to Tirzah and stayed there.
 \v 22 Then King Asa sent a message to all the people in the towns in Judah, stating that they all were required to go to Ramah and carry away the stones and timber that Baasha's soldiers had been using to build a wall around the city. With those stones and timber they fortified the city of Mizpah north of Jerusalem, and Geba, a town in the territory of the tribe of Benjamin.
 
@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 20 Ben Hadad listened to King Asa and sent the commanders of his armies, and they attacked the cities of Israel. They attacked Ijon, Dan, Abel Beth Maacah, and all Chinnereth, together with all the land of Naphtali.
+\v 20 Ben Hadad listened to King Asa and sent the commanders of his armies, and they attacked the cities of Israel. They attacked Ijon, Dan, Abel of Beth Maacah, and all Chinnereth, together with all the land of Naphtali.
 \v 21 It came about that when Baasha heard this, he stopped building up Ramah and went back to Tirzah.
 \v 22 Then King Asa made a proclamation to all Judah. No one was exempted. They carried away the stones and timbers of Ramah with which Baasha had been building up the city. Then King Asa used that building material to build up Geba of Benjamin and Mizpah.
 </usfm>
@@ -40,9 +40,10 @@
 ===== translationNotes: =====
 
   * **It came about that** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
-  * **he stopped building up** - AT: "he had his workers stop building up" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **he stopped building up Ramah** - King Baasha did this by telling his workers to do this. AT: "he had his workers stop building up Ramah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Tirzah** - This is the name of a city. See how you translated it in [[:en:bible:notes:1ki:14:17|14:17]].
+  * **No one was exempted** - This can also be stated positively. AT: "Every one had to obey King Asa's proclamation" 
  
-
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -50,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1ki:15]]
 **[[:en:bible:notes:1ki:15:18|<<]] | [[:en:bible:notes:1ki:15:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit mizpah}}
+~~DISCUSSION~~{{tag>publish p2pass mizpah}}
 
 ~~NOCACHE~~

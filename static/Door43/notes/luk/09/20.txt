@@ -26,9 +26,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 20 He said to them, "But who do you say that I am?" Answering, Peter said, "The Christ from God."
-\v 21 But warning them, Jesus instructed them to tell this to no one,
-\v 22 saying that the Son of Man must suffer many things and be rejected by the elders and chief priests and scribes, and he will be killed, and on the third day be raised back to life.
+\v 20 Then he said to them, "But who do you say that I am?" Peter answered, "The Christ of God."
+\v 21 But he strongly warned them to tell this to no one,
+\v 22 saying, "The Son of Man must suffer many things and be rejected by the elders and chief priests and scribes, and he will be killed and on the third day be raised."
 </usfm>
 
 
@@ -47,16 +47,14 @@
 
 ===== translationNotes: =====
 
-  * **He said to them** - "Jesus said to his disciples"
-  * **Answering, Peter said** - "Peter answered and said" or "Peter answered by saying"
-  * **But warning them, Jesus instructed them** - "But Jesus warned and instructed them" or "Then Jesus warned them strongly" (UDB)
-  * **to tell this to no one** - "not to tell anyone" or "that they should not tell anyone." This could be stated as a direct quote. AT: "But warning them, Jesus told them, 'Do not tell anyone'" (See: [[:en:ta:vol2:translate:figs_quotations]])
-  * **that the Son of Man must suffer many things** - "that people would cause the Son of Man to suffer greatly."
-  * **the Son of Man ... and he will** - Jesus is referring to himself. AT: "I, the Son of Man ... and I will"  (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Then he said to them** - "Then Jesus said to his disciples"
+  * **to tell this to no one** - "not to tell anyone" or "that they should not tell anyone." This could be stated as a direct quote. AT: "'Do not tell anyone'" (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **The Son of Man must suffer many things** - "People will cause the Son of Man to suffer greatly"
+  * **The Son of Man ... and he will** - Jesus is referring to himself. AT: "I, the Son of Man ... and I will"  (See: [[:en:ta:vol2:translate:figs_123person]])
   * **be rejected by the elders and chief priests and scribes** - This can be stated in active form. AT: "the elders, chief priests, and scribes will reject him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **he will be killed** - This can be stated in active form. AT: "they will kill him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **on the third day** - "three days after he dies" or "on the third day after his death" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **be raised back to life** - "be made alive again." This can be stated in active form. AT: "God will make him alive again" or "he will come back to life" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **be raised** - "be made alive again." This can be stated in active form. AT: "God will make him alive again" or "he will live again" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:luk:00:intro]]

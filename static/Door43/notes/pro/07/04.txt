@@ -18,11 +18,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 Speak to wisdom and say to her, "You are my sister,"
-\q2 and speak to understanding and say, "You are a member of my family,"
+\v 4 Think of wisdom as if it were a woman, one of your own sisters, whom you love;
+\q2 think of understanding as if it were a person, one of your own family, to whom you are loyal.
 \q1
-\v 5 and they will keep you away from the woman who desires to commit adultery with you, 
-\q2 the woman who would draw you to herself with her inviting words. Do not listen to her.
+\v 5 If you do this, you will be able to stay away from women whom you must not be with,
+\q2 random women who say nice things to you so that you will sin with them.
 
 
 \q1
@@ -36,25 +36,25 @@
 \v 4 Say to wisdom, "You are my sister,"
 \q and call understanding your kinsman,
 \q
-\v 5 in order to keep you from the seductive woman, 
-\q from the adulteress with her smooth words.
+\v 5 in order to keep yourself from the adulterous woman,
+\q from the immoral woman with her smooth words.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:wise]]
-  * [[:en:obe:kt:adultery]] 
+  * [[:en:obe:kt:wise]] 
   * [[:en:obe:kt:word]]
 
 ===== translationNotes: =====
 
 
-  * **Say to wisdom, "You are my sister** - Here wisdom is spoken of as if it were a person. AT: "Treat wisdom as you would treat your sister" or "Love wisdom as you would love your sister" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **call understanding your kinsman** - Here kinsman is spoken of as if it were a person. AT: Treat understanding as you would treat your kinsman" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **Say to wisdom, "You are my sister** - Here wisdom is spoken of as if it were a person. AT: "Value wisdom as you would love your sister" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **call understanding your kinsman** - Here the quality of understanding is spoken of as if it were a kinsman or relative. AT: "treat understanding as you would treat your kinsman" (See: [[:en:ta:vol2:translate:figs_personification]])
   * **kinsman** - "relative" or "family member"
-  * **the seductive woman** - "any woman who tries to get a man to commit adultery with her"
-  * **with her smooth words** - "whose words sound nice but are deceitful"
+  * **the adulterous woman** - This refers to any woman to whom a man is not married. AT: "the woman whom you should have nothing to do with"
+  * **the immoral woman** - This refers to any woman who is not known to a man.
+  * **with her smooth words** - Words intended to deceive are spoken of as if they were smooth objects. AT: "who says pleasant things, but wants to deceive you"
  
  
  
@@ -66,6 +66,6 @@
   * [[:en:bible:questions:comprehension:pro:07]]
 **[[:en:bible:notes:pro:07:01|<<]] | [[:en:bible:notes:pro:07:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

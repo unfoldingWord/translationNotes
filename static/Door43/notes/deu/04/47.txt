@@ -23,7 +23,7 @@
 
 <usfm>
 \v 47 They took his land as a possession, and the land of Og king of Bashan—these, the two kings of the Amorites, who were beyond the Jordan toward the east.
-\v 48 This territory went from Aroer, on the edge of the valley of the Arnon, to Mount Sion (or Mount Hermon),
+\v 48 This territory went from Aroer, on the edge of the Valley of the Arnon, to Mount Sion (or Mount Hermon),
 \v 49 and included all of the plain of the Jordan River valley, eastward beyond the Jordan, to the Sea of the Arabah, to the slopes of Mount Pisgah.
 </usfm>
 
@@ -39,12 +39,13 @@
 
 ===== translationNotes: =====
 
-  * **Og king of Bashan** - Translate this as it is in [[:en:bible:notes:deu:01:03|1:4]].
+  * **his land** - King Sihon's land
+  * **Og king of Bashan** - Translate this as you did in [[:en:bible:notes:deu:01:03|1:4]].
   * **beyond the Jordan toward the east ... eastward beyond the Jordan** - This refers to the land across the Jordan River, to the east of Israel. Moses was east of the Jordan when he said this. AT: "from the side of the Jordan River toward the east ... eastward from the side of the Jordan River"
-  * **Aroer** - Translate this as it is in [[:en:bible:notes:deu:02:36|2:36]].
-  * **the valley of the Arnon** - Translate this as it is in [[:en:bible:notes:deu:02:24|2:24]].
-  * **Mount Sion ... Mount Hermon** - Translate this as it is in [[:en:bible:notes:deu:03:08|3:8-9]].
-  * **Sea of the Arabah ... Mount Pisgah** - Translate this as it is in [[:en:bible:notes:deu:03:17|3:17]].
+  * **Aroer** - This is the name of a city. Translate this as you did in [[:en:bible:notes:deu:02:36|2:36]].
+  * **the valley of the Arnon** - This is the name of a place. Translate this as you did in [[:en:bible:notes:deu:02:24|2:24]].
+  * **Mount Sion ... Mount Hermon** - These are the names of mountains. Translate these as you did in [[:en:bible:notes:deu:03:08|3:8-9]].
+  * **Sea of the Arabah ... Mount Pisgah** - Translate these as you did in [[:en:bible:notes:deu:03:17|3:17]].
  
 ===== Links: =====
 
@@ -59,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

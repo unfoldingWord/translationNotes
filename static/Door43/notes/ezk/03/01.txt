@@ -29,7 +29,7 @@
 \p
 \v 1 He said to me, "Son of man, what you have found, eat. Eat this scroll, then go speak to the house of Israel."
 \v 2 So I opened my mouth, and he fed me that scroll.
-\v 3 He said to me, "Son of man, feed your stomach; fill your stomach with this scroll that I have given to you!" So I ate it, and it was as sweet as honey in my mouth.
+\v 3 He said to me, "Son of man, feed your belly and fill your stomach with this scroll that I have given to you!" So I ate it, and it was as sweet as honey in my mouth.
 </usfm>
 
 ===== translationWords: =====
@@ -44,12 +44,14 @@
 
   * **General Information:** - Ezekiel continues to tell about the vision that he saw.
 
-  * **He said to me** - The word "He" refers to the Spirit of God. (See: [[:en:bible:notes:ezk:02:01|2:2]]
-  * **Son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:03]].
+  * **He said to me** - The word "He" refers to the "one who looked like a man" ([[:en:bible:notes:ezk:01:26|1:26]]).
+  * **Son of man** - "Son of a human being" or "Son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. Translate this as in [[:en:bible:notes:ezk:02:01|2:1]]. AT: "Mortal person" or "Human"
   * **what you have found** - This refers to the scroll that God was giving him. (See: [[:en:bible:notes:ezk:02:09|2:9]])
+  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. AT: "the Israelites" or "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **that scroll** - Many versions have "the scroll" or "this scroll."
-  * **feed your stomach and fill your belly with this scroll** - These two phrases mean the same thing. AT: "eat this scroll." (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **it was as sweet as honey** - "it tasted sweet like honey"
+  * **feed your belly and fill your stomach with this scroll** - The word "belly" refers to the part of the body people can see from the outside. The word "stomach" refers to the internal organs inside the belly.
+  * **it was as sweet as honey** - Honey tastes sweet, and the scroll tasted sweet.
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -57,6 +59,6 @@
   * [[:en:bible:questions:comprehension:ezk:03]]
 **[[:en:bible:notes:ezk:02:09|<<]] | [[:en:bible:notes:ezk:03:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

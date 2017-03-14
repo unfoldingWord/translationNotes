@@ -13,7 +13,7 @@
 
 <usfm>
 \v 20 Bezalel and his men made forty-eight frames from acacia wood and set them up to support the covers for the sacred tent.
-\v 21 Each frame was 4.6 meters long and 0.7 meter wide.
+\v 21 Each frame was four and three-fifth meters long and three-quarters of a meter wide.
 \v 22 They made two projections at the bottom of each frame. These were for fastening the frames to the bases underneath them. Each frame had these projections.
 \v 23 The skilled workmen made twenty frames for the south side of the sacred tent.
 </usfm>
@@ -22,10 +22,10 @@
 
 <usfm>
 \p
-\v 20 Bezalel made vertical boards out of acacia wood for the tabernacle.
-\v 21 The length of each board was ten cubits, and its width was one and a half cubits.
-\v 22 There were two projections in each board for joining the boards to each other. He made all the tabernacle's boards in this way.
-\v 23 In this way he made the boards for the tabernacle. He made twenty boards for the south side.
+\v 20 Bezalel made vertical frames out of acacia wood for the tabernacle.
+\v 21 The length of each frame was ten cubits, and the width of each frame was one and a half cubits.
+\v 22 Each frame had two wooden pegs for joining the frames together. He did this for all the frames of the tabernacle.
+\v 23 He made the frames for the tabernacle in this way: twenty frames for the south side.
 </usfm>
 
 ===== translationWords: =====
@@ -35,9 +35,9 @@
 
 ===== translationNotes: =====
 
-  * **Bezalel made ... south side** - For 36:20-23 see how you translated many of these words in [[:en:bible:notes:exo:26:15|26:15-18]].
+  * **Bezalel made ... for the south side** - For 36:20-23 see how you translated many of these words in [[:en:bible:notes:exo:26:15|26:15-18]].
   * **ten cubits ... one and a half cubits** - "10 cubits ... 1.5 cubits" (See: [[:en:ta:vol2:translate:translate_bdistance]] and [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_fraction]])
-  * **two projections in each board** - A projection is a small piece of wood sticking out beyond the end of the board so it can be secured.
+  * **two wooden pegs for joining** - A wooden peg is a small piece of wood sticking out beyond the end of the board so it can be secured.
 ===== Links: =====
 
   * [[:en:bible:notes:exo:00:intro]]
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:exo:36]]
 **[[:en:bible:notes:exo:36:18|<<]] | [[:en:bible:notes:exo:36:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

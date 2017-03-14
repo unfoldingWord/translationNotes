@@ -27,7 +27,7 @@
 
 <usfm>
 \p
-\v 24 After these days, his wife Elizabeth conceived. She secluded herself for five months. She said, 
+\v 24 After these days, his wife Elizabeth conceived and for five months she kept herself hidden. She said,
 \v 25 "This is what the Lord has done for me when he looked at me with favor in order to take away my shame before people."
 </usfm>
 
@@ -35,6 +35,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeday]]
   * [[:en:obe:other:elizabeth]]
   * [[:en:obe:other:conceive]]
   * [[:en:obe:kt:lordgod]]
@@ -43,9 +44,9 @@
 
 ===== translationNotes: =====
 
-  * **After these days** - The phrase "these days" refers to the time while Zechariah was serving in the temple. It is possible to state this more clearly. AT: "After Zechariah returned home from his temple service" (See: [[:en:ta:vol2:translate:writing_newevent]]) (See: [[:en:obe:other:biblicaltimeday]])
+  * **After these days** - The phrase "these days" refers to the time while Zechariah was serving in the temple. It is possible to state more clearly what this refers to. AT: "After Zechariah returned home from his temple service" (See: [[:en:ta:vol2:translate:writing_newevent]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **his wife** - "Zechariah's wife"
-  * **secluded herself** - "did not leave her house" or "stayed inside by herself"
+  * **kept herself hidden** - "did not leave her house" or "stayed inside by herself"
   * **This is what the Lord has done for me** - This phrase refers to the fact that the Lord allowed her to become pregnant.
   * **This is what** - This is a positive exclamation. She was very happy with what the Lord had done for her. 
   * **looked at me with favor** - "to look at" is an idiom that means "to treat" or "to deal with." AT: "regarded me kindly" or "had pity on me" (See: [[:en:ta:vol1:translate:figs_idiom]])

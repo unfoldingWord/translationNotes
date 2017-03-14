@@ -37,10 +37,10 @@
 
 <usfm>
 \p
-\q1 
+\q1
 \v 7 Look, their envoys cry in the streets; the diplomats hoping for peace weep bitterly.
-\q1 
-\v 8 The highways are deserted; there are no more travelers. 
+\q1
+\v 8 The highways are deserted; there are no more travelers.
 \q1 Covenants are broken, witnesses are despised, and mankind is not respected.
 \f + \ft Instead of \fqa witness are despised \fqb , some versions have \fqa cities are despised \fqb . \f*
 </usfm>
@@ -48,16 +48,18 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:cry]]
   * [[:en:obe:other:peace]]
   * [[:en:obe:kt:covenant]]
   * [[:en:obe:kt:witness]]
 
 ===== translationNotes: =====
 
-  * **Look** - This marks a new section in the book. It also adds emphasis to what follows.
-  * **their envoys cry** - UDB understands that Isaiah includes himself among the people of Jerusalem, whose envoys cry.
-  * **The highways are deserted** - This can be stated in active form. AT: "People no longer travel by roads" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Covenants are broken, witnesses are despised, and mankind is not respected** - This passage may refer to general conditions of corruption in Israel, or it may refer to the nation's inability to make reliable peace treaties with Assyria (see UDB). This can be stated in active form. AT: "People break covenants that they have made, courts ignore the testimony of witnesses, and people do not respect others in general" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Look** - This word is used here to draw peoples' attention to what is said next. It is also used here to mark a new section in the book. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **envoys** - "messengers"
+  * **the diplomats hoping for peace weep bitterly** - This means they weep because they do not succeed in making peace. AT: "the diplomats hope for peace but they do not succeed and so they weep bitterly" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **The highways are deserted; there are no more travelers** - Both of the phrases emphasize that there are no travelers on the highways. These can be combined and stated in active form. AT: "People no longer travel on the highways" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Covenants are broken, witnesses are despised, and mankind is not respected** - This passage may refer to general conditions of corruption in Israel, or it may refer to the nation's inability to make reliable peace treaties with Assyria (see UDB). This can be stated in active form. AT: "People break covenants that they have made, people ignore the testimony of witnesses, and people do not respect one another" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
@@ -73,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

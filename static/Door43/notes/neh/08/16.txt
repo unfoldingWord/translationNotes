@@ -24,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 16 So the people went out and brought the branches back and made themselves tents, each on their own roofs, in their courtyards, in the courts of the house of God, in the open place by the Water Gate, and in the square at the Gate of Ephraim.
-\v 17 And all the assembly of those who had returned from captivity made tents and lived in them. For since the days of Joshua son of Nun to that day, the people of Israel had not celebrated this festival. And the joy was very great.
+\v 16 So the people went out and brought the branches back and made themselves tents, each on their own roofs, in their courtyards, in the courts of the house of God, in the open area in front of the Water Gate, and in the square at the Gate of Ephraim.
+\v 17 All the assembly of those who had returned from captivity made tents and lived in them. For since the days of Joshua son of Nun to that day, the people of Israel had not celebrated this festival, and so their joy was very great.
 </usfm>
 
 
@@ -41,17 +41,19 @@
   * [[:en:obe:kt:assembly]]
   * [[:en:obe:other:captive]]
   * [[:en:obe:kt:life]]
+  * [[:en:obe:other:joshua]]
   * [[:en:obe:other:israel]]
   * [[:en:obe:other:festival]]
   * [[:en:obe:kt:joy]]
 
 ===== translationNotes: =====
 
-  * **in the open place by the Water Gate** - "in the square by the Water Gate"
-  * **in the square at the Gate of Ephraim** - "in the open place at the Gate of Ephraim"
-  * **Water Gate ... Gate of Ephraim** - These are the names of entranceways in the wall (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Joshua ... Nun** - These are names of males. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **And the joy was very great** - "And the people were very happy"
+  * **made themselves tents** - "built their own tents" (See: [[:en:ta:vol2:translate:figs_rpronouns]])
+  * **Water Gate ... Gate of Ephraim** - These are names of large openings or doorways in the wall.
+  * **in the square at the Gate of Ephraim** - "in the open place by the Gate of Ephraim"
+  * **For since the days of Joshua** - "From the days of Joshua"
+  * **son of Nun** - "Nun" is a man's name. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **their joy was very great** - The abstract noun "joy" can be expressed as an adjective. AT: "the people were very joyful" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 
 
 ===== Links: =====
@@ -61,6 +63,6 @@
   * [[:en:bible:questions:comprehension:neh:08]]
 **[[:en:bible:notes:neh:08:13|<<]] | [[:en:bible:notes:neh:08:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

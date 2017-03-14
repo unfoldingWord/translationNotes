@@ -12,9 +12,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 Bezalel and his men made a table from acacia wood. It was 0.9 meter long, 0.5 meter wide, and 0.7 meter high.
+\v 10 Bezalel and his men made a table from acacia wood. It was one meter long, one-half meter wide, and three-quarters of a meter high.
 \v 11 They covered it with pure gold, and they put a gold border around it.
-\v 12 They made a rim all around it, about eight centimeters wide. Then they put a gold border around the rim.
+\v 12 They made a rim all around it, four-fifths of a meter wide. Then they put a gold border around the rim.
 \v 13 They made four rings from gold and fastened the rings to the four corners of the table, one ring close to each leg of the table.
 </usfm>
 
@@ -24,7 +24,7 @@
 \p
 \v 10 Bezalel made the table of acacia wood. Its length was two cubits, its width was one cubit, and its height was one and a half cubits.
 \v 11 He covered it with pure gold and put a border of pure gold around the top.
-\v 12 He made a surrounding frame for it one handbreadth wide, with a surrounding border of gold for the frame. 
+\v 12 He made a surrounding frame for it one handbreadth wide, with a surrounding border of gold for the frame.
 \v 13 He cast for it four rings of gold and attached the rings to the four corners, where the four feet were.
 </usfm>
 
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:exo:37]]
 **[[:en:bible:notes:exo:37:07|<<]] | [[:en:bible:notes:exo:37:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

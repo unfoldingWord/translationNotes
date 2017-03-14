@@ -24,9 +24,8 @@
 \q1
 \v 8 I will come against you like a female bear when someone steals her cubs,
 \q2 and I will rip open your chests.
-\q1 Like a lion that attacks— 
+\q1 Like a lion that attacks—
 \q2 as a wild animal would tear you apart.
-\b
 
 
 \q1
@@ -59,8 +58,8 @@
   * **General Information:** - Yahweh is speaking.
 
   * **like a lion ... like a leopard ... as a bear ... as a lion ... as a wild beast** - These are wild animals that attack and kill other animals. Yahweh continues to say that he will destroy his people for their sins. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **as a lion** - "as a lion would attack ... as a bear that is robbed of her cubs would attack" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **as a bear that is robbed of her cubs** - This can be stated in active form. AT: "like a bear attacks an animal that takes her cubs" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **as a bear that is robbed of her cubs** - The words "would attack" are left out because they are understood. This can be stated in active form. AT: "like a bear would attack an animal that takes her cubs" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **as a lion** - The words "would devour them" are left out because they are understood. AT: "as a lion would devour them" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
   * [[:en:bible:notes:hos:00:intro]]
@@ -68,6 +67,6 @@
   * [[:en:bible:questions:comprehension:hos:13]]
 **[[:en:bible:notes:hos:13:04|<<]] | [[:en:bible:notes:hos:13:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check leopard}}
+~~DISCUSSION~~{{tag>publish p2pass leopard}}
 
 ~~NOCACHE~~

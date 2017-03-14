@@ -23,9 +23,9 @@
 
 <usfm>
 \p
-\v 4 Now, when a large crowd of people had gathered together, including people who were coming to him from many different cities, he spoke to them using a parable.
-\v 5 "A sower went out to sow some seeds. As he sowed, some of the seeds fell beside the road and they were trampled underfoot, and the birds of the sky devoured them.
-\v 6 Other seeds fell on rocky soil and as soon as they grew into plants, they withered away, because they had no moisture.
+\v 4 While a large crowd of people was gathering, and people were coming to him from town after town, he told a parable:
+\v 5 "A farmer went out to sow his seed. As he sowed, some fell beside the road and it was trampled underfoot, and the birds of the sky devoured it.
+\v 6 Some fell on the rock, and as soon as it grew up, it withered away, because it had no moisture.
 </usfm>
 
 
@@ -39,15 +39,14 @@
 
   * **General Information:** - Jesus tells the parable of the soils to the crowd. He explains its meaning to his disciples. (See: [[:en:ta:vol1:translate:figs_parables]])
 
-  * **Now** - This word marks the beginning of the action in the story. (See: [[:en:ta:vol2:translate:writing_participants]])
   * **coming to him** - "coming to Jesus"
-  * **he spoke to them using a parable** - "he told them a parable" or "he told them this story" (UDB)
-  * **A sower went out to sow some seeds** - "A farmer went out to scatter some seeds in a field" 
-  * **they were trampled underfoot** - This can be stated in active form. AT: "people walked on them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **A farmer went out to sow his seed** - "A farmer went out to scatter some seeds in a field" 
+  * **some fell** - "some of the seed fell" or "some of the seeds fell"
+  * **it was trampled underfoot** - This can be stated in active form. AT: "people walked on it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **birds of the sky** - This idiom can be translated simply as "birds" or  as "birds flew down and" to keep the sense of "sky."
-  * **devoured them** - "ate them all"
-  * **they withered away** - "the plants became dry and shriveled up"
-  * **they had no moisture** - "they were too dry." The cause can also be stated. AT: "the ground was too dry"
+  * **devoured it** - "ate it all" 
+  * **it withered away** - "the plants became dry and shriveled up"
+  * **it had no moisture** - "they were too dry." The cause can also be stated. AT: "the ground was too dry"
 ===== Links: =====
 
   * [[:en:bible:notes:luk:00:intro]]

@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 But instead of telling us their leaders' names, what they said was, 'We serve the God who created the heaven and the earth. Many years ago a great king of Israel told our ancestors to 
+\v 11 But instead of telling us their leaders' names, what they said was, 'We serve the God who created the heaven and the earth. Many years ago a great king of Israel told our ancestors to
 build a temple here, and now we are rebuilding it.
 </usfm>
 
@@ -34,8 +34,11 @@ build a temple here, and now we are rebuilding it.
   * [[:en:obe:other:israel]]
 ===== translationNotes: =====
 
+  * **General Information:** - The letter from Tattenai to the king that began in [[:en:bible:notes:ezr:05:06|5:7]] continues.
+
   * **We are servants of the one** - Possible meaning are 1) they were calling the Jewish people servants of God or 2) those who replied were from the tribe of Levi and Aaron, who were the ones actually responsible for the temple worship and sacrifices.
-  * **completed it** - "finished it"
+  * **that had been built many years ago when the great king of Israel built it and completed it** - This can be translated in active form. AT: "that the great king of Israel had built and supplied all the equipment for" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **completed it** - "supplied all the equipment for it"
  
 ===== Links: =====
 
@@ -47,6 +50,6 @@ build a temple here, and now we are rebuilding it.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

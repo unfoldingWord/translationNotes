@@ -39,6 +39,7 @@
   * [[:en:obe:kt:word]]
   * [[:en:obe:other:jeremiah]]
   * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:baruch]]
   * [[:en:obe:other:scroll]]
   * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:jehoiakim]]
@@ -53,14 +54,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
-
-  * **Baruch ... Neriah** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **at Jeremiah's dictation** - Baruch wrote down the words that Jeremiah said.
-  * **in the fourth year of Jehoiakim** - "while Jehoiakim had been ruling Judah for the fourth year"
-  * **he said** - "Jeremiah said to Baruch"
-  * **added agony to my pain** - "caused me great pain"
-  * **My groaning has wearied me** - "I am tired from crying" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **at Jeremiah's dictation** - "that Jeremiah told him to write"
+  * **this was in the fourth year of Jehoiakim son of Josiah** - This statement can be placed at the beginning of 45:1 as in the UDB.
+  * **in the fourth year of Jehoiakim** - The words "of the rule" are understood. AT: "in the fourth year of the rule of Jehoiakim" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **fourth year** - The word "fourth" is the ordinal form of the number four. (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **and he said** - "and Jeremiah said to Baruch"
+  * **for Yahweh has added agony to my pain** - "for I was already suffering and now Yahweh causes me to be sad as well"
+  * **My groaning has wearied me** - The abstract noun "groaning" can be stated as "crying." AT: "I am tired from crying" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -68,6 +68,6 @@
   * [[:en:bible:questions:comprehension:jer:45]]
 **[[:en:bible:notes:jer:44:29|<<]] | [[:en:bible:notes:jer:45:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit woe}}
+~~DISCUSSION~~{{tag>publish p2check woe}}
 
 ~~NOCACHE~~

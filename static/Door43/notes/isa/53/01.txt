@@ -32,9 +32,9 @@
 
 <usfm>
 \c 53
-\p
+\m
 \q1
-\v 1 Who would have believed what we heard? And the arm of Yahweh, to whom has it been revealed?
+\v 1 Who has believed what they heard from us, and to whom has the arm of Yahweh been revealed?
 \q1
 \v 2 For he grew up before Yahweh like a sapling, and like a sprout out of parched earth;
 \q1 he had no remarkable appearance or splendor; when we saw him, there was no beauty to attract us.
@@ -49,11 +49,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Here Isaiah describes events that will happen in the future as if they happened in the past. This emphasizes that they certainly will happen.
+  * **General Information:** - Here Isaiah describes events that will happen in the future as if they happened in the past. This emphasizes that they certainly will happen. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **General Information:** - Isaiah continues describing Yahweh's servant.
 
-  * **Who would have believed what we heard?** - What Isaiah just found out is so amazing that he wonders if the exiles will believe it. The "we" includes him and those in exile. AT: "It is hard for anyone to believe what we have heard." (See: [[:en:ta:vol2:translate:figs_inclusive]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **And the arm of Yahweh, to whom has it been revealed?** - Arm refers to God's power. This can be stated in active form. AT: "And Yahweh has revealed his power to people." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **For he grew up before Yahweh like a sapling, and like a sprout out of parched earth** - Here "he" refers to God's servant whom Isaiah compares to a very young tree. This emphasizes that he will appear weak. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Who has believed what they heard from us** - What Isaiah just found out is so amazing that he wonders if the exiles will believe it. The "we" includes him and those in exile. AT: "It is hard for anyone to believe what we have heard" (See: [[:en:ta:vol2:translate:figs_inclusive]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **and to whom has the arm of Yahweh been revealed?** - Arm refers to God's power. This can be stated in active form. AT: "and Yahweh has revealed his power to people." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **For he grew up before Yahweh like a sapling** - Here "he" refers to God's servant whom Isaiah compares to a very young tree. This emphasizes that he will appear weak. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **out of parched earth** - "parched earth" is hard and dry ground that will not allow plants to grow and represents where the servant of Yahweh will come. AT: "out of an impossible situation" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -62,6 +64,6 @@
   * [[:en:bible:questions:comprehension:isa:53]]
 **[[:en:bible:notes:isa:52:15|<<]] | [[:en:bible:notes:isa:53:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

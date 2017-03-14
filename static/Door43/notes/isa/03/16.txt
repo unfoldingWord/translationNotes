@@ -35,13 +35,13 @@
 ===== ULB: =====
 
 <usfm>
-\p
+\m
 \q1
-\v 16 Yahweh says that the daughters of Zion are proud 
-\q1 and walk along with their heads high, and flirt with their eyes, 
-\q1 mincing along as they go, and making a tinkling with their feet.
+\v 16 Yahweh says that because the daughters of Zion are proud,
+\q1 walk along with their heads high, and flirt with their eyes,
+\q1 mincing along as they go and making a tinkling with their feet,
 \q1
-\v 17 Therefore the Lord will form diseased scabs on the heads of the daughters of Zion, and Yahweh will make them bald.
+\v 17 therefore the Lord will form diseased scabs on the heads of the daughters of Zion, and Yahweh will make them bald.
 </usfm>
 
 ===== translationWords: =====
@@ -53,12 +53,12 @@
 
 ===== translationNotes: =====
 
+ 
+  * **the daughters of Zion** - Zion, meaning here the city of Jerusalem, is spoken of as if it were a woman with her daughters. AT: "the women of Zion" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
   * **with their heads high** - This means in an arrogant way. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **flirt with their eyes** - "try to impress men with the way they look at them"
+  * **flirt with their eyes** - Here "their eyes" represents how the women look at men. AT: "try to impress men with the way they look at them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **mincing along as they go** - "taking very small steps as they walk"
-  * **and making a tinkling with their feet** - "so the bracelets on their anklets jingle" or "so the bells on their ankles make a noise." Translators may add a footnote that says "The women did this in order to get people's attention." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the Lord will form** - Since Yahweh is speaking, this can also be translated as "I, the Lord, will form."
-  * **Yahweh will make them bald** - Since Yahweh is speaking, this can be translated as "I, Yahweh, will make them bald."
+  * **and making a tinkling with their feet** - "so the bracelets on their ankles jingle" or "so the bells on their ankles make a noise" 
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -66,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:03]]
 **[[:en:bible:notes:isa:03:13|<<]] | [[:en:bible:notes:isa:03:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

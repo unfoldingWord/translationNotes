@@ -36,7 +36,7 @@
 \v 1 Then Bildad the Shuhite answered and said,
 \q
 \v 2 "How long will you say these things?
-\q How long will the words of your mouth be 
+\q How long will the words of your mouth be
 a mighty wind?
 \q
 \v 3 Does God pervert justice?
@@ -54,11 +54,15 @@ a mighty wind?
 
 ===== translationNotes: =====
 
-  * **General Information:** - In each verse of his speech, Bildad conveys a single idea using two different statements, first to rebuke Job and then to defend God. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Connecting Statement:** - In this chapter, Bildad begins to speak about Job's complaints. 
+  * **General Information:** - Verses 2 and 3 each consist of two different questions that have the same meaning. Bildad uses these questions to rebuke Job. (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **Then Bildad the Shuhite answered** - "Bildad" is the name of a man who is a member of the tribe of Shuah. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **How long will the words of your mouth be a mighty wind?** - Bildad poses this question to rebuke Job for complaining to God. In this metaphor, both Job's words and the wind are empty and insubstantial. AT: "The words of your mouth are a mighty wind." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Does God pervert justice? Does the Almighty pervert righteousness?** - Here the writer uses two parallel rhetorical questions, which Bildad poses to rebuke Job. AT: "God does not act unjustly; the Almighty does not fail to do what is right." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **How long will the words of your mouth be a mighty wind?** - Bildad speaks of Job's words as if they are as empty and insubstantial as the wind. This can be translated as a statement. AT: "The words of your mouth are as insignificant as a mighty wind." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Does God pervert justice? Does the Almighty pervert righteousness?** - Here "God" and "the Almighty" both refer to Yahweh. These questions can be translated as statements. AT: "God does not act unjustly; the Almighty does not fail to do what is right." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **pervert** - "do what is against" or "do what is contrary to"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -66,6 +70,6 @@ a mighty wind?
   * [[:en:bible:questions:comprehension:job:08]]
 **[[:en:bible:notes:job:07:21|<<]] | [[:en:bible:notes:job:08:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit almighty}}
+~~DISCUSSION~~{{tag>publish p2check almighty p2pass}}
 
 ~~NOCACHE~~

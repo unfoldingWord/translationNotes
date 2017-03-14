@@ -19,12 +19,10 @@
 
 <usfm>
 \v 21 People are able to kill others or keep them alive by means of what they say.
-\q2 And there is danger for those who love the power of their speaking. 
-\b
+\q2 And there is danger for those who love the power of their speaking.
 \q1
 \v 22 The one who finds a wife, finds something so good it is a gift to bless his life,
-\q2 and it is Yahweh who gives him this wonderful gift. 
-
+\q2 and it is Yahweh who gives him this wonderful gift.
 
 \q1
 </usfm>
@@ -55,8 +53,9 @@
 
 ===== translationNotes: =====
 
-  * **Death and life are controlled by the tongue** - AT: "What people say can lead to life or death" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **those who love the tongue will eat its fruit** - Eating the fruit of the power of the tongue means to experience the consequences of what a person says, whether they are good or bad. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Death and life are controlled by the tongue** - This can be written in active form. AT: "The tongue can lead to life of death" or "What people say can lead to life or death" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **by the tongue ... love the tongue** - Here the "tongue" refers to speech. AT: "by what people say ... love speaking" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will eat its fruit** - This speaks of a person receiving the consequence for what he says as if the consequences were fruit that he receives. AT: "will receive its consequences" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -65,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:18]]
 **[[:en:bible:notes:pro:18:19|<<]] | [[:en:bible:notes:pro:18:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

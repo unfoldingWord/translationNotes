@@ -46,9 +46,9 @@
 
 ===== translationNotes: =====
 
-
-  * **and let us go** - This is an inclusive use of the pronoun "us". (See: [[:en:ta:vol2:translate:figs_inclusive]])
-  * **a deep sleep from Yahweh had fallen on them** - Yahweh had caused them to sleep.
+  * **extend my hand against** - The hand is a metonym for the harm a hand can do. AT: "do anything to harm" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and let us go** - David includes Abishai, so the "us" here is inclusive. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+  * **a deep sleep from Yahweh had fallen on them** - Yahweh had caused them to sleep deeply.
 
  
 ===== Links: =====
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:1sa:26]]
 **[[:en:bible:notes:1sa:26:09|<<]] | [[:en:bible:notes:1sa:26:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

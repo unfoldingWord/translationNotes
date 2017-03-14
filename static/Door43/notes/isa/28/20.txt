@@ -19,7 +19,6 @@
 <usfm>
 \v 20 You have heard people say, "Your bed is very short; you will not be able to sleep in it;
 \q2 your blankets are very narrow; they will not cover you!"
-\q2 That means for you that your treaty with Egypt is not going to save you.
 \q1
 \v 21 Yahweh will come and cause you to be defeated;
 \q2 he will do to you like he did to the army of Philistia at Mount Perizim,
@@ -36,7 +35,7 @@
 \q1
 \v 20 For the bed is too short for a man to stretch out on, and the blanket too narrow for him to wrap himself in."
 \q1
-\v 21 Yahweh will rise up as on Mount Perazim; he will rouse himself as in the valley of Gibeon 
+\v 21 Yahweh will rise up as on Mount Perazim; he will rouse himself as in the Valley of Gibeon
 \q1 to do his work, his strange work, and perform his strange deed.
 </usfm>
 
@@ -50,10 +49,11 @@
 
   * **General Information:** - Yahweh continues to speak to the people of Jerusalem.
 
-  * **For the bed is too short for a man to stretch out on, and the blanket too narrow for him to wrap himself in** - Yahweh is emphasizing that trusting in lies will always cause the people to be disappointed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Yahweh will rise up** - Isaiah is now speaking.
-  * **Mount Perazim ... valley of Gibeon** - These refer to times when God miraculously defeated enemy armies. (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **to do ... his strange work, and perform his strange deed** - These two phrases mean the same thing. This work is strange because God is using a foreign army to defeat the people of Jerusalem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **For the bed is too short for a man to stretch out on, and the blanket too narrow for him to wrap himself in** - This was probably a proverb that the people knew at the time. It means that what they believe will keep them safe from Yahweh's punishment will disappoint them like a bed that is too short or a blanket that is too narrow. (See: [[:en:ta:vol2:translate:writing_proverbs]])
+  * **Yahweh will rise up** - Yahweh preparing to act is spoken of as if he were sitting and then rising up. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Mount Perazim ... Valley of Gibeon** - These refer to places where God miraculously defeated enemy armies. (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol1:translate:translate_names]])
+  * **he will rouse himself** - "he will become very angry"
+  * **his strange work ... his strange deed** - These two phrases mean the same thing. This work is strange because God is using a foreign army to defeat the people of Jerusalem rather than helping the people of Jerusalem defeat their enemies. (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
 
@@ -62,6 +62,6 @@
   * [[:en:bible:questions:comprehension:isa:28]]
 **[[:en:bible:notes:isa:28:18|<<]] | [[:en:bible:notes:isa:28:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -31,7 +31,7 @@
 
 <usfm>
 \c 28
-\p
+\m
 \q
 \v 1 Surely there is a mine for silver,
 \q a place where they refine gold.
@@ -48,10 +48,12 @@
  
 ===== translationNotes: =====
 
-  * **mine** - a place where metal ore is dug out of the earth
-  * **refine** - This is the process of heating a metal to remove all of the impurities.
+  * **mine** - This is a place where people dig rocks out of the earth. These rocks have metal in them.
+  * **refine** - This is the process of heating a metal to remove all of the impurities that are in it.
+  * **Iron is taken out of the earth** - This can be stated in active form. AT: "People take iron out of the earth" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **copper is smelted out of the stone** - This can be stated in active form. AT: "people smelt copper out of the stone" or "people heat stone to melt copper out of it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **copper** - an important red-brown colored metal
-  * **smelted** - This is a process where heat is used to melt metal ore out of stone.
+  * **smelted** - This is a process of heating rocks to melt the metal in them in order to get the metal out of the rocks. 
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -59,6 +61,6 @@
   * [[:en:bible:questions:comprehension:job:28]]
 **[[:en:bible:notes:job:27:22|<<]] | [[:en:bible:notes:job:28:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

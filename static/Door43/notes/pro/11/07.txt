@@ -17,11 +17,10 @@
 
 <usfm>
 \v 7 When a wicked person dies, all he hoped for in the future is lost;
-\q2 what he wanted to accomplish with his strength, will never happen. 
+\q2 what he wanted to accomplish with his strength, will never happen.
 \q1
-\v 8 The one who does what is right, Yahweh delivers from trouble; 
-\q2 and Yahweh gives that trouble to the wicked. 
-
+\v 8 The one who does what is right, Yahweh delivers from trouble;
+\q2 and Yahweh gives that trouble to the wicked.
 
 \q1
 </usfm>
@@ -33,7 +32,7 @@
 \v 7 When a wicked man dies, his hope perishes
 \q and the hope that was in his strength comes to nothing.
 \q
-\v 8 The one who does what is right is kept away from trouble
+\v 8 The righteous person is kept away from trouble
 \q and it comes upon the wicked instead.
 </usfm>
 
@@ -48,7 +47,7 @@
 
   * **the hope that was in his strength** - "the confidence he has in his own power"
   * **comes to nothing** - "disappears"
-  * **The one who does what is right is kept away from trouble** - "God keeps away from trouble the one who does what is right." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The righteous person is kept away from trouble** - This can be stated in active form. AT: "God keeps away from trouble the person who does what is right" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **it comes** - "trouble comes"
 ===== Links: =====
 
@@ -57,6 +56,6 @@
   * [[:en:bible:questions:comprehension:pro:11]]
 **[[:en:bible:notes:pro:11:05|<<]] | [[:en:bible:notes:pro:11:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

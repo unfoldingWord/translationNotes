@@ -52,10 +52,10 @@
 
 ===== translationNotes: =====
 
-  * **stream** - a small river
-  * **riverbanks** - the ground at the edges of a river
+  * **streams** - small rivers
   * **the wild donkeys quench their thirst** - It can be stated clearly that they quench their thirst by drinking the water. AT: "the wild donkeys drink the water to quench their thirst" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **they sing among the branches** - Here David describes the noises the birds make as singing. They sit in the branches of the trees. AT: "they chirp  among the tree branches" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **riverbanks** - the ground at the edges of a river
+  * **they sing among the branches** - Here David describes birds chirping as if they were singing.  AT: "they chirp among the tree branches" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -64,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:104]]
 **[[:en:bible:notes:psa:104:008|<<]] | [[:en:bible:notes:psa:104:013|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

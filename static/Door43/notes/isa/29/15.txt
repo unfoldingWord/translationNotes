@@ -27,9 +27,8 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 15 Woe to those who deeply hide their plans from Yahweh, 
+\v 15 Woe to those who deeply hide their plans from Yahweh,
 \q1 and whose deeds are in darkness. They say, "Who sees us, and who knows us?"
 </usfm>
 
@@ -45,9 +44,9 @@
 
   * **General Information:** - This may be Isaiah speaking or it may continue Yahweh's speech in 29:13-14.
 
-  * **who deeply hide their plans** - "who completely hide their plans"
-  * **deeds are in darkness** - "acts are done in secret"
-  * **Who sees us, and who knows us?** - This question shows how strongly they believe that their acts are hidden. AT: "No one, not even Yahweh, sees us or knows what we are doing!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **who deeply hide their plans from Yahweh** - People trying to make plans without Yahweh knowing about it is spoken of as if they hide their plans in a deep place where Yahweh cannot see. AT: "who try to hide their plans from Yahweh" or "who try to keep Yahweh from finding out what they are planning to do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **whose deeds are in darkness** - It is implied that they are secretly doing evil things. AT: "who do evil things in the dark so no one can see them" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Who sees us, and who knows us?** - They use a question to emphasize that they believe no one knows what they are doing. AT: "No one, not even Yahweh, sees us or knows what we are doing!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:isa:29]]
 **[[:en:bible:notes:isa:29:13|<<]] | [[:en:bible:notes:isa:29:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

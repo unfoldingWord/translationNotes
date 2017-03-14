@@ -36,9 +36,9 @@
 ===== translationNotes: =====
 
 
-  * **the seventh month ... the first of each month** - "the 7th month ... the 1st day of each month" The word "month" refer to those in the Hebrew calendar. (See: [[:en:ta:vol2:translate:translate_hebrewmonths|Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]])
+  * **the seventh month ... the first of each month** - "the 7th month ... the 1st day of each month" The word "month" refer to those in the Hebrew calendar. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **of each month: the special burnt offering ... with it** - "of each month--the special burnt offering ... with it." This is the offering that is made on the first day of each month.
-  * **the regular burnt offering, its grain offering, and its drink offerings** - This refers to the offerings the priests were to give every day. The grain offering and drink offering were to be offed with the regular burnt offering. AT: "the regular burnt offering, with the grain offering and drink offerings that accompany it" (See: [[:en:ta:vol2:translate:figs_possession]])
+  * **the regular burnt offering, its grain offering, and its drink offerings** - This refers to the offerings the priests were to give every day. The grain offering and drink offering were to be offered with the regular burnt offering. AT: "the regular burnt offering, with the grain offering and drink offerings that accompany it" (See: [[:en:ta:vol2:translate:figs_possession]])
   * **you will obey what has been decreed** - This can be stated in active form. AT: "you will obey Yahweh's decree" or "you will obey what Yahweh had decreed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **an offering made by fire to Yahweh** - This can be stated in active form. AT: "an offering you burnt on the altar to Yahweh" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:num:29]]
 **[[:en:bible:notes:num:29:03|<<]] | [[:en:bible:notes:num:29:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

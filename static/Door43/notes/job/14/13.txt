@@ -54,13 +54,15 @@
 
 ===== translationNotes: =====
 
-  * **Oh, that you would** - Other translations may read: "Who will give?" or "Yahweh, please give this to me"
-  * **keep me in private** - AT: "keep me locked up" or "keep me hidden" or "protect me"
-  * **call me to mind** - AT: "remember me" (UDB) or "act kindly toward me" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **If a man dies, will he live again?** - The implicit answer is "no." AT: "When a man dies, he will not live again" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **If so** - AT: "If he would live again" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **all my weary time there** - AT: "all my time, wich currently is making me tired, there"
-  * **my release should come** - AT: "I should be released" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **General Information:** - Job continues speaking to God.
+
+  * **Oh, that you would hide me** - This is an exclamation showing what Job wants very much but does not really expect it to happen. AT: "I wish that you would hide me" (See: [[:en:ta:vol2:translate:figs_exclamations]])
+  * **keep me in private** - "keep me locked up" or "keep me hidden" 
+  * **and then call me to mind** - Call someone to mind is an idiom meaning to think about him.  AT: "and then think about me" or "and then remember me" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **If a man dies, will he live again?** - The implicit answer is "no." AT: "If a man dies, he will not live again" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **If so** - What "so" refers to is understood from the previous phrase. AT: "If he would live again" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **to wait all my weary time there** - The phrase "my weary time" represents a time during which Job would be weary. AT: "to wait all my time there even though I would be weary" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **until my release should come** - The abstract noun "release" can be expressed with the verb "release."  AT: "until I should be released" or "until you release me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -68,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:14]]
 **[[:en:bible:notes:job:14:10|<<]] | [[:en:bible:notes:job:14:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

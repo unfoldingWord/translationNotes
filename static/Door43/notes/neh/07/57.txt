@@ -26,11 +26,9 @@
 \li2
 \v 58 Jaalah, Darkon, Giddel,
 \li2
-\v 59 Shephatiah, Hattil, Pokereth Hazzebaim, and Amon.
-\b
+\v 59 the descendants of Shephatiah, the descendants of Hattil, the descendants of Pochereth Hazzebaim, the descendants of Amon.
 \pi
 \v 60 Altogether, there were 392 temple workers and descendants of Solomon's servants who returned.
-\b
 
 
 \pi
@@ -56,11 +54,11 @@
   * [[:en:obe:other:servant]] 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile.
+  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile. (See: [[:en:ta:vol2:translate:translate_numbers]])
 
-  * **Solomon ... Sotai ... Sophereth ... Perida ... Jaala ... Darkon ... Giddel ... Shephatiah ... Hattil ... Pochereth Hazzebaim ... Amon.** - These are male names. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Sophereth** - This is the name of a man who is called Hassophereth in Ez. 2:55.
-  * **Perida** - This is the name of a man who is also called Peruda in Ez. 2:55.
+  * **Sotai ... Sophereth ... Perida ... Jaala ... Darkon ... Giddel ... Shephatiah ... Hattil ... Pochereth Hazzebaim ... Amon** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Sophereth** - This is the name of a man who is called Hassophereth in Ezra 2:55.
+  * **Perida** - This is the name of a man who is also called Peruda in Ezra 2:55.
  
 ===== Links: =====
 
@@ -69,6 +67,6 @@
   * [[:en:bible:questions:comprehension:neh:07]]
 **[[:en:bible:notes:neh:07:53|<<]] | [[:en:bible:notes:neh:07:61|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

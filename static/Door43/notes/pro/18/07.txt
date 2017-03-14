@@ -19,7 +19,7 @@
 
 <usfm>
 \v 7 A foolish person brings himself to ruin by the things he says;
-\q2 his very words set a trap in which he will be caught. 
+\q2 his very words set a trap in which he will be caught.
 \q1
 \v 8 When a person gossips, his words are as sweet to other people as candy is in their mouths,
 \q2 and they love to listen to them.
@@ -48,12 +48,14 @@
   * [[:en:obe:other:gossip]]
 ===== translationNotes: =====
 
-  * **A fool's mouth ... his lips** - Both of these phrases refer to what a fool says. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **A fool's mouth ... with his lips** - Both of these phrases refer to what a fool says. AT: "What a fool says ... by what he says" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **is his ruin** - "will ruin him"
-  * **he ensnares himself** - "he will cause problems for himself" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The words of a gossip ... of the body** - Gossip is compared to tasty food to show how willingly people believe it. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **a gossip** - This refers to a person who gossips a lot.
-  * **morsel** - "bite of food"
+  * **he ensnares himself** - This speaks of the man causing problems and trouble for himself as if he were trapping himself like a man traps an animal. AT: "he will cause problems for himself" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The words of a gossip are like delicious morsels** - This speaks of the words of a gossip being desirable to listen to as if they were delicious food to eat. AT: "The words of a gossip are desirable to listen to" or (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **The words of a gossip** - This refers to what a gossiping person says. AT: "The words that a gossiping person speaks" (See: [[:en:ta:vol2:translate:figs_possession]])
+  * **morsels** - small bites of food
+  * **they go down into the inner parts of the body** - This speaks of the words of a gossip going into a person's mind and affecting his thoughts as if they were food that was going into his stomach. AT: "and they enter a person's mind and affect his thoughts" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -61,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:18]]
 **[[:en:bible:notes:pro:18:05|<<]] | [[:en:bible:notes:pro:18:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

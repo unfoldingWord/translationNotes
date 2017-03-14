@@ -32,11 +32,11 @@
 
 <usfm>
 \q1
-\v 12 He will set up a banner for the nations and will gather the outcasts of Israel 
+\v 12 He will set up a banner for the nations and will gather the outcasts of Israel
 \q1 and the dispersed
 of Judah from the four corners of the earth.
 \q1
-\v 13 He will turn aside the envy of Ephraim, and hostilities of Judah will be cut off. 
+\v 13 He will turn aside the envy of Ephraim, and hostilities of Judah will be cut off.
 \q1 Ephraim will not envy Judah, and Judah
 will no longer be hostile to Ephraim.
 </usfm>
@@ -52,9 +52,13 @@ will no longer be hostile to Ephraim.
 
 ===== translationNotes: =====
 
-  * **He will set up a banner for the nations** - The banner is the symbol of power. AT: "Yahweh will set up the Messiah like a flag for the nations to see" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **He will turn aside the envy of Ephraim** - That is, God will stop Ephraim, the northern kingdom, from envying the southern kingdom of Judah. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **hostilities of Judah will be cut off** - In this context, this expression refers to the hatred that the people of Judah, the southern kingdom, often displayed against the people of the northern kingdom. This phrase can be stated in active form. AT: "he will stop the people of Judah from being enemies of the people of Ephraim" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **He will set up a banner for the nations** - Possible meanings are 1) "The Lord will set up the king as a banner for the nations" or 2) "The king will set up a banner for the nations" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **a banner for the nations** - "a flag for the nations to see" or "a flag to call the nations to himself"
+  * **the dispersed of Judah** - "the people of Judah who had been scattered around the world" 
+  * **from the four corners of the earth** - The earth is pictured as if it has four corners, and those corners are its most distant places. This refers to everywhere on earth where those people might be. AT: "from even the most distant places of the earth" or "from all over the earth" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **He will turn aside the envy of Ephraim** - Ephraim here refers to the descendants of the northern kingdom of Israel. The noun "envy" can be expressed as an adjective. AT: "He will stop the people of Ephraim from being envious" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Judah will no longer be hostile to Ephraim** - Judah here refers to the descendants of the southern kingdom. This phrase can be stated in active form. AT: "he will stop the people of Judah from being hostile" or "he will stop the people of Judah from hating" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 
 ===== Links: =====
 
@@ -63,6 +67,6 @@ will no longer be hostile to Ephraim.
   * [[:en:bible:questions:comprehension:isa:11]]
 **[[:en:bible:notes:isa:11:10|<<]] | [[:en:bible:notes:isa:11:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

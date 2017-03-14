@@ -25,14 +25,13 @@
 \v 9 All our sacred symbols are gone;
 \q2 there are no prophets now,
 \q2 and no one knows how long this situation will continue.
-\b
 \q1
 \v 10 God, how long will our enemies make fun of you?
 \q1 Will they insult you?
 \q1
 \v 11 Why do you refuse to help us?
 \q2 Why do you keep your hand inside your cloak instead of using it to destroy our enemies?
-\b
+
 
 
 \q1
@@ -52,7 +51,6 @@
 \q
 \v 11 Why do you hold back your hand, your right hand?
 \q Take your right hand from your garment and destroy them.
-\b
 </usfm>
 
 
@@ -72,7 +70,7 @@
 
   * **General Information:** - Asaph is addressing God about the destruction he sees.
 
-  * **We do not see any more signs** - Possible meanings are 1) "We do not see any more miraculous signs from God" or 2) "All our sacred symbols are gone" or 3) speaking of the flags and symbols of an army, "Our army has been completely destroyed." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **We do not see any more signs** - Possible meanings are 1) "We do not see any more miraculous signs from God" or 2) "All our sacred symbols are gone" or 3) if speaking of the flags and symbols of an army, "Our army has been completely destroyed." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **How long, God, will the enemy throw insults at you?** - This can be translated as a statement. AT: "God, the enemy has been throwing insults at you for too long!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Will the enemy blaspheme your name forever?** - This can be translated as a statement. AT: "It seems as if you will never stop the enemy from blaspheming your name!" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
   * **blaspheme your name** - The word "name" is a metonym for God himself. AT: "say that you are bad" or "insult you"  (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -88,6 +86,6 @@
   * [[:en:bible:questions:comprehension:psa:074]]
 **[[:en:bible:notes:psa:074:007|<<]] | [[:en:bible:notes:psa:074:012|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3 blasphemy}}
+~~DISCUSSION~~{{tag>publish p2pass book3 blasphemy}}
 
 ~~NOCACHE~~

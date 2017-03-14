@@ -40,7 +40,7 @@
 
 <usfm>
 \q1
-\v 5 The isles have seen and are afraid; the ends of the earth tremble; 
+\v 5 The isles have seen and are afraid; the ends of the earth tremble;
 \q1 they approach and come.
 \q1
 \v 6 Everyone helps his neighbor, and every one says to one another, 'Be encouraged.'
@@ -60,9 +60,13 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **The isles** - You can translate "isles" the same way you did "coastlands" in [[:en:bible:notes:isa:41:01|41:1]].
+  * **The isles ... the ends of the earth** - These phrases represent the people who live in those places. AT: "People who live on the isles ... people who live at the ends of the earth" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The isles** - You can translate "isles" the same way you translated "coastlands" in [[:en:bible:notes:isa:41:01|41:1]].
+  * **the ends of the earth** - The places on the earth that are very far away are spoken of as if they were the places where the earth ends. AT "the farthest places of the earth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they approach and come** - This doublet means that the people gather together. AT: "they come together" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **anvil** - an iron block on which a person shapes metal with a hammer
-  * **They fasten it with nails so it will not topple over.** - Here "it" refers to the idol which they are repairing because they think it will protect them from Yahweh.
+  * **saying of the welding** - Here the word "welding" refers to the process of fastening the gold to the wood as the workers finish making the idol.
+  * **They fasten it with nails so it will not topple over.** - Here "it" refers to the idol that they have made.
 
 
 ===== Links: =====
@@ -72,6 +76,6 @@
   * [[:en:bible:questions:comprehension:isa:41]]
 **[[:en:bible:notes:isa:41:03|<<]] | [[:en:bible:notes:isa:41:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

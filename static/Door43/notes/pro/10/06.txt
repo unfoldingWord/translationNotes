@@ -18,12 +18,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 Those who do right will receive many good gifts from God; 
-\q2 but those who do wicked things cover their violence so they cannot be seen. 
+\v 6 Those who do right will receive many good gifts from God;
+\q2 but those who do wicked things cover their violence so they cannot be seen.
 \q1
-\v 7 When we remember those who do what is right, we get a blessing from Yahweh; 
-\q2 but we cannot remember the names of the wicked. 
-
+\v 7 When we remember those who do what is right, we get a blessing from Yahweh;
+\q2 but we cannot remember the names of the wicked.
 
 \q1
 </usfm>
@@ -33,10 +32,10 @@
 
 <usfm>
 \q
-\v 6 Gifts from God are upon the head of those who do what is right,
+\v 6 Gifts from God are upon the head of the righteous person,
 \q but the mouth of the wicked covers up violence.
 \q
-\v 7 A person who does right makes us happy when we think about him,
+\v 7 The righteous person makes those who remember him happy,
 \q but the name of the wicked will rot away.
 </usfm>
 
@@ -51,10 +50,10 @@
 
 ===== translationNotes: =====
 
-  * **are upon the head** - AT: "are given to" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **mouth of the wicked** - "words the wicked speak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **are upon the head** - "head" represents the whole person. AT: "are given to" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **mouth of the wicked** - "mouth" represents what a person says. AT: "words the wicked speak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **covers up** - hides the truth
-  * **name** - AT: "memory"
+  * **name** - "name" represents a person's reputation. AT: "memory" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 
  
@@ -71,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -53,13 +53,14 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues speaking
+  * **Connecting Statement:** - Job continues speaking.
 
-  * **The womb** - AT: "The woman" or "The mother" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the worm will feed sweetly on him** - AT: "the worm will enjoy eating his dead body" or "he will die and then his body will be eaten by worms" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **he will be remembered no more** - AT: "no one will remember him anymore" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **wickedness will be broken like a tree** - Just like a tree that is snapped by a strong wind, or cut down by a person, cannot be put togehter, so God will break wickedness. AT: "God will destroy the wicked like a tree that is broken" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **The wicked one devours** - AT: "Just like a wild animal kills its prey, so the wicked person harms" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The womb** - This refers to the mother. AT: "The mother" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the worm will feed sweetly on him** - This means that he will die and worms will eat his body. AT: "the worm will enjoy eating his dead body" or "he will die and then his body will be eaten by worms" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **he will be remembered no more** - This can be stated in active form. AT: "no one will remember him anymore" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **wickedness will be broken like a tree** - God's destruction of the wicked man is describes as if he were cutting down a tree. This can be stated in active form. AT: "God will destroy the wicked as if he were a tree" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The wicked one devours** - This metaphor emphasizes how ruthless the wicked man is. AT: "Just like a wild animal kills its prey, so the wicked person harms" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the barren women who have not borne children** - The people of that day considered that a woman who was barren was cursed by God. Therefore, this represents the most unfortunate women. 
   * **widow** - a woman whose husband has died
 
 ===== Links: =====
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:24]]
 **[[:en:bible:notes:job:24:18|<<]] | [[:en:bible:notes:job:24:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

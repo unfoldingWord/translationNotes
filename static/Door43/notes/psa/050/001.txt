@@ -33,9 +33,8 @@
 
 <usfm>
 \c 50
-\p
+\m
 \d A psalm of Asaph.
-\b
 \q
 \v 1 The Mighty One, God, Yahweh, has spoken
 \q and called the earth from the rising of the sun to its setting.
@@ -59,8 +58,7 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
-
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
   * **General Information:** - This psalm is a song that teaches people.
 
   * **A psalm of Asaph** - "This is a psalm that Asaph wrote."
@@ -77,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:050]]
 **[[:en:bible:notes:psa:049:018|<<]] | [[:en:bible:notes:psa:050:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2 asaph}}
+~~DISCUSSION~~{{tag>publish p2pass book2 asaph}}
 
 ~~NOCACHE~~

@@ -47,12 +47,10 @@
  
 ===== translationNotes: =====
 
-  * **out of which comes bread** - AT: "where food is produced," (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **it is turned up below as if by fire.** - AT: "but below the earth it looks like everything has been heated by fire and crushed"
-  * **it is turned ... Its stones ... its dust** - The word "it" refers to the "earth".
+  * **the earth, out of which comes bread** - Here "bread" is a metonym for food in general. Food coming out of the ground is a metaphor for food growing in the ground. AT: "the earth, where food grows," (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **it is turned up below as if by fire** - Possible meanings are that 1) people made fires under the ground to break apart the rock. AT: "it is broken up below by the fires that the miners make" or 2) "turn" is a metaphor for change. AT: "it is broken up below so much it is as if it were destroyed by fire"
+  * **it is turned ... Its stones ... its dust** - The word "it" refers to the earth.
   * **sapphires** - This word refers to a type of rare and expensive blue gem stone.
-
-
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -60,6 +58,6 @@
   * [[:en:bible:questions:comprehension:job:28]]
 **[[:en:bible:notes:job:28:03|<<]] | [[:en:bible:notes:job:28:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

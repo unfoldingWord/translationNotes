@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 But now, Yahweh God, you have acted very kindly toward us. You have allowed some of us to survive. You have revived our spirits and allowed us to escape from being slaves in Babylonia 
+\v 8 But now, Yahweh God, you have acted very kindly toward us. You have allowed some of us to survive. You have revived our spirits and allowed us to escape from being slaves in Babylonia
 and to return safely to live in this sacred place.
-\v 9 We were slaves, but you did not abandon us. Instead, because you are always faithful to your covenant with us, you caused the kings of Persia to act very kindly toward us. You have allowed 
+\v 9 We were slaves, but you did not abandon us. Instead, because you are always faithful to your covenant with us, you caused the kings of Persia to act very kindly toward us. You have allowed
 us to continue to live and to rebuild your temple which had been completely destroyed. You have allowed us to start to live safely here in Jerusalem and in other towns in Judah.
 </usfm>
 
@@ -43,9 +43,11 @@ us to continue to live and to rebuild your temple which had been completely dest
 
 ===== translationNotes: =====
 
-  * **God has come to leave us a few survivors** - AT: "God has allowed us to continue with a few survivors"
-  * **has extended covenant faithfulness to us** - God has continued to bless Israel in spite of their unfaithfulness.
+  * **mercy from Yahweh our God has come** - God deciding to be merciful is spoken of as if mercy were a person who could move. AT: "Yahweh our God has decided to be merciful to us and" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **has extended covenant faithfulness to us** - Covenant faithfulness is spoken of as if it were an object that someone could hold in his hand and hold out for another person to take. AT: "has offered to be faithful to us and keep his covenant" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in the sight of the king of Persia** - The king could not literally see the temple, but he did know about what was happening in Jerusalem. Here "sight" is a metonym for what a person knows. AT: "so that the king of Persia knows about it" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **God's house** - the temple
+  * **could give us a wall of safety** - The wall that keeps people safe is a metaphor for Yahweh protecting his people. AT: "could keep us safe" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -58,6 +60,6 @@ us to continue to live and to rebuild your temple which had been completely dest
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit holyplace}}
+{{tag>publish p2pass holyplace}}
 
 ~~NOCACHE~~

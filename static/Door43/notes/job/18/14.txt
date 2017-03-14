@@ -31,7 +31,7 @@
 
 <usfm>
 \q
-\v 14 He is torn from the safety of his tent 
+\v 14 He is torn from the safety of his tent
 \q and marched off to the king of terrors.
 \q
 \v 15 People not his own will live in his tent
@@ -51,10 +51,11 @@
 
   * **General Information:** - Bildad continues to describe the wicked person.
 
-  * **He is torn from the safety of his tent** - AT: "Disaster rips him out of his tent" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the king of terrors** - Bildad refers to "death" as "the king of terrors" because death is more terrifying than anything else that is terrifying. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **People not his own will live in his tent** - "Other people will live in his tent." This refers to people who are not part of the wicked persons family.
-  * **after they see that sulfur is scattered within his home** - "after they spread sulfur all over his home." People used sulfur to get rid of any diseases from a dying person.
+  * **He is torn from the safety of his tent** - This can be stated in active form. AT: "Disaster rips him out of his tent, where he is safe" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **and marched off** - This can be stated in active form. AT: "and it marches him off" or "it forces him to go" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the king of terrors** - This is a reference to "King Death," a pagan god who was believed to rule over death. AT: "the one who rules over the dead" (UDB) or "the king of death" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **People not his own** - "People who are not his family"
+  * **after they see that sulfur is scattered within his home** - People used sulfur to get rid of any diseases from a dying person. This can be stated in active form. AT: "after they spread sulfur all over his home" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -63,6 +64,6 @@
   * [[:en:bible:questions:comprehension:job:18]]
 **[[:en:bible:notes:job:18:12|<<]] | [[:en:bible:notes:job:18:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

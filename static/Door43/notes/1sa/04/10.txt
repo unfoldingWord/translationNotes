@@ -39,7 +39,7 @@
  
 ===== translationNotes: =====
 
-  * **Israel was defeated** - This can be stated in active form. AT: "they defeated Israel" The word "Israel" is a metonym for "the army of Israel." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Israel was defeated** - This can be stated in active form. The word "Israel" is a metonym for "the army of Israel." AT: "they defeated Israel." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **The ark of God was taken** - This can be stated in active form. AT: "The Philistines also took the ark of God" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
@@ -55,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check p2example}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

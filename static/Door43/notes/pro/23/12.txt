@@ -15,8 +15,7 @@
 
 <usfm>
 \v 12 Pay attention to what you are learning,
-\q2 and listen to the words of knowledge. 
-
+\q2 and listen to the words of knowledge.
 
 \q1
 </usfm>
@@ -41,8 +40,13 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
- 
+  * **Apply your heart to** - This is an idiom. Translate as in [[:en:bible:notes:pro:22:17|22:17]]. AT: "Do your best to understand and remember" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **instruction** - Possible meanings are 1) "what people who know what is right and what is wrong tell you" or 2) "what people say and do when they correct you."
+  * **and your ears** - The ellipsis can be filled in. AT: "and apply your ears" or "and listen carefully" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **to words of knowledge** - "to me when I tell you what I know"
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -56,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

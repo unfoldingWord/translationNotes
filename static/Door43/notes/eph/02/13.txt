@@ -23,10 +23,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 But now in Christ Jesus you who once were far away from God have been brought near to God by the blood of Christ.
-\v 14 For he is our peace. He made the two one. By his flesh he destroyed the wall of division that divided us, the hostility.
-\v 15 That is, he abolished the law of commandments and regulations so that he might create one new man in himself. He made peace.
-\v 16 He did this to reconcile both peoples into one body to God through the cross. With the cross he put to death the hostility.
+\v 13 But now in Christ Jesus you who once were far away from God have been brought near by the blood of Christ.
+\v 14 For he is our peace. He made the two one. By his flesh he destroyed the wall of hostility that divided us.
+\v 15 That is, he abolished the law of commandments and regulations so that he might create one new man in himself, and so making peace.
+\v 16 Christ reconciles both peoples into one body to God through the cross, putting to death the hostility.
 </usfm>
 
 ===== translationWords: =====
@@ -46,20 +46,19 @@
 ===== translationNotes: =====
 
   * **But now in Christ Jesus** - Paul is marking a contrast between the Ephesians before they believed in Christ and after they believed in Christ.
-  * **you who once were far away from God have been brought near to God** - Due to the believers' sins, they were separated from God. However, now Jesus has brought them near to God by his blood.
+  * **you who once were far away from God have been brought near by the blood of Christ** - Due to the believers' sins, they were separated from God. However, now Jesus has brought them near to God by his blood. AT: ]
+  * **by the blood of Christ** - The blood of Christ is a metonym for his death. AT: "by Christ's death" or "when Christ died for us" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **he is our peace** - "Jesus gives us his peace"
   * **He made the two one** - "He made the Jews and Gentiles one"
   * **By his flesh** - "By the death of his body on the cross" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **division** - "hatred" or "ill will"
-  * **divided us** - The word "us" refers to both Paul and the Ephesians, who separated the Jewish believers from the Gentile believers. (See [[:en:ta:vol2:translate:figs_inclusive]])
+  * **the wall of hostility** - "the wall of hatred" or "the wall of ill will"
+  * **that divided us** - The word "us" refers to Paul and the Ephesians. The Ephesians, as Gentiles, were separated from Paul and the other Jews. AT: "that separated us Jews and Gentiles from one another" (See [[:en:ta:vol2:translate:figs_inclusive]])
   * **he abolished the law of commandments and regulations** - Jesus' blood satisfied the law of Moses so that both the Jews and Gentiles can live at peace in God.
   * **one new man** - a single new people, the people of redeemed humanity (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **in himself** - It is union with Christ that makes reconciliation possible between Jews and Gentiles.
-  * **to reconcile both peoples** - "to bring the Jews and the Gentiles together in peace"
-  * **through the cross ... With the cross** - That is, by means of Christ's death on the cross. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **With the cross he put to death the hostility** - By dying on the cross Jesus eliminated the reason for Jews and Gentiles to be hostile toward each other. Neither are now required to live according to the law of Moses. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
-
+  * **Christ reconciles both peoples** - "Christ brings the Jews and the Gentiles together in peace"
+  * **through the cross** - The cross here represents Christ's death on the cross. AT: "by means of Christ's death on the cross" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **putting to death the hostility** - Stopping their hostility is spoken of as if he killed their hostility. By dying on the cross Jesus eliminated the reason for Jews and Gentiles to be hostile toward each other. Neither are now required to live according to the law of Moses. AT: "stopping them from hating one another" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:eph:00:intro]]

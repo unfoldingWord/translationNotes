@@ -41,17 +41,15 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 12 The Lord, Yahweh of hosts called on that day
 \q1 for weeping, for mourning, for shaved heads, and the wearing of sackcloth.
 \q1
-\v 13 But look, instead, celebration and gladness, killing cattle and slaughtering sheep, 
+\v 13 But look, instead, celebration and gladness, killing cattle and slaughtering sheep,
 \q1 eating meat and drinking wine; let us eat and drink, for tomorrow we will die.
 \q1
-\v 14 This was revealed in my ears by Yahweh of hosts: 
+\v 14 This was revealed in my ears by Yahweh of hosts:
 \q1 "Surely this iniquity will not be forgiven you, even when you die," says the Lord, Yahweh of hosts.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -60,6 +58,7 @@
   * [[:en:obe:kt:yahwehofhosts]]
   * [[:en:obe:other:mourn]]
   * [[:en:obe:other:sackcloth]]
+  * [[:en:obe:other:cow]]
   * [[:en:obe:other:slaughter]]
   * [[:en:obe:other:sheep]]
   * [[:en:obe:other:wine]]
@@ -69,10 +68,12 @@
 
 ===== translationNotes: =====
 
-  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
-  * **for shaved heads** - This was a sign of mourning and repenting.
-  * **This was revealed in my ears by Yahweh of hosts** - This can be stated in active form. AT: "Yahweh of hosts revealed this to me" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Surely this iniquity will not be forgiven you, even when you die** - This can be stated in active form. AT: "Surely I will not forgive you for these sinful things you have done" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
+  * **for shaved heads** - This was a sign of mourning and repenting. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **let us eat and drink, for tomorrow we will die** - Here "eat and drink" represents having a party and over indulging in food and wine. AT: "we may as well have fun now by eating and drinking all we want, for we will die soon" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **This was revealed in my ears by Yahweh of hosts** - Here "ears" represents Isaiah as a whole. This can be stated in active form. AT: "Yahweh of hosts revealed this to me" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Surely this iniquity will not be forgiven you, even when you die** - This can be stated in active form. AT: "Surely I will not forgive you for these sinful things you have done, even when you die" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **even when you die** - Possible meanings are 1) Yahweh will never forgive them, even after they die or 2) Yahweh will not forgive them until they die.
 
 ===== Links: =====
 
@@ -81,6 +82,6 @@
   * [[:en:bible:questions:comprehension:isa:22]]
 **[[:en:bible:notes:isa:22:10|<<]] | [[:en:bible:notes:isa:22:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

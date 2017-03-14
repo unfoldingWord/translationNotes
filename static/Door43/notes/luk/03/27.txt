@@ -22,9 +22,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 27 the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri, 
-\v 28 the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er, 
-\v 29 the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,
+\v 27 Joda was the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Salathiel, the son of Neri,
+\v 28 the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,
+\v 29 the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi.
 </usfm>
 
 
@@ -35,6 +35,7 @@
 ===== translationNotes: =====
 
   * **the son of Joanan, the son of Rhesa ... Levi** - This is a continuation of the list of Jesus' ancestors. Use the same format as you used in the previous verses. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the son of Salathiel** - The name Salathiel may be a different spelling of the name Shealtiel (as some versions have it), but identification is difficult. 
 ===== Links: =====
 
   * [[:en:bible:notes:luk:00:intro]]

@@ -38,10 +38,10 @@
 \p
 \v 5 Yahweh spoke to me again,
 \q1
-\v 6 "Because this people have refused the gentle waters of Shiloah, 
-\q1 and are happy over Rezin and Remaliah's son,
+\v 6 "Because this people has refused the gentle waters of Shiloah,
+\q1 and is happy over Rezin and Remaliah's son,
 \q1
-\v 7 therefore the Lord is about to bring up on them the waters of the River, mighty and many, the king of Assyria and all his glory. 
+\v 7 therefore the Lord is about to bring up on them the waters of the River, mighty and many, the king of Assyria and all his glory.
 \q1 It will come up over all its channels and overflow its banks.
 </usfm>
 
@@ -56,11 +56,14 @@
 
 ===== translationNotes: =====
 
-  * **Because this people have refused the gentle waters of Shiloah** - These gentle, flowing waters are compared to the teachings of the Lord that were always available to lead the people of Jerusalem. AT: "Because this people have rejected Yahweh's help, which is like the gentle waters of Shiloah" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:translate_names]])
-  * **and are happy over Rezin and Remaliah's son** - See how you translated these names in [[:en:bible:notes:isa:07:01|7:1]]. The full meaning can be made explicit. AT: "and are happy that the armies of Assyria have defeated Rezin, king of Aram, and Pekah, Remaliah's son, king of Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **therefore the Lord is** - Yahweh is still speaking. He refers to himself as "the Lord." AT: "therefore I am"
-  * **up on them** - "up on the people of Judah" 
-  * **the waters of the River, mighty and many, the king of Assyria and all his glory** - The river symbolizes the army of Assyria. AT: "the army from Assyria that is powerful like a mighty river" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Because this people has refused the gentle waters of Shiloah** - The words "gentle waters" are a metaphor for the law of the Lord. AT: "Because this people has rejected Yahweh's law, which is like the gentle waters of Shiloah" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:translate_names]])
+  * **this people** - "this people group." If your language needs a plural here, you can translate this phrase and the following verbs as "these people have refused ... are happy."
+  * **and is happy over Rezin and Remaliah's son** - The full meaning can be made explicit. AT: "and is happy that the armies of Assyria have defeated Rezin, king of Aram, and Pekah, Remaliah's son, king of Israel." Translate the names as in [[:en:bible:notes:isa:07:01|7:1]]. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **therefore the Lord is** - Yahweh speaks of himself as if he were someone else to remind the people of who he is. AT: "therefore I, the Lord, am" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **bring up on them** - The verb is "bring up"; the adverb is "on them."
+  * **on them** - "on the people of Judah" 
+  * **the waters of the River, mighty and many, the king of Assyria and all his glory** - The river symbolizes the army of Assyria. AT: "the army from Assyria, which is powerful like a mighty river" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the River** - the Euphrates River in Assyria
  
 ===== Links: =====
 
@@ -69,6 +72,6 @@
   * [[:en:bible:questions:comprehension:isa:08]]
 **[[:en:bible:notes:isa:08:03|<<]] | [[:en:bible:notes:isa:08:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

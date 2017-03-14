@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 39 As for the other matters concerning Ahab, all that he did, the ivory house that he built, and all the cities that he built, are they not written in The Book of the Events of the Kings of Israel?
+\v 39 As for the other matters concerning Ahab, all that he did, the ivory house that he built, and all the cities that he built, are they not written in the book of the events of the kings of Israel?
 \v 40 So Ahab slept with his ancestors, and Ahaziah his son became king in his place.
 </usfm>
 
@@ -35,8 +35,8 @@
 
 ===== translationNotes: =====
 
-  * **are they not written in The Book of the Events of the Kings of Israel?** - See how you translated this in [[:en:bible:notes:1ki:15:31|15:31]]. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **slept with his ancestors** - See how you translated this in [[:en:bible:notes:1ki:14:29|14:31]]. (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **are they not written in the book of the events of the kings of Israel?** - This can be expressed in active form and assumes that the answer is positive. The question is rhetorical and is used for emphasis. See how you translated this in [[:en:bible:notes:1ki:15:31|15:31]]. AT: "they are written in the book of the events of the kings of Israel." or "you can read them in the book of the events of the kings of Israel." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **slept with his ancestors** - Ahab dying is spoken of as if he had fallen asleep. See how you translated this in [[:en:bible:notes:1ki:02:10|2:10]]. AT: "died" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_euphemism]])
 
 ===== Links: =====
 
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:1ki:22]]
 **[[:en:bible:notes:1ki:22:37|<<]] | [[:en:bible:notes:1ki:22:41|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit ahaziah}}
+~~DISCUSSION~~{{tag>publish p2pass ahaziah}}
 
 ~~NOCACHE~~

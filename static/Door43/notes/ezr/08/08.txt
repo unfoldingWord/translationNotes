@@ -28,10 +28,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 8 Of the descendants of Shephatiah: Zebadiah son of Michael. With him were listed eighty males.
-\v 9 Of the descendants of Joab: Obadiah son of Jehiel. With him were listed 218 males.
-\v 10 Of the descendants of Shelomith son of Josiphiah. With him were listed 160 males.
-\v 11 Of the descendants of Bebai: Zechariah son of Bebai. With him were listed twenty-eight males.
+\v 8 Of the descendants of Shephatiah, Zebadiah son of Michael and with him were listed eighty males.
+\v 9 Of the descendants of Joab, Obadiah son of Jehiel and with him were listed 218 males.
+\v 10 Of the descendants of Shelomith son of Josiphiah and with him were listed 160 males.
+\v 11 Of the descendants of Bebai, Zechariah son of Bebai and with him were listed twenty-eight males.
 </usfm>
 
 
@@ -44,11 +44,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Continuing list of names of men (See: [[:en:ta:vol1:translate:translate_names]])
+  * **General Information:** - The list of men's names continues. (See: [[:en:ta:vol1:translate:translate_names]])
 
-  * **Shephatiah** - See how you translated this in [[:en:bible:notes:ezr:02:03|2:2]].
-  * **Bebai** - See how you translated this in [[:en:bible:notes:ezr:02:11|2:11]]. 
-  * **eighty ... twenty-eight** - 80, 28. Numbers representing the men and boys in each family listed. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Of the descendants of Shephatiah, Zebadiah son of Michael** - This is the next item in the list. It can be written with the verb "was." AT: "The leader of the descendants of Shephatiah was Zebadiah son of Michael" or "Zebadiah son of Michael was the leader of the descendants of Shephatiah" 
+  * **Shephatiah** - Translate this man's name as you did in [[:en:bible:notes:ezr:02:03|2:2]].
+  * **Michael** - This is a man's name. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **and with him were listed eighty males** - "and with Zebadiah were listed eighty males"
+  * **Bebai** - Translate this as you did in [[:en:bible:notes:ezr:02:11|2:11]]. 
+  * **eighty ... twenty-eight** - "80 ... 28" (See: [[:en:ta:vol2:translate:translate_numbers]])
  
 ===== Links: =====
 
@@ -62,6 +65,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit obadiah michael}}
+{{tag>publish p2pass obadiah michael}}
 
 ~~NOCACHE~~

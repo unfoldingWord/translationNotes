@@ -26,7 +26,7 @@
 
 <usfm>
 \p
-\v 11 So the men of his city, the elders and the wealthy who live in his city, did as Jezebel had described to them, as was written in the letters that she had sent to them.
+\v 11 So the men of his city, the elders and the wealthy who lived in Naboth's city, did as Jezebel had described to them, as was written in the letters that she had sent to them.
 \v 12 They proclaimed a fast and seated Naboth above the people.
 \v 13 The two dishonest men came in and sat before Naboth; they testified against Naboth in the presence of the people, saying, "Naboth cursed both God and the king." Then they carried him out of the city and stoned him to death.
 \v 14 Then the elders sent word to Jezebel, saying, "Naboth has been stoned and is dead."
@@ -39,10 +39,10 @@
 
 ===== translationNotes: =====
 
-  * **the wealthy who live** - "the wealthy men who lived"
-  * **as Jezebel had described to them, as was written in the letters that she had sent to them** - These two phrases mean basically the same thing and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the wealthy who lived in Naboth's city** - The word "wealthy" refers to wealthy people. AT: "the wealthy people who lived in Naboth's city" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
   * **as was written in the letters** - This can be stated in active form. AT: "as she had written in the letters" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **above the people** - AT: "in a place of honor among the people" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **seated Naboth above the people** - Having Naboth sit in a place of honor is spoken of as if it were having him sit above the rest of the people who were present. See how you translated this idea in [[:en:bible:notes:1ki:21:08|21:9]]. AT: "had Naboth sit in a place of honor among the people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **sat before Naboth** - "sat in front of Naboth"
   * **they carried him out** - Here the word "they" refers to the people of the city.
   * **Naboth has been stoned and is dead** - This can be stated in active form. AT: "We have stoned Naboth and he is dead" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:1ki:21]]
 **[[:en:bible:notes:1ki:21:08|<<]] | [[:en:bible:notes:1ki:21:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

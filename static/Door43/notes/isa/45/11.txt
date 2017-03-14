@@ -1,6 +1,5 @@
 ====== Isaiah 45:11 ======
 
-
 ===== TFT: =====
 
 <usfm>
@@ -9,7 +8,6 @@
 \q1 Why do you tell me about the work that I should do?\f + \ft Or: You should not tell me about the work that I should do. \f* \f + \ft rhetorical question \f*
 \q1
 </usfm>
-
 
 ===== UDB: =====
 
@@ -22,43 +20,37 @@
 \q1
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 11 This is what Yahweh says, the Holy One of Israel, her Maker:
-\q1 'Concerning things to come, do you question me about my children? Do you tell me what to do concerning the work of my hands?'
+\v 11 This is what Yahweh says, the Holy One of Israel, his Maker:
+\q1 'Why do you ask questions about what I will do for my children? Do you tell me what to do concerning the work of my hands?'
 </usfm>
-
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:kt:holyone]]
-  * [[:en:obe:other:israel]]
-  * [[:en:obe:kt:children]]
-  * [[:en:obe:other:hand]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:kt:holyone|Holy One]]
+  * [[:en:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:en:obe:kt:children|children, child]]
+  * [[:en:obe:other:hand|hand, right hand, to hand over]]
 
 ===== translationNotes: =====
-  * **Holy One of Israel** - See how you translated this in [[:en:bible:notes:isa:01:04|1:4]].
-  * **her Maker** - Here "her" refers to the people of Israel. See how you translated "Maker" in [[:en:bible:notes:isa:17:06|17:7]].
-  * **do you question me ... Do you tell me what to do ... work of my hands?** - Yahweh uses questions to scold those who argue with him about what he does. AT: "do not question me ... do not tell me what to do ... work of my hands." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
+  * **Holy One of Israel** - Translate this phrase in the same way you did in [[:en:bible:notes:isa:01:04|1:4]].
+  * **Why do you ask questions about what I will do for my children? Do you tell me what to do concerning the work of my hands?** - Yahweh uses questions to scold those who argue with him about what he does. AT: "Do not question me about what I do for my children. Do not tell me ... my hands." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **my children** - This refers to the people of Israel.
+  * **the work of my hands** - Here the word "hands" represents Yahweh. AT: "the things that I have made" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+
 ===== Links: =====
 
-  * [[:en:bible:notes:isa:00:intro]]
-  * [[:en:bible:notes:isa:45:00]]
-  * [[:en:bible:questions:comprehension:isa:45]]
-
- 
+  * [[:en:bible:notes:isa:00:intro|Introduction to Isaiah]]
+  * [[:en:bible:notes:isa:45:00|Isaiah 45 General Notes]]
+  * [[:en:bible:questions:comprehension:isa:45|Isaiah 45 Translation Questions]]
 
 **[[:en:bible:notes:isa:45:10|<<]] | [[:en:bible:notes:isa:45:12|>>]]**
 
-~~DISCUSSION~~
-
-
-{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

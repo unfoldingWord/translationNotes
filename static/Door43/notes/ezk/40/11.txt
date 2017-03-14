@@ -11,16 +11,16 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 Then he measured the opening of the gate; it was about 5.4 meters wide, and the entrance from the gate was about seven meters long.
-\v 12 Running along in front of the alcoves was a low wall about one half meter high. Each of the alcoves was about 3.2 meters long on all sides.
-\v 13 Then the man measured the gateway's width from the roof of the alcove on one side, to the roof of the alcove on the other side. The distance was about 13.5 meters, from one alcove's entrance to that of the other.
+\v 11 Then he measured the opening of the gate; it was five and two-fifth meters wide, and the entrance from the gate was seven meters long.
+\v 12 Running along in front of the alcoves was a low wall one-half meter high. Each of the alcoves was three and one-tenth meters long on all sides.
+\v 13 Then the man measured the gateway's width from the roof of the alcove on one side, to the roof of the alcove on the other side. The distance was 13 and one-half, from one alcove's entrance to that of the other.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
 \v 11 Then the man measured the width of the gateway entrance—ten cubits; and he measured the length of the gateway entrance—thirteen cubits.
-\v 12 He measured the wall that was bordering the front of the chambers—one cubit high. And the chambers—six cubits on every side.
+\v 12 He measured the wall that was bordering the front of the chambers—one cubit high. The chambers measured six cubits on each side.
 \v 13 Then he measured the gateway from the roof of one chamber to that of the next chamber—twenty-five cubits, from the entrance of the first chamber to that of the second.
 </usfm>
 
@@ -30,13 +30,16 @@
 
   * **gateway entrance** - "the opening which was the entrance of the gate"
   * **ten cubits** - about 5.4 meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **cubits** - See how you translated these "long" cubits in [[:en:bible:notes:ezk:40:05|40:05]].
+  * **cubits** - Translate these "long" cubits as in [[:en:bible:notes:ezk:40:05|40:05]].
   * **thirteen cubits** - about 7 meters
+  * **The chambers measured six cubits** - "The chambers were six cubits long"
   * **the chambers** - "the alcoves" or "the rooms"
   * **six cubits** - about 3.2 meters 
   * **one cubit** - "54 centimeters" or "about one-half meter" (UDB)
   * **twenty-five cubits** - about 13.5 meters
-  * **that of the second** - "the entrance of the second niche"
+  * **that of the second** - "the entrance of the second chamber"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -44,6 +47,6 @@
   * [[:en:bible:questions:comprehension:ezk:40]]
 **[[:en:bible:notes:ezk:40:08|<<]] | [[:en:bible:notes:ezk:40:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

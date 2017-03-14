@@ -16,7 +16,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 12 A worthless person—a person who does bad to others—he lives by the lies he speaks to others. 
+\v 12 A worthless person—a person who does bad to others—he lives by the lies he speaks to others.
 \q2
 \v 13 They tell tales by winking their eyes and they give signals by moving their feet, and they make plans by pointing with their fingers.
 
@@ -30,7 +30,7 @@
 <usfm>
 \q
 \v 12 A worthless person—a wicked man—
-\q lives by the crookedness of his speech, 
+\q lives by the crookedness of his speech,
 \q
 \v 13 winking his eyes, making signals with his feet
 \q and pointing with his fingers.
@@ -43,10 +43,11 @@
 
 ===== translationNotes: =====
 
-  * **A worthless person—a wicked man** - These two words have the same meaning and emphasize how bad this person is. AT: "A person with no value—an evil man"
-  * **lives by the crookedness of his speech** - AT: "constantly tells lies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **winking his eyes** - If someone winks, he closes one eye very briefly as a secret signal to another person. This might be a sign of trust, of approval, or of something else. AT: "trying to gain your trust by a certain way of looking"
+  * **A worthless person—a wicked man** - These two words have the same meaning and emphasize how bad this person is. AT: "A person with no value—an evil man" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **lives by the crookedness of his speech** - "constantly tells lies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **winking his eyes, making signals with his feet and pointing with his fingers** - All three of these phrases describe a way in which the evil person communicates secretly to deceive other people.
+  * **winking his eyes** - If someone winks, he closes one eye very briefly as a secret signal to another person. This might be a sign of trust, of approval, or of something else.
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -54,6 +55,6 @@
   * [[:en:bible:questions:comprehension:pro:06]]
 **[[:en:bible:notes:pro:06:09|<<]] | [[:en:bible:notes:pro:06:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

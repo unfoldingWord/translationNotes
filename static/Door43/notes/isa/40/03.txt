@@ -34,7 +34,6 @@
 \v 5 If you do that, it will become known that Yahweh is glorious,
 \q2 and all people will realize it at the same time.
 \q1 Those things will surely happen because it is Yahweh who has said it."
-\b
 
 
 \q1
@@ -43,17 +42,16 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 3 A voice cries out, 
+\v 3 A voice cries out,
 \q1 "In the wilderness prepare the way of Yahweh;
-\q1 make straight in the Arabah a highway for our God." 
+\q1 make straight in the Arabah a highway for our God."
 \f + \ft Some older modern versions have \fqa A voice cries out in the wilderness ... \fqb \f*
 \q1
-\v 4 Every valley will be lifted up, and every mountain and hill will be leveled; 
+\v 4 Every valley will be lifted up, and every mountain and hill will be leveled;
 \q1 and the rugged land will be made level, and the
 rough places a plain;
-\q1 
+\q1
 \v 5 and the glory of Yahweh will be revealed, and all people will see it together; for the mouth of Yahweh has spoken it.
 </usfm>
 
@@ -69,10 +67,16 @@ rough places a plain;
 
 ===== translationNotes: =====
 
-  * **make straight in the Arabah a highway for our God** - Prepare yourselves to receive Yahweh when he comes, like people make a straight road for an important official. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **in the Arabah** - See how you translated "Arabah" in [[:en:bible:notes:isa:35:01|35:1]]. This phrase means basically the same as the previous statement. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **A voice cries out** - The word "voice" represents the person who cries out. AT: "Someone cries out" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **In the wilderness prepare the way of Yahweh; make straight in the Arabah a highway for our God** - These two lines are parallel and mean basically the same thing. The people preparing themselves for Yahweh's help is spoken of as if they were to prepare roads for Yahweh to travel upon. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Arabah** - Translate this word in the same way you did in [[:en:bible:notes:isa:35:01|35:1]].
+  * **Every valley will be lifted up, and every mountain and hill will be leveled** - These phrases explain how the people are to prepare a highway for Yahweh. They can be stated in active form. AT: "Lift up every valley, and level every mountain and hill" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Every valley will be lifted up** - Making the valleys level with the rest of the ground is spoken of as if it were lifting up the valleys. AT: "Every valley will be filled in" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and the rugged land will be made level, and the
+rough places a plain** - These phrases explain how the people are to prepare a highway for Yahweh. They can be stated in active form. AT: "make the rugged land level, and make the rough places into a plain" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_ellipsis]])
   * **and the glory of Yahweh will be revealed** - This can be stated in active form. AT: "and Yahweh will reveal his glory" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **for the mouth of Yahweh has spoken it** - "Mouth" refers to what Yahweh says. AT: "for Yahweh has spoken it" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **for the mouth of Yahweh has spoken it** - The word "mouth" represents Yahweh himself. AT: "for Yahweh has spoken it" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -80,6 +84,6 @@ rough places a plain;
   * [[:en:bible:questions:comprehension:isa:40]]
 **[[:en:bible:notes:isa:40:01|<<]] | [[:en:bible:notes:isa:40:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

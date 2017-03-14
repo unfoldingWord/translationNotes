@@ -14,8 +14,7 @@
 
 <usfm>
 \v 15 As for me, Daniel, I was very sad by what I had seen in that vision; I was so troubled, I did not know what to think about it.
-\v 16 I went to one of those who were standing in front of the throne of God, and I asked him to tell me what it meant. 
-
+\v 16 I went to one of those who were standing in front of the throne of God, and I asked him to tell me what it meant.
 
 \p
 </usfm>
@@ -41,9 +40,11 @@
 ===== translationNotes: =====
 
   * **my spirit was grieved inside of me ... the visions I saw in my mind troubled me** - These two phrases describe how Daniel was feeling. The second one gives more information about the first one, explaining about his grieved spirit. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **my spirit was grieved inside of me** - Here "my spirit" refers to Daniel himself. AT: "I was very sad inside" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **one of them standing there** - This is one of the heavenly beings who were standing before God's throne (UDB). Possible meanings 1) these are angels, spirits who serve God 2) these are people who have died and are now in heaven.
   * **to show me** - "to tell me" (UDB) or "to explain to me"
   * **these things** - "the things I had seen"
+
 
 ===== Links: =====
 
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:dan:07]]
 **[[:en:bible:notes:dan:07:13|<<]] | [[:en:bible:notes:dan:07:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

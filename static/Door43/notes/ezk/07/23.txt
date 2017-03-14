@@ -19,12 +19,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q
-\v 23 Make a chain, because the land is filled with the judgment of blood, 
+\v 23 Make a chain, because the land is filled with the judgment of blood,
 \q and the city is full of violence.
 \q
-\v 24 So I will bring the most wicked of the nations, and they will possess their houses, 
+\v 24 So I will bring the most wicked of the nations, and they will possess their houses,
 \q and I will bring an end to the pride of the mighty, for their holy places will be defiled!
 \q
 \v 25 Fear will come! They will seek peace, but there will be none.
@@ -46,13 +45,14 @@
 
   * **Make a chain** - Chains are used to hold slaves or prisoners. God says this to show the people that they will become slaves or prisoners.
   * **the land is filled with the judgment of blood** - Possible meanings are 1) "everywhere in the country God is judging people because they violently killed others" or 2) "the courts everywhere in the country are murdering people." The word "blood" here represents murder and death. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the city is full of violence** - "violence is everywhere in the city" or "many people in the city are doing violent things to others"
-  * **and they will possess their houses** - "the wicked will take the houses of Israel"
+  * **the city is full of violence** - The city is spoken of as if it were a container, and violence is spoken of as an object that can be put in a container. The abstract noun "violence" can be translated as a verb. AT: "violence is everywhere in the city" or "many people in the city are doing violent things to others" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **and they will possess their houses** - the wicked will take the Israelites' houses
   * **I will bring an end to the pride of the mighty** - I will cause the powerful people in Israel to stop being proud of themselves" 
-  * **their holy places will be defiled!** - "Enemies will defile the places where you worship."
-  * **their holy places** - the places in which they worshiped idols.
+  * **their holy places will be defiled!** - This can be translated in active form. AT: "Enemies will defile the places where they worship" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **their holy places** - the places in which they worshiped idols
   * **Fear will come** - "The people will be afraid"
-  * **They will seek peace** - "They will hope for peace" or "They will try to make peace with their enemies"
+  * **They will seek peace** - "They will try to make peace with their enemies"
+  * **but there will be none** - "but they will be unable to make peace with their enemies"
 
 ===== Links: =====
 
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:ezk:07]]
 **[[:en:bible:notes:ezk:07:20|<<]] | [[:en:bible:notes:ezk:07:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 12 But God, who rules in heaven, allowed the armies of Nebuchadnezzar, king of Babylonia, to destroy that temple, because our ancestors did things that caused God to become very 
+\v 12 But God, who rules in heaven, allowed the armies of Nebuchadnezzar, king of Babylonia, to destroy that temple, because our ancestors did things that caused God to become very
 angry. Nebuchadnezzar's army took many of the Israelite people to Babylonia.
 \v 13 However, during the first year that Cyrus king of Babylon started to rule, he decreed that the temple of God should be rebuilt.
 </usfm>
@@ -37,10 +37,12 @@ angry. Nebuchadnezzar's army took many of the Israelite people to Babylonia.
   * [[:en:obe:kt:houseofgod]]
 ===== translationNotes: =====
 
-  * **enraged the God of heaven** - The God of heaven became angry.
+  * **General Information:** - The letter from Tattenai to the king continues. Tattenai continues to tell the king what the Judeans had told him beginning in [[:en:bible:notes:ezr:05:11|5:11]].
+  
+  * **enraged the God of heaven** - "made the God of heaven become very angry with us"
+  * **he gave them into the hand of Nebuchadnezzar king of Babylon, who destroyed this house and took the people** - The hand is a metonym for power or control. Also, "Nebuchadnezzar" represents his army. AT: "allowed Nebuchadnezzar, king of Babylon, and his army to destroy this house and to take the people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **destroyed this house** - "tore down this house"
-  * **into the hand of Nebuchadnezzar** - The Jews became slaves of Nebuchadnezzar's kingdom.
-  * **Cyrus issued a decree to rebuild the house of God** - Cyrus ordered God's temple to be rebuilt.
+  * **Cyrus issued a decree to rebuild the house of God** - Cyrus ordered that the people rebuild God's temple.
  
 ===== Links: =====
 
@@ -52,6 +54,6 @@ angry. Nebuchadnezzar's army took many of the Israelite people to Babylonia.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit houseofgod cyrus}}
+{{tag>publish p2pass houseofgod cyrus}}
 
 ~~NOCACHE~~

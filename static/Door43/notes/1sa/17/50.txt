@@ -34,9 +34,9 @@
 
 ===== translationNotes: =====
 
-
-  * **He hit the Philistine and killed him** - This is a summary statement. The details are that he first used a sling and then used a sword in. Some languages do not use summary statements like this. In those situations, translators may restructure the verses as they are in the UDB.
-  * **took his sword** - Here "his" refers to Goliath.
+  * **David defeated ... He hit ... killed ... There was no sword in David's hand** - Verse 50 is a summary of David's amazing victory over Goliath. The details about how he hit and killed Goliath are in [[:en:bible:notes:1sa:17:48|17:49]] and 17:51. Some languages do not use summary statements like this. In those situations, translators may restructure the verses as they are in the UDB.
+  * **Then David ran and stood over the Philistine** - David did this after Goliath fell to the ground in [[:en:bible:notes:1sa:17:48|17:49]].
+  * **took his sword** - "took the Philistine's sword." Here the word "his" refers to Goliath.
  
 ===== Links: =====
 
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:1sa:17]]
 **[[:en:bible:notes:1sa:17:48|<<]] | [[:en:bible:notes:1sa:17:52|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

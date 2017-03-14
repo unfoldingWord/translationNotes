@@ -20,7 +20,7 @@
 <usfm>
 \v 20 The one who does right
 \q1 is like pure silver;
-\q1 there is little value in the heart of the one who does wicked things. 
+\q1 there is little value in the heart of the one who does wicked things.
 \q1
 \v 21 What those who do right say benefits many,
 \q2 but foolish people die because they lack good sense.
@@ -34,10 +34,10 @@
 
 <usfm>
 \q
-\v 20 The tongue of him who does right is pure silver;
+\v 20 The tongue of the righteous person is pure silver;
 \q there is little value in the heart of the wicked.
 \q
-\v 21 The lips of the one who does right nourish many, 
+\v 21 The lips of the righteous person nourish many,
 \q but fools die because of their lack of sense.
 </usfm>
 
@@ -54,9 +54,9 @@
 ===== translationNotes: =====
 
 
-  * **The tongue of him who does right** - "The things a righteous person says" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **is pure silver** - "is valuable like pure silver" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The lips of the one who does right** - "The wise sayings of a righteous man" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The tongue of the righteous person** - "Tongue" represents what a person says. AT: "Whatever a righteous person says" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **is pure silver** - "Silver" represents valuable sayings. AT: "is extremely valuable" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The lips of the righteous** - "Lips" represents what a person says. AT: "The sayings of a righteous man" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **nourish** - cause them to develop or grow stronger
 
 ===== Links: =====
@@ -65,13 +65,11 @@
   * [[:en:bible:notes:pro:10:00]]
   * [[:en:bible:questions:comprehension:pro:10]]
 
- 
-
 **[[:en:bible:notes:pro:10:18|<<]] | [[:en:bible:notes:pro:10:22|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

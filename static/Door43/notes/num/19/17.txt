@@ -15,7 +15,7 @@
 
 <usfm>
 \v 17 For someone like that to become acceptable to me again, some of the ashes from the cow that was burned must be taken and put in a jar. Then some fresh water must be poured over the ashes.
-\v 18 Then someone who has not become unacceptable to me must take a stalk of a plant named hyssop and dip it into the water. Then that person must sprinkle some of the water on the tent where that person died, on the things that are in the tent, and on the people who were in the tent. He must also sprinkle some of that water on any person who touched a human bone or who touched a person who died, or who touched a grave.
+\v 18 Then someone who has not become unacceptable to me must take a stalk of a plant named hyssop and dip it into the water. Then that person must sprinkle some of the water on the tent where that person died, on the things that are in the tent, and on the people who were in the tent. He must also sprinkle some of that water on any person who touched a human bone or who touched a person who had been killed, or who touched a person who died of natural causes, or who touched a grave.
 \v 19 On the third day and on the seventh day after that, the person who is acceptable to me must sprinkle some of that water on those who have become unacceptable to me. On the seventh day, the people who are performing that ritual to become acceptable to me again must wash their clothes and bathe. If they do that, on that evening they will become acceptable to me again.
 
 
@@ -26,8 +26,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 Do this for the unclean person: Take some ashes from the burnt sin offering and mix them in a jar with fresh water. 
-\v 18 Someone who is clean must then take hyssop, dip it in the water, and sprinkle it on the tent, on all the containers inside the tent, on the persons who were there, and on the one who touched the bone, the killed person, the dead person, or the grave.
+\v 17 Do this for the unclean person: Take some ashes from the burnt sin offering and mix them in a jar with fresh water.
+\v 18 Someone who is clean must then take hyssop, dip it in the water, and sprinkle it on the tent, on all the containers inside the tent, on the persons who were there, and on anyone who touched the bone, the one who was killed, the one who died, or the grave.
 \v 19 On the third day and on the seventh day, the clean person must sprinkle the unclean person. On the seventh day the unclean person must purify himself. He must wash his clothes and bathe in water. At evening he will become clean.
 </usfm>
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:num:19]]
 **[[:en:bible:notes:num:19:14|<<]] | [[:en:bible:notes:num:19:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

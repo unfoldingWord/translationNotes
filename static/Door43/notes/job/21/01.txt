@@ -26,7 +26,6 @@
 \q1
 \v 3 Be patient with me, and allow me to speak.
 \q2 Then, after I am finished speaking, you can continue to make fun of me.
-\b
 
 
 \q1
@@ -40,10 +39,10 @@
 \p
 \v 1 Then Job answered and said,
 \q
-\v 2 "Hear diligently my speech,
-\q and let this be your consolations.
+\v 2 "Listen carefully to my words,
+\q and let this be the comfort you offer to me.
 \q
-\v 3 Suffer me, and I also will speak;
+\v 3 Put up with me, and I also will speak;
 \q after I have spoken, mock on.
 </usfm>
 
@@ -56,10 +55,11 @@
 
 ===== translationNotes: =====
 
-  * **Hear diligently my speech** - "Listen carefully to what I am about to say"
-  * **let this be your consolations** - "let this be how you comfort me." Here "your" is plural and refers to Job's friends. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **Suffer me** - "Allow me"
-  * **mock on** - "you may continue mocking me"
+  * **Connecting Statement:** - Job begins to answer Zophar's accusations.
+
+  * **Put up with me** - "Allow me" or "Be patient with me"
+  * **mock on** - "you can continue mocking me." Job is using sarcasm to imply that his friends would ignore what he would say and continue to mock him. (See: [[:en:ta:vol1:translate:figs_irony]])
+
 
 ===== Links: =====
 
@@ -68,6 +68,6 @@
   * [[:en:bible:questions:comprehension:job:21]]
 **[[:en:bible:notes:job:20:28|<<]] | [[:en:bible:notes:job:21:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

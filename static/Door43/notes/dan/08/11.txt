@@ -13,8 +13,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 He defied God, the commander of the army of heaven, and he took away the daily offerings of sacrifices. He also defiled the temple.
-\v 12 Because of rebellion, the army of heaven will falter, and the constant burnt offerings will be taken away. He will throw truth to the ground. The bad things he does will succeed.
+\v 11 It set itself up to be as great as the commander of the army of heaven, and it took away the daily offerings of sacrifices from him, and it also defiled the place of his temple.
+\v 12 Because of rebellion, the army of heaven will falter, and the constant burnt offerings will be taken away. It will throw truth to the ground. The bad things it does will succeed.
 
 \p
 </usfm>
@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 It became great, even as great as the divine commander of the army. The regular burnt offering was taken away from him, and the place of his sanctuary was polluted.
+\v 11 It made itself to be as great as the commander of the army. It took away from him the regular burnt offering, and the place of his sanctuary was polluted.
 \v 12 Because of rebellion, the army will be given over to the goat's horn, and the burnt offering will be stopped. The horn will throw truth down to the ground, and it will succeed in what it does.
 </usfm>
 
@@ -39,11 +39,15 @@
 
 ===== translationNotes: =====
 
-  * **It became great, even as great as** - "The goat's horn raised itself up as high as" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **The regular burnt offering was taken away from him** - "The horn took away the regular burnt offering from the divine commander" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_personification]])
-  * **and the place of his sanctuary was polluted** - "and it made the place of his sanctuary unclean" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_personification]])
-  * **The horn will throw truth down to the ground** - This means that the horn will ignore truth and godliness. AT: "The horn will disregard truth" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
- 
+  * **Connecting Statement:** - Daniel continues describing his vision of the horn. (See: [[:en:bible:notes:dan:08:09|8:9]])
+  * **General Information:** - The horn is given qualities of a person. (See: [[:en:ta:vol2:translate:figs_personification]]) 
+
+  * **the commander of the army** - This refers to God himself, who is the leader of the angel army. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **It took away from him the regular burnt offering** - Here "took away" means the horn stopped the offering. Here "him" refers to God, the commander of the army. AT: "It stopped the people from making their regular burnt offering to him"
+  * **the place of his sanctuary was polluted** - This can be stated in active form. AT: "it defiled his sanctuary" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The horn will throw truth down to the ground** - The horn ignoring truth and godliness is spoken of as if it will throw truth to the ground. AT: "The horn will reject the truth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -51,6 +55,6 @@
   * [[:en:bible:questions:comprehension:dan:08]]
 **[[:en:bible:notes:dan:08:09|<<]] | [[:en:bible:notes:dan:08:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

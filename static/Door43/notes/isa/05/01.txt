@@ -30,7 +30,6 @@
 \q2 and he dug a winepress.
 \q1 Then he waited each year to harvest some good grapes,
 \q2 but the vines produced only sour grapes.
-\b
 
 
 \q1
@@ -40,14 +39,14 @@
 
 <usfm>
 \c 5
-\p
+\m
 \q1
-\v 1 Let me sing for my well beloved, a song of my beloved about his vineyard. 
+\v 1 Let me sing for my well beloved, a song of my beloved about his vineyard.
 \q1 My well beloved had a vineyard on a very fertile hill.
 \q1
-\v 2 He spaded it and removed the stones, and planted it with a choice variety of vine. 
-\q1 He built a tower in the middle of it, and also built a winepress. 
-\q1 He waited for it to produce grapes, but it produced wild grapes.
+\v 2 He spaded it, removed the stones, and planted it with an excellent kind of vine.
+\q1 He built a tower in the middle of it, and also built a winepress.
+\q1 He waited for it to produce grapes, but it only produced wild grapes.
 </usfm>
 
 ===== translationWords: =====
@@ -60,13 +59,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah tells a story about a farmer and his vineyard. The farmer represents God and the vineyard represents Israel. (See: [[:en:ta:vol1:translate:figs_parables]])
+  * **General Information:** - Isaiah tells a parable about a farmer and his vineyard. The farmer represents God and the vineyard represents the people of Judah, the southern kingdom of the Israelites. (See: [[:en:ta:vol1:translate:figs_parables]])
 
-  * **Let me sing for my well beloved** - "Let me sing for the one I love dearly"
-  * **on a very fertile hill** - "on a hill that had good soil"
-  * **He spaded it and removed the stones** - The word "spaded" refers to using a tool to dig into the dirt to prepare it for planting. AT: "He prepared the soil and took out the stones"
-  * **He built a tower in the middle of it** - "He made a tall building in the middle of the vineyard to watch over it." Someone would stand near the top of the tower to watch the vineyard and make sure that no animals or people went into it.
-  * **built a winepress** - A "winepress" is a place where the workers would step on the grapes to crush the juice out of them. AT: "dug a pit to squeeze out the grape juice"
+  * **my well beloved** - "my dear friend"
+  * **on a very fertile hill** - "on a hill where very good crops could grow"
+  * **He spaded it** - "He prepared the soil." This expresson refers to using a tool to dig into the ground to prepare it for planting. 
+  * **He built a tower in the middle of it** - "He made a tall building in the middle of the vineyard to watch over it." Someone would stand at the top of the tower to watch the vineyard and make sure that no animals or people went into it. The full meaning of this statement can be made clear. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **built a winepress** - "dug a pit to squeeze out the grape juice." A winepress is a low place carved out of rock in the ground where workers step on the grapes to crush them with their feet, in order to remove the grape juice. 
   * **wild grapes** - "worthless grapes" or "bad tasting grapes" 
 ===== Links: =====
 
@@ -75,6 +74,6 @@
   * [[:en:bible:questions:comprehension:isa:05]]
 **[[:en:bible:notes:isa:04:05|<<]] | [[:en:bible:notes:isa:05:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

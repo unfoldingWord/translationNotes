@@ -19,7 +19,7 @@
 
 <usfm>
 \v 23 The sun and moon and stars in the sky, should sing,
-\q2 and even all the spirits of the dead should shout joyfully!
+\q2 and the very deepest places of the earth will should joyfully!
 \q1 All the mountains and forests, and all you trees,
 \q should sing loudly,
 \q2 because Yahweh has rescued the descendants of Jacob,
@@ -35,8 +35,8 @@
 
 <usfm>
 \q1
-\v 23 Sing, you heavens, for Yahweh has acted; shout, you underworld under the earth; 
-\q1 break out into singing, you mountains, and you, forest, with every tree;
+\v 23 Sing, you heavens, for Yahweh has done this; shout, you depths of the earth.
+\q1 Break out into singing, you mountains, you forest with every tree in it;
 \q1 for Yahweh has redeemed Jacob, and will show his glory in Israel.
 </usfm>
 
@@ -50,8 +50,9 @@
   * [[:en:obe:kt:glory]] 
 
 ===== translationNotes: =====
-  * **Sing, you heavens ... glory in Israel** - In 44:23 Isaiah turns his attention from the people of Israel and speaks to others as if they were there. Isaiah speaks to the heavens, mountains, and trees as if they were people. (See: [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_personification]])
 
+  * **Sing, you heavens ... glory in Israel** - Here Isaiah speaks various parts of creation as if they were people and commands them to praise Yawheh. (See: [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **you depths of the earth** - "you lowest parts of the earth." Possible meanings are 1) that this refers to very deep places on the earth such as caves or canyons and forms a merism with "heavens" in the previous phrase or 2) that this refers to the place of the dead. (See: [[:en:ta:vol2:translate:figs_merism]])
  
 ===== Links: =====
 
@@ -66,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -42,12 +42,12 @@
 
 <usfm>
 \p
-\v 6 A declaration about the beasts of the Negev: 
-\q1 Through the land of trouble and danger, of the lioness and the lion, the viper and fiery flying serpent, 
-\q1 they carry their riches on the backs of donkeys, and their treasures on the camels' humps, 
+\v 6 A declaration about the beasts of the Negev:
+\q1 Through the land of trouble and danger, of the lioness and the lion, the viper and fiery flying serpent,
+\q1 they carry their riches on the backs of donkeys, and their treasures on the camels' humps,
 \q1 to a people who cannot help them.
 \q1
-\v 7 For Egypt's help is worthless; 
+\v 7 For Egypt's help is worthless;
 \q1 therefore I have called her Rahab, who sits still.
 </usfm>
 
@@ -66,6 +66,8 @@
 
   * **General Information:** - This continues God's declaration concerning the people of Judah.
 
+  * **A declaration** - "This is what Yahweh declares"
+  * **of the lioness and the lion, the viper and fiery flying serpent** - This refers to these types of animals in general. AT: "where lionesses and lions dwell, and where there are vipers and serpents" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
   * **fiery flying serpent** - Here the word "fiery" probably refers to the serpent's poisonous bite and the word "flying" refers to its quick movements. See how you translated this in [[:en:bible:notes:isa:14:28|14:29]].
   * **they carry their riches** - "the people of Judah carry their riches"
   * **I have called her Rahab, who sits still** - There were popular stories about a sea monster named Rahab. The name Rahab means "strength" or "arrogance." AT: "I call Egypt a loud boaster who does nothing" (See: [[:en:ta:vol1:translate:translate_names]])
@@ -76,6 +78,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:30:03|<<]] | [[:en:bible:notes:isa:30:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -53,8 +53,9 @@
 
 ===== translationNotes: =====
 
-  * **See, the fear of the Lord—that is wisdom ... to depart from evil is understanding** - Expressing the same meaning in both of these clauses provides emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
- 
+  * **and a way for the lightning of the thunder** - Possible meanings are 1) he decided how the bolts of lightning should strike or 2) he decided where the thunderstorm should go.
+  * **the fear of the Lord—that is wisdom** - The abstract noun "fear" can be expressed with the verbs "fear" or "respect." The abstract noun "wisdom" can be expressed with the word "wise." AT: "if you fear the Lord—you will be wise" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **to depart from evil is understanding** - Here "depart from evil" represents refusing to do evil things. The abstract noun "understanding" can be expressed with the verb "understand." AT: "to refuse to do evil things is understanding" or "if you refuse to do evil things, you will be able to understand things well" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:job:28]]
 **[[:en:bible:notes:job:28:23|<<]] | [[:en:bible:notes:job:29:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -23,9 +23,9 @@
 
 <usfm>
 \p
-\v 28 So Yahweh spoke to Moses and said, 
+\v 28 So Yahweh spoke to Moses and said,
 \v 29 "Speak to the people of Israel and say, 'He who offers the sacrifice of a peace offering to Yahweh must bring part of his sacrifice to Yahweh.
-\v 30 The offering for Yahweh to be made by fire, his own hands must bring it. He must bring the fat with the breast, so that the breast may waved as a wave offering before Yahweh.
+\v 30 The offering for Yahweh to be made by fire, his own hands must bring it. He must bring the fat with the breast, so that the breast may be waved as a wave offering before Yahweh.
 </usfm>
 
 ===== translationWords: =====
@@ -40,27 +40,23 @@
  
 ===== translationNotes: =====
 
-
   * **So Yahweh spoke to Moses and said, "Speak to the people of Israel and say, 'He who offers** - This has a quotation within a quotation. A direct quotation can be stated as an indirect quotation. AT: "Then Yahweh spoke to Moses and told him to tell the people of Israel this: 'He who offers" (See:[[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
-  * **The offering for Yahweh to be made by fire, his own hands must bring it** - The statement "his own hands must bring it" can be placed at the beginning of the sentence. And "to be made by fire" can be stated in active form. AT: "He himself must bring the offering that he plans to burn as a sacrifice to Yahweh" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The offering for Yahweh to be made by fire, his own hands must bring it** - The statement "his own hands must bring it" can be placed at the beginning of the sentence. The phrase "to be made by fire" can be stated in active form. AT: "He himself must bring the offering that he plans to burn as a sacrifice to Yahweh" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **his own hands must bring it** - Here "hands" represents the whole person. AT: "he must bring it himself" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **breast** - the front part of the animal's body below the neck
-  * **so that the breast may be an offering raised before Yahweh and presented to him** - This can be translated in active form. AT: "so that the priest can raise it to Yahweh and present it to him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **may be an offering raised before Yahweh** - Raising up the offering is a symbolic gesture that shows that the person is dedicating the sacrifice to Yahweh. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **so that the breast may be waved as a wave offering before Yahweh** - This can be translated in active form. AT: "so that the priest can present it to Yahweh as a wave offering" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **may be waved as a wave offering before Yahweh** - Raising up the offering is a symbolic gesture that shows that the person is dedicating the sacrifice to Yahweh. (See: [[:en:ta:vol2:translate:translate_symaction]])
  
 ===== Links: =====
 
   * [[:en:bible:notes:lev:00:intro]]
   * [[:en:bible:notes:lev:07:00]]
   * [[:en:bible:questions:comprehension:lev:07]]
-
- 
-
 **[[:en:bible:notes:lev:07:25|<<]] | [[:en:bible:notes:lev:07:31|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

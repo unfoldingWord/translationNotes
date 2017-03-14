@@ -33,7 +33,7 @@
 \v 1 Then Job answered and said,
 \q
 \v 2 "Even today my complaint is bitter;
-\q my suffering is heavier than my groaning.
+\q my hand \f + \ft Some copies have: \fqa ... his hand ... \fqb \f* is heavy because of my groaning.
 </usfm>
 
 
@@ -45,8 +45,10 @@
  
 ===== translationNotes: =====
 
-  * **my complaint is bitter** - AT: "my complaining is as bad ad a bitter taste" or "my complaint is very bad" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **my suffering is heavier than my groaning** - Other translations may read: "my hand is heavy because of my groaning" or "his hand is heavy despite my groaning." The "heavy hand" is God's punishment that makes Job suffer. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Even today my complaint is bitter** - Here "Even today" emphasizes that his friends arguments have not changed Job's situation at all. AT: "In spite of what you have said, my complaint is still bitter"
+  * **my complaint is bitter** - Job speaks of his unanswered complaint against God as if it was a bitter taste in his mouth. AT: "my unanswered complaint is as bad as bitter food in my mouth" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **my hand ... heavy because of my groaning** - Possible meanings are 1) "I can barely lift my hand because of my suffering" or 2) "his hand continues to make me suffer despite my groaning" where "hand" refers to God's power to punish. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -54,6 +56,6 @@
   * [[:en:bible:questions:comprehension:job:23]]
 **[[:en:bible:notes:job:22:29|<<]] | [[:en:bible:notes:job:23:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit groan}}
+~~DISCUSSION~~{{tag>publish p2check groan}}
 
 ~~NOCACHE~~

@@ -30,7 +30,6 @@
 \v 37 Later, as he was worshiping in the house of Nisroch his god, his sons Adrammelech and Sharezer killed him with the sword. Then they escaped into the land of Ararat. Then Esarhaddon his son became king in his place.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:angel]]
@@ -41,11 +40,12 @@
   * [[:en:obe:kt:falsegod]]
   * [[:en:obe:other:sword]]
   * [[:en:obe:other:ararat]]
+
 ===== translationNotes: =====
 
   * **It came about** - "It happened"
-  * **When the men arose** - "when the men who were left alive arose"
-  * **Nisroch ... Adrammelech ... Sharezer ... Esarhaddon** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **When the men arose** - "When the men who were left alive got up"
+  * **Nisroch ... Adrammelech ... Sharezer ... Esarhaddon** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
 
  
 ===== Links: =====
@@ -58,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit ararat}}
+{{tag>publish p2pass ararat}}
 
 ~~NOCACHE~~

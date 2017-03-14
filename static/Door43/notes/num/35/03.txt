@@ -30,7 +30,7 @@
 
 ===== translationNotes: =====
 
-  * **one thousand cubits** - "1,000 cubits." A cubit is 46 centimeters. (See: [[:en:ta:vol2:translate:translate_bdistance]] and [[:en:ta:vol2:translate:translate_numbers]])
+  * **one thousand cubits** - "1,000 cubits." If it is necessary to use modern distance units, here is a way of doing it. AT: "457 meters" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_bdistance]])
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -38,6 +38,6 @@
   * [[:en:bible:questions:comprehension:num:35]]
 **[[:en:bible:notes:num:35:01|<<]] | [[:en:bible:notes:num:35:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

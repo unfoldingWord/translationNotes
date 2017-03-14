@@ -41,16 +41,17 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to challenge Job.
+  * **Connecting Statement:** - Yahweh continues to challenge Job.
+  * **General Information:** - Yahweh uses a question to emphasize that he knows how to feed the lions and Job does not. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
-  * **Can you hunt down ... to lie in wait** - Yahweh uses these questions to emphasize that he knows how to feed the lions, but Job does not. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Can you hunt down ... to lie in wait?** - This can be translated as a statement. AT: "Tell me if you can hunt down ... to lie in wait." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **a victim** - "prey." This is an animal that a lion could eat.
-  * **a lioness** - Possibly "a lion."
-  * **or satisfy the appetite of her young lion cubs** - "or give young lions enough food that they can live"
+  * **lioness** - This is a female lion.
+  * **appetite** - "hunger"
   * **of her young lion cubs** - "of young lions." These are young lions that are old enough to hunt for themselves.
-  * **in their dens** - "in the places that they live" or "in their dwelling places"
-  * **sheltering in hiding** - "lie still in the thick vegetation"
-  * **to lie in wait** - "which is their place of ambush" or "which is the place that they hide in order to catch other animals." The lions hide in the thick plants and wait for an animal to pass by so that they can jump out and catch that animal.
+  * **dens** - A "den" is a lair or shelter where lions live.
+  * **sheltering in hiding** - "hiding in a thicket." Lions hide in thick vegetation when hunting their prey.
+  * **to lie in wait** - The implied information is that the lions are hiding and waiting for their prey to come near. AT: "to lie waiting for a victim" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -65,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 I left to travel to Judah. The king sent some army officers and soldiers riding on horses to accompany me, to protect me. When we came to the region where the governors ruled, I gave them the letters from the king. 
+\v 9 I left to travel to Judah. The king sent some army officers and soldiers riding on horses to accompany me, to protect me. When we came to the region where the governors ruled, I gave them the letters from the king.
 \p
 \v 10 But when two government officials, Sanballat the Horonite and Tobiah the Ammonite servant, heard that I had arrived, they were very angry that someone had come to help the people of Israel.
 
@@ -25,7 +25,7 @@
 
 <usfm>
 \p
-\v 9 I came to the governors beyond the River, and gave them the king's letters. Now the king had sent with me officers of the army and horsemen.
+\v 9 I came to the governors in the Province Beyond the River and gave them the king's letters. Now the king had sent with me officers of the army and horsemen.
 \v 10 When Sanballat the Horonite and Tobiah the Ammonite servant heard this, they were greatly displeased that someone had come who was seeking to help the people of Israel.
 </usfm>
 
@@ -41,9 +41,9 @@
   * [[:en:obe:other:israel]]
 ===== translationNotes: =====
 
-  * **beyond the River** - "beyond the Euphrates River"
-  * **Sanballat the Horonite** - Sanballat is the name of a man, and the Horonites were a people group. (See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol1:translate:translate_unknown]]) 
-  * **Tobiah the Ammonite servant** - This man was presumably a freed slave now serving as an officer in Ammon.
+  * **Sanballat the Horonite** - Sanballat is the name of a man, and the Horonites were a people group. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Tobiah the Ammonite servant** - This man was likely a freed slave now serving as an officer in Ammon. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **heard this** - "heard that I had arrived" (UDB)
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:neh:02]]
 **[[:en:bible:notes:neh:02:07|<<]] | [[:en:bible:notes:neh:02:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -22,9 +22,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 Your brothers are with Saul and all the men of Israel in the valley of Elah, fighting the Philistines."
+\v 19 Your brothers are with Saul and all the men of Israel in the Valley of Elah, fighting the Philistines."
 \v 20 David got up early in the morning and left the flock in the care of a shepherd. He took the supplies and left, as Jesse commanded him. He came to the camp as the army was going out to the battlefield shouting the war cry.
-\v 21 And Israel and the Philistines lined up for battle, army against army.
+\v 21 Then Israel and the Philistines lined up for battle, army against army.
 </usfm>
 
 
@@ -41,7 +41,8 @@
  
 ===== translationNotes: =====
 
-  * **Elah** - See how you translated this in [[:en:bible:notes:1sa:17:02|17:2]].
+  * **all the men of Israel** - "all the soldiers of Israel"  
+  * **the Valley of Elah** - This is the name of a place. See how you translated it in [[:en:bible:notes:1sa:17:02|17:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -55,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

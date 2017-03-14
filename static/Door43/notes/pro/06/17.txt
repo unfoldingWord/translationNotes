@@ -36,7 +36,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 The eyes of a proud person, a tongue that lies, 
+\v 17 The eyes of a proud person, a tongue that lies,
 \q hands that shed the blood of innocent people,
 \q
 \v 18 a heart that invents wicked schemes,
@@ -58,14 +58,14 @@
   * [[:en:obe:other:sow]]
  
 ===== translationNotes: =====
+  * **Connecting Statement:** - This is the list of things that Yahweh hates that was introduced in [[:en:bible:notes:pro:06:16|6:16]].
 
-  * **eyes ... tongue ... hands ... heart ... feet** - All of these body parts refer to a whole person. You can translate each of these with "people who." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **shed the blood of** - AT: "kill" or "murder" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **eyes ... tongue ... hands ... heart ... feet** - All of these body parts refer to a whole person. You can translate each of these with "people." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **shed the blood of** - "kill" or "murder"
   * **wicked schemes** - "evil plans"
-  * **breathes out lies** - AT: "constantly lies" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **discord** - See how you translated this word in [[:en:bible:notes:pro:06:14|6:14]].
-  * **one who sows discord** - "a person who sows discord" AT: "a person who causes discord" (See: [[:en:ta:vol1:translate:figs_metaphor]])
- 
+  * **breathes out lies** - This figure of speech uses "breathes" to refer to lying constantly. AT: "constantly lies" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **discord** - Translate this as in [[:en:bible:notes:pro:06:14|6:14]].
+  * **one who sows discord** - This figure of speech is using "sows" to refer to causing or bringing about discord. AT: "a person who causes discord" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -74,4 +74,4 @@
   * [[:en:bible:questions:comprehension:pro:06]]
 **[[:en:bible:notes:pro:06:16|<<]] | [[:en:bible:notes:pro:06:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}

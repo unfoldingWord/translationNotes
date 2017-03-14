@@ -51,9 +51,13 @@
 
   * **General Information:** - Yahweh finishes describing his promises to King David through the prophet Nathan.
 
-  * **But my covenant faithfulness will not leave him** - This can be stated in a positive form. AT: "But my covenant faithfulness will certainly remain with him." (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **But my covenant faithfulness will not leave him, as I took it from Saul** - The word "faithfulness" is an abstract noun that can be stated as "faithful." Also this statement can be translated in positive form. AT: "But I will always remain faithful to him, unlike I was to Saul" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_litotes]])
+  * **from before you. Your house ... before you. Your throne** - If in [[:en:bible:notes:2sa:07:08|7:8-9]] you translated the direct quotations as indirect quotation, then here you may need to translate "you" as "David" or "him" or "his" as in the UDB. AT: "from before David. David's house ... before him. His throne" (See: [[:en:ta:vol2:translate:figs_quotations]]) 
   * **Your house and kingdom will be confirmed forever before you. Your throne will be established forever.** - These two sentences have similar meanings and emphasize that David's dynasty will last forever. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Your house and kingdom will be confirmed** - Here the word "house" refers to David's descendants, who will rule as kings. Here "kingdom" means about the same thing as "house." This can also be stated in active form. AT: "I will confirm your house and kingdom" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Your house and kingdom will be confirmed forever before you** - Here the word "house" represents David's descendants, who will rule as kings. Here "kingdom" means about the same thing as "house." This can also be stated in active form. AT: "You will live to see me establish your family and their rule over the people of Israel forever" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Your throne will be established forever** - Here "throne" represents the power to rule as king. AT: "I will cause your descendants to rule over Israel forever" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **all these words** - Here "words" represents what Yahweh said. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he told him about the entire vision** - "he told him about everything Yahweh revealed to him"
  
 ===== Links: =====
 
@@ -62,6 +66,6 @@
   * [[:en:bible:questions:comprehension:2sa:07]]
 **[[:en:bible:notes:2sa:07:12|<<]] | [[:en:bible:notes:2sa:07:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

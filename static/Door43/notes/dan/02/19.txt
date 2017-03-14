@@ -18,8 +18,7 @@
 \v 19 That night God gave Daniel a vision, and in that vision the secret was made known to him. Then Daniel praised God
 \v 20 saying,
 \q1 "We praise the name of the true God forever
-\q2 because he owns all wisdom and power. 
-
+\q2 because he owns all wisdom and power.
 
 \q1
 </usfm>
@@ -29,8 +28,8 @@
 
 <usfm>
 \v 19 That night the mystery was revealed to Daniel in a vision. Then Daniel praised the God of heaven
-\v 20 and said, 
-\q "Praise the name of God forever and ever; 
+\v 20 and said,
+\q "Praise the name of God forever and ever;
 \q for wisdom and power belong to him.
 </usfm>
 
@@ -51,8 +50,8 @@
 ===== translationNotes: =====
 
   * **That night the mystery was revealed** - This can be stated in active form. AT: "That night God revealed the mystery" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the mystery** - This is referring to the king's dream.
-  * **Praise the name of God** - AT: "Praise God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the mystery** - This is referring to the king's dream and its meaning.
+  * **Praise the name of God** - Here "name" refers to God himself. AT: "Praise God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -64,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

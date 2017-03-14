@@ -25,7 +25,6 @@
 \q1
 \v 11 Also, everything on the earth is mine.
 \q2 Therefore, no one is able to give anything to me and require me to pay money for it!
-\b
 \q1
 \v 12 I will tell you about how strong crocodiles' legs are
 \q2 and how strong their well formed bodies are.
@@ -44,7 +43,7 @@
 \q
 \v 11 Who has first given anything to me in order that I should repay him?
 \q Whatever is under the whole sky is mine.
-\b
+\m
 \q
 \v 12 I will not keep silent concerning Leviathan's legs,
 \q nor about the matter of his strength, nor about his graceful form.
@@ -58,11 +57,13 @@
 
 ===== translationNotes: =====
 
-  * **who, then, is he who can stand before me?** - AT: "There is no one who can stand before me". (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Who has first given anything to me in order that I should repay him?** - AT: "No one has first given anything to me, in order that I should repay him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **I will not keep silent** - "I will certainly speak" (See: [[:en:ta:vol2:translate:figs_litotes]]) 
-  * **legs, nor about the matter of his strength** - AT: "legs. I will also speak about the matter of his strength" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **strength, nor about his graceful form** - AT: "strength. I will also speak about his graceful form" - (See: [[:en:ta:vol2:translate:figs_ellipsis]]]])
+  * **Connecting Statement:** - Yahweh continues to rebuke Job by asking him questions.
+
+  * **None is so fierce that he dare stir Leviathan up; who, then, is he who can stand before me?** - It would be easier to stir up Leviathan than to stand before Yahweh. This can be translated as a statement. AT: "Since you know that no person is so fierce that he dare stir Leviathan up, you should certainly know that no one can stand before me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who has first given anything to me in order that I should repay him?** - This can be translated as a statement. AT: "You know that no one has first given anything to me, so there is no one whom I need to repay." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **I will not keep silent** - This can be translated in positive form. AT: "I will certainly speak" (See: [[:en:ta:vol2:translate:figs_litotes]]) 
+  * **legs, nor about the matter of his strength** - You may need to add the omitted words. AT: "legs. I will also speak about the matter of his strength" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **strength, nor about his graceful form** - You may need to add the omitted words. AT: "strength. I will also speak about his graceful form" - (See: [[:en:ta:vol2:translate:figs_ellipsis]]]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:job:41]]
 **[[:en:bible:notes:job:41:07|<<]] | [[:en:bible:notes:job:41:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

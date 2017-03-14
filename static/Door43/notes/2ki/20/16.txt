@@ -29,7 +29,7 @@
 \p
 \v 16 So Isaiah said to Hezekiah, "Listen to the word of Yahweh:
 \v 17 'Look, the days are about to come when everything in your palace, the things that your ancestors stored away until this present day, will be carried to Babylon. Nothing will be left, says Yahweh.
-\v 18 And the sons born from you, whom you yourself have fathered—they will take them away, and they will become eunuchs in the palace of the king of Babylon.'"
+\v 18 The sons born from you, whom you yourself have fathered—they will take them away, and they will become eunuchs in the palace of the king of Babylon.'"
 </usfm>
 
 
@@ -37,14 +37,14 @@
 
   * [[:en:obe:kt:son]]
   * [[:en:obe:other:eunuch]]
+
 ===== translationNotes: =====
 
-
   * **So Isaiah said to Hezekiah** - Why Isaiah spoke can be stated clearly. AT: "So, because Isaiah knew Hezekiah had been foolish to show the men all his valuable things, Isaiah said to him" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Look, the days are about to come when** - AT: "Listen to me, someday there will come a time when"; "Look" is used to draw attention to what Isaiah is about to tell Hezekiah.
-  * **the days** - This refers to an undefined span of time. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the word of Yahweh** - "Word" is synecdoche for the message that has the word in it. AT: "the message of Yahweh" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Look, the days are about to come when** - "Listen to me, someday there will come a time when"; "Look" is used to draw attention to what Isaiah is about to tell Hezekiah.
+  * **the days** - "Days" is synecdoche to refer to an undefined span of time. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
- 
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -58,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

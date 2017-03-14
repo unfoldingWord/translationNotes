@@ -17,8 +17,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 When they lifted up their eyes at a distance, they barely recognized him; they raised their voices and wept; each tore his robe and threw dust into the air and upon his own head.
-\v 13 So they sat down with him upon the ground seven days and seven nights, and no one spoke a word to him, for they saw that his grief was very great.
+\v 12 When they lifted up their eyes at a distance, they did not recognize him. They raised their voices and wept; each tore his robe and threw dust into the air and upon his own head.
+\v 13 Then they sat with him on the ground for seven days and seven nights. No one spoke a word to him, for they saw that his grief was very great.
 </usfm>
 
 ===== translationWords: =====
@@ -29,10 +29,10 @@
 ===== translationNotes: =====
 
   * **they lifted up their eyes** - "they looked intently" or "they looked carefully" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **they barely recognized him** - They knew who he was, but he looked very different than usual because of his grief and because of the sores covering his body (UDB).
+  * **they did not recognize him** - This probably means that Job's visitors did not recognize him at first, when they saw him at a distance. Job looked very different than usual because of his grief and because of the sores covering his body. AT: "they barely recognized him"
   * **they raised their voices and wept** - "they wept out loud" or "they wept loudly" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **tore his robe** - This was a sign of mourning. The torn robe signified a torn heart.
-  * **threw dust into the air and upon his own head** - These were signs of mourning.
+  * **tore his robe** - This was a sign of mourning. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **threw dust into the air and upon his own head** - These were signs of mourning. (See: [[:en:ta:vol2:translate:translate_symaction]])
  
 
 ===== Links: =====
@@ -43,6 +43,6 @@
 
 **[[:en:bible:notes:job:02:11|<<]] | [[:en:bible:notes:job:03:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

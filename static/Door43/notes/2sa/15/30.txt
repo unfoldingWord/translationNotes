@@ -41,10 +41,10 @@
 ===== translationNotes: =====
 
   * **barefoot** - wearing no shoes or sandals
-  * **his head covered** - This is a sign of mourning and shame.
-  * **Ahithophel** - This is the name of a man. See how you translated this in [[:en:bible:notes:2sa:15:11]].
+  * **his head covered** - This is a sign of mourning and shame. AT: "his head covered in mourning" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **Ahithophel** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:15:11]].
   * **conspirators** - people who join together against someone else
-  * **please turn Ahithophel's advice into foolishness** - "please do not allow Ahithophel's plans to defeat me succeed"
+  * **please turn Ahithophel's advice into foolishness** - David is asking Yahweh to make Ahitohphel's advice foolish and useless. AT: "please let whatever advice Ahithophel gives be foolishness and unsuccessful" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
  
 ===== Links: =====
@@ -60,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

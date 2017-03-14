@@ -19,9 +19,8 @@
 \v 22 She makes covers for the beds.
 \q2 She wears fine purple linen clothes—the color of royalty.
 \q1
-\v 23 Her husband is well known at the city gates, 
-\q2 and there at the gates he sits with the other leaders of the town. 
-
+\v 23 Her husband is well known at the city gates,
+\q2 and there at the gates he sits with the other leaders of the town.
 
 \q1
 </usfm>
@@ -45,12 +44,11 @@
   * [[:en:obe:kt:gate]]
   * [[:en:obe:other:elder]]
 
- 
-
 ===== translationNotes: ===== 
 
   * **linen** - cloth made of flax yarn
-  * **Her husband is known** - "People know her husband" 
+  * **Her husband is known** - This can be translated in active form. The verb "know" is a metonym for respect. AT: "People respect her husband" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **when he sits with the elders of the land** - to make laws and settle arguments
 
 ===== Links: =====
 
@@ -65,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit purple}}
+{{tag>publish p2pass purple}}
 
 ~~NOCACHE~~

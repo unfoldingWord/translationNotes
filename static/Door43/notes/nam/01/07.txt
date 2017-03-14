@@ -21,13 +21,14 @@
 
 <usfm>
 \v 7 But he is good;
- he protects us, his people, when we experience troubles.
- He takes care of those who trust in him.
+\q2 he protects us, his people, when we experience troubles.
+\q2 He takes care of those who trust in him.
+\q1
 \v 8 But he will get rid of his enemies;
- he will be to them like a flood that destroys everything.
- He will chase his enemies
- into the darkness of the place where the dead are.
-\b
+\q2 he will be to them like a flood that destroys everything.
+\q2  He will chase his enemies
+\q2 into the darkness of the place where the dead are.
+\q1
 </usfm>
 
 
@@ -36,7 +37,7 @@
 <usfm>
 \q
 \v 7 Yahweh is good, a stronghold in the day of trouble; and he is faithful to those who take refuge in him.
-\q 
+\q
 \v 8 But he will make a full end to his enemies with an overwhelming flood; he will pursue them into darkness.
 </usfm>
 
@@ -54,7 +55,7 @@
 
 
   * **stronghold** - a safe place built for protection against enemies (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **day of trouble** - when the enemy attacks. Alternate translation: "when bad things happen"
+  * **day of trouble** - when the enemy attacks. AT: "when bad things happen"
 
 ===== Links: =====
 

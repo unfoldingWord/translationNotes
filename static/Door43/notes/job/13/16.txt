@@ -50,10 +50,10 @@
 ===== translationNotes: =====
 
 
-  * **my acquittal** - "My release from guilt"
+  * **This will be the reason for my acquittal** - The abstract noun "acquittal" can be expressed with the verb "acquit." AT: "This is the reason that God will acquit me" or "This is the reason that God will say that I am not guilty" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **God, listen carefully** - Job begins directing his speech directly to God.
   * **listen carefully to my speech; let my declaration come to your ears** - These two lines mean basically the same thing and intensify Job's request for God to listen to him. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **come to your ears** - "Ears" represent the hearing and listening by a person who here is God himself. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **let my declaration come to your ears** - The abstract noun "declaration" can be expressed with the verb "declare." The ears represent listening. AT: "listen to my declaration" or "listen to what I declare" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -62,6 +62,6 @@
   * [[:en:bible:questions:comprehension:job:13]]
 **[[:en:bible:notes:job:13:13|<<]] | [[:en:bible:notes:job:13:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

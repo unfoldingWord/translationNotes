@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 10 His sons will wage war and assemble a great army, which will keep coming and will overflow like a flood, pass through, and repeat the assault all the way to his fortress.
+\v 10 His sons will get ready and assemble a great army. It will keep coming and will flood everything; it will pass through all the way to his fortress.
 </usfm>
 
 ===== translationWords: =====
@@ -33,9 +33,8 @@
   * **General Information:** - The angel continues speaking to Daniel.
 
   * **His sons** - "The sons of the king of the North"
-  * **will wage war** - AT: "will fight against their enemies" 
-  * **assemble a great army** - AT: "gather together many men who can fight in battles"
-  * **will overflow like a flood** - The way the large army covers the land will be like a flood of water. AT: "will be so great in number that they will cover all the land" (See: [[:en:ta:vol1:translate:figs_simile]]) 
+  * **assemble a great army** - "gather together many men who can fight in battles"
+  * **will flood everything** - The way the large army covers the land will be like a flood of water. AT: "will be so great in number that they will cover all the land" (See: [[:en:ta:vol1:translate:figs_simile]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -43,6 +42,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:07|<<]] | [[:en:bible:notes:dan:11:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit flood}}
+~~DISCUSSION~~{{tag>publish p2pass flood}}
 
 ~~NOCACHE~~

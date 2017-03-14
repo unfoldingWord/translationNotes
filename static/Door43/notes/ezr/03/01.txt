@@ -13,7 +13,7 @@
 
 <usfm>
 \v 1 After the Israelite people returned to Jerusalem and they began to live in their towns, in the autumn of that year, they all gathered together in Jerusalem.
-\v 2 Then Jeshua son of Jehozadak, and his fellow priests, and Zerubbabel son of Shealtiel and his close friends, all began to rebuild the altar of the God of Israel. They did 
+\v 2 Then Jeshua son of Jehozadak, and his fellow priests, and Zerubbabel son of Shealtiel and his close friends, all began to rebuild the altar of the God of Israel. They did
 that in order that they could sacrifice burned offerings on it, according to what the prophet Moses had written in the laws that God had given to him.
 </usfm>
 
@@ -45,9 +45,11 @@ that in order that they could sacrifice burned offerings on it, according to wha
 ===== translationNotes: =====
 
   * **the seventh month** - This is the seventh month of the Hebrew calendar. It is at the end of the dry season and the beginning of the early rain season. It is during the last part of September and the first part of October on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **gathered together as one person** - a simple comparison expressing common purpose (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Jeshua** - See how you wrote this in [[:en:bible:notes:ezr:02:36|2:36]].
+  * **as one man** - One man is in only one place and has only one purpose. AT: "for one purpose" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Jeshua** - This is the name of a man. Translate the same as in [[:en:bible:notes:ezr:02:36|2:36]].
   * **Shealtiel** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **rose up and built** - Standing up is a metaphor for beginning to act. AT: "began to act and built" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **as commanded in the law of Moses** - This can be translated in active form. You may need to make explicit whom and what Yahweh had commanded. AT: "as Yahweh had commanded them to do in the law of Moses" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -59,6 +61,6 @@ that in order that they could sacrifice burned offerings on it, according to wha
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit god}}
+{{tag>publish p2pass god}}
 
 ~~NOCACHE~~

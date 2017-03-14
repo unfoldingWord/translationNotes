@@ -21,8 +21,7 @@
 <usfm>
 \v 17 If a person is guilty of murdering another
 \q2 he will live like a fugitive until he dies;
-\q2 and no one will help him. 
-\b
+\q2 and no one will help him.
 \q1
 \v 18 When a person lives his life and is blameless, Yahweh will keep him safe;
 \q2 but one who lives by his lies will be suddenly ruined.
@@ -36,11 +35,11 @@
 
 <usfm>
 \q
-\v 17 If a man is guilty because he has shed someone's blood, 
+\v 17 If a man is guilty because he has shed someone's blood,
 \q he will be a fugitive until death
-\q and no one will help him. 
+\q and no one will help him.
 \q
-\v 18 Whoever walks with integrity will be kept safe, 
+\v 18 Whoever walks with integrity will be kept safe,
 \q but the one whose way is crooked will suddenly fall.
 </usfm>
 
@@ -55,9 +54,14 @@
 
 ===== translationNotes: =====
 
-  * **he has shed someone's blood** - "he has killed another" or "he has murdered another" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **he has shed someone's blood** - Here "blood" represents a person's life. To "shed blood" means to murder someone. AT: "he has killed someone" or "he has murdered someone" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **fugitive** - a person who is running away to avoid being captured
-  * **will be kept safe** - AT: "God will keep him safe" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **until death** - "until he dies." This means for the rest of his life. AT: "all of his life" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Whoever walks with integrity will be kept safe** - This can be expressed in active form. AT: "God will keep safe anyone who walks with integrity" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Whoever** - "Anyone who"
+  * **walks with integrity** - This represents a person living a life of integrity. The abstract noun "integrity" can be expressed as an adverb. AT: "walks honestly" or "lives honestly" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the one whose way is crooked** - A dishonest person is spoken of as if he walks on crooked or twisted paths. AT: "the one who does not live honestly" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **will suddenly fall** - What will happen to a dishonest person is spoken of as if he suddenly fell down. AT: "will suddenly be ruined" or "will suddenly perish" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -66,6 +70,6 @@
   * [[:en:bible:questions:comprehension:pro:28]]
 **[[:en:bible:notes:pro:28:15|<<]] | [[:en:bible:notes:pro:28:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

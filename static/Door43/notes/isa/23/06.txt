@@ -30,7 +30,7 @@
 \q1
 \v 6 Cross over to Tarshish; wail, you inhabitants of the coast.
 \q1
-\v 7 Has this happened to you, the joyful city, whose origin is from ancient times, 
+\v 7 Has this happened to you, the joyful city, whose origin is from ancient times,
 \q1 whose feet carried her far away to foreign places to settle?
 </usfm>
 
@@ -43,8 +43,10 @@
 ===== translationNotes: =====
 
   * **Cross over to Tarshish** - "Make your way to Tarshish." Tarshish was the farthest land the people of Tyre traveled to do business. It will be the only place of safety for those who escape from Tyre.
-  * **Has this happened to you, the joyful city, whose origin is from ancient times ... to settle** - Yahweh uses a question to mock Tyre. AT: "This has indeed happened to you who were full of joy in the ancient city of Tyre ... to settle" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **whose feet carried her far away to foreign places to settle** - "who went to distant places to live and make money"
+  * **Has this happened to you, the joyful city, whose origin is from ancient times ... to settle?** - Yahweh uses a question to mock Tyre. This rhetorical questions can be translated as a statement. AT: "This has indeed happened to you who were full of joy in the ancient city of Tyre ... to settle." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the joyful city** - Here "city" represents the people. AT: "the joyful people who live in the city of Tyre" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **whose feet carried her far away to foreign places to settle** - Here "feet" represents the whole person. AT: "who went to distant places to live and make money" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **her far away** - Here "her" refers to the city of Tyre which represents the people of Tyre. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -53,6 +55,6 @@
   * [[:en:bible:questions:comprehension:isa:23]]
 **[[:en:bible:notes:isa:23:04|<<]] | [[:en:bible:notes:isa:23:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

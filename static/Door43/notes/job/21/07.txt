@@ -63,12 +63,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues speaking to his friends.
+  * **Connecting Statement:** - Job continues speaking to his friends.
 
-  * **Why do wicked people continue to live, become old, and grow mighty in power?** - Job uses a question to introduce his speech and to cause his friends to think deeply about what he says. AT: "Wicked people indeed continue to live, become old, and become wealthier."
-  * **their offspring are established before their eyes** - This means the same as the first part of the sentence. The wicked person gets to watch his descendants grow strong and wealthy. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Their houses** - AT: "Their families"
-  * **rod of God** - This refers to God's punishment.
+  * **Why do wicked people continue to live, become old, and grow mighty in power?** - Job uses this question to show that his friends are wrong to think evil men always suffer. AT: "Wicked people indeed continue to live, become old, and become wealthier." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Their descendants are established with them in their sight ... their offspring are established before their eyes** - This two clauses mean the same thing and emphasize that this is true. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **in their sight ... before their eyes** - These phrases mean the same thing because "eyes" refers to sight. Wicked people get to watch their descendants grow strong and wealthy. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Their houses** - Here "houses" refers to the family members that lives in them. AT: "Their families" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **rod of God** - This refers to God's punishment. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 
 ===== Links: =====
 
@@ -77,6 +79,6 @@
   * [[:en:bible:questions:comprehension:job:21]]
 **[[:en:bible:notes:job:21:04|<<]] | [[:en:bible:notes:job:21:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

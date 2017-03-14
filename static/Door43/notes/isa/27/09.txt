@@ -30,8 +30,8 @@
 
 <usfm>
 \q1
-\v 9 So in this way, the iniquity of Jacob will be atoned for, for this will be the full fruit of turning away from his sin: 
-\q1 He will make all the altar stones as chalk and pulverized, 
+\v 9 So in this way, the iniquity of Jacob will be atoned for, for this will be the full fruit of the removal of his sin:
+\q1 when he will make all the altar stones as chalk and crushed to pieces,
 \q1 and no Asherah poles or incense altars will remain standing.
 </usfm>
 
@@ -50,10 +50,12 @@
 
 ===== translationNotes: =====
 
-  * **So in this way** - "By sending them away into exile"
-  * **the iniquity of Jacob will be atoned for** - This can be stated in active form. AT: "Yahweh will atone for the sins of the people of Israel" or "Yahweh will provide a payment for the sins of the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **for this will be the full fruit of turning away from his sin** - AT: "for this is what will happen when Yahweh removes their sin"
-  * **He will make all the altar stones as chalk and pulverized, and no Asherah poles or incense altars will remain standing** - "They will completely destroy all the altars to false gods and remove all the Asherah idols"
+  * **So in this way** - Possible meanings are 1) "this" refers to Yahweh sending the people into exile as Isaiah mentioned in the previous verse or 2) "this" refers to the actions that Isaiah will mention in the next part of verse 9. 
+  * **the iniquity of Jacob will be atoned for** - This can be stated in active form. AT: "Yahweh will purge the sin from the Israelites" or "Yahweh will forgive the sins of the Israelites" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **iniquity of Jacob ... removal of his sin** - Here "Jacob" represents the descendants of Jacob. AT: "iniquity of the Israelites ... removal of their sins" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **for this will be** - Here "this" refers to the actions that Isaiah will describe in the next part of verse 9.
+  * **the full fruit** - This speaks of the results of an action as if it were the fruit that grows as on a tree or vine. AT: "the result" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he will make all the altar stones as chalk and crushed to pieces, and no Asherah poles or incense altars will remain standing** - Here "he" refers to Jacob who represents his descendants. AT: "They will completely destroy all the altars on which they sacrifice to false gods, and they will remove all the Asherah idols and the altars on which they burn incense to false gods" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -61,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:27]]
 **[[:en:bible:notes:isa:27:07|<<]] | [[:en:bible:notes:isa:27:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit asherim}}
+~~DISCUSSION~~{{tag>publish p2pass asherim}}
 
 ~~NOCACHE~~

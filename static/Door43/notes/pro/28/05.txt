@@ -18,10 +18,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 As difficult as it is for evil people to understand what is just, 
-\q2 even so those who want to find Yahweh understand everything that is important. 
+\v 5 As difficult as it is for evil people to understand what is just,
+\q2 even so those who want to find Yahweh understand everything that is important.
 \q1
-\v 6 It is better to be honest and poor, 
+\v 6 It is better to be honest and poor,
 \q2 than to be dishonest in all you do, and to be rich.
 
 
@@ -51,9 +51,13 @@
 
 ===== translationNotes: =====
 
-  * **Evil men** - People who do evil things
-  * **understand everything** - "understand what is just"
-  * **who is crooked in his ways** - "who is not honest in what he does" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Evil men** - Here "men" means people in general. AT: "People who do evil things" (See: [[:en:ta:vol2:translate:figs_gendernotations]])
+  * **do not understand justice** - The abstract noun "justice" can be expressed as an adjective. AT: "do not understand what is just" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **those who seek Yahweh** - Those who want to know Yahweh and please him are spoken of as if they are literally seeking to find Yahweh. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **understand everything** - The implied information is that those who seek Yahweh understand all about justice. AT:"completely understand what is just" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **It is better for a poor person ... than for a rich person** - "It is better to be a poor person ... than it is to be a rich person"
+  * **walks in his integrity** - This represents a person living a life of integrity. The abstract noun "integrity" can be expressed as an adverb. AT: "walks honestly" or "lives honestly" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **who is crooked in his ways** - Rich people who are dishonest are spoken of as if they walk on crooked or twisted paths. AT: "who is not honest in what he does" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -62,6 +66,6 @@
   * [[:en:bible:questions:comprehension:pro:28]]
 **[[:en:bible:notes:pro:28:03|<<]] | [[:en:bible:notes:pro:28:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

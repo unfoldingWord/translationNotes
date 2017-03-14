@@ -21,8 +21,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 The living creatures looked like burning coals of fire, or like torches; bright fire also moved about among the creatures, and there were flashes of lightning.
-\v 14 The living creatures were moving swiftly back and forth, and they looked like lightning!
+\v 13 As for the likeness of the living creatures, their appearance was like burning coals of fire, like the appearance of torches; bright fire also moved about among the creatures, and there were flashes of lightning.
+\v 14 The living creatures were moving swiftly back and forth, and they had the appearance of lightning!
 </usfm>
 
 ===== translationWords: =====
@@ -32,9 +32,13 @@
 
 ===== translationNotes: =====
 
-  * **looked like burning coals of fire, or like torches** - AT: "were bright like coals in a hot fire, or like torches" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **and there were flashes of lightning** - AT: "and lightning came out from the fire."
-  * **The living creatures were moving swiftly back and forth, and they looked like lightning!** - Ezekiel compares the creatures with lightning because they move very fast like lightning. AT: "The living creatures were going forward and coming back so quickly that they looked like lightning!"
+  * **Connecting Statement:** - Ezekiel continues to describe his vision.
+
+  * **As for the likeness of the living creatures, their appearance was like burning coals** - The abstract noun "likeness" can be translated as an adjective, and the abstract noun "appearance" can be translated as a verb. AT: "As for what the living creatures looked like, they were similar to burning coals" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **and there were flashes of lightning** - "and lightning came out from the fire."
+  * **The living creatures were moving swiftly back and forth, and they had the appearance of lightning** - Lightning flashes and then disappears quickly, and the creatures moved from one place to another quickly. The abstract noun "appearance" can be translated as a verb. AT: "The living creatures were moving swiftly back and forth, and they looked like lightning" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -42,6 +46,6 @@
   * [[:en:bible:questions:comprehension:ezk:01]]
 **[[:en:bible:notes:ezk:01:10|<<]] | [[:en:bible:notes:ezk:01:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

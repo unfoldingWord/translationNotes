@@ -16,7 +16,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 21 Bad things do not happen to those who do what is right, 
+\v 21 Bad things do not happen to those who do what is right,
 \q2 but wicked people's lives are filled up with troubles.
 \q1
 \v 22 Yahweh detests those who tell lies,
@@ -30,32 +30,31 @@
 
 <usfm>
 \q
-\v 21 No ill comes on those who do right, 
+\v 21 No ill comes on the righteous person,
 \q but wicked people are filled with difficulties.
 \q
-\v 22 Yahweh hates lying lips, 
+\v 22 Yahweh hates lying lips,
 \q but those who live faithfully are his delight.
 </usfm>
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:evil|]]
+  * [[:en:obe:kt:evil]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:faithful]]
 
 ===== translationNotes: =====
 
-  * **No ill comes** - "Good things come" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **Yahweh hates lying lips** - Yahweh detests those who tell lies (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **delight** - something that gives great pleasure
+  * **No ill comes** - The negative, "No" cancels out the idea of "ill" (bad things that happen). AT: "Good things come" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **Yahweh hates lying lips** - "Lips" represents what a person says. AT: "Yahweh detests those who tell lies" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
-  * [[:en:bible:notes:pro:12:00]]
+  * [[:en:bible:notes:pro:12:00]] 
   * [[:en:bible:questions:comprehension:pro:12]]
 **[[:en:bible:notes:pro:12:19|<<]] | [[:en:bible:notes:pro:12:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

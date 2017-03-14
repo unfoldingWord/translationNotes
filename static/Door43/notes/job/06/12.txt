@@ -21,7 +21,6 @@
 \q1
 \v 13 So I am not able to help myself;
 \q2 I am not wise enough for that.
-\b
 
 
 \q1
@@ -36,7 +35,6 @@
 \q
 \v 13 Is it not true that I have no help in myself,
 \q and that wisdom has been driven out of me?
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -50,9 +48,9 @@
 
   * **General Information:** - The writer uses parallel rhetorical questions in each of these verses, conveying a single idea using two different statements to emphasize Job's lack of strength to endure suffering. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **Is my strength the strength of stones? Or is my flesh made of bronze?** - Job contrasts the weakness of his body to tough, durable building materials to emphasize his lack of strength. AT: "I am not as strong as the rocks. My body is not made of metal." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Is it not true that I have no help in myself ... me?** - AT: "It is true that I have no strength left ... me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **wisdom has been driven out of me?** - "my success has been taken from me" or "or "inner strength has been driven out of me" This can be stated in active form. AT: "My inner strength is gone." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Is my strength the strength of stones? Or is my flesh made of bronze?** - Job describes the weakness of his body by saying that he is not as strong as rocks and bronze to emphasize his lack of strength. These rhetorical questions may be written as statement. AT: "I am not as strong as the rocks. My flesh is not as strong as metal." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Is it not true that I have no help in myself ... me?** - Job uses this rhetorical question to emphasize his lack of wisdom and his weakness. This question can be written as a statement. Also, the phrase "no help in myself" is an idiom. AT: "It is true that I have strength left ... me." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **wisdom has been driven out of me** - "my success has been taken from me."  This can be stated in active form. AT: "My wisdom is gone" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -60,6 +58,6 @@
   * [[:en:bible:questions:comprehension:job:06]]
 **[[:en:bible:notes:job:06:10|<<]] | [[:en:bible:notes:job:06:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

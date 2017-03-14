@@ -29,7 +29,7 @@
 
 <usfm>
 \q1
-\v 25 Therefore he poured out his fierce anger against them, with the devastation of war. 
+\v 25 Therefore he poured out his fierce anger against them, with the devastation of war.
 \q1 It blazed around them, yet they did not realize it; it burned them, but they did not take it to heart.
 </usfm>
 
@@ -45,9 +45,11 @@
   * **General Information:** - Isaiah continues speaking.
 
   * **Therefore he** - "Therefore Yahweh"
-  * **against them** - Here "them" refers to the people of Israel, but Isaiah still included himself as part of the people. AT: "against us"
-  * **It blazed around them ... it burned them** - Isaiah describes Yahweh's anger as a fire to emphasize its power to destroy. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
-
+  * **he poured out his fierce anger against them** - Isaiah speaks of Yahweh's anger as if it were a liquid that could be poured out. AT: "he demonstrated his fierce anger towards them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **against them** - "against us." Here "them" refers to the people of Israel, but Isaiah still included himself as part of the people.
+  * **with the devastation of war** - The word "devastation" can be translated with a verb. AT: "by devastating them with war" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **It blazed around them ... it burned them** - Isaiah speaks of Yahweh's fierce anger as if it were a fire that burned the people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they did not take it to heart** - Paying attention to something and learning from it is spoken of as if it were placing that thing on one's heart. AT: "they did not pay attention" or "they did not learn from it" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -62,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

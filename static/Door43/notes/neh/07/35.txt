@@ -25,7 +25,6 @@
 \v 37 men from Lod, Hadid, and Ono, 721,
 \li2
 \v 38 men from Senaah, 3,930.
-\b
 \pi These priests also returned:
 
 
@@ -46,10 +45,9 @@
   * [[:en:obe:other:jericho]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile.
+  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile. (See [[:en:ta:vol2:translate:translate_numbers]])
 
-  * **The men of** - "The descendants of"
-  * **Harim ... Jericho ... Lod, Hadid ... Ono ... Senaah** - These are village names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Harim ... Jericho ... Lod, Hadid, and Ono ... Senaah** - These are all names of places. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -57,6 +55,6 @@
   * [[:en:bible:questions:comprehension:neh:07]]
 **[[:en:bible:notes:neh:07:31|<<]] | [[:en:bible:notes:neh:07:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

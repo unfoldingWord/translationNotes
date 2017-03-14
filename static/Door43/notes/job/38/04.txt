@@ -48,15 +48,15 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to challenge Job.
+  * **General Information:** - Yahweh begins to challenge Job with a series of questions that emphasize he created the earth and Job did not. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
-  * **Where were you ... foundations** - Yahweh uses this question to emphasize that Job did not exist when he created the earth, so Job does not understand how Yahweh made the earth. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **I laid the earth's foundations** - "I made the foundations for the earth." Yahweh describes creating the earth as though he was building a building. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Tell me** - "Tell me the answer." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **if you have so much understanding** - "you think you know so much"
-  * **Who determined its dimensions** - Yahweh uses this question to emphasize that he decide how big the earth should be, so he is the only one who understands how he made it.
-  * **stretched the measuring line over it** - "measured the earth with a rope"
-  * **measuring line** - a rope or cord that people use to make sure that they build a building the right size and the right shape
+  * **Where were you when I laid the earth's foundations? Tell me, if you have so much understanding** - This can be translated as a statement. AT: "Tell me where you were when I laid the foundations of the earth, if you have so much understanding" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **I laid the earth's foundations** - Yahweh describes creating the earth as though he was building a structure. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **if you have so much understanding** - The abstract noun "understanding" can be translated as the verb "understand." AT: "if you understand so much" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Who determined its dimensions? Tell me, if you know** - This can be translated as a statement. AT: "Tell me who determined its dimensions, if you know" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **dimensions** - "measurements" 
+  * **Who stretched the measuring line over it?** - This can be translated as a statement. AT: "Tell me who stretched the measuring line over it." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **measuring line** - a rope or cord that people use to make something the right size and shape
  
 ===== Links: =====
 
@@ -71,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

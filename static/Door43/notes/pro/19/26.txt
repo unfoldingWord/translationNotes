@@ -19,11 +19,10 @@
 
 <usfm>
 \v 26 Someone who steals from his father and alienates his mother
-\q2 brings shame and disgrace to himself. 
+\q2 brings shame and disgrace to himself.
 \q1
 \v 27 My son, if you will not listen to the teaching,
 \q2 you will wander away from the words of knowledge.
-\b
 
 
 \q1
@@ -52,9 +51,10 @@
 ===== translationNotes: =====
 
 
-  * **brings shame and reproach** - Possible meanings are 1) he brings it to himself (UDB) or 2) to his family.
-  * **If you cease to hear instruction** - "If you stop paying attention to instruction" or "if you stop obeying instruction"
-  * **you will stray from** - AT: "you will abandon" or "you will turn your back on"
+  * **brings shame and reproach** - Possible meanings are 1) he brings it to himself. AT: "brings shame and reproach to himself" or 2) he brings it to his family. AT: "brings shame and reproach to his family" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **If you cease to hear instruction** - Here "listening and obeying" is spoken of as if it were "hearing." AT: "If you stop paying attention to instruction" or "If you stop obeying instruction" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you will stray from** - "you will abandon" or "you will turn your back on"
+  * **the words of knowledge** - "knowledge" 
  
 ===== Links: =====
 
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:19]]
 **[[:en:bible:notes:pro:19:25|<<]] | [[:en:bible:notes:pro:19:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

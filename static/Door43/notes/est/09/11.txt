@@ -18,20 +18,20 @@
 
 <usfm>
 \p
-\v 11 That day the number of those killed in Susa, the fortified city, was reported to the king.
-\v 12 The king said to Queen Esther, "The Jews have killed five hundred men in the city of Susa, including the ten sons of Haman. What then have they done in the rest of the king's provinces? Now what is your petition? It will be granted you. What is your request? It will be granted to you."
+\v 11 That day the number of those killed in the fortress of Susa, was reported to the king.
+\v 12 The king said to Queen Esther, "The Jews have killed five hundred men in the fortress of Susa, including the ten sons of Haman. What then have they done in the rest of the king's provinces? Now what is your petition? It will be granted you. What is your request? It will be granted to you."
 </usfm>
 
 ===== translationWords: =====
 
 ===== translationNotes: =====
 
-  * **fortified city** - "stronghold" or "castle"
   * **five hundred men** - "500 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **ten sons** - "10 sons" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **What then have they done in the rest of the king's provinces?** - AT: "What they must have done in the rest of the king's provinces!" (See: [[:en:ta:vol1:translate:figs_rquestion]]
-  * **petition** - "request"
-
+  * **What then have they done in the rest of the king's provinces?** - The king uses this question to show that he believes that the Jews must have also killed many people in the other provinces. AT: "What they must have done in the rest of the king's provinces!" or "They must have killed many more in the rest of the king's provinces!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **what is your petition?** - The abstract noun "petition" can be expressed with the verb "ask for" or "want." AT: "what do you ask for?" or "what do you want?" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **It will be granted you** - This can be expressed in active form. AT: "I will give you what you ask for" or "I will do for you what you ask" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **What is your request?** - The abstract noun "request" can be expressed with the verb "ask for" or "want." AT: "What do you ask for?" or "What do you want?" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -39,6 +39,6 @@
   * [[:en:bible:questions:comprehension:est:09]]
 **[[:en:bible:notes:est:09:06|<<]] | [[:en:bible:notes:est:09:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

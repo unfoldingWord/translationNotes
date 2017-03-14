@@ -46,10 +46,14 @@
   * [[:en:obe:other:send]]
 ===== translationNotes: =====
 
-  * **Ben Hadad** - This is the name of the king of Aram. His name means "son of Hadad." 
-  * **Ben Hadad ... Hazael** - (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Take a gift in your hand** - AT: "take many gifts with you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **consult with Yahweh through him** - AT: "ask Elisha to ask Yahweh,"
+  * **Ben Hadad** - This is the name of the king of Aram. His name means "son of Hadad." Translate this man's name the same as you did in [[:en:bible:notes:2ki:06:24|6:24]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Hazael** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Take a gift** - Hazael was to take many gifts, not just one. AT: "take many gifts" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **in your hand** - The phrase "in your hand" is an idiom meaning for him to take the gifts with him. AT: "with you" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the man of God** - "Elisha, the man of God"
+  * **consult with Yahweh through him, saying** - "ask Elisha to ask Yahweh"
+  * **carried by forty camels** - This can be stated in active form. AT: "which forty camels carried" 
+  * **forty camels** - "40 camels" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **Your son Ben Hadad king of Aram** - Ben Hadad was not actually Elisha's son, but Hazael called him that to show a close relationship between them. AT: "Ben Hadad, the king of Aram, who is like a son to you," (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
@@ -65,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

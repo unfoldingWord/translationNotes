@@ -21,14 +21,13 @@
 
 <usfm>
 \v 15 If a child is punished,
-\q2 the gift of wisdom is given to him; 
+\q2 the gift of wisdom is given to him;
 \q2 but when a child is out of control,
 \q2 this brings shame to his mother.
 \q1
-\v 16 When wicked people have authority, lawbreaking is common; 
-\q2 but those who do what is right will see the day 
-\q2 when the wicked will lose their power. 
-
+\v 16 When wicked people have authority, lawbreaking is common;
+\q2 but those who do what is right will see the day
+\q2 when the wicked will lose their power.
 
 \q1
 </usfm>
@@ -42,7 +41,7 @@
 \q but a child freed from discipline puts his mother to shame.
 \q
 \v 16 When wicked people are in power, transgression increases,
-\q but those who do right will see the downfall of wicked people.
+\q but righteous people will see the downfall of those wicked people.
 </usfm>
 
 
@@ -56,7 +55,12 @@
 
 ===== translationNotes: =====
 
-  * **The rod** - In the Bible a wooden rod was used as an instrument to discipline children. AT: "discipline" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The rod and reproof give wisdom** - The writer speaks as if a rod and reproof were people who could give wisdom as a physical gift. AT: "If a parent uses the rod on his child and reproves him, the child will become wise" or "If parents discipline their child and tell him when he has done wrong, the child will learn to live wisely" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **The rod** - Parents in Israel used wooden rods as instruments to discipline children by striking them. AT: "discipline" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **reproof** - When a person gives reproof to another person, or reproves that person, he tells that person that he does not approve of what that other person is doing.
+  * **transgression increases** - The abstract noun "transgression" can be translated as a verb. AT: "more people will transgress and their sins will become worse" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the downfall of those wicked people** - The abstract noun "downfall" can be translated with the verb "fall," which is a metaphor for losing the power to rule. AT: "those wicked people fall" or "those wicked people lose their power to rule" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -64,6 +68,6 @@
   * [[:en:bible:questions:comprehension:pro:29]]
 **[[:en:bible:notes:pro:29:13|<<]] | [[:en:bible:notes:pro:29:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

@@ -25,13 +25,14 @@
 
 <usfm>
 \p
-\v 15 And when the Arameans saw that they were being defeated by Israel, they gathered themselves together again.
+\v 15 When the Arameans saw that they were being defeated by Israel, they gathered themselves together again.
 \v 16 Then Hadarezer sent for Aramean troops from beyond the Euphrates River. They came to Helam with Shobach, the commander of Hadarezer's army at their head.
 </usfm>
 
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:aram]]
   * [[:en:obe:other:israel]]
   * [[:en:obe:other:euphrates]]
   * [[:en:obe:other:commander]]
@@ -40,10 +41,13 @@
 
 ===== translationNotes: =====
 
-  * **Arameans** - This is the name of a people group. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Hadarezer ... Shobach** - These are the names of men.
-  * **Helam** - This is the name of a place.
-  * **at their head** - This phrase refers to a position of authority. AT: "leading them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+
+  * **When the Arameans saw that they were being defeated by Israel** - This can be stated in active form. AT: "when the Arameans realized that the Israelites were defeating them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Hadarezer ... Shobach** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **from beyond the Euphrates River** - This means the east side of the Euphrates River.
+  * **They came to Helam** - Here "came to" can be translated as "went to" or "gathered at" (See: [[:en:ta:vol2:translate:figs_go]])
+  * **Helam** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **at their head** - This phrase refers to a position of authority. AT: "leading them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -58,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

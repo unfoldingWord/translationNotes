@@ -10,9 +10,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 30 These letters confirmed were sent to all the Jews, to the 127 provinces of the kingdom of Ahasuerus, with words wishing them safety and truth.
-\v 31 These letters confirmed the days of Purim at their appointed times, as Mordecai the Jew and Queen Esther obligated the Jews, and the Jews obligated themselves and their descendants to celebrate Purim, just as they had accepted obligations to fast and lament at other times.
-\v 32 The command of Esther confirmed these regulations about the manner in which they should celebrate the Purim featival, and it was all written in the book.
+\v 30 These letters were sent to all the Jews in the 127 provinces of the kingdom of Ahasuerus—words of peace and truth—
+\v 31 to establish these days of Purim at their appointed times, as Mordecai the Jew and Queen Esther had established, just as the Jews had established for themselves and their descendants, matters that included their times of fasting and lamenting.
+\v 32 The command of Esther confirmed these regulations that explained how they should celebrate the Purim festival. The instructions about the feast and the account of these events were written down in the book of history.
 </usfm>
 
 ===== ULB: =====
@@ -34,11 +34,10 @@
 
 ===== translationNotes: =====
 
-  * **127** - (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **provinces** - Use the same word or phrase as used in [[:en:bible:notes:est:01:01|Esther 1:1]].
-  * **obligated** - "committed" or "pledged"
-  * **regulations** - "arrangements" or "governance"
-
+  * **Letters were sent to all the Jews** - This can be stated in active form. AT: "They sent letters to all the Jews" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **wishing the Jews safety and truth** - The abstract nouns "safety" and "truth" can be expressed with phrases. AT: "wishing that the Jews would be safe and that people would be faithful to the Jews" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **The Jews accepted this obligation for themselves and their descendants** - Accepting an obligation is a metaphor for agreeing with the obligation. The abstract noun "obligation" can be expressed with the verb "obligate." AT: "The Jews agreed and said that they and their descendants were obligated to celebrate the days of Purim" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **they accepted times of fasting and lamenting** - Accepting times of fasting and lamenting is a metaphor for agreeing to fast and lament at certain times. AT: "they agreed to fast and lament at certain times" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:est:09]]
 **[[:en:bible:notes:est:09:29|<<]] | [[:en:bible:notes:est:10:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

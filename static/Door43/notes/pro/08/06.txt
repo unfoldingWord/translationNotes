@@ -31,11 +31,11 @@
 
 <usfm>
 \q
-\v 6 Listen and I will speak of noble things
-\q and when my lips open I will say what is right—
+\v 6 Listen, because I will speak of noble things,
+\q and when my lips open I will say upright things.
 \q
-\v 7 for my mouth speaks what is trustworthy
-\q and my lips hate wickedness.
+\v 7 For my mouth speaks what is trustworthy,
+\q and wickedness is disgusting to my lips.
 </usfm>
 
 
@@ -47,8 +47,12 @@
 
 ===== translationNotes: =====
 
-  * **when my lips open** - "when I open my mouth to speak"
-  * **right** - "proper" or "just"
+  * **when my lips open** - Here "lips" represents a person's mouth, which which he speaks. AT: "when I open my mouth to speak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **upright** - "proper" or "just"
+  * **my mouth speaks** - Here "mouth" represents a person who speaks. AT: "I speak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **what is trustworthy** - "what people should believe"
+  * **wickedness is disgusting to my lips** - Here "lips" represents a person who is speaking. AT: "wickedness is disgusting to me" or "saying wicked things would be disgusting to me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **wickedness** - Here the abstract noun "wickedness" represents wicked speech. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -60,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit }}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

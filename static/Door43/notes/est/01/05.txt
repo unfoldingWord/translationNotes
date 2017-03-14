@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 5 When these days were completed, the king gave a feast lasting seven days. It was for all the people in the palace of Susa, from the greatest to the least significant. It was held in the courtyard of the garden of the king's palace. 
+\v 5 When these days were completed, the king gave a feast lasting seven days. It was for all the people in the fortress of Susa, from the greatest to the least significant. It was held in the courtyard of the garden of the king's palace.
 \v 6 The courtyard of the garden was decorated with curtains of white cotton and violet, with cords of fine linen and purple, hung on silver rings from pillars of marble. There were couches of gold and silver on a mosaic pavement of porphyry, marble, mother-of-pearl, and colored paving stones.
 </usfm>
 
@@ -30,9 +30,13 @@
 
 ===== translationNotes: =====
 
+  * **When these days were completed** - "At the end of that feast"
+  * **a feast lasting seven days** - This was a second feast that was only for the officials in Susa. AT: "another feast that lasted seven days"
   * **seven** - "7" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **palace** - Use the same word or phrase used in [[:en:bible:notes:est:01:01|Esther 1:1]]. 
-  * **Susa** - Use the same word or phrase used in [[:en:bible:notes:est:01:01|Esther 1:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **fortress** - This refers to a castle, stronghold or fortified city.Translate this as in [[:en:bible:notes:est:01:01|1:1]]. 
+  * **Susa** - Translate this as in [[:en:bible:notes:est:01:01|1:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **a mosaic pavement** - A "mosaic" consists of colored stones arranged in an attractive pattern.
+  * **porphyry** - This is a kind of red and purple rock that contained pieces of crystal. 
 
 
 ===== Links: =====
@@ -42,6 +46,6 @@
   * [[:en:bible:questions:comprehension:est:01]]
 **[[:en:bible:notes:est:01:03|<<]] | [[:en:bible:notes:est:01:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

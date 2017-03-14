@@ -31,7 +31,7 @@
 
 <usfm>
 \v 14 For Yahweh, the God of Israel, says, 'The jar of meal will not empty, neither will the jug of oil stop flowing, until the day that Yahweh sends rain on the earth."
-\v 15 So she did as Elijah had told her, and she, Elijah, and her boy ate many days.
+\v 15 So she did as Elijah had told her. She and Elijah, along with her household, ate for many days. 
 \v 16 The jar of meal did not empty, neither did the jug of oil stop flowing, just as the word of Yahweh had said, as he had spoken by Elijah.
 </usfm>
 
@@ -45,8 +45,10 @@
  
 ===== translationNotes: =====
 
-  * **Yahweh sends rain** - AT: "Yahweh causes rain to fall" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **just as the word of Yahweh had said** - AT: "just as Yahweh had said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Yahweh sends rain** - This is an idiom that means Yahweh causes it to rain. AT: "Yahweh causes rain to fall" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **She and Elijah, along with her household, ate for many days** - In the original language it says, "And she and he and her household ate for many days." It is unclear who "he" is. Possible meanings are 1) Elijah, the widow, and her son ate for many days or 2) the widow, her son, and everyone living in her house ate for many days or 3) Elijah, the widow, and everyone living in her house ate for many days.
+  * **along with her household** - Possible meanings for "household" are 1) this refers only to the widow's son or 2) this refers to other people who live in her house but are not named in the story or 3) this refers to her son and others living in her house.
+  * **just as the word of Yahweh had said** - Here "word" represents Yahweh himself. AT: "just as Yahweh had said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -55,6 +57,6 @@
   * [[:en:bible:questions:comprehension:1ki:17]]
 **[[:en:bible:notes:1ki:17:11|<<]] | [[:en:bible:notes:1ki:17:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

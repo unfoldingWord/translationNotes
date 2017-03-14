@@ -20,11 +20,9 @@
 <usfm>
 \v 1 A wicked person runs away even when no one is coming after him,
 \q2 but the one who does what is right is as brave as lions.
-\b
 \q1
-\v 2 The more sin there is in a country, the greater the number of rulers it will have; 
-\q2 but when there is a ruler who has understanding and knowledge, the country can last a long time. 
-
+\v 2 The more sin there is in a country, the greater the number of rulers it will have;
+\q2 but when there is a ruler who has understanding and knowledge, the country can last a long time.
 
 \q1
 </usfm>
@@ -35,8 +33,8 @@
 <usfm>
 \c 28
 \q
-\v 1 The wicked run away when no one chases them,
-\q but those who do what is right are as bold as a young lion.
+\v 1 The wicked people run away when no one chases them,
+\q but righteous people are as bold as a young lion.
 \q
 \v 2 Because of the transgression of a land, it has many rulers,
 \q but with a man of understanding and knowledge, it will last a long time.
@@ -55,8 +53,9 @@
 
 ===== translationNotes: =====
 
-
-  * **as bold as a young lion** - AT: "as fearless as a young lion" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Because of the transgression of a land** - The abstract noun "transgression" can be translated as a verb. AT: "Because of how a land transgresses" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the transgression of a land** - This is a metonym for the sins of the people living in a land. AT: "the transgression of the people of a land" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **with a man of understanding and knowledge** - The implied information is that this man is a ruler or leader. The abstract nouns "understanding" and "knowledge" can be translated as verbs. AT: "with a man who understands and knows how to rule" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
 
  
 ===== Links: =====
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:pro:28]]
 **[[:en:bible:notes:pro:27:26|<<]] | [[:en:bible:notes:pro:28:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

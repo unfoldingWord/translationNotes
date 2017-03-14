@@ -11,8 +11,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 He made two bronze pillars. Each one was 8.3 meters tall and 5.5 meters around.
-\v 16 He also made two gleaming bronze tops to be put on top of the pillars. Each top was 2.3 meters tall.
+\v 15 He made two bronze pillars. Each one was eight and one-third meters tall and eight and one-half around.
+\v 16 He also made two gleaming bronze tops to be put on top of the pillars. Each top was two and one-third meters tall.
 \v 17 Then he made bronze networks of chains like wreaths to decorate the top of each pillar. There were seven of these networks at the top of each pillar.
 </usfm>
 
@@ -31,10 +31,10 @@
 
 ===== translationNotes: =====
 
-  * **eighteen cubits high** - A cubit is about 46 centimeters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **twelve cubits in circumference** - "Circumference" is the distance or measurement around a circular object or area.
-  * **He made two capitals** - Here, "capitals" refers to decorations on top of the pillars.
-  * **polished bronze** - The bronze was polished in order to reflect sunlight. AT: "gleaming bronze" (UDB)
+  * **eighteen cubits ... twelve cubits ... five cubits** - A cubit is about 46 centimeters. AT: "about 8.3 meters ... 5.5 meters ... 2.3 cubits" (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **in circumference** - Circumference is the distance or measurement around a circular object or area.
+  * **two capitals** - decorations on top of each of the two pillars
+  * **polished bronze** - They polished the bronze so that it would reflect sunlight. "gleaming bronze" (UDB)
   * **Checker latticework and wreaths of chain work** - "Crossed metal strips woven together and metal chains twisted together"
 
 ===== Links: =====
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:1ki:07]]
 **[[:en:bible:notes:1ki:07:13|<<]] | [[:en:bible:notes:1ki:07:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit bronze}}
+~~DISCUSSION~~{{tag>publish p2pass bronze}}
 
 ~~NOCACHE~~

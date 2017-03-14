@@ -22,7 +22,7 @@
 \q1
 \v 88 Because you faithfully love me, allow me to continue to live
 \q2 so that I may continue to obey your requirements that you have spoken.
-\b
+
 
 
 \q1
@@ -37,8 +37,7 @@
 \q but I do not reject your instructions.
 \q
 \v 88 By your steadfast love, keep me alive,
-\q so that I may obey your commands. 
-\b
+\q so that I may obey your commands.
 </usfm>
 
 
@@ -55,7 +54,7 @@
 ===== translationNotes: =====
 
   * **They have almost made an end to me on earth** - This is a polite way of speaking about someone killing someone else. AT: "They have almost killed me" (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **By your steadfast love, keep me alive, so that I may obey your commands** - "according to your steadfast love." The phrase "steadfast love" "faithfulness" can be stated as an adverb. AT: "because you faithfully love me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **By your steadfast love** - "According to your steadfast love." The phrase "steadfast love" or "faithfulness" can be stated as an adverb. AT: "because you faithfully love me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 
 ===== Links: =====
 
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:085|<<]] | [[:en:bible:notes:psa:119:089|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

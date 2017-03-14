@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 At that time two prophets were giving messages from God to the Jews in Jerusalem and other cities in Judah. The prophets were Haggai and Zechariah, who was a descendant of Iddo. 
+\v 1 At that time two prophets were giving messages from God to the Jews in Jerusalem and other cities in Judah. The prophets were Haggai and Zechariah, who was a descendant of Iddo.
 They spoke those messages representing the God that the people of Israel worshiped.
 \v 2 Then Zerubbabel and Jeshua led many other people to being to rebuild the temple of God in Jerusalem. God's prophets Haggai and Zechariah were also with them and helped them.
 
@@ -45,9 +45,10 @@ They spoke those messages representing the God that the people of Israel worship
  
 ===== translationNotes: =====
 
-  * **Iddo ... Jeshua ... Jozadak** - Names of people (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Shealtiel** - Translate the same way you did in [[:en:bible:notes:ezr:03:01]].
+  * **Iddo ... Jeshua ... Jozadak** - names of men (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Shealtiel** - man's name. Translate as in [[:en:bible:notes:ezr:03:01]].
   * **to build the house of God** - This was the temple of God.
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -58,6 +59,6 @@ They spoke those messages representing the God that the people of Israel worship
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit zechariahot haggai}}
+{{tag>publish p2pass zechariahot haggai}}
 
 ~~NOCACHE~~

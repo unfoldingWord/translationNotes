@@ -34,11 +34,11 @@
 
 <usfm>
 \q1
-\v 20 The wild animals of the field will honor me, the jackals and the ostriches, 
-\q1 because I give water in the wilderness, and rivers in the desert, 
+\v 20 The wild animals of the field will honor me, the jackals and the ostriches,
+\q1 because I give water in the wilderness, and rivers in the desert,
 \q1 for my chosen people to drink,
 \q1
-\v 21 this people whom I formed for myself, 
+\v 21 this people whom I formed for myself,
 \q1 that they might recount my praises.
 </usfm>
 
@@ -51,9 +51,8 @@
 
 ===== translationNotes: =====
 
-  * **wild animals of the field will honor me, the jackals and the ostriches** - Animals honor Yahweh as if they were people. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **the jackals and the ostriches** - See how you translated the names of these animals in [[:en:bible:notes:isa:13:21|13:21-22]].
-  * **the jackals and the ostriches** - These animals also honor Yahweh just as the animals in the field. (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **wild animals of the field will honor me, the jackals and the ostriches** - Here animals honor Yahweh as if they were people. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **the jackals and the ostriches** - These are examples of the kinds of animals that will honor Yahweh. See how you translated the names of these animals in [[:en:bible:notes:isa:13:21|13:21-22]]. The missing words can be added to make the meaning clear. AT: "the jackals and the ostriches will honor me" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 
 ===== Links: =====
 
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:43]]
 **[[:en:bible:notes:isa:43:18|<<]] | [[:en:bible:notes:isa:43:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

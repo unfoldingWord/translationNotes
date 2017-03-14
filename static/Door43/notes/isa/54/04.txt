@@ -28,9 +28,8 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 4 Do not fear for you will not be ashamed, nor be discouraged for you will not be disgraced; 
+\v 4 Do not fear for you will not be ashamed, nor be discouraged for you will not be disgraced;
 \q1 you will forget the shame of your youth and the disgrace of your abandonment.
 </usfm>
 
@@ -44,7 +43,8 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Jerusalem.
 
-  * **you will forget the shame of your youth and the disgrace of your abandonment** - Yahweh is speaking to the people of Jerusalem as if they were a woman whose husband had left them and is addressing the shame they felt when the army of Babylon defeated them and took them into exile. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you will forget the shame of your youth and the disgrace of your abandonment** - Yahweh telling the people that in the future they will not even think about the shame they experienced when their enemies defeated them is spoken of as if Yahweh were telling a woman that she will no longer think about the shame she experienced from being unable to have children and having her husband abandon her. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 
 ===== Links: =====
 
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:isa:54]]
 **[[:en:bible:notes:isa:54:02|<<]] | [[:en:bible:notes:isa:54:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

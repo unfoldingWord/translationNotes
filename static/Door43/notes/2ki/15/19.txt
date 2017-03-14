@@ -11,8 +11,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 Then King Tiglath Pileser of Assyria came with his army to attack Israel. So Menahem gave him about thrity-four metric tons of silver in order that Tiglath Pileser would help Menahem to continue to be king and rule his country more strongly.
-\v 20 Menahem obtained that money from the rich men in Israel. He compelled each of them to contribute about 0.6 kilogram of silver. So Tiglath Pileser took that money and went back home.
+\v 19 Then King Tiglath Pileser of Assyria came with his army to attack Israel. So Menahem gave him about thirty-four metric tons of silver in order that Tiglath Pileser would help Menahem to continue to be king and rule his country more strongly.
+\v 20 Menahem obtained that money from the rich men in Israel. He compelled each of them to contribute three-fifths of a kilogram of silver. So Tiglath Pileser took that money and went back home.
 
 
 \p
@@ -34,12 +34,15 @@
   * [[:en:obe:kt:turn]]
 ===== translationNotes: =====
 
-  * **Pul the king of Assyria** - "King Tiglath Pileser of Assyria" (UDB) (See: [[:en:ta:vol1:translate:translate_names]])
-  * **came against the land** - AT: "came with his army to attack the country of Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **one thousand** - (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **talents ... shekels** - (See: [[:en:ta:vol2:translate:translate_bmoney]])
-  * **to strengthen the kingdom of Israel in his hand** - AT: "to strengthen his rule over the kingdom of Israel"
-  * **exacted** - "demanded" or "obtained" (UDB)
+  * **Pul the king of Assyria came against the land** - The phrase "Pul the king of Assyria" represents Pul and his army. AT: "Pul the king of Assyria came with his army against the land" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Pul the king of Assyria** - Pul is the name of a man who was king of Assyria. He was also named Tiglath Pileser. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **came against the land** - Coming against the land represents coming to attack its people. It can be made explicit that "the land" refers to the land and people of Israel. AT: "came with his army to attack the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **one thousand talents of silver** - "1000 talents of silver." You may convert this to a modern measure. AT: "thirty-four thousand kilograms of silver" or "thirty-four metric tons of silver"  (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_bmoney]])
+  * **so that Pul's support might be with him** - The abstract noun "support" can be translated with the verb "support." AT: "so that Pul might support him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **to strengthen the kingdom of Israel in his hand** - Having the kingdom in his hand represents ruling the kingdom. AT: "to strengthen his rule over the kingdom of Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **exacted this money from Israel** - "took this money from Israel"
+  * **fifty shekels of silver** - You may convert this to a modern measure. AT: "six hundred grams of silver" or "three-fifths of a kilogram of silver" (UDB) (See: [[:en:ta:vol2:translate:translate_bmoney]])
+  * **and did not stay there in the land** - "and did not stay there in Israel"
 
 ===== Links: =====
 
@@ -48,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2ki:15]]
 **[[:en:bible:notes:2ki:15:17|<<]] | [[:en:bible:notes:2ki:15:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

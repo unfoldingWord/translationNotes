@@ -29,7 +29,7 @@
 
 <usfm>
 \q1
-\v 8 You never heard; you did not know; these things were not unfolded to your ears beforehand. 
+\v 8 You never heard; you did not know; these things were not unfolded to your ears beforehand.
 \q1 For I knew that you have been
 very deceitful, and that you have been a rebel from birth.
 </usfm>
@@ -44,9 +44,8 @@ very deceitful, and that you have been a rebel from birth.
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **these things were not unfolded to your ears beforehand** - "Ears" refers to listening to a message. This can be stated in active form. This can be expressed positively. AT: "I never explained these things to you before" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **from birth** - Here "birth" refers to when they became a nation. See how you translated a similar phrase in [[:en:bible:notes:isa:46:03|46:3]]. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
- 
+  * **these things were not unfolded to your ears beforehand** - Yahweh speaks of explaining something as if it were unfolding it. The word "ears" represents the people who are listening. This can be stated in active form. AT: "I did not explain these things to you beforehand" (See: [[:en:ta:vol1:translate:figs_metaphor]],  [[:en:ta:vol2:translate:figs_synecdoche]], and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **from birth** - Yahweh speaks of the nation's beginning as if it were its birth. (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -61,6 +60,6 @@ very deceitful, and that you have been a rebel from birth.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

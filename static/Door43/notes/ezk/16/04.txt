@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 On the day of your birth, your mother did not cut your navel, nor did she purify you in water or rub you down with salt, or wrap cloth around you. 
+\v 4 On the day of your birth, your mother did not cut your navel, nor did she purify you in water or rub you down with salt, or wrap cloth around you.
 \v 5 No eye had compassion for you to do any of these things for you, to be compassionate toward you. On the day that you were born, with loathing for your life, you were thrown out into the open field.
 </usfm>
 
@@ -33,10 +33,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh compares Jerusalem to an unwanted baby.
+  * **General Information:** - Yahweh continues to speak about Jerusalem as if the city were an infant. The city represents the people who live there. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
 
-  * **No eye** - "Nobody" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **with loathing for your life** - "people hated you"
+  * **your mother did not cut your navel** - Here "navel" refers to the umbilical cord that is attached to the navel. AT: "you mother did not cut your umbilical cord" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **No eye had compassion for you** - Here the word "eye" represents the person who sees. AT: "Nobody who saw you had compassion for you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **with loathing for your life** - "because your parents hated you"
+  * **you were thrown out into the open field** - This can be stated in active form. AT: "your parents threw you out into the open field" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -44,6 +47,6 @@
   * [[:en:bible:questions:comprehension:ezk:16]]
 **[[:en:bible:notes:ezk:16:01|<<]] | [[:en:bible:notes:ezk:16:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

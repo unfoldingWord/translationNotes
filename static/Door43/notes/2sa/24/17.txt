@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 And David spoke to Yahweh when he saw the angel who had attacked the people, and said, "I have sinned, and I have acted perversely. But these sheep, what have they done? Please let your hand punish me and my father's family!"
+\v 17 Then David spoke to Yahweh when he saw the angel who had attacked the people, and said, "I have sinned, and I have acted perversely. But these sheep, what have they done? Please let your hand punish me and my father's family!"
 </usfm>
 
 
@@ -35,7 +35,7 @@
 
 ===== translationNotes: =====
   * **I have sinned, and I have acted perversely** - These phrases mean the same thing and are combined for emphasis. AT: "I have sinned terribly" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **But these sheep, what have they done?** - David uses a question and compares the people to sheep to emphasize that they have done nothing wrong. This rhetorical question can be translated as a statement. AT: "These sheep have done nothing wrong." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **But these sheep, what have they done?** - David uses a question and compares the people to sheep to emphasize that they have done nothing wrong. This rhetorical question can be translated as a statement. AT: "These ordinary people have done nothing wrong." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **Please let your hand punish me** - Here the metonym "hand" refers to power. AT: "Please punish me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:2sa:24]]
 **[[:en:bible:notes:2sa:24:15|<<]] | [[:en:bible:notes:2sa:24:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

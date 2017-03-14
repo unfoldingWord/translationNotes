@@ -37,7 +37,7 @@
 
 <usfm>
 \c 14
-\p
+\m
 \q
 \v 1 Man, who is born of woman,
 \q lives only a few days and is full of trouble.
@@ -59,16 +59,16 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - This chapter continues Job's speech, which started in [[:en:bible:notes:job:12:01|12:1]].
+  * **General Information:** - This chapter continues Job's speech, which started in [[:en:bible:notes:job:12:01|12:1]]. Job is speaking to God.
 
-  * **Man, who is born of woman** - This refers to all people, both men and women; all are born into this world. 
-  * **is full of trouble** - AT: "his life is full of trouble" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **He sprouts from the ground like a flower and is cut down** - A man's short life is compared to that of a flower. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **he flees like a shadow and does not last** - A man's short life is compared to a shadow that disappears quickly. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Do you look at any of these?** - Job talks to God; he implies that God should not pay attention to him. AT: "God, you should pay attention to any human being" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **look at** - This has here a negative connotation. AT: "pay attention to" or "look for faults in" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **any of these** - Job speaks about himself in the third person. AT: "me"
-  * **Do you bring me into judgment with you?** - Implied is that God should not judge Job because he is so small. AT: "Do you accuse me of sinning?" or "You should not threaten to judge me" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Man, who is born of woman** - This refers to all people, both men and women; all are born into this world. (See: [[:en:ta:vol2:translate:figs_gendernotations]])
+  * **lives only a few days** - This is an exaggeration to emphasize that people live only a short time. AT: "lives only a very short time" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **is full of trouble** - Being "full of trouble" represents experiencing much trouble. AT: "has many troubles" or "suffers much" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **He sprouts from the ground like a flower and is cut down** - Like the life of a flower, a person's life is short and is easily killed. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **he flees like a shadow and does not last** - A person's short life is compared to a shadow that disappears quickly. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Do you look at any of these?** - Job implies that he does not want God to pay so much attention to him. AT: "You do not look at any of these" or "You do not pay so much attention to these. Please do not pay so much attention to me" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **look at** - Here looking at some one represents paying attention to him in order to judge him. AT: "pay attention to" or "look for faults in" 
+  * **Do you bring me into judgment with you?** - Job uses this question to show his surprise that God judges him even though Job is so insignificant like the flowers. AT: "But you judge me" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -76,6 +76,6 @@
   * [[:en:bible:questions:comprehension:job:14]]
 **[[:en:bible:notes:job:13:26|<<]] | [[:en:bible:notes:job:14:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

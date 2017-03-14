@@ -15,9 +15,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 21 There alongside the Ahava Canal, I announced a time for us all to fast and pray. I told them that we should humble ourselves in the presence of our God. We prayed that God would protect 
+\v 21 There alongside the Ahava Canal, I announced a time for us all to fast and pray. I told them that we should humble ourselves in the presence of our God. We prayed that God would protect
 us while we traveled, and also protect our children and our possessions.
-\v 22 Previously we had told the king that our God takes care of all those who truly trust in him, but that he becomes very angry with those who refuse to obey him. So I would have been ashamed 
+\v 22 Previously we had told the king that our God takes care of all those who truly trust in him, but that he becomes very angry with those who refuse to obey him. So I would have been ashamed
 to ask the king to send soldiers and men riding on horses to protect us from our enemies while we were traveling along the road.
 \v 23 So we fasted and requested God to protect us, and we prayed to him.
 
@@ -45,7 +45,12 @@ to ask the king to send soldiers and men riding on horses to protect us from our
  
 ===== translationNotes: =====
 
-  * **The hand of our God is on all who seek him** - This is an expression Ezra makes regarding trusting in the protection of God upon His people. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **the Ahava Canal** - This is the name of the canal that flows to the place called Ahava. See how you translated Ahava and canal in [[:en:bible:notes:ezr:08:15|8:15]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **to seek a straight path from him for us, our little ones, and all our possessions** - The word "seek" represents asking God to do something for them. Here a "straight path" represents safety while they travel. AT: "to ask God to give us, our little ones, and all our possessions safety while we travel" or "to ask God to protect us, our little ones, and all our possessions while we travel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The hand of our God is on all who seek him** - The hand of God being on people is a metonym for God helping people. Seeking God is a metaphor for serving him. AT: "God helps all who serve him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **but his might and wrath are on all who forget him** - God's might and wrath being on people is a metonym for him punishing people. Forgetting God is a metaphor for refusing to serve him. AT: "but he punishes all who refuse to serve him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **So we fasted and sought God about this** - Here seeking God is a metaphor for asking God to do something for them. AT: "So we fasted and asked God to help us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
  
 ===== Links: =====
 
@@ -60,6 +65,6 @@ to ask the king to send soldiers and men riding on horses to protect us from our
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

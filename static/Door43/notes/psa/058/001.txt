@@ -28,10 +28,9 @@
 
 <usfm>
 \c 58
-\p
+\m
 \d For the chief musician; set to Al Tashheth. A psalm
 of David. A michtam.
-\b
 \q
 \v 1 Do you rulers speak righteousness?
 \q Do you judge uprightly, you people?
@@ -53,17 +52,18 @@ of David. A michtam.
   * [[:en:obe:other:hand]]
 ===== translationNotes: =====
 
-  * **General Information:** - This psalm is a song about wicked people. See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - This psalm is a song about wicked people.
 
   * **For the chief musician** - "This is for the director of music to use in worship" 
   * **set to Al Tashheth** - This probably tells what musical style or tune to use when singing the psalm. See how you translated this in [[:en:bible:notes:psa:057:001|57:1]].
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **A michtam** - The meaning of the word "michtam" is uncertain. You may use the word "psalm" instead. This can be written as: "This is a psalm that David wrote." See how you translated this in [[:en:bible:notes:psa:016:001|16:1]]. 
-  * **Do you rulers speak righteousness?** - The author uses this question to rebuke the rulers because they do not speak righteously. AT: "You rulers do not says what is right" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Do you rulers speak righteousness?** - The author uses this question to rebuke the rulers because they do not speak righteously. AT: "You rulers do not say what is right!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **you ... your** - The words "you" and "your" refer to the mighty men who are judges. The "you" here is plural. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **Do you judge uprightly, you people?** - The author uses this question to rebuke the judges who do not judge uprightly. AT: "you people never judge people uprightly" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Do you judge uprightly, you people?** - The author uses this question to rebuke the judges who do not judge uprightly. AT: "You people never judge people uprightly!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **No** - The author answers the two questions he had just asked.
-  * **you commit wickedness in your heart** - The heart refers to the people's thoughts or plans. AT: "You commit wickedness in your thoughts" or "you think about doing wicked things" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you commit wickedness in your heart** - The heart refers to the people's thoughts or plans. AT: "you commit wickedness in your thoughts" or "you think about doing wicked things" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **you distribute violence throughout the land with your hands** - Doing violence in various places throughout the land is spoken of as distributing or spreading the violence throughout the land, as if violence were some kind of stuff or things. AT: "you yourselves do violent deeds everywhere in the land" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
@@ -73,6 +73,6 @@ of David. A michtam.
   * [[:en:bible:questions:comprehension:psa:058]]
 **[[:en:bible:notes:psa:057:009|<<]] | [[:en:bible:notes:psa:058:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2 commit}}
+~~DISCUSSION~~{{tag>publish p2pass book2 commit}}
 
 ~~NOCACHE~~

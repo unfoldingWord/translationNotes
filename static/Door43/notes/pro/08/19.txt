@@ -23,8 +23,7 @@
 \v 20 I always do what is right and just.
 \q1
 \v 21 I give wealth to those who love me,
-\q2 and I fill up their treasuries. 
-
+\q2 and I fill up their treasuries.
 
 \q1
 </usfm>
@@ -34,14 +33,14 @@
 
 <usfm>
 \q
-\v 19 My fruit is better than gold, better even than fine gold;
-\q what I produce is better than pure silver.
+\v 19 My fruit is better than gold, even fine gold;
+\q my produce is better than pure silver.
 \q
-\v 20 I walk in the way that is right,
-\q in the paths that lead to justice,
+\v 20 I walk in the path of righteousness,
+\q in the midst of the paths of justice.
 \q
-\v 21 so I may give an inheritance to those who love me
-\q and fill up their treasuries.
+\v 21 As a result, I make those who love me inherit wealth;
+\q I fill up their treasuries.
 </usfm>
 
 
@@ -58,10 +57,10 @@
 ===== translationNotes: =====
 
   * **My fruit** - what wisdom produces or causes
-  * **what I produce** - the benefit or gain that wisdom produces or causes
-  * **I walk in the way that is right** - Living the right way is spoken of as walking on the right road. AT: "I live right" or "I do what is right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **in the paths that lead to justice** - This tells more of what is meant by "in the way that is right." AT: "I do what is perfectly just" or "I only do what leads to justice"
-  * **treasuries** - storehouses for valuable things
+  * **my produce** - the benefit or gain that wisdom causes
+  * **I walk in the path of righteousness** - Living the right way is spoken of as walking on the right road. AT: "I live right" or "I do what is right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in the midst of the paths of justice** - This tells more of what is meant by "the path of righteousness." AT: "I do what is perfectly just" or "I only do what is just" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **treasuries** - storehouses for valuable things. Wisdom is spoken of as a woman who fills the storehouses of her followers with valuable things. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -70,6 +69,6 @@
   * [[:en:bible:questions:comprehension:pro:08]]
 **[[:en:bible:notes:pro:08:17|<<]] | [[:en:bible:notes:pro:08:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -42,10 +42,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Hannah continues to recite a song to Yahweh. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Connecting Statement:** - Hannah continues to recite a song to Yahweh. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **guard the feet of his faithful people** - Here "feet" is a metonym for the way a person walks, which in turn is a metaphor for the way a person decides how to his life. AT: "keep his faithful people from making foolish decisions" or "enable his faithful people to make wise decisions" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the wicked will be put to silence in darkness** - This polite way to say that Yahweh will kill the wicked can be stated in active form. AT: "Yahweh will put the wicked to silence in darkness" or "Yahweh will put the wicked in the dark and silent world of the dead" (See: [[: en:ta:vol2:translate:figs_euphemism]]) 
+  * **guard the feet of his faithful people** - Here "feet" is a metonym for the way a person walks, which in turn is a metaphor for the way a person decides how to live his life. AT: "keep his faithful people from making foolish decisions" or "enable his faithful people to make wise decisions" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the wicked will be put to silence in darkness** - This polite way of saying that Yahweh will kill the wicked can be stated in active form. AT: "Yahweh will put the wicked to silence in darkness" or "Yahweh will put the wicked in the dark and silent world of the dead" (See: [[: en:ta:vol2:translate:figs_euphemism]]) 
   * **the wicked will be put to silence** - The words "be put to silence" are an idiom for "be made silent." This can be stated in active form. AT: "Yahweh will make them silent" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **by strength** - "because he is strong"
  
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:1sa:02]]
 **[[:en:bible:notes:1sa:02:08|<<]] | [[:en:bible:notes:1sa:02:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check faithful}}
+~~DISCUSSION~~{{tag>publish p2pass faithful}}
 
 ~~NOCACHE~~

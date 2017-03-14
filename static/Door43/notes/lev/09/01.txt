@@ -19,7 +19,7 @@
 <usfm>
 \c 9
 \p
-\v 1 On the eighth day Moses called Aaron and his sons and the elders of Israel. 
+\v 1 On the eighth day Moses called Aaron and his sons and the elders of Israel.
 \v 2 He said to Aaron, "Take a calf from the herd for a sin offering, and a ram without blemish for a burnt offering, and offer them before Yahweh.
 </usfm>
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:lev:09]]
 **[[:en:bible:notes:lev:08:34|<<]] | [[:en:bible:notes:lev:09:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

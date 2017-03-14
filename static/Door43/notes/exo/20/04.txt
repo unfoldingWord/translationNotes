@@ -14,8 +14,7 @@
 <usfm>
 \v 4 You must not carve a figure to worship that represents anything in the sky or that is on the ground or that is in the water under the ground.
 \v 5 You must not bow down to any idol and worship it because I am Yahweh your God, and I will not allow you to worship any other gods. I will punish those who sin and hate me. I will punish not only them, but also I will punish their descendants down to the third and fourth generation.
-\v 6 However, I will never stop loving thousands of generations of those who love me and obey my commandments. 
-
+\v 6 However, I will never stop loving thousands of generations of those who love me and obey my commandments.
 
 \p
 </usfm>
@@ -53,8 +52,10 @@
   * **You must not bow down to them or worship them** - The word "them" refers to carved figures or idols.
   * **jealous** - God wants his people to worship only him.
   * **punish the ancestors' wickedness by bringing punishment on the descendants** - God will punish people for the sin of their parents.
+  * **the third and the fourth generation** - "the 3rd and the 4th generation." Here "third" and "fourth" are ordinal numbers for "3" and "4." (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **I show covenant faithfulness to thousands** - "because of my covenant, I am faithful to thousands" or "I faithfully love thousands"
   * **thousands of those** - "many generations of those" 
+
 
 ===== Links: =====
 
@@ -63,6 +64,6 @@
   * [[:en:bible:questions:comprehension:exo:20]]
 **[[:en:bible:notes:exo:20:01|<<]] | [[:en:bible:notes:exo:20:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit bow jealous}}
+~~DISCUSSION~~{{tag>publish p2pass bow jealous}}
 
 ~~NOCACHE~~

@@ -20,8 +20,7 @@
 \q2 similarly when we look at what a person loves, we know what he is like deep inside.
 \q1
 \v 20 You know that the Place of the Dead and The Destroyer are never satisfied;
-\q2 and people, too, are never satisfied and always want more. 
-
+\q2 and people, too, are never satisfied and always want more.
 
 \q1
 </usfm>
@@ -31,7 +30,7 @@
 <usfm>
 \q
 \v 19 Just as water reflects a person's face,
-\q so a person's heart reflects the person. 
+\q so a person's heart reflects the person.
 \q
 \v 20 Just as Sheol and Abaddon are never satisfied,
 \q so a man's eyes are never satisfied.
@@ -45,8 +44,10 @@
 
 ===== translationNotes: =====
 
-  * **Abaddon** - This is a name. AT: "the Destroyer" (See: [[:en:ta:vol1:translate:translate_names]])
-  * **a man's eyes are never satisfied** - This refers the lust a man has for what he sees. AT: "the lust of a man's eyes" or "the desires of a man's eyes" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **a person's heart** - Here this means a person's thoughts. AT: "what a person thinks" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Abaddon** - This is a name that means "destroyer." AT: "the Destroyer" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **satisfied** - "filled up"
+  * **a man's eyes** - Here "a man's eyes" means the desire of a man for what he sees. AT: "a man's desires" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -54,6 +55,6 @@
   * [[:en:bible:questions:comprehension:pro:27]]
 **[[:en:bible:notes:pro:27:17|<<]] | [[:en:bible:notes:pro:27:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -16,8 +16,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 16-18 I have guided orphans from the time that they were born;
-\q2 I have taken care of them since they were young.
+\v 16-18 From the time I was young I have taken care of orphans;
+All my life I have never given the widowed mothers a reason to lose hope.
 \q1 So if it is true that I ate all my food myself and did not share some of it with orphans,
 \q2 or that I refused to give poor people the things that they wanted,
 \q2 or that I caused widows to live in despair, then you do to me whatever you must do to me.
@@ -48,12 +48,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Job begins describing situations in which he would deserve God's punishment (described in [[:en:bible:notes:job:31:22|31:22]]), but he knows they are not true. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **General Information:** - Job continues describing situations in which he would deserve God's punishment, but he knows they are not true. He does not finish his sentence in verses 16 and 17. Instead he explains in verse 18 why they are not true. (See: [[:en:ta:vol1:translate:figs_hypo]])
 
-  * **I have caused the eyes of the widow to grow dim from crying** - Here "to grow dim" refers to the widow having bad eyesight due to how much she cries. AT: "I have caused a widow to cry in great sadness" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **If I have withheld poor people from their desire** - "If I have kept poor people from getting what they desire"
+  * **if I have caused the eyes of the widow to grow dim from crying** - Here "to grow dim" refers to the widow having bad eyesight from crying a lot. AT: "if I have caused a widow to cry in great sadness" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **my morsel** - "my food"
-  * **from my youth the orphan grew up with me as with a father, and I have guided his mother, a widow, from my own mother's womb** - Job is describing how he truly treated the orphan and widow. AT: "I have taken care of orphans and widows since I was very young"
-
+  * **because from my youth** - The phrase "But I have done none of those things" is understood from the context. AT: "But I have done none of those things, because from my youth"
+  * **because from my youth the orphan grew up with me as with a father** - Job is describing how he truly treated orphans. AT: "because even when I was young I took care of orphans like a father"
+  * **and I have guided his mother, a widow, from my own mother's womb** - Job is describing how he truly treated widows. With the phrase "from my own mother's womb" he uses exaggeration to emphasize that he did this all his life. AT: "and all my life I have guided the orphan's mother, a widow" or "and all my life I have guided widows" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -61,6 +63,6 @@
   * [[:en:bible:questions:comprehension:job:31]]
 **[[:en:bible:notes:job:31:13|<<]] | [[:en:bible:notes:job:31:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

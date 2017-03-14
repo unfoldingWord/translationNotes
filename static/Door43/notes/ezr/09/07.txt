@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 Since the time that our ancestors lived until now, we have been very guilty. That is the reason that we and our kings and our priests have been defeated by the armies of the kings of 
+\v 7 Since the time that our ancestors lived until now, we have been very guilty. That is the reason that we and our kings and our priests have been defeated by the armies of the kings of
 other lands. They killed some of our people, they captured some, they robbed some, and they caused them all to be disgraced, just as we are today.
 </usfm>
 
@@ -32,8 +32,14 @@ other lands. They killed some of our people, they captured some, they robbed som
   * [[:en:obe:other:captive]]
 ===== translationNotes: =====
 
-  * **the days of our ancestors until now** - Ezra is pointing out that they have continued to disobey God in this issue of marrying foreign women.
-  * **iniquities** - AT: "sins" or "going our own way"
+  * **the days of our ancestors** - "the time when our ancestors were alive"
+  * **in great guilt ... In our iniquities** - The abstract nouns "guilt" and "iniquity" can be translated as an adjective and a verb, respectively. AT: "very guilty ... Because of the evil deeds we did" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **we ... were given into the hand of kings** - This can be translated in active form. AT: "you gave us ... into the hand of kings" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **into the hand of kings of this world** - The writer speaks of God allowing the kings to do whatever they wanted to do to the Jews as if God had put small objects into the hands of the kings of this world. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **to the sword** - The sword is a metonym for people killing other people. God allowed people to kill the Jews. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to captivity** - This abstract noun can be translated as a verb phrase. God allowed people to catch the Jews and take them away. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **to plunder** - This abstract noun can be translated as a verb phrase. God allowed people to take the Jews' property. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **ashamed faces** - The face is a metonym for the shame that the person feels and that others who see that person's face know he feels. (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -48,6 +54,6 @@ other lands. They killed some of our people, they captured some, they robbed som
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

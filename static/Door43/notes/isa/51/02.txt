@@ -29,7 +29,7 @@
 
 <usfm>
 \q1
-\v 2 Look at Abraham, your father, and to Sarah, who bore you; for when he was a lone individual, 
+\v 2 Look at Abraham, your father, and to Sarah, who bore you; for when he was a lone individual,
 \q1 I called him. I blessed him and made him many.
 </usfm>
 
@@ -46,8 +46,10 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **Abraham ... Sarah** - The people of Israel are descendants of Abraham and Sarah not their literal children in this context. (See: [[:en:ta:vol1:translate:figs_explicit]])
-
+  * **Abraham, your father** - God speaks of their ancestor as if he were their father. AT: "Abraham, your forefather" or "Abraham, your ancestor" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Sarah, who bore you** - God speaks of Abraham's wife as if she were their mother and had given birth to them. AT: "Abraham's wife, Sarah, of whom you are all descendants" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **when he was a lone individual** - This means when he did not have any children yet. This can be stated clearly. AT: "when he had no children" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **made him many** - God speaks of Abraham's descendants being many as if Abraham were many. AT: "made his descendants many" or "made him have many descendants" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -55,6 +57,6 @@
   * [[:en:bible:questions:comprehension:isa:51]]
 **[[:en:bible:notes:isa:51:01|<<]] | [[:en:bible:notes:isa:51:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

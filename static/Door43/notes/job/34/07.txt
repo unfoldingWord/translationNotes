@@ -24,7 +24,6 @@
 \q2 and spends time with wicked people.
 \q1
 \v 9 He certainly does these things, because he has said, 'It is useless for people to try to please God.'
-\b
 
 
 \q1
@@ -43,7 +42,6 @@
 \q
 \v 9 For he has said, 'It is no use to a person
 \q to take pleasure in doing what God wants.'
-\b
 </usfm>
 
 
@@ -58,9 +56,9 @@
 
   * **General Information:** - Elihu continues speaking.
 
-  * **What man is like Job** - Elihu uses a question to scold Job. AT: "There is no one else like Job" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **who drinks up mockery like water** - Elihu is accusing Job of enjoying mocking other people. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **who walks with wicked men** - AT: "who behaves like wicked men" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **What man is like Job** - Elihu uses this rhetorical question to scold Job. This question can be written as a statement. AT: "There is no one else like Job" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **who drinks up mockery like water** - Elihu is accusing Job of mocking others as often as a person drink water. AT: "who mocks other people as frequently as he drinks water" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **who walks with wicked men** - Here "walk" is an idiom for how a person acts. AT: "who behaves like wicked men" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 
 ===== Links: =====
@@ -70,6 +68,6 @@
   * [[:en:bible:questions:comprehension:job:34]]
 **[[:en:bible:notes:job:34:04|<<]] | [[:en:bible:notes:job:34:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

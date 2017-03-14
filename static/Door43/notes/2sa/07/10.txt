@@ -21,7 +21,7 @@
 
 <usfm>
 \v 10 I will appoint a place for my people Israel and will plant them there, so that they may live in their own place and be troubled no more. No longer will wicked people oppress them, as they did before,
-\v 11 as they were doing from the days that I commanded judges to be over my people Israel. And I will give you rest from all your enemies. Moreover, I, Yahweh, declare to you that I will make you a house.
+\v 11 as they were doing from the days that I commanded judges to be over my people Israel. Now I will give you rest from all your enemies. Moreover, I, Yahweh declare to you that I will make you a house.
 </usfm>
 
 
@@ -40,8 +40,14 @@
 
   * **General Information:** - Yahweh continues describing his promises to King David through the prophet Nathan.
 
-  * **appoint a place for my people Israel ... plant them there** - These two phrases have similar meanings and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **I will make you a house** - Here the metonym "house" refers to David's ancestors continuing on as the rulers of Israel. AT: "I will make you and your descendants the rulers of the nation of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **I will appoint a place** - "I will choose a place"
+  * **will plant them there** - Yahweh causing the people to live in the land permanently and securely is spoke of as if he would plant them in the land. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and be troubled no more** - This can be stated in active form. AT: "and no one will ever trouble them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **from the days** - Here "days" represents a longer period of time. AT: "from the time" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I commanded judges** - After the people of Israel entered the land of Canaan and before they had kings to rule them, God appointed leaders called "judges" to lead them in times of trouble.
+  * **Now I will give you rest from all your enemies ... declare to you that I will make you a house** - If in [[:en:bible:notes:2sa:07:08|7:8-9]] you translated the direct quotations as indirect quotation, then here you may need to translate "you" as "him" or "his." AT: "Now I will give him rest from all his enemies ... declare to him that I will make him a house" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **I will give you rest from all your enemies** - "I will give you safety from all your enemies." Here "rest" is an abstract noun. AT: "I will make all your enemies stop attacking you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **I will make you a house** - Here the metonym "house" refers to David's ancestors continuing on as the rulers of Israel. In [[:en:bible:notes:2sa:07:03|7:4]] Yahweh asked David if he would be the one to build a house for Yahweh. There "house" represented a temple. If your language has a word that can express both ideas, use it here and in 7:4. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
  
 ===== Links: =====
 
@@ -50,6 +56,6 @@
   * [[:en:bible:questions:comprehension:2sa:07]]
 **[[:en:bible:notes:2sa:07:08|<<]] | [[:en:bible:notes:2sa:07:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

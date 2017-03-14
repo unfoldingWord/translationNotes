@@ -12,8 +12,7 @@
 
 <usfm>
 \v 8 But when all those wise men came in, none of them could read the writing or tell him what it meant.
-\v 9 So King Belshazzar became more afraid. His face was changed and he looked different. None of his officials knew how they could help him. 
-
+\v 9 So King Belshazzar became more afraid. His face was changed and he looked different. None of his officials knew how they could help him.
 
 \p
 </usfm>
@@ -33,8 +32,11 @@
 
 ===== translationNotes: =====
 
-  * **Belshazzar** - See how you wrote this name in [[:en:bible:notes:dan:05:01|5:1]].
+  * **Belshazzar** - This is the son of Nebuchadnezzar who became king after his father. See how you wrote this name in [[:en:bible:notes:dan:05:01|5:1]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the look on his face changed** - "his face became even more pale." The face of the king grew even more pale than in [[:en:bible:notes:dan:05:05|5:6]].
   * **perplexed** - "confused"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -42,6 +44,6 @@
   * [[:en:bible:questions:comprehension:dan:05]]
 **[[:en:bible:notes:dan:05:07|<<]] | [[:en:bible:notes:dan:05:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -36,7 +36,9 @@
 
 ===== translationNotes: =====
 
-  * **from the rising of the dawn until the coming out of the stars** - AT: "from the first light of day until the very beginning of the night" 
+  * **half of them** - "Half" means one part out of two equal parts. (See: [[:en:ta:vol2:translate:translate_fraction]])
+  * **from the rising of the dawn until the coming out of the stars** - This refers to the whole day, while it is light outside. AT: "from the first light of day until the very beginning of the night" 
+  * **the rising of the dawn** - It is the point in time that the sun rises that is "dawn." AT: "the rising of the sun" or "dawn" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **in the middle of Jerusalem** - "within Jerusalem"
   * **changed our clothes** - "took off our clothes"
 
@@ -47,6 +49,6 @@
   * [[:en:bible:questions:comprehension:neh:04]]
 **[[:en:bible:notes:neh:04:19|<<]] | [[:en:bible:notes:neh:05:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

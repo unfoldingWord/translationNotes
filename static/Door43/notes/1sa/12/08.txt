@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 8 When Jacob came to Egypt, and your ancestors cried out to Yahweh. Yahweh sent Moses and Aaron, who led your ancestors out of Egypt and they settled in this place.
+\v 8 When Jacob came to Egypt, and your ancestors cried out to Yahweh, then Yahweh sent Moses and Aaron, who led your ancestors out of Egypt and they settled in this place.
 \v 9 But they forgot Yahweh their God; he sold them into the hand of Sisera, captain of the armies of Hazor, into the hand of the Philistines, and into the hand of the king of Moab; these all fought against your ancestors.
 </usfm>
 
@@ -34,11 +34,10 @@
   * [[:en:obe:other:moab]]
 ===== translationNotes: =====
 
+  * **into the hand of Sisera ... Philistines ... king of Moab** - "into the power of Sisera ... Philistines ... king of Moab"
   * **Jacob ... Moses ... Aaron ... Sisera** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Hazor** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
   * **he sold them** - This is an expression for God giving them over to their enemies to be their slaves.
-  * **into the hand of Sisera ... Philistines ... king of Moab** - "into the power of Sisera ... Philistines ... king of Moab"
- 
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:1sa:12]]
 **[[:en:bible:notes:1sa:12:06|<<]] | [[:en:bible:notes:1sa:12:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -22,7 +22,7 @@
 <usfm>
 \p
 \v 34 Samuel went to Ramah, and Saul went up to his house at Gibeah of Saul.
-\v 35 Samuel did not see Saul until the day of his death, for he mourned for Saul. And Yahweh was grieved that he had made Saul king over Israel.
+\v 35 Samuel did not see Saul until the day of his death, for he mourned for Saul. Yahweh was grieved that he had made Saul king over Israel.
 </usfm>
 
 
@@ -35,9 +35,11 @@
 
 ===== translationNotes: =====
 
-  * **Ramah ... Gibeah** - These are the names of places. See: [[:en:ta:vol1:translate:translate_names ]]
+  * **Ramah ... Gibeah** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names ]])
+  * **went up to his house at Gibeah** - Gibeah was higher in elevation than Gilgal where Saul and Samuel had been talking.
+  * **Samuel did not see Saul until the day of his death** - This statement is very precise and should be translated carefully. Samuel died before Saul and did not see Saul again while he lived. However, Samuel did appear to Saul in [[:en:bible:notes:1sa:28:11|28:11-19]] after Samuel died.
 
- 
+
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -48,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit mourn}}
+{{tag>publish p2pass mourn}}
 
 ~~NOCACHE~~

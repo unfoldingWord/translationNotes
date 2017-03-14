@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 16 So Sheshbazzar did that. He came here to Jerusalem and supervised the men who laid the foundation of the temple. And since that time, the people have been working on the temple, 
+\v 16 So Sheshbazzar did that. He came here to Jerusalem and supervised the men who laid the foundation of the temple. And since that time, the people have been working on the temple,
 but it is not finished yet.'
 </usfm>
 
@@ -31,7 +31,11 @@ but it is not finished yet.'
   * [[:en:obe:kt:houseofgod]]
 ===== translationNotes: =====
 
-  * **it is being constructed** - "it is being built"
+  * **General Information:** - The letter from Tattenai to the king that began in [[:en:bible:notes:ezr:05:06|5:7]] continues. Tattenai continues to tell the king what the Judeans had told him beginning in ([[:en:bible:notes:ezr:05:11|5:11]]).
+
+  * **it is being constructed, but is not yet complete** - This can be translated in active form. AT: "people are now constructing it, but they have not done all the work yet" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **constructed** - built
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -42,6 +46,6 @@ but it is not finished yet.'
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

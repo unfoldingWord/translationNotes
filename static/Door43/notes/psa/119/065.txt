@@ -56,7 +56,8 @@
 ===== translationNotes: =====
 
   * **TETH** - This is the name of the ninth letter of the Hebrew alphabet. In the Hebrew language, each line of verses 65-72 begins with this letter.
-  * **by means of your word** - "You word" refers to the promises Yahweh has made to the author. AT: "as you have promised" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to your servant** - The writer refers to himself as "your servant." AT: "to me, your servant" or "to me" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **by means of your word** - This is an idiom. "Your word" refers to the promises Yahweh has made to the writer. AT: "as you have promised" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **Teach me proper discernment and understanding,
 for I have believed in your commandments** - Some languages may require change in logical progression. AT: "Since I have believed in your commandments, teach me proper discernment and understanding" (See: [[:en:ta:vol2:translate:figs_sentences]] and [[:en:ta:vol2:translate:writing_intro]])
 ===== Links: =====
@@ -66,6 +67,6 @@ for I have believed in your commandments** - Some languages may require change i
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:063|<<]] | [[:en:bible:notes:psa:119:067|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

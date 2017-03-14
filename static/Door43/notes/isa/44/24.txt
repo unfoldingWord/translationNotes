@@ -40,13 +40,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 24 This is what Yahweh says, your Redeemer, he who formed you from the womb: 
-\q1 "I am Yahweh, who made everything, 
+\v 24 This is what Yahweh says, your Redeemer, he who formed you from the womb:
+\q1 "I am Yahweh, who made everything,
 \q1 who alone stretched out the heavens, who alone fashioned the earth.
 \q1
-\v 25 I who frustrate the omens of the empty talkers and who disgrace those who read omens; 
+\v 25 I who frustrate the omens of the empty talkers and who disgrace those who read omens;
 \q1 I who overturn the wisdom of the wise and make their advice foolish.
 </usfm>
 
@@ -62,12 +61,11 @@
 ===== translationNotes: =====
 
 
-  * **Redeemer** - See how you translated this in [[:en:bible:notes:isa:41:14|41:14]].
-  * **who formed you from the womb** - See how you translated this in [[:en:bible:notes:isa:44:01|44:2]].
-  * **stretched out the heavens** - See how you translated this in [[:en:bible:notes:isa:42:05|42:5]].
+  * **Redeemer** - Translate this word in the same way you did in [[:en:bible:notes:isa:41:14|41:14]].
+  * **he who formed you from the womb** - Yahweh speaks of creating the nation of Israel as if it were forming the nation as a baby in its mother's womb. See how you translated a similar phrase in [[:en:bible:notes:isa:44:01|44:2]]. AT: "he who made you, as I form a baby in the womb" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **who alone stretched out the heavens** - Yahweh speaks of creating the heavens as if they were fabric which he stretched out. See how you translated a similar phrase in [[:en:bible:notes:isa:42:05|42:5]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **omens** - These are signs that people used to attempt to predict the future.
-
-
+  * **the empty talkers** - This refers to people who say things that are meaningless.
  
 ===== Links: =====
 
@@ -82,6 +80,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

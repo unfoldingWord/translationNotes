@@ -12,8 +12,8 @@
 
 <usfm>
 \v 11 For each set, Bezalel and his men made loops of blue cloth and fastened them on the outer edge of the strip, at the end of each set.
-\v 12 They put fifty loops on the edge of the first set, and fifty loops on the edge of the second set.
-\v 13 They made fifty gold fasteners to attach both of the sets together. In that way, the inside of the sacred tent was as though it were one piece.
+\v 12 They put 50 loops on the edge of the first set, and 50 loops on the edge of the second set.
+\v 13 They made 50 gold fasteners to attach both of the sets together. In that way, the inside of the sacred tent was as though it were one piece.
 </usfm>
 
 ===== ULB: =====
@@ -31,6 +31,7 @@
 ===== translationNotes: =====
 
   * **He made loops ... became united** - For 36:11-13 see how you translated many of these words in [[:en:bible:notes:exo:26:04|26:4-6]].
+  * **loops of blue** - loops of blue cloth
   * **curtain** - These were large, heavy sections of woven cloth that were used to form the covering and dividing walls of the tabernacle. See how you translated this in [[:en:bible:notes:exo:26:01|26:01]].
   * **He made** - Here "he" refers to Bezalel, but it includes all the men working on the sanctuary.
   * **fifty gold clasps** - "50 gold clasps" (See: [[:en:ta:vol2:translate:translate_numbers]])
@@ -41,6 +42,6 @@
   * [[:en:bible:questions:comprehension:exo:36]]
 **[[:en:bible:notes:exo:36:08|<<]] | [[:en:bible:notes:exo:36:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

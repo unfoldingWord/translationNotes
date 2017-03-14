@@ -33,7 +33,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 16 Then justice will reside in the wilderness; and righteousness will live in the fruitful field.
 \q1
@@ -57,7 +56,9 @@
 
   * **General Information:** - Isaiah continues speaking.
 
-  * **justice will reside ... righteousness will live** - Isaiah describes "justice" and "righteousness" as a person who lives in these places. This means the people who live in these places will do what is just and right. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **justice will reside ... righteousness will live** - Isaiah describes "justice" and "righteousness" as a person who lives in these places. This means the people who live in these places will do what is just and right. AT: "people will act justly in the wilderness and people will act righteously in the fertile fields (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **The work of righteousness will be peace; and the result of righteousness, quietness and confidence forever** - These two phrases are parallel and both give results of righteousness. These can be combined. AT: "The result of people acting righteously is that there will be peace, and quietness, and confidence forever" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **habitation** - "place" 
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -65,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:32]]
 **[[:en:bible:notes:isa:32:14|<<]] | [[:en:bible:notes:isa:32:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

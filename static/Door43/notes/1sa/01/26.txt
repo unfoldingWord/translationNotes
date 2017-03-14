@@ -24,8 +24,8 @@
 <usfm>
 \v 26 She said, "Oh, my master! As you live, my master, I am the woman who stood here next to you praying to Yahweh.
 \v 27 For this child I prayed and Yahweh has given me my petition which I asked of him.
-\v 28 I have given him to Yahweh; as long as he lives he is lent to Yahweh." And he worshiped Yahweh there.
-\f + \ft Some modern versions have, \fqa And they worshiped Yahweh there. \fqb \f*
+\v 28 I have given him to Yahweh, as long as he lives he is lent to Yahweh." Then he worshiped Yahweh there.
+\f + \ft Some modern versions have, \fqa Then they worshiped Yahweh there. \fqb \f*
 </usfm>
 
 
@@ -37,10 +37,11 @@
 
 ===== translationNotes: =====
 
-  * **She said, "Oh, my master! As you live, my master** - Here the idiom "As you live" shows that Hannah is being sincere and truthful. AT: "Sir, what I am going to tell you is certainly true" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **Oh, my master! As you live, my master** - Here the idiom "As you live" shows that Hannah is being sincere and truthful. AT: "Sir, what I am going to tell you is certainly true" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
   * **has given me my petition which I asked of him** - Hannah speaks as if a petition were a physical object that one person could give another, and she speaks of a petition as if it were the answer to the petition that she made. The abstract noun "petition" can be translated as a verb phrase. AT: "has agreed to do what I solemnly requested that he do" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **he worshiped Yahweh** - "He" refers to Elkanah, but the UDB and many other versions regard this as metonymy for Elkanah and his family. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **he is lent to Yahweh** - This can be translated in active form. AT: "I am loaning him to Yahweh" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he worshiped Yahweh** - "He" refers to Elkanah, but the UDB and many other versions regard this as metonymy for Elkanah and his family. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  
  
 ===== Links: =====
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1sa:01]]
 **[[:en:bible:notes:1sa:01:24|<<]] | [[:en:bible:notes:1sa:02:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check p2example}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

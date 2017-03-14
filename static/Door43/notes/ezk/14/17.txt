@@ -33,9 +33,12 @@
 
 ===== translationNotes: =====
 
- 
+  * **if I bring a sword against that land** - Here the word "sword" represents the soldiers of an enemy army who attack with swords. AT: "if I bring an army against the land" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Sword, go through the land** - Here the word "sword" represents the soldiers of an enemy army who attack with swords. AT: "Army, go through the land" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **cut off both man and beast from it** - Yahweh speaks of killing people and animals as if it were cutting them off, like a person would cut a branch from a tree. AT: "kill both man and beast in the land" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **these three men** - Noah, Daniel, and Job
-  * **as I live, declares the Lord Yahweh** - This can be reordered: "the Lord Yahweh declares. "as I live"
+  * **only their own lives would be rescued** - This can be stated in active form. AT: "they would only rescue their own lives" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -43,6 +46,6 @@
   * [[:en:bible:questions:comprehension:ezk:14]]
 **[[:en:bible:notes:ezk:14:15|<<]] | [[:en:bible:notes:ezk:14:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

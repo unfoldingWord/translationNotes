@@ -19,7 +19,6 @@
 <usfm>
 \v 3 Yahweh, how long will those wicked people be glad?
 \q2 It is not right that they continue being glad!
-\b
 \q1
 \v 4 They do evil things, and they boast about doing them;
 \q2 how long will they be allowed to continue doing that?
@@ -32,11 +31,10 @@
 
 <usfm>
 \q
-\v 3 Yahweh, how long will the wicked,
+\v 3 How long will the wicked, Yahweh,
 \q how long will the wicked rejoice?
 \q
-\v 4 They belch;
-\q they speak arrogance;
+\v 4 They pour out their arrogant words;
 \q all those who do evil boast.
 </usfm>
 
@@ -49,11 +47,11 @@
 
 ===== translationNotes: =====
 
-  * **Yahweh, how long will the wicked, how long will the wicked rejoice?** - The psalmist repeats the question to show that he is unhappy with how long Yahweh has allowed the wicked to rejoice. AT: "Yahweh, you have waited too long; you have waited too long to stop the wicked from rejoicing." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **How long will the wicked, Yahweh, how long will the wicked rejoice?** - The psalmist repeats the question to show that he is unhappy with how long Yahweh has allowed the wicked to rejoice. This rhetorical question can be translated as a statement. AT: "You have waited too long Yahweh; you have waited too long to stop the wicked from rejoicing." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **will the wicked rejoice** - Why the wicked rejoice can be stated clearly. AT: "will the wicked rejoice because you never punish them for the evil deeds they do" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **They ... they** - "All those who do evil ... all those who do evil"
-  * **They belch** - The psalmist compares their speech to a belch to say it is rude and loud and uncontrolled. Your culture may have another word for such speech. AT: "They are rude and loud when they speak" or "They enjoy speaking evil" See how "they belch out" is translated in [[:en:bible:notes:psa:059:006|59:7]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they speak arrogance** - "they speak arrogantly"
+  * **They** - "All those who do evil"
+  * **They pour out their arrogant words** - The psalmist writes of the the wicked speaking as if their words were a liquid being poured out. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **all those who do evil boast** - "All those who do evil boast about their evil deeds and behavior" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -68,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book4}}
+{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

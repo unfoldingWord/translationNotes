@@ -48,7 +48,9 @@
 
   * **General Information:** - The non-Jewish people offer to help build the temple.
 
-  * **Esarhaddon, king of Assyria** - He ruled before Cyrus. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **who had been exiled** - This can be translated in active form. AT: "whom the Babylonians had taken into exile" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Zerubbabel** - man's name. Translate as in [[:en:bible:notes:ezr:02:01|2:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Esarhaddon, king of Assyria** - He ruled in Assyria before Cyrus ruled in Persia. (See: [[:en:ta:vol1:translate:translate_names]]) 
  
 ===== Links: =====
 
@@ -60,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

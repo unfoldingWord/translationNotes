@@ -30,7 +30,7 @@
 
 <usfm>
 \v 12 I realized that it was not God who sent him, but that he had prophesied against me. Tobiah and Sanballat had hired him.
-\v 13 They hired him to make me afraid, so that I might do what he said and sin, so they could give me a bad name in order to humiliate me. 
+\v 13 They hired him to make me afraid, so that I might do what he said and sin, so they could give me a bad name in order to humiliate me.
 \v 14 Call to mind Tobiah and Sanballat, my God, and all that they did. Also call to mind the prophetess Noadiah and the rest of the prophets who tried to make me be afraid.
 </usfm>
 
@@ -46,12 +46,11 @@
   * [[:en:obe:other:mind]]
 ===== translationNotes: =====
 
-  * **I realized that it was not God who sent him, but that he had prophesied against me** - Here "I" refers to Nehemiah, and "him" refers to Shemaiah. AT: "I recognized that it was not God who sent Shemaiah because he had prophesied against me." (See: [[:en:bible:notes:neh:06:10|06:10]])
-  * **Tobiah and Sanballat had hired him** - Shemaiah was paid by and under the control of Tobiah and Sanballat.
-  * **so that I might do what he said and sin** - AT: "so I might sin by misusing the temple"
-  * **so they could give me a bad name in order to humiliate me** - "so they would have an account that they could use to discredit me"
-  * **Call to mind** - This phrase is ambiguous. It is unclear if Nehemiah is asking God to help him (Nehemiah) remember Tobiah and Sanballat or if Nehemiah is asking God to remember these men. AT: "Remember" 
-  * **the prophetess Noadiah** - Here "Noadiah" is the name of a female (a prophetess), but the name can be male or female. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **but that he had prophesied against me** - "but that he had prophesied in order to oppose me" 
+  * **and sin** - Using the temple as a place to hide was sinful. It may be helpful to make this explicit. AT: "and sin by misusing the temple"
+  * **a bad name** - This is an idiom. AT: "so that they could give me a bad reputation" or "so that they could give a bad report about me" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Call to mind** - This is an idiom. AT: "Remember" 
+  * **Noadiah** - This is the name of a woman. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -60,6 +59,6 @@
   * [[:en:bible:questions:comprehension:neh:06]]
 **[[:en:bible:notes:neh:06:10|<<]] | [[:en:bible:notes:neh:06:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

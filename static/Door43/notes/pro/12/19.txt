@@ -18,7 +18,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 Speaking the truth will never be out of favor, 
+\v 19 Speaking the truth will never be out of favor,
 \q2 but a lie is over in a moment.
 \q1
 \v 20 When evil is planned there must be lies within those who carry it out;
@@ -36,7 +36,7 @@
 \v 19 Truthful lips last forever,
 \q but a lying tongue is only for a moment.
 \q
-\v 20 There is deceit in the hearts of those who plan to do evil, 
+\v 20 There is deceit in the hearts of those who plan to do evil,
 \q but joy comes to the advisors of peace.
 </usfm>
 
@@ -54,8 +54,8 @@
  
 ===== translationNotes: =====
 
-  * **Truthful lips last forever** - "A truthful person endures forever" (See [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **a lying tongue is only for a moment** - "the one who lies lasts only for a moment" (See [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Truthful lips last forever** - "Lips" represents what a person says. AT: "A truthful person endures forever" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a lying tongue is only for a moment** - "Tongue" represents what a person says. AT: "the one who lies lasts only for a moment" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **advisors** - those who give recommendations as a guide to action; counselors
 
 ===== Links: =====
@@ -71,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

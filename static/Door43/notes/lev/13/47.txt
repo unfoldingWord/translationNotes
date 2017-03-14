@@ -19,7 +19,7 @@
 <usfm>
 \p
 \v 47 A garment that is contaminated with mildew, whether it is a wool or linen garment,
-\v 48 or anything woven or knitted from wool or linen, or leather or anything made with leather— 
+\v 48 or anything woven or knitted from wool or linen, or leather or anything made with leather—
 \v 49 if there is a greenish or reddish contamination in the garment, the leather, the woven or knitted material, or anything made of leather, then it is a mildew that spreads; it must be shown to the priest.
 </usfm>
 
@@ -29,8 +29,11 @@
 
 ===== translationNotes: =====
 
+  * **A garment that is contaminated with mildew** - "A garment that has mildew on it" or "A garment that mildews"
+  * **contaminated** - to become impure because something harmful has been added to it
   * **mildew** - a fungus, often white in color, that grows on things that are damp or moist
   * **or anything woven or knitted** - This can be translated in active form. AT: "or anything that someone has woven or knitted" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **if there is a greenish or reddish contamination in the garment** - "if there is greenish or reddish mildew in the garment"
   * **anything made with leather** - This can be translated in active form. AT: "anything that someone made from leather" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **it must be shown to the priest** - This can be translated in active form. AT: "the owner must show it to a priest" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
@@ -41,6 +44,6 @@
   * [[:en:bible:questions:comprehension:lev:13]]
 **[[:en:bible:notes:lev:13:45|<<]] | [[:en:bible:notes:lev:13:50|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

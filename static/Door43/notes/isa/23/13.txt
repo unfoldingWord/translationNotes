@@ -25,7 +25,6 @@
 \q1 They built dirt ramps to the top of the walls of the city of Babylon;
 \q2 then they entered the city and tore down the palaces
 \q2 and caused the city to become a heap of rubble.
-\b
 \q1
 \v 14 So wail, you sailors on the ships of Tarshish,
 \q2 because the harbor in Tyre where your ships stop is destroyed!
@@ -37,7 +36,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 13 See the land of the Chaldeans. This people has ceased to be; the Assyrians have made it a wilderness for wild animals.
 \q1 They set up their siege towers; they demolished its palaces; they made it a heap of ruins.
@@ -50,15 +48,17 @@
   * [[:en:obe:other:chaldeans]]
   * [[:en:obe:other:assyria]]
   * [[:en:obe:other:desert]]
+  * [[:en:obe:other:siege]]
   * [[:en:obe:other:ruin]]
   * [[:en:obe:other:tarshish]]
   * [[:en:obe:kt:refuge]]
 
 ===== translationNotes: =====
 
-  * **See the land of the Chaldeans** - "See what has happened to Babylonia"
+  * **See the land of the Chaldeans** - "Chaldeans" is another name for Babylonians. AT: "See what happened to the land of the Babylonians" or "See what has happened to Babylonia"
   * **siege towers** - Soldiers built towers or dirt ramps to attack over the walls of a city. 
-  * **Howl, you ships of Tarshish** - See how you translated this in [[:en:bible:notes:isa:23:01|23:1]].
+  * **Howl, you ships of Tarshish** - Here "ships" represents the men on the ships. See how you translated this in [[:en:bible:notes:isa:23:01|23:1]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **for your refuge has been destroyed** - This can be stated in active form. AT: "for enemies have destroyed your refuge" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -67,6 +67,6 @@
   * [[:en:bible:questions:comprehension:isa:23]]
 **[[:en:bible:notes:isa:23:10|<<]] | [[:en:bible:notes:isa:23:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit refuge ruin}}
+~~DISCUSSION~~{{tag>publish p2pass refuge ruin}}
 
 ~~NOCACHE~~

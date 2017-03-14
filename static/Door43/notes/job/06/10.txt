@@ -18,7 +18,6 @@
 <usfm>
 \v 10 If he would do that, I would be comforted because I would know that in spite of the great pain that I have suffered,
 \q2 I have always obeyed what God, the Holy One, has commanded.
-\b
 \q1
 \v 11 But now I do not have enough strength to endure all these things.
 \q2 And since I have nothing to hope for in the future,
@@ -49,12 +48,12 @@
 
 ===== translationNotes: =====
 
-  * **May this still be my consolation** - "May this yet be my consolation" or "May this bring me comfort"
+  * **May this still be my consolation** - "May this bring me comfort." The word "this" refers to God allowing him to die. AT: "May my death still bring me comfort" or "May my death still comfort me" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **even if I exult in pain that does not lessen** - "I would leap for joy in unending pain" or "I would endure pain that does not diminish"
   * **exult** - "rejoice"
   * **does not lessen** - "does not diminish"
-  * **that I have not denied the words of the Holy One** - "that I have not disowned God"
-  * **What is my strength, that I should try to wait? What is my end, that I should prolong my life?** - Job poses these questions to emphasize that it is pointless for him to go on living. AT: "Besides, what else is there for me to live for and look forward to?" or "I have no strength to go on living; I have no reason to be patient" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **that I have not denied the words of the Holy One** - "that I have not disowned God." This can be written in positive form. AT: "that I have always obeyed the Holy One" 
+  * **What is my strength, that I should try to wait? What is my end, that I should prolong my life?** - Job poses these questions to emphasize that he has no reason to continue living. These questions have the same meaning. They may be written as statements. AT: "I do not have enough strength to go on living; I have no reason to prolong my life" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:job:06]]
 **[[:en:bible:notes:job:06:07|<<]] | [[:en:bible:notes:job:06:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit exult}}
+~~DISCUSSION~~{{tag>publish p2check exult}}
 
 ~~NOCACHE~~

@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 25 And this is also what Yahweh the Lord says: " I will gather them from distant countries where I have scattered them. And the other people groups will see that I am set apart and honored, when the house of Israel makes their homes in the land I gave my servant Jacob!
+\v 25 And this is also what Yahweh the Lord says: "I will gather them from distant countries where I have scattered them. And the other people groups will see that I am set apart and honored, when the house of Israel makes their homes in the land I gave my servant Jacob!
 \v 26 My people will live safely in Israel; they will build houses and plant vineyards. And when I punish the nearby people groups that despised them, my people will know that it is I, Yahweh their God, who has done this."
 </usfm>
 
@@ -34,7 +34,12 @@
 
 ===== translationNotes: =====
  
+  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house. In this case it refers to Israel's descendants. Translate this as in [[:en:bible:notes:ezk:03:01|3:1]]. AT: "the Israelites" or "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **among whom they were scattered** - This can be expressed in active form. AT: "among whom I scattered them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **so the nations may see** - "in such a way as the nations will see it"
+  * **my servant Jacob** - Here "Jacob" represents the descendants of Jacob. AT: "the descendants of my servant Jacob" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **within her** - "in the land"
+  * **when I execute justice on all** - The abstract noun "justice" can be translated using the verb "judge." AT: "when I judge all" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -43,6 +48,6 @@
   * [[:en:bible:questions:comprehension:ezk:28]]
 **[[:en:bible:notes:ezk:28:23|<<]] | [[:en:bible:notes:ezk:29:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

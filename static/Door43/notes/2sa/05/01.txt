@@ -50,9 +50,8 @@
 
   * **we are your flesh and bone** - This phrase means "a relative." AT: "we are related to you" or "we are of the same family" - (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **In the recent past** - This is historical information. Saul had been their king before David. (See: [[:en:ta:vol2:translate:writing_background]]) 
-  * **you** - This refers to David. (See: [[ en:ta:vol1:translate:figs_you]]) 
-  * **You will shepherd my people Israel, and you will become ruler over Israel** - These two clauses mean basically the same thing and emphasize that Yahweh had chosen David to be king. The Bible often speaks of kings as shepherds of the people whom they rule. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **You will shepherd my people Israel, and you will become ruler over Israel** - These two clauses mean basically the same thing and emphasize that Yahweh had chosen David to be king. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **You will shepherd my people Israel** - Here ruling over the people is spoken of as shepherding them. AT: "You will care for my people Israel" or "You will rule over my people Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -60,6 +59,6 @@
   * [[:en:bible:questions:comprehension:2sa:05]]
 **[[:en:bible:notes:2sa:04:11|<<]] | [[:en:bible:notes:2sa:05:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit david}}
+~~DISCUSSION~~{{tag>publish p2pass david}}
 
 ~~NOCACHE~~

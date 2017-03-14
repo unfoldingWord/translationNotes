@@ -22,7 +22,7 @@
 \q1
 \v 96 I have learned that there is a limit for everything,
 \q2 but your commands have no limit.
-\b
+
 
 
 \q1
@@ -38,7 +38,6 @@
 \q
 \v 96 I have seen that everything has its limits,
 \q but your commandments are broad, beyond limits.
-\b
 </usfm>
 
 
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:093|<<]] | [[:en:bible:notes:psa:119:097|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

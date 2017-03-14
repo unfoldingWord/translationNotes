@@ -38,8 +38,14 @@
 
 ===== translationNotes: =====
 
-  * **that heaven rules** - This phrase is using "heaven" as referring to God as the ruler. AT: "that God is the ruler of all" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **General Information:** - Verses 19-33 use the third person to describe the punishment of Nebuchadnezzar. (See: [[:en:ta:vol2:translate:figs_123person]])
+
+  * **heaven rules** - Here "heaven" refers to God who lives in heaven. AT: "God in heaven is the ruler of all" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **let my advice be acceptable to you** - This can be stated in active form. AT: "please accept my advice" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Turn away from your iniquities** - Here rejecting iniquity is spoken of as turning away from it. AT: "Reject your iniquities" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the oppressed** - This nominal adjective refers to people who are oppressed. AT: "people who are oppressed" (See: [[:en:ta:vol2:translate:figs_nominaladj]]) 
   * **it may be that your prosperity will be extended** - This can be stated in active form. AT: "God may extend your prosperity" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 
 ===== Links: =====
 
@@ -48,6 +54,6 @@
   * [[:en:bible:questions:comprehension:dan:04]]
 **[[:en:bible:notes:dan:04:24|<<]] | [[:en:bible:notes:dan:04:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

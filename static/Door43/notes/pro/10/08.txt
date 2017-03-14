@@ -19,11 +19,10 @@
 
 <usfm>
 \v 8 Wise people follow good instructions,
-\q2 but a fool who talks too much will fail. 
+\q2 but a fool who talks too much will fail.
 \q1
 \v 9 An honest person lives his life and has nothing to hide;
-\q2 but one who is dishonest—his lies will be discovered. 
-
+\q2 but one who is dishonest—his lies will be discovered.
 
 \q1
 </usfm>
@@ -34,7 +33,7 @@
 <usfm>
 \q
 \v 8 Those who are sensible accept commands,
-\q but a talkative fool will come to ruin. 
+\q but a talkative fool will come to ruin.
 \q
 \v 9 He who walks in integrity walks in safety,
 \q but the one who makes his ways crooked, he will be found out.
@@ -67,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit integrity}}
+{{tag>publish p2pass integrity}}
 
 ~~NOCACHE~~

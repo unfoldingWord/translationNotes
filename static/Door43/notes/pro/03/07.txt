@@ -18,13 +18,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 Do not think you are wise enough to direct your life, 
+\v 7 Do not think you are wise enough to direct your life,
 \q2 give Yahweh the reverence he deserves,
 \q2 and when evil invites you in, turn aside from it.
 \q1
-\v 8 Giving Yahweh reverence will make your body healthy 
-\q2 and it will give your bones the food it needs. 
-
+\v 8 Giving Yahweh reverence will make your body healthy
+\q2 and it will give your bones the food it needs.
 
 \q1
 </usfm>
@@ -51,13 +50,11 @@
   * [[:en:obe:kt:evil]]
   * [[:en:obe:kt:flesh]]
 
-
 ===== translationNotes: =====
 
-
-  * **Do not be wise in your own eyes** - "Do not have too high an opinion of your own wisdom" or "Do not think of yourself as wise" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **flesh** - This refers literally to the human body.
- 
+  * **Do not be wise in your own eyes** - The writer speaks of a person's opinion as if that person were seeing something with his eyes. AT: "Do not be wise in your own opinion" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **turn away from evil** - The writer speaks of not committing evil actions as if it were turning away from evil. AT: "do not commit evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **It will be healing to your flesh** - The word "it" refers to the instructions that the writer gives in the previous verse. The full meaning of this can be made clear. The word "flesh" represents the whole body. AT: "If you do this, it will be healing for your body" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -72,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit evil}}
+{{tag>publish p2pass evil}}
 
 ~~NOCACHE~~

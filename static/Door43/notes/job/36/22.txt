@@ -42,11 +42,9 @@
 \q
 \v 23 Who has ever instructed him about his way?
 \q Who can ever say to him, 'You have committed unrighteousness?'
-\b
 \q
 \v 24 Remember to praise his deeds,
 \q of which people have sung.
-\b
 </usfm>
 
 
@@ -64,9 +62,10 @@
 ===== translationNotes: =====
 
   * **See** - The word "See" here adds emphasis to what follows. AT: "Indeed"
-  * **who is a teacher like him?** - The implicit answer to this question is "no one." AT: "no one is a teacher like him." or "no one teaches like he does." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Who has ever instructed him about his way?** - AT: "No one has ever instructed him about what he should do" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Who can ever say to him, 'You have committed unrighteousness?'** - AT: "No one can ever say to him, 'You have committed unrighteousness.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **God is exalted in his power** - Possible meanings are 1) "God is extremely powerful" or 2) "People exalt God because he is powerful"
+  * **who is a teacher like him?** - Elihu asks this rhetorical question to emphasize that no one is a teacher like God. AT: "no one is a teacher like him." or "no one teaches like he does." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who has ever instructed him about his way?** - Elihu asks this rhetorical question to emphasize that no one has ever taught God what to do. AT: "No one has ever instructed him about what he should do." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who can ever say to him, 'You have committed unrighteousness?'** - Elihu asks this rhetorical question to emphasize that no one can accuse God of having committed unrighteousness. AT: "No one can ever say to him, 'You have committed unrighteousness.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -75,6 +74,6 @@
   * [[:en:bible:questions:comprehension:job:36]]
 **[[:en:bible:notes:job:36:19|<<]] | [[:en:bible:notes:job:36:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

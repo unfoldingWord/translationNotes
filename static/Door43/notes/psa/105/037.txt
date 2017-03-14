@@ -63,9 +63,9 @@
 ===== translationNotes: =====
 
   * **He brought the Israelites out with silver and gold** - When the Israelites left Egypt they took silver and gold with them. AT: "He brought the Isrealites out of Egypt with silver and gold in their possession" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **none of his tribes stumbled on the way** - Here the word "stumbled" is an idiom for being "unable." AT: "no one was unable to make the journey" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **none of his tribes stumbled on the way** - No one was left behind. This can be stated positively AT: "all of his tribes was able to make the journey" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
   * **Egypt was glad** - Here "Egypt" refers to the people who live in Egypt. AT: The people of Egypt were glad (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **He spread a cloud for a covering** - Here David describes Yahweh placing a cloud in the sky as if he were spreading out a garment. The cloud was a "covering" to protect them from the sun. AT: "He placed a cloud in the sky to protect them from the sun and heat" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **He spread a cloud for a covering** - Here the psalmist describes Yahweh placing a cloud in the sky as if he were spreading out a garment. The cloud was a "covering" to protect them from the sun. AT: "He placed a cloud in the sky to protect them from the sun and heat" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **made a fire to light up the night** - Yahweh placed a pillar of fire in the sky to give light during the night. AT: "placed a fire it the sky to light up the night" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
@@ -81,6 +81,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book4}}
+{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

@@ -29,7 +29,7 @@
 \p
 \v 17 But your people say, "The way of the Lord is not fair!" but it is your ways that are not fair!
 \v 18 When the righteous person turns away from his righteousness and commits sin, then he will die in it!
-\v 19 And when the wicked turns away from his wickedness and does what is just and righteous, he will live because of those things!
+\v 19 When the wicked turns away from his wickedness and does what is just and righteous, he will live because of those things!
 \v 20 But you people say, "The way of the Lord is not fair!" I will judge each of you according to his way, house of Israel!'"
 </usfm>
 
@@ -49,11 +49,14 @@
   * **General Information:** - Yahweh continues giving Ezekiel his message to the Israelites.
 
   * **your people** - These are the people of Israel. The word "your" refers to Ezekiel.
-  * **but it is your ways** - The word "your" refers to the people of Israel. AT: "but it is their ways." 
-  * **die in it** - "die because of the sin"
-  * **turns away from his wickedness** - AT: "stops doing wicked things" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **The way of the Lord ... your ways that are not fair** - Behaviors or actions is spoken of as if they were a way or road on which a person travels. AT: "What the Lord does ... the things you do that are not fair" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **but it is your ways** - The word "your" refers to the people of Israel. This can be stated in third person. AT: "but it is their ways" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **turns away from his righteousness** - No longer doing something is spoken of as if it were physically turning away from something. AT: "stops doing what is right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **die in it** - "die because of his sins"
+  * **turns away from his wickedness** - No longer doing something is spoken of as if it were physically turning away from something. AT: "stops doing wicked things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **because of those things** - "because he does what is just and righteous"
   * **you people** - These are the people of Israel.
+  * **house of Israel** - Here "house" represents people. AT: "people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -61,6 +64,6 @@
   * [[:en:bible:questions:comprehension:ezk:33]]
 **[[:en:bible:notes:ezk:33:14|<<]] | [[:en:bible:notes:ezk:33:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -50,12 +50,11 @@
 
 ===== translationNotes: =====
 
-  * **suppose that you had set your heart right** - AT: "Even if you had stopped sinning" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-  * **and had reached out with your hands toward God** - AT: "and had made an appeal and prayed to God" 
-  * **suppose that iniquity were in your hand** - AT: "even if you had done some evil things in the past" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **but that then you put it far away from you** - "you stopped doing evil things."
-  * **did not let unrighteousness live in your tent** - AT: "and you did not allow the members of your household to sin." (See: [[:en:ta:vol2:translate:figs_personification]])
-
+  * **suppose that you had set your heart right** - The heart represents thoughts and attitudes. Setting it right represents correcting it. AT: "even if you had corrected your attitude" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and had reached out with your hands toward God** - This is a symbolic action representing asking God for help. AT: "and had made an appeal and prayed to God" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **suppose that iniquity were in your hand** - The hand represents what a person does. AT: "even if you had done some evil things in the past" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **but that then you put it far away from you** - Putting sin behind represents stopping sinning. AT: "but that then you stopped doing evil things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **did not let unrighteousness live in your tents** - Unrighteousness living represents people doing unrighteous things. AT: "and you did not allow the members of your household to do unrighteous things" (See: [[:en:ta:vol2:translate:figs_personification]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -65,6 +64,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -57,11 +57,10 @@
 
 ===== translationNotes: =====
 
-  * **to him sling stones become chaff** - This means that sling stones are no more useful than chaff in the wind against Leviathan. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Clubs are regarded as straw** - This means that a club is no more effective than a piece of straw for beating Leviathan. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **he laughs at the whirring flight of a spear** - The Leviathan is compared to a human being laughing at the futility of their battling against him by throwing spears. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **His lower parts are like sharp pieces of broken pottery** - This says that his scales are sharp. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **he leaves a spreading trail in the mud as if he were a threshing sledge** - This compares his tail to threshing sledge that scrapes the ground and leaves a mark as it moves. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **to him sling stones become chaff** - Chaff cannot hurt Leviathan, and sling stones cannot hurt him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Clubs are regarded as straw** - This can be translated in active form. A club made of straw would not hurt him, and a club made of wood would not hurt him. AT: "He thinks of clubs as if they were straw" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he laughs at the whirring flight of a spear** - The person throwing the sphere hopes that the spear will kill Leviathan, but the writer speaks as if Leviathan knows the sphere will not kill him and so laughs. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **he leaves a spreading trail in the mud as if he were a threshing sledge** - A threshing sledge goes over grain on a threshing floor and turns what it runs over to powder, and his tail leaves a trail in the mud as he wags it as he walks. (See: [[:en:ta:vol1:translate:figs_simile]])
  
 ===== Links: =====
 
@@ -70,6 +69,6 @@
   * [[:en:bible:questions:comprehension:job:41]]
 **[[:en:bible:notes:job:41:25|<<]] | [[:en:bible:notes:job:41:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

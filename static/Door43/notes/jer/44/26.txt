@@ -44,9 +44,14 @@
 
 ===== translationNotes: =====
 
-  * **See, I have sworn by my great name—says Yahweh** - Yahweh's "great name" refers to his whole being and reputation. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Every person of Judah ... will perish** - AT: "A very large number of the people from Judah ... will perish" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **by sword and famine** - The "sword" represents those who will die in battle and "famine" represents those who will die of starvation. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **all of Judah** - Here "Judah" represents the people. AT: "all the people of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I have sworn by my great name** - Yahweh's "great name" refers to his whole being and reputation. AT: "I have sworn upon myself" or "I have sworn by speaking my powerful name" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **My name will no longer be called upon by the mouths of any of the men of Judah in all the land of Egypt** - Here "name" represents the whole being of Yahweh. And, "mouth" represents the whole person. This can be stated in active form. AT: "No person of Judah living in the land of Egypt will ever call upon me again" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **As the Lord Yahweh lives** - People state this when they are making a solemn promise. It is a way of expressing that the certainty of their promise is as certain as Yahweh lives. AT: "I will do it as surely as Yahweh lives" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Every person of Judah in the land of Egypt will perish by sword and famine until they are all finished** - Here "Every person" is a generalization that means "very many people." Also, "sword" represents enemies carrying weapons. AT: "Nearly every person of Judah in the land of Egypt will die. Enemies will kill many of them and many of them will starve to death until there is very few of them left" (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Then the survivors of the sword** - Here "sword" represents enemies carrying weapons. AT: "Then those whom the enemies do not kill" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
+
 
 ===== Links: =====
 
@@ -55,6 +60,6 @@
   * [[:en:bible:questions:comprehension:jer:44]]
 **[[:en:bible:notes:jer:44:24|<<]] | [[:en:bible:notes:jer:44:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit lordyahweh}}
+~~DISCUSSION~~{{tag>publish p2check lordyahweh}}
 
 ~~NOCACHE~~

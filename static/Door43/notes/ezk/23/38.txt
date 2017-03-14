@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 38 And they continue to do this to me: They make my sanctuary unclean, and on the same day they defile my Sabbaths. 
+\v 38 Then they continue to do this to me: They make my sanctuary unclean, and on the same day they defile my Sabbaths.
 \v 39 For when they had slaughtered their children for their idols, then they came to my sanctuary on the same day to defile it! So behold! This is what they have done in the middle of my house.
 </usfm>
 
@@ -34,11 +34,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh speaks to Ezekiel about Oholah and Oholibah.
+  * **General Information:** - Yahweh speaks about how the people of Jerusalem and Samaria have been unfaithful to him.
 
+  * **unclean** - A person or thing God considers spiritually unacceptable or defiled is spoken of as if it were physically unclean. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **and on the same day they defile my Sabbaths** - The phrase "same day" refers to the previous phrase "make my sanctuary unclean." AT: "and on the same day they make my sanctuary unclean, they defile my Sabbaths" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **came to my sanctuary on the same day to defile it** - AT: "came to defile my sanctuary on the same day as slaughtering their children for their idols"
-  * **behold!** - The word "behold" here adds emphasis to what follows. AT: "indeed!"
+  * **behold** - "indeed." The word "behold" here adds emphasis to what follows. AT: "indeed!"
+  * **the middle of my house** - This refers to the house in general. The reference to the "middle" emphasizes that what was done happened openly in the temple and defiled the whole place. AT: "in my own house" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:ezk:23]]
 **[[:en:bible:notes:ezk:23:36|<<]] | [[:en:bible:notes:ezk:23:40|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

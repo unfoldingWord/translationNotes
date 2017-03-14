@@ -31,9 +31,9 @@
 
 <usfm>
 \p
-\v 18 'May the man be cursed who makes the blind to wander away from the road.' And all the people must say, 'Amen.'
+\v 18 'May the man be cursed who makes the blind to wander away from the road.' Then all the people must say, 'Amen.'
 \p
-\v 19 'May the man be cursed who uses force to take away the justice due to a foreigner, fatherless, or widow.' And all the people must say, 'Amen.'
+\v 19 'May the man be cursed who uses force to take away the justice due to a foreigner, fatherless, or widow.' Then all the people must say, 'Amen.'
 </usfm>
 
 
@@ -47,9 +47,9 @@
 
   * **General Information:** - Moses continues telling the Levites and the people what they must say. 
 
-  * **May the man be cursed** - This may be stated in active form. AT: "May Yahweh curse the man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **uses force to take away the justice due to a foreigner ... widow** - Moses speaks of justice as if it were a physical object that a stronger person can violently pull away from a weaker person. Your language might have one word that means "use force to take away." AT: "treats a foreigner ... widow unfairly" Similar words appear in [[:en:bible:notes:deu:24:17|24:17]].
-  * **fatherless** - There are children whose parents have both died and do not have relatives to care for them.
+  * **May the man be cursed** - This may be stated in active form. See how you translated this in [[:en:bible:notes:deu:27:16|27:16]]. AT: "May Yahweh curse the man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **uses force to take away the justice due to a foreigner ... widow** - Moses speaks of justice as if it were a physical object that a stronger person can violently pull away from a weaker person. Your language might have one word that means "use force to take away." Similar words appear in [[:en:bible:notes:deu:24:17|24:17]]. AT: "treats a foreigner ... widow unfairly" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **fatherless** - These are children whose parents have both died and do not have relatives to care for them.
   * **widow** - This means a woman whose husband has died and has no children to care for her in her old age.
 
  
@@ -67,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

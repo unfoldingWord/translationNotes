@@ -37,7 +37,7 @@
 <usfm>
 \q
 \v 7 There were few warriors in Israel,
-\q until I, Deborah, took command— 
+\q until I, Deborah, took command—
 \q a mother took command in Israel!
 \q
 \v 8 When they chose new gods,
@@ -56,7 +56,7 @@
   * [[:en:obe:other:spear]]
 ===== translationNotes: =====
 
-  * **a mother took command in Israel** - This speaks of Deborah's leadership as if she were the mother of the Israelites. AT: "she took care of the Israelites like a mother takes care of her children" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **a mother took command in Israel** - This speaks of Deborah's leadership as if she were the mother of the Israelites. AT: "I took care of the Israelites like a mother takes care of her children" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **they chose new gods** - The full meaning of this statement can be made explicit. AT: "the people of Israel worshiped new gods" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **there was fighting at the city gates** - Here "gates" represents the entire city. The full meaning of this statement can be made explicit. AT: "enemies attacked the people within the Israelite cities" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_explicit]]) 
   * **there were no shields or spears seen among forty thousand in Israel** - This statement is probably an exaggeration about how few weapons the Israelites had. AT: "few weapons for battle remained in Israel" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:jdg:05]]
 **[[:en:bible:notes:jdg:05:05|<<]] | [[:en:bible:notes:jdg:05:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

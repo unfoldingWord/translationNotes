@@ -19,11 +19,10 @@
 
 <usfm>
 \v 13 If you love to sleep all the time, you will become poor;
-\q2 stay awake when you should be at work and you will have plenty to eat. 
+\q2 stay awake when you should be at work and you will have plenty to eat.
 \q1
-\v 14 "It is no good," the buyer says when he is bargaining with you about the price. 
+\v 14 "It is no good," the buyer says when he is bargaining with you about the price.
 \q2 But after he buys it, he goes and boasts to his friends what a good price he bought it for.
-\b
 
 
 \q1
@@ -49,9 +48,9 @@
 
 ===== translationNotes: =====
 
-
-  * **open your eyes** - AT: "wake up" (See: [[:en:ta:vol1:translate:figs_idiom]])
- 
+  * **come to poverty** - The phrase "come to" here means to transition into a new situation; to become. AT: "become poor" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **open your eyes** - Here "opening one's eyes" is spoken of as "being awake." AT: "stay awake" (UDB) or "be alert" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **"Bad! Bad!" says the buyer, but when he goes away he boasts** - Here a buyer is criticizing what someone is selling to get a low price from him. After he buys he boasts about the good price that he pursuaded the seller to give him. The full meaning of this can be made clear. AT: ""Bad! Bad!" says the buyer criticizing the seller's wares, but after he buys he goes away he boasting about the low price that he paid" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -65,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

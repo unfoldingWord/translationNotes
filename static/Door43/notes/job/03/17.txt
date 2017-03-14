@@ -28,7 +28,6 @@
 \q1
 \v 19 Rich people and poor people are alike after they die,
 \q2 and those who were slaves no longer have to obey their masters.
-\b
 
 
 \q1
@@ -45,9 +44,8 @@
 \v 18 There the prisoners are at ease together;
 \q they do not hear the voice of the slave driver.
 \q
-\v 19 Small and great people are there;
+\v 19 Both small and great people are there;
 \q the servant is free from his master there.
-\b
 </usfm>
 
 
@@ -64,12 +62,9 @@
   * **General Information:** - Job changes his talk from dying to life after death.
 
   * **There the wicked cease from trouble; there the weary are at rest** - Job uses parallelism to emphasize that the lowly will find rest from those causing them hardship. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **There the wicked cease from trouble** - Job is talking about the place where people go after they stop living. AT: "In that place, evil people stop causing trouble."
-  * **cease from trouble** - AT: "stop causing trouble"
-  * **there the weary are at rest** - AT: "in that place, very tired people are at peace."
-  * **There the prisoners are at ease together** - AT: "People who were in prison are at peace together."
-  * **the voice of the slave driver** - Here "voice" is a metonym for the power that the slave drivers have over the slaves. AT: "They are no longer under the control of the slave drivers." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Small and great people** - This is a figure of speech which means "all people, both poor people and rich people." (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **There the wicked cease from trouble** - Job is talking about the place where people go after they stop living. AT: "In that place, evil people stop causing trouble"
+  * **the voice of the slave driver** - Here "voice" is a metonym for the power that the slave drivers have over the slaves. AT: "They are no longer under the control of the slave drivers" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **small and great people** - This is a figure of speech which means "all people, both poor people and rich people." (See: [[:en:ta:vol2:translate:figs_merism]])
   * **the servant is free from his master** - A servant is no longer obligated to serve his master.
 
 ===== Links: =====
@@ -85,6 +80,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

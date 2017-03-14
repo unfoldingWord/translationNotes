@@ -37,8 +37,8 @@
 
 <usfm>
 \q
-\v 6 For you have exacted security from your brother for no reason;
-\q you have stripped someone naked of their clothing.
+\v 6 For you have demanded guarantee of a loan from your brother for no reason,
+\q and you have stripped away clothing from the naked.
 \q
 \v 7 You have not given water to weary people to drink;
 \q you have withheld bread from hungry people
@@ -60,12 +60,15 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Eliphaz continues speaking to Job.
+  * **Connecting Statement:** - Eliphaz continues speaking to Job.
 
-  * **you have exacted security** - This refers to a lender taking something from the borrower to ensure that the borrower pays him back.
-  * **you have stripped someone naked of their clothing** - Eliphaz is accusing Job of taking clothes as security from poor people who borrowed from him.
+  * **you have demanded guarantee of a loan** - This refers to a lender taking something from the borrower to ensure that the borrower pays him back.
+  * **you have stripped away clothing from the naked** - Eliphaz is accusing Job of taking clothes as security from poor people who borrowed from him.
+  * **withheld bread** - Here "bread" refers to food in general. AT: "withheld food" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **possessed the earth ... lived in it** - Eliphaz is accusing Job of taking land from poor people and not allowing them to live on it. He is emphasizing this point by restating it twice. (See: [[:en:ta:vol2:translate:figs_parallelism]])
- 
+  * **possessed the earth** - Epiphaz is exaggerating about the amount of land that Job owned in order to portray Job as greedy. AT: "possessed a great amount of land" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -73,6 +76,6 @@
   * [[:en:bible:questions:comprehension:job:22]]
 **[[:en:bible:notes:job:22:04|<<]] | [[:en:bible:notes:job:22:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

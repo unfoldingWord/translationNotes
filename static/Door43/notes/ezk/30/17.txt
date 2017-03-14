@@ -56,17 +56,16 @@
   * **General Information:** - These are Yahweh's words about Egypt.
 
   * **Heliopolis and Bubastis** - These were cities in northern Egypt. (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **will fall by the sword** - The word "sword" is used here to refer to a battle or war. Alternate translation: "will die in battle" or "will die in the war." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **their cities will go into captivity** - "the people of their cities will become captives" or "the people will be taken away as prisoners."
+  * **will fall by the sword** - The word "sword" is used here to refer to a battle or war. AT: "will die in battle" or "will die in the war" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **their cities will go into captivity** - Here "cities" represents the people of the cities. The abstract noun "captivity" can be expressed with the more concrete noun "captive" or the verb "capture" AT: "the people of their cities will become captives" or "and their enemies will capture their people and take them away" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Tahpanhes** - This was an important city in northern Egypt.
   * **the day will hold back its light** - The day is spoken of as if it were able to keep its own light from shining. AT: "the day will be dark" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **when I break the yoke of Egypt there** - The word "yoke" here refers to Egypt's power to oppress people. Alternate translation: "when I stop Egypt from oppressing people" or "when I end Egypt's power to cruelly control other nations." 
-  * **the pride of her strength will be finished** - "Egypt will not be proud of being strong anymore" or "that country will no longer be proud of being strong" (UDB)
-  * **There will be a cloud covering her** - "A cloud will be over Egypt" or "It will be as if there is a cloud over Egypt." Possible meanings are 1) the dark cloud represents how sad the people of Egypt will feel, or 2) there will be a cloud of dust over Egypt from everything that is destroyed. 
+  * **when I break the yoke of Egypt there** - The word "yoke" here refers to Egypt's power to oppress people. AT: "when I stop Egypt from oppressing people" or "when I end Egypt's power to cruelly control other nations" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the pride of her strength will be finished** - This represents Egypt no longer being proud of their strength. The reason that they will not be proud is that they will no longer be strong. AT: "Egypt will no longer be proud about being strong" or "Egypt will no longer have the strength that they were so proud of" (See:[[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **There will be a cloud covering her** - Possible meanings are 1) the dark cloud represents how sad the people of Egypt will feel. AT: "It will be as if there is a cloud over Egypt" or 2) there will be a cloud of dust over Egypt from everything that is destroyed. AT: "A cloud of dust will be over Egypt" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **her daughters** - Possible meanings are 1) the people of the Egyptian towns or 2) the daughters of the Egyptian people
-  * **I will execute acts of judgment in Egypt** - "I will punish Egypt in many ways"
+  * **I will execute acts of judgment in Egypt** - The phrase "acts of judgment" refers to punishment. AT: "I will punish Egypt in many ways" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **so they** - "so the Egyptians"
-  * **will know that I am Yahweh** - See how you translated this in [[:en:bible:notes:ezk:06:06|6:7]].
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -74,6 +73,6 @@
   * [[:en:bible:questions:comprehension:ezk:30]]
 **[[:en:bible:notes:ezk:30:15|<<]] | [[:en:bible:notes:ezk:30:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -33,7 +33,7 @@
 <usfm>
 \c 14
 \p
-\v 1 Yahweh will have compassion on Jacob; he will again choose Israel and restore them into their own land. Foreigners will join with them and attach themselves to the house of Jacob. 
+\v 1 Yahweh will have compassion on Jacob; he will again choose Israel and restore them into their own land. Foreigners will join with them and attach themselves to the house of Jacob.
 \v 2 The nations will bring them to their own place. Then the house of Israel will take them in the land of Yahweh as male and female servants. They will take captive those who had captured them, and they will rule over their oppressors.
 </usfm>
 
@@ -53,7 +53,10 @@
 ===== translationNotes: =====
 
   * **Yahweh will have compassion on Jacob** - Here "Jacob" refers to the descendants of Jacob. AT: "Yahweh will have mercy on the descendants of Jacob" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **attach themselves to the house of Jacob** - The house of Jacob refers to the descendants of Jacob, the Israelites. AT: "unite with the descendants of Jacob" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The nations will bring them to their own place** - "The nations will bring the descendants of Jacob back to the land of Israel"
+  * **the house of Israel** - This refers to the Israelites, the descendants of Israel. AT: "the descendants of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They will take captive those who had captured them** - "The Israelite soldiers will take as captives those who had captured Israelites"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -61,6 +64,6 @@
   * [[:en:bible:questions:comprehension:isa:14]]
 **[[:en:bible:notes:isa:13:21|<<]] | [[:en:bible:notes:isa:14:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

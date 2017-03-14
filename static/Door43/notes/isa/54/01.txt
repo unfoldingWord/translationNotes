@@ -26,7 +26,7 @@
 
 <usfm>
 \c 54
-\p
+\m
 \q1
 \v 1 "Sing, you barren woman, you who have not given birth; break into joyful singing and cry aloud, you who have never been in birth labor.
 \q1 For the children of the desolate one are more than the children of the married woman," says Yahweh.
@@ -43,7 +43,10 @@
 
 ===== translationNotes: =====
 
-  * **you barren woman ... children of the married woman** - A woman who did not have a husband or could not have children felt ashamed and sad. Yahweh is telling Jerusalem that even though it is "childless" now, the city abandoned and empty, that one day its population would increase to the point of being crowded. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you barren woman ... children of the married woman** - Yahweh telling the people of Jerusalem to rejoice because there will be many people living in Jerusalem again is spoken of as if Yahweh were telling a barren women she is going to have many children. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **break into joyful singing and cry aloud, you who have never been in birth labor** - This statement means the same thing as the first part of the sentence. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **For the children of the desolate one are more** - An event that will happen in the future is spoken of as if it happened in the past. This emphasizes that the event will certainly happen. AT: "For the children of the desolate woman will be more" (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **the desolate one** - Here "desolate" means that the woman's husband had rejected and abandoned her
 
 ===== Links: =====
 
@@ -52,6 +55,6 @@
   * [[:en:bible:questions:comprehension:isa:54]]
 **[[:en:bible:notes:isa:53:12|<<]] | [[:en:bible:notes:isa:54:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

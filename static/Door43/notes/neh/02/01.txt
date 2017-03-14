@@ -39,13 +39,13 @@
 
 ===== translationNotes: =====
 
-  * **In the month of Nisan** - "Nisan" is the name of the first month of the Hebrew calendar. It is during the last part of March and the first part April on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol1:translate:translate_names]])
-  * **in the twentieth year** - (See: [[:en:ta:vol2:translate:translate_ordinal]]) 
+  * **In the month of Nisan** - "Nisan" is the name of the first month of the Hebrew calendar. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]])
+  * **in the twentieth year of Artaxerxes the king** - "in the 20th year that Artaxerxes was king" (See: [[:en:ta:vol2:translate:translate_ordinal]]) 
+  * **Now** - This word is used here to mark a break in the main storyline. Here Nehemiah tells background information about his demeanor before the king. (See: [[:en:ta:vol2:translate:writing_background]])
   * **But the king** - "So the king"
-  * **Why is your face so sad?** - The face expresses one's emotions, so it is like saying "Why are you so sad?"
-  * **You do not appear to be ill** - "You do not look like you are sick"
-  * **This must be sadness of heart** - The heart is the center of emotions. AT: "You must be very sad."
-  * **Then I became very much afraid** - As Nehemiah prepares to answer, he does not know how the king will respond.
+  * **Why is your face so sad** - Here Nehemiah is referred to by his face because the face shows one's emotions. AT: "Why are you so sad" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **This must be sadness of heart** - This speaks of Nehemiah being sad as if his heart were sad, since the heart is often considered the center of emotions. AT: "You must be very sad" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Then I became very much afraid** - As Nehemiah prepares to answer, he is afraid because he does not know how the king will respond.
 
 ===== Links: =====
 
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:neh:02]]
 **[[:en:bible:notes:neh:01:10|<<]] | [[:en:bible:notes:neh:02:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit artaxerxes}}
+~~DISCUSSION~~{{tag>publish p2pass artaxerxes}}
 
 ~~NOCACHE~~

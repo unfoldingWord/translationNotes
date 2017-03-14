@@ -19,11 +19,14 @@
 
 <usfm>
 \v 8 Your city is certainly no safer than the city of Thebes was.
- Thebes was an important city beside the Nile River;
- the river was like a wall around her.
+\q2 Thebes was an important city beside the Nile River;
+\q2 the river was like a wall around her.
+\q1
 \v 9 The rulers of Ethiopia and Egypt helped Thebes;
- there was no limit to their power.
- The governments of the nearby countries of Put and Libya were also allies of Thebes.
+there was no limit to their power.
+\q2 The governments of the nearby countries of Put and Libya 
+\q2 were also allies of Thebes.
+\q1
 </usfm>
 
 
@@ -31,10 +34,10 @@
 
 <usfm>
 \q
-\v 8 Nineveh, are you better than Thebes, that was built on the Nile River, that had water around her, 
+\v 8 Nineveh, are you better than Thebes, that was built on the Nile River, that had water around her,
 \q whose defense was the ocean, whose wall was the sea itself?
 \q
-\v 9 Ethiopia and Egypt were her strength, and there was no end to it; 
+\v 9 Ethiopia and Egypt were her strength, and there was no end to it;
 \q Put and Libya were allies to her.
 </usfm>
 

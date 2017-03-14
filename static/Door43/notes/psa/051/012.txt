@@ -17,7 +17,6 @@
 <usfm>
 \v 12 Make me happy again by rescuing me from my guilt,
 \q2 and always help me by making me sincerely want to obey you.
-\b
 \q1
 \v 13 If you do that, I will teach other sinners what you want them to do;
 \q2 they will repent and obey you.
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:psa:051]]
 **[[:en:bible:notes:psa:051:010|<<]] | [[:en:bible:notes:psa:051:014|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

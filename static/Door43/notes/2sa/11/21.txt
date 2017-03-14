@@ -35,13 +35,13 @@
  
 ===== translationNotes: =====
 
-  * **Who killed Abimelech son of Jerubbesheth?** - Joab says that David my rebuke him by asking these rhetorical questions. This can be written as a statement. AT: "Remember how Abimelech son of Jerubbesheth was killed!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who killed Abimelech son of Jerubbesheth?** - Joab says that David may rebuke him by asking these rhetorical questions. This can be written as a statement. AT: "Remember how Abimelech son of Jerubbesheth was killed!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Abimelech son of Jerubbesheth** - This is the name of a man. His father is also know by the name Gideon. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Did not a woman cast an upper millstone on him from the wall, so that he died at Thebez?** - Joab says that David my rebuke him by asking these rhetorical questions. This can be written as a statement. AT: "Remember he died at Thebez when a woman cast an upper millstone on him from the top of the wall" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **from the wall** - "from the top of the city wall"
-  * **millstone** - a heavy stone that would roll, used to crush grain for making bread 
+  * **Did not a woman cast an upper millstone on him from the wall, so that he died at Thebez?** - Joab says that David may rebuke him by asking these rhetorical questions. This can be written as a statement. AT: "Remember he died at Thebez when a woman cast an upper millstone on him from the top of the wall." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **millstone** - a heavy stone that would roll, used to crush grain for making bread
+  * **from the wall** - "from the top of the city wall" 
   * **Thebez** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Why did you go so near the wall?** - Joab says that David my rebuke him by asking these rhetorical questions. This can be written as a statement. AT: "You should not have gone so near the wall!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Why did you go so near the wall?** - Joab says that David may rebuke him by asking these rhetorical questions. This can be written as a statement. AT: "You should not have gone so near the wall!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 
  
@@ -56,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check abimelech}}
+{{tag>publish p2pass abimelech}}
 
 ~~NOCACHE~~

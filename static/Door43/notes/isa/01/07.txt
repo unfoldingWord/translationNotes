@@ -36,11 +36,11 @@
 
 <usfm>
 \q1
-\v 7 Your country is ruined; your cities are burned; 
+\v 7 Your country is ruined; your cities are burned;
 \q1 your fields—in your presence, strangers are destroying them—
 \q1 abandoned devastation, overthrown by strangers.
 \q1
-\v 8 The daughter of Zion is left like a hut in a vineyard, 
+\v 8 The daughter of Zion is left like a hut in a vineyard,
 \q1 like a shed in a garden of cucumbers, like a besieged city.
 </usfm>
 
@@ -51,13 +51,17 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **your fields—in your presence, strangers are destroying them** - "people who are not from your own country steal the crops in your fields while you watch"
-  * **abandoned devastation** - "empty and devastated."  This can be reworded so that the abstract nouns "abandoned devastation" are expressed as the verbs " destroyed" and "lives."  AT: "they have destroyed the land and no one lives there" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Your country is ruined** - This can be stated in active form. AT: "They have ruined your country" or "Your enemies have ruined your country" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your cities are burned** - This can be stated in active form. AT: "they have burned your cities" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your fields—in your presence, strangers are destroying them** - "people who are not from your own country steal the crops from your fields while you watch"
+  * **abandoned devastation** - "empty and devastated."  This abstract noun phrase can be expressed as verb phrases.  AT: "they have destroyed the land and no one lives there" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **overthrown by strangers** - This can be stated in active form. AT: "strangers have overthrown your country" or "a foreign army has completely conquered it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The daughter of Zion is left** - This can be stated in active form. AT: "I have left the daughter of Zion" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **The daughter of Zion** - The "daughter" of a city means the people of the city. AT: "The people of Zion" or "The people who live in Zion" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **is left like a hut in a vineyard, like a shed in a garden of cucumbers** - "is like a hut in a vineyard or a shed in a garden of cucumbers." A "hut" and a "shed" are shelters that farmers built in the field during the harvest season. After the harvest, the farmers left them, and they quickly fell apart. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **like a besieged city** - This can be translated as a new sentence. AT: "Her enemies have surrounded the city"
+  * **is left like a hut in a vineyard, like a shed in a garden of cucumbers** - Possible meanings are 1) "has become as small as a hut in a vineyard or a shed in a garden of cucumbers" (see UDB) or 2) "is left the way a farmer leaves a hut in a vineyard or a shed in a garden of cucumbers when he is finished with them" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **like ... cucumbers, like a besieged city** - Another possible meaning is "like ... cucumbers. She is a besieged city"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -65,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:01]]
 **[[:en:bible:notes:isa:01:05|<<]] | [[:en:bible:notes:isa:01:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

@@ -1,4 +1,4 @@
-======= List of translationWords in Titus =======
+===== List of translationWords in Titus =====
 
 * [[:en:obe:other:apollos]] is found in:
  [[:en:bible:notes:tit:03:12|03:12]]
@@ -22,7 +22,7 @@
  [[:en:bible:notes:tit:01:14|01:14]]
 
 * [[:en:obe:kt:condemn]] is found in:
- [[:en:bible:notes:tit:02:03|02:03]], [[:en:bible:notes:tit:03:09|03:09]]
+ [[:en:bible:notes:tit:03:09|03:09]]
 
 * [[:en:obe:kt:confess]] is found in:
  [[:en:bible:notes:tit:01:15|01:15]]
@@ -31,13 +31,10 @@
  [[:en:bible:notes:tit:01:15|01:15]]
 
 * [[:en:obe:other:crete]] is found in:
- [[:en:bible:notes:tit:01:12|01:12]]
+ [[:en:bible:notes:tit:01:04|01:04]], [[:en:bible:notes:tit:01:12|01:12]]
 
 * [[:en:obe:other:disobey]] is found in:
  [[:en:bible:notes:tit:01:15|01:15]], [[:en:bible:notes:tit:03:03|03:03]]
-
-* [[:en:obe:other:doctrine]] is found in:
- [[:en:bible:notes:tit:01:08|01:08]]
 
 * [[:en:obe:other:elder]] is found in:
  [[:en:bible:notes:tit:01:04|01:04]], [[:en:bible:notes:tit:01:06|01:06]]
@@ -49,7 +46,7 @@
  [[:en:bible:notes:tit:01:01|01:01]], [[:en:bible:notes:tit:03:06|03:06]]
 
 * [[:en:obe:kt:evil]] is found in:
- [[:en:bible:notes:tit:01:06|01:06]], [[:en:bible:notes:tit:02:06|02:06]], [[:en:bible:notes:tit:03:03|03:03]]
+ [[:en:bible:notes:tit:01:06|01:06]], [[:en:bible:notes:tit:03:03|03:03]]
 
 * [[:en:obe:kt:faith]] is found in:
  [[:en:bible:notes:tit:01:01|01:01]], [[:en:bible:notes:tit:01:12|01:12]], [[:en:bible:notes:tit:02:01|02:01]], [[:en:bible:notes:tit:02:09|02:09]], [[:en:bible:notes:tit:03:15|03:15]]
@@ -78,14 +75,8 @@
 * [[:en:obe:kt:grace]] is found in:
  [[:en:bible:notes:tit:01:04|01:04]], [[:en:bible:notes:tit:02:11|02:11]], [[:en:bible:notes:tit:03:06|03:06]], [[:en:bible:notes:tit:03:15|03:15]]
 
-* [[:en:obe:other:heir]] is found in:
- [[:en:bible:notes:tit:03:06|03:06]]
-
 * [[:en:obe:kt:holyspirit]] is found in:
  [[:en:bible:notes:tit:03:04|03:04]], [[:en:bible:notes:tit:03:06|03:06]]
-
-* [[:en:obe:kt:hope]] is found in:
- [[:en:bible:notes:tit:03:06|03:06]]
 
 * [[:en:obe:kt:houseofgod]] is found in:
  [[:en:bible:notes:tit:01:06|01:06]]
@@ -118,7 +109,7 @@
  [[:en:bible:notes:tit:01:06|01:06]]
 
 * [[:en:obe:kt:mercy]] is found in:
- [[:en:bible:notes:tit:01:04|01:04]], [[:en:bible:notes:tit:03:04|03:04]]
+ [[:en:bible:notes:tit:03:04|03:04]]
 
 * [[:en:obe:other:obey]] is found in:
  [[:en:bible:notes:tit:03:01|03:01]]
@@ -135,14 +126,14 @@
 * [[:en:obe:other:perseverance]] is found in:
  [[:en:bible:notes:tit:02:01|02:01]]
 
+* [[:en:obe:kt:purify]] is found in:
+ [[:en:bible:notes:tit:02:03|02:03]], [[:en:bible:notes:tit:02:14|02:14]]
+
 * [[:en:obe:kt:righteous]] is found in:
  [[:en:bible:notes:tit:01:08|01:08]], [[:en:bible:notes:tit:02:11|02:11]], [[:en:bible:notes:tit:03:04|03:04]]
 
 * [[:en:obe:other:ruler]] is found in:
  [[:en:bible:notes:tit:03:01|03:01]]
-
-* [[:en:obe:kt:salvation]] is found in:
- [[:en:bible:notes:tit:02:11|02:11]]
 
 * [[:en:obe:kt:save]] is found in:
  [[:en:bible:notes:tit:03:04|03:04]]
@@ -168,8 +159,11 @@
 * [[:en:obe:other:tychicus]] is found in:
  [[:en:bible:notes:tit:03:12|03:12]]
 
+* [[:en:obe:kt:ungodly]] is found in:
+ [[:en:bible:notes:tit:02:11|02:11]]
+
 * [[:en:obe:kt:word]] is found in:
- [[:en:bible:notes:tit:01:01|01:01]], [[:en:bible:notes:tit:01:08|01:08]]
+ [[:en:bible:notes:tit:01:01|01:01]]
 
 * [[:en:obe:kt:works]] is found in:
  [[:en:bible:notes:tit:03:04|03:04]], [[:en:bible:notes:tit:03:08|03:08]], [[:en:bible:notes:tit:03:14|03:14]]

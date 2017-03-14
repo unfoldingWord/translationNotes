@@ -25,7 +25,7 @@
 
 <usfm>
 \p
-\v 34 Then Joshua and all Israel passed on from Lachish to Eglon. They camped by it and waged war against it, 
+\v 34 Then Joshua and all Israel passed on from Lachish to Eglon. They camped by it and waged war against it,
 \v 35 and captured it that same day. They struck it with the sword and they completely destroyed everyone in it, as Joshua had done to Lachish.
 </usfm>
 
@@ -39,10 +39,9 @@
 
 ===== translationNotes: =====
 
-  * **Eglon** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Lachish ... Eglon** - These are the names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
   * **struck it with the sword ... completely destroyed everyone in it** - These two phrases have similar meanings. Together they show the completeness of the destruction of Eglon. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **Lachish** - This is the name of a city. See how you translated this in [[:en:bible:notes:jos:10:03|10:3]]. (See: [[:en:ta:vol1:translate:translate_names]])
- 
+
  
 ===== Links: =====
 
@@ -57,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -42,15 +42,17 @@
   * [[:en:obe:other:king]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:heaven]]
+
 ===== translationNotes: =====
 
-  * **measure** - (See: [[:en:ta:vol2:translate:translate_bvolume]])
-  * **shekel** - (See: [[:en:ta:vol2:translate:translate_bmoney]])
-  * **measure of fine flour will be sold for a shekel, and two measures of barley for a shekel** - The prices of food would become much less. Compare [[:en:bible:notes:2Ki:06:24]] where bad food was sold for very high prices.
-  * **the captain on whose hand the king leaned** - AT: "the king's assistant" or "an officer who helped the king"
-  * **windows in heaven** - AT: "openings in the sky that Yahweh himself would make grain fall through" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **can this thing happen?** - AT: "I do not believe it could happen!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **you will watch it happen with your own eyes, but you will not eat any of it** - Because the officer did not believe Yahweh could provide the grain, he would see it happen but would not eat any of it. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **a measure of fine flour will be sold for a shekel, and two measures of barley for a shekel** - It is implied that the Israelites will be paying less money for these item than they had been. This can be stated in active form. AT: "people will sell a measure of fine flour for a shekel and two measures of barley for a shekel" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a measure of fine flour ... two measures of barley** - Here the word "measure" translates the word "seah," which is a unit of dry measurement equal to about 7 liters. AT: "7 liters of fine flour ... 14 liters of barley" (See: [[:en:ta:vol2:translate:translate_bvolume]])
+  * **a shekel** - A shekel is a unit of weight equal to about 11 grams. AT: "about 11 grams of silver" or "one silver coin" (See: [[:en:ta:vol2:translate:translate_bmoney]])
+  * **the captain on whose hand the king leaned** - A high ranking captain who was the king's personal assistant is spoken of as if he was a person on whom the king leaned his hand. AT: "the captain who was close to the king" or "the captain who was the king's personal assistant" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **even if Yahweh should make windows in heaven** - Yahweh causing much rain to fall in order to make the crops grow is spoken of as if Yahweh were opening windows in heaven through which he pours down rain. AT: "even if Yahweh were to cause much rain to fall from heaven" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **can this thing happen?** - The captain asks this question to express his unbelief. This rhetorical question can be translated as a  statement. AT: "this could never happen!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **you will watch it happen with your own eyes** - The phrase "with your own eyes" emphasizes that the captain will certainly see the things that Elisha prophesied. AT: "you yourself will watch these things happen" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **but you will not eat any of it** - "but you will not eat any of the flour or barely"
  
 ===== Links: =====
 
@@ -59,6 +61,6 @@
   * [[:en:bible:questions:comprehension:2ki:07]]
 **[[:en:bible:notes:2ki:06:32|<<]] | [[:en:bible:notes:2ki:07:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

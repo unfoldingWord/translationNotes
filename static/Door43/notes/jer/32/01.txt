@@ -43,8 +43,10 @@
 ===== translationNotes: =====
 
   * **This is the word that came to Jeremiah from Yahweh** - "This is what Yahweh said to Jeremiah"
-  * **was imprisoned in the courtyard of the guard** - "They put him in the prison in the courtyard of the guard" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the courtyard of the guard at the house of the king of Judah** - This was an open area attached to the king's palace.
+  * **in the tenth year of Zedekiah king of Judah, the eighteenth year of Nebuchadnezzar** - "nine years after Zedekiah had bcome king of Judah and seventeen years after Nebuchadnezzar had become king"
+  * **Jeremiah the prophet was imprisoned** - This can be translated in active form. AT: "they were keeping Jeremiah as a prisoner" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Jeremiah the prophet was imprisoned** - It is not clear why Jeremiah is referring to himself by name here. You may translate using first person, as the UDB does. (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **the courtyard of the guard at the house of the king of Judah** - This was an open area attached to the king's palace that was surrounded by buildings and in which they kept prisoners.
 
 ===== Links: =====
 
@@ -53,6 +55,6 @@
   * [[:en:bible:questions:comprehension:jer:32]]
 **[[:en:bible:notes:jer:31:38|<<]] | [[:en:bible:notes:jer:32:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

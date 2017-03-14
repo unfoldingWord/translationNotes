@@ -23,14 +23,13 @@
 <usfm>
 \v 11 But those who are humble will live safely in their land.
 \q2 They will happily enjoy living peacefully and having the other good things that Yahweh gives them.
-\b
 \q1
 \v 12 Wicked people plan to harm righteous people;
 \q2 they snarl at them like wild animals.
 \q1
 \v 13 But Yahweh laughs at them
 \q2 because he knows that someday he will judge and punish the wicked people.
-\b
+
 
 
 \q1
@@ -64,12 +63,12 @@
 
 ===== translationNotes: =====
 
-  * **the meek** - This refers to the people who are meek. (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **will inherit the land** - The possession of the land is spoken of it had been received as an inheritance. AT: "will receive the land as their own possession" or "will be allowed to live safely in the land." See how you translated this in [[:en:bible:notes:psa:037:008|37:9]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The wicked man** - This does not refer to a specific man. It refers to wicked men in general. (See: [[:en:ta:vol2:translate:figs_genericnoun]])
-  * **the righteous** - This refers to the people who are righteous. (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **gnashes his teeth against him** - The wicked man hates the righteous people so much that he grinds his teeth together to show his anger. (See: [[:en:ta:vol2:translate:writing_symlanguage]])
-  * **his day is coming** - It is implied that "his day" will be a day judgment. AT: "the day is coming when Yahweh will judge and punish him" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the meek** - This refers to the people who are meek. AT: "the meek people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **will inherit the land** - The possession of the land is spoken of as if it will be received as an inheritance. See how you translated this in [[:en:bible:notes:psa:037:008|37:9]]. AT: "will receive the land as their own possession" or "will live safely in the land" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The wicked man** - This does not refer to a specific man. It refers to wicked people in general. AT: "The wicked person" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **the righteous** - This does not refer to specific people. This refers to people who are righteous. AT: "the righteous person" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **gnashes his teeth** - The wicked man hates the righteous person so much that he grinds his teeth together to show his anger. (See: [[:en:ta:vol2:translate:writing_symlanguage]])
+  * **his day is coming** - It is implied that "his day" will be a day of judgment. AT: "the day is coming when Yahweh will judge and punish him" or "the day is coming when Yahweh will judge and punish the wicked person" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -80,6 +79,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book1 meek}}
+{{tag>publish p2pass book1 meek}}
 
 ~~NOCACHE~~

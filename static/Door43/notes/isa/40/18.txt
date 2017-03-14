@@ -32,7 +32,6 @@
 \q2 so he selects a piece of wood that will not rot,
 \q1 and he gives it to a craftsman
 \q2 to carve an idol that will not fall over!
-\b
 
 
 \q1
@@ -41,11 +40,10 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 18 To whom then will you compare God? To what idol will you liken him?
 \q1
-\v 19 An idol! A craftsman casts it: the goldsmith overlays it with gold 
+\v 19 An idol! A craftsman casts it: the goldsmith overlays it with gold
 \q1 and forges silver chains for it.
 \q1
 \v 20 To make an offering one chooses a wood that will not rot;
@@ -62,9 +60,10 @@
 
 ===== translationNotes: =====
 
-  * **To whom then will you compare God? To what idol will you liken him?** - Isaiah uses questions to mock the idols that the people worship. AT: "There is no one that compares to God and no idol that can represent him." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **you** - This is plural and refers to all of God's people. (See: [[:en:ta:vol1:translate:figs_youdual]])
-  * **A craftsman casts it: the goldsmith overlays it with gold and forges silver chains for it** - "A skilled worker forms it, another covers it with gold, and makes a silver chain for it."
+  * **To whom then will you compare God? To what idol will you liken him?** - Isaiah uses two similar questions to emphasize that there is no idol that can compare with God. AT: "There is no one to whom you can compare God. There is no idol to which you can liken him." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **you** - This is plural and refers to all of God's people. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **A craftsman casts it: the goldsmith overlays it with gold and forges silver chains for it** - "A skilled worker forms it, another covers it with gold, and makes a silver chain for it"
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -72,6 +71,6 @@
   * [[:en:bible:questions:comprehension:isa:40]]
 **[[:en:bible:notes:isa:40:15|<<]] | [[:en:bible:notes:isa:40:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

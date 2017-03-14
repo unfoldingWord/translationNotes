@@ -33,11 +33,17 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:god]]
+  * [[:en:obe:other:balaam]]
+  * [[:en:obe:other:moab]]
+  * [[:en:obe:other:egypt]]
+
+
 
 ===== translationNotes: =====
 
   * **God came to Balaam** - "God appeared to Balaam"
   * **Who are these men who came to you?** - Yahweh uses a question to introduce a new topic of conversation. This rhetorical question can be translated as a statement. AT: "Tell me about these men who came to you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Balak ... Zippor** - These are the names of men. See how you translated these in [[:en:bible:notes:num:22:02|22:2]].
   * **Look, the people ... drive them out** - Balaam restates the message that Balak sent to him. See how you translated many of these phrases in [[:en:bible:notes:num:22:05|22:5-6]].
   * **drive them out** - "chase them away"
 ===== Links: =====
@@ -47,6 +53,6 @@
   * [[:en:bible:questions:comprehension:num:22]]
 **[[:en:bible:notes:num:22:07|<<]] | [[:en:bible:notes:num:22:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

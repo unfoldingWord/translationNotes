@@ -30,7 +30,7 @@
 <usfm>
 \v 6 Ezra gave thanks to Yahweh, the great God, and all the people lifted up their hands and answered, "Amen! Amen!" Then they bowed their heads and worshiped Yahweh with their faces to the ground.
 \v 7 Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah—the Levites—helped the people understand the law, while the people remained in their place.
-\f + \ft Most modern versions, including the ULB and UDB, translate so as to identify as Levites all the persons named in this verse. However, some modern versions translate so as to put \fqa the Levites \fqb in the same list as the individuals first named. \f* 
+\f + \ft Most modern versions, including the ULB and UDB, translate so as to identify as Levites all the persons named in this verse. However, some modern versions translate so as to put \fqa the Levites \fqb in the same list as the individuals first named. \f*
 \v 8 They read in the book, The Law of God, making it clear with interpretation and giving the meaning so the people understood the reading.
 </usfm>
 
@@ -48,8 +48,11 @@
   * [[:en:obe:kt:lawofmoses]]
 ===== translationNotes: =====
 
-  * **Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah** - These are all male names. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **They read in the book, The Law of God, making it clear with interpretation and giving the meaning so the people understood the reading** - The sole purpose of the people was met in a very personal way. Levites answered questions and gave clarifying comments. 
+  * **Ezra gave thanks to Yahweh** - The abstract noun "thanks" can be translated as a verb. AT: "Ezra thanked Yahweh" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah** - These are all names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **They read in the book** - The word "They" here refers to the Levites.
+  * **making it clear with interpretation and giving the meaning** - The abstract nouns "interpretation" and "meaning" can be translated as verbs. AT: "clearly interpreting and explaining it" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the reading** - "what was read"
  
 ===== Links: =====
 
@@ -64,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

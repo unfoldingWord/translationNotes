@@ -36,7 +36,7 @@
   * **the man from whom it was bought** - This can be stated in active form. AT: "the man who sold it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **All the valuations must be set** - This can be stated in active form. AT: "The priests must determine the estimated values" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **by the weight of the sanctuary shekel** - There were shekels of different weights. This is the one that people had to use in the sanctuary of the sacred tent. (See: [[:en:ta:vol2:translate:translate_bweight]])
-  * **Twenty gerahs must be the equivalent of one shekel** - The purpose of this sentence is to tell how much the sanctuary shekel weighs. The gerah was the smallest unit of weight that the Israelites used. AT: "One shekel must equal twenty gerahs." (See: [[:en:ta:vol2:translate:translate_bweight]])
+  * **Twenty gerahs must be the equivalent of one shekel** - The purpose of this sentence is to tell how much the sanctuary shekel weighs. The gerah was the smallest unit of weight that the Israelites used. AT: "One shekel must equal twenty gerahs" (See: [[:en:ta:vol2:translate:translate_bweight]])
   * **Twenty gerahs must be the equivalent of one shekel** - If it is necessary to use modern weight units, here is a way to do it. AT: "One shekel must weigh ten grams"  (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_bweight]])
 ===== Links: =====
 
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:lev:27]]
 **[[:en:bible:notes:lev:27:22|<<]] | [[:en:bible:notes:lev:27:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check p2example}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

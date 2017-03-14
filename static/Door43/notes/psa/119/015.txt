@@ -36,7 +36,6 @@
 \q
 \v 16 I delight in your statutes;
 \q I will not forget your word.
-\b
 </usfm>
 
 
@@ -47,9 +46,9 @@
 
 ===== translationNotes: =====
 
-  * **I will meditate ... and pay attention** These are parallel thoughts that have similar meanings. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **I will meditate ... and pay attention** These are parallel thoughts that have similar meanings, which are repeated for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **meditate on your instructions** - "think carefully about what you have instructed us"
-  * **pay attention** - This refers to thinking clearly about what is being discussed. AT: "give careful thought" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **pay attention** - This idiom refers to thinking clearly about what is being discussed. AT: "give careful thought" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **I delight** - to take pleasure
 ===== Links: =====
 
@@ -58,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:013|<<]] | [[:en:bible:notes:psa:119:017|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5 meditate}}
+~~DISCUSSION~~{{tag>publish p2pass book5 meditate}}
 
 ~~NOCACHE~~

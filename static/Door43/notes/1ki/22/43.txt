@@ -38,9 +38,10 @@
 
 ===== translationNotes: =====
 
-  * **walked in the ways of Asa, his father** - AT: "did the same things that Asa, his father, had done" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **what was right in the eyes of Yahweh** - AT: "what Yahweh considered to be right" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **the high places were not taken away** - This can be stated in active form. AT: "he still did not take away the high places" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **He walked in the ways of Asa, his father** - A person's behavior is spoken of as if that person walked along a path. AT: "He did the same things that Asa, his father, had done" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **what was right in the eyes of Yahweh** - Here "eyes" represents seeing and Yahweh's opinion is spoken of as if he were able to see something. AT: "what Yahweh considered to be right" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the high places were not taken away** - This can be stated in active form. AT: "he did not take away the high places" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -48,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:22]]
 **[[:en:bible:notes:1ki:22:41|<<]] | [[:en:bible:notes:1ki:22:45|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

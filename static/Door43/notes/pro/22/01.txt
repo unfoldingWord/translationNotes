@@ -19,12 +19,10 @@
 
 <usfm>
 \v 1 Being a person who keeps his word is more important than having great riches,
-\q2 and being a person who everyone respects for doing right, is better than having silver and gold. 
-\b
+\q2 and being a person who everyone respects for doing right, is better than having silver and gold.
 \q1
 \v 2 People who are rich and people who are poor have at least one thing in common—
 \q2 Yahweh made both of them.
-\b
 
 
 \q1
@@ -39,7 +37,7 @@
 \v 1 A good name is to be chosen over great riches
 \q and favor is better than silver and gold.
 \q
-\v 2 Rich and poor people have this in common— 
+\v 2 Rich and poor people have this in common—
 \q Yahweh is the maker of all of them.
 </usfm>
 
@@ -55,11 +53,9 @@
 
 ===== translationNotes: =====
 
-  * **A good name is ... and favor is better** - These two lines say basically the same thing and are repeated to emphasize how important this is. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **A good name is to be chosen over great riches** - "A person should choose a good reputation over great riches" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **have this in common** - "share the fact that"
-
- 
+  * **A good name is to be chosen over great riches** - These words can be translated in active form. AT: "A person should choose a good name rather than great riches" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **A good name** - "To have others think that one is a good person"
+  * **have this in common** - "are alike in one way" or "are the same in this way"
  
 ===== Links: =====
 
@@ -74,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

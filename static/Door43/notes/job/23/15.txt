@@ -22,8 +22,8 @@
 \q1
 \v 16 Almighty God has made me very afraid.
 \q1
-\v 17 It is as though there were only thick darkness in front of me,
-\q2 but it is God who destroys me, not the darkness."
+\v 17 The thick darkness in front of me has not make me silent,
+\q2 even that terrible darkness that covers my face has not kept me from speaking."
 </usfm>
 
 
@@ -37,8 +37,8 @@
 \v 16 For God has made my heart weak;
 \q the Almighty has terrified me.
 \q
-\v 17 It is not that I have been cut off by darkness,
-\q nor does the thick darkness cover my face.
+\v 17 I have not been brought to an end by darkness,
+\q because of the thick darkness that covers the gloom of my face.
 </usfm>
 
 
@@ -54,13 +54,14 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues speaking. Each of these verses has the form of a parallelism to emphasize the main point Job makes there. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Connecting Statement:** - Job continues speaking.
+  * **General Information:** - Each of these verses has the form of a parallelism to emphasize the main point Job makes there. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **For God has made my heart weak; the Almighty has terrified me** - These two lines mean basically the same thing and emphasize how afraid Job is of God. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **made my heart weak** - A person whose heart is weak is a person who is timid or fearful. AT: "made me afraid." (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **It is not that I have been cut off by darkness** - "I have not been destroyed by darkness" or "It is not darkness that has cut me off" AT: "God has cut me off, not the darkness" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **nor does the thick darkness cover my face** - AT: "nor am I cut off because the thick darkness covers my face" or "nor does the thick darkness cover my face, but God has cut me off" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **my face** - AT: "me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **For God has made my heart weak; the Almighty has terrified me** - These two lines mean basically the same thing and emphasize that Job is very afraid of God. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **made my heart weak** - A person whose heart is weak is a person who is timid or fearful. AT: "made me afraid" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **I have not been brought to an end by darkness** - This can be stated in active form. Possible meanings are 1) AT: "The thick darkness in front of me has not made me silent" (UDB) or 2) AT: "It is not darkness that has cut me off" or "God has cut me off, not the darkness." (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **my face** - This refers to Job. AT: "me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+
 
 ===== Links: =====
 
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:23]]
 **[[:en:bible:notes:job:23:13|<<]] | [[:en:bible:notes:job:24:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -30,8 +30,8 @@
 
 <usfm>
 \q1
-\v 3 You have multiplied the nation, you have increased their joy; 
-\q1 they rejoice before you like the joy at harvest time, 
+\v 3 You have multiplied the nation; you have increased their joy.
+\q1 They rejoice before you like the joy at harvest time,
 \q1 as men rejoice when they divide the plunder.
 </usfm>
 
@@ -44,10 +44,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe the time when God will save the people of Israel. Although these events would happen in the future, Isaiah describes them as if they already happened. This emphasizes that they certainly will happen. (See: [[:en:bible:notes:isa:09:01|9:1-2]])
+  * **General Information:** - Isaiah continues to describe the time when God will save the people of Israel. Although these events will happen in the future ([[:en:bible:notes:isa:09:01|9:1]]), Isaiah describes them as if they have already happened. This emphasizes that they certainly will happen. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
 
-  * **You have multiplied the nation, you have increased their joy** - The word "you" refers to Yahweh. The word "their" refers to the people of Israel, but Isaiah includes himself as part of Israel. AT: "Lord, you will greatly increase our people and our joy" (See: [[:en:ta:vol1:translate:figs_yousingular]])
-  * **they rejoice before you like the joy at harvest time, as men rejoice when they divide the plunder** - "they will rejoice before you like when people gather their crops or like when a battle is over and soldiers divide what they took" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **You have multiplied the nation; you have increased their joy** - The word "you" refers to Yahweh. The word "their" refers to the people of Israel, but Isaiah includes himself as part of Israel. AT: "Lord, you will greatly increase our people and our joy" (See: [[:en:ta:vol1:translate:figs_yousingular]])
+  * **They rejoice before you like the joy at harvest time, as men rejoice when they divide the plunder** - "They will rejoice before you as people rejoice when they gather their crops or when a battle is over and soldiers divide what they took" (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:isa:09]]
 **[[:en:bible:notes:isa:09:01|<<]] | [[:en:bible:notes:isa:09:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

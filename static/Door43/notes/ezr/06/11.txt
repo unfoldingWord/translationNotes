@@ -26,7 +26,7 @@
 
 <usfm>
 \v 11 I am ordering that if anyone violates this decree, a beam must be pulled from his house and he must be impaled on it. His house must then be turned into a rubbish heap because of this.
-\v 12 May the God who lives there overthrow any king and people who violates this house of God in Jerusalem. I, Darius, am ordering this. Let it be done diligently!"
+\v 12 May the God who has caused his name to dwell there overthrow any king or people who lifts a hand to change this decree, or to destroy this house of God in Jerusalem. I, Darius, am ordering this. Let it be done with diligence!"
 </usfm>
 
 
@@ -38,9 +38,13 @@
   * [[:en:obe:other:darius]]
 ===== translationNotes: =====
 
+  * **General Information:** - This continues the record of King Cyrus's command that the Jews rebuild God's temple in Jerusalem, which began in [[:en:bible:notes:ezr:06:03|6:3]].
+
+  * **a beam must be pulled from his house and he must be impaled on it. His house must then be turned into a rubbish heap** - This can be translated in active form. AT: "I command my officials to pull a beam from his house and impale him on it. They are then to turn his house into a rubbish heap" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **beam** - a long, sturdy piece of wood, supporting the roof of a house
   * **impaled** - pierced through
-  * **May the God ... overthrow any king ... who violates this house of God** - Though Darius knows that God does not need Darius to defend His house, Darius seeks to be on God's side in support of the temple.
+  * **who lifts a hand to change ... or to destroy** - Lifting the hand represents trying or daring to do something. AT: "who tries to change ... or to destroy"  or "who dares to change ... or to destroy" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to change this decree** - The abstract noun "decree" can be expressed with the phrase "what I have decreed." AT: "to change what I have decreed" or "to say that I have decreed something else" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -52,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

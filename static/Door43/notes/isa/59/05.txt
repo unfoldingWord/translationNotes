@@ -34,10 +34,10 @@
 
 <usfm>
 \q1
-\v 5 They hatch eggs of a poisonous snake and weave a spider's web. 
+\v 5 They hatch eggs of a poisonous snake and weave a spider's web.
 \q1 Whoever eats of their eggs dies, and if an egg is crushed, it hatches into a poisonous snake.
 \q1
-\v 6 Their webs cannot be used for garments, nor can they cover themselves with their works. 
+\v 6 Their webs cannot be used for garments, nor can they cover themselves with their works.
 \q1 Their works are works of sin, and deeds of violence are in their hands.
 </usfm>
 
@@ -51,13 +51,15 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues speaking to the people of Israel.
+  * **General Information:** - Isaiah continues speaking to the people of Israel about the evil they do using the metaphors of poisonous snakes and spider's webs.
 
-  * **They hatch eggs of a poisonous snake ... weave a spider's web** - The people of Judah were so wicked that they made plans to endanger and harm others. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Whoever eats of their eggs dies, and if an egg is crushed, it hatches into a poisonous snake** - This means the wicked people's sins will always harm other people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **They hatch eggs of a poisonous snake** - Eggs of a poisonous snake hatch into more dangerous snakes. "Poisonous snakes" represents evil the people do that harms more and more. AT: "They make evil that spreads out to make more evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **weave a spider's web** - This represents the deeds of the people that are useless. AT: "produce things and activities that are useless" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Whoever eats of their eggs dies, and if an egg is crushed, it hatches into a poisonous snake** - Eating a poisonous egg will kill the one that eats it and represents self-destruction. Breaking the egg allows the young poisonous snake to hatch and represents spreading destruction. AT: "The activities they do will destroy them and will spread destruction to others" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **if an egg is crushed** - This can be stated in active form. AT: "if someone crushes an egg" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Their webs cannot be used for garments, nor can they cover themselves with their works** - This means their sinful deeds cannot be covered and hidden, just as a web cannot serve as clothing and cover someone. Their evil deeds will be exposed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Their webs cannot be used for garments** - "They cannot clothe themselves with their webs" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Their webs cannot be used for garments, nor can they cover themselves with their works** - This means their sinful deeds cannot be covered and hidden, just as a web cannot serve as clothing and cover someone. AT: "Their evil deeds will be exposed as useless" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Their webs cannot be used for garments** - This can be stated in active form. AT: "They cannot clothe themselves with their webs" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **deeds of violence are in their hands** - "Hands" represents the ability and power to do these things and therefore their responsibility. AT: "they are fully responsible for the violence they do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -66,6 +68,6 @@
   * [[:en:bible:questions:comprehension:isa:59]]
 **[[:en:bible:notes:isa:59:03|<<]] | [[:en:bible:notes:isa:59:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

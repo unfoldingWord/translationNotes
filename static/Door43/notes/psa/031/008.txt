@@ -19,7 +19,6 @@
 <usfm>
 \v 8 You have not allowed my enemies to capture me;
 \q2 instead, you have rescued me from danger.
-\b
 \q1
 \v 9 But now, Yahweh, act kindly toward me
 \q2 because I am distressed.
@@ -59,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:031]]
 **[[:en:bible:notes:psa:031:005|<<]] | [[:en:bible:notes:psa:031:010|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check body}}
+~~DISCUSSION~~{{tag>publish p2pass body}}
 
 ~~NOCACHE~~

@@ -36,7 +36,9 @@
 
 ===== translationNotes: =====
 
-  * **Ishmael ... Nebuzaradan ... Gedaliah ... Ahikam ... Nethaniah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ishmael captured** - Here Ishmael represents his men. AT: "Ishmael and his men captured" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Nebuzaradan** - Translate this man's name as in [[:en:bible:notes:jer:39:08|39:9]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **went to cross over to the people of Ammon** - "traveled towards the land of the Ammonites"
  
  
 ===== Links: =====
@@ -52,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

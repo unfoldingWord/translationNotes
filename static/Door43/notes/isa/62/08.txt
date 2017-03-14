@@ -30,7 +30,6 @@
 \q2 and you will be the ones who will praise me, Yahweh, while you eat the bread made from the grain.
 \q1 Inside the courtyards of my temple,
 \q2 you yourselves will drink the wine made from the grapes that you harvested."
-\b
 
 
 \q1
@@ -41,11 +40,11 @@
 
 <usfm>
 \q1
-\v 8 Yahweh has sworn by his right hand and by the arm of his strength, 
-\q1 "Surely I will no longer give your grain as food for your enemies. 
+\v 8 Yahweh has sworn by his right hand and by the arm of his strength,
+\q1 "Surely I will no longer give your grain as food for your enemies.
 \q1 Foreigners will not drink your new wine, for which you have worked.
 \q1
-\v 9 For those who harvest the grain will eat it and praise Yahweh, 
+\v 9 For those who harvest the grain will eat it and praise Yahweh,
 \q1 and those who pick the grapes will drink the wine in the courts of my holy sanctuary."
 </usfm>
 
@@ -65,8 +64,11 @@
 
 ===== translationNotes: =====
 
-  * **by his right hand and by the arm of his strength** - This shows God will surely fulfill what he says. AT: "by his power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Surely I will no longer give your grain as food for your enemies** - This means God will not let the enemy conquer the people of Israel and take their grain. Perhaps the enemy took the grain in the past as a tax or to feed their own armies.
+  * **by his right hand and by the arm of his strength** - The right hand and arm represent power and authority. AT: "by his power and authority" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Surely I will no longer give your grain as food for your enemies** - This means Yahweh will not let enemies conquer the people of Israel and take their grain anymore. Perhaps enemies took the grain in the past as a tax or to feed their own armies.
+  * **I will no longer give your grain as food for your enemies ... Foreigners will not drink your new wine** - These statements are set together for emphasis and completion. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **those who harvest the grain ... those who pick the grapes** - These statements are set together for emphasis and completion. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+
 
 ===== Links: =====
 
@@ -75,6 +77,6 @@
   * [[:en:bible:questions:comprehension:isa:62]]
 **[[:en:bible:notes:isa:62:06|<<]] | [[:en:bible:notes:isa:62:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

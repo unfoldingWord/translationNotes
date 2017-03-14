@@ -47,9 +47,15 @@
 
 ===== translationNotes: =====
 
-  * **all peoples, nations, and languages** - This phrase is using the word "all" to represent a large number. AT: "a great number of people, of different nations and languages" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **trembled and feared** - These words mean basically the same thing and emphasize the intensity of the fear. AT: "were very afraid of him" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **He put to death those he wanted to die** - This phrase does not mean king Nebuchadnezzar put people to death himself, but rather those he commanded. AT: "Nebuchadnezzar commanded his soldiers to kill those he wanted to die" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Let your gifts be for yourself, and** - "I do not want your gifts, so"
+  * **all peoples, nations, and languages** - This phrase uses the word "all" as a generalization that represents a large number. AT: "a great number of people, of different nations and languages," (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **peoples, nations, and languages** - Here "nations" and "languages" represent people from different nations who speak different languages. See how you translated this in [[:en:bible:notes:dan:03:03|3:4]]. AT: "people from different nations and who speak different languages" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **trembled and feared him** - These words mean basically the same thing and emphasize the intensity of the fear. AT: "were very afraid of him" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **He put to death those he wanted to die** - This phrase does not mean King Nebuchadnezzar put people to death himself, but rather those he commanded. AT: "Nebuchadnezzar commanded his soldiers to kill those he wanted to die" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **He raised up those he wanted** - "He raised up those he wanted to raise up"
+  * **wanted ... wished** - These words here mean the same thing.
+  * **he humbled those he wished** - "he humbled those he wished to humble"
+
 
 ===== Links: =====
 
@@ -58,6 +64,6 @@
   * [[:en:bible:questions:comprehension:dan:05]]
 **[[:en:bible:notes:dan:05:15|<<]] | [[:en:bible:notes:dan:05:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

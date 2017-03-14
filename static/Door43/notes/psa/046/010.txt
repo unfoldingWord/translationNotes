@@ -21,7 +21,6 @@
 \v 10 God says, "Be quiet and remember that I am God!
 \q2 People of all nations will honor me.
 \q2 People all over the earth will honor me."
-\b
 \q1
 \v 11 So never forget that Yahweh, commander of the angel armies, is with us;
 \q2 the God whom Jacob worshiped is our refuge.
@@ -36,7 +35,7 @@
 \q I will be exalted among the nations; I will be exalted on the earth.
 \q
 \v 11 Yahweh of hosts is with us;
-\q the God of Jacob is our refuge. 
+\q the God of Jacob is our refuge.
 \qs Selah\qs*
 </usfm>
 
@@ -67,6 +66,6 @@
   * [[:en:bible:questions:comprehension:psa:046]]
 **[[:en:bible:notes:psa:046:008|<<]] | [[:en:bible:notes:psa:047:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

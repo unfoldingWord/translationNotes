@@ -21,7 +21,7 @@
 <usfm>
 \p
 \v 17 So King Ahaziah died according to the word of Yahweh that Elijah had spoken. Joram began to reign in his place, in the second year of Jehoram son of Jehoshaphat king of Judah, because Ahaziah had no son.
-\v 18 As for the other matters concerning Ahaziah, are they not written in The Book of the Events of the Kings of Israel?
+\v 18 As for the other matters concerning Ahaziah, are they not written in the book of the events of the kings of Israel?
 </usfm>
 
 ===== translationWords: =====
@@ -34,8 +34,10 @@
   * [[:en:obe:other:written]]
 ===== translationNotes: =====
 
-  * **according to the word of Yahweh that Elijah had spoken** - AT "just as Elijah had prophesied" 
-  * **are they not written ... Israel?** - "they are written ... Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the word of Yahweh that Elijah had spoken** - "what Yahweh had told Elijah that Elijah had spoken"
+  * **second year** - "2nd year" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the second year of Jehoram son of Jehoshaphat king of Judah** - This describes the time that Joram began to reign by stating how long the current king of Judah had reigned. AT: "in the second year that Jehoram son of Jehoshaphat was king of Judah" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **are they not written ... Israel?** - This rhetorical question can be written as a statement. AT: "they are written ... Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -44,6 +46,6 @@
   * [[:en:bible:questions:comprehension:2ki:01]]
 **[[:en:bible:notes:2ki:01:15|<<]] | [[:en:bible:notes:2ki:02:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit jehoshaphat joram}}
+~~DISCUSSION~~{{tag>publish p2pass jehoshaphat joram}}
 
 ~~NOCACHE~~

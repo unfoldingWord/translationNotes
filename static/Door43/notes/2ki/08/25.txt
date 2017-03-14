@@ -42,12 +42,15 @@
 
   * **General Information:** - Ahaziah becomes king of Judah.
 
-  * **In the twelfth year of Joram** - "In year 12 of the reign of Joram king of Israel" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **twenty-two years old ... one year** - "22 years old ... 1 year" 
-  * **Athaliah ... Omri** - (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Ahaziah walked in the ways of** - "Ahaziah lived the same way as" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the house of Ahab** - "the family of Ahab;"
-  * **he did what was evil in the sight of Yahweh** - "he did what Yahweh thought was evil" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **In the twelfth year of Joram son of Ahab, king of Israel** - This describes the time that Ahaziah began to reign as king of Judah by stating how long Joram, the current king of Israel, had reigned. AT: "in the twelfth year that Joram son of Ahab was king of Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **twelfth year** - "12th year" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **twenty-two years** - "22 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Athaliah ... Omri** - Athaliah is the name of a woman. Omri is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ahaziah walked in the ways of** - Here "walking" refers his behavior or the way in which he lived. AT: "Ahaziah lived the same way as the others in" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the house of Ahab** - Here the "house" of Ahab refers to his family. AT: "the family of Ahab" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he did what was evil in the sight of Yahweh** - Here Yahweh's "sight" represents what he thinks. AT: "he did things that Yahweh considered to be evil" or "he did things that Yahweh said were evil" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a son-in-law to the house of Ahab** - This explains Ahaziah's family relationship to Ahab. Ahaziah's father was married to Ahab's daughter. The meaning of this can be made clear. AT: "the son of Ahab's son-in-law" or "a grandson of King Ahab" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 
 
 ===== Links: =====
@@ -57,6 +60,6 @@
   * [[:en:bible:questions:comprehension:2ki:08]]
 **[[:en:bible:notes:2ki:08:22|<<]] | [[:en:bible:notes:2ki:08:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

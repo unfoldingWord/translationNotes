@@ -36,9 +36,9 @@
 ===== translationNotes: =====
 
   * **So they searched** - "So the king's servants searched"
-  * **within all the borders of Israel** - "in all of Israel" or "throughout Israel"
-  * **Abishag the Shunammite** - "Abishag from Shunem" (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Shunammite** - a person from the city of Shunem
+  * **within all the borders of Israel** - This is a generalization. AT: "all over the land of Israel" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **Abishag** - This is a woman's name. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Shunammite** - a person from the city of Shunem (See: [[:en:ta:vol1:translate:translate_names]])
   * **the king** - "King David"
 ===== Links: =====
 
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:1ki:01]]
 **[[:en:bible:notes:1ki:01:01|<<]] | [[:en:bible:notes:1ki:01:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

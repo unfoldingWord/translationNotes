@@ -20,7 +20,7 @@
 \p
 \v 9 But the woman replied, "You surely know what Saul has done. He expelled from this land all the people who talk to spirits of dead people and all fortune tellers. I think that you are trying to trap me, in order that I will be executed for doing something that is not permitted."
 \p
-\v 10 Saul replied, solemnly asking Yahweh to listen to what he was saying, "Just as surely as Yahweh lives, you will not be punished for doing this."
+\v 10 Saul replied, solemnly asking Yahweh to listen to what he was saying, "Just as surely as Yahweh is alive, you will not be punished for doing this."
 
 
 \p
@@ -31,7 +31,7 @@
 
 <usfm>
 \p
-\v 8 Saul disguised himself, put on other clothing, and went, he and two men with him; they went to the woman by night. He said, "Divine to me, I beg you, by talking with the dead, and bring me up whomever I name to you."
+\v 8 Saul disguised himself, put on other clothing, and went, he and two men with him; they went to the woman by night. He said, "Divine for me, I beg you, with a spirit, and bring me up whomever I name to you."
 \v 9 The woman said to him, "See, you know what Saul has done, how he has banned from the land those who talk with the dead or with spirits. So why are you setting a trap for my life, to make me die?"
 \v 10 Saul swore to her by Yahweh and said, "As Yahweh lives, no punishment will happen to you for this thing."
 </usfm>
@@ -50,8 +50,11 @@
 
 ===== translationNotes: =====
 
-  * **disguised** - changed his usual appearance, so as not to be recognized
-
+  * **Saul disguised himself ... and went ... to the woman by night** - Saul disguised himself because the way from Gilboa ([[:en:bible:notes:1sa:28:03|28:4]]) to Endor ([[:en:bible:notes:1sa:28:05|28:7]]) was through land that the Philistines were living in. He traveled all day and reached the woman after the sun had gone down.
+  * **disguised** - changed his usual appearance no one would know who he was
+  * **Divine for me ... with a spirit** - "Talk to the dead for me"
+  * **those who talk with the dead or with spirits** - The words "those who talk with the dead" translate as one word in the original language, and the words "those who ... talk with spirits" also translate as one word in the original language. If your language has one word for those who talk with the dead and one word for those who talk with spirits, or if your language has only one word for those who talk with the dead and with spirits, you should use those words here. Similar words appear in [[:en:bible:notes:1sa:28:03|28:3]].
+  * **my life** - The word "life" is a metonym for the person. AT: "me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -60,6 +63,6 @@
   * [[:en:bible:questions:comprehension:1sa:28]]
 **[[:en:bible:notes:1sa:28:05|<<]] | [[:en:bible:notes:1sa:28:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

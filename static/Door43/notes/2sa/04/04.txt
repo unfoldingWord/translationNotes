@@ -35,10 +35,13 @@
 
 ===== translationNotes: =====
 
-  * **five years old** - This was the age of Jonathan's son at the time of his father's death. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **General Information:** - This verse pauses the main story to provide background information about Mephibosheth, a descendent of Saul through Jonathan instead of through Ishbosheth. Mephibosheth will become an important character later in the book. (See: [[:en:ta:vol2:translate:writing_background]] and [[:en:ta:vol2:translate:writing_participants]])
+
   * **crippled in his feet** - This phrase means "unable to walk." 
-  * **nurse** - This is a woman or girl who is hired to look after young children.
-  * **became lame** - This indicates that Mephibosheth was further injured so he was unable to walk.
+  * **five years old** - This was the age of Jonathan's son at the time of his father's death. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **the news about Saul and Jonathan** - This refers to the news about their death.
+  * **nurse** - This is a woman or girl who is hired to care for young children.
+  * **became lame** - This explains how Mephibosheth was injured so he was unable to walk.
   * **Mephibosheth** - This is the name of Jonathan's young son, the grandson of Saul. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
@@ -47,6 +50,6 @@
   * [[:en:bible:questions:comprehension:2sa:04]]
 **[[:en:bible:notes:2sa:04:01|<<]] | [[:en:bible:notes:2sa:04:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

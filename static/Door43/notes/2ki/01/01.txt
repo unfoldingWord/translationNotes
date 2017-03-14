@@ -12,7 +12,7 @@
 
 <usfm>
 \v 1 After King Ahab died, the country of Moab rebelled against Israel.
-\v 2 One day, Ahaziah, the new king of Israel, fell through the wooden slats in his upstairs room and was injured. So he sent for his messengers and commanded them, "Go and ask of Baalzebub, the god of Ekron, whether or not I will recover from this injury."
+\v 2 One day, Ahaziah, the new king of Israel, fell through the wooden slats in his upstairs room and was injured. So he sent for his messengers and commanded them, "Go and ask of Baal Zebub, the god of Ekron, whether or not I will recover from this injury."
 
 
 \p
@@ -43,8 +43,8 @@
   * [[:en:obe:other:ekron]]
 ===== translationNotes: =====
 
-  * **the lattice in his upper chamber** - AT: "the wooden boards around the flat roof of his palace"
-  * **in Samaria** - Samaria was the capital city of Israel. AT "in his palace in his capital city of Samaria" 
+  * **Moab** - "The country of Moab"
+  * **the lattice in his upper chamber** - The upper room was built on the roof of the palace. The lattice was made of thin boards decoratively crossed over one another to form a balcony or window covering. AT: "the wooden boards around the flat roof of his palace" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **Baal Zebub** - (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:2ki:01]]
 **| [[:en:bible:notes:2ki:01:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit messenger}}
+~~DISCUSSION~~{{tag>publish p2pass messenger}}
 
 ~~NOCACHE~~

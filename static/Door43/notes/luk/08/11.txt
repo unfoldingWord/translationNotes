@@ -22,9 +22,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 Now this is what the parable means. The seed is the word of God.
-\v 12 The seeds that fell beside the road are people who have heard the word, but then the devil comes and takes away the word from their heart, so that they may not believe and be saved.
-\v 13 Then, the ones that fell on the rocky ground are people who, when they have heard the word, receive it with joy, but they do not have any roots; they only believe for a while, and then during a time of testing they fall away.
+\v 11 Now this is the meaning of the parable: the seed is the word of God.
+\v 12 The ones along the path are those who have heard, but then the devil comes and takes away the word from their hearts, so they may not believe and be saved.
+\v 13 The ones on the rock are those who, when they hear the word, receive it with joy. But they have no root; they believe for a while, and in a time of testing they fall away.
 </usfm>
 
 
@@ -43,13 +43,15 @@
 
   * **Connecting Statement:** - Jesus begins to explain the meaning of the parable of the soils to his disciples.
 
-  * **The seed is the word of God** - Jesus clearly states what the seed represents in the parable. (See: [[:en:ta:vol1:translate:figs_parables]])
-  * **The seeds that fell beside the road are people who** - This brief explanation assumes the reader knows the seed is the word of God. It may be necessary to add information to clarify this. AT: "The seeds that fell on the pathway show what happens when people" (UDB) (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **the devil comes and takes away the word from their heart** - This means that he causes them to forget the word of God that they have heard.
+  * **the seed is the word of God** - "the seed represents the word of God"
+  * **The ones along the path are** - "the seeds that fell along the path." Jesus speaks of what happens to the seeds as if he were speaking about the seeds themselves. AT: "What happens to the seeds along the path" or "The part of the parable about the seeds that fell along the path" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **are those who** - Jesus speaks of the seeds showing something about people as if the seeds were the people. AT: "show what happens to people who" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the devil comes and takes away the word from their hearts** - This means that he causes them to forget the word of God that they have heard.
   * **takes away** - In the parable this was a metaphor of a bird snatching away the seeds. Try to use words in your language that keep that image. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **so that they may not believe and be saved** - Since this is the devil's purpose, it can be translated as: AT: "because the devil thinks, 'They must not believe and they must not be saved'" or "so they will not believe with the result that God saves them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the ones that fell on the rocky ground are people who** - This brief explanation assumes the reader knows the seed is the word of God. It may be necessary to add information to clarify this. AT: "The seeds that fell on the rocky ground show what happens when people" (UDB) (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **during a time of testing** - "when they experience hardship"
+  * **so they may not believe and be saved** - Since this is the devil's purpose, it can be translated as: AT: "because the devil thinks, 'They must not believe and they must not be saved'" or "so they will not believe with the result that God saves them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the ones on the rock** - "the seeds that fell on the rocky soil." Jesus speaks of what happens to the seeds as if he were speaking about the seeds themselves. AT: "What happens to the seeds on the rocky soil" or "The part of the parable about the seeds that fell on the rocky soil" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the rock** - "the rocky soil"
+  * **in a time of testing** - "when they experience hardship"
   * **they fall away** - This idiom means "they stop believing" or "they stop following Jesus" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 

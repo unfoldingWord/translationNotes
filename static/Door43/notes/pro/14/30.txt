@@ -19,12 +19,10 @@
 
 <usfm>
 \v 30 Being at peace is good for the whole body,
-\q2 but having evil within, rots the bones. 
-\b
+\q2 but having evil within, rots the bones.
 \q1
 \v 31 The one who oppresses a poor person curses Yahweh who made him,
 \q2 but those who show favor to a poor person honor Yahweh.
-\b
 
 
 \q1
@@ -57,8 +55,8 @@
 ===== translationNotes: =====
 
 
-  * **A tranquil heart** - "A peaceful mindset" or "a mind that is at peace"
-  * **rots the bones** - Causes a person to be unhealthy in body and spirit. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **A tranquil heart** - "A peaceful mindset" or "An attitude that is at peace"
+  * **rots the bones** - The word "rots" represents the decay of a person and "bones" represents the whole person. AT: "causes a person to be unhealthy in body and spirit" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **The one who ... the one who** - "The person who ... the person who"
   * **curses** - This means to express a desire that bad things will happen to someone.
   * **the poor ... the needy** - "a poor person ... a needy person"
@@ -77,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

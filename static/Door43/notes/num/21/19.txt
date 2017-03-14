@@ -36,8 +36,9 @@
 
 ===== translationNotes: =====
 
+  * **Nahaliel ... Bamoth** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]]) 
   * **Mount Pisgah** - This is the name of a mountain. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **looks down on the wilderness** - This is a personification that speaks of the mountain as if it looks down like a person does. AT: "rises above the wilderness" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **looks down on the wilderness** - This is an idiom. It is a way of saying that the mountain is high, and speaks of the mountain as if it were a person who looks down to see the wilderness below him. AT: "rises above the wilderness" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_personification]])
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:num:21]]
 **[[:en:bible:notes:num:21:17|<<]] | [[:en:bible:notes:num:21:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

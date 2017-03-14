@@ -32,7 +32,7 @@
 <usfm>
 \q
 \v 29 Land, Land, Land! Hear the word of Yahweh!
-\q 
+\q
 \v 30 Yahweh says this, 'Write about this man Jehoiachin: He will be childless.
 \q He will not prosper during his days, and no one among his descendants will achieve success
 \q or ever again sit on David's throne and rule over Judah.'"
@@ -49,8 +49,10 @@
 
 ===== translationNotes: =====
 
-  * **Land, Land, Land** - Yahweh speaks his message to all the people of the land by calling out to the land where they live. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
-  * **Hear the word of Yahweh** - AT: "obey the word of Yahweh"
+  * **Land, Land, Land** - Yahweh speaks his message to all the people of the land by calling out to the land where they live. The title is repeated to call attention to the message. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
+  * **He will be childless** - Jehoiachin has several sons. This phrase, then, means it is as if he was childless. His children will not succeed him as king. "It will be as if he did not have any children" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **sit on David's throne** - Sitting on a throne is a metonym for ruling as king. AT: "become king" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 
 ===== Links: =====
 
@@ -59,6 +61,6 @@
   * [[:en:bible:questions:comprehension:jer:22]]
 **[[:en:bible:notes:jer:22:27|<<]] | [[:en:bible:notes:jer:23:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

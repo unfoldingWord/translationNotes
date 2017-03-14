@@ -25,8 +25,8 @@
 
 <usfm>
 \p
-\v 8 The people of Israel did just as Joshua commanded, and they picked up twelve stones from the middle of the Jordan, as Yahweh said to Joshua, they were set up in the same number as the tribes of the people of Israel. They carried them over with them to the place where they had spent the night and they set them down there.
-\v 9 Then Joshua set up twelve stones in the middle of the Jordan, in the place where the feet of the priests that carried the ark of the covenant stood. And the memorial is there to this day.
+\v 8 The people of Israel did just as Joshua commanded, and they picked up twelve stones from the middle of the Jordan, as Yahweh said to Joshua. They set the stones up according to the number of the tribes of the people of Israel. They carried the stones with them, over to the place where they camped and they set them down there.
+\v 9 Then Joshua set up twelve stones in the middle of the Jordan River, in the place where the feet of the priests that carried the ark of the covenant stood. The memorial is there to this day.
 </usfm>
 
 
@@ -44,10 +44,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Joshua and Israel continue to do as Yahweh commanded
+  * **General Information:** - Joshua and Israel continue to do as Yahweh commanded.
 
   * **they picked up twelve stones from the middle of the Jordan** - This refers to the twelve men picking up stones from the middle of the Jordan River bed. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **Then Joshua set up twelve stones in the middle of the Jordan** - These were twelve additional stones, not the stones that the twelve men carried from the river bed. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **The memorial is there to this day** - This means the memorial was there to the day that the author was writing this book.
  
 ===== Links: =====
 
@@ -62,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check p2example}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

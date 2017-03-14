@@ -28,7 +28,6 @@
 \q2 because soon you and your descendants will spread all over the land.
 \q1 They will force the people of other nations to leave where they are,
 \q2 and you will live again in the cities that people had previously abandoned.
-\b
 
 
 \q1
@@ -39,10 +38,10 @@
 
 <usfm>
 \q1
-\v 2 Make your tent larger and spread your tent curtains farther out, unsparingly; 
+\v 2 "Make your tent larger and spread your tent curtains farther out, unsparingly;
 \q1 lengthen your ropes and strengthen your stakes.
 \q1
-\v 3 For you will spread out to the right hand and to the left, 
+\v 3 For you will spread out to the right hand and to the left,
 \q1 and your descendants will conquer nations and resettle desolate cities.
 </usfm>
 
@@ -58,7 +57,9 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Jerusalem.
 
-  * **Make your tent larger ... strengthen your stakes** - This continues God's promise to increase the number of Israelites, and the use of "tent" recalls their former nomadic life. God is telling them to make room for an increased population and descendants. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Make your tent larger ... strengthen your stakes** - This continues the metaphor that began in [[:en:bible:notes:isa:54:01|54:1]]. Yahweh telling the people of Jerusalem to prepare because Yahweh will greatly increase their people is spoken of as if he is telling a woman to make her tent bigger to make room for many children. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **For you will spread out** - Here "you" is singular and refers to the barren woman. She represents all of her descendants. AT: "For you and your descendants will spread out" (See: [[:en:ta:vol1:translate:figs_you]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **will conquer nations** - Here "nations" represents the people. AT: "will conquer the people of other nations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:isa:54]]
 **[[:en:bible:notes:isa:54:01|<<]] | [[:en:bible:notes:isa:54:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

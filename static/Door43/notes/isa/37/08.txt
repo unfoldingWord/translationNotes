@@ -19,7 +19,7 @@
 \p
 \v 9 Soon after that, King Sennacherib received a report that King Tirhakah of Ethiopia was leading his army to attack them. So he sent other messengers to Hezekiah with a letter. In the letter he wrote this to Hezekiah:
 \p
-\v 10 "Do not allow your god, on whom you are relying, to deceive you by promising that he will keep my army from capturing Jerusalem.
+\v 10 "Do not allow your god, on whom you are relying, to deceive you by promising that he will keep my army from capturing Jerusalem."
 </usfm>
 
 
@@ -48,10 +48,12 @@
 
 ===== translationNotes: =====
 
-  * **the chief commander ... Lachish ... Sennacherib** - See how you translated these in [[:en:bible:notes:isa:36:01|36:1-2]].
-  * **Libnah** - A city in southern Judah. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Tirhakah** - This is the name of a man.
-  * **Jerusalem will not be given over into the hand of the king of Assyria** - This can be stated in active form. "Hand" refers to the king's military power. AT: "The king of Assyria and his army will not conquer you in Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Lachish** - Translate the name of this city the same as you did in [[:en:bible:notes:isa:36:01|36:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Sennacherib** - Translate this man's name the same as you did in  [[:en:bible:notes:isa:36:01|36:1]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Libnah** - This is a city in southern Judah. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Tirhakah king of Ethiopia and Egypt had mobilized to fight against him** - "Tirhakah" is the name of a man. He had mobilized his army so that they were ready to fight. The full meaning of this statement can be made clear. AT: "Tirhakah king of Ethiopia and Egypt had mobilized his army" (See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **to fight against him** - The word "him" represents Sennacherib. This phrase refers to fighting against Sennacherib's army. AT: "to fight against the army of Sennacherib" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Jerusalem will not be given into the hand of the king of Assyria** - This can be stated in active form. The word "hand" refers to the king's military power. AT: "The king of Assyria and his army will not conquer you in Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -66,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

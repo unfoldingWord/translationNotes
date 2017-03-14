@@ -28,7 +28,7 @@
 <usfm>
 \p
 \v 12 Then Joshua got up early in the morning, and the priests picked up the ark of Yahweh.
-\v 13 The seven priests carrying the seven trumpets of rams' horns in front of the ark of Yahweh, and walking steadily, they gave blasts on the trumpets. Armed soldiers were walking in front of them. But when the rear guard walked after the ark of Yahweh, then the trumpets gave out continual blasts.
+\v 13 The seven priests, who were carrying the seven trumpets of rams' horns in front of the ark of Yahweh, walked steadily and gave blasts on the trumpets. Armed soldiers were walking in front of them. But when the rear guard walked after the ark of Yahweh, then the trumpets gave out continual blasts.
 \v 14 They marched around the city one time the second day and returned to the camp. They did this for six days.
 </usfm>
 
@@ -43,9 +43,11 @@
   * [[:en:obe:other:sheep]]
 ===== translationNotes: =====
 
-  * **General Information:** - Israel continues to march around Jericho. 
-
-  * **They did this** - This phrase means, "Israel marched around Jericho once every day." 
+  * **seven priests ... seven trumpets** - "7 priests ... 7 trumpets" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **gave blasts on the trumpets** - This means that they blew into their trumpets, causing them to make loud noises, multiple times. AT: "continually sounded the trumpets loudly" or "blew into the ram's horn trumpets continually"
+  * **the second day** - the next day (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **They did this** - Israel marched around Jericho once every day.
+  * **six days** - "6 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -59,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

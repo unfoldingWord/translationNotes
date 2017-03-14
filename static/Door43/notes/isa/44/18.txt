@@ -26,9 +26,8 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 18 They do not know, nor do they understand, for their eyes are blind and cannot see , and their hearts cannot perceive.
+\v 18 They do not know, nor do they understand, for their eyes are blind and cannot see, and their hearts cannot perceive.
 </usfm>
 
 
@@ -40,8 +39,9 @@
 ===== translationNotes: =====
 
 
-  * **for their eyes are blind and cannot see** - Those who worship idols are spiritually blind. This means they cannot understand God's truth. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **for their eyes are blind and cannot see** - Yahweh speaks of those who cannot understand the foolishness of worshiping idols as if they were blind. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for their eyes are blind** - Here "their eyes" represents the whole person. AT: "for they are blind" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **their hearts cannot perceive** - Here the word "hearts" represent the minds and thoughts of the people. AT: "they cannot understand" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -56,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

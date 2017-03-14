@@ -13,8 +13,7 @@
 
 <usfm>
 \v 17 But they continued to urge him. Finally he was tired of saying "No," and he said, "Very well, send them." So fifty men searched for three days, but they did not find Elijah.
-\v 18 They returned to Jericho, and Elisha was still there. He said to them, "I told you that you should not go, because you would not find him!" 
-
+\v 18 They returned to Jericho, and Elisha was still there. He said to them, "I told you that you should not go, because you would not find him!"
 
 
 \p
@@ -32,8 +31,8 @@
   * [[:en:obe:other:shame]]
 ===== translationNotes: =====
 
-  * **urged Elisha until he was ashamed** - The sons of the prophets kept asking Elisha until he felt bad about saying no. 
-  * **Did I not say to you, 'Do not go'?** - AT: "I told you that you should not go, because you would not find him!" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **But when they urged Elisha until he was ashamed** - The sons of the prophets kept asking Elisha until he felt bad about saying "no." AT: "They kept asking Elisha until he felt bad for denying their request, so" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Did I not say to you, 'Do not go'?** - Elisha uses this rhetorical question to emphasize that he had told them previously what would happen. This can be written as a statement. AT: "I told you that you should not go, because you would not find him!" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -42,6 +41,6 @@
   * [[:en:bible:questions:comprehension:2ki:02]]
 **[[:en:bible:notes:2ki:02:15|<<]] | [[:en:bible:notes:2ki:02:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit shame}}
+~~DISCUSSION~~{{tag>publish p2pass shame}}
 
 ~~NOCACHE~~

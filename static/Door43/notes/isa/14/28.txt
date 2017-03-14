@@ -27,9 +27,8 @@
 
 <usfm>
 \v 28 I received this message from Yahweh during the year that King Ahaz died:
-\b
 \q1
-\v 29 You people of Philistia, do not rejoice that the enemy army that attacked you has been defeated
+\v 29 Do not rejoice, all you people of Philistia, that the enemy army that attacked you has been defeated
 \q2 and that their king is dead.
 \q1 He was as dangerous as a snake,
 \q2 but there will be another king,
@@ -38,9 +37,8 @@
 \q1
 \v 30 Those of my people who are very poor will take care of their flocks of sheep,
 \q2 and the needy people will lie down safely,
-\q1 but I will cause you people of Philistia who are still alive 
+\q1 but I will cause you people of Philistia who are still alive
 \q2 to die from famine.
-\b
 
 
 \q1
@@ -53,11 +51,10 @@
 \p
 \v 28 In the year that king Ahaz died this declaration came:
 \q1
-\v 29 Do not rejoice, Philistia, because the rod that struck you is broken. 
-\q1 For out of the serpent's root will
-come an adder, and his offspring will be a fiery flying serpent.
-\q1
-\v 30 The firstborn of the poor will eat, and the needy will lie down in safety. 
+\v 29 Do not rejoice, all you Philistines, that the rod that struck you is broken.
+\q1 For out of the serpent's root will grow out an adder, 
+\q1 and his offspring will be a fiery flying serpent.
+\v 30 The firstborn of the poor will graze their sheep in my pastures, and the needy will lie down in safety.
 \q1 I will kill your root with famine that will put to death all your survivors.
 </usfm>
 
@@ -77,10 +74,12 @@ come an adder, and his offspring will be a fiery flying serpent.
 
 ===== translationNotes: =====
 
-  * **fiery flying serpent** - Here the word "fiery" probably refers to the serpent's poisonous bite and the word "flying" refers to its quick movements.
-  * **The firstborn of the poor will eat** - "The poorest people will have food to eat" 
-  * **I will kill your root with famine that will put to death all your survivors** - Here "your root" refers to the people of Philistia.
-
+  * **the rod that struck you is broken** - The rod that struck Philistia represents a king who sent his army to attack them. Being broken represents either being dead or being defeated. AT: "the king that sent his army against you is dead" or "the army that attacked you is defeated" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **For out of the serpent's root will grow out an adder ... his offspring will be a fiery flying serpent** - These two phrases are both the image of a serpent's offspring being even more harmful than the serpent. They represent a king's successor being more powerful and cruel than the first king. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **an adder** - a kind of poisonous snake
+  * **a fiery flying serpent** - Here the word "fiery" probably refers to the serpent's poisonous bite, and the word "flying" refers to its quick movements. AT: "a quickly moving poisonous snake" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The firstborn of the poor** - This represents the poorest people. AT: "The poorest people" or "the poorest of my people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will kill your root with famine that will put to death all your survivors** - Here "your root" refers to the people of Philistia. AT: "I will kill your people with famine that will put to death all your survivors" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -94,6 +93,6 @@ come an adder, and his offspring will be a fiery flying serpent.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

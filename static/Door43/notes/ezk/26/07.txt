@@ -18,7 +18,7 @@
 
 <usfm>
 \p
-\v 7 "For this is what Yahweh says: Behold, from the north I am bringing Nebuchadnezzar king of Babylon, king of kings, against Tyre, with horses and chariots, and with horsemen and a great many people. 
+\v 7 For this is what Yahweh says: Behold, from the north I am bringing Nebuchadnezzar king of Babylon, king of kings, against Tyre, with horses and chariots, and with horsemen and a great many people.
 \v 8 He will kill your daughters in the field. He will set up a siege work and build a ramp against your walls and raise up shields against you.
 </usfm>
 
@@ -33,11 +33,13 @@
 
 ===== translationNotes: =====
 
-  * **Behold!** - AT: "Look!" or "Listen!" or "Pay attention to what I am about to tell you!"
-  * **I am bringing Nebuchadnezzar** - God is using Nebuchadnezzar to bring about his will.
-  * **king of kings** - "most powerful king"
-  * **a great many people** - This exclamation emphasizes the great size of Nebuchadnezzar's army.
-  * **He will kill your daughters** - Here the word "He" refers to Nebuchadnezzar and is a metonym for is army. AT: "His army will kill your daughters" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Connecting Statement:** - Yahweh continues giving Ezekiel his message to Tyre.
+
+  * **Behold!** - "Look!" or "Listen!" or "Pay attention to what I am about to tell you!"
+  * **Nebuchadnezzar king of Babylon, king of kings** - The phrase "king of kings" was a title, meaning that he was the greatest of kings, the king that other kings obeyed. AT: "Nebuchadnezzar king of Babylon, the greatest king" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **a great many people** - This emphasizes the great size of Nebuchadnezzar's army.
+  * **He will kill** - Here the word "He" refers to Nebuchadnezzar and is a metonym for his army. AT: "His army will kill" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **your daughters in the field** - Possible meanings are 1) "your daughters" refers to the young women of Tyre who were working in the fields or 2) "your daughters" is a metonym for nearby towns and villages on the mainland that supported the main city of Tyre. AT: "your daughter communities who are on the mainland." See how you translated a similar phrase in [[:en:bible:notes:ezk:26:05|26:6]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:ezk:26]]
 **[[:en:bible:notes:ezk:26:05|<<]] | [[:en:bible:notes:ezk:26:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit nebuchadnezzar}}
+~~DISCUSSION~~{{tag>publish p2check nebuchadnezzar}}
 
 ~~NOCACHE~~

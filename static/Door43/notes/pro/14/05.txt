@@ -18,13 +18,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 You can tell if a witness is reliable, if he tells the truth, 
-\q2 but when a witness breaths out lie after lie, he is a false witness and cannot be depended on. 
-\b
+\v 5 You can tell if a witness is reliable, if he tells the truth,
+\q2 but when a witness breaths out lie after lie, he is a false witness and cannot be depended on.
 \q1
-\v 6 One who thinks he is better than others, he may seek wisdom, but he will not find it, 
-\q2 but the one who has grown in knowledge can easily learn much more. 
-
+\v 6 One who thinks he is better than others, he may seek wisdom, but he will not find it,
+\q2 but the one who has grown in knowledge can easily learn much more.
 
 \q1
 </usfm>
@@ -53,11 +51,10 @@
 
 ===== translationNotes: =====
 
-
-  * **breathes out lies** - See how you translated this phrase in [[:en:bible:notes:pro:06:17|6:19]].
-  * **and there is none** - "and it is not there" AT: "but he will not find it" (UDB)
-  * **comes easy to** - AT: "is easily found by" 
-  * **the one who is discerning** - "the one who is wise" AT: "a person who has understanding"
+  * **breathes out lies** - This figure of speech uses "breathes" to refer to lying constantly. AT: "constantly lies" (See: [[:en:ta:vol1:translate:figs_idiom]]). See how you translated this phrase in [[:en:bible:notes:pro:06:17|6:19]].
+  * **and there is none** - "and wisdom is not there" or "but he will not find wisdom" (UDB)
+  * **comes easy to** - "is easily found by" or "acquires without difficulty"
+  * **the one who is discerning** - "the one who is wise" or "a person who has understanding"
 
  
 ===== Links: =====
@@ -73,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit falsewitness}}
+{{tag>publish p2pass falsewitness}}
 
 ~~NOCACHE~~

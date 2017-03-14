@@ -20,11 +20,9 @@
 <usfm>
 \v 7 Do not stay close to a foolish person: Walk away from him.
 \q2 There is no knowledge to be learned from him.
-\b
 \q1
 \v 8 The one who has learned much knowledge applies it to his own life; that is wisdom.
-\q2 The foundation of all folly is the lie. 
-
+\q2 The foundation of all folly is the lie.
 
 \q1
 </usfm>
@@ -51,9 +49,9 @@
 ===== translationNotes: =====
 
 
-  * **on his lips** - AT: "on him" or "with him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **on his lips** - The word "lips" represents what a person says. AT: "from his speech" or "with his comments" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **the prudent** - a person who has good judgment or sense
-  * **his own way** - AT: "himself" or "how he lives" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **his own way** - The word "way" represents the conduct of life of a person. AT: "his conduct" or "how he lives" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **the folly of fools is deception** - The foolishness of fools is that they think they are wise, when they are not.
 
  
@@ -70,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

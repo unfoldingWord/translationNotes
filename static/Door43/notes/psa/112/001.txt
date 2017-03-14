@@ -18,10 +18,8 @@
 
 <usfm>
 \v 1 Praise Yahweh!
-\b
 \q1 How fortunate are those who have an awesome respect for him,
 \q2 those who happily obey his commands.
-\b
 \q1
 \v 2 Their children will prosper in their land;
 \q1 God will bless their descedants.
@@ -34,7 +32,7 @@
 
 <usfm>
 \c 112
-\p
+\m
 \q
 \v 1 Praise Yahweh.
 \q Blessed is the man who obeys Yahweh,
@@ -58,7 +56,7 @@
 ===== translationNotes: =====
 
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **greatly delights** - "takes great pleasure"
   * **the descendants of the godly man will be blessed** - This can be stated in active form. AT: "Yahweh will bless the descendants of the godly man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
@@ -70,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:112]]
 **[[:en:bible:notes:psa:111:010|<<]] | [[:en:bible:notes:psa:112:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

@@ -20,9 +20,9 @@
 
 <usfm>
 \v 6 You lazy person, learn something from watching the ants.
-\q2 Become wise and watch what they do. 
+\q2 Become wise and watch what they do.
 \q1
-\v 7 The ant has no commander, officer, or ruler telling him what to do, 
+\v 7 The ant has no commander, officer, or ruler telling him what to do,
 \q1
 \v 8 but during the summer it works hard,
 \q2 gathering and storing food to eat during the winter.
@@ -58,9 +58,9 @@
 
   * **Look at ... consider** - "Study ... think about" or "carefully observe ... ponder"
   * **ant** - An ant is a small insect that lives underground or in a self-built hill. They usually live in groups of thousands, and they can lift things that are much bigger than they are.
-  * **consider her ways** - "consider how the ant behaves" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **commander, officer, or ruler** - These three words basically mean the same thing and are used to emphasized that no one has formal authority over an individual ant. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **it prepares its food in the summer ... during the harvest it stores up what it will eat** - These two phrases basically mean the same thing and are repeated to show how responsible the ant is. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **consider her ways** - This is a figure of speech using the "ways" of an ant to refer to the behavior of the ant. AT: "consider how the ant behaves" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **commander, officer, or ruler** - These three words mean basically the same thing and are used to emphasized that no one has formal authority over an individual ant. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **it prepares its food in the summer ... during the harvest it stores up what it will eat** - These two phrases mean basically the same thing and are repeated to show how responsible the ant is. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **summer** - Summer is the time of the year when some trees bear their fruit.
 
 ===== Links: =====
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:pro:06]]
 **[[:en:bible:notes:pro:06:04|<<]] | [[:en:bible:notes:pro:06:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit commander}}
+~~DISCUSSION~~{{tag>publish p2pass commander}}
 
 ~~NOCACHE~~

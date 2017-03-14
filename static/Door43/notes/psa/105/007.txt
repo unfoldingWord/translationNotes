@@ -19,7 +19,6 @@
 <usfm>
 \v 7 He is Yahweh, our God.
 \q1 He rules and judges people throughout the earth.
-\b
 \q1
 \v 8 He never forgets the covenant that he made;
 \q2 he made a promise that will last for a thousand generations.
@@ -55,9 +54,9 @@
 
 ===== translationNotes: =====
 
-  * **He keeps in mind ... the word that he commanded** - These two phrases share similar meanings and are used together for emphasis. The word "word" refers to the covenant. AT: "He keeps in mind his covenant forever, the promise he made for 1,000 generations" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **He keeps in mind ... the word that he commanded** - These two phrases share similar meanings and are used together for emphasis. The word "word" refers to the covenant. AT: "He keeps in mind his covenant forever, the promise he made" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
   * **keeps in mind** - This means to remember and think about something. AT: "remembers" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **a thousand generation** - "1,000 generations" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **a thousand generations** - "1,000 generations" (See: [[:en:ta:vol2:translate:translate_numbers]])
  
 ===== Links: =====
 
@@ -72,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book4}}
+{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

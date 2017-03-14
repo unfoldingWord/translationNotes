@@ -34,8 +34,11 @@
  
 ===== translationNotes: =====
 
-  * **talent** - an ancient measurement of weight
+  * **he fought** - Here the author speaks of David when he is actually referring to David and his soldiers. AT: "David and his soldiers fought" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **a talent** - This may be written in modern weights. AT: "34 kilograms" (See: [[:en:ta:vol2:translate:translate_bweight]])
   * **a precious stone** - a rare gemstone such as a diamond, ruby, sapphire, emerald, or opal
+  * **The crown was placed on David's own head** - This can be stated in active form. AT: "They placed the crown on David's own head" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he brought out** - Here the author speaks of David when he is actually referring to David's soldiers. AT: "they brought out" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **plunder** - valuable things taken from a defeated enemy
   * **quantities** - "amounts" or "numbers"
  
@@ -52,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit notes}}
+{{tag>publish p2pass notes}}
 
 ~~NOCACHE~~

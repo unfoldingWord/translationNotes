@@ -30,15 +30,14 @@
 
 <usfm>
 \c 85
-\p
+\m
 \d For the chief musician. A psalm of the sons of Korah.
-\b
 \q
 \v 1 Yahweh, you have showed favor to your land;
 \q you have restored the well-being of Jacob.
 \q
 \v 2 You have forgiven the sin of your people;
-\q you have covered all their sin. 
+\q you have covered all their sin.
 \qs Selah\qs*
 </usfm>
 
@@ -59,13 +58,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **For the chief musician** - "This is for the director of music to use in worship."
   * **A psalm of the sons of Korah** - "This is a psalm that the sons of Korah wrote."
-  * **you have showed favor to your land** - Here, "land" represents the nation and people of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **of Jacob** - Here "Jacob" represents the Israelites. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **you have covered all their sin** - Here sin that is forgiven is spoken of as if it were covered so that it can not be seen. AT:  "you have deliberately forgotten their sin" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you have showed favor to your land** - Here "land" represents the nation and people of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **well-being** - This refers to a person being happy, healthy and prosperous.
+  * **of Jacob** - Here "Jacob" represents Jacob's descendents, the Israelites. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **you have covered all their sin** - Here sin that is forgiven is spoken of as if it were covered so that it can not be seen. AT: "you have deliberately forgotten their sin" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **their sin** - This writer thought of himself as belonging to God's people. AT: "our sin"
   * **Selah** - This may be a musical term that tells people how to sing or play their instruments here. Some translations write the Hebrew word, and some translations do not include it. See how you translated this in [[:en:bible:notes:psa:003:001|3:2]]. (See: [[:en:ta:vol1:translate:translate_transliterate]])
 
@@ -77,6 +77,6 @@
   * [[:en:bible:questions:comprehension:psa:085]]
 **[[:en:bible:notes:psa:084:011|<<]] | [[:en:bible:notes:psa:085:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

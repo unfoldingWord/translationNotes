@@ -18,7 +18,7 @@
 
 <usfm>
 \v 38 For I will punish you for adultery and the shedding of blood, and I will bring on you the bloodshed of my anger and passion.
-\v 39 I will give you into their hands so they will throw down your mound and break down your high places and they will strip you of your clothes and take all of your jewelry. They will leave you naked and bare.
+\v 39 I will give you into their hands so they will throw down your vaulted chamber and break down your high places and they will strip you of your clothes and take all of your jewelry. They will leave you naked and bare.
 </usfm>
 
 ===== translationWords: =====
@@ -32,10 +32,14 @@
   
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh speaks about enemy soldiers as the lovers of Jerusalem
+  * **General Information:** - Yahweh continues to speak about Jerusalem as if the city were his unfaithful wife. The city represents the people who live there. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
  
-  * **throw down your mound ... break down your high places** - These phrases are saying the same thing in different ways. This adds emphasis to the phrase. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **naked and bare** - See how you translated this in [[:en:bible:notes:ezk:16:06|16:7]].
+  * **the shedding of blood** - This phrase represents murder in any form. AT: "murder" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will bring on you the bloodshed of my anger and passion** - Here "bloodshed" represents murder in any form. Possible meanings are 1) Yahweh speaks of punishing her for murder as if he were bringing bloodshed upon her. AT: "In my anger and passion, I will punish you for committing murder" or 2) Yahweh speaks of putting her to death as if he were bringing bloodshed upon her. AT: "In my anger and passion, I will shed your blood" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will give you into their hands** - Here "hands" represents power or control. AT: "I will place you in their control" or "I will allow them to have power over you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **throw down your vaulted chamber** - Possible meanings are that they will destroy 1) the place where she worshiped her idols or 2) the place where she practiced her prostitution. See how you translated "vaulted chamber" in [[:en:bible:notes:ezk:16:23|16:24]].
+  * **naked and bare** - These two words mean the same thing. Translate as in [[:en:bible:notes:ezk:16:06|16:7]]. AT: "completely naked" (See: [[:en:ta:vol2:translate:figs_doublet]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -43,6 +47,6 @@
   * [[:en:bible:questions:comprehension:ezk:16]]
 **[[:en:bible:notes:ezk:16:35|<<]] | [[:en:bible:notes:ezk:16:40|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

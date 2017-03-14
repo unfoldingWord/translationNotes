@@ -17,7 +17,6 @@
 <usfm>
 \v 8 I would quickly find a safe place
 \q2 where my enemies could not strike me like a strong wind and rainstorm."
-\b
 \q1
 \v 9 Lord, confuse my enemies and cause their plans to fail.
 \q2 I saw them hurting others by their violence and causing riots throughout the city.
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:psa:055]]
 **[[:en:bible:notes:psa:055:006|<<]] | [[:en:bible:notes:psa:055:010|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2 strife}}
+~~DISCUSSION~~{{tag>publish p2pass book2 strife}}
 
 ~~NOCACHE~~

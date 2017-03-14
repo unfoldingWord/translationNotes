@@ -24,8 +24,13 @@
 \v 1 These are sayings containing wisdom, the sayings of Agur son of Jakeh.
 \q1 Agur wrote them for Ithiel, yes, to Ithiel and to Ucal.
 \q1
-\v 2 I am more like an animal than any human being! 
+\v 2 I am more like an animal than any human being!
 \q2 I lack the understanding that a human being has!
+\q1
+\v 3 I have not learned about wisdom;
+\q2 I do not know Yahweh, the Holy One.
+
+
 \q1
 </usfm>
 
@@ -37,6 +42,7 @@
 \p
 \v 1 The sayings of Agur son of Jakeh—an oracle:
 \q This man declared to Ithiel, to Ithiel and Ucal:
+\f + \ft Some versions have \fqa This man declared, "I am weary, O God, I am weary. I am unable to do anything." \fqb \f*
 \q
 \v 2 Surely I am more like an animal than any human
 \q and I do not have the understanding of a human being.
@@ -61,9 +67,10 @@
   * **Agur ... Jakeh ... Ithiel ... Ucal** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Agur son of Jakeh** - This is the literal son of Jakeh, not a grandchild.
   * **oracle** - a message from God 
-  * **to Ithiel, to Ithiel and Ucal** - "to Ithiel and Ucal" 
+  * **to Ithiel, to Ithiel and Ucal** - "to Ithiel—that is, to Ithiel and Ucal" 
   * **Surely** - "Certainly" or "There is no doubt that"
-
+  * **I do not have the understanding of a human being** - The abstract noun "understanding" can be translated as a verb. AT: "I do not understand anything the way human beings are supposed to understand them" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **nor do I have knowledge of the Holy One** - The abstract noun "knowledge" can be translated as a verb. AT: "nor do I really know anything about the Holy One" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -78,6 +85,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

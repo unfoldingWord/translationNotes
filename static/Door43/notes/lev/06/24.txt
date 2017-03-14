@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 24 Yahweh spoke to Moses again, saying, 
+\v 24 Yahweh spoke to Moses again, saying,
 \v 25 "Speak to Aaron and to his sons, saying, 'This is the law of the sin offering: The sin offering must be killed at the place where the burnt offering is killed before Yahweh. It is most holy.
 \v 26 The priest who offers it for sin will eat it. It must be eaten in a holy place in the courtyard of the tent of meeting.
 </usfm>
@@ -41,8 +41,8 @@
 ===== translationNotes: =====
 
   * **Yahweh spoke to Moses again, saying, "Speak to Aaron and to his sons, saying, 'This is the law** - This has a quotation within a quotation. A direct quotation can be stated as an indirect quotation. AT: "Yahweh spoke to Moses again and told him to speak to Aaron and his sons, saying, 'This is the law" (See:[[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
-  * **Speak to Aaron and to his sons** - Yahweh is speaking to Aaron and his sons, but these regulations apply to all priest who perform these sacrifices. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **The sin offering must be killed at the place where the burnt offering is killed before Yahweh** - It can be made explicit that this refers to the north side of the altar. See [[:en:bible:notes:lev:01:10|1:10-11]]. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Speak to Aaron and to his sons** - Yahweh is speaking to Aaron and his sons, but these regulations apply to all priest who perform these sacrifices. The full meaning of this statement can be made clear. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **The sin offering must be killed at ... before Yahweh** - It can be made explicit that this refers to the north side of the altar. See [[:en:bible:notes:lev:01:10|1:10-11]]. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **The sin offering must be killed** - This can be translated in active form. AT: "You must kill the sin offering" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **where the burnt offering is killed** - This can be stated in active form. AT: "where you kill the animal for the burnt offering" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **before Yahweh** - "to Yahweh"
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:lev:06]]
 **[[:en:bible:notes:lev:06:21|<<]] | [[:en:bible:notes:lev:06:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

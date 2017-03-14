@@ -24,11 +24,9 @@
 \q2 that evil is good, and that good is evil,
 \q1 that darkness is light and that light is darkness,
 \q2 that what is bitter is sweet and what is sweet is bitter.
-\b
 \q1
 \v 21 Terrible things will happen to those who think that they are wise
 \q2 and that they are very clever.
-\b
 
 
 \q1
@@ -39,8 +37,8 @@
 
 <usfm>
 \q1
-\v 20 Woe to those who call evil good, and good evil; 
-\q1 who represent darkness as light, and light as darkness; 
+\v 20 Woe to those who call evil good, and good evil;
+\q1 who represent darkness as light, and light as darkness;
 \q1 who represent bitter as sweet, and sweet as bitter!
 \q1
 \v 21 Woe to those who are wise in their own eyes, and prudent in their own understanding!
@@ -58,8 +56,8 @@
 
 ===== translationNotes: =====
 
-  * **who represent darkness as light, and light as darkness ... bitter as sweet, and sweet as bitter** - These mean the same as "who call evil good, and good evil." These things are opposites and people know the difference between them, but some people lie and say that bad things are good. AT: "They are like people who call darkness light and light darkness. They are like people who call bitter things sweet and sweet things bitter" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **to those who are wise in their own eyes** - Here "eyes" refers to their thoughts. AT: "to those who consider themselves to be wise" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who represent darkness as light, and light as darkness ... bitter as sweet, and sweet as bitter** - Those who do these things are the same as those "who call evil good, and good evil." These things are opposites and people know the difference between them, but some people lie and say that bad things are good. AT: "They are like people who call darkness light and light darkness. They are like people who call bitter things sweet and sweet things bitter" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **to those who are wise in their own eyes** - Here the metonym "eyes" refers to their thoughts. AT: "to those who consider themselves to be wise" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **and prudent in their own understanding** - "and think they understand everything"
 
 ===== Links: =====
@@ -75,6 +73,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

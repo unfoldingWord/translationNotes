@@ -31,7 +31,7 @@
 <usfm>
 \c 19
 \p
-\v 1 Yahweh spoke to Moses, saying, 
+\v 1 Yahweh spoke to Moses, saying,
 \v 2 "Speak to all the assembly of the people of Israel and say to them, 'You must be holy, for I Yahweh your God am holy.
 \v 3 Everyone must respect his mother and his father, and you must keep my Sabbaths. I am Yahweh your God.
 \v 4 Do not turn to worthless idols, nor make for yourselves gods out of metal. I am Yahweh your God.
@@ -54,6 +54,7 @@
 
 ===== translationNotes: =====
 
+  * **keep my Sabbaths** - "observe my Sabbaths" or "respect my day of rest"
   * **Do not turn to worthless idols** - Worshiping idols is spoken of as if it were physically turning towards them. AT: "Do not begin to worship worthless idols" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
@@ -63,6 +64,6 @@
   * [[:en:bible:questions:comprehension:lev:19]]
 **[[:en:bible:notes:lev:18:29|<<]] | [[:en:bible:notes:lev:19:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check sabbath}}
+~~DISCUSSION~~{{tag>publish p2pass sabbath}}
 
 ~~NOCACHE~~

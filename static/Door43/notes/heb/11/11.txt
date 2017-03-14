@@ -15,7 +15,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 Because Abraham trusted God to give him strength, he was able to produce a son. Even though his wife Sarah was beyond the time when women bear children, God promised he would give her a son, and Abraham believed that God would do what he promised to do.
+\v 11 And even though Sarah was unable to have children because of her old-age, Abraham received the ability to father a child, because he considered Yahweh to be faithful because he had made the promise to him that he would have a son.
 \v 12 So, although Abraham was too old to have children, from that one man people descended who are as many in number as the stars in the sky and are as countless as the grains of sand along the shore, just like God promised him.
 
 
@@ -26,7 +26,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 It was by faith, even though Sarah herself was barren, that Abraham received power to conceive. This happened even though he was too old, since they considered as faithful the one who had given them a promise.
+\v 11 It was by faith, even though Sarah herself was barren, that Abraham received ability to father a child. This happened even though he was too old, since he considered as faithful the one who had given the promise.
+\f + \ft There is some question about whether it was Abraham's faith or Sarah's faith that was in view. \fqa By faith Sarah, though she was old, received the power to have a child, even though she was too old to bear a child, since she considered the one who gave the promise to be faithful. \f*
 \v 12 Therefore, from this one man, who was almost dead, were born those who were like the stars in the sky for their multitude and like the grains of sand along the seashore, which are uncountable.
 </usfm>
 
@@ -47,8 +48,9 @@
 
 ===== translationNotes: =====
 
-  * **power to conceive** - "the ability to become a father"
-  * **they considered as faithful the one who had given them a promise** - "they believed God, who had promised them things, to be faithful"
+  * **It was by faith** - The abstract noun "faith" can be expressed with the verb believe. Possible meanings are 1) it was by Abraham's faith. AT: "Because Abraham believed God" or 2) it was by Sarah's faith. AT: "Because Sarah believed God" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **received ability to father a child** - "received ability to become a father" or "received ability to have a child"
+  * **since he considered as faithful the one who had given the promise** - "because he believed God, who had give the promise, to be faithful"
   * **almost dead** - "too old to have children" or "very old"
   * **those who were like the stars in the sky for their multitude and like the grains of sand along the seashore, which are uncountable** - This simile means Abraham had very many descendants. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **which are uncountable** - "which are too many for anyone to count"

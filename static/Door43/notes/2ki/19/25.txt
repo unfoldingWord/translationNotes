@@ -23,12 +23,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 25 But I reply, 'Have you never heard that long ago 
+\v 25 But I reply, 'Have you never heard that long ago
 \q2 I planned that those things would happen?
 \q I planned it long ago,
 \q2 and now I have been causing it to occur.
-\q I planned that your army 
-\q2 would have the power to capture many cities 
+\q I planned that your army
+\q2 would have the power to capture many cities
 \q3 that were surrounded by high walls,
 \q2 and cause them to become piles of rubble.
 \q
@@ -37,7 +37,6 @@
 \q They are as frail as plants and grass in the fields,
 \q2 as frail as grass that grows on the roofs of houses
 \q3 and is scorched before it can grow tall.
-\b
 
 
 \q
@@ -48,19 +47,19 @@
 
 <usfm>
 \p
-\q 
-\v 25 Have you not heard how I 
-\q2 determined it long ago, 
+\q
+\v 25 Have you not heard how I
+\q2 determined it long ago,
 \q and worked it out in ancient times?
-\q2 Now I am bringing it to pass. 
+\q2 Now I am bringing it to pass.
 \q You are here to reduce impregnable cities
 \q2 into heaps of ruins.
-\q 
-\v 26 Their inhabitants, of little strength, 
-\q2 are shattered and ashamed. 
-\q They are plants in the field, 
-\q2 green grass, 
-\q the grass on the roof or in the field, 
+\q
+\v 26 Their inhabitants, of little strength,
+\q2 are shattered and ashamed.
+\q They are plants in the field,
+\q2 green grass,
+\q the grass on the roof or in the field,
 \q2 burned before it has grown up.
 </usfm>
 
@@ -70,15 +69,15 @@
   * [[:en:obe:other:ruin]]
   * [[:en:obe:other:strength]]
   * [[:en:obe:other:shame]]
+
 ===== translationNotes: =====
 
-  * **General Information:** - This continues the message from Yahweh, given by Isaiah, the prophet, for King Hezekiah concerning King Sennecherib.
+  * **General Information:** - This continues the message from Yahweh, given by Isaiah, the prophet, for King Hezekiah concerning King Sennecherib.  It uses parallelism throughout. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **Have you not heard how ... times?** - "Surely you know how ... times."
-  * **impregnable cities** - AT: "cities that cannot be captured" or "cities surrounded by high walls" (UDB)
-  * **plants in the field, green grass** - "as frail as plants and grass in the fields" (UDB) or AT: "as weak as shallow rooted plants" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **the grass on the roof or in the field, burned before it has grown up** - AT: "like grass before it has matured." or "like grass before it has grown tall."
-
+  * **Have you not heard how ... times?** - To make the point strongly this question assumes the listener knows the answer. AT: "Surely you know how ... times." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **impregnable cities** - "cities that cannot be captured" or "cities surrounded by high walls" (UDB)
+  * **plants in the field, green grass** - This metaphor compares the weak victims of the Assyrian advance to fragile plants. AT: "as frail as plants and grass in the fields" (UDB) or "as weak as shallow rooted plants" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **the grass on the roof or in the field, burned before it has grown up** - This continues the metaphor comparing the weak victims of the Assyrian advance to fragile plants in difficult conditions for growing fully. AT: "like grass before it has matured" or "like grass before it has grown tall" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -90,6 +89,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit ruin}}
+{{tag>publish p2pass ruin}}
 
 ~~NOCACHE~~

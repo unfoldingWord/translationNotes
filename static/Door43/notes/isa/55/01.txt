@@ -24,8 +24,8 @@
 \q1 Now those who had no money,
 \q2 you can come and buy wine and milk from me, the finest wine and the best milk!
 \q1 You can get what you need from me,
-\q2 and you can buy it now! 
-\q1 You can buy it even though you do not have any money, 
+\q2 and you can buy it now!
+\q1 You can buy it even though you do not have any money,
 \q2 and even though you could never afford it!
 
 
@@ -36,10 +36,11 @@
 
 <usfm>
 \c 55
-\p
+\m
 \q1
-\v 1 "Come, everyone who is thirsty, come to the water! And you who have no money, 
-\q1 come, buy and eat! Come, buy wine and milk without money and without cost.
+\v 1 "Come, everyone who is thirsty, come to the water, 
+\q2 and you who have no money, come, buy and eat! 
+\q2 Come, buy wine and milk without money and without cost.
 </usfm>
 
 ===== translationWords: =====
@@ -48,11 +49,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking to the people of Israel in exile through Isaiah.
+  * **Connecting Statement:** - Yahweh continues speaking to the people of Jerusalem in exile through Isaiah.
+  * **General Information:** - Yahweh speaks of blessing the people freely as if he were selling food and drink to needy people for free. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
-  * **everyone who is thirsty, come to the water** - This metaphor points to the spiritual thirst of the people for Yahweh. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **come** - There is an urgency shown through three uses of "come."
-  * **wine and milk** - The land of Judah produced wine and milk. These are symbols of God's mercy.
+  * **Come ... Come** - The repetition of this word four times adds a sense of urgency to the invitation.
+  * **buy wine and milk without money and without cost** - There is a sense of irony in this statement since a person usually has to use money to buy something. This emphasizes Yahweh's amazing grace in giving these things freely. (See: [[:en:ta:vol1:translate:figs_irony]])
 
 ===== Links: =====
 
@@ -61,6 +62,6 @@
   * [[:en:bible:questions:comprehension:isa:55]]
 **[[:en:bible:notes:isa:54:17|<<]] | [[:en:bible:notes:isa:55:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

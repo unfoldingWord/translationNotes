@@ -21,14 +21,13 @@
 
 <usfm>
 \v 15 Yahweh will humble everyone;
-\q2 and he will humble everyone who is proud.
+\q2 he will humble everyone who is proud.
 \q1
-\v 16 But Yahweh, commander of the angel armies, the Holy One, will be honored for his holiness because he has acted justly.
+\v 16 But everyone will honor Yahweh, commander of the angel armies, the Holy One, because he has acted justly.
 \q2 God will show that he is holy by doing righteous deeds.
 \q1
 \v 17 Then sheep and lambs will be able to find good grass to eat;
 \q2 they will pass through the ruined places to eat the grass.
-\b
 
 
 \q1
@@ -39,9 +38,9 @@
 
 <usfm>
 \q1
-\v 15 Man is brought down, and the great man is humbled, and the eyes of the lofty are cast down.
+\v 15 Man will be forced to bend down, and mankind will be humbled; the eyes of the lofty will be cast down.
 \q1
-\v 16 Yahweh of hosts is exalted in his justice, and God the Holy One shows himself holy by his righteousness.
+\v 16 Yahweh of hosts will be exalted in his justice, and God the Holy One will show himself holy by his righteousness.
 \q1
 \v 17 Then the sheep will feed as in their own pasture, and in the ruins, lambs will graze as foreigners.
 \f + \ft Some modern versions have \fqa and in the ruins of the rich, lambs will graze \fqb . \f*
@@ -60,13 +59,17 @@
 
 ===== translationNotes: =====
 
-  * **Man is brought down, and the great man is humbled** - The phrases used together mean the same thing and are used together for emphasis. This can be stated in active form. AT: "God will make every person bow down and be humble" See how you translated similar words in [[:en:bible:notes:isa:02:09|2:9]]. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the eyes of the lofty are cast down** - "the eyes of proud people are looking down" in shame. AT: "people who were proud are now ashamed" See how you translated similar words in [[:en:bible:notes:isa:02:09|2:11]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
-  * **Yahweh of hosts is exalted in his justice** - This can be stated in active form. AT: "People will praise Yahweh of hosts because he is just" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the sheep will feed as in their own pasture** - Yahweh will destroy the city of Jerusalem, the "vineyard" of [[:en:bible:notes:isa:05:01|5:1]], so thoroughly that it will become as good a place for sheep to graze as their own pasture.
+  * **Man will be forced to bend down, and mankind will be humbled** - The phrases used together mean the same thing and are used together for emphasis. This can be stated in active form. AT: "God will make every person bow down and be humble." See how you translated similar words in [[:en:bible:notes:isa:02:09|2:9]]. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Man will be forced to bend down, and mankind will be humbled** - Future events are spoken of as if they have already happened.   (See: [[:en:ta:vol2:translate:figs_pastforfuture]]) 
+  * **Man will be forced to bend down** - Bending down often symbolizes being humiliated. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **the eyes of the lofty will be cast down** - Looking down is often a sign of being ashamed. AT: "the eyes of proud people will look down in shame" or "people who were proud are now ashamed." See how you translated similar words in [[:en:bible:notes:isa:02:09|2:11]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the lofty** - Here proud, arrogant people are spoken of as if they are high above other people. AT: "proud" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **Yahweh of hosts will be exalted in his justice** - This can be stated in active form. AT: "People will praise Yahweh of hosts because he is just" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Yahweh of hosts** - Translate this as in [[:en:bible:notes:isa:01:09|1:9]].
+  * **will be exalted** - Being honored is spoken of as if it were being lifted high. AT: "will be greatly honored" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **the sheep will feed as in their own pasture** - Yahweh will destroy the city of Jerusalem, which was called a "vineyard" in [[:en:bible:notes:isa:05:01|5:1]]. It will become good for nothing except for sheep to eat grass there.
   * **graze** - eat grass
-  * **in the ruins, lambs will graze as foreigners** - That is, the lambs will graze there and then leave the place. It will not be worth staying there. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **in the ruins, lambs will graze as foreigners** - That is, the lambs will graze there. The land will be worthless for any other use. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -81,6 +84,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit holyone}}
+{{tag>publish p2pass holyone}}
 
 ~~NOCACHE~~

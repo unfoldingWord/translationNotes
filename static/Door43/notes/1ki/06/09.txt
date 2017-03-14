@@ -12,7 +12,7 @@
 
 <usfm>
 \v 9 So Solomon's workers finished building the framework of the temple. They made the ceiling from cedar beams and boards.
-\v 10 They built the rooms alongside the main chambers with three levels, each about 2.3 meters high, and joined them to the temple with cedar beams.
+\v 10 They built the rooms alongside the main chambers with three levels, each two and one-third meters high, and joined them to the temple with cedar beams.
 
 
 \p
@@ -31,11 +31,14 @@
 
 ===== translationNotes: =====
 
-  * **Solomon built the temple and finished it** - Solomon did not do the building himself; his servants did the work. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **He built the side rooms** - These are the same rooms that are referred to in [[:en:bible:notes:1ki:06:05]].
-  * **beams and planks of cedar** - A beam is a long heavy piece of wood used to support a building. A plank is a flat wooden board also used for building.
-  * **inner chambers** - "exterior walls"
+  * **Solomon built the temple and finished it** - It might be best to translate so that the reader understands that other people helped Solomon do this. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **beams ... of cedar** - A beam is a long heavy piece of wood used to support a building. Translate as in [[:en:bible:notes:1ki:06:05|6:6]]. 
+  * **planks ... of cedar** - A plank is a flat wooden board used for floors and walls.
+  * **He built the side rooms** - These are the same rooms that are referred to in [[:en:bible:notes:1ki:06:05|6:5]].
+  * **inner chambers** - This phrase is a metonym for the walls that enclosed the chambers. AT: "exterior walls that enclosed the inner chambers" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **five cubits** - A cubit is 46 centimeters. AT: "2.3 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **timbers of cedar** - The word "timbers" is a general term that refers to wood used for building, such as beams and planks.
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -43,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:06]]
 **[[:en:bible:notes:1ki:06:07|<<]] | [[:en:bible:notes:1ki:06:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -11,9 +11,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 12 On the day that Yahweh enabled the Israelite army to defeat the Amorites, Joshua said to Yahweh while the Israelite people were watching, 
-\q "Sun, stand still over Gibeon, 
-\q and you, moon, be still over the valley of Aijalon."
+\v 12 On the day that Yahweh enabled the Israelite army to defeat the Amorites, Joshua said to Yahweh while the Israelite people were watching,
+\q "Sun, stand still over Gibeon,
+\q and you, moon, be still over the Valley of Aijalon."
 
 
 \p
@@ -26,7 +26,7 @@
 \p
 \v 12 Then Joshua spoke to Yahweh on the day Yahweh gave the men of Israel victory over the Amorites. This is what Joshua said to Yahweh before Israel,
 \q "Sun, be still at Gibeon,
-\q and moon, in the valley of Aijalon."
+\q and moon, in the Valley of Aijalon."
 </usfm>
 
 
@@ -40,8 +40,9 @@
  
 ===== translationNotes: =====
 
-  * **Sun, be still at Gibeon, and moon, in the valley of Aijalon** - Joshua is praying that Yahweh would make the progression of time stop on this day. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **valley of Aijalon** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Sun, be still at Gibeon, and moon, in the Valley of Aijalon** - Joshua is praying that Yahweh would make the progression of time stop on this day. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Sun ... moon** - Joshua commands the sun and moon as if these were people. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **Valley of Aijalon** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -56,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

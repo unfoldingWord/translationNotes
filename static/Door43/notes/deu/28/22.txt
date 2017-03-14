@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 22 Yahweh will afflict you with diseases that shrivel your bodies, with fever, with inflammation. 
+\v 22 Yahweh will afflict you with diseases that shrivel your bodies, with fever, with inflammation.
 \pi It will be extremely hot, and it will not rain.
 \pi There will be scorching winds, and he will cause your crops to rot.
 \pi All these things will strike you until you die.
@@ -35,10 +35,10 @@
 
   * **General Information:** - Moses speaks to the Israelites as if they were one man, so the words "you" and "your" here are singular. (See: [[:en:ta:vol1:translate:figs_you]])
 
-  * **infectious diseases, with fever, with inflammation** - These all refer to diseases that cause people to grow weak and die. "diseases and burning fevers that will make you weak"
+  * **infectious diseases, with fever, with inflammation** - "diseases and burning fevers that will make you weak." These all refer to diseases that cause people to grow weak and die. 
   * **with drought** - "with lack of rain"
   * **mildew** - mold that grows on crops and causes them to rot
-  * **These will pursue you** - Moses speaks of the bad things that would happen to the Israelitesmas if they were people or animals who would chase after the Israelites. AT: "You will suffer from them" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **These will pursue you** - Moses speaks of the bad things that would happen to the Israelites as if they were people or animals who would chase after the Israelites. AT: "You will suffer from them" (See: [[:en:ta:vol2:translate:figs_personification]])
 ===== Links: =====
 
   * [[:en:bible:notes:deu:00:intro]]
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:deu:28]]
 **[[:en:bible:notes:deu:28:20|<<]] | [[:en:bible:notes:deu:28:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

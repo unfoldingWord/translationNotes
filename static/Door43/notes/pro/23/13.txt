@@ -19,7 +19,7 @@
 \v 13 Do not refuse to discipline your children;
 \q2 if you punish them, they will not die,
 \q1
-\v 14 and if you beat them with the rod of discipline, 
+\v 14 and if you beat them with the rod of discipline,
 \q2 you may save their lives from death.
 
 
@@ -31,11 +31,11 @@
 
 <usfm>
 \q
-\v 13 Do not withhold discipline from a child, 
-\q for if you beat him with a rod, he will not die.
+\v 13 Do not withhold instruction from a child,
+\q for if you discipline him, he will not die.
 \q
-\v 14 If you beat him with the rod,
-\q you will save his soul from Sheol.
+\v 14 It is you who must beat him with the rod
+\q and save his soul from Sheol.
 </usfm>
 
 
@@ -50,8 +50,14 @@
 
 ===== translationNotes: =====
 
-  * **Do not withhold discipline from a child** - AT: "Be sure to discipline a child" (See: [[:en:ta:vol2:translate:figs_litotes]])
- 
+  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
+
+  * **Do not withhold instruction from a child** - The abstract noun "instruction" can be translated as a verb. AT: "Do not neglect to instruct a child" or "Do not refuse to instruct a child" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **withhold** - refuse to give something that one knows another person needs
+  * **rod** - piece of wood
+  * **It is you who must beat him ... and save his soul** - "You are the one who must beat him ... and save his soul." No one else will do it. The hearer is responsible to save the child's soul from Sheol, and the way to save him is to beat him.
+  * **and save his soul from Sheol** - If the hearer beats his children with the rod, they will not die young because they have done foolish or evil things. The word "soul" is a metonym for the person. Sheol is the world of the dead; going to the world of the dead is a euphemism for dying. AT: "and you will keep him from the world of the dead" or "and you will keep him from dying" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_euphemism]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -65,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit discipline}}
+{{tag>publish p2pass p2example discipline}}
 
 ~~NOCACHE~~

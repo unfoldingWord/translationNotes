@@ -36,10 +36,12 @@
 
 ===== translationNotes: =====
 
-  * **insight and understanding** - The two words "insight" and "understanding" mean the same thing and emphasize the Gabriel will help Daniel to understand the message completely. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **the order was given** - AT: "God gave the order" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **consider this word** - AT: "think about this message"
+  * **insight and understanding** - The words "insight" and "understanding" mean the same thing and emphasize that Gabriel will help Daniel to understand the message completely. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **the order was given** - This can be stated in active form. AT: "God gave the order" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **consider this word** - Here "word" refers to the entire message. AT: "think about this message" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **the revelation** - This refers back to the prophesy of Jeremiah in [[:en:bible:notes:dan:09:01|9:2]].
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -47,6 +49,6 @@
   * [[:en:bible:questions:comprehension:dan:09]]
 **[[:en:bible:notes:dan:09:20|<<]] | [[:en:bible:notes:dan:09:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

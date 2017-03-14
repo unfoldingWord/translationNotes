@@ -23,8 +23,8 @@
 
 <usfm>
 \v 28 He spoke kindly to him and gave him a seat more honorable than that of the other kings who were with him in Babylon.
-\v 29 Evil Merodach removed Jehoiachin's prison clothes, and Jehoiachin ate regularly at the king's table for the rest of his life.
-\v 30 And a regular food allowance was given to him every day for the rest of his life.
+\v 29 Evil-Merodach removed Jehoiachin's prison clothes, and Jehoiachin ate regularly at the king's table for the rest of his life.
+\v 30 A regular food allowance was given to him every day for the rest of his life.
 </usfm>
 
 
@@ -34,10 +34,11 @@
   * [[:en:obe:other:prison]]
 ===== translationNotes: =====
 
-  * **a seat more honorable than that of the other kings** - AT: "more honor than the other kings" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **removed Jehoiachin's prison clothes** - AT: "replaced Jehoiachin's prison clothes with new clothes" or "gave Jehoiachin new clothes"
-  * **at the king's table** - AT: "with the king and his officials"
-  * **food allowance** - AT: "money to buy food"
+  * **a seat more honorable than that of the other kings** - Giving a good place at the dining table is a metonym for honoring him. AT: "more honor than the other kings" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **removed Jehoiachin's prison clothes** - The reader should understand that removing his prison clothes is a synecdoche for making him a free man. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **at the king's table** - "with the king and his officials"
+  * **A regular food allowance was given to him** - This can be translated in active form. AT: "The king made sure that he had a regular food allowance" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **A regular food allowance** - "Money to buy food"
 
 
 ===== Links: =====
@@ -47,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2ki:25]]
 **[[:en:bible:notes:2ki:25:27|<<]] |**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -15,7 +15,7 @@
 <usfm>
 \v 1 That night the king was unable to sleep, so he summoned a servant and told him to bring the book of the history of all that happened during the time he had been king. So the servant brought the records and read aloud to the king.
 \v 2 The servant read about Bigthana and Teresh, the two officials who had guarded the entrance to the king's rooms. He read the account of when Mordecai had found out that they planned to assassinate King Ahasuerus and that he had told the king about it.
-\v 3 The king asked, "What was done to honor Mordecai for what did?" The young men serving the king answered, "Nothing has been done for him."
+\v 3 The king asked, "What was done to honor Mordecai for what he did for the king?" The young men serving the king answered, "Nothing has been done for him."
 </usfm>
 
 
@@ -26,7 +26,7 @@
 \p
 \v 1 That night the king could not sleep. He commanded servants to bring the records of the events of his reign, and they were being read aloud to the king.
 \v 2 It was found recorded there that Mordecai had told about Bigthana and Teresh, two of the king's officials who guarded the entrance, who had tried to harm King Ahasuerus.
-\v 3 The king asked, "What was done to give honor or recognition to Mordecai for doing this?" Then the king's young men, his servants said, "Nothing was done for him."
+\v 3 The king asked, "What was done to give honor or recognition to Mordecai for doing this?" Then the king's young men who served him said, "Nothing was done for him."
 </usfm>
 
 
@@ -42,9 +42,10 @@
  
 ===== translationNotes: =====
 
-  * **Bigthana and Teresh** - Translate as in [[:en:bible:notes:est:02:19|Esther 2:21]]
-  * **two of the king's officials** - "2 of the king's officials" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **Nothing was done for him.** - "The king did not do anything for Mordecai." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Bigthana and Teresh** - These are the names of two men. They were spoken of in [[:en:bible:notes:est:02:19|2:21]], but Bigthana's name was spelled "Bigthan" there. You may translate his name as you did there or according to how it is spelled in this verse. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **It was found recorded there** - Here "found" is an metaphor for learning. Both "found" and "recorded" can be expressed in active form. AT: "They found that the writers had recorded there" or "They learned that the writers had written" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **What was done to give honor** - This can be expressed in active form. AT: "What did I do to give honor" or "What did we do to give honor " (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Nothing was done for him** - This can be expressed in active form. However it may be good to find a way that does not give the impression that servants were accusing the king. AT: "No one did anything for Mordecai" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
  
 ===== Links: =====
@@ -60,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

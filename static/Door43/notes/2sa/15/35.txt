@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 35 And will you not have there with you Zadok and Abiathar the priests? So whatever you hear in the king's palace, you must tell it to Zadok and Abiathar the priests.
+\v 35 Will you not have the priests Zadok and Abiathar with you? So whatever you hear in the king's palace, you must tell it to Zadok and Abiathar the priests.
 \v 36 See that they have there with them their two sons, Ahimaaz, Zadok's son, and Jonathan, Abiathar's son. You must send to me by their hand everything that you hear."
 \v 37 So Hushai, David's friend, came into the city as Absalom arrived and entered into Jerusalem.
 </usfm>
@@ -40,10 +40,10 @@
   * [[:en:obe:other:jerusalem]]
 ===== translationNotes: =====
 
-  * **And will you not have there with you Zadok and Abiathar the priests?** - This rhetorical question is asked to show that Hushai will not be alone. It can be translated as a statement and implied information can be added. AT: "Zadok and Abiathar the priests will be there to help you." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]]}
-  * **So whatever you hear in the king's palace, you must tell it to Zadok and Abiathar the priests** - David wanted Hushai to remain behind, so he could be a spy and pass information along through the priests.
+  * **Will you not have there with you Zadok and Abiathar the priests?** - David asks this rhetorical question to tell Hushai that he will not be alone. This can be written as a statement. AT: "Zadok and Abiathar the priests will be there to help you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **whatever you hear ... anything that you hear** - This is an exaggeration; it does not mean every single word he hears. It means all of the important and insightful things that he hears. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
   * **Ahimaaz ... Jonathan** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **You must send to me by their hand** - Here the metonym "their hand" refers to the sons. AT: "The sons must tell me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **by their hand** - The phrase "their hand" refers to the sons and means that they were to serve as messengers. AT: "their sons to tell me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -57,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

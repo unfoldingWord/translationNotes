@@ -50,8 +50,11 @@
  
 ===== translationNotes: =====
 
-  * **But now ask ... will declare to you.** - These 4 statements in both verses all express one idea. (See: [[:en:ta:vol2:translate:figs_parallelism]])
- 
+  * **But now ask ... will declare to you.** - These 4 statements all express the idea that the beasts, the birds, the earth, and the fish understand God better than Job's friends do. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_irony]])
+  * **But now ask the beasts, and they will teach you** - The imperative in the first part of the sentence functions as a hypothetical condition. AT: "But if you were to ask the beasts, they would teach you" (See: [[:en:ta:vol2:translate:figs_imperative]] an [[:en:ta:vol1:translate:figs_hypo]])
+  * **ask the birds of the heavens, and they will tell you** - The imperative in the first part of the sentence functions as a hypothetical condition. AT: if you were to ask the birds of the heavens, they would tell you" (See: [[:en:ta:vol2:translate:figs_imperative]] an [[:en:ta:vol1:translate:figs_hypo]])
+  * **Or speak to the earth, and it will teach you** - The imperative in the first part of the sentence functions as a hypothetical condition. AT: Or if you were to speak to the earth, it would teach you" (See: [[:en:ta:vol2:translate:figs_imperative]] an [[:en:ta:vol1:translate:figs_hypo]])
+  * **the fish of the sea will declare to you** - The imperative "Ask the fish of the sea" is understood from the previous sentences. It functions as a hypothetical condition. AT: "and if you were to ask the fish of the sea, they would declare to you" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_imperative]] and [[:en:ta:vol1:translate:figs_hypo]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -65,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

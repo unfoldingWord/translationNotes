@@ -50,10 +50,9 @@
 
   * **General Information:** - Zophar continues speaking with Job.
 
-  * **Do you not know this fact from ancient times** - Zophar uses a question to cause Job to think deeply about what he will now say. AT: "Surely you know what has been true since the ancient times" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the triumph of a wicked man is short** - "the wicked person only celebrates for a little while"
-  * **the joy of a godless man lasts only for a moment** - This means the same thing as "the triumph of the wicked is short." Zophar means their joy will not continue for a long time. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_hyperbole]])
-
+  * **Do you not know this fact from ancient times ... for a moment?** - Zophar uses a question to cause Job to think deeply about what he will now say. AT: "Surely you know what has been true since the ancient times ...  for a moment." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the triumph of a wicked man is short** - The abstract noun "triumph" can be expressed with the verbs "triumph" or "celebrate." AT: "the wicked man triumphs only a short time" or "the wicked person only celebrates for a little while" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the joy of a godless man lasts only for a moment** - The abstract noun "joy" can be expressed with the verb "rejoice" or the adjective "happy." The word "moment" is an exaggeration to emphasize that the time is very short. AT: "a godless man rejoices for only a moment" or "the godless man is happy for only a very short time" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_hyperbole]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -61,6 +60,6 @@
   * [[:en:bible:questions:comprehension:job:20]]
 **[[:en:bible:notes:job:20:01|<<]] | [[:en:bible:notes:job:20:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

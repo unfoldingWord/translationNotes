@@ -38,7 +38,7 @@
 
 <usfm>
 \c 104
-\p
+\m
 \q
 \v 1 I give praise to Yahweh with all my life,
 \q Yahweh my God, you are very magnificent;
@@ -67,13 +67,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]. This psalm is a song of praise.
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - This psalm is a song of praise.
 
   * **with all my life** - "with all of me" or "with all my soul." This phrase means that he will praise Yahweh wholeheartedly and is used to emphasize his devotion to him. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **you are clothed with splendor and majesty** - The words "splendor" and "majesty" have similar meanings and emphasize the greatness of Yahweh's glory. They are described as clothing Yahweh like a garment. AT: "you have splendor and majesty all around you" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **You cover yourself with light as with a garment** - Yahweh is described as being covered with light as if the light were a garment around him. AT: "You are covered in light" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **you spread out the heavens like a tent curtain** - Here God is described as spreading out the heavens like someone spreads out a tent when setting it up. AT: "you spread out the heavens like someone sets up a tent" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **You lay the beams of your chambers on the clouds** - "You build your bedroom in the heavens"
+  * **You lay the beams of your chambers on the clouds** - "You build your upper rooms in the heavens." This is referring to his house is so tall that the upper floor extends into the clouds.
   * **you make the clouds your chariot** - Here the clouds are described as carrying Yahweh as if they were a chariot. AT: "you make the clouds carry you like a chariot" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **you walk on the wings of the wind** - Here the blowing of the wind is described as wings on which Yahweh walks. AT: "you walk upon the wind" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
@@ -84,6 +85,6 @@
   * [[:en:bible:questions:comprehension:psa:104]]
 **[[:en:bible:notes:psa:103:020|<<]] | [[:en:bible:notes:psa:104:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

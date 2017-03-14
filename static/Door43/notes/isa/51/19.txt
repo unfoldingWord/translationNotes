@@ -23,18 +23,17 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 You have experienced several disasters:
+\v 19 You have experienced these disasters:
 \q2 Your country has become desolate;
 \q1 your cities have been destroyed;
 \q2 many people have died from hunger;
 \q2 many people have been killed by your enemies' swords.
 \q1 Now there is no one to weep with you and sympathize with you.
 \q1
-\v 20 Your children have fainted and lie in the streets;
+\v 20 Your children have fainted and lie at the corner of every street;
 \q2 they are as helpless as an antelope that has been caught in a net.
 \q1 What has happened to them is because Yahweh has been very angry with them;
 \q2 he has rebuked them severely.
-\b
 
 
 \q1
@@ -45,11 +44,11 @@
 
 <usfm>
 \q1
-\v 19 These two troubles happened to you—who will grieve with you?— 
+\v 19 These two troubles happened to you—who will grieve with you?—
 \q1 desolation and destruction, and the famine and the sword. Who will comfort you?
 \f + \ft The Hebrew text and some modern versions have \fqa How will I comfort you? \fqb , most modern versions correct this passage to \fqa Who will comfort you? \fqb  \f*
 \q1
-\v 20 Your sons have fainted; they lie at every street corner, like an antelope in a net; 
+\v 20 Your sons have fainted; they lie at every street corner, like an antelope in a net;
 \q1 they are filled with the anger of Yahweh, the rebuke of your God.
 </usfm>
 
@@ -66,11 +65,15 @@
 
   * **General Information:** - Isaiah continues speaking to the people of Israel.
 
-  * **who will grieve with you? ... Who will comfort you?** - Isaiah uses questions to emphasize that now there is no one to weep with them or comfort them. AT: "Now there is no one to weep with you and sympathize with you." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **desolation and destruction** - "your enemies have left your city empty and ruined"
-  * **and the famine and the sword** - "and many of you have died from hunger and war"
-  * **like an antelope in a net** - This means their children are completely helpless like an animal in a trap. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **antelope** - an animal with horns that runs very fast (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **who will grieve with you? ... Who will comfort you?** - Isaiah uses questions to emphasize that now there is no one to weep with them or comfort them. These questions may be written as statements. AT: "but there is no one to grieve with you ... There is no one to comfort you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **These two troubles** - The two troubles refer to the following two phrases: "desolation and destruction" and "the famine and the sword."
+  * **desolation and destruction** - These words have similar meanings and emphasize the destruction of the land caused by the opposing army. AT: "your enemies have left your city empty and ruined" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **the famine and the sword** - The words "famine" and "sword" describe the trouble that will come upon the people. The "sword" refers to "war." AT: "many of you have died from hunger and war" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they lie at every street corner** - This is generalization, that means many children will lie in the street, but not necessarily on every street corner. AT: "they lie on the street" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **like an antelope in a net** - This speaks of the children being exhausted and helpless as if they were an antelope caught in a trap. AT: "they are helpless, like an antelope caught in a net" or "as helpless as a trapped antelope" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **antelope** - This is an animal, similar to a deer, that has horns and runs very fast. AT: "deer" (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **they are filled with the anger of Yahweh, the rebuke of your God** - The "anger of Yahweh" refers to Yahweh punishing his people because of his anger against them. This speaks of the people having been severely punished as if they had become full of Yahweh's anger. Also, the word "rebuke" can be written as a verb. AT: "they have been severely punished by Yahweh because he was angry with them and rebuked them" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+
 
  
 ===== Links: =====
@@ -80,6 +83,6 @@
   * [[:en:bible:questions:comprehension:isa:51]]
 **[[:en:bible:notes:isa:51:17|<<]] | [[:en:bible:notes:isa:51:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

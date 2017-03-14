@@ -20,7 +20,7 @@
 \q2 and so I obey your laws.
 \q1
 \v 56 What I have always done is to obey your principles of behavior.
-\b
+
 
 
 \q1
@@ -36,7 +36,6 @@
 \q
 \v 56 This has been my practice
 \q because I have observed your instructions.
-\b
 </usfm>
 
 
@@ -49,9 +48,10 @@
 
 ===== translationNotes: =====
 
-  * **I keep your law** - To obey the Law is like that of securely holding or keeping something. AT: "I obey your law" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I think about your name** - Here the word "name" represents Yahweh himself. AT: "I think about you, Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I keep your law** - This is an idiom which means to obey the law. AT: "I obey your law" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **my practice** - "my habit"
-  * **I have observed your instructions** - To observe instructions are to follow or obey those instructions. AT: "I have obeyed your instructions" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I have observed your instructions** - This is an idiom which means to follow or to obey those instructions. AT: "I have obeyed your instructions" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -59,6 +59,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:053|<<]] | [[:en:bible:notes:psa:119:057|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

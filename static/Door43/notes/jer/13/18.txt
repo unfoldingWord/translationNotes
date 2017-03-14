@@ -28,7 +28,6 @@
 \q2 and no one will be able to get through their lines to rescue the people in those towns.
 \q1 You people of Judah will be captured and taken away;
 \q2 you will all be exiled.
-\b
 
 
 \q1
@@ -37,7 +36,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q
 \v 18 "Say to the king and to the queen mother, 'Humble yourselves and sit down,
 \q for the crowns on your head, your pride and glory, have fallen off.'
@@ -61,10 +59,11 @@
 
   * **General Information:** - Yahweh is continuing to talk to Jeremiah. He is telling Jeremiah what to say to the king of Judah and the king's mother.
 
-  * **for the crowns on your head, your pride and glory, have fallen off** - "You will no longer be king and queen mother" (See symbolic action)
-  * **queen mother** - the mother of the king.
+  * **for the crowns on your head, your pride and glory, have fallen off** - A king and queen mother were crowns to represent their royal positions as the king and queen mother. Also, this event has not happened yet, but it is written here as if it already has. This can be written in future tense. AT: "for you will no longer be the king and queen mother, for your crowns, your pride and glory, will fall off" (See: [[:en:ta:vol2:translate:translate_symaction]] and [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **queen mother** - the mother of the king
+  * **The cities in the Negev will be shut up, with no one to open them** - This means that the cities will be surrounded by their enemies who will not allow any one to come in or out of the cities. AT: "The cities in the Negev will be shut up, and no one will be able to go into them or out of them" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **The cities in the Negev will be shut up** - "Your enemies will shut the cities in the Negev up" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
-  * **Judah will be taken captive** - "The enemies will take Judah captive" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Judah will be taken captive, all of her into exile** - Here "Judah" represents the people who live there. This can be stated in active form. AT: "The enemies will take the people of Judah captive, they will take all of her people into exile" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -73,6 +72,6 @@
   * [[:en:bible:questions:comprehension:jer:13]]
 **[[:en:bible:notes:jer:13:15|<<]] | [[:en:bible:notes:jer:13:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

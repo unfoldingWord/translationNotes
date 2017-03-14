@@ -21,12 +21,13 @@
 ===== ULB: =====
 
 <usfm>
-\v 16 One who looked like a human being touched my lips, and I opened my mouth and spoke to him who stood before me, "My master, I am in agony because of the vision, and I have no strength left. 
+\v 16 One who was like the sons of man touched my lips, and I opened my mouth and spoke to him who stood before me: "My master, I am in agony because of the vision; I have no strength left.
 \v 17 I am your servant. How can I talk with my master? For I now have no strength, and there is no breath left in me."
 </usfm>
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:sonofman]]
   * [[:en:obe:kt:lord]]
   * [[:en:obe:other:vision]]
   * [[:en:obe:other:servant]]
@@ -34,10 +35,11 @@
 
 ===== translationNotes: =====
 
-  * **One who looked like a human being** - This refers to the one who had just spoken to Daniel. AT: "This one who looked like a human"
+  * **One who was like the sons of man** - This may refer to the one who had just spoken to Daniel. However, some versions interpret it as referring to a different person. AT: "This one, who looked like a human"
+  * **like the sons of man** - Here this expression refers to human beings in general. AT: "like a human being" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **agony** - severe emotional suffering
-  * **I am your servant. How can I talk with my master?** - The question emphasizes that Daniel cannot speak to the angel because Daniel is not his equal. These sentences can be combined. AT: "I am not able to answer you because I am only your servant" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **there is no breath left in me** - This idiom refers to breathing. AT: "I cannot breathe" or "it's very hard to breathe" (See: [[:en:ta:vol1:translate:figs_idiom]]).
+  * **I am your servant. How can I talk with my master?** - Daniel asks this question meaning that he cannot speak to the angel because he is not the angel's equal. These sentences can be combined. AT: "I am not able to answer you because I am only your servant" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **there is no breath left in me** - This idiom refers to breathing. AT: "I cannot breathe" or "it's very hard to breathe" (See: [[:en:ta:vol2:translate:figs_metonymy]]).
 
 
 ===== Links: =====
@@ -47,6 +49,6 @@
   * [[:en:bible:questions:comprehension:dan:10]]
 **[[:en:bible:notes:dan:10:14|<<]] | [[:en:bible:notes:dan:10:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

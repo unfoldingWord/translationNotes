@@ -32,7 +32,7 @@
 <usfm>
 \v 20 So Joab answered and said, "Far be it, far be it from me, that I should swallow up or destroy.
 \v 21 That is not true. But a man from the hill country of Ephraim, named Sheba son of Bichri, has lifted up his hand against the king, against David. Give up him alone, and I will withdraw from the city." The woman said to Joab, "His head will be thrown to you over the wall."
-\v 22 Then the woman went to all the people in her wisdom. They cut off the head of Sheba son of Bichri, and threw it out to Joab. Then he blew the trumpet and Joab's men left the city, every man to his home. And Joab returned to Jerusalem to the king.
+\v 22 Then the woman went to all the people in her wisdom. They cut off the head of Sheba son of Bichri, and threw it out to Joab. Then he blew the trumpet and Joab's men left the city, every man to his home. Then Joab returned to Jerusalem to the king.
 </usfm>
 
 
@@ -47,13 +47,15 @@
 ===== translationNotes: =====
 
 
-  * **Far be it, far be it from me** - He repeats this phrase to emphasize that this is something he would never do. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **swallow up or destroy** - Both of these words mean the same thing. AT: "ruin or destroy your city" 
-  * **lifted up his hand against** - This means to rebel and fight against someone. Here the metonym "hand" represents the power of a person. (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **Give up him alone** - "Hand this man over to us" or "Give this man to us"
-  * **I will withdraw from the city** - Here the "I" refers to both Joab and his soldiers.  
+  * **Far be it, far be it from me, that I should** - He repeats this phrase to emphasize that this is something he would never do. AT: "Truly, truly, I would never" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **that I should swallow up or destroy** - This refers to destroying the city. This may be added. AT: "that I should swallow up or destroy your city" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **swallow up or destroy** - Both of these phrases means to destroy. In the first phrase "destroying" is spoken of as if it were "swallowing." These may be combined. AT: "ruin or destroy the city" or "destroy" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **has lifted up his hand against** - This means to rebel and fight against someone. AT: "has opposed" or "is rebelling against" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **Give up him alone** - Joab is asking for the people of the city to release Sheba to him. AT: "Hand this man over to us" or "Give this man to us" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **I will withdraw from the city** - Here the "I" refers to both Joab and his soldiers. AT: "We will withdraw from the city" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **His head will be thrown** - This can be stated in active form. AT: "We will throw his head" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Then the woman went to all the people in her wisdom** - "Then the wise woman spoke to all the people"
+  * **Then the woman went to all the people in her wisdom** - This means that the woman acted wisely and spoke to her people about what they should do. AT: "Then the wise woman spoke to all the people" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **every man to his home** - "every man went to his own home"
  
 ===== Links: =====
 
@@ -68,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

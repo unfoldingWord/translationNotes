@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 When the land of Israel is divided among the twelve tribes, you must present to Yahweh one part of the land to be a sacred district. It will be about 13.5 kilometers long and about 5.4 kilometers wide. This entire area will be reserved for Yahweh.
+\v 1 When the land of Israel is divided among the twelve tribes, you must present to Yahweh one part of the land to be a sacred district. It will be thirteen and one-half kilometers long and five and two-fifth kilometers wide. This entire area will be reserved for Yahweh.
 \v 2 Part of that area, a square about 270 meters long on each side will be left empty all around the temple area. An additional strip of ground, about twenty-seven meters wide, will be left empty all around the temple area.
 </usfm>
 
@@ -19,9 +19,9 @@
 <usfm>
 \c 45
 \p
-\v 1 When you cast lots to divide up the land as an inheritance, you must make an offering to Yahweh; this offering will be a holy part of the land, twenty-five thousand long cubits in length, and ten thousand long cubits wide. It will be holy, all its area round about.
+\v 1 When you cast lots to divide up the land as an inheritance, you must make an offering to Yahweh; this offering will be a holy part of the land, twenty-five thousand in length cubits in length, and ten thousand in length cubits in width. It will be holy, all its area round about.
 \f + \ft Instead of \fqa ten thousand \fqa* , which the Hebrew text and some modern versions have, some ancient copies and many modern versions have \fqa twenty thousand \fqa* . \f*
-\v 2 From this there will be a five hundred cubits by five hundred cubits square surrounding the holy place, with a surrounding border fifty cubits wide.
+\v 2 From this there will be a five hundred cubits by five hundred cubits square surrounding the holy place, with a surrounding border fifty cubits in width.
 </usfm>
 
 ===== translationWords: =====
@@ -36,7 +36,8 @@
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to the house of Israel. 
 
-  * **all its area round about** - "all of the area inside of the borders that go around it"
+  * **twenty-five thousand long cubits ... ten thousand long cubits ... five hundred cubits ... fifty cubits** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "25,000 long cubits ... 10,000 long cubits ... 500 cubits ... 50 cubits" or "about 13.5 kilometers ... about 5.4 kilometers ... about 270 meters ... about 27 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **all its area round about** - "all of the area inside of the borders around it"
  
 ===== Links: =====
 
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:ezk:45]]
 **[[:en:bible:notes:ezk:44:30|<<]] | [[:en:bible:notes:ezk:45:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

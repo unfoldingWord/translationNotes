@@ -34,8 +34,8 @@
 \v 11 Why did I not die when I came out from the womb?
 \q Why did I not give up my spirit when my mother bore me?
 \q
-\v 12 Why did her knees receive me?
-\q Or why did her breasts welcome me so that I should nurse at them?
+\v 12 Why did her knees welcome me?
+\q Why did her breasts receive me so that I should suck?
 </usfm>
 
 
@@ -47,10 +47,13 @@
 
 ===== translationNotes: =====
 
-  * **Why did I not die when I came out from the womb?** - "Why did I not die at birth?" Job poses this question in order to curse the day of his birth and to express his anguish. AT: "I wish I had died the day I was born." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why did I not give up my spirit when my mother bore me?** - "Why did I not die when I came out from the womb?" AT: "I wish I had died when I came out of the womb." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why did her knees receive me?** - "Why was there a lap to receive me?" AT: "I wish there had been no lap to receive me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **why did her breasts welcome me so that I should nurse at them?** - "Why were there breasts that I might nurse?" AT: "I wish there had been no breasts for me to nurse." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **General Information:** - This passage contains four rhetorical questions, which Job asks in order to really make a series of statements.
+
+  * **Why did I not die when I came out from the womb?** - "Why did I not die at birth?" Job poses this question in order to curse the day of his birth and to express his anguish. AT: "I wish I had died the day I was born" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Why did I not give up my spirit when my mother bore me?** - Job means to say that he should not have been born alive. AT: "I wish I had died when I came out of the womb." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **give up my spirit** - This refers to dying.  (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Why did her knees welcome me?** - This perhaps refers to the lap of Job's mother. His mother's knees are spoken of as if they were people who could welcome a newborn baby. AT: "I wish there had been no lap to receive me." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **Why did her breasts receive me so that I should suck?** - Job's mother's breasts are spoken of as if they also were people who could welcome a newborn baby. AT: "I wish there had been no breasts for me to nurse." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_personification]]) 
 
 ===== Links: =====
 
@@ -59,6 +62,6 @@
   * [[:en:bible:questions:comprehension:job:03]]
 **[[:en:bible:notes:job:03:08|<<]] | [[:en:bible:notes:job:03:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

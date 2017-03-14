@@ -31,11 +31,11 @@
 
 <usfm>
 \q
-\v 34 You will be as one who sleeps on the high seas 
-\q or lies on the top of a rigging.
+\v 34 You will be as one who sleeps on the high seas
+\q or lies on the top of a mast.
 \q
-\v 35 "They hit me!" you will say, "but I was not hurt. 
-\q They beat me, but I did not feel it. 
+\v 35 "They hit me," you will say, "but I was not hurt.
+\q They beat me, but I did not feel it.
 \q When will I wake up? I will seek another drink."
 </usfm>
 
@@ -44,10 +44,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This is the continuation of the description of a drunk person: 
+  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]). It is the continuation of the description of a drunk person. 
 
-  * **rigging** - the ropes and chains used to support the sails of a ship or boat. 
-  * **They hit me!" you will say, "but I was not hurt. They beat me, but I did not feel it.** - Because the drunk person is not thinking clearly, he is imagining that people are hitting and beating him. Yet, he feels no pain or cannot remember it because he is drunk.
+  * **lies on the top of a mast** - The place on the mast where the person lies can be made explicit. AT: "lies in the basket near the top of a mast" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **mast** - the long wooden pole to which are attached the sails of a sailing ship
+  * **They hit me, ... but I was not hurt. They beat me, but I did not feel it.** - Because the drunk person is not thinking clearly, he is imagining that people are hitting and beating him, yet he feels no pain and cannot remember anything.
   * **When will I wake up?** - The drunk person is wondering when he will be sober again; when the effect of the wine will stop. 
  
 ===== Links: =====
@@ -63,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

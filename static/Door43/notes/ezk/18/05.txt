@@ -51,7 +51,10 @@
   
 ===== translationNotes: =====
 
-  * **has not eaten on the mountains ... has not lifted up his eyes to the idols** - These phrases refer to idol worship. People ate the food at the mountain shrines to honor the idols. The phrase "lifted up his eyes" refers to looking at the idols and honoring them. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he has not eaten on the mountains** - People often worshiped and offered sacrifices to pagan gods on the mountains. It is implied that this person has not participated in these kinds of pagan rituals. AT: "he has not eaten meat sacrificed to idols on the mountains" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **he has not lifted up his eyes to the idols** - The idiom "lifted up his eyes" refers to looking toward something. With reference to idols, this gesture represents worshiping or praying to idols. AT: "he has not worshiped the idols" or "he has not prayed to the idols" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate as in [[:en:bible:notes:ezk:03:16|3:1]]. AT: "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **approached a woman during her monthly period** - It is implicit that he has not approached a woman in order to sleep with her. AT: "approached a woman to sleep with her during her monthly period" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -60,6 +63,6 @@
   * [[:en:bible:questions:comprehension:ezk:18]]
 **[[:en:bible:notes:ezk:18:03|<<]] | [[:en:bible:notes:ezk:18:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

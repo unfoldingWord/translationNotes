@@ -43,12 +43,14 @@
 
 ===== translationNotes: =====
 
-  * **the house of Israel** - See how you translated this in [[:en:bible:notes:ezk:03:01|3:1]]. 
-  * **resist in battle** - "defend"
+  * **the wall around the house of Israel** - This refers to the wall surrounding the city of Jerusalem.
+  * **house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate as in [[:en:bible:notes:ezk:03:16|3:1]]. AT: "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **resist in battle** - You can supply the implicit information here. AT: "resist the enemy armies" or "defend the city" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the day of Yahweh** - This refers to the time when Yahweh will judge his people by means of an enemy army. AT: "the day of Yahweh's judgment" or "the day when Yahweh judges you by sending enemy armies to attack you" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **Have you not had false visions ... when I myself have not spoken?** - Yahweh uses a question to rebuke the false prophets. AT: "You have had false visions ... because I myself have not spoken." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **had false visions and made false predictions** - Since the false prophets have not really received a message from Yahweh, what they predict about the future is not true.
-  * **Such and such** - This is a phrase used to refer to anything the prophet may have said. Your language may have another way to say this. "Yahweh told me this" (UDB)
-  * **Yahweh's declaration** - See how you translated this in [[:en:bible:notes:ezk:05:11|5:11]].
+  * **Such and such** - This is a phrase used to refer to anything the prophet may have said. Your language may have another way to say this. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Yahweh's declaration** - "is what Yahweh has declared"
 
 ===== Links: =====
 
@@ -63,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

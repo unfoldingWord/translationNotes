@@ -25,7 +25,7 @@
 \q
 \v 25 I selected their way and sat as their chief;
 \q I lived like a king in his army,
-\q like one who comforts mourners at a funeral.
+\q like one who comforts mourners.
 </usfm>
 
 
@@ -36,9 +36,11 @@
 
 ===== translationNotes: =====
 
-  * **like a king** - Job treated the people like a good ruler or king. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **like one who comforts** - Job was compassionate among the people. 
-
+  * **I selected their ways** - Here "selected their ways" represents deciding what they should do. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **sat as their chief** - Here "sat" represents ruling or leading. Chiefs sat down when they made important decisions. AT: "led them as their chief" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **sat as their chief** - Job was their chief. AT: "led them because I was their chief" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I lived like a king with his army** - Job speaks of how he led the people and how they obeyed him as if he were a king and they were his army.  (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **I was like one who comforts mourners** - This phrase means that Job actually was one who comforted people. AT: "I comforted them when they mourned" 
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:job:29]]
 **[[:en:bible:notes:job:29:23|<<]] | [[:en:bible:notes:job:30:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -23,8 +23,6 @@
 \q1
 \v 2 Many people are saying about me,
 \q2 "God will certainly not help him."
-\qr 
-\b
 
 
 \q2
@@ -35,15 +33,14 @@
 
 <usfm>
 \c 3
-\p
+\m
 \d A psalm of David, when he fled from Absalom his son.
-\b
 \q
 \v 1 Yahweh, how many are my enemies!
 \q Many have risen against me.
 \q
 \v 2 Many say about me,
-\q "There is no help for him from God." 
+\q "There is no help for him from God."
 \qs Selah\qs*
 </usfm>
 
@@ -60,7 +57,7 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **Yahweh, how many are my enemies!** - This exclamation shows that David is afraid of his enemies. AT: "Oh Yahweh, I have so many enemies!" (See: [[:en:ta:vol2:translate:figs_exclamations]])
@@ -73,6 +70,6 @@
   * [[:en:bible:questions:comprehension:psa:003]]
 **[[:en:bible:notes:psa:002:012|<<]] | [[:en:bible:notes:psa:003:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish absalom p2check book1}}
+~~DISCUSSION~~{{tag>publish absalom p2pass book1}}
 
 ~~NOCACHE~~

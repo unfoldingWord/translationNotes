@@ -19,7 +19,6 @@
 <usfm>
 \v 3 You, his people, will greatly rejoice because he has rescued you,
 \q2 like you enjoy drinking water from a fountain.
-\b
 \p
 \v 4 At that time you will say,
 \q1 "We should thank Yahweh! We should praise him !
@@ -36,7 +35,7 @@
 \q1
 \v 3 With joy you will draw water from the wells of salvation.
 \q1
-\v 4 On that day you will say, "Give thanks to Yahweh and call upon his name; 
+\v 4 On that day you will say, "Give thanks to Yahweh and call upon his name;
 \q1 declare his deeds among the peoples, proclaim that his name is exalted.
 </usfm>
 
@@ -56,11 +55,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Here Isaiah continues to describe what it will be like when the Branch of Jesse comes. (See: [[:en:bible:notes:isa:11:01|11:1-2]])
-
-  * **With joy you will draw water from the wells of salvation** - The word "you" refers to the people of Israel, but Isaiah includes himself as part of Israel. AT: "We will be refreshed as with water because God has rescued us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **call upon his name** - Here "name" refers to Yahweh. AT: "speak loudly to Yahweh and praise him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **declare his deeds among the peoples, proclaim that his name is exalted** - "tell everyone in the world what Yahweh has done and that he is great" 
+  * **With joy you will draw water from the wells of salvation** - Isaiah speaks of people being saved as if they were getting salvation the way people get water out of well. AT: "you will rejoice when he saves you, as people rejoice when they draw water from a well" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **call upon his name** - Here "his name" refers to Yahweh. Calling on him represents either praising him or asking him for help. AT: "praise him loudly" or "call to him to help you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **declare his deeds among the peoples** - The noun "deeds" can be expressed with the phrase "what he has done". AT: "Tell the peoples about the great things he has done" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **proclaim that his name is exalted** - Here "his name" refers to Yahweh. AT: "proclaim that he is exalted" or "proclaim that he is great" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -68,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:12]]
 **[[:en:bible:notes:isa:12:01|<<]] | [[:en:bible:notes:isa:12:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

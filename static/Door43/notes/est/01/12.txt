@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 But Queen Vashti refused to come at the word of the king that has been brought to her by the officials. Then the king became very angry; his rage burned within him.
+\v 12 But Queen Vashti refused to come at the word of the king that had been brought to her by the officials. Then the king became very angry; his rage burned within him.
 </usfm>
 
 
@@ -29,20 +29,20 @@
 
 ===== translationNotes: =====
 
+  * **at the word of the king that had been brought to her by the officials** - This can be stated in active form. AT: "when the king's officials told her about his command" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **at the word** - Here "word" refers to the entire command. AT: "at the command" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **his rage burned within him** - The intensity of the king's anger is spoken of as if it was a fire that burned inside him. AT: "his rage was as intense as a fire inside him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
   * [[:en:bible:notes:est:01:00]]
   * [[:en:bible:questions:comprehension:est:01]]
-
- 
-
 **[[:en:bible:notes:est:01:09|<<]] | [[:en:bible:notes:est:01:13|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

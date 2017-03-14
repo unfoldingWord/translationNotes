@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 34 This will always be a statute for you, to make atonement for the people of Israel because of all their sins, once in every year." And it was done as Yahweh commanded Moses.
+\v 34 This will always be a statute for you, to make atonement for the people of Israel because of all their sins, once in every year." This was done as Yahweh commanded Moses.
 </usfm>
 
 ===== translationWords: =====
@@ -32,7 +32,7 @@
 
   * **General Information:** - Yahweh finishes telling Moses what the people must do on the Day of Atonement.
 
-  * **And it was done as Yahweh commanded Moses** - This can be translated in active form. AT: "And Moses did as Yahweh commanded" or "And Aaron did was Yahweh commanded Moses" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **This was done as Yahweh commanded Moses** - This can be translated in active form. AT: "And Moses did as Yahweh commanded" or "And Aaron did as Yahweh commanded Moses" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -41,6 +41,6 @@
   * [[:en:bible:questions:comprehension:lev:16]]
 **[[:en:bible:notes:lev:16:32|<<]] | [[:en:bible:notes:lev:17:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

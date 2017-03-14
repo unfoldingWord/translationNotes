@@ -47,9 +47,10 @@
 
   * **General Information:** - Elihu continues speaking to Job.
 
-  * **Man is punished also** - AT: "God also punishes a person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **so that his life abhors food, and his soul abhors delicacies** - These two phrases mean basically the same thing, that the person is in so much pain that he cannot even eat. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **abhors delicacies** - "hates even his favorite food"
+  * **Man is punished also** - This can be stated in active form. AT: "God also punishes a person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **with pain on his bed** - This means that the person is experiencing such pain that he must lie in bed. AT: "with pain so that he must lie in bed" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **so that his life abhors food, and his soul abhors delicacies** - These two phrases mean basically the same thing, that the person is in so much pain that he cannot even eat. The person is represented by his "life" and his "soul." AT: "The result is that he does not desire any food, not even very special food" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **abhors delicacies** - "hates even very special food"
  
 ===== Links: =====
 
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:job:33]]
 **[[:en:bible:notes:job:33:16|<<]] | [[:en:bible:notes:job:33:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

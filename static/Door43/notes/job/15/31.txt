@@ -59,10 +59,11 @@
 
 ===== translationNotes: =====
 
-  * **his branch will not be green** - "he will look dead, just like the branch of a dead tree does not look green" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for uselessness will be his reward** - The missing words can be added. AT: "for if he trusts in them, uselessness will be his reward" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **his branch will not be green** - This speaks of the man looking pale and dead as if he were a dried out stalk or tree branch. AT: "he will look dead, just like the branch of a dead tree does not look green" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **He will drop his ... he will cast off his** - These two lines give a similar image, which is repeated to emphasize that this will surely happen. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **He will drop his unripe grapes like a grapevine** - "Just like a grapevine drops its unripe grapes, so the wicked man will drop his strength" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he will cast off his flowers like the olive tree** - "just like an olive tree casts off its flowers, so the wicked man will cast off his strength" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He will drop his unripe grapes like a grapevine** - This speaks of the wicked man growing weak and dying as if he were a grapevine dropping unripe grapes. AT: "Just like a grapevine drops its unripe grapes, so the wicked man will drop his strength" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he will cast off his flowers like the olive tree** - This speaks of the wicked man growing weak and dying as if he were were an olive tree dropping its flowers. At: "just like an olive tree looses its flowers, so the wicked man will loose his strength" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -71,6 +72,6 @@
   * [[:en:bible:questions:comprehension:job:15]]
 **[[:en:bible:notes:job:15:29|<<]] | [[:en:bible:notes:job:15:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit grape}}
+~~DISCUSSION~~{{tag>publish p2check grape}}
 
 ~~NOCACHE~~

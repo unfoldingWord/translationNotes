@@ -33,7 +33,7 @@
 
 <usfm>
 \q
-\v 5 The plans of those who do right are just,
+\v 5 The plans of the righteous are just,
 \q but the advice of the wicked is deceitful.
 \q
 \v 6 The words of wicked people are an ambush waiting for a chance to kill,
@@ -51,10 +51,9 @@
 
 ===== translationNotes: =====
 
-  * **words** - what people say (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **The words of wicked people are an ambush waiting for a chance to kill** - "What wicked people say is like a trap that kills people who pass by" (See [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the upright** - See how you translated this word in [[:en:bible:notes:pro:03:31|3:32]].
- 
+  * **The words of wicked people are an ambush waiting for a chance to kill** - The deceitful things that wicked people say in order to harm other people are spoken of as if their words are waiting to kill someone by surprise. AT: "The deceitful things wicked people say are like a person who waits to kill someone by surprise" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the words of the upright keep them safe** - "the advice from an upright person keeps people safe"
+  * **the upright** - "the righteous person" or "the honest person" or "the just person" 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -68,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit counselor}}
+{{tag>publish p2pass counselor}}
 
 ~~NOCACHE~~

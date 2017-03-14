@@ -20,10 +20,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 28 In the same way, husbands ought to love their own wives as their own bodies. He who loves his own wife loves himself.
-\v 29 No one ever hated his own body. Instead, he nourishes and loves it, as Christ also loves the church.
-\v 30 For we are members of his body.
-\f + \ft Some early versions add, \fqa and of his bones. \fqb \f*
+\v 28 In the same way husbands ought to love their own wives as their own bodies. He who loves his own wife loves himself.
+\v 29 For no one ever hated his own body, but nourishes and treats it with care, just as Christ nourishes and treats the church with care,
+\v 30 because we are members of his body.
 </usfm>
 
 ===== translationWords: ===== 
@@ -35,9 +34,8 @@
 ===== translationNotes: =====
 
   * **as their own bodies** - That people love their own bodies may be stated explicitly. AT: "as husbands love their own bodies" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **he nourishes** - "he cares for"
-  * **we are members of his body** - Possible meanings are 1) "we are members of his body of believers" or 2) believers fit together to form the body of Christ just as the parts of the human body fit together to form a person. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **but nourishes** - "but feeds" 
+  * **we are members of his body** - Here Paul speaks of the close union of believers with Christ as if they were part of his own body, for which he would naturally care. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:eph:00:intro]]

@@ -33,12 +33,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 5 The horde of your invaders will be like small dust, and the multitude of the ruthless ones as chaff that passes away.
 \q1 It will happen suddenly, in an instant.
 \q1
-\v 6 You will be punished by Yahweh of hosts 
+\v 6 Yahweh of hosts will come to you
 \q1 with thunder, earthquake, great noise, with strong winds and violent storm, and the flames of a devouring fire.
 </usfm>
 
@@ -52,10 +51,10 @@
 
 ===== translationNotes: =====
 
-  * **The horde of your invaders will be like small dust, and the multitude of the ruthless ones as chaff that passes away.** - This emphasizes how weak and insignificant the invading army is before God. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **horde of your invaders** - "the many soldiers of the army that is attacking you"
-  * **the ruthless ones as chaff** - The translator can supply the verb "will be". AT: "the soldiers who show you no mercy will be as chaff" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **You will be punished by Yahweh of hosts** - This can be stated in active form. The word "you" refers to the people of Jerusalem. Possible meanings are 1) "Yahweh of hosts will punish you" or 2) "Yahweh of hosts will help you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The horde of your invaders will be like small dust, and the multitude of the ruthless ones as chaff that passes away** - This emphasizes how weak and insignificant the invading army is before God. AT: "Yahweh will easily remove the horde of your invaders and the multitude of the ruthless ones"(See: [[:en:ta:vol1:translate:figs_simile]])
+  * **horde of your invaders** - "many soldiers that will attack you"
+  * **the ruthless ones as chaff** - The translator can supply the verb "will be." AT: "the soldiers who show you no mercy will be as chaff" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Yahweh of hosts will come to you** - The word "you" refers to the people of Jerusalem. Possible meanings are 1) "Yahweh of hosts will come to help you" or 2) "Yahweh of hosts will come to punish you." (See: [[:en:ta:vol1:translate:figs_you]])
 
 ===== Links: =====
 
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:29]]
 **[[:en:bible:notes:isa:29:03|<<]] | [[:en:bible:notes:isa:29:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

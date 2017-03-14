@@ -20,7 +20,6 @@
 \q1
 \v 14 Has Yahweh ever consulted anyone else to get advice?
 \q2 Does he need someone to tell him what is right to do and how to act justly?
-\b
 
 
 \q1
@@ -32,7 +31,7 @@
 \q1
 \v 13 Who has comprehended the mind of Yahweh, or instructed him as his counselor?
 \q1
-\v 14 From whom did he ever receive instruction? Who taught him the correct way to do things, 
+\v 14 From whom did he ever receive instruction? Who taught him the correct way to do things,
 \q1 and taught him knowledge, or showed to him the way of understanding?
 </usfm>
 
@@ -45,11 +44,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues using questions to emphasize God's endless power and wisdom (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **General Information:** - Isaiah continues using questions to emphasize Yahweh's uniqueness. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
-  * **Who has comprehended the mind of Yahweh, or instructed him as his counselor?** - This emphasizes God's wisdom. AT: "No one knows the mind of Yahweh, and no one can give him council." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **From whom did he ever receive instruction?** - This emphasizes God's wisdom. AT: "He has never received instruction from anyone." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Who taught him the correct way to do things, and taught him knowledge, or showed to him the way of understanding?** - This emphasizes God's wisdom. AT: "No one taught him or gave him knowledge in the correct way to do things, or helped him to understand." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who has comprehended the mind of Yahweh, or instructed him as his counselor?** - This rhetorical question anticipates a negative answer and emphasizes that no one is able to do these things. AT: "No one has comprehended the mind of Yahweh, and no one has instructed him as his counselor." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **comprehended the mind of Yahweh** - Here the word "mind" refers not only to Yahweh's thoughts, but also to his desires and motivations.
+  * **From whom did he ever receive instruction?** - This rhetorical question anticipates a negative answer and emphasizes that no one has ever done this. AT: "He has never received instruction from anyone." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who taught him the correct way to do things, and taught him knowledge, or showed to him the way of understanding?** - This rhetorical question anticipates a negative answer and emphasizes that no one has ever done these things. AT: "No one taught him the correct way to do things. No one taught him knowledge. No one showed to him the way of understanding." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -57,6 +58,6 @@
   * [[:en:bible:questions:comprehension:isa:40]]
 **[[:en:bible:notes:isa:40:12|<<]] | [[:en:bible:notes:isa:40:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

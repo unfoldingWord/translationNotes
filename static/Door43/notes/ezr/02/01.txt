@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 King Nebuchadnezzar's soldiers captured many Israelite people and took them to Babylonia. Many years later, some Israelite people returned to Judah. Some returned to Jerusalem, 
+\v 1 King Nebuchadnezzar's soldiers captured many Israelite people and took them to Babylonia. Many years later, some Israelite people returned to Judah. Some returned to Jerusalem,
 and some returned to other places in Judah. They went to the towns where their ancestors had lived. This is a list of the groups who returned.
 \v 2 The leaders of those people who returned were Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.
 \p The groups of people who returned to Judah are listed next.
@@ -27,9 +27,9 @@ and some returned to other places in Judah. They went to the towns where their a
 \c 2
 \p
 \v 1 These are the people in the province who went up from the captivity of King Nebuchadnezzar, who had exiled them in Babylon, the people who returned to each of their cities of Jerusalem and in Judea.
-\v 2 They came with Zerubbabel, Joshua, Nehemiah, Seraiah, Reeliaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. 
+\v 2 They came with Zerubbabel, Joshua, Nehemiah, Seraiah, Reeliaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.
 \p
-\p This is the record of the men of people of Israel.
+\p This is the record of the men of the people of Israel.
 </usfm>
 
 
@@ -48,9 +48,11 @@ and some returned to other places in Judah. They went to the towns where their a
   * [[:en:obe:other:israel]]
 ===== translationNotes: =====
 
-  * **General Information:** - This begins a list of the names of people that returned from the exile.
+  * **General Information:** - This begins a list of the names of people who returned from the exile.
 
-  * **Seraiah, Reeliaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah** - These are men's names. (See: [[ en:ta:vol1:translate:translate_names]])
+  * **went up** - This is an idiom that refers to traveling toward Jerusalem. AT: "returned" or "came back" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Seraiah, Reeliaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **This is the record** - This refers to the list of men in 2:3-35.
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -61,6 +63,6 @@ and some returned to other places in Judah. They went to the towns where their a
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit zerubbabel nehemiah}}
+{{tag>publish p2pass zerubbabel nehemiah}}
 
 ~~NOCACHE~~

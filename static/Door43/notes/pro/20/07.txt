@@ -33,8 +33,8 @@
 
 <usfm>
 \q
-\v 7 The man who does right walks in his integrity
-\q and his sons who follow after him are happy.
+\v 7 The righteous person walks in his integrity,
+\q and his sons who follow after him will be blessed.
 \q
 \v 8 A king who sits on the throne performing the duties of a judge
 \q is winnowing with his eyes all the evil that is before him.
@@ -53,9 +53,9 @@
  
 ===== translationNotes: =====
 
-
-  * **walks in his integrity** - See how you translated this phrase in [[:en:bible:notes:pro:19:01|19:1]].
-  * **winnowing with his eyes all the evil that is before him** - AT: "seeing and sorting the different forms of evils" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **walks in his integrity** - Here walking refers to living. See how you translated this phrase in [[:en:bible:notes:pro:19:01|19:1]]. AT: "lives by his integrity" or "lives an honest life" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **his sons who follow after him** - This simply means that they "follow after him" since they are younger than he and his children. If this phrase is awkward in your language it may be left to be implied. AT: "his sons after him" or "his sons" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **is winnowing with his eyes all the evil that is before him** - This speaks of the king judging between various types of evil as if he were separating them as a person winnows grain. AT: "sees and sorts the different kinds of evils that are brought before him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -70,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit winnow}}
+{{tag>publish p2pass winnow}}
 
 ~~NOCACHE~~

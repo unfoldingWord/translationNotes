@@ -24,8 +24,8 @@
 <usfm>
 \p
 \v 15 Then all the men who knew that their wives were burning incense to other gods, and all the women who were in the great assembly, and all the people who were living in the land of Egypt in Pathros answered Jeremiah.
-\v 16 They said, "About the word that you have told us in Yahweh's name: We will not listen to you.
-\v 17 For we will certainly do all the things that we said we would do: burn incense to the Queen of Heaven and pour out drink offerings to her just as we, our ancestors, our kings, and our leaders did in the cities of Judah and the streets of Jerusalem. Then we will be filled with food and will prosper, without experiencing any disaster.
+\v 16 They said, "About the word that you have told us in Yahweh's name—we will not listen to you.
+\v 17 For we will certainly do all the things that we said we would do—burn incense to the Queen of Heaven and pour out drink offerings to her just as we, our ancestors, our kings, and our leaders did in the cities of Judah and the streets of Jerusalem. Then we will be filled with food and will prosper, without experiencing any disaster.
 </usfm>
 
 
@@ -49,12 +49,15 @@
  
 ===== translationNotes: =====
 
+  * **in the great assembly** - "in the large crowd"
   * **Pathros** - This is the name of a region of Egypt. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **About the word that you have told us in Yahweh's name: We will not listen to you** - AT: "We will not obey the command you have given us by Yahweh's authority" 
-  * **Queen of Heaven** - This is a name or title given to the moon by the people of Judah in Egypt who worshiped it as a goddess. 
+  * **About the word that you have told us in Yahweh's name—we will not listen to you** - Here "in Yahweh's name" means "in Yahweh's authority" or "as Yahweh's representative." AT: "We will not obey this message that you say Yahweh told you to tell us" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **Queen of Heaven** - This a title of a false goddess that the people of Judah worshiped. This goddess is also called "Asherah." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **Then we will be filled with food and will prosper, without experiencing any disaster** - AT: "In those days we had plenty of food, and prospered, and saw no disaster"
   * **we will be filled with food** - "we will be well fed"
+  * **the streets of Jerusalem** - Here "streets" represent the public places in Jerusalem. AT: "in the public places of Jerusalem" or "in Jerusalem" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **Then we will be filled with food and will prosper, without experiencing any disaster** - The people of Judah thought they would prosper because the Queen of Heaven would bless them if they worshiped her. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Then we will be filled with food** - This can be stated in active form. AT: "Then we will have plenty of food" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -62,6 +65,6 @@
   * [[:en:bible:questions:comprehension:jer:44]]
 **[[:en:bible:notes:jer:44:13|<<]] | [[:en:bible:notes:jer:44:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

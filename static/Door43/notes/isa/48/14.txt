@@ -32,7 +32,6 @@
 \q2 I have summoned Cyrus.
 \q1 I have appointed him,
 \q2 and he will accomplish everything that he attempts to do.
-\b
 
 
 \p
@@ -43,7 +42,7 @@
 
 <usfm>
 \q1
-\v 14 Assemble yourselves, all of you, and listen; Who among you has announced these things? 
+\v 14 Assemble yourselves, all of you, and listen! Who among you has announced these things?
 \q1 Yahweh's ally will accomplish his purpose against Babylon. He will carry out Yahweh's will against the Chaldeans.
 \q1
 \v 15 I, I have spoken, yes, I have summoned him, I have brought him, and he will succeed.
@@ -61,9 +60,9 @@
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
   * **Who among you has announced these things?** - Yahweh uses a question to emphasize that the idols have not told them these things. AT: "None of your idols has told this to you." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Yahweh's ally will accomplish his purpose against Babylon. He will carry out Yahweh's will against the Chaldeans.** - Both of these sentences mean the same thing and are used for emphasis. Here "ally" refers to Cyrus, the king of Persia. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **I, I** - The word "I" is repeated for emphasis.
-
+  * **Yahweh's ally will accomplish his purpose against Babylon. He will carry out Yahweh's will against the Chaldeans** - Here "ally" refers to Cyrus. Both of these sentences mean the same thing and are used for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **his purpose** - "Yahweh's purpose"
+  * **I, I** - The word "I" is repeated for emphasis. AT: "I myself" (See: [[:en:ta:vol2:translate:figs_doublet]])
  
 ===== Links: =====
 
@@ -78,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

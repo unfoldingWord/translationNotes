@@ -12,10 +12,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 Ezra said, "I gathered together all of Jews at the canal that goes from Babylon to Ahava. We set up our tents there and stayed there for three days. During that time I read the lists of names 
+\v 15 Ezra said, "I gathered together all of Jews at the canal that goes from Babylon to Ahava. We set up our tents there and stayed there for three days. During that time I read the lists of names
 and found out that there were priests going with us, but no other descendants of Levi who could help them in the temple.
-\v 16 So I summoned Eliezer, Ariel, Shemaiah, El Nathan, Jarib, Nathan, Zechariah, and Meshullam, who were all leaders of the people. I also summoned Joiarib 
-and another El Nathan, who were teachers.
+\v 16 So I summoned Eliezer, Ariel, Shemaiah, Elnathan, Jarib, another man named Elnathan, Nathan, Zechariah, and Meshullam, who were all leaders of the people. I also summoned Joiarib and yet another man named Elnathan (three in all), who were teachers.
 </usfm>
 
 
@@ -23,8 +22,8 @@ and another El Nathan, who were teachers.
 
 <usfm>
 \p
-\v 15 Ezra said, "I gathered the travelers at the canal that goes to Ahava, and we camped there three days. I examined the people and priests, but could not find any descendants of Levi there.
-\v 16 So I sent for Eliezer, Ariel, Shemaiah, Elnathan, Jarib, and Elnathan and Nathan, Zechariah, and Meshullam—who were leaders—and for Joarib and El Nathan—who were teachers.
+\v 15 I gathered the travelers at the canal that goes to Ahava, and we camped there three days. I examined the people and priests, but could not find any descendants of Levi there.
+\v 16 So I sent for Eliezer, Ariel, Shemaiah, Elnathan, Jarib, and Elnathan and Nathan, Zechariah, and Meshullam—who were leaders—and for Joarib and Elnathan—who were teachers.
 </usfm>
 
 
@@ -38,12 +37,14 @@ and another El Nathan, who were teachers.
   * [[:en:obe:kt:teacher]]
 ===== translationNotes: =====
 
-  * **General Information:** - Ezra contacts Jewish leaders and teachers. These are all men's names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **General Information:** - The word "I" in chapter 8 refers to Ezra. He is the author.
+  * **General Information:** - Verse 16 contains a list of men's names. (See: [[:en:ta:vol1:translate:translate_names]])
 
-  * **Ahavah** - the name of a place (See: [[:en:ta:vol1:translate:translate_names]])
-  * **canal** - a man made waterway to allow the passage of boats between navigable rivers
-  * **Shemaiah** - See how you translated this in [[:en:bible:notes:ezr:08:12|8:13]].
-  * **three days** - 3 days (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **the canal that goes to Ahava** - Possible meanings are that the "canal" was 1) a waterway that men built or 2) an ordinary river. It can be translated in a more general way. AT: "the waterway that flows to Ahava"
+  * **Ahava** - This is the name of a place (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Shemaiah** - Translate this man's name as you did in [[:en:bible:notes:ezr:08:12|8:13]].
+  * **Elnathan ... Elnathan ... Elnathan** - There were apparently three men with the same name.
+
  
 ===== Links: =====
 
@@ -58,6 +59,6 @@ and another El Nathan, who were teachers.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

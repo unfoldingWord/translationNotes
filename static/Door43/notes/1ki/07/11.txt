@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 Above were costly, hewn stones precisely cut to size, and cedar beams.
+\v 11 Above were costly hewn stones precisely cut to size, and cedar beams.
 \v 12 The great courtyard surrounding the palace had three rows of cut stone and a row of cedar beams like the inner court of the temple of Yahweh and the temple portico.
 </usfm>
 
@@ -38,7 +38,7 @@
 ===== translationNotes: =====
 
   * **cedar beams** - A beam is a long piece of wood used for structural support.
-  * **three rows of cut stone and a row of cedar beams** - See how you translated this phrase in [[:en:bible:notes:1ki:06:36|6:36]].
+  * **three rows of cut stone and a row of cedar beams** - Translate as in [[:en:bible:notes:1ki:06:36|6:36]].
 
 ===== Links: =====
 
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:1ki:07]]
 **[[:en:bible:notes:1ki:07:09|<<]] | [[:en:bible:notes:1ki:07:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

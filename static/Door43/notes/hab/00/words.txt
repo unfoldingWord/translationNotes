@@ -1,4 +1,4 @@
-======= List of translationWords in Habakkuk =======
+===== List of translationWords in Habakkuk =====
 
 * [[:en:obe:kt:afflict]] is found in:
  [[:en:bible:notes:hab:03:07|03:07]]
@@ -42,9 +42,6 @@
 * [[:en:obe:other:eagle]] is found in:
  [[:en:bible:notes:hab:01:08|01:08]]
 
-* [[:en:obe:other:edom]] is found in:
- [[:en:bible:notes:hab:03:03|03:03]]
-
 * [[:en:obe:kt:eternity]] is found in:
  [[:en:bible:notes:hab:03:06|03:06]]
 
@@ -58,10 +55,13 @@
  [[:en:bible:notes:hab:02:04|02:04]]
 
 * [[:en:obe:kt:falsegod]] is found in:
- [[:en:bible:notes:hab:02:18|02:18]]
+ [[:en:bible:notes:hab:01:10|01:10]], [[:en:bible:notes:hab:02:18|02:18]]
 
 * [[:en:obe:kt:favor]] is found in:
  [[:en:bible:notes:hab:01:13|01:13]]
+
+* [[:en:obe:other:fig]] is found in:
+ [[:en:bible:notes:hab:03:17|03:17]]
 
 * [[:en:obe:other:fire]] is found in:
  [[:en:bible:notes:hab:02:12|02:12]]
@@ -73,13 +73,16 @@
  [[:en:bible:notes:hab:02:06|02:06]]
 
 * [[:en:obe:kt:god]] is found in:
- [[:en:bible:notes:hab:01:10|01:10]], [[:en:bible:notes:hab:01:12|01:12]], [[:en:bible:notes:hab:03:03|03:03]], [[:en:bible:notes:hab:03:18|03:18]]
+ [[:en:bible:notes:hab:01:12|01:12]], [[:en:bible:notes:hab:03:03|03:03]], [[:en:bible:notes:hab:03:18|03:18]]
 
 * [[:en:obe:other:gold]] is found in:
  [[:en:bible:notes:hab:02:18|02:18]]
 
 * [[:en:obe:kt:guilt]] is found in:
  [[:en:bible:notes:hab:01:10|01:10]]
+
+* [[:en:obe:other:habakkuk]] is found in:
+ [[:en:bible:notes:hab:01:01|01:01]]
 
 * [[:en:obe:other:hand]] is found in:
  [[:en:bible:notes:hab:02:09|02:09]]
@@ -105,7 +108,7 @@
 * [[:en:obe:other:house]] is found in:
  [[:en:bible:notes:hab:02:09|02:09]], [[:en:bible:notes:hab:03:13|03:13]]
 
-* [[:en:obe:other:idol]] is found in:
+* [[:en:obe:other:image]] is found in:
  [[:en:bible:notes:hab:02:18|02:18]]
 
 * [[:en:obe:other:incense]] is found in:
@@ -225,9 +228,6 @@
 * [[:en:obe:kt:sin]] is found in:
  [[:en:bible:notes:hab:02:09|02:09]]
 
-* [[:en:obe:kt:soul]] is found in:
- [[:en:bible:notes:hab:02:04|02:04]], [[:en:bible:notes:hab:02:09|02:09]]
-
 * [[:en:obe:other:spear]] is found in:
  [[:en:bible:notes:hab:03:11|03:11]]
 
@@ -256,7 +256,7 @@
  [[:en:bible:notes:hab:03:17|03:17]]
 
 * [[:en:obe:other:vision]] is found in:
- [[:en:bible:notes:hab:02:02|02:02]], [[:en:bible:notes:hab:03:03|03:03]]
+ [[:en:bible:notes:hab:02:02|02:02]]
 
 * [[:en:obe:other:watchtower]] is found in:
  [[:en:bible:notes:hab:02:01|02:01]]

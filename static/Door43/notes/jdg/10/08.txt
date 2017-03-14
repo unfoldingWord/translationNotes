@@ -18,12 +18,14 @@
 
 <usfm>
 \v 8 They crushed and oppressed the people of Israel that year, and for eighteen years they oppressed all the people of Israel who were beyond the Jordan in the land of the Amorites, which is in Gilead.
-\v 9 And the Ammonites crossed over the Jordan to fight against Judah, against Benjamin, and against the house of Ephraim, so that Israel was greatly distressed.
+\v 9 Then the  Ammonites crossed over the Jordan to fight against Judah, against Benjamin, and against the house of Ephraim, so that Israel was greatly distressed.
 </usfm>
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:oppress]]
   * [[:en:obe:other:israel]]
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:jordanriver]]
   * [[:en:obe:other:amorite]]
   * [[:en:obe:other:gilead]]
@@ -35,11 +37,13 @@
 
 ===== translationNotes: =====
 
-  * **crushed and oppressed** - These two words basically mean the same and emphasize how much the Israelites suffered. AT: "really oppressed" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **crushed and oppressed** - These two words basically mean the same and emphasize how much the Israelites suffered. AT: "terribly oppressed" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **eighteen years** - "18 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **who were beyond the Jordan** - This means on the east side of the Jordan River.
   * **which is in Gilead** - "this region is also called Gilead"
-  * **Judah ... Benjamin** - "Judah" and "Benjamin" refer to the people belonging to those tribes. AT: "the people of the tribe of Judah ... the people of the tribe of Benjamin" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **house of Ephraim** - The "house of Ephraim" refers to the people of the tribe of Ephraim. AT: "the people of the tribe of Ephraim" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **so that Israel was greatly distressed** - "Israel" refers to the people of Israel. AT: "so that the people of Israel suffered much" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Judah ... Benjamin** - "Judah" and "Benjamin" refer to the people belonging to those tribes. AT: "the people of the tribe of Judah ... the people of the tribe of Benjamin" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **house of Ephraim** - The "house" refers to the people of the tribe of Ephraim. AT: "the people of the tribe of Ephraim" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **so that Israel was greatly distressed** - "Israel" refers to the people of Israel. AT: "so that the people of Israel suffered much" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -48,6 +52,6 @@
   * [[:en:bible:questions:comprehension:jdg:10]]
 **[[:en:bible:notes:jdg:10:06|<<]] | [[:en:bible:notes:jdg:10:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

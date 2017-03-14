@@ -30,7 +30,7 @@
 
 <usfm>
 \c 137
-\p
+\m
 \q
 \v 1 By the rivers of Babylon
 \q we sat down and wept
@@ -49,10 +49,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **By the rivers of Babylon** - "Next to one of the rivers near Babylon"
-  * **we sat ... we thought ... we hung** - The writer does not include the readers. (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **we sat ... wept ... we thought ... we hung** - The writer does not include the readers. (See: [[:en:ta:vol2:translate:figs_exclusive]])
   * **On the poplars there** - Poplar trees do not grow in Israel. "Poplars" may here stand for all the trees in Babylon. AT: "On the trees in Babylon" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
@@ -62,6 +62,6 @@
   * [[:en:bible:questions:comprehension:psa:137]]
 **[[:en:bible:notes:psa:136:024|<<]] | [[:en:bible:notes:psa:137:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

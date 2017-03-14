@@ -33,7 +33,7 @@
 <usfm>
 \q
 \v 13 I would not obey my teachers
-\q or listen to my instructors.
+\q or incline my ear to my instructors.
 \q
 \v 14 I was almost completely ruined
 \q in the midst of the assembly, among the gathering of the people."
@@ -48,7 +48,8 @@
 
 ===== translationNotes: =====
 
-  * **assembly ... gathering of the people** - Both words refer to a group of people who may have come together 1) to worship God, or 2) to decide on a legal matter. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **incline my ear to my instructors** - Here the word "ear" represents the person who is listening. The writer speaks of listening attentively to someone as if it were leaning forward so that the ear is closer to the one speaking. See how you translated a similar phrase in [[:en:bible:notes:pro:04:20|4:20]]. AT: "listen to those who instructed me" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in the midst of the assembly, among the gathering of the people** - These two phrases mean basically the same thing and refer to the person's community that has gathered together either 1) to worship God or 2) to judge him for his offense. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 ===== Links: =====
 
@@ -57,4 +58,4 @@
   * [[:en:bible:questions:comprehension:pro:05]]
 **[[:en:bible:notes:pro:05:11|<<]] | [[:en:bible:notes:pro:05:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}

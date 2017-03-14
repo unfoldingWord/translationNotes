@@ -29,7 +29,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 12 Listen to me, you stubborn people, who are far from doing what is right.
 \q1
@@ -49,6 +48,9 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
+  * **who are far from doing what is right** - Yahweh speaks of the people stubbornly doing wrong as if they were physically far away from doing the right thing. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my salvation does not wait** - Yahweh speaks of saving his people soon as if his salvation were a person who does not wait to act. AT: "I will not wait to save you" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -56,6 +58,6 @@
   * [[:en:bible:questions:comprehension:isa:46]]
 **[[:en:bible:notes:isa:46:10|<<]] | [[:en:bible:notes:isa:47:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

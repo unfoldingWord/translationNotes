@@ -35,7 +35,7 @@
 \v 10 They will not be hungry or thirsty; nor will the heat or sun beat on them,
 \q1 for he who has mercy on them will lead them; he will guide them to springs of water.
 \q1
-\v 11 And I will make all my mountains into a road, and make my highways level."
+\v 11 Then I will make all my mountains into a road, and make my highways level."
 </usfm>
 
 ===== translationWords: =====
@@ -47,7 +47,10 @@
   * **General Information:** - Yahweh continues speaking. 
 
   * **They will not** - Here "they" refers to God's people.
-  * **I will make all my mountains into a road, and make my highways level** - This means God will remove anything that may stop his people from returning home. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **nor will the heat or sun beat on them** - Here the word "heat" describes the word "sun." The people suffering from the sun's heat is spoken of as if the heat struck them. AT: "nor will they suffer from the sun's heat" (See: [[:en:ta:vol2:translate:figs_hendiadys]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for he who has mercy on them ... he will guide them** - Yahweh speaks of himself in the third person. He speaks of protecting the people and caring for them as if he were their shepherd. AT: "I, the one who has mercy on them ... I will guide them" (See: [[:en:ta:vol2:translate:figs_123person]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will make all my mountains into a road, and make my highways level** - Yahweh speaks of guiding his people safely and removing obstacles from their path as if he turned mountains into roads and level highways. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -55,6 +58,6 @@
   * [[:en:bible:questions:comprehension:isa:49]]
 **[[:en:bible:notes:isa:49:09|<<]] | [[:en:bible:notes:isa:49:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

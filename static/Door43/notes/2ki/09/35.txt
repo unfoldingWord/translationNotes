@@ -21,7 +21,7 @@
 <usfm>
 \v 35 They went to bury her, but they found no more of her than the skull, the feet, and the palms of her hands.
 \v 36 So they came back and told Jehu. He said, "This is the word of Yahweh which he spoke by his servant Elijah the Tishbite, saying, 'In the land at Jezreel the dogs will eat the flesh of Jezebel,
-\v 37 and the body of Jezebel shall be like dung the fields in the land at Jezreel, so no one will be able to say, "This is Jezebel."'"
+\v 37 and the body of Jezebel will be like dung on the surface of the fields in the land at Jezreel, so that no one will be able to say, "This is Jezebel."'"
 </usfm>
 
 ===== translationWords: =====
@@ -32,8 +32,13 @@
   * [[:en:obe:other:dung]]
 ===== translationNotes: =====
 
+  * **they found no more of her than** - "they found no more of her body than" This can be stated in positive form. AT: "all they found that was left of her body were"
   * **the palms of her hands** - The palm is the inner part of the hand.
-  * **so no one will be able to say, "This is Jezebel."** - AT: "so no one will be able to recognize her body." or "so no one will be able to tell this was Jezebel."
+  * **the Tishbite** - This refers to someone from the city of Tishbe. See how you translated this in [[:en:bible:notes:2ki:01:03|1:3]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the body of Jezebel shall be like dung on the surface of the fields, so no one will be able to say** - This speaks of the pieces of Jezebel's body being scattered in the field as if they were dung spread in the field. Since the pieces of her body were so small and spread out there was nothing that could be collected and buried. AT: "the pieces of Jezebel's body shall be scattered like dung in the fields, so that no one will be able to recognize them and say" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **dung** - "manure." This refers specifically to dung used as a fertilizer.
+  * **so no one will be able to say, "This is Jezebel."** - "so no one will be able to recognize her body." or "so no one will be able to tell this was Jezebel."
+
 
 
 ===== Links: =====
@@ -43,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2ki:09]]
 **[[:en:bible:notes:2ki:09:33|<<]] | [[:en:bible:notes:2ki:10:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit skull}}
+~~DISCUSSION~~{{tag>publish p2pass skull}}
 
 ~~NOCACHE~~
