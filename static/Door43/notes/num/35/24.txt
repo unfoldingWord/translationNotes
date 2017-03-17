@@ -21,8 +21,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 24 In that case, the community must judge between the accused and the blood avenger on the basis of these rules.
-\v 25 The community must rescue the accused from the blood avenger's power. The community must return the accused to the city of refuge to which he had originally fled. He must live there until the death of the current high priest, the one who was anointed with the holy oil.
+\v 24 In that case, the community must judge between the accused and the avenger of blood on the basis of these rules.
+\v 25 The community must rescue the accused from the power of the avenger of blood. The community must return the accused to the city of refuge to which he had originally fled. He must live there until the death of the current high priest, the one who was anointed with the holy oil.
 </usfm>
 
 ===== translationWords: =====
@@ -39,7 +39,7 @@
 
 ===== translationNotes: =====
 
-  * **the blood avenger** - Here the word "blood" is a metonym for the murder. Translate these words in the same way you did in [[:en:bible:notes:num:35:19|35:19]]. AT: "The one who avenges the murder" or "The relative seeking vengeance" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the avenger of blood** - Here the word "blood" is a metonym for the murder. Translate these words in the same way you did in [[:en:bible:notes:num:35:19|35:19]]. AT: "the one who avenges the murder" or "the relative seeking vengeance" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **The community must rescue the accused** - This means if the community judges that the death was accidental then they must save the accused man from the relative who wants to kill him. If the community judges that the death was not accidental, then the relative must execute the accused man. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **the one who was anointed with the holy oil** - This can be stated in active form. AT: "the one you anointed with holy oil" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:num:35]]
 **[[:en:bible:notes:num:35:22|<<]] | [[:en:bible:notes:num:35:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check refuge}}
+~~DISCUSSION~~{{tag>publish p2pass refuge}}
 
 ~~NOCACHE~~

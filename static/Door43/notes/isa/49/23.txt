@@ -24,7 +24,6 @@
 \q2 and lick the dust off your feet.
 \q1 When that happens, you will know that I am Yahweh;
 \q2 and those who trust in me will never be disappointed."
-\b
 
 
 \q1
@@ -35,9 +34,9 @@
 
 <usfm>
 \q1
-\v 23 Kings will be your foster fathers, and their queens your nursemaids; 
+\v 23 Kings will be your foster fathers, and their queens your nursemaids;
 \q1 they will bow down to you with their
-faces to the earth and lick the dust of your feet; 
+faces to the earth and lick the dust of your feet;
 \q1 and you will know that I am Yahweh; those who wait for me will not be put to shame."
 </usfm>
 
@@ -56,11 +55,12 @@ faces to the earth and lick the dust of your feet;
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking to Zion as if it were a person.
+  * **General Information:** - Yahweh continues speaking to Zion as if it were a woman. (See: [[:en:ta:vol2:translate:figs_personification]])
 
-  * **Kings will be your foster fathers, and their queens your nursemaids** - "Kings and queens from the nations will take care of you and your children"
-  * **lick the dust of your feet** - At that time, people bowed to the ground to show their submission to a king. This is a sign that kings and queens will completely humble themselves and respect Zion.
-  * **will not be put to shame** - This can be stated in active form. AT: "I will not put to shame" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Kings will be your foster fathers, and their queens your nursemaids** - Yahweh speaks of the people who will inhabit Zion as if they were the city's children. The terms "foster fathers" and "nursemaids" refer to men and women who become responsible for the care of children. AT: "The kings and queens of other nations will provide for your inhabitants" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they will bow down to you with their faces to the earth and lick the dust of your feet** - These phrases describe gestures that people used to express complete submission to a superior.
+  * **lick the dust of your feet** - Possible meanings are 1) that this is a literal expression of submission where the person licks the dust off of a superior's foot or from the ground at the superior's foot or 2) that this is an idiom that describes a person prostrating himself before a superior. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **will not be put to shame** - This can be stated in active form. AT: "will not be ashamed" or "will not be disappointed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -69,6 +69,6 @@ faces to the earth and lick the dust of your feet;
   * [[:en:bible:questions:comprehension:isa:49]]
 **[[:en:bible:notes:isa:49:22|<<]] | [[:en:bible:notes:isa:49:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

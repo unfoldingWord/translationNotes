@@ -25,12 +25,13 @@
 \v 21 I will clothe him with your tunic and put on him your sash, and I will transfer your authority into his hand.
 \q1 He will be a father to the inhabitants of Jerusalem and to the house of Judah.
 \q1
-\v 22 I will place the key of the house of David on his shoulder; 
+\v 22 I will place the key of the house of David on his shoulder;
 \q1 he will open, and none will shut; he will shut, and none will open.
 </usfm>
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:call]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:kt:clothed]]
   * [[:en:obe:other:tunic]]
@@ -46,11 +47,15 @@
 
   * **General Information:** - Isaiah continues to speak God's message to Shebna.
 
+  * **It will come about on that day** - Here "day" represents a period of time in general. AT: "It will happen at that time" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Eliakim ... Hilkiah** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **sash** - See how you translated this in [[:en:bible:notes:isa:03:18|3:20]].
-  * **into his hand** - "to him"
-  * **He will be a father** - This emphasizes that Eliakim will care for and protect the people of Judah. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will place the key of the house of David on his shoulder** - Here "key" refers to authority. AT: "I will put him in charge of the king's palace" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **I will clothe him with your tunic and put on him your sash** - Yahweh causing Eliakim to take Shebna's place in the king's palace is spoken of as if Yahweh will dress Eliakim in Shebna's clothes that represent his authority in the king's palace. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **your tunic ... your sash** - Here the tunic and sash represent authority in the king's palace. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **sash** - This is a piece of cloth that people wear around the waist or across the chest. Translate this as you did in [[:en:bible:notes:isa:03:18|3:20]].
+  * **into his hand** - Here "hand" represents power or control. AT: "to him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **He will be a father** - Eliakim caring for and protecting the people of Judah is spoken of as if he would be their father. AT: "He will be like a father" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **to the house of Judah** - Here "house" represents the people. AT: "to the people of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will place the key of the house of David on his shoulder ... none will open** - Here "key" represents authority. This speaks of Eliakim having authority that no one can oppose as if he had the key to the palace and no one else could lock or unlock the door. AT: "I will put him in charge of those who work in the king's palace, and when he makes a decision no one will be able to oppose him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]]) 
 
 ===== Links: =====
 
@@ -59,6 +64,6 @@
   * [[:en:bible:questions:comprehension:isa:22]]
 **[[:en:bible:notes:isa:22:17|<<]] | [[:en:bible:notes:isa:22:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit tunic}}
+~~DISCUSSION~~{{tag>publish p2pass tunic}}
 
 ~~NOCACHE~~

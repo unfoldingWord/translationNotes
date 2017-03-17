@@ -1,70 +1,121 @@
-====== List of translationAcademy Topics in Revelation ======
+===== List of translationAcademy Topics in Revelation =====
+
+* [[:en:ta:vol2:translate:figs_123person]] is found in:
+ [[:en:bible:notes:rev:01:01|01:01]]
 
 * [[:en:ta:vol2:translate:figs_abstractnouns]] is found in:
- [[:en:bible:notes:rev:07:09|07:09]]
+ [[:en:bible:notes:rev:01:04|01:04]], [[:en:bible:notes:rev:02:01|02:01]], [[:en:bible:notes:rev:02:08|02:08]], [[:en:bible:notes:rev:02:12|02:12]], [[:en:bible:notes:rev:02:18|02:18]], [[:en:bible:notes:rev:02:24|02:24]], [[:en:bible:notes:rev:05:11|05:11]], [[:en:bible:notes:rev:07:09|07:09]], [[:en:bible:notes:rev:09:05|09:05]], [[:en:bible:notes:rev:09:18|09:18]], [[:en:bible:notes:rev:12:11|12:11]], [[:en:bible:notes:rev:13:09|13:09]], [[:en:bible:notes:rev:13:18|13:18]], [[:en:bible:notes:rev:17:01|17:01]], [[:en:bible:notes:rev:17:08|17:08]], [[:en:bible:notes:rev:17:09|17:09]], [[:en:bible:notes:rev:18:15|18:15]], [[:en:bible:notes:rev:18:18|18:18]]
 
 * [[:en:ta:vol2:translate:figs_activepassive]] is found in:
- [[:en:bible:notes:rev:02:14|02:14]], [[:en:bible:notes:rev:05:09|05:09]], [[:en:bible:notes:rev:06:03|06:03]], [[:en:bible:notes:rev:07:04|07:04]], [[:en:bible:notes:rev:08:01|08:01]], [[:en:bible:notes:rev:08:06|08:06]], [[:en:bible:notes:rev:08:08|08:08]], [[:en:bible:notes:rev:08:12|08:12]], [[:en:bible:notes:rev:08:13|08:13]], [[:en:bible:notes:rev:09:20|09:20]], [[:en:bible:notes:rev:10:05|10:05]], [[:en:bible:notes:rev:12:01|12:01]], [[:en:bible:notes:rev:12:05|12:05]], [[:en:bible:notes:rev:12:07|12:07]], [[:en:bible:notes:rev:12:13|12:13]], [[:en:bible:notes:rev:13:03|13:03]], [[:en:bible:notes:rev:13:05|13:05]], [[:en:bible:notes:rev:13:07|13:07]], [[:en:bible:notes:rev:13:11|13:11]], [[:en:bible:notes:rev:13:15|13:15]], [[:en:bible:notes:rev:14:01|14:01]], [[:en:bible:notes:rev:14:09|14:09]], [[:en:bible:notes:rev:14:14|14:14]], [[:en:bible:notes:rev:15:01|15:01]], [[:en:bible:notes:rev:15:03|15:03]], [[:en:bible:notes:rev:16:12|16:12]], [[:en:bible:notes:rev:16:15|16:15]], [[:en:bible:notes:rev:16:17|16:17]], [[:en:bible:notes:rev:17:03|17:03]], [[:en:bible:notes:rev:17:08|17:08]], [[:en:bible:notes:rev:17:16|17:16]], [[:en:bible:notes:rev:18:07|18:07]], [[:en:bible:notes:rev:18:14|18:14]], [[:en:bible:notes:rev:18:21|18:21]], [[:en:bible:notes:rev:18:23|18:23]], [[:en:bible:notes:rev:19:14|19:14]], [[:en:bible:notes:rev:20:01|20:01]], [[:en:bible:notes:rev:20:04|20:04]], [[:en:bible:notes:rev:20:11|20:11]], [[:en:bible:notes:rev:20:13|20:13]], [[:en:bible:notes:rev:21:11|21:11]], [[:en:bible:notes:rev:21:23|21:23]], [[:en:bible:notes:rev:21:26|21:26]], [[:en:bible:notes:rev:22:18|22:18]]
+ [[:en:bible:notes:rev:03:05|03:05]], [[:en:bible:notes:rev:05:06|05:06]], [[:en:bible:notes:rev:05:09|05:09]], [[:en:bible:notes:rev:06:01|06:01]], [[:en:bible:notes:rev:06:03|06:03]], [[:en:bible:notes:rev:06:09|06:09]], [[:en:bible:notes:rev:07:04|07:04]], [[:en:bible:notes:rev:08:01|08:01]], [[:en:bible:notes:rev:08:06|08:06]], [[:en:bible:notes:rev:08:08|08:08]], [[:en:bible:notes:rev:08:13|08:13]], [[:en:bible:notes:rev:09:13|09:13]], [[:en:bible:notes:rev:09:20|09:20]], [[:en:bible:notes:rev:10:05|10:05]], [[:en:bible:notes:rev:11:01|11:01]], [[:en:bible:notes:rev:11:19|11:19]], [[:en:bible:notes:rev:12:01|12:01]], [[:en:bible:notes:rev:12:05|12:05]], [[:en:bible:notes:rev:12:07|12:07]], [[:en:bible:notes:rev:12:13|12:13]], [[:en:bible:notes:rev:13:03|13:03]], [[:en:bible:notes:rev:13:05|13:05]], [[:en:bible:notes:rev:13:07|13:07]], [[:en:bible:notes:rev:13:09|13:09]], [[:en:bible:notes:rev:13:11|13:11]], [[:en:bible:notes:rev:13:15|13:15]], [[:en:bible:notes:rev:14:01|14:01]], [[:en:bible:notes:rev:14:09|14:09]], [[:en:bible:notes:rev:14:14|14:14]], [[:en:bible:notes:rev:15:01|15:01]], [[:en:bible:notes:rev:15:03|15:03]], [[:en:bible:notes:rev:16:08|16:08]], [[:en:bible:notes:rev:16:12|16:12]], [[:en:bible:notes:rev:16:15|16:15]], [[:en:bible:notes:rev:16:17|16:17]], [[:en:bible:notes:rev:17:03|17:03]], [[:en:bible:notes:rev:17:08|17:08]], [[:en:bible:notes:rev:17:12|17:12]], [[:en:bible:notes:rev:17:16|17:16]], [[:en:bible:notes:rev:18:14|18:14]], [[:en:bible:notes:rev:18:15|18:15]], [[:en:bible:notes:rev:18:21|18:21]], [[:en:bible:notes:rev:18:23|18:23]], [[:en:bible:notes:rev:19:03|19:03]], [[:en:bible:notes:rev:19:09|19:09]], [[:en:bible:notes:rev:19:11|19:11]], [[:en:bible:notes:rev:19:14|19:14]], [[:en:bible:notes:rev:19:19|19:19]], [[:en:bible:notes:rev:19:21|19:21]], [[:en:bible:notes:rev:20:01|20:01]], [[:en:bible:notes:rev:20:04|20:04]], [[:en:bible:notes:rev:20:07|20:07]], [[:en:bible:notes:rev:20:09|20:09]], [[:en:bible:notes:rev:20:11|20:11]], [[:en:bible:notes:rev:20:13|20:13]], [[:en:bible:notes:rev:21:11|21:11]], [[:en:bible:notes:rev:21:18|21:18]], [[:en:bible:notes:rev:21:21|21:21]], [[:en:bible:notes:rev:21:23|21:23]], [[:en:bible:notes:rev:21:26|21:26]], [[:en:bible:notes:rev:22:18|22:18]]
+
+* [[:en:ta:vol2:translate:figs_apostrophe]] is found in:
+ [[:en:bible:notes:rev:18:21|18:21]]
+
+* [[:en:ta:vol2:translate:figs_distinguish]] is found in:
+ [[:en:bible:notes:rev:09:20|09:20]], [[:en:bible:notes:rev:11:16|11:16]], [[:en:bible:notes:rev:12:07|12:07]], [[:en:bible:notes:rev:16:08|16:08]], [[:en:bible:notes:rev:17:01|17:01]]
+
+* [[:en:ta:vol2:translate:figs_doublenegatives]] is found in:
+ [[:en:bible:notes:rev:21:26|21:26]]
 
 * [[:en:ta:vol2:translate:figs_doublet]] is found in:
- [[:en:bible:notes:rev:01:14|01:14]], [[:en:bible:notes:rev:04:09|04:09]], [[:en:bible:notes:rev:07:11|07:11]], [[:en:bible:notes:rev:11:06|11:06]], [[:en:bible:notes:rev:15:01|15:01]]
+ [[:en:bible:notes:rev:01:14|01:14]], [[:en:bible:notes:rev:04:09|04:09]], [[:en:bible:notes:rev:15:01|15:01]]
 
 * [[:en:ta:vol2:translate:figs_ellipsis]] is found in:
- [[:en:bible:notes:rev:01:01|01:01]], [[:en:bible:notes:rev:02:16|02:16]], [[:en:bible:notes:rev:09:05|09:05]]
+ [[:en:bible:notes:rev:02:16|02:16]], [[:en:bible:notes:rev:09:03|09:03]], [[:en:bible:notes:rev:09:05|09:05]], [[:en:bible:notes:rev:19:03|19:03]]
 
-* [[:en:ta:vol2:translate:figs_exclusive]] is found in:
- [[:en:bible:notes:rev:04:09|04:09]]
+* [[:en:ta:vol1:translate:figs_events]] is found in:
+ [[:en:bible:notes:rev:01:14|01:14]], [[:en:bible:notes:rev:05:01|05:01]]
 
 * [[:en:ta:vol1:translate:figs_explicit]] is found in:
- [[:en:bible:notes:rev:01:04|01:04]], [[:en:bible:notes:rev:09:03|09:03]], [[:en:bible:notes:rev:17:03|17:03]], [[:en:bible:notes:rev:20:07|20:07]], [[:en:bible:notes:rev:22:16|22:16]]
+ [[:en:bible:notes:rev:01:01|01:01]], [[:en:bible:notes:rev:02:18|02:18]], [[:en:bible:notes:rev:02:26|02:26]], [[:en:bible:notes:rev:03:03|03:03]], [[:en:bible:notes:rev:03:09|03:09]], [[:en:bible:notes:rev:09:03|09:03]], [[:en:bible:notes:rev:11:03|11:03]], [[:en:bible:notes:rev:11:16|11:16]], [[:en:bible:notes:rev:13:09|13:09]], [[:en:bible:notes:rev:13:15|13:15]], [[:en:bible:notes:rev:15:02|15:02]], [[:en:bible:notes:rev:15:07|15:07]], [[:en:bible:notes:rev:16:01|16:01]], [[:en:bible:notes:rev:16:15|16:15]], [[:en:bible:notes:rev:19:05|19:05]], [[:en:bible:notes:rev:19:09|19:09]], [[:en:bible:notes:rev:19:11|19:11]], [[:en:bible:notes:rev:20:01|20:01]], [[:en:bible:notes:rev:20:07|20:07]], [[:en:bible:notes:rev:22:06|22:06]], [[:en:bible:notes:rev:22:10|22:10]], [[:en:bible:notes:rev:22:17|22:17]]
 
-* [[:en:ta:vol2:translate:figs_hendiadys]] is found in:
- [[:en:bible:notes:rev:09:01|09:01]]
+* [[:en:ta:vol2:translate:figs_genericnoun]] is found in:
+ [[:en:bible:notes:rev:01:01|01:01]], [[:en:bible:notes:rev:02:06|02:06]], [[:en:bible:notes:rev:02:10|02:10]], [[:en:bible:notes:rev:02:16|02:16]], [[:en:bible:notes:rev:02:26|02:26]], [[:en:bible:notes:rev:03:05|03:05]], [[:en:bible:notes:rev:03:12|03:12]], [[:en:bible:notes:rev:03:21|03:21]]
+
+* [[:en:ta:vol2:translate:figs_go]] is found in:
+ [[:en:bible:notes:rev:03:19|03:19]], [[:en:bible:notes:rev:05:06|05:06]]
 
 * [[:en:ta:vol1:translate:figs_idiom]] is found in:
- [[:en:bible:notes:rev:01:01|01:01]], [[:en:bible:notes:rev:01:09|01:09]], [[:en:bible:notes:rev:03:09|03:09]], [[:en:bible:notes:rev:04:07|04:07]], [[:en:bible:notes:rev:11:06|11:06]], [[:en:bible:notes:rev:14:13|14:13]]
+ [[:en:bible:notes:rev:01:09|01:09]], [[:en:bible:notes:rev:02:22|02:22]], [[:en:bible:notes:rev:04:01|04:01]], [[:en:bible:notes:rev:20:07|20:07]]
 
 * [[:en:ta:vol2:translate:figs_inclusive]] is found in:
  [[:en:bible:notes:rev:19:05|19:05]]
 
-* [[:en:ta:vol2:translate:figs_litotes]] is found in:
- [[:en:bible:notes:rev:03:07|03:07]]
-
 * [[:en:ta:vol2:translate:figs_merism]] is found in:
- [[:en:bible:notes:rev:01:17|01:17]], [[:en:bible:notes:rev:05:03|05:03]], [[:en:bible:notes:rev:05:09|05:09]], [[:en:bible:notes:rev:12:10|12:10]], [[:en:bible:notes:rev:17:15|17:15]], [[:en:bible:notes:rev:19:05|19:05]], [[:en:bible:notes:rev:19:17|19:17]], [[:en:bible:notes:rev:20:11|20:11]], [[:en:bible:notes:rev:21:05|21:05]]
+ [[:en:bible:notes:rev:01:17|01:17]], [[:en:bible:notes:rev:02:08|02:08]], [[:en:bible:notes:rev:05:03|05:03]], [[:en:bible:notes:rev:05:13|05:13]], [[:en:bible:notes:rev:07:15|07:15]], [[:en:bible:notes:rev:12:10|12:10]], [[:en:bible:notes:rev:14:11|14:11]], [[:en:bible:notes:rev:19:05|19:05]], [[:en:bible:notes:rev:19:17|19:17]], [[:en:bible:notes:rev:20:11|20:11]], [[:en:bible:notes:rev:22:12|22:12]]
 
 * [[:en:ta:vol1:translate:figs_metaphor]] is found in:
- [[:en:bible:notes:rev:01:07|01:07]], [[:en:bible:notes:rev:02:22|02:22]], [[:en:bible:notes:rev:03:03|03:03]], [[:en:bible:notes:rev:03:05|03:05]], [[:en:bible:notes:rev:03:07|03:07]], [[:en:bible:notes:rev:03:12|03:12]], [[:en:bible:notes:rev:03:14|03:14]], [[:en:bible:notes:rev:03:17|03:17]], [[:en:bible:notes:rev:03:19|03:19]], [[:en:bible:notes:rev:07:09|07:09]], [[:en:bible:notes:rev:07:13|07:13]], [[:en:bible:notes:rev:08:10|08:10]], [[:en:bible:notes:rev:09:01|09:01]], [[:en:bible:notes:rev:11:03|11:03]], [[:en:bible:notes:rev:14:08|14:08]], [[:en:bible:notes:rev:14:09|14:09]], [[:en:bible:notes:rev:14:14|14:14]], [[:en:bible:notes:rev:16:04|16:04]], [[:en:bible:notes:rev:16:17|16:17]], [[:en:bible:notes:rev:17:06|17:06]], [[:en:bible:notes:rev:17:09|17:09]], [[:en:bible:notes:rev:18:01|18:01]], [[:en:bible:notes:rev:18:21|18:21]], [[:en:bible:notes:rev:19:01|19:01]], [[:en:bible:notes:rev:19:03|19:03]], [[:en:bible:notes:rev:19:07|19:07]], [[:en:bible:notes:rev:19:09|19:09]], [[:en:bible:notes:rev:21:05|21:05]], [[:en:bible:notes:rev:21:09|21:09]], [[:en:bible:notes:rev:21:21|21:21]], [[:en:bible:notes:rev:21:23|21:23]], [[:en:bible:notes:rev:22:14|22:14]], [[:en:bible:notes:rev:22:16|22:16]], [[:en:bible:notes:rev:22:17|22:17]]
+ [[:en:bible:notes:rev:01:04|01:04]], [[:en:bible:notes:rev:01:07|01:07]], [[:en:bible:notes:rev:01:12|01:12]], [[:en:bible:notes:rev:01:17|01:17]], [[:en:bible:notes:rev:02:03|02:03]], [[:en:bible:notes:rev:02:06|02:06]], [[:en:bible:notes:rev:02:08|02:08]], [[:en:bible:notes:rev:02:10|02:10]], [[:en:bible:notes:rev:02:12|02:12]], [[:en:bible:notes:rev:02:14|02:14]], [[:en:bible:notes:rev:02:16|02:16]], [[:en:bible:notes:rev:02:20|02:20]], [[:en:bible:notes:rev:02:22|02:22]], [[:en:bible:notes:rev:02:24|02:24]], [[:en:bible:notes:rev:02:26|02:26]], [[:en:bible:notes:rev:03:01|03:01]], [[:en:bible:notes:rev:03:03|03:03]], [[:en:bible:notes:rev:03:05|03:05]], [[:en:bible:notes:rev:03:09|03:09]], [[:en:bible:notes:rev:03:12|03:12]], [[:en:bible:notes:rev:03:14|03:14]], [[:en:bible:notes:rev:03:17|03:17]], [[:en:bible:notes:rev:03:19|03:19]], [[:en:bible:notes:rev:03:21|03:21]], [[:en:bible:notes:rev:04:01|04:01]], [[:en:bible:notes:rev:04:06|04:06]], [[:en:bible:notes:rev:04:07|04:07]], [[:en:bible:notes:rev:05:03|05:03]], [[:en:bible:notes:rev:06:09|06:09]], [[:en:bible:notes:rev:06:15|06:15]], [[:en:bible:notes:rev:07:13|07:13]], [[:en:bible:notes:rev:07:15|07:15]], [[:en:bible:notes:rev:08:10|08:10]], [[:en:bible:notes:rev:08:12|08:12]], [[:en:bible:notes:rev:09:10|09:10]], [[:en:bible:notes:rev:10:01|10:01]], [[:en:bible:notes:rev:11:03|11:03]], [[:en:bible:notes:rev:11:06|11:06]], [[:en:bible:notes:rev:11:10|11:10]], [[:en:bible:notes:rev:11:13|11:13]], [[:en:bible:notes:rev:11:18|11:18]], [[:en:bible:notes:rev:12:05|12:05]], [[:en:bible:notes:rev:12:10|12:10]], [[:en:bible:notes:rev:12:11|12:11]], [[:en:bible:notes:rev:13:09|13:09]], [[:en:bible:notes:rev:14:03|14:03]], [[:en:bible:notes:rev:14:06|14:06]], [[:en:bible:notes:rev:14:08|14:08]], [[:en:bible:notes:rev:14:14|14:14]], [[:en:bible:notes:rev:15:02|15:02]], [[:en:bible:notes:rev:16:08|16:08]], [[:en:bible:notes:rev:16:10|16:10]], [[:en:bible:notes:rev:16:15|16:15]], [[:en:bible:notes:rev:17:01|17:01]], [[:en:bible:notes:rev:17:09|17:09]], [[:en:bible:notes:rev:17:11|17:11]], [[:en:bible:notes:rev:17:15|17:15]], [[:en:bible:notes:rev:17:16|17:16]], [[:en:bible:notes:rev:17:18|17:18]], [[:en:bible:notes:rev:18:01|18:01]], [[:en:bible:notes:rev:18:04|18:04]], [[:en:bible:notes:rev:18:07|18:07]], [[:en:bible:notes:rev:18:09|18:09]], [[:en:bible:notes:rev:18:14|18:14]], [[:en:bible:notes:rev:18:15|18:15]], [[:en:bible:notes:rev:18:21|18:21]], [[:en:bible:notes:rev:18:23|18:23]], [[:en:bible:notes:rev:19:01|19:01]], [[:en:bible:notes:rev:19:07|19:07]], [[:en:bible:notes:rev:19:09|19:09]], [[:en:bible:notes:rev:19:14|19:14]], [[:en:bible:notes:rev:21:05|21:05]], [[:en:bible:notes:rev:21:21|21:21]], [[:en:bible:notes:rev:21:23|21:23]], [[:en:bible:notes:rev:22:01|22:01]], [[:en:bible:notes:rev:22:12|22:12]], [[:en:bible:notes:rev:22:14|22:14]], [[:en:bible:notes:rev:22:16|22:16]], [[:en:bible:notes:rev:22:17|22:17]]
 
 * [[:en:ta:vol2:translate:figs_metonymy]] is found in:
- [[:en:bible:notes:rev:01:07|01:07]], [[:en:bible:notes:rev:03:19|03:19]], [[:en:bible:notes:rev:03:21|03:21]], [[:en:bible:notes:rev:09:20|09:20]], [[:en:bible:notes:rev:13:05|13:05]], [[:en:bible:notes:rev:13:09|13:09]], [[:en:bible:notes:rev:13:15|13:15]], [[:en:bible:notes:rev:16:02|16:02]], [[:en:bible:notes:rev:16:04|16:04]], [[:en:bible:notes:rev:16:08|16:08]], [[:en:bible:notes:rev:16:10|16:10]], [[:en:bible:notes:rev:18:01|18:01]], [[:en:bible:notes:rev:19:01|19:01]]
+ [[:en:bible:notes:rev:01:07|01:07]], [[:en:bible:notes:rev:02:12|02:12]], [[:en:bible:notes:rev:02:22|02:22]], [[:en:bible:notes:rev:03:03|03:03]], [[:en:bible:notes:rev:03:05|03:05]], [[:en:bible:notes:rev:03:07|03:07]], [[:en:bible:notes:rev:03:19|03:19]], [[:en:bible:notes:rev:03:21|03:21]], [[:en:bible:notes:rev:04:09|04:09]], [[:en:bible:notes:rev:05:09|05:09]], [[:en:bible:notes:rev:05:11|05:11]], [[:en:bible:notes:rev:06:05|06:05]], [[:en:bible:notes:rev:06:07|06:07]], [[:en:bible:notes:rev:06:09|06:09]], [[:en:bible:notes:rev:06:15|06:15]], [[:en:bible:notes:rev:07:01|07:01]], [[:en:bible:notes:rev:07:15|07:15]], [[:en:bible:notes:rev:08:03|08:03]], [[:en:bible:notes:rev:09:03|09:03]], [[:en:bible:notes:rev:10:01|10:01]], [[:en:bible:notes:rev:10:10|10:10]], [[:en:bible:notes:rev:11:10|11:10]], [[:en:bible:notes:rev:11:15|11:15]], [[:en:bible:notes:rev:12:10|12:10]], [[:en:bible:notes:rev:12:11|12:11]], [[:en:bible:notes:rev:13:01|13:01]], [[:en:bible:notes:rev:13:03|13:03]], [[:en:bible:notes:rev:13:05|13:05]], [[:en:bible:notes:rev:13:09|13:09]], [[:en:bible:notes:rev:13:15|13:15]], [[:en:bible:notes:rev:14:03|14:03]], [[:en:bible:notes:rev:14:08|14:08]], [[:en:bible:notes:rev:14:11|14:11]], [[:en:bible:notes:rev:15:03|15:03]], [[:en:bible:notes:rev:16:02|16:02]], [[:en:bible:notes:rev:16:03|16:03]], [[:en:bible:notes:rev:16:04|16:04]], [[:en:bible:notes:rev:16:08|16:08]], [[:en:bible:notes:rev:16:10|16:10]], [[:en:bible:notes:rev:16:12|16:12]], [[:en:bible:notes:rev:16:17|16:17]], [[:en:bible:notes:rev:16:20|16:20]], [[:en:bible:notes:rev:17:15|17:15]], [[:en:bible:notes:rev:17:16|17:16]], [[:en:bible:notes:rev:17:18|17:18]], [[:en:bible:notes:rev:18:01|18:01]], [[:en:bible:notes:rev:18:04|18:04]], [[:en:bible:notes:rev:18:15|18:15]], [[:en:bible:notes:rev:18:21|18:21]], [[:en:bible:notes:rev:18:23|18:23]], [[:en:bible:notes:rev:19:01|19:01]], [[:en:bible:notes:rev:19:17|19:17]], [[:en:bible:notes:rev:20:01|20:01]], [[:en:bible:notes:rev:20:13|20:13]], [[:en:bible:notes:rev:21:03|21:03]], [[:en:bible:notes:rev:21:05|21:05]], [[:en:bible:notes:rev:22:01|22:01]], [[:en:bible:notes:rev:22:06|22:06]], [[:en:bible:notes:rev:22:10|22:10]], [[:en:bible:notes:rev:22:18|22:18]]
 
 * [[:en:ta:vol2:translate:figs_parallelism]] is found in:
- [[:en:bible:notes:rev:07:09|07:09]], [[:en:bible:notes:rev:09:13|09:13]], [[:en:bible:notes:rev:17:16|17:16]], [[:en:bible:notes:rev:21:26|21:26]], [[:en:bible:notes:rev:22:12|22:12]]
+ [[:en:bible:notes:rev:09:13|09:13]], [[:en:bible:notes:rev:21:03|21:03]], [[:en:bible:notes:rev:21:05|21:05]], [[:en:bible:notes:rev:21:11|21:11]], [[:en:bible:notes:rev:22:12|22:12]]
 
 * [[:en:ta:vol2:translate:figs_personification]] is found in:
- [[:en:bible:notes:rev:12:15|12:15]], [[:en:bible:notes:rev:16:08|16:08]], [[:en:bible:notes:rev:20:05|20:05]], [[:en:bible:notes:rev:20:11|20:11]]
+ [[:en:bible:notes:rev:09:05|09:05]], [[:en:bible:notes:rev:12:15|12:15]], [[:en:bible:notes:rev:14:08|14:08]], [[:en:bible:notes:rev:14:13|14:13]], [[:en:bible:notes:rev:16:08|16:08]], [[:en:bible:notes:rev:18:01|18:01]], [[:en:bible:notes:rev:18:04|18:04]], [[:en:bible:notes:rev:19:05|19:05]], [[:en:bible:notes:rev:20:05|20:05]], [[:en:bible:notes:rev:20:09|20:09]], [[:en:bible:notes:rev:20:11|20:11]], [[:en:bible:notes:rev:20:13|20:13]], [[:en:bible:notes:rev:21:09|21:09]]
+
+* [[:en:ta:vol2:translate:figs_rpronouns]] is found in:
+ [[:en:bible:notes:rev:19:01|19:01]]
 
 * [[:en:ta:vol1:translate:figs_rquestion]] is found in:
- [[:en:bible:notes:rev:13:03|13:03]], [[:en:bible:notes:rev:17:06|17:06]], [[:en:bible:notes:rev:18:18|18:18]]
+ [[:en:bible:notes:rev:05:01|05:01]], [[:en:bible:notes:rev:13:03|13:03]], [[:en:bible:notes:rev:15:03|15:03]], [[:en:bible:notes:rev:17:06|17:06]], [[:en:bible:notes:rev:18:18|18:18]]
 
 * [[:en:ta:vol1:translate:figs_simile]] is found in:
- [[:en:bible:notes:rev:01:09|01:09]], [[:en:bible:notes:rev:03:03|03:03]], [[:en:bible:notes:rev:08:08|08:08]], [[:en:bible:notes:rev:08:10|08:10]], [[:en:bible:notes:rev:09:07|09:07]], [[:en:bible:notes:rev:09:18|09:18]], [[:en:bible:notes:rev:12:15|12:15]], [[:en:bible:notes:rev:20:07|20:07]], [[:en:bible:notes:rev:21:01|21:01]]
+ [[:en:bible:notes:rev:01:09|01:09]], [[:en:bible:notes:rev:01:14|01:14]], [[:en:bible:notes:rev:02:18|02:18]], [[:en:bible:notes:rev:02:26|02:26]], [[:en:bible:notes:rev:03:03|03:03]], [[:en:bible:notes:rev:04:01|04:01]], [[:en:bible:notes:rev:04:06|04:06]], [[:en:bible:notes:rev:06:12|06:12]], [[:en:bible:notes:rev:08:08|08:08]], [[:en:bible:notes:rev:08:10|08:10]], [[:en:bible:notes:rev:09:01|09:01]], [[:en:bible:notes:rev:09:10|09:10]], [[:en:bible:notes:rev:10:01|10:01]], [[:en:bible:notes:rev:10:08|10:08]], [[:en:bible:notes:rev:12:15|12:15]], [[:en:bible:notes:rev:13:11|13:11]], [[:en:bible:notes:rev:14:14|14:14]], [[:en:bible:notes:rev:16:15|16:15]], [[:en:bible:notes:rev:18:07|18:07]], [[:en:bible:notes:rev:19:06|19:06]], [[:en:bible:notes:rev:19:11|19:11]], [[:en:bible:notes:rev:20:07|20:07]], [[:en:bible:notes:rev:21:01|21:01]], [[:en:bible:notes:rev:21:18|21:18]], [[:en:bible:notes:rev:21:21|21:21]]
 
 * [[:en:ta:vol2:translate:figs_synecdoche]] is found in:
- [[:en:bible:notes:rev:01:07|01:07]], [[:en:bible:notes:rev:01:12|01:12]], [[:en:bible:notes:rev:03:05|03:05]], [[:en:bible:notes:rev:03:07|03:07]], [[:en:bible:notes:rev:03:09|03:09]], [[:en:bible:notes:rev:11:16|11:16]], [[:en:bible:notes:rev:16:03|16:03]], [[:en:bible:notes:rev:16:04|16:04]]
+ [[:en:bible:notes:rev:01:07|01:07]], [[:en:bible:notes:rev:01:12|01:12]], [[:en:bible:notes:rev:03:09|03:09]], [[:en:bible:notes:rev:06:15|06:15]], [[:en:bible:notes:rev:09:13|09:13]], [[:en:bible:notes:rev:10:03|10:03]], [[:en:bible:notes:rev:10:08|10:08]], [[:en:bible:notes:rev:16:03|16:03]], [[:en:bible:notes:rev:16:04|16:04]]
 
 * [[:en:ta:vol1:translate:figs_you]] is found in:
- [[:en:bible:notes:rev:01:09|01:09]], [[:en:bible:notes:rev:16:04|16:04]], [[:en:bible:notes:rev:18:14|18:14]]
+ [[:en:bible:notes:rev:01:09|01:09]], [[:en:bible:notes:rev:16:04|16:04]], [[:en:bible:notes:rev:22:16|22:16]]
+
+* [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]] is found in:
+ [[:en:bible:notes:rev:01:04|01:04]], [[:en:bible:notes:rev:02:18|02:18]], [[:en:bible:notes:rev:02:26|02:26]], [[:en:bible:notes:rev:03:05|03:05]], [[:en:bible:notes:rev:03:21|03:21]], [[:en:bible:notes:rev:14:01|14:01]]
+
+* [[:en:ta:vol2:translate:translate_bdistance]] is found in:
+ [[:en:bible:notes:rev:14:19|14:19]], [[:en:bible:notes:rev:21:16|21:16]]
+
+* [[:en:ta:vol2:translate:translate_bmoney]] is found in:
+ [[:en:bible:notes:rev:06:05|06:05]]
+
+* [[:en:ta:vol2:translate:translate_bvolume]] is found in:
+ [[:en:bible:notes:rev:06:05|06:05]]
+
+* [[:en:ta:vol2:translate:translate_bweight]] is found in:
+ [[:en:bible:notes:rev:16:20|16:20]]
+
+* [[:en:ta:vol2:translate:translate_fraction]] is found in:
+ [[:en:bible:notes:rev:08:08|08:08]], [[:en:bible:notes:rev:09:18|09:18]], [[:en:bible:notes:rev:12:03|12:03]]
 
 * [[:en:ta:vol1:translate:translate_names]] is found in:
- [[:en:bible:notes:rev:01:09|01:09]], [[:en:bible:notes:rev:02:06|02:06]], [[:en:bible:notes:rev:02:12|02:12]], [[:en:bible:notes:rev:02:14|02:14]], [[:en:bible:notes:rev:09:10|09:10]], [[:en:bible:notes:rev:16:15|16:15]]
+ [[:en:bible:notes:rev:01:09|01:09]], [[:en:bible:notes:rev:02:06|02:06]], [[:en:bible:notes:rev:02:08|02:08]], [[:en:bible:notes:rev:02:12|02:12]], [[:en:bible:notes:rev:02:14|02:14]], [[:en:bible:notes:rev:02:18|02:18]], [[:en:bible:notes:rev:03:01|03:01]], [[:en:bible:notes:rev:09:10|09:10]], [[:en:bible:notes:rev:16:15|16:15]]
 
 * [[:en:ta:vol2:translate:translate_numbers]] is found in:
- [[:en:bible:notes:rev:05:11|05:11]], [[:en:bible:notes:rev:07:04|07:04]], [[:en:bible:notes:rev:11:01|11:01]], [[:en:bible:notes:rev:11:08|11:08]], [[:en:bible:notes:rev:11:10|11:10]], [[:en:bible:notes:rev:11:16|11:16]], [[:en:bible:notes:rev:12:01|12:01]], [[:en:bible:notes:rev:13:05|13:05]], [[:en:bible:notes:rev:13:18|13:18]], [[:en:bible:notes:rev:19:03|19:03]], [[:en:bible:notes:rev:20:01|20:01]], [[:en:bible:notes:rev:20:05|20:05]], [[:en:bible:notes:rev:21:11|21:11]], [[:en:bible:notes:rev:22:01|22:01]]
+ [[:en:bible:notes:rev:04:04|04:04]], [[:en:bible:notes:rev:04:09|04:09]], [[:en:bible:notes:rev:05:08|05:08]], [[:en:bible:notes:rev:05:11|05:11]], [[:en:bible:notes:rev:07:04|07:04]], [[:en:bible:notes:rev:09:16|09:16]], [[:en:bible:notes:rev:11:01|11:01]], [[:en:bible:notes:rev:11:08|11:08]], [[:en:bible:notes:rev:11:10|11:10]], [[:en:bible:notes:rev:11:16|11:16]], [[:en:bible:notes:rev:12:01|12:01]], [[:en:bible:notes:rev:13:05|13:05]], [[:en:bible:notes:rev:13:18|13:18]], [[:en:bible:notes:rev:14:01|14:01]], [[:en:bible:notes:rev:19:03|19:03]], [[:en:bible:notes:rev:20:01|20:01]], [[:en:bible:notes:rev:20:05|20:05]], [[:en:bible:notes:rev:21:11|21:11]]
 
-* [[:en:ta:vol2:translate:translate_numbers]]]] is found in:
- [[:en:bible:notes:rev:21:16|21:16]]
+* [[:en:ta:vol2:translate:translate_ordinal]] is found in:
+ [[:en:bible:notes:rev:06:03|06:03]], [[:en:bible:notes:rev:06:05|06:05]], [[:en:bible:notes:rev:06:07|06:07]], [[:en:bible:notes:rev:06:09|06:09]], [[:en:bible:notes:rev:06:12|06:12]], [[:en:bible:notes:rev:08:01|08:01]], [[:en:bible:notes:rev:08:08|08:08]], [[:en:bible:notes:rev:11:15|11:15]]
+
+* [[:en:ta:vol2:translate:translate_symaction]] is found in:
+ [[:en:bible:notes:rev:03:09|03:09]], [[:en:bible:notes:rev:03:19|03:19]], [[:en:bible:notes:rev:04:09|04:09]], [[:en:bible:notes:rev:10:05|10:05]], [[:en:bible:notes:rev:11:10|11:10]]
 
 * [[:en:ta:vol1:translate:translate_unknown]] is found in:
- [[:en:bible:notes:rev:04:01|04:01]], [[:en:bible:notes:rev:09:03|09:03]], [[:en:bible:notes:rev:17:03|17:03]], [[:en:bible:notes:rev:17:12|17:12]], [[:en:bible:notes:rev:21:18|21:18]]
+ [[:en:bible:notes:rev:04:01|04:01]], [[:en:bible:notes:rev:08:10|08:10]], [[:en:bible:notes:rev:09:03|09:03]], [[:en:bible:notes:rev:11:03|11:03]], [[:en:bible:notes:rev:14:14|14:14]], [[:en:bible:notes:rev:17:03|17:03]], [[:en:bible:notes:rev:17:12|17:12]], [[:en:bible:notes:rev:18:15|18:15]], [[:en:bible:notes:rev:21:11|21:11]], [[:en:bible:notes:rev:21:18|21:18]], [[:en:bible:notes:rev:21:21|21:21]]
+
+* [[:en:ta:vol2:translate:writing_background]] is found in:
+ [[:en:bible:notes:rev:17:03|17:03]], [[:en:bible:notes:rev:21:09|21:09]]
+
+* [[:en:ta:vol2:translate:writing_endofstory]] is found in:
+ [[:en:bible:notes:rev:22:12|22:12]]
+
+* [[:en:ta:vol2:translate:writing_participants]] is found in:
+ [[:en:bible:notes:rev:05:06|05:06]]
+
+* [[:en:ta:vol2:translate:writing_quotations]] is found in:
+ [[:en:bible:notes:rev:01:07|01:07]]
+
+* [[:en:ta:vol2:translate:writing_symlanguage]] is found in:
+ [[:en:bible:notes:rev:01:04|01:04]], [[:en:bible:notes:rev:01:19|01:19]], [[:en:bible:notes:rev:02:01|02:01]], [[:en:bible:notes:rev:02:03|02:03]], [[:en:bible:notes:rev:02:16|02:16]], [[:en:bible:notes:rev:02:26|02:26]], [[:en:bible:notes:rev:03:01|03:01]], [[:en:bible:notes:rev:03:07|03:07]], [[:en:bible:notes:rev:04:04|04:04]], [[:en:bible:notes:rev:05:06|05:06]], [[:en:bible:notes:rev:05:08|05:08]], [[:en:bible:notes:rev:11:03|11:03]], [[:en:bible:notes:rev:12:03|12:03]], [[:en:bible:notes:rev:12:07|12:07]], [[:en:bible:notes:rev:12:13|12:13]], [[:en:bible:notes:rev:12:15|12:15]], [[:en:bible:notes:rev:13:01|13:01]], [[:en:bible:notes:rev:13:03|13:03]], [[:en:bible:notes:rev:13:07|13:07]], [[:en:bible:notes:rev:13:11|13:11]], [[:en:bible:notes:rev:14:01|14:01]], [[:en:bible:notes:rev:14:08|14:08]], [[:en:bible:notes:rev:14:09|14:09]], [[:en:bible:notes:rev:14:14|14:14]], [[:en:bible:notes:rev:16:12|16:12]], [[:en:bible:notes:rev:16:17|16:17]], [[:en:bible:notes:rev:17:01|17:01]], [[:en:bible:notes:rev:17:12|17:12]], [[:en:bible:notes:rev:18:01|18:01]], [[:en:bible:notes:rev:19:07|19:07]], [[:en:bible:notes:rev:20:01|20:01]], [[:en:bible:notes:rev:20:05|20:05]], [[:en:bible:notes:rev:20:13|20:13]], [[:en:bible:notes:rev:21:07|21:07]], [[:en:bible:notes:rev:21:09|21:09]], [[:en:bible:notes:rev:21:26|21:26]], [[:en:bible:notes:rev:22:01|22:01]]

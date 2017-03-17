@@ -36,7 +36,7 @@
 
 ===== translationNotes: =====
 
-  * **Jonathan stood up** - AT: "sat across from him" (UDB). Some ancient copies have "sat across from him." (See: [[:en:ta:vol2:translate:translate_manuscripts]])
+  * **Jonathan stood up** - Some ancient copies have "Jonathan sat across from him" (UDB). (See: [[:en:ta:vol2:translate:translate_manuscripts]])
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:1sa:20]]
 **[[:en:bible:notes:1sa:20:22|<<]] | [[:en:bible:notes:1sa:20:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

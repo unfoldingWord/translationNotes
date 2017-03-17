@@ -20,11 +20,9 @@
 <usfm>
 \v 17 Those who get angry quickly do foolish things;
 \q2 people hate those who make evil plans.
-\b
 \q1
 \v 18 Those who have not been instructed have foolishness handed to them;
-\q2 those who have learned a little knowledge are surrounded by it. 
-
+\q2 those who have learned a little knowledge are surrounded by it.
 
 \q1
 </usfm>
@@ -37,8 +35,8 @@
 \v 17 One who is quick to become angry does foolish things,
 \q and a person who makes evil schemes is hated.
 \q
-\v 18 Untaught people inherit foolishness,
-\q but prudent people are surrounded by knowledge.
+\v 18 The naive inherit foolishness,
+\q but prudent people are crowned with knowledge.
 </usfm>
 
 
@@ -53,12 +51,12 @@
 ===== translationNotes: =====
 
 
-  * **One who** - AT: "A person who"
   * **is quick to become angry** - "becomes angry quickly"
-  * **Untaught people** - AT: "young and naive people"
-  * **inherit foolishness** - AT: "will only have foolishness" or "will always be foolish" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **prudent people** - "wise people"
-  * **are surrounded by knowledge** - AT: "always have the knowledge they need available" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **naive** - "inexperienced, immature"
+  * **inherit foolishness** - Here "inherit" represents having permanent possession of something.  (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **foolishness** - The word "foolishness" is an abstract noun that represents foolish thinking and foolish actions. 
+  * **prudent people** - "wise people" 
+  * **are crowned with knowledge** - Here knowledge is spoken of as if it were a beautiful ornament worn on one's head, such as a turban with jewels. AT: "wear knowledge as a turban" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -73,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

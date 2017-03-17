@@ -18,7 +18,7 @@
 
 <usfm>
 \v 24 Hazael king of Aram died, and Ben Hadad his son became king in his place.
-\v 25 Jehoash son of Jehoahaz took back from Ben Hadad son of Hazael the cities that had been taken from Jehoahaz his father by war. Joash attacked him three times, and he recovered those cities of Israel.
+\v 25 Jehoash son of Jehoahaz took back from Ben Hadad son of Hazael the cities that had been taken from Jehoahaz his father by war. Jehoash attacked him three times, and he recovered those cities of Israel.
 </usfm>
 
 ===== translationWords: =====
@@ -26,9 +26,11 @@
   * [[:en:obe:other:kingdomofisrael]]
 ===== translationNotes: =====
 
-  * **Hazael ... Ben Hadad ... Jehoash ... Jehoahaz** - (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Joash attacked him three times** - "Joash and his army attacked Ben Hadad's army three times" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **he recovered those cities of Israel** - "Joash took back control of the Israelite cities that Ben Hadad had captured."
+  * **Hazael ... Ben Hadad ... Jehoash ... Jehoahaz** - These are names of kings. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **became king in his place** - "became king after him"
+  * **Jehoash attacked him three times** - Here "Jehoash" and "him" refer to their armies. AT: "Jehoash's army attacked Ben Hadad's army three times" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **he recovered those cities of Israel** - "Jehoash took back control of the Israelite cities that Ben Hadad had captured"
+
 
 ===== Links: =====
 
@@ -37,6 +39,6 @@
   * [[:en:bible:questions:comprehension:2ki:13]]
 **[[:en:bible:notes:2ki:13:22|<<]] | [[:en:bible:notes:2ki:14:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

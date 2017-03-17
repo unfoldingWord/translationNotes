@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 26 Then Abner called out to Joab, saying, "Are we going to continue to fight forever? Do you not realize that if we continue fighting the result will be very bad? We are all descendants of Jacob, so we should stop fighting each other! How long will it be until you tell your soldiers to stop pursuing us? 
+\v 26 Then Abner called out to Joab, saying, "Are we going to continue to fight forever? Do you not realize that if we continue fighting the result will be very bad? We are all descendants of Jacob, so we should stop fighting each other! How long will it be until you tell your soldiers to stop pursuing us?
 \p
 \v 27 Joab replied, "Just as surely as God lives, if you had not said that, my soldiers would have continued pursuing your men until tomorrow morning!"
 
@@ -43,12 +43,12 @@
  
 ===== translationNotes: =====
 
-  * **called to** - "shouted" or "yelled"
-  * **Must the sword devour forever?** - This rhetorical question emphasizes that they had fought for a long time and can be translated as a statement. AT: "We do not need to keep using our swords to fight and kill each other." A "sword" cannot literally eat. When it is said to eat or "devour," it means taking part in warfare and killing. (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_euphemism]])
-  * **Do you not know it will be bitter in the end? How long will it be before you tell your men to stop pursuing their brothers?** - This rhetorical question is intended for emphasis and can be translated as a statement.  Here "brother" is used to represent the members of the nation of Israel. AT: "You know very well that when this ends we will all feel like we have eaten something bitter. Stop this now so that Israelites will not have to kill each other." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]] ) 
-  * **as God lives** - This is a very strong vow. AT: "with God as my witness" or "God will affirm that I mean what I say"
-  * **if you had not said that** - This refers to what Abner has said to Joab about stopping the battle.
-
+  * **called** - "shouted" or "yelled"
+  * **Must the sword devour forever?** - This rhetorical question emphasizes that the battle had already continued too long. Here "sword" refers to the fighting. The killing in the battle is spoken of as if a wild animal was eating the soldiers. AT: "We do not need to keep using our swords to fight and kill each other." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Do you not know it will be bitter in the end?** - This rhetorical question is used to force Joab to acknowledge that continued fighting could only result in more suffering. Here "bitter" is a euphemism for the terrible suffering that would occur. AT: "You know very well that there will be a terrible result if this continues!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_euphemism]]) 
+  * **How long will it be before you tell your men to stop pursuing their brothers?** - This rhetorical question is intended to convince Joab to stop fighting their fellow Israelites.  Here "brother" is used to represent the members of the nation of Israel. AT: "Stop this now so that Israelites will not have to kill each other!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **Just as God lives** - This is a very strong vow. AT: "With God as my witness" or "God will affirm that I mean what I say"
+  * **if you had not said that ... pursued their brothers until the morning** - This hypothetical statement tells what might have happened if Abner had not spoken wisely to Joab. (See: [[:en:ta:vol1:translate:figs_hypo]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:2sa:02]]
 **[[:en:bible:notes:2sa:02:24|<<]] | [[:en:bible:notes:2sa:02:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

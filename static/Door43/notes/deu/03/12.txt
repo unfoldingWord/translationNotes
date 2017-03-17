@@ -21,7 +21,7 @@
 
 <usfm>
 \p
-\v 12 "This land that we took in possession at that time—from Aroer, that is by the valley of the Arnon, and half the hill country of Gilead, and its cities—I gave to the Reubenites and to the Gadites.
+\v 12 "This land that we took in possession at that time—from Aroer, that is by the Valley of the Arnon, and half the hill country of Gilead, and its cities—I gave to the Reubenites and to the Gadites.
 \v 13 The rest of Gilead and all Bashan, the kingdom of Og, I gave to the half tribe of Manasseh: all the region of Argob, and all Bashan. (The same territory is called the land of Rephaim.
 </usfm>
 
@@ -42,7 +42,7 @@
   * **General Information:** - Moses continues reminding the people of what happened in the past.
 
   * **Aroer** - Translate this as it is in [[:en:bible:notes:deu:02:36|2:36]].
-  * **the valley of the Arnon** - Translate this as it is in [[:en:bible:notes:deu:02:24|2:24]].
+  * **the Valley of the Arnon** - Translate this as it is in [[:en:bible:notes:deu:02:24|2:24]].
   * **the region of Argob** - Translate this as it is in [[:en:bible:notes:deu:03:03|3:4]].
   * **The same territory is called the land of Rephaim** - The writer begins to present background information about the land that the people of Israel captured. If your language has a way of showing that what follows is background information, you should use it here. (See: [[:en:ta:vol2:translate:writing_background]])
   * **Rephaim** - Translate this as it is in [[:en:bible:notes:deu:02:10|2:11]].
@@ -59,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check manasseh}}
+{{tag>publish p2pass manasseh}}
 
 ~~NOCACHE~~

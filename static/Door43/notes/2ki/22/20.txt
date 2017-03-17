@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 20 So I will allow you to die and be buried peacefully. I will cause a great disaster to come to this place, but you will not be alive to see it.'"
+\v 20 So I will allow you to die and be buried peacefully. I will cause a great disaster to come to this place, but you will not be alive to see it."'"
 \p After the men heard that, they returned to King Josiah and gave him that message.
 </usfm>
 
@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 20 See, I will gather you to your ancestors; you will be gathered to your grave in peace, nor will your eyes see any of the disaster that I will bring on this place and its inhabitants.'"'" So the men took this message back to the king.
+\v 20 See, I will gather you to your ancestors, and you will be gathered to your grave in peace. Your eyes will not see all the disaster that I will bring upon this place.'"'" So the men took this message back to the king.
 </usfm>
 
 
@@ -33,8 +33,10 @@
 
   * **General Information:** - This is the end of the message from Yahweh to King Josiah through the prophetess Huldah.
 
-  * **See, I will gather you to your ancestors** - AT: "Listen, you will die" (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **nor will your eyes see any of the disaster** - AT: "and you will not experience any of the disaster." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **See, I will gather you to your ancestors, and you will be gathered to your grave in peace** - Both statements mean basically the same thing. They are polite ways of saying he will die. AT: "So I will allow you to die and be buried peacefully" (UDB) (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_euphemism]])
+  * **Your eyes** - Here "eyes" represents the whole person. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **You eyes will not see** - Here "will not see" represents not experiencing something. AT: "You will not experience" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the disaster that I will bring upon this place** - Yahweh causing terrible things to happen is spoken of as if disaster were an object that Yahweh would bring to a place. AT: "the terrible things I will cause to happen in this place" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -49,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -18,7 +18,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 These are the sayings that compare one example with another, to teach moral lessons and to make people wise, from Solomon the king of Israel, who was son of David. 
+\v 1 These are the sayings that compare one example with another, to teach moral lessons and to make people wise, from Solomon the king of Israel, who was son of David.
 \q1
 \v 2 The purpose of these sayings is to teach the meaning of wisdom
 \q2 and give examples of moral instruction, so wise teaching can guide you.
@@ -40,7 +40,7 @@
 \v 2 These proverbs are to teach wisdom and instruction,
 \q to teach words of insight,
 \q
-\v 3 that you may receive correction in order to live
+\v 3 that you may receive instruction in order to live
 \q by doing what is right, just, and fair.
 </usfm>
 
@@ -53,6 +53,7 @@
   * [[:en:obe:other:king]]
   * [[:en:obe:other:israel]]
   * [[:en:obe:kt:wise]]
+  * [[:en:obe:other:instruct]]
   * [[:en:obe:kt:word]]
   * [[:en:obe:kt:receive]]
   * [[:en:obe:kt:life]]
@@ -60,10 +61,12 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Verses 2-33 are poetry. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Verses 2-33 are poetry. (See: [[:en:ta:vol2:translate:writing_poetry]])
 
-  * **teach words of insight** - "teach the true nature of things"
-  * **doing what is right, just, and fair** - "doing what is correct, what God's law says to do, and what is acceptable"
+  * **to teach wisdom and instruction** - This can be reworded so that the abstract nouns "wisdom" and "instruction" can be stated as adjectives or verbs. AT: "to teach you how to be wise and to instruct you about how to live moral lives" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **to teach words of insight** - Here "words" represents a message or teaching. AT: "to help you understand wise teachings" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **that you may receive** - Here "you" refers to the readers. If it is more natural in your language you can state it as an inclusive "we." AT: "that we may receive" (See: [[:en:ta:vol1:translate:figs_you]] and [[:en:ta:vol2:translate:figs_inclusive]])
+  * **may receive instruction in order to live** - This can be reworded so that the abstract noun "instruction" is stated as a verb. AT: "may be instructed how to live" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -71,6 +74,6 @@
   * [[:en:bible:questions:comprehension:pro:01]]
 **| [[:en:bible:notes:pro:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit proverb}}
+~~DISCUSSION~~{{tag>publish p2pass proverb}}
 
 ~~NOCACHE~~

@@ -13,10 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 With the bull, bring a flour offering of 5.7 liters of finely ground flour mixed with olive oil. With the male sheep, bring 3.8 liters.
+\v 9 With the bull, bring a flour offering of five and three-quarter liters of finely ground flour mixed with olive oil. With the male sheep, bring three and four-fifth liters.
 \v 10 With each of the lambs, bring two liters.
 \v 11 Also bring one male goat to remove the guilt of your sins, and the animals and flour and wine that you burn on the altar each day to atone for your sins. Those offerings will be in addition to the animals and flour and wine that are completely burned on the altar each day.
-
 
 
 \p
@@ -40,13 +39,13 @@
   * [[:en:obe:other:drinkoffering]]
 
 ===== translationNotes: =====
-  * **mixed with oil** - This can be stated in active form. "which you have mixed with oil" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+  * **mixed with oil** - This can be stated in active form. AT: "which you have mixed with oil" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **three tenths of an ephah** - "Three tenths" means three parts out of ten equal parts. This can be written in modern measurements. AT:  "six liters" or "three tenths of an ephah (which is about six liters)" (See: [[:en:ta:vol2:translate:translate_fraction]] and [[:en:ta:vol2:translate:translate_bvolume]])
-  * **two tenths** - The words "of an ephah" are missing and may be added. "Two tenths" means two parts out of ten equal parts. This can be written in modern measurements. AT:  "four and a half liters" or "two tenths of an ephah (which is about 4.5 liters)" (See: [[:en:ta:vol2:translate:figs_ellipsis]], [[:en:ta:vol2:translate:translate_fraction]], and [[:en:ta:vol2:translate:translate_bvolume]])
+  * **two tenths** - The words "of an ephah" are missing and may be added. "Two tenths" means two parts out of ten equal parts. This can be written in modern measurements. AT:  "four and a half liters" or "two tenths of an ephah (which is about 4.5 liters)" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:translate_fraction]] and [[:en:ta:vol2:translate:translate_bvolume]])
   * **a tenth of an ephah** - "A tenth" means one part out of ten equal parts. This can be written in modern measurements. AT:  "2 liters" or "a tenth of an ephah (which is about 2 liters)" (See: [[:en:ta:vol2:translate:translate_fraction]] and [[:en:ta:vol2:translate:translate_bvolume]])
   * **of atonement** - The word "atonement" can be expressed with the verb "atone." AT: "that atones for you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **its grain offering, and their drink offerings** - The grain offering was to be offered with the burnt offering and the drink offerings were to be offered with both the sin offering and the burnt offering. AT: "along with the grain offering and the drink offerings that accompany them" (See: [[:en:ta:vol2:translate:figs_possession]])
-
+  * **its grain offering, and their drink offerings** - The grain offering was to be offered with the burnt offering. The drink offerings were to be offered with both the sin offering and the burnt offering. AT: "along with the grain offering and the drink offerings that accompany them" (See: [[:en:ta:vol2:translate:figs_possession]])
 
 ===== Links: =====
 
@@ -55,6 +54,6 @@
   * [[:en:bible:questions:comprehension:num:29]]
 **[[:en:bible:notes:num:29:07|<<]] | [[:en:bible:notes:num:29:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

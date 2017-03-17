@@ -16,7 +16,6 @@
 \v 9 If Yahweh, commander of the angel armies, had not allowed a few of his people to survive,
 \q2 we would have all been destroyed,
 \q2 like the cities of Sodom and Gomorrah were destroyed.
-\b
 
 
 \q1
@@ -26,7 +25,7 @@
 
 <usfm>
 \q1
-\v 9 If Yahweh of hosts had not left for us a small remnant, 
+\v 9 If Yahweh of hosts had not left for us a small remnant,
 \q1 we would have been like Sodom, we would have been like Gomorrah.
 </usfm>
 
@@ -39,9 +38,10 @@
 
 ===== translationNotes: =====
 
-  * **a small remnant** - "a few survivors"
+  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+
   * **If Yahweh** - This describes something that could have happened in the past but did not. (See: [[:en:ta:vol1:translate:figs_hypo]])
-  * **Yahweh of hosts** - "Yahweh, the leader of the angel armies"
+  * **a small remnant** - "a few survivors"
   * **us ... we** - Here these words refer to Isaiah and includes all the people of Judah and Jerusalem. (See: [[:en:ta:vol2:translate:figs_inclusive]])
   * **we would have been like Sodom, we would have been like Gomorrah** - How Judah would have been like Sodom and Gomorrah can be made explicit. AT: "God would have destroyed us, like he destroyed the cities of Sodom and Gomorrah" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:isa:01]]
 **[[:en:bible:notes:isa:01:07|<<]] | [[:en:bible:notes:isa:01:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit gomorrah}}
+~~DISCUSSION~~{{tag>publish p2pass gomorrah}}
 
 ~~NOCACHE~~

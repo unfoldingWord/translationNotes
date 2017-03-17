@@ -19,7 +19,7 @@
 <usfm>
 \p
 \v 20 Then it came about in the eleventh year, in the first month, in the seventh day of the month, that the word of Yahweh came to me and said,
-\v 21 "Son of man, I have broken the arm of Pharaoh, the king of Egypt. Behold! It is not bound up and able to receive medicine; no one can put a bandage on it, so it will not be strong enough to grasp a sword.
+\v 21 "Son of man, I have broken the arm of Pharaoh, the king of Egypt. Behold! It has not been bound up, or set to heal with a bandage, so that it will become strong enough to grasp a sword.
 </usfm>
 
 ===== translationWords: =====
@@ -31,16 +31,19 @@
 
 ===== translationNotes: =====
 
-  * **Then it came about** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **in the eleventh year** - See how you translated this in [[:en:bible:notes:ezk:26:01|26:1]].
+  * **General Information:** - God speaks of making Pharaoh's army weak as if he were to break Pharaoh's arm, and of the army not being able to become strong again as if Pharaoh's arm could not be healed. (See: [[:en:ta:vol1:translate:figs_parables]])
+
+  * **Then it came about** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **in the eleventh year** - This is the eleventh year after King Jehoiachin was taken into exile in Babylon. See how you translated this in [[:en:bible:notes:ezk:26:01|26:1]]. 
   * **in the first month, in the seventh day of the month** - "in the seventh day of the first month." This is the first month of the Hebrew calendar. The seventh day is near the beginning of April on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]].
-  * **broken the arm of Pharaoh** - Here "arm" represents the power of a king. (See: [[:en:ta:vol1:translate:figs_parables]] and [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **Behold!** - The word "Behold" here alerts us to pay attention to the surprising information that follows.
-  * **It is not bound up and able to receive medicine** - AT: "His arm is not wrapped up and it does not have medicine on so it can heal" (See: [[:en:ta:vol1:translate:figs_parables]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **bandage** - a soft piece of cloth that people put on wounds so that they will heal
-  * **so it will not be strong enough to grasp a sword** - Here "sword" represents the power of a king in war. AT: "so his arm will not be strong enough to use a sword" (See: [[:en:ta:vol1:translate:figs_parables]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Son of man** - "Son of a human being" or "Son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. Translate this as in [[:en:bible:notes:ezk:02:01|2:1]]. AT: "Mortal person" or "Human"
+  * **I have broken the arm of Pharaoh** - Here "arm" represents the powerful army of a king. (See: [[:en:ta:vol1:translate:figs_parables]] and [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **Behold** - "Look" or "Listen." This word adds emphasis to what is said next. AT: "Pay attention to what I am about to tell you."
+  * **It has not been bound up** - This can be stated in active form. AT: "No one has bound up his arm" or "No one has wrapped us his arm" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **or set to heal with a bandage** - Here "set to heal with a bandage" refers to the arm being wrapped tightly in a bandage so that the parts of the bone will stay together and heal.
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -48,6 +51,6 @@
   * [[:en:bible:questions:comprehension:ezk:30]]
 **[[:en:bible:notes:ezk:30:17|<<]] | [[:en:bible:notes:ezk:30:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

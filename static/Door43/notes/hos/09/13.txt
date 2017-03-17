@@ -20,17 +20,15 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 I have seen the people of Israel; 
+\v 13 I have seen the people of Israel;
 \q2 they were like Tyre; they were like a tree planted in a beautiful meadow.
 \q1 But they will have to lead their own children out to their enemies, who will slaughter them."
 
-\b
 \q1
 \v 14 Hosea says, Yahweh, give them—
-\q2 what should you give them? 
-\q1 Give them wombs that miscarry, 
-\q2 and let their mothers' breasts have no milk for their babies. 
-\b
+\q2 what should you give them?
+\q1 Give them wombs that miscarry,
+\q2 and let their mothers' breasts have no milk for their babies.
 
 
 \q1
@@ -64,7 +62,7 @@
 
   * **I have seen Ephraim, just like Tyre, planted in a meadow** - "planted" refers to being in a safe place. AT: "The nation of Israel was once beautiful and pleasant like the city of Tyre, like a tree that someone plants in a meadow" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **but Ephraim will bring out his children** - "children" are the people from that nation. AT: "but the people of Israel will bring out their children" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Give them, Yahweh—what will you give them?** - Hosea uses a question to emphasize that he wants Yahweh to give the people of Israel what they deserve. AT: "This is what I ask you, Yahweh, to give them:" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Give them, Yahweh—what will you give them? Give them** - Hosea uses a question to emphasize that he wants Yahweh to give the people of Israel what they deserve. AT: "This is what I ask you, Yahweh, to give them: give them" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **a miscarrying womb** - To "miscarry" means that a pregnancy ends too early and the baby dies. Hosea is asking that all the nation's women be like that.
 ===== Links: =====
 
@@ -73,6 +71,6 @@
   * [[:en:bible:questions:comprehension:hos:09]]
 **[[:en:bible:notes:hos:09:11|<<]] | [[:en:bible:notes:hos:09:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

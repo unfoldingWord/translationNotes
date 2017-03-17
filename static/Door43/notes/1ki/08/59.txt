@@ -27,7 +27,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 59 And let these words I have spoken, by which I have made request before Yahweh, be near Yahweh our God day and night, so that he may help the cause of his servant and the cause of his people Israel, as every day will require;
+\v 59 Let these words I have spoken, by which I have made request before Yahweh, be near Yahweh our God day and night, so that he may help the cause of his servant and the cause of his people Israel, as every day will require;
 \v 60 that all the peoples of the earth may know that Yahweh, he is God, and there is no other God!
 \v 61 Therefore let your heart be true to Yahweh our God, to walk in his statutes and keep his commandments, as on this day."
 </usfm>
@@ -40,8 +40,9 @@
 
 ===== translationNotes: =====
 
-  * **day and night** - AT: "all the time" or "continually" (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **let your heart be true** - AT: "be wholly devoted" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **day and night** - This merism refers to "all the time" or "continually." (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **let your heart be true** - "be wholly devoted"
+  * **walk in his statutes** - The way a person lives is spoken of as if that person were walking on a path. AT: "always obey his statutes" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -50,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1ki:08]]
 **[[:en:bible:notes:1ki:08:57|<<]] | [[:en:bible:notes:1ki:08:62|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

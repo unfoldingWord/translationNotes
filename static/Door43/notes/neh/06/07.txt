@@ -22,8 +22,8 @@
 ===== ULB: =====
 
 <usfm>
-\pi 
-\v 7 And you have also appointed prophets to proclaim about you in Jerusalem, saying, 'There is a king in Judah!' You can be sure the king will hear these reports. Therefore come, let us speak with one another."
+\pi
+\v 7 You have also appointed prophets to make this proclamation about you in Jerusalem, saying, 'There is a king in Judah!' You can be sure the king will hear these reports. Therefore come, let us speak with one another."
 </usfm>
 
 
@@ -37,9 +37,8 @@
   * [[:en:obe:other:report]]
 ===== translationNotes: =====
 
-  * **There is a king in Judah** - Sanballat says that Nehemiah has spread the idea that he will be the king of Judah.
-  * **You can be sure the king will hear these reports** - Here "the king" refers to Artaxerxes, the Persian king whom Nehemiah served as cupbearer.
-
+  * **the king will hear** - "King Artaxerxes will hear" 
+  * **Therefore come** - "Therefore come meet with us" 
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -47,6 +46,6 @@
   * [[:en:bible:questions:comprehension:neh:06]]
 **[[:en:bible:notes:neh:06:05|<<]] | [[:en:bible:notes:neh:06:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

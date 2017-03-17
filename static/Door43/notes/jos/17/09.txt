@@ -15,7 +15,7 @@
 
 <usfm>
 \v 9 The border extended down south to the brook of Kanah, and all the cities south of that stream belonged to Manasseh. The border of Manasseh was on the north side of the brook of Kanah; it extended to the Mediterranean Sea.
-\v 10 The land to the south belong to Ephraim and the land to the north belonged to the tribe of Manasseh; the Mediterranean Sea was Manasseh's border. The tribe of Asher was on the north side of the boundary, while the tribe of Issachar was to the east. 
+\v 10 The land to the south belong to Ephraim and the land to the north belonged to the tribe of Manasseh; the Mediterranean Sea was Manasseh's border. The tribe of Asher was on the north side of the boundary, while the tribe of Issachar was to the east.
 \pi
 </usfm>
 
@@ -57,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check issachar}}
+{{tag>publish p2pass issachar}}
 
 ~~NOCACHE~~

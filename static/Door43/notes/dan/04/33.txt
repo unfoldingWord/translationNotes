@@ -11,8 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 33 At that very moment everything that had been said about Nebuchadnezzar came true. He was driven away from other human beings. He ate grass like an ox, and dew from the sky made me wet every morning. My hair grew as long as eagles' feathers, and my fingernails became like birds' claws.
-\b
+\v 33 At that very moment everything that had been said about Nebuchadnezzar came true. He was driven away from other human beings. He ate grass like an ox, and dew from the sky made me wet every morning. My hair grew as long the feathers of an eagle, and my fingernails became like the claws of a bird.
 
 
 \pi
@@ -35,9 +34,11 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - Verses 19-33 use the third person to describe the punishment of Nebuchadnezzar. (See: [[:en:ta:vol2:translate:figs_123person]])
+
   * **This decree against Nebuchadnezzar was carried out immediately** - This can be stated in active form. AT: "This decree against Nebuchadnezzar happened immediately" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **He was driven away from people** - This can be stated in active form. AT: "His advisers drove him away from the other" or "His advisers sent him away from the other people" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **his nails became like birds' claws** - "His fingernails looked like birds' claws" 
+  * **He was driven away from people** - This can be stated in active form. AT: "People chased him away from them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **his nails became like birds' claws** - "his fingernails looked like birds' claws" 
 
 ===== Links: =====
 
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:dan:04]]
 **[[:en:bible:notes:dan:04:31|<<]] | [[:en:bible:notes:dan:04:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

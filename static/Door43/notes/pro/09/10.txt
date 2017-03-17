@@ -19,15 +19,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 The first step in getting wisdom is to give Yahweh the respect he deserves, 
-\q2 and knowing Yahweh, the Holy One, is the where understanding comes from. 
+\v 10 The first step in getting wisdom is to give Yahweh the respect he deserves,
+\q2 and knowing Yahweh, the Holy One, is the where understanding comes from.
 \q1
-\v 11 If you become wise, your days will be filled full, 
-\q2 and you will add years to your life. 
+\v 11 If you become wise, your days will be filled full,
+\q2 and you will add years to your life.
 \q1
-\v 12 If you get wisdom, you will gain many benefits from it;
-\q2 but when you ridicule other people, you will suffer by yourself."
-\b
+\v 12 If you become wise, you will gain many benefits from it;
+\q2 if you ridicule other people, you will suffer by yourself."
 
 
 \q1
@@ -38,14 +37,14 @@
 
 <usfm>
 \q
-\v 10 The fear of Yahweh is the beginning of wisdom
+\v 10 The fear of Yahweh is the beginning of wisdom,
 \q and the knowledge of the Holy One is understanding.
 \q
-\v 11 For through me your days will be multiplied
-\q and years added to your life.
+\v 11 For through me your days will be multiplied,
+\q and years of life will be added to you.
 \q
 \v 12 If you are wise, you are wise for yourself,
-\q but if you mock, you will carry it alone."
+\q and if you mock, you will carry it by yourself."
 </usfm>
 
 
@@ -62,13 +61,15 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - These verses finish the message of Wisdom.
 
-  * **The fear of Yahweh** - See how you translated this phrase in [[:en:bible:notes:pro:01:07|1:7]].
-  * **through me your days will be multiplied** - "I will multiply your days" or "I will cause you to live many more days" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **through me** - "through wisdom" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **your days will be multiplied and years added to your life** - These two phrases basically mean the same thing and are used to emphasize the great benefits wisdom has. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **years added to your life** - Wisdom speaks of years of life as if they were physical objects. This can be stated in active form. AT: "I will add years to your life" or "I will enable you to live longer" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **If you are wise ... but if you mock** - These two statements are presented as opposite situations. People are either wise, or are mockers.
+  * **The fear of Yahweh** - Translate this phrase as in [[:en:bible:notes:pro:01:07|1:7]].
+  * **through me your days will be multiplied** - This may be put into active form. AT: "I will multiply your days" or "I will cause you to live many more days" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **through me** - Wisdom, personified as a woman, continues to speak here. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **your days will be multiplied, and years of life will be added to you** - These two phrases basically mean the same thing and are used to emphasize the great benefits wisdom has. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **years of life will be added to you** - Wisdom speaks of years of life as if they were physical objects. This can be stated in active form. AT: "I will add years of life to you" or "I will add years to your life" or "I will enable you to live longer" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **If you are wise ... and if you mock** - These two statements seem to mean that wise people gain advantages for themselves because of their wisdom, and mockers suffer because of their behavior.
+  * **you will carry it** - This speaks of the consequence of one's bad behavior as if it were a heavy load that one had to carry on his back. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
  
  
 ===== Links: =====
@@ -81,6 +82,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

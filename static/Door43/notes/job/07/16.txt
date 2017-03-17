@@ -20,13 +20,12 @@
 <usfm>
 \v 16 I detest continuing to be alive; I do not want to live for many more years.
 \q2 Allow me to be alone, because I will be alive for only a very short time.
-\b
 \q1
 \v 17 We human beings are not very important;
 \q2 so why do you pay so much attention to us ?
 \q1
 \v 18 You look at us every morning to see what we are doing,
-\q2 and you 
+\q2 and you
 examine us every moment to see if we are doing what is right.
 
 
@@ -58,10 +57,10 @@ examine us every moment to see if we are doing what is right.
 
   * **I loathe my life** - "I despise my life"
   * **to always be alive** - "to live forever"
-  * **my days are useless** - "my days are pointless" or "my days are of no value"
-  * **that you should pay attention to him** - "that you should observe him"
-  * **that you should set your mind on him** - "that you should direct your attention to him"
-  * **that you should observe him** - "that you should carefully inspect him"
+  * **my days are useless** - "my days are pointless" or "the days of my life are empty"
+  * **What is man that ... every moment?** - Job asks this question to emphasize that he wonders why God pays attention to people. It can be translated as a statement. AT: "Tell me what man is that ... every moment." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **set your mind on him** - Here the mind represents thoughts and attention. To "set your mind on" means to give attention to. AT: "direct your attention to him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **observe him** - "carefully examine him"
 
 ===== Links: =====
 
@@ -70,6 +69,6 @@ examine us every moment to see if we are doing what is right.
   * [[:en:bible:questions:comprehension:job:07]]
 **[[:en:bible:notes:job:07:13|<<]] | [[:en:bible:notes:job:07:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

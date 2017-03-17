@@ -42,9 +42,14 @@
 
 ===== translationNotes: =====
 
-  * **As I live** - AT: "Surely"
-  * **even if you, Jehoiachin ... were the signet on my right hand, I would tear you off** - AT: "Even if you, Jehoiachin ... were the signet on my right hand, I would tear you off from my hand" or "Jehoiachin ... even if you were the king whom I had chosen as an expression of my power, I would still punish you" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I have given you to the hand of the ones seeking your life** - AT: "I have made it possible for the ones seeking your life to capture you"
+  * **As I live** - "As surely as I am alive." Yahweh uses this expression to show that what he says next is certainly true. This is a way of making a solemn promise. AT: "I solemnly swear" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **even if you ... were the signet on my right hand** - Yahweh speaks to Jehoiachin as if it were possible for him to be the ring on Yahweh's hand. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **the signet on my right hand** - A signet ring was used by a king to place his seal of authority on documents. The signet ring therefore represents authority to rule. The right hand also represents authority to rule. AT: "the signet ring on my right hand that represented my authority to be king" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I would tear you off** - "I would tear you off from my hand" or "I would quickly pull you off of my hand"
+  * **I have given you to the hand of the ones seeking your life** - This can be stated in active form. AT: "I have made it possible for the ones seeking your life to capture you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **to the hand of** - Here "hand" represents power and control.  (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **seeking your life** - This is an idiom that means "seeking to take your life." AT: "trying to kill you" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 
 ===== Links: =====
@@ -52,12 +57,11 @@
   * [[:en:bible:notes:jer:00:intro]]
   * [[:en:bible:notes:jer:22:00]]
   * [[:en:bible:questions:comprehension:jer:22]]
-
 **[[:en:bible:notes:jer:22:22|<<]] | [[:en:bible:notes:jer:22:27|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit jehoiachin}}
+{{tag>publish p2check jehoiachin}}
 
 ~~NOCACHE~~

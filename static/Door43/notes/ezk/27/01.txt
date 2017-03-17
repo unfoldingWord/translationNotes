@@ -29,7 +29,7 @@
 \p
 \v 1 Again the word of Yahweh came to me and said,
 \v 2 "Now you, son of man, begin a lamentation concerning Tyre,
-\v 3 and say to Tyre, who lives within the gates of the sea, merchants of peoples to many islands, the Lord Yahweh says this to you: 
+\v 3 and say to Tyre, who lives within the gates of the sea, merchants of peoples to many islands, the Lord Yahweh says this to you:
 \q Tyre, you have said, 'I am perfect in beauty.'
 </usfm>
 
@@ -46,8 +46,13 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **who lives within the gates of the sea** - "who live at the gates of the sea." This phrase means 1) "who lives by the ports of the sea" or 2) "who rules over the ports of the sea."
+  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **son of man** - "son of a human being" or "son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. AT: "mortal person" or "human"
+  * **begin a lamentation** - The abstract noun "lamentation" can be translated using the verb "lament." AT: "begin to lament" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **say to Tyre** - Here the word "Tyre" represents the people living in Tyre. AT: "say to the people of Tyre" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who lives within the gates of the sea** - "who lives at the gates of the sea" or "who lives at the entry to the sea" 
+  * **Tyre, you have said** - Here the word "Tyre" represents the people living in Tyre. AT: "People of Tyre, you have said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I am perfect in beauty** - The abstract noun "beauty" can be translated using the adjective "beautiful." AT: "I am perfectly beautiful" or "I am entirely beautiful" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -56,6 +61,6 @@
   * [[:en:bible:questions:comprehension:ezk:27]]
 **[[:en:bible:notes:ezk:26:19|<<]] | [[:en:bible:notes:ezk:27:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

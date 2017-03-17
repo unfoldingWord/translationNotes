@@ -20,7 +20,7 @@
 \q1
 \v 6 There may be thousands of enemy soldiers who surround me,
 \q2 but I am not afraid.
-\b
+
 
 
 \q1
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:psa:003]]
 **[[:en:bible:notes:psa:003:003|<<]] | [[:en:bible:notes:psa:003:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

@@ -19,7 +19,6 @@
 <usfm>
 \v 5 They will sing about what you have done;
 \q2 they will sing and say that you are very great.
-\b
 \q1
 \v 6 Yahweh, you are supreme,
 \q2 but you take care of people who are considered to be unimportant.
@@ -49,9 +48,8 @@
 
 ===== translationNotes: =====
 
-  * **Yahweh is high, yet he cares for the lowly** - Here "high" stands for the great honor and power that belong to Yahweh. AT: "Yahweh has all honor and power, but he cares for those who have nothing" (See: [[:en:ta:vol2:translate:figs_merism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Yahweh is high, yet he cares for the lowly** - Yahweh is above all creation in power, position, and authority. Yet his interest is in those who are humble in spirit, servants to all. This is a simple contrast.
   * **the proud he knows from far off** - This expression probably means that God is not faithful to those who are proud. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-
 
 ===== Links: =====
 
@@ -60,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:138]]
 **[[:en:bible:notes:psa:138:003|<<]] | [[:en:bible:notes:psa:138:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

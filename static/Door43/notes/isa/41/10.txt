@@ -20,7 +20,6 @@
 \q1 Do not be discouraged, because I am your God.
 \q2 I will enable you to be strong, and I will help you;
 \q2 I will hold you up with my powerful arm by which I will rescue you, and I will be completely right to do so!
-\b
 
 
 \q1
@@ -29,8 +28,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 10 Do not fear, for I am with you. Do not be anxious, for I am your God. 
-\q1 I will strengthen you, and I will help you, and I will uphold you with the right hand of my deserved victory.
+\v 10 Do not fear, for I am with you. Do not be anxious, for I am your God.
+\q1 I will strengthen you, and I will help you, and I will uphold you with my righteous right hand.
 </usfm>
 
 ===== translationWords: =====
@@ -43,7 +42,8 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **I will uphold you with the right hand of my deserved victory** - Here "right hand" refers to God's power. AT: "I will support you with my powerful and righteous hand" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will uphold you with my righteous right hand** - Yahweh strengthening his people is spoken of as if he were holding them with his hand. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my righteous right hand** - Here "right hand" represents Yahweh's power. Possible meanings are 1) Yahweh's right hand is righteous in that he will always do the right thing. AT: "my righteous power" or 2) Yahweh's right hand is victorious in that he will always succeed in what he does. AT: "my victorious power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:isa:41]]
 **[[:en:bible:notes:isa:41:08|<<]] | [[:en:bible:notes:isa:41:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

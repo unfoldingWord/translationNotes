@@ -24,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 30 And it will come about, when Yahweh will have done for my master all the good things which he has promised you, and when he has made you leader over Israel,
-\v 31 this matter will be no sorrow to you, nor heartfelt offense to my master, for you have not shed blood without cause, and you have not avenged yourself. And when Yahweh has brought my master success, call your servant to mind."
+\v 30 Yahweh will have done for my master everything he promised you, and has appointed you leader over Israel.
+\v 31 This will not be a staggering burden for you—that you have poured out innocent blood, or because my master attempted to rescue himself. For when Yahweh will do good for my master, remember your servant."
 </usfm>
 
 
@@ -45,12 +45,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Abigail continues to reason with David.
+  * **Connecting Statement:** - Abigail continues to reason with David.
 
   * **my master ... my master ... my master ... your servant** - Abigail speaks of herself and David as if they are two different people to show that she respects David. "you ... you ... you ... me" (See: [[:en:ta:vol2:translate:figs_pronouns]])
-  * **this matter will be no sorrow to you** - Abigail is stating that if David chooses not to take revenge he will have a clear conscience when Yahweh makes him king of Israel. This can be stated in positive form. AT: "you will always be glad you acted as you did" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **the good things which he has promised you** - That is, when Yahweh actually makes him king after Saul's reign is over.
-  * **call your servant to mind** - "remember your servant"
+  * **This will not be a staggering burden for you** - Abigail is stating that if David chooses not to take revenge he will have a clear conscience when Yahweh makes him king of Israel. This can be stated in positive form. AT: "You will always be glad you acted as you did" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **when Yahweh will do good for my master** - That is, when Yahweh actually makes him king after Saul's reign is over.
+
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

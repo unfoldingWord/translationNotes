@@ -18,7 +18,6 @@
 \q2 'I curse the people of the town of Meroz
 \q1 because they did not come to help Yahweh
 \q2 to defeat the mighty warriors of Canaan.'
-\b
 
 
 \q1
@@ -32,7 +31,6 @@
 \q 'Surely curse its inhabitants!—
 \q because they did not come to help Yahweh—
 \q to help Yahweh in the battle against the mighty warriors.'
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -56,6 +54,6 @@
   * [[:en:bible:questions:comprehension:jdg:05]]
 **[[:en:bible:notes:jdg:05:21|<<]] | [[:en:bible:notes:jdg:05:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

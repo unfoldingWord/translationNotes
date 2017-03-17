@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 43 Because you did not call to mind the days of your youth when you made me shake with anger over all these things. Behold! I myself will bring the punishment for your conduct on your own head—this is the Lord Yahweh's declaration—so you will no longer act wickedly in all your disgusting ways.
+\v 43 Because you did not call to mind the days of your youth and have made me shake with anger because of all these things, therefore, behold! I myself will bring down on your own head the punishment for what you have done—this is the Lord Yahweh's declaration. Have you not added prostitution to all your other detestable practices?
 </usfm>
 
 ===== translationWords: =====
@@ -33,11 +33,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to speak about Jerusalem and the people of Israel as his unfaithful wife.
+  * **General Information:** - Yahweh continues to speak about Jerusalem as if the city were his unfaithful wife. The city represents the people who live there. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
  
-  * **the days of your youth** - Yahweh is referring to earlier times. AT: "my kindness to you when you were young" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Behold!** - This alerts us to pay attention to what follows. 
-  * **I myself will bring the punishment for your conduct on your own head** - AT: "I will punish you for how you have acted" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **call to mind** - This idiom means to remember. AT: "remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **have made me shake with anger because of all these things** - Here "shake" refers to a physical response that a person has when he is extremely angry. As Jerusalem was doing these things, she did not think about what Yahweh had done when she was young.
+  * **behold!** - The word "behold" here alerts us to pay attention to the surprising information that follows. 
+  * **I myself will bring down on your own head the punishment for what you have done** - The idiom "bring ... on your own head" means that she will experience this punishment. See how you translated this idiom in [[:en:bible:notes:ezk:11:19|11:21]]. AT: "I will cause you to suffer the punishment for your conduct" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -45,6 +48,6 @@
   * [[:en:bible:questions:comprehension:ezk:16]]
 **[[:en:bible:notes:ezk:16:40|<<]] | [[:en:bible:notes:ezk:16:44|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

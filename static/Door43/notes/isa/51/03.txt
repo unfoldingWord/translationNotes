@@ -24,7 +24,6 @@
 \q2 it will be like the garden of Yahweh.
 \q1 All the people there will be joyful and happy;
 \q2 they will thank me and sing.
-\b
 
 
 \q1
@@ -35,8 +34,8 @@
 
 <usfm>
 \q1
-\v 3 Yes, Yahweh will comfort Zion; he will comfort all her waste places; 
-\q1 her wilderness he made like Eden, and her desert plains beside the Jordan River valley like the garden of Yahweh; 
+\v 3 Yes, Yahweh will comfort Zion; he will comfort all her waste places;
+\q1 her wilderness he made like Eden, and her desert plains beside the Jordan River valley like the garden of Yahweh;
 \q1 joy and gladness will be found in her, thanksgiving, and the sound of singing.
 </usfm>
 
@@ -54,12 +53,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking to the people of Israel.
-
-  * **Yahweh will comfort Zion** - AT: "Yahweh will comfort the people of Zion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **her wilderness he made like Eden, and her desert plains beside the Jordan River valley like the garden of Yahweh** - Both of these phrases mean basically the same thing. It means God will restore beauty and happiness to the places that are empty. Also, in prophecy, events that will happen in the future are often described as something in the past. This emphasizes that it certainly will happen. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **joy and gladness will be found in her** - Joy and gladness mean the same thing. This can be stated in active form. AT: "there will be joy and gladness in Zion again" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **Yahweh will comfort Zion** - The city of Zion, which is also called Jerusalem, here represents the people of Zion. AT: "Yahweh will comfort the people of Zion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he will comfort all her waste places** - "he will comfort the people who live in all her waste places" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **her waste places ... her wilderness ... her desert plains** - The word "her" refers to Zion. Cities are often spoken of as if they were women. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **waste places** - places that have been destroyed
+  * **her wilderness he made like Eden, and her desert plains ... like the garden of Yahweh** - These phrases mean that God will make the empty places in Israel beautiful. In prophecy, events that will happen in the future are often described as being in the past. This emphasizes that they will certainly happen. AT: "he will make her wilderness like Eden and her desert plains ... like the garden of Yahweh (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **joy and gladness will be found in her** - Joy and gladness mean the same thing. Being found there represents being there. AT: "there will be joy and gladness in Zion again" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -67,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:51]]
 **[[:en:bible:notes:isa:51:02|<<]] | [[:en:bible:notes:isa:51:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

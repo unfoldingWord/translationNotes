@@ -22,7 +22,7 @@
 <usfm>
 \p
 \v 17 Now when the Philistines heard that David had been anointed as king over Israel, they all went out looking for him. But David heard about it and went down to the stronghold.
-\v 18 Now the Philistines had come and spread out in the valley of Rephaim.
+\v 18 Now the Philistines had come and spread out in the Valley of Rephaim.
 </usfm>
 
 
@@ -35,8 +35,9 @@
 
 ===== translationNotes: =====
 
-  * **they all went out looking for him** - This phrase refers to some Philistines looking for David. It uses exaggeration, saying "all," to show how much the Philistines wanted to find David. (See: [[:en:ta:vol2:translate:figs_hyperbole]]) 
-  * **valley of Rephaim** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]] )
+  * **David had been anointed as king over Israel** - This can be stated in active form. AT: "Israel had anointed David as king" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they all went out looking for him** - This phrase refers to some Philistines looking for David. It uses exaggeration to show how much the Philistines wanted to find David. (See: [[:en:ta:vol2:translate:figs_hyperbole]]) 
+  * **Valley of Rephaim** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]] )
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -44,6 +45,6 @@
   * [[:en:bible:questions:comprehension:2sa:05]]
 **[[:en:bible:notes:2sa:05:13|<<]] | [[:en:bible:notes:2sa:05:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

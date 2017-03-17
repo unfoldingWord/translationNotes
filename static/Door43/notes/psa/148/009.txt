@@ -10,6 +10,13 @@
 \q2 and the reptiles\f + \ft Or: creatures that crawl on he ground \f*,
 \q2 and all the birds, \add I tell all of them to\add* praise Yahweh!
 \q1
+\v 11 You kings on this earth and all the people \add that you rule\add*,
+\q2 you princes and all other rulers,
+\q1
+\v 12 you young men and young women,
+\q2 you old people and children, \add everyone\add*, praise Yahweh!
+\b
+\q1
 </usfm>
 
 ===== UDB: =====
@@ -24,17 +31,34 @@
 
 
 \q1
+\v 11 You kings on this earth and all the people that you rule,
+\q2 you princes and all other rulers,
+\q1
+\v 12 you young men and young women,
+\q2 you old people and children, everyone, praise Yahweh!
+
+
+
+\q1
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
 \q
-\v 9 Praise Yahweh, mountains and all hills,
+\v 9 Praise him, mountains and all hills,
 \q fruit trees and all cedars,
 \q
 \v 10 animals wild and tame,
 \q creatures that crawl and birds.
+
+ 
+\q
+\v 11 Praise Yahweh, kings of the earth and all nations,
+\q princes and all who govern on the earth,
+\q
+\v 12 both young men and young women,
+\q elderly and children.
 </usfm>
 
 ===== translationWords: =====
@@ -56,6 +80,6 @@
   * [[:en:bible:questions:comprehension:psa:148]]
 **[[:en:bible:notes:psa:148:007|<<]] | [[:en:bible:notes:psa:148:011|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

@@ -23,7 +23,6 @@
 \q1 Show them that you are very eager to help your people.
 \q2 If your enemies would realize that, they would be ashamed;
 \q1 make your fire burn them up because they are your enemies.
-\b
 \q1
 \v 12 Yahweh, we desire that you will allow things to go well for us;
 \q2 all that we have done is what you have enabled us to do.
@@ -35,9 +34,8 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 11 Yahweh, your hand is lifted up, but they do not notice. 
+\v 11 Yahweh, your hand is lifted up, but they do not notice.
 \q1 But they will see your zeal for the people and be put to shame, because fire of your adversaries will devour them.
 \q1
 \v 12 Yahweh, you will bring about peace for us; for indeed, you have also accomplished all our works for us.
@@ -58,10 +56,13 @@
 
 ===== translationNotes: =====
 
+  * **your hand is lifted up** - Yahweh preparing to punish wicked people is spoken of as if his hand were raised and about to hit the wicked people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **but they do not notice** - "but the wicked people do not notice"
-  * **But they will see your zeal for the people and be put to shame** - This can be stated in active form. AT: "But when they see your eagerness to bless your people, the wicked people will be ashamed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **fire of your adversaries will devour them** - "your fire will devour them"
-  * **for us** - Here "us" refers to Isaiah and includes all the righteous people. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+  * **they will see your zeal for the people** - Here "see" represents realizing something. AT: "they will realize that you are eager to bless your people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **be put to shame** - This can be stated in active form. AT: "they will be ashamed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **fire of your adversaries will devour them** - Yahweh punishing and completely destroying his adversaries is spoken of as if he would send a fire that will completely burn them up. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **fire of your adversaries** - Here "of" does not mean the fire belongs to the adversaries but that the fire is intended to be used against the adversaries. AT: "your fire will completely burn them up"
+  * **for us** - Here "us" refers to Isaiah and includes all the righteous people. (See: [[:en:ta:vol2:translate:figs_exclusive]])
 
 ===== Links: =====
 
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:isa:26]]
 **[[:en:bible:notes:isa:26:10|<<]] | [[:en:bible:notes:isa:26:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

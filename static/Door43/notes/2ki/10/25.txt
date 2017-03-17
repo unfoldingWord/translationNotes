@@ -24,10 +24,10 @@
 
 <usfm>
 \p
-\v 25 So then as soon Jehu finished offering the burnt offering, he said to the guard and to the captains, "Go in and kill them. Let no one come out." So they killed them with the edge of the sword, and the guard and the captains threw them out and went into the inner room of the house of Baal.
-\v 26 And they dragged out the stone pillars that were in the house of Baal, and they burned them.
-\v 27 They broke down the pillar of Baal, and destroyed the house of Baal and made it a latrine, which it is to this day.
-\v 28 That is how Jehu destroyed Baal and removed its worship from Israel.
+\v 25 So then as soon as Jehu finished offering the burnt offering, he said to the guard and to the captains, "Go in and kill them. Let no one come out." So they killed them with the edge of the sword, and the guard and the captains threw them out and went into the inner room of the house of Baal.
+\v 26 They dragged out the stone pillars that were in the house of Baal, and they burned them.
+\v 27 Then they broke down the pillar of Baal, and destroyed the house of Baal and made it a latrine, which it is to this day.
+\v 28 That is how Jehu destroyed Baal worship from Israel.
 </usfm>
 
 ===== translationWords: =====
@@ -37,11 +37,12 @@
   * [[:en:obe:other:pillar]]
 ===== translationNotes: =====
 
-  * **he said to the guard and to the captains** - You may need to state that Jehu came out of the temple before he spoke to the guard. "he went back outside of the temple of Baal and said to the guards and captains" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Let no one come out** - AT: "Do not let anyone escape."
-  * **with the edge of the sword** - "with their swords," (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **threw them out** - "threw their dead bodies out of the temple"
-  * **made it a latrine** - A latrine is a bathroom, or a toilet area, usually for a camp or buildings used to house soldiers. AT: "made it a public toilet."
+  * **he said to the guard and to the captains** - You may need to state that Jehu came out of the temple before he spoke to the guard. AT: "he went back outside of the temple of Baal and said to the guards and captains" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **with the edge of the sword** - The men used swords to kill the worshipers of Baal. This phrase refers to their swords. AT: "with their swords" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **threw them out** - This means that threw the dead bodies of the people out of the temple. AT: "threw their dead bodies out of the temple" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **made it a latrine** - "made it a public toilet" A latrine is a bathroom, or a toilet area, usually for a camp or buildings used to house soldiers. 
+  * **which it is to this day** - This means that something has remained in a certain condition until the present time. AT: "and since then it has always been that way" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
 
 ===== Links: =====
 
@@ -50,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2ki:10]]
 **[[:en:bible:notes:2ki:10:23|<<]] | [[:en:bible:notes:2ki:10:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

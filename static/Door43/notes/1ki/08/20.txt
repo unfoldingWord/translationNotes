@@ -43,7 +43,11 @@
 
 ===== translationNotes: =====
 
-  * **I sit on the throne of Israel** - AT: "I rule over Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **has carried out the word that he had said** - This is an idiom. AT: "has done exactly what he said he would do" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **I have arisen in the place of David my father** - Height is a metaphor for power. AT: "I have gained the power that David my father had" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I sit on the throne of Israel** - The throne is a metonym for the activity of the one who sits on the throne. AT: "I rule over Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **for the name of Yahweh** - The word "name" is a metonym for the person, and "for ... name" refers to worshiping the person. Translate as in [[:en:bible:notes:1ki:03:01|3:2]]. AT: "in which people will worship Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **is Yahweh's covenant, which** - The stone tablets on which Yahweh had written the terms of the covenant are spoken of as if they were the covenant itself. AT: "are the tablets on which Yahweh wrote the terms of the covenant that" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -52,6 +56,6 @@
   * [[:en:bible:questions:comprehension:1ki:08]]
 **[[:en:bible:notes:1ki:08:17|<<]] | [[:en:bible:notes:1ki:08:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

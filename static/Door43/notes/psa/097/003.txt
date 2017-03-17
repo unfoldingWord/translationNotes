@@ -59,10 +59,10 @@
  
 ===== translationNotes: =====
 
-  * **Fire goes before him** - The psalmist speaks as if fire were a person walking before King Yahweh and telling people that the king was coming. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Fire goes before him** - The psalmist speaks as if fire were a person walking before King Yahweh and telling people that the king was coming. (See: [[:en:ta:vol2:translate:figs_personification]])
   * **consumes his adversaries** - "burns up his enemies"
-  * **the earth sees and trembles** - "the earth" is described as a person who is able to see and tremble. This can be restated as "the people on the earth see and tremble" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **tremble** - shake with fear
+  * **the earth sees and trembles** - "the earth" refers to the people who live on the earth. AT: the people on the earth see and tremble" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **trembles** - "shakes with fear"
   * **The mountains melt like wax before Yahweh** - "The mountains are unable to stand as Yahweh comes near" or "The mountains crumble in Yahweh's presence" (See: [[:en:ta:vol1:translate:figs_simile]])
  
 ===== Links: =====
@@ -78,6 +78,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book4}}
+{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

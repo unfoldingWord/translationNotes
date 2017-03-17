@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 Each year there was brought to Solomon a total of almost twenty-three thousand kilograms of gold.
+\v 14 Each year there was brought to Solomon a total of twenty-three thousand kilograms of gold.
 \v 15 That was in addition to the taxes paid to him by the merchants and traders, and the annual taxes paid by the kings of Arabia and by the governors of the districts in Israel.
 \p
 </usfm>
@@ -35,7 +35,7 @@
 
 ===== translationNotes: =====
 
-  * **in one year** - This refers to every year of Solomon's reign, and not to just one time. AT: "each year" (UDB)
+  * **in one year** - "each year" (UDB). This refers to every year of Solomon's reign, and not to just one time.
   * **666 talents of gold** - A talent is a unit of weight equal to about 34 kilograms. AT: "almost 23,000 kilograms of gold" (See: [[:en:ta:vol2:translate:translate_bweight]])
 
 ===== Links: =====
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:1ki:10]]
 **[[:en:bible:notes:1ki:10:13|<<]] | [[:en:bible:notes:1ki:10:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit arabia}}
+~~DISCUSSION~~{{tag>publish p2pass arabia}}
 
 ~~NOCACHE~~

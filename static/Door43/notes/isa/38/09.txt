@@ -23,9 +23,7 @@
 <usfm>
 \v 9 When King Hezekiah was almost well again, he wrote this:
 \q1
-\v 10 I said to myself, "Is it necessary for me to die and go to the place where the dead people are
-\q2 during this time of my life when I am still strong?
-\q2 Is Yahweh going to rob me of the remaining years that I should live?"
+\v 10 I said to myself, "In the middle of my life I am about to walk through the gates of death, and Yahweh is taking from me the rest of my years. 
 \q1
 \v 11 I said, "I will not see Yahweh again
 \q2 in this world where people are alive.
@@ -43,7 +41,7 @@
 \p
 \v 9 This was the written prayer of Hezekiah king of Judah, when he had been sick and then recovered:
 \q1
-\v 10 "I said that halfway through my life 
+\v 10 "I said that halfway through my life
 \q1 I will go through the gates of Sheol; I am sent there for the rest of my years.
 \q
 \q1
@@ -66,8 +64,10 @@
 ===== translationNotes: =====
 
 
-  * **I said that halfway through my life I will go through the gates of Sheol** - "I said that before I was old I was going to die." Also, 38:10 may be translated as questions. AT: "I said, 'Will I die before I am old?'"
-  * **I am sent there for the rest of my years** - "before I have lived all of my years I will go to the grave." AT: "will I go to the grave before I have lived all my years?"
+  * **that halfway through my life** - "that before I have grown old." This refers to dying at middle age, before growing old.
+  * **I will go through the gates of Sheol** - This speaks of dying as if Sheol were a kingdom that has gates that one enters. AT: "I will die and go to Sheol" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I am sent there for the rest of my years** - This can be stated in active form. AT: "before I have lived all of my years I will go to the grave" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in the land of the living** - "The living" refers to people who are alive. AT: "in the land where people are alive" or "in this world where people are alive" (UDB) (See: [[:en:ta:vol2:translate:figs_nominaladj]])
  
  
 ===== Links: =====
@@ -83,6 +83,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

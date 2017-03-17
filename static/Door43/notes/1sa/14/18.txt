@@ -13,8 +13,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 18 So Saul said to Ahijah the priest, "Bring the sacred apron here and find out what we should do." On that day Ahijah was wearing the sacred apron, going with the Israelites.
-\v 19 But while Saul was talking to the priest, he saw that the Philistine soldiers were becoming more panicked. So Saul said to Ahijah, "Take your hand down from the sacred apron. We have no time for this."
+\v 18 So Saul said to Ahijah the priest, "Bring the sacred chest here." For the Israelite people had been carrying the sacred chest with them.
+\v 19 But while Saul was talking to the priest, he saw that the Philistine soldiers were becoming more panicked. So Saul said to Ahijah, "Do not bring the sacred chest at this time."
 
 
 \p
@@ -24,27 +24,28 @@
 ===== ULB: =====
 
 <usfm>
-\v 18 Saul said to Ahijah, "Bring the ephod of God here"—for Ahijah was wearing the ephod on that day with the soldiers of Israel.
-\v 19 While Saul was talking to the priest, the commotion in the camp of the Philistines was continuing and increasing. Then Saul said to the priest, "Remove your hand."
+\v 18 Saul said to Ahijah, "Bring the ark of God here," for at that time it was with the people of Israel.
+\v 19 While Saul was talking to the priest, the commotion in the camp of the Philistines was continuing and increasing. Then Saul said to the priest, "Withdraw your hand."
 </usfm>
 
 
 ===== translationWords: =====
 
   * [[:en:obe:other:ahijah]]
-  * [[:en:obe:other:ephod]]
+  * [[:en:obe:other:arkofthecovenant]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:other:israel]]
   * [[:en:obe:kt:priest]]
   * [[:en:obe:other:philistines]]
 
- 
 
 ===== translationNotes: =====
 
+  * **Bring the ark of God here** - A few versions have "ephod" here instead of "ark of God." (See: [[:en:ta:vol2:translate:translate_textvariants]])
   * **commotion** - "great noise and confusion"
-  * **Remove your hand** - The word "hand" here represents action by the priest. AT: "Stop what you are doing." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Withdraw your hand** - This seems to be an idiom the means "Stop what you are doing." Saul did not want Ahijah to continue to use the ark to ask God for direction. AT: "Do not bring the sacred chest at this time" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
  
+
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -55,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit ahijah}}
+{{tag>publish p2pass ahijah}}
 
 ~~NOCACHE~~

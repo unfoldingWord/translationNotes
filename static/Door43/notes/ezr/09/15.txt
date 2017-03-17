@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 Yahweh, God of Israel, you always do the right thing! We are guilty. We are only a few people who have escaped from Babylonia, but we are praying to you, even though we do not deserve 
+\v 15 Yahweh, God of Israel, you always do the right thing! We are guilty. We are only a few people who have escaped from Babylonia, but we are praying to you, even though we do not deserve
 to be in your presence."'"
 </usfm>
 
@@ -19,7 +19,7 @@ to be in your presence."'"
 ===== ULB: =====
 
 <usfm>
-\v 15 Yahweh, God of Israel, you are righteous, for we have remained as a few survivors at this day. Look! We are here before you in our guilt, for there is no one who can stand before you because of this.'"
+\v 15 Yahweh, God of Israel, you are righteous, for we have remained as a few survivors at this day. Look! We are here before you in our guilt, for there is no one who can stand before you because of this.
 </usfm>
 
 
@@ -30,9 +30,13 @@ to be in your presence."'"
   * [[:en:obe:other:israel]]
   * [[:en:obe:kt:righteous]]
   * [[:en:obe:kt:guilt]] 
+
 ===== translationNotes: =====
 
-  * **one who can stand before you** - "none of us are innocent before you"
+  * **Look** - "Pay attention to what I am about to say"
+  * **We are here before you in our guilt** - "You can see that we are all guilty"
+  * **there is no one who can stand before you** - "you do not think that any person is innocent"
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -46,6 +50,6 @@ to be in your presence."'"
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

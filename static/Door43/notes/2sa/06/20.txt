@@ -37,10 +37,10 @@
 
 ===== translationNotes: =====
 
-  * **Michal** - Michal is the name of David's first wife.
-  * **How honored the king of Israel was today** - Michal speaks disrespectfully to King David about his dancing attire and behavior. 
-  * **before the eyes of the slave girls** - Here "eyes of the slave girls" stands for the slave girls. AT: "in front of the slave girls" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
-  * **crude fellows** - David is being compared to a vulgar and ill-bred person. 
+  * **came out** - Here "came" can be translated as "went." (See: [[:en:ta:vol2:translate:figs_go]])
+  * **How honored the king of Israel was today** - This is an ironic statement. Michal means the opposite of what she said, and she does not believe David acted honorably. Michal speaks disrespectfully to King David about his dancing attire and behavior. (See: [[:en:ta:vol1:translate:figs_irony]])
+  * **before the eyes of the slave girls** - Here "eyes of the slave girls" represents the slave girls. AT: "in front of the slave girls" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **crude fellows** - Michal is comparing David to vulgar and foolish men. 
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2sa:06]]
 **[[:en:bible:notes:2sa:06:18|<<]] | [[:en:bible:notes:2sa:06:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

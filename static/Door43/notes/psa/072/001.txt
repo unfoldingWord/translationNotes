@@ -37,9 +37,8 @@
 
 <usfm>
 \c 72
-\p
+\m
 \d A psalm of Solomon.
-\b
 \q
 \v 1 Give the king your righteous decrees, God,
 \q your righteousness to the king's son.
@@ -68,9 +67,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Possible meanings are 1) David wrote this psalm about Solomon ("the king's son") or 2) Solomon (who, as David's son, was "the king's son") wrote this psalm as a prayer about himself or 3) another king wrote it about his son in the style of Solomon. People in those days would often speak of themselves as if they were someone else. However, it would be best to translate this as though the psalmist is speaking of someone else, not of himself. (See: [[:en:ta:vol2:translate:figs_123person]] and [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Possible meanings for the header "a psalm of Solomon" are 1) David wrote this psalm about Solomon ("the king's son") or 2) Solomon (who, as David's son, was "the king's son") wrote this psalm as a prayer about himself or 3) another king wrote it about his son in the style of Solomon. People in those days would often speak of themselves as if they were someone else. However, it would be best to translate this as though the psalmist is speaking of someone else, not of himself. (See: [[:en:ta:vol2:translate:figs_123person]])
 
-  * **A psalm of Solomon** - Possible meanings are 1) David wrote this psalm about Solomon ("the king's son") or 2) Solomon ("the king's son") wrote this psalm as a prayer about himself or 3) another king wrote it about his son in the style of Solomon. People in those days would often speak of themselves as if they were someone else. (See: [[:en:ta:vol2:translate:figs_123person]])
   * **Give the king your righteous decrees, God, your righteousness to the king's son** - Possible meanings are 1) "Give me, the king, your righteous decrees, God, your righteousness to my son" or 2) "Give me, the king, your righteous decrees, God, your righteousness to me, the king's son." People in those days would often speak of themselves as if they were someone else. However, it would be best to translate this as though the psalmist is speaking of someone else, not of himself. (See: [[:en:ta:vol2:translate:figs_123person]])
   * **Give the king your righteous decrees** - "Enable the king to judge rightly" (see UDB)
   * **your righteousness to the king's son** - "May the king's son be able to do what pleases you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
@@ -90,6 +89,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book2}}
+{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

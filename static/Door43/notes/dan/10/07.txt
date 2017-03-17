@@ -24,7 +24,7 @@
 
 <usfm>
 \v 7 I, Daniel, alone saw the vision, for the men who were with me did not see the vision. However, a great terror came on them, and they ran away to hide themselves.
-\v 8 So I was left alone and saw this great vision. No strength remained in me; my radiant appearance was fearfully changed, and no strength remained in me.
+\v 8 So I was left alone and saw this great vision. No strength remained in me; my bright appearance was turned into a ruined look, and no strength remained in me.
 \v 9 Then I heard his words—and as I heard them, I fell on my face in deep sleep with my face to the ground.
 </usfm>
 
@@ -35,9 +35,14 @@
 
 ===== translationNotes: =====
 
-  * **So I was left alone and saw** - AT: "No one was with me, and I saw" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **my radiant appearance was fearfully changed** - AT: "I was so afraid that my normal appearance changed and I did not look like myself." (See [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]]).
-  * **I fell on my face in deep sleep** - Daniel was so afraid by what he saw that he fainted and fell forward so that his face was toward the ground. (See: [[:en:ta:vol1:translate:figs_idiom|]])
+  * **So I was left alone and saw** - This can be stated in active form. "No one was with me, and I saw" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **my bright appearance was turned into a ruined look** - This can be stated in active form. "my bright appearance turned into looking ruined" (See [[:en:ta:vol2:translate:figs_activepassive]])
+  * **my bright appearance** - This describes the face of someone who is healthy. AT: "my healthy-looking face" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **a ruined look** - Someone's unhealthy, pale face is spoken of as if it were a ruined building. AT: "pale" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I heard his words** - This implies that someone was speaking in the vision. This can be made explicit. AT: "I heard the words of someone who was speaking." (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **I fell on my face in deep sleep** - Possible meanings are: 1) Daniel was so scared by what he saw that he deliberately laid on the ground, where he then fainted or 2) Daniel fainted and then fell forward onto the ground. (See: [[:en:ta:vol1:translate:figs_idiom]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -45,6 +50,6 @@
   * [[:en:bible:questions:comprehension:dan:10]]
 **[[:en:bible:notes:dan:10:04|<<]] | [[:en:bible:notes:dan:10:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

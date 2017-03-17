@@ -23,7 +23,6 @@
 \q1
 \v 2 Start playing the music, and beat the tambourines;
 \q2 play nice music on the harps and lyres.
-\b
 \q1
 \v 3 Blow the trumpets during the festival to celebrate each new moon,
 \q2 each time the moon is full, and during our other festivals.
@@ -36,9 +35,8 @@
 
 <usfm>
 \c 81
-\p
+\m
 \d For the chief musician; set to the Gittith style. A psalm of Asaph.
-\b
 \q
 \v 1 Sing aloud to God our strength;
 \q shout out for joy to the God of Jacob.
@@ -67,7 +65,8 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - A psalm of Asaph. See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - A psalm of Asaph.
 
   * **For the chief musician** - "This is for the director of music to use in worship;"
   * **set to the Gittith** - This may refer to a style of music. See how you translated this in [[:en:bible:notes:psa:008:001|8:1]].
@@ -87,6 +86,6 @@
   * [[:en:bible:questions:comprehension:psa:081]]
 **[[:en:bible:notes:psa:080:019|<<]] | [[:en:bible:notes:psa:081:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

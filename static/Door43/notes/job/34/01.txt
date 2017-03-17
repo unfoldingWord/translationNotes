@@ -56,10 +56,11 @@
 
 ===== translationNotes: =====
 
-  * **Elihu** - See how you translated this [[:en:bible:notes:job:32:01|32:2]].
-  * **Listen to my words** - "Listen to what I say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Moreover, Elihu** - "Then, Elihu" 
+  * **Elihu** - Translate this man's name the same as in [[:en:bible:notes:job:32:01|32:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Listen to my words** - "Listen to what I say" 
   * **you wise men ... you who have knowledge** - Elihu is criticizing Job and his friends. He does not think they are actually wise. (See: [[:en:ta:vol1:translate:figs_irony]])
-  * **For the ear tries words as the palate tastes food** - Elihu means people listen carefully to determine what is right or wrong just like we taste food to determine if it is good or bad. (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **For the ear tries words as the palate tastes food** - Elihu means people listen carefully to determine what is right or wrong just like we taste food to determine if it is good or bad. Here people are referred to by their "ear" and their "palate" to emphasize that they are tasting and hearing. AT: "For we listen to words to know what is good and bad, just as we taste foods to know what is good to eat" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -68,6 +69,6 @@
   * [[:en:bible:questions:comprehension:job:34]]
 **[[:en:bible:notes:job:33:31|<<]] | [[:en:bible:notes:job:34:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -11,17 +11,19 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 I will punish your descendants, and it will be as though I had splattered on your faces the dung from the animals that you have sacrificed, and others will come and throw you away with that dung.
+\v 3 I will punish your descendants, and it will be as though I had splattered on your faces the dung from the animals that you have sacrificed, and I will make others come and throw you away with that dung.
 \p
-\v 4 When that happens, you will know that I warned you like this, in order that you descendants of Levi will obey my covenant with the priests." 
+\v 4 When that happens, you will know that I warned you like this, in order that you descendants of Levi will obey my covenant with the priests."
 \m This is what Yahweh, commander of the angel armies, is saying to you.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
-\v 3 See, I am about to rebuke your descendants, and I will spread dung on your faces, the dung from your festivals, and you will be taken away with it.
-\v 4 And you will know that I have sent this command to you, that my covenant may continue to be with Levi," says Yahweh of hosts.
+\v 3 See, I am about to rebuke your descendants, and I will spread dung on your faces, the dung from your festivals, and he will take you away with it.
+\f + \ft Instead of \fqa rebuke your descendants \fqa* , which the Hebrew text has, some ancient and modern versions have \fqa cut off your shoulder \fqa* (or \fqa arm \fqa* ) \fqa* . Some other modern versions have \fqa corrupt your descendants \fqa* . \f*
+\f + \ft Instead of \fqa he will take you away with it \fqa* , which is in the Hebrew text, some ancient and modern versions have \fqa I will take you away from beside me \fqa* , that is, \fqa from my presence \fqa* . \f*
+\v 4 You will know that I have sent this command to you, and that my covenant may continue to be with Levi," says Yahweh of hosts.
 </usfm>
 
 ===== translationWords: =====
@@ -39,8 +41,8 @@
 
   * **and I will spread dung on your faces** - Here "dung on your faces" stands for disgrace. AT: "I will most certainly put you in deep disgrace; it will be as bad as if I had spread dung on your faces" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the dung from your festivals** - Here "festivals" stands for the animals that the priests offered in sacrifice at the Israelite festivals. (See: [[:en:ta:vol2:translate:figs_metonymy]]) "The dung" probably refers both to the dung that was produced by the animals just before they were slaughtered for sacrifice, and to the dung that was found inside the animals when their bodies were cut apart before being sacrificed. Temple workers had to transport this dung to a place outside of the temple, and probably outside of Jerusalem.
-  * **and you will be taken away with it** - This expression continues the same metaphor, and it can be put in active form. AT: "and they will throw you on the dung pile and take you away when they remove all the dung" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **you will be taken away with it** - Possible meanings of this expression are 1) God will punish the unfaithful priests by killing them and causing their bodies to be carried away on the piles of animal dung, or 2) God will punish the unfaithful priests in such a horrible way that it will be as if their bodies had been carried away with the animal dung. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and he will take you away with it** - This difficult expression can be translated as "and God will take you away with it," that is, with the dung. This expression continues the same metaphor of slaughtering animals for sacrifice, and it can be put in active form. AT: "and they will throw you on the dung pile; God will make sure that they take you away when they remove all the dung" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he will take you away with it** - Possible meanings of this expression are 1) God will punish the unfaithful priests by killing them and causing their bodies to be carried away on the piles of animal dung, or 2) God will punish the unfaithful priests in such a horrible way that it will be as if their bodies had been carried away with the animal dung. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Levi** - Yahweh speaks of Levi as though he was the same as his descendants, the tribe of Levi. AT: "so that my covenant may be with you, the descendants of Levi" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 

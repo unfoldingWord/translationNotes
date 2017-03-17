@@ -16,8 +16,8 @@
 
 <usfm>
 \v 28 Then the man brought me through the south entrance into the inner courtyard, and he measured the south entrance. It measured the same as the other gates.
-\v 29 He measured its alcoves, its walls, and its portico with the same measuring standards he had been using. The gate and its portico had windows all around. The gate and its portico measured about twenty-seven meters long and about 13.5 meters wide.
-\v 30 The porticos of the inner gates, which led to the inner courtyard, were about 13.5 meters long and about 2.7 meters wide.
+\v 29 He measured its alcoves, its walls, and its portico with the same measuring standards he had been using. The gate and its portico had windows all around. The gate and its portico measured twenty-seven meters long and thirteen and one-half wide.
+\v 30 The porticos of the inner gates, which led to the inner courtyard, were about thirteen and one-half meters long and two and three-quarter meters wide.
 \v 31 The portico's entrance faced the outer courtyard. Carvings of palm trees decorated the walls, and there were eight steps leading up to it.
 
 
@@ -30,8 +30,8 @@
 <usfm>
 \p
 \v 28 Then the man brought me to the inner courtyard by way of its southern gate, which had the same measurements as the other gates.
-\v 29 Its chambers, walls, and porticos measured the same as the other gates; there were windows all around in the portico. The inner gate and its portico measured fifty cubits long and twenty-five cubits wide.
-\v 30 There were also porticos all around the inner wall; these were twenty-five cubits long and five cubits wide.
+\v 29 Its chambers, walls, and porticos measured the same as the other gates; there were windows all around in the portico. The inner gate and its portico measured fifty cubits in length and twenty-five cubits in width.
+\v 30 There were also porticos all around the inner wall; these were twenty-five cubits in length and five cubits in width.
 \v 31 This portico faced the outer courtyard with carved palm trees on its walls and eight steps going up to it.
 </usfm>
 
@@ -44,15 +44,18 @@
  
 ===== translationNotes: =====
 
-  * **inner courtyard** - See how you translated this in [[:en:bible:notes:ezk:08:16|8:16]].
-  * **chambers** - See how you translated this in [[:en:bible:notes:ezk:40:05|40:7]].
-  * **porticos** - See how you translated this in [[:en:bible:notes:ezk:08:16|8:16]].
-  * **cubits** - See how you translated these "long" cubits in [[:en:bible:notes:ezk:40:05|40:05]].
-  * **fifty cubits** - about 27 meters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **inner courtyard** - Translate this as in [[:en:bible:notes:ezk:08:16|8:16]].
+  * **by way of its southern gate** - "through its southern gate"
+  * **chambers** - Translate this as in [[:en:bible:notes:ezk:40:05|40:7]].
+  * **porticos** - Translate this as in [[:en:bible:notes:ezk:08:16|8:16]].
+  * **measured the same** - "had the same measurements"
+  * **cubits** - Translate these "long" cubits as in [[:en:bible:notes:ezk:40:05|40:05]].
+  * **fifty cubits** - about 27 meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **twenty-five cubits** - about 13.5 meters
   * **five cubits** - about 2.7 meters
-  * **This portico faced the outer courtyard** - "the portico was toward the outer courtyard." People could go in and out of it from the courtyard. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **This portico faced the outer courtyard** - Here "faced" is an idiom that means it was oriented in that direction. People could go in and out of it from the courtyard. AT: "the portico was toward the outer courtyard" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **with carved palm trees** - "and it had carvings of palm trees"
+
 
 ===== Links: =====
 
@@ -61,6 +64,6 @@
   * [[:en:bible:questions:comprehension:ezk:40]]
 **[[:en:bible:notes:ezk:40:26|<<]] | [[:en:bible:notes:ezk:40:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

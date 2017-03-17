@@ -38,11 +38,11 @@
 ===== translationNotes: =====
 
   * **Ittai** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Gittite** - This is the name of a people group.
-  * **Why did you go you with us, too?** - This rhetorical question indicates that the king had not asked them to go along with him. It can be translated as a statement. AT: "You do not need to go with us." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Since you just left yesterday, why should I make you wander all over with us?** - This rhetorical question emphasizes David did not want Ittai to come. This question can be translated as a statement. AT: "I do not want to cause you to wander around with us." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Since you just left yesterday** - This is exaggeration used for emphasis. Ittai the Gittite had been with David at least 20 years. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **May loyalty and faithfulness go with you** - "May Yahweh bless you always"
+  * **Gittite** - Translate the name of this people group the same as you did in [[:en:bible:notes:2sa:06:10|6:10]].
+  * **Why did you go you with us, too?** - This rhetorical question indicates that the king had not asked them to go along with him. This question can be written as a statement. AT: "You do not need to go with us." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **why should I make you wander all over with us?** - This rhetorical question emphasizes David did not want Ittai to come. This question can be translated as a statement. AT: "I do not want to cause you to wander around with us." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Since you just left yesterday** - This is exaggeration used for emphasis. Ittai the Gittite had lived there for several years. AT: "Since you have lived here only a short time" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **May loyalty and faithfulness go with you** - This is a blessing that David is giving to him. AT: "May Yahweh be faithful and loyal to you always" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
  
 ===== Links: =====
@@ -58,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

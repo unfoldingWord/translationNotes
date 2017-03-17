@@ -46,13 +46,11 @@
 \q1
 \v 7 The Lord Yahweh says, "It will not take place; it will not happen,
 \q1
-\v 8 because the head of Aram is Damascus, and the head of Damascus is Rezin. 
-\q1 Within sixty-five years, Ephraim will 
-be shattered and will no longer be a people.
+\v 8 because the head of Aram is Damascus, and the head of Damascus is Rezin.
+\q1 Within sixty-five years, Ephraim will be shattered and will no longer be a people.
 \q1
-\v 9 The head of Ephraim is Samaria, and the head of Samaria is Remaliah's son. 
-\q1 If you do not remain firm in faith, surely you will not
-remain secure."'"
+\v 9 The head of Ephraim is Samaria, and the head of Samaria is Remaliah's son.
+\q1 If you do not remain firm in faith, surely you will not remain secure."'"
 </usfm>
 
 ===== translationWords: =====
@@ -70,11 +68,12 @@ remain secure."'"
 
   * **General Information:** - Yahweh continues to tell Isaiah what he should tell Ahaz. (See: [[:en:bible:notes:isa:07:03]])
 
-  * **and the head of Damascus is Rezin** - "and the king of Damascus is only Rezin"
-  * **Ephraim will be shattered and will no longer be a people** - Here "Ephraim" refers to all of the northern kingdom of Israell. This can be stated in active form. AT: "an army will destroy Ephraim, and there will no longer be a people of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **and the head of Damascus is Rezin** - "and the king of Damascus is Rezin, who is a weak man" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **sixty-five years** - "65 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **the head of Samaria is Remaliah's son** - This means Pekah is the king of Samaria and all of Israel. AT: "the king of Samaria is only Pekah"
-  * **If you do not remain firm in faith, surely you will not remain secure** - AT: "If you continue to believe in me, you will certainly remain safe" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **Ephraim will be shattered and will no longer be a people** - Here "Ephraim" refers to all of the northern kingdom of Israel. This can be stated in active form. AT: "an army will destroy Ephraim, and there will no longer be a people of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the head of Samaria is Remaliah's son** - This means Pekah is the king of Samaria and all of Israel. AT: "the king of Samaria is Pekah, who is a weak man" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **If you do not remain firm in faith, surely you will not remain secure** - This can be stated in positive form. AT: "If you continue to believe in me, you will certainly remain safe" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **If you do not remain** - "Unless you remain"
 
 ===== Links: =====
 
@@ -83,6 +82,6 @@ remain secure."'"
   * [[:en:bible:questions:comprehension:isa:07]]
 **[[:en:bible:notes:isa:07:05|<<]] | [[:en:bible:notes:isa:07:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

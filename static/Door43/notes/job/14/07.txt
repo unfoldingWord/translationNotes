@@ -56,14 +56,14 @@
 
 ===== translationNotes: =====
 
-  * **There can be hope** - AT: "There can be hope to live" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **it might sprout again** - AT: "maybe it will live again" or "it might start growing again"
-  * **so that its tender stalk does not disappear** - AT: "so that its young shoot will live again" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **There can be hope for a tree** - The abstract noun "hope" can be expressed with the verb "hope." The hope is explained in verses 7-9. AT: "We can hope that a tree will live again" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and  [[:en:ta:vol1:translate:figs_explicit]])
+  * **it might sprout again** - "it might start growing again"
+  * **so that its tender stalk does not disappear** - Disappearing represents dying. AT: "so that its young shoot will not die" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Though** - "Even though" or "Even if"
-  * **stump** - The lowest part of the stem that remains after cutting down the tree.
-  * **yet even if it only** - "but when it"
-  * **smells water** - This describes the dead stump as if it can smell like a person. AT: "receives water" or "is watered" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **it will bud** - AT: "it will start growing" or "it will develop leaves and twigs"
+  * **stump** - the part of tree that remains sticking out of the ground after someone has cut down most of the tree
+  * **even if it only smells water** - This describes the dead stump as if it could smell water to represent water being near it. AT: "even if only a little water is near it" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **it will bud** - "it will start growing" 
+  * **and send out branches like a plant** - The tree sending out branches represents branches growing on the tree. AT: "and branches will start growing on it like a plant" (See: [[:en:ta:vol2:translate:figs_personification]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -71,6 +71,6 @@
   * [[:en:bible:questions:comprehension:job:14]]
 **[[:en:bible:notes:job:14:04|<<]] | [[:en:bible:notes:job:14:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

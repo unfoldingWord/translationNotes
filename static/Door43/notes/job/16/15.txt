@@ -28,7 +28,6 @@
 \q1
 \v 17 All this has happened to me even though I have not acted violently toward anyone,
 \q2 and even though I always pray sincerely to God.
-\b
 
 
 \q1
@@ -47,7 +46,6 @@
 \q
 \v 17 although there is no violence in my hands,
 \q and my prayer is pure.
-\b
 </usfm>
 
 
@@ -63,10 +61,10 @@
 
 ===== translationNotes: =====
 
-  * **I have sewn sackcloth on my skin** - AT: "I have sewn sackcloth over my body;" Job describes his lamentation as if the cloth was attached to his body. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I have thrust my horn into the ground** - "Horn" represents the power and authority he had before but now is no more. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the shadow of death** - Job describes death as having a shadow that appears on his eyelids. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **no violence in my hands** - "Hands" refers to a person's ability and activity. (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **I have sewn sackcloth on my skin** - Job speaks of wearing clothing made of sackcloth as if the cloth was attached to his body. People often wore sackcloth to express mourning or great grief. AT: "Because I am mourning, I have sewn together sackcloth to wear as my clothing" or "I wear clothing that I made from sackcloth, because I am mourning" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I have thrust my horn into the ground** - Job's "horn" represents the power and authority he had before but now is no more. AT: "I sit here in the dirt, very depressed" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **on my eyelids is the shadow of death** - Here Job's eyes are represented by his "eyelids." Job speaks of his eyes dark appearance as if eyes looked like the eyes of a dead person. AT: "there are dark circles around my eyes" or "my eyes are dark, like the eyes of a dead person" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **there is no violence in my hands** - "Hands" refers to a person's ability and activity. AT: "I have not acted violently" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -75,6 +73,6 @@
   * [[:en:bible:questions:comprehension:job:16]]
 **[[:en:bible:notes:job:16:13|<<]] | [[:en:bible:notes:job:16:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

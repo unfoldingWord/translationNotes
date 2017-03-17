@@ -16,7 +16,6 @@
 <usfm>
 \v 20 Yahweh protects all those who love him,
 \q2 but he will get rid of all the wicked people.
-\b
 \q1
 \v 21 I will always praise Yahweh;
 \q2 I wish that all people everywhere may praise him forever, for he does everything perfectly.
@@ -45,7 +44,7 @@
 
   * **My mouth will** - "I will" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **will speak out the praise of Yahweh** - "tell everyone how good Yahweh is"
-  * **let all mankind bless his holy name** - The word "name" is a metonym for Yahweh himself. AT: "let all people bless him" or "do what makes him happy." See how "may his glorious name be blessed" is translated in [[:en:bible:notes:psa:072:018|72:19]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **let all mankind bless his holy name** - The word "name" is a metonym for Yahweh himself. See how "may his glorious name be blessed" is translated in [[:en:bible:notes:psa:072:018|72:19]]. AT: "let all people bless him" or "let all people do what makes him happy" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -54,6 +53,6 @@
   * [[:en:bible:questions:comprehension:psa:145]]
 **[[:en:bible:notes:psa:145:017|<<]] | [[:en:bible:notes:psa:146:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

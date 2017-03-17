@@ -16,7 +16,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 Hazael replied, "I am as powerless as a dog. How could I do such terrible things?" 
+\v 13 Hazael replied, "I am as powerless as a dog. How could I do such terrible things?"
 \p Elisha replied, "Yahweh has also revealed to me that you will become the king of Aram."
 \p
 \v 14 Then Hazael left and returned to his master the king, who asked him, "What did Elisha say?"
@@ -44,12 +44,12 @@
   * [[:en:obe:kt:lord]]
 ===== translationNotes: =====
 
-  * **Who is your servant, that he should do this great thing?** - Hazael is talking about himself. AT: "Who am I, that I would have the power to do such things?" or "I could never do such things!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **He is only a dog** - Hazael is talking about himself. AT: "I am like a lowly animal." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **came to his master** - AT: "went back to Ben Hadad."
-  * **He answered, "He told me that you would certainly recover."** - AT: "Hazael replied, 'Elisha told me that you would not die from this illness'."
-  * **face so that he died** - AT: "face. Ben Hadad was unable to breathe through it, and so he died" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Then Hazael became king in his place** - As Elisha had prophesied, Hazael became the king of Aram after Ben Hadad was dead.
+  * **Who is your servant, that he should do this great thing?** - Hazel refers to himself here as Elisha's servant. Hazel uses this rhetorical question to emphasize that he does not think he could do the terrible things that Elisha has said. This can be written as a statement. AT: "I could never do such great things!" or "Who am I, that I would have the power to do such things?" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **this great thing** - "this terrible thing." Here the word "great" refers to something that has a large effect and is terrible. 
+  * **He is only a dog** - Hazael is talking about himself. He speaks of his low status and lack of influence by comparing himself to a dog. Here a dog represents a lowly animal. AT: "I am as powerless as a dog" (UDB) or "I am as powerless as a lowly animal" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **came to his master** - The phrase "his master" refers to Ben Hadad.
+  * **face so that he died** - This means that Ben Hadad suffocated under the wet blanket. The full meaning of this statement can be made clear. AT: "face. Ben Hadad was unable to breathe through it, and so he died" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:2ki:08]]
 **[[:en:bible:notes:2ki:08:10|<<]] | [[:en:bible:notes:2ki:08:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

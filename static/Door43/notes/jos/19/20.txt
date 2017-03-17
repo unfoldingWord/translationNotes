@@ -37,10 +37,8 @@
 
 ===== translationNotes: =====
 
-  * **Rabbith ... Kishion ... Ebez ... Remeth ... Engannim ... Enhaddah ... Bethpazzez ... Shahazumah ... Beth Shemesh** - These are names of cities and border places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Rabbith ... Kishion ... Ebez ... Remeth ... Engannim ... Enhaddah ... Bethpazzez ... Shahazumah** - These are names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Tabor** - This is the name of a mountain. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **sixteen cities** - "16 cities" (See: [[:en:ta:vol2:translate:translate_numbers]]) 
-
  
 ===== Links: =====
 
@@ -53,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit bethshemesh}}
+{{tag>publish p2pass bethshemesh}}
 
 ~~NOCACHE~~

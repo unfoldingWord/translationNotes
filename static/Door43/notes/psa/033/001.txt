@@ -26,7 +26,7 @@
 \q1
 \v 3 Sing a new song to him;
 \q2 play those instruments well, and shout joyfully as you play them.
-\b
+
 
 
 \q1
@@ -36,7 +36,7 @@
 
 <usfm>
 \c 33
-\p
+\m
 \q
 \v 1 Rejoice in Yahweh, you righteous;
 \q praise is appropriate for the upright.
@@ -60,7 +60,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Each verse consists of two lines that have very similar meaning. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]) (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **Rejoice in Yahweh** - Here "in Yahweh" refers to what Yahweh has done for them. "Rejoice because of what Yahweh has done" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **praise is appropriate for the upright** - "to praise Yahweh is appropriate for upright people"
@@ -71,6 +71,6 @@
   * [[:en:bible:questions:comprehension:psa:033]]
 **[[:en:bible:notes:psa:032:011|<<]] | [[:en:bible:notes:psa:033:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1 harp}}
+~~DISCUSSION~~{{tag>publish p2pass book1 harp}}
 
 ~~NOCACHE~~

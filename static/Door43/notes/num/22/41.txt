@@ -26,7 +26,7 @@
 
 ===== translationNotes: =====
 
-  * **the high place of Baal** - This is an ellipsis and you can make clear the understood information. AT: "the high place where people made sacrifices to Baal" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **the high place of Baal** - Possible meanings are 1) this refers to the same place as Bamoth in [[:en:bible:notes:num:21:19|21:19]]. The word Bamoth means "the high place," or 2) this is another high place where people sacrificed to Baal.
 
 ===== Links: =====
 
@@ -35,6 +35,6 @@
   * [[:en:bible:questions:comprehension:num:22]]
 **[[:en:bible:notes:num:22:38|<<]] | [[:en:bible:notes:num:23:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check baal}}
+~~DISCUSSION~~{{tag>publish p2pass baal}}
 
 ~~NOCACHE~~

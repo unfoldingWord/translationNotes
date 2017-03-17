@@ -19,7 +19,7 @@
 \v 35 Yahweh, you protect and save me with your shield; you are strong and have therefore kept me safe. I have become strong because you have helped me.
 \q1
 \v 36 You have made a safe path for me, with the result that now I do not slip.
-\b
+
 
 
 \q1
@@ -43,12 +43,10 @@
 
 ===== translationNotes: =====
 
-  * **the shield** - Here the writer speaks of God's protection as if it were a shield. AT: "the protection" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **of your salvation** - Here "salvation" means that God has rescued the writer. AT: "because you have rescued me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the shield of your salvation** - Here the writer speaks of God's protection as if it were a shield. The abstract noun "salvation" can be stated with the verb "save." AT: "your protection and saved me" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **Your right hand ... your favor** - Both of these terms are metonyms that represent God himself. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **a wide place for my feet beneath me** - The writer speaks of the safety that God has provided as if it were a wide place for him to stand . AT: "a safe place for me" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **my feet have not slipped** - Here "my feet" refers to the person. The writer refers to the safety of God's protection as if he were standing on a place where he would not slip or fall. AT: "I have not slipped" or "I am doing well" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **my feet have not slipped** - Here "my feet" refers to the person. The writer refers to the safety of God's protection as if he were standing on a place where he will not slip or fall. AT: "I have not slipped" or "I am doing well" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -56,6 +54,6 @@
   * [[:en:bible:questions:comprehension:psa:018]]
 **[[:en:bible:notes:psa:018:033|<<]] | [[:en:bible:notes:psa:018:037|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1 shield}}
+~~DISCUSSION~~{{tag>publish p2pass book1 shield}}
 
 ~~NOCACHE~~

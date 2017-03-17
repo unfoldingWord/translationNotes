@@ -30,9 +30,9 @@
 
 <usfm>
 \q1
-\v 9 Through all their suffering, 
-\q1 he suffered too, and the angel from his presence saved them. 
-\q1 In his love and mercy he saved them, 
+\v 9 Through all their suffering,
+\q1 he suffered too, and the angel from his presence saved them.
+\q1 In his love and mercy he saved them,
 \q1 and he lifted them up and carried them through all the ancient times.
 </usfm>
 
@@ -46,10 +46,10 @@
 
 ===== translationNotes: =====
 
-  * **Through all their suffering** - Here "their" refers to the people of Israel. Isaiah included himself as a member of the people. AT: "Through all our suffering"
+  * **Through all their suffering** - "Through all our suffering." Here "their" refers to the people of Israel. Isaiah included himself as a member of the people.  
   * **he suffered too** - Here "he" refers to Yahweh.
-  * **the angel from his presence** - This is an angel who is sent from God's presence.
-  * **he lifted them up and carried them** - This refers to when God protected and saved the people of Israel from the Egyptians many years earlier. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **the angel from his presence** - This is a representative who is sent from God's presence.
+  * **he lifted them up and carried them** - This refers to when God protected and saved the people of Israel from the Egyptians many years earlier. The full meaning of this statement can be made clear. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:isa:63]]
 **[[:en:bible:notes:isa:63:07|<<]] | [[:en:bible:notes:isa:63:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

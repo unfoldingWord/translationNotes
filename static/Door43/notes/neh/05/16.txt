@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 16 I also continued to work on the wall, and we bought no land. And all my servants were gathered there for the work.
+\v 16 I also continued to work on the wall, and we bought no land, and all my servants were gathered there for the work.
 \v 17 At my table were the Jews and the officials, 150 men, besides those who came to us from among the nations who were around us.
 </usfm>
 
@@ -30,12 +30,12 @@
 ===== translationNotes: =====
 
   * **I also continued** - "I" refers to Nehemiah.
-  * **continued to work on the wall** - When the people returned to Jerusalem, they started rebuilding the walls, but did not finish them. 
-  * **we bought no land** - Working the land was the source of wealth. Again, Nehemiah did not make use of his privileges as governor.
   * **we bought** - The word "we" refers to Nehemiah and his servants.
-  * **all my servants were gathered there for the work** - "All my servants worked on the wall, too."
+  * **all my servants were gathered** - This can be stated in active form. AT: "I gathered all of my servants there" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **for the work** - "to work on the wall" 
+  * **At my table were the Jews ... from among the nations who were around us** - Nehemiah was responsible for providing food for all of these people. This can be stated clearly. AT: "Also, every day I was responsible to feed at our table the Jews and the officials, 150 people; and we also fed the visitors who came from other countries around us (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **my table** - This refers to the governor's table. It was a communal table for the community and for discussion of issues.
-  * **officials** - AT: "other government employees"
+  * **officials** - "government leaders"
  
 ===== Links: =====
 
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:neh:05]]
 **[[:en:bible:notes:neh:05:14|<<]] | [[:en:bible:notes:neh:05:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

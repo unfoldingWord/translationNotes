@@ -34,12 +34,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 8 And yet, Yahweh, you are our father; 
+\v 8 Yet, Yahweh, you are our father;
 \q1 we are the clay. You are our potter; and we all are the work of your hand.
 \q1
-\v 9 Be not too angry, Yahweh, nor always call to mind against us our sins. 
+\v 9 Be not too angry, Yahweh, nor always call to mind against us our sins.
 \q1 Please look at us all, your people.
 </usfm>
 
@@ -58,7 +57,9 @@
 
   * **General Information:** - The people of Israel continue speaking to Yahweh.
 
-  * **we are the clay. You are our potter; and we all are the work of your hand** - This means God created the people of Israel. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **we are the clay. You are our potter; and we all are the work of your hand** - This means God created the people of Israel. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **call to mind** - This refers to remembering the past. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **look at us all** - Isaiah asks Yahweh to pay attention to their situation. (See: [[:en:ta:vol2:translate:figs_personification]])
 
  
 ===== Links: =====
@@ -68,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:64]]
 **[[:en:bible:notes:isa:64:06|<<]] | [[:en:bible:notes:isa:64:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

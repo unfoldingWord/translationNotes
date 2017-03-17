@@ -49,10 +49,14 @@
 
   * **General Information:** - Zophar continues speaking to Job.
 
-  * **Though his height reaches up to the heavens, and his head reaches to the clouds** - Both of these statements mean the same thing. Zophar speaks about someone who is tall enough to reach the sky to say that this person is very famous and many people in the world know about him. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **Though his height** - AT: "Though his fame"
-  * **like his own feces** - Zophar compares the wicked person to feces to emphasize that he will become completely worthless and will disappear. (See: [[:en:ta:vol1:translate:figs_simile]])
-
+  * **Though his height** - "Though the wicked person's height"
+  * **Though his height reaches up to the heavens** - The abstract noun "height" can be expressed with the adjective "tall." AT: "Though he is as tall as the heavens" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Though his height reaches up to the heavens** - The wicked man's height represents either his reputation or his pride. AT: "Though his reputation reaches to the heavens" or "Though his pride reaches to the heavens" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Though his height reaches up to the heavens** - Here "reaches to the heavens" represents being very great. AT: "Though his reputation is great" or "Though his pride is great" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Though his height reaches up to the heavens** - The abstract noun "height" represents his reputation or pride. Both of these ideas can be expressed with other types of phrases. AT: "Though people think that he is a very great man" or "Though he is very proud" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and his head reaches to the clouds** - "though his head is as high as the clouds." This also represents his reputation or pride being great. This means the same as the previous phrase. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **will perish permanently like his own feces** - Feces mixes in with the ground and disappears. The reference to feces may also imply that the wicked person is worthless. AT: "will perish permanently like his feces, which completely disappears in the ground" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **will perish permanently like his own feces** - If people are embarrassed about the word feces, translators may refer to something else that disappears completely. AT: "will disappear permanently like dust that the wind blows away" (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -60,6 +64,6 @@
   * [[:en:bible:questions:comprehension:job:20]]
 **[[:en:bible:notes:job:20:04|<<]] | [[:en:bible:notes:job:20:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

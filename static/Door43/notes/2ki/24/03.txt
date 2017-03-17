@@ -38,13 +38,14 @@
   * [[:en:obe:kt:blood]]
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:other:pardon]]
+
 ===== translationNotes: =====
 
   * **It was certainly at the mouth of Yahweh** - Some versions have, "It was certainly because of the wrath of Yahweh," which is just as good a reading of the original text. If translators have access to versions in major languages in their region, they should probably follow their choice.
-  * **at the mouth of Yahweh** - Here "mouth" represents Yahweh's command. (See: [[:en:ta:vol2:translate:figs_metonymy]])  
-  * **remove them out of his sight** - AT: "get rid of them" or "destroy them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **innocent blood that he shed** - "innocent people who were killed" 
-  * **he filled Jerusalem with innocent blood** - AT: "he many innocent people were killed in Jerusalem" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **at the mouth of Yahweh** - Here "mouth" represents Yahweh's command. AT: "as Yahweh had commanded" (See: [[:en:ta:vol2:translate:figs_metonymy]])  
+  * **remove them out of his sight** - "get rid of them" or "destroy them"
+  * **innocent blood that he shed** - Blood is a metonym for innocent life, and shedding blood is a metonym for killing innocent people. AT: "innocent people whom he killed" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he filled Jerusalem with innocent blood** - Blood is a metonym for innocent life, and shedding blood is a metonym for killing innocent people. AT: "he killed many innocent people in Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -59,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

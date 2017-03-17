@@ -1,4 +1,4 @@
-======= List of translationWords in Ecclesiastes =======
+===== List of translationWords in Ecclesiastes =====
 
 * [[:en:obe:kt:afflict]] is found in:
  [[:en:bible:notes:ecc:06:01|06:01]]
@@ -13,13 +13,19 @@
  [[:en:bible:notes:ecc:11:06|11:06]]
 
 * [[:en:obe:other:angry]] is found in:
- [[:en:bible:notes:ecc:05:06|05:06]], [[:en:bible:notes:ecc:07:08|07:08]], [[:en:bible:notes:ecc:11:09|11:09]]
+ [[:en:bible:notes:ecc:05:06|05:06]], [[:en:bible:notes:ecc:05:15|05:15]], [[:en:bible:notes:ecc:07:08|07:08]], [[:en:bible:notes:ecc:11:09|11:09]]
 
 * [[:en:obe:kt:anoint]] is found in:
  [[:en:bible:notes:ecc:09:06|09:06]]
 
 * [[:en:obe:other:assign]] is found in:
  [[:en:bible:notes:ecc:03:21|03:21]]
+
+* [[:en:obe:kt:believe]] is found in:
+ [[:en:bible:notes:ecc:08:16|08:16]]
+
+* [[:en:obe:kt:bless]] is found in:
+ [[:en:bible:notes:ecc:10:16|10:16]]
 
 * [[:en:obe:other:bread]] is found in:
  [[:en:bible:notes:ecc:09:06|09:06]], [[:en:bible:notes:ecc:11:01|11:01]]
@@ -42,9 +48,6 @@
 * [[:en:obe:kt:call]] is found in:
  [[:en:bible:notes:ecc:12:01|12:01]], [[:en:bible:notes:ecc:12:06|12:06]]
 
-* [[:en:obe:other:castout]] is found in:
- [[:en:bible:notes:ecc:11:09|11:09]]
-
 * [[:en:obe:kt:clean]] is found in:
  [[:en:bible:notes:ecc:09:02|09:02]]
 
@@ -52,7 +55,7 @@
  [[:en:bible:notes:ecc:04:01|04:01]]
 
 * [[:en:obe:other:command]] is found in:
- [[:en:bible:notes:ecc:08:02|08:02]]
+ [[:en:bible:notes:ecc:08:02|08:02]], [[:en:bible:notes:ecc:12:13|12:13]]
 
 * [[:en:obe:other:concubine]] is found in:
  [[:en:bible:notes:ecc:02:07|02:07]]
@@ -70,7 +73,7 @@
  [[:en:bible:notes:ecc:08:10|08:10]]
 
 * [[:en:obe:kt:curse]] is found in:
- [[:en:bible:notes:ecc:07:21|07:21]]
+ [[:en:bible:notes:ecc:07:21|07:21]], [[:en:bible:notes:ecc:10:20|10:20]]
 
 * [[:en:obe:kt:darkness]] is found in:
  [[:en:bible:notes:ecc:02:13|02:13]], [[:en:bible:notes:ecc:05:15|05:15]], [[:en:bible:notes:ecc:06:03|06:03]], [[:en:bible:notes:ecc:11:06|11:06]]
@@ -79,7 +82,7 @@
  [[:en:bible:notes:ecc:01:01|01:01]]
 
 * [[:en:obe:kt:death]] is found in:
- [[:en:bible:notes:ecc:02:15|02:15]], [[:en:bible:notes:ecc:04:02|04:02]], [[:en:bible:notes:ecc:06:03|06:03]], [[:en:bible:notes:ecc:07:01|07:01]], [[:en:bible:notes:ecc:07:26|07:26]], [[:en:bible:notes:ecc:08:08|08:08]], [[:en:bible:notes:ecc:09:02|09:02]], [[:en:bible:notes:ecc:09:11|09:11]]
+ [[:en:bible:notes:ecc:02:15|02:15]], [[:en:bible:notes:ecc:04:02|04:02]], [[:en:bible:notes:ecc:06:03|06:03]], [[:en:bible:notes:ecc:07:01|07:01]], [[:en:bible:notes:ecc:07:26|07:26]], [[:en:bible:notes:ecc:08:08|08:08]], [[:en:bible:notes:ecc:09:02|09:02]], [[:en:bible:notes:ecc:09:04|09:04]], [[:en:bible:notes:ecc:09:11|09:11]], [[:en:bible:notes:ecc:10:01|10:01]]
 
 * [[:en:obe:other:descendant]] is found in:
  [[:en:bible:notes:ecc:01:01|01:01]]
@@ -87,17 +90,23 @@
 * [[:en:obe:other:destiny]] is found in:
  [[:en:bible:notes:ecc:02:13|02:13]], [[:en:bible:notes:ecc:09:03|09:03]]
 
+* [[:en:obe:other:dream]] is found in:
+ [[:en:bible:notes:ecc:05:02|05:02]]
+
 * [[:en:obe:other:drunk]] is found in:
  [[:en:bible:notes:ecc:10:16|10:16]]
 
 * [[:en:obe:other:earth]] is found in:
- [[:en:bible:notes:ecc:01:04|01:04]], [[:en:bible:notes:ecc:03:21|03:21]], [[:en:bible:notes:ecc:05:02|05:02]], [[:en:bible:notes:ecc:07:19|07:19]], [[:en:bible:notes:ecc:08:14|08:14]], [[:en:bible:notes:ecc:11:01|11:01]]
+ [[:en:bible:notes:ecc:01:04|01:04]], [[:en:bible:notes:ecc:03:21|03:21]], [[:en:bible:notes:ecc:05:02|05:02]], [[:en:bible:notes:ecc:07:19|07:19]], [[:en:bible:notes:ecc:08:14|08:14]], [[:en:bible:notes:ecc:11:01|11:01]], [[:en:bible:notes:ecc:12:06|12:06]]
 
 * [[:en:obe:other:envy]] is found in:
  [[:en:bible:notes:ecc:04:04|04:04]], [[:en:bible:notes:ecc:09:06|09:06]]
 
+* [[:en:obe:kt:eternity]] is found in:
+ [[:en:bible:notes:ecc:03:11|03:11]], [[:en:bible:notes:ecc:12:05|12:05]]
+
 * [[:en:obe:kt:evil]] is found in:
- [[:en:bible:notes:ecc:02:17|02:17]], [[:en:bible:notes:ecc:03:16|03:16]], [[:en:bible:notes:ecc:05:01|05:01]], [[:en:bible:notes:ecc:05:15|05:15]], [[:en:bible:notes:ecc:06:01|06:01]], [[:en:bible:notes:ecc:07:15|07:15]], [[:en:bible:notes:ecc:07:23|07:23]], [[:en:bible:notes:ecc:08:08|08:08]], [[:en:bible:notes:ecc:08:12|08:12]], [[:en:bible:notes:ecc:09:02|09:02]], [[:en:bible:notes:ecc:09:11|09:11]]
+ [[:en:bible:notes:ecc:02:17|02:17]], [[:en:bible:notes:ecc:03:16|03:16]], [[:en:bible:notes:ecc:04:02|04:02]], [[:en:bible:notes:ecc:05:01|05:01]], [[:en:bible:notes:ecc:05:13|05:13]], [[:en:bible:notes:ecc:05:15|05:15]], [[:en:bible:notes:ecc:06:01|06:01]], [[:en:bible:notes:ecc:07:15|07:15]], [[:en:bible:notes:ecc:07:23|07:23]], [[:en:bible:notes:ecc:08:08|08:08]], [[:en:bible:notes:ecc:08:12|08:12]], [[:en:bible:notes:ecc:09:02|09:02]], [[:en:bible:notes:ecc:09:11|09:11]], [[:en:bible:notes:ecc:10:05|10:05]], [[:en:bible:notes:ecc:10:13|10:13]], [[:en:bible:notes:ecc:12:13|12:13]]
 
 * [[:en:obe:kt:face]] is found in:
  [[:en:bible:notes:ecc:07:03|07:03]]
@@ -106,19 +115,22 @@
  [[:en:bible:notes:ecc:09:11|09:11]]
 
 * [[:en:obe:kt:fear]] is found in:
- [[:en:bible:notes:ecc:07:17|07:17]], [[:en:bible:notes:ecc:09:02|09:02]]
+ [[:en:bible:notes:ecc:05:06|05:06]], [[:en:bible:notes:ecc:07:17|07:17]], [[:en:bible:notes:ecc:09:02|09:02]], [[:en:bible:notes:ecc:12:05|12:05]], [[:en:bible:notes:ecc:12:13|12:13]]
 
 * [[:en:obe:other:feast]] is found in:
  [[:en:bible:notes:ecc:07:01|07:01]], [[:en:bible:notes:ecc:10:16|10:16]]
+
+* [[:en:obe:kt:flesh]] is found in:
+ [[:en:bible:notes:ecc:04:05|04:05]], [[:en:bible:notes:ecc:05:06|05:06]]
 
 * [[:en:obe:other:flock]] is found in:
  [[:en:bible:notes:ecc:02:07|02:07]]
 
 * [[:en:obe:kt:foolish]] is found in:
- [[:en:bible:notes:ecc:01:16|01:16]], [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:02:11|02:11]], [[:en:bible:notes:ecc:02:13|02:13]], [[:en:bible:notes:ecc:02:19|02:19]], [[:en:bible:notes:ecc:05:01|05:01]], [[:en:bible:notes:ecc:06:07|06:07]], [[:en:bible:notes:ecc:07:03|07:03]], [[:en:bible:notes:ecc:07:08|07:08]], [[:en:bible:notes:ecc:07:17|07:17]], [[:en:bible:notes:ecc:07:23|07:23]], [[:en:bible:notes:ecc:09:17|09:17]], [[:en:bible:notes:ecc:10:12|10:12]]
+ [[:en:bible:notes:ecc:01:16|01:16]], [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:02:11|02:11]], [[:en:bible:notes:ecc:02:13|02:13]], [[:en:bible:notes:ecc:02:19|02:19]], [[:en:bible:notes:ecc:04:05|04:05]], [[:en:bible:notes:ecc:04:13|04:13]], [[:en:bible:notes:ecc:05:01|05:01]], [[:en:bible:notes:ecc:06:07|06:07]], [[:en:bible:notes:ecc:07:03|07:03]], [[:en:bible:notes:ecc:07:08|07:08]], [[:en:bible:notes:ecc:07:17|07:17]], [[:en:bible:notes:ecc:07:23|07:23]], [[:en:bible:notes:ecc:09:17|09:17]], [[:en:bible:notes:ecc:10:01|10:01]], [[:en:bible:notes:ecc:10:12|10:12]]
 
 * [[:en:obe:kt:forever]] is found in:
- [[:en:bible:notes:ecc:01:04|01:04]]
+ [[:en:bible:notes:ecc:01:04|01:04]], [[:en:bible:notes:ecc:03:14|03:14]]
 
 * [[:en:obe:other:fountain]] is found in:
  [[:en:bible:notes:ecc:12:06|12:06]]
@@ -126,14 +138,23 @@
 * [[:en:obe:other:generation]] is found in:
  [[:en:bible:notes:ecc:01:04|01:04]]
 
+* [[:en:obe:kt:gift]] is found in:
+ [[:en:bible:notes:ecc:03:12|03:12]], [[:en:bible:notes:ecc:05:19|05:19]]
+
 * [[:en:obe:kt:god]] is found in:
- [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:24|02:24]], [[:en:bible:notes:ecc:02:26|02:26]], [[:en:bible:notes:ecc:03:14|03:14]], [[:en:bible:notes:ecc:06:01|06:01]], [[:en:bible:notes:ecc:07:13|07:13]], [[:en:bible:notes:ecc:07:17|07:17]], [[:en:bible:notes:ecc:07:26|07:26]], [[:en:bible:notes:ecc:08:02|08:02]], [[:en:bible:notes:ecc:08:12|08:12]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:09:06|09:06]], [[:en:bible:notes:ecc:11:04|11:04]], [[:en:bible:notes:ecc:11:09|11:09]]
+ [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:24|02:24]], [[:en:bible:notes:ecc:02:26|02:26]], [[:en:bible:notes:ecc:03:08|03:08]], [[:en:bible:notes:ecc:03:14|03:14]], [[:en:bible:notes:ecc:05:02|05:02]], [[:en:bible:notes:ecc:05:18|05:18]], [[:en:bible:notes:ecc:06:01|06:01]], [[:en:bible:notes:ecc:07:13|07:13]], [[:en:bible:notes:ecc:07:17|07:17]], [[:en:bible:notes:ecc:07:26|07:26]], [[:en:bible:notes:ecc:08:02|08:02]], [[:en:bible:notes:ecc:08:12|08:12]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:09:06|09:06]], [[:en:bible:notes:ecc:11:04|11:04]], [[:en:bible:notes:ecc:11:09|11:09]], [[:en:bible:notes:ecc:12:06|12:06]], [[:en:bible:notes:ecc:12:13|12:13]]
 
 * [[:en:obe:other:gold]] is found in:
  [[:en:bible:notes:ecc:02:07|02:07]], [[:en:bible:notes:ecc:12:06|12:06]]
 
 * [[:en:obe:kt:good]] is found in:
- [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:02:24|02:24]], [[:en:bible:notes:ecc:03:12|03:12]], [[:en:bible:notes:ecc:04:09|04:09]], [[:en:bible:notes:ecc:05:18|05:18]], [[:en:bible:notes:ecc:06:03|06:03]], [[:en:bible:notes:ecc:06:11|06:11]], [[:en:bible:notes:ecc:07:01|07:01]], [[:en:bible:notes:ecc:07:11|07:11]], [[:en:bible:notes:ecc:07:19|07:19]], [[:en:bible:notes:ecc:09:02|09:02]], [[:en:bible:notes:ecc:09:06|09:06]], [[:en:bible:notes:ecc:09:17|09:17]], [[:en:bible:notes:ecc:11:06|11:06]]
+ [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:02:24|02:24]], [[:en:bible:notes:ecc:03:12|03:12]], [[:en:bible:notes:ecc:04:09|04:09]], [[:en:bible:notes:ecc:05:18|05:18]], [[:en:bible:notes:ecc:06:03|06:03]], [[:en:bible:notes:ecc:06:11|06:11]], [[:en:bible:notes:ecc:07:01|07:01]], [[:en:bible:notes:ecc:07:11|07:11]], [[:en:bible:notes:ecc:07:19|07:19]], [[:en:bible:notes:ecc:09:02|09:02]], [[:en:bible:notes:ecc:09:06|09:06]], [[:en:bible:notes:ecc:09:17|09:17]], [[:en:bible:notes:ecc:11:06|11:06]], [[:en:bible:notes:ecc:12:13|12:13]]
+
+* [[:en:obe:kt:grace]] is found in:
+ [[:en:bible:notes:ecc:10:12|10:12]]
+
+* [[:en:obe:other:hades]] is found in:
+ [[:en:bible:notes:ecc:09:09|09:09]]
 
 * [[:en:obe:other:hand]] is found in:
  [[:en:bible:notes:ecc:02:11|02:11]], [[:en:bible:notes:ecc:02:24|02:24]], [[:en:bible:notes:ecc:04:01|04:01]], [[:en:bible:notes:ecc:05:06|05:06]], [[:en:bible:notes:ecc:05:13|05:13]], [[:en:bible:notes:ecc:07:17|07:17]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:09:09|09:09]]
@@ -141,14 +162,26 @@
 * [[:en:obe:kt:harvest]] is found in:
  [[:en:bible:notes:ecc:11:04|11:04]]
 
+* [[:en:obe:other:heal]] is found in:
+ [[:en:bible:notes:ecc:03:01|03:01]]
+
 * [[:en:obe:other:heart]] is found in:
- [[:en:bible:notes:ecc:01:16|01:16]], [[:en:bible:notes:ecc:02:01|02:01]], [[:en:bible:notes:ecc:02:09|02:09]], [[:en:bible:notes:ecc:02:15|02:15]], [[:en:bible:notes:ecc:02:21|02:21]], [[:en:bible:notes:ecc:03:16|03:16]], [[:en:bible:notes:ecc:06:03|06:03]], [[:en:bible:notes:ecc:07:01|07:01]], [[:en:bible:notes:ecc:07:07|07:07]], [[:en:bible:notes:ecc:07:21|07:21]], [[:en:bible:notes:ecc:08:05|08:05]], [[:en:bible:notes:ecc:08:16|08:16]], [[:en:bible:notes:ecc:09:03|09:03]], [[:en:bible:notes:ecc:11:09|11:09]]
+ [[:en:bible:notes:ecc:01:16|01:16]], [[:en:bible:notes:ecc:02:01|02:01]], [[:en:bible:notes:ecc:02:09|02:09]], [[:en:bible:notes:ecc:02:15|02:15]], [[:en:bible:notes:ecc:02:21|02:21]], [[:en:bible:notes:ecc:03:11|03:11]], [[:en:bible:notes:ecc:03:16|03:16]], [[:en:bible:notes:ecc:05:02|05:02]], [[:en:bible:notes:ecc:06:03|06:03]], [[:en:bible:notes:ecc:07:01|07:01]], [[:en:bible:notes:ecc:07:07|07:07]], [[:en:bible:notes:ecc:07:21|07:21]], [[:en:bible:notes:ecc:08:05|08:05]], [[:en:bible:notes:ecc:08:16|08:16]], [[:en:bible:notes:ecc:09:03|09:03]], [[:en:bible:notes:ecc:10:01|10:01]], [[:en:bible:notes:ecc:11:09|11:09]]
 
 * [[:en:obe:kt:heaven]] is found in:
- [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:10:20|10:20]]
+ [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:03:01|03:01]], [[:en:bible:notes:ecc:05:02|05:02]], [[:en:bible:notes:ecc:10:20|10:20]]
+
+* [[:en:obe:kt:holy]] is found in:
+ [[:en:bible:notes:ecc:08:10|08:10]]
 
 * [[:en:obe:other:honor]] is found in:
- [[:en:bible:notes:ecc:06:01|06:01]]
+ [[:en:bible:notes:ecc:03:14|03:14]], [[:en:bible:notes:ecc:06:01|06:01]], [[:en:bible:notes:ecc:08:12|08:12]], [[:en:bible:notes:ecc:10:01|10:01]]
+
+* [[:en:obe:kt:hope]] is found in:
+ [[:en:bible:notes:ecc:09:04|09:04]]
+
+* [[:en:obe:other:horse]] is found in:
+ [[:en:bible:notes:ecc:10:05|10:05]]
 
 * [[:en:obe:other:house]] is found in:
  [[:en:bible:notes:ecc:07:01|07:01]]
@@ -169,22 +202,28 @@
  [[:en:bible:notes:ecc:02:26|02:26]], [[:en:bible:notes:ecc:09:06|09:06]], [[:en:bible:notes:ecc:11:09|11:09]]
 
 * [[:en:obe:kt:judge]] is found in:
- [[:en:bible:notes:ecc:06:09|06:09]], [[:en:bible:notes:ecc:11:09|11:09]]
+ [[:en:bible:notes:ecc:03:16|03:16]], [[:en:bible:notes:ecc:11:09|11:09]], [[:en:bible:notes:ecc:12:13|12:13]]
+
+* [[:en:obe:other:judgeposition]] is found in:
+ [[:en:bible:notes:ecc:06:09|06:09]]
 
 * [[:en:obe:kt:justice]] is found in:
- [[:en:bible:notes:ecc:05:08|05:08]]
+ [[:en:bible:notes:ecc:03:16|03:16]], [[:en:bible:notes:ecc:05:08|05:08]]
 
 * [[:en:obe:other:king]] is found in:
- [[:en:bible:notes:ecc:01:01|01:01]], [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:07|02:07]], [[:en:bible:notes:ecc:09:13|09:13]], [[:en:bible:notes:ecc:10:16|10:16]]
+ [[:en:bible:notes:ecc:01:01|01:01]], [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:07|02:07]], [[:en:bible:notes:ecc:04:13|04:13]], [[:en:bible:notes:ecc:05:08|05:08]], [[:en:bible:notes:ecc:08:02|08:02]], [[:en:bible:notes:ecc:09:13|09:13]], [[:en:bible:notes:ecc:10:16|10:16]]
+
+* [[:en:obe:other:kingdom]] is found in:
+ [[:en:bible:notes:ecc:04:13|04:13]]
 
 * [[:en:obe:other:know]] is found in:
- [[:en:bible:notes:ecc:01:16|01:16]], [[:en:bible:notes:ecc:02:19|02:19]], [[:en:bible:notes:ecc:02:26|02:26]], [[:en:bible:notes:ecc:04:13|04:13]], [[:en:bible:notes:ecc:05:01|05:01]], [[:en:bible:notes:ecc:05:08|05:08]], [[:en:bible:notes:ecc:06:05|06:05]], [[:en:bible:notes:ecc:07:11|07:11]], [[:en:bible:notes:ecc:08:16|08:16]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:09:09|09:09]], [[:en:bible:notes:ecc:10:13|10:13]], [[:en:bible:notes:ecc:11:09|11:09]]
+ [[:en:bible:notes:ecc:01:16|01:16]], [[:en:bible:notes:ecc:02:19|02:19]], [[:en:bible:notes:ecc:02:26|02:26]], [[:en:bible:notes:ecc:04:13|04:13]], [[:en:bible:notes:ecc:05:01|05:01]], [[:en:bible:notes:ecc:05:08|05:08]], [[:en:bible:notes:ecc:06:05|06:05]], [[:en:bible:notes:ecc:07:11|07:11]], [[:en:bible:notes:ecc:08:16|08:16]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:09:09|09:09]], [[:en:bible:notes:ecc:10:13|10:13]], [[:en:bible:notes:ecc:11:09|11:09]], [[:en:bible:notes:ecc:12:08|12:08]]
 
 * [[:en:obe:other:labor]] is found in:
- [[:en:bible:notes:ecc:01:01|01:01]], [[:en:bible:notes:ecc:02:09|02:09]], [[:en:bible:notes:ecc:02:21|02:21]], [[:en:bible:notes:ecc:04:09|04:09]], [[:en:bible:notes:ecc:05:18|05:18]]
+ [[:en:bible:notes:ecc:01:01|01:01]], [[:en:bible:notes:ecc:02:09|02:09]], [[:en:bible:notes:ecc:02:21|02:21]], [[:en:bible:notes:ecc:03:08|03:08]], [[:en:bible:notes:ecc:04:04|04:04]], [[:en:bible:notes:ecc:04:09|04:09]], [[:en:bible:notes:ecc:05:18|05:18]], [[:en:bible:notes:ecc:08:14|08:14]]
 
 * [[:en:obe:kt:life]] is found in:
- [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:02:17|02:17]], [[:en:bible:notes:ecc:05:01|05:01]], [[:en:bible:notes:ecc:07:01|07:01]], [[:en:bible:notes:ecc:07:11|07:11]], [[:en:bible:notes:ecc:08:08|08:08]], [[:en:bible:notes:ecc:09:03|09:03]], [[:en:bible:notes:ecc:09:09|09:09]], [[:en:bible:notes:ecc:10:18|10:18]]
+ [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:02:17|02:17]], [[:en:bible:notes:ecc:04:02|04:02]], [[:en:bible:notes:ecc:05:01|05:01]], [[:en:bible:notes:ecc:05:15|05:15]], [[:en:bible:notes:ecc:07:01|07:01]], [[:en:bible:notes:ecc:07:11|07:11]], [[:en:bible:notes:ecc:08:01|08:01]], [[:en:bible:notes:ecc:09:03|09:03]], [[:en:bible:notes:ecc:09:09|09:09]], [[:en:bible:notes:ecc:10:18|10:18]]
 
 * [[:en:obe:kt:light]] is found in:
  [[:en:bible:notes:ecc:02:13|02:13]], [[:en:bible:notes:ecc:11:06|11:06]]
@@ -196,34 +235,43 @@
  [[:en:bible:notes:ecc:02:07|02:07]]
 
 * [[:en:obe:kt:lord]] is found in:
- [[:en:bible:notes:ecc:02:19|02:19]]
+ [[:en:bible:notes:ecc:02:19|02:19]], [[:en:bible:notes:ecc:12:10|12:10]]
 
 * [[:en:obe:kt:love]] is found in:
- [[:en:bible:notes:ecc:05:10|05:10]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:09:06|09:06]]
+ [[:en:bible:notes:ecc:03:08|03:08]], [[:en:bible:notes:ecc:05:10|05:10]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:09:06|09:06]]
+
+* [[:en:obe:other:messenger]] is found in:
+ [[:en:bible:notes:ecc:05:06|05:06]]
 
 * [[:en:obe:other:mighty]] is found in:
  [[:en:bible:notes:ecc:06:09|06:09]]
 
 * [[:en:obe:other:mind]] is found in:
- [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:05:19|05:19]], [[:en:bible:notes:ecc:07:27|07:27]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:10:20|10:20]], [[:en:bible:notes:ecc:12:01|12:01]], [[:en:bible:notes:ecc:12:06|12:06]]
+ [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:05:19|05:19]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:10:20|10:20]], [[:en:bible:notes:ecc:12:01|12:01]], [[:en:bible:notes:ecc:12:06|12:06]]
 
 * [[:en:obe:other:mourn]] is found in:
- [[:en:bible:notes:ecc:07:01|07:01]]
+ [[:en:bible:notes:ecc:03:04|03:04]], [[:en:bible:notes:ecc:07:01|07:01]], [[:en:bible:notes:ecc:12:05|12:05]]
 
 * [[:en:obe:kt:name]] is found in:
  [[:en:bible:notes:ecc:07:01|07:01]]
+
+* [[:en:obe:other:neighbor]] is found in:
+ [[:en:bible:notes:ecc:04:04|04:04]]
 
 * [[:en:obe:other:noble]] is found in:
  [[:en:bible:notes:ecc:10:16|10:16]]
 
 * [[:en:obe:other:oath]] is found in:
- [[:en:bible:notes:ecc:09:02|09:02]]
+ [[:en:bible:notes:ecc:08:02|08:02]], [[:en:bible:notes:ecc:09:02|09:02]]
 
 * [[:en:obe:other:obey]] is found in:
- [[:en:bible:notes:ecc:04:15|04:15]]
+ [[:en:bible:notes:ecc:04:15|04:15]], [[:en:bible:notes:ecc:08:02|08:02]]
 
 * [[:en:obe:other:oil]] is found in:
  [[:en:bible:notes:ecc:09:06|09:06]]
+
+* [[:en:obe:kt:oppress]] is found in:
+ [[:en:bible:notes:ecc:04:01|04:01]], [[:en:bible:notes:ecc:05:08|05:08]]
 
 * [[:en:obe:other:palace]] is found in:
  [[:en:bible:notes:ecc:02:07|02:07]], [[:en:bible:notes:ecc:12:03|12:03]]
@@ -231,20 +279,29 @@
 * [[:en:obe:other:patient]] is found in:
  [[:en:bible:notes:ecc:07:08|07:08]]
 
-* [[:en:obe:other:peoplegroup]] is found in:
- [[:en:bible:notes:ecc:03:19|03:19]]
+* [[:en:obe:other:peace]] is found in:
+ [[:en:bible:notes:ecc:03:08|03:08]]
 
 * [[:en:obe:kt:perish]] is found in:
  [[:en:bible:notes:ecc:07:15|07:15]]
 
+* [[:en:obe:other:pit]] is found in:
+ [[:en:bible:notes:ecc:10:08|10:08]]
+
 * [[:en:obe:kt:power]] is found in:
- [[:en:bible:notes:ecc:07:19|07:19]], [[:en:bible:notes:ecc:08:08|08:08]]
+ [[:en:bible:notes:ecc:04:01|04:01]], [[:en:bible:notes:ecc:05:08|05:08]], [[:en:bible:notes:ecc:07:19|07:19]], [[:en:bible:notes:ecc:08:08|08:08]]
 
 * [[:en:obe:other:praise]] is found in:
- [[:en:bible:notes:ecc:04:15|04:15]]
+ [[:en:bible:notes:ecc:04:15|04:15]], [[:en:bible:notes:ecc:08:10|08:10]]
+
+* [[:en:obe:kt:priest]] is found in:
+ [[:en:bible:notes:ecc:05:06|05:06]]
+
+* [[:en:obe:other:prison]] is found in:
+ [[:en:bible:notes:ecc:04:13|04:13]]
 
 * [[:en:obe:other:profit]] is found in:
- [[:en:bible:notes:ecc:01:01|01:01]], [[:en:bible:notes:ecc:02:11|02:11]]
+ [[:en:bible:notes:ecc:01:01|01:01]], [[:en:bible:notes:ecc:02:11|02:11]], [[:en:bible:notes:ecc:03:08|03:08]], [[:en:bible:notes:ecc:04:05|04:05]], [[:en:bible:notes:ecc:05:15|05:15]]
 
 * [[:en:obe:other:prosper]] is found in:
  [[:en:bible:notes:ecc:11:06|11:06]]
@@ -253,7 +310,7 @@
  [[:en:bible:notes:ecc:07:08|07:08]]
 
 * [[:en:obe:other:proverb]] is found in:
- [[:en:bible:notes:ecc:12:10|12:10]]
+ [[:en:bible:notes:ecc:12:08|12:08]], [[:en:bible:notes:ecc:12:10|12:10]]
 
 * [[:en:obe:other:province]] is found in:
  [[:en:bible:notes:ecc:02:07|02:07]], [[:en:bible:notes:ecc:05:08|05:08]]
@@ -264,23 +321,26 @@
 * [[:en:obe:other:rebuke]] is found in:
  [[:en:bible:notes:ecc:07:05|07:05]]
 
+* [[:en:obe:kt:receive]] is found in:
+ [[:en:bible:notes:ecc:05:19|05:19]]
+
 * [[:en:obe:other:rejoice]] is found in:
- [[:en:bible:notes:ecc:02:09|02:09]], [[:en:bible:notes:ecc:03:12|03:12]]
+ [[:en:bible:notes:ecc:02:09|02:09]], [[:en:bible:notes:ecc:03:12|03:12]], [[:en:bible:notes:ecc:05:19|05:19]]
 
 * [[:en:obe:kt:rest]] is found in:
  [[:en:bible:notes:ecc:02:21|02:21]], [[:en:bible:notes:ecc:06:05|06:05]]
 
 * [[:en:obe:kt:reward]] is found in:
- [[:en:bible:notes:ecc:02:09|02:09]]
+ [[:en:bible:notes:ecc:02:09|02:09]], [[:en:bible:notes:ecc:09:04|09:04]]
 
 * [[:en:obe:kt:righteous]] is found in:
- [[:en:bible:notes:ecc:07:15|07:15]], [[:en:bible:notes:ecc:07:27|07:27]], [[:en:bible:notes:ecc:09:01|09:01]]
+ [[:en:bible:notes:ecc:03:16|03:16]], [[:en:bible:notes:ecc:07:15|07:15]], [[:en:bible:notes:ecc:07:27|07:27]], [[:en:bible:notes:ecc:08:14|08:14]], [[:en:bible:notes:ecc:09:01|09:01]]
 
 * [[:en:obe:other:ruler]] is found in:
- [[:en:bible:notes:ecc:02:07|02:07]], [[:en:bible:notes:ecc:07:19|07:19]], [[:en:bible:notes:ecc:08:02|08:02]], [[:en:bible:notes:ecc:09:17|09:17]]
+ [[:en:bible:notes:ecc:02:07|02:07]], [[:en:bible:notes:ecc:07:19|07:19]], [[:en:bible:notes:ecc:08:02|08:02]], [[:en:bible:notes:ecc:09:17|09:17]], [[:en:bible:notes:ecc:10:04|10:04]]
 
 * [[:en:obe:other:sacrifice]] is found in:
- [[:en:bible:notes:ecc:09:02|09:02]]
+ [[:en:bible:notes:ecc:05:01|05:01]], [[:en:bible:notes:ecc:09:02|09:02]]
 
 * [[:en:obe:kt:save]] is found in:
  [[:en:bible:notes:ecc:09:13|09:13]]
@@ -289,22 +349,22 @@
  [[:en:bible:notes:ecc:11:06|11:06]]
 
 * [[:en:obe:other:servant]] is found in:
- [[:en:bible:notes:ecc:02:07|02:07]], [[:en:bible:notes:ecc:07:21|07:21]], [[:en:bible:notes:ecc:08:08|08:08]]
+ [[:en:bible:notes:ecc:02:07|02:07]], [[:en:bible:notes:ecc:07:21|07:21]], [[:en:bible:notes:ecc:08:08|08:08]], [[:en:bible:notes:ecc:10:05|10:05]]
 
 * [[:en:obe:other:shadow]] is found in:
  [[:en:bible:notes:ecc:06:11|06:11]], [[:en:bible:notes:ecc:08:12|08:12]]
 
 * [[:en:obe:other:shepherd]] is found in:
- [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:11|02:11]], [[:en:bible:notes:ecc:02:17|02:17]], [[:en:bible:notes:ecc:02:26|02:26]], [[:en:bible:notes:ecc:06:09|06:09]]
+ [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:11|02:11]], [[:en:bible:notes:ecc:02:17|02:17]], [[:en:bible:notes:ecc:02:26|02:26]], [[:en:bible:notes:ecc:04:04|04:04]], [[:en:bible:notes:ecc:04:15|04:15]], [[:en:bible:notes:ecc:06:09|06:09]], [[:en:bible:notes:ecc:12:10|12:10]]
 
 * [[:en:obe:other:siege]] is found in:
  [[:en:bible:notes:ecc:09:13|09:13]]
 
 * [[:en:obe:other:silver]] is found in:
- [[:en:bible:notes:ecc:02:07|02:07]]
+ [[:en:bible:notes:ecc:02:07|02:07]], [[:en:bible:notes:ecc:05:10|05:10]], [[:en:bible:notes:ecc:12:06|12:06]]
 
 * [[:en:obe:kt:sin]] is found in:
- [[:en:bible:notes:ecc:02:26|02:26]], [[:en:bible:notes:ecc:07:19|07:19]], [[:en:bible:notes:ecc:07:26|07:26]], [[:en:bible:notes:ecc:09:02|09:02]]
+ [[:en:bible:notes:ecc:02:26|02:26]], [[:en:bible:notes:ecc:05:06|05:06]], [[:en:bible:notes:ecc:07:19|07:19]], [[:en:bible:notes:ecc:07:26|07:26]], [[:en:bible:notes:ecc:08:12|08:12]], [[:en:bible:notes:ecc:09:02|09:02]], [[:en:bible:notes:ecc:09:17|09:17]]
 
 * [[:en:obe:other:snare]] is found in:
  [[:en:bible:notes:ecc:07:26|07:26]], [[:en:bible:notes:ecc:09:11|09:11]]
@@ -316,7 +376,7 @@
  [[:en:bible:notes:ecc:02:21|02:21]]
 
 * [[:en:obe:kt:spirit]] is found in:
- [[:en:bible:notes:ecc:07:08|07:08]]
+ [[:en:bible:notes:ecc:03:21|03:21]], [[:en:bible:notes:ecc:07:08|07:08]], [[:en:bible:notes:ecc:12:06|12:06]]
 
 * [[:en:obe:other:strength]] is found in:
  [[:en:bible:notes:ecc:09:09|09:09]], [[:en:bible:notes:ecc:09:16|09:16]], [[:en:bible:notes:ecc:10:10|10:10]], [[:en:bible:notes:ecc:11:09|11:09]]
@@ -325,10 +385,10 @@
  [[:en:bible:notes:ecc:04:15|04:15]]
 
 * [[:en:obe:kt:teacher]] is found in:
- [[:en:bible:notes:ecc:01:01|01:01]], [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:07:27|07:27]]
+ [[:en:bible:notes:ecc:01:01|01:01]], [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:07:27|07:27]], [[:en:bible:notes:ecc:12:08|12:08]]
 
 * [[:en:obe:kt:test]] is found in:
- [[:en:bible:notes:ecc:02:01|02:01]]
+ [[:en:bible:notes:ecc:02:01|02:01]], [[:en:bible:notes:ecc:03:18|03:18]]
 
 * [[:en:obe:other:thorn]] is found in:
  [[:en:bible:notes:ecc:07:05|07:05]]
@@ -336,17 +396,14 @@
 * [[:en:obe:other:time]] is found in:
  [[:en:bible:notes:ecc:01:09|01:09]], [[:en:bible:notes:ecc:03:01|03:01]], [[:en:bible:notes:ecc:03:08|03:08]], [[:en:bible:notes:ecc:03:16|03:16]], [[:en:bible:notes:ecc:09:11|09:11]], [[:en:bible:notes:ecc:12:03|12:03]]
 
-* [[:en:obe:other:tomb]] is found in:
- [[:en:bible:notes:ecc:09:09|09:09]]
-
 * [[:en:obe:other:tremble]] is found in:
  [[:en:bible:notes:ecc:12:03|12:03]]
 
 * [[:en:obe:other:trouble]] is found in:
- [[:en:bible:notes:ecc:08:05|08:05]], [[:en:bible:notes:ecc:10:16|10:16]]
+ [[:en:bible:notes:ecc:08:05|08:05]]
 
 * [[:en:obe:kt:true]] is found in:
- [[:en:bible:notes:ecc:02:24|02:24]], [[:en:bible:notes:ecc:04:13|04:13]]
+ [[:en:bible:notes:ecc:02:24|02:24]], [[:en:bible:notes:ecc:04:13|04:13]], [[:en:bible:notes:ecc:12:10|12:10]]
 
 * [[:en:obe:kt:unclean]] is found in:
  [[:en:bible:notes:ecc:09:02|09:02]]
@@ -382,13 +439,13 @@
  [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:09:06|09:06]], [[:en:bible:notes:ecc:10:18|10:18]]
 
 * [[:en:obe:kt:wise]] is found in:
- [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:01:16|01:16]], [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:02:09|02:09]], [[:en:bible:notes:ecc:02:13|02:13]], [[:en:bible:notes:ecc:02:19|02:19]], [[:en:bible:notes:ecc:02:26|02:26]], [[:en:bible:notes:ecc:06:07|06:07]], [[:en:bible:notes:ecc:07:03|07:03]], [[:en:bible:notes:ecc:07:10|07:10]], [[:en:bible:notes:ecc:07:15|07:15]], [[:en:bible:notes:ecc:07:23|07:23]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:09:09|09:09]], [[:en:bible:notes:ecc:09:16|09:16]], [[:en:bible:notes:ecc:10:10|10:10]]
+ [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:01:16|01:16]], [[:en:bible:notes:ecc:02:03|02:03]], [[:en:bible:notes:ecc:02:09|02:09]], [[:en:bible:notes:ecc:02:13|02:13]], [[:en:bible:notes:ecc:02:19|02:19]], [[:en:bible:notes:ecc:02:26|02:26]], [[:en:bible:notes:ecc:04:13|04:13]], [[:en:bible:notes:ecc:06:07|06:07]], [[:en:bible:notes:ecc:07:03|07:03]], [[:en:bible:notes:ecc:07:10|07:10]], [[:en:bible:notes:ecc:07:15|07:15]], [[:en:bible:notes:ecc:07:23|07:23]], [[:en:bible:notes:ecc:08:01|08:01]], [[:en:bible:notes:ecc:08:16|08:16]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:09:09|09:09]], [[:en:bible:notes:ecc:09:16|09:16]], [[:en:bible:notes:ecc:10:01|10:01]], [[:en:bible:notes:ecc:10:10|10:10]], [[:en:bible:notes:ecc:12:08|12:08]]
 
 * [[:en:obe:other:womb]] is found in:
- [[:en:bible:notes:ecc:11:04|11:04]]
+ [[:en:bible:notes:ecc:05:15|05:15]], [[:en:bible:notes:ecc:11:04|11:04]]
 
 * [[:en:obe:kt:word]] is found in:
  [[:en:bible:notes:ecc:05:02|05:02]], [[:en:bible:notes:ecc:07:21|07:21]], [[:en:bible:notes:ecc:08:02|08:02]], [[:en:bible:notes:ecc:09:16|09:16]], [[:en:bible:notes:ecc:10:12|10:12]], [[:en:bible:notes:ecc:10:20|10:20]], [[:en:bible:notes:ecc:12:10|12:10]]
 
 * [[:en:obe:kt:works]] is found in:
- [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:11|02:11]], [[:en:bible:notes:ecc:03:11|03:11]], [[:en:bible:notes:ecc:03:16|03:16]], [[:en:bible:notes:ecc:03:21|03:21]], [[:en:bible:notes:ecc:04:04|04:04]], [[:en:bible:notes:ecc:05:06|05:06]], [[:en:bible:notes:ecc:07:13|07:13]], [[:en:bible:notes:ecc:08:16|08:16]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:09:06|09:06]], [[:en:bible:notes:ecc:11:04|11:04]], [[:en:bible:notes:ecc:12:13|12:13]]
+ [[:en:bible:notes:ecc:01:12|01:12]], [[:en:bible:notes:ecc:02:11|02:11]], [[:en:bible:notes:ecc:03:11|03:11]], [[:en:bible:notes:ecc:03:16|03:16]], [[:en:bible:notes:ecc:03:21|03:21]], [[:en:bible:notes:ecc:04:04|04:04]], [[:en:bible:notes:ecc:04:05|04:05]], [[:en:bible:notes:ecc:05:06|05:06]], [[:en:bible:notes:ecc:07:13|07:13]], [[:en:bible:notes:ecc:08:10|08:10]], [[:en:bible:notes:ecc:08:16|08:16]], [[:en:bible:notes:ecc:09:01|09:01]], [[:en:bible:notes:ecc:09:06|09:06]], [[:en:bible:notes:ecc:10:04|10:04]], [[:en:bible:notes:ecc:11:04|11:04]], [[:en:bible:notes:ecc:12:13|12:13]]

@@ -33,10 +33,12 @@
 
 ===== translationNotes: =====
 
-  * **they set aside my command** - "they ignored my command"
+  * **they set aside my command** - Not obeying the king's command is spoken of as if they had physically moved it away from them. AT: "they ignored my command" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **they gave up their bodies** - This phrase refers to the three men's willingness to die for what they believed. AT: "they were willing to die" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **prostrate themselves** - This phrase means to lie on the ground, face down, in worship.
-  * **to any god except their God** - "to any other god except their God"
+  * **prostrate themselves to** - "stretch themselves out on the ground face down in honor of"  (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **any god except their God** - "any other god except their God"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -44,6 +46,6 @@
   * [[:en:bible:questions:comprehension:dan:03]]
 **[[:en:bible:notes:dan:03:26|<<]] | [[:en:bible:notes:dan:03:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit praise}}
+~~DISCUSSION~~{{tag>publish p2pass praise}}
 
 ~~NOCACHE~~

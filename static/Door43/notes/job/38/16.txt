@@ -28,7 +28,6 @@
 \q1
 \v 18 Do you know how big the earth is?
 \q2 Tell me, if you know all these things!
-\b
 
 
 \q1
@@ -47,7 +46,6 @@
 \q
 \v 18 Have you understood the earth in its expanse?
 \q Tell me, if you know it all.
-\b
 </usfm>
 
 
@@ -60,14 +58,17 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to challenge Job.
+  * **Connecting Statement:** - Yahweh continues to challenge Job.
+  * **General Information:** - Yahweh uses five questions to emphasize that he understands the earth and seas and Job does not. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **General Information:** - Verses 16 and 17 each have two phrases that are similar in meaning. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **Have you ... its expanse** - Yahweh uses these questions to emphasize that these are things that Job has not done and that there are many things that Job does not know. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the sources** - "the springs"
-  * **the deep** - AT: "the water" or "the ocean" (UDB) or "the deep water."
-  * **Have the gates of death been revealed to you** - "Has anyone shown the gates of death to you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Have you understood the earth in its expanse** - "Have you look carefully at everything all the way to the farthest parts of the earth" 
-  * **if you know it all** - "if you are familiar with the whole earth" or "if you know everything about the earth"
+  * **Have you gone ... in its expanse?** - These questions expect negative answers. They can be expressed as statements. AT: "You have not gone to the sources of the waters of the sea, or walked in the lowest parts of the deep. The gates of death have not been revealed to you, and you have not seen the gates of the shadow of death. You do not understand the earth in its expanse." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the sources of the waters** - "the springs"
+  * **the deep** - This refers to the sea or ocean where the water is very deep. AT: "the deep sea" or "the ocean depths" or "the deep water" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **Have the gates of death been revealed to you** - Death is spoken of as if it were a city that had gates through which people enter into it. This can be expressed in active form. AT: "Has anyone shown the gates of death to you" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the shadow of death** - Translate this as in [[:en:bible:notes:job:03:04|3:5]].
+  * **the earth in its expanse** - "the great broad places of the earth"
+  * **if you know it all** - "if you know all about these things"
  
 ===== Links: =====
 
@@ -82,6 +83,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

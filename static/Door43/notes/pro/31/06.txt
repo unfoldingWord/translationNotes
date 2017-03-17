@@ -19,9 +19,8 @@
 <usfm>
 \v 6 Give strong drink to those who are dying
 \q2 and to those who are grieving their loss.
-\v 7 One who drinks will forget he is poor, 
-\q2 and he will not remember his trouble. 
-
+\v 7 One who drinks will forget he is poor,
+\q2 and he will not remember his trouble.
 
 \q1
 </usfm>
@@ -31,10 +30,10 @@
 
 <usfm>
 \q
-\v 6 Give strong drink to people who are perishing
-\q and wine to those in bitter distress. 
+\v 6 Give strong drink to a person who is perishing
+\q and wine to those in bitter distress.
 \q
-\v 7 He will drink and he will forget his poverty 
+\v 7 He will drink and he will forget his poverty
 \q and he will not remember his trouble.
 </usfm>
 
@@ -48,8 +47,10 @@
 
 ===== translationNotes: =====
 
-  * **and wine** - "and give wine" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **in bitter distress** - "who's souls are bitter" or "who are in misery" 
+  * **and wine** - The ellipsis can be filled in. AT: "and give wine" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **in bitter distress** - "who's souls are bitter" or "who are in misery"
+  * **his poverty** - The abstract noun "poverty" can be translated as an adjective. AT: "how poor he is" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **his trouble** - The abstract noun "trouble" can be translated as a clause. AT: "the bad things that are happening to him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -64,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

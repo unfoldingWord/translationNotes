@@ -12,8 +12,7 @@
 
 <usfm>
 \v 6 Wherever you live, your towns will be ruined and the places where idols were worshiped on the hilltops will be smashed. Your altars will be completely smashed, and everything that you own will become a pile of ruins.
-\v 7 Many of your people will be killed right in front of you, and then you will know that I am Yahweh and I do what I say I will do. 
-
+\v 7 Many of your people will be killed right in front of you, and then you will know that I am Yahweh and I do what I say I will do.
 
 \p
 </usfm>
@@ -37,12 +36,13 @@
 
   * **General Information:** - These are Yahweh's words to the people of Israel.
 
-  * **cities will be laid waste** - "Enemy armies will lay waste your cities" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **they will be broken** - "your altars will be broken" or "enemy armies will break them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **your pillars will be cut down** - "they will cut down your pillars." See how you translated "pillars" in [[:en:bible:notes:ezk:06:04|6:4]].
-  * **your works will be wiped away** - "no one will remember what you have done"
+  * **cities will be laid waste** - This can be translated in active form. AT: "Enemy armies will lay waste your cities" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they will be broken** - This can be translated in active form. AT: "your altars will be broken" or "enemy armies will break them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your pillars will be cut down** - This can be translated in active form. See how you translated "pillars" in [[:en:bible:notes:ezk:06:04|6:4]]. AT: "they will cut down your pillars" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your works will be wiped away** - This can be translated in active form. AT: "no one will remember what you have done" or "they will destroy everything you have made" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **The dead will fall down in your midst** - "You will see the enemy kill many people"
-  * **know that I am Yahweh** - Possible meanings are 1) "understand who I, Yahweh, am" or 2) "understand that I am Yahweh, the one true God" or 3) "know that I, Yahweh, have the power to do the things that I say that I will do." (UDB)
+  * **know that I am Yahweh** - When Yahweh says that people will know that he is Yahweh, he is implying that they will know that he is the one true God who has supreme authority and power. AT: "understand that I am Yahweh, the one true God" or "realize that I, Yahweh, have supreme power and authority" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:ezk:06]]
 **[[:en:bible:notes:ezk:06:04|<<]] | [[:en:bible:notes:ezk:06:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit waste}}
+~~DISCUSSION~~{{tag>publish p2check waste}}
 
 ~~NOCACHE~~

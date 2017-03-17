@@ -42,7 +42,13 @@
  
 
 ===== translationNotes: =====
+
+  * **Ziba** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:09:01|9:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **my master the king is like an angel of God** - Here David's wisdom is compared to the wisdom of an angel. AT: "my master the king is as wise as an angel of God" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **do what is good in your eyes** - This means to do what you think is right. AT: "do what you believe to be the right thing to do" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **all my father's house were dead men before my master the king** - Mephibosheth speaks of how his relatives had deserved to be executed as if they had already been executed and were dead. AT: "all my father's house deserved for my master the king to order them to be executed" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my father's house** - This refers to his father's relatives. AT: "my father's relatives" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **What right therefore have I that I should still cry any more to the king?** - Mephibosheth uses this rhetorical question to emphasize that he has no right to request anything from the king. This can be written as a statement. AT: "Therefore, I have no right to ask the king to do anything else for me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -57,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

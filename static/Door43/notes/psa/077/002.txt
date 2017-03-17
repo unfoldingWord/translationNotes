@@ -20,7 +20,6 @@
 \v 2 At the time that I had trouble, I prayed to the Lord;
 \q2 all during the night I lifted up my hands while I prayed,
 \q2 but nothing could comfort me.
-\b
 \q1
 \v 3 When I thought about God, I despaired;
 \q1 when I meditated about him, I grew discouraged.
@@ -41,7 +40,6 @@
 \v 3 I thought of God as I groaned;
 \q I thought about him as I grew faint.
 \qs Selah\qs*
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -55,8 +53,9 @@
 
   * **I stretched my hands out** - "I prayed with my arms extended"
   * **My soul refused to be comforted** - The "soul" is a metonym for the person. This can be stated in active form. AT: "I would not allow anyone to try to comfort me" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I thought of God as I groaned; I thought about him as I grew faint** - These two phrases share similar meanings and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **as I grew faint** - "as my spirit grew faint" or "as my spirit was overwhelmed"
   * **Selah** - This may be a musical term that tells people how to sing or play their instruments here. Some translations write the Hebrew word, and some translations do not include it. See how you translated this in [[:en:bible:notes:psa:003:001|3:2]]. (See: [[:en:ta:vol1:translate:translate_transliterate]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:077]]
 **[[:en:bible:notes:psa:077:001|<<]] | [[:en:bible:notes:psa:077:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

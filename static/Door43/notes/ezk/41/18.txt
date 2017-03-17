@@ -21,9 +21,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 18 It was decorated with cherubim and palm trees; with a palm tree between each cherub. And each cherub had two faces:
-\v 19 the face of a man looked toward a palm tree on one side, and the face of a young lion looked toward a palm tree on the other side. These decorated all the house all around,
-\v 20 from the ground to above the doorway there were decorations of cherubim and palm trees upon the temple wall.
+\v 18 It was decorated with cherubim and palm trees; with a palm tree between each cherub, and each cherub had two faces:
+\v 19 the face of a man looked toward a palm tree on one side, and the face of a young lion looked toward a palm tree on the other side. They were carved all around the entire house.
+\v 20 From the ground to above the doorway, cherubim and palm trees were carved on the outer wall of the house.
 </usfm>
 
 ===== translationWords: =====
@@ -34,8 +34,8 @@
 
 ===== translationNotes: =====
 
-  * **decorated** - to make something beautiful usually by putting something on it
-  * **the house** - "the sanctuary"
+  * **decorated** - made beautiful
+  * **the house** - the temple
  
 ===== Links: =====
 
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:ezk:41]]
 **[[:en:bible:notes:ezk:41:15|<<]] | [[:en:bible:notes:ezk:41:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -42,11 +42,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Job is using an extended metaphor of a potter forming clay to describe his relationship with God. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
-  * **Your hands** - AT: "You" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
-  * **framed and fashioned me** - The words "framed" and "fashioned" mean basically the same thing and emphasize how carefully God had formed him. AT: "carefully formed my body." (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **will you bring me into dust again?** - "will you turn me back into dust again?"
+  * **Your hands** - Here "hands" represent God and his creative action. AT: "You" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Your hands have framed and fashioned me together round about** - Job is using a metaphor of a potter forming clay to describe how God carefully created him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **framed and fashioned me** - "shaped and formed me." The words "framed" and "fashioned" are similar in meaning. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **Call to mind** - "Remember"
+  * **bring me into dust again** - "turn me back into dust again"
 
 ===== Links: =====
 
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:job:10]]
 **[[:en:bible:notes:job:10:04|<<]] | [[:en:bible:notes:job:10:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

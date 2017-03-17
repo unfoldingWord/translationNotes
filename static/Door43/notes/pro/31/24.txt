@@ -32,7 +32,7 @@
 <usfm>
 \q
 \v 24 She makes linen garments and sells them,
-\q and she supplies sashes to the merchants. 
+\q and she supplies sashes to the merchants.
 \q
 \v 25 She is clothed with strength and honor,
 \q and she laughs at the time to come.
@@ -48,7 +48,8 @@
 
   * **linen** - cloth made from flax yarn
   * **sashes** - long pieces of cloth worn around the waist or over one shoulder
-  * **laughs at** - "is not fearful of"
+  * **She is clothed with strength and honor** - This can be translated in active form. The abstract nouns "strength" and "honor" can be translated by an adjective and a verb, respectively. AT: "Everyone can see that she is strong, and so they honor her" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **laughs at the time to come** - This is probably an exaggeration. AT: "is not afraid of what will happen in the future" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -62,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

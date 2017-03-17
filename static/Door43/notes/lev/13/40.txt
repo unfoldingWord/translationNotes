@@ -19,7 +19,7 @@
 <usfm>
 \p
 \v 40 If a man's hair has fallen out of his head, he is bald, but he is clean.
-\v 41 And if his hair has fallen out of the front part of his head, and if his forehead is bald, he is clean.
+\v 41 If his hair has fallen out of the front part of his head, and if his forehead is bald, he is clean.
 </usfm>
 
 ===== translationWords: =====
@@ -39,6 +39,6 @@
   * [[:en:bible:questions:comprehension:lev:13]]
 **[[:en:bible:notes:lev:13:38|<<]] | [[:en:bible:notes:lev:13:42|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

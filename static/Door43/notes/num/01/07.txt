@@ -9,13 +9,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 7-9 
-\li1 Nahshon son of Amminadab, from the tribe of Judah;
-\li1 Nethanel son of Zuar, from the tribe of Issachar;
-\li1 Eliab son of Helon, from the tribe of Zebulun;
-
-
-\li1
+\v 7-9 Nahshon son of Amminadab, from the tribe of Judah;
+\q1 Nethanel son of Zuar, from the tribe of Issachar;
+\q1 Eliab son of Helon, from the tribe of Zebulun;
 </usfm>
 
 ===== ULB: =====
@@ -46,6 +42,6 @@
   * [[:en:bible:questions:comprehension:num:01]]
 **[[:en:bible:notes:num:01:04|<<]] | [[:en:bible:notes:num:01:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

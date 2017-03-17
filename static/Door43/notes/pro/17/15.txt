@@ -19,13 +19,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 When a court sets the wicked free and condemns those who do what is right, 
+\v 15 When a court sets the wicked free and condemns those who do what is right,
 \q2 Yahweh hates both of these actions.
-\b
 \q1
 \v 16 There is no benefit for a fool when he pays money to learn about wisdom;
-\q2 no matter how much he tries, he will not be able to learn about wisdom. 
-\b
+\q2 no matter how much he tries, he will not be able to learn about wisdom.
 
 
 \q1
@@ -36,8 +34,8 @@
 
 <usfm>
 \q
-\v 15 Anyone who acquits wicked people or condemns those who do right—
-\q both of these people are abominations to Yahweh.
+\v 15 The person who acquits the wicked person and the person who condemns the righteous person—
+\q both are an abomination to Yahweh.
 \q
 \v 16 Why should a fool pay money to learn about wisdom,
 \q when he has no ability to learn it?
@@ -48,15 +46,16 @@
 
   * [[:en:obe:kt:evil]]
   * [[:en:obe:kt:condemn]]
+  * [[:en:obe:kt:abomination]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:foolish]]
   * [[:en:obe:kt:wise]] 
 
 ===== translationNotes: =====
 
-  * **Anyone who acquits wicked people or condemns those who do right** - AT: "The one who acquits wicked people and the one who condemns those who do right"
+  * **The person who acquits the wicked person and the person who condemns the righteous person** - "The one who acquits wicked people and the one who condemns the righteous"
   * **acquits** - justifies, declares someone not guilty
-  * **Why should a fool pay money to learn about wisdom, when he has no ability to learn it?** - AT: "Money to buy wisdom is of no use to a fool since he has no sense." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Why should a fool pay money to learn about wisdom, when he has no ability to learn it?** - This rhetorical question emphasizes that the fool should not do this. This question may be written as a statement. AT: "A fool should not pay money to learn about wisdom because he does not have the ability to learn it." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -65,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:17]]
 **[[:en:bible:notes:pro:17:13|<<]] | [[:en:bible:notes:pro:17:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit condemn}}
+~~DISCUSSION~~{{tag>publish p2pass condemn}}
 
 ~~NOCACHE~~

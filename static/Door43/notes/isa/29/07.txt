@@ -30,7 +30,6 @@
 \q1 It will be like that when your enemies come to attack Mount Zion;
 \q2 they will dream about conquering you, but when they wake up,
 \q2 they will realize that they have not succeeded.
-\b
 
 
 \q1
@@ -43,10 +42,10 @@
 \v 7 It will be like a dream, a vision of the night:
 \q1 A horde of all the nations will fight against Ariel
 \q1 and her stronghold. They will attack her and her fortifications to press upon her.
-\q1 
+\q1
 \v 8 It will be like when a hungry man dreams he is eating, but when he awakes, his stomach is empty.
-\q1 It will be like when a thirsty man dreams that he is drinking, but he when he awakes, he is fainting, with his thirst is unquenched.
-\q1 Yes, so will be the horde of nations that fights against Mount Zion.
+\q1 It will be like when a thirsty man dreams that he is drinking, but he when he awakes, he is fainting, with his thirst not quenched.
+\q1 Yes, so will be the great number of nations that fights against Mount Zion.
 </usfm>
 
 ===== translationWords: =====
@@ -61,11 +60,10 @@
 
   * **It will be like a dream, a vision of the night** - The phrase "a vision of the night" is the same thing as "a dream." The two phrases emphasize that soon it will be like the invading army was never there. (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol1:translate:figs_simile]])
   * **A horde of all the nations** - "Large armies from all the nations"
-  * **fight against Ariel** - See how you translated "Ariel" in [[:en:bible:notes:isa:29:01|29:1]]. AT: "fight against the city of Ariel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **her stronghold** - The word "her" refers to Jerusalem. "the city's stronghold"
-  * **attack her and her fortifications to press upon her** - "attack the city of Ariel and its defenses and cause the city great distress"
-  * **It will be like when a hungry man dreams he is eating ... It will be like when a thirsty man dreams that he is drinking** - The enemy expects victory but nothing comes because God will not allow them to conquer Jerusalem. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Yes, so will be the horde of nations that fights against Mount Zion** - AT: "Yes, this will be what happens to the armies from the nations who fight against the people who live on Mount Zion" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **fight against Ariel** - The name "Ariel" is another name for Jerusalem, and it represents the people who live there. See how you translated "Ariel" in [[:en:bible:notes:isa:29:01|29:1]]. AT: "fight against the people of Ariel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **her stronghold. They will attack her and her fortifications to press upon her** - The word "her" refers to Ariel which represents the people who live there. AT: "their stronghold. They will attack the city of Ariel and its defenses and cause the people to be in great distress" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **It will be like when a hungry man dreams he is eating ... his thirst not quenched** - These similes mean that the enemy will expect victory but they will fail because God will not allow them to conquer Jerusalem. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Yes, so will be the great number of nations that fights against Mount Zion** - Here "Mount Zion" represents the people who live there. AT: "Yes, this will be what happens to the armies from the nations who fight against the people who live on Mount Zion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -74,6 +72,6 @@
   * [[:en:bible:questions:comprehension:isa:29]]
 **[[:en:bible:notes:isa:29:05|<<]] | [[:en:bible:notes:isa:29:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

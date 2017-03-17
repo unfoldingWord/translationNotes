@@ -26,7 +26,7 @@
 
 <usfm>
 \v 14 Then the king turned around and blessed all the assembly of Israel, while all the assembly of Israel was standing.
-\v 15 He said, 
+\v 15 He said,
 "May Yahweh, the God of Israel, be praised, who spoke to David my father, and has fulfilled it with his own hands, saying,
 \v 16 'Since the day that I brought my people Israel out of Egypt, I chose no city out of all the tribes of Israel in which to build a house, in order for my name to be there. However, I chose David to rule over my people Israel.'
 </usfm>
@@ -51,8 +51,10 @@
 
 ===== translationNotes: =====
 
+  * **all the assembly of Israel** - This is a generalization. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
   * **May Yahweh, the God of Israel, be praised** - This can be stated in active form. AT: "Praise Yahweh, the God of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]]).
-  * **with his own hands** - AT: "by his own power" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **with his own hands** - The hand is a metonym for the power in the hand. AT: "by his own power" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in order for my name to be** - The word "name" is a metonym for the person, and "for ... name" refers to worshiping the person. Similar words appear in [[:en:bible:notes:1ki:03:01|3:2]]. AT: "so that people would worship me"  (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -61,6 +63,6 @@
   * [[:en:bible:questions:comprehension:1ki:08]]
 **[[:en:bible:notes:1ki:08:12|<<]] | [[:en:bible:notes:1ki:08:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit assembly}}
+~~DISCUSSION~~{{tag>publish p2pass assembly}}
 
 ~~NOCACHE~~

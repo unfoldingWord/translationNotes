@@ -24,7 +24,7 @@
 \q2 "You protect me;
 \q2 you are like a fort in which I am safe.
 \q2 You are my God, the one in whom I trust."
-\b
+
 
 
 \q1
@@ -34,7 +34,7 @@
 
 <usfm>
 \c 91
-\p
+\m
 \q
 \v 1 He who lives in the shelter of the Most High
 \q will stay in the shadow of the Almighty.
@@ -56,12 +56,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **He who lives  ... will stay ... of the Almighty** - Because "live" and "stay" mean almost the same thing, as do "shelter" and "shadow," which are both metaphors for protection, you may need to combine the two lines into one. AT: "The Most High, the Almighty, will care for all those who live where he can protect them" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_doublet]])
   * **who lives in the shelter of the Most High** - The word "shelter" is a metaphor for protection. AT: "who lives where the Most High protects him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the Most High** - The words "the Most High" refer to Yahweh. See how this is translated in [[:en:bible:notes:psa:018:013|18:13]].
-  * **will stay in the shadow of the Almighty** - The word "shadow" here is a metaphor for protection. AT: "will stay where the Almighty can protect him."
+  * **will stay in the shadow of the Almighty** - The word "shadow" here is a metaphor for protection. AT: "will stay where the Almighty can protect him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the Almighty** - the one who has power and control over everything. See how this was translated in [[:en:bible:notes:psa:068:014|68:14]]
   * **I will say of Yahweh** - "I will say about Yahweh"
   * **my refuge and my fortress** - A "refuge" is any place a person can go and have someone or something protect him. A "fortress" is something that people make so they can protect themselves and their property. Asaph uses them here as metaphors for protection. AT: "the one to whom I can go and he will protect me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -73,6 +73,6 @@
   * [[:en:bible:questions:comprehension:psa:091]]
 **[[:en:bible:notes:psa:090:017|<<]] | [[:en:bible:notes:psa:091:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

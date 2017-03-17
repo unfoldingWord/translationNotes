@@ -14,9 +14,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 Here is a list of the descendants of Levi who returned. They are: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah. They were in charge of singing songs to thank God.
-\v 9 Bakbukiah, Unni, and other descendants of Levi formed a choir that stood across from the other group when they sang.
-
+\v 8 Here is a list of the descendants of Levi who returned: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah. Mattaniah and his brothers led the people in singing songs to thank God.
+\v 9 Bakbukiah and Unni, their associates, formed a choir that stood across from the other group when they sang.
+ 
 
 \p
 </usfm>
@@ -26,7 +26,7 @@
 
 <usfm>
 \p
-\v 8 The Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who was in charge of the thanksgiving songs, along with his associates. 
+\v 8 The Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who was in charge of the thanksgiving songs, along with his associates.
 \v 9 Bakbukiah and Unni, their associates, stood opposite them during the service.
 </usfm>
 
@@ -36,9 +36,8 @@
   * [[:en:obe:other:levite]]
 ===== translationNotes: =====
 
-  * **Jeshua ... Binnui ... Kadmiel ... Sherebiah ... Judah ... Mattaniah ... Bakbukiah ... Unni** - These are male names (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Mattaniah ... was in charge of the thanksgiving songs, along with his associates. Bakbukiah and Unni, their associates, stood opposite them during the service** - This means one person led two groups of singers in a musical form called 'call and response.'
- 
+  * **Jeshua ... Binnui ... Kadmiel ... Sherebiah ... Judah ... Mattaniah ... Bakbukiah ... Unni** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **stood opposite them during the service** - Possible meanings are 1) this was during a worship service and these were two groups of singers (see UDB) or other worshipers, or 2) these groups guarded the temple at different times, or "took turns guarding the temple". 
  
 ===== Links: =====
 
@@ -50,6 +49,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

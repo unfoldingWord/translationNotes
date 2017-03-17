@@ -36,9 +36,10 @@
   * [[:en:obe:other:jericho]]
 ===== translationNotes: =====
 
-  * **General Information:** - This continues with the names of people that returned from the exile along with the number in each group whose ancestors came from the places listed. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **General Information:** - This continues with the list of people who returned from the exile along with the number in each group whose ancestors came from the places listed. (See: [[:en:ta:vol2:translate:translate_numbers]])
 
-  * **Senaah** - This is a the name of a place. (See: [[ en:ta:vol1:translate:translate_names]])
+  * **Senaah** - This is the name of a place. (See: [[ en:ta:vol1:translate:translate_names]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:ezr:02]]
 **[[:en:bible:notes:ezr:02:31|<<]] | [[:en:bible:notes:ezr:02:36|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

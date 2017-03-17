@@ -18,7 +18,7 @@
 
 <usfm>
 \p
-\v 44 Near the inner gate, in the inner courtyard, were singers' chambers. One of these rooms was on the north side, and one on the south. 
+\v 44 Near the inner gate, in the inner courtyard, were singers' chambers. One of these rooms was on the north side, and one on the south.
 \v 45 Then the man said to me, "This room facing south is for the priests who are on duty in the temple.
 </usfm>
 
@@ -31,9 +31,9 @@
 ===== translationNotes: =====
 
   * **the inner gate** - This is the inner gate on the north.
-  * **singers' chambers** - "rooms for singers" However, come ancient and modern versions read only "chambers," leaving out the idea of singers.
-  * **This room facing south** - This phrase means "The room that has its main entrance on the south side." (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-  * **who are on duty in the temple** - AT: "who are working in the temple" (UDB) or "who are responsible for guarding the temple" 
+  * **singers' chambers** - "rooms for singers." However, some ancient and modern versions read only "chambers" without the reference to singers.
+  * **This room facing south** - Here "facing" is an idiom that means it was oriented in that direction. AT: "This room that opens toward the south" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **who are on duty in the temple** - "who are working in the temple" (UDB) or "who are responsible for guarding the temple"
 
 ===== Links: =====
 
@@ -42,6 +42,6 @@
   * [[:en:bible:questions:comprehension:ezk:40]]
 **[[:en:bible:notes:ezk:40:42|<<]] | [[:en:bible:notes:ezk:40:46|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 With Absalom went two hundred men from Jerusalem, who were invited. They went in their innocence, not knowing anything that Absalom had planned. 
+\v 11 With Absalom went two hundred men from Jerusalem, who were invited. They went in their innocence, not knowing anything that Absalom had planned.
 \v 12 While Absalom offered sacrfices, he sent for Ahithophel from his hometown of Giloh. He was David's counselor. Absalom's conspiracy was strong, for the people following Absalom were constantly increasing.
 </usfm>
 
@@ -42,9 +42,12 @@
 
 ===== translationNotes: =====
 
-  * **Ahithophel** - This is a man's name. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Giloh** - This is the name of a place. 
-  * **Absalom's conspiracy was strong** - Here the "conspiracy" is treated like a person. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **who were invited** - This can be stated in active form. AT: "who he had invited" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **went in their innocence** - "went innocently"
+  * **he sent for Ahithophel** - This means that he sent a messenger to go get Ahithophel and bring him back to him. AT: "he sent a messenger to go get Ahithophel who was" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Ahithophel** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Giloh** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
+
  
 ===== Links: =====
 
@@ -59,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

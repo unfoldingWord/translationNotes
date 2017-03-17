@@ -42,10 +42,13 @@
  
 ===== translationNotes: =====
 
-  * **Zadok ... Ahimaaz ... Jonathan ... Abiathar** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ahimaaz** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Abiathar** - Translate this man's name the same as you did in [[:
+en:bible:notes:2sa:08:15|8:17]].
   * **Are you not a seer?** - This rhetorical question is used to rebuke Zadok and can be translated as a statement. AT: "You will be able to find out what is happening." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **See** - This is just used to continue the quotation.
-  * **until word comes from you to inform me** - "until a messenger comes from you to tell me what is happening in Jerusalem" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **See** - Here this word is an idiom and means for the listener to pay attention to what is said next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **until word comes from you** - This refers to him sending a messenger to the king. AT: "until you send a messenger to me to inform me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to inform me** - Here the king implies he is to receive a message informing him about what is happening in Jerusalem. AT: "to tell me what is happening in Jerusalem" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
  
  
@@ -64,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

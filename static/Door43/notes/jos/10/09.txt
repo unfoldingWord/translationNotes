@@ -21,7 +21,7 @@
 
 <usfm>
 \v 9 Joshua came upon them suddenly, having marched all night from Gilgal.
-\v 10 And Yahweh confused the enemy before Israel— who killed them with a great slaughter at Gibeon, and who pursued them on the road going up to Beth Horon, and who killed them on the road to Azekah and Makkedah.
+\v 10 Yahweh confused the enemy before Israel, and Israel killed them with a great slaughter at Gibeon and pursued them on the road going up to Beth Horon, and they killed them on the road to Azekah and Makkedah.
 </usfm>
 
 
@@ -37,8 +37,8 @@
 ===== translationNotes: =====
 
   * **Joshua came** - The entire army of Israel is referred to here by the name of their commander, Joshua. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Beth Horon** - This is the name of a location. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Azekah ... Makkedah** - These are the names of places.  (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Yahweh confused the enemy before Israel** – Here "Israel" refers to the entire army of Israel.
+  * **Beth Horon ... Azekah ... Makkedah** - These are the names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -53,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

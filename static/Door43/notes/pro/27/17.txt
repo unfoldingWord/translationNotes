@@ -45,7 +45,9 @@
 
 ===== translationNotes: =====
 
-  * **Iron sharpens iron; in the same way, a man sharpens his friend.** - These two phrases are comparing how iron and a man can be improved. AT: "As iron becomes better when it is sharpened by another piece of iron, so a man becomes better when he is made better by his friend" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Iron sharpens iron; in the same way, a man sharpens his friend.** - These two phrases are comparing how iron and a man can be improved. AT: "As iron can sharpen another piece of iron, so a man's character is improved by contact with his friend" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **tends** - "takes care of"
+  * **the one who protects his master will be honored** - This can be stated in active form. AT: "a master will honor the one who protects him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -53,6 +55,6 @@
   * [[:en:bible:questions:comprehension:pro:27]]
 **[[:en:bible:notes:pro:27:15|<<]] | [[:en:bible:notes:pro:27:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

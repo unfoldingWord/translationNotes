@@ -25,7 +25,6 @@
 \q1
 \v 20 You brought me into a place where I was safe.
 \q2 You rescued me because you were pleased with me.
-\b
 \q1
 \v 21 Yahweh, you rewarded me because I do what is right.
 \q2 You did good things for me because I was innocent.
@@ -63,9 +62,10 @@
   * **General Information:** - This continues David's song to Yahweh. He uses parallelism to emphasize what he is saying. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **They came against me on the day of my distress** - "My enemies fought against me when I was in great trouble"
+  * **the day of my distress** - The word "day" represents the span of time when David was in distress. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **but Yahweh was my support** - "but Yahweh supported me" or "but Yahweh helped me"
   * **a wide open place** - This refers to a place where there was no danger and his enemies could not trap him.
-  * **to the measure of the cleanness of my hands** - Here "cleanness of my hands" means the same as "righteousness." AT: "because I obey his commands" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to the measure of the cleanness of my hands** - Here "cleanness of my hands" means the same as "righteousness." AT: "because I obey his commands" (See: [[:en:ta:vol1:translate:figs_idiom]] and (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -80,6 +80,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

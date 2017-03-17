@@ -30,10 +30,10 @@
 
 <usfm>
 \q1
-\v 11 But wild birds and animals will live there; the owl and the raven will make their nest in it. 
+\v 11 But wild birds and animals will live there; the owl and the raven will make their nest in it.
 \q1 He will stretch over it the measuring line of ruin and the plumbline of destruction.
 \q1
-\v 12 Her nobles 
+\v 12 Her nobles
 \q1 will have nothing left to call a kingdom, and all her princes will be nothing.
 </usfm>
 
@@ -45,11 +45,13 @@
 ===== translationNotes: =====
 
   * **will live there** - "will live in the land of Edom"
-  * **owl** - See how you translated this in [[:en:bible:notes:isa:13:21|13:21]].
-  * **raven** - a black bird. It is difficult to identify some of the precise kinds of birds mentioned in this passage. However, they were all birds that preferred to live in places where there were no people, so they symbolize deserted places.
-  * **He will stretch over it the measuring line of ruin and the plumbline of destruction** - This compares God carefully judging the people of Edom to a builder carefully using tools to measure something. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **measuring line ... plumbline** - See how you tranlated similar words in [[:en:bible:notes:isa:28:17|28:17]].
+  * **owl** - Translate this as in [[:en:bible:notes:isa:13:21|13:21]].
+  * **raven** - This is a large black bird. It is difficult to identify some of the precise kinds of birds mentioned in this passage. However, they were all birds that preferred to live in places where there were no people, so they symbolize deserted places.
+  * **in it** - "there." This refers to Edom.
+  * **He will stretch over it the measuring line of ruin and the plumbline of destruction** - This speaks of Yahweh as if he were a careful builder as he causes destruction in Edom. AT: "Yahweh will measure that land carefully; he will measure it to to decide where to cause ruin and destruction" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **measuring line ... plumbline** - These are builders' tools. See how you translated similar words in [[:en:bible:notes:isa:28:17|28:17]].
   * **Her nobles ... her princes** - "The nobles of Edom ... the princes of Edom"
+  * **all her princes will be nothing** - This exaggerates the princes losing their royal status by saying that they will become nothing. AT: "all her princes will no longer rule" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -57,6 +59,6 @@
   * [[:en:bible:questions:comprehension:isa:34]]
 **[[:en:bible:notes:isa:34:08|<<]] | [[:en:bible:notes:isa:34:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

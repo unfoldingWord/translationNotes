@@ -22,8 +22,8 @@
 
 <usfm>
 \p
-\v 19 Then at daybreak the king got up and quickly made his way to the lions' den.
-\v 20 As he came near to the den, he called out to Daniel with a voice filled with pain. He said to Daniel, "Daniel, servant of the living God, has your God, whom you serve continually, been able to save you from the lions?"
+\v 19 Then at daybreak the king got up and he quickly went to the lions' den.
+\v 20 As he came near to the den, he called out to Daniel in a sad voice, saying to Daniel, "Daniel, servant of the living God, has your God, whom you serve continually, been able to save you from the lions?"
 </usfm>
 
 ===== translationWords: =====
@@ -35,7 +35,8 @@
 
 ===== translationNotes: =====
 
-  * **with a voice filled with pain** - The king's voice sounded like he was in pain. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **lions' den** - This may refer to a room or pit where lions were kept. See how you translated this in [[:en:bible:notes:dan:06:06|6:7]].
+
 
 ===== Links: =====
 
@@ -44,6 +45,6 @@
   * [[:en:bible:questions:comprehension:dan:06]]
 **[[:en:bible:notes:dan:06:17|<<]] | [[:en:bible:notes:dan:06:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

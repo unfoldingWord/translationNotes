@@ -25,7 +25,7 @@
 <usfm>
 \p
 \v 12 Yahweh said to Moses, "Go up the mountains of Abarim and look at the land that I have given to the people of Israel.
-\v 13 After you have seen it, you, too, must be gathered to your people, like Aaron your brother. 
+\v 13 After you have seen it, you, too, must be gathered to your people, like Aaron your brother.
 \v 14 This will happen because you two rebelled against my command in the wilderness of Sin. There, when the water flowed from the rock, in your anger you failed to honor me as holy before the eyes of the whole community." These are the waters of Meribah of Kadesh in the wilderness of Sin.
 </usfm>
 
@@ -51,7 +51,7 @@
   * **wilderness of Sin** - Translate this phrase the same way you did in [[:en:bible:notes:num:13:21|13:21]].
   * **when the water flowed from the rock, in your anger** - This refers to an event when Yahweh made water miraculously flow out of a rock. God told Moses to speak to the rock. Instead, Moses hit the rock because he was angry with the people. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **you failed to honor me as holy** - "you did not treat me as holy"
-  * **before the eyes of the whole community** - Here the community's "eye" refer to the community. It is written this way to emphasize what they saw. AT: "in front of the whole community" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **before the eyes of the whole community** - Here the "eyes of the whole community" refers to the to the community themselves. It is written this way to emphasize what they saw. AT: "in front of the whole community" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **waters of Meribah** - Translate this the same way that you did in [[:en:bible:notes:num:20:12|20:13]].
 ===== Links: =====
 
@@ -60,6 +60,6 @@
   * [[:en:bible:questions:comprehension:num:27]]
 **[[:en:bible:notes:num:27:09|<<]] | [[:en:bible:notes:num:27:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

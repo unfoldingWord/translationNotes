@@ -31,10 +31,10 @@
 
 <usfm>
 \q1
-\v 8 He took away the protection of Judah; 
+\v 8 He took away the protection of Judah;
 \q1 and you looked in that day to the weapons in the Palace of the Forest.
 \q1
-\v 9 You saw the breaches of the city of David, that they were many, 
+\v 9 You saw the breaches of the city of David, that they were many,
 \q1 and you collected the water of the lower pool.
 </usfm>
 
@@ -46,10 +46,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe a time in the future when an army will attack the people of Jerusalem. (See: [[:en:bible:notes:isa:22:05|22:5]].
+  * **General Information:** - Isaiah continues to describe a time in the future when an army will attack the people of Jerusalem. Past tense verbs can be translated with future tense verbs. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
 
-  * **He took away the protection of Judah** - "Yahweh will take away everything that has protected the people of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **He took away the protection of Judah** - The abstract noun "protection" can be stated as a verb. AT: "Yahweh will take away everything that has protected the people of Judah" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **you looked in that day to the weapons** - Here the phrase "to look to" means to trust in something. AT: "to defend yourselves you will get the weapons" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **Palace of the Forest** - This was a part of the temple in Jerusalem where they stored their weapons.
+  * **you collected the water of the lower pool** - The people will store water so that they will have enough to drink while their enemies surround the city. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -64,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit cityofdavid}}
+{{tag>publish p2pass cityofdavid}}
 
 ~~NOCACHE~~

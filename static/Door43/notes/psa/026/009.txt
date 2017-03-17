@@ -44,10 +44,10 @@
   * [[:en:obe:other:bribe]]
 ===== translationNotes: =====
 
-  * **Do not sweep me away with sinners** - God destroying someone is spoken of as if he were sweeping them away like dust. AT: "Do not destroy me along with sinners" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Do not sweep me away with sinners** - "Sweep away" is a metaphor for destruction. AT: "Do not destroy me along with sinners" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **or my life** - The word "sweep" is understood. AT: "or sweep my life" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **people who are bloodthirsty** - The word "bloodthirsty" represents a person who wants to kill other people. AT: "people who are eager to shed others' blood" or "people who are murderers" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in whose hands there is a plot** - The phrase "in whose hands" is a way of referring to a person who is ready to do something. AT: "people who are ready to do wicked things" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **in whose hands** - "Hands" refers to the whole person. AT: "people in which" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **a plot** - "a wicked plan"
 
 ===== Links: =====
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:026]]
 **[[:en:bible:notes:psa:026:006|<<]] | [[:en:bible:notes:psa:026:011|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

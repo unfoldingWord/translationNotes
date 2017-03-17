@@ -25,7 +25,7 @@
 
 <usfm>
 \v 12 This made the king angry and very furious, and he gave an order to destroy all those in Babylon who were known for their wisdom.
-\v 13 So the decree went out. All those known for their wisdom were to be put to death; they looked for Daniel and his friends so that they could be put to death, too.
+\v 13 So the decree went out that all those who were known for their wisdom were to be put to death. Because of this decree, they searched for Daniel and his friends so they could be put to death.
 </usfm>
 
 
@@ -42,23 +42,21 @@
 
   * **angry and very furious** - These words mean basically the same thing and emphasize the intensity of his anger. AT: "incredibly angry" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **all those in Babylon** - "all the men in Babylon"
-  * **So the decree went out** - AT: "So the king issued a command" or "So the king gave a command"
-  * **All those known for their wisdom were to be put to death** - This can be stated in active form. AT: "The soldiers were to kill all of the men who were known for their wisdom" (See: [[:en:ta:vol2:translate:figs_activepassive]])
- 
+  * **So the decree went out** - The decree is spoken of as if it was alive and able to go out by itself. AT: "So the king issued a command" or "So the king gave a command" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **all those who were known for their wisdom were to be put to death** - This can be stated in active form. AT: "the soldiers were to kill all of the men who were known for their wisdom" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **so they could be put to death** - This can be stated in active form. AT: "in order to kill them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
   * [[:en:bible:notes:dan:02:00]]
   * [[:en:bible:questions:comprehension:dan:02]]
-
- 
-
 **[[:en:bible:notes:dan:02:10|<<]] | [[:en:bible:notes:dan:02:14|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit decree}}
+{{tag>publish p2pass decree}}
 
 ~~NOCACHE~~

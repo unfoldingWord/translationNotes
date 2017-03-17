@@ -28,7 +28,7 @@
 \q2 he received gifts from the enemies whom he had defeated.
 \q1 He received gifts even from those who had rebelled against him,
 \q2 and Yahweh, our God, will live there in his sacred temple forever.
-\b
+
 
 
 \q1
@@ -45,7 +45,6 @@
 \q you have received gifts from among men,
 \q even from those who fought against you,
 \q so that you, Yahweh God, might live there.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -58,7 +57,7 @@
 ===== translationNotes: =====
 
   * **twenty thousand, thousands upon thousands** - This is probably not meant to be an exact number, but to indicate a large number. AT: "many thousands" (UDB) (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **ascend** - to move up, to go toward the sky 
+  * **ascended** - To "ascend" is to to move up, to go toward the sky.
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:068]]
 **[[:en:bible:notes:psa:068:014|<<]] | [[:en:bible:notes:psa:068:019|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

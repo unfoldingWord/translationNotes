@@ -22,7 +22,6 @@
 \q1
 \v 10 They will all despair
 \q2 and be very discouraged.
-\b
 
 
 \q1
@@ -45,9 +44,14 @@
 
 ===== translationNotes: =====
 
-  * **flax** - a plant that grows along the Nile River and is used to make a strong cloth (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **will be grieved within themselves** - "will have such grief, they no longer have hope"
-
+  * **The workers in combed flax and those who weave white cloth will turn pale. The cloth workers of Egypt will be crushed** - These two phrases mean basically the same thing. If necessary, the reason they will be distressed can be stated clearly. AT: "The linen makers of Egypt will be humiliated because there is no flax" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **The workers in combed flax** - "Those who work with combed flax"
+  * **combed flax** - Flax is a plant that grows along the Nile River. People comb its fibers in order to separate them, and use them to make thread for linen cloth. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **will turn pale** - "will be ashamed"
+  * **The cloth workers of Egypt** - "The people of Egypt who make cloth"
+  * **will be crushed** - Being crushed represents being discouraged. AT: "will be discouraged" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **work for hire** - "work for pay"
+  * **will be grieved within themselves** - "will feel very sad"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -55,6 +59,6 @@
   * [[:en:bible:questions:comprehension:isa:19]]
 **[[:en:bible:notes:isa:19:07|<<]] | [[:en:bible:notes:isa:19:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

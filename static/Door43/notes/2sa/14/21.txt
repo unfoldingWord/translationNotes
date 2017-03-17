@@ -40,8 +40,14 @@
 
 ===== translationNotes: =====
 
-  * **Joab lay facedown on the ground** - "Joab honored the king" (See: [[:en:ta:vol2:translate:translate_symaction]]) 
-  * **the king has performed the request** - "you have done what I asked you to do"
+  * **So the king said to Joab** - It is implied that the king had Joab brought before him so that he could speak to him. The full meaning of this can be made clear. AT: "Then the king summoned Joab and said to him" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Look now** - This is an idiom. It is a phrase used to draw someone's attention to what is said next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **this thing** - This refers to what Joab wants the king to do. The full meaning of this statement can be made clear. AT: "what you want me to do" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Joab lay facedown on the ground** - Joab did this to honor the king and show his gratitude. (See: [[:en:ta:vol2:translate:translate_symaction]]) 
+  * **your servant** - To show respect for the king Joab refers to himself as "your servant."
+  * **I have found favor in your sight** - The phrase "found favor" is an idiom which means to be approved of by someone. The word "sight" is a metonym which refers to what the king thinks. AT: "you are pleased with me" (UDB) or "you have approved of me" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in that the king** - "because the king"
+  * **the king has performed the request of his servant** - "you have done what I asked you to do"
 
  
 ===== Links: =====
@@ -57,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

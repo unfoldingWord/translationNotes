@@ -36,11 +36,11 @@
 
 <usfm>
 \v 17 They will lift up a lament for you and say to you,
-\q "How you, who were inhabited by sailors, have been destroyed. The famous city that was so strong—it is now gone from the sea.
-\q And the ones living in her once put terror of themselves on everyone else who lived near them.
+\q How you, who were inhabited by sailors, have been destroyed. The famous city that was so strong—it is now gone from the sea.
+\q The ones living in her once spread a terror about themselves upon everyone who lived near them.
 \q
 \v 18 Now the coasts tremble on the day of your downfall.
-\q The islands in the sea are terrified, because you have died."
+\q The islands in the sea are terrified, because you have died.'
 </usfm>
 
 ===== translationWords: =====
@@ -51,7 +51,16 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues giving Ezekiel his message to Tyre.
+  * **Connecting Statement:** - Yahweh continues giving Ezekiel his message to Tyre.
+  * **General Information:** - In these verses, "They" refers to the "princes of the sea" in the previous verse, and "you" refers to Tyre.
+
+  * **lift up** - "sing"
+  * **How you, who were inhabited by sailors, have been destroyed** - This can be stated in active form. AT: "How your enemies have destroyed you—you who were inhabited by sailors" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **spread a terror about themselves upon everyone who lived near them** - The abstract noun "terror" can be translated using the adjective "terrified." AT" "caused all the people around them to be terrified" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Now the coasts tremble on the day of your downfall. The islands in the sea are terrified, because you have died** - These two lines are similar in meaning and emphasize the response of the surrounding people to the destruction of Tyre. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Now the coasts tremble** - Here "the coasts" represents the people living there. AT: "Now the people of the coastlands tremble" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The islands in the sea are terrified** - Here "the islands in the sea" represents the people living there. AT: "The people of the islands are terrified" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you have died** - The destruction of Tyre is spoken of as if it was a person who had died. AT: "you have departed" or "you exist no more" (See: [[:en:ta:vol2:translate:figs_personification]])
  
 ===== Links: =====
 
@@ -60,6 +69,6 @@
   * [[:en:bible:questions:comprehension:ezk:26]]
 **[[:en:bible:notes:ezk:26:15|<<]] | [[:en:bible:notes:ezk:26:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

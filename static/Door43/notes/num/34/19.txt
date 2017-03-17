@@ -30,7 +30,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 These are the names of the men: 
+\v 19 These are the names of the men:
 \q1 From the tribe of Judah, Caleb son of Jephunneh.
 \q1
 \v 20 From the tribe of the descendants of Simeon, Shemuel son of Ammihud.
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:num:34]]
 **[[:en:bible:notes:num:34:16|<<]] | [[:en:bible:notes:num:34:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

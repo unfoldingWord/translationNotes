@@ -24,7 +24,7 @@
 \c 9
 \p
 \v 1 Then he cried in my hearing with a loud voice, and said, "Let the guards come up to the city, each with his weapon of destruction in his hand."
-\v 2 Then behold! Six men came from the pathway of the upper gate that faces north, each with his weapon of slaughter in his hand. And there was a man in their midst dressed in linen with a scribe's equipment at his side. So they went in and stood beside the bronze altar.
+\v 2 Then behold! Six men came from the pathway of the upper gate that faces north, each with his weapon of slaughter in his hand. There was a man in their midst dressed in linen with a scribe's equipment at his side. So they went in and stood beside the bronze altar.
 </usfm>
 
 ===== translationWords: =====
@@ -39,13 +39,14 @@
   * **General Information:** - Ezekiel continues to tell about the vision God gave him. It started in [[:en:bible:notes:ezk:08:01|8:1]].
 
   * **he cried in my hearing** - "I heard him call out"
-  * **guards** - people who protect something. 
+  * **he cried** - the "figure like a man" ([[:en:bible:notes:ezk:08:01|8:2]]) cried
   * **weapon of destruction** - weapon for destroying people or things
   * **weapon of slaughter** - weapon for killing many people
-  * **behold!** - The word "behold" here adds emphasis to what follows. It can also be translated as "indeed!"
-  * **linen** - a strong, smooth cloth made from a plant. It is worn by many people in places that are hot. Alternate translation: "smooth cloth" (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **scribe's equipment** - tools that scribes use to write with
+  * **behold** - "what I am about to say is important"
+  * **linen** - a strong, smooth cloth made from a plant. It is worn by many people in places that are hot. AT: "smooth cloth" (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **scribe's equipment** - tools that scribes write with
   * **bronze** - A dark gold-colored metal. It is made from mostly copper with tin added for strength. (See: [[:en:ta:vol1:translate:translate_unknown]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -53,6 +54,6 @@
   * [[:en:bible:questions:comprehension:ezk:09]]
 **[[:en:bible:notes:ezk:08:17|<<]] | [[:en:bible:notes:ezk:09:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

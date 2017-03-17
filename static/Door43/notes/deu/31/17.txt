@@ -21,8 +21,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 Then, on that day, my anger will be kindled against it, and I will abandon them. I will hide my face from them, and they will be devoured. Many disasters and troubles will find it, so that it will say on that day, 'Have these disasters not found me because our God is not in my midst?'
-\v 18 I will surely hide my face from it on that day because of all the evil that it will have done, because it has turned to other gods.
+\v 17 Then, on that day, my anger will be kindled against them and I will abandon them. I will hide my face from them and they will be devoured. Many disasters and troubles will find them so that they will say on that day, 'Have these disasters not come upon us because our God is not in our midst?'
+\v 18 I will surely hide my face from them on that day because of all the evil that they will have done, because they has turned to other gods.
 </usfm>
 
 ===== translationWords: =====
@@ -39,14 +39,13 @@
 
   * **General Information:** - Yahweh continues speaking to Moses.
 
-  * **my anger will be kindled against it** - Yahweh compares his anger to someone starting a fire. This emphasizes God's power to destroy whatever makes him angry. This can be stated in active form. AT: "I will kindle my anger against it" or "I will become angry with it" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **against it ... find it ... it will say ... found me ... my midst ... from it ... it will have done ... it has turned** - Yahweh is speaking of the Israelites as one people group, so all instances of "it" refer to the people as a group, not as many people. It is best to translate as plural throughout. "against them ... find them ... they will say ... found us ... our midst ... from them ... they will have done ... they have turned" (See: [[:en:ta:vol2:translate:figs_pronouns]])
-  * **I will hide my face** - This is an idiom. AT: "I will not help" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **my anger will be kindled against them** - Yahweh compares his anger to someone starting a fire. This emphasizes God's power to destroy whatever makes him angry. This can be stated in active form. AT: "I will kindle my anger against them" or "I will become angry with them" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I will hide my face from them** - This is an idiom. AT: "I will not help them" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **they will be devoured** - This can be stated in active form. AT: "I will devour them" or "I will allow their enemies to devour them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **devoured** - This is a metaphor for "completely destroyed." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Many disasters and troubles will find it** - This describes the disasters and troubles as if they were human. AT: "It will experience many disasters and troubles" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **Have these disasters not found me ... midst?** - This describes the disasters and troubles as if they were human. This rhetorical question can be translated as a statement. AT: "These disasters are destroying me ... midst." (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **our God is not in my midst** - "God is no longer protecting me" or "God has left me alone"
+  * **Many disasters and troubles will find them** - This describes the disasters and troubles as if they were human. AT: "They will experience many disasters and troubles" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **Have these disasters not come upon us ... midst?** - This describes the disasters and troubles as if they were human. This rhetorical question can be translated as a statement. AT: "These disasters are destroying me ... midst." (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **our God is not in our midst** - "God is no longer protecting us" or "God has left us alone"
 ===== Links: =====
 
   * [[:en:bible:notes:deu:00:intro]]
@@ -54,6 +53,6 @@
   * [[:en:bible:questions:comprehension:deu:31]]
 **[[:en:bible:notes:deu:31:16|<<]] | [[:en:bible:notes:deu:31:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

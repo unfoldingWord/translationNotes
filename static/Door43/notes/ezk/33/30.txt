@@ -18,7 +18,7 @@
 
 <usfm>
 \p
-\v 30 And you, son of man—your people are saying things about you beside the walls and the gates of the houses, and each says to one another—each man to his brother, 'Let us go and listen to the prophet's word that comes out from Yahweh!'
+\v 30 So now you, son of man—your people are saying things about you beside the walls and the gates of the houses, and each says to one another—each man to his brother, 'Let us go and listen to the prophet's word that comes out from Yahweh!'
 \v 31 So my people will come to you, as they often do, and will sit in front of you and listen to your words, but they will not obey them. Right words are in their mouths, but their hearts are going after unjust profit.
 </usfm>
 
@@ -37,10 +37,9 @@
 
   * **General Information:** - Yahweh continues speaking to Ezekiel.
 
-  * **son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]].
-  * **that comes out from Yahweh** - AT: "that Yahweh sends" or "that Yahweh gives him"
-  * **Right words are in their mouths** - Possible meanings are 1) "Loving words are in their mouths" or 2) "Lustful words are in their mouths. AT: "With their mouths they say that they love me (UDB) or "With their mouths they talk about the things they lust after."
-  * **their hearts are going after unjust profit** - AT: "in their hearts they want to get their unjust profit" or "they want to get things in ways that are not just." They might do this my stealing things or tricking people.
+  * **that comes out from Yahweh** - "that Yahweh tells him to speak" or "that Yahweh gives him"
+  * **Right words are in their mouths, but their hearts are going after unjust profit** - Here "mouths" represent speaking. Possible meanings for "Right words are in their mouths" are 1) AT: "They speak about loving me, but their hearts are going after unjust profit" or 2) AT: "They speak about the things they lust after, and their hearts are going after unjust profit" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **their hearts are going after unjust profit** - "in their hearts they want to get their unjust profit." Here "hearts" represents desire. AT: "they desire to get things in ways that are not just" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -49,6 +48,6 @@
   * [[:en:bible:questions:comprehension:ezk:33]]
 **[[:en:bible:notes:ezk:33:27|<<]] | [[:en:bible:notes:ezk:33:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

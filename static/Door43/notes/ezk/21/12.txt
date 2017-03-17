@@ -38,8 +38,8 @@
 
 <usfm>
 \q
-\v 12 Call for help and lament, son of man! For that sword has come on my people! It is on all the leaders of Israel
-\q who are thrown onto the sword! They were my people, so slap your upper thigh in grief!
+\v 12 Call for help and lament, son of man! For that sword has come against my people! It is against all the leaders of Israel.
+\q They are thrown against the sword with my people. Therefore, slap your thigh!
 \q
 \v 13 For there is a trial, but what if the scepter does not last?—this is the Lord Yahweh's declaration.
 </usfm>
@@ -54,10 +54,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues giving Ezekiel his message to the people of Jerusalem and of the land of Israel.
+  * **Connecting Statement:** - Yahweh continues to describe the sword of Yahweh which is a metaphor for the enemy army that Yahweh will use to attack Jerusalem. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
-  * **who are thrown onto the sword! They were my people** - "those whom the sword has killed were my people"
-  * **but what if the scepter does not last?** - AT: "and it will be very frightening if the sword destroys the scepter and the scepter is gone." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **that sword has come against my people! It is against all** - This speaks of Yahweh's sword attacking his people as if the sword itself were the attacker. AT: "I will use my sword to kill my people! I will bring it against all" (UDB) (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **They are thrown against the sword with my people** - This speaks of people being killed with a sword as if they are thrown against the sword. AT: "They are killed with the sword along with my people" or "The sword will kill them along with my people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **slap your thigh** - In Ezekiel's culture, slapping one's thigh was a sign of grief. Some other translation use the gesture of beating one's breast which is a sign of grief in many cultures. AT: "beat your chests" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **but what if the scepter does not last?** - This rhetorical question is used to make the audience think about what could happen. This question can be written as a statement. AT: "and it will be very frightening if the sword destroys the scepter" or "but it will be very frightening if the king cannot resist it" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the scepter** - Here the king of Judah is represented by his scepter. AT: "the king" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **does not last** - This is an idiom. AT: "cannot resist" or "is destroyed" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
 
 ===== Links: =====
 
@@ -66,6 +70,6 @@
   * [[:en:bible:questions:comprehension:ezk:21]]
 **[[:en:bible:notes:ezk:21:10|<<]] | [[:en:bible:notes:ezk:21:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit trial}}
+~~DISCUSSION~~{{tag>publish p2check trial}}
 
 ~~NOCACHE~~

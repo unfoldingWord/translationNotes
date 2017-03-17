@@ -40,11 +40,9 @@
 \q1
 \v 8 The Lord sent a word against Jacob, and it fell on Israel.
 \q1
-\v 9 All the people will know, even Ephraim and the inhabitants of Samaria, who say in pride and with an arrogant 
-heart,
+\v 9 All the people will know, even Ephraim and the inhabitants of Samaria, who say in pride and with an arrogant heart,
 \q1
-\v 10 "The bricks have fallen, but we will rebuild with chiseled stone; the sycamores have been cut down, but we will put cedars in their
-place."
+\v 10 "The bricks have fallen, but we will rebuild with chiseled stone; the sycamores have been cut down, but we will put cedars in their place."
 </usfm>
 
 ===== translationWords: =====
@@ -63,9 +61,9 @@ place."
 
 ===== translationNotes: =====
 
-  * **The Lord sent a word against Jacob, and it fell on Israel** - "Send a word" means to speak. AT: "The Lord has spoken against the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The Lord sent a word against Jacob, and it fell on Israel** - "Send a word" means to speak. AT: "The Lord has spoken against the people of Israel" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Jacob ... Israel ... Ephraim ... Samaria** - These names all refer to the people of the northern kingdom of Israel.
   * **All the people will know, even Ephraim and the inhabitants of Samaria** - What they will know can be made explicit. AT: "All the people will know that the Lord has judged them, even those in Ephraim and Samaria" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **who say in pride and with an arrogant heart** - These two short phrases mean the same thing and are repeated for emphasis. AT: "who so proudly say" (See: [[:en:ta:vol2:translate:figs_doublet]]) 
   * **The bricks have fallen, but we will rebuild with chiseled stone; the sycamores have been cut down, but we will put cedars in their place** - The full meaning can be made explicit. This can be stated in active form. AT: "We will replace the common bricks of our destroyed cities with expensive cut stone, and we will plant great cedar trees where ordinary sycamore trees grew" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
  
@@ -76,6 +74,6 @@ place."
   * [[:en:bible:questions:comprehension:isa:09]]
 **[[:en:bible:notes:isa:09:06|<<]] | [[:en:bible:notes:isa:09:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

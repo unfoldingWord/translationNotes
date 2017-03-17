@@ -13,7 +13,7 @@
 <usfm>
 \v 1 480 years after the Israelite people left Egypt, during the fourth year that Solomon ruled Israel, in the second month, that of Ziv, Solomon's workers began to build the temple.
 \p
-\v 2 Inside, the main part of the temple was about 27 meters long, 9 meters wide, and 13.5 meters high.
+\v 2 Inside, the main part of the temple was twenty-seven meters long, nine meters wide, and thirteen and one-half meters high.
 </usfm>
 
 ===== ULB: =====
@@ -39,13 +39,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Scripture lists the dimensions of the temple.
+  * **General Information:** - The narrator lists the dimensions of the temple.
 
-  * **Solomon began to build** - Solomon did not do the building himself; his servants did the work. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **480th ... fourth** - (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **Solomon began to build** - It might be best to translate so that the reader understands that other people helped Solomon do this. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **480th ... fourth** - These are the ordinal forms of 480 and 4. (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **in the month of Ziv, which is the second month** - "Ziv" is the name of the second month of the Hebrew calendar. It is during the last part of April and the first part of May on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:translate_names]])
-  * **cubits** - A cubit is 46 centimeters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
-
+  * **sixty cubits long, twenty cubits wide, and thirty cubits high** - A cubit is 46 centimeters. AT: "27.6 meters long, 9.2 meters wide, and 13.8 meters high" (See: [[:en:ta:vol2:translate:translate_bdistance]])
 
 ===== Links: =====
 
@@ -54,6 +53,6 @@
   * [[:en:bible:questions:comprehension:1ki:06]]
 **[[:en:bible:notes:1ki:05:17|<<]] | [[:en:bible:notes:1ki:06:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

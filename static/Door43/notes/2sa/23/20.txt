@@ -19,7 +19,7 @@
 <usfm>
 \p
 \v 20 Benaiah from Kabzeel was the son of Jehoiada; he was a strong man who did mighty feats. He killed the two sons of Ariel of Moab. He also went down into a pit and killed a lion while it was snowing.
-\v 21 And he killed a very large Egyptian man. The Egyptian had a spear in his hand, but Benaiah fought against him with only a staff. He seized the spear out of the Egyptian's hand and then killed him with his own spear.
+\v 21 Then he killed a very large Egyptian man. The Egyptian had a spear in his hand, but Benaiah fought against him with only a staff. He seized the spear out of the Egyptian's hand and then killed him with his own spear.
 </usfm>
 
 ===== translationWords: =====
@@ -35,7 +35,7 @@
 ===== translationNotes: =====
 
   * **Kabzeel** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Jehoiada** - See how you translated this in [[:en:bible:notes:2sa:08:15|8:18]].
+  * **Jehoiada** - This is the name of a man. See how you translated this in [[:en:bible:notes:2sa:08:15|8:18]].
   * **Ariel** - This is the name of a man.
 
 ===== Links: =====
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:2sa:23]]
 **[[:en:bible:notes:2sa:23:18|<<]] | [[:en:bible:notes:2sa:23:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit benaiah}}
+~~DISCUSSION~~{{tag>publish p2pass benaiah}}
 
 ~~NOCACHE~~

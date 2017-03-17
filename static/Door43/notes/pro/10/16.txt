@@ -33,11 +33,11 @@
 
 <usfm>
 \q
-\v 16 The wage of those who do what is right leads to life;
-\q the profit of the wicked leads them to sin. 
+\v 16 The wage of the righteous person leads to life;
+\q the profit of the wicked leads them to sin.
 \q
 \v 17 There is a path to life for the one who follows discipline,
-\q but the one who rejects a reproof is led astray.
+\q but the one who rejects correction is led astray.
 </usfm>
 
 
@@ -50,14 +50,11 @@
   * [[:en;obe:kt:discipline]]
   * [[:en:obe:kt:astray]]
 
- 
 ===== translationNotes: =====
-  * **The wage ... the profit** - These terms normally refer to a worker and the money he earns. Here it refers to the results of either doing what is right or doing what is wrong.
-  * **There is a path to life for the one who follows discipline** - "The person who listens to wise instruction will have a long and happy life"
-  * **but the one who rejects a reproof is led astray** - "but the one who does not listen to wise instruction will not have a good life" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **reproof** - This is a correction or rebuke someone gives to another who is doing something bad.
 
-
+  * **The wage ... the profit** - These terms normally refer to the money a worker earns. Here they represents the results of either doing what is right or doing what is wrong. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **There is a path to life for the one who follows discipline** - "The person who obeys wise instruction will have a long and happy life"
+  * **but the one who rejects correction is led astray** - "but the one who does not obey wise instruction will not have a good life" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -65,13 +62,12 @@
   * [[:en:bible:notes:pro:10:00]]
   * [[:en:bible:questions:comprehension:pro:10]]
 
- 
 
 **[[:en:bible:notes:pro:10:14|<<]] | [[:en:bible:notes:pro:10:18|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit profit}}
+{{tag>publish p2pass profit}}
 
 ~~NOCACHE~~

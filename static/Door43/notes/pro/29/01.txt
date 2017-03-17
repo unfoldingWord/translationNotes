@@ -19,12 +19,10 @@
 
 <usfm>
 \v 1 When you rebuke a person who has rejected your words and who refused to listen to you,
-\q2 he will be crushed to the point that he cannot be healed. 
-
+\q2 he will be crushed to the point that he cannot be healed.
 \q1
-\v 2 When people live the right way, they become more numerous, 
-\q2 but when a wicked ruler starts to govern, the people groan. 
-
+\v 2 When people live the right way, they become more numerous,
+\q2 but when a wicked ruler starts to govern, the people groan.
 
 \q1
 </usfm>
@@ -39,7 +37,7 @@
 \q will be broken in a moment beyond healing.
 
 \q
-\v 2 When those who do right increase, the people rejoice,
+\v 2 When righteous people increase, the people rejoice,
 \q but when a wicked person is the ruler, the people sigh.
 </usfm>
 
@@ -55,9 +53,10 @@
 ===== translationNotes: =====
 
 
-  * **stiffens his neck** - resists the rebukes (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **will be broken in a moment** - AT: "God will suddenly break him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the people sigh** - the people let out long loud breaths that express weariness or sorrow.
+  * **stiffens his neck** - "resists the rebukes" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **will be broken in a moment** - This can be stated in active form. AT: "God will suddenly break him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **beyond healing** - "and no one will be able to heal him." Sickness is a metaphor for any kind of bad situation. AT: "and no one will be able to help him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the people sigh** - The people let out long, loud breaths that show that they are weary and sad. AT: "the people will be weary and sad" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:pro:29]]
 **[[:en:bible:notes:pro:28:27|<<]] | [[:en:bible:notes:pro:29:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

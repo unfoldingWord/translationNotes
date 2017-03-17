@@ -35,11 +35,11 @@
 
 <usfm>
 \p
-\v 9 As I looked, 
-\q thrones were set in place, 
-\q and the Ancient of Days took his seat. 
-\q His clothing was as white as snow, 
-\q and the hair of his head was like pure wool. 
+\v 9 As I looked,
+\q thrones were set in place,
+\q and the Ancient of Days took his seat.
+\q His clothing was as white as snow,
+\q and the hair of his head was like pure wool.
 \q His throne was flames of fire,
 \q and its wheels were burning fire.
 </usfm>
@@ -53,14 +53,19 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - Most of the text of verses 9-14 is symbolic language with parallel lines that have similar meaning. For this reason, the ULB and UDB present them in poetic form. (See: [[:en:ta:vol2:translate:writing_symlanguage]] and [[:en:ta:vol2:translate:figs_parallelism]])
+
   * **thrones were set in place** - This can be stated in active form. AT: "someone set thrones in their places" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the Ancient of Days** - This is a title for God that means he is eternal. AT: "the One Who Has Lived Forever" or "the One Who Has Always Lived"
   * **took his seat ... His clothing ... the hair of his head** - This passage describes God as sitting down, with clothing and hair like a person. This does not mean that God really is like this, but it is how Daniel saw God in a vision.
-  * **took his seat** - "sat down on his throne" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **His clothing was as white as snow** - His clothing is compared to snow to show that it was very white. AT: "His clothing was very white"
+  * **took his seat** - This is an idiom that means he sat down. AT: "sat down on his throne" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **His clothing was as white as snow** - His clothing is compared to snow to show that it was very white. AT: "His clothing was very white" 
   * **the hair of his head was like pure wool** - Something about God's hair looked like pure wool. Possible meanings are that 1) it was very white (UDB) or 2) it was thick and curly. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **pure wool** - AT: "clean wool" or "wool that is washed"
-  * **His throne was flames ... its wheels were burning fire** - This describes the throne of God and its wheels as being made of fire. The words "flames" and "burning fire" mean basically the same thing and can be translated the same way.
+  * **pure wool** - "clean wool" or "wool that is washed"
+  * **His throne was flames ... its wheels were burning fire** - This describes the throne of God and its wheels as if they were made of fire. The words "flames" and "burning fire" mean basically the same thing and can be translated the same way.
+  * **its wheels** - It is unclear why God's throne is described as having wheels. Thrones normally do not have wheels, but the text clearly states that this throne has some kind of wheels. Use a general term for "wheels" if possible.
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -68,6 +73,6 @@
   * [[:en:bible:questions:comprehension:dan:07]]
 **[[:en:bible:notes:dan:07:08|<<]] | [[:en:bible:notes:dan:07:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

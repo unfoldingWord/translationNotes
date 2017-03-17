@@ -14,8 +14,7 @@
 <usfm>
 \v 7 But when Sanballat, Tobiah, the Arabians, the Ammonites, and the Ashdodites heard that the work on the wall was continuing and that we were filling in the gaps in the wall, they became very angry.
 \v 8 They all made a plan together to come and fight against the people of Jerusalem, and to cause confusion within it.
-\v 9 But we prayed to our God to protect us, and we put men around the walls to guard the city day and night because of these who were so angry with us for rebuilding the wall. 
-
+\v 9 But we prayed to our God to protect us, and we put men around the walls to guard the city day and night because of these who were so angry with us for rebuilding the wall.
 
 \p
 </usfm>
@@ -41,10 +40,9 @@
   * [[:en:obe:kt:god]]
 ===== translationNotes: =====
 
-  * **Arabians ... Ammonites ... Ashdodites** - These are people groups. 
-  * **Arabians** - "Arabs"
-  * **a great anger burned within them** - "they became very angry" or "they became enraged"
-  * **But we prayed to our God and set a guard as protection against them day and night because of their threat** - "Nevertheless, because of them, we asked our God to intervene and set a guard as protection against them day and night."
+  * **a great anger burned within them** - This speaks of the people being very angry as if their anger were something that burned inside them. AT: "they became very angry" or "they became enraged" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **against Jerusalem** - Here "Jerusalem" refers to the people who live there. AT: "against the people of Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **set a guard as protection** - "put men around the wall to guard the city" (UDB) 
  
 ===== Links: =====
 
@@ -53,6 +51,6 @@
   * [[:en:bible:questions:comprehension:neh:04]]
 **[[:en:bible:notes:neh:04:04|<<]] | [[:en:bible:notes:neh:04:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

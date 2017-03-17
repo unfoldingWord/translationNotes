@@ -12,7 +12,7 @@
 
 <usfm>
 \v 19 Those who come from the various tribes to work in the city may also work in this farmland.
-\v 20 This entire special area, including the land given for Yahweh's use and the city, will be a square that is about 13.5 kilometers long on each side.
+\v 20 This entire special area, including the land given for Yahweh's use and the city, will be a square that is thirteen and one-half kilometers long on each side.
 
 
 \p
@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 The people who work in the city, people belonging to all the tribes of Israel, will farm that land.
+\v 19 The people who work in the city, people belong to all the tribes of Israel, will farm that land.
 \v 20 All the land offering will measure twenty-five thousand cubits by twenty-five thousand cubits. In this way you will make the holy offering of land, together with the land for the city.
 </usfm>
 
@@ -35,6 +35,7 @@
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to the people of Israel.
  
+  * **twenty-five thousand cubits** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "25,000 cubits" or "about 13.5 kilometers" (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **In this way you will make the holy offering of land, together with the land for the city.** - "You will offer the holy offering and also the property of the city"
   * **you** - This is plural and refers to the people of Israel. (See: [[:en:ta:vol1:translate:figs_you]])
   * **the holy offering** - the land that the people of Israel gave to Yahweh for the Levites, the priests, and the temple
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:ezk:48]]
 **[[:en:bible:notes:ezk:48:17|<<]] | [[:en:bible:notes:ezk:48:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

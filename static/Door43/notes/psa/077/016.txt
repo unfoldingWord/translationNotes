@@ -48,12 +48,12 @@
 
 ===== translationNotes: =====
 
-  * **The waters saw you ... they were afraid ... the depths trembled** - Asaph is speaking of the water as if it were a person who saw something that terrified him. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **depths** - "deepest water"
-  * **The clouds poured down water** - Asaph is speaking of the clouds as if they were people pouring water out of containers. AT: "Much rain fell" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **your arrows flew about** - "the lightning you made flashed like arrows" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The waters saw you ... they were afraid ... the depths trembled** - Asaph speaks of the water as if it were a person who saw something that terrified him. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **the waters saw you, and they were afraid; the depths trembled** - "water" and "depth" refers to large bodies of water such as the sea or ocean. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **depths** - "deepest waters"
+  * **The clouds poured down water** - Asaph speaks of the clouds as if they were people pouring water out of containers. AT: "Much rain fell" or "It rained very hard" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **your arrows flew about** - This is a metaphor that describes lightning as God's arrows. AT: "the lightning you made flashed like arrows" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **flew** - Use your language's word for what an arrow does after someone shoots it.
-
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:077]]
 **[[:en:bible:notes:psa:077:013|<<]] | [[:en:bible:notes:psa:077:018|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

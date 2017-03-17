@@ -31,9 +31,10 @@
 
 ===== translationNotes: =====
 
-  * **your words and your wisdom** - Here the word "wisdom" can modify the word "words." AT: "your wise sayings" (See: [[:en:ta:vol2:translate:figs_hendiadys]]).
-  * **my eyes have seen it** - AT: "I have seen it" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Not half was told me** - This can be stated in active form. This can be expressed positively. AT: "People told me very little" (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I heard in my own land** - "I heard while I was in my own land"
+  * **your words and your wisdom** - Here the word "wisdom" can describe the word "words." AT: "your wise sayings" (See: [[:en:ta:vol2:translate:figs_hendiadys]]).
+  * **my eyes have seen it** - The eye is a metonym for the person. AT: "I have seen it" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Not half was told me** - This can be expressed positively and stated in active form. AT: "People told me very little" (See: [[:en:ta:vol2:translate:figs_litotes]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -42,6 +43,6 @@
   * [[:en:bible:questions:comprehension:1ki:10]]
 **[[:en:bible:notes:1ki:10:03|<<]] | [[:en:bible:notes:1ki:10:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

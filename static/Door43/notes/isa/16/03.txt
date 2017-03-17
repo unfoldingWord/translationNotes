@@ -28,7 +28,6 @@
 \q1
 \v 4 Allow those of us who are fleeing from Moab to stay with you;
 \q2 hide us from our enemies who want to destroy us!
-\b
 \q1 Some day there will be no one to oppress us,
 \q2 and our enemies will stop destroying our land."
 
@@ -40,13 +39,13 @@
 
 <usfm>
 \q1
-\v 3 "Give instruction, execute justice; provide some shade like night in the middle of the day; 
+\v 3 "Give instruction, execute justice; provide some shade like night in the middle of the day;
 \q1 hide the fugitives; do not betray the fugitives.
 \q1
 \v 4 Let them live among you, the refugees from Moab;
-\q1 be a hiding place for them from the destroyer." 
+\q1 be a hiding place for them from the destroyer."
 \m
-\q1 For the oppression will stop, and destruction will cease, 
+\q1 For the oppression will stop, and destruction will cease,
 \q1 those who trample will disappear from the land.
 </usfm>
 
@@ -59,12 +58,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This continues the prophecy about the people of Moab. God describes events that will happen in the future as if it is happening in the present. (See: [[:en:bible:notes:isa:15:01|15:1-2]])
+  * **General Information:** - This continues the prophecy about the people of Moab. God describes events that will happen in the future as if it is happening in the present. Verses 3 and 4 is probably the message that the Moabite rulers send to the king of Judah. (See: [[:en:bible:notes:isa:15:01|15:1-2]])
 
-  * **provide some shade like night in the middle of the day** - Shade refers to a cool, dark, pleasant place. AT: "provide a place to rest like if night came during the hottest part of the day" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Let them live among you, the refugees from Moab** - "Allow the refugees from Moab to live with you." Here "you" refers to the people of Judah. See how you translated "refugee" in [[:en:bible:notes:isa:15:05|15:5]].
-  * **be a hiding place for them from the destroyer** - "give them a place to hide from those who are trying to destroy them"
-
+  * **provide some shade like night in the middle of the day** - The heat of the middle of the day represents the Moabites' suffering from their enemies, and shade represents protection from their enemies. Comparing the shade to night shows that they want strong protection. AT: "protect us completely from our enemies as a large shadow protects people from the hot sun" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **Let them live among you, the refugees from Moab** - "Allow the refugees from Moab to live with you." Here "you" refers to the people of Judah. 
+  * **be a hiding place for them from the destroyer** - Providing a hiding place is spoken of as being a hiding place. AT: "give them a place to hide from those who are trying to destroy them" or "hide them from those who want to destroy them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -72,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:16]]
 **[[:en:bible:notes:isa:16:01|<<]] | [[:en:bible:notes:isa:16:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

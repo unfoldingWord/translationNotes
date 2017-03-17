@@ -37,10 +37,11 @@
 
 ===== translationNotes: =====
 
-  * **he said** - "Yahweh said"
-  * **Son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]].
+  * **he said** - Yahweh said
+  * **Son of man** - "Son of a human being" or "Son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. Translate this as in [[:en:bible:notes:ezk:02:01|2:1]]. AT: "Mortal person" or "Human"
   * **regulations** - "rules" or "instructions"
   * **You will** - The word "you" is singular. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **this is the Lord Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:ezk:05:11|5:11]]. AT: "this is what the Lord Yahweh has declared" or "this is what I, the Lord Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
 
 ===== Links: =====
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:ezk:43]]
 **[[:en:bible:notes:ezk:43:15|<<]] | [[:en:bible:notes:ezk:43:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

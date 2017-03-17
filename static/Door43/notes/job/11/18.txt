@@ -48,8 +48,10 @@
 
 ===== translationNotes: =====
 
-  * **You would be secure ... take your rest in safety.** - Zophar repeats the same idea in two statements for emphasis and describes the possibility. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_hypo]])
-  * **Also you would lie down in rest ... your favor.** - Zophar repeats the same idea in two statements for emphasis and describes the possibility. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_hypo]])
+  * **You would be secure ... take your rest in safety** - Zophar repeats the same idea for emphasis and describes the possibility. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_hypo]])
+  * **would take your rest in safety** - "Take your rest" is an idiom for "rest." The phrase "in safety" can be expressed with the word "safely." AT: "would rest safely" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Also you would lie down in rest ... your favor.** - Zophar repeats the same idea for emphasis and describes the possibility. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_hypo]])
+  * **you would lie down in rest** - The abstract noun "rest" can be expressed with the verb "rest." AT: "you would lie down and rest" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -58,6 +60,6 @@
   * [[:en:bible:questions:comprehension:job:11]]
 **[[:en:bible:notes:job:11:15|<<]] | [[:en:bible:notes:job:11:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

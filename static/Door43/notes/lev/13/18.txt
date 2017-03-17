@@ -21,7 +21,7 @@
 <usfm>
 \p
 \v 18 When a person has a boil on the skin and it has healed,
-\v 19 and in place of the boil there is white swelling or a bright spot, reddish-white, then it must be shown to the priest. 
+\v 19 and in place of the boil there is white swelling or a bright spot, reddish-white, then it must be shown to the priest.
 \v 20 The priest will examine it to see if it appears deeper under the skin, and if the hair there has turned white. If so, then the priest must pronounce him unclean. It is an infectious disease, if it has developed in the place where the boil was.
 </usfm>
 
@@ -36,7 +36,7 @@
 
   * **General Information:** - Yahweh continues telling Moses and Aaron what the people must do when someone has a skin disease.
 
-  * **a boil** - "an ulcer." This is a painful, swollen area on the skin.
+  * **a boil** - a painful area on the skin that is infected
   * **then it must be shown to the priest** - This can be translated in active form. AT: "then he must show it to the priest" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the priest must pronounce him unclean** - The man whom other people must not touch is spoken of as if he were physically unclean. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:lev:13]]
 **[[:en:bible:notes:lev:13:15|<<]] | [[:en:bible:notes:lev:13:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

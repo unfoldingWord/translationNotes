@@ -29,11 +29,11 @@
 ===== ULB: =====
 
 <usfm>
-\v 18 And the men of the city said to him, on the seventh day before the sun went down,
-\q "What is sweeter than honey? 
-\q What is stronger than a lion?" 
-\p Samson said to them, 
-\q "If you had not plowed with my heifer, 
+\v 18 Before the sun went down on the seventh day the men of the city said to him,
+\q "What is sweeter than honey?
+\q What is stronger than a lion?"
+\p Samson said to them,
+\q "If you had not plowed with my heifer,
 \q you would not have found the answer to my riddle."
 </usfm>
 
@@ -44,8 +44,8 @@
   * [[:en:obe:other:heifer]]
 ===== translationNotes: =====
 
+  * **the men of the city** - This refers to Samson's wife's relatives. This can be stated clearly. AT: "the young men" or "her relatives" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **the seventh day** - "the 7th day" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **the men of the city** - This refers to Samson's wife relatives. This can be stated clearly. AT: "the young men" or "her relatives" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **What is sweeter than honey? What is stronger than a lion?** - This is the answer to the riddle. It may be written as a statement instead of as questions. If necessary it could be made clear how this relates to the riddle by adding more information. AT: "Honey is sweet and a lion is strong." or "Honey is sweet and it came out of a lion." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **If you had not plowed with my heifer** - Samson compares their using his wife to get the answer to someone using another person's heifer to plow his field. AT: "If you had not used my wife" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **plowed** - To plow is to use an animal to pull a blade through soil to prepare the soil for seeds.
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:jdg:14]]
 **[[:en:bible:notes:jdg:14:16|<<]] | [[:en:bible:notes:jdg:14:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

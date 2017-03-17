@@ -20,7 +20,7 @@
 \q1
 \v 160 I can rely on everything that you have said;
 \q2 all your regulations will endure forever.
-\b
+
 
 
 \q1
@@ -35,7 +35,6 @@
 \q
 \v 160 The essence of your word is truth;
 \q every one of your righteous decrees lasts forever.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -49,8 +48,8 @@
 
 ===== translationNotes: =====
 
-  * **See** - "Look at me so you can see"
-  * **The essence of your word is truth** - "Your word is completely true"
+  * **See** - "Notice" or "Look at me so you can see" 
+  * **The essence of your word is truth** - "Your word is completely true" or "Your word can be trusted"
 
 ===== Links: =====
 
@@ -59,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:157|<<]] | [[:en:bible:notes:psa:119:161|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

@@ -14,7 +14,7 @@
 
 <usfm>
 \v 4 When King Jeroboam heard the prophet say that, he pointed his finger at him and said to his servants, "Seize that man!" But immediately the king's arm became paralyzed, with the result that he could not move it.
-\v 5 And the altar immediately split apart, and the ashes spilled out on the ground, which is what the prophet said that Yahweh had predicted would happen.
+\v 5 (The altar split apart, and the ashes spilled out on the ground, which is what the prophet said that Yahweh had predicted would happen.)
 
 
 \p
@@ -25,7 +25,7 @@
 
 <usfm>
 \v 4 When the king heard what the man of God said, that he had cried out against the altar at Bethel, Jeroboam reached out with his hand from the altar, saying, "Seize him." Then the hand with which he had reached out against the man dried up, so that he could not draw it back to himself.
-\v 5 The altar was also split apart, and the ashes poured out from the altar, as described by the sign that the man of God had given by the word of Yahweh.
+\v 5 (The altar was also split apart and the ashes poured out from the altar, as described by the sign that the man of God had given by the word of Yahweh.)
 </usfm>
 
 
@@ -37,8 +37,11 @@
 
 ===== translationNotes: =====
 
-  * **The altar was also split apart, and the ashes poured out from the altar** - This can be stated in active form. AT: "God also split the altar apart and poured out the ashes from the altar" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **as described by the sign that the man of God had given by the word of Yahweh** - This can be stated in active form. AT: "as the sign that the man of God had given by the word of Yahweh had described" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the hand with which he had reached out against the man dried up** - This can be stated in active form. AT: "Yahweh dried up the hand with which he had reached out against the man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **dried up** - "withered" or "became paralyzed" (UDB)
+  * **The altar was also split apart** - This can be stated in active form. AT: "Yahweh also split the altar apart" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **as described by the sign that the man of God had given by the word of Yahweh** - This can be stated in active form. AT: "as the man of God had described by the word of Yahweh as a sign" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the word of Yahweh** - Here "word" represents Yahweh's message. AT: "the message of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -47,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1ki:13]]
 **[[:en:bible:notes:1ki:13:01|<<]] | [[:en:bible:notes:1ki:13:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

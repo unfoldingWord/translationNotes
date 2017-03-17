@@ -28,9 +28,8 @@
 
 <usfm>
 \c 66
-\p
+\m
 \d For the chief musician. A song, a psalm.
-\b
 \q
 \v 1 Make a joyful noise to God, all the earth;
 \q
@@ -50,13 +49,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This psalm is a song of praise. See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]].
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - This psalm is a song of praise.
 
   * **For the chief musician** - "This is for the director of music to use in worship"
   * **Make a joyful noise to God, all the earth** - A "joyful noise to God" represents singing and shouting praises to God.  AT: "Let all the earth sing and shout joyfully to God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **all the earth** - This refers to all the people who live on the earth. AT: "everyone on earth" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Sing out the glory of his name; make his praise glorious** - These phrases have similar meanings and are used together to emphasize how wonderful God is. AT: "Sing about how wonderful God's name is; sing wonderful praise about how great God is" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **the glory of his name** - God's name here represents himself. AT: "his glory" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **the glory of his name** - God's name here represents God himself. AT: "his glory" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -64,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:066]]
 **[[:en:bible:notes:psa:065:013|<<]] | [[:en:bible:notes:psa:066:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

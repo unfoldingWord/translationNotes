@@ -18,7 +18,6 @@
 \q2 and a strong wind will blow them away.
 \q1 When that happens, you will rejoice about what I have done for you;
 \q2 you will praise me, Yahweh, the Holy One of Israel.
-\b
 
 
 \q1
@@ -28,7 +27,7 @@
 
 <usfm>
 \q1
-\v 16 You will winnow them, and the wind will carry them away; the wind will scatter them. 
+\v 16 You will winnow them, and the wind will carry them away; the wind will scatter them.
 \q1 You will rejoice in Yahweh, you will rejoice in the Holy One of Israel.
 </usfm>
 
@@ -42,9 +41,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues describing to the people of Israel how they will defeat their enemies. (See: [[:en:bible:notes:isa:41:14|41:15]])
+  * **Connecting Statement:** - Yahweh continues to use the metaphor of separating grain from chaff to describe how Israel will defeat their enemies.
 
-  * **You will winnow them, and the wind will carry them away; the wind will scatter them.** - Yahweh tells the people of Israel they will defeat their enemies so completely that they will disappear. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **You will winnow them ... the wind will scatter them** - Here the word "them" refers to the mountains and hill in [[:en:bible:notes:isa:41:14|41:15]]. This represents the next step in the process of threshing grain, in which the grain is winnowed to get rid of the chaff. Israel's enemies will disappear like chaff blown away by the wind. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the wind will carry them away; the wind will scatter them** - These two phrases mean the same thing. AT: "the wind will blow them away" (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 ===== Links: =====
 
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:isa:41]]
 **[[:en:bible:notes:isa:41:14|<<]] | [[:en:bible:notes:isa:41:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

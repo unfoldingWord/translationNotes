@@ -18,7 +18,7 @@
 \v 35 Those who find me will find life,
 \q2 and Yahweh will be pleased with them.
 \q1
-\v 36 But those who do not find me, they hurt themselves. 
+\v 36 But those who do not find me, they hurt themselves.
 \q2 All those who hate me love death."
 </usfm>
 
@@ -30,7 +30,7 @@
 \v 35 For whoever finds me, finds life,
 \q and he will find the favor of Yahweh.
 \q
-\v 36 But he who fails to find me, harms himself; 
+\v 36 But he who fails, harms his own life;
 \q all who hate me love death."
 </usfm>
 
@@ -47,7 +47,8 @@
 ===== translationNotes: =====
 
   * **finds me ... find me ... hate me** - This is still wisdom talking about herself. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **find the favor** - This means that someone is approved of by someone else.
+  * **he who fails** - The complete thought is, "he who fails to find me" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **his own life** - Here "life" represents the person's self. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -61,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

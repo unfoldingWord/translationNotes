@@ -18,7 +18,7 @@
 
 <usfm>
 \v 8 Your fathers did the same thing when I sent them from Kadesh Barnea to examine the land.
-\v 9 They went up to the valley of Eshcol. They saw the land and then discouraged the hearts of the people of Israel so that they refused to enter the land that Yahweh had given them.
+\v 9 They went up to the Valley of Eshcol. They saw the land and then discouraged the hearts of the people of Israel so that they refused to enter the land that Yahweh had given them.
 </usfm>
 
 ===== translationWords: =====
@@ -30,7 +30,7 @@
 
   * **General Information:** - Moses continues speaking to the people of Reuben and Gad.
 
-  * **valley of Eshcol** - This is the name of a place. See how you translated this in [[:en:bible:notes:num:13:23|13:23]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Valley of Eshcol** - This is the name of a place. See how you translated this in [[:en:bible:notes:num:13:23|13:23]]. (See: [[:en:ta:vol1:translate:translate_names]])
   * **They saw the land** - This refers to seeing what was in the land. AT: "They saw the strong people and cities in the land" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **discouraged the hearts of the people of Israel** - Here the word "hearts" represents the people themselves and refers to the seat of their emotions. See how you translated this in [[:en:bible:notes:num:32:06|32:7]]. AT: "discouraged the people of Israel" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
@@ -41,6 +41,6 @@
   * [[:en:bible:questions:comprehension:num:32]]
 **[[:en:bible:notes:num:32:06|<<]] | [[:en:bible:notes:num:32:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

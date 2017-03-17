@@ -18,8 +18,7 @@
 
 <usfm>
 \v 5 Then Isaiah said to Hezekiah, "Listen to the word of Yahweh of hosts:
-\v 6 'Look, the days are about to come when everything in your palace, the things that your ancestors stored away until this present day,
-will be carried to Babylon. Nothing will be left, says Yahweh.
+\v 6 'Look, the days are about to come when everything in your palace, the things that your ancestors stored away until this present day, will be carried to Babylon. Nothing will be left, says Yahweh.
 </usfm>
 
 ===== translationWords: =====
@@ -33,7 +32,9 @@ will be carried to Babylon. Nothing will be left, says Yahweh.
 
 ===== translationNotes: =====
 
-  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **Yahweh of hosts** - Translate this phrase the same as you did in [[:en:bible:notes:isa:01:09|1:9]].
+  * **the word** - "the message"
+  * **Look** - This word is used here as an idiom to draw Hezekiah's attention to what is said next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **when everything in your palace ... will be carried to Babylon** - This can be expressed positively. AT: "when the enemy army will take everything in your palace ... back to Babylon" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
@@ -44,6 +45,6 @@ will be carried to Babylon. Nothing will be left, says Yahweh.
   * [[:en:bible:questions:comprehension:isa:39]]
 **[[:en:bible:notes:isa:39:03|<<]] | [[:en:bible:notes:isa:39:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

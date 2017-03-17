@@ -22,7 +22,6 @@
 \q1
 \v 19 The wicked people are rich when they lie down at night,
 \q2 but when they wake up in the morning, they find out that their money has disappeared.
-\b
 
 
 \q1
@@ -47,10 +46,13 @@
 
 ===== translationNotes: =====
 
-  * **house like a spider** - A spider's web is easily destroyed because it is not strong. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **like a spider** - AT: "like a spider builds its house" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **He builds his house like a spider** - After "spider" the phrase "builds his web" is understood. AT: "as a spider builds its web" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **He builds his house like a spider** - A spider web is fragile and easily destroyed. AT: "He builds his house as fragile as a spider builds its web" or "He builds his house as fragile as a spider's web" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **like a hut** - A hut is a temporary house that is also not very strong. AT: "like a temporary hut" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **he opens his eyes, and everything is gone.** - AT: "he will open his eyes and all of his riches will be gone"
+  * **He lies down in bed rich** - "He is wealthy when he lies down in bed." This refers to him lying down in bed at night and sleeping.
+  * **but he will not keep doing so** - "but he will not keep lying down in bed rich" or "but he will not continue to be wealthy when he lies down in bed"
+  * **he opens his eyes** - Opening his eyes represents waking up in the morning. AT: "he will wake up" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and everything is gone** - "all of his riches will be gone" or "everything will have vanished"
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -58,6 +60,6 @@
   * [[:en:bible:questions:comprehension:job:27]]
 **[[:en:bible:notes:job:27:15|<<]] | [[:en:bible:notes:job:27:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

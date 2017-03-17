@@ -14,7 +14,7 @@
 
 <usfm>
 \v 14 Then the man measured along the wall that separated the alcoves from each other; it was thirty-two meters long. He measured them as far as the gate's portico.
-\v 15 The distance from the entrance of the gate to the far end of its portico was about twenty-seven meters.
+\v 15 The distance from the entrance of the gate to the far end of its portico was twenty-seven meters.
 \v 16 There were narrow windows in the walls of all the alcoves, and also in the inner walls between the alcoves. The portico also had these same windows on its inner side. The wall that ran between the alcoves was decorated with carvings of palm trees.
 
 
@@ -25,9 +25,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 14 Then he measured the wall that went between the guard chambers—sixty cubits long; he measured as far as the gate's portico.
+\v 14 Then he measured the wall that went between the guard chambers—sixty cubits in length; he measured as far as the gate's portico.
 \v 15 The entrance from the front of the gate to the other end of the gate's portico was fifty cubits.
-\v 16 There were narrow windows in the chambers, and in the walls that separated them all around; it was the same for the portico, and all the windows were on the inner side. There were carvings of palm trees on the walls.
+\v 16 There were closed windows toward the chambers and toward their pillars within the gates all around; and likewise for the porches. The were windows all around the inside, and each jamb was decorated with palm trees.
 </usfm>
 
 ===== translationWords: =====
@@ -36,13 +36,16 @@
 
 ===== translationNotes: =====
 
-  * **guard chambers** - See how you translated this in [[:en:bible:notes:ezk:40:05|40:7]].
-  * **sixty cubits** - about thirty-two meters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **cubits** - See how you translated these "long" cubits in [[:en:bible:notes:ezk:40:05|40:05]].
-  * **portico** - See how you translated this in [[:en:bible:notes:ezk:08:16|8:16]]. However, modern versions translate this word in different ways; its meaning is not clear.
+  * **guard chambers** - Translate this as in [[:en:bible:notes:ezk:40:05|40:7]].
+  * **sixty cubits** - about thirty-two meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **cubits** - Translate these "long" cubits as in [[:en:bible:notes:ezk:40:05|40:05]].
+  * **portico** - This was covering in front of an entrance with columns or posts for support. Translate this as in [[:en:bible:notes:ezk:08:16|8:16]].
   * **fifty cubits** - about twenty-seven meters
-  * **separated them** - "separated the guard's niches"
-  * **all the windows were on the inner side** - "the windows were all around on the inside"
+  * **closed windows** - Possible meanings are 1) "closed windows or 2) "windows with shutters" or 3) "narrow windows."
+  * **likewise for the porches** - "the porches also had closed window all around"
+  * **each jamb** - jambs are the wooden frame of a door
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -50,6 +53,6 @@
   * [[:en:bible:questions:comprehension:ezk:40]]
 **[[:en:bible:notes:ezk:40:11|<<]] | [[:en:bible:notes:ezk:40:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit palm}}
+~~DISCUSSION~~{{tag>publish p2check palm}}
 
 ~~NOCACHE~~

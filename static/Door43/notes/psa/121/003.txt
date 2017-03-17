@@ -20,7 +20,7 @@
 \q1
 \v 4 The one who protects us Israelite people
 \q2 never gets sleepy or sleeps.
-\b
+
 
 
 \q1
@@ -47,10 +47,10 @@
 
   * **your foot to slip** - The slipping of a foot is associated with falling. AT: "you to fall" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **he who protects ... the guardian** - These two phrases means the same thing, and emphasize God's role as a protector. (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
-  * **he who protects you will not slumber** - Here to "slumber" means he would stop protecting. The negative form strengthens the statement. AT: "God will not fall asleep and stop protecting you" or "God will always protect you" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_litotes]])
+  * **he who protects you will not slumber** - Here to "slumber" means he would stop protecting. The negative form strengthens the statement. AT: "God will not fall asleep and stop protecting you" or "God will always protect you" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_doublenegatives]])
   * **will not slumber ... never slumbers or sleeps** - These two phrases have similar meanings. The second one strengthens the thought in the first. (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
   * **See** - This word alerts us to pay attention to the important information that follows.
-  * **never slumbers or sleeps** - These two words mean the same thing. Here to "slumber" means to stop protecting. The negative form strengthens the statement. AT: "will not sleep and stop protecting you" or "will always protect you" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_litotes]])
+  * **never slumbers or sleeps** - These two words mean the same thing. Here to "slumber" means to stop protecting. The negative form strengthens the statement. AT: "will not sleep and stop protecting you" or "will always protect you" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_doublenegatives]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:121]]
 **[[:en:bible:notes:psa:121:001|<<]] | [[:en:bible:notes:psa:121:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

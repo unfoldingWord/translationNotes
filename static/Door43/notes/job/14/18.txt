@@ -45,12 +45,13 @@
  
 ===== translationNotes: =====
 
-  * **mountains fall and come to nothing** - Here the phrase "come to nothing" expands on the word "fall" and emphasizes complete destruction. AT: "mountains completely fall apart." (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **rocks are moved out of their place** - AT: "rocks tumble down from their place" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Like this, you destroy the hopes of man** - If it is easier in your language, you can put this phrase at the beginning of verse 18 and adjust the text accordingly. AT: "You destroy the hopes of man, just like ... dust of the earth." (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **you destroy** - The word "you" refers to God.
-  * **the hopes of man** - AT: "the things a man hopes for"
+  * **General Information:** Job continues speaking to God.
 
+  * **mountains fall and come to nothing** - "Come to nothing" is an idiom meaning be completely destroyed. This phrase expands on the word "fall" and emphasizes complete destruction. AT: "mountains completely fall apart" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **rocks are moved out of their place** - This can be expressed in active form. AT: "rocks tumble down from their place" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Like this, you destroy the hopes of man** - If it is easier in your language, you can put this phrase at the beginning of verse 18 and adjust the text accordingly. AT: "You destroy the hopes of man, just like ... dust of the earth." (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **you destroy the hopes of man** - Destroying hopes represents causing the things people hope for not to happen. AT: "You prevent the hopes of man from happening" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the hopes of man** - The abstract noun "hopes" can be expressed with the verb "hope" AT: "the things that man hopes for" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:job:14]]
 **[[:en:bible:notes:job:14:15|<<]] | [[:en:bible:notes:job:14:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

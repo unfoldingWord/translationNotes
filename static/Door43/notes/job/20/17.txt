@@ -30,7 +30,6 @@
 \q1
 \v 19 because they oppressed poor people and refused to help them,
 \q2 and they took other people's houses by cheating them.
-\b
 
 
 \q1
@@ -45,17 +44,16 @@
 \q  the torrents of honey and butter.
 \q
 \v 18 He will give back the fruit of his labor and will not be able to eat it;
-\q he will not enjoy the wealth earned by his commerce. 
+\q he will not enjoy the wealth earned by his commerce.
 \q
 \v 19 For he has oppressed and neglected poor people;
 \q he has violently taken away houses that he did not build.
-\b
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:honey|honey]]
+  * [[:en:obe:other:honey]]
   * [[:en:obe:other:labor]]
   * [[:en:obe:kt:oppress]]
  
@@ -63,10 +61,9 @@
 
   * **General Information:** - Zophar continues speaking to Job.
 
-  * **enjoy the streams, the torrents of honey and butter** - The wicked person will not enjoy the good things that God gives his people, even good food. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **streams** - small rivers
-  * **neglected** - "ignored"
-
+  * **the streams, the torrents of honey and butter** - The streams and torrents are metaphors that represent abundance. Honey and butter are metonyms that represent the good things that God gives people. AT: "the abundance of good things that God gives his people" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the fruit of his labor** - Normally "the fruit of his labor" simply refers to the results of his labor. In this case it refers to the things the wicked man had stolen. AT: "the things he had worked to get" or "the things he had stolen" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **will not be able to eat it** - Here "to eat" the fruit of his labor represents enjoying the the things he had stolen. AT: "and will not be able to enjoy them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -74,6 +71,6 @@
   * [[:en:bible:questions:comprehension:job:20]]
 **[[:en:bible:notes:job:20:15|<<]] | [[:en:bible:notes:job:20:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

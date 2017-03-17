@@ -42,7 +42,7 @@
 ===== translationNotes: =====
 
   * **Ebenezer ... Aphek** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Israel was defeated by the Philistines, who killed** - This can be translated in active form. AT: "the Philistines defeated the Israelites and killed" or "Israel fell before the Philistines, who killed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Israel was defeated by the Philistines, who killed** - This can be translated in active form. AT: "the Philistines defeated the Israelites and killed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **about four thousand men** - Here the number four thousand is a round number. There may have been a few more than that or a few less than that. The word "about" shows that it is not an exact number. AT: "about 4,000 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
 ===== Links: =====
 
@@ -57,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -25,7 +25,7 @@
 
 <usfm>
 \p
-\v 39 And when David heard that Nabal was dead, he said, "May Yahweh be blessed, who has taken up the cause of my insult from the hand of Nabal, and has kept back his servant from evil. And he has turned Nabal's evil action back on his own head." Then David sent and spoke to Abigail, to take her to himself as wife.
+\v 39 When David heard that Nabal was dead, he said, "May Yahweh be blessed, who has taken up the cause of my insult from the hand of Nabal and has kept back his servant from evil. He has turned Nabal's evil action back on his own head." Then David sent and spoke to Abigail, to take her to himself as wife.
 \v 40 When David's servants had come to Abigail at Carmel, they spoke to her and said, "David has sent us to you to take you to him as his wife."
 </usfm>
 
@@ -46,6 +46,14 @@
 
   * **General Information:** - David offers to protect Abigail by marrying her.
 
+  * **May Yahweh be blessed** - This can be translated in active form. Translate as in [[:en:bible:notes:1sa:25:32|25:32]]. Possible meanings are 1) AT: "I praise Yahweh" (UDB) or 2) AT: "May all people praise Yahweh"  (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **has taken up the cause of my insult from the hand of Nabal** - This is an idiom.  AT: "has defended me after Nabal insulted me" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **has taken up the cause of my insult** - The abstract nouns "cause" and "insult" can be translated as verbs. Possible meanings are 1) AT: "has shown that what I was doing was right by punishing Nabal for insulting me" or 2) AT: "has acted, when Nabal insulted me, as if Nabal had insulted him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **has kept back his servant from evil** - David speaks as if he were another person to show his respect for Yahweh. AT: "has kept me back from doing evil deeds" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **has turned Nabal's evil action back on his own head** - The abstract noun "action" can be translated as a verb. AT: "has done to Nabal what Nabal planned to do to me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **on his own head** - The head is a synecdoche for the person. AT: "on him" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **sent and spoke to Abigail, to take her to himself as wife** - You may make clear the understood information. AT: "sent men to speak to Abigail and tell her that David wanted to take her to be his wife" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -59,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

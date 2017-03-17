@@ -19,7 +19,6 @@
 <usfm>
 \v 8 I praise you all during the day,
 \q2 and I proclaim that you are glorious.
-\b
 \q1
 \v 9 Now when I have become an old man, do not reject me;
 \q2 do not abandon me now when I am not strong anymore.
@@ -48,13 +47,15 @@
 
 ===== translationNotes: =====
 
-  * **My mouth will be filled with your praise** - The psalmist speaks of his desire to praise Yahweh with the words he speaks as if his mouth were full of words the way it can be full of food. AT: "My mouth will be filled with words that praise you" or "I will always praise you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **all the day with your honor** - "and my mouth will be full all the day with your honor" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **your honor** - The psalmist speaks of the words he wants to speak so that people will honor Yahweh as if they were the honor itself, and he speaks of the honor itself as if it were solid food. AT: "words that tell people how beautiful you are" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **My mouth will be filled with your praise ... with your honor** - The psalmist speaks of his desire to praise and honor Yahweh with the words he speaks as if his mouth were full of words the way it can be full of food. AT: "My mouth will be filled with words that praise you ... that honor you" or "I will always praise you ... will always honor you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **your praise** - "words that tell people how great you are" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **your honor** - "words that cause people to honor you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **all the day** - "all day long" or "at all times"
   * **Do not throw me away ... do not abandon me** - These two phrases have basically the same meaning and are used together for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **Do not throw me away** - "Do not force me to go away from you." For God to reject him is spoken of as God forcing him to go away. AT: "do not reject me" (UDB) See how this is translated in [[:en:bible:notes:psa:051:010|51:11]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **do not abandon me** - "do not leave me forever"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:071]]
 **[[:en:bible:notes:psa:071:006|<<]] | [[:en:bible:notes:psa:071:010|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

@@ -38,9 +38,9 @@
 
 <usfm>
 \q1
-\v 10 You are my witnesses," declares Yahweh, "and my servant whom I have chosen, 
+\v 10 You are my witnesses," declares Yahweh, "and my servant whom I have chosen,
 \q1 so that you may know and believe in me, and understand
-that I am he. 
+that I am he.
 \q1 Before me there was no god formed, and there will be none after me.
 \q1
 \v 11 I, I am Yahweh, and there is no savior but me.
@@ -59,9 +59,13 @@ that I am he.
 
 ===== translationNotes: =====
 
-  * **You** - Here "you" is plural and refers to the people of Israel. (See: [[:en:ta:vol1:translate:figs_youdual]])
-  * **I, I am** - The word "I" is repeated for emphasis.
-  * **there is no savior but me** - This can be expressed positively. AT: "I am the only savior" or "I am the only one who can save you" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **You ... my servant** - Here "you" is plural and refers to the people of Israel. The phrase "my servant" refers to the nation, as a whole. (See: [[:en:ta:vol1:translate:figs_youdual]])
+  * **Before me ... after me** - In speaking this way, Yahweh is not saying that there was a time before which he did not exist or a time after which he will not exist. He is asserting that he is eternal and that the gods whom the people of other nations worship are not.
+  * **Before me there was no god formed** - Here the word "formed" indicates that Yahweh is speaking of idols that people have made. This can be stated in active form. AT: "None of the gods whom people have formed existed before me" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **and there will be none after me** - "and none of those gods will exist after me"
+  * **I, I am Yahweh** - The word "I" is repeated to emphasize the focus on Yahweh. AT: "I alone am Yahweh" or "I myself am Yahweh" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **there is no savior but me** - This can be expressed positively. AT: "I am the only savior" or "I am the only one who can save you"
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -69,6 +73,6 @@ that I am he.
   * [[:en:bible:questions:comprehension:isa:43]]
 **[[:en:bible:notes:isa:43:08|<<]] | [[:en:bible:notes:isa:43:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

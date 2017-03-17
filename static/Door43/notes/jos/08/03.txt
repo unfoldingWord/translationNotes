@@ -35,9 +35,8 @@
 
 ===== translationNotes: =====
 
-  * **the men of war** - "army of Israel"
-  * **thirty thousand men** - "30,000" (See: Translate Numbers)
-
+  * **the men of war** - "the army of Israel"
+  * **thirty thousand men** - "30,000 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -51,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

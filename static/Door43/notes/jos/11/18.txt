@@ -16,7 +16,7 @@
 <usfm>
 \v 18 Joshua's men fought against all those kings for a long time.
 \v 19 There was only one city that made a peace treaty with the Israelites; they were the people of the Hivites who lived in Gibeon. The Israelites captured all the other cities in battles.
-\v 20 Yahweh caused the people in all those other groups to be stubborn, with the result that they fought against the Israelite army, and the Israelites killed them all. They cried out for mercy but were not heard, so that they might be complete destroyed. This is what Yahweh had commanded Moses to do.
+\v 20 Yahweh caused the people in all those other groups to be stubborn, with the result that they fought against the Israelite army, and so God used the Israelite army to destroy them all. God did not hold back the Israelite army from totally destroying their enemies. This is what Yahweh had commanded Moses to do.
 
 
 \p
@@ -28,7 +28,7 @@
 <usfm>
 \v 18 Joshua waged war for a long time with all the kings.
 \v 19 Not one city made peace with the army of Israel except the Hivites who lived in Gibeon. Israel captured all the rest of the cities in battle.
-\v 20 For it was Yahweh who had hardened their hearts so that they would come and wage war against Israel, so that he might completely destroy them, and to show them no mercy, just as he instructed Moses.
+\v 20 For it was Yahweh who hardened their hearts so they would wage war against Israel, so that he might completely destroy them without mercy, just as he had instructed Moses.
 </usfm>
 
 
@@ -45,7 +45,7 @@
 
 ===== translationNotes: =====
 
-  * **it was Yahweh who had hardened their hearts** - Yahweh causing the people of the cities to be stubborn is spoken of as if Yahweh had hardened their hearts. AT: "it was Yahweh who had caused them to act stubbornly" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **it was Yahweh who hardened their hearts** - Yahweh causing the people of the cities to be stubborn is spoken of as if Yahweh had hardened their hearts. AT: "it was Yahweh who caused them to act stubbornly" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
  
 ===== Links: =====
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

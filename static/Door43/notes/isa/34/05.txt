@@ -36,11 +36,11 @@
 
 <usfm>
 \q1
-\v 5 For when my sword will have drunk its fill in heaven; 
+\v 5 For when my sword will have drunk its fill in heaven;
 \q1 look, it will now come down on Edom, on the people I am setting apart for destruction.
 \q1
-\v 6 The sword of Yahweh is dripping with blood and covered with fat, 
-\q1 dripping with the blood of lambs and goats, covered with the fat of the kidneys of rams. 
+\v 6 The sword of Yahweh is dripping with blood and covered with fat,
+\q1 dripping with the blood of lambs and goats, covered with the fat of the kidneys of rams.
 \q1 For Yahweh has a sacrifice in Bozrah and a great slaughter in the land of Edom.
 </usfm>
 
@@ -58,10 +58,13 @@
 
 ===== translationNotes: =====
 
-  * **when my sword will have drunk its fill in heaven** - Yahweh is satisfied with destroying the heavens like a person puts a sword down when he has finished killing people. "Drunk its fill" makes the sword sound like a person who is finally satisfied. AT: "When I am finished destroying the objects in heaven" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **it will now come down on Edom, on the people I am setting apart for destruction** - This continues the symbolism of the sword. AT: "I will now come to punish the people Edom whom I have set aside so that I may destroy them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **The sword of Yahweh is dripping with blood and covered with fat, dripping with the blood of lambs and goats, covered with the fat of the kidneys of rams** - Because of their sins, Yahweh slaughters the people of Edom the way priests sacrifice animals.
-  * **Bozrah** - an important city in Edom (See: [[:en:ta:vol1:translate:translate_names]])
+  * **when my sword will have drunk its fill in heaven** - Yahweh describes himself as a warrior bearing a sword. The phrase "drunk its fill" speaks of Yahweh's sword as if it were a person who has eaten and become satisfied. Yahweh uses this imagery to emphasize that there will be a lot of destruction in heaven and to state its completion. AT: "when I am finished destroying things in heaven" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **look** - This word is used here to draw the listener's attention and to have them imagine the things being said. AT: "listen" or "and then" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **it will now come down on Edom, on the people I am setting apart for destruction** - The word "it" refers to Yahweh's sword. This continues the metaphor about Yahweh destroying things with a sword. AT: "I will come to punish the people of Edom, the people whom I have set aside for me to destroy" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **on Edom** - Edom refers to the people who live there. AT: "on the people of Edom" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The sword of Yahweh is dripping with blood and covered with fat ... of rams** - This speaks of Yahweh killing the people as if he were a priest sacrificing animals. He does this by describing the sword of a priest. AT: "Yahweh sacrifices them as a priest sacrifices animals, whose sword drips with the blood and fat of lambs, goats, and rams" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **For Yahweh has a sacrifice in Bozrah and a great slaughter in the land of Edom** - The words "sacrifice" and "slaughter" may be expressed here as verbs. AT: "For Yahweh will sacrifice many people in Bozrah and kill many people in the land of Edom" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Bozrah** - This is an important city in Edom. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -70,6 +73,6 @@
   * [[:en:bible:questions:comprehension:isa:34]]
 **[[:en:bible:notes:isa:34:03|<<]] | [[:en:bible:notes:isa:34:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

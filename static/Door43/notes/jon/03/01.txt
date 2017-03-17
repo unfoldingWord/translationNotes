@@ -37,7 +37,8 @@
 
 ===== translationNotes: =====
 
-  * **The word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:jon:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **The word of Yahweh came** - This is an idiom that means Yahweh spoke. See how you translated this in [[:en:bible:notes:jon:01:01|1:1]]. AT: "Yahweh spoke his message" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the word of Yahweh** - Here "word" represents Yahweh's message. AT: "the message of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Get up, go to Nineveh, that great city** - "Go to the important city of Nineveh"
   * **Get up** - This refers to leaving the place one is at. (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **proclaim to it the message that I command you to give** - "tell the people what I tell you to tell them"
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:jon:03]]
 **[[:en:bible:notes:jon:02:09|<<]] | [[:en:bible:notes:jon:03:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check nineveh proclaim}}
+~~DISCUSSION~~{{tag>publish p2pass nineveh proclaim}}
 
 ~~NOCACHE~~

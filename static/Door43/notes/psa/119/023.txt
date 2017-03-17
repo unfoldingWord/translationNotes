@@ -22,7 +22,7 @@
 \q1
 \v 24 I am delighted with your requirements;
 \q2 it is as though they were my advisors.
-\b
+
 
 
 \q1
@@ -38,7 +38,6 @@
 \q
 \v 24 Your covenant decrees are my delight,
 \q and they are my counselors.
-\b
 </usfm>
 
 
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:021|<<]] | [[:en:bible:notes:psa:119:025|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

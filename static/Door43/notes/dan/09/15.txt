@@ -12,8 +12,7 @@
 
 <usfm>
 \v 15 Lord our God, you brought your people out of Egypt by your great power, and by doing that you have caused people from that time until the present time to know that you are great even though we have sinned and done wicked things.
-\v 16 But now, because everything you do is righteous, we request you to not be angry with Jerusalem any longer, O Lord. Jerusalem is your city, and your temple was built there on your sacred hill. Now all the people who live in nearby countries despise Jerusalem because of our sins and because of the evil things that our ancestors did. 
-
+\v 16 But now, because everything you do is righteous, we request you to not be angry with Jerusalem any longer, O Lord. Jerusalem is your city, and your temple was built there on your sacred hill. Now all the people who live in nearby countries despise Jerusalem because of our sins and because of the evil things that our ancestors did.
 
 \pi
 </usfm>
@@ -45,12 +44,15 @@
 ===== translationNotes: =====
 
   * **with a mighty hand** - Here "mighty hand" is a metonym for strength. AT: "with great strength" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you have made a famous name for yourself, as in this present day** - "you caused people to know how great you are, as you still do today"
   * **still we sinned; we have done wicked things** - These two clauses mean basically the same thing and are used together to emphasize how bad sin is. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **we sinned; we have done wicked things** - Daniel and Israel sinned and did wicked things, not God. (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **we sinned; we have done wicked things** - Daniel and Israel sinned and did wicked things, but "we" does not include God. (See: [[:en:ta:vol2:translate:figs_exclusive]])
   * **your anger and your wrath** - The words "anger" and "wrath" mean basically the same thing and emphasize how terrible God's anger is when he acts on it. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **your holy mountain** - This mountain may be holy because God's temple is there. AT: "the mountain where your holy temple is".
-  * **our sins ... our ancestors** - The sins and ancestors of Daniel and Israel, not of God.
-  * **object of scorn** - "target of disrespect"
+  * **your holy mountain** - This mountain may be holy because God's temple is there. AT: "the mountain where your holy temple is"
+  * **our sins ... our ancestors** - Here "our" refers to Daniel and Israel, but not to God. (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **an object of scorn** - "a target of disrespect"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -58,6 +60,6 @@
   * [[:en:bible:questions:comprehension:dan:09]]
 **[[:en:bible:notes:dan:09:12|<<]] | [[:en:bible:notes:dan:09:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

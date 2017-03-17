@@ -22,7 +22,7 @@
 \p
 \v 6 The person who turns to those who talk with the dead, or to those who talk with spirits so as to prostitute themselves with them, I will set my face against that person; I will cut him off from among his people.
 \v 7 Therefore consecrate yourselves and be holy, because I am Yahweh your God.
-\f + \ft Several modern versions have: \fqa ... Because I, Yahweh your God, am holy \fqb \f*
+\f + \ft Several modern versions have: \fqa ... because I, Yahweh your God, am holy \fqb \f*
 </usfm>
 
 ===== translationWords: =====
@@ -42,8 +42,7 @@
 ===== translationNotes: =====
 
   * **so as to prostitute themselves with them** - This phrase compares the unfaithful people to prostitutes. AT: "by doing that, they seek advice from the spirits rather than from me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **set my face against** - This phrase "set my face against" means "to reject." See how you translated this in [[:en:bible:notes:lev:20:03|20:3]].
-
+  * **set my face against** - "to reject" or "to oppose strongly" (See: [[:en:ta:vol1:translate:figs_idiom]]). See how you translated this in [[:en:bible:notes:lev:20:03|20:3]]. 
 ===== Links: =====
 
   * [[:en:bible:notes:lev:00:intro]]
@@ -51,6 +50,6 @@
   * [[:en:bible:questions:comprehension:lev:20]]
 **[[:en:bible:notes:lev:20:03|<<]] | [[:en:bible:notes:lev:20:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

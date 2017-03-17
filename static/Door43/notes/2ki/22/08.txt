@@ -27,7 +27,7 @@
 
 <usfm>
 \p
-\v 8 Hilkiah the high priest said to Shaphan the scribe, "I have found The Book of the Law in the house of Yahweh." So Hilkiah gave the book to Shaphan, and he read it.
+\v 8 Hilkiah the high priest said to Shaphan the scribe, "I have found the book of the law in the house of Yahweh." So Hilkiah gave the book to Shaphan, and he read it.
 \v 9 Shaphan went and took the book to the king, and also reported to him, saying, "Your servants have spent the money that was found in the temple and they have given it into the hand of the workmen who supervise the care for the house of Yahweh."
 \v 10 Then Shaphan the scribe said to the king, "Hilkiah the priest has given me a book." Then Shaphan read it to the king.
 </usfm>
@@ -40,7 +40,9 @@
   * [[:en:obe:other:servant]]
 ===== translationNotes: =====
 
-  * **Hilkiah** - See how you translated this in [[:en:bible:notes:2ki:18:16|18:18]]
+  * **Hilkiah** - This is the name of a man. See how you translated this in [[:en:bible:notes:2ki:18:16|18:18]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the book of the law** - Most likely these laws were written on a scroll. A scroll was a type of book made of one long, rolled-up sheet of papyrus or leather.
+  * **given it into the hand of the workmen** - Here "hand" represents the workmen as a whole. AT: "given it to the workmen" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -55,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

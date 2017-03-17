@@ -16,10 +16,10 @@
 
 <usfm>
 \v 5 I will cause them to scatter your flesh on the hills
-\q2 and fill the valleys with your maggot eaten bodies.
+\q2 and fill the valleys with the parts of your rotting body.
 \q1
 \v 6 I will cause them to fill the land with your blood,
-\q2 and the mountains, too;
+\q2 and also the mountains;
 \q2 they will fill the ravines with your blood.
 
 
@@ -30,7 +30,7 @@
 
 <usfm>
 \q
-\v 5 For I will put your flesh on the mountains, and I will fill the valleys with your worm filled corpse.
+\v 5 For I will put your flesh on the mountains, and I will fill the valleys with your worm-filled corpse.
 \q
 \v 6 Then I will pour your blood over the mountains,
 \q and the stream beds will be filled with your blood.
@@ -45,9 +45,8 @@
 
   * **General Information:** - Yahweh continues to speak to Pharaoh and to compare him to a monster that lives in the water.
 
-  * **your worm filled corpse** - "your rotting body"
-  * **Then I will pour your blood over the mountains** - AT: "I will flood the land with your blood all the way to the mountains."
-  * **the stream beds will be filled with your blood** - AT: "I will fill the streams with your blood" or "and they will fill the streams with your blood" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your worm-filled corpse** - The worms help the dead body to rot. AT: "your rotting body" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the stream beds will be filled with your blood** - This can be put into active form. AT: "I will fill the streams with your blood" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -55,6 +54,6 @@
   * [[:en:bible:questions:comprehension:ezk:32]]
 **[[:en:bible:notes:ezk:32:03|<<]] | [[:en:bible:notes:ezk:32:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

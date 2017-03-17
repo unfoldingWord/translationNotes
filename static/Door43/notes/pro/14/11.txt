@@ -18,11 +18,9 @@
 <usfm>
 \v 11 The family of the wicked will be destroyed,
 \q2 but a little tent where the upright live will grow, like a tree grows into something grand.
-\b
 \q1
 \v 12 A person sees a way, and it appears to be the right way for him to go,
-\q2 but he does not know that it only leads to death. 
-
+\q2 but he does not know that it only leads to death.
 
 \q1
 </usfm>
@@ -41,16 +39,16 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:house]]
+  * [[:en:obe:kt:upright]]
   * [[:en:obe:kt:evil]]
   * [[:en:obe:other:tent]]
   * [[:en:obe:kt:death]]
 
 ===== translationNotes: =====
 
-  * **the tent** - AT: "the household" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **upright people** - See how you translated this word in [[:en:bible:notes:pro:03:31|3:32]].
-  * **flourish** - AT: "to do well and last long" or "to be healthy" or "to be very successful"
-  * **There is a way that seems right to a man** - AT: "People think that the way they are living is the right way"
+  * **the tent** - The word "tent" represents everything that happens within it. AT: "the household" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **flourish** - The word "flourish" means vigorous blooming of flowers and so represents anything that grows strongly. AT: "to do well and last long" or "to be healthy" or "to be very successful" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **There is a way that seems right to a man** - The word "way" represents the conduct of life a person follows. AT: "People think that the way they are living is the right way" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -59,6 +57,6 @@
   * [[:en:bible:questions:comprehension:pro:14]]
 **[[:en:bible:notes:pro:14:09|<<]] | [[:en:bible:notes:pro:14:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

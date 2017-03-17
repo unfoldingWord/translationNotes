@@ -24,7 +24,7 @@
 \q1 and as maids ask their mistresses for what they need,
 \q2 we ask you, Yahweh our God, for what we need,
 \q2 until you act mercifully toward us.
-\b
+
 
 
 \q1
@@ -34,9 +34,8 @@
 
 <usfm>
 \c 123
-\p
+\m
 \d A song of ascents.
-\b
 \q
 \v 1 To you I lift up my eyes,
 \q you who are enthroned in the heavens.
@@ -59,7 +58,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **song of ascents** - Possible meanings are 1) "song people sang while going up to Jerusalem for a celebration" or 2) "song people sang while going up the steps into the temple" or 3) "song whose words are like steps." See how you translated this in [[:en:bible:notes:psa:120:001|120:1]]
   * **I lift up my eyes** - Here the author refers to his eyes because that is the part of the body used for seeing. AT: "I look to you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -76,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:123]]
 **[[:en:bible:notes:psa:122:008|<<]] | [[:en:bible:notes:psa:123:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

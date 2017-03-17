@@ -39,10 +39,15 @@
 
 ===== translationNotes: =====
 
-  * **gave him a lamp in Jerusalem ... to strengthen Jerusalem** - AT: "gave to David a descendant to rule in Jerusalem as a reminder of his covenant with David's family" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **what was right in his eyes** - AT: "what Yahweh considered to be right" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **between Rehoboam and Jeroboam** - AT: "between the armies of Rehoboam and Jeroboam" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
+ 
+  * **gave him a lamp in Jerusalem** - The word "lamp" here represents a descendant who would be king as David was. AT: "gave David a descendant to rule in Jerusalem" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **by raising up his son after him** - "by raising up Abijah's son after him" or "by giving Abijah a son"
+  * **what was right in his eyes** - The eyes here represent seeing, and seeing represents thoughts or judgment. AT: "what Yahweh judges to be right" or "what Yahweh considers to be right" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for all the days of his life** - The word "days" represents a period of time. AT: "the whole time that David lived" or "throughout David's whole life" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he had not turned away from anything that he commanded him** - Turning away from a command represents disobeying it. AT: "David did not disobey anything that God commanded him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **except only in the matter of Uriah the Hittite** - This is a general way to refer to the situation with Uriah. It can be stated more clearly what this matter was. AT: "except for what he did to Uriah the Hittite" or "except when he caused Uriah the Hittite to be killed" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **between Rehoboam and Jeroboam** - The names "Rehoboam" and "Jeroboam" represent the armies of those two kings. Rehoboam was Abijah's father. AT: "between the armies of Rehoboam and Jeroboam" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **all the days of Abijah's life** - The word "days" represents a period of time. AT: "the whole time that Abijah lived" or "throughout his whole life" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -50,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1ki:15]]
 **[[:en:bible:notes:1ki:15:01|<<]] | [[:en:bible:notes:1ki:15:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit uriah}}
+~~DISCUSSION~~{{tag>publish p2pass uriah}}
 
 ~~NOCACHE~~

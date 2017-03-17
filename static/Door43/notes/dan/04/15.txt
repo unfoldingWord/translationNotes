@@ -36,12 +36,13 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - In verses 1-18, Nebuchadnezzar describes in the first person his vision from God. (See: [[:en:ta:vol2:translate:figs_123person]])
   * **General Information:** - The holy messenger in the vision continues shouting to some people.
 
   * **stump of its roots** - This is the part of the tree that is left above the ground after a tree is cut down.
-  * **dew** - the moisture on the ground that is found in the mornings 
-  * **Let his mind be changed ... seven years pass by** - "The man's mind will change from an man's mind to an animal's mind for a period of seven years" 
- 
+  * **dew** - the moisture on the ground that is found in the mornings
+  * **Let his mind be changed ... seven years pass by** - Since the tree represents Nebuchadnezzar, the masculine pronouns "his" and "him" in verse 16 refer to the same tree as the neuter pronoun "it" in verse 15. AT: "The man's mind will change from a man's mind to an animal's mind for a period of seven years" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:dan:04]]
 **[[:en:bible:notes:dan:04:13|<<]] | [[:en:bible:notes:dan:04:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

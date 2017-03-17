@@ -1,22 +1,4 @@
-======= List of translationWords in John =======
-
-* [[:en:obe:kt:god]] is found in:
- [[:en:bible:notes:jhn:01:12|01:12]]
-
-* [[:en:obe:kt:jesus]] is found in:
- [[:en:bible:notes:jhn:10:07|10:07]], [[:en:bible:notes:jhn:11:05|11:05]], [[:en:bible:notes:jhn:12:07|12:07]], [[:en:bible:notes:jhn:12:09|12:09]], [[:en:bible:notes:jhn:12:12|12:12]]
-
-* [[:en:obe:other:jew]] is found in:
- [[:en:bible:notes:jhn:18:31|18:31]]
-
-* [[:en:obe:other:lazarus]] is found in:
- [[:en:bible:notes:jhn:11:05|11:05]], [[:en:bible:notes:jhn:12:09|12:09]]
-
-* [[:en:obe:other:martha]] is found in:
- [[:en:bible:notes:jhn:11:05|11:05]]
-
-* [[:en:obe:other:peter]] is found in:
- [[:en:bible:notes:jhn:20:03|20:03]], [[:en:bible:notes:jhn:20:06|20:06]]
+===== List of translationWords in John =====
 
 * [[:en:obe:other:abraham]] is found in:
  [[:en:bible:notes:jhn:08:31|08:31]], [[:en:bible:notes:jhn:08:39|08:39]], [[:en:bible:notes:jhn:08:52|08:52]]
@@ -28,10 +10,10 @@
  [[:en:bible:notes:jhn:08:01|08:01]]
 
 * [[:en:obe:other:amazed]] is found in:
- [[:en:bible:notes:jhn:03:07|03:07]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:05:28|05:28]], [[:en:bible:notes:jhn:07:14|07:14]]
+ [[:en:bible:notes:jhn:03:07|03:07]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:05:28|05:28]], [[:en:bible:notes:jhn:07:14|07:14]], [[:en:bible:notes:jhn:07:21|07:21]]
 
 * [[:en:obe:kt:amen]] is found in:
- [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:05:24|05:24]], [[:en:bible:notes:jhn:05:25|05:25]], [[:en:bible:notes:jhn:06:26|06:26]], [[:en:bible:notes:jhn:06:46|06:46]], [[:en:bible:notes:jhn:08:34|08:34]], [[:en:bible:notes:jhn:08:50|08:50]], [[:en:bible:notes:jhn:12:23|12:23]], [[:en:bible:notes:jhn:13:16|13:16]], [[:en:bible:notes:jhn:13:19|13:19]], [[:en:bible:notes:jhn:13:21|13:21]], [[:en:bible:notes:jhn:13:36|13:36]], [[:en:bible:notes:jhn:14:12|14:12]], [[:en:bible:notes:jhn:16:19|16:19]], [[:en:bible:notes:jhn:21:17|21:17]]
+ [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:05:24|05:24]], [[:en:bible:notes:jhn:05:25|05:25]], [[:en:bible:notes:jhn:06:26|06:26]], [[:en:bible:notes:jhn:06:46|06:46]], [[:en:bible:notes:jhn:08:34|08:34]], [[:en:bible:notes:jhn:08:50|08:50]], [[:en:bible:notes:jhn:10:07|10:07]], [[:en:bible:notes:jhn:12:23|12:23]], [[:en:bible:notes:jhn:13:16|13:16]], [[:en:bible:notes:jhn:13:19|13:19]], [[:en:bible:notes:jhn:13:21|13:21]], [[:en:bible:notes:jhn:13:36|13:36]], [[:en:bible:notes:jhn:14:12|14:12]], [[:en:bible:notes:jhn:16:19|16:19]], [[:en:bible:notes:jhn:21:17|21:17]]
 
 * [[:en:obe:other:andrew]] is found in:
  [[:en:bible:notes:jhn:01:40|01:40]], [[:en:bible:notes:jhn:06:07|06:07]], [[:en:bible:notes:jhn:12:20|12:20]]
@@ -39,14 +21,20 @@
 * [[:en:obe:kt:angel]] is found in:
  [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:12:27|12:27]], [[:en:bible:notes:jhn:20:11|20:11]]
 
+* [[:en:obe:other:angry]] is found in:
+ [[:en:bible:notes:jhn:06:52|06:52]]
+
 * [[:en:obe:other:annas]] is found in:
  [[:en:bible:notes:jhn:18:22|18:22]]
 
 * [[:en:obe:kt:anoint]] is found in:
  [[:en:bible:notes:jhn:09:06|09:06]], [[:en:bible:notes:jhn:09:10|09:10]], [[:en:bible:notes:jhn:11:01|11:01]]
 
+* [[:en:obe:kt:astray]] is found in:
+ [[:en:bible:notes:jhn:07:12|07:12]]
+
 * [[:en:obe:kt:authority]] is found in:
- [[:en:bible:notes:jhn:05:26|05:26]], [[:en:bible:notes:jhn:10:17|10:17]], [[:en:bible:notes:jhn:17:01|17:01]]
+ [[:en:bible:notes:jhn:05:26|05:26]], [[:en:bible:notes:jhn:10:17|10:17]], [[:en:bible:notes:jhn:14:10|14:10]], [[:en:bible:notes:jhn:17:01|17:01]]
 
 * [[:en:obe:kt:baptize]] is found in:
  [[:en:bible:notes:jhn:01:24|01:24]], [[:en:bible:notes:jhn:01:26|01:26]], [[:en:bible:notes:jhn:03:22|03:22]], [[:en:bible:notes:jhn:04:01|04:01]], [[:en:bible:notes:jhn:10:40|10:40]]
@@ -57,8 +45,11 @@
 * [[:en:obe:other:basket]] is found in:
  [[:en:bible:notes:jhn:06:13|06:13]]
 
+* [[:en:obe:other:beg]] is found in:
+ [[:en:bible:notes:jhn:09:08|09:08]]
+
 * [[:en:obe:kt:believe]] is found in:
- [[:en:bible:notes:jhn:01:06|01:06]], [[:en:bible:notes:jhn:01:12|01:12]], [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:02:11|02:11]], [[:en:bible:notes:jhn:02:20|02:20]], [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:03:12|03:12]], [[:en:bible:notes:jhn:04:21|04:21]], [[:en:bible:notes:jhn:04:39|04:39]], [[:en:bible:notes:jhn:04:41|04:41]], [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:04:53|04:53]], [[:en:bible:notes:jhn:05:24|05:24]], [[:en:bible:notes:jhn:05:36|05:36]], [[:en:bible:notes:jhn:05:43|05:43]], [[:en:bible:notes:jhn:05:45|05:45]], [[:en:bible:notes:jhn:06:35|06:35]], [[:en:bible:notes:jhn:06:46|06:46]], [[:en:bible:notes:jhn:06:64|06:64]], [[:en:bible:notes:jhn:07:05|07:05]], [[:en:bible:notes:jhn:07:30|07:30]], [[:en:bible:notes:jhn:07:39|07:39]], [[:en:bible:notes:jhn:07:47|07:47]], [[:en:bible:notes:jhn:08:23|08:23]], [[:en:bible:notes:jhn:08:28|08:28]], [[:en:bible:notes:jhn:08:45|08:45]], [[:en:bible:notes:jhn:09:35|09:35]], [[:en:bible:notes:jhn:10:25|10:25]], [[:en:bible:notes:jhn:10:37|10:37]], [[:en:bible:notes:jhn:10:40|10:40]], [[:en:bible:notes:jhn:11:15|11:15]], [[:en:bible:notes:jhn:11:24|11:24]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:11:41|11:41]], [[:en:bible:notes:jhn:11:45|11:45]], [[:en:bible:notes:jhn:11:47|11:47]], [[:en:bible:notes:jhn:12:09|12:09]], [[:en:bible:notes:jhn:12:34|12:34]], [[:en:bible:notes:jhn:12:37|12:37]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:12:44|12:44]], [[:en:bible:notes:jhn:12:46|12:46]], [[:en:bible:notes:jhn:13:19|13:19]], [[:en:bible:notes:jhn:14:01|14:01]], [[:en:bible:notes:jhn:14:10|14:10]], [[:en:bible:notes:jhn:14:28|14:28]], [[:en:bible:notes:jhn:16:08|16:08]], [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:16:29|16:29]], [[:en:bible:notes:jhn:17:06|17:06]], [[:en:bible:notes:jhn:17:20|17:20]], [[:en:bible:notes:jhn:19:34|19:34]], [[:en:bible:notes:jhn:20:08|20:08]], [[:en:bible:notes:jhn:20:24|20:24]], [[:en:bible:notes:jhn:20:26|20:26]], [[:en:bible:notes:jhn:20:30|20:30]]
+ [[:en:bible:notes:jhn:01:06|01:06]], [[:en:bible:notes:jhn:01:12|01:12]], [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:02:11|02:11]], [[:en:bible:notes:jhn:02:20|02:20]], [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:03:12|03:12]], [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:04:21|04:21]], [[:en:bible:notes:jhn:04:39|04:39]], [[:en:bible:notes:jhn:04:41|04:41]], [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:04:53|04:53]], [[:en:bible:notes:jhn:05:24|05:24]], [[:en:bible:notes:jhn:05:36|05:36]], [[:en:bible:notes:jhn:05:43|05:43]], [[:en:bible:notes:jhn:05:45|05:45]], [[:en:bible:notes:jhn:06:28|06:28]], [[:en:bible:notes:jhn:06:35|06:35]], [[:en:bible:notes:jhn:06:46|06:46]], [[:en:bible:notes:jhn:06:64|06:64]], [[:en:bible:notes:jhn:07:05|07:05]], [[:en:bible:notes:jhn:07:30|07:30]], [[:en:bible:notes:jhn:07:39|07:39]], [[:en:bible:notes:jhn:07:47|07:47]], [[:en:bible:notes:jhn:08:23|08:23]], [[:en:bible:notes:jhn:08:28|08:28]], [[:en:bible:notes:jhn:08:31|08:31]], [[:en:bible:notes:jhn:08:45|08:45]], [[:en:bible:notes:jhn:09:35|09:35]], [[:en:bible:notes:jhn:10:25|10:25]], [[:en:bible:notes:jhn:10:37|10:37]], [[:en:bible:notes:jhn:10:40|10:40]], [[:en:bible:notes:jhn:11:15|11:15]], [[:en:bible:notes:jhn:11:24|11:24]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:11:41|11:41]], [[:en:bible:notes:jhn:11:45|11:45]], [[:en:bible:notes:jhn:11:47|11:47]], [[:en:bible:notes:jhn:12:09|12:09]], [[:en:bible:notes:jhn:12:34|12:34]], [[:en:bible:notes:jhn:12:37|12:37]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:12:44|12:44]], [[:en:bible:notes:jhn:12:46|12:46]], [[:en:bible:notes:jhn:13:19|13:19]], [[:en:bible:notes:jhn:14:01|14:01]], [[:en:bible:notes:jhn:14:10|14:10]], [[:en:bible:notes:jhn:14:28|14:28]], [[:en:bible:notes:jhn:16:08|16:08]], [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:16:29|16:29]], [[:en:bible:notes:jhn:17:06|17:06]], [[:en:bible:notes:jhn:17:20|17:20]], [[:en:bible:notes:jhn:19:34|19:34]], [[:en:bible:notes:jhn:20:08|20:08]], [[:en:bible:notes:jhn:20:24|20:24]], [[:en:bible:notes:jhn:20:26|20:26]], [[:en:bible:notes:jhn:20:30|20:30]]
 
 * [[:en:obe:other:bethany]] is found in:
  [[:en:bible:notes:jhn:01:26|01:26]], [[:en:bible:notes:jhn:11:01|11:01]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:12:01|12:01]]
@@ -69,11 +60,14 @@
 * [[:en:obe:kt:betray]] is found in:
  [[:en:bible:notes:jhn:06:64|06:64]], [[:en:bible:notes:jhn:06:70|06:70]], [[:en:bible:notes:jhn:12:04|12:04]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:13:10|13:10]], [[:en:bible:notes:jhn:13:21|13:21]], [[:en:bible:notes:jhn:18:01|18:01]], [[:en:bible:notes:jhn:21:20|21:20]]
 
+* [[:en:obe:other:biblicaltimehour]] is found in:
+ [[:en:bible:notes:jhn:04:51|04:51]]
+
 * [[:en:obe:kt:blasphemy]] is found in:
  [[:en:bible:notes:jhn:10:32|10:32]], [[:en:bible:notes:jhn:10:34|10:34]]
 
 * [[:en:obe:kt:bless]] is found in:
- [[:en:bible:notes:jhn:12:12|12:12]], [[:en:bible:notes:jhn:13:16|13:16]]
+ [[:en:bible:notes:jhn:12:12|12:12]], [[:en:bible:notes:jhn:13:16|13:16]], [[:en:bible:notes:jhn:20:28|20:28]]
 
 * [[:en:obe:kt:blood]] is found in:
  [[:en:bible:notes:jhn:06:52|06:52]], [[:en:bible:notes:jhn:06:54|06:54]]
@@ -88,7 +82,7 @@
  [[:en:bible:notes:jhn:02:09|02:09]], [[:en:bible:notes:jhn:03:29|03:29]]
 
 * [[:en:obe:kt:brother]] is found in:
- [[:en:bible:notes:jhn:02:12|02:12]], [[:en:bible:notes:jhn:06:07|06:07]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:20:16|20:16]], [[:en:bible:notes:jhn:21:22|21:22]]
+ [[:en:bible:notes:jhn:02:12|02:12]], [[:en:bible:notes:jhn:06:07|06:07]], [[:en:bible:notes:jhn:07:03|07:03]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:20:16|20:16]], [[:en:bible:notes:jhn:21:22|21:22]]
 
 * [[:en:obe:other:bury]] is found in:
  [[:en:bible:notes:jhn:12:07|12:07]]
@@ -118,13 +112,16 @@
  [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:11:51|11:51]]
 
 * [[:en:obe:kt:christ]] is found in:
- [[:en:bible:notes:jhn:01:19|01:19]], [[:en:bible:notes:jhn:01:24|01:24]], [[:en:bible:notes:jhn:01:40|01:40]], [[:en:bible:notes:jhn:03:27|03:27]], [[:en:bible:notes:jhn:04:25|04:25]], [[:en:bible:notes:jhn:07:25|07:25]], [[:en:bible:notes:jhn:07:40|07:40]], [[:en:bible:notes:jhn:09:22|09:22]], [[:en:bible:notes:jhn:10:22|10:22]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:12:34|12:34]], [[:en:bible:notes:jhn:20:30|20:30]]
+ [[:en:bible:notes:jhn:01:19|01:19]], [[:en:bible:notes:jhn:01:24|01:24]], [[:en:bible:notes:jhn:01:40|01:40]], [[:en:bible:notes:jhn:03:27|03:27]], [[:en:bible:notes:jhn:04:25|04:25]], [[:en:bible:notes:jhn:04:28|04:28]], [[:en:bible:notes:jhn:07:25|07:25]], [[:en:bible:notes:jhn:07:40|07:40]], [[:en:bible:notes:jhn:09:22|09:22]], [[:en:bible:notes:jhn:10:22|10:22]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:12:34|12:34]], [[:en:bible:notes:jhn:20:30|20:30]]
 
 * [[:en:obe:kt:circumcise]] is found in:
  [[:en:bible:notes:jhn:07:21|07:21]]
 
 * [[:en:obe:kt:clean]] is found in:
  [[:en:bible:notes:jhn:13:10|13:10]]
+
+* [[:en:obe:other:comfort]] is found in:
+ [[:en:bible:notes:jhn:14:15|14:15]], [[:en:bible:notes:jhn:15:26|15:26]]
 
 * [[:en:obe:other:command]] is found in:
  [[:en:bible:notes:jhn:08:04|08:04]], [[:en:bible:notes:jhn:10:17|10:17]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:13:34|13:34]], [[:en:bible:notes:jhn:14:15|14:15]], [[:en:bible:notes:jhn:14:21|14:21]], [[:en:bible:notes:jhn:14:30|14:30]], [[:en:bible:notes:jhn:15:10|15:10]], [[:en:bible:notes:jhn:15:12|15:12]], [[:en:bible:notes:jhn:15:14|15:14]], [[:en:bible:notes:jhn:15:16|15:16]]
@@ -135,14 +132,14 @@
 * [[:en:obe:kt:confess]] is found in:
  [[:en:bible:notes:jhn:09:22|09:22]]
 
-* [[:en:obe:kt:consecrate]] is found in:
- [[:en:bible:notes:jhn:17:15|17:15]], [[:en:bible:notes:jhn:17:18|17:18]]
-
 * [[:en:obe:other:council]] is found in:
  [[:en:bible:notes:jhn:03:01|03:01]], [[:en:bible:notes:jhn:11:47|11:47]]
 
-* [[:en:obe:other:counselor]] is found in:
- [[:en:bible:notes:jhn:12:09|12:09]]
+* [[:en:obe:other:courtyard]] is found in:
+ [[:en:bible:notes:jhn:18:15|18:15]]
+
+* [[:en:obe:other:cow]] is found in:
+ [[:en:bible:notes:jhn:04:11|04:11]]
 
 * [[:en:obe:kt:cross]] is found in:
  [[:en:bible:notes:jhn:19:17|19:17]], [[:en:bible:notes:jhn:19:25|19:25]]
@@ -152,6 +149,9 @@
 
 * [[:en:obe:kt:crucify]] is found in:
  [[:en:bible:notes:jhn:19:04|19:04]], [[:en:bible:notes:jhn:19:10|19:10]], [[:en:bible:notes:jhn:19:14|19:14]], [[:en:bible:notes:jhn:19:17|19:17]], [[:en:bible:notes:jhn:19:23|19:23]], [[:en:bible:notes:jhn:19:40|19:40]]
+
+* [[:en:obe:other:cry]] is found in:
+ [[:en:bible:notes:jhn:07:37|07:37]]
 
 * [[:en:obe:kt:curse]] is found in:
  [[:en:bible:notes:jhn:07:47|07:47]]
@@ -166,13 +166,13 @@
  [[:en:bible:notes:jhn:07:40|07:40]]
 
 * [[:en:obe:kt:death]] is found in:
- [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:05:21|05:21]], [[:en:bible:notes:jhn:05:25|05:25]], [[:en:bible:notes:jhn:06:48|06:48]], [[:en:bible:notes:jhn:06:50|06:50]], [[:en:bible:notes:jhn:08:23|08:23]], [[:en:bible:notes:jhn:08:50|08:50]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:11:12|11:12]], [[:en:bible:notes:jhn:11:15|11:15]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:24|11:24]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:11:43|11:43]], [[:en:bible:notes:jhn:11:51|11:51]], [[:en:bible:notes:jhn:12:09|12:09]], [[:en:bible:notes:jhn:12:32|12:32]], [[:en:bible:notes:jhn:18:31|18:31]], [[:en:bible:notes:jhn:20:08|20:08]], [[:en:bible:notes:jhn:21:12|21:12]], [[:en:bible:notes:jhn:21:19|21:19]]
+ [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:05:21|05:21]], [[:en:bible:notes:jhn:05:25|05:25]], [[:en:bible:notes:jhn:06:48|06:48]], [[:en:bible:notes:jhn:06:50|06:50]], [[:en:bible:notes:jhn:08:21|08:21]], [[:en:bible:notes:jhn:08:23|08:23]], [[:en:bible:notes:jhn:08:50|08:50]], [[:en:bible:notes:jhn:08:52|08:52]], [[:en:bible:notes:jhn:10:27|10:27]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:11:12|11:12]], [[:en:bible:notes:jhn:11:15|11:15]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:24|11:24]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:11:43|11:43]], [[:en:bible:notes:jhn:11:51|11:51]], [[:en:bible:notes:jhn:12:09|12:09]], [[:en:bible:notes:jhn:12:32|12:32]], [[:en:bible:notes:jhn:18:31|18:31]], [[:en:bible:notes:jhn:20:08|20:08]], [[:en:bible:notes:jhn:21:12|21:12]], [[:en:bible:notes:jhn:21:19|21:19]]
 
-* [[:en:obe:other:declare]] is found in:
- [[:en:bible:notes:jhn:04:25|04:25]]
+* [[:en:obe:kt:deceive]] is found in:
+ [[:en:bible:notes:jhn:01:46|01:46]], [[:en:bible:notes:jhn:07:47|07:47]]
 
 * [[:en:obe:kt:deliverer]] is found in:
- [[:en:bible:notes:jhn:18:28|18:28]], [[:en:bible:notes:jhn:19:10|19:10]]
+ [[:en:bible:notes:jhn:18:28|18:28]]
 
 * [[:en:obe:kt:demon]] is found in:
  [[:en:bible:notes:jhn:07:19|07:19]], [[:en:bible:notes:jhn:08:48|08:48]], [[:en:bible:notes:jhn:08:52|08:52]], [[:en:bible:notes:jhn:10:19|10:19]]
@@ -180,11 +180,14 @@
 * [[:en:obe:kt:demonpossessed]] is found in:
  [[:en:bible:notes:jhn:10:19|10:19]]
 
+* [[:en:obe:other:descendant]] is found in:
+ [[:en:bible:notes:jhn:07:40|07:40]]
+
 * [[:en:obe:other:desert]] is found in:
- [[:en:bible:notes:jhn:03:14|03:14]], [[:en:bible:notes:jhn:06:48|06:48]], [[:en:bible:notes:jhn:11:54|11:54]]
+ [[:en:bible:notes:jhn:03:14|03:14]], [[:en:bible:notes:jhn:06:30|06:30]], [[:en:bible:notes:jhn:06:48|06:48]], [[:en:bible:notes:jhn:11:54|11:54]]
 
 * [[:en:obe:kt:disciple]] is found in:
- [[:en:bible:notes:jhn:01:35|01:35]], [[:en:bible:notes:jhn:02:01|02:01]], [[:en:bible:notes:jhn:02:11|02:11]], [[:en:bible:notes:jhn:02:12|02:12]], [[:en:bible:notes:jhn:03:22|03:22]], [[:en:bible:notes:jhn:04:01|04:01]], [[:en:bible:notes:jhn:04:06|04:06]], [[:en:bible:notes:jhn:04:27|04:27]], [[:en:bible:notes:jhn:04:31|04:31]], [[:en:bible:notes:jhn:06:01|06:01]], [[:en:bible:notes:jhn:06:07|06:07]], [[:en:bible:notes:jhn:06:24|06:24]], [[:en:bible:notes:jhn:06:60|06:60]], [[:en:bible:notes:jhn:06:66|06:66]], [[:en:bible:notes:jhn:07:03|07:03]], [[:en:bible:notes:jhn:08:31|08:31]], [[:en:bible:notes:jhn:09:01|09:01]], [[:en:bible:notes:jhn:09:26|09:26]], [[:en:bible:notes:jhn:11:05|11:05]], [[:en:bible:notes:jhn:11:12|11:12]], [[:en:bible:notes:jhn:11:15|11:15]], [[:en:bible:notes:jhn:11:54|11:54]], [[:en:bible:notes:jhn:12:04|12:04]], [[:en:bible:notes:jhn:12:16|12:16]], [[:en:bible:notes:jhn:13:03|13:03]], [[:en:bible:notes:jhn:13:21|13:21]], [[:en:bible:notes:jhn:13:23|13:23]], [[:en:bible:notes:jhn:13:34|13:34]], [[:en:bible:notes:jhn:15:08|15:08]], [[:en:bible:notes:jhn:16:17|16:17]], [[:en:bible:notes:jhn:16:29|16:29]], [[:en:bible:notes:jhn:18:01|18:01]], [[:en:bible:notes:jhn:18:15|18:15]], [[:en:bible:notes:jhn:18:19|18:19]], [[:en:bible:notes:jhn:18:25|18:25]], [[:en:bible:notes:jhn:19:25|19:25]], [[:en:bible:notes:jhn:19:38|19:38]], [[:en:bible:notes:jhn:20:01|20:01]], [[:en:bible:notes:jhn:20:03|20:03]], [[:en:bible:notes:jhn:20:08|20:08]], [[:en:bible:notes:jhn:20:16|20:16]], [[:en:bible:notes:jhn:20:26|20:26]], [[:en:bible:notes:jhn:20:30|20:30]], [[:en:bible:notes:jhn:21:01|21:01]], [[:en:bible:notes:jhn:21:12|21:12]], [[:en:bible:notes:jhn:21:20|21:20]]
+ [[:en:bible:notes:jhn:01:35|01:35]], [[:en:bible:notes:jhn:02:01|02:01]], [[:en:bible:notes:jhn:02:11|02:11]], [[:en:bible:notes:jhn:02:12|02:12]], [[:en:bible:notes:jhn:03:22|03:22]], [[:en:bible:notes:jhn:04:01|04:01]], [[:en:bible:notes:jhn:04:06|04:06]], [[:en:bible:notes:jhn:04:27|04:27]], [[:en:bible:notes:jhn:04:31|04:31]], [[:en:bible:notes:jhn:06:01|06:01]], [[:en:bible:notes:jhn:06:07|06:07]], [[:en:bible:notes:jhn:06:10|06:10]], [[:en:bible:notes:jhn:06:16|06:16]], [[:en:bible:notes:jhn:06:24|06:24]], [[:en:bible:notes:jhn:06:60|06:60]], [[:en:bible:notes:jhn:06:66|06:66]], [[:en:bible:notes:jhn:07:03|07:03]], [[:en:bible:notes:jhn:08:31|08:31]], [[:en:bible:notes:jhn:09:01|09:01]], [[:en:bible:notes:jhn:09:26|09:26]], [[:en:bible:notes:jhn:11:05|11:05]], [[:en:bible:notes:jhn:11:12|11:12]], [[:en:bible:notes:jhn:11:15|11:15]], [[:en:bible:notes:jhn:11:54|11:54]], [[:en:bible:notes:jhn:12:04|12:04]], [[:en:bible:notes:jhn:12:16|12:16]], [[:en:bible:notes:jhn:13:03|13:03]], [[:en:bible:notes:jhn:13:21|13:21]], [[:en:bible:notes:jhn:13:23|13:23]], [[:en:bible:notes:jhn:13:34|13:34]], [[:en:bible:notes:jhn:15:08|15:08]], [[:en:bible:notes:jhn:16:17|16:17]], [[:en:bible:notes:jhn:16:29|16:29]], [[:en:bible:notes:jhn:18:01|18:01]], [[:en:bible:notes:jhn:18:15|18:15]], [[:en:bible:notes:jhn:18:17|18:17]], [[:en:bible:notes:jhn:18:19|18:19]], [[:en:bible:notes:jhn:18:25|18:25]], [[:en:bible:notes:jhn:19:25|19:25]], [[:en:bible:notes:jhn:19:38|19:38]], [[:en:bible:notes:jhn:20:01|20:01]], [[:en:bible:notes:jhn:20:03|20:03]], [[:en:bible:notes:jhn:20:08|20:08]], [[:en:bible:notes:jhn:20:16|20:16]], [[:en:bible:notes:jhn:20:26|20:26]], [[:en:bible:notes:jhn:20:30|20:30]], [[:en:bible:notes:jhn:21:01|21:01]], [[:en:bible:notes:jhn:21:04|21:04]], [[:en:bible:notes:jhn:21:12|21:12]], [[:en:bible:notes:jhn:21:20|21:20]]
 
 * [[:en:obe:other:dishonor]] is found in:
  [[:en:bible:notes:jhn:08:48|08:48]]
@@ -204,14 +207,11 @@
 * [[:en:obe:other:elijah]] is found in:
  [[:en:bible:notes:jhn:01:19|01:19]], [[:en:bible:notes:jhn:01:24|01:24]]
 
-* [[:en:obe:kt:enslave]] is found in:
- [[:en:bible:notes:jhn:08:31|08:31]]
-
 * [[:en:obe:other:ephraim]] is found in:
  [[:en:bible:notes:jhn:11:54|11:54]]
 
 * [[:en:obe:kt:eternity]] is found in:
- [[:en:bible:notes:jhn:03:14|03:14]], [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:03:34|03:34]], [[:en:bible:notes:jhn:04:13|04:13]], [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:05:24|05:24]], [[:en:bible:notes:jhn:05:39|05:39]], [[:en:bible:notes:jhn:06:46|06:46]], [[:en:bible:notes:jhn:06:66|06:66]], [[:en:bible:notes:jhn:10:27|10:27]], [[:en:bible:notes:jhn:12:25|12:25]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:17:01|17:01]]
+ [[:en:bible:notes:jhn:03:14|03:14]], [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:03:34|03:34]], [[:en:bible:notes:jhn:04:13|04:13]], [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:05:24|05:24]], [[:en:bible:notes:jhn:05:39|05:39]], [[:en:bible:notes:jhn:06:26|06:26]], [[:en:bible:notes:jhn:06:46|06:46]], [[:en:bible:notes:jhn:06:66|06:66]], [[:en:bible:notes:jhn:10:27|10:27]], [[:en:bible:notes:jhn:12:25|12:25]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:17:01|17:01]]
 
 * [[:en:obe:kt:evil]] is found in:
  [[:en:bible:notes:jhn:03:19|03:19]], [[:en:bible:notes:jhn:05:28|05:28]], [[:en:bible:notes:jhn:07:05|07:05]], [[:en:bible:notes:jhn:18:22|18:22]], [[:en:bible:notes:jhn:18:28|18:28]]
@@ -223,25 +223,25 @@
  [[:en:bible:notes:jhn:07:12|07:12]], [[:en:bible:notes:jhn:09:22|09:22]], [[:en:bible:notes:jhn:19:07|19:07]], [[:en:bible:notes:jhn:19:38|19:38]], [[:en:bible:notes:jhn:20:19|20:19]]
 
 * [[:en:obe:other:feast]] is found in:
- [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:06:04|06:04]]
+ [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:06:04|06:04]], [[:en:bible:notes:jhn:13:28|13:28]]
 
 * [[:en:obe:other:festival]] is found in:
- [[:en:bible:notes:jhn:04:43|04:43]], [[:en:bible:notes:jhn:05:01|05:01]], [[:en:bible:notes:jhn:07:01|07:01]], [[:en:bible:notes:jhn:07:10|07:10]], [[:en:bible:notes:jhn:07:14|07:14]], [[:en:bible:notes:jhn:07:37|07:37]], [[:en:bible:notes:jhn:10:22|10:22]], [[:en:bible:notes:jhn:11:56|11:56]], [[:en:bible:notes:jhn:12:12|12:12]], [[:en:bible:notes:jhn:12:20|12:20]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:13:28|13:28]]
+ [[:en:bible:notes:jhn:04:43|04:43]], [[:en:bible:notes:jhn:05:01|05:01]], [[:en:bible:notes:jhn:07:01|07:01]], [[:en:bible:notes:jhn:07:10|07:10]], [[:en:bible:notes:jhn:07:14|07:14]], [[:en:bible:notes:jhn:07:37|07:37]], [[:en:bible:notes:jhn:10:22|10:22]], [[:en:bible:notes:jhn:11:56|11:56]], [[:en:bible:notes:jhn:12:12|12:12]], [[:en:bible:notes:jhn:12:20|12:20]], [[:en:bible:notes:jhn:13:01|13:01]]
 
 * [[:en:obe:other:fig]] is found in:
  [[:en:bible:notes:jhn:01:46|01:46]]
 
 * [[:en:obe:other:fire]] is found in:
- [[:en:bible:notes:jhn:15:05|15:05]]
+ [[:en:bible:notes:jhn:15:05|15:05]], [[:en:bible:notes:jhn:18:17|18:17]]
 
 * [[:en:obe:kt:flesh]] is found in:
- [[:en:bible:notes:jhn:01:12|01:12]], [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:03:05|03:05]], [[:en:bible:notes:jhn:06:54|06:54]], [[:en:bible:notes:jhn:06:62|06:62]], [[:en:bible:notes:jhn:08:14|08:14]]
+ [[:en:bible:notes:jhn:01:12|01:12]], [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:03:05|03:05]], [[:en:bible:notes:jhn:06:50|06:50]], [[:en:bible:notes:jhn:06:52|06:52]], [[:en:bible:notes:jhn:06:54|06:54]], [[:en:bible:notes:jhn:06:62|06:62]], [[:en:bible:notes:jhn:08:14|08:14]]
 
 * [[:en:obe:other:flock]] is found in:
  [[:en:bible:notes:jhn:10:14|10:14]]
 
 * [[:en:obe:kt:forever]] is found in:
- [[:en:bible:notes:jhn:06:50|06:50]], [[:en:bible:notes:jhn:12:34|12:34]], [[:en:bible:notes:jhn:14:15|14:15]]
+ [[:en:bible:notes:jhn:06:50|06:50]], [[:en:bible:notes:jhn:08:34|08:34]], [[:en:bible:notes:jhn:12:34|12:34]], [[:en:bible:notes:jhn:14:15|14:15]]
 
 * [[:en:obe:kt:forgive]] is found in:
  [[:en:bible:notes:jhn:20:21|20:21]]
@@ -252,11 +252,14 @@
 * [[:en:obe:other:fountain]] is found in:
  [[:en:bible:notes:jhn:04:13|04:13]]
 
+* [[:en:obe:kt:free]] is found in:
+ [[:en:bible:notes:jhn:08:31|08:31]]
+
 * [[:en:obe:kt:fruit]] is found in:
  [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:12:23|12:23]], [[:en:bible:notes:jhn:15:01|15:01]], [[:en:bible:notes:jhn:15:03|15:03]], [[:en:bible:notes:jhn:15:05|15:05]], [[:en:bible:notes:jhn:15:16|15:16]]
 
 * [[:en:obe:kt:fulfill]] is found in:
- [[:en:bible:notes:jhn:07:08|07:08]], [[:en:bible:notes:jhn:12:37|12:37]], [[:en:bible:notes:jhn:19:23|19:23]], [[:en:bible:notes:jhn:19:36|19:36]]
+ [[:en:bible:notes:jhn:07:08|07:08]], [[:en:bible:notes:jhn:12:37|12:37]], [[:en:bible:notes:jhn:15:23|15:23]], [[:en:bible:notes:jhn:17:12|17:12]], [[:en:bible:notes:jhn:18:08|18:08]], [[:en:bible:notes:jhn:18:31|18:31]], [[:en:bible:notes:jhn:19:23|19:23]], [[:en:bible:notes:jhn:19:36|19:36]]
 
 * [[:en:obe:other:galilee]] is found in:
  [[:en:bible:notes:jhn:01:43|01:43]], [[:en:bible:notes:jhn:02:01|02:01]], [[:en:bible:notes:jhn:02:11|02:11]], [[:en:bible:notes:jhn:04:01|04:01]], [[:en:bible:notes:jhn:04:43|04:43]], [[:en:bible:notes:jhn:04:46|04:46]], [[:en:bible:notes:jhn:04:53|04:53]], [[:en:bible:notes:jhn:07:01|07:01]], [[:en:bible:notes:jhn:07:08|07:08]], [[:en:bible:notes:jhn:07:40|07:40]], [[:en:bible:notes:jhn:12:20|12:20]], [[:en:bible:notes:jhn:21:01|21:01]]
@@ -271,19 +274,22 @@
  [[:en:bible:notes:jhn:07:39|07:39]], [[:en:bible:notes:jhn:08:54|08:54]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:12:16|12:16]], [[:en:bible:notes:jhn:12:23|12:23]], [[:en:bible:notes:jhn:12:27|12:27]], [[:en:bible:notes:jhn:13:31|13:31]], [[:en:bible:notes:jhn:14:12|14:12]], [[:en:bible:notes:jhn:15:08|15:08]], [[:en:bible:notes:jhn:16:12|16:12]], [[:en:bible:notes:jhn:17:01|17:01]], [[:en:bible:notes:jhn:21:19|21:19]]
 
 * [[:en:obe:kt:glory]] is found in:
- [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:02:11|02:11]], [[:en:bible:notes:jhn:07:17|07:17]], [[:en:bible:notes:jhn:08:50|08:50]], [[:en:bible:notes:jhn:09:24|09:24]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:17:09|17:09]], [[:en:bible:notes:jhn:17:22|17:22]]
+ [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:02:11|02:11]], [[:en:bible:notes:jhn:07:17|07:17]], [[:en:bible:notes:jhn:08:50|08:50]], [[:en:bible:notes:jhn:08:54|08:54]], [[:en:bible:notes:jhn:09:24|09:24]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:17:09|17:09]], [[:en:bible:notes:jhn:17:22|17:22]]
 
 * [[:en:obe:kt:god]] is found in:
- [[:en:bible:notes:jhn:01:01|01:01]], [[:en:bible:notes:jhn:01:06|01:06]], [[:en:bible:notes:jhn:03:01|03:01]], [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:03:31|03:31]], [[:en:bible:notes:jhn:04:09|04:09]], [[:en:bible:notes:jhn:05:16|05:16]], [[:en:bible:notes:jhn:05:41|05:41]], [[:en:bible:notes:jhn:07:17|07:17]], [[:en:bible:notes:jhn:08:39|08:39]], [[:en:bible:notes:jhn:08:45|08:45]], [[:en:bible:notes:jhn:09:16|09:16]], [[:en:bible:notes:jhn:09:32|09:32]], [[:en:bible:notes:jhn:10:32|10:32]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:13:03|13:03]], [[:en:bible:notes:jhn:13:31|13:31]], [[:en:bible:notes:jhn:16:01|16:01]], [[:en:bible:notes:jhn:16:29|16:29]], [[:en:bible:notes:jhn:17:03|17:03]], [[:en:bible:notes:jhn:20:16|20:16]], [[:en:bible:notes:jhn:21:19|21:19]]
+ [[:en:bible:notes:jhn:01:01|01:01]], [[:en:bible:notes:jhn:01:06|01:06]], [[:en:bible:notes:jhn:01:12|01:12]], [[:en:bible:notes:jhn:03:01|03:01]], [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:03:31|03:31]], [[:en:bible:notes:jhn:04:09|04:09]], [[:en:bible:notes:jhn:05:16|05:16]], [[:en:bible:notes:jhn:05:41|05:41]], [[:en:bible:notes:jhn:07:17|07:17]], [[:en:bible:notes:jhn:08:39|08:39]], [[:en:bible:notes:jhn:08:45|08:45]], [[:en:bible:notes:jhn:09:16|09:16]], [[:en:bible:notes:jhn:09:32|09:32]], [[:en:bible:notes:jhn:10:32|10:32]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:13:03|13:03]], [[:en:bible:notes:jhn:13:31|13:31]], [[:en:bible:notes:jhn:16:01|16:01]], [[:en:bible:notes:jhn:16:29|16:29]], [[:en:bible:notes:jhn:17:03|17:03]], [[:en:bible:notes:jhn:20:16|20:16]], [[:en:bible:notes:jhn:20:28|20:28]], [[:en:bible:notes:jhn:21:19|21:19]]
 
 * [[:en:obe:kt:godthefather]] is found in:
- [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:02:15|02:15]], [[:en:bible:notes:jhn:03:34|03:34]], [[:en:bible:notes:jhn:04:21|04:21]], [[:en:bible:notes:jhn:04:23|04:23]], [[:en:bible:notes:jhn:05:16|05:16]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:05:21|05:21]], [[:en:bible:notes:jhn:05:26|05:26]], [[:en:bible:notes:jhn:05:36|05:36]], [[:en:bible:notes:jhn:05:43|05:43]], [[:en:bible:notes:jhn:06:26|06:26]], [[:en:bible:notes:jhn:06:38|06:38]], [[:en:bible:notes:jhn:06:43|06:43]], [[:en:bible:notes:jhn:06:57|06:57]], [[:en:bible:notes:jhn:08:14|08:14]], [[:en:bible:notes:jhn:08:17|08:17]], [[:en:bible:notes:jhn:08:25|08:25]], [[:en:bible:notes:jhn:08:28|08:28]], [[:en:bible:notes:jhn:08:54|08:54]], [[:en:bible:notes:jhn:10:14|10:14]], [[:en:bible:notes:jhn:10:17|10:17]], [[:en:bible:notes:jhn:10:29|10:29]], [[:en:bible:notes:jhn:10:37|10:37]], [[:en:bible:notes:jhn:11:41|11:41]], [[:en:bible:notes:jhn:12:25|12:25]], [[:en:bible:notes:jhn:12:27|12:27]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:13:19|13:19]], [[:en:bible:notes:jhn:14:01|14:01]], [[:en:bible:notes:jhn:14:08|14:08]], [[:en:bible:notes:jhn:14:10|14:10]], [[:en:bible:notes:jhn:14:21|14:21]], [[:en:bible:notes:jhn:14:23|14:23]], [[:en:bible:notes:jhn:14:30|14:30]], [[:en:bible:notes:jhn:15:01|15:01]], [[:en:bible:notes:jhn:15:08|15:08]], [[:en:bible:notes:jhn:15:10|15:10]], [[:en:bible:notes:jhn:15:14|15:14]], [[:en:bible:notes:jhn:15:16|15:16]], [[:en:bible:notes:jhn:15:23|15:23]], [[:en:bible:notes:jhn:15:26|15:26]], [[:en:bible:notes:jhn:16:03|16:03]], [[:en:bible:notes:jhn:16:08|16:08]], [[:en:bible:notes:jhn:16:17|16:17]], [[:en:bible:notes:jhn:16:22|16:22]], [[:en:bible:notes:jhn:16:25|16:25]], [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:16:32|16:32]], [[:en:bible:notes:jhn:17:01|17:01]], [[:en:bible:notes:jhn:17:09|17:09]], [[:en:bible:notes:jhn:17:20|17:20]], [[:en:bible:notes:jhn:18:10|18:10]], [[:en:bible:notes:jhn:20:16|20:16]], [[:en:bible:notes:jhn:20:21|20:21]]
+ [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:02:15|02:15]], [[:en:bible:notes:jhn:03:34|03:34]], [[:en:bible:notes:jhn:04:21|04:21]], [[:en:bible:notes:jhn:04:23|04:23]], [[:en:bible:notes:jhn:05:16|05:16]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:05:21|05:21]], [[:en:bible:notes:jhn:05:26|05:26]], [[:en:bible:notes:jhn:05:36|05:36]], [[:en:bible:notes:jhn:05:43|05:43]], [[:en:bible:notes:jhn:06:26|06:26]], [[:en:bible:notes:jhn:06:32|06:32]], [[:en:bible:notes:jhn:06:38|06:38]], [[:en:bible:notes:jhn:06:43|06:43]], [[:en:bible:notes:jhn:06:57|06:57]], [[:en:bible:notes:jhn:08:14|08:14]], [[:en:bible:notes:jhn:08:17|08:17]], [[:en:bible:notes:jhn:08:25|08:25]], [[:en:bible:notes:jhn:08:28|08:28]], [[:en:bible:notes:jhn:08:54|08:54]], [[:en:bible:notes:jhn:10:14|10:14]], [[:en:bible:notes:jhn:10:17|10:17]], [[:en:bible:notes:jhn:10:29|10:29]], [[:en:bible:notes:jhn:10:37|10:37]], [[:en:bible:notes:jhn:11:41|11:41]], [[:en:bible:notes:jhn:12:25|12:25]], [[:en:bible:notes:jhn:12:27|12:27]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:14:01|14:01]], [[:en:bible:notes:jhn:14:08|14:08]], [[:en:bible:notes:jhn:14:10|14:10]], [[:en:bible:notes:jhn:14:21|14:21]], [[:en:bible:notes:jhn:14:23|14:23]], [[:en:bible:notes:jhn:14:30|14:30]], [[:en:bible:notes:jhn:15:01|15:01]], [[:en:bible:notes:jhn:15:08|15:08]], [[:en:bible:notes:jhn:15:10|15:10]], [[:en:bible:notes:jhn:15:14|15:14]], [[:en:bible:notes:jhn:15:16|15:16]], [[:en:bible:notes:jhn:15:23|15:23]], [[:en:bible:notes:jhn:15:26|15:26]], [[:en:bible:notes:jhn:16:03|16:03]], [[:en:bible:notes:jhn:16:08|16:08]], [[:en:bible:notes:jhn:16:15|16:15]], [[:en:bible:notes:jhn:16:17|16:17]], [[:en:bible:notes:jhn:16:22|16:22]], [[:en:bible:notes:jhn:16:25|16:25]], [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:16:32|16:32]], [[:en:bible:notes:jhn:17:01|17:01]], [[:en:bible:notes:jhn:17:09|17:09]], [[:en:bible:notes:jhn:17:20|17:20]], [[:en:bible:notes:jhn:18:10|18:10]], [[:en:bible:notes:jhn:20:16|20:16]], [[:en:bible:notes:jhn:20:21|20:21]]
 
 * [[:en:obe:other:golgotha]] is found in:
  [[:en:bible:notes:jhn:19:17|19:17]]
 
 * [[:en:obe:kt:good]] is found in:
- [[:en:bible:notes:jhn:10:11|10:11]]
+ [[:en:bible:notes:jhn:05:28|05:28]], [[:en:bible:notes:jhn:07:12|07:12]], [[:en:bible:notes:jhn:10:11|10:11]]
+
+* [[:en:obe:other:governor]] is found in:
+ [[:en:bible:notes:jhn:18:28|18:28]], [[:en:bible:notes:jhn:18:33|18:33]]
 
 * [[:en:obe:kt:grace]] is found in:
  [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:01:16|01:16]]
@@ -304,13 +310,13 @@
  [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:04:37|04:37]]
 
 * [[:en:obe:other:heal]] is found in:
- [[:en:bible:notes:jhn:05:09|05:09]], [[:en:bible:notes:jhn:05:10|05:10]], [[:en:bible:notes:jhn:12:39|12:39]]
+ [[:en:bible:notes:jhn:05:09|05:09]], [[:en:bible:notes:jhn:05:10|05:10]], [[:en:bible:notes:jhn:05:12|05:12]], [[:en:bible:notes:jhn:12:39|12:39]]
 
 * [[:en:obe:other:heart]] is found in:
- [[:en:bible:notes:jhn:12:39|12:39]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:14:25|14:25]], [[:en:bible:notes:jhn:16:05|16:05]], [[:en:bible:notes:jhn:16:22|16:22]]
+ [[:en:bible:notes:jhn:12:39|12:39]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:14:01|14:01]], [[:en:bible:notes:jhn:14:25|14:25]], [[:en:bible:notes:jhn:16:05|16:05]], [[:en:bible:notes:jhn:16:22|16:22]]
 
 * [[:en:obe:kt:heaven]] is found in:
- [[:en:bible:notes:jhn:01:32|01:32]], [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:03:12|03:12]], [[:en:bible:notes:jhn:03:27|03:27]], [[:en:bible:notes:jhn:03:31|03:31]], [[:en:bible:notes:jhn:06:30|06:30]], [[:en:bible:notes:jhn:06:32|06:32]], [[:en:bible:notes:jhn:06:41|06:41]], [[:en:bible:notes:jhn:06:57|06:57]], [[:en:bible:notes:jhn:12:27|12:27]], [[:en:bible:notes:jhn:17:01|17:01]]
+ [[:en:bible:notes:jhn:01:32|01:32]], [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:03:12|03:12]], [[:en:bible:notes:jhn:03:27|03:27]], [[:en:bible:notes:jhn:03:31|03:31]], [[:en:bible:notes:jhn:06:30|06:30]], [[:en:bible:notes:jhn:06:32|06:32]], [[:en:bible:notes:jhn:06:38|06:38]], [[:en:bible:notes:jhn:06:41|06:41]], [[:en:bible:notes:jhn:06:57|06:57]], [[:en:bible:notes:jhn:12:27|12:27]], [[:en:bible:notes:jhn:17:01|17:01]]
 
 * [[:en:obe:other:hebrew]] is found in:
  [[:en:bible:notes:jhn:05:01|05:01]], [[:en:bible:notes:jhn:19:12|19:12]], [[:en:bible:notes:jhn:19:19|19:19]], [[:en:bible:notes:jhn:20:16|20:16]]
@@ -325,10 +331,10 @@
  [[:en:bible:notes:jhn:06:66|06:66]]
 
 * [[:en:obe:kt:holyspirit]] is found in:
- [[:en:bible:notes:jhn:01:32|01:32]], [[:en:bible:notes:jhn:03:05|03:05]], [[:en:bible:notes:jhn:03:07|03:07]], [[:en:bible:notes:jhn:03:34|03:34]], [[:en:bible:notes:jhn:04:23|04:23]], [[:en:bible:notes:jhn:06:62|06:62]], [[:en:bible:notes:jhn:07:39|07:39]], [[:en:bible:notes:jhn:14:15|14:15]], [[:en:bible:notes:jhn:14:25|14:25]], [[:en:bible:notes:jhn:15:26|15:26]], [[:en:bible:notes:jhn:16:12|16:12]], [[:en:bible:notes:jhn:20:21|20:21]]
+ [[:en:bible:notes:jhn:01:32|01:32]], [[:en:bible:notes:jhn:03:05|03:05]], [[:en:bible:notes:jhn:03:07|03:07]], [[:en:bible:notes:jhn:03:34|03:34]], [[:en:bible:notes:jhn:04:23|04:23]], [[:en:bible:notes:jhn:06:62|06:62]], [[:en:bible:notes:jhn:07:39|07:39]], [[:en:bible:notes:jhn:14:15|14:15]], [[:en:bible:notes:jhn:14:25|14:25]], [[:en:bible:notes:jhn:15:26|15:26]], [[:en:bible:notes:jhn:16:12|16:12]], [[:en:bible:notes:jhn:16:15|16:15]], [[:en:bible:notes:jhn:20:21|20:21]]
 
 * [[:en:obe:other:honor]] is found in:
- [[:en:bible:notes:jhn:04:43|04:43]], [[:en:bible:notes:jhn:12:25|12:25]]
+ [[:en:bible:notes:jhn:04:43|04:43]], [[:en:bible:notes:jhn:08:48|08:48]], [[:en:bible:notes:jhn:12:25|12:25]]
 
 * [[:en:obe:kt:hope]] is found in:
  [[:en:bible:notes:jhn:05:45|05:45]]
@@ -358,10 +364,10 @@
  [[:en:bible:notes:jhn:01:19|01:19]], [[:en:bible:notes:jhn:02:13|02:13]], [[:en:bible:notes:jhn:04:19|04:19]], [[:en:bible:notes:jhn:04:21|04:21]], [[:en:bible:notes:jhn:04:43|04:43]], [[:en:bible:notes:jhn:05:01|05:01]], [[:en:bible:notes:jhn:07:25|07:25]], [[:en:bible:notes:jhn:10:22|10:22]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:11:54|11:54]], [[:en:bible:notes:jhn:12:12|12:12]]
 
 * [[:en:obe:kt:jesus]] is found in:
- [[:en:bible:notes:jhn:01:16|01:16]], [[:en:bible:notes:jhn:01:29|01:29]], [[:en:bible:notes:jhn:01:35|01:35]], [[:en:bible:notes:jhn:01:43|01:43]], [[:en:bible:notes:jhn:02:01|02:01]], [[:en:bible:notes:jhn:02:03|02:03]], [[:en:bible:notes:jhn:04:01|04:01]], [[:en:bible:notes:jhn:04:06|04:06]], [[:en:bible:notes:jhn:04:13|04:13]], [[:en:bible:notes:jhn:04:17|04:17]], [[:en:bible:notes:jhn:04:21|04:21]], [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:04:43|04:43]], [[:en:bible:notes:jhn:04:46|04:46]], [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:04:53|04:53]], [[:en:bible:notes:jhn:05:01|05:01]], [[:en:bible:notes:jhn:05:05|05:05]], [[:en:bible:notes:jhn:05:07|05:07]], [[:en:bible:notes:jhn:05:14|05:14]], [[:en:bible:notes:jhn:05:16|05:16]], [[:en:bible:notes:jhn:06:01|06:01]], [[:en:bible:notes:jhn:06:64|06:64]], [[:en:bible:notes:jhn:07:01|07:01]], [[:en:bible:notes:jhn:07:28|07:28]], [[:en:bible:notes:jhn:09:13|09:13]], [[:en:bible:notes:jhn:10:05|10:05]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:11:51|11:51]], [[:en:bible:notes:jhn:12:01|12:01]], [[:en:bible:notes:jhn:12:30|12:30]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:13:21|13:21]], [[:en:bible:notes:jhn:16:19|16:19]], [[:en:bible:notes:jhn:16:29|16:29]], [[:en:bible:notes:jhn:17:01|17:01]], [[:en:bible:notes:jhn:18:15|18:15]], [[:en:bible:notes:jhn:18:19|18:19]], [[:en:bible:notes:jhn:19:01|19:01]], [[:en:bible:notes:jhn:19:14|19:14]], [[:en:bible:notes:jhn:19:40|19:40]], [[:en:bible:notes:jhn:20:01|20:01]], [[:en:bible:notes:jhn:20:14|20:14]], [[:en:bible:notes:jhn:20:21|20:21]], [[:en:bible:notes:jhn:20:24|20:24]], [[:en:bible:notes:jhn:20:26|20:26]], [[:en:bible:notes:jhn:21:01|21:01]], [[:en:bible:notes:jhn:21:12|21:12]]
+ [[:en:bible:notes:jhn:01:16|01:16]], [[:en:bible:notes:jhn:01:29|01:29]], [[:en:bible:notes:jhn:01:35|01:35]], [[:en:bible:notes:jhn:01:43|01:43]], [[:en:bible:notes:jhn:02:01|02:01]], [[:en:bible:notes:jhn:02:03|02:03]], [[:en:bible:notes:jhn:04:01|04:01]], [[:en:bible:notes:jhn:04:06|04:06]], [[:en:bible:notes:jhn:04:13|04:13]], [[:en:bible:notes:jhn:04:17|04:17]], [[:en:bible:notes:jhn:04:21|04:21]], [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:04:43|04:43]], [[:en:bible:notes:jhn:04:46|04:46]], [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:04:53|04:53]], [[:en:bible:notes:jhn:05:01|05:01]], [[:en:bible:notes:jhn:05:05|05:05]], [[:en:bible:notes:jhn:05:07|05:07]], [[:en:bible:notes:jhn:05:12|05:12]], [[:en:bible:notes:jhn:05:14|05:14]], [[:en:bible:notes:jhn:05:16|05:16]], [[:en:bible:notes:jhn:06:01|06:01]], [[:en:bible:notes:jhn:06:10|06:10]], [[:en:bible:notes:jhn:06:24|06:24]], [[:en:bible:notes:jhn:06:64|06:64]], [[:en:bible:notes:jhn:07:01|07:01]], [[:en:bible:notes:jhn:07:28|07:28]], [[:en:bible:notes:jhn:09:13|09:13]], [[:en:bible:notes:jhn:10:05|10:05]], [[:en:bible:notes:jhn:10:07|10:07]], [[:en:bible:notes:jhn:11:05|11:05]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:11:51|11:51]], [[:en:bible:notes:jhn:12:01|12:01]], [[:en:bible:notes:jhn:12:07|12:07]], [[:en:bible:notes:jhn:12:09|12:09]], [[:en:bible:notes:jhn:12:12|12:12]], [[:en:bible:notes:jhn:12:30|12:30]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:13:21|13:21]], [[:en:bible:notes:jhn:16:19|16:19]], [[:en:bible:notes:jhn:16:29|16:29]], [[:en:bible:notes:jhn:17:01|17:01]], [[:en:bible:notes:jhn:18:15|18:15]], [[:en:bible:notes:jhn:18:19|18:19]], [[:en:bible:notes:jhn:19:01|19:01]], [[:en:bible:notes:jhn:19:14|19:14]], [[:en:bible:notes:jhn:19:40|19:40]], [[:en:bible:notes:jhn:20:01|20:01]], [[:en:bible:notes:jhn:20:14|20:14]], [[:en:bible:notes:jhn:20:21|20:21]], [[:en:bible:notes:jhn:20:24|20:24]], [[:en:bible:notes:jhn:20:26|20:26]], [[:en:bible:notes:jhn:20:28|20:28]], [[:en:bible:notes:jhn:21:01|21:01]], [[:en:bible:notes:jhn:21:04|21:04]], [[:en:bible:notes:jhn:21:12|21:12]]
 
 * [[:en:obe:other:jew]] is found in:
- [[:en:bible:notes:jhn:01:19|01:19]], [[:en:bible:notes:jhn:02:06|02:06]], [[:en:bible:notes:jhn:02:13|02:13]], [[:en:bible:notes:jhn:03:25|03:25]], [[:en:bible:notes:jhn:04:09|04:09]], [[:en:bible:notes:jhn:04:21|04:21]], [[:en:bible:notes:jhn:05:01|05:01]], [[:en:bible:notes:jhn:06:04|06:04]], [[:en:bible:notes:jhn:06:52|06:52]], [[:en:bible:notes:jhn:07:01|07:01]], [[:en:bible:notes:jhn:07:10|07:10]], [[:en:bible:notes:jhn:07:35|07:35]], [[:en:bible:notes:jhn:08:21|08:21]], [[:en:bible:notes:jhn:08:48|08:48]], [[:en:bible:notes:jhn:08:57|08:57]], [[:en:bible:notes:jhn:09:16|09:16]], [[:en:bible:notes:jhn:10:19|10:19]], [[:en:bible:notes:jhn:10:29|10:29]], [[:en:bible:notes:jhn:11:08|11:08]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:11:45|11:45]], [[:en:bible:notes:jhn:11:54|11:54]], [[:en:bible:notes:jhn:12:09|12:09]], [[:en:bible:notes:jhn:13:31|13:31]], [[:en:bible:notes:jhn:18:12|18:12]], [[:en:bible:notes:jhn:18:19|18:19]], [[:en:bible:notes:jhn:18:33|18:33]], [[:en:bible:notes:jhn:18:36|18:36]], [[:en:bible:notes:jhn:19:07|19:07]], [[:en:bible:notes:jhn:19:12|19:12]], [[:en:bible:notes:jhn:19:14|19:14]], [[:en:bible:notes:jhn:19:31|19:31]], [[:en:bible:notes:jhn:19:38|19:38]], [[:en:bible:notes:jhn:20:19|20:19]]
+ [[:en:bible:notes:jhn:01:19|01:19]], [[:en:bible:notes:jhn:02:06|02:06]], [[:en:bible:notes:jhn:02:13|02:13]], [[:en:bible:notes:jhn:03:25|03:25]], [[:en:bible:notes:jhn:04:09|04:09]], [[:en:bible:notes:jhn:04:21|04:21]], [[:en:bible:notes:jhn:05:01|05:01]], [[:en:bible:notes:jhn:06:04|06:04]], [[:en:bible:notes:jhn:06:41|06:41]], [[:en:bible:notes:jhn:06:52|06:52]], [[:en:bible:notes:jhn:07:01|07:01]], [[:en:bible:notes:jhn:07:10|07:10]], [[:en:bible:notes:jhn:07:35|07:35]], [[:en:bible:notes:jhn:08:21|08:21]], [[:en:bible:notes:jhn:08:48|08:48]], [[:en:bible:notes:jhn:08:57|08:57]], [[:en:bible:notes:jhn:09:16|09:16]], [[:en:bible:notes:jhn:10:19|10:19]], [[:en:bible:notes:jhn:10:29|10:29]], [[:en:bible:notes:jhn:11:08|11:08]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:11:45|11:45]], [[:en:bible:notes:jhn:11:54|11:54]], [[:en:bible:notes:jhn:12:09|12:09]], [[:en:bible:notes:jhn:13:31|13:31]], [[:en:bible:notes:jhn:18:12|18:12]], [[:en:bible:notes:jhn:18:19|18:19]], [[:en:bible:notes:jhn:18:31|18:31]], [[:en:bible:notes:jhn:18:33|18:33]], [[:en:bible:notes:jhn:18:36|18:36]], [[:en:bible:notes:jhn:19:07|19:07]], [[:en:bible:notes:jhn:19:12|19:12]], [[:en:bible:notes:jhn:19:14|19:14]], [[:en:bible:notes:jhn:19:31|19:31]], [[:en:bible:notes:jhn:19:38|19:38]], [[:en:bible:notes:jhn:20:19|20:19]]
 
 * [[:en:obe:other:jewishleaders]] is found in:
  [[:en:bible:notes:jhn:02:17|02:17]], [[:en:bible:notes:jhn:05:10|05:10]], [[:en:bible:notes:jhn:05:14|05:14]], [[:en:bible:notes:jhn:05:16|05:16]]
@@ -376,7 +382,7 @@
  [[:en:bible:notes:jhn:01:26|01:26]], [[:en:bible:notes:jhn:03:25|03:25]], [[:en:bible:notes:jhn:10:40|10:40]]
 
 * [[:en:obe:other:josephnt]] is found in:
- [[:en:bible:notes:jhn:01:43|01:43]]
+ [[:en:bible:notes:jhn:01:43|01:43]], [[:en:bible:notes:jhn:06:41|06:41]]
 
 * [[:en:obe:other:josephot]] is found in:
  [[:en:bible:notes:jhn:04:04|04:04]]
@@ -385,7 +391,7 @@
  [[:en:bible:notes:jhn:15:10|15:10]], [[:en:bible:notes:jhn:16:19|16:19]], [[:en:bible:notes:jhn:16:22|16:22]], [[:en:bible:notes:jhn:17:12|17:12]]
 
 * [[:en:obe:other:judasiscariot]] is found in:
- [[:en:bible:notes:jhn:06:70|06:70]], [[:en:bible:notes:jhn:12:04|12:04]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:13:26|13:26]], [[:en:bible:notes:jhn:18:04|18:04]]
+ [[:en:bible:notes:jhn:06:70|06:70]], [[:en:bible:notes:jhn:12:04|12:04]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:13:26|13:26]], [[:en:bible:notes:jhn:18:01|18:01]], [[:en:bible:notes:jhn:18:04|18:04]]
 
 * [[:en:obe:other:judea]] is found in:
  [[:en:bible:notes:jhn:03:22|03:22]], [[:en:bible:notes:jhn:04:01|04:01]], [[:en:bible:notes:jhn:04:46|04:46]], [[:en:bible:notes:jhn:04:53|04:53]], [[:en:bible:notes:jhn:07:01|07:01]], [[:en:bible:notes:jhn:11:05|11:05]]
@@ -393,8 +399,11 @@
 * [[:en:obe:kt:judge]] is found in:
  [[:en:bible:notes:jhn:03:19|03:19]], [[:en:bible:notes:jhn:05:21|05:21]], [[:en:bible:notes:jhn:05:26|05:26]], [[:en:bible:notes:jhn:05:28|05:28]], [[:en:bible:notes:jhn:05:30|05:30]], [[:en:bible:notes:jhn:07:23|07:23]], [[:en:bible:notes:jhn:07:50|07:50]], [[:en:bible:notes:jhn:08:14|08:14]], [[:en:bible:notes:jhn:08:25|08:25]], [[:en:bible:notes:jhn:08:50|08:50]], [[:en:bible:notes:jhn:09:39|09:39]], [[:en:bible:notes:jhn:12:30|12:30]], [[:en:bible:notes:jhn:12:46|12:46]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:16:08|16:08]], [[:en:bible:notes:jhn:18:31|18:31]], [[:en:bible:notes:jhn:19:12|19:12]]
 
+* [[:en:obe:other:kidronvalley]] is found in:
+ [[:en:bible:notes:jhn:18:01|18:01]]
+
 * [[:en:obe:other:king]] is found in:
- [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:06:13|06:13]], [[:en:bible:notes:jhn:12:12|12:12]], [[:en:bible:notes:jhn:18:36|18:36]], [[:en:bible:notes:jhn:19:12|19:12]]
+ [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:06:13|06:13]], [[:en:bible:notes:jhn:12:12|12:12]], [[:en:bible:notes:jhn:18:36|18:36]], [[:en:bible:notes:jhn:19:12|19:12]], [[:en:bible:notes:jhn:19:14|19:14]]
 
 * [[:en:obe:other:kingdom]] is found in:
  [[:en:bible:notes:jhn:18:36|18:36]]
@@ -406,7 +415,7 @@
  [[:en:bible:notes:jhn:18:33|18:33]], [[:en:bible:notes:jhn:18:38|18:38]], [[:en:bible:notes:jhn:19:01|19:01]], [[:en:bible:notes:jhn:19:19|19:19]], [[:en:bible:notes:jhn:19:21|19:21]]
 
 * [[:en:obe:other:know]] is found in:
- [[:en:bible:notes:jhn:01:10|01:10]], [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:10:03|10:03]], [[:en:bible:notes:jhn:10:14|10:14]], [[:en:bible:notes:jhn:14:04|14:04]]
+ [[:en:bible:notes:jhn:01:10|01:10]], [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:08:19|08:19]], [[:en:bible:notes:jhn:08:54|08:54]], [[:en:bible:notes:jhn:10:03|10:03]], [[:en:bible:notes:jhn:10:14|10:14]], [[:en:bible:notes:jhn:10:37|10:37]], [[:en:bible:notes:jhn:14:04|14:04]]
 
 * [[:en:obe:other:labor]] is found in:
  [[:en:bible:notes:jhn:04:37|04:37]]
@@ -421,7 +430,7 @@
  [[:en:bible:notes:jhn:05:33|05:33]]
 
 * [[:en:obe:kt:lastday]] is found in:
- [[:en:bible:notes:jhn:06:38|06:38]], [[:en:bible:notes:jhn:06:43|06:43]], [[:en:bible:notes:jhn:11:24|11:24]]
+ [[:en:bible:notes:jhn:06:38|06:38]], [[:en:bible:notes:jhn:06:43|06:43]], [[:en:bible:notes:jhn:06:54|06:54]], [[:en:bible:notes:jhn:11:24|11:24]]
 
 * [[:en:obe:other:law]] is found in:
  [[:en:bible:notes:jhn:18:31|18:31]], [[:en:bible:notes:jhn:19:07|19:07]]
@@ -433,34 +442,34 @@
  [[:en:bible:notes:jhn:01:16|01:16]], [[:en:bible:notes:jhn:01:43|01:43]], [[:en:bible:notes:jhn:07:19|07:19]], [[:en:bible:notes:jhn:07:47|07:47]], [[:en:bible:notes:jhn:08:04|08:04]], [[:en:bible:notes:jhn:08:17|08:17]], [[:en:bible:notes:jhn:10:34|10:34]], [[:en:bible:notes:jhn:12:34|12:34]], [[:en:bible:notes:jhn:15:23|15:23]]
 
 * [[:en:obe:other:lazarus]] is found in:
- [[:en:bible:notes:jhn:11:01|11:01]], [[:en:bible:notes:jhn:11:10|11:10]], [[:en:bible:notes:jhn:11:12|11:12]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:11:36|11:36]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:12:01|12:01]], [[:en:bible:notes:jhn:12:17|12:17]]
+ [[:en:bible:notes:jhn:11:01|11:01]], [[:en:bible:notes:jhn:11:05|11:05]], [[:en:bible:notes:jhn:11:10|11:10]], [[:en:bible:notes:jhn:11:12|11:12]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:11:36|11:36]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:12:01|12:01]], [[:en:bible:notes:jhn:12:09|12:09]], [[:en:bible:notes:jhn:12:17|12:17]]
 
 * [[:en:obe:other:levite]] is found in:
  [[:en:bible:notes:jhn:01:19|01:19]]
 
 * [[:en:obe:kt:life]] is found in:
- [[:en:bible:notes:jhn:01:04|01:04]], [[:en:bible:notes:jhn:04:13|04:13]], [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:04:51|04:51]], [[:en:bible:notes:jhn:05:21|05:21]], [[:en:bible:notes:jhn:05:24|05:24]], [[:en:bible:notes:jhn:05:25|05:25]], [[:en:bible:notes:jhn:05:26|05:26]], [[:en:bible:notes:jhn:05:39|05:39]], [[:en:bible:notes:jhn:06:32|06:32]], [[:en:bible:notes:jhn:06:35|06:35]], [[:en:bible:notes:jhn:08:12|08:12]], [[:en:bible:notes:jhn:10:09|10:09]], [[:en:bible:notes:jhn:10:11|10:11]], [[:en:bible:notes:jhn:10:14|10:14]], [[:en:bible:notes:jhn:10:27|10:27]], [[:en:bible:notes:jhn:11:24|11:24]], [[:en:bible:notes:jhn:12:25|12:25]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:14:04|14:04]], [[:en:bible:notes:jhn:15:12|15:12]], [[:en:bible:notes:jhn:20:30|20:30]]
+ [[:en:bible:notes:jhn:01:04|01:04]], [[:en:bible:notes:jhn:04:13|04:13]], [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:04:51|04:51]], [[:en:bible:notes:jhn:05:21|05:21]], [[:en:bible:notes:jhn:05:24|05:24]], [[:en:bible:notes:jhn:05:25|05:25]], [[:en:bible:notes:jhn:05:26|05:26]], [[:en:bible:notes:jhn:05:39|05:39]], [[:en:bible:notes:jhn:06:32|06:32]], [[:en:bible:notes:jhn:06:35|06:35]], [[:en:bible:notes:jhn:06:50|06:50]], [[:en:bible:notes:jhn:06:62|06:62]], [[:en:bible:notes:jhn:08:12|08:12]], [[:en:bible:notes:jhn:10:09|10:09]], [[:en:bible:notes:jhn:10:11|10:11]], [[:en:bible:notes:jhn:10:14|10:14]], [[:en:bible:notes:jhn:10:27|10:27]], [[:en:bible:notes:jhn:11:24|11:24]], [[:en:bible:notes:jhn:12:25|12:25]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:14:04|14:04]], [[:en:bible:notes:jhn:14:10|14:10]], [[:en:bible:notes:jhn:14:18|14:18]], [[:en:bible:notes:jhn:15:12|15:12]], [[:en:bible:notes:jhn:20:30|20:30]]
 
 * [[:en:obe:kt:light]] is found in:
  [[:en:bible:notes:jhn:01:04|01:04]], [[:en:bible:notes:jhn:01:06|01:06]], [[:en:bible:notes:jhn:01:09|01:09]], [[:en:bible:notes:jhn:03:19|03:19]], [[:en:bible:notes:jhn:08:12|08:12]], [[:en:bible:notes:jhn:09:03|09:03]], [[:en:bible:notes:jhn:11:08|11:08]], [[:en:bible:notes:jhn:11:10|11:10]], [[:en:bible:notes:jhn:12:34|12:34]], [[:en:bible:notes:jhn:12:46|12:46]]
 
 * [[:en:obe:kt:lord]] is found in:
- [[:en:bible:notes:jhn:05:07|05:07]], [[:en:bible:notes:jhn:06:32|06:32]], [[:en:bible:notes:jhn:11:12|11:12]], [[:en:bible:notes:jhn:11:33|11:33]], [[:en:bible:notes:jhn:13:16|13:16]], [[:en:bible:notes:jhn:14:08|14:08]], [[:en:bible:notes:jhn:15:14|15:14]], [[:en:bible:notes:jhn:15:20|15:20]]
+ [[:en:bible:notes:jhn:04:15|04:15]], [[:en:bible:notes:jhn:04:19|04:19]], [[:en:bible:notes:jhn:05:07|05:07]], [[:en:bible:notes:jhn:06:32|06:32]], [[:en:bible:notes:jhn:13:16|13:16]], [[:en:bible:notes:jhn:15:14|15:14]], [[:en:bible:notes:jhn:15:20|15:20]]
 
 * [[:en:obe:kt:lordgod]] is found in:
- [[:en:bible:notes:jhn:01:22|01:22]], [[:en:bible:notes:jhn:06:22|06:22]], [[:en:bible:notes:jhn:06:66|06:66]], [[:en:bible:notes:jhn:08:09|08:09]], [[:en:bible:notes:jhn:09:35|09:35]], [[:en:bible:notes:jhn:11:01|11:01]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:12:12|12:12]], [[:en:bible:notes:jhn:12:37|12:37]], [[:en:bible:notes:jhn:13:06|13:06]], [[:en:bible:notes:jhn:13:12|13:12]], [[:en:bible:notes:jhn:13:23|13:23]], [[:en:bible:notes:jhn:13:36|13:36]], [[:en:bible:notes:jhn:20:01|20:01]], [[:en:bible:notes:jhn:20:11|20:11]], [[:en:bible:notes:jhn:20:16|20:16]], [[:en:bible:notes:jhn:21:07|21:07]], [[:en:bible:notes:jhn:21:15|21:15]]
+ [[:en:bible:notes:jhn:01:22|01:22]], [[:en:bible:notes:jhn:06:22|06:22]], [[:en:bible:notes:jhn:06:66|06:66]], [[:en:bible:notes:jhn:08:09|08:09]], [[:en:bible:notes:jhn:09:35|09:35]], [[:en:bible:notes:jhn:11:01|11:01]], [[:en:bible:notes:jhn:11:12|11:12]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:11:33|11:33]], [[:en:bible:notes:jhn:12:12|12:12]], [[:en:bible:notes:jhn:12:37|12:37]], [[:en:bible:notes:jhn:13:06|13:06]], [[:en:bible:notes:jhn:13:12|13:12]], [[:en:bible:notes:jhn:13:23|13:23]], [[:en:bible:notes:jhn:13:36|13:36]], [[:en:bible:notes:jhn:14:08|14:08]], [[:en:bible:notes:jhn:20:01|20:01]], [[:en:bible:notes:jhn:20:11|20:11]], [[:en:bible:notes:jhn:20:16|20:16]], [[:en:bible:notes:jhn:20:28|20:28]], [[:en:bible:notes:jhn:21:07|21:07]], [[:en:bible:notes:jhn:21:15|21:15]]
 
 * [[:en:obe:other:lots]] is found in:
  [[:en:bible:notes:jhn:19:23|19:23]]
 
 * [[:en:obe:kt:love]] is found in:
- [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:05:41|05:41]], [[:en:bible:notes:jhn:08:42|08:42]], [[:en:bible:notes:jhn:10:17|10:17]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:11:05|11:05]], [[:en:bible:notes:jhn:11:36|11:36]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:13:23|13:23]], [[:en:bible:notes:jhn:13:34|13:34]], [[:en:bible:notes:jhn:14:21|14:21]], [[:en:bible:notes:jhn:14:23|14:23]], [[:en:bible:notes:jhn:14:28|14:28]], [[:en:bible:notes:jhn:15:08|15:08]], [[:en:bible:notes:jhn:15:18|15:18]], [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:17:22|17:22]], [[:en:bible:notes:jhn:17:25|17:25]], [[:en:bible:notes:jhn:20:01|20:01]], [[:en:bible:notes:jhn:21:07|21:07]], [[:en:bible:notes:jhn:21:15|21:15]], [[:en:bible:notes:jhn:21:17|21:17]], [[:en:bible:notes:jhn:21:20|21:20]]
+ [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:05:41|05:41]], [[:en:bible:notes:jhn:08:42|08:42]], [[:en:bible:notes:jhn:10:17|10:17]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:11:05|11:05]], [[:en:bible:notes:jhn:11:36|11:36]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:13:23|13:23]], [[:en:bible:notes:jhn:13:34|13:34]], [[:en:bible:notes:jhn:14:21|14:21]], [[:en:bible:notes:jhn:14:23|14:23]], [[:en:bible:notes:jhn:14:28|14:28]], [[:en:bible:notes:jhn:15:08|15:08]], [[:en:bible:notes:jhn:15:12|15:12]], [[:en:bible:notes:jhn:15:18|15:18]], [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:17:22|17:22]], [[:en:bible:notes:jhn:17:25|17:25]], [[:en:bible:notes:jhn:20:01|20:01]], [[:en:bible:notes:jhn:21:07|21:07]], [[:en:bible:notes:jhn:21:15|21:15]], [[:en:bible:notes:jhn:21:17|21:17]], [[:en:bible:notes:jhn:21:20|21:20]]
 
 * [[:en:obe:other:manna]] is found in:
  [[:en:bible:notes:jhn:06:30|06:30]], [[:en:bible:notes:jhn:06:48|06:48]]
 
 * [[:en:obe:other:martha]] is found in:
- [[:en:bible:notes:jhn:11:01|11:01]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:12:01|12:01]]
+ [[:en:bible:notes:jhn:11:01|11:01]], [[:en:bible:notes:jhn:11:05|11:05]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:12:01|12:01]]
 
 * [[:en:obe:other:mary]] is found in:
  [[:en:bible:notes:jhn:02:01|02:01]], [[:en:bible:notes:jhn:02:03|02:03]], [[:en:bible:notes:jhn:02:12|02:12]], [[:en:bible:notes:jhn:19:25|19:25]]
@@ -471,11 +480,14 @@
 * [[:en:obe:other:marysisterofmartha]] is found in:
  [[:en:bible:notes:jhn:11:01|11:01]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:11:45|11:45]], [[:en:bible:notes:jhn:12:01|12:01]]
 
+* [[:en:obe:other:messenger]] is found in:
+ [[:en:bible:notes:jhn:13:16|13:16]]
+
 * [[:en:obe:kt:miracle]] is found in:
- [[:en:bible:notes:jhn:02:11|02:11]], [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:04:53|04:53]], [[:en:bible:notes:jhn:06:01|06:01]], [[:en:bible:notes:jhn:09:16|09:16]], [[:en:bible:notes:jhn:10:40|10:40]], [[:en:bible:notes:jhn:11:47|11:47]], [[:en:bible:notes:jhn:20:30|20:30]]
+ [[:en:bible:notes:jhn:02:11|02:11]], [[:en:bible:notes:jhn:02:17|02:17]], [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:04:53|04:53]], [[:en:bible:notes:jhn:06:01|06:01]], [[:en:bible:notes:jhn:06:13|06:13]], [[:en:bible:notes:jhn:06:30|06:30]], [[:en:bible:notes:jhn:09:16|09:16]], [[:en:bible:notes:jhn:10:40|10:40]], [[:en:bible:notes:jhn:11:47|11:47]], [[:en:bible:notes:jhn:20:30|20:30]]
 
 * [[:en:obe:other:moses]] is found in:
- [[:en:bible:notes:jhn:01:16|01:16]], [[:en:bible:notes:jhn:03:14|03:14]], [[:en:bible:notes:jhn:05:45|05:45]], [[:en:bible:notes:jhn:06:32|06:32]], [[:en:bible:notes:jhn:07:19|07:19]], [[:en:bible:notes:jhn:08:04|08:04]], [[:en:bible:notes:jhn:09:28|09:28]]
+ [[:en:bible:notes:jhn:01:16|01:16]], [[:en:bible:notes:jhn:01:43|01:43]], [[:en:bible:notes:jhn:03:14|03:14]], [[:en:bible:notes:jhn:05:45|05:45]], [[:en:bible:notes:jhn:06:32|06:32]], [[:en:bible:notes:jhn:07:19|07:19]], [[:en:bible:notes:jhn:08:04|08:04]], [[:en:bible:notes:jhn:09:28|09:28]]
 
 * [[:en:obe:other:mountofolives]] is found in:
  [[:en:bible:notes:jhn:08:01|08:01]]
@@ -484,19 +496,25 @@
  [[:en:bible:notes:jhn:11:01|11:01]], [[:en:bible:notes:jhn:19:38|19:38]]
 
 * [[:en:obe:kt:name]] is found in:
- [[:en:bible:notes:jhn:01:12|01:12]], [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:05:43|05:43]], [[:en:bible:notes:jhn:10:03|10:03]], [[:en:bible:notes:jhn:10:25|10:25]], [[:en:bible:notes:jhn:12:12|12:12]], [[:en:bible:notes:jhn:12:27|12:27]], [[:en:bible:notes:jhn:14:12|14:12]], [[:en:bible:notes:jhn:14:25|14:25]], [[:en:bible:notes:jhn:15:16|15:16]], [[:en:bible:notes:jhn:16:22|16:22]], [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:17:09|17:09]], [[:en:bible:notes:jhn:17:25|17:25]], [[:en:bible:notes:jhn:20:30|20:30]]
+ [[:en:bible:notes:jhn:01:12|01:12]], [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:05:43|05:43]], [[:en:bible:notes:jhn:10:03|10:03]], [[:en:bible:notes:jhn:10:25|10:25]], [[:en:bible:notes:jhn:12:12|12:12]], [[:en:bible:notes:jhn:12:27|12:27]], [[:en:bible:notes:jhn:14:12|14:12]], [[:en:bible:notes:jhn:14:25|14:25]], [[:en:bible:notes:jhn:15:16|15:16]], [[:en:bible:notes:jhn:16:22|16:22]], [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:17:09|17:09]], [[:en:bible:notes:jhn:17:12|17:12]], [[:en:bible:notes:jhn:17:25|17:25]], [[:en:bible:notes:jhn:20:30|20:30]]
 
 * [[:en:obe:other:nation]] is found in:
- [[:en:bible:notes:jhn:11:47|11:47]], [[:en:bible:notes:jhn:11:49|11:49]], [[:en:bible:notes:jhn:11:51|11:51]], [[:en:bible:notes:jhn:18:33|18:33]]
+ [[:en:bible:notes:jhn:11:47|11:47]], [[:en:bible:notes:jhn:11:49|11:49]], [[:en:bible:notes:jhn:11:51|11:51]]
 
 * [[:en:obe:other:nazareth]] is found in:
- [[:en:bible:notes:jhn:01:43|01:43]], [[:en:bible:notes:jhn:18:04|18:04]], [[:en:bible:notes:jhn:19:19|19:19]]
+ [[:en:bible:notes:jhn:01:43|01:43]], [[:en:bible:notes:jhn:18:04|18:04]], [[:en:bible:notes:jhn:18:06|18:06]], [[:en:bible:notes:jhn:19:19|19:19]]
 
 * [[:en:obe:other:neighbor]] is found in:
  [[:en:bible:notes:jhn:09:08|09:08]]
 
 * [[:en:obe:other:obey]] is found in:
  [[:en:bible:notes:jhn:03:19|03:19]]
+
+* [[:en:obe:other:overtake]] is found in:
+ [[:en:bible:notes:jhn:12:34|12:34]]
+
+* [[:en:obe:other:palace]] is found in:
+ [[:en:bible:notes:jhn:18:28|18:28]], [[:en:bible:notes:jhn:18:33|18:33]]
 
 * [[:en:obe:other:palm]] is found in:
  [[:en:bible:notes:jhn:12:12|12:12]]
@@ -505,31 +523,31 @@
  [[:en:bible:notes:jhn:10:05|10:05]]
 
 * [[:en:obe:kt:passover]] is found in:
- [[:en:bible:notes:jhn:02:13|02:13]], [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:06:04|06:04]], [[:en:bible:notes:jhn:11:54|11:54]], [[:en:bible:notes:jhn:12:01|12:01]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:18:28|18:28]], [[:en:bible:notes:jhn:18:38|18:38]], [[:en:bible:notes:jhn:19:14|19:14]], [[:en:bible:notes:jhn:19:31|19:31]]
+ [[:en:bible:notes:jhn:02:13|02:13]], [[:en:bible:notes:jhn:02:23|02:23]], [[:en:bible:notes:jhn:06:04|06:04]], [[:en:bible:notes:jhn:11:54|11:54]], [[:en:bible:notes:jhn:12:01|12:01]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:18:28|18:28]], [[:en:bible:notes:jhn:18:38|18:38]], [[:en:bible:notes:jhn:19:14|19:14]]
 
 * [[:en:obe:other:peace]] is found in:
- [[:en:bible:notes:jhn:14:25|14:25]], [[:en:bible:notes:jhn:16:32|16:32]], [[:en:bible:notes:jhn:20:19|20:19]], [[:en:bible:notes:jhn:20:26|20:26]]
+ [[:en:bible:notes:jhn:14:25|14:25]], [[:en:bible:notes:jhn:16:32|16:32]], [[:en:bible:notes:jhn:20:19|20:19]], [[:en:bible:notes:jhn:20:21|20:21]], [[:en:bible:notes:jhn:20:26|20:26]]
 
 * [[:en:obe:other:peoplegroup]] is found in:
- [[:en:bible:notes:jhn:11:49|11:49]]
-
-* [[:en:obe:kt:perfect]] is found in:
- [[:en:bible:notes:jhn:17:22|17:22]]
+ [[:en:bible:notes:jhn:11:49|11:49]], [[:en:bible:notes:jhn:18:33|18:33]]
 
 * [[:en:obe:kt:perish]] is found in:
- [[:en:bible:notes:jhn:06:26|06:26]], [[:en:bible:notes:jhn:10:27|10:27]], [[:en:bible:notes:jhn:11:49|11:49]], [[:en:bible:notes:jhn:17:12|17:12]]
+ [[:en:bible:notes:jhn:06:26|06:26]], [[:en:bible:notes:jhn:11:49|11:49]]
 
 * [[:en:obe:other:persecute]] is found in:
  [[:en:bible:notes:jhn:05:16|05:16]], [[:en:bible:notes:jhn:15:20|15:20]]
 
 * [[:en:obe:other:peter]] is found in:
- [[:en:bible:notes:jhn:01:40|01:40]], [[:en:bible:notes:jhn:06:07|06:07]], [[:en:bible:notes:jhn:06:66|06:66]], [[:en:bible:notes:jhn:13:06|13:06]], [[:en:bible:notes:jhn:13:23|13:23]], [[:en:bible:notes:jhn:13:36|13:36]], [[:en:bible:notes:jhn:18:15|18:15]], [[:en:bible:notes:jhn:18:25|18:25]], [[:en:bible:notes:jhn:20:01|20:01]], [[:en:bible:notes:jhn:21:01|21:01]], [[:en:bible:notes:jhn:21:07|21:07]], [[:en:bible:notes:jhn:21:15|21:15]], [[:en:bible:notes:jhn:21:19|21:19]]
+ [[:en:bible:notes:jhn:01:40|01:40]], [[:en:bible:notes:jhn:06:07|06:07]], [[:en:bible:notes:jhn:06:66|06:66]], [[:en:bible:notes:jhn:13:06|13:06]], [[:en:bible:notes:jhn:13:23|13:23]], [[:en:bible:notes:jhn:13:36|13:36]], [[:en:bible:notes:jhn:18:10|18:10]], [[:en:bible:notes:jhn:18:15|18:15]], [[:en:bible:notes:jhn:18:25|18:25]], [[:en:bible:notes:jhn:20:01|20:01]], [[:en:bible:notes:jhn:20:03|20:03]], [[:en:bible:notes:jhn:20:06|20:06]], [[:en:bible:notes:jhn:21:01|21:01]], [[:en:bible:notes:jhn:21:07|21:07]], [[:en:bible:notes:jhn:21:15|21:15]], [[:en:bible:notes:jhn:21:19|21:19]]
 
 * [[:en:obe:other:pharisee]] is found in:
  [[:en:bible:notes:jhn:01:24|01:24]], [[:en:bible:notes:jhn:03:01|03:01]], [[:en:bible:notes:jhn:04:01|04:01]], [[:en:bible:notes:jhn:07:30|07:30]], [[:en:bible:notes:jhn:07:45|07:45]], [[:en:bible:notes:jhn:08:01|08:01]], [[:en:bible:notes:jhn:08:12|08:12]], [[:en:bible:notes:jhn:09:13|09:13]], [[:en:bible:notes:jhn:09:39|09:39]], [[:en:bible:notes:jhn:11:45|11:45]], [[:en:bible:notes:jhn:11:47|11:47]], [[:en:bible:notes:jhn:11:56|11:56]], [[:en:bible:notes:jhn:12:17|12:17]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:18:01|18:01]]
 
 * [[:en:obe:other:philiptheapostle]] is found in:
  [[:en:bible:notes:jhn:01:43|01:43]], [[:en:bible:notes:jhn:06:04|06:04]], [[:en:bible:notes:jhn:12:20|12:20]], [[:en:bible:notes:jhn:14:08|14:08]]
+
+* [[:en:obe:other:pierce]] is found in:
+ [[:en:bible:notes:jhn:19:36|19:36]]
 
 * [[:en:obe:other:pilate]] is found in:
  [[:en:bible:notes:jhn:18:28|18:28]], [[:en:bible:notes:jhn:18:33|18:33]], [[:en:bible:notes:jhn:19:01|19:01]], [[:en:bible:notes:jhn:19:04|19:04]], [[:en:bible:notes:jhn:19:10|19:10]], [[:en:bible:notes:jhn:19:12|19:12]], [[:en:bible:notes:jhn:19:14|19:14]], [[:en:bible:notes:jhn:19:21|19:21]], [[:en:bible:notes:jhn:19:31|19:31]], [[:en:bible:notes:jhn:19:38|19:38]]
@@ -541,13 +559,10 @@
  [[:en:bible:notes:jhn:05:41|05:41]], [[:en:bible:notes:jhn:05:43|05:43]], [[:en:bible:notes:jhn:12:41|12:41]]
 
 * [[:en:obe:other:pray]] is found in:
- [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:17:09|17:09]], [[:en:bible:notes:jhn:17:15|17:15]]
+ [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:17:09|17:09]]
 
 * [[:en:obe:kt:priest]] is found in:
  [[:en:bible:notes:jhn:01:19|01:19]]
-
-* [[:en:obe:other:prince]] is found in:
- [[:en:bible:notes:jhn:12:30|12:30]], [[:en:bible:notes:jhn:14:30|14:30]], [[:en:bible:notes:jhn:16:08|16:08]]
 
 * [[:en:obe:other:prison]] is found in:
  [[:en:bible:notes:jhn:03:22|03:22]]
@@ -556,7 +571,7 @@
  [[:en:bible:notes:jhn:06:62|06:62]]
 
 * [[:en:obe:kt:prophet]] is found in:
- [[:en:bible:notes:jhn:01:19|01:19]], [[:en:bible:notes:jhn:01:43|01:43]], [[:en:bible:notes:jhn:04:19|04:19]], [[:en:bible:notes:jhn:04:43|04:43]], [[:en:bible:notes:jhn:07:40|07:40]], [[:en:bible:notes:jhn:08:52|08:52]], [[:en:bible:notes:jhn:09:16|09:16]], [[:en:bible:notes:jhn:11:51|11:51]], [[:en:bible:notes:jhn:12:37|12:37]]
+ [[:en:bible:notes:jhn:01:19|01:19]], [[:en:bible:notes:jhn:01:43|01:43]], [[:en:bible:notes:jhn:04:19|04:19]], [[:en:bible:notes:jhn:04:43|04:43]], [[:en:bible:notes:jhn:06:13|06:13]], [[:en:bible:notes:jhn:06:43|06:43]], [[:en:bible:notes:jhn:07:40|07:40]], [[:en:bible:notes:jhn:08:52|08:52]], [[:en:bible:notes:jhn:09:16|09:16]], [[:en:bible:notes:jhn:11:51|11:51]], [[:en:bible:notes:jhn:12:37|12:37]]
 
 * [[:en:obe:kt:purify]] is found in:
  [[:en:bible:notes:jhn:11:54|11:54]]
@@ -565,19 +580,19 @@
  [[:en:bible:notes:jhn:01:37|01:37]], [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:03:01|03:01]], [[:en:bible:notes:jhn:03:25|03:25]], [[:en:bible:notes:jhn:04:31|04:31]], [[:en:bible:notes:jhn:06:24|06:24]], [[:en:bible:notes:jhn:09:01|09:01]], [[:en:bible:notes:jhn:11:08|11:08]], [[:en:bible:notes:jhn:20:16|20:16]]
 
 * [[:en:obe:kt:raise]] is found in:
- [[:en:bible:notes:jhn:02:17|02:17]], [[:en:bible:notes:jhn:05:21|05:21]], [[:en:bible:notes:jhn:06:54|06:54]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:24|11:24]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:20:08|20:08]], [[:en:bible:notes:jhn:21:12|21:12]]
+ [[:en:bible:notes:jhn:02:17|02:17]], [[:en:bible:notes:jhn:05:21|05:21]], [[:en:bible:notes:jhn:06:54|06:54]], [[:en:bible:notes:jhn:11:21|11:21]], [[:en:bible:notes:jhn:11:24|11:24]], [[:en:bible:notes:jhn:20:08|20:08]], [[:en:bible:notes:jhn:21:12|21:12]]
 
 * [[:en:obe:kt:receive]] is found in:
- [[:en:bible:notes:jhn:01:10|01:10]], [[:en:bible:notes:jhn:01:12|01:12]], [[:en:bible:notes:jhn:03:31|03:31]], [[:en:bible:notes:jhn:05:33|05:33]], [[:en:bible:notes:jhn:05:41|05:41]], [[:en:bible:notes:jhn:05:43|05:43]], [[:en:bible:notes:jhn:05:45|05:45]], [[:en:bible:notes:jhn:06:19|06:19]], [[:en:bible:notes:jhn:07:23|07:23]], [[:en:bible:notes:jhn:10:17|10:17]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:13:19|13:19]], [[:en:bible:notes:jhn:20:21|20:21]]
+ [[:en:bible:notes:jhn:01:10|01:10]], [[:en:bible:notes:jhn:01:12|01:12]], [[:en:bible:notes:jhn:03:31|03:31]], [[:en:bible:notes:jhn:05:33|05:33]], [[:en:bible:notes:jhn:05:41|05:41]], [[:en:bible:notes:jhn:05:43|05:43]], [[:en:bible:notes:jhn:05:45|05:45]], [[:en:bible:notes:jhn:06:19|06:19]], [[:en:bible:notes:jhn:07:23|07:23]], [[:en:bible:notes:jhn:07:39|07:39]], [[:en:bible:notes:jhn:10:17|10:17]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:13:19|13:19]], [[:en:bible:notes:jhn:20:21|20:21]]
 
 * [[:en:obe:other:reject]] is found in:
  [[:en:bible:notes:jhn:12:48|12:48]]
 
 * [[:en:obe:other:rejoice]] is found in:
- [[:en:bible:notes:jhn:03:29|03:29]], [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:05:33|05:33]], [[:en:bible:notes:jhn:08:54|08:54]], [[:en:bible:notes:jhn:14:28|14:28]], [[:en:bible:notes:jhn:16:19|16:19]]
+ [[:en:bible:notes:jhn:03:29|03:29]], [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:05:33|05:33]], [[:en:bible:notes:jhn:08:54|08:54]]
 
 * [[:en:obe:other:report]] is found in:
- [[:en:bible:notes:jhn:12:37|12:37]]
+ [[:en:bible:notes:jhn:04:39|04:39]], [[:en:bible:notes:jhn:11:56|11:56]], [[:en:bible:notes:jhn:12:37|12:37]]
 
 * [[:en:obe:kt:rest]] is found in:
  [[:en:bible:notes:jhn:11:12|11:12]]
@@ -586,7 +601,7 @@
  [[:en:bible:notes:jhn:05:28|05:28]], [[:en:bible:notes:jhn:11:24|11:24]]
 
 * [[:en:obe:kt:reveal]] is found in:
- [[:en:bible:notes:jhn:09:03|09:03]], [[:en:bible:notes:jhn:12:37|12:37]], [[:en:bible:notes:jhn:17:06|17:06]]
+ [[:en:bible:notes:jhn:01:29|01:29]], [[:en:bible:notes:jhn:02:11|02:11]], [[:en:bible:notes:jhn:09:03|09:03]], [[:en:bible:notes:jhn:12:37|12:37]], [[:en:bible:notes:jhn:17:06|17:06]]
 
 * [[:en:obe:kt:righteous]] is found in:
  [[:en:bible:notes:jhn:05:30|05:30]], [[:en:bible:notes:jhn:07:23|07:23]], [[:en:bible:notes:jhn:16:08|16:08]], [[:en:bible:notes:jhn:17:25|17:25]]
@@ -595,19 +610,16 @@
  [[:en:bible:notes:jhn:11:47|11:47]]
 
 * [[:en:obe:other:ruler]] is found in:
- [[:en:bible:notes:jhn:12:41|12:41]]
+ [[:en:bible:notes:jhn:07:47|07:47]], [[:en:bible:notes:jhn:12:30|12:30]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:14:30|14:30]], [[:en:bible:notes:jhn:16:08|16:08]]
 
 * [[:en:obe:kt:sabbath]] is found in:
- [[:en:bible:notes:jhn:05:09|05:09]], [[:en:bible:notes:jhn:05:10|05:10]], [[:en:bible:notes:jhn:07:21|07:21]], [[:en:bible:notes:jhn:09:13|09:13]], [[:en:bible:notes:jhn:09:16|09:16]], [[:en:bible:notes:jhn:19:31|19:31]]
+ [[:en:bible:notes:jhn:05:09|05:09]], [[:en:bible:notes:jhn:05:10|05:10]], [[:en:bible:notes:jhn:05:16|05:16]], [[:en:bible:notes:jhn:07:21|07:21]], [[:en:bible:notes:jhn:09:13|09:13]], [[:en:bible:notes:jhn:09:16|09:16]], [[:en:bible:notes:jhn:19:31|19:31]]
 
 * [[:en:obe:kt:salvation]] is found in:
  [[:en:bible:notes:jhn:04:21|04:21]]
 
 * [[:en:obe:other:samaria]] is found in:
  [[:en:bible:notes:jhn:04:04|04:04]], [[:en:bible:notes:jhn:04:06|04:06]], [[:en:bible:notes:jhn:04:09|04:09]], [[:en:bible:notes:jhn:04:39|04:39]], [[:en:bible:notes:jhn:08:48|08:48]]
-
-* [[:en:obe:kt:sanctify]] is found in:
- [[:en:bible:notes:jhn:10:34|10:34]]
 
 * [[:en:obe:other:sandal]] is found in:
  [[:en:bible:notes:jhn:01:26|01:26]]
@@ -630,20 +642,26 @@
 * [[:en:obe:other:seaofgalilee]] is found in:
  [[:en:bible:notes:jhn:06:01|06:01]], [[:en:bible:notes:jhn:06:16|06:16]], [[:en:bible:notes:jhn:06:19|06:19]], [[:en:bible:notes:jhn:21:01|21:01]]
 
+* [[:en:obe:other:seek]] is found in:
+ [[:en:bible:notes:jhn:04:23|04:23]], [[:en:bible:notes:jhn:08:50|08:50]]
+
 * [[:en:obe:other:seize]] is found in:
  [[:en:bible:notes:jhn:10:37|10:37]], [[:en:bible:notes:jhn:11:56|11:56]], [[:en:bible:notes:jhn:18:12|18:12]]
 
 * [[:en:obe:other:send]] is found in:
- [[:en:bible:notes:jhn:20:21|20:21]]
+ [[:en:bible:notes:jhn:06:28|06:28]], [[:en:bible:notes:jhn:07:28|07:28]], [[:en:bible:notes:jhn:08:14|08:14]], [[:en:bible:notes:jhn:08:25|08:25]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:12:44|12:44]], [[:en:bible:notes:jhn:13:16|13:16]], [[:en:bible:notes:jhn:13:19|13:19]], [[:en:bible:notes:jhn:15:26|15:26]], [[:en:bible:notes:jhn:17:18|17:18]], [[:en:bible:notes:jhn:20:21|20:21]]
 
 * [[:en:obe:other:serpent]] is found in:
  [[:en:bible:notes:jhn:03:14|03:14]]
 
 * [[:en:obe:other:servant]] is found in:
- [[:en:bible:notes:jhn:02:03|02:03]], [[:en:bible:notes:jhn:02:06|02:06]], [[:en:bible:notes:jhn:02:09|02:09]], [[:en:bible:notes:jhn:04:51|04:51]], [[:en:bible:notes:jhn:08:34|08:34]], [[:en:bible:notes:jhn:10:11|10:11]], [[:en:bible:notes:jhn:12:25|12:25]], [[:en:bible:notes:jhn:13:16|13:16]], [[:en:bible:notes:jhn:15:14|15:14]], [[:en:bible:notes:jhn:15:20|15:20]], [[:en:bible:notes:jhn:18:15|18:15]], [[:en:bible:notes:jhn:18:25|18:25]], [[:en:bible:notes:jhn:18:36|18:36]]
+ [[:en:bible:notes:jhn:02:03|02:03]], [[:en:bible:notes:jhn:02:06|02:06]], [[:en:bible:notes:jhn:02:09|02:09]], [[:en:bible:notes:jhn:04:51|04:51]], [[:en:bible:notes:jhn:08:31|08:31]], [[:en:bible:notes:jhn:08:34|08:34]], [[:en:bible:notes:jhn:10:11|10:11]], [[:en:bible:notes:jhn:12:25|12:25]], [[:en:bible:notes:jhn:13:16|13:16]], [[:en:bible:notes:jhn:15:14|15:14]], [[:en:bible:notes:jhn:15:20|15:20]], [[:en:bible:notes:jhn:18:10|18:10]], [[:en:bible:notes:jhn:18:17|18:17]], [[:en:bible:notes:jhn:18:25|18:25]], [[:en:bible:notes:jhn:18:36|18:36]]
 
 * [[:en:obe:other:serve]] is found in:
  [[:en:bible:notes:jhn:12:25|12:25]]
+
+* [[:en:obe:kt:setapart]] is found in:
+ [[:en:bible:notes:jhn:10:34|10:34]], [[:en:bible:notes:jhn:17:15|17:15]], [[:en:bible:notes:jhn:17:18|17:18]]
 
 * [[:en:obe:other:sheep]] is found in:
  [[:en:bible:notes:jhn:02:13|02:13]], [[:en:bible:notes:jhn:05:01|05:01]], [[:en:bible:notes:jhn:10:01|10:01]], [[:en:bible:notes:jhn:10:03|10:03]], [[:en:bible:notes:jhn:10:07|10:07]], [[:en:bible:notes:jhn:10:11|10:11]], [[:en:bible:notes:jhn:10:14|10:14]], [[:en:bible:notes:jhn:10:25|10:25]], [[:en:bible:notes:jhn:21:15|21:15]]
@@ -657,6 +675,9 @@
 * [[:en:obe:kt:sin]] is found in:
  [[:en:bible:notes:jhn:01:29|01:29]], [[:en:bible:notes:jhn:05:14|05:14]], [[:en:bible:notes:jhn:08:07|08:07]], [[:en:bible:notes:jhn:08:21|08:21]], [[:en:bible:notes:jhn:08:23|08:23]], [[:en:bible:notes:jhn:08:34|08:34]], [[:en:bible:notes:jhn:08:45|08:45]], [[:en:bible:notes:jhn:09:01|09:01]], [[:en:bible:notes:jhn:09:16|09:16]], [[:en:bible:notes:jhn:09:24|09:24]], [[:en:bible:notes:jhn:09:30|09:30]], [[:en:bible:notes:jhn:09:39|09:39]], [[:en:bible:notes:jhn:15:20|15:20]], [[:en:bible:notes:jhn:15:23|15:23]], [[:en:bible:notes:jhn:16:08|16:08]], [[:en:bible:notes:jhn:19:10|19:10]], [[:en:bible:notes:jhn:20:21|20:21]]
 
+* [[:en:obe:other:skull]] is found in:
+ [[:en:bible:notes:jhn:19:17|19:17]]
+
 * [[:en:obe:kt:sleep]] is found in:
  [[:en:bible:notes:jhn:11:10|11:10]], [[:en:bible:notes:jhn:11:12|11:12]]
 
@@ -667,7 +688,7 @@
  [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:04:51|04:51]], [[:en:bible:notes:jhn:12:34|12:34]]
 
 * [[:en:obe:kt:sonofgod]] is found in:
- [[:en:bible:notes:jhn:01:32|01:32]], [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:03:34|03:34]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:05:21|05:21]], [[:en:bible:notes:jhn:05:25|05:25]], [[:en:bible:notes:jhn:08:34|08:34]], [[:en:bible:notes:jhn:10:34|10:34]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:14:12|14:12]], [[:en:bible:notes:jhn:17:01|17:01]], [[:en:bible:notes:jhn:19:07|19:07]], [[:en:bible:notes:jhn:20:30|20:30]]
+ [[:en:bible:notes:jhn:01:32|01:32]], [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:03:34|03:34]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:05:21|05:21]], [[:en:bible:notes:jhn:05:25|05:25]], [[:en:bible:notes:jhn:06:38|06:38]], [[:en:bible:notes:jhn:08:34|08:34]], [[:en:bible:notes:jhn:10:34|10:34]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:14:12|14:12]], [[:en:bible:notes:jhn:17:01|17:01]], [[:en:bible:notes:jhn:19:07|19:07]], [[:en:bible:notes:jhn:20:30|20:30]]
 
 * [[:en:obe:kt:sonofman]] is found in:
  [[:en:bible:notes:jhn:01:49|01:49]], [[:en:bible:notes:jhn:03:12|03:12]], [[:en:bible:notes:jhn:03:14|03:14]], [[:en:bible:notes:jhn:05:26|05:26]], [[:en:bible:notes:jhn:06:26|06:26]], [[:en:bible:notes:jhn:06:52|06:52]], [[:en:bible:notes:jhn:06:62|06:62]], [[:en:bible:notes:jhn:08:28|08:28]], [[:en:bible:notes:jhn:09:35|09:35]], [[:en:bible:notes:jhn:12:23|12:23]], [[:en:bible:notes:jhn:12:34|12:34]], [[:en:bible:notes:jhn:13:31|13:31]]
@@ -685,31 +706,46 @@
  [[:en:bible:notes:jhn:08:04|08:04]], [[:en:bible:notes:jhn:10:29|10:29]], [[:en:bible:notes:jhn:10:32|10:32]], [[:en:bible:notes:jhn:11:08|11:08]]
 
 * [[:en:obe:other:stumble]] is found in:
- [[:en:bible:notes:jhn:11:10|11:10]], [[:en:bible:notes:jhn:16:01|16:01]]
+ [[:en:bible:notes:jhn:11:10|11:10]]
+
+* [[:en:obe:other:sword]] is found in:
+ [[:en:bible:notes:jhn:18:10|18:10]]
 
 * [[:en:obe:other:synagogue]] is found in:
- [[:en:bible:notes:jhn:06:57|06:57]], [[:en:bible:notes:jhn:09:22|09:22]], [[:en:bible:notes:jhn:09:32|09:32]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:16:01|16:01]], [[:en:bible:notes:jhn:18:19|18:19]]
+ [[:en:bible:notes:jhn:06:57|06:57]], [[:en:bible:notes:jhn:09:22|09:22]], [[:en:bible:notes:jhn:12:41|12:41]], [[:en:bible:notes:jhn:16:01|16:01]], [[:en:bible:notes:jhn:18:19|18:19]]
+
+* [[:en:obe:other:teach]] is found in:
+ [[:en:bible:notes:jhn:07:14|07:14]], [[:en:bible:notes:jhn:08:28|08:28]]
 
 * [[:en:obe:kt:teacher]] is found in:
  [[:en:bible:notes:jhn:01:37|01:37]], [[:en:bible:notes:jhn:03:09|03:09]], [[:en:bible:notes:jhn:08:04|08:04]], [[:en:bible:notes:jhn:09:01|09:01]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:13:12|13:12]], [[:en:bible:notes:jhn:20:16|20:16]]
 
 * [[:en:obe:kt:temple]] is found in:
- [[:en:bible:notes:jhn:02:13|02:13]], [[:en:bible:notes:jhn:02:15|02:15]], [[:en:bible:notes:jhn:05:14|05:14]], [[:en:bible:notes:jhn:07:14|07:14]], [[:en:bible:notes:jhn:07:28|07:28]], [[:en:bible:notes:jhn:08:01|08:01]], [[:en:bible:notes:jhn:08:19|08:19]], [[:en:bible:notes:jhn:08:57|08:57]], [[:en:bible:notes:jhn:10:22|10:22]], [[:en:bible:notes:jhn:11:56|11:56]], [[:en:bible:notes:jhn:18:19|18:19]]
+ [[:en:bible:notes:jhn:02:15|02:15]], [[:en:bible:notes:jhn:05:14|05:14]], [[:en:bible:notes:jhn:07:14|07:14]], [[:en:bible:notes:jhn:07:28|07:28]], [[:en:bible:notes:jhn:08:01|08:01]], [[:en:bible:notes:jhn:08:19|08:19]], [[:en:bible:notes:jhn:08:57|08:57]], [[:en:bible:notes:jhn:10:22|10:22]], [[:en:bible:notes:jhn:11:56|11:56]], [[:en:bible:notes:jhn:18:19|18:19]]
 
 * [[:en:obe:kt:testimony]] is found in:
- [[:en:bible:notes:jhn:01:06|01:06]], [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:01:19|01:19]], [[:en:bible:notes:jhn:01:32|01:32]], [[:en:bible:notes:jhn:03:09|03:09]], [[:en:bible:notes:jhn:03:27|03:27]], [[:en:bible:notes:jhn:03:31|03:31]], [[:en:bible:notes:jhn:05:30|05:30]], [[:en:bible:notes:jhn:05:33|05:33]], [[:en:bible:notes:jhn:05:36|05:36]], [[:en:bible:notes:jhn:05:39|05:39]], [[:en:bible:notes:jhn:07:05|07:05]], [[:en:bible:notes:jhn:08:17|08:17]], [[:en:bible:notes:jhn:10:25|10:25]], [[:en:bible:notes:jhn:13:21|13:21]]
+ [[:en:bible:notes:jhn:01:06|01:06]], [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:01:19|01:19]], [[:en:bible:notes:jhn:01:32|01:32]], [[:en:bible:notes:jhn:03:09|03:09]], [[:en:bible:notes:jhn:03:27|03:27]], [[:en:bible:notes:jhn:03:31|03:31]], [[:en:bible:notes:jhn:04:39|04:39]], [[:en:bible:notes:jhn:05:30|05:30]], [[:en:bible:notes:jhn:05:33|05:33]], [[:en:bible:notes:jhn:05:36|05:36]], [[:en:bible:notes:jhn:05:39|05:39]], [[:en:bible:notes:jhn:07:05|07:05]], [[:en:bible:notes:jhn:08:17|08:17]], [[:en:bible:notes:jhn:10:25|10:25]], [[:en:bible:notes:jhn:12:17|12:17]], [[:en:bible:notes:jhn:13:21|13:21]], [[:en:bible:notes:jhn:15:26|15:26]], [[:en:bible:notes:jhn:21:24|21:24]]
 
 * [[:en:obe:kt:thetwelve]] is found in:
  [[:en:bible:notes:jhn:06:66|06:66]], [[:en:bible:notes:jhn:06:70|06:70]], [[:en:bible:notes:jhn:20:24|20:24]]
 
 * [[:en:obe:other:thomas]] is found in:
- [[:en:bible:notes:jhn:11:15|11:15]], [[:en:bible:notes:jhn:14:04|14:04]], [[:en:bible:notes:jhn:20:24|20:24]], [[:en:bible:notes:jhn:20:26|20:26]], [[:en:bible:notes:jhn:21:01|21:01]]
+ [[:en:bible:notes:jhn:11:15|11:15]], [[:en:bible:notes:jhn:14:04|14:04]], [[:en:bible:notes:jhn:20:24|20:24]], [[:en:bible:notes:jhn:20:26|20:26]], [[:en:bible:notes:jhn:20:28|20:28]], [[:en:bible:notes:jhn:21:01|21:01]]
 
 * [[:en:obe:other:tomb]] is found in:
  [[:en:bible:notes:jhn:05:28|05:28]], [[:en:bible:notes:jhn:11:17|11:17]], [[:en:bible:notes:jhn:11:30|11:30]], [[:en:bible:notes:jhn:11:38|11:38]], [[:en:bible:notes:jhn:12:17|12:17]], [[:en:bible:notes:jhn:19:40|19:40]], [[:en:bible:notes:jhn:20:01|20:01]], [[:en:bible:notes:jhn:20:03|20:03]], [[:en:bible:notes:jhn:20:06|20:06]], [[:en:bible:notes:jhn:20:08|20:08]], [[:en:bible:notes:jhn:20:11|20:11]]
 
+* [[:en:obe:other:trouble]] is found in:
+ [[:en:bible:notes:jhn:11:33|11:33]]
+
 * [[:en:obe:kt:true]] is found in:
- [[:en:bible:notes:jhn:01:09|01:09]], [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:01:16|01:16]], [[:en:bible:notes:jhn:03:31|03:31]], [[:en:bible:notes:jhn:04:23|04:23]], [[:en:bible:notes:jhn:04:37|04:37]], [[:en:bible:notes:jhn:05:30|05:30]], [[:en:bible:notes:jhn:05:33|05:33]], [[:en:bible:notes:jhn:08:12|08:12]], [[:en:bible:notes:jhn:08:31|08:31]], [[:en:bible:notes:jhn:08:39|08:39]], [[:en:bible:notes:jhn:10:40|10:40]], [[:en:bible:notes:jhn:14:04|14:04]], [[:en:bible:notes:jhn:14:15|14:15]], [[:en:bible:notes:jhn:15:01|15:01]], [[:en:bible:notes:jhn:15:26|15:26]], [[:en:bible:notes:jhn:16:05|16:05]], [[:en:bible:notes:jhn:16:12|16:12]], [[:en:bible:notes:jhn:17:03|17:03]], [[:en:bible:notes:jhn:17:15|17:15]], [[:en:bible:notes:jhn:17:18|17:18]], [[:en:bible:notes:jhn:18:36|18:36]], [[:en:bible:notes:jhn:18:38|18:38]], [[:en:bible:notes:jhn:19:34|19:34]], [[:en:bible:notes:jhn:21:24|21:24]]
+ [[:en:bible:notes:jhn:01:09|01:09]], [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:01:16|01:16]], [[:en:bible:notes:jhn:03:31|03:31]], [[:en:bible:notes:jhn:04:23|04:23]], [[:en:bible:notes:jhn:04:37|04:37]], [[:en:bible:notes:jhn:05:30|05:30]], [[:en:bible:notes:jhn:05:33|05:33]], [[:en:bible:notes:jhn:07:28|07:28]], [[:en:bible:notes:jhn:08:12|08:12]], [[:en:bible:notes:jhn:08:14|08:14]], [[:en:bible:notes:jhn:08:17|08:17]], [[:en:bible:notes:jhn:08:25|08:25]], [[:en:bible:notes:jhn:08:31|08:31]], [[:en:bible:notes:jhn:08:39|08:39]], [[:en:bible:notes:jhn:08:42|08:42]], [[:en:bible:notes:jhn:08:45|08:45]], [[:en:bible:notes:jhn:10:40|10:40]], [[:en:bible:notes:jhn:14:04|14:04]], [[:en:bible:notes:jhn:14:15|14:15]], [[:en:bible:notes:jhn:15:01|15:01]], [[:en:bible:notes:jhn:15:26|15:26]], [[:en:bible:notes:jhn:16:05|16:05]], [[:en:bible:notes:jhn:16:12|16:12]], [[:en:bible:notes:jhn:17:03|17:03]], [[:en:bible:notes:jhn:17:15|17:15]], [[:en:bible:notes:jhn:17:18|17:18]], [[:en:bible:notes:jhn:18:36|18:36]], [[:en:bible:notes:jhn:18:38|18:38]], [[:en:bible:notes:jhn:19:34|19:34]], [[:en:bible:notes:jhn:21:24|21:24]]
+
+* [[:en:obe:kt:turn]] is found in:
+ [[:en:bible:notes:jhn:20:14|20:14]]
+
+* [[:en:obe:other:understand]] is found in:
+ [[:en:bible:notes:jhn:10:37|10:37]], [[:en:bible:notes:jhn:12:39|12:39]]
 
 * [[:en:obe:kt:unrighteous]] is found in:
  [[:en:bible:notes:jhn:07:17|07:17]]
@@ -718,13 +754,16 @@
  [[:en:bible:notes:jhn:15:01|15:01]], [[:en:bible:notes:jhn:15:03|15:03]]
 
 * [[:en:obe:other:voice]] is found in:
- [[:en:bible:notes:jhn:05:36|05:36]], [[:en:bible:notes:jhn:10:03|10:03]], [[:en:bible:notes:jhn:10:05|10:05]], [[:en:bible:notes:jhn:10:14|10:14]], [[:en:bible:notes:jhn:10:27|10:27]], [[:en:bible:notes:jhn:11:43|11:43]], [[:en:bible:notes:jhn:12:27|12:27]], [[:en:bible:notes:jhn:12:30|12:30]], [[:en:bible:notes:jhn:18:36|18:36]]
+ [[:en:bible:notes:jhn:03:29|03:29]], [[:en:bible:notes:jhn:05:36|05:36]], [[:en:bible:notes:jhn:10:03|10:03]], [[:en:bible:notes:jhn:10:05|10:05]], [[:en:bible:notes:jhn:10:14|10:14]], [[:en:bible:notes:jhn:10:27|10:27]], [[:en:bible:notes:jhn:11:43|11:43]], [[:en:bible:notes:jhn:12:27|12:27]], [[:en:bible:notes:jhn:12:30|12:30]], [[:en:bible:notes:jhn:18:36|18:36]]
 
 * [[:en:obe:kt:walk]] is found in:
- [[:en:bible:notes:jhn:11:08|11:08]], [[:en:bible:notes:jhn:11:10|11:10]], [[:en:bible:notes:jhn:11:54|11:54]], [[:en:bible:notes:jhn:12:34|12:34]]
+ [[:en:bible:notes:jhn:06:66|06:66]], [[:en:bible:notes:jhn:11:08|11:08]], [[:en:bible:notes:jhn:11:10|11:10]], [[:en:bible:notes:jhn:11:54|11:54]], [[:en:bible:notes:jhn:12:34|12:34]]
 
 * [[:en:obe:other:water]] is found in:
  [[:en:bible:notes:jhn:04:09|04:09]], [[:en:bible:notes:jhn:04:11|04:11]], [[:en:bible:notes:jhn:04:13|04:13]], [[:en:bible:notes:jhn:04:15|04:15]]
+
+* [[:en:obe:other:well]] is found in:
+ [[:en:bible:notes:jhn:04:06|04:06]], [[:en:bible:notes:jhn:04:11|04:11]]
 
 * [[:en:obe:other:wheat]] is found in:
  [[:en:bible:notes:jhn:12:23|12:23]]
@@ -733,28 +772,28 @@
  [[:en:bible:notes:jhn:05:30|05:30]], [[:en:bible:notes:jhn:06:38|06:38]]
 
 * [[:en:obe:other:wine]] is found in:
- [[:en:bible:notes:jhn:02:03|02:03]], [[:en:bible:notes:jhn:02:09|02:09]], [[:en:bible:notes:jhn:04:46|04:46]]
+ [[:en:bible:notes:jhn:02:03|02:03]], [[:en:bible:notes:jhn:02:09|02:09]], [[:en:bible:notes:jhn:04:46|04:46]], [[:en:bible:notes:jhn:19:28|19:28]]
 
 * [[:en:obe:kt:witness]] is found in:
- [[:en:bible:notes:jhn:01:06|01:06]], [[:en:bible:notes:jhn:08:12|08:12]], [[:en:bible:notes:jhn:08:14|08:14]], [[:en:bible:notes:jhn:08:17|08:17]], [[:en:bible:notes:jhn:12:17|12:17]], [[:en:bible:notes:jhn:15:26|15:26]], [[:en:bible:notes:jhn:18:22|18:22]], [[:en:bible:notes:jhn:18:36|18:36]], [[:en:bible:notes:jhn:19:34|19:34]], [[:en:bible:notes:jhn:21:24|21:24]]
+ [[:en:bible:notes:jhn:01:06|01:06]], [[:en:bible:notes:jhn:08:12|08:12]], [[:en:bible:notes:jhn:08:14|08:14]], [[:en:bible:notes:jhn:08:17|08:17]], [[:en:bible:notes:jhn:18:22|18:22]], [[:en:bible:notes:jhn:18:36|18:36]], [[:en:bible:notes:jhn:19:34|19:34]]
 
 * [[:en:obe:other:wolf]] is found in:
  [[:en:bible:notes:jhn:10:11|10:11]]
 
 * [[:en:obe:kt:word]] is found in:
- [[:en:bible:notes:jhn:01:01|01:01]], [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:04:41|04:41]], [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:05:36|05:36]], [[:en:bible:notes:jhn:06:62|06:62]], [[:en:bible:notes:jhn:11:03|11:03]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:14:23|14:23]], [[:en:bible:notes:jhn:15:20|15:20]], [[:en:bible:notes:jhn:18:08|18:08]], [[:en:bible:notes:jhn:18:31|18:31]]
+ [[:en:bible:notes:jhn:01:01|01:01]], [[:en:bible:notes:jhn:01:14|01:14]], [[:en:bible:notes:jhn:04:41|04:41]], [[:en:bible:notes:jhn:04:48|04:48]], [[:en:bible:notes:jhn:05:36|05:36]], [[:en:bible:notes:jhn:06:62|06:62]], [[:en:bible:notes:jhn:08:31|08:31]], [[:en:bible:notes:jhn:08:45|08:45]], [[:en:bible:notes:jhn:08:54|08:54]], [[:en:bible:notes:jhn:12:48|12:48]], [[:en:bible:notes:jhn:14:23|14:23]], [[:en:bible:notes:jhn:15:20|15:20]], [[:en:bible:notes:jhn:17:15|17:15]], [[:en:bible:notes:jhn:18:08|18:08]], [[:en:bible:notes:jhn:18:31|18:31]]
 
 * [[:en:obe:kt:wordofgod]] is found in:
  [[:en:bible:notes:jhn:02:20|02:20]], [[:en:bible:notes:jhn:05:39|05:39]], [[:en:bible:notes:jhn:07:37|07:37]], [[:en:bible:notes:jhn:13:16|13:16]], [[:en:bible:notes:jhn:15:23|15:23]], [[:en:bible:notes:jhn:17:12|17:12]], [[:en:bible:notes:jhn:19:23|19:23]], [[:en:bible:notes:jhn:19:28|19:28]], [[:en:bible:notes:jhn:19:36|19:36]], [[:en:bible:notes:jhn:20:08|20:08]]
 
 * [[:en:obe:kt:works]] is found in:
- [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:05:16|05:16]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:09:03|09:03]], [[:en:bible:notes:jhn:10:25|10:25]], [[:en:bible:notes:jhn:10:32|10:32]], [[:en:bible:notes:jhn:10:37|10:37]], [[:en:bible:notes:jhn:15:23|15:23]]
+ [[:en:bible:notes:jhn:04:34|04:34]], [[:en:bible:notes:jhn:05:16|05:16]], [[:en:bible:notes:jhn:05:19|05:19]], [[:en:bible:notes:jhn:06:28|06:28]], [[:en:bible:notes:jhn:07:05|07:05]], [[:en:bible:notes:jhn:09:03|09:03]], [[:en:bible:notes:jhn:10:25|10:25]], [[:en:bible:notes:jhn:10:32|10:32]], [[:en:bible:notes:jhn:10:37|10:37]], [[:en:bible:notes:jhn:14:10|14:10]], [[:en:bible:notes:jhn:15:23|15:23]]
 
 * [[:en:obe:kt:world]] is found in:
- [[:en:bible:notes:jhn:01:09|01:09]], [[:en:bible:notes:jhn:01:10|01:10]], [[:en:bible:notes:jhn:01:29|01:29]], [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:04:41|04:41]], [[:en:bible:notes:jhn:06:32|06:32]], [[:en:bible:notes:jhn:06:50|06:50]], [[:en:bible:notes:jhn:08:23|08:23]], [[:en:bible:notes:jhn:08:25|08:25]], [[:en:bible:notes:jhn:10:34|10:34]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:12:25|12:25]], [[:en:bible:notes:jhn:12:30|12:30]], [[:en:bible:notes:jhn:12:46|12:46]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:14:15|14:15]], [[:en:bible:notes:jhn:14:18|14:18]], [[:en:bible:notes:jhn:14:21|14:21]], [[:en:bible:notes:jhn:14:25|14:25]], [[:en:bible:notes:jhn:14:30|14:30]], [[:en:bible:notes:jhn:15:18|15:18]], [[:en:bible:notes:jhn:16:08|16:08]], [[:en:bible:notes:jhn:16:19|16:19]], [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:16:32|16:32]], [[:en:bible:notes:jhn:17:09|17:09]], [[:en:bible:notes:jhn:17:15|17:15]], [[:en:bible:notes:jhn:17:20|17:20]], [[:en:bible:notes:jhn:17:25|17:25]], [[:en:bible:notes:jhn:18:19|18:19]]
+ [[:en:bible:notes:jhn:01:09|01:09]], [[:en:bible:notes:jhn:01:10|01:10]], [[:en:bible:notes:jhn:01:29|01:29]], [[:en:bible:notes:jhn:03:16|03:16]], [[:en:bible:notes:jhn:04:41|04:41]], [[:en:bible:notes:jhn:06:32|06:32]], [[:en:bible:notes:jhn:06:50|06:50]], [[:en:bible:notes:jhn:08:23|08:23]], [[:en:bible:notes:jhn:08:25|08:25]], [[:en:bible:notes:jhn:09:03|09:03]], [[:en:bible:notes:jhn:10:34|10:34]], [[:en:bible:notes:jhn:11:27|11:27]], [[:en:bible:notes:jhn:12:25|12:25]], [[:en:bible:notes:jhn:12:30|12:30]], [[:en:bible:notes:jhn:12:46|12:46]], [[:en:bible:notes:jhn:13:01|13:01]], [[:en:bible:notes:jhn:14:15|14:15]], [[:en:bible:notes:jhn:14:18|14:18]], [[:en:bible:notes:jhn:14:21|14:21]], [[:en:bible:notes:jhn:14:25|14:25]], [[:en:bible:notes:jhn:14:30|14:30]], [[:en:bible:notes:jhn:15:18|15:18]], [[:en:bible:notes:jhn:16:08|16:08]], [[:en:bible:notes:jhn:16:19|16:19]], [[:en:bible:notes:jhn:16:26|16:26]], [[:en:bible:notes:jhn:16:32|16:32]], [[:en:bible:notes:jhn:17:09|17:09]], [[:en:bible:notes:jhn:17:12|17:12]], [[:en:bible:notes:jhn:17:15|17:15]], [[:en:bible:notes:jhn:17:18|17:18]], [[:en:bible:notes:jhn:17:20|17:20]], [[:en:bible:notes:jhn:17:25|17:25]], [[:en:bible:notes:jhn:18:19|18:19]]
 
 * [[:en:obe:kt:worship]] is found in:
- [[:en:bible:notes:jhn:04:19|04:19]], [[:en:bible:notes:jhn:04:21|04:21]], [[:en:bible:notes:jhn:04:23|04:23]], [[:en:bible:notes:jhn:09:30|09:30]], [[:en:bible:notes:jhn:09:35|09:35]], [[:en:bible:notes:jhn:12:20|12:20]]
+ [[:en:bible:notes:jhn:04:19|04:19]], [[:en:bible:notes:jhn:04:21|04:21]], [[:en:bible:notes:jhn:04:23|04:23]], [[:en:bible:notes:jhn:09:35|09:35]], [[:en:bible:notes:jhn:12:20|12:20]]
 
 * [[:en:obe:kt:worthy]] is found in:
  [[:en:bible:notes:jhn:01:26|01:26]]
@@ -763,7 +802,7 @@
  [[:en:bible:notes:jhn:03:34|03:34]]
 
 * [[:en:obe:other:written]] is found in:
- [[:en:bible:notes:jhn:02:17|02:17]], [[:en:bible:notes:jhn:06:30|06:30]], [[:en:bible:notes:jhn:10:34|10:34]], [[:en:bible:notes:jhn:12:14|12:14]], [[:en:bible:notes:jhn:15:23|15:23]], [[:en:bible:notes:jhn:21:24|21:24]]
+ [[:en:bible:notes:jhn:02:17|02:17]], [[:en:bible:notes:jhn:06:30|06:30]], [[:en:bible:notes:jhn:06:43|06:43]], [[:en:bible:notes:jhn:10:34|10:34]], [[:en:bible:notes:jhn:12:14|12:14]], [[:en:bible:notes:jhn:15:23|15:23]], [[:en:bible:notes:jhn:21:24|21:24]]
 
 * [[:en:obe:kt:zealous]] is found in:
  [[:en:bible:notes:jhn:02:17|02:17]]

@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 31 David said to Joab and to all the people who were with him, "Tear your clothes, put on sackcloth, and mourn before Abner's body." And King David walked behind the body in the funeral procession. 
+\v 31 David said to Joab and to all the people who were with him, "Tear your clothes, put on sackcloth, and mourn before Abner's body." Now King David walked behind the body in the funeral procession.
 \v 32 They buried Abner in Hebron. The king wept and cried loudly at the tomb of Abner, and all the people also wept.
 </usfm>
 
@@ -38,8 +38,8 @@
 
 ===== translationNotes: =====
 
+  * **Tear your clothes, put on sackcloth** - These were symbolic actions to demonstrate their grief and sadness. (See: [[:en:ta:vol2:translate:translate_symaction]])
   * **The king wept and cried loudly** - The words "wept" and "cried loudly" mean basically the same thing and emphasize how much David mourned for Abner. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **all the people** - This phrase refers to the nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2sa:03]]
 **[[:en:bible:notes:2sa:03:28|<<]] | [[:en:bible:notes:2sa:03:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit sackcloth}}
+~~DISCUSSION~~{{tag>publish p2pass sackcloth}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 <usfm>
 \c 7
 \p
-\v 1 When Yahweh your God brings you into the land that you go to possess, and drives out many nations before you—the Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites—seven nations greater and mightier than you.
+\v 1 When Yahweh your God brings you into the land that you go to possess, he will drive out many nations before you—the Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites—seven nations greater and mightier than you.
 </usfm>
 
 
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:deu:07]]
 **[[:en:bible:notes:deu:06:24|<<]] | [[:en:bible:notes:deu:07:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check girgashites}}
+~~DISCUSSION~~{{tag>publish p2pass girgashites}}
 
 ~~NOCACHE~~

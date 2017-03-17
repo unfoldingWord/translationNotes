@@ -12,9 +12,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 18 But ever since we stopped burning incense to the Queen of Heaven and giving her offerings of wine, we have had many troubles, and some of our people have been killed by our enemies' swords and some have died from hunger."
+\v 18 But ever since we stopped burning incense to the Queen of Heaven and giving her offerings of wine, we have had many troubles, and some of our people have been killed by our enemies or died from hunger."
 \p
-\v 19 And the women said, "Furthermore, we burned incense and poured out wine offerings to the Queen of Heaven, and we also made small cakes that resembled her idol, to offer to her. But our husbands certainly knew about and approved of what we were doing!"
+\v 19 And the women said, "Furthermore, we burned incense and poured out wine offerings to the Queen of Heaven, and we also made small cakes that resembled her idol, to offer to her, and we poured drinks to honor her. But our husbands certainly knew about and approved of what we were doing!"
 
 
 \p
@@ -24,7 +24,7 @@
 
 <usfm>
 \v 18 When we refrained from doing these things, not offering incense to the Queen of Heaven and not pouring out drink offerings to her, we were all suffering poverty and were dying by sword and famine."
-\v 19 The women said, "When we were making incense offerings before the Queen of Heaven and pouring out drink offerings to her, did we do these things without our husbands knowing about it?"
+\v 19 The women said, "When we were making incense offerings before the Queen of Heaven and pouring out drink offerings to her, was it against our husbands that we did these things, making cakes in her image and pouring out drink offerings to her?"
 </usfm>
 
 ===== translationWords: =====
@@ -35,10 +35,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The remnant of the people living in Egypt continue to speak. Beginning in v 19, the women address Jeremiah.
+  * **General Information:** - The remnant of the people living in Egypt continue to speak. Beginning in 44:19, the women address Jeremiah.
 
-  * **Queen of Heaven** - See background information in [[:en:bible:notes:jer:44:15]]. 
-  * **did we do these things without our husbands knowing about it?** - The women are claiming innocence because they had their husbands' knowledge and approval. AT: "our husbands knew what we were doing." (See [[:en:ta:vol1:translate:figs_rquestion]])
+  * **were dying by sword and famine** - Here "sword" represents enemies carrying weapons. AT: "enemy soldiers were killing some of us and some of us were dying of hunger" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **cakes in her image** - These were probably small cakes shaped like stars or the crescent moon.
+  * **was it against our husbands that we did these things?** - The women were claiming to be innocent because their husband approved of what they were doing. AT: "our husbands knew what we were doing." (See [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -47,6 +48,6 @@
   * [[:en:bible:questions:comprehension:jer:44]]
 **[[:en:bible:notes:jer:44:15|<<]] | [[:en:bible:notes:jer:44:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

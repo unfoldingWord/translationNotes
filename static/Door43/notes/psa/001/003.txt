@@ -18,7 +18,6 @@
 \q2 just as fruit trees that have been planted along the banks of a stream produce fruit at the right time every year.
 \q1 Like trees that never wither,
 \q2 they succeed in everything that they do.
-\b
 
 
 \q1
@@ -32,6 +31,7 @@
 \q that produces its fruit in its season,
 \q whose leaves do not wither;
 \q whatever he does will prosper.
+\q
 </usfm>
 
 ===== translationWords: =====
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:psa:001]]
 **[[:en:bible:notes:psa:001:001|<<]] | [[:en:bible:notes:psa:001:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1 prosper}}
+~~DISCUSSION~~{{tag>publish p2pass book1 prosper}}
 
 ~~NOCACHE~~

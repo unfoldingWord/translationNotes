@@ -28,7 +28,7 @@
 
 <usfm>
 \p
-\v 14 Then Saul's uncle said to him and his servant, "Where did you go?" And he replied, "To look for the donkeys; when we saw that we could not find them, we went to Samuel."
+\v 14 Then Saul's uncle said to him and his servant, "Where did you go?" He replied, "To look for the donkeys. When we saw that we could not find them, we went to Samuel."
 \v 15 Saul's uncle said, "Please tell me what Samuel said to you."
 \v 16 Saul replied to his uncle, "He told us plainly that the donkeys had been found." But he did not tell him about the matter of the kingdom, of which Samuel had spoken.
 </usfm>
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1sa:10]]
 **[[:en:bible:notes:1sa:10:11|<<]] | [[:en:bible:notes:1sa:10:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

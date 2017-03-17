@@ -48,9 +48,13 @@
 
 ===== translationNotes: =====
 
-  * **It was to Ahab a trivial thing to walk in the sins of Jeroboam son of Nebat** - AT: "As if committing the same sins that Jeroboam son of Nebat had committed was not bad enough for Ahab" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **a trivial thing** - "an insignificant thing"
+  * **It was to Ahab a trivial thing to walk in the sins of Jeroboam son of Nebat** - This implies that Ahab wanted to commit worse sins. The full meaning of this statement can be made explicit. AT: "It was as if Ahab thought that walking in the sins of Jeroboam son of Nebat was not enough"  (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **It was to Ahab a trivial thing** - This is an idiom. The phrase "to Ahab" means that Ahab considered or thought something. AT: "Ahab considered it a trivial thing" or "Ahab thought that it was not enough" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **a trivial thing** - "an insignificant thing" or "not enough"
+  * **to walk in the sins of Jeroboam son of Nebat** - Walking in Jeroboam's sins represents sinning as Jeroboam had sinned. AT: "to sin as Jeroboam son of Nebat had sinned" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **worshiped Baal and bowed down to him** - These two phrases mean the same thing. The phrase "bowed down to him" describes the posture that people used in worship. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the God of Israel** - Here the word "Israel" refers to the nation of Israel, which consisted of twelve tribes.
+  * **the kings of Israel** - Here the word "Israel" refers to the kingdom of Israel, which consisted of ten tribes.
  
 ===== Links: =====
 
@@ -59,6 +63,6 @@
   * [[:en:bible:questions:comprehension:1ki:16]]
 **[[:en:bible:notes:1ki:16:29|<<]] | [[:en:bible:notes:1ki:16:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit baal jezebel}}
+~~DISCUSSION~~{{tag>publish p2pass baal jezebel}}
 
 ~~NOCACHE~~

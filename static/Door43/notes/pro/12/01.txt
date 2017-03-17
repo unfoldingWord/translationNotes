@@ -16,12 +16,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 The one who wants to learn will welcome correction. 
-\q2 But the one who does not want to be corrected will remain stupid. 
+\v 1 The one who wants to learn will welcome correction.
+\q2 But the one who does not want to be corrected will remain stupid.
 \q1
 \v 2 Yahweh approves of those who are good,
-\q2 but he condemns those who make evil plans. 
-
+\q2 but he condemns those who make evil plans.
 
 \q1
 </usfm>
@@ -34,7 +33,7 @@
 \v 1 Whoever loves discipline loves knowledge,
 \q but the one who hates correction is stupid.
 \q
-\v 2 Yahweh gives favor to a good man, 
+\v 2 Yahweh gives favor to a good man,
 \q but he condemns a man who makes evil plans.
 </usfm>
 
@@ -54,8 +53,8 @@
   * **General Information:** - Verses 1-15 contrast wisdom and foolishness.
 
   * **Whoever** - "Any person who"
-  * **hates correction** - "does not want to be told what to do"
-  * **stupid** - "foolish" or "unwise"
+  * **the one who hates correction** - "the person who does not want to be told what to do"
+  * **is stupid** - "is foolish" or "is unwise"
 
 ===== Links: =====
 
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:12]]
 **[[:en:bible:notes:pro:11:30|<<]] | [[:en:bible:notes:pro:12:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

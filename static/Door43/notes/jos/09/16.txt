@@ -35,12 +35,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The nation of Israel finds out that Gibeon tricked them. 
-
   * **third day** - This refers to number three in order. (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **Chephirah** - one of the cities of the Gibeonites (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Beeroth** - the name of a place (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Kiriath Jearim** - This name of a place means "city of woods" or "forests." (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Chephirah** - This is one of the cities of the Gibeonites. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Beeroth** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Kiriath Jearim** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
 
  
 ===== Links: =====
@@ -54,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

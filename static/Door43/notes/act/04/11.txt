@@ -16,10 +16,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 Jesus Christ of Nazareth is the one of whom the scriptures speak: 
+\v 11 Jesus Christ of Nazareth is the one of whom the scriptures speak:
 \q "The stone that the builders threw away has become the most important stone in the building."
-\v 12 Only Jesus can save us, for God has given no other man in the world to us who can save us from the guilt of our sins!" 
-
+\v 12 Only Jesus can save us, for God has given no other man in the world to us who can save us from the guilt of our sins!"
 
 
 
@@ -30,7 +29,7 @@
 
 <usfm>
 \v 11 Jesus Christ is the stone which you as builders despised but which has been made the head cornerstone.
-\v 12 There is no salvation in any other person: for there is no other name under heaven, that is given among men, by which we must be saved."
+\v 12 There is no salvation in any other person, for there is no other name under heaven given among men by which we must be saved."
 </usfm>
 
 ===== translationWords: =====
@@ -51,8 +50,8 @@
   * **head** - Here the word "head" means "most important" or "vital."
   * **you as builders despised** - "you as builders rejected" or "you as builders rejected as worth nothing"
   * **There is no salvation in any other person** - This can be stated positively. AT: "He is the only person who is able to save" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **no other name under heaven, that is given among men** - This can be stated in active form. AT: "no other name under heaven that God has given among men" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **no other name under heaven, that is given among men, by which** - The phrase "name ... that is given among men" refers to the person of Jesus. AT: "no other person under heaven, who is given among men, by whom" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **no other name under heaven given among men** - This can be stated in active form. AT: "no other name under heaven that God has given among men" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **no other name ... given among men** - The phrase "name ...  given among men" refers to the person of Jesus. AT: "no other person under heaven, who is given among men, by whom" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **under heaven** - This is a way of referring to everywhere in the world. AT: "in the world" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **by which we must be saved** - This can be stated in active form. AT: "which can save us" or "who can save us" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 

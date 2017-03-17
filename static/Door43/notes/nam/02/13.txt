@@ -18,11 +18,12 @@
 
 <usfm>
 \v 13 Yahweh, commander of the angel armies, says to the people of Nineveh,
-\pi "I am your enemy;
- I will cause your chariots to burn in fire and go up in smoke.
- Your young men will be killed with swords.
- I will make all the valuable things you stole from other nations disappear.
- Your messengers will never again take messages to other nations, demanding that their armies surrender to them."
+\q2 "I am your enemy;
+\q2 I will cause your chariots to burn in fire and go up in smoke.
+\q2 Your young men will be killed with swords.
+\q2 I will make all the valuable things you stole from other nations disappear.
+\q2 Your messengers will never again take messages to other nations, demanding that 
+\q2 their armies surrender to them."
 </usfm>
 
 
@@ -31,7 +32,7 @@
 <usfm>
 \q
 \v 13 "See, I am against you—this is the declaration of Yahweh of hosts.
-\q I will burn your chariots in the smoke, and the sword will devour your young lions. 
+\q I will burn your chariots in the smoke, and the sword will devour your young lions.
 \q I will cut off your plunder from your land, and the voices of your messengers will be heard no more."
 </usfm>
 

@@ -25,7 +25,7 @@
 <usfm>
 \p
 \v 56 If the priest examines the item, and if the mildew has faded after it was washed, then he must tear out the contaminated part from the garment or from the leather, or from the woven or knitted material.
-\v 57 If the mildew still appears in the garment, either in the woven or knitted material, or in anything made of leather, it is spreading. You must burn any item that has the mildew. 
+\v 57 If the mildew still appears in the garment, either in the woven or knitted material, or in anything made of leather, it is spreading. You must burn any item that has the mildew.
 \v 58 The garment or anything woven or knitted from wool or linen material, or leather or anything made with leather—if you wash the item and the mildew is gone, then the item must be washed a second time, and it will be clean.
 </usfm>
 
@@ -37,7 +37,7 @@
 ===== translationNotes: =====
 
   * **after it was washed** - This can be translated in active form. AT: "after the owner washed it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **You must burn** - Here "you" does not mean Moses or Aaron specifically. It just means someone must burn the item.
+  * **You must burn** - Here "you" does not refer to the priest specifically. It just means someone must burn the item.
   * **if you wash the item** - This can be translated in active form. AT: "if the owner washes it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **then the item must be washed** - This can be translated in active form. AT: "then the owner must wash it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **it will be clean** - Something that God has declared to be fit for people to touch is spoken of as if it were physically clean. (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:lev:13]]
 **[[:en:bible:notes:lev:13:53|<<]] | [[:en:bible:notes:lev:13:59|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

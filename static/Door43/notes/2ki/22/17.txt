@@ -14,7 +14,7 @@
 
 <usfm>
 \v 17 I will do that because they have abandoned me, and they burn incense to honor other gods. They have caused me to become very angry by all the idols that they have made, and my anger is like a fire that will not be put out.
-\v 18 The king of Judah sent you to inquire what I, Yahweh, want him to do. This is what you should say to him, 'You have paid attention to what was written in the scroll.
+\v 18 The king of Judah sent you to inquire what I, Yahweh, want him to do. This is what you should say to him, "You have paid attention to what was written in the scroll.
 \v 19 Also, you have repented and humbled yourself when you heard what I threatened to do to punish this city and the people who live here, I have heard what you prayed. I said that I would cause this city to be abandoned. It will be a city whose name people will use when they curse someone. But because you tore your robes and wept in my presence, I have heard you.
 </usfm>
 
@@ -45,8 +45,13 @@
 
   * **General Information:** - The message Yahweh sent to King Josiah through Huldah, the prophetess, continues.
 
-  * **my anger has been kindled against this place, and it will not be extinguished** - AT: "my anger against this place is like a fire that cannot be put out" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **that they would become a desolation** - "that it would become a bare wilderness" 
+  * **my anger has been kindled against this place, and it will not be extinguished** - Yahweh's anger is spoken of as if it were a fire that was lit. AT: "my anger against this place is like a fire that cannot be put out" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **this place** - Here "place" represents the people who live in Jerusalem and Judah. AT: "these people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **About the words that you heard** - Here "words" represents the message that Huldah just spoke. AT: "About the message that you heard" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **because your heart was tender** - Here "heart" represents a person's inner being. Feeling sorry is spoken of as if the heart were tender. AT: "because you felt sorry" or "because you repented" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **that they would become a desolation and a curse** - The abstract nouns "desolation" and "curse" can be stated as an adjective and a verb. AT: "that I would make the land desolate and would curse them" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **torn your clothes** - This is a symbolic action that indicates intense grief or sadness. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **this is the declaration of Yahweh** - Here Yahweh speaks about himself in the third person. It can be stated in first person. AT: "this is what I declare" (See: [[:en:ta:vol2:translate:figs_123person]])
 
 
 ===== Links: =====
@@ -62,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit desolate}}
+{{tag>publish p2pass desolate}}
 
 ~~NOCACHE~~

@@ -24,7 +24,7 @@
 <usfm>
 \c 8
 \p
-\v 1 The men of Ephraim said to Gideon, "What is this you have done to us? You did not call us when you went to fight against Midian." And they argued with him with force.
+\v 1 The men of Ephraim said to Gideon, "What is this you have done to us? You did not call us when you went to fight against Midian." Then they had a violent argument with him.
 </usfm>
 
 
@@ -38,8 +38,8 @@
 
 
   * **What is this you have done to us?** - The people of the tribe of Ephraim were rebuking Gideon with this rhetorical question for not including them in his army. This can be expressed as a statement. AT: "You have not treated us fairly." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **against Midian** - Here "Midian" represents the Midianite army. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **they argued with him with force** - "they argued angrily with him" or "they rebuked him severely"
+  * **against Midian** - Here "Midian" represents the Midianite army. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they had a violent argument with him** they argued angrily with him" or "they rebuked him severely"
 ===== Links: =====
 
   * [[:en:bible:notes:jdg:00:intro]]
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:jdg:08]]
 **[[:en:bible:notes:jdg:07:24|<<]] | [[:en:bible:notes:jdg:08:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

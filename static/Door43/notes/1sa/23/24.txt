@@ -26,7 +26,7 @@
 <usfm>
 \p
 \v 24 Then they rose up and went to Ziph ahead of Saul. Now David and his men were in the wilderness of Maon, in the Arabah to the south of Jeshimon.
-\v 25 Saul and his men went to seek him. And David was told of it, so he went down to a rocky hill and lived in the wilderness of Maon. When Saul heard it, he chased David in the wilderness of Maon.
+\v 25 Saul and his men went to seek him. But David was told of it, so he went down to a rocky hill and lived in the wilderness of Maon. When Saul heard it, he chased David in the wilderness of Maon.
 </usfm>
 
 
@@ -40,10 +40,13 @@
 
 ===== translationNotes: =====
 
-  * **they rose up** - They stopped what they had been doing. The reader should not believe that they were sitting or lying. 
-  * **they ... went** - the Ziphites
+  * **Then they rose up** - They stopped what they had been doing. The reader should not believe that they were sitting or lying. 
+  * **Then they** - "Then the Ziphites"
+  * **Ziph** - This is the name of a place. Translate this as in [[:en:bible:notes:1sa:23:13|23:14]].
+  * **Jeshimon** - This is the name of a desert area near the Dead Sea. It can also be translated as "the Judean Wilderness" or "the wasteland." Translate as in [[:en:bible:notes:1sa:23:19|23:19]]. (See: [[:en:ta:vol1:translate:translate_names]]) 
   * **David was told of it** - This can be translated in active form. AT: "Someone told David that they were coming" or "David learned that they were coming" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
   * **rocky hill** - a hill covered with many rocks or boulders
+  * **the wilderness of Maon** - This is the name of the deserted area around the city of Maon in southern Judah. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -52,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1sa:23]]
 **[[:en:bible:notes:1sa:23:21|<<]] | [[:en:bible:notes:1sa:23:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check arabah}}
+~~DISCUSSION~~{{tag>publish p2pass arabah}}
 
 ~~NOCACHE~~

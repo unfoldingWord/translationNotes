@@ -49,9 +49,13 @@
  
 ===== translationNotes: =====
 
-  * **by his power** - AT: "by using his power" or "because he is powerful" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **he rises up and does not strengthen them in life** - AT: "God rises up and does not give wicked people the strenght to live"
-  * **but his eyes are on their ways** - AT: "but he is always watching what they do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Connecting Statement:** - Job continues speaking.
+
+  * **by his power** - "by using his power" or "because he is powerful"
+  * **he rises up and does not strengthen them in life** - Here "does not strengthen them in life" means God does not keep them alive. AT: "God rises up and does not give wicked people the strength to live" or "God rises up and causes them to die" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **but his eyes are on their ways** - Here "eyes" refers to God. AT: "but he is always watching what they do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -59,6 +63,6 @@
   * [[:en:bible:questions:comprehension:job:24]]
 **[[:en:bible:notes:job:24:20|<<]] | [[:en:bible:notes:job:24:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

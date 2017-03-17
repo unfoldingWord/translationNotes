@@ -26,7 +26,6 @@
 \v 9 It was Yahweh, commander of the angel armies, who did it;
 \q2 he did it in order to cause you people in Tyre to not be proud anymore,
 \q2 to humiliate you men who are honored all over the world.
-\b
 
 
 \q1
@@ -35,12 +34,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 8 Who has planned this against Tyre, the giver of crowns, 
+\v 8 Who has planned this against Tyre, the giver of crowns,
 \q1 whose merchants are princes, whose traders are the honored ones of the earth?
 \q1
-\v 9 Yahweh of hosts has planned it to dishonor her pride 
+\v 9 Yahweh of hosts has planned it to dishonor her pride
 \q1 and all her glory, to shame all her honored ones of the earth.
 </usfm>
 
@@ -58,10 +56,12 @@
 
 ===== translationNotes: =====
 
-  * **Who has planned this against Tyre** - Isaiah uses a question to mock Tyre. The word "this" refers to God's plans to destroy Tyre which Isaiah described in 23:1-7. Also, "Tyre" refers to the people who live in Tyre. AT: "Someone has planned to destroy the people of Tyre." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the giver of crowns** - Here "crown" refers to the power a person has as a ruler over people. AT: "who gives people power to rule over others" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **whose merchants are princes** - The merchants are compared to princes to emphasize how much power they had when they went to different lands. AT: "whose merchants are like kings" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Who has planned this against Tyre ... of the earth?** - Isaiah uses a question to mock Tyre. The word "this" refers to God's plans to destroy Tyre which Isaiah described in 23:1-7. Also, "Tyre" refers to the people who live in Tyre. This rhetorical question can be translated as a statement. AT: "It was Yahweh who has planned to destroy the people of Tyre ... of the earth." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the giver of crowns** - Here "crown" refers to the power a person has as a ruler over people. AT: "who gives people power to rule over others" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **whose merchants are princes** - The merchants are compared to princes to emphasize how much power they had when they went to different lands. AT: "whose merchants are like princes" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **whose traders are the honored ones of the earth** - This can be stated in active form. AT: "whose traders the people of the earth give the highest honors" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **to dishonor her pride and all her glory** - "to dishonor them because they were proud of their own glory"
+  * **her pride ... her glory ... her honored ones** - Here "her" refers to the city of Tyre which represents the people who live there. AT: "their pride ... their glory ... their honored one" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 
 ===== Links: =====
@@ -71,6 +71,6 @@
   * [[:en:bible:questions:comprehension:isa:23]]
 **[[:en:bible:notes:isa:23:06|<<]] | [[:en:bible:notes:isa:23:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

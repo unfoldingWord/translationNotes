@@ -30,7 +30,7 @@
 \v 9 Even a very close friend, whom I trusted very much,
 \q2 who often ate with me,
 \q2 has betrayed me.
-\b
+
 
 
 \q1
@@ -65,7 +65,7 @@
 ===== translationNotes: =====
 
   * **against me they hope for my hurt** - Possible meanings are 1) "they hope that very bad things will happen to me" (UDB) or 2) "they are planning to hurt me."
-  * **An evil disease ... holds on tightly to him** - His enemies speak of "disease" as if it were a person who has captured him. AT: "He is sick with a fatal disease" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **An evil disease ... to him** - His enemies speak of "disease" as if it were a person who has captured him. AT: "He is sick with a fatal disease" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **An evil disease** - Possible meanings are 1) "A fatal disease" or 2) "Something evil"
   * **now that he is lying down, he will rise up no more** - Here the words "lying down" refer to lying in bed because of illness. That he will not "rise up" means that he will continue to lie down, which is a euphemism for death. AT: "now that he is sick in bed, he will die there" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_euphemism]])
   * **has lifted up his heel against me** - This is an idiom that means his friend betrayed him. AT: "has betrayed me" or "has turned against me" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
@@ -80,6 +80,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book1}}
+{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

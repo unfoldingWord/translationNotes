@@ -25,7 +25,7 @@
 
 <usfm>
 \p
-\v 15 Then Hushai said to Zadok and to Abiathar the priests, "Ahithophel advised Absalom and the elders of Israel in such and such a way, but I have advised something else. 
+\v 15 Then Hushai said to Zadok and to Abiathar the priests, "Ahithophel advised Absalom and the elders of Israel in such and such a way, but I have advised something else.
 \v 16 Now then, go quickly and report to David; say to him, 'Do not camp tonight at the fords of the Arabah, but by all means cross over, or the king will be swallowed up along with all the people who are with him.'"
 </usfm>
 
@@ -41,11 +41,11 @@
  
 ===== translationNotes: =====
 
-  * **Hushai ... Zadok ... Abiathar ... Ahithophel ... Absalom** - These are the name of men. See how you translated Zadok and Abiathar in [[:en:bible:notes:2sa:15:24|15:24-25]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Zadok ... Abiathar** - Translate these men's name the same as you did in [[:en:bible:notes:2sa:15:24|15:24-25]]. (See: [[:en:ta:vol1:translate:translate_names]])
   * **in such and such a way** - This phrase, meaning "like this," refers to what Ahithophel advised Absalom earlier in [[:en:bible:notes:2sa:17:01|17:1-3]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **the fords of the Arabah** - A ford is a shallow part of a river where people can walk across. The Arabah is the land along both sides of the Jordan River.
-  * **by all means** - "be sure to" 
-  * **the king will be swallowed up** - Here "swallowed up" refers to the king being killed. (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **by all means** - This means to make sure that you do something. AT: "be sure to" or "make sure that you" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the king will be swallowed up** - Here the king and his people being killed is describes as if they were "swallowed" by their enemy. AT: "the king will be killed" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -59,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit abiathar}}
+{{tag>publish p2pass abiathar}}
 
 ~~NOCACHE~~

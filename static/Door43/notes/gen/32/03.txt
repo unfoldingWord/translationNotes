@@ -24,9 +24,9 @@
 
 <usfm>
 \p
-\v 3 Jacob sent messengers ahead of him to his brother Esau, in the land of Seir, in the region of Edom.
-\v 4 He commanded them, saying, "This is what you will say to my master Esau: This is what your servant Jacob says: 'I have been staying with Laban, and I have stayed until now.
-\v 5 I have oxen, donkeys, and flocks, male servants, and female servants.  I have sent to tell this to my master, that I may find favor in your sight.'"
+\v 3 Jacob sent messengers on ahead of him to his brother Esau in the land of Seir, in the region of Edom.
+\v 4 He commanded them, saying, "This is what you will say to my master Esau: This is what your servant Jacob says: 'I have been staying with Laban, and have delayed my return until now.
+\v 5 I have oxen, donkeys, and flocks, male servants, and female servants. I have sent this message to my master, so that I may find favor in your sight.'"
 </usfm>
 
 ===== translationWords: =====
@@ -48,7 +48,6 @@
   * **This is what you will say to my master Esau: This is what your servant Jacob says: 'I have been ... in your sight.'** - This has a quotation within a quotation. The direct quotation can be stated as an indirect quotation. AT: "'This is what I want you to tell my master Esau. Tell him that I have been ... in his sight.'" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
   * **my master Esau** - Jacob is using polite language and refers to his brother as "my master."
   * **your servant Jacob** - Jacob is using polite language and refers to himself as "your servant."
-  * **sent to tell this** - The phrase "my messengers" is understood. AT: "sent my messengers to tell this" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **that I may find favor in your sight** - Here "sight" stands for a person's thoughts or opinion. AT: "that you may approve of me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
@@ -57,6 +56,6 @@
   * [[:en:bible:questions:comprehension:gen:32]]
 **[[:en:bible:notes:gen:32:01|<<]] | [[:en:bible:notes:gen:32:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit esau edom}}
+~~DISCUSSION~~{{tag>publish p2pass esau edom}}
 
 ~~NOCACHE~~

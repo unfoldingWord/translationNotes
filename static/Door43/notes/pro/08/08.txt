@@ -17,10 +17,10 @@
 
 <usfm>
 \v 8 Everything that I say is right;
-\q2 I do not say anything that changes the meaning of what is good or that leads people away from it. 
+\q2 I do not say anything that changes the meaning of what is good or that leads people away from it.
 \q1
 \v 9 My words give good advice to the one who understands the meaning of what I say;
-\q2 my words are are right for those who have learned to tell what is good from what is evil.
+\q2 those who have learned to tell good from evil will easily know that my words are right.
 
 
 \q1
@@ -32,10 +32,10 @@
 <usfm>
 \q
 \v 8 All the words of my mouth are just;
-\q there is nothing twisted or misleading in them.
+\q in them is nothing twisted or misleading.
 \q
-\v 9 All my words are straight for the one who understands;
-\q my words are right for those who find knowledge.
+\v 9 All of them are straight for the person who understands;
+\q my words are upright for those who find knowledge.
 </usfm>
 
 
@@ -44,11 +44,16 @@
   * [[:en:obe:kt:word]]
   * [[:en:obe:kt:justice]]
   * [[:en:obe:other:know]]
+  * [[:en:obe:kt:upright]]
 
  
 ===== translationNotes: =====
 
-  * **my words are straight for the one who understands** - "my words are clear to those who are wise"
+  * **the words of my mouth** - Here "words" represent a message or teaching. Also, "mouth" stands for the person who is speaking. AT: "The things I teach" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **twisted** - "false"
+  * **straight** - "honest and clear"
+  * **my words are upright for those who find knowledge** - This probably means that those who find knowledge will easily understand that the speaker's words are upright. Here "words" represent a message or teaching. AT: "those who know what is right and what is wrong consider what I teach to be right" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **upright** - "honest"
 
  
 ===== Links: =====
@@ -58,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:08]]
 **[[:en:bible:notes:pro:08:06|<<]] | [[:en:bible:notes:pro:08:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

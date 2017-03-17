@@ -57,12 +57,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues to address his case to God himself. 
+  * **General Information:** - Job continues speaking to God. 
 
-  * **then I will not hide myself** - AT: "I could come before you with confidence that you would not harm me". 
-  * **your face** - "Face" represents the person that here is God himself. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **oppressive hand** - "Hand" represents the control and power. Here it means God's control and power over Job. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
+  * **from your face** - "Face" represents the person. AT: "from you." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **withdraw your oppressive hand** - An oppressive hand is a metonym for doing things that oppress someone. Withdrawing the hand is a metaphor for  stopping doing those things. AT: "stop oppressing me" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **do not let your terrors make me afraid** - The phrase "your terrors" refers to what causes people to be terrified of God. AT: "do not terrify me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -70,6 +69,6 @@
   * [[:en:bible:questions:comprehension:job:13]]
 **[[:en:bible:notes:job:13:18|<<]] | [[:en:bible:notes:job:13:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

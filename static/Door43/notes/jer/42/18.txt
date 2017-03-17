@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 18 For Yahweh of hosts, God of Israel, says this: Just as my wrath and my fury were poured out on the inhabitants of Jerusalem, in the same way my fury will be poured out on you if you go to Egypt. You will become an object of cursing and a horror, an object for speaking curses, and something dishonorable. And you will not see this place again.'"
+\v 18 For Yahweh of hosts, God of Israel, says this: Just as my wrath and my fury were poured out on the inhabitants of Jerusalem, in the same way my fury will be poured out on you if you go to Egypt. You will become an object of cursing and a horror, an object for speaking curses, and something dishonorable, and you will not see this place again.'"
 \v 19 Then Jeremiah said, "Yahweh has spoken concerning you—the remnant of Judah. Do not go to Egypt! You certainly know that I have been a witness against you today.
 </usfm>
 
@@ -34,11 +34,11 @@
 
 ===== translationNotes: =====
 
-  * **my wrath and my fury were poured out** - AT: "I poured out my wrath and my fury" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **my wrath and my fury** - The words "wrath" and "fury" mean basically the same thing. Together they emphasize the intensity of his wrath. AT: "my terrible wrath." (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **my fury will be poured out on you** - AT: "I will pour my fury out on you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **an object of cursing and a horror, an object for speaking curses, and something dishonorable.** - These two lines mean basically the same thing and emphasize how badly the nations will treat the people of Judah after Yahweh punishes them. See how you translated similar phrases in [[:en:bible:notes:jer:25:17|25:18]] and [[:en:bible:notes:jer:29:18|29:18]]. (See [[:en:ta:vol2:translate:figs_parallelism]])
-  * **I have been a witness** - Yahweh has been the one who makes sure the people of Israel are punished if they do not keep their promise to obey Yahweh's command.
+  * **my wrath and my fury were poured out on the inhabitants of Jerusalem** - Yahweh punishing people because he is very angry is spoken of as if wrath and fury were liquids that he poured out on the people. This can be stated in active. AT: "I became very angry and punished the people of Jerusalem" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **my wrath and my fury** - The words "wrath" and "fury" mean basically the same thing. Together they emphasize the intensity of his wrath. AT: "my terrible wrath" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **in the same way my fury will be poured out on you** - Yahweh punishing people because he is very angry is spoken of as if fury were a liquid that he pours out on the people. This can be stated in active. AT: "I will became very angry and punish you" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **You will become an object of cursing and a horror, an object for speaking curses, and something dishonorable** - All of these statements mean basically the same thing and emphasize how badly the nations will treat the people of Judah after Yahweh punishes them. AT: "People will be terrified when they see what has happened to you. They will curse and mock you" (See [[:en:ta:vol2:translate:figs_parallelism]])
+  * **I have been a witness against you** - The phrase "been a witness against" is an idiom that means to give a warning. AT: "I have warned you" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:jer:42]]
 **[[:en:bible:notes:jer:42:15|<<]] | [[:en:bible:notes:jer:42:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

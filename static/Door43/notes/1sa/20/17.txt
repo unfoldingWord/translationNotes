@@ -26,7 +26,7 @@
 <usfm>
 \p
 \v 17 Jonathan made David vow again because of the love that he had for him, because he loved him as he loved his own soul.
-\v 18 Then Jonathan said to him, "Tomorrow is the new moon. You will be missed, because your seat will be empty.
+\v 18 Then Jonathan said to him, "Tomorrow is the new moon. You will be missed because your seat will be empty.
 \v 19 When you have stayed three days, go down quickly and come to the place where you hid yourself when the business was in hand, and stay by the stone Ezel.
 </usfm>
 
@@ -41,10 +41,10 @@
 
 ===== translationNotes: =====
 
-  * **he loved him as he loved his own soul** - Here "his own soul" refers to himself. AT: "Jonathan loved David as he loved himself" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **he loved him as he loved his own soul** - Here "his own soul" refers to himself. AT: "Jonathan loved David as much as he loved himself" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **You will be missed** - This can be stated in active form. AT: "My father will miss you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **when the business was in hand** - Here "business was in hand" is an idiom that refers to when everything happened. AT: "when everything happened" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the stone Ezel** - "the stone that people call Ezel"
+  * **the stone Ezel** - "Ezel" was the name of the stone. AT: "the stone that people call Ezel" (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:1sa:20]]
 **[[:en:bible:notes:1sa:20:14|<<]] | [[:en:bible:notes:1sa:20:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

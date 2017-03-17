@@ -19,17 +19,15 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 Among the people of Israel, I have seen a horrible thing— 
+\v 10 Among the people of Israel, I have seen a horrible thing—
 \q2 the people of Ephraim worship idols everywhere.
 \q1 The people of Israel have become filthy by what they have done.
-\b
 \q1
 \v 11 And for you also, you people of Judah,
-\q2 I have set for you a time when I will separate out your good people from your bad people. 
-\q1 Just as in the harvest when you take all the crops in, 
-\q2 and you keep the good and throw away the bad, 
-\q1 that is what is coming for you, people of Judah. 
-\b
+\q2 I have set for you a time when I will separate out your good people from your bad people.
+\q1 Just as in the harvest when you take all the crops in,
+\q2 and you keep the good and throw away the bad,
+\q1 that is what is coming for you, people of Judah.
 \q1 That will be the day when I bring back the blessings and riches of my people once more."
 </usfm>
 
@@ -66,7 +64,7 @@
   * **Ephraim's prostitution** - Here "prostitution" refers to Ephraim's worship of false gods. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Israel has become unclean** - Israel has become unacceptable to God because of her actions.  
   * **For you also, Judah, a harvest has been appointed** - This can be stated in active form. AT: "I have set a time of harvest for you also, Judah" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **harvest** - Here "harvest" represents God's final judgment on Israel and Judah (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **harvest** - Here "harvest" represents God's final judgment on Israel and Judah. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **fortunes** - prosperity and security
 
 ===== Links: =====
@@ -76,6 +74,6 @@
   * [[:en:bible:questions:comprehension:hos:06]]
 **[[:en:bible:notes:hos:06:08|<<]] | [[:en:bible:notes:hos:07:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

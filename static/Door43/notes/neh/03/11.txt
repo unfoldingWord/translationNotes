@@ -38,12 +38,11 @@
  
 ===== translationNotes: =====
 
-  * **Malchijah ... Harim ... Hasshub ... Pahath Moab ... Shallum ... Hallohesh** - These are all names of males (See: [[:en:ta:vol1:translate:translate_names]])
-  * **repaired another section** - "repaired another section of the wall" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Tower of the Ovens** - Presumably, this wall section contained ovens for cooking and baking.
-  * **Next to them** - This refers to the person working on the next stretch of the wall.
-  * **ruler of half the district of Jerusalem** - "ruler" was the chief administrator or leader.
-  * **along with his daughters** - Daughters, as well as sons, did the repair work.
+  * **Malchijah ... Harim ... Hasshub ... Pahath Moab ... Shallum ... Hallohesh** - These are all names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **repaired another section ... repaired, along with his daughters** - These phrase refer to repairing the wall. AT: "repaired another section of the wall ...  repaired the wall, along with his daughters" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Shallum son of Hallohesh, the ruler** - Shallum was the ruler, not Hallohesh. 
+  * **ruler** - "chief administrator" or "leader"
+  * **half the district** - "Half" means one part out of two equal parts. (See: [[:en:ta:vol2:translate:translate_fraction]])
  
 ===== Links: =====
 
@@ -58,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -38,12 +38,13 @@
   * **General Information:** - Moses continues speaking to the people of Israel.
 
   * **When you have come to the land** - The word "come to" can be translated as "gone to" or "entered." (See: [[:en:ta:vol2:translate:figs_go]])
-  * **then you say, 'I will set a king over myself, like all the nations that are round about me'** - This has a quotation within a quotation. A direct quotation can be stated as an indirect quotation. AT: "then you decide that you want a king just like the peoples of the nations that surround you have kings" (See:[[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **then you say, 'I will set a king over myself, like all the nations that are round about me'** - This has a quotation within a quotation. A direct quotation can be stated as an indirect quotation. AT: "then you decide that you want a king just like the peoples of the nations that surround you have kings" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **I will set a king over myself ... round about me** - Moses has the people speaking as if they were one person. It may be more natural to translate this with plural pronouns. AT: "We will set over ourselves ... round about us" (See: [[:en:ta:vol2:translate:figs_pronouns]])
   * **set a king over myself** - Giving someone the authority to rule as king in Israel is spoken of as if the people were setting the person in a place above them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **like all the nations that are round about me** - "like all the surrounding nations"
+  * **all the nations that are round about me** - "all the surrounding nations"
   * **all the nations** Here "nations" represent the people who live in the nations. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **one from among your brothers** - "one of your fellow Israelites"
-  * **a foreigner, who is not your brother** - Both of these phrases mean the same thing. They both refer to a person who is not an Israelite. AT: "a foreigner" or "a non-Israelite" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **someone from among your brothers** - "one of your fellow Israelites"
+  * **a foreigner, who is not your brother, over yourself** - Both of these phrases mean the same thing. They both refer to a person who is not an Israelite. Yahweh is emphasizing that the people of Israel should not let a foreigner rule over them. AT: "a foreigner over yourself" or "a non-Israelite over yourself" (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
 
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:deu:17]]
 **[[:en:bible:notes:deu:17:12|<<]] | [[:en:bible:notes:deu:17:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

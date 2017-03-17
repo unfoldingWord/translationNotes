@@ -45,13 +45,11 @@
 
 ===== translationNotes: =====
 
+  * **Connecting Statement:** - Job speaks to his three friends.
   * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
-  * **Then Job answered and said** - See how you translated this in [[:en:bible:notes:job:06:01|6:1]].
-  * **How long will you make me suffer and break me into pieces with words** - AT: "Stop making me suffer and breaking me into pieces with words." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
-  * **will you make me suffer** - The word "you" refers to the three friends of Job, Eliphaz, Bildad, and Zophar.
-  * **break me into pieces with words** - Job uses this image to say that his words make him feel very sad and hopeless. AT: "and torment me with your words." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **How long will you make me suffer and break me into pieces with words** - Job uses this question to complain about how his friends are treating him. AT: "Stop making me suffer and breaking me into pieces with words." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **break me into pieces with words** - Job uses this image to say that their words make him feel very sad and hopeless. AT: "and torment me with your words" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -59,6 +57,6 @@
   * [[:en:bible:questions:comprehension:job:19]]
 **[[:en:bible:notes:job:18:21|<<]] | [[:en:bible:notes:job:19:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -20,11 +20,9 @@
 <usfm>
 \v 21 Foolish people enjoy their folly;
 \q2 those who have insight live a good life.
-\b
 \q1
 \v 22 When there is no one giving advice, plans go wrong,
 \q2 but with many advisors, they will succeed.
-\b
 
 
 \q1
@@ -35,10 +33,10 @@
 
 <usfm>
 \q
-\v 21 Folly delights a person who lacks sense, 
+\v 21 Folly delights a person who lacks sense,
 \q but the one who has understanding walks a straight path.
 \q
-\v 22 Plans go wrong where there is no advice, 
+\v 22 Plans go wrong where there is no advice,
 \q but with numerous advisors they succeed.
 </usfm>
 
@@ -47,15 +45,14 @@
 
   * [[:en:obe:kt:foolish]]
   * [[:en:obe:kt:walk]]
- 
 
 ===== translationNotes: =====
 
-
-  * **a person who lacks sense** - AT: "a person without wisdom" or "a fool"
-  * **walks a straight path** - Walking a path is a metaphor for a way of living. A straight path is a righteous or wise path. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Plans go wrong** - "Plans fail" or "Plans are destroyed"
+  * **the one who has understanding walks a straight path** - The writer speaks of a person doing the right thing as if he were walking straight ahead on a path. AT: "the person who has understanding does what is right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Plans go wrong** - "Plans fail"
+  * **where there is no advice** - "when there is no one to give advice"
   * **advisors** - people who give recommendations as a guide to action
+  * **they succeed** - "plans succeed"
  
 ===== Links: =====
 
@@ -70,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

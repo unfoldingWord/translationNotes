@@ -21,8 +21,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 34 But now your city is like a ship is wrecked in the sea,
-\q2 and everything that was in it is broken, at the bottom of the sea.
+\v 34 But now your city is like a ship wrecked in the sea;
+\q2 and everything in it is broken, and it is now at the bottom of the sea.
 \q1 All of your cargo and your sailors have sunk to the bottom of the sea.
 \q1
 \v 35 All the people who live along the seacoast are appalled
@@ -57,11 +57,18 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues giving Ezekiel his message to Tyre.
+  * **Connecting Statement:** - Yahweh continues giving Ezekiel his message to Tyre.  The city of Tyre continues to be described as if it were a wrecked ship. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **General Information:** - The words "you" and "your" in these verses refer to Tyre.
  
+  * **when you were shattered by the seas, by deep waters** - This can be expressed in active form. AT: "when the seas, the deep waters, shattered you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **shattered** - To "shatter" is to break up into pieces.
+  * **crew** - team of workers
   * **were appalled at you** - "were shocked and terrified by what happened to you"
-  * **hiss at you** - "hiss out of grief for you." Hissing was a way of expressing grief.
-  * **you have become a horror** - "it has become terrifying for people to think about you"
+  * **their kings shuddered in horror** - The abstract noun "horror" can be translated using the adverb "fearfully." AT: "their kings shuddered fearfully" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **shuddered** - "shook" or "trembled"
+  * **Their faces trembled** - Here "faces" represents the whole person. AT: "They appear to be trembling" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **hiss at you** - Hissing was making a whistling sound through the teeth. It may have been out of dismay, grief, or surprise. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **you have become a horror** - The abstract noun "horror" can be translated using the adjective "dreadful." This can be stated in active form. AT: "you have become dreadful" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -70,6 +77,6 @@
   * [[:en:bible:questions:comprehension:ezk:27]]
 **[[:en:bible:notes:ezk:27:31|<<]] | [[:en:bible:notes:ezk:28:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

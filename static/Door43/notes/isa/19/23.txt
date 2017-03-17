@@ -30,9 +30,11 @@
   * [[:en:obe:kt:worship]]
 
 ===== translationNotes: =====
-  * **there will be a highway** - "there will be a large road"
-  * **and the Assyrian** - This refers to people from Assyria. AT: "and the Assyrian people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **and the Egyptian to Assyria** - The words "will come" are understood. AT: "and the Egyptian people will come to Assyria" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **there will be a highway** - A highway is a large road on which many people can travel.
+  * **the Assyrian will come** - "the Assyrian" refers to a person from Assyria, but represents anyone from Assyria who comes to Egypt. AT: "Assyrians will come" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **and the Egyptian to Assyria** - The words "will come" are understood. AT: "and the Egyptian will come to Assyria" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **the Egyptian** - This refers to a person from Egypt, but represents anyone from Egypt who comes to Assyria. AT: "Egyptians" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **the Egyptians will worship with the Assyrians** - The object of their worship can be made explicit. AT: "the Egyptians and Assyrians will worship Yahweh" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -46,6 +48,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

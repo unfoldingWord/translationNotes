@@ -28,7 +28,7 @@
 <usfm>
 \p
 \v 7 But the king spared Mephibosheth son of Jonathan son of Saul, because of Yahweh's oath between them, between David and Jonathan son of Saul.
-\v 8 But the king took the two sons of Rizpah daughter of Aiah, sons whom she bore to Saul—the two sons were named Armoni and Mephibosheth; and David also took the five sons of Michal daughter of Saul, whom she bore to Adriel son of Barzillai the Meholathite. 
+\v 8 But the king took the two sons of Rizpah daughter of Aiah, sons whom she bore to Saul—the two sons were named Armoni and Mephibosheth; and David also took the five sons of Michal daughter of Saul, whom she bore to Adriel son of Barzillai the Meholathite.
 \v 9 He handed them over into the hands of the Gibeonites. They hanged them on the mountain before Yahweh, and they died all seven together. They were put to death during the time of harvest, during the first days at the beginning of barley harvest.
 </usfm>
 
@@ -45,8 +45,8 @@
 
 ===== translationNotes: =====
 
-  * **Mephibosheth** - See how you translated this name in [[:en:bible:notes:2sa:04:04|4:4]].
-  * **Rizpah ... Aiah** - See how you translated these names in [[:en:bible:notes:2sa:03:06|3:7]].
+  * **Mephibosheth** - Mephibosheth was the son of Jonathan. See how you translated his name in [[:en:bible:notes:2sa:04:04|4:4]].
+  * **Rizpah ... Aiah** - Rizpah was a woman and her father was Aiah. See how you translated these names in [[:en:bible:notes:2sa:03:06|3:7]].
   * **Armoni and Mephibosheth ... Adriel ... Barzillai** - These are names of men. This is not the same Mephibosheth as the son of Jonathan. (See: [[:en:ta:vol1:translate:translate_names]]) 
   * **Michal** - This is the name of a woman. See how you translated it in [[:en:bible:notes:2sa:03:12|3:13]].
   * **Meholathite** - This is the name of a people group. (See: [[:en:ta:vol1:translate:translate_names]])
@@ -58,14 +58,11 @@
   * [[:en:bible:notes:2sa:00:intro]]
   * [[:en:bible:notes:2sa:21:00]]
   * [[:en:bible:questions:comprehension:2sa:21]]
-
- 
-
 **[[:en:bible:notes:2sa:21:05|<<]] | [[:en:bible:notes:2sa:21:10|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit harvest}}
+{{tag>publish p2pass harvest}}
 
 ~~NOCACHE~~

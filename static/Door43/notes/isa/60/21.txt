@@ -20,7 +20,7 @@
 <usfm>
 \v 21 Your people will all be righteous,
 \q2 and they will occupy the land forever,
-\q1 because I myself have put you there like people plant trees 
+\q1 because I myself have put you there like people plant trees
 \q2 in order that you will show others that I am very great.
 \q1
 \v 22 At that time, the groups that are very small now will become very large clans,
@@ -33,11 +33,11 @@
 
 <usfm>
 \q1
-\v 21 All your people will be righteous; they will take possession of the land for all time, 
+\v 21 All your people will be righteous; they will take possession of the land for all time,
 \q1 the branch of my planting, the work of my
 hands, that I may be glorified.
 \q1
-\v 22 The little one shall become a thousand, and the small one a strong nation; 
+\v 22 The little one shall become a thousand, and the small one a strong nation;
 \q1 I, Yahweh, will swiftly accomplish these things when the time comes.
 </usfm>
 
@@ -55,8 +55,10 @@ hands, that I may be glorified.
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **that I may be glorified** - This can be stated in active form. AT: "so that you may glorify me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the branch of my planting** - Yahweh is comparing the people to young shoots coming up, which he, as a gardener, planted. Yahweh has placed his people in the land of Israel. This gives hope to the people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the branch of my planting, the work of my hands** - These phrases mean approximately the same and are repeated for emphasis. [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the branch of my planting** - Yahweh is comparing the people to young shoots coming up that he planted as if he was a gardener. Yahweh has placed his people in the land of Israel. This gives hope to the people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the work of my hands** - Yahweh compares the people of Israel to something made by the skill of his handicraft. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **that I may be glorified** - This can be stated in active form. AT: "so that all people may glorify me" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
   * **a thousand** - "1,000" (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 ===== Links: =====
@@ -66,6 +68,6 @@ hands, that I may be glorified.
   * [[:en:bible:questions:comprehension:isa:60]]
 **[[:en:bible:notes:isa:60:19|<<]] | [[:en:bible:notes:isa:61:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

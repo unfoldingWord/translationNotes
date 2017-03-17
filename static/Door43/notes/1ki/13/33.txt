@@ -18,7 +18,7 @@
 
 <usfm>
 \p
-\v 33 After this Jeroboam did not turn from his evil way, but continued to appoint common priests for the high places from among all sorts of people. Any who would serve he consecrated as a priest. 
+\v 33 After this Jeroboam did not turn from his evil way, but continued to appoint common priests for the high places from among all sorts of people. Any who would serve he consecrated as a priest.
 \v 34 This matter became sin to the family of Jeroboam and caused his family to be destroyed and to be exterminated from the face of the earth.
 </usfm>
 
@@ -40,7 +40,8 @@
 
   * **This matter became sin to the family of Jeroboam** - This can be stated in active form. AT: "Jeroboam's family sinned by doing this thing" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **This matter** - This phrase refers to Jeroboam's setting up shrines and appointing priests.
-  * **caused his family to be destroyed and to be exterminated** - This can be stated in active form. AT: "God destroyed and exterminated Jeroboam's family" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **caused his family to be destroyed and to be exterminated** - This can be stated in active form. AT: "because of this God destroyed and exterminated Jeroboam's family" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **to be destroyed and to be exterminated** - These mean nearly the same thing. AT: "to be completely destroyed" (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1ki:13]]
 **[[:en:bible:notes:1ki:13:31|<<]] | [[:en:bible:notes:1ki:14:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -33,11 +33,11 @@
 
 <usfm>
 \q
-\v 21 Disaster runs after sinners, 
-\q but those who do right are rewarded with good.
+\v 21 Disaster runs after sinners,
+\q but righteous people are rewarded with good.
 \q
 \v 22 A good person leaves an inheritance for his grandchildren,
-\q but a sinner's wealth is stored up for the one who does right.
+\q but a sinner's wealth is stored up for the righteous person.
 </usfm>
 
 
@@ -50,10 +50,10 @@
 ===== translationNotes: =====
 
 
-  * **Disaster runs after sinners** - Disaster is given human characteristics like the ability to run. AT: "Sinners have trouble wherever they go" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **those who do right are rewarded with good** - "God rewards those who do right with good" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **his grandchildren** - "the sons of his sons" or "the children of his children" AT: "his descendants"
-  * **a sinner's wealth is stored up for the one who does right** - "the one who does right will receive the wealth that a sinner has stored up" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Disaster runs after sinners** - "Disaster" is given human characteristics like the ability to run. AT: "Sinners have trouble wherever they go" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **righteous people are rewarded with good** - This can be stated in active form. AT: "God rewards righteous people with good" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **his grandchildren** - "the sons of his sons" or "the children of his children" or "his descendants"
+  * **a sinner's wealth is stored up for the righteous person** - This can be stated in active form. AT: "the one who does right will receive the wealth that a sinner has stored up" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
  
 ===== Links: =====
@@ -69,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

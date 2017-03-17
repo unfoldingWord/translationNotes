@@ -19,8 +19,8 @@
 \v 24 Answer me now, and then I will be quiet;
 \q2 tell me what wrong things I have done!
 \q1
-\v 25 When people speak what is true, that truth will not hurt the person who hears it,
-\q2 but what you have criticized me for having done is not true, so you have proven nothing when you say those things.
+\v 25 When people speak what is true, it can be painful for the listener to hear honest words.
+\q2 But what have all your arguments proven about me?
 
 
 \q1
@@ -47,12 +47,11 @@
  
 ===== translationNotes: =====
 
-  * **Teach me** - The verb "to teach" is in second person plural form. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **and I will hold my peace** - "and I will be silent" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **make me understand** - AT: "you make me understand." The verb is in second person plural form.
-  * **How painful are truthful words** - The ULB and the UDB have opposite meanings for this phrase. This is because possible meanings in the Hebrew are 1) The truthful words are painful to hear or 2) The words of a truthful person are not painful to hear.
-  * **But your arguments, how do they actually rebuke me?** - Job is using this question to rebuke his friends and to emphasize that what they are saying does not apply to him. AT: "Your reasons do not apply to me even though you sternly correct me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **your arguments** - "your reasons" or "your claims." "Your" is in second person plural form.
+  * **Teach me ... make me** - These verbs "teach" and "make" are second person plural and are spoken to his friends. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **and I will hold my peace** - This is an idiom. AT: "and I will be silent" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **How painful are truthful words** - Possible meanings are 1) The truthful words are painful to hear or 2) "When people speak what is true, that truth will not hurt the person who hears it."
+  * **But your arguments, how do they actually rebuke me?** - Job is using this question to rebuke his friends and to emphasize that what they are saying does not apply to him. this question can be written as a statement. AT: "Your reasons for rebuking me do not apply to me even though you sternly correct me." "But your arguments against me are not true, so they do not actually rebuke me!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **your arguments** - "your reasons" or "your claims"
  
 ===== Links: =====
 
@@ -67,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

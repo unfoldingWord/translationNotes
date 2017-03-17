@@ -53,10 +53,12 @@
 
 ===== translationNotes: =====
 
-  * **For he breaks me with a tempest** - Job compares his troubles to a tempest or storm or storm wind. Just as a tempest can destroy things and people, the troubles God sends are destroying Job. "He attacks me with a storm" or "He crushes me with a tempest." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **multiplies my wounds without cause** - "gives me many wounds for no reason"
-  * **He does not even allow me to catch my breath** - "He does not allow me to breathe a breath" or "He does not give me relief from pain"
-  * **he fills me with bitterness** - "he fills me with misery"
+  * **For he breaks me with a tempest** - Job compares his troubles from God to the effects of a tempest. AT: "He injures me as if with a tempest." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **tempest** - a powerful or violent storm
+  * **multiplies my wounds** - "gives me many wounds" or "wounds me again and again"
+  * **without cause** - "even though I have not given him cause to do so" or "even though I am innocent"
+  * **catch my breath** - This is an idiom that means "take a breath" or "breathe" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **he fills me with bitterness** - This verse pictures God as filling up Job's life with things that make him bitter. The abstract noun "bitterness" can be expressed as the adjective "bitter." AT: "he fills me up with bitter things" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -64,6 +66,6 @@
   * [[:en:bible:questions:comprehension:job:09]]
 **[[:en:bible:notes:job:09:13|<<]] | [[:en:bible:notes:job:09:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit believe}}
+~~DISCUSSION~~{{tag>publish p2check believe}}
 
 ~~NOCACHE~~

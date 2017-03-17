@@ -17,11 +17,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 One who praises his neighbor to get something from him, 
-\q2 is like the one who listens for the sound of his footsteps, 
+\v 5 One who praises his neighbor to get something from him,
+\q2 is like the one who listens for the sound of his footsteps,
 \q2 so he can catch him in a net.
 \q1
-\v 6 A bad person sets a trap with his sin; then he falls into it; 
+\v 6 A bad person sets a trap with his sin; then he falls into it;
 \q2 but one who does right is full of songs and joy.
 
 
@@ -36,8 +36,8 @@
 \v 5 A man who flatters his neighbor
 \q is spreading a net for his feet.
 \q
-\v 6 An evil person is caught in a trap by his own sin, 
-\q but the one who does right sings and rejoices. 
+\v 6 In the sin of an evil person is a trap,
+\q but the righteous person sings and rejoices.
 \q
 </usfm>
 
@@ -52,9 +52,9 @@
 
 ===== translationNotes: =====
 
-  * **An evil person is caught in a trap by his own sin** - "The sin of an evil person catches him in a trap" (See: [[:en:ta:vol2:translate:figs_activepassive]])
- 
- 
+  * **flatters his neighbor** - knowingly tells his neighbor things that are not true so that the neighbor will do what the speaker wants him to do
+  * **spreading a net for his feet** - The writer compares the flattery of a person to setting that person up to being caught in a trap. AT: "setting a trap to catch that person" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **In the sin of an evil person is a trap** - When an evil person sins, it is as if he is stepping into a trap. He desires to do evil to other people, but God will use what he does to punish him. (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:29]]
 **[[:en:bible:notes:pro:29:03|<<]] | [[:en:bible:notes:pro:29:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

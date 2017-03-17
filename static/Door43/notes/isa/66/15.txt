@@ -26,7 +26,6 @@
 \q1
 \v 16 It is as though Yahweh had a big sword,
 \q2 and he will judge and execute many people.
-\b
 
 
 \p
@@ -36,9 +35,8 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 15 For look, Yahweh is coming with fire, and his chariots are coming like the windstorm 
+\v 15 For look, Yahweh is coming with fire, and his chariots are coming like the windstorm
 \q1 to bring the heat of his anger and his rebuke with flames of fire.
 \q1
 \v 16 For Yahweh executes judgment on mankind by fire and with his sword. Those killed by Yahweh will be many.
@@ -59,9 +57,9 @@
 
   * **General Information:** - Isaiah continues speaking to God's faithful people.
 
-  * **coming with fire** - God's appearances in the Old Testament are often accompanied by fire.
-  * **like the windstorm** - Clouds are often called the chariots of God. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **with his sword** - This refers to God's power to judge and to kill his enemies. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **coming with fire** - Yahweh's appearances in the Old Testament are often accompanied by fire that represents Yahweh's anger and judgment. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **like the windstorm** - Storms represent Yahweh's powerful actions to make his judgment effective. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **with his sword** - "Sword" is one weapon that represents all of warfare and killing. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **Those killed by Yahweh will be many** - This can be stated in active form. AT: "Yahweh will kill many people" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
@@ -71,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:66]]
 **[[:en:bible:notes:isa:66:14|<<]] | [[:en:bible:notes:isa:66:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

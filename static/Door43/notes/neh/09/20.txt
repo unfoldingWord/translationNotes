@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 20 You gave your good Spirit to instruct them, and your manna you did not withhold from their mouths, and you gave them water for their thirst.
+\v 20 Your good Spirit you gave them to instruct them, and your manna you did not withhold from their mouths, and water you gave them for their thirst.
 \v 21 For forty years you provided for them in the wilderness, and they lacked nothing. Their clothes did not wear out and their feet did not swell.
 </usfm>
 
@@ -34,11 +34,12 @@
   * [[:en:obe:other:desert]]
 ===== translationNotes: =====
 
-  * **General Information:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
+  * **Connecting Statement:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
 
-  * **You gave your good Spirit to instruct them** - Here "you" and "your" refer to Yahweh, and "them" refers to the Israelites at the time of Moses.
-  * **and your manna you did not withhold from their mouths** - "and you did not withhold your manna from their mouths" 
+  * **Your good Spirit ... your manna ... water** - The writer changes the usual word order to emphasize the good things Yahweh gave his people. Your language may have another way of emphasizing these items.
   * **instruct** - "teach"
+  * **and your manna you did not withhold from their mouths** - This litotes can be expressed positively. AT: "and you generously gave them manna" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **from their mouths** - The mouth is a synecdoche for the whole person. AT: "from them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:neh:09]]
 **[[:en:bible:notes:neh:09:18|<<]] | [[:en:bible:notes:neh:09:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

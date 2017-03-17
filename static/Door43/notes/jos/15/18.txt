@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 18 Soon after that, Achsah came to Othniel and she urged him to ask her father for a field. And when she got off her donkey, Caleb said to her, "What do you want?"
+\v 18 Soon after that, Achsah came to Othniel and she urged him to ask her father for a field. When she got off her donkey, Caleb said to her, "What do you want?"
 </usfm>
 
 ===== translationWords: =====
@@ -31,22 +31,19 @@
 
 ===== translationNotes: =====
 
-  * **when Achsah came to him** - "when Achsah came to Othniel." This is an idiom that refers to Achsah becoming Othniel's wife. AT: "when Achsah became Othniel's wife" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **she urged him to ask her father to give her a field** - This can be translated as direct speech. AT: "she urged him, 'Ask my father to give me a field'" (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **Achsah came to Othniel** - This is an idiom that refers to Achsah becoming Othniel's wife. AT: "when Achsah became Othniel's wife" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **she urged him to ask her father for a field** - This can be translated as direct speech. AT: "she urged him, 'Ask my father to give me a field'" (See: [[:en:ta:vol2:translate:figs_quotations]])
 
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
   * [[:en:bible:notes:jos:15:00]]
   * [[:en:bible:questions:comprehension:jos:15]]
-
- 
-
 **[[:en:bible:notes:jos:15:16|<<]] | [[:en:bible:notes:jos:15:19|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

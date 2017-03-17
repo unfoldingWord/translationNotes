@@ -23,20 +23,30 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 And you, son of man, say to your people, 'The righteousness of a righteous person will not save him if he sins. And the wickedness of a wicked person will not cause him to perish if he repents from his sin. For the righteous person will not be able to live because of his righteousness if he sins.
-\v 13 If I say to the righteous, "He will surely live." and if he trusts in his righteousness and then commits injustice, I will not call to mind any of his righteousness; he will die in the wickedness that he has committed.
-\v 14 And if I say to the wicked, "You will surely die." but if he then repents from his sins and does what is just and right, this is the promise for you.
+\v 12 They will plunder your riches and loot your merchandise. They will tear down your walls and destroy your luxurious homes. Your stones, your timber, and the rubble they will throw into the waters.  
+\v 13 I will stop the noise of your songs. The sound of your harps will be heard no more.  
+\v 14 I will make you a bare rock, you will become a place where nets are spread out to dry. You will never be built again, for I, Lord Yahweh have spoken—this is the Lord Yahweh's declaration.
 </usfm>
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:lute]]
+  * [[:en:obe:other:harp]]
   * [[:en:obe:other:declare]]
   * [[:en:obe:kt:lordyahweh]]
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues giving Ezekiel his message to Tyre.
+  * **Connecting Statement:** - Yahweh continues giving Ezekiel his message to Tyre.
+  * **General Information:** - The word "They" in these verses refers to the soldiers in the armies of Nebuchadnezzar. The words "your" and "you" refer to the city of Tyre.
+
+  * **They will plunder your riches and loot your merchandise** - The phrases "plunder your riches" and "loot your merchandise" mean about the same thing and are repeated for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **luxurious** - expensive and comfortable
+  * **Your stones, your timber, and the rubble** - These refer to what is left after the walls and homes are torn down.
+  * **into the waters** - "into the sea"
+  * **The sound of your harps will be heard no more** - This can be stated in active form. AT: "No one will hear the sound of your harps anymore." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I will make you a bare rock** - This metaphor describes the results after Yahweh completely destroys Tyre. See how you translated a similar phrase in [[:en:bible:notes:ezk:26:03|26:4]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you will become a place where nets are spread out to dry** - This metaphor also describes the results after Yahweh destroys Tyre. See how you translated a similar phrase in [[:en:bible:notes:ezk:26:05|26:5]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you will become a place where nets** - This can be stated in active form. AT: "I will make you a place where nets" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -45,6 +55,6 @@
   * [[:en:bible:questions:comprehension:ezk:26]]
 **[[:en:bible:notes:ezk:26:09|<<]] | [[:en:bible:notes:ezk:26:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

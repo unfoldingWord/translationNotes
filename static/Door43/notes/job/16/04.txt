@@ -26,7 +26,6 @@
 \q1
 \v 5 Then you would see whether my words encouraged you or not;
 \q2 you would see whether they made you feel your pain less.
-\b
 
 
 \q1
@@ -44,7 +43,6 @@
 \q
 \v 5 Oh, how I would encourage you with my mouth!
 \q How the comfort from my lips would lighten your grief!
-\b
 </usfm>
 
 
@@ -56,8 +54,13 @@
 
 ===== translationNotes: =====
 
-  * **shake my head** - "reject what you are saying" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Oh, how I would encourage you with my mouth! How the comfort from my lips would lighten your grief!** - Job's sarcasm is communicating: "By saying to you what you said to me earlier, I would not encourage you or lighten your grief." (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **I could collect and join words together** - Job speaks of thinking of useless things to say as if his words were random items that he collected and joined together. AT: "I could think of things to say" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **shake my head** - This is an action that shows disapproval. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **in mockery** - The word "mockery" can be expressed as a verb. AT: "to mock you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Oh, how I would encourage you with my mouth! How the comfort from my lips would lighten your grief** - Here Job is speaking sarcastically and means the opposite of what he says. AT: "My words would surely not be encouraging to you"  They surely not lighten your grief" or "By speaking to you as you spoke to me earlier, I would not encourage you or lighten your grief!" (See: [[:en:ta:vol1:translate:figs_irony]])
+  * **with my mouth** - Here Job's "mouth" represents what he says. AT: "with what I say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the comfort from my lips** - This refers to comforting words that he speaks. AT: "my comforting words" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **would lighten your grief** - This speaks of grief as if it were a heavy physical burden. AT: "would lessen your grief" or "would help you feel less grief" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -66,6 +69,6 @@
   * [[:en:bible:questions:comprehension:job:16]]
 **[[:en:bible:notes:job:16:01|<<]] | [[:en:bible:notes:job:16:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -36,9 +36,14 @@
 
 ===== translationNotes: =====
 
-  * **Rizpah ... Aiah** - These are female names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **It came about** - This introduces a new event in the story of the struggle between David's supporters and Saul's family. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **house of Saul** - This refers to Saul's family and supporters who assumed control of his estate after he died.
+  * **house of David** - This refers to the supporters of David.
+  * **Abner made himself strong in the house of Saul** - Abner's increasing power over Saul's family is spoken of as if he became physically stronger. AT: "Abner gained more power over the family and supporters of Saul" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Rizpah ... Aiah** - These are names of women. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Ishbosheth** - This is a male name, a son of Saul. (See: [[:en:ta:vol1:translate:translate_names]])
-
+  * **Why have you slept with my father's concubine?** - Ishbosheth asked this question to rebuke Abner who was acting like he was the king. AT: "You did not have the right to sleep with my father's concubine!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **slept with** - This is a euphemism for sexual relations. (See: [[:en:ta:vol2:translate:figs_euphemism]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -46,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2sa:03]]
 **[[:en:bible:notes:2sa:03:04|<<]] | [[:en:bible:notes:2sa:03:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit concubine houseofdavid}}
+~~DISCUSSION~~{{tag>publish p2pass p2example concubine houseofdavid}}
 
 ~~NOCACHE~~

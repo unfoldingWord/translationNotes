@@ -51,13 +51,16 @@
   
 ===== translationNotes: =====
 
-  * **the word that came to Jeremiah from Yahweh** - AT: "Yahweh spoke his word to" (See: [[:en:ta:vol1:translate:figs_idiom]]
-  * **waging war** - AT: "fighting against"
-  * **and all of her cities** - This refers to all the surrounding towns around Jerusalem. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **to give this city** - Translate this the same way you translated in [[:en:bible:notes:jer:32:26|Jeremiah 32:28]]
-  * **into the hand of the king of Babylon** - Here "hand" refers to control. AT: into the control of the king of Babylon." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **You will not escape from his hand** - "You will not escape from his control" 
-  * **Your eyes will look at the eyes of the king of Babylon; he will speak directly to you as you go to Babylon** - Both of these expressions mean the same thing, that he will see the king of Babylon in person. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the word that came to Jeremiah from Yahweh** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated a similar phrase in [[:en:bible:notes:jer:01:01|1:2]]. AT: "the message that Yahweh spoke to Jeremiah" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to Jeremiah** - It is not clear why Jeremiah is referring to himself by name in this chapter. There is no need to translate using first person. (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **waging war** - "fighting"
+  * **and all of her cities** - This refers to all the towns around Jerusalem. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **This word said** - "He said these words" or "These are the words he said"
+  * **to give this city** - Translate as in [[:en:bible:notes:jer:32:26|Jeremiah 32:28]]
+  * **into the hand of the king of Babylon** - Here the word "hand" is a metonym for the control that the hand exercises. AT: "under the control of the king of Babylon." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **You will not escape from his hand** - Here the word "hand" is a metonym for the control that the hand exercises. AT: "You will not escape from his control" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you will certainly be seized and given** - This can be translated in active form. AT: "the Babylonians will certainly seize you and give you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -65,6 +68,6 @@
   * [[:en:bible:questions:comprehension:jer:34]]
 **[[:en:bible:notes:jer:33:25|<<]] | [[:en:bible:notes:jer:34:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

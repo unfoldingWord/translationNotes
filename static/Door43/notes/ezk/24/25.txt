@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 25 Then Yahweh said to me,"Son of man, soon I will destroy their sacred temple, which they rejoice about and which they respect and delight to look at, and I will get rid of their sons and daughters also.
+\v 25 Then Yahweh said to me, "Son of man, soon I will destroy their sacred temple, which they rejoice about and which they respect and delight to look at, and I will get rid of their sons and daughters also.
 \v 26 On that day, someone will escape from Jerusalem and come and tell you what has happened there.
 \v 27 When that happens, you will be able to speak again without constraint. You two will talk together. You will be a warning to the people; and they will know that I, Yahweh, have the power to do what I say that I will do."
 </usfm>
@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 25 "But you, son of man, on the day that I capture their temple, which is their joy, their pride, and what they see and desire—and when I take away their sons and daughters— 
+\v 25 "But you, son of man, on the day that I capture their temple, which is their joy, their pride, and what they see and desire—and when I take away their sons and daughters—
 \v 26 on that day, a refugee will come to you to give you the news!
 \v 27 On that day your mouth will be opened up to that refugee and you will speak—you will no longer be silent. You will be a sign for them so that they will know that I am Yahweh."
 </usfm>
@@ -31,10 +31,14 @@
   
 ===== translationNotes: =====
 
-  * **refugee** - someone who has been forced to leave their country because of war or another disaster.
-  * **your mouth will be opened up** - "Yahweh will open your mouth" This describes someone being given understanding and the ability to speak about something. AT: "you will know what to say" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **you will speak—you will no longer be silent** - Both of these mean the people of Israel will speak. It is said again as a negative to emphasis the positive. (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **will be a sign** - This refers to the people of Israel as a sign because they will help the refugees to understand why Jerusalem was destroyed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **that I capture their temple** - Here Yahweh speaks of destroying the temple as if it were someone that he was capturing. AT: "that I destroy their temple" 
+  * **which is their joy, their pride, and what they see and desire** - "which bring them joy and pride, which they look at and delight in" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **refugee** - someone who has been forced to leave their country because of war or another disaster
+  * **your mouth will be opened up** - This can be stated in active form.  This speaks of Ezekiel being given understanding and the ability to speak is if their mouth were being opened. AT: "I will open your mouth" or "you will know what to say" or "I will cause you to know what to say" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **you will speak—you will no longer be silent** - Both of these phrases mean that Ezekiel will speak. In the second phrase it is stated in negative form to emphasis that he will speak. (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **You will be a sign for them** - Here the word "sign" refers to something that communicates a special warning to those who see it. Yahweh speaks of Ezekiel and his actions as being this warning. See how you translated this metaphor in [[:en:bible:notes:ezk:12:04|12:6]]. AT: "You will be a warning for them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **know that I am Yahweh** - When Yahweh says that people will know that he is Yahweh, he is implying that they will know that he is the one true God who has supreme authority and power. Translate as in [[:en:bible:notes:ezk:06:06|6:7]]. AT: "understand that I am Yahweh, the one true God" or "realize that I, Yahweh, have supreme power and authority" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -42,6 +46,6 @@
   * [[:en:bible:questions:comprehension:ezk:24]]
 **[[:en:bible:notes:ezk:24:22|<<]] | [[:en:bible:notes:ezk:25:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

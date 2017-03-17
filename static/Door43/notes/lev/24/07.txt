@@ -45,7 +45,8 @@
 ===== translationNotes: =====
 
   * **Connecting Statement:** - God continues giving Moses instructions about the things in the tent of meeting.
-  * **You must put pure incense along each row of loaves** - The incense was probably next to the loaves, rather than directly on the loaves. AT: "You must put pure incense next to the loaves in each row"
+
+  * **You must put pure incense along each row of loaves** - The incense was probably next to the loaves, rather than directly on the loaves. AT: "You must put pure incense next to the loaves in each row" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **as a representative offering** - What the incense would represent can be stated clearly. AT: "to  represent the loaves as an offering" or "to be an offering that represents the loaves" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **This incense will be burnt for Yahweh** - This can be stated in active form. AT: "You will burn the incense for Yahweh" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **This offering** - "This bread that is offered"
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:lev:24]]
 **[[:en:bible:notes:lev:24:05|<<]] | [[:en:bible:notes:lev:24:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

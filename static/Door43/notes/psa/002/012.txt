@@ -24,7 +24,7 @@
 
 <usfm>
 \q
-\v 12 Kiss the son or he will be angry with you, 
+\v 12 Kiss the son or he will be angry with you,
 \q2 and you will die in the way when his anger burns for just a moment.
 \q How blessed are all those who seek refuge in him.
 </usfm>
@@ -37,7 +37,7 @@
 ===== translationNotes: =====
 
   * **Kiss the son** - People would show their king that they were loyal to him by kissing him, perhaps on the feet. AT: "Show the son that you are truly loyal to him" or "Bow down humbly before his son" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **you will die in the way** - This may refer to do dying right there, before the person has a chance to go away. AT: "you will die immediately"
+  * **you will die in the way** - This may refer to dying right there, before the person has a chance to go away. AT: "you will die immediately"
   * **when his anger burns for just a moment** - The king's anger is spoken of as if it were a fire that could burn. AT: "when he suddenly becomes very angry" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **seek refuge in him** - Asking the king for protection is spoken of as seeking refuge in him. AT: "ask the king to protect them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:psa:002]]
 **[[:en:bible:notes:psa:002:010|<<]] | [[:en:bible:notes:psa:003:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

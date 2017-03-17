@@ -46,7 +46,9 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **when a land sins against me** - Here the word "land" represents the people who live in the land. AT: "when the people who live in a land sin against me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **break the staff of its bread** - Yahweh speaks of the supply of bread as if it were a staff. The word "bread" represents all kinds of food. See how you translated a similar phrase in [[:en:bible:notes:ezk:04:16|4:16]]. AT: "end the supply of its food" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **cut off both man and beast from the land** - Yahweh speaks of killing people and animals as if he were cutting them off, like a person would cut a branch from a tree. AT: "kill both man and beast in the land" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -55,6 +57,6 @@
   * [[:en:bible:questions:comprehension:ezk:14]]
 **[[:en:bible:notes:ezk:14:09|<<]] | [[:en:bible:notes:ezk:14:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit daniel job}}
+~~DISCUSSION~~{{tag>publish p2check daniel job}}
 
 ~~NOCACHE~~

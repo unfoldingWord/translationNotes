@@ -18,7 +18,7 @@
 
 <usfm>
 \v 10 On the eighth day he must bring two doves or two young pigeons to the priest at the entrance to the tent of meeting.
-\v 11 The priest must offer one bird as a sin offering and the other as a burnt offering. These will atone for him because he sinned by being near the dead body. He must reconsecrated his head on that day.
+\v 11 The priest must offer one bird as a sin offering and the other as a burnt offering. These will atone for him because he sinned by being near the dead body. He must consecrate his head again on that day.
 </usfm>
 
 ===== translationWords: =====
@@ -35,7 +35,6 @@
 
 ===== translationNotes: =====
 
-  * **On the eighth day** - He is to do the following things before he shaves his head. This can be made clear. AT: "On the eighth day, before he shaves his head" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **the eighth day** - "the 8th day" (See: [[:en:ta:vol2:translate:translate_ordinal]])
 ===== Links: =====
 
@@ -44,6 +43,6 @@
   * [[:en:bible:questions:comprehension:num:06]]
 **[[:en:bible:notes:num:06:09|<<]] | [[:en:bible:notes:num:06:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

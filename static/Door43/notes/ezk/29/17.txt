@@ -19,7 +19,7 @@
 <usfm>
 \p
 \v 17 Then it came about in the twenty-seventh year on the first of the first month, that the word of Yahweh came to me and said,
-\v 18 "Son of man, Nebuchadnezzar the king of Babylon stationed his army to do hard work against Tyre. Every head was shaved and every shoulder was bared, but there were never any wages from Tyre for him and his army, for the hard work that he did against Tyre.
+\v 18 "Son of man, Nebuchadnezzar the king of Babylon stationed his army to do hard work against Tyre. Every head was rubbed until it was made bald, and every shoulder was made raw. Yet he and his army received no payment from Tyre for the hard work that he carried out against it.
 </usfm>
 
 ===== translationWords: =====
@@ -32,11 +32,18 @@
 
 ===== translationNotes: =====
 
-  * **in the twenty-seventh year** - AT: "in the twenty-seventh year of the exile of King Jehoiachin" (See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **it came about** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
+  * **in the twenty-seventh year** - This was after King Jehoiachin and the people of Judah were taken as exiles to Babylon. AT: "in the twenty-seventh year of the exile of King Jehoiachin" (See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **on the first of the first month** - "on the first day of the first month." This is the first month of the Hebrew calendar. The first day is near the beginning of April. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]].
- 
+  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Son of man** - "Son of a human being" or "Son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. Translate this as in [[:en:bible:notes:ezk:02:01|2:1]]. AT: "Mortal person" or "Human"
+  * **to do hard work against Tyre** - The kind of hard work they did can be stated clearly. AT: "to work hard at attacking Tyre" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Every head ... every shoulder** - This refers to the heads and shoulders of the Babylonian soldiers. 
+  * **Every head was rubbed until it was made bald** - Either their helmets or the heavy things they carried on their heads rubbed the hair off their heads.
+  * **every shoulder was made raw** - Either their armor or the heavy things they carried on their shoulders rubbed the skin off their shoulders. AT: "every shoulder was rubbed raw" or "every shoulder was rubbed bare"
+  * **he and his army received no payment from Tyre** - Here "payment" represents the valuable things that Nebuchadnezzar's army would steal from Tyre as a reward for defeating it. God speaks of these things as if they were what God would pay them for working for him. AT: "he and his army did not get any valuable things from Tyre as reward" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -44,6 +51,6 @@
   * [[:en:bible:questions:comprehension:ezk:29]]
 **[[:en:bible:notes:ezk:29:15|<<]] | [[:en:bible:notes:ezk:29:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

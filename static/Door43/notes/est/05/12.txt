@@ -17,8 +17,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 Haman said, "Even Queen Esther invited no one else but me to come with the king to the feast she prepared. And even tomorrow I am again invited by her to be together with the king.
-\v 13 But all this that I am experiencing is worth nothing to me, as long as I see Mordecai the Jew sitting at the king's gate."
+\v 12 Haman said, "Queen Esther invited no one else but me to come with the king to the feast she prepared. Even tomorrow I am again invited by her along with the king.
+\v 13 But all this is worth nothing to me as long as I see Mordecai the Jew sitting at the king's gate."
 </usfm>
 
 ===== translationWords: =====
@@ -28,8 +28,8 @@
 
 ===== translationNotes: =====
 
+  * **no one else but me** - This can be expressed positively. AT: "only me"
   * **is worth nothing to me** - "does not make me happy" or "does not satisfy me"
-
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -37,6 +37,6 @@
   * [[:en:bible:questions:comprehension:est:05]]
 **[[:en:bible:notes:est:05:09|<<]] | [[:en:bible:notes:est:05:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

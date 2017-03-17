@@ -35,13 +35,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 5 House of Jacob, come, and let us walk in the light of Yahweh.
 \q1
-\v 6 For you have abandoned your people, the house of Jacob, 
-\q1 because they are filled
-with customs from the east and are omen readers like the Philistines, 
+\v 6 For you have abandoned your people, the house of Jacob,
+\q1 because they are filled with customs from the east and are omen readers like the Philistines,
 \q1 and they shake hands with sons of foreigners.
 </usfm>
 
@@ -59,18 +57,16 @@ with customs from the east and are omen readers like the Philistines,
  
 ===== translationNotes: =====
 
-  * **General Information:** - In 2:5 Isaiah was speaking to the people of Israel.
+  * **General Information:** - In 2:5 Isaiah speaks to the people of Judah, and in 2:6 he speaks to Yahweh. Both times he speaks in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **General Information:** - In 2:6 Isaiah was speaking to God.
-
-  * **House of Jacob** - "You descendants of Jacob" (UDB) or "You people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **House of Jacob** - "You descendants of Jacob" (UDB). The word "house" is a metonym for the people who live in the house, the family. Here "Jacob" represents the nation of Judah, but it would be best to use "Jacob" here. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **come** - a gentle encouragement to do what the speaker is about to tell the hearer to do
   * **let us walk in the light of Yahweh** - Isaiah speaks of people learning and then doing what Yahweh wants them to do as if they were walking at night with a lamp that Yahweh has provided so they can see the path. AT: "let us learn how Yahweh wants us to live and then live that way" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **For you have abandoned your people** - "For you have rejected your people" or "For you have left your people." Here the word "you" refers to Yahweh. 
-  * **they are filled with customs from the east** - "they act like the people who live in lands east of Israel and do not know God"
-  * **omen readers** - "soothsayers" or "diviners." This refers to people who claim to know what will happen the future.
-  * **and they shake hands with sons of foreigners** - Clasping hands together is the symbol of friendship and agreement. AT: "they make agreements with people who are not from Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the craftsmanship of their own hands, things that their own fingers have made** - These two phrases mean the same thing and emphasize that these are not real gods. AT: "things that they themselves have made" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **For you have abandoned your people** - "For you have left your people" and do not care what happens to them. Here the word "you" refers to Yahweh and so is singular. (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **they are filled with customs from the east** - Isaiah speaks as if the people were containers who were full of something from the east. Possible meanings are that he speaks of 1) the deeds that the eastern peoples do. AT: "they do all the time the evil things the people who live in lands east of Israel do" or 2) people, specifically those who claim to speak to dead people, who have come from the east to do evil deeds. AT: "many diviners have come from the east and now live there" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **omen readers** - people who claim that they can tell the future by looking at things like animal parts and leaves
+  * **and they shake hands with sons of foreigners** - Clasping hands together is the symbol of friendship and peace. AT: "they make peace and work together with people who are not from Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -78,6 +74,6 @@ with customs from the east and are omen readers like the Philistines,
   * [[:en:bible:questions:comprehension:isa:02]]
 **[[:en:bible:notes:isa:02:04|<<]] | [[:en:bible:notes:isa:02:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit light peopleofgod walk }}
+~~DISCUSSION~~{{tag>publish p2pass p2example light peopleofgod walk}}
 
 ~~NOCACHE~~

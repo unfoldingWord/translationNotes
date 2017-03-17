@@ -20,11 +20,10 @@
 <usfm>
 \v 1 God, act mercifully toward us and bless us;
 \q1 act kindly toward us.
-
 \q2
 \v 2 Do this in order that everyone in the world may know what you want them to do,
 \q2 and the people of all nations may know that you have the power to save them.
-\b
+
 
 
 \q1
@@ -35,9 +34,8 @@
 
 <usfm>
 \c 67
-\p
+\m
 \d For the chief musician; on stringed instruments. A psalm, a song.
-\b
 \q
 \v 1 May God be merciful to us and bless us
 \q and cause his face to shine on us
@@ -61,7 +59,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **For the chief musician** - "This is for the director of music to use in worship"
   * **on stringed instruments** - "people should play stringed instruments with this song"
@@ -82,6 +80,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book2}}
+{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

@@ -13,7 +13,7 @@
 
 <usfm>
 \v 21 At the entrance to the main room of the temple there were square doorposts, all the same in appearance.
-\v 22 In front of the very holy place there was a wooden altar. It was about 1.6 meters high and about one meter wide on all four sides. Its corners and base and sides were all made of wood. The man said to me, "This is the table that is in the presence of Yahweh."
+\v 22 In front of the very holy place there was a wooden altar. It was one and three-fifth meters high and one meter wide on all four sides. Its corners and base and sides were all made of wood. The man said to me, "This is the table that is in the presence of Yahweh."
 \v 23 The holy place and the very holy place had folding doors.
 \v 24 Each door consisted of two parts that swung on hinges.
 </usfm>
@@ -22,8 +22,9 @@
 
 <usfm>
 \p
-\v 21 The gate posts of the holy place were square, and they all looked like each other.
-\v 22 The wooden altar in front of the holy place was three cubits high and two cubits long on each side. Its corner posts, base, and frame were made of wood. Then the man said to me, "This is the table that stands before Yahweh."
+\v 21 The gate posts of the holy place were square. Their appearance was like the appearance of
+\v 22 the wooden altar in front of the holy place, which was three cubits high and two cubits in length on each side. Its corner posts, base, and frame were made of wood. Then the man said to me, "This is the table that stands before Yahweh."
+\f + \ft Instead of \fqa Their appearance was like the appearance of the wooden altar in front of the holy place, which was \fqb , some modern versions have \fqa They all looked like each other. The wooden altar in front of the holy place was \fqb . \f*
 \v 23 There were double doors for the holy place and the most holy place.
 \v 24 These doors had two hinged door panels each, two panels for one door and two panels for the other.
 </usfm>
@@ -36,7 +37,9 @@
  
 ===== translationNotes: =====
 
-  * **There were double doors for the holy place and the most holy place** - "the holy place and the most holy place both had two doors"
+  * **Their appearance was like the appearance of the wooden altar** - The abstract noun "appearance" can be translated as a verb. AT: "They appeared the same way the wooden altar appeared" (See: [[:en:ta:vol2:translate:figs_abstractnouns]]) 
+  * **three cubits ... two cubits** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "about 1.6 meters ... about 1.1 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **There were double doors for the holy place and the most holy place** - "The holy place and the most holy place both had two doors"
   * **These doors had two hinged door panels each** - "Each door had two parts that were on hinges." Hinges connect doors to the wall and allow the doors to swing.
   * **two panels for one door and two panels for the other** - "both of the doors for both the holy place and the most holy place had two parts"
  
@@ -47,6 +50,6 @@
   * [[:en:bible:questions:comprehension:ezk:41]]
 **[[:en:bible:notes:ezk:41:18|<<]] | [[:en:bible:notes:ezk:41:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -35,7 +35,7 @@
 <usfm>
 \q
 \v 6 God has spoken in his holiness, "I will rejoice;
-\q I will divide Shechem and apportion out the valley of Succoth.
+\q I will divide Shechem and apportion out the Valley of Succoth.
 \q
 \v 7 Gilead is mine, and Manasseh is mine;
 \q Ephraim also is my helmet;
@@ -56,9 +56,9 @@
 ===== translationNotes: =====
 
 
-  * **Ephraim also is my helmet** - God speaks of the tribe of Ephraim as if it were his army. The helmet symbolizes equipment for war. AT: "Ephraim is like a helmet I have chosen" or "The tribe of Ephraim is my army" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Ephraim also is my helmet** - God speaks of the tribe of Ephraim as if it were his army. The helmet symbolizes equipment for war. AT: "Ephraim is like a helmet I have chosen" or "the tribe of Ephraim is my army" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **helmet** - a hard hat that soldiers wear to protect their heads from injury
-  * **Judah is my scepter** - God chose men from the tribe of Judah to be the kings of his people, and he speaks of that tribe as if it were his scepter.  AT: "The tribe of Judah is like my scepter" or "Judah is the tribe through whom I rule my people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Judah is my scepter** - God chose men from the tribe of Judah to be the kings of his people, and he speaks of that tribe as if it were his scepter.  AT: "the tribe of Judah is like my scepter" or "Judah is the tribe through whom I rule my people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
  
  
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:060]]
 **[[:en:bible:notes:psa:060:004|<<]] | [[:en:bible:notes:psa:060:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

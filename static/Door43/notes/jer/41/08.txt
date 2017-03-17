@@ -25,7 +25,7 @@
 
 <usfm>
 \v 8 But there were ten men among them who said to Ishmael, "Do not kill us, for there are provisions of ours in a field: wheat and barley, oil and honey." So he did not kill them with their other companions.
-\v 9 The cistern where Ishmael threw all the dead bodies that he and Gedaliah had struck down, was the same cistern that King Asa dug when he was being attacked by King Baasha of Israel. Ishmael son of Nethaniah filled it those who were killed.
+\v 9 The cistern where Ishmael threw all the dead bodies that he had killed, was a large cistern that King Asa dug to make a defense against King Baasha of Israel. Ishmael son of Nethaniah filled it in with the dead.
 </usfm>
 
 
@@ -43,7 +43,13 @@
 ===== translationNotes: =====
 
   * **ten men among them** - The word "them" refers to the 80 men.
-  * **provisions** - supplies to be used to provide for future needs.
+  * **for there are provisions of ours in a field** - It is implied that they would give their provisions to Ishmael and his men. AT: "for we will give you our provisions that we have hidden in a field" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **provisions** - supplies to be used to provide for future needs
+  * **The cistern where Ishmael ... against King Baasha of Israel** - This is background information about the cistern that Ishmael used. King Asa had his men dig the cistern so his people would have a water supply when King Baasha attacked them. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **that King Asa dug** - Here King Asa represents his men. AT: "that King Asa ordered his men to dig" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **against King Baasha of Israel** - Here King Baasha represents his army. AT: "against Baasha, king of Israel, and his army" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Ishmael son of Nethaniah filled it** - Here Ishmael represents all of his men. AT: "Ishmael and his men filled it" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **with the dead** - This can be reworded to remove the nominal adjective. AT: "with those who were dead" or "with those they had killed" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
  
  
 ===== Links: =====
@@ -56,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit asa baasha}}
+{{tag>publish p2check asa baasha}}
 
 ~~NOCACHE~~

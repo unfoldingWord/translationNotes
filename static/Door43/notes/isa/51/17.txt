@@ -23,12 +23,12 @@
 \v 17 You people of Jerusalem, wake up!
 \q2 You have experienced Yahweh severely punishing you.
 \q1 Yahweh has caused you to suffer much
-\q2 and to experience disaster,
-\q1 like someone who causes another person to fall down
-\q2 by forcing him to drink every drop of a large bowl of wine.
+\q2 and to experience disaster.
+\q1 Yahweh gave you this cup to drink, but this was Yahweh's cup! 
+\q2 He forced you to drink every drop out of that large cup, down to the bottom of the bowl. And that drink made you  stagger like you  had drunk strong wine. This strong wine represents the anger of God, and you are to drink all of it!
 \q1
-\v 18 Now you do not have any children who are alive 
-\q2 and who are able to take your hand and guide you. You cannot help yourself.
+\v 18 Now you do not have any children 
+\q1 who are able to take your hand and guide you. You cannot help yourself.
 
 
 \q1
@@ -38,13 +38,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 17 Awake, awake, stand up, Jerusalem, 
-\q1 you who drank the bowl of Yahweh's anger from his hand;
-\q1 you drank the bowl, the bowl of staggering, and you drained it.
+\v 17 Awake, awake, stand up, Jerusalem,
+\q1 you who have drunk out of the hand of Yahweh from the bowl of his anger;
+\q1 you who have drunk out of the bowl, down to the dregs from the cup of staggering.
 \q1
-\v 18 There is no one among all the sons she has born to guide her; 
+\v 18 There is no one among all the sons she has born to guide her;
 \q1 there is no one among all the sons that she has raised to take her by the hand.
 </usfm>
 
@@ -58,10 +57,14 @@
 
 ===== translationNotes: =====
 
-  * **Awake, awake, stand up, Jerusalem** - The repetition of the word "awake" emphasizes the urgency of the call to arouse the people of Israel. It is not literally to wake them from sleep. "Jerusalem" stands for the people of Jerusalem. (See: [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **you who drank the bowl of Yahweh's anger from his hand** - This compares the people of Israel who fully experienced God's anger and punishment to a person who drinks all the wine in a bowl. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the bowl of staggering** - This compares the people of Israel, who experienced Yahweh's punishment to the full, to a wine drinker who stumbles and falls down. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **There is no one among all the sons ... to take her by the hand** - These two clauses mean the same thing. Yahweh is describing the city of Jerusalem as if it were a mother and the people were her children. Here there are no children left to help their mother. This emphasizes how helpless the people were after God punished them. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Awake, awake, stand up, Jerusalem** - Here "Jerusalem" represents the people who live there. Yahweh speaks to the people of Jerusalem as if they were there listening to him. AT: "Awake, awake, stand up, you people of Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_apostrophe]])
+  * **Awake, awake, stand up** - "Be alert and arise." The repetition of the word "awake" emphasizes the urgency of the call to arouse the people of Israel. It is not used to wake them from literal sleep.
+  * **you who have drunk out of the hand of Yahweh ... from the cup of staggering** - Yahweh speaks of having punished his people as if he had forced them to drink from a bowl that was filled with his anger. And when they drank from the bowl of his anger, they staggered as if they had drank a lot of wine. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **down to the dregs** - The word "dregs" means the solid pieces at the very bottom of a container that has a liquid in it. AT: "down to the very bottom"
+  * **out of the hand of Yahweh** - Here Yahweh is referred to by his hand to emphasize that he is the one who gave the bowl to his people. AT: "that he gave to you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **from the cup of staggering** - "from the cup that caused you to stagger as if you were drunk on wine"
+  * **staggering** - not walking straight, or stumbling while walking
+  * **There is no one ... to guide her; there is no one ... to take her by the hand** - These two clauses have the same meaning and can be combined. This speaks of Jerusalem being helpless as if the city were a drunk woman without a son to help her walk safely. AT: "You have no one to help you! You are like a drunk old woman without a son to take her by the hand and guide her" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -70,6 +73,6 @@
   * [[:en:bible:questions:comprehension:isa:51]]
 **[[:en:bible:notes:isa:51:16|<<]] | [[:en:bible:notes:isa:51:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

@@ -41,9 +41,10 @@
 ===== translationNotes: =====
 
   * **was no longer able to bear it** - "was no longer able to tolerate it"
-  * **no longer an inhabitant as at this present day** - AT: "no one living there as there is no one living there today."
-  * **burned incense** - Why people burn incense can be stated clearly. AT: "burned a sacrifice to false gods" (See [[:en:ta:vol1:translate:figs_explicit]])
-  * **you would not listen to his voice** - Here "voice" refers to Yahweh's commands. AT: "you would not obey his commands," (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **because of the abominations that you did** - The abstract noun "abominations" can be stated as "things he hated." AT: "because you did things that he hated" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Then your land became a desolation, a horror, and a curse so there was no longer an inhabitant as at this present day** - This can be restated to remove the abstract nouns "a desolation," "a horror," and "a curse." AT: "Then Yahweh caused it so that no one lives in the land. He made it a desolate and horrifying place. People use its name to curse others. And this is how it is even to this day" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **burned incense** - Why people burn incense can be stated clearly. AT: "burned incense to false gods" (See [[:en:ta:vol1:translate:figs_explicit]])
+  * **you would not listen to his voice** - Here "voice" refers to Yahweh's commands. AT: "you would not obey his commands" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:jer:44]]
 **[[:en:bible:notes:jer:44:20|<<]] | [[:en:bible:notes:jer:44:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

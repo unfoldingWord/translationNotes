@@ -1,7 +1,7 @@
-====== List of translationAcademy Topics in Nehemiah ======
+===== List of translationAcademy Topics in Nehemiah =====
 
 * [[:en:ta:vol2:translate:figs_123person]] is found in:
- [[:en:bible:notes:neh:01:10|01:10]], [[:en:bible:notes:neh:02:04|02:04]]
+ [[:en:bible:notes:neh:01:10|01:10]], [[:en:bible:notes:neh:02:04|02:04]], [[:en:bible:notes:neh:02:13|02:13]]
 
 * [[:en:ta:vol2:translate:figs_activepassive]] is found in:
  [[:en:bible:notes:neh:02:07|02:07]], [[:en:bible:notes:neh:06:05|06:05]], [[:en:bible:notes:neh:06:15|06:15]], [[:en:bible:notes:neh:06:17|06:17]], [[:en:bible:notes:neh:07:01|07:01]], [[:en:bible:notes:neh:07:64|07:64]], [[:en:bible:notes:neh:08:11|08:11]], [[:en:bible:notes:neh:08:13|08:13]], [[:en:bible:notes:neh:09:01|09:01]], [[:en:bible:notes:neh:10:39|10:39]], [[:en:bible:notes:neh:12:44|12:44]]
@@ -20,9 +20,6 @@
 
 * [[:en:ta:vol1:translate:figs_explicit]] is found in:
  [[:en:bible:notes:neh:03:11|03:11]], [[:en:bible:notes:neh:03:16|03:16]], [[:en:bible:notes:neh:03:18|03:18]], [[:en:bible:notes:neh:05:04|05:04]], [[:en:bible:notes:neh:05:06|05:06]], [[:en:bible:notes:neh:08:13|08:13]], [[:en:bible:notes:neh:09:07|09:07]], [[:en:bible:notes:neh:09:14|09:14]], [[:en:bible:notes:neh:10:28|10:28]], [[:en:bible:notes:neh:12:44|12:44]]
-
-* [[:en:ta:vol2:translate:figs_hendiadys]] is found in:
- [[:en:bible:notes:neh:09:05|09:05]]
 
 * [[:en:ta:vol2:translate:figs_hyperbole]] is found in:
  [[:en:bible:notes:neh:04:12|04:12]], [[:en:bible:notes:neh:07:03|07:03]]
@@ -43,7 +40,7 @@
  [[:en:bible:notes:neh:01:06|01:06]], [[:en:bible:notes:neh:01:10|01:10]]
 
 * [[:en:ta:vol1:translate:figs_rquestion]] is found in:
- [[:en:bible:notes:neh:02:03|02:03]], [[:en:bible:notes:neh:04:01|04:01]], [[:en:bible:notes:neh:05:09|05:09]], [[:en:bible:notes:neh:06:03|06:03]], [[:en:bible:notes:neh:13:10|13:10]], [[:en:bible:notes:neh:13:21|13:21]]
+ [[:en:bible:notes:neh:02:03|02:03]], [[:en:bible:notes:neh:04:01|04:01]], [[:en:bible:notes:neh:05:09|05:09]], [[:en:bible:notes:neh:06:03|06:03]], [[:en:bible:notes:neh:06:10|06:10]], [[:en:bible:notes:neh:13:10|13:10]], [[:en:bible:notes:neh:13:21|13:21]], [[:en:bible:notes:neh:13:25|13:25]]
 
 * [[:en:ta:vol1:translate:figs_simile]] is found in:
  [[:en:bible:notes:neh:09:11|09:11]]
@@ -51,20 +48,29 @@
 * [[:en:ta:vol2:translate:figs_synecdoche]] is found in:
  [[:en:bible:notes:neh:09:07|09:07]], [[:en:bible:notes:neh:09:26|09:26]], [[:en:bible:notes:neh:09:28|09:28]], [[:en:bible:notes:neh:10:37|10:37]]
 
+* [[:en:ta:vol2:translate:translate_bdistance]] is found in:
+ [[:en:bible:notes:neh:03:13|03:13]]
+
+* [[:en:ta:vol2:translate:translate_bmoney]] is found in:
+ [[:en:bible:notes:neh:05:14|05:14]], [[:en:bible:notes:neh:07:70|07:70]], [[:en:bible:notes:neh:10:32|10:32]]
+
+* [[:en:ta:vol2:translate:translate_bweight]] is found in:
+ [[:en:bible:notes:neh:07:70|07:70]]
+
+* [[:en:ta:vol2:translate:translate_hebrewmonths]] is found in:
+ [[:en:bible:notes:neh:01:01|01:01]], [[:en:bible:notes:neh:02:01|02:01]], [[:en:bible:notes:neh:06:15|06:15]], [[:en:bible:notes:neh:07:73|07:73]], [[:en:bible:notes:neh:08:01|08:01]], [[:en:bible:notes:neh:08:13|08:13]], [[:en:bible:notes:neh:09:01|09:01]]
+
 * [[:en:ta:vol1:translate:translate_names]] is found in:
- [[:en:bible:notes:neh:01:01|01:01]], [[:en:bible:notes:neh:02:09|02:09]], [[:en:bible:notes:neh:03:03|03:03]], [[:en:bible:notes:neh:03:06|03:06]], [[:en:bible:notes:neh:03:08|03:08]], [[:en:bible:notes:neh:03:11|03:11]], [[:en:bible:notes:neh:03:13|03:13]], [[:en:bible:notes:neh:03:14|03:14]], [[:en:bible:notes:neh:03:16|03:16]], [[:en:bible:notes:neh:03:18|03:18]], [[:en:bible:notes:neh:03:20|03:20]], [[:en:bible:notes:neh:03:22|03:22]], [[:en:bible:notes:neh:03:25|03:25]], [[:en:bible:notes:neh:03:28|03:28]], [[:en:bible:notes:neh:03:31|03:31]], [[:en:bible:notes:neh:06:01|06:01]], [[:en:bible:notes:neh:06:10|06:10]], [[:en:bible:notes:neh:06:12|06:12]], [[:en:bible:notes:neh:06:17|06:17]], [[:en:bible:notes:neh:07:01|07:01]], [[:en:bible:notes:neh:07:06|07:06]], [[:en:bible:notes:neh:07:08|07:08]], [[:en:bible:notes:neh:07:11|07:11]], [[:en:bible:notes:neh:07:15|07:15]], [[:en:bible:notes:neh:07:19|07:19]], [[:en:bible:notes:neh:07:23|07:23]], [[:en:bible:notes:neh:07:27|07:27]], [[:en:bible:notes:neh:07:35|07:35]], [[:en:bible:notes:neh:07:39|07:39]], [[:en:bible:notes:neh:07:43|07:43]], [[:en:bible:notes:neh:07:46|07:46]], [[:en:bible:notes:neh:07:50|07:50]], [[:en:bible:notes:neh:08:04|08:04]], [[:en:bible:notes:neh:08:06|08:06]], [[:en:bible:notes:neh:08:16|08:16]], [[:en:bible:notes:neh:09:03|09:03]], [[:en:bible:notes:neh:09:05|09:05]], [[:en:bible:notes:neh:09:07|09:07]], [[:en:bible:notes:neh:09:22|09:22]], [[:en:bible:notes:neh:10:01|10:01]], [[:en:bible:notes:neh:10:04|10:04]], [[:en:bible:notes:neh:10:09|10:09]], [[:en:bible:notes:neh:10:15|10:15]], [[:en:bible:notes:neh:10:22|10:22]], [[:en:bible:notes:neh:11:03|11:03]], [[:en:bible:notes:neh:11:05|11:05]], [[:en:bible:notes:neh:11:07|11:07]], [[:en:bible:notes:neh:11:10|11:10]], [[:en:bible:notes:neh:11:13|11:13]], [[:en:bible:notes:neh:11:15|11:15]], [[:en:bible:notes:neh:11:17|11:17]], [[:en:bible:notes:neh:11:19|11:19]], [[:en:bible:notes:neh:11:22|11:22]], [[:en:bible:notes:neh:11:25|11:25]], [[:en:bible:notes:neh:11:31|11:31]], [[:en:bible:notes:neh:12:01|12:01]], [[:en:bible:notes:neh:12:04|12:04]], [[:en:bible:notes:neh:12:08|12:08]], [[:en:bible:notes:neh:12:12|12:12]], [[:en:bible:notes:neh:12:15|12:15]], [[:en:bible:notes:neh:12:22|12:22]], [[:en:bible:notes:neh:12:24|12:24]], [[:en:bible:notes:neh:12:29|12:29]], [[:en:bible:notes:neh:12:32|12:32]], [[:en:bible:notes:neh:12:36|12:36]], [[:en:bible:notes:neh:12:38|12:38]], [[:en:bible:notes:neh:12:40|12:40]], [[:en:bible:notes:neh:13:12|13:12]], [[:en:bible:notes:neh:13:16|13:16]], [[:en:bible:notes:neh:13:23|13:23]], [[:en:bible:notes:neh:13:28|13:28]]
+ [[:en:bible:notes:neh:01:01|01:01]], [[:en:bible:notes:neh:02:09|02:09]], [[:en:bible:notes:neh:03:03|03:03]], [[:en:bible:notes:neh:03:06|03:06]], [[:en:bible:notes:neh:03:08|03:08]], [[:en:bible:notes:neh:03:11|03:11]], [[:en:bible:notes:neh:03:13|03:13]], [[:en:bible:notes:neh:03:14|03:14]], [[:en:bible:notes:neh:03:16|03:16]], [[:en:bible:notes:neh:03:18|03:18]], [[:en:bible:notes:neh:03:20|03:20]], [[:en:bible:notes:neh:03:22|03:22]], [[:en:bible:notes:neh:03:25|03:25]], [[:en:bible:notes:neh:03:28|03:28]], [[:en:bible:notes:neh:03:31|03:31]], [[:en:bible:notes:neh:06:01|06:01]], [[:en:bible:notes:neh:06:10|06:10]], [[:en:bible:notes:neh:06:12|06:12]], [[:en:bible:notes:neh:06:17|06:17]], [[:en:bible:notes:neh:07:01|07:01]], [[:en:bible:notes:neh:07:06|07:06]], [[:en:bible:notes:neh:07:08|07:08]], [[:en:bible:notes:neh:07:11|07:11]], [[:en:bible:notes:neh:07:15|07:15]], [[:en:bible:notes:neh:07:19|07:19]], [[:en:bible:notes:neh:07:23|07:23]], [[:en:bible:notes:neh:07:27|07:27]], [[:en:bible:notes:neh:07:35|07:35]], [[:en:bible:notes:neh:07:39|07:39]], [[:en:bible:notes:neh:07:43|07:43]], [[:en:bible:notes:neh:07:46|07:46]], [[:en:bible:notes:neh:07:50|07:50]], [[:en:bible:notes:neh:07:53|07:53]], [[:en:bible:notes:neh:07:57|07:57]], [[:en:bible:notes:neh:07:61|07:61]], [[:en:bible:notes:neh:08:04|08:04]], [[:en:bible:notes:neh:08:06|08:06]], [[:en:bible:notes:neh:08:16|08:16]], [[:en:bible:notes:neh:09:03|09:03]], [[:en:bible:notes:neh:09:05|09:05]], [[:en:bible:notes:neh:09:07|09:07]], [[:en:bible:notes:neh:09:22|09:22]], [[:en:bible:notes:neh:10:01|10:01]], [[:en:bible:notes:neh:10:04|10:04]], [[:en:bible:notes:neh:10:09|10:09]], [[:en:bible:notes:neh:10:15|10:15]], [[:en:bible:notes:neh:10:22|10:22]], [[:en:bible:notes:neh:11:03|11:03]], [[:en:bible:notes:neh:11:05|11:05]], [[:en:bible:notes:neh:11:07|11:07]], [[:en:bible:notes:neh:11:10|11:10]], [[:en:bible:notes:neh:11:13|11:13]], [[:en:bible:notes:neh:11:15|11:15]], [[:en:bible:notes:neh:11:17|11:17]], [[:en:bible:notes:neh:11:19|11:19]], [[:en:bible:notes:neh:11:22|11:22]], [[:en:bible:notes:neh:11:25|11:25]], [[:en:bible:notes:neh:11:31|11:31]], [[:en:bible:notes:neh:12:01|12:01]], [[:en:bible:notes:neh:12:04|12:04]], [[:en:bible:notes:neh:12:08|12:08]], [[:en:bible:notes:neh:12:12|12:12]], [[:en:bible:notes:neh:12:15|12:15]], [[:en:bible:notes:neh:12:22|12:22]], [[:en:bible:notes:neh:12:24|12:24]], [[:en:bible:notes:neh:12:29|12:29]], [[:en:bible:notes:neh:12:32|12:32]], [[:en:bible:notes:neh:12:36|12:36]], [[:en:bible:notes:neh:12:38|12:38]], [[:en:bible:notes:neh:12:40|12:40]], [[:en:bible:notes:neh:13:12|13:12]], [[:en:bible:notes:neh:13:16|13:16]], [[:en:bible:notes:neh:13:23|13:23]], [[:en:bible:notes:neh:13:28|13:28]]
 
 * [[:en:ta:vol1:translate:translate_names]]]] is found in:
  [[:en:bible:notes:neh:12:10|12:10]]
 
 * [[:en:ta:vol2:translate:translate_numbers]] is found in:
- [[:en:bible:notes:neh:05:14|05:14]], [[:en:bible:notes:neh:05:18|05:18]], [[:en:bible:notes:neh:08:18|08:18]]
+ [[:en:bible:notes:neh:05:14|05:14]], [[:en:bible:notes:neh:05:18|05:18]], [[:en:bible:notes:neh:06:15|06:15]], [[:en:bible:notes:neh:08:18|08:18]]
 
 * [[:en:ta:vol2:translate:translate_ordinal]] is found in:
- [[:en:bible:notes:neh:08:13|08:13]]
+ [[:en:bible:notes:neh:01:01|01:01]], [[:en:bible:notes:neh:02:01|02:01]], [[:en:bible:notes:neh:08:13|08:13]]
 
 * [[:en:ta:vol1:translate:translate_unknown]] is found in:
  [[:en:bible:notes:neh:02:19|02:19]], [[:en:bible:notes:neh:12:27|12:27]]
-
-* [[:en:ta:workbench:translate:translatenames]] is found in:
- [[:en:bible:notes:neh:07:53|07:53]], [[:en:bible:notes:neh:07:57|07:57]], [[:en:bible:notes:neh:07:61|07:61]]

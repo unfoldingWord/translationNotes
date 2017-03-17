@@ -58,9 +58,9 @@
 ===== translationNotes: =====
 
   * **They were foolish in their rebellious ways** - "They were foolish in the way they rebelled against Yahweh" 
-  * **and afflicted** - "and they suffered." Specifically they were afflicted by becoming sick. AT: "they became sick" (See: [[:en:ta:vol1:translate:figs_explicit]])  
-  * **they came close to the gates of death** - Here the act of "dying" is described as a place, "the gates of death." AT: "they almost died" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Then they called out to Yahweh in their trouble** - It is implied that they are praying to Yahweh so that he will help them. AT: "Then they prayed to Yahweh to help them in their trouble." See how you translated this in [[:en:bible:notes:psa:107:004|107:6]]. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **and afflicted** - "and they suffered." Specifically they were afflicted by becoming sick. AT: "and they became sick" (See: [[:en:ta:vol1:translate:figs_explicit]])  
+  * **they came close to the gates of death** - Here the act of "dying" is described as a place, "the gates of death" AT: "they almost died" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Then they called out to Yahweh in their trouble** - It is implied that they are praying to Yahweh so that he will help them. See how you translated this in [[:en:bible:notes:psa:107:004|107:6]]. AT: "Then they prayed to Yahweh to help them in their trouble" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:107]]
 **[[:en:bible:notes:psa:107:014|<<]] | [[:en:bible:notes:psa:107:020|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

@@ -14,7 +14,7 @@
 
 <usfm>
 \v 30 You were patient with them for many years. You warned them by the messages your Spirit gave to the prophets. But they did not listen to those messages. So again you allowed the armies of the nations nearby to defeat them.
-\v 31 But because you act mercifully, you did not destroy them completely or abandon them forever. You are a gracious and merciful God!
+\v 31 But because you act mercifully, you did not destroy them completely or abandon them. You are a gracious and merciful God!
 
 
 \pi
@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 30 For many years you put up with them and warned them by your Spirit through your prophets. Yet they did not listen. So you gave them into the hand of the neighboring peoples. 
+\v 30 For many years you put up with them and warned them by your Spirit through your prophets. Yet they did not listen. So you gave them into the hand of the neighboring peoples.
 \v 31 But in your great mercies you did not make a complete end of them, or forsake them, for you are a gracious and merciful God.
 </usfm>
 
@@ -39,29 +39,27 @@
   * [[:en:obe:kt:forsaken]]
   * [[:en:obe:kt:grace]]
   * [[:en:obe:kt:god]]
+
+
 ===== translationNotes: =====
 
-  * **General Information:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel. 
+  * **Connecting Statement:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel. 
 
-  * **you handed them over to** - This is an idiom meaning "placed them under the control of" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **you handed** - Here "you" refers to Yahweh. 
-  * **you did not make a complete end of them** - AT: "you did not destroy them" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **you gave them into the hand of the neighboring peoples** - Here "hand" represents power or control.  Similar words appear in [[:en:bible:notes:neh:09:26|9:27]]. AT: "you allowed the neighboring peoples to defeat them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you gave** - Yahweh gave
+  * **you did not make a complete end of them** - "you did not destroy them"
 
- 
  
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
   * [[:en:bible:notes:neh:09:00]]
   * [[:en:bible:questions:comprehension:neh:09]]
-
- 
-
 **[[:en:bible:notes:neh:09:28|<<]] | [[:en:bible:notes:neh:09:32|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

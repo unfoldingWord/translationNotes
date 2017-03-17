@@ -23,8 +23,7 @@
 \q2 so I want to reply very quickly.
 \q1
 \v 3 By saying these things you have insulted me,
-\q2 but something more than I can explain shows me how I can reply to you.
-\b
+\q2 but something within my understanding suggests to me how I may reply to you.
 
 
 \q1
@@ -40,22 +39,28 @@
 \v 2 "My thoughts make me answer quickly
 \q because of the worry that is in me.
 \q
-\v 3 I have heard from you a rebuke that puts me to shame,
-\q but a spirit that is beyond my understanding answers me.
+\v 3 I hear a rebuke that dishonors me,
+\q but a spirit from my understanding answers me.
 </usfm>
 
 ===== translationWords: =====
 
   * [[:en:obe:other:rebuke]]
-  * [[:en:obe:other:shame]]
+  * [[:en:obe:other:dishonor]]
   * [[:en:obe:kt:spirit]]
 
 ===== translationNotes: =====
 
-  * **Zophar the Naamathite** - See how you translated this name in [[:en:bible:notes:job:02:11|2:11]].
-  * **My thoughts make me answer quickly because of the worry that is in me** - "I need to speak because you have made me worried"
-  * **from you** - Here "you" refers to Job. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **but a spirit that is beyond my understanding answers me** - AT: "but I must answer you with my knowledge" or "but I know how to answer you because I understand many things"
+  * **General Information:** - Zophar replies to Job.
+
+  * **Zophar the Naamathite** - Translate this man's name as you translated it in [[:en:bible:notes:job:02:11|2:11]]. Since this is the second time that Zophar speaks, some translations omit "the Naamathite" here. 
+  * **My thoughts make me answer quickly** - Zophar's thoughts making him do something represent his strong desire to do something. AT: "I want very much to answer you quickly" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **because of the worry that is in me** - The abstract noun "worry" can be expressed with the adjective "worried." The reason for the worry can be stated clearly. AT: "because I am very worried about you" or "because I am very worried because of what you said" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **I hear a rebuke that dishonors me** - The abstract noun "rebuke" can be expressed with the verb "rebuke." AT: "I hear you rebuke me, and what you say dishonors me" or "You insult me by how you rebuke me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **a spirit from my understanding answers me** - Here "spirit" probably refers to a thought or idea. AT: "a thought from my understanding answers me" 
+  * **a spirit from my understanding answers me** - This "spirit" or thought is spoken of as if it were a person that could answer Zophar. AT: "I have a thought from my understanding and now I know what I wanted to know" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **a spirit from my understanding answers me** - The content of the answer can be stated clearly. AT: "a thought from my understanding answers me about how I can reply to you" or "I have a thought from my understanding, and now I know how I can reply to you" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **a spirit from my understanding answers me** - The abstract nouns "spirit" and "understanding" can be expressed with the verbs "think" and "understand." AT: Because I understand things, I have thought, and now I know how I can reply to you. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -63,6 +68,6 @@
   * [[:en:bible:questions:comprehension:job:20]]
 **[[:en:bible:notes:job:19:28|<<]] | [[:en:bible:notes:job:20:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

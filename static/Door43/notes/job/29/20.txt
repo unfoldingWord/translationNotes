@@ -20,9 +20,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 20 People always honored me,
-\q2 and I was always strong like a new bow.
-\b
+\v 20 People always honor me,
+\q2 and I am always strong like a new bow.'
 \q1
 \v 21 When I spoke, people waited to hear what I would say;
 \q2 they remained silent until I advised them what they should do.
@@ -40,7 +39,7 @@
 <usfm>
 \q
 \v 20 The honor in me is always fresh,
-\q and the bow of my strength is always new in my hand.
+\q and the bow of my strength is always new in my hand.'
 \q
 \v 21 To me men listened; they waited for me;
 \q they stayed silent to hear my advice.
@@ -58,9 +57,10 @@
 
 ===== translationNotes: =====
 
-  * **the bow of my strength is always new** - Job's former strength was like that of a new bow. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **dropped like water** - Job's words were like drops of water that refresh and strengthen others. (See: [[:en:ta:vol1:translate:figs_simile]])
 
+  * **The honor in me is always fresh** - The abstract noun "honor" can be expressed with the verb "honor." Here "fresh" represents the honor being constantly given. AT: "People constantly give me honor" or "People always honor me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the bow of my strength is always new in my hand** - A new bow is very strong. Job's bow of strength in his hand represents his physical strength. AT: "I am always strong like a new bow" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my speech dropped like water on them** - Here "dropped like water on them" represents refreshing the people who heard him. The abstract noun "speech" can be translated with the verb "speak" or "say." AT: "My speech refreshed their hearts as drops of water refresh people's bodies" or "What I said to them refreshed them like drops of water" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -68,6 +68,6 @@
   * [[:en:bible:questions:comprehension:job:29]]
 **[[:en:bible:notes:job:29:17|<<]] | [[:en:bible:notes:job:29:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit bowweapon}}
+~~DISCUSSION~~{{tag>publish p2check bowweapon}}
 
 ~~NOCACHE~~

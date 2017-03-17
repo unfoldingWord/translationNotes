@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 If you want to know about the other things that Ahaz did, they are written in the Book of the Events of the Kings of Israel.
+\v 19 If you want to know about the other things that Ahaz did, they are written in the book of the events of the Kings of Judah.
 \v 20 Ahaz died, and he was buried in the part of Jerusalem called the city of David, where his ancestors had been buried. Then his son Hezekiah became the king.
 </usfm>
 
@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 As for the other matters concerning Ahaz and what he did, are they not written in The Book of the Events of the Kings of Judah?
+\v 19 As for the other matters concerning Ahaz and what he did, are they not written in the book of the events of the kings of Judah?
 \v 20 Ahaz slept with his ancestors and was buried with his ancestors in the city of David. Hezekiah his son became king in his place.
 </usfm>
 
@@ -35,8 +35,10 @@
 ===== translationNotes: =====
 
 
-  * **are they not written ... Judah?** - AT: "they are written ... Judah." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Ahaz slept with his ancestors** - AT: "Ahaz died" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **are they not written ... Judah?** - This question is used to either inform or remind the readers that the information about Ahaz is in this other book. This can also be stated in active form. See how you translated this in [[:en:bible:notes:2ki:08:22|8:23]]. AT: "they are written in The Book of the Events of the Kings of Judah." or "someone has written about them in The Book ... Judah." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Ahaz slept with his ancestors** - Sleeping represents dying. AT: "Ahaz died as his ancestors had" or "like his ancestors, Ahaz died"  (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_euphemism]])
+  * **and was buried with his ancestors** - This can be stated in active form. AT: "and people buried him with his ancestors" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **became king in his place** - The phrase "in his place" is a metaphor meaning "instead of him." AT: "became king instead of Ahaz" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
  
 ===== Links: =====
@@ -52,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit ahaz hezekiah}}
+{{tag>publish p2pass ahaz hezekiah}}
 
 ~~NOCACHE~~

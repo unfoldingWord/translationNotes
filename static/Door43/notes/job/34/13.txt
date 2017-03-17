@@ -28,7 +28,6 @@
 \q1
 \v 15 everyone would die immediately,
 \q2 and their corpses would soon become soil again.
-\b
 
 
 \q1
@@ -47,7 +46,6 @@
 \q
 \v 15 then all flesh would perish together;
 \q mankind would return to dust again.
-\b
 </usfm>
 
 
@@ -62,10 +60,11 @@
 
   * **General Information:** - Elihu continues speaking.
 
-  * **Who put him in charge over the earth? Who put the whole world under him?** - Both of these mean the same thing. AT: "No one was needed to give permission to God to take responsibility over all the earth. He is the rightful one to rule the world." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who put him in charge over the earth? Who put the whole world under him?** - Both of rhetorical questions have the same meaning and emphasize that no one needed to grant God authority because it was already his. These questions can be written as statements. AT: "No one needed to give permission to God to take responsibility over all the earth. He is the rightful one to rule the world." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
   * **If he ever** - Elihu is describing a situation that he does not believe would ever happen. (See: [[:en:ta:vol1:translate:figs_hypo]])
-  * **his spirit and his breath** - AT: "his spirit and breath which gives us life" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **all flesh** - AT: "all living things" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **his spirit and his breath** - The "spirit" and "breath" or God are what makes all living things alive. AT: "his spirit and breath which gives us life" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **all flesh** - Here all living things are spoken of as "all flesh." AT: "all living things" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **mankind would return to dust again** - This means that all people would die and their bodies would decay and become soil. In the beginning God created man from the dust. AT: "the bodies of mankind would soon become soil again" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -74,6 +73,6 @@
   * [[:en:bible:questions:comprehension:job:34]]
 **[[:en:bible:notes:job:34:10|<<]] | [[:en:bible:notes:job:34:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -12,7 +12,7 @@
 
 <usfm>
 \v 1 Yahweh, I love you, the one who enables me to be strong.
-\b
+
 
 
 \q1
@@ -22,10 +22,9 @@
 
 <usfm>
 \c 18
-\p
-\d For the chief musician. A psalm of David, the servant of Yahweh, when he sang to Yahweh the words of this song on 
+\m
+\d For the chief musician. A psalm of David, the servant of Yahweh, when he sang to Yahweh the words of this song on
 the day that Yahweh rescued him from the hand of all his enemies and from the hand of Saul. He sang:
-\b
 \q
 \v 1 I love you, Yahweh, my strength.
 </usfm>
@@ -43,7 +42,7 @@ the day that Yahweh rescued him from the hand of all his enemies and from the ha
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]] 
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **For the chief musician** - "This is for the director of music to use in worship."
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
@@ -58,6 +57,6 @@ the day that Yahweh rescued him from the hand of all his enemies and from the ha
   * [[:en:bible:questions:comprehension:psa:018]]
 **[[:en:bible:notes:psa:017:015|<<]] | [[:en:bible:notes:psa:018:002|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1 saul}}
+~~DISCUSSION~~{{tag>publish p2pass book1 saul}}
 
 ~~NOCACHE~~

@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 48 Then the army officers and those who commanded a thousand men and those who commanded a hundred men came to Moses.
+\v 48 Then the army officers, those who were commanders over thousands of men and those who were commanders over hundreds of men, they came to Moses.
 \v 49 They said, "We, who are your servants, have counted the soldiers whom we command, and we found that none of them is missing.
 </usfm>
 
@@ -29,10 +29,12 @@
 
 ===== translationNotes: =====
 
-  * **the commanders over thousands** - "the men who commanded 1,000 soldiers" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **the commanders ... over hundreds** - "the men who commanded 100 soldiers" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:figs_nominaladj]])
+
+  * **the commanders over thousands** - These are military leaders who commanded more than 1,000 men but less than 10,000 men. See how you translated a similar phrase in [[:en:bible:notes:num:31:13|31:14]]. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **over thousands ... over hundreds** - The words "of soldiers" is understood. AT: "over thousands of soldiers ... over hundreds of soldiers" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **the captains over hundreds** - These are military leaders who commanded more than 100 men but less than 1,000 men. See how you translated a similar phrase in [[:en:bible:notes:num:31:13|31:14]] (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **Your servants have counted** - The commanders refer to themselves as "your servants." This is a polite way to speak to someone with greater authority.
-  * **not one man is missing** - This can be stated in a positive statement. "know for certain that every man is here" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **not one man is missing** - This can be stated in a positive statement. "we know for certain that every man is here" (See: [[:en:ta:vol2:translate:figs_litotes]])
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -40,6 +42,6 @@
   * [[:en:bible:questions:comprehension:num:31]]
 **[[:en:bible:notes:num:31:47|<<]] | [[:en:bible:notes:num:31:50|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

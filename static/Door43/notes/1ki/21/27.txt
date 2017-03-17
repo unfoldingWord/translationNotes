@@ -40,9 +40,9 @@
 
 ===== translationNotes: =====
 
+  * **the word of Yahweh came** - This idiom means that Yahweh spoke or has sent a message. See how you translated this in [[:en:bible:notes:1ki:06:11|6:11]]. AT: "Yahweh spoke this message" or "Yahweh spoke"  (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **Do you see how Ahab humbles himself before me?** - God uses this question to show Elijah that Ahab's sorrow is genuine. AT: "I have seen how Ahab humbles himself before me." or "Look at how Ahab humbles himself before me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:1ki:06:11|6:11]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **in his days ... in his son's day** - AT: "during his lifetime ... during his son's lifetime" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **in his days ... in his son's day** - Here the word "days" represents the entire lifetime of a person. AT: "during his lifetime ... during his son's lifetime" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1ki:21]]
 **[[:en:bible:notes:1ki:21:25|<<]] | [[:en:bible:notes:1ki:22:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

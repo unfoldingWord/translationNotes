@@ -26,7 +26,6 @@
 \q2 he will fully protect your possessions,
 \q2 he will enable you to be wise and to know all that you need to know;
 \q1 and revering Yahweh will be like a valuable treasure that he will give to you.
-\b
 
 
 \q1
@@ -39,7 +38,7 @@
 \q1
 \v 5 Yahweh is exalted. He lives in a high place. He will fill Zion with justice and righteousness.
 \q1
-\v 6 He will be the stability in your times, 
+\v 6 He will be the stability in your times,
 \q1 abundance of salvation, wisdom, and knowledge; the fear of Yahweh is his treasure.
 </usfm>
 
@@ -58,11 +57,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah speaks to the people of Jerusalem.
+  * **General Information:** - Isaiah speaks to the people of Judah.
 
-  * **He will be the stability in your times** - "He will make you secure all your lives"
-  * **abundance of salvation, wisdom, and knowledge** - "he will save you and give you an abundance of wisdom and knowledge"
-  * **the fear of Yahweh is his treasure** - These are gifts from God to those who trust in him. However, some versions interpret these gifts as God's people's treasure. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Yahweh is exalted** - This can be stated in active form. AT: "Yahweh is greater than anyone else" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **He will fill Zion with justice and righteousness** - This speaks of Yahweh ruling Zion with his justice and righteousness as if he were filling Zion with justice and righteousness. AT: "He will rule Zion with justice and righteousness" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He will be the stability in your times** - This speaks of Yahweh causing his people to be secure as if he were the stability himself. The phrase "your times" refers to their lives. AT: "He will make you secure all your lives" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **abundance of salvation, wisdom, and knowledge** - The missing words may be added. Also, "salvation" can be expressed with the verb "save." AT: "and he will give you an abundance of salvation, wisdom, and knowledge" or "he will save you and give you an abundance of wisdom and knowledge" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the fear of Yahweh is his treasure** - This speaks of fearing Yahweh as if it were a treasure that Yahweh gives his people. AT: "revering Yahweh will be like a valuable treasure that he will give to you" (UDB) or "to fear Yahweh will be as valuable to you as a treasure" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -77,6 +78,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

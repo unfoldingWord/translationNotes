@@ -14,7 +14,7 @@
 
 <usfm>
 \v 11 The Israelite leaders assigned to them Kiriath Arba (which is now called Hebron), in the hill country of Judah (Arba had been the father of Anak). They also gave the pasturelands around the city.
-\v 12 However, the Israelite leaders had already assigned the cultivated fields and villages surrounding Kiriatharba to Caleb son of Jephunneh.
+\v 12 However, the Israelite leaders had already assigned the cultivated fields and villages surrounding Kiriath Arba to Caleb son of Jephunneh.
 \pi
 </usfm>
 
@@ -36,7 +36,7 @@
 
 ===== translationNotes: =====
 
-  * **Arba had been the father of Anak** - This is background information about the name the man who founded the city of Kiriath Arba. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **Arba had been the father of Anak** - This is background information about the name of the man who founded the city of Kiriath Arba. (See: [[:en:ta:vol2:translate:writing_background]])
   * **Anak** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
   * **hill country** - An area of land with natural elevations, smaller than mountains.
   * **pasturelands** - An area covered with grass or plants suitable for the grazing of livestock or cattle.
@@ -53,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

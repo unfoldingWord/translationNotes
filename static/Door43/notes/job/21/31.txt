@@ -30,7 +30,6 @@
 \v 33 A huge number of people go to the grave site;
 \q2 some go in front of the procession and some come behind,
 \q2 and the wicked ones who have died surely feel good when people throw clods of dirt on their graves.
-\b
 
 
 \q1
@@ -62,11 +61,14 @@
 
 ===== translationNotes: =====
 
-  * **Who will condemn the wicked man's way to his face? Who will repay him for what he has done?** - Job uses questions to teach his friends and cause them to think deeply about what he is saying. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Connecting Statement:** - Job continues speaking to his friends.
+
+  * **Who will condemn the wicked man's way to his face?** - Job uses this question to contradict his friends' belief that the wicked are always judged. AT: "No one condemns the wicked man to his face." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **to his face** - This means no one will go directly to the wicked person and condemn him personally. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Yet he will be borne** - AT: "Yet people will carry him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **The clods of the valley will be sweet to him** - Job imagines that the dead person will even enjoy the dirt that is put on him. This means the wicked person will even have a good death and a nice burial after a fulfilling life. "Clods" refer to the earth that covers the grave. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **all people will follow after him, as there were innumerable people before him** - Job emphasizes his idea by including the many before and after this man who will have the same life and death as this imaginary wicked person. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **Who will repay him for what he has done?** - Job uses this question to contradict his friends' belief that the wicked are always judged. AT: "No one repays him for the bad things that he has done." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **he will be borne** - This can be stated in active form. AT: "people will carry him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The clods of the valley will be sweet to him** - Job imagines that the dead person will even enjoy the dirt that is put on him. This means the wicked person will even have a good death and a nice burial after a fulfilling life. "Clods" refer to the earth that covers the grave. AT: "He will enjoy being covered with the dirt of the valley" or "He will enjoy being buried in the dirt of the valley" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **all people will follow after him, as there were innumerable people before him** - Job emphasizes that a large crowd of people will be in the funeral procession of this imaginary wicked man to honor him. AT: "a huge number of people go to the grave site; some go in front of the procession and some come behind" (UDB) (See: [[:en:ta:vol1:translate:figs_hypo]])
 
 ===== Links: =====
 
@@ -75,6 +77,6 @@
   * [[:en:bible:questions:comprehension:job:21]]
 **[[:en:bible:notes:job:21:29|<<]] | [[:en:bible:notes:job:21:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

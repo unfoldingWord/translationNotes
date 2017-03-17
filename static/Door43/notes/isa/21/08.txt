@@ -20,13 +20,12 @@
 <usfm>
 \v 8 So I did that, and one day the watchman called out,
 \q1 "Day after day I have stood on this watchtower,
-\q2 and I have continued to watch during the day and during the night."
+\q2 and I have continued to watch during the day and during the night.
 \q1
 \v 9 A man comes riding in a chariot pulled by two horses.
 \q2 I called out to him, and he answered,
 \q1 'Babylon has been destroyed!
 \q2 All the idols in Babylon lie in pieces on the ground!'"
-\b
 
 
 \q1
@@ -36,13 +35,13 @@
 
 <usfm>
 \q1
-\v 8 The watchman cries out, 
+\v 8 The watchman cries out,
 \f + \ft Instead of \fqa The watchman cries out \fqb , some older versions have \fqa A lion cries out \fqb . \f*
-\q1 "Lord, on the watchtower I stand all day, every day, 
+\q1 "Lord, on the watchtower I stand all day, every day,
 \q1 and at my post I stand all night long."
-\q1 
-\v 9 Here comes a chariot with a man and a pair of horsemen. 
-\q1 He calls out, "Babylon has fallen, fallen, 
+\q1
+\v 9 Here comes a chariot with a man and a pair of horsemen.
+\q1 He calls out, "Babylon has fallen, fallen,
 \q1 and all the carved figures of its gods are broken to the ground."
 </usfm>
 
@@ -56,7 +55,9 @@
 
 ===== translationNotes: =====
 
-  * **Babylon has fallen, fallen** - The word "fallen" is repeated for emphasis. AT: "Babylon is completely destroyed"
+  * **Lord, on the watchtower I stand** - Here "Lord" refers to the person with authority that commanded the watchman to stand on the wall of Jerusalem.
+  * **Babylon has fallen, fallen** - Babylon being completely defeated by their enemies is spoken of as if Babylon has fallen. Here "Babylon" is a metonym that represents the people of Babylon. AT: "The people of Babylon are completely defeated" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **fallen, fallen** - The word "fallen" is repeated to emphasize that the people of Babylon were completely defeated by their enemies.
 
 ===== Links: =====
 
@@ -65,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:21]]
 **[[:en:bible:notes:isa:21:06|<<]] | [[:en:bible:notes:isa:21:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit image}}
+~~DISCUSSION~~{{tag>publish p2pass image}}
 
 ~~NOCACHE~~

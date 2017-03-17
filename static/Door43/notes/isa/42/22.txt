@@ -24,7 +24,6 @@
 \q1 They have been captured easily,
 \q2 because there was no one to protect them;
 \q1 there was no one to say that they should be allowed to return home.
-\b
 
 
 \q1
@@ -36,7 +35,7 @@
 <usfm>
 \q1
 \v 22 But this is a people robbed and plundered;
-\q1 they are all trapped in pits, held captive in prisons; 
+\q1 they are all trapped in pits, held captive in prisons;
 \q1 they have become a plunder with no one to rescue them, and no one says, "Bring them back!"
 </usfm>
 
@@ -54,7 +53,7 @@
 
   * **But this is a people robbed and plundered** - This can be stated in active form. AT: "But the enemy has robbed and plundered this people" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **robbed and plundered** - These two words mean basically the same thing and emphasize how badly the enemy had plundered them. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **held captive in prisons** - This can be stated in active form. AT: "and they are prisoners" or "and the enemy has put them in prisons" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they are all trapped in pits, held captive in prisons** - These two phrases mean basically the same thing. This can be stated in active form. AT: "the enemy has trapped them all in pits and held them captive in prisons" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
  
 ===== Links: =====
@@ -67,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

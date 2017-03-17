@@ -32,10 +32,10 @@
 
 ===== translationNotes: =====
 
-  * **the amount of seed required to plant it** - This can be stated in active form. AT: "the amount of seed a person would need to plant it" 
+  * **the amount of seed required to plant it** - This can be stated in active form. AT: "the amount of seed a person would need to plant it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **a homer of barley will be valued at** - Here "a homer of barley" represents a piece of land that would need one homer of barley in order to plant on all of it. AT: "a piece of land that requires one homer of barley in order to plant all of it will be valued at" or 'the value of land that requires one homer of barley will be" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **homer** - A homer is 220 liters. (See: [[:en:ta:vol2:translate:translate_bvolume]])
-  * **fifty shekels** - If it is necessary to use modern weight units, here are two way of doing it. AT: "fifty pieces of silver, each of which weighs ten grams" or "five hundred grams of silver" (See: [[:en:ta:vol2:translate:translate_bweight]] and [[:en:ta:vol2:translate:translate_numbers]])
+  * **fifty shekels of silver** - If it is necessary to use modern weight units, here are two way of doing it. AT: "fifty pieces of silver, each of which weighs ten grams" or "five hundred grams of silver" (See: [[:en:ta:vol2:translate:translate_bweight]] and [[:en:ta:vol2:translate:translate_numbers]])
 
  
 ===== Links: =====
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:lev:27]]
 **[[:en:bible:notes:lev:27:14|<<]] | [[:en:bible:notes:lev:27:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check p2example}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

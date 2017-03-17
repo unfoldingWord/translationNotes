@@ -46,9 +46,12 @@
 
 ===== translationNotes: =====
 
-  * **If only Job were put on trial in the smallest details of his case** - AT: "If only we could take Job to court so a judge could listen to all of Job's complaints" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **he claps his hands in mockery in our midst** - AT: "he mocks God right in front of us" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **he piles up words against God** - AT: "he keeps on saying bad things about God"
+  * **If only Job were put on trial in** - This can be stated in active form. AT: "If only we could put Job on trial in" or "If only we could take Job to court so a judge could listen to" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in the smallest details of his case** - This is an idiom. AT: "to listen to his case thoroughly" or "to hear all of the details of his case" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **of his talking like wicked men** - "of how he has spoken like a wicked man" 
+  * **he adds rebellion** - This refers to rebellion against God. AT: "he adds rebellion against God" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **he claps his hands in mockery in our midst** - In this accusation, this means that Job clapped his hands to strengthen his mockery of God. AT: "he claps his hands as he mocks God in our midst" or "he mocks God right in front of us" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:translate_symaction]])
+  * **he piles up words against God** - Elihu speaks of "words" as if they were objects, and of speaking many words as if it were piling those objects one on top of the other. AT: "he speaks many words against God" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 
 ===== Links: =====
@@ -58,6 +61,6 @@
   * [[:en:bible:questions:comprehension:job:34]]
 **[[:en:bible:notes:job:34:34|<<]] | [[:en:bible:notes:job:35:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

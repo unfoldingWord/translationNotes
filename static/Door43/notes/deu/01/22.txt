@@ -26,7 +26,7 @@
 <usfm>
 \v 22 Every one of you came to me and said, 'Let us send men ahead of us, so that they may search out the land for us, and bring us word about the way by which we should attack, and about the cities to which we will come.'
 \v 23 The advice pleased me well; I took twelve men of you, one man for every tribe.
-\v 24 They turned and went up into the hill country, came to the valley of Eshcol, and scouted it.
+\v 24 They turned and went up into the hill country, came to the Valley of Eshcol, and scouted it.
 </usfm>
 
 
@@ -41,8 +41,8 @@
   * **General Information:** - Moses continues reminding the people of Israel what the previous generation of Israelites did.
 
   * **twelve men** - "12 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **valley of Eshcol** - This is a valley in the Hebron region, which is south of Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
   * **They turned and went** - "They left that place and went" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Valley of Eshcol** - This is a valley in the Hebron region, which is south of Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
   * **scouted it** - "looked for places they could attack"
  
 ===== Links: =====
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:deu:01]]
 **[[:en:bible:notes:deu:01:20|<<]] | [[:en:bible:notes:deu:01:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

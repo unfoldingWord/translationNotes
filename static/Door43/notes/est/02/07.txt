@@ -29,25 +29,24 @@
 
 ===== translationNotes: =====
 
+  * **Connecting Statement:** - This continues the background information about Mordecai and explains his relationship to Esther. (See: [[:en:ta:vol2:translate:writing_background]])
 
-  * **Hadassah** - This is "Esther's" Hebrew name. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Hadassah** - This is Esther's Hebrew name. (See: [[:en:ta:vol1:translate:translate_names]])
   * **his uncle's daughter** - "his cousin" (UDB)
-  * **she had neither father nor mother** - "her father and mother died" (UDB)
+  * **she had neither father nor mother** - "her father and mother had died"
+  * **took her as his own daughter** - "cared for her as if she was his own daughter"
 
- 
+
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
   * [[:en:bible:notes:est:02:00]]
   * [[:en:bible:questions:comprehension:est:02]]
-
- 
-
 **[[:en:bible:notes:est:02:05|<<]] | [[:en:bible:notes:est:02:08|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit esther}}
+{{tag>publish p2pass esther}}
 
 ~~NOCACHE~~

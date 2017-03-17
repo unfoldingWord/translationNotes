@@ -32,7 +32,6 @@
 \v 15 God, who created me, certainly also created my servants;
 \q2 surely he is the one who formed them and me in our mothers' wombs,
 \q2 so we all should behave toward each other in the same way.
-\b
 
 
 \q1
@@ -51,7 +50,7 @@
 \q
 \v 15 Did the one who made me in the womb not make them also?
 \q Did not the same one mold us all in the womb?
-\b
+\m
 </usfm>
 
 
@@ -67,8 +66,8 @@
 
   * **General Information:** - Job continues describing situations in which he would deserve God's punishment, but he knows they are not true. (See: [[:en:ta:vol1:translate:figs_hypo]])
 
-  * **what then would I do when God rises up to accuse me? When he comes to judge me, how would I answer him?** - Job uses a question for emphasis. AT: "then there would absolutely nothing I could say to defend myself when God comes to judge me" (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
-  * **Did the one who made me in the womb not make them also? Did not the same one mold us all in the womb?** - AT: "God, who certainly made me in the same way he made them, should judge me with the same sense of justice as he judges them." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **what then would I do when God rises up to accuse me? When he comes to judge me, how would I answer him?** - Job uses these questions to emphasize that if God were to judge him, Job would not be able to make himself appear to be good. AT: "then there would absolutely nothing I could say to defend myself when God comes to judge me." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **Did the one who made me in the womb not make them also? Did not the same one mold us all in the womb?** - Job uses these questions to emphasize that he is no different from his servants. He implies that God would be angry if Job were to treat his servants as less valuable that himself. AT: "The one who made me in the womb also made them. He formed  us all in the womb." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -76,6 +75,6 @@
   * [[:en:bible:questions:comprehension:job:31]]
 **[[:en:bible:notes:job:31:11|<<]] | [[:en:bible:notes:job:31:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

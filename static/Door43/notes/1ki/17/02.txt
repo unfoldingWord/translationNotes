@@ -13,7 +13,7 @@
 
 <usfm>
 \v 2 Then Yahweh said to Elijah,
-\v 3 "Because you have made the king angry with you, escape from the king and, go to the east, to the Kerith Brook, east of where it flows into the Jordan River.
+\v 3 "Because you have made the king angry with you, escape from the king and, go to the east, to the Cherith Brook, east of where it flows into the Jordan River.
 \v 4 You will be able to drink water from the brook, and you will be able to eat what the crows bring to you, because I have commanded them to bring food to you."
 
 
@@ -36,8 +36,10 @@
 
 ===== translationNotes: =====
 
-  * **The word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:1ki:06:11|6:11]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **It will happen that** - This phrase is used to introduce how Yahweh will take care of Elijah during the drought. AT: "This is what will happen"
+  * **The word of Yahweh came** - This idiom means God spoke. See how you translated this in [[:en:bible:notes:1ki:06:11|6:11]]. AT: "Yahweh spoke his message" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Cherith** - This is the name of a very small stream. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **It will happen that** - This phrase is used to introduce how Yahweh will take care of Elijah during the drought. AT: "There"
+  * **ravens** - large, black birds (See: [[:en:ta:vol1:translate:translate_unknown]])
 
 ===== Links: =====
 
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1ki:17]]
 **[[:en:bible:notes:1ki:17:01|<<]] | [[:en:bible:notes:1ki:17:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -23,7 +23,7 @@
 
 <usfm>
 \p
-\v 22 Then Yahweh spoke to Moses, saying, 
+\v 22 Then Yahweh spoke to Moses, saying,
 \v 23 "Speak to the people of Israel and say, 'You must eat no fat of an ox or a sheep or a goat.
 \v 24 The fat of an animal that died without being a sacrifice, or the fat of an animal torn by wild animals, may be used for other purposes, but you must certainly not eat it.
 </usfm>
@@ -43,7 +43,7 @@
 
 ===== translationNotes: =====
 
-  * **Then Yahweh spoke to Moses, saying, "Speak to the people of Israel and say, 'You must eat no fat** - This has a quotation within a quotation. A direct quotation can be stated as an indirect quotation. AT: "Then Yahweh spoke to Moses and told him to tell the people of Israel this: 'You must eat no fat" (See:[[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **Then Yahweh spoke to Moses, saying, "Speak to the people of Israel and say, 'You must eat no fat** - This has a quotation within a quotation. A direct quotation can be stated as an indirect quotation. AT: "Then Yahweh spoke to Moses and told him to tell the people of Israel this: 'You must eat no fat" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
   * **died without being a sacrifice** - "died but was not a sacrifice"
   * **the fat of an animal torn by wild animals** - This can be translated in active form. AT: "the fat of an animal that wild animals killed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **may be used** - This can be translated in active form. AT: "you may use" (See: [[:en:ta:vol2:translate:figs_activepassive]])
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

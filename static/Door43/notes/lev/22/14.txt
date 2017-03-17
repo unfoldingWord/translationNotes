@@ -26,9 +26,9 @@
 
 <usfm>
 \p
-\v 14 If a man eats a holy food without knowing it, then he must repay the priest for it; he must add one fifth to it and give it back to the priest.
+\v 14 If a man eats a holy food without knowing it, then he must repay the priest for it; he must add one-fifth to it and give it back to the priest.
 \p
-\v 15 The people of Israel must not dishonor the holy things that they have raised high and presented to Yahweh, 
+\v 15 The people of Israel must not dishonor the holy things that they have raised high and presented to Yahweh,
 \v 16 and cause themselves to carry the sin that would make them guilty of eating the holy food, for I am Yahweh who makes them holy.'"
 </usfm>
 
@@ -45,11 +45,11 @@
 
 ===== translationNotes: =====
 
-  * **he must repay the priest for it; he must add one fifth to it** - Possible meanings are 1) that the person had to replace the food that he had eaten with the same kind of food or 2) that the person had to pay money to the priest for the food that he had eaten.
-  * **one fifth** - This is one part out of five equal parts. (See: [[:en:ta:vol2:translate:translate_fraction]])
+  * **he must repay the priest for it; he must add one-fifth to it** - Possible meanings are 1) that the person had to replace the food that he had eaten with the same kind of food or 2) that the person had to pay money to the priest for the food that he had eaten.
+  * **one-fifth** - This is one part out of five equal parts. (See: [[:en:ta:vol2:translate:translate_fraction]])
   * **must not dishonor the holy things** - This can be stated in positive form. AT: "must treat the holy things with honor" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
   * **that they have raised high and presented** - The phrase "raised high" refers to a symbolic gesture of respect that represents offering something to Yahweh. It means basically the same thing as "presented." AT: "that they have offered" (See: [[:en:ta:vol2:translate:translate_symaction]] and [[:en:ta:vol2:translate:figs_doublet]])
-  * **and cause themselves to carry the sin that would make them guilty** - Sin is spoken of as if it were an object that people can carry. Possible meanings are 1) that they would be responsible for the sin and so become guilty or 2) that the word "sin" is a metonym for punishment for the sin that they committed. AT: "and they would be guilty for the sin that they committed" or "and they would receive the punishment because they are guilty" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **cause themselves to carry the sin that would make them guilty** - Sin is spoken of as if it were an object that people can carry. Possible meanings are 1) they would be responsible for the sin and so become guilty. AT: "they would be guilty for the sin that they committed" or 2) the word "sin" is a metonym for punishment for the sin that they committed. AT: "they would receive the punishment because they are guilty" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:lev:22]]
 **[[:en:bible:notes:lev:22:12|<<]] | [[:en:bible:notes:lev:22:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

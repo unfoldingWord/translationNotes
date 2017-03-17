@@ -44,14 +44,15 @@
   * [[:en:obe:kt:god]]
 ===== translationNotes: =====
 
-  * **General Information:** - (See: [[:en:ta:vol2:translate:translate_numbers]])
-
-  * **from the twentieth year until the thirty-second year of Artaxerxes the king** - Years in the ancient Near East were measured by the year of a king's reign.
-  * **twelve years** - Nehemiah is restating the number of years for emphasis. AT: "during that entire time"
-  * **neither I nor my brothers ate the food provided for the governor** - "Neither my brothers nor I ate the food provided for the governor." This food was provided by the king and was part of what a governor was paid by the people. Because the people were starving, Nehemiah chose not to make use of this privilege.
-  * **former governors** - "previous governors" or "governors from the past" Nehemiah was not the first governor of Judah. 
-  * **took from them forty shekels of silver for their daily food and wine** - AT: "from them forty shekels of silver in addition to daily food and wine." 
-  * **shekel** - (See: [[:en:ta:vol2:translate:translate_bmoney]] and [[:en:ta:vol2:translate:translate_bweight]])
+  * **from the time I was appointed** - Here "I" refers to Nehemiah.
+  * **from the twentieth year until the thirty-second year** - "from the 20th year until the 32 year" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **of Artaxerxes the king** - "that Artaxerxes was king"
+  * **twelve years** - "12 years" or "during those 12 years." Nehemiah is restating the number of years to emphasize that he did this continually for the full time he was governor. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **the food provided for the governor** - This can be stated in active form. AT: "ate the food that the people provided for the governor" 
+  * **for their daily** - "every day for their" 
+  * **former governors** - "previous governors" or "governors from the past." Nehemiah was not the first governor of Judah.
+  * **forty shekels** - "40 shekels" or "40 silver coins" (UDB). (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_bmoney]])
+  * **But I did not do so because of the fear of God** - "But because my fear of God I did not take the food" or "But I did not take the food because I feared God" 
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -59,6 +60,6 @@
   * [[:en:bible:questions:comprehension:neh:05]]
 **[[:en:bible:notes:neh:05:12|<<]] | [[:en:bible:notes:neh:05:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit oppress}}
+~~DISCUSSION~~{{tag>publish p2pass oppress}}
 
 ~~NOCACHE~~

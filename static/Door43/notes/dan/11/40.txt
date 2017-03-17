@@ -18,8 +18,8 @@
 
 <usfm>
 \p
-\v 40 At the time of the end the king of the South will attack. The king of the North will rush at him like a storm with chariots and horsemen, and with many ships. He will invade many countries and sweep through them like a flood.
-\v 41 He will come into the glorious land, and tens of thousands of Israelites will stumble and fall, but many of Edom and Moab, and the remaining people of Ammon will escape from his hand.
+\v 40 At the time of the end the king of the South will attack. The king of the North will storm against him with chariots and horsemen, and with many ships. He will go against lands, flood them, and pass through.
+\v 41 He will go into the land of beauty, and tens of thousands of Israelites will fall. But these will escape from his hand: Edom, Moab, and the remainder of the people of Ammon.
 </usfm>
 
 ===== translationWords: =====
@@ -30,7 +30,6 @@
   * [[:en:obe:other:sweep]]
   * [[:en:obe:other:flood]]
   * [[:en:obe:kt:glory]]
-  * [[:en:obe:other:stumble]]
   * [[:en:obe:other:hand]]
   * [[:en:obe:other:edom]]
   * [[:en:obe:other:moab]]
@@ -38,16 +37,14 @@
 
 ===== translationNotes: =====
 
-  * **time of the end** - "the final days" or "the end of the world." See how you translated this in [[:en:bible:notes:dan:08:15|8:17]].
-  * **the king of the South** - AT: "the army of the king of the South" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **The king of the North** - AT: "the army of the king of the North"
-  * **like a storm** - The violence of the army is compared to the destruction caused by a strong storm. AT: "violently" or "violently like a storm" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **He will invade** - AT: "The king of the North will invade"
-  * **like a flood** - See how you translated this in [[:en:bible:notes:dan:11:10|11:10]]
-  * **the glorious land** - This refers to land of Israel. See how you translated a similar phrase in [[:en:bible:notes:dan:08:09|8:9]]
-  * **stumble and fall** - AT: "will die." See how you translated a similar phrase in [[:en:bible:notes:dan:11:14|11:14]]
-  * **will escape from his hand** - "will escape from him" or "will escape from his power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **the time of the end** - "the final days" or "the end of the world." See how you translated this in [[:en:bible:notes:dan:08:15|8:17]].
+  * **the king of the South ... The king of the North** - These phrases stand for the kings and their armies. AT: "the king of the South and his army ... The king of the North and his army" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will storm against him** - Violently attacking with an army is spoken of as if a storm happened. AT: "will attack him like a violent storm" or "will violently attack him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **flood them** - When an army overruns a country, it is spoken of as if a flood occurred. See how you translated this in [[:en:bible:notes:dan:11:10|11:10]]. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **pass through** - Nothing will stop the army. AT: "will pass through the lands with no one to stop him" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the land of beauty** - This refers to the land of Israel. See how you translated this in [[:en:bible:notes:dan:08:09|08:09]] and [[:en:bible:notes:dan:11:15|11:16]].
+  * **will fall** - Here falling represents the action of dying. AT: "will die" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **But these will escape from his hand** - Here "hand" represents power. AT: "But these will escape from his power" or "But he will not be able to destroy these nations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -55,6 +52,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:38|<<]] | [[:en:bible:notes:dan:11:42|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit sweep chariot horsemen}}
+~~DISCUSSION~~{{tag>publish p2pass sweep chariot horsemen}}
 
 ~~NOCACHE~~

@@ -21,7 +21,6 @@
 <usfm>
 \v 1 Now when Solomon was king over all Israel,
 \v 2 these were his most important officials:
-\b
 \li1 Azariah, whose father was Zadok, was the priest.
 \li1
 \v 3 Shisha's sons Elihoreph and Ahijah were the official secretaries.
@@ -60,9 +59,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Solomon's Officials:
+  * **General Information:** - This is the beginning of a list of Solomon's officials.
 
-  * **Azariah ... Zadok ... Elihoreph ... Ahijah ... Shisha ... Jehoshaphat ... Ahilud ... Benaiah ... Jehoiada ... Abiathar** - These are all men's names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Azariah ... Zadok ... Elihoreph ... Ahijah ... Shisha ... Jehoshaphat ... Ahilud ... Benaiah ... Jehoiada ... Abiathar** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -71,6 +70,6 @@
   * [[:en:bible:questions:comprehension:1ki:04]]
 **[[:en:bible:notes:1ki:03:26|<<]] | [[:en:bible:notes:1ki:04:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit azariah}}
+~~DISCUSSION~~{{tag>publish p2pass azariah}}
 
 ~~NOCACHE~~

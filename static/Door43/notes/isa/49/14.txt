@@ -24,7 +24,6 @@
 \v 14 The people of Jerusalem say,
 \q1 "Yahweh has abandoned us;
 \q2 he has forgotten about us."
-\b
 \q1
 \v 15 But Yahweh replies,
 \q1 "That is not true! Can a woman forget the infant that she is nursing?
@@ -40,11 +39,10 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 14 But Zion said, "Yahweh has forsaken me, and the Lord has forgotten me."
 \q1
-\v 15 "Can a woman forget her baby, nursing at her breast, so she does not have compassion on the son she has borne? 
+\v 15 "Can a woman forget her baby, nursing at her breast, so she does not have compassion on the son she has borne?
 \q1 Yes, they may forget, but I will not forget you.
 </usfm>
 
@@ -58,9 +56,8 @@
 
 ===== translationNotes: =====
 
-  * **Can a woman forget her baby, nursing at her breast, so she does not have compassion on the son she has borne? Yes, they may forget, but I will not forget you** - Yahweh uses a question to help his people understand that he will never forget about them or stop caring for them. AT: "A woman would not forget about her child or stop caring for her baby. But, even if she did, I certainly will not forget you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
- 
+  * **But Zion said** - The word "Zion" is another name for Jerusalem. Isaiah speaks of the city as if it were a woman who complains that Yahweh has forgotten her. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **Can a woman forget her baby, nursing at her breast, so she does not have compassion on the son she has borne?** - Yahweh uses a question to help his people understand that he will never forget about them or stop caring for them. AT: "A woman would not forget her nursing baby or stop caring for the son she bore." (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -75,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

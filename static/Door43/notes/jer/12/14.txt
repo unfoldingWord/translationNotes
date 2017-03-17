@@ -40,12 +40,14 @@
 
 ===== translationNotes: =====
 
-  * **strike at** - attack and capture
-  * **made my people Israel inherit** - AT: "gave my people Israel as an inheritance"
-  * **uproot** - See how you translated this in [[:en:bible:notes:jer:01:09|1:10]].
-  * **pull up the house of Judah from among them** - allow the people of Judah to leave their enemies' lands and return to Judah
-  * **pull up** - or "uproot"
-  * **I uproot those nations** - AT: "I make those nations leave their lands and move to different places"
+  * **strike at the possession** - "have been trying to take away the land" (UDB)
+  * **made my people Israel inherit** - "gave my people Israel as an inheritance"
+  * **See** - This word is used here to draw someone's attention to what is said next. AT: "Listen" or "Pay attention to what I am about to tell you" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **to uproot them from their own ground** - God speaks of forcing the people to leave their land as if they were plants that he was uprooting. See how you translated this concept in [[:en:bible:notes:jer:01:09|1:10]]. AT: "to make them leave their own land" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will pull up the house of Judah from among them** - Here Yahweh speaks of causing the people of Judah to leave the lands of the other nations as if they were plants that he was uprooting. AT: "I will cause the house of Judah to leave their lands as well" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **pull up** - "uproot"
+  * **the house of Judah** - The word "house" is a metonym for the family that lives in the house. In this case it refers to the kingdom of Judah, which included the descendants of Judah and Benjamin. Translate as in [[:en:bible:notes:jer:11:09|11:10]]. AT: "Judah" or "the kingdom of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I uproot those nations** - God speaks of forcing the people to leave their land as if they were plants that he was uprooting. AT: "I make those nations leave their lands and move to different places" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
  
 ===== Links: =====
@@ -61,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

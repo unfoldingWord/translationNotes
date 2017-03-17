@@ -30,7 +30,7 @@
 
 <usfm>
 \q1
-\v 23 Your princes are rebels and companions of thieves; 
+\v 23 Your princes are rebels and companions of thieves;
 \q1 everyone loves bribes and runs after payoffs.
 \q1 They do not defend the fatherless, nor does the widow's legal plea come before them.
 </usfm>
@@ -43,11 +43,14 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - Isaiah speaks Yahweh's words to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+
   * **Your princes are rebels** - "Your leaders rebel against God"
   * **companions of thieves** - "they are friends with people who steal from others"
-  * **everyone loves bribes and runs after payoffs** - These are two different ways of saying the same thing to emphasize how wicked the leaders were. AT: "They all are happy to lie and make bad decisions if someone will pay them enough money" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **bribes ... payoffs** - People give "bribes" as gifts to dishonest rulers so the rulers will then act unjustly. Rulers receive "payoffs" as gifts from those who make profits from unjust laws that the ruler has passed.
+  * **runs after payoffs** - A person eagerly desiring for someone to give him a bribe is spoken of as if the payoff were running away and the person were running after it. AT: "everyone desires for someone to pay money to them to make dishonest decisions" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **They do not defend the fatherless** - "they do not protect those who do not have fathers" 
-  * **nor does the widow's legal plea come before them** - "nor do they listen when widows go to them for help" or "and they do not help widows who go to them for help"
+  * **nor does the widow's legal plea come before them** - "nor do they listen when widows go to them for help against those who break the law" or "and they do not help widows who go to them for help against those who break the law"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -55,6 +58,6 @@
   * [[:en:bible:questions:comprehension:isa:01]]
 **[[:en:bible:notes:isa:01:21|<<]] | [[:en:bible:notes:isa:01:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit bribe}}
+~~DISCUSSION~~{{tag>publish p2pass bribe}}
 
 ~~NOCACHE~~

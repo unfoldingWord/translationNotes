@@ -21,7 +21,7 @@
 
 <usfm>
 \p
-\v 19 As soon as it became dark at the gates of Jerusalem before the Sabbath, I commanded that the doors be shut and that they should not be opened until after the Sabbath. I stationed some of my servants at the gates so no load could be brought in on the Sabbath day. 
+\v 19 As soon as it became dark at the gates of Jerusalem before the Sabbath, I commanded that the doors be shut and that they should not be opened until after the Sabbath. I stationed some of my servants at the gates so no load could be brought in on the Sabbath day.
 \v 20 The merchants and sellers of all kinds of wares camped outside Jerusalem once or twice.
 </usfm>
 
@@ -35,9 +35,10 @@
   * [[:en:obe:other:servant]]
 ===== translationNotes: =====
 
-  * **As soon as it became dark at the gates of Jerusalem before the Sabbath** - "At sundown at the gates of Jerusalem" or "At the official start of the Sabbath at the gates of Jerusalem" 
-  * **should not be opened until after the Sabbath** - "should not be opened until after the Sabbath, at sundown the next day"
-  * **all kinds of wares** - "all kinds of merchandise"
+  * **As soon as it became dark ... before the Sabbath** - "When the sun went down ... and it was time for the Sabbath to begin"
+  * **that the doors be shut and that they should not be opened until** - This can be translated in active form. AT: "that the guards shut the doors and not open them until" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **no load could be brought in** - This can be translated in active form. AT: "no one could bring in things they wanted to sell" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **sellers of all kinds of wares** - "people who had brought many different things they wanted to sell"
  
 ===== Links: =====
 
@@ -49,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

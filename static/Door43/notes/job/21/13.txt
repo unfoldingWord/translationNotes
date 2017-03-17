@@ -60,11 +60,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues speaking with his friends.
+  * **Connecting Statement:** - Job continues speaking with his friends.
 
-  * **they go down quietly to Sheol** - AT: "they die peacefully" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **their days** - "their lifetime"
+  * **they go down quietly to Sheol** - This is a polite way of saying that they die. AT: "they die peacefully" (See: [[:en:ta:vol2:translate:figs_euphemism]])
   * **your ways** - This refers to how God wants people to behave.
-  * **What is the Almighty, that we should worship him? What advantage would we get if we prayed to him?** - The wicked people use these questions to mock God. AT: "We will not worship this Almighty God. He can do nothing for us" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **What is the Almighty, that we should worship him? What advantage would we get if we prayed to him?** - The wicked people use these questions to mock God. AT: "We do not believe that this Almighty God is worthy of our worship. He can do nothing for us." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
 
 ===== Links: =====
 
@@ -73,6 +75,6 @@
   * [[:en:bible:questions:comprehension:job:21]]
 **[[:en:bible:notes:job:21:10|<<]] | [[:en:bible:notes:job:21:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

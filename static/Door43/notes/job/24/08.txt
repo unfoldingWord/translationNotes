@@ -55,13 +55,18 @@
  
 ===== translationNotes: =====
 
+  * **Connecting Statement:** - Job continues speaking.
 
-  * **with the showers of the mountains** - AT: "with the rain that falls on the mountains"
-  * **from their mothers' breast** - AT: "out of their mothers' arms" or "from their mothers" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **They are wet with the showers of the mountains** - "They become wet when it rains in the mountains"
+  * **orphans from their mothers' breast** - Here "breast" refers to the mother. This implies that these orphans are still very young. This can be made explicit. AT: "young orphans out of their mothers' arms" or "fatherless infants from their mothers" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **orphans** - This generally refers to children without parents. Here, however, it is used for children who have mothers but do not have fathers. 
+  * **take children as security from poor people** - "take poor people's children to guarantee that the poor people will pay back money that they borrowed from the wicked people"
+  * **as security** - A lender would take something from a borrower to ensure that the borrower pays him back. Translate this as in [[:en:bible:notes:job:24:02|24:3]].
   * **go about** - "walk around"
-  * **naked without clothing** - The words "without clothing" mean the same thing as "naked." AT: "completely naked" or "naked because they have no clothing." (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **naked without clothing** - The words "without clothing" mean the same thing as "naked." AT: "completely naked" or "naked because they have no clothing" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **they carry others' sheaves of grain** - This means their work will provide food for others but not for themselves.
- 
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -69,6 +74,6 @@
   * [[:en:bible:questions:comprehension:job:24]]
 **[[:en:bible:notes:job:24:05|<<]] | [[:en:bible:notes:job:24:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

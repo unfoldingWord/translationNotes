@@ -36,12 +36,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 9 Therefore justice is far from us, nor does righteousness reach us. 
+\v 9 Therefore justice is far from us, nor does righteousness reach us.
 \q1 We wait for light, but see darkness; we look for brightness, but we walk in darkness.
 \q1
-\v 10 We grope for the wall like the blind, like those who cannot see. 
+\v 10 We grope for the wall like the blind, like those who cannot see.
 \q1 We stumble at noonday as in the twilight;
 among the strong we are like dead men.
 </usfm>
@@ -61,7 +60,7 @@ among the strong we are like dead men.
 
   * **General Information:** - Isaiah continues speaking to the people of Israel.
 
-  * **far from us** - Here "us" refers to Isaiah and the people of Israel. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+  * **justice is far from us** - Here "us" refers to Isaiah and the people of Israel. "Far" represents that justice is gone and difficult to get. AT: "justice is gone and very difficult to get" (See: [[:en:ta:vol2:translate:figs_inclusive]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **We wait for light, but see darkness; we look for brightness, but we walk in darkness** - Each of these phrases means that the people are waiting for God's goodness, but it seems like he has abandoned them. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **We grope for the wall like the blind ... like dead men** - This means that because God is not coming to them, they feel helpless, not finding the right path and despairing of the future, with no hope for a vibrant life. (See: [[:en:ta:vol1:translate:figs_simile]])
 
@@ -72,6 +71,6 @@ among the strong we are like dead men.
   * [[:en:bible:questions:comprehension:isa:59]]
 **[[:en:bible:notes:isa:59:07|<<]] | [[:en:bible:notes:isa:59:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

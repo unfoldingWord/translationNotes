@@ -14,9 +14,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 With patient persuasion even a ruler's mind can be changed, 
-\q2 like the proverb that says, 'a soft tongue can break a bone.' 
-
+\v 15 With patient persuasion even a ruler's mind can be changed,
+\q2 like the proverb that says, 'a soft tongue can break a bone.'
 
 \q1
 </usfm>
@@ -35,13 +34,12 @@
 
   * [[:en:obe:other:patient]] 
   * [[:en:obe:other:ruler]] 
-  * [[:en:obe:other:tongue]] 
+  * [[:en:obe:other:tongue]]
+
 ===== translationNotes: =====
 
-
-  * **With patience a ruler can be persuaded** - AT: "With patience, someone can persuade a ruler" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **a soft tongue can break a bone** - AT: "Gentle speech can overcome strong opposition." (See: [[:en:ta:vol1:translate:figs_metaphor]])
- 
+  * **With patience a ruler can be persuaded** - These words can be translated in active form. AT: "Someone who is patient can persuade a ruler" or "Someone who is patient can speak to a ruler and change his mind" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a soft tongue can break a bone** - The word "tongue" is a metonym for the words the person speaks using the tongue. The word "bone" is a metaphor for strong opposition. AT: "gentle speech can overcome strong opposition" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -56,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -40,14 +40,13 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 12 How you are fallen from heaven, daystar, son of the morning! 
+\v 12 How you are fallen from heaven, daystar, son of the morning!
 \q1 How you are cut down to the ground, you who conquered
 the nations!
 \q1
-\v 13 You had said in your heart, 'I will ascend into heaven, 
-\q1 I will exalt my throne above the stars of God, 
+\v 13 You had said in your heart, 'I will ascend into heaven,
+\q1 I will exalt my throne above the stars of God,
 \q1 and I will sit on the mount of assembly, in the far reaches of the north.
 \q1
 \v 14 I will ascend above the heights of the clouds; I will make myself like the Most High God.'
@@ -66,9 +65,12 @@ the nations!
 
 ===== translationNotes: =====
 
+  * **Connecting Statement:** - This is part of the taunt song that the Israelites will sing to the king of Babylon. 
 
-  * **How you are fallen from heaven, daystar, son of the morning** - This refers to the morningstar, the star that rises and indicates morning is coming soon. Isaiah refers to the king of Babylon in terms of this star in order to imply that the king once was great, but that God has destroyed him. AT: "You were like the morning star, but you have fallen from the sky" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **I will sit on the mount of assembly, in the far reaches of the north** - This passage is an allusion to the myth, very well known in parts of the Ancient Near East, that the Canaanite gods met in council on the top of a sacred mountain in the far north, which apparently had the name of Zaphon. This name appears in the verse, and some modern versions keep it: "far away on the sides of Zaphon."
+  * **How you are fallen from heaven, daystar, son of the morning** - The daystar is a bright star that rises just before morning. The people of Israel will refer to the king of Babylon in terms of this star in order to imply that he once was great, but now he was not. AT: "You were like the bright morning star, but you have fallen from the sky" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **How you are cut down to the ground** - The people of Israel will speak of the king of Babylon as if he were a tree that was cut down. AT: "You are defeated like a tree that someone has cut down to the ground" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **I will sit on the mount of assembly** - This alludes to the myth that many people in the Ancient Near East knew, that the Canaanite gods met in council on the top of a mountain in the northern part of Syria. Sitting on the mountain represents ruling with the gods. AT: "I will rule on the mountain where the gods assemble" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **in the far reaches of the north** - "in the most northern places."  The mountain in the north was apparently called Zaphon. Some modern versions say "far away on the sides of Zaphon."
  
  
  
@@ -77,14 +79,11 @@ the nations!
   * [[:en:bible:notes:isa:00:intro]]
   * [[:en:bible:notes:isa:14:00]]
   * [[:en:bible:questions:comprehension:isa:14]]
-
- 
-
 **[[:en:bible:notes:isa:14:10|<<]] | [[:en:bible:notes:isa:14:15|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

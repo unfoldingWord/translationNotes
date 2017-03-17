@@ -15,7 +15,6 @@
 
 <usfm>
 \v 61-62 Another group of 642 people from the clans of Delaiah, Tobiah, and Nekoda returned from the towns of Telmelah, Telharsha, Kerub, Addan, also known as Addon, and Immer in Babylonia. But they could not prove that they were descendants of Israel.
-\b
 \pi
 \v 63 Priests from the descendants of Hobaiah, Hakkoz, and Barzillai also returned. Barzillai had married a woman who is a descendant of a man named Barzillai from the region of Gilead, and he had taken his wife's family name.
 </usfm>
@@ -27,7 +26,7 @@
 \p
 \v 61 These were the people who went up from Tel Melah, Tel Charsha, Cherub, Addon, and Immer. But they could not prove that they or their ancestors' families were descendants from Israel:
 \v 62 the descendants of Delaiah, the descendants of Tobiah, and the descendants of Nekoda, 642.
-\v 63 And were from the priests: The descendants of Habaiah, Hakkoz, and Barzillai (who took his wife from the daughters of Barzillai of Gilead and was called by their name).
+\v 63 Those who were from the priests: the descendants of Habaiah, Hakkoz, and Barzillai (who took his wife from the daughters of Barzillai of Gilead and was called by their name).
 </usfm>
 
 
@@ -42,10 +41,11 @@
   * [[:en:obe:kt:name]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile.
+  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile. (See: [[:en:ta:vol2:translate:translate_numbers]])
 
-  * **Tel Melah ... Tel Charsha ... Cherub ... Addon ... Immer ... Israel** - These are place names. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Delaiah ... Tobiah ... Nekoda ... Habaiah ... Hakkoz ... Barzillai** - These are male names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **went up** - This is an idiom that refers to traveling toward Jerusalem, which was on higher ground than the surrounding area. AT: "returned" or "came back" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Tel Melah ... Tel Charsha ... Cherub ... Addon ... Immer** - These are names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Delaiah ... Tobiah ... Nekoda ... Habaiah ... Hakkoz ... Barzillai** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:neh:07]]
 **[[:en:bible:notes:neh:07:57|<<]] | [[:en:bible:notes:neh:07:64|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

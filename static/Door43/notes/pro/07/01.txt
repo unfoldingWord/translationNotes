@@ -21,16 +21,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 My son, hold on to the words I speak to you, 
-\q2 and store up in reserve all my orders.
+\v 1 My son, obey the words I say to you;
+\q2 remember all my orders.
 \q1
-\v 2 Obey my commands,
-\q2 and you will live.
-\q1 Consider my commands to be the most precious thing you possess. 
+\v 2 If you obey my commands, you will live.
+\q1 Consider my commands to be the most precious thing you possess, and obey them.
 \q1
-\v 3 Tie my commands to your fingers to remind you; 
-\q2 write them on a tablet, like Moses wrote the law, in your inner self. 
-
+\v 3 Write down my commands and tie them to your fingers to remind youreself of them;
+\q2 let it be as if you had written them in your inner self.
 
 \q1
 </usfm>
@@ -42,7 +40,7 @@
 \c 7
 \q
 \v 1 My son, keep my words
-\q and store up my commands within you.
+\q and store up my commands within yourself.
 \q
 \v 2 Keep my commands and live
 \q and keep my instruction as the apple of your eye.
@@ -61,11 +59,12 @@
 
 ===== translationNotes: =====
 
-  * **keep my words** - AT: "remember my words"
-  * **store up my commands within you** - "memorize my commands"
-  * **the apple of your eye** - "a treasure" or "something you cherish" (See: [[:en:ta:vol1:translate:figs_idiom]]).
-  * **my instruction** - AT: "what I have taught you" or "what I have commanded you"
-  * **write them on the tablet of your heart** - See how you translated this in [[:en:bible:notes:pro:03:03|3:3]].
+  * **keep my words** - Here keeping represents obeying. AT: "obey my words" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **store up my commands within yourself** - Here God's commands are spoken of as if they were objects that someone could put into a storeroom. AT: "memorize my commands" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **keep my instruction** - Here keeping represents obeying. AT: "obey my instructions" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **as the apple of your eye** - The apple of the eye is the pupil inside the eye, which people normally instinctively protect when an object flies at their face. Here "the apple of the eye" represents whatever a person values and protects the most. AT: "as your most valuable possession" (See: [[:en:ta:vol1:translate:figs_idiom]]).
+  * **Tie them on your fingers** - Possible meanings are 1) that the writer wanted his son to engrave certain commands from God on a ring and wear it, or 2) that the writer wanted his son to always remember God's commands, as if he always wore a certain ring. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **write them on the tablet of your heart** - Here the heart represents a person's mind, and remembering something well is spoken of as if the person were writing it on a stone tablet.  See how you translated this in [[:en:bible:notes:pro:03:03|3:3]]. AT: "remember my commands well as if you were writing them in stone"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 
  
@@ -82,6 +81,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

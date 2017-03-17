@@ -23,7 +23,7 @@
 \v 2 "Our enemies have afflicted us since our nation began,
 \q2 but they have not defeated us!
 \q1
-\v 3 Our enemies struck us with whips that cut into our backs 
+\v 3 Our enemies struck us with whips that cut into our backs
 \q as a farmer uses a plow to cuts deep furrows into the ground."
 
 
@@ -34,9 +34,8 @@
 
 <usfm>
 \c 129
-\p
+\m
 \d A song of ascents.
-\b
 \q
 \v 1 "Often since my youth they have attacked me,"
 \q let Israel say.
@@ -54,7 +53,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **song of ascents** - Possible meanings are 1) "song people sang while going up to Jerusalem for a celebration" or 2) "song people sang while going up the steps into the temple" or 3) "song whose words are like steps." See how you translated this in [[:en:bible:notes:psa:120:001|120:1]]
   * **The plowers plowed on my back** - The cuts from a whipping are spoken of as the plow of a plowman. A farmer plowed deep lines into a field. AT: "My enemies have cut me deeply on my back" (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -68,6 +67,6 @@
   * [[:en:bible:questions:comprehension:psa:129]]
 **[[:en:bible:notes:psa:128:003|<<]] | [[:en:bible:notes:psa:129:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 As the man continued walking toward the east, I saw that he had a measuring line in his hand. He measured off about 540 meters and then led me through water that covered my ankles.
+\v 3 As the man continued walking toward the east, I saw that he had a measuring line in his hand. He measured off 540 meters and then led me through water that covered my ankles.
 \v 4 Then he measured off another 540 meters and led me through water that was up to my knees. Then he measured off another 540 meters and led me through water that was up to my waist.
 \v 5 Then he measured off another 540 meters and led me through water that was now a river that I could not cross, because the water was so deep; to continue farther would have required me to swim.
 </usfm>
@@ -22,7 +22,7 @@
 \p
 \v 3 As the man was going toward the east, there was a measuring line in his hand; he measured off one thousand cubits and brought me through the water to ankle-deep water.
 \v 4 Then he measured one thousand cubits again and brought me through the water to knee-deep water; and he measured another thousand cubits and brought me to hip-deep water.
-\v 5 Next he measured off one thousand cubits farther, here it was a river that I was not able to pass, it was so deep. One could only swim it.
+\v 5 Next he measured off another thousand cubits, but it was a river that I could not cross through because the water had risen and was deep enough to swim in—it was a river that could not be crossed.
 </usfm>
 
 ===== translationWords: =====
@@ -30,6 +30,8 @@
 ===== translationNotes: =====
 
   * **measuring line** - a string or a rope that people use to measure longer distances
+  * **one thousand cubits** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "1,000 cubits" or "about 540 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **a river that could not be crossed** - This can be translated in active form. AT: "a river that no one could cross on foot" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -40,6 +42,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

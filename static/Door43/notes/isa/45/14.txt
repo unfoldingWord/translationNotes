@@ -35,7 +35,6 @@
 \q2 'God is with you
 \q1 and he is the only God;
 \q2 there is no other God.'"
-\b
 \q1
 \v 15 God, although we cannot see you,
 \q2 you are the one to whom we Israelite people belong, the one who saves us.
@@ -48,12 +47,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 14 This is what Yahweh says, 
-\q1 "The earnings of Egypt and the merchandise of Ethiopia with the Sabeans, men of tall stature, 
-\q1 will be brought to you. They will be yours. They will follow after you, coming in chains. 
-\q1 They will bow down to you and plead with you saying, 
+\v 14 This is what Yahweh says,
+\q1 "The earnings of Egypt and the merchandise of Ethiopia with the Sabeans, men of tall stature,
+\q1 will be brought to you. They will be yours. They will follow after you, coming in chains.
+\q1 They will bow down to you and plead with you saying,
 \q1 'Surely God is with you, and there is no other except him.'"
 \q1
 \v 15 Truly you are a God who hides yourself, God of Israel, Savior.
@@ -71,9 +69,12 @@
   * [[:en:obe:kt:savior]]
 
 ===== translationNotes: =====
-  * **The earnings of Egypt and the merchandise of Ethiopia with the Sabeans, men of tall stature, will be brought to you** - This can be stated in active form. AT: "The people of Egypt, Ethiopia, and the tall people of Seba, will bring to you their riches and treasures" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Sabean** - These are people from the nation of Seba. (See: [[:en:ta:vol1:translate:translate_names]])
+
+  * **The earnings of Egypt and the merchandise of Ethiopia with the Sabeans, men of tall stature, will be brought to you** - This can be stated in active form. AT: "The people of Egypt, Ethiopia, and the tall people of Seba, will bring to you their earnings and their merchandise" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The earnings of Egypt** - "The profits of Egypt"
+  * **Sabeans** - These are people from the nation of Seba. (See: [[:en:ta:vol1:translate:translate_names]])
   * **to you** - Here "you" refers to the people of Jerusalem. (See: [[:en:ta:vol1:translate:figs_youdual]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -87,6 +88,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

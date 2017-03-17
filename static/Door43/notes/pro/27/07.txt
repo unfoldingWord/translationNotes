@@ -19,7 +19,7 @@
 \v 7 When a person is walking along and he has a full stomach, he may step on a honeycomb because he is not hungry;
 \q2 but if he were very hungry, even bitter things would taste sweet to him.
 \q1
-\v 8 When a man wanders away from his home, 
+\v 8 When a man wanders away from his home,
 \q2 he is acting like a bird that stays far from its nest.
 
 
@@ -33,8 +33,8 @@
 \v 7 A person who has eaten to the full rejects even a honeycomb,
 \q but to the hungry person, every bitter thing is sweet.
 \q
-\v 8 A bird that wanders from its nest
-\q is like a man who strays from where he lives.
+\v 8 Like a bird that wanders from its nest 
+\q is a man who strays from where he lives.
 </usfm>
 
 ===== translationWords: =====
@@ -44,7 +44,10 @@
 
 ===== translationNotes: =====
 
-  * **rejects even a honeycomb** - A honeycomb is sweet to the taste, but anyone who has eaten well might still not want to eat it.
+  * **A person who has eaten to the full** - "A person who is satisfied" or "A person who has eaten enough to be full"
+  * **rejects even a honeycomb** - A honeycomb would normally be desirable, but not to the person who has already eaten enough to be satisfied.
+  * **every bitter thing is sweet** - "everything that is bitter tastes sweet"
+  * **Like a bird that wanders from its nest is a man who strays from where he lives** - The words "wanders" and "strays" mean the same thing in this verse. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -53,6 +56,6 @@
   * [[:en:bible:questions:comprehension:pro:27]]
 **[[:en:bible:notes:pro:27:05|<<]] | [[:en:bible:notes:pro:27:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

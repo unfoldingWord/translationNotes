@@ -37,7 +37,7 @@
 
 <usfm>
 \c 5
-\p
+\m
 \q
 \v 1 Call out now; is there anyone who will answer you?
 \q To which of the holy ones will you turn?
@@ -62,10 +62,12 @@
  
 ===== translationNotes: =====
 
-  * **To which of the holy ones will you turn?** - Eliphaz poses this question to make the point that no one Job can turn to for help. AT: "Is there a holy one to whom you may turn?" or "There is no holy one to whom you can turn for help." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **jealousy kills the silly one** - "jealousy kills the gullible one"
-  * **a foolish person taking root** - Here a foolish person is compared to a tree taking root, suggesting that the person grows in foolishness over time. "a foolish person becoming grounded in foolishness" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **but suddenly I cursed his home** - "but suddenly I cursed his dwelling place"
+  * **To which of the holy ones will you turn?** - Eliphaz poses this question to make the point that there is no one Job can turn to for help. AT: "Is there a holy one to whom you may turn?" or "There is no holy one to whom you can turn for help." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **holy ones** - This refers to supernatural beings of some kind, whether angels or other spirits.
+  * **jealousy kills the silly one** - "jealousy kills anyone who acts ignorantly and impulsively"
+  * **the silly one ... a foolish person** - This refers to any silly person and any foolish person. (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **a foolish person taking root** - Here a person is spoken of as if he were a plant, perhaps becoming more foolish over time. AT: "a foolish person becoming grounded in foolishness" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **his home** - This refers to the person's family and all his property.
  
 ===== Links: =====
 
@@ -74,6 +76,6 @@
   * [[:en:bible:questions:comprehension:job:05]]
 **[[:en:bible:notes:job:04:20|<<]] | [[:en:bible:notes:job:05:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

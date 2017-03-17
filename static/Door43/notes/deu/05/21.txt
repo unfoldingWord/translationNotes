@@ -37,9 +37,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Moses continues to speak to the people of Israel if they were one man, so all instances of "you" and "your" are singular. (See: [[:en:ta:vol1:translate:figs_you]]) 
+  * **General Information:** - Moses continues to speak to the people of Israel as if they were one man, so all instances of "you" and "your" are singular. (See: [[:en:ta:vol1:translate:figs_you]]) 
 
-  * **You will not** - "Never"
+  * **You will not** - Translate this as it is in [[:en:bible:notes:deu:05:09|5:09]].
 
  
 ===== Links: =====
@@ -55,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

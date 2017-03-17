@@ -14,9 +14,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 They stated that the letter was from Rehum, Shimshai, and their associates, the judges, and other government officials, who 
+\v 9 They stated that the letter was from Rehum, Shimshai, and their associates, the judges, and other government officials, who
 were from Erech, Babylon, and Susa in the district of Elam.
-\v 10 They also wrote that they represented the other people groups whom the army of the great and glorious Ashurbanipal had deported and sent to live in Samaria and in other cities in the 
+\v 10 They also wrote that they represented the other people groups whom the army of the great and glorious Ashurbanipal had deported and sent to live in Samaria and in other cities in the
 province west of the Euphrates River.
 
 
@@ -40,9 +40,10 @@ province west of the Euphrates River.
 
 ===== translationNotes: =====
 
-  * **Erech ... Susa ... Elam** - These are names of places. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Ashurbanipal** - This is a name of a person. (See: [[:en:ta:vol1:translate:translate_names]])
- 
+  * **Erech ... Susa** - names of cities (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Elam** - name of a large region of land (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ashurbanipal** - This is a name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the Province Beyond the River** - This is the name of the province that was west of the Euphrates River. It was across the river from the city of Susa. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -50,6 +51,6 @@ province west of the Euphrates River.
   * [[:en:bible:questions:comprehension:ezr:04]]
 **[[:en:bible:notes:ezr:04:07|<<]] | [[:en:bible:notes:ezr:04:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -60,12 +60,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues speaking.
+  * **Connecting Statement:** - Job continues speaking.
 
-  * **like wild donkeys** - This compares poor people to donkeys who go out to graze but do not know where they will find food. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **wild donkeys** - "untrained donkeys" or "donkeys that no one owns"
-  * **Poor people reap in the night ... they glean grapes** - These two lines describe the same thing and are used together to describe how hungry these people are. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **They lie naked ... they have no covering** - These two lines describe the same thing and are used together to describe how vulerable these people are. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **these poor people go out to their work like wild donkeys in the wilderness, looking carefully for food** - These poor people are spoken of as if they are wild donkeys who do not know where they will find food. AT: "these poor people go out to search for food as if they were wild donkeys in the wilderness" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **wild donkeys** - "donkeys that no one owns or cares for"
+  * **Poor people reap in the night ... they glean grapes** - These two lines describe the same thing and are used together to emphasize that these people are so hungry that they are forced to steal food at night. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **They lie naked ... they have no covering** - These two lines describe the same thing and are used together to emphasize that these people do not have enough clothing to keep warm. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 
 ===== Links: =====
@@ -75,6 +75,6 @@
   * [[:en:bible:questions:comprehension:job:24]]
 **[[:en:bible:notes:job:24:02|<<]] | [[:en:bible:notes:job:24:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit arabah glean}}
+~~DISCUSSION~~{{tag>publish p2check arabah glean}}
 
 ~~NOCACHE~~

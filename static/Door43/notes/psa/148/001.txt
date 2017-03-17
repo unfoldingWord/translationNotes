@@ -17,7 +17,6 @@
 
 <usfm>
 \v 1 Praise Yahweh!
-\b
 \q1 Praise him, you angels who are in the heavens;
 \q2 praise him, you angels up in the sky!
 \q1
@@ -32,7 +31,7 @@
 
 <usfm>
 \c 148
-\p
+\m
 \q
 \v 1 Praise Yahweh.
 \q Praise Yahweh, you in the heavens;
@@ -51,7 +50,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **Praise Yahweh, you in the heavens ... you in the heights** - "Praise Yahweh, you in the heavens ... you in the sky." These two lines are parallel, with phrase "the heights" meaning the same thing as "the heavens" in the previous line. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:148]]
 **[[:en:bible:notes:psa:147:019|<<]] | [[:en:bible:notes:psa:148:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

@@ -15,11 +15,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 You fill me up and you meet every need I have. 
-\q2 My response to you is much like when I eat a delicious banquet of rich foods 
+\v 5 You fill me up and you meet every need I have.
+\q2 My response to you is much like when I eat a delicious banquet of rich foods
 \q2 and the food fills me.
 \q2 I will have great happiness when I praise you with the words that I speak about you.
-\b
 \q1
 \v 6 While I lie on my bed, I think about you.
 \q1 I think about you all during the night.
@@ -46,7 +45,7 @@
 ===== translationNotes: =====
 
   * **It will be as if I ate a meal of marrow and fatness** - Here the writer speaks of knowing and worshiping God as being more satisfying than eating a good meal. AT: "I will be happier than a person who eats a meal of fat and choice food" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **with joyful lips my mouth will praise you** - Here "with joyfully lips my mouth" represents the whole person who will praise God joyfully. AT: "I will praise you joyfully" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **with joyful lips my mouth will praise you** - Here "with joyful lips my mouth" represents the whole person who will praise God joyfully. AT: "I will praise you joyfully" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **when I think about you on my bed ... in the night hours** - These two clauses have the same meaning. The ideas are repeated to emphasize how much the writer thinks about God. (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
  
 ===== Links: =====
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:psa:063]]
 **[[:en:bible:notes:psa:063:003|<<]] | [[:en:bible:notes:psa:063:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

@@ -28,7 +28,7 @@
 
 ===== translationNotes: =====
 
-  * **So Naomi and Ruth** - This is a summary statement. English marks this by the word "so." Determine how your language marks concluding or summary statements and do the same. (See: [[:en:ta:vol2:translate:writing_endofstory]])
+  * **So Naomi and Ruth** - This begins a summary statement. English marks this by the word "so." Determine how your language marks concluding or summary statements and do the same. (See: [[:en:ta:vol2:translate:writing_endofstory]])
   * **at the beginning of the barley harvest** - "when the farmers were just beginning to harvest their barley crop" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
@@ -37,4 +37,4 @@
   * [[:en:bible:questions:comprehension:rut:01]]
 **[[:en:bible:notes:rut:01:19|<<]] | [[:en:bible:notes:rut:02:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check grain moab harvest}}
+~~DISCUSSION~~{{tag>publish p2pass grain moab harvest}}

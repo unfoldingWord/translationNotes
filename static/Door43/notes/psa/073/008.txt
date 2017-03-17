@@ -29,10 +29,10 @@
 <usfm>
 \q
 \v 8 They mock and speak wickedly;
-\q they speak loftily of oppression. 
+\q in their arrogance they threaten oppression.
 \q
 \v 9 They set their mouth against the heavens,
-\q and their tongues roam through the earth.
+\q and their tongues march through the earth.
 </usfm>
 
 ===== translationWords: =====
@@ -49,11 +49,9 @@
 
 
   * **They mock** - Whom they mock can be stated clearly. AT: "They mock God and his people" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **speak wickedly; they speak loftily of oppression** - Some translations read, "speak wickedly of oppression; they speak loftily."
-  * **loftily** - proudly, as if they are important people speaking from a high place to unimportant people below them
-  * **They set their mouth against the heavens** - The word "heavens" here is a metonym for God, who lives in the heavens. AT: "They speak against God, who is in the heavens" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They set their mouth against the heavens** - Here the word "heavens" is a metonym for God, who lives in the heavens. AT: "They speak against God, who is in the heavens" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **set their mouth** - "speak strongly" or "speak with purpose" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **their tongues roam through the earth** - The word "tongues" is a metonym for the people themselves. Possible meanings are 1) "they go through the earth saying bad things about God" or "they go everywhere and boast about themselves."  (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **their tongues march through the earth** - The word "tongues" is a metonym for the people themselves. Possible meanings are 1) "they go through the earth saying bad things about God" or "they go everywhere and boast about themselves."  (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -62,6 +60,6 @@
   * [[:en:bible:questions:comprehension:psa:073]]
 **[[:en:bible:notes:psa:073:006|<<]] | [[:en:bible:notes:psa:073:010|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~
