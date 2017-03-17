@@ -6,14 +6,13 @@ const HTMLScraper = require('./parsers/HTMLscraper');
 const Parser = require('./parsers/tNParser.js');
 const Door43DataFetcher = require('./parsers/Door43DataFetcher.js');
 
-const DataFetcher = function (params, progress, callback, addNewBible, addNewResource) {
+const DataFetcher = function (params, progress, callback) {
   /**
   * @description This fetches the data for translationHelps (TranslationAcademy
   * specifically)
   *******************************************************************************/
   var sectionList = require('./static/SectionList.json');
   var tASectionList = sectionList.sectionList;
-  addNewResource('translationNotes', tASectionList);
   api.putDataInCheckStore('TranslationHelps', 'sectionList', tASectionList);
   var ulb;
   var phraseData;
@@ -39,7 +38,6 @@ const DataFetcher = function (params, progress, callback, addNewBible, addNewRes
         }
         //assign gatewayLanguage into CheckStore
         newStructure.title = api.convertToFullBookName(params.bookAbbr);
-        addNewBible('ULB', newStructure);
         api.putDataInCommon('gatewayLanguage', newStructure);
       }
   chapterData = DoorDataFetcher.getTNFromBook(book, params.bookAbbr);
