@@ -29,7 +29,7 @@
 
 <usfm>
 \q
-\v 13 By his breath, he cleared the heavens of storms; the heavens were cleared of storms;
+\v 13 By his breath he made the skies clear; 
 \q his hand pierced the fleeing serpent.
 \q
 \v 14 See, these are but the fringes of his ways;
@@ -47,11 +47,14 @@
  
 ===== translationNotes: =====
 
-  * **By his breath, he cleared** - AT: God breathed and cleared" 
-  * **he cleared the heavens of storms; the heavens were cleared of storms** - These two phrases have the same meaning and are used together for emphasis. AT: "he cleared the heavens of storms" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **fleeing** - trying to escape
-  * **See, these are** - The word "these" refers to the powerful things that God has done.
-  * **Who can understand the thunder of his power** - AT: "No one can understand the greatness of his power!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **By his breath he made the skies clear** - The abstract noun "breath" can be translated with the verb "breathe" or "blow." This image represents God causing the wind to blow away the clouds. AT: "By breathing, God made the skies clear" or "God blew away the clouds so that the skies were clear" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **his hand pierced the fleeing serpent** - Here "his hand" represents God's sword and "pierced" represents killing. AT: "With his sword he pierced the fleeing serpent" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the fleeing serpent** - "the serpent as it was trying to escape from him." This refers to Rahab, the monster in the sea. See [[:en:bible:notes:job:26:11|26:12]].
+  * **See, these are but the fringes of his ways** - Here "fringes" represents a small part that we can see of something that is much bigger. AT: "See, these things that God has done show only a small part of his great power" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **how small a whisper do we hear of him!** - This is an exclamation that expresses Job's amazement of all the great things that Job does that we do not even know about. AT: "We hear only his quiet whisper" (See: [[:en:ta:vol2:translate:figs_exclamations]])
+  * **how small a whisper do we hear of him** - Seeing what God does is spoken of as hearing God's voice. Hearing a small whisper of him represents seeing only a little of the great things he does. AT: "It is like hearing only a whisper of his powerful voice" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Who can understand the thunder of his power?** - The "thunder of his power" represents the greatness of all that God does. Job uses this question to emphasize that God's power is so great that no one can understand it. AT: "No one can understand the greatness of his power!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -59,6 +62,6 @@
   * [[:en:bible:questions:comprehension:job:26]]
 **[[:en:bible:notes:job:26:11|<<]] | [[:en:bible:notes:job:27:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

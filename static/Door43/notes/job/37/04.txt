@@ -61,8 +61,10 @@
 ===== translationNotes: =====
 
   * **A voice roars after it ... the voice of his majesty** - Elihu continues to speak of the thunder as if it is God's voice. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **roars after it** - Here the word "it" refers to the lightning.
-  * **when his voice is heard** - "when people hear his voice" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **roars after it** - "roars after the lightning"
+  * **the voice of his majesty** - "his majestic voice"
+  * **when his voice is heard** - This can be stated in active form. AT: "when people hear his voice" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **likewise to the rain shower** - The verb may be supplied from the previous phrase. AT: "likewise, he says to the rain shower" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 
 ===== Links: =====
 
@@ -71,6 +73,6 @@
   * [[:en:bible:questions:comprehension:job:37]]
 **[[:en:bible:notes:job:37:01|<<]] | [[:en:bible:notes:job:37:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit snow}}
+~~DISCUSSION~~{{tag>publish p2check snow}}
 
 ~~NOCACHE~~

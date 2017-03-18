@@ -12,9 +12,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 Then God motivated some of the priests and Levites and some of the leaders of the tribes that were descended from Judah and Benjamin to return to Jerusalem. Those whom God motivated 
+\v 5 Then God motivated some of the priests and Levites and some of the leaders of the tribes that were descended from Judah and Benjamin to return to Jerusalem. Those whom God motivated
 got ready to return to Jerusalem and build the temple for him there.
-\v 6 All of their neighbors helped them by giving them silver and golden things, and supplies for the journey, and livestock. They also gave them other valuable gifts, and 
+\v 6 All of their neighbors helped them by giving them silver and golden things, and supplies for the journey, and livestock. They also gave them other valuable gifts, and
 also gave them money to buy things for building the temple.
 </usfm>
 
@@ -23,7 +23,7 @@ also gave them money to buy things for building the temple.
 
 <usfm>
 \p
-\v 5 Then the heads of the ancestors' clans of Judah and Benjamin, the priests and Levites, and everyone whose spirit God roused to go and build his house arose.
+\v 5 Then the heads of the ancestors' clans of Judah and Benjamin, the priests and Levites, and everyone whose spirit God stirred to go and build his house arose.
 \v 6 Those around them supported their work with silver and gold objects, possessions, animals, valuables, and freewill offerings.
 </usfm>
 
@@ -41,8 +41,8 @@ also gave them money to buy things for building the temple.
 
 ===== translationNotes: =====
 
-  * **their work** - This refers to the work of the people in the previous verse roused by God.
-  * **everyone whose spirit God roused to go** - God put the desire to go back to Israel in the hearts of people to build his house.
+  * **their work** - This refers to the work of the people roused by God in the previous verse.
+  * **everyone whose spirit God stirred to go** - Stirring the spirit is a metonym for making someone want to act. Similar words appear in [[:en:bible:notes:ezr:01:01|1:1]]. AT: "everyone whom God had made want to go" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -53,6 +53,6 @@ also gave them money to buy things for building the temple.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

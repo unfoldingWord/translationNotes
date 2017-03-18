@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 When King Zedekiah and all his soldiers realized that the army of Babylonia had broken into the city, they fled. They waited until it was dark. Then they went out of the city through the king's garden, through the gate that was between the two walls. Then they started running toward the plain along the Jordan. 
+\v 4 When King Zedekiah and all his soldiers realized that the army of Babylonia had broken into the city, they fled. They waited until it was dark. Then they went out of the city through the king's garden, through the gate that was between the two walls. Then they started running toward the plain along the Jordan.
 \p
 \v 5 But the soldiers from Babylonia pursued the king, and they caught him on the plains near Jericho. They took him to the king of Babylon, who was at Riblah in the Hamath. There Nebuchadnezzar told his soldiers what they should do to punish Zedekiah.
 </usfm>
@@ -39,8 +39,8 @@
 
   * **They went out at night from the city by the king's garden path** - "They left the city at night going out on a path in the king's garden"
   * **the plains of the Jordan River valley** - This is the flat land at the southern end of the valley.
-  * **at Riblah in the land of Hamath** - Riblah was a town in the territory of Hamath. They are in Syria. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **pursued them and overtook** - "followed and caught"
+  * **at Riblah in the land of Hamath** - Riblah was a town in the territory of Hamath, which is in Syria. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **pursued them and overtook** - "followed them and caught"
   * **passed sentence on him** - "decided how to punish him"
  
  
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:jer:39]]
 **[[:en:bible:notes:jer:39:01|<<]] | [[:en:bible:notes:jer:39:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -36,10 +36,10 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - David and the army of Israel go to Jerusalem. 
+  * **General Information:** - David and the army of Israel attack Jerusalem. 
 
-  * **You will not come here except to be turned away by the blind and the lame** - This can be stated in a positive form. AT: "If you come here, even the blind and the lame will be able to turn you away" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **the blind and the lame** - those people who cannot see or walk
+  * **You will not come here except to be turned away by the blind and the lame** - This can be stated in a positive form. AT: "If you come here, even the blind and the lame will be able to turn you away"
+  * **the blind and the lame** - Here "the blind" and "the lame" are nominal adjectives. AT: "those people who cannot see and those who cannot walk" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:2sa:05]]
 **[[:en:bible:notes:2sa:05:03|<<]] | [[:en:bible:notes:2sa:05:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit cityofdavid}}
+~~DISCUSSION~~{{tag>publish p2pass cityofdavid}}
 
 ~~NOCACHE~~

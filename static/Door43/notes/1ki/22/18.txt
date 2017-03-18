@@ -25,7 +25,7 @@
 <usfm>
 \v 18 So the king of Israel said to Jehoshaphat, "Did I not tell you that he would not prophesy good concerning me, but only disaster?"
 \v 19 Then Micaiah said, "Therefore hear the word of Yahweh: I saw Yahweh sitting on his throne, and all the host of heaven were standing by him on his right hand and on his left.
-\v 20 Yahweh said, 'Who will entice Ahab, so that he may go up and fall at Ramoth Gilead?' And one individual answered in this way, and another answered in that way.
+\v 20 Yahweh said, 'Who will entice Ahab, so that he may go up and fall at Ramoth Gilead?' One of them said this and another one said that.
 </usfm>
 
 ===== translationWords: =====
@@ -42,10 +42,9 @@
 
 ===== translationNotes: =====
 
-  * **Did I not tell you ... but only disaster?** - Ahab asks this question to emphasize that he had told the truth about Micaiah. AT: "I told you ... but only disaster." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **fall at Ramoth Gilead** - AT: "die at Ramoth Gilead" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **one individual ... another** - These refer to members of "all the host of heaven."
-
+  * **Did I not tell you ... but only disaster?** - Ahab asks this question to emphasize that he had spoken the truth about Micaiah. AT: "I told you ... but only disaster!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **fall at Ramoth Gilead** - Ahab dying in battle is spoken of as if he will fall. AT: "die at Ramoth Gilead" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_euphemism]])
+  * **One of them said ... and another one said** - "One ... and another" refers to two or more angels in the heavenly host who were responding to Yahweh's question in the previous verse. 
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -53,6 +52,6 @@
   * [[:en:bible:questions:comprehension:1ki:22]]
 **[[:en:bible:notes:1ki:22:16|<<]] | [[:en:bible:notes:1ki:22:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

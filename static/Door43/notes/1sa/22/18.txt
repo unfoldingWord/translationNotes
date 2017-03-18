@@ -41,11 +41,11 @@
   * [[:en:obe:other:donkey]]
   * [[:en:obe:other:sheep]]
  
-x
+
 ===== translationNotes: =====
 
-  * **turn and kill the priests ... turned and attacked** - Possible meanings are 1) "surround the priests and kill them ... surrounded the priests and attacked them" or 2) "surround the priests and kill them ... surrounded and attacked." Translate as in [[:en:bible:notes:1sa:22:16|22:17]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Doeg turned and attacked ... he killed ... he attacked ... He killed** - The word "Doeg" is probably a synecdoche for Doeg and the men who went with him. AT: "Doeg and his men turned and attacked ... they killed ... they attacked ... They killed" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Turn and kill the priests ... turned and attacked the priests** - Here "Turn" means to turn around or turn away from the king. Translate as in [[:en:bible:notes:1sa:22:16|22:17]]. AT: "Go and kill the priests ... went and attacked" or "Kill the priest ... attacked the priests" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Doeg the Edomite turned and attacked ... he killed ... he attacked ... He killed** - Possible meanings are 1) Doeg killed all the priests himself or 2) the word "Doeg" is a synecdoche for Doeg and the men who went with him. AT: "Doeg and his men turned and attacked ... they killed ... they attacked ... They killed" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_synecdoche]])
   * **eighty-five persons** - "85 people" or "85 priests" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **With the edge of the sword** - "With a sword" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **he attacked Nob** - Here "attacked" means killed. AT: "he killed many people in the city of Nob" (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -61,6 +61,6 @@ x
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check p2example}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

@@ -34,7 +34,7 @@
 <usfm>
 \q
 \v 7 Wicked people are overthrown and they are gone,
-\q but the house of those who do right will stand.
+\q but the house of the righteous person will stand.
 \q
 \v 8 A person is praised by how much wisdom he has,
 \q but the one who makes perverse choices is despised.
@@ -50,10 +50,10 @@
 ===== translationNotes: =====
 
 
-  * **Wicked people are overthrown** - "People will overthrow the wicked people" or "People will remove the wicked people from power" (See [[:en:ta:vol2:translate:figs_activepassive]])
-  * **house** - The term "house" is often used figuratively in the Bible to refer to a person's ancestors, descendants or other relatives. AT: "family" or "descendents." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **A person is praised by how much wisdom he has** - "People will praise those who have wisdom" (See [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the one who makes perverse choices is despised** - "people will hate the one who always thinks evil thoughts" or "people will hate the one who takes good things and twists them into bad" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Wicked people are overthrown** - This can be stated in active form. AT: "People will overthrow the wicked people" or "People will remove the wicked people from power" (See [[:en:ta:vol2:translate:figs_activepassive]])
+  * **house** - The term "house" is often used figuratively in the Bible to refer to a person's ancestors, descendants or other relatives. AT: "family" or "descendants" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **A person is praised by how much wisdom he has** - This can be stated in active form. AT: "People will praise those who have wisdom" (See [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the one who makes perverse choices is despised** - This can be stated in active form. AT: "people will hate the one who always thinks evil thoughts" or "people will hate the one who takes good things and twists them into bad" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
  
 ===== Links: =====
@@ -69,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

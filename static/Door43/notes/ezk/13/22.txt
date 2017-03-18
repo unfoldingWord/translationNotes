@@ -18,7 +18,7 @@
 
 <usfm>
 \v 22 Because you discourage the heart of the righteous person with lies, even though I did not desire his discouragement, and because you encourage instead the actions of the wicked person so that he will not turn from his way to save his life—
-\v 23 therefore you will no longer have false visions or continue to make predictions, for I will rescue my people out of your hand. And you will know that I am Yahweh.'"
+\v 23 therefore you will no longer have false visions or continue to make predictions, for I will rescue my people out of your hand. You will know that I am Yahweh.'"
 </usfm>
 
 ===== translationWords: =====
@@ -30,11 +30,11 @@
 
 ===== translationNotes: =====
 
-  * **discourage the heart of the righteous person** - The righteous person's heart is used to refer to their emotions. AT: "discourage the righteous person" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **turn from his way** - To stop doing something is referred to as turning in a different direction. AT: "stop what he is doing" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **discourage the heart of the righteous person** - Here the word "heart" represents the person and his emotions. AT: "discourage the righteous person" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **turn from his way** - To stop doing something is referred to as turning in a different direction. AT: "stop what he is doing" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **have false visions or continue to make predictions** - Both of these phrases refer to talking about what will happen in the future. AT: "continue to make false predictions" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **out of your hand** - The word "hand" is used to refer to the control of the prophetess. AT: "out of your control" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **know that I am Yahweh** - Possible meanings are 1) "understand who I, Yahweh, am" or 2) "understand that I am Yahweh, the one true God" or 3) "know that I, Yahweh, have the power to do what I say that I will do" (UDB)
+  * **I will rescue my people out of your hand** - Here the word "hand" represents power or control. See how you translated a similar phrase in [[:en:bible:notes:ezk:13:20|13:21]]. AT: "I will rescue my people from your power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -42,6 +42,6 @@
   * [[:en:bible:questions:comprehension:ezk:13]]
 **[[:en:bible:notes:ezk:13:20|<<]] | [[:en:bible:notes:ezk:14:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

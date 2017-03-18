@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 Their descendants have stubborn faces and hard hearts. I am sending you to them. And you will say to them, 'This is what the Lord Yahweh says.'
+\v 4 Their descendants have stubborn faces and hard hearts. I am sending you to them, and you will say to them, 'This is what the Lord Yahweh says.'
 \v 5 Either they will listen or they will not listen. They are a rebellious house, but they will at least know that a prophet has been among them.
 </usfm>
 
@@ -34,12 +34,13 @@
 
   * **General Information:** - God continues to speak to Ezekiel.
 
-  * **Their descendants** - The word "their" refers to the past generations of Israel who had rebelled against God. The word "descendants" refers to current generation of people living in Israel.
-  * **stubborn faces and hard hearts** - These two phrases mean basically the same thing and emphasize how stubborn the people of Israel were because they would not change how they lived in order to obey God. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **have stubborn faces** - "have expression on their faces that show that they are stubborn" or "are stubborn" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Their descendants** - The descendants of the past generations of Israel who had rebelled against God, referring to the people living in Israel at the time Ezekiel writes.
+  * **stubborn faces and hard hearts** - The words "stubborn faces" refers to the way they act on the outside, and the words "heard hearts" refers to the way they think and feel. Together they emphasize that the people of Israel would not change how they lived in order to obey God. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **have stubborn faces** - "have expression on their faces that show that they are stubborn"
   * **stubborn** - "unwilling to change"
-  * **hard hearts** - This phrase suggests that the people resist God and are unwilling to obey him. The heart is used to describe the place in the body where a person decides what they want to do. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **They are a rebellious house** - "They are a people who disobey God"
+  * **hard hearts** - Rocks never change and become soft, and these people never change and become sorry when they do evil things. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **house** - This is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. AT: "people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a prophet has been among them** - "the one whom they have refused to listen to was a prophet"
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -49,6 +50,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

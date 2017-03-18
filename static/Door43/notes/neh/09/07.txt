@@ -44,16 +44,15 @@
   * [[:en:obe:other:jebusites]]
   * [[:en:obe:kt:promise]]
   * [[:en:obe:kt:righteous]]
+
 ===== translationNotes: =====
 
-  * **General Information:** - The Levites continue their prayer before all the people.
+  * **Connecting Statement:** - The Levites continue their prayer before all the people.
 
-  * **brought him out of Ur of the Chaldees** - The implied information is that God brought Abram to the Promised Land, later named Israel. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **gave him the name Abraham** - As part of his covenant with Abram, God gave him a new identity. Here the meaning of the names Abram and Abraham is important. AT: "changed his name to Abraham." (See: [[:en:ta:vol1:translate:translate_names]])
-  * **You found his heart was faithful** - Here "his heart" (part of a person) represents Abraham as a person. AT: "You saw that he was faithful." (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **before you** - "in your sight" or "in your presence"
-  * **the Canaanites, the Hittites, the Amorites, the Perizzites, the Jebusites, and the Girgashites** - These are people groups who are descended from the same ancestor and share a common language and culture. (See: [[:en:obe:other:peoplegroup]])
-  * **You have kept your promise** - "Your words are righteous"
+  * **Ur of the Chaldees** - "Ur, where the Chaldean people group lived"
+  * **You found his heart was faithful before you** - The heart, the inner being of the person, represents the person. AT: "You saw that he was completely faithful to you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Canaanites ... Hittites ... Amorites ... Perizzites ... Jebusites ... Girgashites** - people group names (See: [[:en:ta:vol1:translate:translate_names]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -61,6 +60,6 @@
   * [[:en:bible:questions:comprehension:neh:09]]
 **[[:en:bible:notes:neh:09:05|<<]] | [[:en:bible:notes:neh:09:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit hittite}}
+~~DISCUSSION~~{{tag>publish p2pass hittite}}
 
 ~~NOCACHE~~

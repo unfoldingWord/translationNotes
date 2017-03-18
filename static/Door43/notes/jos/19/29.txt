@@ -31,13 +31,10 @@
 
   * [[:en:obe:other:ramah]]
   * [[:en:obe:other:tyre]]
- 
 
 ===== translationNotes: =====
 
-  * **Hosah ... Achzib ... Ummah ... Aphek ... Rehob** - names of places (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the sea** - This refers to the Mediterranean Sea. (See: [[:en:obe:other:mediterranean]])
-  * **twenty-two cities** - number of cities in the continuing list (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Hosah ... Achzib ... Ummah ... Aphek ... Rehob** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -52,6 +49,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

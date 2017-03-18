@@ -12,7 +12,7 @@
 
 <usfm>
 \v 32 But I hope that Yahweh will punish Joab for attacking and killing Abner, the commander of the army of Israel, and Amasa, the commander of the army of Judah, two men who were more righteous and better men than he is. My father David did not even know that Joab was planning to murder them.
-\v 33 I hope that Yahweh will punish Joab and his descendants forever for his murdering Abner and Amasa. But I hope that things will go well foreverfor David's descendants who rule as he did."
+\v 33 I hope that Yahweh will punish Joab and his descendants forever for his murdering Abner and Amasa. But I hope that things will go well forever for David's descendants who rule as he did."
 
 
 \p
@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 32 May Yahweh return his blood on his own head, because he attacked two men more righteous and better than himself and killed them with the sword, Abner son of Ner, the captain of the army of Israel, and Amasa son of Jether, the captain of the army of Judah, without my father David knowing it. 
+\v 32 May Yahweh return his blood on his own head, because he attacked two men more righteous and better than himself and killed them with the sword, Abner son of Ner, the captain of the army of Israel, and Amasa son of Jether, the captain of the army of Judah, without my father David knowing it.
 \v 33 So may their blood return on the head of Joab and on the head of his descendants forever. But to David and his descendants, and to his house, and to his throne, may there be peace forever from Yahweh."
 </usfm>
 
@@ -43,10 +43,11 @@
 
   * **General Information:** - King Solomon explains why Joab should die.
 
-  * **May Yahweh return his blood on his own head** - The word "his" refers to Joab. "Blood" refers to guilt. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **May Yahweh return his blood on his own head** - The word "his" refers to Joab. "Blood" is a metonym for murder. And, the idiom "blood return on the head of" means the person should be considered guilty for murder. AT: "Joab has murdered people, and I want Yahweh to hold him guilty for what he has done" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
   * **more righteous and better** - These words mean basically the same thing and emphasize that Abner and Amasa were much better men than Joab. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **on the head of Joab and on the head of his descendants** - This is using "head" to describe the whole person. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **and to his house, and to his throne** - Here "house" and "throne" represent David's "descendants" and David's "rule." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **may their blood return on the head of Joab and on the head of his descendants** - The word "blood" is a metonym for murder. And, the idiom "blood return on the head of" means the person should be considered guilty for murder. AT: "I want Yahweh to hold Joab and his descendants guilty" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **to his house, and to his throne** - The words "house" and "throne" are metonyms for the family and the kingdom. AT: "to David's descendants and to David's kingdom" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -54,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1ki:02]]
 **[[:en:bible:notes:1ki:02:30|<<]] | [[:en:bible:notes:1ki:02:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit abner forever}}
+~~DISCUSSION~~{{tag>publish p2pass p2example abner forever}}
 
 ~~NOCACHE~~

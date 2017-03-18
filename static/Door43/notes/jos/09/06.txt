@@ -44,17 +44,15 @@ But Joshua answered, "Who are you? Where do you actually come from?"
   * [[:en:obe:other:joshua]]
   * [[:en:obe:other:gilgal]]
   * [[:en:obe:other:israel]]
+  * [[:en:obe:kt:covenant]]
   * [[:en:obe:other:hivite]]
   * [[:en:obe:other:servant]]
  
-
 ===== translationNotes: =====
 
-  * **General Information:** - The Gibeonites try to fool the nation of Israel.
-
   * **men of Israel** - This refers to the entire nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the Hivites** - These are also the Gibeonites.
-  * **Perhaps you live near us. How can we make a treaty with you?** - Joshua is emphasizing that the people of Israel have to follow the command of Yahweh above all else. AT: "If you do live near us, we cannot make a treaty with you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the Hivites** - This is another name for the Gibeonites. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Perhaps you live near us. How can we make a covenant with you?** - Joshua is emphasizing that the people of Israel have to follow the command of Yahweh above all else. AT: "If you do live near us, we cannot make a covenant with you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -68,6 +66,6 @@ But Joshua answered, "Who are you? Where do you actually come from?"
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

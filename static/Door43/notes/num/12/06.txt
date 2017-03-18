@@ -43,14 +43,14 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 Yahweh said, "Now listen to my words. 
-\q When a prophet of mine is with you, 
-\q2 I will reveal myself to him in visions 
+\v 6 Yahweh said, "Now listen to my words.
+\q When a prophet of mine is with you,
+\q2 I will reveal myself to him in visions
 \q2 and speak to him in dreams.
-\v 7 My servant Moses is not like that. 
+\v 7 My servant Moses is not like that.
 \q He is faithful in all my house.
-\v 8 I speak to Moses directly, not with visions or riddles. 
-\q He sees my form. 
+\v 8 I speak to Moses directly, not with visions or riddles.
+\q He sees my form.
 \q So why are you unafraid to speak against my servant, against Moses?"
 </usfm>
 
@@ -78,6 +78,6 @@
   * [[:en:bible:questions:comprehension:num:12]]
 **[[:en:bible:notes:num:12:04|<<]] | [[:en:bible:notes:num:12:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check faithful}}
+~~DISCUSSION~~{{tag>publish p2pass faithful}}
 
 ~~NOCACHE~~

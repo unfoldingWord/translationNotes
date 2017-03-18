@@ -32,7 +32,7 @@
 
 <usfm>
 \p
-\v 48 Solomon made all the furnishings that were in the temple of Yahweh out of gold: the golden altar and the table on which the bread of the presence was to be placed. 
+\v 48 Solomon made all the furnishings that were in the temple of Yahweh out of gold: the golden altar and the table on which the bread of the presence was to be placed.
 \v 49 The lampstands, five on the right side and five on the left, in front of the inner room, were of pure gold, and the flowers, the lamps, and the tongs were of gold.
 </usfm>
 
@@ -49,7 +49,7 @@
 
 ===== translationNotes: =====
 
-  * **Solomon made** - AT: "Solomon's workers made" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Solomon made** - It might be best to translate so that the reader understands that other people helped Solomon do this. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **on which the bread of the presence was to be placed** - This can be stated in active form. AT: "on which the priests were to place the bread of the presence" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the flowers, the lamps** - The "flowers" and "lamps" were part of the lampstands.
 
@@ -60,6 +60,6 @@
   * [[:en:bible:questions:comprehension:1ki:07]]
 **[[:en:bible:notes:1ki:07:46|<<]] | [[:en:bible:notes:1ki:07:50|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

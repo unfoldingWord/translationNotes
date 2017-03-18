@@ -30,13 +30,14 @@
 ===== translationNotes: =====
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to the leaders of Israel.
+  * **General Information:** - Yahweh continues speaking of the people of Israel as if they were a flock of sheep and the leaders of Israel were the shepherds that were supposed to care for the flock but have not. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
-  * **the declaration of Yahweh** - See how you translated "This is the Lord Yahweh's declaration" in [[:en:bible:notes:ezk:05:11|5:11]].
-  * **As I live** - See how you translated this in [[:en:bible:notes:ezk:05:11|5:11]].
-  * **this is the Lord Yahweh's declaration** - See how you translated this in [[:en:bible:notes:ezk:05:11|5:11]].
+  * **hear the declaration of Yahweh** - "hear what Yahweh declares." This can be stated in first person. AT: "hear what I, Yahweh, say" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **As I live** - "As surely as I am alive." Yahweh uses this expression to show that what he says next is certainly true. This is a way of making a solemn promise. Translate as in [[:en:bible:notes:ezk:05:11|5:11]]. AT: "I solemnly swear" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **this is the Lord Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:ezk:05:11|5:11]]. AT: "this is what the Lord Yahweh has declared" or "this is what I, the Lord Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
   * **because my flock has become plunder and food for all the beasts in the fields** - "because the beasts in the field have been able to steal my flock and eat them"
-  * **plunder** - things that are stolen. AT: "easy to steal" or "easy to kill"
-  * **the beasts in the fields** - AT: "the wild animals" 
+  * **plunder** - things that are stolen
+  * **the beasts in the fields** - "the wild animals" 
   * **because there was no shepherd** - "because they did not have a shepherd"
   * **none of my shepherds sought my flock** - "none of my shepherds tried to find my flock"
   * **guarded themselves** - "shepherded themselves" or "fed and cared for themselves"
@@ -48,6 +49,6 @@
   * [[:en:bible:questions:comprehension:ezk:34]]
 **[[:en:bible:notes:ezk:34:04|<<]] | [[:en:bible:notes:ezk:34:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -57,10 +57,11 @@
 
   * **General Information:** - Elihu continues speaking using parallelisms.
 
-  * **I am full of words** - "I have so much to say"
-  * **the spirit in me compels me** - AT: "I must speak right now"
-  * **my breast is like fermenting wine that has no vent; like new wineskins, it is ready to burst** - While wine is fermenting, gas collects in the container. If the gas is not let out the container will burst. Elihu means that he has so much to say that if he does not speak he feels like he will burst. (See: [[:en:ta:vol1:translate:figs_simile]])
-
+  * **I also will answer on my part** - "I will now take my turn to answer" 
+  * **I am full of words** - Elihu speaks of having a lot to say as being full of words. AT: "I have so much to say" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the spirit in me compels me** - "my spirit forces me to say it" (UDB)
+  * **my breast is like fermenting wine that has no vent ... like new wineskins, it is ready to burst** - While wine is fermenting, gas collects in the container. If the gas is not let out the container will burst. Elihu means that he has so much to say that if he does not speak he feels like he will burst. Also, these two phrases are parallel and have the same meaning. AT: "I feel like my breast is about to burst, like a container of fermenting wine that has no vent" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **my breast is** - This represents Elihu, specifically his spirit. AT: "my spirit is" or "I am"  (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:32]]
 **[[:en:bible:notes:job:32:15|<<]] | [[:en:bible:notes:job:32:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

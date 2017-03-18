@@ -30,7 +30,7 @@
 <usfm>
 \v 26 Among the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
 \v 27 Among the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
-\v 28 Among the descendants of Bebai: Jehochanan, Hananiah, Zabbai, and Athlai.
+\v 28 Among the descendants of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.
 \v 29 Among the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, and Sheal Jeremoth. \f + \ft Instead of \fqa Bani \fqb , some modern versions have \fqa Bigvai \fqb . \f*
 </usfm>
 
@@ -44,13 +44,13 @@
 
   * **General Information:** - Ezra continues to list the men who married non-Jewish women. (See: [[:en:ta:vol1:translate:translate_names]])
 
-  * **Elam ... Zattu ... Bani** - See how you translated these in [[:en:bible:notes:ezr:02:07|2:7-10]].
-  * **Jehiel** - See how you translated this in [[:en:bible:notes:ezr:08:08|8:09]].
-  * **Elioenai** - See how you translated this in [[:en:bible:notes:ezr:10:20|10:22]].
-  * **Eliashib ... Jehochanan** - See how you translated these in [[:en:bible:notes:ezr:10:05|10:06]].
-  * **Bebai** - See how you translated this in [[:en:bible:notes:ezr:02:11|2:11]].
-  * **Jehochanan** - See how you translated this in [[:en:bible:notes:ezr:10:05|10:06]].
-  * **Meshullam** - See how you translated this in [[:en:bible:notes:ezr:08:15|8:16]].
+  * **Elam ... Zattu ... Bani** - These are men's names. Translate as in [[:en:bible:notes:ezr:02:07|2:7-10]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Jehiel** - This is man's name. Translate as in [[:en:bible:notes:ezr:08:08|8:09]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Elioenai** - man's name. Translate as in [[:en:bible:notes:ezr:10:20|10:22]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Eliashib** - This is a man's name. Translate as in [[:en:bible:notes:ezr:10:05|10:06]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Bebai** - This is a man's name. Translate as in [[:en:bible:notes:ezr:02:11|2:11]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Jehohanan** - This is a man's name. Translate as in [[:en:bible:notes:ezr:10:05|10:06]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Meshullam** - This is a man's name. Translate as in [[:en:bible:notes:ezr:08:15|8:16]]. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -63,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -22,7 +22,7 @@
 \q1
 \v 144 Your requirements are always fair;
 \q2 help me to understand them so that I may continue to live.
-\b
+
 
 
 \q1
@@ -38,7 +38,6 @@
 \q
 \v 144 Your covenant decrees are righteous forever;
 \q give me understanding that I may live.
-\b
 </usfm>
 
 
@@ -52,7 +51,7 @@
 
 ===== translationNotes: =====
 
-  * **distress and anguish have found me** - The psalmist speaks of distress and anguish as if they were people. AT: "I have become distressed and anguished" or "My body and my mind are suffering" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **distress and anguish have found me** - The psalmist speaks of distress and anguish as if they were people. AT: "I have become distressed and anguished" or "my body and my mind are suffering" (See: [[:en:ta:vol2:translate:figs_personification]])
  
 ===== Links: =====
 
@@ -61,6 +60,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:141|<<]] | [[:en:bible:notes:psa:119:145|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

@@ -16,7 +16,7 @@
 
 <usfm>
 \v 105 Your word is a lamp to guide me;
-\q2 it is like a light that shows me where to walk. 
+\q2 it is like a light that shows me where to walk.
 \q1
 \v 106 I have solemnly promised, and I am solemnly promising it again,
 \q2 that I will always obey your regulations;
@@ -51,7 +51,7 @@
 ===== translationNotes: =====
 
   * **NUN** - This is the name of the fourteenth letter of the Hebrew alphabet. In the Hebrew language, each line of verses 105-112 begins with this letter.
-  * **Your word is a lamp to my feet and a light for my path** - These two phrases have the same meaning. This speaks about God telling a person how to live as if the person were walking on a path and God's words were a light that helps the person see where to go. AT: "Your words tell me how to live my life" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Your word is a lamp to my feet and a light for my path** - These two phrases have similar meanings. They speak about God telling a person how to live as if the person were walking on a path and God's words were a light that helps the person see where to go. AT: "Your words tell me how to live my life" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **Your word** - Here "word" represents all that God communicates to people. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:103|<<]] | [[:en:bible:notes:psa:119:107|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

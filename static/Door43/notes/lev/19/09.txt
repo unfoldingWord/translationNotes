@@ -37,7 +37,7 @@
 ===== translationNotes: =====
 
   * **When you reap the harvest of your land, you must not completely reap the corners of your field** - "When you gather your crops, do not gather all the way to the edges of your fields"
-  * **neither will you gather all the produce of your harvest** - This refers to the practice of going back over the fields a second time to gather any produce that remained after the first time. AT: "and do not go back and pick up all that you left behind" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **neither will you gather all the produce of your harvest** - This refers to the practice of going back over the fields a second time to gather any produce that remained after the first time. The full meaning of this statement can be made explicit. AT: "and do not go back and pick up all that you left behind" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:lev:19]]
 **[[:en:bible:notes:lev:19:05|<<]] | [[:en:bible:notes:lev:19:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check harvest}}
+~~DISCUSSION~~{{tag>publish p2pass harvest}}
 
 ~~NOCACHE~~

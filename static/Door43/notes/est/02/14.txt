@@ -33,11 +33,12 @@
 
 ===== translationNotes: =====
 
+  * **Connecting Statement:** - This continues the background information that began in [[:en:bible:notes:est:02:12|2:12]] about the customs for the women who became the king's wives. (See: [[:en:ta:vol2:translate:writing_background]])
 
-  * **in the morning** - "the next morning" (UDB) The "next" is implied. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **in the morning** - It is implied that this is the following morning. This information can be made clear. AT: "the next morning" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **second house** - "a different house" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **custody** - "supervision" or "protection" (UDB)
-  * **Shaashgaz** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Shaashgaz** - This is a man's name. (See: [[:en:ta:vol1:translate:translate_names]])
 
  
 ===== Links: =====
@@ -45,14 +46,11 @@
   * [[:en:bible:notes:est:00:intro]]
   * [[:en:bible:notes:est:02:00]]
   * [[:en:bible:questions:comprehension:est:02]]
-
- 
-
 **[[:en:bible:notes:est:02:12|<<]] | [[:en:bible:notes:est:02:15|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 
 <usfm>
 \v 3 All the officials of the provinces, the provincial governors, the governors, and the king's administrators, helped the Jews because the fear of Mordecai had fallen on them.
-\v 4 For Mordecai was great in the king's house, and his fame spread throughout all the provinces, for the man Mordecai was becoming great. 
+\v 4 For Mordecai was great in the king's house, and his fame spread throughout all the provinces, for the man Mordecai was becoming great.
 \v 5 The Jews attacked their enemies with the sword, killing and destroying them, and did as they pleased to those who hated them.
 </usfm>
 
@@ -32,10 +32,11 @@
 
 ===== translationNotes: =====
 
-  * **provinces** - Translate as in [[:en:bible:notes:est:01:01|Esther 1:1]].
-  * **provincial governors** - "governors of the provinces"
-  * **fame** - "greatness" or "recognition"
 
+  * **provincial governors** - "governors of the provinces"
+  * **the fear of Mordecai had fallen on them** - Fear falling on people represents people becoming afraid. AT: "they had become afraid of Mordecai" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **was great in the king's house** - "was very important in the king's palace"
+  * **his fame spread throughout all the provinces** - Fame spreading through places represents people in those places learning about how great he was. AT: "throughout the provinces people learned about how great he was" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -43,6 +44,6 @@
   * [[:en:bible:questions:comprehension:est:09]]
 **[[:en:bible:notes:est:09:01|<<]] | [[:en:bible:notes:est:09:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish administration p2edit}}
+~~DISCUSSION~~{{tag>publish administration p2pass}}
 
 ~~NOCACHE~~

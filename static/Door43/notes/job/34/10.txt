@@ -61,12 +61,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Elihu continues speaking.
+  * **General Information:** - Elihu continues speaking. Each of these verses contain parallel phrases. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **you men of understanding** - Elihu is criticizing Job and his friends. He does not actually think they are wise. (See: [[:en:ta:vol1:translate:figs_irony]])
-  * **far be it from the Almighty that he should commit sin** - This means the same as the previous part of the sentence. Elihu emphasizes that God always does what is right. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **he makes every man come upon the reward of his own ways** - This means the same as the previous part of the sentence. Elihu emphasizes that God gives to people what they deserve.
-  * **nor does the Almighty ever pervert justice** - This means the same as the previous part of the sentence. Elihu again emphasizes that God always does what is right. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **far be it from God ... far be it from the Almighty that he should commit sin** - These two phrases have the same meaning and are used together to emphasize that God would never do anything wrong. The phrase "far be it from" is an idiom. AT: "Almighty God would never consider doing anything that is wicked or wrong!" (UDB) (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **For he pays back a person's work** - This means that he gives to a person what he deserves for the work he has done. Here "work" is a metaphor for what a person does. AT: "For he gives to a person what he deserves in return for he does" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he makes every man come upon the reward of his own ways** - The phrase "his own ways" is an idiom for how a person lives his life. Elihu emphasizes that God gives to people what they deserve. AT: "he causes every man to receive the reward he deserves for how he lives" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
 
  
 ===== Links: =====
@@ -76,6 +77,6 @@
   * [[:en:bible:questions:comprehension:job:34]]
 **[[:en:bible:notes:job:34:07|<<]] | [[:en:bible:notes:job:34:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

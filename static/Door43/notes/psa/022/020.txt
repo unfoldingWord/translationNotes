@@ -20,7 +20,7 @@
 \q1
 \v 21 Snatch me away from my enemies who are like lions with jaws open and ready to chew me up!
 \q2 Grab me away from those men who are like wild oxen that attack other animals with their horns!
-\b
+
 
 
 \q1
@@ -35,7 +35,6 @@
 \q
 \v 21 Save me from the lion's mouth;
 \q rescue me from the horns of the wild oxen.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -60,6 +59,6 @@
   * [[:en:bible:questions:comprehension:psa:022]]
 **[[:en:bible:notes:psa:022:018|<<]] | [[:en:bible:notes:psa:022:022|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1 horn}}
+~~DISCUSSION~~{{tag>publish p2pass book1 horn}}
 
 ~~NOCACHE~~

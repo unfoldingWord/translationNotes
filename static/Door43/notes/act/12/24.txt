@@ -23,10 +23,9 @@
 
 <usfm>
 \p
-\v 24 But the word of God grew and multiplied.
+\v 24 But the word of God increased and multiplied.
 \p
-\v 25 After Barnabas and Saul completed their mission to Jerusalem, they returned from there; they took with them John, whose surname was Mark.
-\f + \ft Some versions read, \fqa Barnabas and Saul returned to Jerusalem (or to there). \f*
+\v 25 So when Barnabas and Saul had completed their mission, they returned from \f + \ft Some ancient copies read, \fqa they returned to \f* Jerusalem, bringing with them John, also called Mark.
 </usfm>
 
 
@@ -42,12 +41,12 @@
 
   * **General Information:** - This is information that gives an update on the spread of the word of God and on what Barnabas and Saul were doing. (See: [[:en:ta:vol2:translate:writing_endofstory]])
 
-  * **the word of God grew and multiplied** - The word of God is spoken of as if it was a living plant thing that was able to grow and reproduce. AT: "the message of God spread to more places and more people believed in him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the word of God increased and multiplied** - The word of God is spoken of as if it was a living plant thing that was able to grow and reproduce. AT: "the message of God spread to more places and more people believed in him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the word of God** - More people heard about the word of God. This refers to the message of God about salvation through Jesus. AT: "the message of God about Jesus" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **completed their mission to Jerusalem** - This refers back to when they brought money from the believers at Antioch in [[:en:bible:notes:act:11:29|11:29-30]]. AT: "delivered the money to the church leaders in Jerusalem" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **they returned from there** - They went back to Antioch. AT: "Barnabas and Saul returned to Antioch" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **completed their mission** - This refers back to when they brought money from the believers at Antioch in [[:en:bible:notes:act:11:29|11:29-30]]. AT: "delivered the money to the church leaders in Jerusalem" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **they returned from Jerusalem** - They went back to Antioch from Jerusalem. AT: "Barnabas and Saul returned to Antioch" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **they took with them John** - "Barnabas and Saul took John with them"
-  * **whose surname was Mark** - "who was also called Mark"
+
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]

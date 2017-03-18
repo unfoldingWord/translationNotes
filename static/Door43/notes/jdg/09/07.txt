@@ -23,7 +23,7 @@
 <usfm>
 \p
 \v 7 When Jotham was told about this, he went and stood on the top of Mount Gerizim. He shouted and said to them, "Listen to me, you leaders of Shechem, so that God may listen to you.
-\v 8 The trees once went out to anoint a king over them. And they said to the olive tree, 'Reign over us.'
+\v 8 The trees once went out to anoint a king over them. For they said to the olive tree, 'Reign over us.'
 </usfm>
 
 ===== translationWords: =====
@@ -42,7 +42,7 @@
 
   * **When Jotham was told about this** - This can be stated in active form. AT: "When Jotham heard that Abimelech had murdered his brothers" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Mount Gerizim** - This is a mountain. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **The trees once went out to anoint a king over them. And they said to the olive tree, 'Reign over us.'** - The trees are talked about as if they are people. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **The trees once went out to anoint a king over them. For they said to the olive tree, 'Reign over us.'** - In this parable Jotham describes the trees doing things that humans do. (See: [[:en:ta:vol1:translate:figs_parables]] and [[:en:ta:vol2:translate:figs_personification]])
   * **to anoint a king over them** - Here, to anoint with oil is a symbolic action that represents appointing a person to be king. AT: "to appoint a king to rule over all of them" (See: [[:en:ta:vol2:translate:translate_symaction]])
   * **Reign over us** - "Be our king"
 ===== Links: =====
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:jdg:09]]
 **[[:en:bible:notes:jdg:09:05|<<]] | [[:en:bible:notes:jdg:09:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

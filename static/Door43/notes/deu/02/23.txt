@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 23 And the Avvites, who lived in villages as far as Gaza—the Caphtorim, who came out of Caphtor, destroyed them and lived in their place.)
+\v 23 As for the Avvites who lived in villages as far as Gaza, the Caphtorim, who came from Caphtor, destroyed them and settled in their place.)
 </usfm>
 
 
@@ -39,7 +39,7 @@
   * **Avvites ... Caphtorim** - These are names of people groups. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Caphtor** - This is the name of a place. It may be another name for the island of Crete located in the Mediterranean Sea. (See: [[:en:ta:vol1:translate:translate_names]])
   * **destroyed them** - "destroyed the Avvim"
-  * **lived in their place** - "lived where the Avvim had lived"
+  * **settled in their place** - "lived where the Avvim had lived"
  
 ===== Links: =====
 
@@ -52,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -69,12 +69,18 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues giving Ezekiel his message to Tyre.
+  * **Connecting Statement:** - Yahweh continues giving Ezekiel his message to Tyre.  The city of Tyre continues to be described as if it were a wrecked ship. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **General Information:** - The word "they" in these verses refer to the people mentioned in verses 28 and 29.  The words "you" and "your" refer to Tyre.
 
-  * **will shave their heads bald** - "will shave their heads so that they have no hair"
-  * **Who is like Tyre** - AT: "No other city is like Tyre." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **who has now been brought to silence** - AT: "who is destroyed."
-  * **ashore** - "on to the land"
+  * **They will shave their heads bald for you and bind themselves with sackcloth** - These are expressions of grieving and mourning. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **bald** - having no hair on the head
+  * **They will lift up their wails of lamentation** - The abstract noun "lamentation" can be translated using the verb "lament." AT: "They will cry out and lament" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **dirges** - "funeral songs"
+  * **Who is like Tyre, who has now been brought to silence in the middle of the sea?** - This question expects a negative answer and emphasizes Tyre being different from all other cities. It can be expressed as a statement. AT: "No other city is like Tyre, who has now been brought to silence in the middle of the sea." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **who has now been brought to silence** - This can be expressed in active form. AT: "who its enemies have now silenced" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **When your merchandise went ashore** - This can be expressed in active form. AT: "When people brought your merchandise ashore" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **ashore** - "onto the land"
+  * **you enriched the kings of the earth** - "you made the kings of the earth rich"
  
 ===== Links: =====
 
@@ -83,4 +89,4 @@
   * [[:en:bible:questions:comprehension:ezk:27]]
 **[[:en:bible:notes:ezk:27:28|<<]] | [[:en:bible:notes:ezk:27:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}

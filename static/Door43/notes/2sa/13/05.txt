@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 5 Then Jehonadab said to him, "Lie down on your bed and pretend to be sick. When your father comes to see you, ask him, 'Would you please send my sister Tamar to give me something to eat and cook it before me, so that I may see it and eat it from her hand?'" 
+\v 5 Then Jehonadab said to him, "Lie down on your bed and pretend to be sick. When your father comes to see you, ask him, 'Would you please send my sister Tamar to give me something to eat and cook it before me, so that I may see it and eat it from her hand?'"
 \v 6 So Amnon lay down and pretended to be sick. When the king came to see him, Amnon said to the king, "Please send my sister Tamar to make some food for my sickness in front of me so that I may eat from her hand."
 </usfm>
 
@@ -39,9 +39,10 @@
 
 ===== translationNotes: =====
 
-
-  * **Jehonadab** - Translate as you did in [[:en:bible:notes:2sa:13:03|13:03]].
-  * **pretended to be sick** - gave a false appearance of being ill
+  * **Jehonadab** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:13:03|13:03]].
+  * **and eat it from her hand ... I may eat from her hand** - This is a request for her to serve food to him personally. AT: "and have her serve it to me herself ... she may serve it to me to eat" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **pretended to be sick** - This means he gave a false appearance of being ill.
+  * **for my sickness in front of me** - The food is not for his sickness, but rather it is for him, because he is sick. The phrase "in front of me" is a request for Tamar to prepare the food in his presence. AT: "in front of me because I am sick" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -56,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

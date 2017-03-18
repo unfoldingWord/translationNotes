@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 Some people from Ziph went to Saul when he was at Gibeah, and they told him, "David and his men are hiding in our land! They are hiding in places at Horesh on the hill of Hakilah, south of a place named Jeshimon.
+\v 19 Some people from Ziph went to Saul when he was at Gibeah, and they told him, "David and his men are hiding in our land! They are hiding in places at Horesh on the hill of Hachilah, south of a place named Jeshimon.
 \v 20 So, O king, come down there any time that you want to. It is our duty to capture him and put him in your hands."
 
 
@@ -36,11 +36,12 @@
   * [[:en:obe:other:david]]
   * [[:en:obe:other:stronghold]]
 
- 
-
 ===== translationNotes: =====
 
-  * **Is not David hiding among us in the strongholds at Horesh ... Jeshimon?** - This rhetorical question can be translated as a statement. AT: "You should already know that David is hiding among us in the strongholds at Horesh ... Jeshimon." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Ziphites** - This is the name of the people group from Ziph. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Is not David hiding among us in ... Jeshimon?** - This rhetorical question can be translated as an exclamation. AT: "David is hiding among us in ... Jeshimon!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the hill of Hachilah** - This is the name of a hill in the wilderness of Judah. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Jeshimon** - This is the name of a desert area near the Dead Sea. It can also be translated as "the Judean Wilderness" or "the wasteland." (See: [[:en:ta:vol1:translate:translate_names]])
   * **surrender him into the king's hand** - The word "hand" is a metonym for power. The Ziphites speak to Saul as if he were another man to show him that they respect him. AT: "give David to you so you can do whatever you desire with him" (See: [[:en:ta:vol2:translate:figs_pronouns]] and [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
@@ -50,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1sa:23]]
 **[[:en:bible:notes:1sa:23:17|<<]] | [[:en:bible:notes:1sa:23:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

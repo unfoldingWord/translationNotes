@@ -30,9 +30,8 @@
 
 <usfm>
 \c 108
-\p
+\m
 \d A song, a psalm of David.
-\b
 \q
 \v 1 My heart is fixed, God;
 \q I will sing, yes, I will sing praises also with my honored heart.
@@ -52,7 +51,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **a psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **My heart is fixed, God** - Here David is referring to himself by his heart. Also, the word "fixed" means to trust completely. AT: "My heart is fixed on you, God" or "I am trusting completely in you, God" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_idiom]])
@@ -68,6 +67,6 @@
   * [[:en:bible:questions:comprehension:psa:108]]
 **[[:en:bible:notes:psa:107:041|<<]] | [[:en:bible:notes:psa:108:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

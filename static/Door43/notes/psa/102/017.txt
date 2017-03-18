@@ -20,7 +20,6 @@
 \v 17 You will listen to the prayers of your people who are homeless,
 \q2 and you will not ignore them
 \q2 when they plead with you to help them.
-\b
 \q1
 \v 18 Yahweh, I want to write these words
 \q2 so that people in future years will know what you have done,
@@ -51,8 +50,8 @@
   * [[:en:obe:other:praise]]
 ===== translationNotes: =====
 
-  * **the destitute** - This refers to destitute people. 
-  * **he will not reject their prayer** - This can be stated in positive form. AT: "Yahweh will accept their prayers" (See: [[:en:ta:vol2:translate:figs_litotes]]) 
+  * **the destitute** - This refers to destitute people. (See: [[:en:ta:vol2:translate:figs_nominaladj]]) 
+  * **he will not reject their prayer** - This can be stated in positive form. AT: "Yahweh will accept their prayers" (See: [[:en:ta:vol2:translate:figs_doublenegatives]]) 
   * **This will be written for future generations** - This can be stated in active form. AT: "I will write this for future generations" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:102]]
 **[[:en:bible:notes:psa:102:013|<<]] | [[:en:bible:notes:psa:102:019|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

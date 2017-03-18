@@ -22,7 +22,6 @@
 \q1
 \v 28 Lizards are very small and you can hold them in your hand,
 \q2 but they get inside kings' palaces.
-\b
 
 
 \q1
@@ -36,7 +35,7 @@
 \v 27 Locusts have no king,
 \q but all of them march in rank.
 \q
-\v 28 As for the lizard, you can hold it in your two hands, 
+\v 28 As for the lizard, you can hold it in your two hands,
 \q yet they are found in kings' palaces.
 </usfm>
 
@@ -49,7 +48,7 @@
 
 ===== translationNotes: =====
 
-  * **lizard** - This is a reptile that has four legs, a long body slender, and a tail.
+  * **lizard** - a small reptile that has four legs, a long, slender body, and a tail
 
  
 ===== Links: =====
@@ -65,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit locust}}
+{{tag>publish p2pass locust}}
 
 ~~NOCACHE~~

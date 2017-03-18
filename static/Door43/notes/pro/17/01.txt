@@ -20,12 +20,10 @@
 <usfm>
 \v 1 It is better to eat a dry piece of bread and not have strife
 \q2 than to live in a house where quarreling is as regular as feasting.
-\b
 \q1
-\v 2 A slave who acts wisely will rule over the son of his master 
+\v 2 A slave who acts wisely will rule over the son of his master
 \q2 if that son does shameful things.
-\q2 That slave will receive a share of the inheritance and will be treated like one of his master's sons. 
-
+\q2 That slave will receive a share of the inheritance and will be treated like one of his master's sons.
 
 \q1
 </usfm>
@@ -37,7 +35,7 @@
 \c 17
 \q
 \v 1 It is better to have quiet with a dry morsel of bread
-\q than a house full feasting with strife.
+\q than a house full of feasting with strife.
 \q
 \v 2 A wise servant will rule over a son who acts shamefully
 \q and will share the inheritance as one of the brothers.
@@ -57,8 +55,8 @@
 
 ===== translationNotes: =====
 
-
-
+  * **to have quiet** - Here "quiet" refers to "peace." AT: "to have peace" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **than a house full of feasting with strife** - There are words missing here; "to have" or "to be in" may be added. AT: "than to be in a house full of feasting where there is strife" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -66,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:17]]
 **[[:en:bible:notes:pro:16:33|<<]] | [[:en:bible:notes:pro:17:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit strife}}
+~~DISCUSSION~~{{tag>publish p2pass strife}}
 
 ~~NOCACHE~~

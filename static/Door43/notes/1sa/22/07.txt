@@ -43,12 +43,11 @@
 ===== translationNotes: =====
 
 
-  * **Will the son of Jesse give every one of you fields and vineyards?** - This rhetorical question can be translated as a statement. AT: "The son of Jesse will not give you fields or vineyards." That is, David, who is from the tribe of Judah, does not desire to do this for the people of the tribe of Benjamin. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Will the son of Jesse give** - "When the Son of Jesse becomes king, will he give" (see UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the son of Jesse** - David
-  * **Will he make you all captains ... me?** - This rhetorical question can be translated as a statement. AT: "He will not make you captains ... against me." That is, David, who is from the tribe of Judah, does not desire to do this for the people of the tribe of Benjamin. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Will he make you all captains ... of hundreds, in exchange for all of you plotting against me?** - This one question can be understood as a question followed by a statement. AT: "Will he make you all captains ... of hundreds? For you are all plotting against me."
-  * **Will he make you all captains** - "When he becomes king, will he make you all captains" (see UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Will the son of Jesse give every one of you fields and vineyards?** - Saul uses a question to emphasize that David, who is from the tribe of Judah, does not desire to do this for the people of the tribe of Benjamin. AT: "The son of Jesse will not give you fields or vineyards." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Will the son of Jesse give** - The time when he will give can be made explicit. AT: "When the son of Jesse becomes king, will he give" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the son of Jesse** - "David"
+  * **Will he make you all captains ... me?** - Saul uses a question to emphasize that David, who is from the tribe of Judah, does not desire to do this for the people of the tribe of Benjamin. AT: "He will not make you captains ... against me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Will he make you all captains** - You may need to make explicit when he will make them captains. AT: "When he becomes king, will he make you all captains" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **captains** - military officers who lead soldiers
  
  
@@ -65,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

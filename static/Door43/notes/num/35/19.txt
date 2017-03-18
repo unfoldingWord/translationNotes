@@ -23,9 +23,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 The blood avenger may himself put a murderer to death. When he meets him, he may put him to death.
-\v 20 And if an accused man manhandles anyone in hatred or throws something at him, while hiding to ambush him, so that the victim dies, 
-\v 21 or if he strikes him down in hatred with his hand so that the victim dies, then the accused who struck him must surely be put to death. He is a murderer. The blood avenger may put the murderer to death when he meets him.
+\v 19 The avenger of blood may put the murderer to death. When he meets him, the avenger of blood must put him to death.
+\v 20 If he strikes another in hatred or throws something at him, while hiding to ambush him, so that the victim dies,
+\v 21 or if he strikes him down in hatred with his hand so that the victim dies, then the accused who struck him must surely be put to death. He is a murderer. The avenger of blood may put the murderer to death when he meets him.
 </usfm>
 
 ===== translationWords: =====
@@ -35,9 +35,8 @@
 
 ===== translationNotes: =====
 
-  * **The blood avenger** - Here the word "blood" is a metonym for the murder. AT: "The one who avenges the murder" or "The relative seeking vengeance" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **manhandles anyone in hatred** - "overpowers someone" or "acts violently towards a person"
-  * **then the accused who struck him must surely be put to death** - This can be stated in active form. AT: "the relative must certainly execute the accused man" or "the accused man must die" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **The avenger of blood** - Here the word "blood" is a metonym for the murder. AT: "The one who avenges the murder" or "The relative seeking vengeance" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the accused who struck him must surely be put to death** - This can be stated in active form. AT: "the relative must certainly execute the accused man" or "the accused man must die" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:num:35]]
 **[[:en:bible:notes:num:35:16|<<]] | [[:en:bible:notes:num:35:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -19,7 +19,6 @@
 \v 1 Yahweh is the king!
 \q2 I want everyone on the earth to be glad
 \q2 and the people who live on the islands in the oceans to also rejoice about that!
-\b
 \q1
 \v 2 There are very dark clouds around him;
 \q1 he rules completely, justly, and fairly.
@@ -32,7 +31,7 @@
 
 <usfm>
 \c 97
-\p
+\m
 \q
 \v 1 Yahweh reigns; let the earth rejoice;
 \q let the many coastlands be glad.
@@ -54,13 +53,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **let the earth rejoice; let the many coastlands be glad** - The earth and the coastlands are said to have emotions like people. AT: "Rejoice and be glad every person on the earth and near the seas" (See: [[:en:ta:vol2:translate:figs_personification]])
   * **coastlands** - Possible meanings are 1) "lands near the seas" or 2) "islands."
-  * **Righteousness and justice are the foundation of his throne** - Here "the foundation of his throne" refers to how Yahweh rules his kingdom. AT: "Yahweh always rules with righteousness and justice" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Clouds and darkness surround him** - "We cannot see him; it is as if he were sitting in the dark with clouds all around him"
   * **Righteousness and justice are the foundation of his throne** - The word "throne" is a metonym for the deeds and words of the one who sits on it. The psalmist speaks as if righteousness and justice were physical objects that made the throne secure. AT: "He is righteous and just in everything he does" or "He is able to rule because he rules righteously and justly" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the foundation of his throne** - Here "the foundation of his throne"​ refers to how Yahweh rules his kingdom. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -69,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:097]]
 **[[:en:bible:notes:psa:096:011|<<]] | [[:en:bible:notes:psa:097:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

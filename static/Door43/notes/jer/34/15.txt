@@ -24,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 Now you yourselves repented and began to do what is right in my eyes. You proclaimed freedom, each man to his neighbor. And you made a covenant before me in the house that is called by my name.
-\v 16 But then you turned and polluted my name; you caused each man to bring back his male and female servants, the ones whom you had sent out to go where they wished. You forced them to become your servants again.'
+\v 15 Now you yourselves repented and began to do what is right in my eyes. You proclaimed freedom, each man to his neighbor, and you made a covenant before me in the house that is called by my name.
+\v 16 But then you turned and polluted my name; you caused each man to bring back his male and female slaves, the ones whom you had sent out to go where they wished. You forced them to become your slaves again.'
 </usfm>
 
 
@@ -41,8 +41,10 @@
 ===== translationNotes: =====
 
 
-  * **right in my eyes** - "correct" or "acceptable" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **turned and polluted my name** - AT: "stopped doing what was right and did evil things that have made people think that I am evil" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Now you yourselves repented** - Here the word "now" is used to draw attention to the important point that follows.
+  * **right in my eyes** - "Eyes" here is a metonym for someone's opinion or idea. AT: "what I consider to be right" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the house that is called by my name** - This can be translated in active form. AT: "the house that belongs to me" or "the building in which they worship me" (See: [[:en:ta:vol2:translate:figs_activepassive]] [[:en:ta:vol2:translate:figs_metonymy]])
+  * **turned and polluted my name** - A person's name is a metonym for what people think of him. AT: "stopped doing what was right and did evil things that have made people think that I am evil" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -51,6 +53,6 @@
   * [[:en:bible:questions:comprehension:jer:34]]
 **[[:en:bible:notes:jer:34:12|<<]] | [[:en:bible:notes:jer:34:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

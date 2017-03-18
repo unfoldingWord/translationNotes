@@ -30,7 +30,6 @@
 \q2 They will bring rams from Nebaioth for you to sacrifice on my altars,
 \q1 and I will accept them happily.
 \q2 At that time I will cause my temple to be very beautifully decorated.
-\b
 
 
 \q1
@@ -41,8 +40,8 @@
 
 <usfm>
 \q1
-\v 6 Camel caravans will cover you, the dromedaries of Midian and Ephah; 
-\q1 all of them will come from Sheba; 
+\v 6 Camel caravans will cover you, the dromedaries of Midian and Ephah;
+\q1 all of them will come from Sheba;
 \q1 they will bring gold and frankincense, and will sing the praises of Yahweh.
 \q1
 \v 7 All the flocks of Kedar will be gathered together to you, the rams of Nebaioth will serve your needs; \q1 they will be acceptable offerings on my altar; and I will glorify my glorious house.
@@ -69,7 +68,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues speaking to the people of Israel.
+  * **General Information:** - Yahweh continues speaking to the people of Israel.
 
   * **the dromedaries** - "the young camels"
   * **Ephah ... Kedar ... Nebaioth** - These are the names of areas in Arabia. (See: [[:en:ta:vol1:translate:translate_names]])
@@ -85,6 +84,6 @@
   * [[:en:bible:questions:comprehension:isa:60]]
 **[[:en:bible:notes:isa:60:04|<<]] | [[:en:bible:notes:isa:60:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit sheba}}
+~~DISCUSSION~~{{tag>publish p2pass sheba}}
 
 ~~NOCACHE~~

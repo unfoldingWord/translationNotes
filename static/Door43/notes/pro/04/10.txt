@@ -19,8 +19,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 Hear, my son, listen and understand what I say to you— 
-\q1 do this, and you will live a long life. 
+\v 10 Hear, my son, listen and understand what I say to you—
+\q1 do this, and you will live a long life.
 \q1
 \v 11 I directed you in the way you should walk and to use the wisdom you were taught;
 \q2 I led you by the hand down the roads, roads that are the right way for you to go.
@@ -58,14 +58,10 @@
 
 ===== translationNotes: =====
 
-  * **pay attention to my words** - "listen to what I teach you"
-  * **life** - This refers to physical life.
-  * **direct** - to guide, or to show the way.
-  * **I lead you down straight paths** - AT: "I have taught you to think and do the right thing." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **When you walk, no one will stand in your way and if you run, you will not stumble** - AT: "When you plan something you will succeed in doing it." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
-
-
-
+  * **and pay attention to my words** - "listen carefully to what I teach you"
+  * **you will have many years in your life** - "you will live many years"
+  * **I direct you in the way of wisdom; I lead you down straight paths** - The writer speaks of teaching his son to live wisely as if he were leading his son along the paths where one may find wisdom. AT: "I am teaching you how to live wisely; I am explaining the right way to live" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **When you walk, no one will stand in your way and if you run, you will not stumble** - These two lines share similar meanings. The writer speaks of the decisions and actions that a person makes as if that person were walking or running along a path and of the person being successful as if the path were free of obstacles that might make the person stumble. AT: "When you plan something, you will succeed in doing it" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
  
 ===== Links: =====
 
@@ -80,6 +76,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

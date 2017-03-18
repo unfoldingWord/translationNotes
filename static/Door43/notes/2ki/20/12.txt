@@ -14,8 +14,7 @@
 
 <usfm>
 \v 12 At that time, King Merodach Baladan son of Baladan, the previous king of Babylonia, heard a report that King Hezekiah had been very sick. So he wrote some letters and gave them to some messengers to take to Hezekiah, along with a gift.
-\v 13 When the messengers arrived, Hezekiah welcomed them gladly. Then he showed them all the treasure that was in his palace and treasuries—the silver and gold, the spices, the nice-smelling olive oil, and all the weapons for his soldiers. There were no valuable things in his storerooms or anywhere else in his kingdom that he did not show them. 
-
+\v 13 When the messengers arrived, Hezekiah welcomed them gladly. Then he showed them all the treasure that was in his palace and treasuries—the silver and gold, the spices, the nice-smelling olive oil, and all the weapons for his soldiers. There were no valuable things in his storerooms or anywhere else in his kingdom that he did not show them.
 
 \p
 </usfm>
@@ -42,13 +41,13 @@
   * [[:en:obe:other:gold]]
   * [[:en:obe:other:oil]]
   * [[:en:obe:other:kingdom]]
+
 ===== translationNotes: =====
 
 
   * **Merodach Baladan ... Baladan** - These are the names of the king of Babylon and his son. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **listened to those letters** - AT: "carefully considered those letters" or AT: "heard the message from the king of Babylon" 
-  * **There was nothing ... that Hezekiah did not show them** - "Hezekiah showed him absolutely everything in his house and in all his kingdom." (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol2:translate:figs_hyperbole]])
-
+  * **listened to those letters** - 1) "carefully considered those letters" or 2) "heard the message from the king of Babylon" 
+  * **There was nothing ... that Hezekiah did not show them** - "Nothing" and "not" cancel each other out to make the idea positive. This exaggeration is used for emphasis. AT: "Hezekiah showed him absolutely everything in his house and in all his kingdom" (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol2:translate:figs_hyperbole]])
  
 ===== Links: =====
 
@@ -63,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

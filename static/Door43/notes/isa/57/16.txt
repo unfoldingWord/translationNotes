@@ -37,7 +37,7 @@
 
 <usfm>
 \q1
-\v 16 For I will not accuse forever, nor will I be angry forever, 
+\v 16 For I will not accuse forever, nor will I be angry forever,
 \q1 for then man's spirit would faint before me, the lives that I have made.
 \q1
 \v 17 Because of the sin of his violent gain, I was angry, and I punished him; I hid my face and was angry,
@@ -62,7 +62,7 @@
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
   * **I hid my face** - This means God gave up on his people and no longer helped or blessed them. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **he went backward in the way of his heart** - This means the Israelites kept rejecting the true God for false ones.
+  * **he went backward in the way of his heart** - This means the Israelites kept rejecting the true God for false ones. Here "backward" and "way" are location words representing motivations and feelings. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -71,6 +71,6 @@
   * [[:en:bible:questions:comprehension:isa:57]]
 **[[:en:bible:notes:isa:57:14|<<]] | [[:en:bible:notes:isa:57:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit angry}}
+~~DISCUSSION~~{{tag>publish p2pass angry}}
 
 ~~NOCACHE~~

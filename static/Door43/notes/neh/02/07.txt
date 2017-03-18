@@ -1,4 +1,4 @@
-f
+
 
 ====== Nehemiah 02:7-8 ======
 
@@ -23,8 +23,8 @@ f
 ===== ULB: =====
 
 <usfm>
-\v 7 Then I said to the king, "If it pleases the king, may letters be given to me for the governors beyond the River, so that they may permit me to pass through their territories on my way to Judah.
-\v 8 May there also be a letter for Asaph the keeper of the king's forest, so that he may give me timber to make beams for the gates of the fortress next to the temple, and for the wall of the city, and for the house in which I will live." 
+\v 7 Then I said to the king, "If it pleases the king, may letters be given to me for the governors in the Province Beyond the River so that they may permit me to pass through their territories on my way to Judah.
+\v 8 May there also be a letter for Asaph the keeper of the king's forest, so that he may give me timber to make beams for the gates of the fortress next to the temple, and for the wall of the city, and for the house in which I will live."
 \p So because the good hand of God was on me, the king granted me my requests.
 </usfm>
 
@@ -44,12 +44,10 @@ f
 
 ===== translationNotes: =====
 
-  * **may letters be given to me** - This passive phrase expresses a servant speaking to a king. These letters would show that Nehemiah had the permission of the king. (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **governors** - These were Persian government administrators. Persia controlled all the territory from Persia to Egypt, including Judah.
-  * **beyond the River** - "beyond the Euphrates River" This was a largest river in the Near East. 
-  * **the fortress next to the temple** - "the fortress belonging to the temple"
-  * **the good hand of God was on me** - This phrase conveys God's guidance and favor. AT: "God's favor was upon me." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **may letters be given to me** - This may be stated in active form. AT: "may you give letters to me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the Province Beyond the River** - This is the name of the province that was west of the Euphrates River. It was across the river from the city of Susa. 
+  * **Asaph** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the good hand of God was on me** - God's "good hand" represents his "favor." AT: "God's favor was upon me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -57,6 +55,6 @@ f
   * [[:en:bible:questions:comprehension:neh:02]]
 **[[:en:bible:notes:neh:02:04|<<]] | [[:en:bible:notes:neh:02:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit asaph}}
+~~DISCUSSION~~{{tag>publish p2pass asaph}}
 
 ~~NOCACHE~~

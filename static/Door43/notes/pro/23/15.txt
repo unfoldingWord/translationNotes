@@ -19,9 +19,8 @@
 \v 15 My son, if you have taken wisdom deep within yourself,
 \q2 I will be very happy,
 \q1
-\v 16 and I will be sincerely glad 
-\q2 when you say what is right. 
-
+\v 16 and I will be sincerely glad
+\q2 when you say what is right.
 
 \q1
 </usfm>
@@ -48,7 +47,9 @@
 
 ===== translationNotes: =====
 
-  * **when your lips speak** - "Your lips" means the whole person. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
+
+  * **when your lips speak** - "Your lips" means the whole person. AT: "when you speak" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -63,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

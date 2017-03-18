@@ -36,8 +36,11 @@
 
 ===== translationNotes: =====
 
-  * **he lifted up his hand against the king** - AT: "rebelled against the king" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Solomon built up the place at Millo** - See how you translated "the Millo" in [[:en:bible:notes:1ki:09:15|9:15]].
+  * **Jeroboam ... Nebat** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Zeredah ... Millo** - These are the names of locations. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Zeruah** - This is the name of a woman. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **lifted up his hand against the king** - The word "hand" refers to authority, power and control. The phrase "lifted up against" refers to having opposed someone by using authority, power and control. This is a metonymy used as a common idiom. AT: "rebelled against the king" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **Solomon built up the place at Millo** - Translate "Millo" as in [[:en:bible:notes:1ki:09:15|9:15]].
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -45,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1ki:11]]
 **[[:en:bible:notes:1ki:11:23|<<]] | [[:en:bible:notes:1ki:11:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

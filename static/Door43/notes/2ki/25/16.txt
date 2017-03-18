@@ -14,7 +14,7 @@
 
 <usfm>
 \v 16 The bronze from the two pillars, the bronze stands with wheels, and the huge basin were very heavy. They could not be weighed. These things had been made for the temple when Solomon was the king of Israel.
-\v 17 Each of the pillars was 8.3 meters high. The bronze capital of each pillar was 1.3 meters high. They were each decorated all around with something that looked like a net made of bronze chains connecting bronze pomegranates.
+\v 17 Each of the pillars was eight and one-third meters high. The bronze capital of each pillar was one and one-third meters high. They were each decorated all around with something that looked like a net made of bronze chains connecting bronze pomegranates.
 
 
 \p
@@ -39,12 +39,12 @@
 ===== translationNotes: =====
 
 
-  * **the sea** - AT: "the large bronze basin," See how you translated this in [[:en:bible:notes:2ki:25:13|25:13]].
-  * **the stands** - See how you translated this in [[:en:bible:notes:2ki:25:13]].
-  * **cubit** - A unit of distance. (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **a capital of bronze** - AT: "an artistic, bronze design" or "a bronze piece with designs"
-  * **latticework** - This was a design made of crossed strips which looked like a net.
-  * **all made of bronze** - AT: "completely made of bronze."
+  * **the sea** - "the large bronze basin." Translate as in [[:en:bible:notes:2ki:25:13|25:13]].
+  * **the stands** - Translate as in [[:en:bible:notes:2ki:25:13|25:13]].
+  * **eighteen cubits ... three cubits** - A cubit was 46 centimeters. AT: "about 8.3 meters ... about 1.4 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **a capital of bronze** - "an artistic, bronze design" or "a bronze piece with designs"
+  * **latticework** - This was a design made of crossed strips that looked like a net.
+  * **all made of bronze** - "completely made of bronze"
  
  
 ===== Links: =====
@@ -57,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit pomegranate}}
+{{tag>publish p2pass pomegranate}}
 
 ~~NOCACHE~~

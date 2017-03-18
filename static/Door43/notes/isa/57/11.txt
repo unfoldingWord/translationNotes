@@ -34,13 +34,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 11 "Whom are you worried about? Whom do you fear so much that has caused you to act so deceitfully, 
+\v 11 "Whom are you worried about? Whom do you fear so much that has caused you to act so deceitfully,
 \q1 so much that you would not remember me or think about me?
 \q1 Because I was silent for so long, you are no longer afraid of me.
 \q1
-\v 12 I will proclaim all your righteous acts and tell all that you have done, 
+\v 12 I will proclaim all your righteous acts and tell all that you have done,
 \q1 but they will not help you.
 </usfm>
 
@@ -57,7 +56,7 @@
 
   * **General Information:** - Yahweh continues speaking to the unfaithful people of Israel.
 
-  * **Whom are you worried about? Whom do you fear so much ... about me?** - Yahweh uses these questions to scold the people. AT: "You must really fear these idols for you to act so deceitfully ... about me!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Whom are you worried about? Whom do you fear so much that has caused you to act so deceitfully ... about me?** - Yahweh uses these questions to scold the people. AT: "You must really fear these idols for you to act so deceitfully ... about me!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **so much that you would not remember me or think about me** - These two phrases mean basically the same thing and emphasize that, although the people should have remembered Yahweh, they did not. (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **I will proclaim all your righteous acts and tell all that you have done** - Yahweh is being sarcastic, calling their evil deeds so-called righteousness. (See: [[:en:ta:vol1:translate:figs_irony]])
 ===== Links: =====
@@ -67,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:57]]
 **[[:en:bible:notes:isa:57:09|<<]] | [[:en:bible:notes:isa:57:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

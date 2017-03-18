@@ -13,7 +13,7 @@
 
 <usfm>
 \v 22 It had the same windows, portico, guard alcoves, and palm tree decorations as the east gate had. Like the east gate, there were seven steps leading up to it and its portico.
-\v 23 Across the outer courtyard from the north gate was a gate leading to the inner courtyard, just as there was on the east side. The man measured the distance from the north gate to the gate leading to the inner courtyard; it was about fifty-four meters in distance.
+\v 23 Across the outer courtyard from the north gate was a gate leading to the inner courtyard, just as there was on the east side. The man measured the distance from the north gate to the gate leading to the inner courtyard; it was fifty-four meters in distance.
 
 
 \p
@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 22 Its windows, portico, chambers, and its palm trees corresponded to the gate that faced east. Seven steps went up to it and to its portico. 
+\v 22 Its windows, portico, chambers, and its palm trees corresponded to the gate that faced east. Seven steps went up to it and to its portico.
 \v 23 There was a gate to the inner courtyard in front of the gate facing north, just as also there was a gate to the east; the man measured from one gate to the other gate—one hundred cubits in distance.
 </usfm>
 
@@ -36,15 +36,19 @@
 
   * **General Information:** - Ezekiel continues to describe the vision of the temple and of the man who looked like bronze.
 
-  * **Its windows** - The word "its" refers to the gate that was at the north of the outer court.
-  * **chambers** - See how you translated this in [[:en:bible:notes:ezk:40:05|40:7]].
+  * **Its windows** - The word "Its" refers to the gate that was at the north of the outer court.
+  * **chambers** - Translate this as in [[:en:bible:notes:ezk:40:05|40:7]].
   * **corresponded to the gate that faced east** - "were like those at the gate that faced east"
-  * **inner courtyard** - See how you translated this in [[:en:bible:notes:ezk:08:16|8:16]].
+  * **the gate that faced east** - Here "faced" is an idiom that means it was oriented in that direction. AT: "the gate that opened toward the east" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **inner courtyard** - Translate this as in [[:en:bible:notes:ezk:08:16|8:16]].
   * **in front of the gate facing north** - "directly across from the gate facing north" or "across the outer courtyard from the north gate" (UDB)
+  * **the gate facing north** - Here "facing" is an idiom that means it was oriented in that direction. AT: "the gate that opened toward the north" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **just as also there was a gate to the east** - "just as there was a gate to the inner courtyard in front of the gate facing east"
   * **one gate to the other gate** - "from the outer gate on the north to the inner gate on the north"
-  * **cubits** - See how you translated these "long" cubits in [[:en:bible:notes:ezk:40:05|40:05]].
+  * **cubits** - Translate these "long" cubits as in [[:en:bible:notes:ezk:40:05|40:05]].
   * **one hundred cubits** - about fifty-four meters
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -52,6 +56,6 @@
   * [[:en:bible:questions:comprehension:ezk:40]]
 **[[:en:bible:notes:ezk:40:20|<<]] | [[:en:bible:notes:ezk:40:24|>>]]**
 
-{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

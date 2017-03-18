@@ -32,11 +32,10 @@
 
 ===== translationNotes: =====
 
-  * **son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]].
   * **the breath** - Possible meanings are: 1) "breath" or 2) "spirit" or 3) "wind."
-  * **from the four winds** - AT: "from the four directions that the wind can blow in" or "from every direction"
-  * **these who have been killed** - AT: "these people that enemies and disasters have killed." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **as I was commanded** - AT: "as Yahweh had commanded me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **from the four winds** - "from the four directions that the wind can blow in" AT: This is an idiom. AT: "from every direction" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **these who have been killed** - This can be stated in active form. AT: "these people that enemies and disasters have killed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **as I was commanded** - This can be stated in active form. AT: "as Yahweh had commanded me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:ezk:37]]
 **[[:en:bible:notes:ezk:37:07|<<]] | [[:en:bible:notes:ezk:37:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -25,8 +25,8 @@
 
 <usfm>
 \v 14 If I am still alive, will you not show me the covenant faithfulness of Yahweh, that I may not die?
-\v 15 And do not cut off your covenant faithfulness from my house permanently, when Yahweh will have cut off every one of the enemies of David from the face of the earth."
-\v 16 So Jonathan made a covenant with the house of David and said, "May Yahweh require an accounting from the hand of David's enemies."
+\v 15 Do not cut off your covenant faithfulness from my house forever—not even when Yahweh cuts off every one of the enemies of David from the face of the earth."
+\v 16 So Jonathan made a covenant with the house of David and said, "May Yahweh require an accounting from the hand of the enemies of David."
 </usfm>
 
 
@@ -50,7 +50,8 @@
 
   * **will you not show me the covenant faithfulness of Yahweh, that I may not die?** - Jonathan asks this question to confirm that David will do this. This rhetorical question can be translated as a statement. AT: "please show me the covenant faithfulness of Yahweh, that I may not die" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **show me the covenant faithfulness of Yahweh** - "show me the kind of covenant faithfulness that Yahweh shows"
-  * **May Yahweh require an accounting from the hand of David's enemies** - Possible meanings are 1) "May Yahweh hold David's enemies accountable" or 2) "May Yahweh destroy David's enemies." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **house of David** - The word "house" is a metonym for the people who live in the house. AT: "David's family"  (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **May Yahweh require an accounting from the hand of the enemies of David** - The hand is a synecdoche for the person. Possible meanings are 1) "May Yahweh use David's enemies to punish David if David breaks this promise" or 2) "May Yahweh destroy the enemies of David." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -59,6 +60,6 @@
   * [[:en:bible:questions:comprehension:1sa:20]]
 **[[:en:bible:notes:1sa:20:12|<<]] | [[:en:bible:notes:1sa:20:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

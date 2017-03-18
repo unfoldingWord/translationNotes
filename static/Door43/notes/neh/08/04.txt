@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 And Ezra the scribe stood on a high wooden platform which the people had made for the purpose. Standing beside him were Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah, on his right side; and Pedaiah, Mishael, Malchijah, Hashum, Hashbaddanah, Zechariah, and Meshullam were standing on his left side.
+\v 4 Then Ezra the scribe stood on a high wooden platform which the people had made for the purpose. Standing beside him were Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah, on his right side; and Pedaiah, Mishael, Malchijah, Hashum, Hashbaddanah, Zechariah, and Meshullam were standing on his left side.
 \v 5 Ezra opened the book in the sight of all the people, for he was standing above the people, and when he opened it all the people stood up.
 </usfm>
 
@@ -34,8 +34,11 @@
   * [[:en:obe:other:zechariahot]]
 ===== translationNotes: =====
 
-  * **Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah ... Pedaiah, Mishael, Malchijah, Hashum, Hashbaddanah, Zechariah, and Meshullam** - These are all male names. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **when he opened it all the people stood up** - The text is very clear that the opening of the book was the cue to stand. 
+  * **Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah ... Pedaiah, Mishael, Malchijah, Hashum, Hashbaddanah, Zechariah, and Meshullam** - These are all names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ezra opened the book in the sight of all the people** - The abstract noun "sight" can be expressed with the verb "see." AT: "Everyone saw Ezra open the book" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the book** - "The Book of the Law"
+  * **he was standing above the people** - "he was standing higher than the people"
+  * **when he opened it all the people stood up** - The people stood up out of respect for God's word. (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -50,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

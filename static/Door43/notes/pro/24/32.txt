@@ -29,14 +29,14 @@
 
 <usfm>
 \q
-\v 32 Then I saw and considered it; 
+\v 32 Then I saw and considered it;
 \q I looked and received instruction.
 \q
 \v 33 A little sleep, a little slumber,
 \q a little folding of the hands to rest—
 \q
-\v 34 and poverty comes upon you like a robber
-\q and your needs will come to you like an armed soldier.
+\v 34 and poverty comes marching upon you,
+\q and your needs like an armed soldier.
 </usfm>
 
 
@@ -44,23 +44,19 @@
 
 ===== translationNotes: =====
 
-  * **poverty comes upon you like a robber and your needs will come to you like an armed soldier** - The same idea is expressed in two different ways. (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
-  * **poverty comes upon you like a robber** - Poverty is compared to a robber who steals from you. (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_personification]])
-  * **your needs will come to you like an armed soldier** - Your needs are compared to an armed soldier, or an armed robber who comes upon you. (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_personification]]) 
+  * **received instruction** - "learned a lesson"
+  * **A little sleep ... to rest—and poverty comes** - You may need to fill in the omitted words. AT: "You may say to yourself, 'A little sleep ... to rest'—but then poverty will come" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **poverty comes marching upon you** - Some translations read, "poverty comes upon you like a robber." Poverty is spoken of as if it were a person or animal that can attack a lazy person. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **your needs like an armed soldier** - Needs are spoken of as if they were a person who could attack the lazy person. AT: "your needs will come to you like an armed soldier" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_personification]]) 
  
 ===== Links: =====
 
-  * [[:en:bible:notes:pro:00:intro]]
-  * [[:en:bible:notes:pro:24:00]]
-  * [[:en:bible:questions:comprehension:pro:24]]
-
- 
+  * [[:en:bible:notes:pro:00:intro|Introduction to Proverbs]]
+  * [[:en:bible:notes:pro:24:00|Proverbs 24 General Notes]]
+  * [[:en:bible:questions:comprehension:pro:24|Proverbs 24 Translation Questions]]
 
 **[[:en:bible:notes:pro:24:30|<<]] | [[:en:bible:notes:pro:25:01|>>]]**
 
-~~DISCUSSION~~
-
-
-{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

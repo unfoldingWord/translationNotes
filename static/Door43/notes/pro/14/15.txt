@@ -19,12 +19,10 @@
 
 <usfm>
 \v 15 Those who have had no instruction believe everything they are told,
-\q2 but the man who has learned some knowledge thinks about what he will do. 
-\b
+\q2 but the man who has learned some knowledge thinks about what he will do.
 \q1
-\v 16 A wise person sees evil and is afraid of it, and he turns away from it; 
-\q2 the foolish person boldly throws aside every warning. 
-
+\v 16 A wise person sees evil and is afraid of it, and he turns away from it;
+\q2 the foolish person boldly throws aside every warning.
 
 \q1
 </usfm>
@@ -34,8 +32,8 @@
 
 <usfm>
 \q
-\v 15 The one who has not been taught believes everything, 
-\q but the prudent man thinks about his steps. 
+\v 15 The one who is naive believes everything,
+\q but the prudent man thinks about his steps.
 \q
 \v 16 A wise man fears and turns away from evil,
 \q but the fool confidently dismisses a warning.
@@ -53,8 +51,9 @@
  
 ===== translationNotes: =====
 
-  * **The one who has not been taught** - "The simple" or "The naive" AT: "The person who has not learned" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **prudent** - See how you translated this word in [[:en:bible:notes:pro:12:23|12:23]].
+  * **naive** - "inexperienced, immature"
+  * **his steps** - Here the idea of footsteps represents a person's behavior. AT: "his actions" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **turns away from evil** - Here evil is spoken of as if it were a place. AT: "avoids doing evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **confidently dismisses** - "boldly ignores"
 
  
@@ -71,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

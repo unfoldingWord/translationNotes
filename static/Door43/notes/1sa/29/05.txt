@@ -14,7 +14,7 @@
 <usfm>
 \v 5 Have you forgotten that David is the one about whom the Israelites dance and sing, saying,
 \q1 'Saul has killed a thousand of our enemies,
-\q2 but David has killed ten thousand of them!'?"
+\q2 but David has killed ten thousand of them'?"
 
 
 \p
@@ -23,9 +23,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 5 Is this not the David of whom they sang one to another in dances, saying:
+\v 5 Is this not David of whom they sang one to another in dances, saying,
 \q 'Saul has slain his thousands,
-\q And David his ten thousands?'"
+\q and David his ten thousands'?"
 </usfm>
 
 ===== translationWords: =====
@@ -35,7 +35,7 @@
 
 ===== translationNotes: =====
 
-  * **Is this not the David of whom they sang one to another in dances ... ten thousands?** - This rhetorical question can be translated as a statement. AT: "This is certainly David, of whom they sang one to another in dances ... ten thousands!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Is this not David of whom they sang one to another in dances, saying, 'Saul ... ten thousands'?** - This rhetorical question can be translated as a statement. AT: "You should not trust David—he is the one of whom they sang one to another in dances, saying, 'Saul ... ten thousands'!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **thousands ... ten thousands** - "1,000s ... 10,000s" (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 ===== Links: =====
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:1sa:29]]
 **[[:en:bible:notes:1sa:29:04|<<]] | [[:en:bible:notes:1sa:29:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

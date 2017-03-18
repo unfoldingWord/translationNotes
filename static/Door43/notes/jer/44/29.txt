@@ -36,10 +36,12 @@
 
 ===== translationNotes: =====
 
-  * **my words will certainly attack you with disaster** - AT: "what I have said will happen and you will have a disaster." (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **I am about to give over Pharaoh Hophra, king of Egypt, into the hand of his enemies** - AT: "I will allow Pharaoh Hophra's enemies to capture him" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **I am setting against** - This is an idiom. AT: "I am opposed to you" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **my words will certainly attack you with disaster** - Yahweh causing disaster on the people as he promised is spoken of as if his word would attack them. AT: "what I have said will happen and you will have a disaster." (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **I am about to give Pharaoh Hophra king of Egypt into the hand of his enemies and into the hand of those who seek to kill him** - Here "hand" represents power or control. AT: "I will allow the enemies who want to kill Pharaoh Hophra, the king of Egypt, to defeat him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Hophra** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **and the ones seeking his life** - AT: "and the people who want to kill him." (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **when I gave Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, his enemy who sought his life** - Here "hand" represents power or control. And, Nebuchadnezzar represents his whole army. The phrase "sought his life" is an idiom that means to want to kill someone. AT: "when I allowed the army of Nebuchadnezzar to defeat Zedekiah king of Judah"  (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -48,6 +50,6 @@
   * [[:en:bible:questions:comprehension:jer:44]]
 **[[:en:bible:notes:jer:44:26|<<]] | [[:en:bible:notes:jer:45:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

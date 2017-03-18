@@ -33,10 +33,10 @@ Hattush, a descendant of Shecaniah in the clan descended from King David.
 \c 8
 \p
 \v 1 These are the leaders of their ancestors' families who left Babylon with me during the reign of King Artaxerxes.
-\v 2 Of the descendants of Phinehas: Gershom. 
-Of the descendants of Ithamar: Daniel. 
-Of the descendants of David: Hattush. 
-\v 3 Of the descendants of Shecaniah, descendants of Parosh: Zechariah. With him were listed 150 males.
+\v 2 Of the descendants of Phinehas, Gershom.
+Of the descendants of Ithamar, Daniel.
+Of the descendants of David, Hattush,
+\v 3 who was of the descendants of Shecaniah, who was from the descendants of Parosh; and Zechariah, and with him there were 150 males listed in the record of his genealogy.
 </usfm>
 
 
@@ -54,25 +54,26 @@ Of the descendants of David: Hattush.
 ===== translationNotes: =====
 
   * **General Information:** - There is an apparent shift in authorship beginning here. Chapters 1-7 were written as if the author was writing about Ezra. Chapter 8 was written as if the author was Ezra.
+  * **General Information:** - Verses 2-14 is a list of leaders and their ancestors. All of them are men. (See: [[:en:ta:vol1:translate:translate_names]])
 
-  * **General Information:** - This section contains a list of names of men (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Of the descendants of Phinehas, Gershom** - This is the first item in the list. It can be written with the verb "was." AT: "The leader of the descendants of Phinehas was Gershom" or "Gershom was the leader of the descendants of Phinehas"
+  * **Of the descendants of Ithamar, Daniel** - This is the second item in the list. It can be written with the verb "was." AT: "The leader of the descendants of Ithamar was Daniel" or "Daniel was the leader of the descendants of Ithamar"
+  * **Parosh** - Translate this man's name as you did in [[:en:bible:notes:ezr:02:03|2:03]]. 
+  * **Of the descendants of David, Hattush, who was ... Parosh; and Zechariah** - This is the third item in the list. It can be written with the verb "were." AT: "The leaders of the descendants of David were Hattush who was ... Parosh; and Zechariah" or "The leaders of the descendants of David were Hattush and Zechariah. Hattush was from ... Parosh" 
+  * **Hattush, who was of the descendants of Shecaniah, who was from the descendants of Parosh** - This can be written as a separate sentence after "Zechariah." AT: "Hatush was a descendant of Shecaniah, who was a descendant of Parosh"
+  * **and with him there were 150 males listed in the record of his genealogy** - "and with Zechariah there were 150 males listed in the record of his genealogy"
 
-  * **Parosh** - See how you translated this in [[:en:bible:notes:ezr:02:03|2:03]]. 
-  * **150 males** - number of men and boys (See: [[:en:ta:vol2:translate:translate_numbers]])
- 
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
   * [[:en:bible:notes:ezr:08:00]]
   * [[:en:bible:questions:comprehension:ezr:08]]
-
- 
-
 **[[:en:bible:notes:ezr:07:27|<<]] | [[:en:bible:notes:ezr:08:04|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit phinehas}}
+{{tag>publish p2pass phinehas}}
 
 ~~NOCACHE~~

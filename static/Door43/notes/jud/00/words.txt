@@ -1,4 +1,4 @@
-======= List of translationWords in Jude =======
+===== List of translationWords in Jude =====
 
 * [[:en:obe:other:adam]] is found in:
  [[:en:bible:notes:jud:01:14|01:14]]
@@ -15,8 +15,14 @@
 * [[:en:obe:kt:authority]] is found in:
  [[:en:bible:notes:jud:01:07|01:07]]
 
+* [[:en:obe:other:balaam]] is found in:
+ [[:en:bible:notes:jud:01:09|01:09]]
+
 * [[:en:obe:kt:believe]] is found in:
  [[:en:bible:notes:jud:01:05|01:05]]
+
+* [[:en:obe:kt:believer]] is found in:
+ [[:en:bible:notes:jud:01:03|01:03]]
 
 * [[:en:obe:kt:beloved]] is found in:
  [[:en:bible:notes:jud:01:01|01:01]], [[:en:bible:notes:jud:01:03|01:03]], [[:en:bible:notes:jud:01:17|01:17]], [[:en:bible:notes:jud:01:20|01:20]]
@@ -28,10 +34,7 @@
  [[:en:bible:notes:jud:01:01|01:01]]
 
 * [[:en:obe:kt:condemn]] is found in:
- [[:en:bible:notes:jud:01:03|01:03]], [[:en:bible:notes:jud:01:09|01:09]]
-
-* [[:en:obe:other:creature]] is found in:
- [[:en:bible:notes:jud:01:09|01:09]]
+ [[:en:bible:notes:jud:01:03|01:03]]
 
 * [[:en:obe:kt:darkness]] is found in:
  [[:en:bible:notes:jud:01:05|01:05]], [[:en:bible:notes:jud:01:12|01:12]]
@@ -43,9 +46,6 @@
  [[:en:bible:notes:jud:01:07|01:07]]
 
 * [[:en:obe:other:egypt]] is found in:
- [[:en:bible:notes:jud:01:05|01:05]]
-
-* [[:en:obe:kt:elect]] is found in:
  [[:en:bible:notes:jud:01:05|01:05]]
 
 * [[:en:obe:other:enoch]] is found in:
@@ -85,7 +85,7 @@
  [[:en:bible:notes:jud:01:07|01:07]], [[:en:bible:notes:jud:01:24|01:24]]
 
 * [[:en:obe:kt:god]] is found in:
- [[:en:bible:notes:jud:01:20|01:20]], [[:en:bible:notes:jud:01:24|01:24]]
+ [[:en:bible:notes:jud:01:24|01:24]]
 
 * [[:en:obe:kt:godthefather]] is found in:
  [[:en:bible:notes:jud:01:01|01:01]]
@@ -109,7 +109,7 @@
  [[:en:bible:notes:jud:01:01|01:01]]
 
 * [[:en:obe:kt:jesus]] is found in:
- [[:en:bible:notes:jud:01:01|01:01]], [[:en:bible:notes:jud:01:03|01:03]], [[:en:bible:notes:jud:01:17|01:17]], [[:en:bible:notes:jud:01:24|01:24]]
+ [[:en:bible:notes:jud:01:01|01:01]], [[:en:bible:notes:jud:01:03|01:03]], [[:en:bible:notes:jud:01:17|01:17]], [[:en:bible:notes:jud:01:20|01:20]], [[:en:bible:notes:jud:01:24|01:24]]
 
 * [[:en:obe:kt:joy]] is found in:
  [[:en:bible:notes:jud:01:24|01:24]]
@@ -123,17 +123,11 @@
 * [[:en:obe:kt:love]] is found in:
  [[:en:bible:notes:jud:01:01|01:01]], [[:en:bible:notes:jud:01:12|01:12]], [[:en:bible:notes:jud:01:20|01:20]]
 
-* [[:en:obe:other:lust]] is found in:
- [[:en:bible:notes:jud:01:17|01:17]]
-
 * [[:en:obe:kt:majesty]] is found in:
  [[:en:bible:notes:jud:01:24|01:24]]
 
 * [[:en:obe:kt:mercy]] is found in:
  [[:en:bible:notes:jud:01:01|01:01]], [[:en:bible:notes:jud:01:20|01:20]], [[:en:bible:notes:jud:01:22|01:22]]
-
-* [[:en:obe:other:mind]] is found in:
- [[:en:bible:notes:jud:01:09|01:09]]
 
 * [[:en:obe:other:mock]] is found in:
  [[:en:bible:notes:jud:01:17|01:17]]
@@ -150,9 +144,6 @@
 * [[:en:obe:kt:power]] is found in:
  [[:en:bible:notes:jud:01:24|01:24]]
 
-* [[:en:obe:other:praise]] is found in:
- [[:en:bible:notes:jud:01:14|01:14]]
-
 * [[:en:obe:other:pray]] is found in:
  [[:en:bible:notes:jud:01:20|01:20]]
 
@@ -167,9 +158,6 @@
 
 * [[:en:obe:other:reject]] is found in:
  [[:en:bible:notes:jud:01:07|01:07]]
-
-* [[:en:obe:kt:saint]] is found in:
- [[:en:bible:notes:jud:01:03|01:03]]
 
 * [[:en:obe:kt:salvation]] is found in:
  [[:en:bible:notes:jud:01:03|01:03]]
@@ -188,9 +176,6 @@
 
 * [[:en:obe:other:shame]] is found in:
  [[:en:bible:notes:jud:01:12|01:12]]
-
-* [[:en:obe:kt:sign]] is found in:
- [[:en:bible:notes:jud:01:05|01:05]]
 
 * [[:en:obe:kt:sin]] is found in:
  [[:en:bible:notes:jud:01:14|01:14]]

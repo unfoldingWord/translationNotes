@@ -14,8 +14,7 @@
 <usfm>
 \v 21 Joram said to his soldiers, "Get my chariot ready." So they did that. Then King Joram and King Ahaziah both rode toward Jehu, each one in his own chariot. And it happened that they met Jehu at the field that had previously belonged to Naboth!
 \v 22 When Joram met Jehu, he said to him, "Are you coming to act peacefully toward me?"
-\p Jehu replied, "How can there be peace while you and your people are bowing down to idols and practicing very much witchcraft like your mother Jezebel did?" 
-
+\p Jehu replied, "How can there be peace while you and your people are bowing down to idols and practicing very much witchcraft like your mother Jezebel did?"
 
 \p
 </usfm>
@@ -39,8 +38,11 @@
   * [[:en:obe:other:jezebel]]
 ===== translationNotes: =====
 
+  * **each in his chariot** - "each in his own chariot" (UDB)
   * **They found him at** - "When they reached Jehu, he was at"
-  * **What peace is there, when the idolatrous acts of prostitution and witchcraft of your mother Jezebel are so many?** - AT: "There can be no peace as long as your mother Jezebel practices and promotes so much idolatry in the form of prostitution and witchcraft." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Naboth** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Jezreelite** - This refers to a person from Jezreel. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **What peace is there, when the idolatrous acts of prostitution and witchcraft of your mother Jezebel are so many?** - Jehu uses this rhetorical question to state why he is not coming in peace. This can be stated in active form. AT: "There can be no peace as long as your mother Jezebel practices and promotes so much idolatry in the form of prostitution and witchcraft." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 
 ===== Links: =====
@@ -50,6 +52,6 @@
   * [[:en:bible:questions:comprehension:2ki:09]]
 **[[:en:bible:notes:2ki:09:19|<<]] | [[:en:bible:notes:2ki:09:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

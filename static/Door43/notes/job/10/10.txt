@@ -42,12 +42,14 @@
 
 ===== translationNotes: =====
 
-  * **Have you not poured me out like milk and curdled me like cheese?** - This is a question that expects a positive answer. It describes a baby being formed in the womb. AT: "You formed me in the womb just as poured milk becomes cheese." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **You** - This word refers to God.
-  * **me** - This word refers to Job.
-  * **You have clothed me with skin and flesh** - Job uses the language of poetry to further describe how God has created him. AT: "You created my physical body"
-  * **knit me together** - AT: "wove me together" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **sinews** - This word refers to the ligaments or bands that hold the bones together.
+  * **General Information:** - In these verses, Job uses the language of poetry to describe how God formed him in the womb. (See: [[:en:ta:vol2:translate:writing_poetry]])
+
+  * **Have you not poured me out like milk and curdled me like cheese?** - This is a question that expects a positive answer. AT: "You poured me out like milk and curdled me like cheese." or "You formed me in the womb like poured milk becomes cheese." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **you** - Here "you" refers to God.
+  * **me** - Here "me" refers to Job.
+  * **You have clothed me with skin and flesh** - God putting skin and flesh on Job's body is spoken of as if God was putting clothing on him. AT: "You have put skin and flesh on my body" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **knit me together** - "wove me together." God putting Job's body together in the womb is spoken of as if God was knitting or weaving a piece of cloth. AT: "put me together" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **sinews** - "tendons." These are the parts of the body that connect muscles to bones or other body parts and are like tough, white bands or cords.
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -55,6 +57,6 @@
   * [[:en:bible:questions:comprehension:job:10]]
 **[[:en:bible:notes:job:10:08|<<]] | [[:en:bible:notes:job:10:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

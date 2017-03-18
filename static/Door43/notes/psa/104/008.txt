@@ -22,7 +22,7 @@
 \q1
 \v 9 Then you set a boundary for the oceans, a boundary that they cannot cross;
 \q2 their water will never again cover the whole earth.
-\b
+
 
 
 \q1
@@ -45,10 +45,10 @@
   * [[:en:obe:kt:appoint]]
 ===== translationNotes: =====
 
-  * **The mountains rose, and the valleys spread out** - Here David speaks of God causing the mountains and valleys move and change as if they chose to move themselves. They are described this way to emphasize God's power. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **a boundary for them that they will not cross** - Here David speaks of God causing the waters not to cross the boundary that he created for them as if the waters themselves chose not to cross it. They are described this way to emphasize God's authority over them. AT: "a boundary for them that they cannot  cross" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **The mountains rose, and the valleys spread out** - Here the psalmist speaks of God causing the mountains and valleys to move and change as if they chose to move themselves. They are described this way to emphasize God's power. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **a boundary for them that they will not cross** - Here the psalmist speaks of God causing the waters not to cross the boundary that he created for them as if the waters themselves chose not to cross it. They are described this way to emphasize God's authority over them. AT: "a boundary for them that they cannot cross" (See: [[:en:ta:vol2:translate:figs_personification]])
   * **boundary** - "line" or "border"
-  * **You have set a boundary for them** - The word "them" refers to the waters. 
+  * **for them** - The word "them" refers to the waters. 
  
 ===== Links: =====
 
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:104]]
 **[[:en:bible:notes:psa:104:006|<<]] | [[:en:bible:notes:psa:104:010|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

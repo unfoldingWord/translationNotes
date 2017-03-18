@@ -35,7 +35,7 @@
 
 <usfm>
 \q1
-\v 16 I have placed my words in your mouth, and I have covered you in the shadow of my hand, 
+\v 16 I have placed my words in your mouth, and I have covered you in the shadow of my hand,
 \q1 that I may plant the heavens, lay the foundations of the earth, and say to Zion, 'You are my people.'"
 </usfm>
 
@@ -53,10 +53,10 @@
 ===== translationNotes: =====
 
 
-  * **I have placed my words in your mouth** - Here "I" refers to Yahweh and "your" refers to his servant. AT: "I have told you what to say" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **and I have covered you in the shadow of my hand** - This symbolizes God's protection. AT: "and my power has kept you safe" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **that I may plant the heavens** - This means the same as "stretch out the heavens." Here it emphasizes God's power to restore the heavens in the future. See how you translated a similar phrase in [[:en:bible:notes:isa:40:21|40:22]]. 
-  * **lay the foundations of the earth** - This emphasizes God's power to restore the earth in the future. See how you translated a similar phrase in [[:en:bible:notes:isa:24:17|24:18]].
+  * **I have placed my words in your mouth** - This speaks of Yahweh telling Isaiah what to say as if his words were a physical object Yahweh had placed in Isaiah's mouth. AT: "I have told you what to say" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I have covered you in the shadow of my hand** - Yahweh's "hand" refers to his power. This speaks of Yahweh protecting Isaiah as if his hand were covering him to protect him. AT: "my power has kept you safe" or "I have protected you and kept you safe" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **that I may plant the heavens** - The word "plant" means to establish something in the ground. Here Yahweh firmly establishing the heavens is spoken of as if the heavens were a tent that he would spread out and firmly set it in place with tent pegs. AT: "that I may establish the heavens" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **lay the foundations of the earth** - The word "foundation" normally refers to a stone structure that gives support to a building from underneath. Here it describes a similar structure that was thought to support and hold the earth in place. See how you translated a similar phrase in [[:en:bible:notes:isa:24:17|24:18]].
 
  
 ===== Links: =====
@@ -66,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:51]]
 **[[:en:bible:notes:isa:51:14|<<]] | [[:en:bible:notes:isa:51:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

@@ -20,7 +20,6 @@
 \q1 He causes those cities to collapse into the dust.
 \q1
 \v 6 When that happens, poor and oppressed people will trample on the ruins.
-\b
 
 
 \q1
@@ -30,7 +29,7 @@
 
 <usfm>
 \q1
-\v 5 For he will bring down those who live proudly; the fortified city 
+\v 5 For he will bring down those who live proudly; the fortified city
 \q1 he will lay low, he will lay low to the ground; he will level it to the dust.
 \q1
 \v 6 It will be trampled down by the feet of the poor and the treading of the needy.
@@ -39,10 +38,14 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:proud]]
+  * [[:en:obe:other:stronghold]]
 
 ===== translationNotes: =====
 
-  * **It will be trampled down by the feet of the poor and the treading of the needy** - This can be stated in active form. AT: "The feet of the poor with trample it, and the needy will tread on it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he will bring down those who live proudly** - Yahweh humiliating those who are proud is spoken of as if proud people were up high and he would cause them to come down low. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the fortified city** - This means fortified cities in general not a specific city. (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **he will lay low ... he will level** - Yahweh causing an army to destroy fortified cities is spoken of as if Yahweh would do it himself. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **It will be trampled down by the feet of the poor and the treading of the needy** - Both statements mean the same thing. This can be stated in active form. AT: "The poor and oppressed people will trample on the ruins of the city" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -51,6 +54,6 @@
   * [[:en:bible:questions:comprehension:isa:26]]
 **[[:en:bible:notes:isa:26:03|<<]] | [[:en:bible:notes:isa:26:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

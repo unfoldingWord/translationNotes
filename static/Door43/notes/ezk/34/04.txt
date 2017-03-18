@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 You have taken care of the sick sheep; you have paid no attention to those who are wounded. You have not looked for the sheep who have wandered off. You rule over them with force and violence.
+\v 4 You have not taken care of the sick sheep; you have paid no attention to those who are wounded. You have not looked for the sheep who have wandered off. You rule over them with force and violence.
 \v 5 Because you did not take care of them, my people have wandered away like sheep. And while they are scattered, wild animals attack and kill them, and then eat their flesh.
 \v 6 My people wander like sheep all over the high hills and mountains. They are scattered all over the earth, and no one is searching for them.
 
@@ -36,17 +36,18 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues giving Ezekiel his message to the leaders of Israel. 
+  * **General Information:** - Yahweh continues giving Ezekiel his message to the leaders of Israel.
+  * **General Information:** - Yahweh continues speaking of the people of Israel as if they were a flock of sheep and the leaders of Israel were the shepherds that were supposed to care for the flock but have not. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
   * **have diseases** - Possible meanings are 1) "are sick" or 2) "are weak"
-  * **bind up** - "You do not wrap cloth around wounds and broken bones of"
-  * **the ones who are broken** - AT: "the sheep that have broken bones" or "the sheep that are injured" 
+  * **You do not bind up the ones who are broken** - "You do not wrap cloth around the broken bones of those who are wounded"
+  * **the ones who are broken** - "the sheep that have broken bones" or "the sheep that are injured" 
   * **you do not restore** - "you do not bring back"
-  * **the outcast** - "the sheep that have been chased away" or "the weak sheep that stronger sheep have chased away"
-  * **the lost** - AT: "the sheep or goat that has gotten lost" or "the ones that have wandered away"
+  * **the outcasts** - "the sheep that have been chased away" or "those that others have chased away"
+  * **the lost** - The words "any sheep or goat" is left out of this phrase, but they are intended to be understood. AT: "any sheep or goats that are lost" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **through strength and violence** - "forcefully and cruelly"
-  * **without a shepherd** - "because they did not have a shepherd." AT: "because you did not do what the shepherd should do."
-  * **they became food for all the living beasts in the fields** - AT: "all of the wild animals could attack and eat them"
+  * **Then they were scattered without a shepherd** - This can be stated in active form. AT: "Then they scattered because they did not have shepherd" or "they scattered because you did not do what the shepherd should do" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they became food for all the living beasts in the fields** - "all of the wild animals could attack and eat them"
   * **it is dispersed over the entire surface of the earth** - "my flock is spread out all over the earth"
 ===== Links: =====
 
@@ -55,6 +56,6 @@
   * [[:en:bible:questions:comprehension:ezk:34]]
 **[[:en:bible:notes:ezk:34:01|<<]] | [[:en:bible:notes:ezk:34:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

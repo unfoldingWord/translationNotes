@@ -24,7 +24,6 @@
 \v 41 the descendants of Pashhur, 1,247,
 \li2
 \v 42 the descendants of Harim, 1,017.
-\b
 
 
 \pi
@@ -34,7 +33,7 @@
 
 <usfm>
 \p
-\v 39 The priests: The descendants of Jedaiah (of the house of Jeshua), 973.
+\v 39 The priests: the descendants of Jedaiah (of the house of Jeshua), 973.
 \v 40 The descendants of Immer, 1,052.
 \v 41 The descendants of Pashhur, 1,247.
 \v 42 The descendants of Harim, 1,017.
@@ -47,9 +46,10 @@
   * [[:en:obe:other:house]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile.
+  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile. (See [[:en:ta:vol2:translate:translate_numbers]])
 
-  * **Jedaiah ... Immer ... Pashhur ... Harim** - These are all male names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Jedaiah ... Jeshua ... Immer ... Pashhur ... Harim** - These are all names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **of the house of Jeshua** - The word "house" is a metonym for family. AT: "from the family of Jeshua" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:neh:07]]
 **[[:en:bible:notes:neh:07:35|<<]] | [[:en:bible:notes:neh:07:43|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -33,9 +33,8 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 22 Therefore this is what Yahweh says concerning the house of Jacob—Yahweh, who redeemed Abraham, 
+\v 22 Therefore this is what Yahweh says concerning the house of Jacob—Yahweh, who redeemed Abraham,
 \q1 "Jacob will no longer be ashamed, nor will his face be pale.
 \q1
 \v 23 But when he sees his children, the work of my hands, they will make my name holy.
@@ -64,13 +63,17 @@
 
 ===== translationNotes: =====
 
-  * **Jacob will no longer** - This refers to all the descendants of Jacob. AT: "Jacob's descendants will no longer" or "The people of Israel will no longer" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **nor will his face be pale** - An afraid person is said to have a pale face. AT: "nor will they be afraid" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **But when he sees his children, the work of my hands** - "When they see all the children I have given them and all that I have done"
-  * **They will make holy the name of the Holy One of Jacob** - "Name" refers to the person of God. AT: "They will honor the Holy One of Jacob" or "They will honor my reputation" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Those who err in spirit** - "Those who are wrong in what they think" or "Those who are wrong in their attitude"
-  * **will gain understanding** - This can be made more explicit, to show that it is the knowledge of God that is meant. AT: "will grow to understand God and his laws" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **complainers will learn knowledge** - This can be reworded so that the abstract noun "knowledge" is expressed as the verb "know." AT: "those who complain will begin to know God's truth" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the house of Jacob** - Here "house" represents a family. AT: "the descendants of Jacob" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who redeemed Abraham** - This possibly refers to when Yahweh called Abraham from his home country and sent him to the promised land. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Jacob will no longer ... his face ... he sees his children** - Here "Jacob" represents his descendants. AT: "Jacob's descendants will no longer ... their faces ... they see their children" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **nor will his face be pale** - This is an idiom that means they will no longer be afraid. AT: "nor will they be afraid" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **But when he sees his children, the work of my hands** - Here "hands" represents Yahweh's power and action. AT: "When they see all the children I have given them and all that I have done" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they will make my name holy** - Here "name" represents Yahweh. AT: "they will honor me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They will make holy the name of the Holy One of Jacob** - Here "name" represents Yahweh. Yahweh refers to himself as "the Holy One of Jacob." AT: "They will honor me, the Holy One of Jacob" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_123person]])
+  * **of the God of Israel** - Yahweh refers to himself as "the God of Israel." AT: "of me, the God of Israel" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Those who err in spirit** - Here "spirit" represents a person's inner being. AT: "Those who are wrong in what they think" or "Those who are wrong in their attitude" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will gain understanding** - This can be made more explicit to explain what they will understand. AT: "will begin to understand Yahweh and his laws" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **complainers will learn knowledge** - This can be made more explicit to explain what knowledge they will learn. AT: "those who complain will begin to know that what Yahweh teaches them is true" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -79,6 +82,6 @@
   * [[:en:bible:questions:comprehension:isa:29]]
 **[[:en:bible:notes:isa:29:20|<<]] | [[:en:bible:notes:isa:30:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

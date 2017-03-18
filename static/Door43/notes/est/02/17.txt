@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 The king loved Esther more than all the other women, and she won favor and kindness before him, more than all the other virgins, so that he set the royal crown on her head and made her queen instead of Vashti.
+\v 17 The king loved Esther more than all the other women and she received acceptance and favor before him, more than all the other virgins. So he set the royal crown on her head and made her queen instead of Vashti.
 \v 18 The king gave a great feast for all his officials and his servants, "Esther's feast," and he granted relief from taxation to the provinces. He also gave gifts with royal generosity.
 </usfm>
 
@@ -37,32 +37,31 @@
   * [[:en:obe:kt:favor]]
   * [[:en:obe:other:virgin]]
   * [[:en:obe:other:vashti]]
-  * [[:en:obe:other;feast]]
+  * [[:en:obe:other:feast]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:other:tax]]
 
 ===== translationNotes: =====
 
-
-  * **The king loved** - This is the romantic use of the word "love".
+  * **The king loved** - This is the romantic use of the word "love."
+  * **received acceptance and favor before him** - These idioms mean the same thing and emphasize how much the Esther pleased the king. AT: "greatly pleased him" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_doublet]])
+  * **set the royal crown on her head** - The king did this to show that he was making her his queen. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **"Esther's feast,"** - It may be helpful to state that this is the name of the feast. AT: "he called it, "Esther's feast," (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **taxation** - "the collection of taxes"
-  * **provinces** - Use the same word or phrase used in [[:en:bible:notes:est:01:01|Esther 1:1]]
+  * **provinces** - A "province" is a large area into which some countries are divided for the purposes of government. Translate this as in [[:en:bible:notes:est:01:01|1:1]].
+  * **royal generosity** - "generosity that only a king can give" (UDB)
 
 
- 
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
   * [[:en:bible:notes:est:02:00]]
   * [[:en:bible:questions:comprehension:est:02]]
-
- 
-
 **[[:en:bible:notes:est:02:15|<<]] | [[:en:bible:notes:est:02:19|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit vashti}}
+{{tag>publish p2pass vashti}}
 
 ~~NOCACHE~~

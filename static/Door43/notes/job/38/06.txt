@@ -22,7 +22,6 @@
 \q2 and someone put in place the stone that causes the earth to stay in its place,
 \q2 and all the angels shouted joyfully when they saw that happen,
 \q1 who laid that cornerstone?
-\b
 
 
 \q1
@@ -38,7 +37,6 @@
 \q
 \v 7 when the morning stars sang together
 \q and all the sons of God shouted for joy?
-\b
 </usfm>
 
 
@@ -51,13 +49,18 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to challenge Job.
+  * **Connecting Statement:** - Yahweh continues to challenge Job.
+  * **General Information:** - The word "its" refers to the earth.
+  * **General Information:** - Yahweh uses another question to emphasize that he created the earth and Job did not. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
-  * **On what ... cornerstone** - Yahweh uses these questions to emphasize that Job does not know how Yahweh made the earth. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **On what were its foundations laid** - What did I put the foundations of the earth on." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **On what were its foundations laid?** - This can be translated as a statement. AT: "Tell me on what its foundations were laid." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **On what were its foundations laid** - This can be stated in active form. "On what did I set its foundations" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Who laid its cornerstone when ... the sons of God shouted for joy?** - This can be translated as a statement. AT: "Tell me who laid its cornerstone when ... the sons of God shouted for joy." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **when the morning stars sang together and all the sons of God shouted for joy** - These two lines are similar in meaning. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **when the morning stars sang together** - The morning stars are spoken of as singing like people sing. Possible meanings are: 1) the "morning stars" are the same as the "sons of God" in the next line or 2) "the morning stars" refer to stars in the sky (See: [[:en:ta:vol2:translate:figs_personification]])
   * **the morning stars** - "the bright stars that shine in the morning"
-  * **when the morning stars sang together** - Yahweh describes the stars as though they were people who could sing. AT: "when it was as though the morning stars sang together." (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **the sons of God** - "the angels"
+  * **sons of God** - This refers to angels, heavenly beings. See how you translated this in [[:en:bible:notes:job:01:06|1:6]].
+  * **shouted for joy** - The abstract noun "joy" can be translated as the adverb "joyfully." AT: "shouted joyfully" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **for joy** - "because they were full of joy"
 
 ===== Links: =====
@@ -73,6 +76,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

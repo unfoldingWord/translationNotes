@@ -22,7 +22,7 @@
 \q1
 \v 2 You started to rule as king a very long time ago;
 \q2 you have always existed.
-\b
+
 
 
 \q1
@@ -32,7 +32,6 @@
 
 <usfm>
 \c 93
-\p
 \q
 \v 1 Yahweh reigns; he is robed in majesty;
 \q Yahweh has clothed and girded himself with strength.
@@ -44,34 +43,34 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:other:reign]]
-  * [[:en:obe:kt:majesty]]
-  * [[:en:obe:kt:clothed]]
-  * [[:en:obe:kt:world]]
-  * [[:en:obe:other:throne]]
-  * [[:en:obe:other:time]]
-  * [[:en:obe:kt:eternity]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:other:reign|reign]]
+  * [[:en:obe:kt:majesty|majesty]]
+  * [[:en:obe:kt:clothed|clothe, clothed]]
+  * [[:en:obe:kt:world|world, worldly]]
+  * [[:en:obe:other:throne|throne]]
+  * [[:en:obe:other:time|time]]
+  * [[:en:obe:kt:eternity|everlasting, eternal, eternity]]
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry|Poetry]] and [[:en:ta:vol2:translate:figs_parallelism|Parallelism]])
 
-  * **he is robed in majesty; Yahweh has clothed and girded himself with strength** - The psalmist speaks of Yahweh's strength and majesty as if they were things Yahweh wears. AT: "he shows everyone that he is a powerful king" or "his majesty there for all to see, like the robe a king wears; everything about Yahweh shows that he is strong and he is ready to do great work" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **he is robed in majesty; Yahweh has clothed and girded himself with strength** - The psalmist speaks of Yahweh's strength and majesty as if they were things Yahweh wears. AT: "he shows everyone that he is a powerful king" or "his majesty is there for all to see, like the robe a king wears; everything about Yahweh shows that he is strong and he is ready to do great work" (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]] and [[:en:ta:vol1:translate:figs_simile|Simile]])
   * **majesty** - the power of a king and the way a king acts
   * **girded himself** - put on a belt—a band of leather or another material that a person wears around his waist—to prepare for work or battle
-  * **The world is firmly established** - This can be stated in active form. AT: "You have firmly established the world" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **it cannot be moved** - This can be stated in active form. AT: "no one will ever move it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Your throne is established from ancient times** - This can be stated in active form. AT: "You established your throne in ancient times" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The world is firmly established** - This can be stated in active form. AT: "You have firmly established the world" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **it cannot be moved** - This can be stated in active form. AT: "no one will ever move it" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **Your throne is established from ancient times** - This can be stated in active form. AT: "You established your throne in ancient times" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
   * **you are from everlasting** - "you have always existed"
-
 ===== Links: =====
 
-  * [[:en:bible:notes:psa:000:intro]]
-  * [[:en:bible:notes:psa:093:000]]
-  * [[:en:bible:questions:comprehension:psa:093]]
+  * [[:en:bible:notes:psa:000:intro|Introduction to Psalms]]
+  * [[:en:bible:notes:psa:093:000|Psalm 093 General Notes]]
+  * [[:en:bible:questions:comprehension:psa:093|Psalm 093 Translation Questions]]
+
 **[[:en:bible:notes:psa:092:014|<<]] | [[:en:bible:notes:psa:093:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

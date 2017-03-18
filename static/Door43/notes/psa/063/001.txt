@@ -19,7 +19,6 @@
 \v 1 God, you are the God whom I worship.
 \q1 I greatly desire to be with you
 \q2 as a person in a dry hot wilderness greatly desires some water.
-\b
 \q1
 \v 2 I have been with you in your temple
 \q1 In order to see that you are loving and powerful.
@@ -32,9 +31,8 @@
 
 <usfm>
 \c 63
-\p
+\m
 \d A psalm of David, when he was in the wilderness of Judah.
-\b
 \q
 \v 1 God, you are my God! I earnestly search for you,
 \q my soul thirsts for you, and my flesh longs for you,
@@ -59,7 +57,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **earnestly** - "sincerely"
@@ -73,6 +71,6 @@
   * [[:en:bible:questions:comprehension:psa:063]]
 **[[:en:bible:notes:psa:062:011|<<]] | [[:en:bible:notes:psa:063:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

@@ -36,11 +36,10 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 5 Hear the word of Yahweh, you who tremble at his word,
 \q1 "Your brothers who hate and exclude you for my name's sake have said,
-\q1 'May Yahweh be glorified, then we will see your joy,' 
+\q1 'May Yahweh be glorified, then we will see your joy,'
 \q1 but they will be put to shame.
 </usfm>
 
@@ -65,6 +64,6 @@
   * [[:en:bible:questions:comprehension:isa:66]]
 **[[:en:bible:notes:isa:66:04|<<]] | [[:en:bible:notes:isa:66:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

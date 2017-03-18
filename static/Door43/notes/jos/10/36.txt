@@ -42,6 +42,7 @@
 ===== translationNotes: =====
 
   * **Eglon** - This is the name of a city. See how you translated this in [[:en:bible:notes:jos:10:03|10:3]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **They captured it and struck with the sword** - The sword represents the army of Israel and striking expresses the idea of slaughter and destruction. AT: "They captured and killed and destroyed" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **They completely destroyed every living creature in it, leaving no survivors ... He completely destroyed it, and every living creature in it.** - These two sentence are saying basically the same thing and are combined for emphasis. Together they emphasize the completeness of the destruction of Hebron. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 ===== Links: =====
 
@@ -56,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

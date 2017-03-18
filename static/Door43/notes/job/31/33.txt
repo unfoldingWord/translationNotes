@@ -24,7 +24,6 @@
 \v 34 and I never remained silent and refused to go outside
 \q2 because I was afraid of what people would say about me,
 \q2 and that they would hate me.
-\b
 
 
 \q1
@@ -36,11 +35,11 @@
 <usfm>
 \q
 \v 33 If, like mankind, I have hidden my sins
-\q by hiding my iniquity in my heart,
+\q by hiding my guilt inside my tunic
 \q
-\v 34 and if I did this because I stood in great fear of the multitude,
+\v 34 (because I feared the great multitude,
 \q because the contempt of families terrified me,
-\q so that I kept silent and would not go outside, 
+\q so that I kept silent and would not go outside),
 \q then bring charges against me!
 </usfm>
 
@@ -55,8 +54,9 @@
 
   * **General Information:** - Job continues describing situations in which he would deserve God's punishment, but he knows they are not true. (See: [[:en:ta:vol1:translate:figs_hypo]])
 
-  * **because I stood in great fear of the great multitude, because the contempt of families terrified me** - These mean the same thing. They emphasize that a person may hide his sin because he fears what other people may say. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-
+  * **If ... I have hidden my sins** - Here "have hidden my sins" represents trying to keep people from knowing that he had sinned. AT: "If ... I have tried to keep my sins a secret" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **by hiding my guilt inside my tunic** - This represents trying to keep people from knowing that he is guilty.  AT: "by hiding the evidence of my guilt inside my tunic" or "like one who hides the evidence of his guilt inside his tunic" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **because I feared the great multitude, because the contempt of families terrified me** - This would be the reason for hiding his sins. These mean the same thing. They emphasize that a person may hide his sin because he fears what other people may think about him. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -64,6 +64,6 @@
   * [[:en:bible:questions:comprehension:job:31]]
 **[[:en:bible:notes:job:31:31|<<]] | [[:en:bible:notes:job:31:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

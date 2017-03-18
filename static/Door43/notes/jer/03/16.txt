@@ -39,8 +39,9 @@
 ===== translationNotes: =====
 
 
-  * **will increase and bear fruit** - The phrase "bear fruit" is an idiomatic way of saying that they will "increase" in number. AT: "will increase greatly in number." (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_doublet]])
- 
+  * **you will increase and bear fruit** - The word "you" refers to the people of Israel. The phrase "bear fruit" is a metaphor for having many descendants. AT: "you will increase greatly in number" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_doublet]])
+  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **This matter will no longer come up in their hearts** - Here "come up in their hearts" represents thinking about it. AT: "They will no longer think of this matter" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -54,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

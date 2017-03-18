@@ -26,7 +26,6 @@
 \q2 there will only be a few people still alive,
 \q1 like what happens when workers beat all the olives off a tree and there are only a few left,
 \q2 or when they harvest the grapes and there are only a few left on the vines.
-\b
 
 
 \q1
@@ -39,7 +38,7 @@
 \q1
 \v 12 In the city is left a desolation, and the gate is broken into a ruin.
 \q1
-\v 13 For this is how it will be on the whole earth among the nations, 
+\v 13 For this is how it will be on the whole earth among the nations,
 \q1 as when an olive tree is beaten, as the gleanings when the grape harvest is done.
 </usfm>
 
@@ -57,7 +56,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe a time in the future when God will judge the earth. Prophets sometimes describe a future event as something in the past or in the present. This emphasizes the event certainly will happen.
+  * **General Information:** - Isaiah continues to describe a time in the future when God will judge the earth. Prophets sometimes describe a future event as something in the past or in the present. This emphasizes the event certainly will happen. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+
+  * **In the city is left a desolation** - The abstract noun "desolation" can be stated as "desolate" or "empty." AT: "The city is desolate" or "The city is left empty" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **In the city** - This is not a specific city but cities in general. (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **as when an olive tree is beaten, as the gleanings when the grape harvest is done** - This compares the nations after Yahweh devastates the land to trees and vines after their fruit has been picked. This means there will be very few people left in the land. (See: [[:en:ta:vol1:translate:figs_simile]])
 
  
 ===== Links: =====
@@ -73,6 +76,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

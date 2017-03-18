@@ -37,10 +37,10 @@
 
 <usfm>
 \q1
-\v 5 The Lord Yahweh has opened my ear, 
+\v 5 The Lord Yahweh has opened my ear,
 \q1 and I was not rebellious, nor did I turn away backward.
 \q1
-\v 6 I gave my back to those who beat me, and my cheeks to those who plucked out my beard; 
+\v 6 I gave my back to those who beat me, and my cheeks to those who plucked out my beard;
 \q1 I did not hide my face from acts of shame and spitting.
 </usfm>
 
@@ -55,9 +55,10 @@
 
   * **General Information:** - The servant of Yahweh continues speaking.
 
-  * **has opened my ear** - This means enabling a person to hear. AT: "has enabled me to hear him speaking" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **and I was not rebellious, nor did I turn away backward** - These two phrases mean basically the same thing. AT: "and I obeyed what he said" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **I did not hide my face from acts of shame and spitting** - Hiding one's face means to protect oneself. AT: "I gave myself to those who mocked me and spat at me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **The Lord Yahweh has opened my ear** - Yahweh enabling his servant to hear and understand is spoken of as if Yahweh opened his ear. AT: "The Lord Yahweh has enabled me to hear and understand him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and I was not rebellious, nor did I turn away backward** - These two phrases mean basically the same thing. Disobeying what Yahweh said is spoken of as if it were turning one's back toward him. This can be stated in positive terms. AT: "and I obeyed what he said" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I gave my back to those who beat me, and my cheeks to those who plucked out my beard** - Allowing people to beat him and pluck out his beard is spoken of as if it were giving his back and cheeks to them. AT: "I allowed people to beat me on my back and to pluck out my beard from my cheeks" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **I did not hide my face from acts of shame and spitting** - Hiding one's face means to protect oneself. AT: "I did not defend myself when they mocked me and spat on me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -66,6 +67,6 @@
   * [[:en:bible:questions:comprehension:isa:50]]
 **[[:en:bible:notes:isa:50:04|<<]] | [[:en:bible:notes:isa:50:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

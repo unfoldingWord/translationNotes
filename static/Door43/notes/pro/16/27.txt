@@ -18,14 +18,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 27 A worthless man digs and digs until he finds something 
-\q2 he can use to embarrass someone and cause them trouble; 
-\q2 and what he says about them is like a fire that burns the field. 
-\b
+\v 27 A worthless man digs and digs until he finds something
+\q2 he can use to embarrass someone and cause them trouble;
+\q2 and what he says about them is like a fire that burns the field.
 \q1
 \v 28 A person who has no morals stirs up conflict between people;
-\q2 and those who spread rumors pull friends apart. 
-\b
+\q2 and those who spread rumors pull friends apart.
 
 
 \q1
@@ -39,7 +37,7 @@
 \v 27 A worthless person digs up mischief
 \q and his speech is like a scorching fire.
 \q
-\v 28 A perverse person stirs up conflict 
+\v 28 A perverse person stirs up conflict
 \q and a gossip separates close friends.
 </usfm>
 
@@ -52,11 +50,11 @@
 
 ===== translationNotes: =====
 
-  * **worthless** - wicked, deceptive
-  * **mischief** - evil, trouble
-  * **his speech is like a scorching fire** - "his words injure people like a fire does" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **a gossip** - This refers to a person who gossips a lot.
-
+  * **A worthless person digs up mischief** - The writer speaks of a person trying to find ways to harm other people as if that person were digging in the ground to find something buried. AT: "A worthless person looks for mischief as if he were digging for something in the ground" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **worthless** - "useless" or "wicked"
+  * **mischief** - "evil" or "trouble"
+  * **his speech is like a scorching fire** - The writer compares the way this person's words hurt others with the way that fire burns things. AT: "he hurts people with his words, like a fire scorches the things it touches" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **a gossip** - a person who gossips or spreads rumors
 
 ===== Links: =====
 
@@ -71,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit gossip}}
+{{tag>publish p2pass gossip}}
 
 ~~NOCACHE~~

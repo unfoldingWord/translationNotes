@@ -16,13 +16,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 20 The fire goes out when there is no more wood to burn; 
+\v 20 The fire goes out when there is no more wood to burn;
 \q2 and so arguments stop when no one is gossipping.
 
 \q1
 \v 21 As charcoal can ignite into burning coal and a log of wood into a fire;
-\q2 so the one who argues sets anger ablaze. 
-
+\q2 so the one who argues sets anger ablaze.
 
 \q1
 </usfm>
@@ -32,9 +31,9 @@
 <usfm>
 \q
 \v 20 For lack of wood, the fire goes out;
-\q and where there is no gossiper quarreling ceases. 
+\q and where there is no gossiper quarreling ceases.
 \q
-\v 21 As charcoal is to burning coals and wood is to fire, 
+\v 21 As charcoal is to burning coals and wood is to fire,
 \q so is a quarrelsome person for kindling strife.
 </usfm>
 
@@ -47,8 +46,8 @@
 ===== translationNotes: =====
 
   * **gossiper** - a person who gossips a lot
-  * **As charcoal is to burning coals and wood is to fire, so is a quarrelsome person for kindling strife** - AT: "A quarrelsome person causes people to argue the same way charcoal is to burning coals and wood is to fire" (See: [[:en:ta:vol1:translate:figs_simile]])
-
+  * **As charcoal is to burning coals and wood is to fire** - What charcoal does to coals and what wood does to fire can be stated clearly. AT: "As charcoal helps coals burn and as wood helps fire burn"  (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **kindling strife** - To kindle something means to set it on fire. Setting strife on fire is a metaphor for causing people to fight or argue. AT: "causing people to fight" or "causing people to argue"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:pro:26]]
 **[[:en:bible:notes:pro:26:18|<<]] | [[:en:bible:notes:pro:26:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

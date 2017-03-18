@@ -26,7 +26,7 @@
 
 <usfm>
 \q1
-\v 30 Yahweh will make the splendor of his voice heard and show the motion of his arm 
+\v 30 Yahweh will make the splendor of his voice heard and show the motion of his arm
 \q1 in storming anger and flames of fire, with windstorm, rainstorm, and hailstones.
 </usfm>
 
@@ -40,8 +40,8 @@
 
 ===== translationNotes: =====
 
-  * **show the motion of his arm** - "Arm" refers to the power of God. AT: "show his power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in storming anger and flames of fire** - These symbolize the anger of God. AT: "in anger that is like a storm and flames of fire" or "in great anger" (See [[:en:ta:vol1:translate:figs_metaphor]])
+  * **show the motion of his arm** - Here "arm" represents the power of God. It is implied that Yahweh will show his power by destroying his people's enemies. AT: "show that he is powerful by destroying your enemies" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **in storming anger and flames of fire** - Yahweh's anger is spoken of as if it were a storm or a fire. AT: "in anger that is like a storm and flames of fire" or "in great anger" (See [[:en:ta:vol1:translate:figs_metaphor]])
   * **with windstorm, rainstorm, and hailstones** - "with storms full of wind, rain, and hail"
   * **hailstones** - hard pieces of ice that fall from the sky like rain
 ===== Links: =====
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:30:29|<<]] | [[:en:bible:notes:isa:30:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

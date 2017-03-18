@@ -17,7 +17,7 @@
 <usfm>
 \v 25 No, he makes the ground very level,
 \q2 and then he plants seeds—
-\q2 dill and cumin and wheat and barley.
+\q2 caraway seed and cumin and wheat and barley.
 \q1 He plants each kind of seed in the correct manner. He does not plant one kind of seed in the way that is not right for it.
 \q1
 \v 26 He does that because God has taught him the correct way to do it.
@@ -30,7 +30,7 @@
 
 <usfm>
 \q1
-\v 25 When he has prepared the ground, does he not scatter caraway seed, sow the cumin, 
+\v 25 When he has prepared the ground, does he not scatter caraway seed, sow the cumin,
 \q1 put in the wheat in rows and the barley in the right place, and the spelt at its edges?
 \f + \ft The identification of some of these spices is in doubt, so versions have a variety of translations. In addition, some versions give different interpretations to the expressions translated here as \fqa in rows \fqb and \fqa in the right place \fqb , because these expressions are uncertain in Hebrew. \f*
 \q1
@@ -48,11 +48,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continue telling a parable to the people of Jerusalem. (See: [[:en:ta:vol1:translate:figs_parables]])
+  * **General Information:** - Isaiah continues telling a parable to the people of Jerusalem. (See: [[:en:ta:vol1:translate:figs_parables]])
 
   * **When he has prepared the ground** - "When the farmer has plowed the soil"
-  * **does he not scatter caraway seed, sow the cumin, put in the wheat in rows and the barley in the right place, and the spelt at its edges** - Isaiah uses a question to make the people of Jerusalem think deeply. AT: "then he plants each kind of seed in the correct way." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **caraway ... cumin ... barley ... spelt** - These are all names of plants. Translators may represent them in general as seeds of plants used to spice food. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **does he not scatter caraway seed, sow the cumin, put in the wheat in rows and the barley in the right place, and the spelt at its edges?** - Isaiah uses a question to make the people of Jerusalem think deeply. If your language does not have a word for each of these seeds, they can be stated more generally. AT: "he will certainly plant each kind of seed in the correct way and in the proper places." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **caraway ... cumin** - These are names of plants that are spices. Translators may represent them in general as seeds of spices used to spice food. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **wheat ... barley ... spelt** - These are all names of plants that are grains. Translators may represent them in general as seeds of grains. (See: [[:en:ta:vol1:translate:translate_unknown]])
   * **His God instructs him; he teaches him wisely** - These two phrases mean basically the same thing. AT: "Yahweh helps the farmer know how to care for each kind of plant" (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 ===== Links: =====
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:28]]
 **[[:en:bible:notes:isa:28:23|<<]] | [[:en:bible:notes:isa:28:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

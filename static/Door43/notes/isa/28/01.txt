@@ -38,14 +38,14 @@
 
 <usfm>
 \c 28
-\p
+\m
 \q1
-\v 1 Woe to the proud garland of the drunkards of Ephraim, and to the fading flower of his glorious beauty, 
-\q1 that is on the head of the lush valley of those who are overcome with wine!
+\v 1 Woe to the proud garland crown that is worn by each of the drunkards of Ephraim, and to the fading flower of its glorious beauty,
+\q1 the garland that is set on the head of the lush Valley of those who are overcome with wine!
 \q1
-\v 2 Behold, the Lord has a mighty and strong one; as a hailstorm, 
-\q1 a destroying storm, as a cloudburst of might and overwhelming, 
-\q1 he will strike the earth with his hand.
+\v 2 Behold, the Lord sends one who is mighty and strong; like a storm of hail and a destructive windstorm,
+\q1 like a driving rain and overflowing waters;
+\q1 and he will throw each garland crown down to the ground.
 </usfm>
 
 ===== translationWords: =====
@@ -62,11 +62,12 @@
 
 ===== translationNotes: =====
 
-  * **Woe to the proud garland of the drunkards of Ephraim** - A "garland" was a crown of flowers that people would give to victors and wear to parties. AT: "Terrible things will happen to the proud people of Ephraim who wear garlands on their heads and get drunk at parties" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **that is on the head of the lush valley of those who are overcome with wine** - "and to the people of Samaria who are drunk on wine and who are like a fading flower at the top of the lush valley" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Woe to the proud garland ... on the head of the lush Valley of those who are overcome with wine** - A "garland" is a crown made of flowers. Here it represents the city of Samaria, the capital of Israel, which sits above a fertile valley. Samaria and its people being destroyed is spoken of as if the flowers in the garland will grow old and stop being beautiful. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Behold** - "Listen" or "Pay attention"
-  * **the Lord has a mighty and strong one; as a hailstorm ... overwhelming** - A "hailstorm" is when hard pieces of ice fall from the sky. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **he will strike the earth with his hand** - The word "he" may refer to king of the enemy army. "hand" refers to the power of his army. AT: "his powerful army will throw them down to the ground" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who are overcome with wine** - "who are drunk with wine"
+  * **the Lord sends one who is mighty and strong** - Here "one" refers to a mighty king who also represents his powerful army. AT: "the Lord sends a king with his powerful army" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **storm of hail** - A "storm of hail" or hailstorm happens when hard pieces of ice fall from the sky. Here it is a simile that refers to the enemy army that Yahweh will send to destroy the people of Samaria. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **he will throw each garland crown down to the ground** - The king and his powerful army destroying the people of Samaria and their city is spoken of as if the king will throw the people's garlands onto the ground. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -74,6 +75,6 @@
   * [[:en:bible:questions:comprehension:isa:28]]
 **[[:en:bible:notes:isa:27:12|<<]] | [[:en:bible:notes:isa:28:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

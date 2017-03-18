@@ -20,7 +20,7 @@
 \q1
 \v 136 I cry very much
 \q2 because many people do not obey your laws.
-\b
+
 
 
 \q1
@@ -35,7 +35,6 @@
 \q
 \v 136 Streams of tears run down from my eyes
 \q because people do not observe your law.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -49,6 +48,7 @@
 
   * **Let your face shine on your servant** - The writer speaks of Yahweh acting favorably towards him as if Yahweh's face shone a light on him. AT: "Act favorably towards your servant" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Streams of tears** - The writer speaks of his many tears as if they were streams of water. AT: "Many tears" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **observe your law** - "obey your law"
 
 ===== Links: =====
 
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:133|<<]] | [[:en:bible:notes:psa:119:137|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

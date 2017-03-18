@@ -15,7 +15,7 @@
 <usfm>
 \v 7 So he replied to the king, "For the one you want to honor,
 \v 8 you should tell your servants to bring out some robes that you yourself have worn, and to bring out one of the horses you have ridden and that bears a royal crest on his head.
-\v 9 Then tell one of your very important officials to put the robe on that man, and to lead the horse through the city streets. As he goes, other servants will shout, 'This is what happens when the king wants to honor someone!'"
+\v 9 Give the robes and the horse to your very important officials so that they may put the royal clothes on that man, and let them lead that man who sits on the horse through the city streets. As he goes, other servants will shout, 'This is what happens when the king wants to honor someone!'"
 </usfm>
 
 
@@ -39,11 +39,11 @@
 
 ===== translationNotes: =====
 
-  * **let royal robes be brought** - "let the servants bring royal robes" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **ridden** - This is the past tense of "ride"
-  * **royal crest** - a special symbol that represents the king's family
-  * **Then let the robes and the horse be given** - "Then give the robes and the horse" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Let them proclaim** - "Let the servants and noble officials proclaim"
+  * **let royal robes be brought** - This can be stated in active form. AT: "let someone bring royal robes" or "tell your servants to bring royal robes"  (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **on whose head is the royal crest** - The word "whose" refers to the horse. The royal crest is a special symbol that represents the king's family. 
+  * **Then let the robes and the horse be given** - This can be stated in active form. AT: "Then let them give the robes and the horse" or "Then tell them to give the robes and the horse" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Let them dress ... in honoring, and let them lead him** - "Tell them to dress ... in honoring and to lead him"
+  * **Let them proclaim** - "Tell the noble official and servants to proclaim"
 
  
 ===== Links: =====
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:est:06]]
 **[[:en:bible:notes:est:06:04|<<]] | [[:en:bible:notes:est:06:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

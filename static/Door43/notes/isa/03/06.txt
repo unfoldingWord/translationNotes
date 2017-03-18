@@ -30,7 +30,6 @@
 \q2 'No, I cannot help you,
 \q1 because I do not have any extra food or clothes in this house.
 \q2 So do not make me your leader!'"
-\b
 
 
 \q1
@@ -42,9 +41,9 @@
 <usfm>
 \q1
 \v 6 A man will even take hold of his brother in his father's house
-\q1 and say, 'You have a coat; be our ruler, and let this ruin be under your charge.'
+\q1 and say, 'You have a coat; be our ruler, and let this ruin be in your hands.'
 \q1
-\v 7 On that day he will shout and say, 
+\v 7 On that day he will shout and say,
 \q1 'I will not be a healer; I have no bread or clothing.
 \q1 You will not make me ruler of the people.'"
 </usfm>
@@ -59,9 +58,9 @@
 
 ===== translationNotes: =====
 
-  * **let this ruin be under your charge** - "take charge of this ruin" or "rule over this ruin"
-  * **this ruin** - "this city, which is now a pile of ruins" (UDB) or "this place that has been destroyed"
-  * **I will not be a healer** - "No, I cannot fix this problem" or "No, I cannot help you" (UDB)
+  * **let this ruin be in your hands** - Here "hands" represents authority. AT: "take charge of this ruin" or "rule over this ruin" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **this ruin** - Possible meanings are 1) many or most of the buildings in the city of Jerusalem were destroyed or 2) the people in Jerusalem have no more prosperity or leadership. AT: "this city, which is now ruined" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will not be a healer** - Solving the people's troubles is spoken of as if it were healing them. AT: "No, I cannot fix this problem" or "No, I cannot help you" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -71,6 +70,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

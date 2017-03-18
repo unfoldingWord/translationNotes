@@ -24,7 +24,6 @@
 \v 2 Gods and animals are all bowed down;
 \q2 the gods can save neither themselves nor the beasts of burden;
 \q2 the gods themselves are going into exile!
-\b
 
 
 \q1
@@ -34,12 +33,12 @@
 
 <usfm>
 \c 46
-\p
+\m
 \q1
 \v 1 Bel bows down, Nebo stoops; their idols
-\q1 weigh down the animals carrying them. These idols they carry about are a heavy burden to the weary animals. 
+\q1 are carried by animals and beasts of burden. These idols that you carry are a heavy burden for weary animals.
 \q1
-\v 2 Together they bend low, kneel down; they cannot rescue the images, 
+\v 2 Together they bend low, kneel down; they cannot rescue the images,
 \q1 and they themselves have gone off into captivity.
 </usfm>
 
@@ -52,7 +51,13 @@
 
 ===== translationNotes: =====
 
-  * **Bel ... Nebo** - These are important idols to the Babylonians. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Bel bows down, Nebo stoops; their idols ... for weary animals** - Isaiah speaks of people placing the idols of Bel and Nebo into a cart for animals to transport as if these gods were made to "bow down" and "stoop." These are both postures of humiliation. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Bel ... Nebo** - These were the two primary gods whom the Babylonians worshiped. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **their idols** - the idols that represented Bel and Nebo
+  * **they cannot rescue the images** - "Bel and Nebo cannot rescue their images"
+  * **they themselves have gone off into captivity** - Isaiah speaks of people carrying off these idols as if the false gods whom they represent are being carried off to captivity. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -60,6 +65,6 @@
   * [[:en:bible:questions:comprehension:isa:46]]
 **[[:en:bible:notes:isa:45:24|<<]] | [[:en:bible:notes:isa:46:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

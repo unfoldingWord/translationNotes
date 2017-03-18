@@ -32,7 +32,6 @@
 \q2 and never get up again.
 \q1 They will experience great troubles;
 \q2 they will be captured by their enemies."
-\b
 
 
 \q1
@@ -42,9 +41,12 @@
 
 <usfm>
 \q1
-\v 14 He will become a sanctuary; but he will be a stone that strikes them, and a rock that makes them fall—
-\q1 for both the houses of Israel. And he will be a trap and a snare to the people of Jerusalem.
-\q1 
+\v 14 He will become a sanctuary; 
+\q1 but he will be a stone of striking, and a rock of stumbling—
+\q2 for both the houses of Israel, 
+\q2 and he will be a trap and a snare 
+\q2 to the people of Jerusalem.
+\q1
 \v 15 Many will stumble over it and fall and be broken, and be ensnared and captured.
 </usfm>
 
@@ -58,14 +60,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to give an indirect quote of Yahweh. It can be translated as a direct quote and with Yahweh speaking in the first person. (See: [[:en:bible:notes:isa:08:11|8:11-13]])
+  * **General Information:** - Isaiah continues the indirect quote of Yahweh that began in [[:en:bible:notes:isa:08:11|8:11-13]]. It can be translated as a direct quote with Yahweh speaking in the first person. (See: [[:en:ta:vol2:translate:figs_quotations]] and [[:en:ta:vol2:translate:figs_pronouns]])
 
-  * **He will** - "I will" (UDB)
-  * **He will become a sanctuary** - Sanctuary is a symbol of safeness and protection. AT: "I will be like a sanctuary and I will protect you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **but he will be a stone that strikes them, and a rock that makes them fall** - These two phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **stone ... rock** - The stone is a symbol for something people trip over to their harm. AT: "but for those who do not consider me holy I will be like a stone that they will trip over" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **And he will be a trap and a snare to the people of Jerusalem.** - The words "trap" and "snare" mean the same thing. AT: "And for the people in Jerusalem that do not fear me, I will be like a trap" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **Many will stumble over it and fall and be broken, and be ensnared and captured** - This can be stated in active form. AT: "Many people will stumble over the stone, and when they fall they will not get up. And, many people will step into the trap, and they will not be able to get out" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **He will become a sanctuary** - The word "sanctuary" is a metaphor for Yahweh keeping his people safe and protecting them. AT: "He will protect them when they go to him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he will be a stone of striking, and a rock of stumbling** - The words "stone of striking" and "rock of stumbling" are both metaphors for Yahweh harming his people. Some translate "striking" and "stumbling" as "stumbling" and "falling"; others translate as "offense" and "stumbling." AT: "he will harm his people, like a stone against which people strike their feet and stumble, and like a rock that causes people to fall down" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he will be a trap and a snare to the people of Jerusalem** - The words "trap" and "snare" mean almost the same thing and emphasize that when Yahweh decides to punish the people of Jerusalem they will not be able to escape. AT: "he will trap the people of Jerusalem so they cannot escape him" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **trap** - a device that catches a bird in a net or basket
+  * **snare** - a trap that catches and holds an animal's leg or nose
+  * **Many will stumble over it and fall and be broken, and be ensnared and captured** - This can be stated in active form. AT: "Many people will stumble over the stone, and when they fall they will not get up. And many people will step into the trap, and they will not be able to get out" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **ensnared and captured** - These two words mean basically the same thing and emphasize that they will be caught in the trap. (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
@@ -75,6 +77,6 @@
   * [[:en:bible:questions:comprehension:isa:08]]
 **[[:en:bible:notes:isa:08:11|<<]] | [[:en:bible:notes:isa:08:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

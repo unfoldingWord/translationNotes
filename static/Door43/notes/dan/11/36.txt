@@ -10,23 +10,21 @@
 ===== UDB: =====
 
 <usfm>
-\v 36 The king will do what he wants. He will boast and say that he is greater than any god. He will even insult the God of gods. He will be able to do what he wants until the time when God's anger is completed, for what God has ordered will be done.
-\v 37 The king will ignore the gods that his ancestors worshiped and the gods that many women love. He will ignore every god because he will think that he is greater than any of them.
+\v 36 The king will do what he wants. He will boast and say that he is greater than any god. He will even insult the most high God. He will be able to do what he wants until the time when God is ready to show that he is angry with him, for what God has ordered will happen.
+\v 37 The king will ignore the gods that his ancestors worshiped and the god that women love. He will ignore every god because he will pretend to be greater than any of them.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
 \p
-\v 36 The king will do whatever he wants. He will exalt and magnify himself above every god, and will speak astonishing things against the God of gods. He will succeed until the wrath is completed. For what has been decreed will be done. 
-\v 37 He will show no consideration for the gods of his ancestors, for the god desired by women, or for any other god. He will act proudly and claim to be above them all.
+\v 36 The king will act according to his desires. He will lift himself up and make himself great above every god. Against the God of gods he will say astonishing things, for he will succeed until the wrath is completed. For what has been decreed will be done.
+\v 37 He will pay no attention to the gods of his ancestors or to the god desirable to women. Neither will he will pay attention to any other god. For all above every one he will make himself great.
 </usfm>
 
 ===== translationWords: =====
 
   * [[:en:obe:other:king]]
-  * [[:en:obe:kt:exalt]]
-  * [[:en:obe:other:magnify]]
   * [[:en:obe:kt:falsegod]]
   * [[:en:obe:other:amazed]]
   * [[:en:obe:kt:god]]
@@ -36,10 +34,15 @@
 
 ===== translationNotes: =====
 
-  * **The king** - AT: "The king of the North"
-  * **exalt and magnify** - The words "exalt" and "magnify" mean the same thing and emphasize how prideful the king is. (See: [[:en:ta:vol2:translate:figs_doublet]]).
+  * **The king will act according to his desires** - "The king will do whatever he wants"
+  * **The king** - This refers to the king of the North.
+  * **lift himself up and make himself great** - The phrases "lift himself up" and "make himself great" mean the same thing and indicate that the king will become very proud. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **lift himself up** - Here this represents becoming very proud.  (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **make himself great** - Here this represents pretending to be very important and powerful. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the God of gods** - This refers to the one true God. AT: "the supreme God" or "the only true God" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **astonishing things** - "terrible things" or "shocking things"
-  * **the God of gods** - If this phrase would make people think that there really are more than one god, then it might be necessary to translate it differently. AT: "the supreme God" or "the only true God" 
+  * **until the wrath is completed** - This phrase pictures God as storing up his wrath until his storeroom is completely full of it and he is ready to act according to it. AT: "until God is completely angry with him" or "until God is angry enough to take action against him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the god desirable to women** - This seems to refer to the pagan god named Tammuz.
 
 ===== Links: =====
 
@@ -48,6 +51,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:33|<<]] | [[:en:bible:notes:dan:11:38|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit magnify}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

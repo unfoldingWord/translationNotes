@@ -29,7 +29,7 @@
 
 <usfm>
 \q
-\v 9 He encloses the face of the moon
+\v 9 He covers the surface of the moon
 \q and spreads his clouds on it.
 \q
 \v 10 He has engraved a circular boundary on the surface of the waters
@@ -45,8 +45,8 @@
 
 ===== translationNotes: =====
 
-  * **He encloses the face of the moon** - "He covers the face of the moon" 
-  * **He has engraved a circular boundary** - "He has drawn a circle" or "He has placed a circular horizon"
+  * **and spreads his clouds on it** - This phrase tells how he covers the surface of the moon. AT: "by spreading his clouds in front of it"
+  * **He has engraved a circular boundary** - This speaks of the horizon as if God had marked a boundary on the ocean.
  
 ===== Links: =====
 
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:job:26]]
 **[[:en:bible:notes:job:26:07|<<]] | [[:en:bible:notes:job:26:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

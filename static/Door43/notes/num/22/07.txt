@@ -28,6 +28,9 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:balaam]]
+  * [[:en:obe:other:moab]]
+  * [[:en:obe:other:midian]]
   * [[:en:obe:other:divination]]
   * [[:en:obe:kt:word]]
   * [[:en:obe:kt:yahweh]]
@@ -37,6 +40,7 @@
   * **payment for divination** - The abstract noun "divination" can be stated as an action. AT: "money to pay Balaam to curse Israel" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **They came to Balaam** - You may prefer to say "They went to Balaam" (See: [[:en:ta:vol2:translate:figs_go]])
   * **spoke to him Balak's words** - Here "words" refers to the message. AT: "told him the message from Balak" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Balak** - This is the name of a man. See how you translated this in [[:en:bible:notes:num:22:02|22:2]].
   * **I will bring you** - Balaam's report is spoken of as if it were something that he would carry to the messengers. AT: "I will tell you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
@@ -45,6 +49,6 @@
   * [[:en:bible:questions:comprehension:num:22]]
 **[[:en:bible:notes:num:22:05|<<]] | [[:en:bible:notes:num:22:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

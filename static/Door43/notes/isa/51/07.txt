@@ -32,7 +32,8 @@
 \v 8 because some day they will be destroyed
 \q2 like clothing that moths have eaten,
 \q1 like wool garments that have been eaten by worms.
-\q2 I will save them, and they will be saved forever."
+\q2 Everyone will know what I do and I will always do what is right; 
+\q2 and I will save you, and you will be saved forever."
 
 
 
@@ -43,12 +44,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 7 Listen to me, you who know what is right, you people who have my law in your heart:
 \q1 Do not fear the insults of men, nor be disheartened by their abuse.
 \q1
-\v 8 For the moth will eat them up like a garment, and the worm will eat them like wool; 
+\v 8 For the moth will eat them up like a garment, and the worm will eat them like wool;
 \q1 but my righteousness will be forever, and my salvation to all generations."
 </usfm>
 
@@ -68,9 +68,11 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
+  * **who have my law in your heart** - Having God's law in the heart represents knowing God's law and wanting to obey it. AT: "who know and honor my law" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **nor be disheartened by their abuse** - This can be stated in active form. AT: "and do not lose your courage when they hurt you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **For the moth will eat them up like a garment, and the worm will eat them like wool** - This means that God will destroy perhaps slowly but surely those who insult his people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **For the moth will eat them up like a garment, and the worm will eat them like wool** - God speaks of people who abuse those who are righteous as if they were wool garments, and of their being destroyed as if insects ate them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my righteousness will be forever** - God's "righteousness" here represents him ruling righteously. AT: "my righteous rule will be forever" or "I will rule righteously forever" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and my salvation to all generations** - God's "salvation" here represents the result of his salvation, which is freedom. Being "to all generations" represents lasting forever. AT: "I will save you, and you will be free forever" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -78,6 +80,6 @@
   * [[:en:bible:questions:comprehension:isa:51]]
 **[[:en:bible:notes:isa:51:06|<<]] | [[:en:bible:notes:isa:51:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

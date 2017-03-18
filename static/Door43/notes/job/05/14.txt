@@ -26,7 +26,6 @@
 \q1
 \v 16 So poor people confidently expect that good things will happen to them;
 \q2 but God stops wicked people from saying evil things.
-\b
 
 
 \q1
@@ -36,7 +35,7 @@
 
 <usfm>
 \q
-\v 14 They meet with darkness in the daytime,
+\v 14 They encounter darkness in the daytime,
 \q and grope at noonday as if it were night.
 \q
 \v 15 But he saves the poor person from the sword in their mouths
@@ -44,7 +43,6 @@
 \q
 \v 16 So the poor person has hope,
 \q and injustice shuts her own mouth.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -60,12 +58,11 @@
 
   * **General Information:** - The writer continues to use parallelism in each verse, conveying a single idea using two different statements to emphasize how God debases those who are cunning and saves those who are poor. (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
 
-  * **They meet with darkness in the daytime** - This metaphor compares those who are cunning with those in darkness who cannot see which way to go or what to do when God breaks their schemes. "Those who are cunning encounter darkness"
+  * **They encounter darkness in the daytime** - Here the cunning, wicked people whom God confuses are spoken of as if they unexpectedly are in the dark at noon, when the sun is at its highest position in the sky. They cannot do anything they wish to do, because they cannot see. AT: "Those who are cunning are in the dark, even at noontime" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **grope** - feel around like a blind person
-  * **noonday** - "at noon" or "in the afternoon" 
-  * **But he saves the poor person from the sword in their mouths** - "But God saves the poor person from the threats and oppression of the mighty"
-  * **the sword in their mouths** - This is symbolic language describing oppressors' exploitation of the poor. AT: "cruel, destructive words in the oppressors' mouths"
-  * **injustice shuts her own mouth** - The speaker is giving human characteristics to "injustice". "It is as though injustice shuts her own mouth." (See: [[:en:ta:vol2:translate:figs_personification]]).
+  * **noonday** - "noon"
+  * **But he saves the poor person from the sword in their mouths** - Here the insulting and threatening things that people say are spoken of as if they were a sword in their mouths. AT: "But he saves the poor person from the threats of the mighty" or "But he saves the poor person when the mighty threaten or insult them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **injustice shuts her own mouth** - People who say unjust things are spoken of as if they were the injustice itself, who must stop speaking. AT: "It is as though injustice shut her own mouth." (See: [[:en:ta:vol2:translate:figs_personification]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -73,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:05]]
 **[[:en:bible:notes:job:05:11|<<]] | [[:en:bible:notes:job:05:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

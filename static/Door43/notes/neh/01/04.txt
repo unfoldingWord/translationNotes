@@ -11,7 +11,7 @@
 
 <usfm>
 \v 4 When I heard that, I sat down and cried. For many days I mourned and fasted, and I prayed to the God who is in heaven.
-\v 5 I said, 
+\v 5 I said,
 "Yahweh, you are the God who is in heaven. You are the great and awesome God, and you keep your sacred bond and promise with everyone who loves you and who obeys your rules and commands.
 </usfm>
 
@@ -19,7 +19,7 @@
 
 <usfm>
 \p
-\v 4 And as soon as I heard these words, I sat down and wept, and for days I continued grieving and fasting and praying before the God of heaven.
+\v 4 As soon as I heard these words, I sat down and wept, and for days I continued grieving and fasting and praying before the God of heaven.
 \v 5 Then I said, "You are Yahweh, God of heaven, the God who is great and awesome, who keeps the covenant and steadfast love with those who love him and keep his commandments.
 </usfm>
 
@@ -38,8 +38,9 @@
 
 ===== translationNotes: =====
 
-  * **the God who is great** - "the God who is important" or "the God who is powerful"
-  * **who keeps** - "who guards" or "who follows" or "who protects" God does not forsake his promise to Israel. 
+  * **Then I said** - Nehemiah tells what he prayed. AT: "Then I said to Yahweh" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **who love him and keep his commandments** - Since Nehemiah is speaking to Yahweh, the pronouns "him" and "his" can be translated as "you" and "your." AT: "who love you and keep your commandments" (See: [[:en:ta:vol2:translate:figs_123person]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -47,6 +48,6 @@
   * [[:en:bible:questions:comprehension:neh:01]]
 **[[:en:bible:notes:neh:01:03|<<]] | [[:en:bible:notes:neh:01:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

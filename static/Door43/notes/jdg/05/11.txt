@@ -17,7 +17,6 @@
 \v 11 Listen to the voices of the singers who gather at the places where the animals drink water.
 \q2 They tell about how Yahweh acted righteously
 \q2 when he enabled the Israelite warriors to conquer their enemies.
-\b
 \q1 Yahweh's people marched down to the city gates.
 
 
@@ -28,11 +27,10 @@
 
 <usfm>
 \q
-\v 11 Hear the voices of those who sing at the watering places. 
+\v 11 Hear the voices of those who sing at the watering places.
 \q There they tell again of Yahweh's righteous deeds,
 \q and the righteous actions of his warriors in Israel.
 \q Then the people of Yahweh went down to the city gates.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -60,6 +58,6 @@
   * [[:en:bible:questions:comprehension:jdg:05]]
 **[[:en:bible:notes:jdg:05:09|<<]] | [[:en:bible:notes:jdg:05:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

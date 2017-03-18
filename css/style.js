@@ -84,14 +84,14 @@ var style = {
   linkActive: {
     fontWeight: 'bold',
     color: '#FFFFFF',
-    marginTop: '20px',
+    marginTop: '3em',
     textAlign: 'right',
     cursor: 'pointer'
   },
   linkInactive: {
     fontWeight: 'bold',
     color: '#e7e7e7',
-    marginTop: '20px',
+    marginTop: '3em',
     textAlign: 'right',
     cursor: 'not-allowed'
   },

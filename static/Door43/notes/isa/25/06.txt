@@ -34,7 +34,6 @@
 \q1 Yahweh our God will cause people to no longer mourn because someone has died.
 \q2 And he will stop other people insulting and making fun of his land and us his people.
 \q1 That will surely happen because Yahweh has said it!
-\b
 
 
 \p
@@ -44,14 +43,14 @@
 
 <usfm>
 \p
-\q1 
-\v 6 On this mountain Yahweh of hosts will make for all peoples a feast of fat things, 
+\q1
+\v 6 On this mountain Yahweh of hosts will make for all peoples a feast of fat things,
 \q1 of choice wines, of tender meats, a feast on the lees.
 \q1
-\v 7 He will destroy on this mountain the covering over all peoples, 
+\v 7 He will destroy on this mountain the covering over all peoples,
 \q1 the web woven over all the nations.
 \q1
-\v 8 He will swallow up death forever, 
+\v 8 He will swallow up death forever,
 \q1 and the Lord Yahweh will wipe away tears from off all faces;
 \q1 the disgrace of his people he will take away from all the earth, for Yahweh has spoken it.
 </usfm>
@@ -70,9 +69,13 @@
 
 ===== translationNotes: =====
 
-  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **On this mountain** - This refers to Jerusalem or Mount Zion.
+  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
+  * **a feast of fat things** - Here "fat things" means the best food.
   * **a feast on the lees** - "the oldest wine." This means the best wine.
-  * **the covering over all peoples, the web woven over all the nations** - Isaiah compares death, suffering, and sadness to a dark cloud or web that covers everyone on the earth. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the covering over all peoples, the web woven over all the nations** - Death, suffering, and sadness are spoken of as if they were a dark cloud or web that covers everyone on the earth. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **He will swallow up death forever** - Yahweh causing people to live forever is spoken of as if he would swallow death. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the disgrace of his people he will take away from all the earth** - Yahweh causing the people to never be ashamed again is spoken of as if disgrace were an object that Yahweh would take away. (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
  
 
@@ -84,6 +87,6 @@
   * [[:en:bible:questions:comprehension:isa:25]]
 **[[:en:bible:notes:isa:25:04|<<]] | [[:en:bible:notes:isa:25:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

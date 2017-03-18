@@ -32,7 +32,7 @@
 
 <usfm>
 \q1
-\v 29 You will have a song as in the night when a holy feast is observed, 
+\v 29 You will have a song as in the night when a holy feast is observed,
 \q1 and gladness of heart, as when one goes with a flute to the mountain of Yahweh, to the Rock of Israel.
 </usfm>
 
@@ -41,6 +41,7 @@
   * [[:en:obe:kt:holy]]
   * [[:en:obe:other:feast]]
   * [[:en:obe:other:heart]]
+  * [[:en:obe:other:flute]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:israel]]
 
@@ -48,10 +49,13 @@
 
   * **General Information:** - Isaiah continues speaking to the people of Judah.
 
+  * **You will have a song** - This can be reworded so the abstract noun "song" is stated as a verb. AT: "You will sing" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **as in the night when a holy feast is observed** - This simile emphasizes how happy the people will be. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **when a holy feast is observed** - This can be stated in active form. AT: "when you observe a holy feast" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **and gladness of heart** - "and you will be glad"
-  * **flute** - See how you translated this in [[:en:bible:notes:isa:05:11|5:12]].
-  * **to the Rock of Israel** - This refers to Yahweh and compares him to a rock because he protects his people. AT: "Israel's protective rock" or "who is like a protective rock for Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and gladness of heart** - Here "heart" represents a person's inner being. AT: "and you will be glad" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **as when one goes ... Rock of Israel** - This simile emphasizes how happy the people will be. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **to the Rock of Israel** - Yahweh having the power to protect his people is spoken of as if he were a rock on which the people could climb and escape from enemies. AT: "to Israel's protective rock" or "which is like a protective rock for Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -59,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:30:27|<<]] | [[:en:bible:notes:isa:30:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

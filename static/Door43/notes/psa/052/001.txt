@@ -19,7 +19,7 @@
 
 <usfm>
 \v 1 You proud man, you think that you are strong;
-\q2 you boast about the trouble that you make for others, 
+\q2 you boast about the trouble that you make for others,
 \q1 but God faithfully protects people from you every day.
 \q1
 \v 2 All during the day you plan to get rid of others;
@@ -35,10 +35,9 @@
 
 <usfm>
 \c 52
-\p
+\m
 \d For the chief musician. A maschil of David; when Doeg the Edomite came and told Saul, and said to him, "David has come to the
 house of Ahimelech."
-\b
 \q
 \v 1 Why are you proud of making trouble, you mighty man?
 \q The covenant faithfulness of God comes every day.
@@ -65,7 +64,7 @@ house of Ahimelech."
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
   * **General Information:** - In this psalm the word "you" refers to Doeg. When Saul wanted to kill David, Doeg told Saul where David was so that Saul could find him.
 
   * **For the chief musician** - "This is for the director of music to use in worship."
@@ -75,7 +74,7 @@ house of Ahimelech."
   * **you mighty man** - David may have been using irony when he called Doeg this. AT: "you, who think you are so mighty" (See: [[:en:ta:vol1:translate:figs_irony]])
   * **The covenant faithfulness of God comes** - David speaks of God's covenant faithfulness as if it were something that could come. David was probably referring to God's promises to protect his people from wicked people. This can be stated clearly. AT: "God is faithful to keep the promises of his covenant" or "God faithfully protects his people from wicked people like you" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **a sharp razor** - a sharp blade 
-  * **Your tongue plans destruction like a sharp razor, working deceitfully** - Here the tongue is compared to a sharp razor which is capable of causing great harm. AT: "Your tongue harm people like a sharp razor does, when you plan destruction and deceive others" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Your tongue plans destruction like a sharp razor, working deceitfully** - Here the tongue is compared to a sharp razor which is capable of causing great harm. AT: "Your tongue harms people like a sharp razor does, when you plan destruction and deceive others" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **Your tongue** - Here "your tongue" refers to the person David is speaking to. AT: "You" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
@@ -84,6 +83,6 @@ house of Ahimelech."
   * [[:en:bible:questions:comprehension:psa:052]]
 **[[:en:bible:notes:psa:051:017|<<]] | [[:en:bible:notes:psa:052:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

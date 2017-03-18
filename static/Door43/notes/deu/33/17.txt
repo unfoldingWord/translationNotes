@@ -24,7 +24,6 @@
 \q all of them, to the most distant places on the earth.
 \q That is what the descendants of the two sons of Joseph will do,
 \q the ten thousands of the tribe of Ephraim and the thousands of the tribe of Manasseh.
-\b
 
 
 \p
@@ -57,9 +56,8 @@
   * **General Information:** - Moses continues to bless the tribes of Israel; the blessings are short poems. He continues to describe the tribe of Joseph, which he began to do in [[:en:bible:notes:deu:33:13|33:13]]. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **The firstborn of an ox, majestic is he** - The ox is a metaphor for something large and strong. The word "firstborn" is a metaphor for honor. AT: "People will honor Joseph's descendants, who are many and powerful" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **firstborn of an ox** - Here "firstborn" and "ox" represent superiority and strength. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **his horns are the horns of** - The horn is a metaphor for strength. AT: "he is as strong as" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **With them he will push** - with "his horns," which are a metaphor for strength. AT: "He is so strong that he will push" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **With them he will push** - Pushing with his horns is a metaphor for strength. AT: "He is so strong that he will push" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **ten thousands of Ephraim ... the thousands of Manasseh** - This means the tribe of Ephraim will be stronger than the tribe of Manasseh. AT: "the people of Ephraim, who number many times 10,000 ... the people of Manasseh, who number many times 1,000" (See: [[:en:ta:vol2:translate:translate_numbers]])
  
  
@@ -70,6 +68,6 @@
   * [[:en:bible:questions:comprehension:deu:33]]
 **[[:en:bible:notes:deu:33:16|<<]] | [[:en:bible:notes:deu:33:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

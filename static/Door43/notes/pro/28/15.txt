@@ -18,11 +18,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 You know what a roaring lion or a charging bear is like; 
-\q2 they are just like the wicked ruler who is tearing apart poor people. 
-
+\v 15 You know what a roaring lion or a charging bear is like;
+\q2 they are just like the wicked ruler who is tearing apart poor people.
 \q1
-\v 16 A king who does not have good sense thinks he is wise when he is cruel and he takes everything away from his people. 
+\v 16 A king who does not have good sense thinks he is wise when he is cruel and he takes everything away from his people.
 \q2 but a person who hates getting anything by breaking the law, will live a long life.
 
 
@@ -50,7 +49,12 @@
 
 ===== translationNotes: =====
 
-  * **Like a roaring lion or a charging bear is a wicked ruler over poor people** - an evil person who rules over needy people is like a lion roaring or a bear attacking them (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Like a roaring lion or a charging bear is a wicked ruler over poor people** - Poor people who are helpless against an evil ruler are compared to people who have a lion roaring at them or a bear attacking them. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **a charging bear** - A bear is a large, furry, dangerous animal that walks on four legs and has sharp claws and teeth. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **The ruler who lacks understanding** - The abstract noun "understanding" can be translated as a verb. AT: "The ruler who does not understand" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **oppressor** - a person who treats people harshly and makes their lives very difficult
+  * **the one who hates dishonesty** - The abstract noun "dishonesty" can be translated as a verb. AT: "the one who hates being dishonest" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **prolong his days** - Possible meanings are 1) this is an idiom that means his living for more time. AT: "live longer" or 2) this is an idiom that means extending the length of his reign. AT: "rule for a longer time" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -59,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:28]]
 **[[:en:bible:notes:pro:28:13|<<]] | [[:en:bible:notes:pro:28:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

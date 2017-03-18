@@ -21,7 +21,7 @@
 
 <usfm>
 \v 7 Esther answered, "My petition and my request is this,
-\v 8 if I have found favor in the eyes of the king and if it pleases the king to grant my petition and to honor my request. Let the king and Haman come to the feast that I will prepare for you tomorrow and I will answer the king's question."
+\v 8 if I have found favor in the eyes of the king and if it pleases the king to grant my petition and to honor my request, let the king and Haman come to the feast that I will prepare for you tomorrow and I will answer the king's question."
 </usfm>
 
 ===== translationWords: =====
@@ -31,6 +31,11 @@
 
 ===== translationNotes: =====
 
+  * **My petition and my request** - The words "petition" and "request" mean the same thing. She probably used these words together as a way of speaking very formally and respectfully to the king. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **if I have found favor in the eyes of the king and if it pleases the king** - In order to show respect to a king, people sometimes did not call him "you." This can be translated with the word "you" along with other words that show respect. AT: "if you are pleased with me, O King, and if it pleases you" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **if I have found favor in the eyes of the king** - "Find favor" is an idiom that means be approved of or that he is pleased with her. "In the eyes of the king" is a metaphor representing his evaluation. AT: "if the king evaluates me and approves" or "if the king is pleased with me" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **let the king and Haman come** - This can be translated with the word "you" along with other words that show respect. AT: "please come and bring Haman" or "please come and let Haman come with you" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **and I will answer the king's question** - This can be translated with the word "you" along with other words that show respect. AT: "and I will answer your question" (See: [[:en:ta:vol2:translate:figs_123person]])
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -38,6 +43,6 @@
   * [[:en:bible:questions:comprehension:est:05]]
 **[[:en:bible:notes:est:05:05|<<]] | [[:en:bible:notes:est:05:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

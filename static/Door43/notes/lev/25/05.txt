@@ -26,8 +26,8 @@
 
 <usfm>
 \v 5 You must not conduct an organized harvest of whatever grows by itself, and you must not conduct an organized harvest of whatever grapes grow on your unpruned vines. This will be a year of solemn rest for the land.
-\v 6 Whatever the unworked land grows during the Sabbath year will be food for you. You, your male and female servants, your hired servants and the foreigners who live with you may gather food. 
-\v 7 And your livestock and also wild animals may eat whatever the land produces.
+\v 6 Whatever the unworked land grows during the Sabbath year will be food for you. You, your male and female servants, your hired servants and the foreigners who live with you may gather food,
+\v 7 and your livestock and also wild animals may eat whatever the land produces.
 </usfm>
 
 ===== translationWords: =====
@@ -47,7 +47,7 @@
   * **You must not conduct ... who live with you may gather food** - In 25:5-6 Yahweh means he will not allow the owner of a field to organize his workers and harvest the land as he does the other six years. However, Yahweh will allow individuals to go through the fields to pick and eat the fruit they find.
   * **your unpruned vines** - This means that no one has taken care of the vines and cut them as they do during the other six years. This can be stated in active form. AT: "your vines that you do not prune" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Whatever the unworked land grows** - "whatever grows on the unworked land"
-  * **the  unworked land** - This means that no one has taken care of the gardens or farms as they do during the other six years. This can be stated in active form. AT: "your gardens the you do not tend" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **the  unworked land** - This means that no one has taken care of the gardens or farms as they do during the other six years. This can be stated in active form. AT: "your gardens that you do not tend" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
   * **whatever the land produces** - "whatever grows on the land"
 ===== Links: =====
 
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:lev:25]]
 **[[:en:bible:notes:lev:25:03|<<]] | [[:en:bible:notes:lev:25:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

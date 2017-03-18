@@ -53,8 +53,11 @@
 ===== translationNotes: =====
 
   * **hands me over to ungodly people, and throws me into the hands of wicked people** - These two lines mean basically the same thing. Together they emphasize Job's feeling of having been betrayed by God. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **dashed me to pieces** - Job says that his life is "ruined", like a glass that is dropped on the floor and breaks. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **target** - Job compares himself to a focus of attack and criticism. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **hands me over to** - This is an idiom. AT: "puts me under the control of" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **throws me into the hands of** - Here a person's "hands" refer to his "control." AT: "delivers me to the control" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and he broke me apart** - Job speaks of his pain and despair as if he himself were something that was broken into pieces. AT: "but then it felt as though he broke me apart" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **dashed me to pieces** - Job speaks of God causing him pain and despair as if he were something that God had taken and smashed into pieces. AT: "it is as though he has taken my by the neck and smashed me to pieces" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he has also set me up as his target** - Job speaks of himself being the focus of God's attacks as if God has set him up as a target to shoot arrows at. AT: "it is as though he set me up like a target" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -62,6 +65,6 @@
   * [[:en:bible:questions:comprehension:job:16]]
 **[[:en:bible:notes:job:16:09|<<]] | [[:en:bible:notes:job:16:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

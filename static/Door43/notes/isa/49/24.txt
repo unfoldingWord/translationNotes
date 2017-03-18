@@ -36,13 +36,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 24 Can the spoils be taken from the warrior, or captives be rescued from the fierce?
 \f + \ft Instead of \fqa from the fierce \fqb , the Hebrew text has \fqa from the righteous \fqb , but most modern versions correct it to \fqa from the fierce \fqb . \f*
 \q1
 \v 25 But this is what Yahweh says,
-\q1 "Yes, the captives will be taken away from the warrior, and spoils will be rescued; 
+\q1 "Yes, the captives will be taken away from the warrior, and spoils will be rescued;
 \q1 for I will oppose your adversary and save your children.
 </usfm>
 
@@ -57,10 +56,12 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - Yahweh continues speaking to Zion as if it were a woman. (See: [[:en:ta:vol2:translate:figs_personification]])
+
+  * **Can the spoils be taken from the warrior, or captives be rescued from the fierce?** - Isaiah uses a question to express the difficulty of taking anything from a mighty soldier or a very strong warrior. This can be stated in active form. AT: "A person cannot take the spoils from a warrior or rescue captives from fierce soldiers." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **spoils** - valuable items taken from the losers in a battle
-  * **Can the spoils be taken from the warrior, or captives be rescued from the fierce?** - Isaiah uses questions to emphasize that a person cannot take anything from a mighty soldier or a very strong warrior. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the captives will be taken away from the warrior, and spoils will be rescued** - This can be stated in active form. AT: "I will take the captives from the warrior, and I will get back the spoils" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **your adversary ... your children** - Here "your" refers to the city of Zion as if it were a person who has enemies and the people who live in Zion are her children. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **the captives will be taken away from the warrior, and spoils will be rescued** - Yahweh says that he will do what is usually impossible for people to do. This can be stated in active form. AT: "I will take the captives from the warrior, and I will rescue the spoils" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I will ... save your children** - Yahweh speaks of the people who will inhabit Zion as if they were the city's children. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:49]]
 **[[:en:bible:notes:isa:49:23|<<]] | [[:en:bible:notes:isa:49:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

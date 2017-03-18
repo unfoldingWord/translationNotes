@@ -47,14 +47,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
-
-  * **This was the word that came to Jeremiah** - "This was the message Yahweh gave to Jeremiah" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Migdol ... Tahpanhes ... Memphis ... Patros** - These are the names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **You yourselves have seen** - The word "yourselves" is used for emphasis a to specify the people of Judea who live in the land of Egypt. (See: [[:en:ta:vol2:translate:figs_rpronouns]])
+  * **This was the word that came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated a similar phrase in [[:en:bible:notes:jer:01:01|1:2]]. AT: "This is the message that Yahweh spoke" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Migdol ... Patros** - These are the names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Tahpanhes ... Memphis** - Translate the names of these cities as you did in [[:en:bible:notes:jer:02:14|2:16]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **You yourselves have seen** - The word "yourselves" is used for emphasis to specify the people of Judea who live in the land of Egypt. (See: [[:en:ta:vol2:translate:figs_rpronouns]])
+  * **all the disasters that I brought on Jerusalem and all the cities of Judah** - Causing disasters is spoken of as if disasters were an object that can be put on something. AT: "all the disaster that I caused to happen to Jerusalem and all the cities of Judah" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **See** - "Listen" or "Pay attention" or "Be sure you understand this:" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **they did to offend me** - "the people of Jerusalem and all the cities of Judah did to offend me"
-  * **they themselves** - "the people from the ruined cities" (See: [[:en:ta:vol2:translate:figs_rpronouns]])
+  * **they themselves** - The word "themselves" is used for emphasis to specify the people of Jerusalem and the other cities of Judah. AT: "the people from the ruined cities" (See: [[:en:ta:vol2:translate:figs_rpronouns]])
 
 ===== Links: =====
 
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:jer:44]]
 **[[:en:bible:notes:jer:43:11|<<]] | [[:en:bible:notes:jer:44:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit life}}
+~~DISCUSSION~~{{tag>publish p2check life}}
 
 ~~NOCACHE~~

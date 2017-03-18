@@ -52,13 +52,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The wise woman wisdom continues to speak, describing what happens to those who refuse her offer of wisdom.
+  * **General Information:** - Wisdom continues to speak, describing what happens to those who ignore her.
 
-  * **calamity** - An event that causes great harm and suffering.
-  * **your fearful dread** - "terror"
-  * **whirlwind** - This is a damaging wind that blows things in circles.
-  * **distress** - "pain"
-  * **anguish** - "extreme suffering"
+  * **I will laugh** - This can be stated with the word "therefore" to show that the woman wisdom laughs at them because they ignored her. AT: "Therefore I will laugh" (See: [[:en:ta:vol2:translate:writing_connectingwords]])
+  * **at your calamity** - "when bad things happen to you"
+  * **when the terror comes** - The abstract noun "terror" can be stated as an adjective. AT: "when you are terrified" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **when your fearful dread comes like a storm ... like a whirlwind ... come upon you** - Terrible things happening to the people is compared to a storm hitting them and causing fear and suffering. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **whirlwind** - a very strong wind storm that causes damage
+
 
 ===== Links: =====
 
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:pro:01]]
 **[[:en:bible:notes:pro:01:23|<<]] | [[:en:bible:notes:pro:01:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

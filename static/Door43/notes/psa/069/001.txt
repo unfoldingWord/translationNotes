@@ -37,9 +37,8 @@
 
 <usfm>
 \c 69
-\p
+\m
 \d For the chief musician; set to Shoshannim. A psalm of David.
-\b
 \q
 \v 1 Save me, God;
 \q for the waters have put my life in danger.
@@ -61,16 +60,17 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This psalm is a prayer for help. See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - This psalm is a prayer for help.
 
-  * **For the chief musician** - "This is for the director of music to use in worship;"
+  * **For the chief musician** - "This is for the director of music to use in worship"
   * **set to Shoshannim** - This may refer to a style of music. See how you translated this in [[:en:bible:notes:psa:045:001|45:1]].
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **for the waters have put my life in danger** - The writer describes the troubles in his life as if he were drowning in a flood of water. AT: "for it feels like I am drowning in the waters" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I sink in deep mire** - The writer describes the troubles in his life as if he were sinking in deep mud. AT: "for it feels like I am sinking in deep mud and will die" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I sink in deep mire** - The writer describes the troubles in his life as if he were sinking in deep mud. AT: "For it feels like I am sinking in deep mud and will die" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **mire** - thick mud
   * **there is no place to stand** - The writer uses a negative statement to stress how unstable and uncertain his condition is. (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **I have come into deep waters, where the floods flow over me** - The writer describes his problems as if he was drowning in a deep, raging river. AT: "It feels like I am in deep waters, and the floodwaters flow over me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I have come into deep waters, where the floods flow over me** - The writer describes his problems as if he was drowning in a deep, raging river. AT: "t feels like I am in deep waters, and the floodwaters flow over me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -82,6 +82,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book2}}
+{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

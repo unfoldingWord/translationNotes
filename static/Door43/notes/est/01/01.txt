@@ -30,14 +30,18 @@
   * [[:en:obe:other:king]]
   * [[:en:obe:other:royal]]
   * [[:en:obe:other:throne]]
+  * [[:en:obe:other:stronghold]]
 
 ===== translationNotes: =====
 
-  * **In the days of Ahasuerus** - "In the time of Ahasuerus" or "When Ahasuerus was ruling as king."
-  * **127** - (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **In the days of Ahasuerus** - "In the time of Ahasuerus" or "When Ahasuerus was ruling as king"
+  * **this is Ahasuerus who reigned from India as far as Ethiopia, over 127 provinces** - This is background information to help the reader identify Ahasuerus. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **127** - "one hundred and twenty-seven" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **provinces** - A "province" is a large area into which some countries are divided for the purposes of government.
-  * **fortress** - A castle, stronghold or fortified camp.
-  * **Susa** - A royal city of Persian Kings. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **sat on his royal throne** - Here "royal throne" may refer to his rule over the kingdom. AT: "ruled the empire" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **fortress** - This refers to a castle, stronghold or fortified city.
+  * **Susa** - This was a royal city of Persian kings. (See: [[:en:ta:vol1:translate:translate_names]])
+
 
 ===== Links: =====
 
@@ -46,6 +50,6 @@
   * [[:en:bible:questions:comprehension:est:01]]
 **| [[:en:bible:notes:est:01:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

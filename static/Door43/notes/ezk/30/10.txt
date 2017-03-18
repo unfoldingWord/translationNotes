@@ -49,15 +49,14 @@
 
 ===== translationNotes: =====
 
-  * **The Lord Yahweh says this** - See how you translated this in [[:en:bible:notes:ezk:05:05|5:5]].
-  * **I will make an end of the multitudes of Egypt** - Alternate translation: "I will make it so that Egypt will no longer have many people."
-  * **by the hand of Nebuchadnezzar** - Nebuchadnezzar will be the one who brings this punishment about.
+  * **The Lord Yahweh says this** - The word "this" refers to what follows. See how you translated this in [[:en:bible:notes:ezk:05:05|5:5]].
+  * **I will make an end of the multitudes of Egypt** - "I will make it so that Egypt will no longer have many people."
+  * **by the hand of Nebuchadnezzar** - Here "the hand" represents Nebuchadnezzar's military power.  Nebuchadnezzar will be the one who brings this punishment about.
   * **He and his army with him ... will be brought to destroy the land** - This can be stated in active form. AT: "I will bring Nebuchadnezzar and his army ... to destroy the land" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **He and his army with him, the terror of nations** - Yahweh calls Nebuchadnezzar "the terror of the nations" because all of the nations are greatly afraid of his army.
-  * **to destroy the land** - "so they will destroy the land." Yahweh will bring Nebuchadnezzar and his people so that they will destroy the land.
-  * **draw out their swords against Egypt** - "fight against Egypt"
-  * **fill the land with dead people** - This is an exaggeration to show that the Babylonians will kill very many Egyptians. There will be so many dead Egyptians that it will seem that their dead bodies cover all of the land of Egypt. Alternate translation: "they will kill so many people that it will seem like their dead bodies are everywhere" (See: [[:en:ta:vol2:translate:figs_hyperbole]]).
-
+  * **He and his army ... will be brought to destroy the land** - This can be stated in active form. AT: "I will cause him and his army ... to go destroy the land of Egypt" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **He and his army with him, the terror of nations** - Yahweh calls Nebuchadnezzar "the terror of the nations" because all of the nations are greatly afraid of his army. AT: "He and his army with him, the one who terrifies many nations"
+  * **they will draw out their swords against Egypt** - Here "draw out their swords" represents fighting with their swords. AT: "they will use their swords and fight against Egypt" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **fill the land with dead people** - This is an exaggeration to show that the Babylonians will kill very many Egyptians. There will be so many dead Egyptians that it will seem that their dead bodies cover all of the land of Egypt. AT: "they will kill so many people that it will seem like their dead bodies are everywhere" (See: [[:en:ta:vol2:translate:figs_hyperbole]]).
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -65,6 +64,6 @@
   * [[:en:bible:questions:comprehension:ezk:30]]
 **[[:en:bible:notes:ezk:30:08|<<]] | [[:en:bible:notes:ezk:30:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

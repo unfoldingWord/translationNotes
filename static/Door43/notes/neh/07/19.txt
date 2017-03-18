@@ -43,10 +43,10 @@
   * [[:en:obe:other:hezekiah]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile.
+  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile. (See [[:en:ta:vol2:translate:translate_numbers]])
 
-  * **Bigvai ... Adin ... Ater ... Hashum** - These are the names of the patriarchs of each family group. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **The descendants of Ater, of Hezekiah** - "the descendants of Ater, who is a descendant of Hezekiah"
+  * **Bigvai ... Adin ... Ater ... Hashum** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **The descendants of Ater, of Hezekiah** - The writer has shortened this sentence. AT: "the descendants of Ater, who is a descendant of Hezekiah" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:neh:07]]
 **[[:en:bible:notes:neh:07:15|<<]] | [[:en:bible:notes:neh:07:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

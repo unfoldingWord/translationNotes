@@ -24,7 +24,6 @@
 \q1
 \v 7 Yahweh, because you were good to me, at first you caused me to be secure as though I were a high mountain.
 \q1 But then I thought that you had turned away from me, and I became afraid.
-\b
 \q1
 \v 8 So I called out to you, and I pleaded for you to help me.
 
@@ -53,13 +52,13 @@
 ===== translationNotes: =====
 
 
-  * **In confidence I said** - The word "confidence" is an abstract noun. The writer recalls a time when he was prospering and felt confident and safe. AT: "When I was confident" or "When I felt safe" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **I will never be shaken** - Feeling like no one will ever defeat him is spoken of as if no one will cause him to shake or stumble and fall. This can be stated in active form. AT: "No one will defeat me" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **In confidence** - The word "confidence" is an abstract noun. The writer recalls a time when he was prospering and felt confident and safe. AT: "When I was confident" or "When I felt safe" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **I will never be shaken** - The word "shaken" is a metaphor for defeat. AT: "No one will defeat me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **by your favor** - The abstract noun "favor" can be stated as the verb "favored" or the adjective "kind." AT: "when you favored me" or "when you were kind to me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **you established me as a strong mountain** - The writer's security is spoken of as if he were a strong mountain. AT: "you made me as secure as a high mountain" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **when you hid your face** - This is an idiom. AT: "when you stopped helping me" or "when you rejected me" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **I was troubled** - "I was fearful" or "I was worried" 
-  * **sought favor from my Lord** - The phrase "sought favor" means to ask desperately to receive favor. The abstract noun "favor" can be stated as "help" or "merciful." AT: "I pleaded for you to help me" (UDB) or "I begged you, my Lord, to be merciful to me"
+  * **sought favor from my Lord** - The phrase "sought favor" means to ask for help. AT: "I pleaded for you to help me" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **from my Lord** - The writer is referring to Yahweh in third person. It can be stated in second person. AT: "from you, my Lord" (See: [[:en:ta:vol2:translate:figs_123person]])
 ===== Links: =====
 
@@ -68,6 +67,6 @@
   * [[:en:bible:questions:comprehension:psa:030]]
 **[[:en:bible:notes:psa:030:004|<<]] | [[:en:bible:notes:psa:030:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

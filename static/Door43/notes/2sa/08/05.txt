@@ -40,7 +40,9 @@
 
 ===== translationNotes: =====
 
-  * **twenty-two thousand Aramean men** - 22,000 Aramean men. This is the number of Aramean men killed. (See:  [[:en:ta:vol2:translate:translate_numbers]])
+  * **David killed** - Here David represents his soldiers. AT: "David and his soldiers killed" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **twenty-two thousand Aramean men** - "22,000 Aramean men" (See:  [[:en:ta:vol2:translate:translate_numbers]])
+  * **put garrisons in Aram** - "ordered large groups of his soldiers to remain in Aram"
 
 ===== Links: =====
 
@@ -49,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2sa:08]]
 **[[:en:bible:notes:2sa:08:03|<<]] | [[:en:bible:notes:2sa:08:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit aram}}
+~~DISCUSSION~~{{tag>publish p2pass aram}}
 
 ~~NOCACHE~~

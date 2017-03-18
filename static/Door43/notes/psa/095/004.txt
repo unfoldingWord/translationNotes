@@ -20,7 +20,7 @@
 \q1
 \v 5 The seas are his because he made them.
 \q2 He is the one who made the dry land.
-\b
+
 
 
 \q1
@@ -44,6 +44,7 @@
 
 ===== translationNotes: =====
 
+  * **In his hands** - This is an idiom which means "in his control" or "he is responsible for." (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **depths** - deep places
   * **heights** - high places
   * **his hands formed** - The word "hands" is a metonym for Yahweh himself. AT: "he himself formed" (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -55,6 +56,6 @@
   * [[:en:bible:questions:comprehension:psa:095]]
 **[[:en:bible:notes:psa:095:001|<<]] | [[:en:bible:notes:psa:095:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

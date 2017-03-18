@@ -42,8 +42,9 @@
 
 ===== translationNotes: =====
 
-  * **for he has handed them over to their sins** - "it is because God has allowed the power of their sin to control them" or "he punished them with the consequences of their sins."
-  * **But suppose you diligently sought God and presented your request to the Almighty** - Both of these phrases refer to Job asking God for help, or pleading with God for mercy. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **for he gave them into the hand of their sins** - Here "hand" represents the power or results of sin. Bildad implies that God killed Job's children because of their sin. AT: "for God caused the consequences of your children's  sins to kill them" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **But suppose you diligently sought God and presented your request to the Almighty** - Bildad is saying what would have happened if Job had correctly spoken to God, but Bildad does not believe that Job really did this. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **diligently sought God ... presented your request to the Almighty** - These two phrases both refer to Job asking God for help or pleading with God for mercy. (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **diligently sought God** - "earnestly asked God for help"
 
 ===== Links: =====
@@ -53,6 +54,6 @@
   * [[:en:bible:questions:comprehension:job:08]]
 **[[:en:bible:notes:job:08:01|<<]] | [[:en:bible:notes:job:08:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check p2pass}}
 
 ~~NOCACHE~~

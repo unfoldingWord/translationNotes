@@ -43,11 +43,16 @@
 
 ===== translationNotes: =====
 
-  * **Eliakim ... Hilkiah ... Shebnah** - See how you translated these names of men in [[:en:bible:notes:isa:22:20|Isa 22:20]] and [[:en:bible:notes:isa:22:15|Isa 22:15]].
-  * **Joah ... chief commander** - See how you translated these in [[:en:bible:notes:isa:36:01|36:2-3]].
+  * **Eliakim ... Hilkiah ... Shebnah** - Translate the names of these men the same as you did in [[:en:bible:notes:isa:22:20|22:20]]. 
+  * **Shebnah** - Translate this man's name the same as you did in [[:en:bible:notes:isa:22:15|22:15]].
+  * **Joah ... chief commander** - Translate this man's name and the phrase "chief commander" the same as you did in [[:en:bible:notes:isa:36:01|36:2-3]]. 
   * **Please speak to your servants** - Eliakim, Shebnah, and Joah refer to themselves as the chief commander's servants. This is a polite way to speak to someone who has greater authority.
-  * **Has my master sent me to your master and to you to speak these words?** - The chief commander uses a question to emphasize that his message is for all the people of Judah. AT: "Certainly, my master has sent me to speak this message to you and to all who can hear." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Has he not sent me to the men who sit on the wall, who will have to ... you?** - the chief commander continues using a question for emphasis. AT: "My master has sent me to everyone who hears this, who will have to ... you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the Aramean language, Aramaic** - "Aramean" is the name of a people group. "Aramaic" is the name of their language. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **in the ears of the people who are on the wall** - The idiom "to speak in someone's ear" means to speak where they can hear you. AT: "where the people who are on the wall may hear us" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **who are on the wall** - This means that they are standing on the wall. The top of the wall was wide and a place where people could sit or stand. The full meaning of this statement can be made clear. AT: "who are standing on the wall" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Has my master sent me to your master and to you to speak these words?** - The chief commander uses this question to emphasize that his message is for all the people of Judah. This question may be written as a statement. AT: "Certainly, my master has sent me to speak this message to you and to all who can hear." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Has he not sent me to the men who sit on the wall, who will have to ... you?** - The chief commander uses this question to emphasize his insult. This can be written as a statement. AT: "My master has sent me to everyone who hears this, who will have to ... you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **will have to eat their own dung and drink their own urine with you** - This is a very offensive statement. He is implying that they will need to eat these things because they will have nothing else to eat because their city will be under attack. The full meaning of this statement can be made clear. AT: "will soon need to eat their own dung and drink their own urine, just as you will, because you will have nothing else to eat" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -62,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

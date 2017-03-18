@@ -34,7 +34,7 @@
 <usfm>
 \p
 \v 25 Yahweh will cause you to be struck down before your enemies; you will go out one way against them but will flee before them seven ways. You will be tossed to and fro among all the kingdoms of the earth.
-\v 26 Your dead body will be food to all birds of the heavens and to the beasts of the earth; there will be no one to frighten them away.
+\v 26 Your dead body will be food to all the birds of the heavens and to the beasts of the earth; there will be no one to frighten them away.
 </usfm>
 
 
@@ -53,8 +53,8 @@
 
   * **Yahweh will cause you to be struck down before your enemies** - This can be stated in active form. AT: "Yahweh will cause your enemies to strike you down" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **to be struck down before** - Translate as in [[:en:bible:notes:deu:28:07|28:7]].
-  * **will flee before them seven ways** - This means the Israelites will be afraid and panic and run away from their enemies. AT: "you will flee in seven directions" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **seven ways** - "in many different directions" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **will flee before them seven ways** - This means the Israelites will be afraid and panic and run away from their enemies. See similar wording in [[:en:bible:notes:deu:28:07|28:7]]. AT: "you will flee in seven directions" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **seven ways** - This is an idiom. AT: "in many different directions" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **You will be tossed to and fro among all the kingdoms** - This can be stated in active form. AT: "The peoples of the other nations will drive you from one nation to another" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:deu:28]]
 **[[:en:bible:notes:deu:28:23|<<]] | [[:en:bible:notes:deu:28:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -35,7 +35,9 @@
 ===== translationNotes: =====
 
   * **plunder** - These are items taken from the enemy.
-  * **Ner** - This is a male name. He is the grandfather of Saul. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Abner was not with David in Hebron** - Abner had already left to return home.
+  * **they told Joab** - "someone told Joab"
+  * **Ner** - This is a man's name. He is the grandfather of Saul. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -43,6 +45,6 @@
   * [[:en:bible:questions:comprehension:2sa:03]]
 **[[:en:bible:notes:2sa:03:21|<<]] | [[:en:bible:notes:2sa:03:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish abner p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass abner}}
 
 ~~NOCACHE~~

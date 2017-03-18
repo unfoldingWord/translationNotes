@@ -59,10 +59,11 @@
  
 ===== translationNotes: =====
 
-  * **their widows ... them** - The words "their" and "them" refer to "Those who survive" from the previous line, that is, the children of the wicked man.
-  * **heaps up silver like the dust** - This phrase compares gathering silver as if it were as available as dust. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **heaps up clothing like clay** - This phrase compares those who gather clothing as if it were as easy to find as clay. (See: [[:en:ta:vol1:translate:figs_simile]])
-
+  * **Those who survive him** - "Those who continue to live after he dies." This refers to the wicked man's children. This can be stated clearly. "Those who continue to live after their wicked father dies" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **will be buried by plague** - Here "be buried" represents dying. AT: "will die by plague" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **their widows ... them** - The words "their" and "them" refer to "Those who survive him," that is, the children of the wicked man.
+  * **heaps up silver like the dust** - Here "heaps up" is a metonym meaning gather much. Job speaks as if the silver was as easy to get as dust. AT: "gathers large piles of silver" or "gathers silver as easily as he could gather dust" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **heaps up clothing like clay** - Here "heaps up" is a metonym meaning gather much. Job speaks as if the clothing was as easy to get as clay.  AT: "gathers large piles of clothing" or "gathers clothing as easily as he could gather clay" (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -71,6 +72,6 @@
   * [[:en:bible:questions:comprehension:job:27]]
 **[[:en:bible:notes:job:27:13|<<]] | [[:en:bible:notes:job:27:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit lament}}
+~~DISCUSSION~~{{tag>publish p2check lament}}
 
 ~~NOCACHE~~

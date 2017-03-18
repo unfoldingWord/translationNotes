@@ -22,7 +22,6 @@
 \q1
 \v 12 My adultery would produce in me a fire like the fire that burns people in hell,
 \q2 and it would burn up everything that I own.
-\b
 
 
 \q1
@@ -54,9 +53,10 @@
 
   * **General Information:** - Job continues describing situations in which he would deserve God's punishment, but he knows they are not true. (See: [[:en:ta:vol1:translate:figs_hypo]])
 
-  * **it would be a crime to be punished by judges** - AT: "it would be a crime for which judges would be right to punish me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **For that is a fire that consumes everything for Sheol and that would burn up all my harvest** - Job is emphasizing how terrible and destructive the sin of adultery is. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **For that would be a terrible crime** - The word "that" refers to Job sleeping with another woman.
+  * **it would be a crime to be punished by judges** - This can be stated in active form. AT: "it would be a crime for which judges would be right to punish me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **For that is a fire that consumes everything for Sheol** - The word "that" refers to Job sleeping with another woman.
+  * **For that is a fire that consumes everything for Sheol and that would burn up all my harvest** - Job speaks of the harm that sleeping with another woman causes as if it were a fire that destroys everything. AT: "For adultery is like a fire that burns up everything for Sheol and that would burn up all my harvest" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -64,6 +64,6 @@
   * [[:en:bible:questions:comprehension:job:31]]
 **[[:en:bible:notes:job:31:09|<<]] | [[:en:bible:notes:job:31:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

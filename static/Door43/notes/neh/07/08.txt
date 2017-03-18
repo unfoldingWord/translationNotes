@@ -14,9 +14,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 From the descendants of Parosh, 2,172, 
+\v 8 From the descendants of Parosh, 2,172,
 \li2
-\v 9 from the descendants of Shephatiah, 372, 
+\v 9 from the descendants of Shephatiah, 372,
 \li2
 \v 10 from the descendants of Arah, 652.
 
@@ -37,9 +37,9 @@
   * [[:en:obe:other:descendant]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Nehemiah is recounting the number of people who returned from exile. The people were grouped by family according to the name of their patriarch. The number represents the number of males in each family. (See [[:en:ta:vol2:translate:translate_numbers]])
+  * **Connecting Statement:** - Nehemiah is recounting the number of people who returned from exile. The people were grouped by families according to the name of their patriarchs. The number represents the number of men in each family. (See [[:en:ta:vol2:translate:translate_numbers]])
 
-  * **Parosh ... Shephatiah ... Arah** - These are the names of the patriarch of each family group. Family groups would contain children, grandchildren, and great-grandchildren. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Parosh ... Shephatiah ... Arah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:neh:07]]
 **[[:en:bible:notes:neh:07:06|<<]] | [[:en:bible:notes:neh:07:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

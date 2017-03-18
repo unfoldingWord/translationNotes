@@ -35,10 +35,11 @@
   * [[:en:obe:other:house]]
 ===== translationNotes: =====
 
-  * **the priests ... repaired** - The implied information here is that the wall was being repaired. AT: "the priests fixed the wall" (See [[:en:ta:vol1:translate:figs_explicit]])
-  * **Benjamin and Hasshub repaired** - See above note for implied information. AT: "Benjamin and Hasshub fixed the wall"
-  * **Benjamin ... Hasshub ... Azariah ... Maaseiah ... Ananiah ... Binnui ... Henadad ... Azariah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
- 
+  * **around Jerusalem, repaired ... Benjamin and Hasshub repaired ... Azariah ... repaired ... Binnui ... repaired** - These phrases refer to repairing the wall. AT: "around Jerusalem, repaired the wall ... Benjamin and Hasshub repaired the wall ... Azariah ... repaired the wall ... Binnui ... repaired the wall" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Benjamin ... Hasshub ... Azariah ... Maaseiah ... Ananiah ... Binnui ... Henadad** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **After them ... After him** - "Next to them ... Next to him"
+  * **opposite their own house** - "in front of their own house" 
+   
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -52,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -16,12 +16,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 When there is justice, those who love what is right are happy, 
-\q2 but when there is justice, it brings great fear to those who do what is evil. 
+\v 15 When there is justice, those who love what is right are happy,
+\q2 but when there is justice, it brings great fear to those who do what is evil.
 \q1
 \v 16 A person who does not understand right and wrong, will get lost when he tries to make decisions,
-\q2 he will only rest when he is dead. 
-
+\q2 he will only rest when he is dead.
 
 \q1
 </usfm>
@@ -30,7 +29,7 @@
 
 <usfm>
 \q
-\v 15 When justice is done, it brings joy to one who does right,
+\v 15 When justice is done, it brings joy to the righteous person,
 \q but it brings terror to evildoers.
 \q
 \v 16 The one who wanders from the way of understanding,
@@ -49,10 +48,9 @@
 
 ===== translationNotes: =====
 
-  * **When justice is done** - AT: "When rulers do what is just" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **wanders from** - AT: "walks away from" or "abandons"
-  * **the way of understanding** - AT: "the wise and just way of living" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **he will rest in the assembly of the dead** - "he will remain in the assembly of dead spirits" AT: "he will rest in the place where dead spirits come together to rest"
+  * **When justice is done** - The abstract noun "justice" can be translated as a noun phrase. These words can be translated in active form. AT: "When rulers do what is just" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **wanders from the way of understanding** - This is an idiom. AT: "no longer lives wisely" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **he will rest in the assembly of the dead** - "he will remain in the assembly of dead spirits"
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -60,6 +58,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:13|<<]] | [[:en:bible:notes:pro:21:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

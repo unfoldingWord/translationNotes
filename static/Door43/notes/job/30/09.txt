@@ -43,8 +43,8 @@
 \v 10 They abhor me and stand far off from me;
 \q they do not refrain from spitting in my face.
 \q
-\v 11 For God has unstrung the string to my bow and has afflicted me,
-\q and so these people lose all self-control in front of me.
+\v 11 For God has unstrung the string to my bow and afflicted me,
+\q and those who taunt me cast off restraint before my face.
 </usfm>
 
 
@@ -58,9 +58,14 @@
 
 ===== translationNotes: =====
 
-  * **they do not refrain from spitting in my face.** - AT: "they even spit in my face!" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **God has unstrung the string to my bow and has afflicted me** - AT: "God has taken aware my power to defend myself." (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **Connecting Statement:** - Job speaks again about the people who were mocking him.
 
+  * **But now, for their sons I have become their subject for a song of mockery** - The abstract nouns "song" and "mockery" can be expressed with the verbs "sing" and "mock. AT: "But now their sons sing songs about me to mock me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **I am now a joke to them** - Here "joke" represents a person whom people make cruel jokes about. AT: "I am now one whom they make cruel jokes about" or "They joke and say cruel things about me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they do not refrain from spitting in my face** - This can be stated positively. AT: "they even spit in my face!" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **God has unstrung the string to my bow** - A bow that is unstrung is not useful. The phrase "has unstrung the string of my bow" is a metaphor for making Job powerless. AT: "God has taken away my power to defend myself" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **those who taunt me** - "those who mock me"
+  * **cast off restraint before my face** - A restraint keeps a person from moving freely and doing what he wants. Here "restraint" represents refraining from doing something, and "cast off restraint" represents not refraining from doing something. In this case the mockers did not refrain from being cruel to Job. AT: "do not refrain from being cruel to me" or "do whatever cruel things they want to do to me" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -68,6 +73,6 @@
   * [[:en:bible:questions:comprehension:job:30]]
 **[[:en:bible:notes:job:30:07|<<]] | [[:en:bible:notes:job:30:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

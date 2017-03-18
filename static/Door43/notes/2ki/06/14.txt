@@ -29,7 +29,7 @@
 <usfm>
 \p
 \v 14 So the king sent to Dothan horses, chariots, and a large army. They came by night and surrounded the city.
-\v 15 When the servant of the man of God had risen early and gone outside, behold, a large army with horses and chariots surrounded the city. And his servant said to him, "Oh, my master! What will we do?"
+\v 15 When the servant of the man of God had risen early and gone outside, behold, a large army with horses and chariots surrounded the city. His servant said to him, "Oh, my master! What will we do?"
 \v 16 Elisha answered, "Do not fear, for those who are with us are more than those who are with them."
 </usfm>
 
@@ -42,10 +42,11 @@
 ===== translationNotes: =====
 
   * **So the king** - This refers to the king of Aram.
-  * **When the servant of the man of God** - AT: "When Elisha's servant" 
-  * **had risen early and gone outside, behold** - "got up early in the morning and went outside, he saw" 
-  * **And his servant said to him** - "The servant went back inside and said to Elisha," 
-  * **those who are with us are more than those who are with them** - "those who are on our side in the battle are more than those who are on their side." 
+  * **the man of God** - "Elisha" or "Elisha the man of God"
+  * **behold** - The word "behold" here shows that the servant was surprised by what he saw.  
+  * **had risen early and gone outside, behold** - "got up early in the morning and went outside, and he saw" 
+  * **His servant said to him** - The servant went back inside the house to tell Elisha what he had seen. AT: "The servant went back inside and said to Elisha" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **those who are with us are more than those who are with them** - "To be with someone" in battle means to fight for their side. AT: "those who are on our side in the battle are more than those who are on their side" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -54,6 +55,6 @@
   * [[:en:bible:questions:comprehension:2ki:06]]
 **[[:en:bible:notes:2ki:06:12|<<]] | [[:en:bible:notes:2ki:06:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

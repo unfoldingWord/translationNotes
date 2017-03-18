@@ -25,7 +25,7 @@
 \q1 They should praise Yahweh for loving them faithfully
 \q2 and for the wonderful things that he does for people.
 
-\b
+
 
 
 \q1
@@ -43,7 +43,6 @@
 \q
 \v 16 For he has broken the gates of bronze
 \q and cut through the bars of iron.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -58,8 +57,7 @@
 ===== translationNotes: =====
 
   * **He brought them** - "Yahweh brought those in prison"
-  * **darkness and gloom** - Both "darkness" and "gloom" have basically the same meaning and are used to emphasize how dark the prison was. AT: "complete darkness."
- See how you translated this in [[:en:bible:notes:psa:107:008|107:10]]. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **darkness and gloom** - Both "darkness" and "gloom" have basically the same meaning and are used to emphasize how dark the prison was. See how you translated this in [[:en:bible:notes:psa:107:008|107:10]]. AT: "complete darkness" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **Oh that people would praise Yahweh for his covenant faithfulness** - "Let people praise Yahweh because he faithfully loves them" or "People should praise Yahweh because of his faithful love." Here the word "Oh" is used to convey a strong desire for people to praise him. See how you translated this in [[:en:bible:notes:psa:107:008|107:8]]. (See: [[:en:ta:vol2:translate:figs_exclamations]])
   * **For he** - "because he"
   * **For he has broken the gates of bronze and cut through the bars of iron** - Both of these phrases describe Yahweh freeing his people from prison and are used to emphasize that Yahweh truly freed them. AT: "He freed his people from prison" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_explicit]])
@@ -70,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:107]]
 **[[:en:bible:notes:psa:107:011|<<]] | [[:en:bible:notes:psa:107:017|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

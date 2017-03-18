@@ -38,12 +38,11 @@
 
 <usfm>
 \q1
-\v 18 Wickedness burns like a fire; it devours the briers and thorns; 
+\v 18 Wickedness burns like a fire; it devours the briers and thorns;
 \q1 it even burns the thickets of the forest, which rise in a column of smoke.
 \q1
-\v 19 Through the fury of Yahweh of hosts the land is scorched, and the people are like fuel for the fire. 
-\q1 No man spares his
-brother.
+\v 19 Through the fury of Yahweh of hosts the land is scorched, and the people are like fuel for the fire.
+\q1 No man spares his brother.
 </usfm>
 
 ===== translationWords: =====
@@ -51,17 +50,17 @@ brother.
   * [[:en:obe:kt:evil]]
   * [[:en:obe:other:fire]]
   * [[:en:obe:other:devour]]
-  * [[:en:obe:kt:wrath|fury]]
+  * [[:en:obe:kt:wrath]]
   * [[:en:obe:kt:yahwehofhosts]]
   * [[:en:obe:other:peoplegroup]]
   * [[:en:obe:kt:brother]]
 
 ===== translationNotes: =====
 
-  * **Wickedness burns like a fire; it devours the briers and thorns; it even burns the thickets of the forest** - The people's evil deeds are spoken of as if they were a very destructive fire. The fact that this fire is said to burn even the briers and thorns, plants that grow in places that people have deserted, suggests that this fire has already destroyed the places where people were living. The same is true for the forest. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **briers and thorns** - See how you translated this phrase in [[:en:bible:notes:isa:05:05|5:6]].
-  * **Through the fury of Yahweh of hosts the land is scorched** - See how you translated "Yahweh of hosts" in [[:en:bible:notes:isa:01:09|1:9]]. This can be stated in active form.  AT: "Like fire that scorches the land, the Lord's intense anger will destroy the people of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **No man spares his brother** - This refers to the people's lack of compassion for each other. This lack is one way in which the nation will be destroyed.
+  * **Wickedness burns like a fire; it devours the briers and thorns; it even burns the thickets of the forest** - The people's evil deeds are spoken of as if they were a very destructive fire. This fire burns even the briers and thorns, plants that grow in places where people no longer live, and "the thickets of the forest" where no one has ever lived, because it has already destroyed the places where people were living. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **briers ... thorns** - The words "briers" and "thorns" both refer to useless, thorny plants; they can be translated using one word. See how you translated these words in [[:en:bible:notes:isa:07:23|7:23]]. AT: "thorn bushes" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **Through the fury of Yahweh of hosts the land is scorched** - Translate "Yahweh of hosts" as in [[:en:bible:notes:isa:01:09|1:9]]. This can be stated in active form. AT: "Like fire that scorches the land, the Lord's intense anger will destroy the people of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **No man spares his brother** - "No one does anything to help anyone else escape" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -69,6 +68,6 @@ brother.
   * [[:en:bible:questions:comprehension:isa:09]]
 **[[:en:bible:notes:isa:09:16|<<]] | [[:en:bible:notes:isa:09:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

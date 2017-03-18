@@ -14,9 +14,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 When trouble comes, and you are terrified like a coward, 
-\q2 then your strength is small. 
-
+\v 10 When trouble comes, and you are terrified like a coward,
+\q2 then your strength is small.
 
 \q1
 </usfm>
@@ -26,7 +25,7 @@
 
 <usfm>
 \q
-\v 10 If you show your cowardice in the day of trouble,
+\v 10 If you become weak with fear in the day of trouble,
 \q then your strength is small.
 </usfm>
 
@@ -38,9 +37,10 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **show your cowardice** - "are afraid to act"
- 
+  * **your strength is small** - This is an idiom. AT: "you have very little strength" or "you are certainly weak" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -54,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

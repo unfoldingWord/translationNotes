@@ -21,10 +21,8 @@
 \li2 the descendants of Jeshua, Kadmiel, Binnui, and Hodeva, seventy-four,
 \li2
 \v 44 singers who were descendants of Asaph, 148.
-\b
 \pi
 \v 45 Also 138 temple gatekeepers from the descendants of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai, returned.
-\b
 
 
 \pi
@@ -46,11 +44,11 @@
   * [[:en:obe:other:descendant]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile.
+  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile. (See: [[:en:ta:vol2:translate:translate_numbers]])
 
-  * **Jeshua ... Kadmiel ... Hodevah ... Asaph ... Shallum ... Ater ... Talmon ... Akkub ... Hatita ... Shobai** - These are all male names. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **The singers** - "The musicians"
-  * **gatekeepers** - These were individuals that guarded the gate of a village or city. If your language can translate "gatekeepers" then use that word. See how you translated this in [[:en:bible:notes:neh:07:01|7:1]]
+  * **Jeshua ... Kadmiel ... Binnui ... Hodevah ... Asaph ... Shallum ... Ater ... Talmon ... Akkub ... Hatita ... Shobai** - These are all names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **singers** - Translate this as in [[:en:bible:notes:neh:07:01|7:1]].
+  * **gatekeepers** - Translate this as in [[:en:bible:notes:neh:07:01|7:1]].
 
 ===== Links: =====
 
@@ -59,6 +57,6 @@
   * [[:en:bible:questions:comprehension:neh:07]]
 **[[:en:bible:notes:neh:07:39|<<]] | [[:en:bible:notes:neh:07:46|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

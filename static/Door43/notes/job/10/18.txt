@@ -43,9 +43,11 @@
 
 ===== translationNotes: =====
 
-  * **Why, then, have you brought me out of the womb?** - AT: "You should not have allowed me to be born!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **I wish I had given up my spirit** - AT: "I wish that I had died" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_euphemism]])
-  * **no eye had ever seen me** - Job uses "eye" here to refer to the whole person. He wishes he could have died at birth, before anyone saw him. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **brought me out of the womb** - Here being brought out of the womb represents being born into this world. AT: "brought me out of my mother's womb" or "brought me into this world" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **given up my spirit** - Giving up one's spirit represents dying. AT: "died" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and that no eye had ever seen me** - Job uses "eye" here to refer to the whole person. He wishes he could have died at birth, before anyone saw him. AT: "before any person had ever seen me" or "before I was born" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **existed** - "lived"
+  * **I would have been carried** - "My body would have been carried"
 
 ===== Links: =====
 
@@ -54,6 +56,6 @@
   * [[:en:bible:questions:comprehension:job:10]]
 **[[:en:bible:notes:job:10:17|<<]] | [[:en:bible:notes:job:10:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

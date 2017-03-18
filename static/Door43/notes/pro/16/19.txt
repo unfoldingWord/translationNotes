@@ -19,11 +19,10 @@
 
 <usfm>
 \v 19 It is better to be humble and live among the poor
-\q2 than to receive a portion of what proud people took by force. 
-\b
+\q2 than to receive a portion of what proud people took by force.
 \q1
-\v 20 Those who think about what they have been taught 
-\q2 find many good things in the lesson; 
+\v 20 Those who think about what they have been taught
+\q2 find many good things in the lesson;
 \q2 how fortunate are those who put their trust in Yahweh.
 
 
@@ -38,8 +37,8 @@
 \v 19 It is better to be humble among poor people
 \q than to divide the spoil with proud people.
 \q
-\v 20 Whoever contemplates what they are taught finds what is good
-\q and those who trust in Yahweh will be happy.
+\v 20 Whoever contemplates what they are taught will find what is good,
+\q and those who trust in Yahweh will be blessed.
 </usfm>
 
 
@@ -52,9 +51,8 @@
   * [[:en:obe:kt:yahweh]] 
 ===== translationNotes: =====
 
-
-  * **spoil** - goods taken in battle.
- 
+  * **spoil** - goods taken in battle
+  * **what they are taught** - This can be stated in active form. AT: "what someone has taught them" or "what they have learned" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -69,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

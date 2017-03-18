@@ -17,7 +17,6 @@
 \v 24 Then the king commanded that the men who had accused Daniel be seized and thrown into the pit of lions—along with their wives and children. When they were thrown into the pit, the lions leaped on them and crushed their bones before they fell to the bottom of the pit.
 \p
 \v 25 Then King Darius wrote this message and sent it throughout his kingdom to all the people, to every nation, and to all the people no matter what language they spoke:
-\b
 \pi "I wish that all things go very well with you!
 
 
@@ -28,7 +27,7 @@
 
 <usfm>
 \p
-\v 24 The king gave an order, and they brought those men who had accused Daniel and threw them into the den of lions—they, their children, and their wives. Before they reached the floor, the lions overpowered them and broke all their bones to pieces. 
+\v 24 The king gave an order, and they brought those men who had accused Daniel and threw them into the den of lions—they, their children, and their wives. Before they reached the floor, the lions overpowered them and broke all their bones to pieces.
 \v 25 Then King Darius wrote to all the peoples, nations, and languages that live in all the earth:
 \q "May peace increase for you.
 </usfm>
@@ -44,10 +43,14 @@
 
 ===== translationNotes: =====
 
+  * **den of lions** - This may refer to a room or pit where lions were kept. See how you translated this in [[:en:bible:notes:dan:06:06|6:7]].
   * **Before they reached the floor** - "Before they reached the floor of the lions' den"
-  * **all the peoples, nations, and languages** - AT: "the people of all nations and languages"
-  * **in all the earth** - King Darius wrote his message to his entire kingdom which was huge. Here it says "all the earth" to emphasis how large his kingdom was, though it did not include everyone on the earth. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **broke all their bones to pieces** - "crushed their bones" (UDB)
+  * **peoples, nations, and languages** - Here "nations" and "languages" represent people from different nations who speak different languages. See how you translated this in [[:en:bible:notes:dan:03:03|3:4]]. AT: "people from different nations and who spoke different languages" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in all the earth** - King Darius wrote his message to his entire kingdom which was huge. Here it says "all the earth" to emphasis how large his kingdom was, though it did not include everyone on the earth. AT: "in his kingdom" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
   * **May peace increase for you** - This is a form of greeting that is used to wish someone well in all areas of life.
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -55,6 +58,6 @@
   * [[:en:bible:questions:comprehension:dan:06]]
 **[[:en:bible:notes:dan:06:23|<<]] | [[:en:bible:notes:dan:06:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

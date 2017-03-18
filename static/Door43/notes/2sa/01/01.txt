@@ -36,6 +36,7 @@
 
 ===== translationNotes: =====
 
+  * **Ziklag** - This is the name of a city in the southern part of Judah. (See: [[:en:ta:vol1:translate:translate_names]])
   * **On the third day** - "After three days" (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **with his clothes torn and with dirt on his head** - In this culture, tearing one's own clothes and putting dirt on one's head was an act of mourning. (See: [[:en:ta:vol2:translate:translate_symaction]])
   * **he lay facedown on the ground and prostrated himself** - This was an act of showing submission to David, who was now the king of Israel. (See: [[:en:ta:vol2:translate:translate_symaction]])
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:2sa:01]]
 **| [[:en:bible:notes:2sa:01:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check saul}}
+~~DISCUSSION~~{{tag>publish p2pass saul}}
 
 ~~NOCACHE~~

@@ -27,7 +27,7 @@
 
 <usfm>
 \q1
-\v 28 Yahweh says of Cyrus, 'He is my shepherd, he will do my every wish'—he will decree about Jerusalem, 'Let her be rebuilt,' and about the temple, 'Let your foundations be laid.'"
+\v 28 Yahweh is the one who says of Cyrus, 'He is my shepherd, he will do my every wish; he will decree about Jerusalem, 'She will be rebuilt,' and about the temple, 'Let its foundations be laid.'"
 </usfm>
 
 
@@ -44,7 +44,7 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **He is my shepherd** - This means Cyrus will protect and care for God's people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He is my shepherd** - Yahweh speaks of Cyrus ruling and protecting the people of Israel as if Cyrus is their shepherd. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Let her be rebuilt** - This can be stated in active form. AT: "Let the people rebuild the city" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Let your foundations be laid** - This can be stated in active form. AT: "Let the people lay its foundations" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit cyrus}}
+{{tag>publish p2pass cyrus}}
 
 ~~NOCACHE~~

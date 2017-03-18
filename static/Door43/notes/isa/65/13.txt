@@ -36,14 +36,13 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 13 This is what the Lord Yahweh says,
-\q1 "Look, my servants will eat, but you will be hungry; 
-\q1 look, my servants will drink, but you will be thirsty; 
+\q1 "Look, my servants will eat, but you will be hungry;
+\q1 look, my servants will drink, but you will be thirsty;
 \q1 look, my servants will rejoice, but you will be put to shame.
 \q1
-\v 14 Look, my servants will shout with joy because of gladness of heart, 
+\v 14 Look, my servants will shout with joy because of gladness of heart,
 \q1 but you will cry because of the pain of the heart, and will wail because of the crushing of the spirit.
 </usfm>
 
@@ -62,6 +61,9 @@
 
   * **General Information:** - Yahweh continues speaking to those in Israel who worship idols.
 
+  * **Look, my servants** - "Take notice and pay attention" Yahweh repeats this for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **but you will cry because of the pain of the heart, and will wail because of the crushing of the spirit** - These clauses mean the same and the repetition is for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **crushing of the spirit** - This expression compares the feeling of terrible disappointment and sorrow to something becoming deformed due to high pressure. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -69,6 +71,6 @@
   * [[:en:bible:questions:comprehension:isa:65]]
 **[[:en:bible:notes:isa:65:12|<<]] | [[:en:bible:notes:isa:65:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

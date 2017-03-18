@@ -20,7 +20,7 @@
 <usfm>
 \v 25 "But I have incited a ruler who will come with his army from the north.
 \q2 I have summoned him to come from his country, which is east of Israel,
-\q1 and I have given him my authority.
+\q1 and he will call on me for help.
 \q2 I will enable his army to conquer other rulers;
 \q2 they will trample those leaders like a man who makes clay pots first tramples the clay.
 \q1
@@ -35,13 +35,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 25 I have raised up one from the north, and he comes; from the sun's rising I summon him who calls on my name,
 \q1 and he will trample the rulers like mud, like a potter who is treading on the clay.
 \q1
-\v 26 Who announced this from the beginning, that we might know? And before time, that we may say,
-"He is right"? 
+\v 26 Who announced this from the beginning, that we might know? Before this time, that we may say, "He is right"?
 \q1 Indeed none of them decreed it, yes, none heard you say anything.
 </usfm>
 
@@ -57,12 +55,13 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **I have raised up one** - "I have appointed and given the strength" 
-  * **from the sun's rising** - The sun rises in the east. AT: "from the east" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **and he will trample the rulers like mud, like a potter who is treading on the clay** - This means this king and his army will defeat their enemy. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **he will trample the rulers** - Conquering someone is like stepping on them. AT: "he will conquer the rulers" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Who announced this from the beginning, that we might know? And before time, that we may say, "He is right"?** - Yahweh uses questions to scold the people and their idols. AT: "I was the one who announced this a long time ago, so that you might know and say 'Yahweh is right.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Indeed none of them decreed it, yes, none heard you say anything** - "Certainly, none of your idols announced it. They did not say anything"
+  * **I have raised up one** - Yahweh speaks of appointing a person as if he raised that person up. AT: "I have appointed one" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **from the sun's rising** - This refers to the east, the direction from which the sun rises. AT: "from the east" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **him who calls on my name** - Possible meanings are 1) that this person invokes Yahweh for his success or 2) that this person worships Yahweh.
+  * **he will trample the rulers** - Conquering the rulers of other nations is spoken of as if it were trampling them under foot. AT: "he will conquer the rulers" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **like a potter who is treading on the clay** - Yahweh compares the way in which this person will trample the other rulers with the way that a potter tramples on clay to mix it with water. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Who announced this from the beginning, that we might know? Before this time, that we may say, "He is right"?** - Yahweh uses these rhetorical questions to mock the idols that the people worship. The implied answers are 1) that the idols have not done these things and 2) that Yahweh is the one who has done these things. AT: "None of the idols announced this from the beginning, that we might know. And none of them announced this before time, that we may say, 'He is right.'" (See: [[:en:ta:vol1:translate:figs_rquestion]] and[[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Indeed none of them decreed it, yes, none heard you say anything** - "Indeed, none of the idols decreed it. Indeed, no one heard you idols say anything"
 
 ===== Links: =====
 
@@ -71,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:41]]
 **[[:en:bible:notes:isa:41:23|<<]] | [[:en:bible:notes:isa:41:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

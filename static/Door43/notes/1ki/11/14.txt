@@ -42,9 +42,11 @@
 
 ===== translationNotes: =====
 
+  * **Hadad** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
   * **When David was in Edom ... since Hadad was still a little child** - This is background material that happened long before.
-  * **Joab and all Israel** - "Joab and all of the Israelite army" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Hadad was taken with other Edomites by his father's servants** - This can be stated in active form. "the servants of Hadad's father had taken him with other Edomites" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Joab and all Israel** - The words "all Israel" refer to the army of Israel. AT: "Joab and all of the Israelite army" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **But Hadad was taken with other Edomites by his father's servants** - This can be stated in active form. "But the servants of Hadad's father took him with other Edomites" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -52,6 +54,6 @@
   * [[:en:bible:questions:comprehension:1ki:11]]
 **[[:en:bible:notes:1ki:11:11|<<]] | [[:en:bible:notes:1ki:11:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

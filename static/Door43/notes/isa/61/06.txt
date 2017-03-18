@@ -34,7 +34,6 @@
 \q2 but now you will have many good things;
 \q1 you will be happy because you will be in your land again,
 \q2 and you will rejoice forever.
-\b
 
 
 \q1
@@ -45,7 +44,7 @@
 
 <usfm>
 \q1
-\v 6 You will be called the priests of Yahweh; they will call you servants of our God. 
+\v 6 You will be called the priests of Yahweh; they will call you servants of our God.
 \q1 You will eat the wealth of the nations, and you will boast in their riches.
 \q1
 \v 7 Instead of your shame you will have double; and instead of dishonor they will rejoice over their share.
@@ -67,11 +66,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh's servant continues speaking to the people of Israel.
+  * **General Information:** - Yahweh's servant continues speaking to the people of Israel with each line a parallelism.  (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **You will be called** - This can be stated in active form. AT: "People will call you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **you will have double** - This probably refers to a double portion of land.
-  * **they will rejoice over their share** - This still refers to the people of Israel. "you will rejoice over your share"
+  * **they will rejoice over their share ... they will ... their land ... will be theirs** - This still refers to the people of Israel. This can be stated in second person. AT: "you will rejoice over your share ... you will ... your land ... will be yours" (See: [[:en:ta:vol2:translate:figs_123person]])
 
 ===== Links: =====
 
@@ -80,6 +79,6 @@
   * [[:en:bible:questions:comprehension:isa:61]]
 **[[:en:bible:notes:isa:61:04|<<]] | [[:en:bible:notes:isa:61:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

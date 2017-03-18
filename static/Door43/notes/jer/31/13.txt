@@ -26,7 +26,6 @@
 \v 14 The priests will have plenty of things to eat and drink,
 \q2 and all my people will be filled with the good things that I give them.
 \q1 That will certainly happen because I, Yahweh, have said it!"
-\b
 
 
 \p
@@ -53,8 +52,13 @@
   * [[:en:obe:other:declare]]
 
 ===== translationNotes: =====
-  * **I will change** - Here "I" refers to Yahweh.
+
+  * **I will change their mourning into celebration** - The abstract nouns "mourning" and "celebration" can be translated as verbs. AT: "I will cause them to mourn no longer but instead to celebrate" or "I will make it so they are no longer sad but happy"
+  * **I will change** - Yahweh will change
+  * **will saturate the lives of the priests in abundance** - The abstract noun "abundance" can be translated as "many good things." The lives of the priests are spoken of as if they were a field that would become completely wet when much rain falls on it. Life is a metonym for the person. AT: "I will give the priests all the good things they would like" or "I will satisfy the priests with good things" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **My people will fill themselves with my goodness** - "My goodness will satisfy my people"
+  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -62,6 +66,6 @@
   * [[:en:bible:questions:comprehension:jer:31]]
 **[[:en:bible:notes:jer:31:12|<<]] | [[:en:bible:notes:jer:31:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

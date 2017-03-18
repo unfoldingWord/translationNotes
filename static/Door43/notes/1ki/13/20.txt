@@ -24,7 +24,7 @@
 
 <usfm>
 \p
-\v 20 As they sat at the table, the word of Yahweh came to the prophet who had brought him back, 
+\v 20 As they sat at the table, the word of Yahweh came to the prophet who had brought him back,
 \v 21 and he cried to the man of God who came from Judah, saying, "Yahweh says, 'Because you have been disobedient to the word of Yahweh and have not kept the command that Yahweh your God gave you,
 \v 22 but came back and have eaten food and drunk water in the place about which Yahweh told you to eat no food and drink no water, your body will not be buried in the tomb of your fathers.'"
 </usfm>
@@ -42,9 +42,11 @@
 
 ===== translationNotes: =====
 
-  * **As they sat at the table** - AT: "As they sat at the table eating" (See [[:en:ta:vol1:translate:figs_explicit]])
-  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:1ki:06:11|6:11]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **As they sat at the table** - The implied information is that they were still eating and drinking at the table. AT: "As they were eating and drinking at the table" (See [[:en:ta:vol1:translate:figs_explicit]])
+  * **the word of Yahweh came** - This is an idiom that means Yahweh spoke. Here "word" represents Yahweh's message. Translate this phrase as in [[:en:bible:notes:1ki:13:14|13:17]]. AT: "the message of Yahweh came" or "Yahweh spoke his message" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **brought him back** - Here the word "him" refers to the man of God.
+  * **he cried to the man of God** - "he spoke loudly to the man of God"
+  * **Because you have been disobedient to the word of Yahweh** - "Because you have not obeyed the word of Yahweh"
 
 ===== Links: =====
 
@@ -53,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1ki:13]]
 **[[:en:bible:notes:1ki:13:18|<<]] | [[:en:bible:notes:1ki:13:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit disobey}}
+~~DISCUSSION~~{{tag>publish p2pass disobey}}
 
 ~~NOCACHE~~

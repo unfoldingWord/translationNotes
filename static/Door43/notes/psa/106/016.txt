@@ -26,7 +26,7 @@
 \q1
 \v 18 God sent down from heaven a fire
 \q2 which burned up all the wicked people who supported them.
-\b
+
 
 
 \q1
@@ -59,7 +59,7 @@
   * [[:en:obe:kt:evil]]
 ===== translationNotes: =====
 
-  * **In the camp** - This refers to the Israelites' can in the wilderness. AT: "In the camp in the wilderness" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **In the camp** - This refers to the Israelites' camp in the wilderness. AT: "In the camp in the wilderness" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **The earth opened and swallowed up** - Here how the ground opens up and buries the people is being compared to how a creature swallows something. AT: "The earth opened and buried" (See: [[:en:ta:vol2:translate:figs_personification]])
   * **Dathan** - This was an official who rebelled against Moses. (See: [[:en:ta:vol1:translate:translate_names]])
   * **and covered the followers of Abiram** - The followers of Abiram were also buried when the earth opened and buried Dathan. AT: "and it also covered the followers of Abiram" or "and it also buried the followers of Abiram" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
@@ -72,6 +72,6 @@
   * [[:en:bible:questions:comprehension:psa:106]]
 **[[:en:bible:notes:psa:106:013|<<]] | [[:en:bible:notes:psa:106:019|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

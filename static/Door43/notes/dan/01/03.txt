@@ -42,15 +42,17 @@
 
 ===== translationNotes: =====
 
+  * **The king spoke** - This refers to Nebuchadnezzar.
   * **Ashpenaz** - This is the chief official. (See: [[:en:ta:vol1:translate:translate_names]])
   * **nobility** - This is the highest social class.
-  * **without blemish** - These two negative words together emphasize a positive idea. AT: "who appeared perfect" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **without blemish** - These two negative words together emphasize a positive idea. AT: "with perfect appearance" (See: [[:en:ta:vol2:translate:figs_litotes]])
   * **filled with knowledge and understanding** - This is an idiom. This means they knew much and could organize and use that information. (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **king's palace** - This is the large house or building where the king lives.
   * **He was to teach them** - "Ashpenaz was to teach them"
-  * **delicacies** - special, rare, good foods
+  * **The king counted out for them** - The king's officials did this task for him. AT: "The king's officials counted out for them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **his delicacies** - the special, rare, good foods that the king ate
+  * **These young men were to be trained** - This can be stated in active form. AT: "Ashpenaz was to train these young men" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **trained** - "taught skills"
-
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -58,6 +60,6 @@
   * [[:en:bible:questions:comprehension:dan:01]]
 **[[:en:bible:notes:dan:01:01|<<]] | [[:en:bible:notes:dan:01:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit qualify}}
+~~DISCUSSION~~{{tag>publish p2pass qualify}}
 
 ~~NOCACHE~~

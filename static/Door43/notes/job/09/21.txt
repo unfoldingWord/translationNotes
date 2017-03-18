@@ -38,7 +38,6 @@
 \q2 It is as though he had caused judges to be blind, no longer able to judge fairly.
 \q1 If it is not God who has done that,
 \q2 who, then, has done it?
-\b
 
 
 \q1
@@ -55,13 +54,12 @@
 \v 22 It makes no difference, which is why I say
 \q that he destroys blameless people and wicked people together.
 \q
-\v 23 If a plague should suddenly kill, 
+\v 23 If a plague should suddenly kill,
 \q he would laugh at the afflictions of innocent people.
 \q
 \v 24 The earth is given into the hand of wicked people;
 \q God covers the faces of its judges.
 \q If it is not he who does it, then who is it?
-\b
 </usfm>
 
 
@@ -82,17 +80,16 @@
  ===== translationNotes: =====
 
   * **I am blameless** - "I am faultless"
-  * **It makes no difference, which is why I say that he destroys blameless people and wicked people together** - "It makes no difference whether you are good or bad"
-  * **he destroys blameless people and wicked people together** - "he kills everyone, whether good or bad" (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **If a plague should suddenly kill** - AT: "If an attack should suddenly kill people"
-  * **plague** - AT: "military attack" or "general disaster"
-  * **he would laugh at the afflictions of innocent people** - "God would laugh at the troubles of those who have not done anything wrong"
-  * **The earth is given into the hand of wicked people** - "God gives everybody in the earth into the control of bad people" 
-  * **The earth is given into** - This can be stated in active form. AT: "God gives the earth to" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **The earth** - This is a figure of speech where "the earth" is used to mean all the people on earth. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **into the hand of wicked people** - This metonym is used to describe the power of the bad people. "into the control of bad people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **God covers the faces of its judges** - This idiom describes how God is making the judges of the earth blind to the difference between right and wrong. AT: "God makes the judges of the earth blind [to the difference between right and wrong]"
-  * **If it is not he who does it, then who is it?** - "If God does not do this, then who does?"
+  * **about myself** - "what happens to me" (See: [[:en:ta:vol2:translate:figs_rpronouns]])
+  * **It makes no difference** - "It is all the same" or "It does not matter"
+  * **he destroys blameless people and wicked people together** - "he brings everyone to an end, whether they are blameless or wicked" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **If a plague should suddenly kill** - "If a disaster should suddenly kill people"
+  * **at the afflictions of innocent people** - The abstract noun "afflictions" can be translated as the verb "afflict." AT: "when innocent people are afflicted" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **The earth is given** - This can be stated in active form. AT: "God gives the earth" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The earth is** - Here "the earth" is used to represent the people on the earth. AT: "The people of the world are" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **into the hand of** - Here "hand" is a metonym for "control." AT: "into the control of" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **God covers the faces of its judges** - This idiom means God keeps the judges of the earth from being able to judge the difference between right and wrong. AT: "God makes its judges blind" or "God keeps its judges from judging rightly" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **If it is not he who does it, then who is it?** - "If it is not God who does these things, then who does them?"
 
  
 ===== Links: =====
@@ -105,4 +102,4 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit innocent}}
+{{tag>publish p2check innocent}}

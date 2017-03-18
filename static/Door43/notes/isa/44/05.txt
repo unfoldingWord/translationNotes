@@ -28,24 +28,25 @@
 
 <usfm>
 \q1
-\v 5 One will say, 'I am Yahweh's;' and another will be named after Jacob; 
-\q1 and another will write on his hand 'Belonging to Yahweh' and be called by the name of Israel."
+\v 5 One will say, 'I belong to Yahweh,' and another will call out the name of Jacob,
+\q1 and another will write on his hand 'Belonging to Yahweh,' and name himself by the name of Israel."
 </usfm>
 
 ===== translationWords: =====
 
   * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:other:jacob]]
   * [[:en:obe:kt:call]]
+  * [[:en:obe:other:jacob]]
   * [[:en:obe:kt:name]]
 
 ===== translationNotes: =====
 
   * **General Information:** - Yahweh continues speaking to the people of Israel
 
-  * **and another will be named after Jacob** - This can be stated in active form. AT: "and another person will name himself 'descendant of Jacob'" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **and be called by the name of Israel** - This can be stated in active form. AT: "and any person will call him 'descendant of Israel'" (See: [[:en:ta:vol2:translate:figs_activepassive]])
- 
+  * **another will call out the name of Jacob** - "another person will say he is a descendant of Jacob" 
+  * **name himself by the name of Israel** - "call himself a descendant of Israel"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -53,6 +54,6 @@
   * [[:en:bible:questions:comprehension:isa:44]]
 **[[:en:bible:notes:isa:44:03|<<]] | [[:en:bible:notes:isa:44:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

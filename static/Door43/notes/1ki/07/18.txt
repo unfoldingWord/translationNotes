@@ -11,7 +11,7 @@
 
 <usfm>
 \v 18 Huram also made bronze figures that resembled pomegranates. He put two rows of pomegranates over the top of each pillar.
-\v 19 The top over each pillar was shaped like a lily. Each lily leaf was 1.8 meters tall.
+\v 19 The top over each pillar was shaped like a lily. Each lily leaf was one and four-fifth meters tall.
 </usfm>
 
 ===== ULB: =====
@@ -27,9 +27,10 @@
 
 ===== translationNotes: =====
 
-  * **two rows of pomegranates** - A "pomegranate" is a fruit with a hard, red rind and many juicy seeds inside. Huram did not use real pomegranates to decorate the pillars. He made them out of bronze.
-  * **The capitals ... were decorated with lilies, four cubits high** - This can be stated in active form. Lilies are funnel-shaped flowers. AT: "Huram decorated the capitals ... with bronze lilies, four cubits high" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **the tops of the portico** - See how you translated "portico" in [[:en:bible:notes:1ki:07:06|7:6]].
+  * **two rows of pomegranates** - A pomegranate is a fruit with a hard, red rind and many juicy seeds inside. Huram did not use real pomegranates to decorate the pillars. He made them out of bronze.
+  * **The capitals ... were decorated with lilies, four cubits high** - Lilies are plants whose flowers are wide at one end and very narrow at the other end. These words can be stated in active form. AT: "Huram decorated the capitals ... with bronze lilies, four cubits high" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **the tops of the portico** - Translate "portico" as in [[:en:bible:notes:1ki:07:06|7:6]].
+  * **four cubits** - A cubit is 46 centimeters. AT: "about 1.8 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
 
 ===== Links: =====
 
@@ -38,6 +39,6 @@
   * [[:en:bible:questions:comprehension:1ki:07]]
 **[[:en:bible:notes:1ki:07:15|<<]] | [[:en:bible:notes:1ki:07:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

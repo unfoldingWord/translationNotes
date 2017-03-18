@@ -27,7 +27,7 @@
 \v 3 Have mercy on us, Yahweh, have mercy on us,
 \q for we are filled with humiliation.
 \q
-\v 4 We are more than full 
+\v 4 We are more than full
 \q of the scoffing of the insolent
 \q and with the contempt of the proud.
 </usfm>
@@ -41,15 +41,14 @@
 
 ===== translationNotes: =====
 
-  * **Have mercy on us** - The abstract noun "mercy" can be stated as an action. AT: "act mercifully toward us." See how you translated a similar phrase in [[:en:bible:notes:psa:123:001|123:2]]. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Have mercy on us** - The abstract noun "mercy" can be stated as an action. See how you translated a similar phrase in [[:en:bible:notes:psa:123:001|123:2]]. AT: "act mercifully toward us" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **we are filled ... We are more than full** - These two phrases have similar meaning, with the second increasing the intensity of the first. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **we are filled with humiliation** - Here humiliation is spoken of as if it were something that could be fill up a person. "we are very disgraced" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **We are more than full** - This idiom means that the amount is excessive, in a negative sense. AT: "We have had too much" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **of the scoffing ... and with the contempt** - There two phrases have very similar meanings and are used together to emphasize how much they have been mocked by the people. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **scoff** - to mock or insult
   * **the insolent** - This refers to the insolent people. AT: "rude and arrogant people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **of the scoffing ... and with the contempt** - There two phrases have very similar meanings and are used together to emphasize how much they have been mocked by the people. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **the proud** - This refers to the proud people. AT: "the people who are proud" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -57,6 +56,6 @@
   * [[:en:bible:questions:comprehension:psa:123]]
 **[[:en:bible:notes:psa:123:001|<<]] | [[:en:bible:notes:psa:124:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5 humiliate}}
+~~DISCUSSION~~{{tag>publish p2pass book5 humiliate}}
 
 ~~NOCACHE~~

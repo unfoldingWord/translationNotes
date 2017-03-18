@@ -35,12 +35,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
+\m
 \q1
-\v 13 Therefore my people have gone into captivity for lack of understanding; 
-\q1 their leaders go hungry, and their masses have nothing to drink.
+\v 13 Therefore my people have gone into captivity for lack of understanding;
+\q1 their honored leaders go hungry, and their common people have nothing to drink.
 \q1
-\v 14 Therefore Sheol has made its appetite greater and has opened its mouth very wide; 
+\v 14 Therefore Sheol has made its appetite greater and has opened its mouth very wide;
 \q1 their elite, the people, their leaders, and the revelers and those who are happy among them, descend into Sheol.
 </usfm>
 
@@ -52,12 +52,12 @@
 
 ===== translationNotes: =====
 
-  * **my people have gone into captivity** - In prophecy things that will happen in the future are described as something in the past. This emphasizes that the prophecy will certainly come true. AT: "enemies from other countries will take my people, Israel, as slaves"
-  * **for lack of understanding** - What they do not understand can be made explicit. AT: "because they do not understand Yahweh or his law" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **their masses** - "their common people"
-  * **Sheol has made its appetite greater and has opened its mouth very wide** - This phrase speaks of Sheol, which stands here for the grave, to an animal that is ready to eat other animals. It implies that many, many people will die. AT: "death is like a hungry animal that has opened its mouth wide to eat up many people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **their elite, the people, their leaders, and the revelers and those who are happy among them, descend into Sheol** - The prophet sees the future as if it were happening now. AT: "Many people of Israel, their important people and common people, their leaders and those who enjoy wild parties, will go into Sheol"
+  * **General Information:** - These verses tell what will happen to the people because they have disobeyed God. 
 
+  * **my people have gone into captivity** - In prophecy things that will happen in the future are often referred to as if they had already happened. This emphasizes that the prophecy will certainly come true. AT: "enemies from other countries will take my people, Israel, as slaves" (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **for lack of understanding** - What they do not understand can be made explicit. AT: "because they do not understand Yahweh or his law" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Sheol has made its appetite greater and has opened its mouth very wide** - This phrase speaks of Sheol, which stands here for the grave, to an animal that is ready to eat other animals. It implies that many, many people will die. AT: "death is like a hungry animal that has opened its mouth wide to eat up many people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **their elite, the people, their leaders, and the revelers and those who are happy among them, descend into Sheol** - The prophet speaks of the future as if it were happening now. AT: "Many people of Israel, their important people and common people, their leaders and those who enjoy wild parties, will go into Sheol" (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -65,6 +65,6 @@
   * [[:en:bible:questions:comprehension:isa:05]]
 **[[:en:bible:notes:isa:05:11|<<]] | [[:en:bible:notes:isa:05:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

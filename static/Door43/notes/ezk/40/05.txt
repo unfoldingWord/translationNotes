@@ -13,10 +13,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 In the vision I saw that there was a wall that completely surrounded the temple area. The measuring stick in the man's hand was about 3.2 meters long. He measured the wall; it was about 3.2 meters thick and about 3.2 meters high. 
+\v 5 In the vision I saw that there was a wall that completely surrounded the temple area. The measuring stick in the man's hand was three and one-tenth meters long. He measured the wall and it was three and one-tenth meters thick and three and one-tenth meters high.
 \p
-\v 6 Then he went to the gate in the temple wall on the temple's east side. He climbed the steps and measured the gateway that faced outward; it was about 3.2 meters deep.
-\v 7 Next, there were alcoves for the temple guards, each being about 3.2 meters long and deep. The distance of the wall between each alcove was about 2.7 meters. The gateway that faced inward, which led to the temple portico, was also about 3.2 meters deep.
+\v 6 Then he went to the gate in the temple wall on the temple's east side. He climbed the steps and measured the gateway that faced outward; it was three and one-tenth meters deep.
+\v 7 Next, there were alcoves for the temple guards, each being three and one-tenth meters long and deep. The distance of the wall between each alcove was two and three-quarter meters. The gateway that faced inward, which led to the temple portico, was also three and one-tenth meters deep.
 
 
 \p
@@ -26,11 +26,11 @@
 
 <usfm>
 \p
-\v 5 There was a wall surrounding the temple complex, and there was a measuring stick in the man's hand, six cubits in length—each "long" cubit equaling a cubit and a handbreadth. The man measured the width of the wall—one stick—and the height—one stick.
-\v 6 Then he went to the temple gate that faced east and up its steps. He measured the threshold of the gate—one stick in depth.
+\v 5 There was a wall surrounding the temple complex, and there was a measuring stick in the man's hand, six cubits in length—each "in length" cubit equaling a cubit and a handbreadth. The man measured the width of the wall—one stick—and the height—one stick.
+\v 6 Then he went to the temple gate that faced east. He went up its steps and measured the threshold of the gate—one stick in depth.
 \f + \ft After \fqa one stick in depth \fqa* , the Hebrew text reads in addition: \fqa one threshold one stick in depth" \fqa* . Many modern versions, however, leave this expression out, because it seems to be a repetition of preceding text. \f*
 
-\v 7 The guard chambers were each one stick long and one stick wide; there were five cubits between any two of the chambers, and the threshold of the temple gate by the temple portico was one stick deep.
+\v 7 The guard chambers were each one stick in length and one stick in width; there were five cubits between any two of the chambers, and the threshold of the temple gate by the temple portico was one stick deep.
 </usfm>
 
 ===== translationWords: =====
@@ -41,19 +41,21 @@
 
 ===== translationNotes: =====
 
-  * **surrounding the temple complex** - "going all the way around the temple area"
+  * **surrounding the temple complex** - "all the way around the temple area"
   * **six cubits in length** - "six cubits long." This was about 3.2 meters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **each "long" cubit equaling a cubit and a handbreadth** - Each long cubit was about 54 centimeters. You may choose not to include this information if you give modern measurements instead of "cubits" as the UDB does. AT: "these were the long cubits, which were the length of a regular cubit plus a handbreadth" (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **handbreadth** - "the width of a hand." This was about 8 centimeters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **the width of the wall** - "how wide the wall was." The wall was hollow like a building.
   * **one stick** - "it was one stick wide." This was about 3.2 meters.
-  * **the height—one stick** - AT: "and one stick high" 
+  * **the temple gate that faced east** - Here "faced" is an idiom that means it was oriented in that direction. AT: "the temple gate that opened toward the east" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the height—one stick** - "and one stick high" 
   * **up its steps** - "and he went up the steps of the gate"
   * **in depth** - "from the front edge of the threshold to the back edge"
   * **The guard chambers** - These were rooms that were built inside of the gate where guards stayed to protect the gate.
   * **five cubits** - about 2.7 meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **between any two of the chambers** - "between the rooms"
-  * **portico** - See how you translated this in [[:en:bible:notes:ezk:08:16|8:16]].
+  * **there were five cubits between any two of the chambers** - "all of the chambers were five cubits from each other" or "each of the chambers was five cubits from any other chamber"
+  * **the chambers** - "the rooms"
+  * **portico** - This was a covering in front of an entrance with columns or posts for support. Translate this as in [[:en:bible:notes:ezk:08:16|8:16]].
 
 
 ===== Links: =====
@@ -63,6 +65,6 @@
   * [[:en:bible:questions:comprehension:ezk:40]]
 **[[:en:bible:notes:ezk:40:03|<<]] | [[:en:bible:notes:ezk:40:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

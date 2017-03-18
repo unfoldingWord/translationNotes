@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 No man's foot will pass through it. No beast's foot will pass through it! And it will not be inhabited for forty years.
+\v 11 No man's foot will pass through it, and no wild animal's foot will pass through it. It will not be inhabited for forty years.
 \v 12 For I will make the land of Egypt a desolation in the midst of uninhabited lands, and its cities in the midst of wasted cities will become a desolation for forty years; then I will scatter Egypt among the nations, and I will disperse them though the lands.
 </usfm>
 
@@ -37,7 +37,10 @@
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to Pharaoh.
 
-  * **No beast's foot will pass through it** - "No animal will walk through it." (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **No man's foot will pass through it** - Here "man's foot" represents people. AT: "No man will walk through the land of Egypt" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **no wild animal's foot will pass through it** - Here "animal's foot" represents animals. AT: "not even a wild animal will walk through it" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **For I will make the land of Egypt a desolation** - The abstract noun "desolation" can be expressed with the adjective "desolate." AT: "For I will make the land of Egypt desolate" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **I will scatter Egypt among the nations** - Here "Egypt" represents the people of Egypt, and "scatter" represents causing them to move to other places. AT: "I will scatter the Egyptians among the nations" or "I will make the people of Egypt go and live among the nations" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -45,6 +48,6 @@
   * [[:en:bible:questions:comprehension:ezk:29]]
 **[[:en:bible:notes:ezk:29:08|<<]] | [[:en:bible:notes:ezk:29:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

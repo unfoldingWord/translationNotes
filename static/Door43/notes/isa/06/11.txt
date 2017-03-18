@@ -34,7 +34,7 @@
 
 <usfm>
 \v 11 Then I said, "Lord, how long?" He answered,
-\q1 "Until cities crash into ruins and are without inhabitants, 
+\q1 "Until cities crash into ruins and are without inhabitants,
 \q1 and the houses are without people, and the land falls into a desolate waste,
 \q1
 \v 12 and until Yahweh has sent the people far away, and the solitude of the land is great.
@@ -53,9 +53,9 @@
 
 ===== translationNotes: =====
 
-  * **Lord, how long?** - "Lord, how long should I continue to give your message to the people?" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Until cities ... are without inhabitants ... are without people** - These phrases mean basically the same thing. AT: "Until all the cities and houses are ruined and there are no more people" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **until Yahweh has sent the people far away, and the solitude of the land is great** - "until I, Yahweh, have sent all the people far away from their land, so that no one is left" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Until cities crash into ruins and are without inhabitants, and the houses are without people** - "Until all the cities and houses are ruined and no one lives there" 
+  * **the land falls into a desolate waste** - Here "falls into" is an idiom that means to become something worse. AT: "the land becomes a desolate waste" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **until Yahweh has sent the people far away, and the solitude of the land is great** - Here Yahweh speaks about himself in the third person. AT: "until I, Yahweh, have sent all the people far away from their land, so that no one is left" (See: [[:en:ta:vol2:translate:figs_123person]])
 
 
 ===== Links: =====
@@ -65,6 +65,6 @@
   * [[:en:bible:questions:comprehension:isa:06]]
 **[[:en:bible:notes:isa:06:10|<<]] | [[:en:bible:notes:isa:06:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

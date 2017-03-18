@@ -25,11 +25,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 You people of Israel, I will destroy you. 
+\v 9 You people of Israel, I will destroy you.
 \q2 No one will be able to help you.
 \q1
-\v 10 You no longer have any king 
- \q2 who can save you in any of your cities. 
+\v 10 You no longer have any king
+ \q2 who can save you in any of your cities.
 \q1 You no longer have any of the rulers whom you asked me to give you.
 
 \q1
@@ -44,7 +44,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q
 \v 9 I will destroy you, Israel;
 \q who will be able to help you?
@@ -72,7 +71,7 @@
 
   * **General Information:** - Yahweh is speaking.
 
-  * **who will be able to help you?** - This question is meant to say, "There will be no one able to help you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **who will be able to help you?** - Yahweh uses a question to emphasize that no one will be able to help the people of Israel. AT: "there will be no on able to help you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Where now is your king, that he may save you in all your cities? Where are your rulers, about whom you said to me, 'Give me a king and princes'?** - Yahweh asks these questions to tell Israel that when they rebel against him, no king or ruler can help them. Only Yahweh can save them from destruction. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
@@ -82,6 +81,6 @@
   * [[:en:bible:questions:comprehension:hos:13]]
 **[[:en:bible:notes:hos:13:07|<<]] | [[:en:bible:notes:hos:13:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

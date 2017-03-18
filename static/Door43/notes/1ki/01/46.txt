@@ -24,7 +24,7 @@
 
 <usfm>
 \v 46 Also, Solomon is sitting on the throne of the kingdom.
-\v 47 Moreover, the king's servants came to bless our master King David, saying, 'May your God make the name of Solomon better than your name, and make his throne greater than your throne.' And the king bowed himself on the bed.
+\v 47 Moreover, the king's servants came to bless our master King David, saying, 'May your God make the name of Solomon better than your name, and make his throne greater than your throne.' Then the king bowed down on the bed.
 \v 48 The king also said, 'Blessed be Yahweh, the God of Israel, who has given a person to sit on my throne this day, and that my own eyes should see it.'"
 </usfm>
 
@@ -41,8 +41,8 @@
 
   * **General Information:** - Jonathan continues to speak to Adonijah about Solomon.
 
-  * **sitting on the throne of the kingdom** - This is another way of saying that Solomon is king (UDB). (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **is sitting on the throne of the kingdom** - Possible meanings are 1) that these words are a metonym for being king. Similar words appear in [[:en:bible:notes:1ki:01:35|1:35]]. AT: "is now king" or 2) that Solomon was physically sitting on the physical throne. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a person to sit on my throne this day** - Possible meanings are 1) that these words are a metonym for being king. Similar words appear in [[:en:bible:notes:1ki:01:35|1:35]]. AT: "a person to be king today as I was" or 2) that Solomon was physically sitting on the physical throne. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1ki:01]]
 **[[:en:bible:notes:1ki:01:43|<<]] | [[:en:bible:notes:1ki:01:49|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -46,7 +46,6 @@
 \q2 but I still love them.
 \q1 That is why I have not forgotten them,
 \q2 and I will certainly act mercifully toward them.
-\b
 
 
 \q1
@@ -56,10 +55,10 @@
 
 <usfm>
 \q
-\v 18 "I have certainly heard Ephraim sorrowing, 'You punished me, and I have been punished.
-\q Bring me back like an untrained calf, and I will be brought back, for you are Yahweh my God.
+\v 18 "I have certainly heard Ephraim sorrowing, 'You punished me, and I have been punished like an untrained calf.
+\q Bring me back and I will be brought back, for you are Yahweh my God.
 \q
-\v 19 For after I turned back to you, I was sorry; after I was trained, I slapped my thigh in grief.
+\v 19 For after I turned back to you, I was sorry; after I was trained, I slapped my thigh.
 \q I was ashamed and humiliated, for I have borne the guilt of my youth.'
 \q
 \v 20 Is not Ephraim my precious child? Is he not my dear, delightful son?
@@ -81,10 +80,14 @@
 
 ===== translationNotes: =====
 
-  * **You punished me, and I have been punished** - The repetition of the phrase indicates either the severity of Yahweh's punishment or the effectiveness of it. AT: "You punished me severely" (UDB) or "You punished me, and I have learned from that punishment." (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Bring me back like an untrained calf** - Ephraim is asking for God to make him teachable as an untrained calf. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **I have certainly heard Ephraim sorrowing** - Ephraim was the ancestor of the largest tribe in Israel. His name is a metonym for the people of Israel. AT: "I have certainly heard the descendants of Ephraim sorrowing" or "I have certainly heard the people of Israel sorrowing" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **You punished me, and I have been punished** - The speaker repeats the phrase to show either that Yahweh punished him severely or that Ephraim learned what Yahweh wanted to teach him through punishing him. The words "I have been punished" can be translated in active form. AT: "You punished me. Yes, you punished me severely" or "You punished me, and I have learned from that punishment" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I have been punished like an untrained calf** - When people train calves, they strike them and otherwise cause them to suffer. Yahweh had caused the people of Israel to suffer. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **punished** - Another possible meaning is "disciplined."
+  * **I slapped my thigh** - in grief. If people use a different phrase or action in your language to show that they are very sad, you may want to use it here. AT: "I rubbed my brow" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:translate_symaction]])
   * **I was ashamed and humiliated** - The words "ashamed" and "humiliated" mean basically the same thing and intensify the idea of shame. AT: "I was completely ashamed." (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **Is not Ephraim my precious child? Is he not my dear, delightful son?** - AT: "Ephraim is my precious child. He is my dear, delightful son. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Is not Ephraim my precious child? Is he not my dear, delightful son?** - Yahweh is speaking tenderly, trying to comfort the people. These questions can be translated as statements. AT: "Ephraim is my precious child. He is my dear, delightful son. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
 
 ===== Links: =====
 
@@ -93,6 +96,6 @@
   * [[:en:bible:questions:comprehension:jer:31]]
 **[[:en:bible:notes:jer:31:16|<<]] | [[:en:bible:notes:jer:31:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

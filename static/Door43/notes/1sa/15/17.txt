@@ -27,9 +27,9 @@
 
 <usfm>
 \p
-\v 17 Samuel said, "Though you are little in your own sight, were you not made the head of the tribes of Israel? And Yahweh anointed you king over Israel;
-\v 18 Yahweh sent you on your way and said, 'Go and completely destroy the sinners, the Amalekites, and fight against them until they are destroyed.'
-\v 19 Why then did you not obey the voice of Yahweh, but instead you seized the booty and did what was evil in the sight of Yahweh?"
+\v 17 Samuel said, "Though you are little in your own sight, were you not made the head of the tribes of Israel? Then Yahweh anointed you king over Israel,
+\v 18 and Yahweh sent you on your way and said, 'Go and completely destroy the sinners, the Amalekites, and fight against them until they are destroyed.'
+\v 19 Why did you not obey the voice of Yahweh, but instead you seized the booty and did what was evil in the sight of Yahweh?"
 </usfm>
 
 
@@ -45,12 +45,15 @@
 
 ===== translationNotes: =====
 
-  * **were you not made the head of the tribes of Israel?** - Saul knows that God made him king, this question is used for emphasis. This rhetorical question can be translated as a statement. AT: "you are the one whom Yahweh made head of the tribes of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why then did you not obey the voice of Yahweh, but instead you seized the booty and did what was evil in the sight of Yahweh?** - This questions is asked to rebuke Saul for disobeying Yahweh.
-  * **but instead you seized the booty** - The law of Moses specifically states when God instructs Israel to completely destroy a nation, nothing is to be kept. It is all marked for destruction as a burnt offering to God. Nothing was to be kept or brought back to camp.
+  * **in your own sight** - Here "sight" refers to his opinion based on what he saw. AT: "in your own opinion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **were you not made the head of the tribes of Israel?** - Samuel uses this question to remind Saul of now much God had given him. This question can be translated as a statement. AT: "Yahweh made you the ruler of the tribes of Israel!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Why did you not obey ... Yahweh?** - Samuel asks this question to rebuke Saul for disobeying Yahweh. This question can be translated as a statement. AT: "You should have obeyed ... Yahweh!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the voice of Yahweh** - Here "voice" refers to the commands that Yahweh spoke. AT: "the things that Yahweh commanded" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **but instead you seized the booty** - Samuel is accusing Saul of direct disobedience. Yahweh commanded Saul to completely destroy everything belonging to the Amalekites, and not to bring anything back to camp.
+  * **the booty** - "the plunder" or "the possessions you took from the enemy"
+  * **what was evil in the sight of Yahweh** - Here "sight" refers to Yahweh's thoughts or opinion. AT: "what Yahweh considers to be evil" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 
- 
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -59,8 +62,10 @@
 **[[:en:bible:notes:1sa:15:14|<<]] | [[:en:bible:notes:1sa:15:20|>>]]**
 
 ~~DISCUSSION~~
+ 
 
 
-{{tag>publish p2edit}}
+
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

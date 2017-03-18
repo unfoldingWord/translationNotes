@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 The front portico was about 4.5 deep and 9 meters wide, just as wide as the main part of the temple.
+\v 3 The front portico was four and one-half meters deep and nine meters wide, just as wide as the main part of the temple.
 \v 4 There were openings like windows in the temple walls. The openings were narrower on the outside than on the inside.
 </usfm>
 
@@ -25,9 +25,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Scripture continues to list the dimensions of the temple. 
+  * **General Information:** - The narrator continues to list the dimensions of the temple. 
 
-  * **portico** - an area of a building made of columns and a roof that leads to and connects with the building's entrance door
+  * **portico** - an area of a building made of columns and a roof that leads to and connects with the building's entrance door. This portico was probably attached to the front part of the wall that surrounded the temple.
+  * **twenty cubits ... ten cubits** - A cubit is 46 centimeters. AT: "9.2 meters ... 4.6 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
 
 
 ===== Links: =====
@@ -37,6 +38,6 @@
   * [[:en:bible:questions:comprehension:1ki:06]]
 **[[:en:bible:notes:1ki:06:01|<<]] | [[:en:bible:notes:1ki:06:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

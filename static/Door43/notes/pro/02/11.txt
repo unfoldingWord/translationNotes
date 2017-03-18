@@ -18,11 +18,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 You will learn to tell the difference between right and wrong 
+\v 11 You will learn to tell the difference between right and wrong
 \q1 and that will keep you safe.
 \q1
 \v 12 You will not do what Yahweh forbids you to do,
-\q2 and you will stay away from those who imagine horrible things and talk about them. 
+\q2 and you will stay away from those who imagine horrible things and talk about them.
 \q1
 \v 13 They go the wrong way,
 \q2 and they walk where there is no light.
@@ -35,8 +35,8 @@
 
 <usfm>
 \q
-\v 11 Discretion will watch over you, 
-\q understanding will guard you. 
+\v 11 Discretion will watch over you,
+\q understanding will guard you.
 \q
 \v 12 They will rescue you from the way of evil,
 \q from those who speak perverse things,
@@ -54,13 +54,14 @@
 
 ===== translationNotes: =====
 
-  * **Discretion will watch over you, understanding will guard you** - AT: "Because you know what is right and wrong you will not be making mistakes" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **watch over** - This means to guard, protect or take care of someone or something.
-  * **Discretion** - being careful in actions and speech
-  * **They will rescue you** - AT: "Discretion and understanding will rescue you" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **from the way of evil, from those who speak perverse things** - These two phrases refer to two different aspects of evil to describe the full range of evil. AT: "from doing evil and talking in an evil way" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Discretion will watch over you, understanding will guard you** - This speaks of "discretion" and "understanding" as if they were persons who could watch over someone else. Both statements mean basically the same thing. AT: "Because you think carefully and understand what is right and wrong you will be safe" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Discretion** - the quality of being careful in actions and speech
+  * **watch over** - to guard, protect or take care of someone or something
+  * **They will rescue you from the way of evil** - "They" refers to discretion and understanding, which are spoken of as if they were persons who could rescue someone else. AT: "You will know to stay away from what is evil" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **from the way of evil** - Evil behaviors are spoken of as if evil were a way or path on which a person walks. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **who abandon the right paths and walk in the ways of darkness** - A person no longer doing what is right but deciding to do what is evil is spoken of as if the person stops walking on the correct path and chooses to walk down a dark path. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **who abandon** - The word "who" refers to the people who speak perverse things.
-  * **abandon** - leave and never return to someone or something
+  * **abandon** - to leave and never return to someone or something
  
 ===== Links: =====
 
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:pro:02]]
 **[[:en:bible:notes:pro:02:09|<<]] | [[:en:bible:notes:pro:02:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

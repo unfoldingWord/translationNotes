@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 7 In the first month (which is the month of Nisan), in the twelfth year of King Ahasuerus, they threw Pur—that is, they threw lots—before Haman—lots for every day after day and month, to select a day and month—until they chose the twelfth month (the month of Adar).
+\v 7 In the first month (which is the month of Nisan), in the twelfth year of King Ahasuerus, the Pur—that is the lot—was thrown before Haman, to select a day and month. They cast the lot over and over until the lot fell on the twelfth month (which is the month of Adar).
 </usfm>
 
 ===== translationWords: =====
@@ -31,10 +31,13 @@
 
 ===== translationNotes: =====
 
-  * **In the first month (which is the month of Nisan)** - "Nisan" is the name of the first month of the Hebrew calendar. It is during the last part of March and the first part April on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:translate_names]])
-  * **in the twelfth year** - "in year number 12" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **threw Pur** - "cast lots" (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the twelfth month (the month of Adar)** - "Adar" is the name of the twelfth and last month of the Hebrew calendar. It is during the last part of February and the first part of March on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:translate_names]])
+  * **In the first month** - "In month one" (See:  [[:en:ta:vol2:translate:translate_ordinal]])
+  * **which is the month of Nisan** - "Nisan" is the name of the first month of the Hebrew calendar. It is during the last part of March and the first part of April on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol1:translate:translate_names]])
+  * **in the twelfth year of King Ahasuerus** - "in year number 12 of King Ahasuerus" or "when King Ahasuerus had reigned for about twelve years" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the Pur—that is the lot—was thrown** - "they cast the Pur—that is the lot—" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the twelfth month** - "month twelve" (See:  [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the month of Adar** - "Adar" is the name of the twelfth and last month of the Hebrew calendar. It is during the last part of February and the first part of March on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol1:translate:translate_names]])
+
 
 ===== Links: =====
 
@@ -43,6 +46,6 @@
   * [[:en:bible:questions:comprehension:est:03]]
 **[[:en:bible:notes:est:03:05|<<]] | [[:en:bible:notes:est:03:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

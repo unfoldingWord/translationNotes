@@ -17,7 +17,6 @@
 <usfm>
 \v 5 Yahweh, show in the heavens that you are very great!
 \q2 Show your glory to people all over the earth!
-\b
 \q1
 \v 6 Answer our prayers and, by your powe,r help us to defeat our enemies
 \q1 so that we, the people whom you love, may be saved."
@@ -61,6 +60,6 @@
   * [[:en:bible:questions:comprehension:psa:108]]
 **[[:en:bible:notes:psa:108:003|<<]] | [[:en:bible:notes:psa:108:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

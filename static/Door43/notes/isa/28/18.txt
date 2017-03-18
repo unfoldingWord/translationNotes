@@ -19,30 +19,29 @@
 ===== UDB: =====
 
 <usfm>
-\v 18 I will cancel the covenant that you made with the place where the spirits of the dead go.
-\q2 You thought that because of that covenant you would not be killed and you would not go there.
-\q1 But when the vast army of Assyria overwhelms you like a flood,
-\q2 they will trample you into the ground.
+\v 18 I will cancel the covenant that you made with death,
+\q2 and I will bring to an end the covenant you made with the place where the dead dwell. 
+\q1 But when the vast flood comes, it will pour over you; 
+\q2 and day after day it will pass over you.
+
 \q1
-\v 19 Their soldiers will come during the morning, at noontime, and at night,
-\q2 and they will carry you all away."
-\b
-\q1 And when you understand this message,
-\q2 you will be terrified.
+\v 19 When the flood comes, it will pass through and over you like the river when it overflows its banks and causes flooding everywhere. 
+\q1 When you finally understand the message of Yahweh, it will cause you to be terrified, not comforted.
 
 
 \q1
+For the bed is too short to stretch oneself on, and the covering too narrow to wrap oneself in.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
 \q1
-\v 18 Your covenant with death will be dissolved, and your agreement with Sheol will not stand. 
+\v 18 Your covenant with death will be dissolved, and your agreement with Sheol will not stand.
 \q1 When the raging flood passes through, you will be overwhelmed by it.
 \q1
-\v 19 Whenever it passes through, it will overwhelm you, 
-\q1 and morning by morning it will pass through and by day and night it will come. 
+\v 19 Whenever it passes through, it will overwhelm you,
+\q1 and morning by morning it will pass through and by day and night it will come.
 \q1 When the message is understood, it will cause terror.
 </usfm>
 
@@ -58,9 +57,14 @@
 
   * **General Information:** - Yahweh continues to speak to the people of Jerusalem.
 
-  * **Your covenant with death will be dissolved, and your agreement with Sheol will not stand** - This can be stated in active form. See how you translated similar phrases in [[:en:bible:notes:isa:28:14|28:15]]. AT: "I will end the deal you think you have with death" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **When the raging flood passes through** - The invasion is compared to a flood of water. AT: "When the enemy army comes like a flood" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **it will overwhelm you** - "it will destroy you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Your covenant with death will be dissolved, and your agreement with Sheol will not stand** - This can be stated in active form. AT: "I will cancel the covenant you have with death, and I will cancel the agreement you have with Sheol" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **covenant with death ... agreement with Sheol** - Possible meanings are 1) the leaders of Jerusalem had used magic or sorcery to try to make an agreement with the gods of the place of the dead so that these gods would protect them from dying or 2) this is a metaphor that speaks of the leaders having made an agreement with the leaders of Egypt. The leaders of Jerusalem were so confident that the Egyptians would protect that it was like they had made an agreement with the gods of the place of the dead. See how you translated this in [[:en:bible:notes:isa:28:14|28:15]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **will not stand** - "will not last"
+  * **When the raging flood passes through** - Possible meanings are 1) "flood" is a synecdoche that represents anything in general that will cause destruction or 2) "flood" is a metaphor referring to the enemy army that Yahweh will send to destroy the people of Jerusalem. (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you will be overwhelmed by it** - This can be stated in active form. AT: "it will overwhelm you" or "it will destroy you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **morning by morning** - This is an idiom. AT: "every day" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **by day and night** - This means "throughout the entire day" (See: [[:en:ta:vol2:translate:figs_merism]])
+
 
 ===== Links: =====
 
@@ -69,7 +73,7 @@
   * [[:en:bible:questions:comprehension:isa:28]]
 **[[:en:bible:notes:isa:28:17|<<]] | [[:en:bible:notes:isa:28:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 
 ~~NOCACHE~~

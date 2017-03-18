@@ -23,20 +23,15 @@
 ===== UDB: =====
 
 <usfm>
-\v 18 All the kings of the earth who have died were greatly honored when they were buried,
+\v 18 All the kings of the earth who have died were greatly honored when they were buried.
 \q1
-\v 19 but your corpse will not be buried;
-\q2 it will be thrown away like a worthless tree branch.
-\q1 Your corpse will be under a heap of other corpses of soldiers that were killed by their enemies' swords,
-\q2 and their corpses were not buried;
-\q1 you will be with those who were killed by their enemies' swords,
-\q2 with those who have gone down to the stony ground in the pit of hell.
+\v 19 Someone will cast you aside, but not into a grave, like a branch that they throw away. 
+\q1 The dead cover you like a garment, those pierced by the sword, who go down to be among the stones where the dead rest.
 \q1
-\v 20 Your corpse will not be buried
-\q1 because you have destroyed your nation
+\v 20 Your dead body will not be buried with them 
+\q1 because you have destroyed your land
 \q2 and have caused your own people to be killed.
-\b
-\q1 The descendants of wicked people like you will never be honored again."
+\q1 The descendants of wicked people like you will never be spoken of again."
 
 
 \q1
@@ -46,15 +41,15 @@
 
 <usfm>
 \q1
-\v 18 All the kings of the nations, 
-\q1 all of them, sleep in glory, every one in his own tomb.
+\v 18 All the kings of the nations,
+\q1 all of them lie down in honor, each one in his own tomb.
 \q1
-\v 19 But you are cast out of your grave like a branch thrown away. 
-\q1 The dead cover you like a garment, those pierced by the sword—those who go down to the stones of the pit.
- \q1
-\v 20 Like a dead body trampled under, you will never join with them in burial, 
-\q1 because you have destroyed your land. You who have killed your people 
-\q1 are the son of evildoers and will never be mentioned again."
+\v 19 But you are cast out of your grave like a branch thrown away.
+\q1 The dead cover you like a garment, those pierced by the sword, who go down to the stones of the pit.
+\q1
+\v 20 You will not join them in burial, because you have destroyed your land 
+\q1 and killed your people.
+\q1 The offspring of evildoers will never be mentioned again."
 </usfm>
 
 ===== translationWords: =====
@@ -64,15 +59,24 @@
   * [[:en:obe:kt:glory]]
   * [[:en:obe:other:tomb]]
   * [[:en:obe:other:sword]]
+  * [[:en:obe:other:pit]]
   * [[:en:obe:other:bury]]
   * [[:en:obe:kt:son]]
   * [[:en:obe:other:evildoer]]
-
 ===== translationNotes: =====
 
-  * **all of them, sleep in glory** - Here "sleep" refers to death. AT: "all the kings who have died are buried in a honorable way" (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **You ... are the son of evildoers** - "Sons of" is an idiom to express the characteristics of a person. AT: "You ... are evil" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **will never be mentioned again** - This can be stated in active form. AT: "no one will ever mention you again" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Connecting Statement:** - This is the end of the taunt song that the Israelites will sing to the king of Babylon. 
+
+  * **all of them lie down in honor** - This means that their bodies were buried in an honorable way. AT: "all the kings who have died are buried in an honorable way" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **But you are cast out of your grave** - Being thrown out of the grave represents not being buried. AT: "But you are not buried. Your body is left on the ground" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **like a branch thrown away** - A branch thrown away represents something worthless. AT: "like a worthless branch that is tossed aside" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **The dead cover you like a garment** - This represents many dead bodies being on top of his body. AT: "The bodies of dead people completely cover your body" or "The bodies of dead soldiers are piled on top of your body"  (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **those pierced by the sword** - This tells who "The dead" are at the beginning of the sentence. Being pierced by the sword represents being killed in battle. AT: "those who were killed in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who go down to the stones of the pit** - The pit refers either to hell, or to a large hole in the ground where many dead bodies are simply dumped.
+  * **You will not join them in burial** - The word "them" refers to the other kings who died and were buried properly. Joining them in burial represents being buried as they were. AT: "you will never be buried as other kings were buried" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The offspring of evildoers will never be mentioned again** - This can be stated in active form. AT: "no one will ever speak again about the descendants of evildoers" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -80,6 +84,6 @@
   * [[:en:bible:questions:comprehension:isa:14]]
 **[[:en:bible:notes:isa:14:12|<<]] | [[:en:bible:notes:isa:14:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

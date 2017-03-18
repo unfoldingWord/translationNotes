@@ -40,7 +40,7 @@
 \q
 \v 5 See, you have made my days only the width of my hand,
 \q and my lifetime is like nothing before you.
-\q Surely every man is a single breath. 
+\q Surely every man is a single breath.
 \qs Selah\qs*
 </usfm>
 
@@ -53,11 +53,11 @@
 
 ===== translationNotes: =====
 
-  * **the end of my life ... the extent of my days** - These phrases mean the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the end of my life ... the extent of my days** - These phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **Show me how transient I am** - "Show me how brief my life is" or "Show me how soon I will die"
   * **only the width of my hand** - The writer speaks of his lifespan is if it could be measured by the width of his hand. AT: "only a very short time" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **my lifetime is like nothing before you** - This simile states that the length of the writer's life is so short that it does not exist. This is an exaggeration to stress how short it is. AT: "the length of my life is barely any time at all" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **Surely every man is a single breath** - The brevity of life is spoken of as if it was only as long as the time it takes for a person to breathe one breath. AT: "The time that humans live is as short as a single breath of a person" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Surely every man is a single breath** - The brevity of life is spoken of as if it was only as long as the time it takes for a person to breathe one breath. AT: "The time that humans live is as short as a single breath of a person." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -65,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:039]]
 **[[:en:bible:notes:psa:039:002|<<]] | [[:en:bible:notes:psa:039:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

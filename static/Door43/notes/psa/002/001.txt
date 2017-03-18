@@ -26,7 +26,6 @@
 \q1
 \v 3 They shout, "We should free ourselves from their control;
 \q2 we should not let them rule over us any longer!"
-\b
 
 
 \q1
@@ -36,7 +35,7 @@
 
 <usfm>
 \c 2
-\p
+\m
 \q
 \v 1 Why are the nations in turmoil,
 \q and why do the peoples make plots that will fail?
@@ -61,7 +60,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **Why are the nations in turmoil ... why do the peoples make plots that will fail?** - These two clauses have similar meanings, and the "nations" and "peoples" refer to the same group of people. The words "nations" and "peoples" may represent their rulers. AT: "Why are the leaders of the nations in turmoil and making plots that will fail?" (See [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
   * **Why are the nations in turmoil, and why do the peoples make plots that will fail?** - These questions are used to show surprise that the people are doing something so wrong and foolish. AT: "The nations are in turmoil and the peoples are making plots that will fail." (See: [[:en:ta:vol1:translate:figs_rquestion]])
@@ -77,6 +76,6 @@
   * [[:en:bible:questions:comprehension:psa:002]]
 **[[:en:bible:notes:psa:001:006|<<]] | [[:en:bible:notes:psa:002:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

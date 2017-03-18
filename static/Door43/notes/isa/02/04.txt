@@ -22,7 +22,6 @@
 \q2 and they will hammer their spears into pruning knives.
 \q1 The armies of the nations will no longer fight against each other,
 \q2 and they will not even train men to fight in battles.
-\b
 
 
 \q1
@@ -32,8 +31,8 @@
 
 <usfm>
 \q1
-\v 4 He will judge between the nations and will render decisions for many peoples; 
-\q1 they will hammer their swords into plowshares, and their spears into pruning hooks; 
+\v 4 He will judge between the nations and will render decisions for many peoples;
+\q1 they will hammer their swords into plowshares, and their spears into pruning hooks;
 \q1 nation will not lift up sword against nation, nor will they train for war any longer.
 </usfm>
 
@@ -47,12 +46,18 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+
   * **He will judge** - "Yahweh will judge"
   * **will render decisions** - "will solve disputes"
   * **they will hammer their swords into plowshares, and their spears into pruning hooks** - The people of the nations will turn their weapons of war into tools for farming.
-  * **they will hammer their swords into plowshares** - A plowshare is a blade that people use to dig into soil so they can plant seeds there. AT: "they will make their swords into plow blades"
-  * **and their spears into pruning hooks** - "they will hammer their spears into pruning hooks." A pruning hook is a knife that people use to cut off branches from a plant. AT: "they will make their spears into pruning knives"
-  * **will not lift up sword** - The sword represents military fighting. AT: "will not fight" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **swords ... spears ... sword** - These words are synecdoches for weapons of any kind. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **plowshares ... pruning hooks** - These words are synecdoches for tools of any kind that people use in peaceful activity. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **they will hammer their swords into plowshares** - "they will make their swords into tools for planting seeds." A plowshare is a blade that people use to dig into soil so they can plant seeds there. 
+  * **and their spears into pruning hooks** - "they will hammer their spears into pruning hooks" or "they will make their spears into tools for caring for plants." A pruning hook is a knife that people use to cut unwanted branches off of plants. 
+  * **nation will not lift up sword against nation** - "no nation will lift up its sword against another nation." The sword is a metonym for war. AT: "one nation will not fight wars against another nation" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **nor will they train for war** - "nor will they even train to fight wars." The writer expects his reader to believe that those who fight wars train before they fight and that some who train do not fight.
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -60,6 +65,6 @@
   * [[:en:bible:questions:comprehension:isa:02]]
 **[[:en:bible:notes:isa:02:03|<<]] | [[:en:bible:notes:isa:02:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

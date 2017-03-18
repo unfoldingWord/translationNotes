@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 24 With all this Daniel went in to see Arioch, the one the king appointed to kill everyone who was wise in Babylon. He went and said to him, "Do not kill the wise men in Babylon. Escort me before the king and I will tell the dream's meaning to the king."
+\v 24 Then Daniel went in to see Arioch (the one the king appointed to kill everyone who was wise in Babylon). He went and said to him, "Do not kill the wise men in Babylon. Take me to the king and I will show the king the interpretation of his dream."
 </usfm>
 
 ===== translationWords: =====
@@ -34,8 +34,9 @@
 
 ===== translationNotes: =====
 
-  * **Arioch** - See how you translated this name in [[:en:bible:notes:dan:02:14|2:14]].
+  * **Arioch** - This is the name of the king's commander. See how you translated this name in [[:en:bible:notes:dan:02:14|2:14]]. (See: [[:en:ta:vol1:translate:translate_names]])
   * **everyone who was wise** - "the wise men"
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -43,6 +44,6 @@
   * [[:en:bible:questions:comprehension:dan:02]]
 **[[:en:bible:notes:dan:02:23|<<]] | [[:en:bible:notes:dan:02:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

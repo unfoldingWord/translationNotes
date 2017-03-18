@@ -26,7 +26,6 @@
 \q1
 \v 28 But he will crush rebels and sinners,
 \q2 and those who forsake him will disappear.
-\b
 
 
 \q1
@@ -56,10 +55,10 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah quoted God in [[:en:bible:notes:isa:01:27|1:24-26]]. Isaiah 1:27-28 is probably Isaiah writing to the people of Judah.
+  * **General Information:** - Isaiah speaks Yahweh's words to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **Zion will be redeemed by justice, and her repentant ones by righteousness** - This can be stated in active form. Possible meanings are 1) "God will redeem Zion because they do what is just, and he will redeem those who repent because they do what is right before him" or 2) God will redeem Zion because he is just, and he will redeem those who repent because he is righteous" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Zion** - This refers to the people who live in Jerusalem. AT: "those living in Zion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Zion will be redeemed by justice, and her repentant ones by righteousness** - This can be stated in active form. The full meaning of this statement can be made clear. Possible meanings are 1) "Yahweh will redeem Zion because the people there do what is just, and he will redeem those who repent because they do what Yahweh says is right" or 2) "Yahweh will redeem Zion because he is just, and he will redeem those who repent because he is righteous" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Zion** - This is a metonym for "the people who live on Mount Zion. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Rebels and sinners will be crushed together** - This can be stated in active form. AT: "God will destroy those who rebel and sin against him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **those who abandon Yahweh will be done away with** - This can be stated in active form. AT: "and Yahweh will completely do away with those who turn away from him" or "and Yahweh will kill all who reject him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
@@ -69,6 +68,6 @@
   * [[:en:bible:questions:comprehension:isa:01]]
 **[[:en:bible:notes:isa:01:26|<<]] | [[:en:bible:notes:isa:01:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

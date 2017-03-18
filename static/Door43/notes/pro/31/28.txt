@@ -32,7 +32,7 @@
 
 <usfm>
 \q
-\v 28 Her children rise up and call her blessed
+\v 28 Her children rise up and call her blessed,
 \q and her husband praises her, saying,
 \q
 \v 29 "Many women have done well,
@@ -47,7 +47,8 @@
 ===== translationNotes: =====
 
 
-  * **rise up** - "stand up"
+  * **rise up and** - Possible meanings are 1) literally "stand up and" or 2) as a metonym, "actively." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **call her blessed** - saying that good things have happened to her because she has done good things. This can be translated as a direct quote. AT: "congratulate her" or "say, 'Yay, Mom!'" (See: [[:en:ta:vol2:translate:figs_quotations]])
   * **surpassed** - "have done better than"
  
 ===== Links: =====
@@ -63,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

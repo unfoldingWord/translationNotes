@@ -46,7 +46,9 @@
 ===== translationNotes: =====
 
   * **Do not fear; do not be discouraged** - These two phrases mean basically the same thing. Yahweh combines them to emphasize that there is no reason to be afraid. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-
+  * **I have given into your hand the king of Ai ... and his land** - Giving them into Israel's hand represents giving Israel victory and control over them. AT: "I have given you victory over the king of Ai and his people, and I have given you control over his city and his land" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I have given** - God speaks of what he promises to do as though he had already done it, because he will certainly do it. AT: "I will certainly give" or "I am giving" (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **her king** - The word "her" refers to the city of Ai. Cities were often spoken of as if they were women. AT: "its king" or "their king" (See: [[:en:ta:vol2:translate:figs_personification]])
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -60,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

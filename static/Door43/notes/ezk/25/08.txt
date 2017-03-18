@@ -41,12 +41,17 @@
 
 ===== translationNotes: =====
 
-  * **Behold!** - AT: "Look!" or "Listen!" or "Pay attention to what I am about to tell you!"
-  * **I will open the slopes of Moab, starting at his cities on the border** - AT: "I will open the path to Moab by destroying the cities on its border."
-  * **the splendor of Beth Jeshimoth, Baal Meon, and Kiraiathaim** - AT: "I will start at the great cities of Beth Jeshimoth, Baal Meon, and Kiraiathaim." (See: [[:en:ta:vol1:translate:translate_names]])
-  * **to the people of the east who have been against the people of Ammon** - AT: "I will send the same army from the nations in the east who attacked Ammon."
-  * **I will give them up as a possession so that the people of Ammon will not be remembered among the nations.** - AT: "I will cause the armies to conquer Ammon so that no one will even remember them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **they will know that I am Yahweh** - See how you translated this in [[:en:bible:notes:ezk:06:06|6:7]].
+  * **Behold** - "Indeed." The word "behold" here adds emphasis to what follows.
+  * **Moab and Seir** - There places refer to the people who live in them. AT: "the people of Moab and Seir" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The house of Judah is** - The word "house" is a metonym for the family that lives in the house, in this case the descendants of Judah over many years. Similar words appear in [[:en:bible:notes:ezk:03:01|3:1]]. AT: "The Judah people group are" or "The people of Judah are" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will open the slopes of Moab, starting at his cities on the border** - This means that he will destroy the cities on the border of Moab first to clear the way for the army to attack Moab itself. AT: "I will open the path to Moab by destroying the cities on its border" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **starting at his cities** - Here the city of Moab is spoken of as with the masculine pronoun "his." AT: "starting at its cities" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **the splendor of Beth Jeshimoth, Baal Meon, and Kiraiathaim** - "I will start at the great cities of Beth Jeshimoth, Baal Meon, and Kiraiathaim." There three places are cities. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **to the people of the east who have been against the people of Ammon** - "I will send the same army from the people in the east who attacked Ammon"
+  * **I will give them up as a possession** - Here Yahweh speaks of allowing the armies from the east to conquer Ammon as if Ammon were a possession that he were giving them. AT: "I will allow the armies to conquer them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **so that the people of Ammon will not be remembered among the nations** - This can be stated in active form. AT: "so that the nations will not remember the people of Ammon" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -54,6 +59,6 @@
   * [[:en:bible:questions:comprehension:ezk:25]]
 **[[:en:bible:notes:ezk:25:06|<<]] | [[:en:bible:notes:ezk:25:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

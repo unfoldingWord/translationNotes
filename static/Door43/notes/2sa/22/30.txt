@@ -20,7 +20,6 @@
 <usfm>
 \v 30 With your strength I can break through a line of soldiers blocking my way;
 \q2 I can climb over the wall that surrounds their city.
-\b
 \q1
 \v 31 My God whom I worship, everything that you do is perfect.
 \q2 You always do what you promise that you will do.
@@ -57,8 +56,9 @@
   * **General Information:** - David continues his song to Yahweh.
 
   * **I can run over a barricade** - Here "barricade" may refer to a group of soldiers or to a stone wall. Either way it means God enables David to defeat his enemies.
+  * **I can leap over a wall** - David is exaggerating to emphasize Yahweh's help. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
   * **The word of Yahweh is pure** - "Everything Yahweh says is true"
-  * **He is a shield** - The metaphor "a shield" emphasizes God's power to protect his people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He is a shield** - The metaphor "a shield" emphasizes God's power to protect his people. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -73,6 +73,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

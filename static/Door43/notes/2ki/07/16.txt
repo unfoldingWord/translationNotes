@@ -30,14 +30,16 @@
   * [[:en:obe:kt:wordofgod]]
   * [[:en:obe:other:king]]
   * [[:en:obe:kt:gate]]
+
 ===== translationNotes: =====
 
-  * **plundered** - The word "plunder" means to steal or take illegally, usually in the time of war.
-  * **measure** - (See: [[:en:ta:vol2:translate:translate_bvolume]])
-  * **shekel** - (See: [[:en:ta:vol2:translate:translate_bmoney]])
-  * **just as the word of Yahweh had said** - "just as Yahweh had said through Elisha the prophet." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the captain on whose hand he had leaned** - AT: "his assistant" This is the same man in [[:en:bible:notes:2ki:07:01]].
-  * **trampled him down** - "stomped over him" The crowd of people were in such a rush to get to the food in the camp that they ran right over the man and killed him.
+  * **plundered the camp** - This refers to taking items from a defeated army.
+  * **So a measure of fine flour was sold for a shekel, and two measures of barley for a shekel** - This can be stated in active form. AT: "So people sold a measure of fine flour for a shekel and two measures of barley for a shekel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a measure of fine flour ... two measures of barley** - Here the word "measure" translates the word "seah," which is a unit of dry measurement equal to about 7 liters. AT: "7 liters of fine flour ... 14 liters of barley" (See: [[:en:ta:vol2:translate:translate_bvolume]])
+  * **a shekel** - A shekel is a unit of weight equal to about 11 grams. AT: "about 11 grams of silver" or "one silver coin"(See: [[:en:ta:vol2:translate:translate_bmoney]])
+  * **just as the word of Yahweh had said** - Here "word" represents Yahweh. AT: "just as Yahweh had said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the captain on whose hand he had leaned** - A high ranking captain who was the king's personal assistant is spoken of as if he were a person on whom the king leaned his hand. See how you translated this in [[:en:bible:notes:2ki:07:01|7:2]]. AT: "the captain who was close to the king" or "the captain who was the king's personal assistant" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **trampled him down** - The crowd of people were in such a rush to get to the food in the camp that they knocked over the man and trampled him to death.
 
 ===== Links: =====
 
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2ki:07]]
 **[[:en:bible:notes:2ki:07:14|<<]] | [[:en:bible:notes:2ki:07:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

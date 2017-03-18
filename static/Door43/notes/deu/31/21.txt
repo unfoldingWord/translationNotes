@@ -15,7 +15,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 21 When many evils and troubles find this people, this song will testify before it as a witness; for it will not be forgotten out of the mouths of their descendants; for I know the plans that they are forming today, even before I have brought them into the land that I swore."
+\v 21 When many evils and troubles come upon this people, this song will testify before them as a witness (for it will not be forgotten from the mouths of their descendants). For I know the plans that they are forming today, even before I have brought them into the land that I promised them."
 </usfm>
 
 ===== translationWords: =====
@@ -30,14 +30,13 @@
 
 ===== translationNotes: =====
 
-  * **When many evils and troubles find this people** - Here evils and troubles are described as if they were human and could find people. AT: "When this people experiences many evils and troubles" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **this song will testify before it as a witness** - This speaks of the song as if it were a human witness testifying in court against Israel. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **before it** - before the people group of Israel. It may be best to translate this as plural, referring to the people as many individuals. "before them" (See: [[:en:ta:vol2:translate:figs_pronouns]])
-  * **it will not be forgotten out of the mouths of their descendants** - This can be stated in active form. AT: "their descendants will not forget to keep it in their mouths" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **it will not be forgotten out of the mouths of their descendants** - This can be stated positively. AT: "their descendants will remember to keep it in their mouths" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **it will not be forgotten out of the mouths of their descendants** - The idiom "forget it out of the mouth" means to stop speaking about it. AT: "their descendants will not stop speaking about it to each other" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the plans that they are forming** - "what they plan to do" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the land that I swore** - "the land that I swore I would give to them" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **When many evils and troubles come upon this people** - Here evils and troubles are described as if they were human and could find people. AT: "When this people experiences many evils and troubles" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **this song will testify before them as a witness** - This speaks of the song as if it were a human witness testifying in court against Israel. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **it will not be forgotten from the mouths of their descendants** - This can be stated in active form. AT: "their descendants will not forget to keep it in their mouths" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **it will not be forgotten from the mouths of their descendants** - This can be stated positively. AT: "their descendants will remember to keep it in their mouths" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **it will not be forgotten from the mouths of their descendants** - The idiom "forget it from the mouth" means to stop speaking about it. AT: "their descendants will not stop speaking about it to each other" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the plans that they are forming** - What people plan to do is spoken of as if it were a physical object. AT: "what they plan to do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the land that I promised** - "the land that I promised I would give to them" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 
 ===== Links: =====
 
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:deu:31]]
 **[[:en:bible:notes:deu:31:19|<<]] | [[:en:bible:notes:deu:31:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

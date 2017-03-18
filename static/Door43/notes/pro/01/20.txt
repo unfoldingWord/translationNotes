@@ -22,14 +22,13 @@
 \v 20 Wisdom is like a woman who cries out in the streets.
 \q2 Wisdom calls out to people in the plazas.
 \q1
-\v 21 At the intersection of busy streets she cries out 
+\v 21 At the intersection of busy streets she cries out
 \q2 and at the entrance of city gates.
 
 \q1
 \v 22 She cries, "How long will you who have not been taught, will you love being enticed to do what will harm you?
 \q2 How long will you who think you know more than the wise, have so much joy in the little you know?
-\q2 How long will you fools refuse to learn? 
-
+\q2 How long will you fools refuse to learn?
 
 \q1
 </usfm>
@@ -41,10 +40,10 @@
 \v 20 Wisdom cries aloud in the street,
 \q she raises her voice in the open places;
 \q
-\v 21 at the head of the noisy streets she cries out, 
-\q at the entrance of the city gates she speaks, 
+\v 21 at the head of the noisy streets she cries out,
+\q at the entrance of the city gates she speaks,
 \q
-\v 22 "How long, you who have no wisdom, will you love what you do not understand?
+\v 22 "How long, you naive people, will you love being naive?
 \q How long, you mockers, will you delight in mockery,
 \q and how long, you fools, will you hate knowledge?
 </usfm>
@@ -61,10 +60,17 @@
 
 ===== translationNotes: =====
 
-  * **Wisdom cries aloud** - If your language does not allow you to treat wisdom as a woman shouting to the people in the city, you might try something like "Grandmother Wisdom" or "Honored Miss Wisdom" or "wisdom is like a woman." (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **raises her voice** - Here "wisdom" is personified as a woman. AT: "speaks with a loud voice" (See: [[:en:ta:vol2:translate:figs_personification]]) 
-  * **head of the noisy streets** - "place where busy streets meet"
-  * **How long ... will you ... understand?** - This rhetorical question can be translated as a statement. AT: "You have been without wisdom long enough!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **General Information:** - In 1:20-1:33 Wisdom is spoken of as if it were a woman speaking to the people. (See: [[:en:ta:vol2:translate:figs_personification]])
+
+  * **Wisdom cries aloud** - If your language does not allow you to treat wisdom as a woman shouting to the people in the city, you might try something like "Grandmother Wisdom cries aloud" or "Honored Miss Wisdom cries aloud" or "Wisdom is like a woman who cries aloud" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **raises her voice** - This is an idiom. AT: "speaks with a loud voice" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **in the open places** - This means places where there would be a lot of people. AT: "in the markets" or "in the town squares" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **at the head of the noisy streets** - Possible meanings are 1) "head" refers to the place where busy streets intersect or 2) "head" refers to the top of a wall where people on noisy streets could see and hear wisdom speaking. 
+  * **How long, you naive people, will you love being naive?** - Wisdom uses this question to rebuke those who are not wise. AT: "You who are naive must stop loving being naive." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **naive** - "inexperienced, immature"
+  * **How long, you mockers, will you delight in mockery, and how long, you fools, will you hate knowledge?** - Wisdom uses this question to rebuke the mockers and the fools. AT: "You who mock must stop delighting in mockery, and you fools must stop hating knowledge." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -72,6 +78,6 @@
   * [[:en:bible:questions:comprehension:pro:01]]
 **[[:en:bible:notes:pro:01:18|<<]] | [[:en:bible:notes:pro:01:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

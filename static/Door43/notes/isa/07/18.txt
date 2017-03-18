@@ -17,13 +17,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 18 At that time
-\q1 Yahweh will whistle for a fly from the distant streams of Egypt, 
+\q1 Yahweh will whistle for a fly from the distant streams of Egypt,
 \q1 and for a bee from the land of Assyria.
 \q1
-\v 19 They will all come and settle down into all the gorges, into the clefts of the rocks, 
+\v 19 They will all come and settle down into all the gorges, into the clefts of the rocks,
 \q1 on all the thornbushes, and onto all the pastures.
 </usfm>
 
@@ -34,8 +33,8 @@
 
 ===== translationNotes: =====
 
-  * **At that time** - This refers to before the child knows to refuse the evil and choose the good, mentioned in [[:en:bible:notes:isa:07:13|7:15]].
-  * **Yahweh will whistle** - "Yahweh will call" or "Yahweh will summon"
+  * **At that time** - before the child knows to refuse the evil and choose the good ([[:en:bible:notes:isa:07:13|7:15]])
+  * **Yahweh will whistle for** - "Yahweh will call" or "Yahweh will summon"
   * **for a fly from the distant streams of Egypt, and for a bee from the land of Assyria** - "for the armies of Egypt and Assyria, and their soldiers will be everywhere like flies and bees" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
@@ -45,6 +44,6 @@
   * [[:en:bible:questions:comprehension:isa:07]]
 **[[:en:bible:notes:isa:07:16|<<]] | [[:en:bible:notes:isa:07:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

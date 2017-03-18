@@ -43,10 +43,11 @@
 
 ===== translationNotes: =====
 
-  * **It happened in the fortieth year, in the eleventh month, on the first day of the month, that Moses spoke** - "They had lived in the wilderness for 40 years, 11 months, and 1 day, when Moses spoke" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **It happened in the fortieth year, in the eleventh month, on the first day of the month, that Moses spoke** - The ordinal numbers can be translated as cardinal numbers. AT: "They had lived in the wilderness for 40 years, 11 months, and 1 day, when Moses spoke" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **fortieth** - 40th (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **in the eleventh month, on the first day of the month** - This is the eleventh month of the Hebrew calendar. The first day is near the middle of January on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **fortieth - 40th (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **eleventh - 11th (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **eleventh** - 11th (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
   * **Yahweh had attacked** - "Yahweh had enabled the Israelites to defeat"
   * **Sihon ... Og** - These are names of kings. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Heshbon ... Ashtaroth at Edrei** - These are names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
@@ -61,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

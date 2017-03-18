@@ -19,7 +19,6 @@
 \v 16 I am one of those who serves Yahweh;
 \q2 I serve him like my mother did.
 \q2 He has ended my troubles.
-\b
 \q1
 \v 17 So I will offer to him a sacrifice to thank him,
 \q1 and I will pray to him.
@@ -53,7 +52,7 @@
 
   * **General Information:** - The person who composed this psalm continues to speak.
 
-  * **the son of your servant woman** - This is likely a reference to the writer's mother and indicates that she faithfully worshiped Yahweh. AT: "as my mother was" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the son of your servant woman** - This is likely a reference to the writer's mother and indicates that she faithfully worshiped Yahweh. The full meaning of this can be made clear. AT: "as my mother was" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **you have taken away my bonds** - The writer speaks of being in danger of dying as if he had been chained in prison. AT: "you have saved me from death" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the sacrifice of thanksgiving** - "a sacrifice to express my thankfulness"
   * **will call on the name of Yahweh** - Here the word "name" represents Yahweh himself. AT: "will call on Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -65,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:116]]
 **[[:en:bible:notes:psa:116:012|<<]] | [[:en:bible:notes:psa:116:018|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

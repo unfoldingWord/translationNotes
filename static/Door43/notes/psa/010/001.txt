@@ -20,13 +20,12 @@
 <usfm>
 \v 1 Yahweh, why do you keep yourself far away from us?
 \q2 Why do you not pay attention when we have troubles?
-\b
 \q1
 \v 2 Proud, wicked people, have a terrible desire within them to make poor people suffer.
 \q2 God, make them fall into their own traps, so that what they did to others may be done to them!
 \q1
 \v 3 The wicked person boasts about the evil things he wants to do.
-\q2 He desires to own the things that others have, and he does not want them to own more things than he has. 
+\q2 He desires to own the things that others have, and he does not want them to own more things than he has.
 \q2 He boasts about all the things he owns, while he curses you, Yahweh.
 
 
@@ -37,7 +36,7 @@
 
 <usfm>
 \c 10
-\p
+\m
 \q
 \v 1 Why, Yahweh, do you stand far off?
 \q Why do you hide yourself in times of trouble?
@@ -60,9 +59,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]].
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **Why, Yahweh, do you stand far off? Why do you hide yourself in times of trouble?** - The speaker uses these questions to express his distress that God has not helped him. AT: "Yahweh, it seems as though you are far away from me and you hide from me whenever I am in trouble." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Why, Yahweh, do you stand far off? Why do you hide yourself in times of trouble?** - The speaker uses these questions to express his distress that God has not helped him. AT: "Yahweh, it seems as though you are far away from me and you hide from me whenever I am in trouble" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **schemes** - "plans"
   * **the wicked person** - This refers to wicked people in general. AT: "wicked people" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
   * **his deepest desires** - The noun "desires" can be expressed with the verb "want. "AT: "the things that he wants very much to do" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
@@ -74,6 +73,6 @@
   * [[:en:bible:questions:comprehension:psa:010]]
 **[[:en:bible:notes:psa:009:019|<<]] | [[:en:bible:notes:psa:010:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

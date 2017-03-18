@@ -33,12 +33,13 @@
 
 ===== translationNotes: =====
 
-  * **the man clothed in linen** - This can be stated in active form. AT: "the man who was wearing linen clothes" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the man clothed in linen** - This can be stated in active form. AT: "the man who was wearing linen clothes" or "the angel who was wearing linen clothes" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **upstream along the river** - Possible meanings are 1) the man clothed in linen was above the river or 2) the man was further upstream along the river.
   * **the one who lives forever** - "God, who lives forever"
   * **it would be for a time, times, and half a time** - It is best to leave it ambiguous as to when this begins. If you must choose a starting point, the three and a half years probably start with the events of [[:en:bible:notes:dan:12:01|12:1-4]]. 
-  * **a time, times, and half a time** - These "times" are generally understood to refer to years. One and two and a half equal three and a half. This could be stated. AT: "three and a half years" (UDB)
+  * **a time, times, and half a time** - "three and a half years" (UDB). These "times" are generally understood to refer to years. One and two and a half equal three and a half.
   * **all these things will be completed** - This can be stated in active form. AT: "all these things will have happened" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **all these things** - At the time when the angel spoke to Daniel, none of the events in this vision had happened. This definitely refers to the the events in [[:en:bible:notes:dan:12:01|12:1-4]], and may possibly also include the events in the vision from chapter 11.
+  * **all these things** - At the time when the man clothed in linen spoke to Daniel, none of the events in this vision had happened. This refers to the the events in [[:en:bible:notes:dan:12:01|12:1-4]], and may include the events in the vision from chapter 11.
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:dan:12]]
 **[[:en:bible:notes:dan:12:05|<<]] | [[:en:bible:notes:dan:12:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

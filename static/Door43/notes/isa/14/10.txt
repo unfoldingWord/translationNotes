@@ -37,10 +37,10 @@
 
 <usfm>
 \q1
-\v 10 They all will speak and say to you, 
+\v 10 They all will speak and say to you,
 \q1 'You have become as weak as us. You have become like us.
 \q1
-\v 11 Your pomp has been brought down to Sheol with the sound of your string instruments. 
+\v 11 Your pomp has been brought down to Sheol with the sound of your string instruments.
 \q1 Maggots are spread under you, and worms cover
 you.'
 </usfm>
@@ -52,7 +52,13 @@ you.'
 
 ===== translationNotes: =====
 
+  * **Connecting Statement:** - This is part of the taunt song that the Israelites will sing to the king of Babylon. Here they sing about what the dead kings in Sheol will say to him.
 
+  * **They all will speak and say to you** - The word "they" refers to the dead kings in Sheol, and the word "you" refers to the king of Babylon.
+  * **Your pomp has been brought down to Sheol** - The dead kings will speak of the king of Babylon having no more splendor as if his splendor had gone down to Sheol.  AT: "Your splendor ended when God sent you here to Sheol" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **with the sound of your string instruments** - People would make music on string instruments to honor the king. The dead kings will speak of people no longer honoring the king of Babylon with music as if the music went to Sheol. AT: "along with the sound of people playing music to honor you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Maggots are spread under you** - The maggots under his dead body are spoken of as if they were a mat or bed. AT: "You lie on a bed of maggots" or "You lie on many maggots" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **worms cover you** - The worms all over his body are spoken of as if they were covering him like a  blanket. AT: "Worms cover you like a blanket" or "There are worms all over your body" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -66,6 +72,6 @@ you.'
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

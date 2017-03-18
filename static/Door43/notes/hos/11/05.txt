@@ -24,18 +24,17 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 But Israel will certainly return to Egypt, 
+\v 5 But Israel will certainly return to Egypt,
 \q2 and Assyria will certainly rule over them,
 \q1 because they refused to turn back to me and worship me as their God.
 \q1
 \v 6 Their enemies will attack Israel's cities with swords;
-\q2 their enemies will destroy the bars that keep their gates closed and safe. 
-\q2 Their enemies will destroy the people of Israel and put an end to all the plans they made. 
+\q2 their enemies will destroy the bars that keep their gates closed and safe.
+\q2 Their enemies will destroy the people of Israel and put an end to all the plans they made.
 \q1
 \v 7 My people are determined to turn away from me.
-\q2 They pretend to call out to me, the Most High God, 
+\q2 They pretend to call out to me, the Most High God,
 \q2 but I will allow no one to help them.
-\b
 
 
 \q1
@@ -45,7 +44,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q
 \v 5 Will they not return to the land of Egypt?
 \q Will Assyria not rule over them
@@ -79,7 +77,7 @@
   * **Will Assyria not rule over them because they refuse to return to me?** - The nation of Israel will be captives of Assyria as a result of their refusal to remain faithful to Yahweh. (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **The sword will fall on their cities** - Here "sword" represents the enemies of Israel who will destroy Israel's cities. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **destroy the bars of their gates** - Gates offered security to city inhabitants from their enemies, and the bars secured the closed gates. To destroy the bars meant to take away the people's security. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Though they call to the Most High** - The translator may decided to translate "Though they call to me, the Most High" (see UDB).
+  * **Though they call to the Most High** - Here God is speaking about himself in the third person. It can be stated in first person. AT: "Though they call to me, the Most High" (see: [[:en:ta:vol2:translate:figs_123person]]).
   * **no one will help them** - Yahweh will not allow anyone to help Israel because they turned away from him.
 
 ===== Links: =====
@@ -89,6 +87,6 @@
   * [[:en:bible:questions:comprehension:hos:11]]
 **[[:en:bible:notes:hos:11:03|<<]] | [[:en:bible:notes:hos:11:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

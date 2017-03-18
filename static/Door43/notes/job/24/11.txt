@@ -24,7 +24,6 @@
 \q1
 \v 12 In the cities, people who are wounded and dying cry out to God for help,
 \q2 but God ignores their prayers.
-\b
 
 
 \q1
@@ -41,7 +40,7 @@
 \v 12 In the city people groan;
 \q the wounded people cry out,
 \q but God pays no attention to their prayers.
-\b
+\m
 </usfm>
 
 
@@ -58,8 +57,13 @@
  
 ===== translationNotes: =====
 
-  * **within the walls of those wicked men** - AT: "in the houses of those evil men" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **they themselves suffer thirst** - "they suffer from thirst" AT: "they are thirsty"
+  * **Connecting Statement:** - Job continues speaking.
+
+  * **The poor people make oil** - they squeezed olives in order to extract olive oil from them
+  * **within the walls of those wicked men** - Here "walls" refers to the whole house. AT: "in the houses of those evil men" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **they tread the wicked men's winepresses** - It may be helpful to state that they do this to produce juice to make wine. AT: "they tread on grapes to make juice for wine" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **they themselves suffer thirst** - "they suffer from thirst" or "they are thirsty"
+
 
 ===== Links: =====
 
@@ -68,6 +72,6 @@
   * [[:en:bible:questions:comprehension:job:24]]
 **[[:en:bible:notes:job:24:08|<<]] | [[:en:bible:notes:job:24:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

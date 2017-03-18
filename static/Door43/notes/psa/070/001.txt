@@ -34,14 +34,13 @@
 
 <usfm>
 \c 70
-\p
+\m
 \d For the chief musician. A psalm of David; to bring to remembrance.
-\b
 \q
-\v 1 Save me, God! 
+\v 1 Save me, God!
 \q Yahweh, come quickly and help me.
 \q
-\v 2 Let those who try to take my life 
+\v 2 Let those who try to take my life
 \q be ashamed and humiliated;
 \q let them be turned back and brought to dishonor,
 \q those who take pleasure in my pain.
@@ -63,11 +62,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **For the chief musician** - "This is for the director of music to use in worship." 
+  * **For the chief musician** - "This is for the director of music to use in worship" 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
-  * **to bring to remembrance** - "this psalm was written to cause people to remember." 
+  * **to bring to remembrance** - "this psalm was written to cause people to remember" 
   * **those who** - "the people who"
   * **take my life** - This idiom means "kill me." (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **be ashamed and humiliated** - This can be stated in active form. AT: "may God put them to shame and bring disgrace upon them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
@@ -81,6 +80,6 @@
   * [[:en:bible:questions:comprehension:psa:070]]
 **[[:en:bible:notes:psa:069:034|<<]] | [[:en:bible:notes:psa:070:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

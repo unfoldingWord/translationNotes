@@ -37,14 +37,13 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 8 For it will be a day of vengeance for Yahweh and a year when he will pay them back for the cause of Zion.
 \q1
-\v 9 The streams of Edom will be turned into pitch, her dust into sulfur, 
+\v 9 The streams of Edom will be turned into pitch, her dust into sulfur,
 \q1 and her land will become burning pitch.
 \q1
-\v 10 It will burn night and day; its smoke will rise forever; 
+\v 10 It will burn night and day; its smoke will rise forever;
 \q1 from generation to generation it will
 be a wasteland; no one will pass through it forever and ever.
 </usfm>
@@ -62,8 +61,14 @@ be a wasteland; no one will pass through it forever and ever.
 
 ===== translationNotes: =====
 
-  * **pitch** - a thick, black substance that burns for a long time
+  * **it will be a day of vengeance for Yahweh** - Here "day" is an idiom for a point in time; it is not a literal "day." AT: "it will be the time when Yahweh gets revenge" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **he will pay them back for the cause of Zion** - This means that he will take revenge on them for how they had previously waged war against the people of Jerusalem. AT: "he will give them the punishment they deserve for what they had done to the people of Zion" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **The streams of Edom will be turned into pitch ... become burning pitch** - The water and land becoming useless for drinking or growing food because it is burnt and covered in pitch and sulfur is spoken of as if their streams and land will actually become pitch and sulfur. AT: "The streams in Edom will be full of pitch and the ground will be covered with burning sulfur and burning pitch" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **her dust ... her land** - "Edom's dust ... Edom's land"
+  * **pitch** - a thick, black substance that burns for a long time
+  * **It will burn night and day** - This means all of the time. AT: "It will burn throughout the night and the day" or "It will burn constantly, all night and all day" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **from generation to generation** - The phrase "generation to generation" refers to all generations of people who will live in the future. See how you translated this phrase in [[:en:bible:notes:isa:13:19|13:20]].  AT: "forever"  (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -71,6 +76,6 @@ be a wasteland; no one will pass through it forever and ever.
   * [[:en:bible:questions:comprehension:isa:34]]
 **[[:en:bible:notes:isa:34:07|<<]] | [[:en:bible:notes:isa:34:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit sulfur}}
+~~DISCUSSION~~{{tag>publish p2pass p2example sulfur}}
 
 ~~NOCACHE~~

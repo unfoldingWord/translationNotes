@@ -36,12 +36,11 @@
 
 <usfm>
 \q1
-\v 10 They say to the seers, "Do not see;" 
-\q1 and to the prophets, "Do not prophesy straightforward truth to us; 
-\q1 speak to us smooth things; prophesy deceptions;
-\q1
-\v 11 turn aside from the way; turn aside from the path; 
-\q1 take the Holy One of Israel away from our presence."
+\v 10 They say to the seers, "Do not see;"
+\q1 and to the prophets, "Do not prophesy the truth to us;
+\q1 speak flattering words to us, prophesy illusions.
+\v 11 Turn aside from the way, stray off the path;
+\q1 cause the Holy One of Israel to cease speaking before our face."
 </usfm>
 
 ===== translationWords: =====
@@ -57,7 +56,8 @@
 
   * **General Information:** - Yahweh continues speaking about the people of Judah.
 
-  * **the Holy One of Israel** - See how you translated this in [[:en:bible:notes:isa:01:04|1:4]].
+  * **Turn aside from the way, stray off the path** - How Yahweh wants his people to behave is spoken of as if it were a way or path on which to walk. To disobey Yahweh is spoken of as if the person strays away from Yahweh's path. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Holy One of Israel** - Translate this the same way you did in [[:en:bible:notes:isa:01:04|1:4]].
 
 ===== Links: =====
 
@@ -66,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:30:08|<<]] | [[:en:bible:notes:isa:30:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

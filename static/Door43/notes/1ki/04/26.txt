@@ -46,8 +46,10 @@
 ===== translationNotes: =====
 
 
-  * **stalls of horses** - A stall is a place where an animal such as a horse is kept and cared for. 
-  * **They let nothing be lacking** - This can be expressed positively. AT: "They provided everything that Solomon needed" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **stalls of horses** - A stall is a place where an animal such as a horse is kept and cared for.
+  * **who came to King Solomon's table** - "who ate with King Solomon" or "whom King Solomon invited to eat with him"
+  * **every man in his month** - Solomon had assigned each of the 12 officials in [[:en:bible:notes:1ki:04:07|4:7-19]] to bring him food in a different month.
+  * **They let nothing be lacking** - This can be expressed positively. AT: "They provided everything that Solomon needed" (See: [[:en:ta:vol2:translate:figs_litotes]])
 
  
 ===== Links: =====
@@ -57,6 +59,6 @@
   * [[:en:bible:questions:comprehension:1ki:04]]
 **[[:en:bible:notes:1ki:04:24|<<]] | [[:en:bible:notes:1ki:04:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

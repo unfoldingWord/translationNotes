@@ -30,9 +30,8 @@
 
 <usfm>
 \c 78
-\p
+\m
 \d A maschil of Asaph.
-\b
 \q
 \v 1 Hear my teaching, my people,
 \q listen to the words of my mouth.
@@ -49,7 +48,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A maschil of Asaph** - "This is a maschil that Asaph wrote." See how "a psalm of Asaph" is translated in [[:en:bible:notes:psa:050:001|50:1]].
   * **A maschil** - This may refer to a style of music. See how you translated this in [[:en:bible:notes:psa:032:001|32:1]].
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:078]]
 **[[:en:bible:notes:psa:077:018|<<]] | [[:en:bible:notes:psa:078:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

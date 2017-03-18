@@ -17,8 +17,7 @@
 
 <usfm>
 \v 34 When a people do what is right, the nation does well,
-\q2 but sin brings disgrace upon any people. 
-\b
+\q2 but sin brings disgrace upon any people.
 \q1
 \v 35 A king is pleased with a servant who does his work with good judgment,
 \q2 but the king is angry with any servant who brings shame to him.
@@ -32,7 +31,7 @@
 \v 34 Doing what is right exalts a nation,
 \q but sin is a disgrace to any people.
 \q
-\v 35 The favor of the king is with the servant who acts prudently, 
+\v 35 The favor of the king is with the servant who acts prudently,
 \q but his anger is for the one who acts shamefully.
 </usfm>
 
@@ -52,9 +51,10 @@
 
 ===== translationNotes: =====
 
-  * **disgrace** - "shame"
+  * **disgrace** - "bring shame upon"
   * **prudently** - "wisely"
-  * **the one who** - AT: "the servant who"
+  * **the one who** - "the servant who"
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -68,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -38,8 +38,10 @@
 
 ===== translationNotes: =====
 
+  * **a javelin of bronze** - A "javelin" is a small spear that is meant to be thrown.
   * **staff of his spear** - "the handle of his spear"
   * **loop of cord** - "rope rolled up into a circle"
+  * **His spear's head** - "The point of his spear"
   * **six hundred shekels of iron** - A shekel is a unit of weight equal to about 11 grams. AT: "about 7 kilograms" (See: [[:en:ta:vol2:translate:translate_bweight]])
  
 ===== Links: =====
@@ -55,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

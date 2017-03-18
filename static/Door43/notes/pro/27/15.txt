@@ -15,7 +15,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 A wife who continually argues with her husband is as annoying as 
+\v 15 A wife who continually argues with her husband is as annoying as
 \q2 the constant dripping of water on a rainy day;
 \q1
 \v 16 and stopping her from arguing would be as difficult as restraining the wind,
@@ -29,7 +29,7 @@
 
 <usfm>
 \q
-\v 15 A quarreling wife is like 
+\v 15 A quarreling wife is like
 \q the constant dripping on a rainy day;
 \q
 \v 16 restraining her is like restraining the wind,
@@ -43,8 +43,12 @@
 
 ===== translationNotes: =====
 
-  * **quarreling** - "arguing" or "disagreeing" 
-  * **restraining the wind** - AT: "keeping the wind under control"
+  * **quarreling** - This means making people angry with each other or causing strong disagreements between people.
+  * **the constant dripping** - The implied information is that it is rain that is constantly dripping. AT: "the constant dripping of rain" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **a rainy day** - "a day of continual rain"
+  * **restraining her is like restraining the wind, or trying to catch oil in your right hand** - The implied information is that it is as difficult or useless to try and restrain her as it is to try to restrain the wind or catch oil in your hand (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **restraining her** - "holding her back" or "keeping her under control." The implied information is that it is trying to stop her from quarreling. AT: "restraining her from quarreling" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **restraining the wind** - "holding back the wind" or "keeping the wind under control"
 
 
 ===== Links: =====
@@ -54,6 +58,6 @@
   * [[:en:bible:questions:comprehension:pro:27]]
 **[[:en:bible:notes:pro:27:13|<<]] | [[:en:bible:notes:pro:27:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

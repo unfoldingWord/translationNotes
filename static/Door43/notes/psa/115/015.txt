@@ -15,7 +15,6 @@
 
 <usfm>
 \v 15 I wish that Yahweh, the one who made heaven and the earth, may bless all of you!
-\b
 \q1
 \v 16 The highest heavens belong to Yahweh,
 \q2 but he gave everything that is on the earth to us people.
@@ -54,6 +53,6 @@
   * [[:en:bible:questions:comprehension:psa:115]]
 **[[:en:bible:notes:psa:115:012|<<]] | [[:en:bible:notes:psa:115:017|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

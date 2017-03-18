@@ -14,8 +14,7 @@
 
 <usfm>
 \v 7 The goat struck the ram furiously and broke off its two horns. The goat knocked the ram down to the ground and trampled on it. No one could rescue the ram from the goat's power.
-\v 8 The goat became very powerful. But when its power was very great, its great horn was broken off. Four other distinctive horns grew up in its place. Each one pointed to one of the four winds in the sky: north, south, east, and west. 
-
+\v 8 The goat became very powerful. But when its power was very great, its great horn was broken off. Four other distinctive horns grew up in its place. Each one pointed to one of the four winds in the sky: north, south, east, and west.
 
 \p
 </usfm>
@@ -40,8 +39,9 @@
   * **trampled** - to crush something by stepping on it
   * **the ram from his power** - "the ram from the goat because of his power"
   * **the goat became very large** - "the goat became very large and strong"
-  * **the large horn was broken** - AT: "something broke the large horn" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **toward the four winds of the heavens** - AT: "in four different directions"
+  * **the large horn was broken** - This can be stated in active form. AT: "something broke off the large horn" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **toward the four winds of the heavens** - Here "the four winds of heaven" is an idiom that refers to the four main directions (north, east, south, west) from which the winds blow. AT: "in four different directions" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
 
 ===== Links: =====
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:dan:08]]
 **[[:en:bible:notes:dan:08:05|<<]] | [[:en:bible:notes:dan:08:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

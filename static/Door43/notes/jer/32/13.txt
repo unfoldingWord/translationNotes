@@ -25,8 +25,8 @@
 
 <usfm>
 \v 13 So I gave a command to Baruch before them. I said,
-\v 14 'Yahweh of hosts, God of Israel, says this: Take these scrolls with the receipt of this purchase that is sealed and this unsealed scroll. Place them in a new jar so they will last for a long time.
-\v 15 For Yahweh of hosts, God of Israel, says this: Houses, fields, and vineyards will be purchased again in this land.'
+\v 14 'Yahweh of hosts, God of Israel, says this: Take these documents, both this receipt of purchase that is sealed and the unsealed copies of the deed of purchase, and put them in a clay jar so they will last for a long time.
+\v 15 For Yahweh of hosts, God of Israel, says this: Houses, fields, and vineyards will again be bought in this land."
 </usfm>
 
 ===== translationWords: =====
@@ -41,8 +41,7 @@
   * **General Information:** - Jeremiah continues speaking.
 
   * **before them** - Here "them" refers to Hanamel, the witnesses, and the Judeans.
-  * **Take these scrolls with the receipt of this purchase that is sealed and this unsealed scroll** - "Take the sealed scroll and the unsealed scroll"
-  * **Houses, fields, and vineyards will be purchased again in this land** - AT: "The people of Israel will buy houses, vineyards and fields again in this land" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Houses, fields, and vineyards will again be bought in this land land** - This can be translated in active form. AT: "The people of Israel will buy houses, vineyards and fields again in this land" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -51,6 +50,6 @@
   * [[:en:bible:questions:comprehension:jer:32]]
 **[[:en:bible:notes:jer:32:10|<<]] | [[:en:bible:notes:jer:32:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

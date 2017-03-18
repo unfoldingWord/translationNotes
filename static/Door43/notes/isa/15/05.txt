@@ -47,14 +47,14 @@
 
 <usfm>
 \q1
-\v 5 My heart cries out for Moab; her fugitives flee to Zoar and to Eglath Shelishiyah. 
-\q1 They go up the ascent of Luhith weeping; 
+\v 5 My heart cries out for Moab; her fugitives flee to Zoar and to Eglath Shelishiyah.
+\q1 They go up the ascent of Luhith weeping;
 \q1 on the road to Horonaim they loudly wail over their destruction.
 \q1
-\v 6 The waters of Nimrim have dried up; 
+\v 6 The waters of Nimrim have dried up;
 \q1 the grass is withered away and the new grass dies; nothing is green.
 \q1
-\v 7 The abundance they have grown and stored 
+\v 7 The abundance they have grown and stored
 \q1 they carry away over the brook of the poplars.
 </usfm>
 
@@ -69,7 +69,7 @@
 
   * **General Information:** - This continues the prophecy about the people of Moab. God describes events that will happen in the future as if it is happening in the present. (See: [[:en:bible:notes:isa:15:01|15:1-2]])
 
-
+  * **My heart cries out for Moab** - The heart represents the emotions. God speaks of his great sadness as if his heart cried out. AT: "I am extremely sad about what is happening to Moab" (See: [[:en:ta:vol2:translate:figs_metonymy]] or [[:en:ta:vol1:translate:figs_metaphor]])
   * **her fugitives flee** - "the fugitives from Moab will flee." A fugitive is a person who runs away so that his enemy will not capture him.
   * **Zoar ... Eglath Shelishiyah ... Luhith ... Horonaim ... Nimrim** - These are names of cities and towns. (See: [[:en:ta:vol1:translate:translate_names]]) 
   * **over their destruction** - This can be reworded so that the abstract noun "destruction" is expressed as the verb "destroyed." AT: "because their city is destroyed" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
@@ -88,6 +88,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

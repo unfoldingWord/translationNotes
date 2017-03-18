@@ -12,7 +12,7 @@
 
 <usfm>
 \v 25 I will make a covenant with the people of Israel. I will promise to give them peace. I will promise to get rid of all the wild animals in Israel, in order that my people may live safely, even in the wilderness and in the forests.
-\v 26 I will bless them, and I will bless allo the region close to Mount Zion, where they will worship me in my temple. I will bless them by sending them rain showers at the right season; they will be showers to bless them.
+\v 26 I will bless them, and I will bless all the region close to Mount Zion, where they will worship me in my temple. I will bless them by sending them rain showers at the right season; they will be showers to bless them.
 \v 27 The fruit trees will produce fruit, and the ground will produce crops. And my people will live safely in their land. When I rescue them from people who made them slaves, they will know that I, Yahweh, have the power to do what I say that I will do.
 </usfm>
 
@@ -41,16 +41,20 @@
 ===== translationNotes: =====
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to the people of Israel.
+  * **General Information:** - Yahweh continues speaking of the people of Israel as if they were a flock of sheep. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
   * **a covenant of peace** - "a covenant that brings peace"
   * **the evil wild animals** - These are wild animals that could kill the sheep and the goats.
-  * **I will also bring blessings on them and on the places around my hill** - Some modern versions translate "I will also turn them and and the places around my hill into a blessing."
+  * **I will also bring blessings on them and on the places around my hill** - Some versions of the Bible translate this as "I will also turn them and and the places around my hill into a blessing."
+  * **my hill** - This refer to Mount Zion. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **I will send out showers** - "I will cause it to rain"
   * **in due season** - "at the right time"
-  * **These will be showers of blessing** - "This rain will be given as a blessing"
-  * **the earth will yield its produce** - "the earth will grow food" AT: Food will grow on the earth
+  * **These will be showers of blessing** - "This rain will be a blessing"
+  * **the earth will yield its produce** - "the earth will grow food" or "food will grow on the earth"
   * **will be secure** - "will be safe"
-  * **know that I am Yahweh** - See how you translated this in [[:en:bible:notes:ezk:06:06|6:7]].
-  * **bars of their yoke** - "the bars that hold their yoke together"
+  * **know that I am Yahweh** - When Yahweh says that people will know that he is Yahweh, he is implying that they will know that he is the one true God who has supreme authority and power. Translate as in [[:en:bible:notes:ezk:06:06|6:7]]. AT: "understand that I am Yahweh, the one true God" or "realize that I, Yahweh, have supreme power and authority" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **when I break the bars of their yoke** - Slavery is spoken of as if it were a yoke that people wear like animals. AT: "when I free them from being slaves" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **from the hand of those who enslaved them** - Here "hand" represents power or control. AT: "from the control of those who made them slaves" or "from those who made them slaves" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -58,6 +62,6 @@
   * [[:en:bible:questions:comprehension:ezk:34]]
 **[[:en:bible:notes:ezk:34:22|<<]] | [[:en:bible:notes:ezk:34:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

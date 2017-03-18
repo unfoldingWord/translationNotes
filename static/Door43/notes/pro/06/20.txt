@@ -49,11 +49,10 @@
 
 ===== translationNotes: =====
 
-  * **My son** - AT: "My child" or "My student"
   * **obey the command of your father ... do not forsake the teaching of your mother** - These two phrases on the one hand mean the same thing. On the other hand, the repeated emphasis on both "father" and "mother" explicitly includes women in the whole teaching-learning process. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **do not forsake the teaching of your mother** - AT: "obey the teaching of your mother" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **bind them on your heart; tie them about your neck** - These two phrases basically mean the same thing. They describe the commands and instructions as if they are written down so that you can put it in or on your body to remind yourself. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **bind them on your heart** - AT: "love them" or "think about them"
+  * **do not forsake the teaching of your mother** - This figure of speech is using the negative "forsake" to mean the positive "obey". AT: "obey the teaching of your mother" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **bind them on your heart; tie them about your neck** - These two phrases mean basically the same thing. They describe the commands and instructions as if they are written down so that you can put it in or on your body to remind yourself. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **bind them on your heart** - "love them" or "think about them"
 
  
 ===== Links: =====
@@ -69,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -30,7 +30,7 @@
 <usfm>
 \p
 \v 18 Then the king answered and said to the woman, "Please do not hide from me anything that I will ask you." The woman replied, "Let my master the king now speak."
-\v 19 The king said, "Is not the hand of Joab with you in all this?" The woman answered and said, "As you live, my master the king, no one can escape to the right hand or to the left from anything that my master the king has spoken. It was your servant Joab who commanded me and told me to say these things that your servant has spoken. 
+\v 19 The king said, "Is not the hand of Joab with you in all this?" The woman answered and said, "As you live, my master the king, no one can escape to the right hand or to the left from anything that my master the king has spoken. It was your servant Joab who commanded me and told me to say these things that your servant has spoken.
 \v 20 Your servant Joab has done this to change the course of what is happening. My master is wise, like the wisdom of an angel of God, and he knows everything that is happening in the land."
 </usfm>
 
@@ -42,10 +42,13 @@
 
 ===== translationNotes: =====
 
-  * **Please do not hide from me anything that I will ask you** - The negative form here is used for emphasis and can be stated in a positive form. AT: "Please tell me the truth when I ask you" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **Is not the hand of Joab ... this?** - This rhetorical question emphasizes the importance of Joab's role and can be translated as a statement. "It must be Joab who is ... this." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **hand of Joab** - The metonym "hand" refers to Joab's words or counsel. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **no one can escape to the right hand or to the left from anything that my master the king has spoken** - The expression "to the right hand or to the left" means "everything." AT: "you are exactly right" (See: [[:en:ta:vol2:translate:figs_merism]]) 
+  * **Please do not hide from me anything that I will ask you** - The negative form here is used for emphasis and can be stated in a positive form. AT: "Please tell me the truth about everything I ask you" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **Is not the hand of Joab with you in all this** - Here the word "hand" refers to Joab's influence. AT: "Has not Joab influenced you in all this" or "Did Joab send you here to speak these things" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **As you live** - "As surely as you are alive." Here the woman compares the certainty of what David has said to the certainty that he is alive, to emphasize how true his statement is. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **no one can escape to the right hand ... the king has spoken** - Here the woman describes the difficulty of speaking to the king and keeping him from finding out the truth by comparing it to a person not being about to escape in any direction. AT: "no one can keep you from knowing the truth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **to the right hand or to the left** - The expression gives two extremes and means "anywhere." AT: "anywhere at all" or "anywhere" (See: [[:en:ta:vol2:translate:figs_merism]]) 
+  * **My master is wise** - "My master the king is wise"
+  * **is wise, like the wisdom of an angel of God** - The woman compares David's wisdom to the wisdom of an angel to emphasize how very wise he is. AT: "you are very wise, like an angel of God" (See: [[:en:ta:vol1:translate:figs_simile]])
 
  
 ===== Links: =====
@@ -61,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

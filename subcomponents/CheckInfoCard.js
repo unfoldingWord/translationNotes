@@ -14,7 +14,7 @@ class CheckInfoCard extends React.Component {
       }
       return (
         <div style={{margin: '10px'}}>
-        <Card zDepth={2} style={{ background: '#03A9F4', padding: "20px"}}>
+        <Card zDepth={2} style={{ background: '#2196F3', padding: "20px"}}>
           <Row>
             <Col md={4} style={{borderRight: '1px solid #FFFFFF'}}>
               <div style={styles.title}>

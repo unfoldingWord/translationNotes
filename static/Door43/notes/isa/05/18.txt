@@ -30,7 +30,6 @@
 \q2 We want to see what you will do.
 \q1 You, the Holy One of Israel, should do what you are planning to do,
 \q2 because we want to know what it is."
-\b
 
 
 \q1
@@ -40,12 +39,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
+\m
 \q1
-\v 18 Woe to those who pull along iniquity with cords of emptiness and who pull along sin with a cart rope;
+\v 18 Woe to those who pull along iniquity with useless cords and who pull along sin as if it were with a cart rope.
 \q1
-\v 19 those who say, "Let God hurry, let him act quickly, so we can see it happen; 
-\q1 and let the plans of the Holy One of Israel take shape and come, so that we may know them!"
+\v 19 Woe to those who say, "Let God hurry, let him act quickly, so we can see it happen;
+\q1 and let the plans of the Holy One of Israel come, so that we may know them."
 </usfm>
 
 
@@ -59,10 +58,10 @@
 ===== translationNotes: =====
 
 
-  * **to those who pull along iniquity with cords of emptiness and who pull along sin with a cart rope** - These phrases mean basically the same thing. They compare people who continue to sin on purpose to a person who uses all his strength to keep pulling a heavy cart along. The word "emptiness" means it is all in vain. God will judge them and they will not benefit from their sin. AT: "to those who work hard to sin like a person who drags a cart by a rope" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Woe to those who pull along iniquity with useless cords and who pull along sin as if it were with a cart rope** - These phrases mean basically the same thing. They speak of people who continue to sin on purpose as if they were using all their strength to pull a heavy cart along. God will punish them for their sin. AT: "Woe to those who work hard to sin as a person who drags a cart by a rope" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **those who say** - This refers to those who continue to sin (verse 18) and then mockingly challenge God to stop them. AT: "those mockers who say" (See: [[:en:ta:vol1:translate:figs_irony]])
-  * **let the plans of the Holy One of Israel take shape and come** - "let the Holy One of Israel accomplish his plans"
-  * **the Holy One of Israel** - See how you translated "the Holy One" in [[:en:bible:notes:isa:05:15|5:16]].
+  * **let the plans of the Holy One of Israel come** - God's plans are spoken of as if they were objects that could come by themselves. AT: "let the Holy One of Israel accomplish his plans" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the Holy One of Israel** - Translate "the Holy One" as in [[:en:bible:notes:isa:05:15|5:16]].
 
  
 ===== Links: =====
@@ -78,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

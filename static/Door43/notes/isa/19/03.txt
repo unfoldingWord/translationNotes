@@ -24,7 +24,6 @@
 \q1
 \v 4 Then I will enable someone who will treat them very cruelly to become their king.
 \q1 That is what I, Yahweh, commander of the angel armies, say.
-\b
 
 
 \q1
@@ -34,7 +33,7 @@
 
 <usfm>
 \q1
-\v 3 The spirit of Egypt will be weakened from within. I will destroy his advice, 
+\v 3 The spirit of Egypt will be weakened from within. I will destroy his advice,
 \q1 though they sought the advice of idols, dead men's spirits, mediums, and spiritualists.
 \q1
 \v 4 I will give the Egyptians into the hand of a harsh master, and a strong king will rule over them—
@@ -57,10 +56,13 @@
 ===== translationNotes: =====
 
 
-  * **I will destroy his advice** - This can be reworded so that the abstract noun "advice" is expressed as the verb "advise."  "I, Yahweh, will confuse those who advise the king" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **mediums, and spiritualists** - See how you translated similar words in [[:en:bible:notes:isa:08:19|8:19]].
+  * **The spirit of Egypt will be weakened from within. I will destroy his advice** - The nation of Egypt is spoken of here as if it was a person. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **The spirit of Egypt will be weakened from within** - This can be expressed in active form. AT: "I will weaken the spirit of Egypt from within" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I will destroy his advice** - This can be reworded so that the abstract noun "advice" is expressed as the verb "advise." AT: "I will confuse those who advise the king" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **though** - "although" or "even though"
+  * **mediums ... spiritualists** - These are people who claim to speak with those who have died. 
   * **I will give the Egyptians into the hand of a harsh master** - Here "hand" refers to power or control. AT: "I will give the Egyptians over to the control of a harsh master" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **declaration of the Lord, Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:24|1:24]].
+  * **this is the declaration of the Lord, Yahweh of hosts** - The abstract noun "declaration" can be translated as a verb. AT: "this is what the Lord, Yahweh of hosts, declares" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -68,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:19]]
 **[[:en:bible:notes:isa:19:01|<<]] | [[:en:bible:notes:isa:19:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

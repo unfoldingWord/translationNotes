@@ -18,13 +18,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 A rich person can think of himself as being wise, 
-\q2 but someone who is poor but who has good sense will be able to tell if the rich man is really wise. 
-\b
+\v 11 A rich person can think of himself as being wise,
+\q2 but someone who is poor but who has good sense will be able to tell if the rich man is really wise.
 \q1
 \v 12 When those who do what is right have a victory, it is a time to celebrate,
-\q2 but when those who are wicked rise up in victory, people run and hide. 
-
+\q2 but when those who are wicked rise up in victory, people run and hide.
 
 \q1
 </usfm>
@@ -34,10 +32,10 @@
 
 <usfm>
 \q
-\v 11 The rich person may be wise in his own eyes, 
+\v 11 The rich person may be wise in his own eyes,
 \q but a poor person who has understanding will find him out.
 \q
-\v 12 When there is victory for those who do what is right, there is great glory,
+\v 12 When there is victory for righteous people, there is great glory,
 \q but when the wicked arise, people hide themselves.
 </usfm>
 
@@ -51,7 +49,13 @@
 
 ===== translationNotes: =====
 
-  * **will find him out** - AT: "will see his true nature"
+  * **be wise in his own eyes** - The phrase "his own eyes" represents his thoughts. AT: "be wise in his own thoughts" or "think he is wise" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who has understanding** - The abstract noun "understanding" can be expressed as a verb. AT: "who understands" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **will find him out** - This is an idiom that means the poor person will be able to determine whether or not the rich person is really wise. AT: "will see his true nature" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **When there is victory for righteous people** - "When righteous people succeed" or "When righteous people triumph"
+  * **when the wicked arise** - This is an idiom that means when the wicked gain power or start to rule. AT: "when the wicked rise to power" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the wicked** - This refers to wicked people in general. AT: "wicked people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **people hide themselves** - "people go into hiding." How people respond when the wicked rise is spoken of as if the people hide from those in power, although they would not actually be hidden. (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol2:translate:figs_rpronouns]])
  
 ===== Links: =====
 
@@ -60,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:28]]
 **[[:en:bible:notes:pro:28:09|<<]] | [[:en:bible:notes:pro:28:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

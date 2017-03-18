@@ -18,7 +18,7 @@
 \q1
 \v 2 Yahweh, hear me
 \q2 while I call out to you to have mercy on me!
-\b
+
 
 
 \q1
@@ -28,9 +28,8 @@
 
 <usfm>
 \c 130
-\p
+\m
 \d A song of ascents.
-\b
 \q
 \v 1 Out of the depths I cry to you, Yahweh.
 \q
@@ -48,7 +47,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **song of ascents** - Possible meanings are 1) "song people sang while going up to Jerusalem for a celebration" or 2) "song people sang while going up the steps into the temple" or 3) "song whose words are like steps." See how you translated this in [[:en:bible:notes:psa:120:001|120:1]]
   * **Out of the depths** - The author's sadness is spoken of as if it were a container. His sadness comes from the bottom of the container. Sadness is often spoken of as being a container that fills from the top to the bottom. AT: "Because I am very sad," (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:130]]
 **[[:en:bible:notes:psa:129:006|<<]] | [[:en:bible:notes:psa:130:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

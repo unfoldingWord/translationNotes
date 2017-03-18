@@ -20,23 +20,24 @@
 ===== ULB: =====
 
 <usfm>
-\v 45 Jesus said, "Who is it that touched me?" When all denied it, Peter said, "Master, the crowds of people are pressing in on you and crowding you."
-\v 46 But Jesus said, "Someone did touch me, for I knew that power was going out from me."
+\v 45 Jesus said, "Who was it who touched me?" When all denied it, Peter said, "Master, the crowds of people are all around you and they are pressing in against you."
+\v 46 But Jesus said, "Someone did touch me, for I know that power has gone out from me."
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:jesus]]  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:lord]]
   * [[:en:obe:other:peter]]
   * [[:en:obe:kt:lord]]
   * [[:en:obe:kt:power]]
 
 ===== translationNotes: =====
 
-  * **the crowds of people are pressing in on you and crowding you** - By saying this, Peter was implying that anyone could have touched Jesus. This implicit information can be made explicit if necessary. AT: "there are many people crowding around you and pressing up against you, so any one of them might have touched you!" (UDB) (See [[:en:ta:vol1:translate:figs_explicit]])
+  * **the crowds of people ... are pressing in against you** - By saying this, Peter was implying that anyone could have touched Jesus. This implicit information can be made explicit if necessary. AT: "there are many people crowding around you and pressing in against you, so any one of them might have touched you!" (UDB) (See [[:en:ta:vol1:translate:figs_explicit]])
   * **Someone did touch me** - It may be helpful to distinguish this intentional "touch" from the accidental touches of the crowd. AT: "I know that someone deliberately touched me" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **I knew that power was going out from me** - Jesus did not lose power or become weak, but his power healed the woman. AT: "I felt healing power go out from me" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **I know that power has gone out from me** - Jesus did not lose power or become weak, but his power healed the woman. AT: "I know that healing power went out from me" or "I felt my power heal someone" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:luk:00:intro]]

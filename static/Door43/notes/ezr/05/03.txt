@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 Then Tattenai the governor of the province Beyond the River, Shethar Bozenai, and their companions came and said to them, "Who gave you a decree to build this house and complete these walls?"
+\v 3 Then Tattenai the governor of the Province Beyond the River, Shethar Bozenai, and his associates came and said to them, "Who gave you a decree to build this house and complete these walls?"
 \v 4 They also said, "What are the names of the men building this building?"
 \v 5 But God's eye was on the Jewish elders and their enemies did not stop them. They were waiting for a letter to be sent to the king and for a decree to be returned to them concerning this.
 </usfm>
@@ -40,8 +40,9 @@
 ===== translationNotes: =====
 
   * **Tattenai ... Shethar Bozenai** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
-  * **God's eye was on** - "God was watching over" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **They were waiting for a letter to be sent to the king and for a decree to be returned to them concerning this** - The Jews restarted building the temple while waiting for King Darius to state if they were to continue or to stop the work.
+  * **the Province Beyond the River** - This is the name of the province that was west of the Euphrates River. It was across the river from the city of Susa. See how you translated it in [[:en:bible:notes:ezr:04:09|4:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **God's eye was on** - The eye is a metonym for the person watching over another person. AT: "God was watching over" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **for a letter to be sent to the king and for a decree to be returned to them** - This can be translated in active form. AT: "for an official to send a letter to the king and for the king to send a letter back to them with a decree" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -50,6 +51,6 @@
   * [[:en:bible:questions:comprehension:ezr:05]]
 **[[:en:bible:notes:ezr:05:01|<<]] | [[:en:bible:notes:ezr:05:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

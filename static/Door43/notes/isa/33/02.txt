@@ -29,7 +29,7 @@
 
 <usfm>
 \q1
-\v 2 Yahweh, be gracious to us; we wait for you; 
+\v 2 Yahweh, be gracious to us; we wait for you;
 \q1 be our arm every morning, our salvation in the time of trouble.
 </usfm>
 
@@ -39,10 +39,14 @@
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:grace]]
   * [[:en:obe:kt:salvation]] 
+  * [[:en:obe:other:trouble]]
 
 ===== translationNotes: =====
 
- 
+  * **be our arm** - Here Yahweh's arm refers to his strength. This speaks of  Yahweh strengthening them as if Yahweh would use his strength to act for them. AT: "give us strength" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **every morning** - This refers to the whole day, not just the morning. AT: "every day" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **our salvation** - This missing word "be" may be added. Also, the word "salvation" may be expressed with the verb "save." AT: "be our salvation" or "save us" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **in the time of trouble** - This refers to the times when they are experiencing trouble. AT: ""when we have troubles" (UDB) (See: [[:en:ta:vol2:translate:figs_possession]])
  
 ===== Links: =====
 
@@ -57,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -24,7 +24,6 @@
 \q1
 \v 5 unless they request me to protect them;
 \q2 I strongly invite them to make peace with me!"
-\b
 
 
 \q1
@@ -34,7 +33,7 @@
 
 <usfm>
 \q1
-\v 4 I am not angry, Oh, that there were briers and thorns! 
+\v 4 I am not angry, Oh, that there were briers and thorns!
 \q1 In battle I would march against them; I would burn them all together;
 \q1
 \v 5 unless they grasp my protection and make peace with me; let them make peace with me.
@@ -43,15 +42,21 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:angry]]
+  * [[:en:obe:other:thorn]]
   * [[:en:obe:other:peace]]
 
 ===== translationNotes: =====
 
-  * **I am not angry** - The word "I" refers to Yahweh.
-  * **Oh, that there were briers and thorns** - This continues to compare the people of Israel to a vineyard (See: [[:en:bible:notes:isa:27:01|27:1]]). The enemies of the people of Israel to briers and thorns in the vineyard. AT: "If only there were briers and thorns growing in the vineyard" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **briers and thorns** - See how you translated this in [[:en:bible:notes:isa:05:05|5:6]]. 
-  * **unless they grasp my protection** - This can be reworded so that the abstract noun "protection" is expressed as the verb "protect."  AT: "unless they ask me to protect them" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **and make peace with me; let them make peace with me** - The first phrase is part of the conditional statement that precedes it. The second phrase is an invitation to make peace with Yahweh.
+  * **Connecting Statement:** - This continues to speak about the people of Israel as if they were a vineyard (See: [[:en:bible:notes:isa:27:01|27:2-3]]).
+
+  * **I am not angry, Oh, that there were briers and thorns! In battle I would march against them** - "I am not angry. If there were briers and thorns I would march against them in battle"
+  * **I am not angry** - It is understood that Yahweh is not angry with his people any longer. AT: "I am not angry with my people any longer" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **that there were briers and thorns** - The enemies of the people of Israel are spoken of as if they were briers and thorns growing in the vineyard. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **briers and thorns** - Translate these words as you did in [[:en:bible:notes:isa:05:05|5:6]].
+  * **In battle I would march against them** - Yahweh fighting his enemies is spoken of as if he were a warrior in an army. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I would march against them; I would burn them all together** - Here Isaiah combines different images to speak of Yahweh's enemies. He speaks of them as if they are briers and thorns but also as soldiers in an army. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **unless they grasp my protection** - This can be reworded so that the abstract noun "protection" is expressed as the verb "protect." AT: "unless they ask me to protect them" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **and make peace with me; let them make peace with me** - "and they ask to live peacefully with me; I want them to live peacefully with me"
 
 ===== Links: =====
 
@@ -60,6 +65,6 @@
   * [[:en:bible:questions:comprehension:isa:27]]
 **[[:en:bible:notes:isa:27:01|<<]] | [[:en:bible:notes:isa:27:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

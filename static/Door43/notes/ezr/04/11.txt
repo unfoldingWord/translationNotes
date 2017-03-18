@@ -29,7 +29,7 @@
 
 <usfm>
 \p
-\v 11 This is a copy of the letter that they sent to Artaxerxes: "Your servants, men across the river, write this:
+\v 11 This is a copy of the letter that they sent to Artaxerxes: "Your servants, men of the Province Beyond the River, write this:
 \v 12 Let the king know that the Jews who went from you have come against us in Jerusalem to build a rebellious city. They have completed the walls and repaired the foundations.
 </usfm>
 
@@ -45,6 +45,8 @@
 ===== translationNotes: =====
 
   * **This is a copy** - Ezra includes in his writing the content of the letter sent to King Artaxerxes.
+  * **the Province Beyond the River** - This is the name of the province that was west of the Euphrates River. It was across the river from the city of Susa. Translate as in [[:en:bible:notes:ezr:04:09|4:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **a rebellious city** - The city is a metonym for the people who live in it. AT: "a city that they plan to live in and rebel against you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **repaired the foundations** - "fixed the foundations" or "mended the foundations" 
  
 ===== Links: =====
@@ -57,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -23,7 +23,7 @@
 \c 7
 \p
 \v 1 When the wall was finished and I had set up the doors in place, and the gatekeepers and singers and Levites had been appointed,
-\v 2 I gave my brother Hanani charge over Jerusalem, along with Hananiah who had oversight of the citadel, for he was a faithful man and feared God more than many.
+\v 2 I gave my brother Hanani charge over Jerusalem, along with Hananiah who had oversight of the fortress, for he was a faithful man and feared God more than many.
 </usfm>
 
 
@@ -39,16 +39,14 @@
 ===== translationNotes: =====
 
   * **When the wall was finished** - This can be stated in active form. AT: "When we had finished the wall" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the gatekeepers and singers and Levites had been appointed** - This can be stated in active form. AT: "I chose the gatekeepers and singers and Levites" 
-  * **gatekeeper** - A person placed at each gate, armed or supported by armed guards (depending on the size of the city) whose responsibility was to identify those entering that were not citizens of the city, register them and note their business there. They also closed and opened the gates at times and for reasons set by the administrator.
-  * **singers** - This word refers to vocal musicians who led in worship, in processions, and ceremonies, producing music and chants that emphasized and enhanced the occasion.
-  * **Levites** - The priestly class of people established by God many centuries earlier and now restored by Nehemiah.
-  * **Hanani ... Hananiah** - These are names of males. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **I gave my brother Hanani charge** - "I selected my brother Hanani to be the manager"
-  * **who had oversight of the citadel** - "who was in charge of the citadel"
-  * **citadel** - a fortified place where weapons or active soldiers or both were housed. A second meaning may be all fortifications for the city.
-  * **for he was a faithful man** - "because he was a dependable man" or "because he performed his duty"
-  * **feared God more than many** - "was more obedient to God than many other people." Nehemiah is giving an accurate and clear reason why Hananiah was appointed.
+  * **I had set up the doors in place** - This was done with help. AT: "I and others hung the doors" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the gatekeepers and singers and Levites had been appointed** - This can be stated in active form. Possible meanings are: 1) Nehemiah appointed them. AT: "I assigned the gatekeepers and singers and Levites to their tasks" or 2) Someone else appointed them. AT: "they assigned the gatekeepers and singers and Levites to their tasks" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **gatekeepers** - people assigned to each gate, responsible to control access to the city or temple, as well as to open and close the gates at times and for reasons set by the administrator
+  * **singers** - vocal musicians who led in worship, in processions, and ceremonies, producing music and chants that emphasized and enhanced the occasion
+  * **Hanani ... Hananiah** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **I gave my brother Hanani charge** - "I gave the order for my brother Hanani to be the manager"
+  * **who had oversight of the fortress** - "who was in charge of the fortress"
+  * **feared God more than many** - "feared God more than many other people"
  
 ===== Links: =====
 
@@ -60,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

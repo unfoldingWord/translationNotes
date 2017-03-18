@@ -52,11 +52,10 @@
 ===== translationNotes: =====
 
   * **BETH** - This is the name of the second letter of the Hebrew alphabet. In the Hebrew language, each line of verses 9-16 begins with this letter.
-  * **How can a young person keep his path pure?** - This question is used to introduce a new value to the word of God. AT: "This is how a young person can keep his path pure" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **keep his path pure** - The writer refers to a way of living according to God's law as a path kept clear of obstructions. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **With my whole heart** - The heart refers to all of one's emotions, feelings, desires, and will.
-  * **I seek you** - Here this means "I try to serve you."
-  * **Do not let me stray from your commandments** - To stray from God's commandments is like that of one who strays off a path. AT: "Do not let me disobey your commandments" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **How can a young person keep his path pure?** - This question is used to introduce a new value to the word of God. This rhetorical question can be translated as a statement. AT: "This is how a young person can keep his path pure" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **keep his path pure** - The writer compares living according to God's law as a path kept clear of obstructions. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **With my whole heart** - This is an idiom. The heart refers to all of one's emotions, feelings, desires, and will. AT: "with all my being" or "with everything in me" or "sincerely" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Do not let me stray from your commandments** - Here to disobey God's commandments is described as straying off a path. AT: "Do not let me disobey your commandments" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:007|<<]] | [[:en:bible:notes:psa:119:011|>>]]**
 
-~~DISCUSSION~~ {{tag>publish p2check book5}}
+~~DISCUSSION~~ {{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

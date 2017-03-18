@@ -1,10 +1,4 @@
-======= List of translationWords in Job =======
-
-* [[:en:obe:other:arabah]] is found in:
- [[:en:bible:notes:job:24:05|24:05]]
-
-* [[:en:obe:kt:god]] is found in:
- [[:en:bible:notes:job:33:29|33:29]]
+===== List of translationWords in Job =====
 
 * [[:en:obe:kt:abomination]] is found in:
  [[:en:bible:notes:job:15:15|15:15]]
@@ -49,16 +43,13 @@
  [[:en:bible:notes:job:15:22|15:22]]
 
 * [[:en:obe:other:arabah]] is found in:
- [[:en:bible:notes:job:39:05|39:05]]
+ [[:en:bible:notes:job:24:05|24:05]], [[:en:bible:notes:job:39:05|39:05]]
 
 * [[:en:obe:other:archer]] is found in:
  [[:en:bible:notes:job:16:13|16:13]]
 
 * [[:en:obe:other:armor]] is found in:
  [[:en:bible:notes:job:41:13|41:13]]
-
-* [[:en:obe:other:arrogant]] is found in:
- [[:en:bible:notes:job:36:08|36:08]]
 
 * [[:en:obe:kt:assembly]] is found in:
  [[:en:bible:notes:job:30:27|30:27]]
@@ -81,8 +72,17 @@
 * [[:en:obe:kt:believe]] is found in:
  [[:en:bible:notes:job:09:16|09:16]], [[:en:bible:notes:job:11:04|11:04]]
 
+* [[:en:obe:other:biblicaltimeday]] is found in:
+ [[:en:bible:notes:job:18:18|18:18]], [[:en:bible:notes:job:32:06|32:06]]
+
+* [[:en:obe:other:biblicaltimemonth]] is found in:
+ [[:en:bible:notes:job:39:01|39:01]]
+
+* [[:en:obe:other:biblicaltimeyear]] is found in:
+ [[:en:bible:notes:job:32:06|32:06]]
+
 * [[:en:obe:kt:blameless]] is found in:
- [[:en:bible:notes:job:01:01|01:01]], [[:en:bible:notes:job:11:04|11:04]]
+ [[:en:bible:notes:job:01:01|01:01]], [[:en:bible:notes:job:09:19|09:19]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:11:04|11:04]], [[:en:bible:notes:job:12:04|12:04]], [[:en:bible:notes:job:22:01|22:01]]
 
 * [[:en:obe:kt:bless]] is found in:
  [[:en:bible:notes:job:01:09|01:09]], [[:en:bible:notes:job:01:20|01:20]], [[:en:bible:notes:job:29:11|29:11]], [[:en:bible:notes:job:31:19|31:19]], [[:en:bible:notes:job:42:12|42:12]]
@@ -130,7 +130,7 @@
  [[:en:bible:notes:job:27:15|27:15]], [[:en:bible:notes:job:40:12|40:12]]
 
 * [[:en:obe:kt:call]] is found in:
- [[:en:bible:notes:job:05:01|05:01]], [[:en:bible:notes:job:07:06|07:06]], [[:en:bible:notes:job:09:16|09:16]], [[:en:bible:notes:job:10:08|10:08]], [[:en:bible:notes:job:11:10|11:10]], [[:en:bible:notes:job:12:04|12:04]], [[:en:bible:notes:job:13:20|13:20]], [[:en:bible:notes:job:14:15|14:15]], [[:en:bible:notes:job:19:07|19:07]], [[:en:bible:notes:job:19:15|19:15]], [[:en:bible:notes:job:27:08|27:08]]
+ [[:en:bible:notes:job:05:01|05:01]], [[:en:bible:notes:job:07:06|07:06]], [[:en:bible:notes:job:09:16|09:16]], [[:en:bible:notes:job:11:10|11:10]], [[:en:bible:notes:job:12:04|12:04]], [[:en:bible:notes:job:13:20|13:20]], [[:en:bible:notes:job:14:15|14:15]], [[:en:bible:notes:job:19:07|19:07]], [[:en:bible:notes:job:19:15|19:15]], [[:en:bible:notes:job:27:08|27:08]]
 
 * [[:en:obe:other:camel]] is found in:
  [[:en:bible:notes:job:01:01|01:01]], [[:en:bible:notes:job:42:12|42:12]]
@@ -177,6 +177,9 @@
 * [[:en:obe:kt:confidence]] is found in:
  [[:en:bible:notes:job:04:04|04:04]], [[:en:bible:notes:job:06:18|06:18]], [[:en:bible:notes:job:08:13|08:13]], [[:en:bible:notes:job:31:24|31:24]], [[:en:bible:notes:job:31:35|31:35]]
 
+* [[:en:obe:kt:consecrate]] is found in:
+ [[:en:bible:notes:job:01:04|01:04]]
+
 * [[:en:obe:other:consume]] is found in:
  [[:en:bible:notes:job:04:07|04:07]], [[:en:bible:notes:job:05:04|05:04]], [[:en:bible:notes:job:07:08|07:08]], [[:en:bible:notes:job:17:01|17:01]], [[:en:bible:notes:job:19:20|19:20]], [[:en:bible:notes:job:20:26|20:26]], [[:en:bible:notes:job:22:18|22:18]], [[:en:bible:notes:job:24:18|24:18]], [[:en:bible:notes:job:31:11|31:11]], [[:en:bible:notes:job:33:21|33:21]]
 
@@ -187,16 +190,19 @@
  [[:en:bible:notes:job:38:06|38:06]]
 
 * [[:en:obe:kt:corrupt]] is found in:
- [[:en:bible:notes:job:15:15|15:15]], [[:en:bible:notes:job:17:13|17:13]]
+ [[:en:bible:notes:job:15:15|15:15]]
 
 * [[:en:obe:other:counselor]] is found in:
- [[:en:bible:notes:job:03:13|03:13]], [[:en:bible:notes:job:12:16|12:16]], [[:en:bible:notes:job:18:07|18:07]], [[:en:bible:notes:job:21:16|21:16]]
+ [[:en:bible:notes:job:03:13|03:13]], [[:en:bible:notes:job:12:16|12:16]], [[:en:bible:notes:job:21:16|21:16]]
 
 * [[:en:obe:other:courtyard]] is found in:
  [[:en:bible:notes:job:13:06|13:06]], [[:en:bible:notes:job:13:18|13:18]]
 
 * [[:en:obe:kt:covenant]] is found in:
  [[:en:bible:notes:job:05:23|05:23]], [[:en:bible:notes:job:31:01|31:01]]
+
+* [[:en:obe:kt:covenantfaith]] is found in:
+ [[:en:bible:notes:job:10:12|10:12]], [[:en:bible:notes:job:37:12|37:12]]
 
 * [[:en:obe:other:cow]] is found in:
  [[:en:bible:notes:job:21:10|21:10]], [[:en:bible:notes:job:36:32|36:32]], [[:en:bible:notes:job:42:07|42:07]]
@@ -223,10 +229,10 @@
  [[:en:bible:notes:job:04:07|04:07]], [[:en:bible:notes:job:06:07|06:07]], [[:en:bible:notes:job:21:19|21:19]], [[:en:bible:notes:job:22:18|22:18]], [[:en:bible:notes:job:23:15|23:15]], [[:en:bible:notes:job:24:24|24:24]], [[:en:bible:notes:job:27:08|27:08]], [[:en:bible:notes:job:36:19|36:19]]
 
 * [[:en:obe:kt:darkness]] is found in:
- [[:en:bible:notes:job:03:04|03:04]], [[:en:bible:notes:job:03:06|03:06]], [[:en:bible:notes:job:03:08|03:08]], [[:en:bible:notes:job:05:14|05:14]], [[:en:bible:notes:job:06:14|06:14]], [[:en:bible:notes:job:10:20|10:20]], [[:en:bible:notes:job:11:15|11:15]], [[:en:bible:notes:job:12:22|12:22]], [[:en:bible:notes:job:12:24|12:24]], [[:en:bible:notes:job:15:22|15:22]], [[:en:bible:notes:job:15:29|15:29]], [[:en:bible:notes:job:17:11|17:11]], [[:en:bible:notes:job:17:13|17:13]], [[:en:bible:notes:job:18:05|18:05]], [[:en:bible:notes:job:18:18|18:18]], [[:en:bible:notes:job:19:07|19:07]], [[:en:bible:notes:job:20:26|20:26]], [[:en:bible:notes:job:22:09|22:09]], [[:en:bible:notes:job:23:15|23:15]], [[:en:bible:notes:job:24:15|24:15]], [[:en:bible:notes:job:26:09|26:09]], [[:en:bible:notes:job:28:03|28:03]], [[:en:bible:notes:job:29:01|29:01]], [[:en:bible:notes:job:30:01|30:01]], [[:en:bible:notes:job:30:24|30:24]], [[:en:bible:notes:job:34:21|34:21]], [[:en:bible:notes:job:38:01|38:01]], [[:en:bible:notes:job:38:08|38:08]], [[:en:bible:notes:job:42:01|42:01]]
+ [[:en:bible:notes:job:03:04|03:04]], [[:en:bible:notes:job:03:06|03:06]], [[:en:bible:notes:job:05:14|05:14]], [[:en:bible:notes:job:10:20|10:20]], [[:en:bible:notes:job:11:15|11:15]], [[:en:bible:notes:job:12:22|12:22]], [[:en:bible:notes:job:12:24|12:24]], [[:en:bible:notes:job:15:22|15:22]], [[:en:bible:notes:job:15:29|15:29]], [[:en:bible:notes:job:17:11|17:11]], [[:en:bible:notes:job:17:13|17:13]], [[:en:bible:notes:job:18:05|18:05]], [[:en:bible:notes:job:18:18|18:18]], [[:en:bible:notes:job:19:07|19:07]], [[:en:bible:notes:job:20:26|20:26]], [[:en:bible:notes:job:22:09|22:09]], [[:en:bible:notes:job:23:15|23:15]], [[:en:bible:notes:job:24:15|24:15]], [[:en:bible:notes:job:26:09|26:09]], [[:en:bible:notes:job:28:03|28:03]], [[:en:bible:notes:job:29:01|29:01]], [[:en:bible:notes:job:30:01|30:01]], [[:en:bible:notes:job:30:24|30:24]], [[:en:bible:notes:job:34:21|34:21]], [[:en:bible:notes:job:38:01|38:01]], [[:en:bible:notes:job:38:08|38:08]]
 
 * [[:en:obe:kt:death]] is found in:
- [[:en:bible:notes:job:01:18|01:18]], [[:en:bible:notes:job:02:09|02:09]], [[:en:bible:notes:job:03:11|03:11]], [[:en:bible:notes:job:03:20|03:20]], [[:en:bible:notes:job:04:20|04:20]], [[:en:bible:notes:job:05:20|05:20]], [[:en:bible:notes:job:07:13|07:13]], [[:en:bible:notes:job:10:20|10:20]], [[:en:bible:notes:job:12:01|12:01]], [[:en:bible:notes:job:12:22|12:22]], [[:en:bible:notes:job:14:07|14:07]], [[:en:bible:notes:job:14:13|14:13]], [[:en:bible:notes:job:15:31|15:31]], [[:en:bible:notes:job:16:15|16:15]], [[:en:bible:notes:job:18:12|18:12]], [[:en:bible:notes:job:18:14|18:14]], [[:en:bible:notes:job:21:22|21:22]], [[:en:bible:notes:job:27:04|27:04]], [[:en:bible:notes:job:28:20|28:20]], [[:en:bible:notes:job:29:17|29:17]], [[:en:bible:notes:job:30:22|30:22]], [[:en:bible:notes:job:33:16|33:16]], [[:en:bible:notes:job:34:18|34:18]], [[:en:bible:notes:job:36:10|36:10]], [[:en:bible:notes:job:38:16|38:16]], [[:en:bible:notes:job:42:15|42:15]]
+ [[:en:bible:notes:job:01:18|01:18]], [[:en:bible:notes:job:02:09|02:09]], [[:en:bible:notes:job:03:11|03:11]], [[:en:bible:notes:job:03:20|03:20]], [[:en:bible:notes:job:04:20|04:20]], [[:en:bible:notes:job:05:20|05:20]], [[:en:bible:notes:job:07:13|07:13]], [[:en:bible:notes:job:10:20|10:20]], [[:en:bible:notes:job:12:22|12:22]], [[:en:bible:notes:job:14:07|14:07]], [[:en:bible:notes:job:14:13|14:13]], [[:en:bible:notes:job:15:31|15:31]], [[:en:bible:notes:job:16:15|16:15]], [[:en:bible:notes:job:18:12|18:12]], [[:en:bible:notes:job:21:22|21:22]], [[:en:bible:notes:job:27:04|27:04]], [[:en:bible:notes:job:28:20|28:20]], [[:en:bible:notes:job:29:17|29:17]], [[:en:bible:notes:job:30:22|30:22]], [[:en:bible:notes:job:33:16|33:16]], [[:en:bible:notes:job:34:18|34:18]], [[:en:bible:notes:job:36:10|36:10]], [[:en:bible:notes:job:38:16|38:16]], [[:en:bible:notes:job:42:15|42:15]]
 
 * [[:en:obe:kt:deceive]] is found in:
  [[:en:bible:notes:job:06:18|06:18]], [[:en:bible:notes:job:12:16|12:16]], [[:en:bible:notes:job:13:06|13:06]], [[:en:bible:notes:job:15:31|15:31]], [[:en:bible:notes:job:15:34|15:34]], [[:en:bible:notes:job:27:04|27:04]], [[:en:bible:notes:job:31:05|31:05]], [[:en:bible:notes:job:36:17|36:17]]
@@ -237,11 +243,11 @@
 * [[:en:obe:other:decree]] is found in:
  [[:en:bible:notes:job:22:26|22:26]], [[:en:bible:notes:job:23:13|23:13]], [[:en:bible:notes:job:28:26|28:26]]
 
+* [[:en:obe:other:deer]] is found in:
+ [[:en:bible:notes:job:39:01|39:01]]
+
 * [[:en:obe:other:delight]] is found in:
  [[:en:bible:notes:job:27:08|27:08]]
-
-* [[:en:obe:kt:deliverer]] is found in:
- [[:en:bible:notes:job:10:04|10:04]], [[:en:bible:notes:job:16:11|16:11]], [[:en:bible:notes:job:22:29|22:29]]
 
 * [[:en:obe:other:descendant]] is found in:
  [[:en:bible:notes:job:21:07|21:07]], [[:en:bible:notes:job:30:07|30:07]]
@@ -265,7 +271,7 @@
  [[:en:bible:notes:job:04:16|04:16]]
 
 * [[:en:obe:other:disgrace]] is found in:
- [[:en:bible:notes:job:19:05|19:05]], [[:en:bible:notes:job:36:13|36:13]]
+ [[:en:bible:notes:job:19:05|19:05]]
 
 * [[:en:obe:kt:dominion]] is found in:
  [[:en:bible:notes:job:25:01|25:01]]
@@ -288,9 +294,6 @@
 * [[:en:obe:other:earth]] is found in:
  [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:02:01|02:01]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:03:13|03:13]], [[:en:bible:notes:job:05:08|05:08]], [[:en:bible:notes:job:07:01|07:01]], [[:en:bible:notes:job:08:08|08:08]], [[:en:bible:notes:job:09:04|09:04]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:11:07|11:07]], [[:en:bible:notes:job:12:07|12:07]], [[:en:bible:notes:job:12:24|12:24]], [[:en:bible:notes:job:14:18|14:18]], [[:en:bible:notes:job:16:18|16:18]], [[:en:bible:notes:job:18:03|18:03]], [[:en:bible:notes:job:18:16|18:16]], [[:en:bible:notes:job:22:06|22:06]], [[:en:bible:notes:job:24:02|24:02]], [[:en:bible:notes:job:26:07|26:07]], [[:en:bible:notes:job:28:05|28:05]], [[:en:bible:notes:job:34:13|34:13]], [[:en:bible:notes:job:37:01|37:01]], [[:en:bible:notes:job:38:04|38:04]], [[:en:bible:notes:job:38:14|38:14]], [[:en:bible:notes:job:38:16|38:16]], [[:en:bible:notes:job:38:22|38:22]], [[:en:bible:notes:job:38:31|38:31]], [[:en:bible:notes:job:38:36|38:36]], [[:en:bible:notes:job:39:13|39:13]]
 
-* [[:en:obe:other:edom]] is found in:
- [[:en:bible:notes:job:04:01|04:01]]
-
 * [[:en:obe:other:elder]] is found in:
  [[:en:bible:notes:job:12:19|12:19]]
 
@@ -301,7 +304,10 @@
  [[:en:bible:notes:job:28:18|28:18]]
 
 * [[:en:obe:kt:evil]] is found in:
- [[:en:bible:notes:job:01:01|01:01]], [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:02:09|02:09]], [[:en:bible:notes:job:02:11|02:11]], [[:en:bible:notes:job:03:17|03:17]], [[:en:bible:notes:job:05:17|05:17]], [[:en:bible:notes:job:08:19|08:19]], [[:en:bible:notes:job:08:21|08:21]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:10:01|10:01]], [[:en:bible:notes:job:10:15|10:15]], [[:en:bible:notes:job:11:20|11:20]], [[:en:bible:notes:job:15:19|15:19]], [[:en:bible:notes:job:15:25|15:25]], [[:en:bible:notes:job:16:11|16:11]], [[:en:bible:notes:job:18:05|18:05]], [[:en:bible:notes:job:20:04|20:04]], [[:en:bible:notes:job:20:12|20:12]], [[:en:bible:notes:job:20:28|20:28]], [[:en:bible:notes:job:21:07|21:07]], [[:en:bible:notes:job:21:16|21:16]], [[:en:bible:notes:job:21:27|21:27]], [[:en:bible:notes:job:21:29|21:29]], [[:en:bible:notes:job:22:04|22:04]], [[:en:bible:notes:job:22:15|22:15]], [[:en:bible:notes:job:22:18|22:18]], [[:en:bible:notes:job:24:01|24:01]], [[:en:bible:notes:job:24:11|24:11]], [[:en:bible:notes:job:24:20|24:20]], [[:en:bible:notes:job:27:06|27:06]], [[:en:bible:notes:job:27:13|27:13]], [[:en:bible:notes:job:30:24|30:24]], [[:en:bible:notes:job:31:03|31:03]], [[:en:bible:notes:job:34:07|34:07]], [[:en:bible:notes:job:34:10|34:10]], [[:en:bible:notes:job:34:18|34:18]], [[:en:bible:notes:job:36:06|36:06]], [[:en:bible:notes:job:36:17|36:17]], [[:en:bible:notes:job:38:12|38:12]], [[:en:bible:notes:job:38:14|38:14]], [[:en:bible:notes:job:40:12|40:12]]
+ [[:en:bible:notes:job:01:01|01:01]], [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:02:09|02:09]], [[:en:bible:notes:job:02:11|02:11]], [[:en:bible:notes:job:03:17|03:17]], [[:en:bible:notes:job:05:17|05:17]], [[:en:bible:notes:job:06:28|06:28]], [[:en:bible:notes:job:08:21|08:21]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:10:01|10:01]], [[:en:bible:notes:job:10:15|10:15]], [[:en:bible:notes:job:11:20|11:20]], [[:en:bible:notes:job:15:19|15:19]], [[:en:bible:notes:job:15:25|15:25]], [[:en:bible:notes:job:16:11|16:11]], [[:en:bible:notes:job:18:05|18:05]], [[:en:bible:notes:job:20:04|20:04]], [[:en:bible:notes:job:20:12|20:12]], [[:en:bible:notes:job:20:28|20:28]], [[:en:bible:notes:job:21:07|21:07]], [[:en:bible:notes:job:21:16|21:16]], [[:en:bible:notes:job:21:27|21:27]], [[:en:bible:notes:job:21:29|21:29]], [[:en:bible:notes:job:22:04|22:04]], [[:en:bible:notes:job:22:15|22:15]], [[:en:bible:notes:job:22:18|22:18]], [[:en:bible:notes:job:24:01|24:01]], [[:en:bible:notes:job:24:11|24:11]], [[:en:bible:notes:job:24:20|24:20]], [[:en:bible:notes:job:27:06|27:06]], [[:en:bible:notes:job:27:13|27:13]], [[:en:bible:notes:job:30:24|30:24]], [[:en:bible:notes:job:31:03|31:03]], [[:en:bible:notes:job:34:07|34:07]], [[:en:bible:notes:job:34:10|34:10]], [[:en:bible:notes:job:34:18|34:18]], [[:en:bible:notes:job:36:06|36:06]], [[:en:bible:notes:job:36:17|36:17]], [[:en:bible:notes:job:38:12|38:12]], [[:en:bible:notes:job:38:14|38:14]], [[:en:bible:notes:job:40:12|40:12]]
+
+* [[:en:obe:other:evildoer]] is found in:
+ [[:en:bible:notes:job:08:19|08:19]]
 
 * [[:en:obe:kt:exalt]] is found in:
  [[:en:bible:notes:job:17:04|17:04]], [[:en:bible:notes:job:24:24|24:24]], [[:en:bible:notes:job:36:22|36:22]]
@@ -310,7 +316,7 @@
  [[:en:bible:notes:job:06:10|06:10]]
 
 * [[:en:obe:kt:face]] is found in:
- [[:en:bible:notes:job:01:09|01:09]], [[:en:bible:notes:job:02:04|02:04]], [[:en:bible:notes:job:04:14|04:14]], [[:en:bible:notes:job:06:28|06:28]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:09:27|09:27]], [[:en:bible:notes:job:11:15|11:15]], [[:en:bible:notes:job:13:20|13:20]], [[:en:bible:notes:job:16:06|16:06]], [[:en:bible:notes:job:16:15|16:15]], [[:en:bible:notes:job:21:31|21:31]], [[:en:bible:notes:job:22:26|22:26]], [[:en:bible:notes:job:23:15|23:15]], [[:en:bible:notes:job:26:09|26:09]], [[:en:bible:notes:job:29:23|29:23]], [[:en:bible:notes:job:33:25|33:25]], [[:en:bible:notes:job:34:29|34:29]], [[:en:bible:notes:job:40:12|40:12]], [[:en:bible:notes:job:41:13|41:13]]
+ [[:en:bible:notes:job:01:09|01:09]], [[:en:bible:notes:job:02:04|02:04]], [[:en:bible:notes:job:04:14|04:14]], [[:en:bible:notes:job:06:28|06:28]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:09:27|09:27]], [[:en:bible:notes:job:11:15|11:15]], [[:en:bible:notes:job:16:15|16:15]], [[:en:bible:notes:job:21:31|21:31]], [[:en:bible:notes:job:22:26|22:26]], [[:en:bible:notes:job:23:15|23:15]], [[:en:bible:notes:job:26:09|26:09]], [[:en:bible:notes:job:29:23|29:23]], [[:en:bible:notes:job:33:25|33:25]], [[:en:bible:notes:job:34:29|34:29]], [[:en:bible:notes:job:40:12|40:12]], [[:en:bible:notes:job:41:13|41:13]]
 
 * [[:en:obe:kt:faithful]] is found in:
  [[:en:bible:notes:job:06:14|06:14]], [[:en:bible:notes:job:24:01|24:01]]
@@ -331,7 +337,7 @@
  [[:en:bible:notes:job:11:18|11:18]], [[:en:bible:notes:job:13:09|13:09]], [[:en:bible:notes:job:32:20|32:20]], [[:en:bible:notes:job:34:18|34:18]]
 
 * [[:en:obe:kt:fear]] is found in:
- [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:01:09|01:09]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:03:25|03:25]], [[:en:bible:notes:job:04:04|04:04]], [[:en:bible:notes:job:04:14|04:14]], [[:en:bible:notes:job:05:04|05:04]], [[:en:bible:notes:job:05:20|05:20]], [[:en:bible:notes:job:06:14|06:14]], [[:en:bible:notes:job:06:21|06:21]], [[:en:bible:notes:job:09:27|09:27]], [[:en:bible:notes:job:09:34|09:34]], [[:en:bible:notes:job:11:15|11:15]], [[:en:bible:notes:job:11:18|11:18]], [[:en:bible:notes:job:13:11|13:11]], [[:en:bible:notes:job:13:20|13:20]], [[:en:bible:notes:job:18:09|18:09]], [[:en:bible:notes:job:19:28|19:28]], [[:en:bible:notes:job:21:07|21:07]], [[:en:bible:notes:job:22:09|22:09]], [[:en:bible:notes:job:25:01|25:01]], [[:en:bible:notes:job:28:26|28:26]], [[:en:bible:notes:job:31:33|31:33]], [[:en:bible:notes:job:33:06|33:06]], [[:en:bible:notes:job:37:21|37:21]], [[:en:bible:notes:job:39:19|39:19]], [[:en:bible:notes:job:39:21|39:21]], [[:en:bible:notes:job:41:22|41:22]]
+ [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:01:09|01:09]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:03:25|03:25]], [[:en:bible:notes:job:04:04|04:04]], [[:en:bible:notes:job:04:14|04:14]], [[:en:bible:notes:job:05:20|05:20]], [[:en:bible:notes:job:06:14|06:14]], [[:en:bible:notes:job:06:21|06:21]], [[:en:bible:notes:job:09:27|09:27]], [[:en:bible:notes:job:09:34|09:34]], [[:en:bible:notes:job:11:15|11:15]], [[:en:bible:notes:job:11:18|11:18]], [[:en:bible:notes:job:13:11|13:11]], [[:en:bible:notes:job:13:20|13:20]], [[:en:bible:notes:job:18:09|18:09]], [[:en:bible:notes:job:19:28|19:28]], [[:en:bible:notes:job:21:07|21:07]], [[:en:bible:notes:job:22:09|22:09]], [[:en:bible:notes:job:25:01|25:01]], [[:en:bible:notes:job:28:26|28:26]], [[:en:bible:notes:job:31:33|31:33]], [[:en:bible:notes:job:33:06|33:06]], [[:en:bible:notes:job:37:21|37:21]], [[:en:bible:notes:job:39:19|39:19]], [[:en:bible:notes:job:39:21|39:21]]
 
 * [[:en:obe:other:feast]] is found in:
  [[:en:bible:notes:job:01:04|01:04]]
@@ -343,7 +349,7 @@
  [[:en:bible:notes:job:18:12|18:12]]
 
 * [[:en:obe:kt:flesh]] is found in:
- [[:en:bible:notes:job:04:14|04:14]], [[:en:bible:notes:job:06:12|06:12]], [[:en:bible:notes:job:07:04|07:04]], [[:en:bible:notes:job:10:04|10:04]], [[:en:bible:notes:job:10:10|10:10]], [[:en:bible:notes:job:13:13|13:13]], [[:en:bible:notes:job:14:20|14:20]], [[:en:bible:notes:job:19:20|19:20]], [[:en:bible:notes:job:19:25|19:25]], [[:en:bible:notes:job:21:04|21:04]], [[:en:bible:notes:job:33:21|33:21]], [[:en:bible:notes:job:34:13|34:13]], [[:en:bible:notes:job:41:22|41:22]]
+ [[:en:bible:notes:job:04:14|04:14]], [[:en:bible:notes:job:06:12|06:12]], [[:en:bible:notes:job:07:04|07:04]], [[:en:bible:notes:job:10:04|10:04]], [[:en:bible:notes:job:10:10|10:10]], [[:en:bible:notes:job:19:20|19:20]], [[:en:bible:notes:job:19:25|19:25]], [[:en:bible:notes:job:21:04|21:04]], [[:en:bible:notes:job:33:21|33:21]], [[:en:bible:notes:job:34:13|34:13]], [[:en:bible:notes:job:41:22|41:22]]
 
 * [[:en:obe:other:flock]] is found in:
  [[:en:bible:notes:job:21:10|21:10]], [[:en:bible:notes:job:24:02|24:02]], [[:en:bible:notes:job:30:01|30:01]]
@@ -373,13 +379,16 @@
  [[:en:bible:notes:job:39:05|39:05]]
 
 * [[:en:obe:kt:gate]] is found in:
- [[:en:bible:notes:job:17:16|17:16]], [[:en:bible:notes:job:29:07|29:07]], [[:en:bible:notes:job:31:19|31:19]], [[:en:bible:notes:job:38:16|38:16]]
+ [[:en:bible:notes:job:05:04|05:04]], [[:en:bible:notes:job:17:16|17:16]], [[:en:bible:notes:job:29:07|29:07]], [[:en:bible:notes:job:31:19|31:19]], [[:en:bible:notes:job:38:16|38:16]]
 
 * [[:en:obe:other:generation]] is found in:
  [[:en:bible:notes:job:42:15|42:15]]
 
 * [[:en:obe:kt:gift]] is found in:
  [[:en:bible:notes:job:06:21|06:21]]
+
+* [[:en:obe:other:gird]] is found in:
+ [[:en:bible:notes:job:38:01|38:01]]
 
 * [[:en:obe:other:glean]] is found in:
  [[:en:bible:notes:job:24:05|24:05]]
@@ -394,13 +403,13 @@
  [[:en:bible:notes:job:39:01|39:01]]
 
 * [[:en:obe:kt:god]] is found in:
- [[:en:bible:notes:job:01:01|01:01]], [[:en:bible:notes:job:01:04|01:04]], [[:en:bible:notes:job:01:16|01:16]], [[:en:bible:notes:job:01:20|01:20]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:02:09|02:09]], [[:en:bible:notes:job:03:23|03:23]], [[:en:bible:notes:job:04:04|04:04]], [[:en:bible:notes:job:04:07|04:07]], [[:en:bible:notes:job:04:16|04:16]], [[:en:bible:notes:job:04:18|04:18]], [[:en:bible:notes:job:05:08|05:08]], [[:en:bible:notes:job:05:17|05:17]], [[:en:bible:notes:job:06:04|06:04]], [[:en:bible:notes:job:06:07|06:07]], [[:en:bible:notes:job:07:01|07:01]], [[:en:bible:notes:job:07:06|07:06]], [[:en:bible:notes:job:07:08|07:08]], [[:en:bible:notes:job:08:01|08:01]], [[:en:bible:notes:job:08:04|08:04]], [[:en:bible:notes:job:08:13|08:13]], [[:en:bible:notes:job:08:19|08:19]], [[:en:bible:notes:job:09:01|09:01]], [[:en:bible:notes:job:09:07|09:07]], [[:en:bible:notes:job:09:10|09:10]], [[:en:bible:notes:job:09:13|09:13]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:09:30|09:30]], [[:en:bible:notes:job:09:32|09:32]], [[:en:bible:notes:job:09:34|09:34]], [[:en:bible:notes:job:10:01|10:01]], [[:en:bible:notes:job:11:04|11:04]], [[:en:bible:notes:job:11:07|11:07]], [[:en:bible:notes:job:11:13|11:13]], [[:en:bible:notes:job:12:04|12:04]], [[:en:bible:notes:job:13:03|13:03]], [[:en:bible:notes:job:13:16|13:16]], [[:en:bible:notes:job:15:07|15:07]], [[:en:bible:notes:job:15:15|15:15]], [[:en:bible:notes:job:15:25|15:25]], [[:en:bible:notes:job:16:06|16:06]], [[:en:bible:notes:job:16:13|16:13]], [[:en:bible:notes:job:16:20|16:20]], [[:en:bible:notes:job:17:04|17:04]], [[:en:bible:notes:job:18:21|18:21]], [[:en:bible:notes:job:19:05|19:05]], [[:en:bible:notes:job:19:20|19:20]], [[:en:bible:notes:job:19:25|19:25]], [[:en:bible:notes:job:20:04|20:04]], [[:en:bible:notes:job:20:15|20:15]], [[:en:bible:notes:job:21:07|21:07]], [[:en:bible:notes:job:21:13|21:13]], [[:en:bible:notes:job:22:01|22:01]], [[:en:bible:notes:job:22:12|22:12]], [[:en:bible:notes:job:22:15|22:15]], [[:en:bible:notes:job:22:21|22:21]], [[:en:bible:notes:job:23:15|23:15]], [[:en:bible:notes:job:24:11|24:11]], [[:en:bible:notes:job:24:22|24:22]], [[:en:bible:notes:job:25:04|25:04]], [[:en:bible:notes:job:26:05|26:05]], [[:en:bible:notes:job:27:01|27:01]], [[:en:bible:notes:job:29:01|29:01]], [[:en:bible:notes:job:30:09|30:09]], [[:en:bible:notes:job:31:01|31:01]], [[:en:bible:notes:job:31:26|31:26]], [[:en:bible:notes:job:32:01|32:01]], [[:en:bible:notes:job:33:10|33:10]], [[:en:bible:notes:job:34:04|34:04]], [[:en:bible:notes:job:35:01|35:01]], [[:en:bible:notes:job:36:01|36:01]], [[:en:bible:notes:job:36:13|36:13]], [[:en:bible:notes:job:36:22|36:22]], [[:en:bible:notes:job:37:10|37:10]], [[:en:bible:notes:job:37:21|37:21]], [[:en:bible:notes:job:38:41|38:41]], [[:en:bible:notes:job:39:16|39:16]], [[:en:bible:notes:job:40:01|40:01]], [[:en:bible:notes:job:40:08|40:08]]
+ [[:en:bible:notes:job:01:01|01:01]], [[:en:bible:notes:job:01:16|01:16]], [[:en:bible:notes:job:01:20|01:20]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:02:09|02:09]], [[:en:bible:notes:job:03:23|03:23]], [[:en:bible:notes:job:04:04|04:04]], [[:en:bible:notes:job:04:07|04:07]], [[:en:bible:notes:job:04:16|04:16]], [[:en:bible:notes:job:04:18|04:18]], [[:en:bible:notes:job:05:08|05:08]], [[:en:bible:notes:job:05:17|05:17]], [[:en:bible:notes:job:06:04|06:04]], [[:en:bible:notes:job:06:07|06:07]], [[:en:bible:notes:job:07:06|07:06]], [[:en:bible:notes:job:07:08|07:08]], [[:en:bible:notes:job:08:01|08:01]], [[:en:bible:notes:job:08:04|08:04]], [[:en:bible:notes:job:08:13|08:13]], [[:en:bible:notes:job:08:19|08:19]], [[:en:bible:notes:job:09:01|09:01]], [[:en:bible:notes:job:09:07|09:07]], [[:en:bible:notes:job:09:10|09:10]], [[:en:bible:notes:job:09:13|09:13]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:09:30|09:30]], [[:en:bible:notes:job:09:32|09:32]], [[:en:bible:notes:job:09:34|09:34]], [[:en:bible:notes:job:10:01|10:01]], [[:en:bible:notes:job:11:04|11:04]], [[:en:bible:notes:job:11:07|11:07]], [[:en:bible:notes:job:11:13|11:13]], [[:en:bible:notes:job:12:04|12:04]], [[:en:bible:notes:job:13:03|13:03]], [[:en:bible:notes:job:13:16|13:16]], [[:en:bible:notes:job:15:07|15:07]], [[:en:bible:notes:job:15:15|15:15]], [[:en:bible:notes:job:15:25|15:25]], [[:en:bible:notes:job:16:06|16:06]], [[:en:bible:notes:job:16:13|16:13]], [[:en:bible:notes:job:16:20|16:20]], [[:en:bible:notes:job:17:04|17:04]], [[:en:bible:notes:job:18:21|18:21]], [[:en:bible:notes:job:19:05|19:05]], [[:en:bible:notes:job:19:25|19:25]], [[:en:bible:notes:job:20:04|20:04]], [[:en:bible:notes:job:20:15|20:15]], [[:en:bible:notes:job:21:07|21:07]], [[:en:bible:notes:job:21:13|21:13]], [[:en:bible:notes:job:22:01|22:01]], [[:en:bible:notes:job:22:12|22:12]], [[:en:bible:notes:job:22:15|22:15]], [[:en:bible:notes:job:22:21|22:21]], [[:en:bible:notes:job:23:15|23:15]], [[:en:bible:notes:job:24:11|24:11]], [[:en:bible:notes:job:24:22|24:22]], [[:en:bible:notes:job:25:04|25:04]], [[:en:bible:notes:job:26:05|26:05]], [[:en:bible:notes:job:27:01|27:01]], [[:en:bible:notes:job:29:01|29:01]], [[:en:bible:notes:job:30:09|30:09]], [[:en:bible:notes:job:31:01|31:01]], [[:en:bible:notes:job:31:26|31:26]], [[:en:bible:notes:job:32:01|32:01]], [[:en:bible:notes:job:33:10|33:10]], [[:en:bible:notes:job:33:29|33:29]], [[:en:bible:notes:job:34:04|34:04]], [[:en:bible:notes:job:35:01|35:01]], [[:en:bible:notes:job:36:01|36:01]], [[:en:bible:notes:job:36:13|36:13]], [[:en:bible:notes:job:36:22|36:22]], [[:en:bible:notes:job:37:10|37:10]], [[:en:bible:notes:job:37:21|37:21]], [[:en:bible:notes:job:38:41|38:41]], [[:en:bible:notes:job:39:16|39:16]], [[:en:bible:notes:job:40:01|40:01]], [[:en:bible:notes:job:40:08|40:08]]
 
 * [[:en:obe:other:gold]] is found in:
  [[:en:bible:notes:job:03:15|03:15]], [[:en:bible:notes:job:22:23|22:23]], [[:en:bible:notes:job:23:10|23:10]], [[:en:bible:notes:job:28:01|28:01]], [[:en:bible:notes:job:28:15|28:15]], [[:en:bible:notes:job:31:24|31:24]], [[:en:bible:notes:job:37:21|37:21]], [[:en:bible:notes:job:42:10|42:10]]
 
 * [[:en:obe:kt:good]] is found in:
- [[:en:bible:notes:job:01:01|01:01]], [[:en:bible:notes:job:02:09|02:09]], [[:en:bible:notes:job:07:06|07:06]], [[:en:bible:notes:job:08:16|08:16]], [[:en:bible:notes:job:09:25|09:25]], [[:en:bible:notes:job:10:01|10:01]], [[:en:bible:notes:job:12:13|12:13]], [[:en:bible:notes:job:15:01|15:01]], [[:en:bible:notes:job:24:20|24:20]]
+ [[:en:bible:notes:job:02:09|02:09]], [[:en:bible:notes:job:07:06|07:06]], [[:en:bible:notes:job:09:25|09:25]], [[:en:bible:notes:job:15:01|15:01]], [[:en:bible:notes:job:24:20|24:20]]
 
 * [[:en:obe:other:governor]] is found in:
  [[:en:bible:notes:job:34:16|34:16]]
@@ -424,7 +433,7 @@
  [[:en:bible:notes:job:07:08|07:08]], [[:en:bible:notes:job:11:07|11:07]], [[:en:bible:notes:job:14:13|14:13]], [[:en:bible:notes:job:17:13|17:13]], [[:en:bible:notes:job:17:16|17:16]], [[:en:bible:notes:job:21:13|21:13]], [[:en:bible:notes:job:24:18|24:18]], [[:en:bible:notes:job:26:05|26:05]], [[:en:bible:notes:job:31:11|31:11]]
 
 * [[:en:obe:other:hand]] is found in:
- [[:en:bible:notes:job:01:09|01:09]], [[:en:bible:notes:job:02:04|02:04]], [[:en:bible:notes:job:02:09|02:09]], [[:en:bible:notes:job:04:01|04:01]], [[:en:bible:notes:job:05:11|05:11]], [[:en:bible:notes:job:05:14|05:14]], [[:en:bible:notes:job:06:21|06:21]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:10:01|10:01]], [[:en:bible:notes:job:10:04|10:04]], [[:en:bible:notes:job:10:08|10:08]], [[:en:bible:notes:job:11:13|11:13]], [[:en:bible:notes:job:12:04|12:04]], [[:en:bible:notes:job:12:09|12:09]], [[:en:bible:notes:job:13:13|13:13]], [[:en:bible:notes:job:14:15|14:15]], [[:en:bible:notes:job:15:25|15:25]], [[:en:bible:notes:job:16:11|16:11]], [[:en:bible:notes:job:16:15|16:15]], [[:en:bible:notes:job:17:09|17:09]], [[:en:bible:notes:job:19:20|19:20]], [[:en:bible:notes:job:20:10|20:10]], [[:en:bible:notes:job:20:20|20:20]], [[:en:bible:notes:job:21:16|21:16]], [[:en:bible:notes:job:22:29|22:29]], [[:en:bible:notes:job:26:13|26:13]], [[:en:bible:notes:job:27:11|27:11]], [[:en:bible:notes:job:27:22|27:22]], [[:en:bible:notes:job:30:01|30:01]], [[:en:bible:notes:job:30:20|30:20]], [[:en:bible:notes:job:31:07|31:07]], [[:en:bible:notes:job:31:19|31:19]], [[:en:bible:notes:job:31:24|31:24]], [[:en:bible:notes:job:34:18|34:18]], [[:en:bible:notes:job:35:06|35:06]], [[:en:bible:notes:job:37:07|37:07]]
+ [[:en:bible:notes:job:02:04|02:04]], [[:en:bible:notes:job:02:09|02:09]], [[:en:bible:notes:job:05:14|05:14]], [[:en:bible:notes:job:06:21|06:21]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:10:08|10:08]], [[:en:bible:notes:job:12:09|12:09]], [[:en:bible:notes:job:15:25|15:25]], [[:en:bible:notes:job:16:11|16:11]], [[:en:bible:notes:job:19:20|19:20]], [[:en:bible:notes:job:20:10|20:10]], [[:en:bible:notes:job:20:20|20:20]], [[:en:bible:notes:job:21:16|21:16]], [[:en:bible:notes:job:22:29|22:29]], [[:en:bible:notes:job:26:13|26:13]], [[:en:bible:notes:job:27:11|27:11]], [[:en:bible:notes:job:27:22|27:22]], [[:en:bible:notes:job:30:01|30:01]], [[:en:bible:notes:job:30:20|30:20]], [[:en:bible:notes:job:31:07|31:07]], [[:en:bible:notes:job:31:19|31:19]], [[:en:bible:notes:job:31:24|31:24]], [[:en:bible:notes:job:35:06|35:06]], [[:en:bible:notes:job:37:07|37:07]]
 
 * [[:en:obe:other:harp]] is found in:
  [[:en:bible:notes:job:21:10|21:10]], [[:en:bible:notes:job:30:30|30:30]]
@@ -439,13 +448,13 @@
  [[:en:bible:notes:job:05:17|05:17]]
 
 * [[:en:obe:other:heart]] is found in:
- [[:en:bible:notes:job:01:04|01:04]], [[:en:bible:notes:job:08:08|08:08]], [[:en:bible:notes:job:09:04|09:04]], [[:en:bible:notes:job:10:12|10:12]], [[:en:bible:notes:job:11:13|11:13]], [[:en:bible:notes:job:15:12|15:12]], [[:en:bible:notes:job:17:04|17:04]], [[:en:bible:notes:job:17:11|17:11]], [[:en:bible:notes:job:22:21|22:21]], [[:en:bible:notes:job:23:10|23:10]], [[:en:bible:notes:job:23:15|23:15]], [[:en:bible:notes:job:29:11|29:11]], [[:en:bible:notes:job:30:24|30:24]], [[:en:bible:notes:job:31:07|31:07]], [[:en:bible:notes:job:31:09|31:09]], [[:en:bible:notes:job:33:01|33:01]], [[:en:bible:notes:job:36:13|36:13]], [[:en:bible:notes:job:37:01|37:01]], [[:en:bible:notes:job:41:22|41:22]]
+ [[:en:bible:notes:job:01:04|01:04]], [[:en:bible:notes:job:08:08|08:08]], [[:en:bible:notes:job:09:04|09:04]], [[:en:bible:notes:job:10:12|10:12]], [[:en:bible:notes:job:11:13|11:13]], [[:en:bible:notes:job:15:12|15:12]], [[:en:bible:notes:job:17:04|17:04]], [[:en:bible:notes:job:17:11|17:11]], [[:en:bible:notes:job:22:21|22:21]], [[:en:bible:notes:job:23:10|23:10]], [[:en:bible:notes:job:23:15|23:15]], [[:en:bible:notes:job:29:11|29:11]], [[:en:bible:notes:job:31:07|31:07]], [[:en:bible:notes:job:31:09|31:09]], [[:en:bible:notes:job:33:01|33:01]], [[:en:bible:notes:job:36:13|36:13]], [[:en:bible:notes:job:37:01|37:01]], [[:en:bible:notes:job:41:22|41:22]]
 
 * [[:en:obe:kt:heaven]] is found in:
  [[:en:bible:notes:job:01:16|01:16]], [[:en:bible:notes:job:09:07|09:07]], [[:en:bible:notes:job:11:07|11:07]], [[:en:bible:notes:job:12:07|12:07]], [[:en:bible:notes:job:14:10|14:10]], [[:en:bible:notes:job:15:15|15:15]], [[:en:bible:notes:job:16:18|16:18]], [[:en:bible:notes:job:16:20|16:20]], [[:en:bible:notes:job:20:06|20:06]], [[:en:bible:notes:job:20:26|20:26]], [[:en:bible:notes:job:22:12|22:12]], [[:en:bible:notes:job:25:01|25:01]], [[:en:bible:notes:job:26:11|26:11]], [[:en:bible:notes:job:28:20|28:20]], [[:en:bible:notes:job:35:04|35:04]], [[:en:bible:notes:job:37:01|37:01]], [[:en:bible:notes:job:37:18|37:18]], [[:en:bible:notes:job:38:28|38:28]], [[:en:bible:notes:job:38:31|38:31]], [[:en:bible:notes:job:41:10|41:10]]
 
 * [[:en:obe:kt:holy]] is found in:
- [[:en:bible:notes:job:15:15|15:15]]
+ [[:en:bible:notes:job:05:01|05:01]], [[:en:bible:notes:job:15:15|15:15]]
 
 * [[:en:obe:kt:holyone]] is found in:
  [[:en:bible:notes:job:06:10|06:10]]
@@ -457,7 +466,7 @@
  [[:en:bible:notes:job:20:17|20:17]]
 
 * [[:en:obe:other:honor]] is found in:
- [[:en:bible:notes:job:01:01|01:01]], [[:en:bible:notes:job:14:20|14:20]], [[:en:bible:notes:job:22:06|22:06]], [[:en:bible:notes:job:29:20|29:20]], [[:en:bible:notes:job:30:14|30:14]], [[:en:bible:notes:job:32:20|32:20]], [[:en:bible:notes:job:40:10|40:10]]
+ [[:en:bible:notes:job:14:20|14:20]], [[:en:bible:notes:job:22:06|22:06]], [[:en:bible:notes:job:29:20|29:20]], [[:en:bible:notes:job:30:14|30:14]], [[:en:bible:notes:job:32:20|32:20]], [[:en:bible:notes:job:40:10|40:10]]
 
 * [[:en:obe:kt:hope]] is found in:
  [[:en:bible:notes:job:04:04|04:04]], [[:en:bible:notes:job:05:14|05:14]], [[:en:bible:notes:job:06:18|06:18]], [[:en:bible:notes:job:07:06|07:06]], [[:en:bible:notes:job:08:13|08:13]], [[:en:bible:notes:job:11:18|11:18]], [[:en:bible:notes:job:11:20|11:20]], [[:en:bible:notes:job:13:13|13:13]], [[:en:bible:notes:job:14:07|14:07]], [[:en:bible:notes:job:14:18|14:18]], [[:en:bible:notes:job:17:13|17:13]], [[:en:bible:notes:job:19:10|19:10]], [[:en:bible:notes:job:27:08|27:08]], [[:en:bible:notes:job:31:24|31:24]], [[:en:bible:notes:job:41:07|41:07]]
@@ -484,7 +493,7 @@
  [[:en:bible:notes:job:04:07|04:07]], [[:en:bible:notes:job:07:21|07:21]], [[:en:bible:notes:job:10:04|10:04]], [[:en:bible:notes:job:10:12|10:12]], [[:en:bible:notes:job:11:04|11:04]], [[:en:bible:notes:job:11:10|11:10]], [[:en:bible:notes:job:11:13|11:13]], [[:en:bible:notes:job:13:23|13:23]], [[:en:bible:notes:job:14:15|14:15]], [[:en:bible:notes:job:15:04|15:04]], [[:en:bible:notes:job:15:15|15:15]], [[:en:bible:notes:job:15:34|15:34]], [[:en:bible:notes:job:20:26|20:26]], [[:en:bible:notes:job:22:04|22:04]], [[:en:bible:notes:job:34:21|34:21]], [[:en:bible:notes:job:36:10|36:10]]
 
 * [[:en:obe:kt:innocent]] is found in:
- [[:en:bible:notes:job:04:07|04:07]], [[:en:bible:notes:job:08:19|08:19]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:09:27|09:27]], [[:en:bible:notes:job:13:18|13:18]], [[:en:bible:notes:job:17:06|17:06]], [[:en:bible:notes:job:22:18|22:18]], [[:en:bible:notes:job:22:29|22:29]], [[:en:bible:notes:job:27:15|27:15]], [[:en:bible:notes:job:33:08|33:08]], [[:en:bible:notes:job:35:01|35:01]]
+ [[:en:bible:notes:job:04:07|04:07]], [[:en:bible:notes:job:08:19|08:19]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:09:27|09:27]], [[:en:bible:notes:job:13:18|13:18]], [[:en:bible:notes:job:17:06|17:06]], [[:en:bible:notes:job:22:18|22:18]], [[:en:bible:notes:job:22:29|22:29]], [[:en:bible:notes:job:27:15|27:15]], [[:en:bible:notes:job:33:08|33:08]]
 
 * [[:en:obe:other:inquire]] is found in:
  [[:en:bible:notes:job:10:04|10:04]]
@@ -508,13 +517,13 @@
  [[:en:bible:notes:job:03:06|03:06]], [[:en:bible:notes:job:08:19|08:19]], [[:en:bible:notes:job:20:04|20:04]], [[:en:bible:notes:job:33:25|33:25]], [[:en:bible:notes:job:38:06|38:06]]
 
 * [[:en:obe:kt:judge]] is found in:
- [[:en:bible:notes:job:09:13|09:13]], [[:en:bible:notes:job:09:32|09:32]], [[:en:bible:notes:job:11:10|11:10]], [[:en:bible:notes:job:12:16|12:16]], [[:en:bible:notes:job:13:09|13:09]], [[:en:bible:notes:job:14:01|14:01]], [[:en:bible:notes:job:19:28|19:28]], [[:en:bible:notes:job:21:22|21:22]], [[:en:bible:notes:job:22:04|22:04]], [[:en:bible:notes:job:23:06|23:06]], [[:en:bible:notes:job:24:01|24:01]], [[:en:bible:notes:job:34:21|34:21]], [[:en:bible:notes:job:36:17|36:17]]
+ [[:en:bible:notes:job:09:13|09:13]], [[:en:bible:notes:job:11:10|11:10]], [[:en:bible:notes:job:14:01|14:01]], [[:en:bible:notes:job:19:28|19:28]], [[:en:bible:notes:job:21:22|21:22]], [[:en:bible:notes:job:22:04|22:04]], [[:en:bible:notes:job:24:01|24:01]], [[:en:bible:notes:job:34:21|34:21]], [[:en:bible:notes:job:36:17|36:17]]
 
 * [[:en:obe:other:judgeposition]] is found in:
- [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:09:34|09:34]], [[:en:bible:notes:job:31:11|31:11]], [[:en:bible:notes:job:31:26|31:26]]
+ [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:09:32|09:32]], [[:en:bible:notes:job:09:34|09:34]], [[:en:bible:notes:job:12:16|12:16]], [[:en:bible:notes:job:13:09|13:09]], [[:en:bible:notes:job:23:06|23:06]], [[:en:bible:notes:job:31:11|31:11]], [[:en:bible:notes:job:31:26|31:26]]
 
 * [[:en:obe:kt:justice]] is found in:
- [[:en:bible:notes:job:08:01|08:01]], [[:en:bible:notes:job:09:19|09:19]], [[:en:bible:notes:job:12:04|12:04]], [[:en:bible:notes:job:19:07|19:07]], [[:en:bible:notes:job:27:01|27:01]], [[:en:bible:notes:job:29:14|29:14]], [[:en:bible:notes:job:31:13|31:13]], [[:en:bible:notes:job:32:08|32:08]], [[:en:bible:notes:job:34:04|34:04]], [[:en:bible:notes:job:34:10|34:10]], [[:en:bible:notes:job:36:17|36:17]]
+ [[:en:bible:notes:job:08:01|08:01]], [[:en:bible:notes:job:09:19|09:19]], [[:en:bible:notes:job:12:04|12:04]], [[:en:bible:notes:job:19:07|19:07]], [[:en:bible:notes:job:27:01|27:01]], [[:en:bible:notes:job:29:14|29:14]], [[:en:bible:notes:job:31:13|31:13]], [[:en:bible:notes:job:32:08|32:08]], [[:en:bible:notes:job:34:04|34:04]], [[:en:bible:notes:job:34:10|34:10]], [[:en:bible:notes:job:35:01|35:01]], [[:en:bible:notes:job:36:17|36:17]]
 
 * [[:en:obe:kt:justify]] is found in:
  [[:en:bible:notes:job:32:01|32:01]]
@@ -529,7 +538,7 @@
  [[:en:bible:notes:job:31:26|31:26]]
 
 * [[:en:obe:other:know]] is found in:
- [[:en:bible:notes:job:05:26|05:26]], [[:en:bible:notes:job:10:12|10:12]], [[:en:bible:notes:job:11:04|11:04]], [[:en:bible:notes:job:11:07|11:07]], [[:en:bible:notes:job:11:10|11:10]], [[:en:bible:notes:job:12:01|12:01]], [[:en:bible:notes:job:12:09|12:09]], [[:en:bible:notes:job:13:01|13:01]], [[:en:bible:notes:job:15:01|15:01]], [[:en:bible:notes:job:15:07|15:07]], [[:en:bible:notes:job:18:21|18:21]], [[:en:bible:notes:job:19:05|19:05]], [[:en:bible:notes:job:19:25|19:25]], [[:en:bible:notes:job:20:20|20:20]], [[:en:bible:notes:job:21:13|21:13]], [[:en:bible:notes:job:21:22|21:22]], [[:en:bible:notes:job:23:10|23:10]], [[:en:bible:notes:job:24:13|24:13]], [[:en:bible:notes:job:26:01|26:01]], [[:en:bible:notes:job:32:08|32:08]], [[:en:bible:notes:job:34:01|34:01]], [[:en:bible:notes:job:34:24|34:24]], [[:en:bible:notes:job:34:34|34:34]], [[:en:bible:notes:job:35:15|35:15]], [[:en:bible:notes:job:36:01|36:01]], [[:en:bible:notes:job:36:10|36:10]], [[:en:bible:notes:job:37:16|37:16]], [[:en:bible:notes:job:38:01|38:01]], [[:en:bible:notes:job:42:01|42:01]]
+ [[:en:bible:notes:job:05:26|05:26]], [[:en:bible:notes:job:10:12|10:12]], [[:en:bible:notes:job:11:04|11:04]], [[:en:bible:notes:job:11:07|11:07]], [[:en:bible:notes:job:11:10|11:10]], [[:en:bible:notes:job:12:09|12:09]], [[:en:bible:notes:job:13:01|13:01]], [[:en:bible:notes:job:15:01|15:01]], [[:en:bible:notes:job:15:07|15:07]], [[:en:bible:notes:job:18:21|18:21]], [[:en:bible:notes:job:19:05|19:05]], [[:en:bible:notes:job:19:25|19:25]], [[:en:bible:notes:job:20:20|20:20]], [[:en:bible:notes:job:21:13|21:13]], [[:en:bible:notes:job:21:22|21:22]], [[:en:bible:notes:job:23:10|23:10]], [[:en:bible:notes:job:24:13|24:13]], [[:en:bible:notes:job:26:01|26:01]], [[:en:bible:notes:job:32:08|32:08]], [[:en:bible:notes:job:34:01|34:01]], [[:en:bible:notes:job:34:24|34:24]], [[:en:bible:notes:job:34:34|34:34]], [[:en:bible:notes:job:35:15|35:15]], [[:en:bible:notes:job:36:01|36:01]], [[:en:bible:notes:job:36:10|36:10]], [[:en:bible:notes:job:37:16|37:16]], [[:en:bible:notes:job:38:01|38:01]], [[:en:bible:notes:job:42:01|42:01]]
 
 * [[:en:obe:other:labor]] is found in:
  [[:en:bible:notes:job:07:01|07:01]], [[:en:bible:notes:job:20:17|20:17]], [[:en:bible:notes:job:39:16|39:16]]
@@ -543,19 +552,28 @@
 * [[:en:obe:other:lamp]] is found in:
  [[:en:bible:notes:job:18:05|18:05]], [[:en:bible:notes:job:21:16|21:16]], [[:en:bible:notes:job:29:01|29:01]]
 
+* [[:en:obe:other:leviathan]] is found in:
+ [[:en:bible:notes:job:03:08|03:08]]
+
 * [[:en:obe:kt:life]] is found in:
- [[:en:bible:notes:job:03:20|03:20]], [[:en:bible:notes:job:06:07|06:07]], [[:en:bible:notes:job:07:06|07:06]], [[:en:bible:notes:job:07:16|07:16]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:10:01|10:01]], [[:en:bible:notes:job:10:12|10:12]], [[:en:bible:notes:job:11:13|11:13]], [[:en:bible:notes:job:11:15|11:15]], [[:en:bible:notes:job:12:09|12:09]], [[:en:bible:notes:job:13:13|13:13]], [[:en:bible:notes:job:13:18|13:18]], [[:en:bible:notes:job:14:01|14:01]], [[:en:bible:notes:job:14:13|14:13]], [[:en:bible:notes:job:18:14|18:14]], [[:en:bible:notes:job:19:25|19:25]], [[:en:bible:notes:job:20:17|20:17]], [[:en:bible:notes:job:21:07|21:07]], [[:en:bible:notes:job:21:27|21:27]], [[:en:bible:notes:job:22:06|22:06]], [[:en:bible:notes:job:24:22|24:22]], [[:en:bible:notes:job:27:01|27:01]], [[:en:bible:notes:job:27:06|27:06]], [[:en:bible:notes:job:28:03|28:03]], [[:en:bible:notes:job:28:12|28:12]], [[:en:bible:notes:job:30:04|30:04]], [[:en:bible:notes:job:30:16|30:16]], [[:en:bible:notes:job:31:29|31:29]], [[:en:bible:notes:job:31:38|31:38]], [[:en:bible:notes:job:33:04|33:04]], [[:en:bible:notes:job:33:16|33:16]], [[:en:bible:notes:job:36:06|36:06]], [[:en:bible:notes:job:36:13|36:13]], [[:en:bible:notes:job:39:27|39:27]], [[:en:bible:notes:job:41:33|41:33]], [[:en:bible:notes:job:42:12|42:12]]
+ [[:en:bible:notes:job:02:04|02:04]], [[:en:bible:notes:job:03:20|03:20]], [[:en:bible:notes:job:06:07|06:07]], [[:en:bible:notes:job:07:06|07:06]], [[:en:bible:notes:job:07:16|07:16]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:10:01|10:01]], [[:en:bible:notes:job:10:12|10:12]], [[:en:bible:notes:job:11:13|11:13]], [[:en:bible:notes:job:11:15|11:15]], [[:en:bible:notes:job:12:09|12:09]], [[:en:bible:notes:job:14:01|14:01]], [[:en:bible:notes:job:14:13|14:13]], [[:en:bible:notes:job:18:14|18:14]], [[:en:bible:notes:job:19:25|19:25]], [[:en:bible:notes:job:21:07|21:07]], [[:en:bible:notes:job:21:27|21:27]], [[:en:bible:notes:job:22:06|22:06]], [[:en:bible:notes:job:24:22|24:22]], [[:en:bible:notes:job:27:01|27:01]], [[:en:bible:notes:job:27:06|27:06]], [[:en:bible:notes:job:28:03|28:03]], [[:en:bible:notes:job:28:12|28:12]], [[:en:bible:notes:job:30:04|30:04]], [[:en:bible:notes:job:30:16|30:16]], [[:en:bible:notes:job:31:29|31:29]], [[:en:bible:notes:job:31:38|31:38]], [[:en:bible:notes:job:33:04|33:04]], [[:en:bible:notes:job:33:16|33:16]], [[:en:bible:notes:job:36:06|36:06]], [[:en:bible:notes:job:36:13|36:13]], [[:en:bible:notes:job:39:27|39:27]], [[:en:bible:notes:job:41:33|41:33]], [[:en:bible:notes:job:42:12|42:12]]
 
 * [[:en:obe:kt:light]] is found in:
  [[:en:bible:notes:job:03:08|03:08]], [[:en:bible:notes:job:03:23|03:23]], [[:en:bible:notes:job:10:20|10:20]], [[:en:bible:notes:job:12:22|12:22]], [[:en:bible:notes:job:12:24|12:24]], [[:en:bible:notes:job:17:11|17:11]], [[:en:bible:notes:job:18:05|18:05]], [[:en:bible:notes:job:18:18|18:18]], [[:en:bible:notes:job:22:26|22:26]], [[:en:bible:notes:job:24:13|24:13]], [[:en:bible:notes:job:25:01|25:01]], [[:en:bible:notes:job:26:09|26:09]], [[:en:bible:notes:job:28:09|28:09]], [[:en:bible:notes:job:29:01|29:01]], [[:en:bible:notes:job:29:23|29:23]], [[:en:bible:notes:job:30:24|30:24]], [[:en:bible:notes:job:33:27|33:27]], [[:en:bible:notes:job:38:14|38:14]], [[:en:bible:notes:job:41:16|41:16]]
 
 * [[:en:obe:other:lion]] is found in:
- [[:en:bible:notes:job:10:15|10:15]], [[:en:bible:notes:job:28:07|28:07]], [[:en:bible:notes:job:38:39|38:39]]
+ [[:en:bible:notes:job:04:10|04:10]], [[:en:bible:notes:job:10:15|10:15]], [[:en:bible:notes:job:28:07|28:07]], [[:en:bible:notes:job:38:39|38:39]]
+
+* [[:en:obe:other:locust]] is found in:
+ [[:en:bible:notes:job:39:19|39:19]]
 
 * [[:en:obe:other:loins]] is found in:
- [[:en:bible:notes:job:15:27|15:27]]
+ [[:en:bible:notes:job:15:27|15:27]], [[:en:bible:notes:job:38:01|38:01]]
 
-* [[:en:obe:kt:lordyahweh]] is found in:
+* [[:en:obe:kt:lord]] is found in:
+ [[:en:bible:notes:job:03:17|03:17]]
+
+* [[:en:obe:kt:lordgod]] is found in:
  [[:en:bible:notes:job:28:26|28:26]]
 
 * [[:en:obe:other:lots]] is found in:
@@ -583,10 +601,10 @@
  [[:en:bible:notes:job:01:13|01:13]], [[:en:bible:notes:job:09:25|09:25]]
 
 * [[:en:obe:other:mighty]] is found in:
- [[:en:bible:notes:job:05:14|05:14]], [[:en:bible:notes:job:05:17|05:17]], [[:en:bible:notes:job:08:01|08:01]], [[:en:bible:notes:job:09:04|09:04]], [[:en:bible:notes:job:09:19|09:19]], [[:en:bible:notes:job:12:13|12:13]], [[:en:bible:notes:job:12:19|12:19]], [[:en:bible:notes:job:21:07|21:07]], [[:en:bible:notes:job:22:06|22:06]], [[:en:bible:notes:job:24:22|24:22]], [[:en:bible:notes:job:34:16|34:16]], [[:en:bible:notes:job:34:18|34:18]], [[:en:bible:notes:job:34:24|34:24]], [[:en:bible:notes:job:35:09|35:09]], [[:en:bible:notes:job:36:04|36:04]], [[:en:bible:notes:job:39:21|39:21]]
+ [[:en:bible:notes:job:05:14|05:14]], [[:en:bible:notes:job:08:01|08:01]], [[:en:bible:notes:job:09:04|09:04]], [[:en:bible:notes:job:09:19|09:19]], [[:en:bible:notes:job:12:13|12:13]], [[:en:bible:notes:job:12:19|12:19]], [[:en:bible:notes:job:21:07|21:07]], [[:en:bible:notes:job:22:06|22:06]], [[:en:bible:notes:job:24:22|24:22]], [[:en:bible:notes:job:34:16|34:16]], [[:en:bible:notes:job:34:18|34:18]], [[:en:bible:notes:job:34:24|34:24]], [[:en:bible:notes:job:35:09|35:09]], [[:en:bible:notes:job:36:04|36:04]], [[:en:bible:notes:job:39:21|39:21]]
 
 * [[:en:obe:other:mind]] is found in:
- [[:en:bible:notes:job:07:06|07:06]], [[:en:bible:notes:job:10:08|10:08]], [[:en:bible:notes:job:14:13|14:13]], [[:en:bible:notes:job:37:23|37:23]]
+ [[:en:bible:notes:job:07:06|07:06]], [[:en:bible:notes:job:10:08|10:08]], [[:en:bible:notes:job:14:13|14:13]], [[:en:bible:notes:job:37:18|37:18]], [[:en:bible:notes:job:37:23|37:23]]
 
 * [[:en:obe:other:mock]] is found in:
  [[:en:bible:notes:job:11:01|11:01]], [[:en:bible:notes:job:16:04|16:04]], [[:en:bible:notes:job:17:01|17:01]], [[:en:bible:notes:job:17:11|17:11]], [[:en:bible:notes:job:21:01|21:01]], [[:en:bible:notes:job:22:18|22:18]], [[:en:bible:notes:job:27:22|27:22]], [[:en:bible:notes:job:30:01|30:01]], [[:en:bible:notes:job:30:09|30:09]], [[:en:bible:notes:job:34:07|34:07]], [[:en:bible:notes:job:34:36|34:36]], [[:en:bible:notes:job:39:21|39:21]]
@@ -628,13 +646,13 @@
  [[:en:bible:notes:job:06:10|06:10]]
 
 * [[:en:obe:other:peace]] is found in:
- [[:en:bible:notes:job:05:23|05:23]], [[:en:bible:notes:job:11:01|11:01]], [[:en:bible:notes:job:13:03|13:03]], [[:en:bible:notes:job:13:13|13:13]], [[:en:bible:notes:job:22:21|22:21]]
+ [[:en:bible:notes:job:05:23|05:23]], [[:en:bible:notes:job:11:01|11:01]], [[:en:bible:notes:job:13:13|13:13]], [[:en:bible:notes:job:22:21|22:21]]
 
 * [[:en:obe:other:peoplegroup]] is found in:
- [[:en:bible:notes:job:01:01|01:01]], [[:en:bible:notes:job:16:09|16:09]], [[:en:bible:notes:job:18:18|18:18]], [[:en:bible:notes:job:21:31|21:31]], [[:en:bible:notes:job:28:03|28:03]], [[:en:bible:notes:job:30:04|30:04]], [[:en:bible:notes:job:34:29|34:29]], [[:en:bible:notes:job:36:19|36:19]], [[:en:bible:notes:job:36:30|36:30]]
+ [[:en:bible:notes:job:16:09|16:09]], [[:en:bible:notes:job:18:18|18:18]], [[:en:bible:notes:job:21:31|21:31]], [[:en:bible:notes:job:28:03|28:03]], [[:en:bible:notes:job:30:04|30:04]], [[:en:bible:notes:job:34:29|34:29]], [[:en:bible:notes:job:36:19|36:19]], [[:en:bible:notes:job:36:30|36:30]]
 
 * [[:en:obe:kt:perfect]] is found in:
- [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:09:19|09:19]], [[:en:bible:notes:job:09:21|09:21]], [[:en:bible:notes:job:12:04|12:04]], [[:en:bible:notes:job:22:01|22:01]], [[:en:bible:notes:job:37:16|37:16]]
+ [[:en:bible:notes:job:37:16|37:16]]
 
 * [[:en:obe:kt:perish]] is found in:
  [[:en:bible:notes:job:03:01|03:01]], [[:en:bible:notes:job:04:07|04:07]], [[:en:bible:notes:job:04:10|04:10]], [[:en:bible:notes:job:04:20|04:20]], [[:en:bible:notes:job:06:18|06:18]], [[:en:bible:notes:job:08:13|08:13]], [[:en:bible:notes:job:18:16|18:16]], [[:en:bible:notes:job:20:06|20:06]], [[:en:bible:notes:job:29:11|29:11]], [[:en:bible:notes:job:30:01|30:01]], [[:en:bible:notes:job:31:19|31:19]], [[:en:bible:notes:job:34:13|34:13]], [[:en:bible:notes:job:36:10|36:10]]
@@ -688,10 +706,13 @@
  [[:en:bible:notes:job:15:19|15:19]], [[:en:bible:notes:job:20:20|20:20]], [[:en:bible:notes:job:21:13|21:13]], [[:en:bible:notes:job:21:16|21:16]], [[:en:bible:notes:job:36:10|36:10]]
 
 * [[:en:obe:other:proud]] is found in:
- [[:en:bible:notes:job:15:25|15:25]], [[:en:bible:notes:job:22:29|22:29]], [[:en:bible:notes:job:33:16|33:16]], [[:en:bible:notes:job:38:10|38:10]], [[:en:bible:notes:job:39:13|39:13]]
+ [[:en:bible:notes:job:15:25|15:25]], [[:en:bible:notes:job:22:29|22:29]], [[:en:bible:notes:job:33:16|33:16]], [[:en:bible:notes:job:36:08|36:08]], [[:en:bible:notes:job:38:10|38:10]], [[:en:bible:notes:job:39:13|39:13]]
 
 * [[:en:obe:other:proverb]] is found in:
  [[:en:bible:notes:job:13:11|13:11]]
+
+* [[:en:obe:other:provoke]] is found in:
+ [[:en:bible:notes:job:12:04|12:04]]
 
 * [[:en:obe:other:punish]] is found in:
  [[:en:bible:notes:job:19:28|19:28]], [[:en:bible:notes:job:31:11|31:11]], [[:en:bible:notes:job:31:26|31:26]], [[:en:bible:notes:job:33:27|33:27]], [[:en:bible:notes:job:34:31|34:31]]
@@ -703,7 +724,7 @@
  [[:en:bible:notes:job:39:24|39:24]]
 
 * [[:en:obe:kt:raise]] is found in:
- [[:en:bible:notes:job:05:11|05:11]], [[:en:bible:notes:job:09:07|09:07]], [[:en:bible:notes:job:14:10|14:10]], [[:en:bible:notes:job:16:06|16:06]], [[:en:bible:notes:job:20:26|20:26]], [[:en:bible:notes:job:22:18|22:18]], [[:en:bible:notes:job:24:13|24:13]], [[:en:bible:notes:job:24:22|24:22]], [[:en:bible:notes:job:27:06|27:06]], [[:en:bible:notes:job:30:12|30:12]], [[:en:bible:notes:job:31:13|31:13]], [[:en:bible:notes:job:38:34|38:34]], [[:en:bible:notes:job:41:25|41:25]]
+ [[:en:bible:notes:job:05:11|05:11]], [[:en:bible:notes:job:09:07|09:07]], [[:en:bible:notes:job:14:10|14:10]], [[:en:bible:notes:job:20:26|20:26]], [[:en:bible:notes:job:22:18|22:18]], [[:en:bible:notes:job:24:13|24:13]], [[:en:bible:notes:job:24:22|24:22]], [[:en:bible:notes:job:27:06|27:06]], [[:en:bible:notes:job:30:12|30:12]], [[:en:bible:notes:job:31:13|31:13]], [[:en:bible:notes:job:38:34|38:34]], [[:en:bible:notes:job:41:25|41:25]]
 
 * [[:en:obe:kt:ransom]] is found in:
  [[:en:bible:notes:job:06:21|06:21]], [[:en:bible:notes:job:33:23|33:23]]
@@ -724,7 +745,7 @@
  [[:en:bible:notes:job:19:25|19:25]]
 
 * [[:en:obe:other:rejoice]] is found in:
- [[:en:bible:notes:job:03:06|03:06]], [[:en:bible:notes:job:03:20|03:20]], [[:en:bible:notes:job:20:17|20:17]], [[:en:bible:notes:job:21:10|21:10]], [[:en:bible:notes:job:31:24|31:24]], [[:en:bible:notes:job:31:29|31:29]], [[:en:bible:notes:job:39:21|39:21]]
+ [[:en:bible:notes:job:03:06|03:06]], [[:en:bible:notes:job:03:20|03:20]], [[:en:bible:notes:job:21:10|21:10]], [[:en:bible:notes:job:31:24|31:24]], [[:en:bible:notes:job:31:29|31:29]], [[:en:bible:notes:job:39:21|39:21]]
 
 * [[:en:obe:kt:repent]] is found in:
  [[:en:bible:notes:job:42:04|42:04]]
@@ -733,7 +754,10 @@
  [[:en:bible:notes:job:16:09|16:09]], [[:en:bible:notes:job:19:03|19:03]], [[:en:bible:notes:job:27:06|27:06]]
 
 * [[:en:obe:kt:rest]] is found in:
- [[:en:bible:notes:job:03:13|03:13]], [[:en:bible:notes:job:03:25|03:25]], [[:en:bible:notes:job:10:20|10:20]], [[:en:bible:notes:job:11:18|11:18]], [[:en:bible:notes:job:14:04|14:04]], [[:en:bible:notes:job:16:18|16:18]], [[:en:bible:notes:job:30:16|30:16]]
+ [[:en:bible:notes:job:03:25|03:25]], [[:en:bible:notes:job:10:20|10:20]], [[:en:bible:notes:job:11:18|11:18]], [[:en:bible:notes:job:14:04|14:04]], [[:en:bible:notes:job:16:18|16:18]], [[:en:bible:notes:job:30:16|30:16]]
+
+* [[:en:obe:kt:return]] is found in:
+ [[:en:bible:notes:job:22:23|22:23]]
 
 * [[:en:obe:kt:reveal]] is found in:
  [[:en:bible:notes:job:12:22|12:22]], [[:en:bible:notes:job:20:26|20:26]], [[:en:bible:notes:job:36:08|36:08]]
@@ -745,7 +769,7 @@
  [[:en:bible:notes:job:08:06|08:06]], [[:en:bible:notes:job:15:31|15:31]], [[:en:bible:notes:job:17:04|17:04]], [[:en:bible:notes:job:34:10|34:10]]
 
 * [[:en:obe:kt:righteous]] is found in:
- [[:en:bible:notes:job:01:01|01:01]], [[:en:bible:notes:job:04:16|04:16]], [[:en:bible:notes:job:08:01|08:01]], [[:en:bible:notes:job:09:13|09:13]], [[:en:bible:notes:job:09:19|09:19]], [[:en:bible:notes:job:10:15|10:15]], [[:en:bible:notes:job:15:12|15:12]], [[:en:bible:notes:job:17:09|17:09]], [[:en:bible:notes:job:22:01|22:01]], [[:en:bible:notes:job:22:18|22:18]], [[:en:bible:notes:job:25:04|25:04]], [[:en:bible:notes:job:27:06|27:06]], [[:en:bible:notes:job:27:15|27:15]], [[:en:bible:notes:job:29:14|29:14]], [[:en:bible:notes:job:32:01|32:01]], [[:en:bible:notes:job:34:04|34:04]], [[:en:bible:notes:job:34:16|34:16]], [[:en:bible:notes:job:35:01|35:01]], [[:en:bible:notes:job:36:01|36:01]], [[:en:bible:notes:job:37:23|37:23]]
+ [[:en:bible:notes:job:04:16|04:16]], [[:en:bible:notes:job:08:01|08:01]], [[:en:bible:notes:job:09:13|09:13]], [[:en:bible:notes:job:09:19|09:19]], [[:en:bible:notes:job:10:15|10:15]], [[:en:bible:notes:job:15:12|15:12]], [[:en:bible:notes:job:17:09|17:09]], [[:en:bible:notes:job:22:01|22:01]], [[:en:bible:notes:job:22:18|22:18]], [[:en:bible:notes:job:25:04|25:04]], [[:en:bible:notes:job:27:06|27:06]], [[:en:bible:notes:job:27:15|27:15]], [[:en:bible:notes:job:29:14|29:14]], [[:en:bible:notes:job:32:01|32:01]], [[:en:bible:notes:job:34:04|34:04]], [[:en:bible:notes:job:34:16|34:16]], [[:en:bible:notes:job:36:01|36:01]], [[:en:bible:notes:job:37:23|37:23]]
 
 * [[:en:obe:kt:righthand]] is found in:
  [[:en:bible:notes:job:30:12|30:12]], [[:en:bible:notes:job:40:12|40:12]]
@@ -762,11 +786,8 @@
 * [[:en:obe:other:sackcloth]] is found in:
  [[:en:bible:notes:job:16:15|16:15]]
 
-* [[:en:obe:other:sacrifice]] is found in:
- [[:en:bible:notes:job:42:07|42:07]]
-
 * [[:en:obe:kt:satan]] is found in:
- [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:01:09|01:09]], [[:en:bible:notes:job:02:01|02:01]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:02:07|02:07]]
+ [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:01:09|01:09]], [[:en:bible:notes:job:02:01|02:01]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:02:04|02:04]], [[:en:bible:notes:job:02:07|02:07]]
 
 * [[:en:obe:kt:save]] is found in:
  [[:en:bible:notes:job:05:14|05:14]], [[:en:bible:notes:job:06:21|06:21]], [[:en:bible:notes:job:20:20|20:20]], [[:en:bible:notes:job:22:29|22:29]], [[:en:bible:notes:job:26:01|26:01]], [[:en:bible:notes:job:33:23|33:23]], [[:en:bible:notes:job:40:12|40:12]]
@@ -835,7 +856,7 @@
  [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:02:01|02:01]], [[:en:bible:notes:job:38:06|38:06]]
 
 * [[:en:obe:kt:soul]] is found in:
- [[:en:bible:notes:job:07:11|07:11]], [[:en:bible:notes:job:07:13|07:13]], [[:en:bible:notes:job:10:01|10:01]], [[:en:bible:notes:job:12:09|12:09]], [[:en:bible:notes:job:14:20|14:20]], [[:en:bible:notes:job:16:04|16:04]], [[:en:bible:notes:job:21:25|21:25]], [[:en:bible:notes:job:23:13|23:13]], [[:en:bible:notes:job:24:11|24:11]], [[:en:bible:notes:job:27:01|27:01]], [[:en:bible:notes:job:27:08|27:08]], [[:en:bible:notes:job:33:19|33:19]], [[:en:bible:notes:job:33:21|33:21]]
+ [[:en:bible:notes:job:03:20|03:20]], [[:en:bible:notes:job:07:11|07:11]], [[:en:bible:notes:job:10:01|10:01]], [[:en:bible:notes:job:21:25|21:25]], [[:en:bible:notes:job:33:19|33:19]], [[:en:bible:notes:job:33:21|33:21]]
 
 * [[:en:obe:other:sow]] is found in:
  [[:en:bible:notes:job:04:07|04:07]], [[:en:bible:notes:job:31:07|31:07]]
@@ -844,7 +865,7 @@
  [[:en:bible:notes:job:39:21|39:21]], [[:en:bible:notes:job:41:25|41:25]]
 
 * [[:en:obe:kt:spirit]] is found in:
- [[:en:bible:notes:job:03:11|03:11]], [[:en:bible:notes:job:04:16|04:16]], [[:en:bible:notes:job:06:04|06:04]], [[:en:bible:notes:job:07:11|07:11]], [[:en:bible:notes:job:10:12|10:12]], [[:en:bible:notes:job:10:18|10:18]], [[:en:bible:notes:job:11:20|11:20]], [[:en:bible:notes:job:15:12|15:12]], [[:en:bible:notes:job:17:01|17:01]], [[:en:bible:notes:job:20:01|20:01]], [[:en:bible:notes:job:26:01|26:01]], [[:en:bible:notes:job:32:17|32:17]]
+ [[:en:bible:notes:job:03:11|03:11]], [[:en:bible:notes:job:04:14|04:14]], [[:en:bible:notes:job:04:16|04:16]], [[:en:bible:notes:job:06:04|06:04]], [[:en:bible:notes:job:07:11|07:11]], [[:en:bible:notes:job:10:12|10:12]], [[:en:bible:notes:job:10:18|10:18]], [[:en:bible:notes:job:15:12|15:12]], [[:en:bible:notes:job:17:01|17:01]], [[:en:bible:notes:job:20:01|20:01]], [[:en:bible:notes:job:26:01|26:01]], [[:en:bible:notes:job:32:17|32:17]]
 
 * [[:en:obe:other:splendor]] is found in:
  [[:en:bible:notes:job:37:21|37:21]]
@@ -874,10 +895,10 @@
  [[:en:bible:notes:job:36:22|36:22]], [[:en:bible:notes:job:37:18|37:18]]
 
 * [[:en:obe:other:tent]] is found in:
- [[:en:bible:notes:job:04:20|04:20]], [[:en:bible:notes:job:05:23|05:23]], [[:en:bible:notes:job:08:21|08:21]], [[:en:bible:notes:job:11:13|11:13]], [[:en:bible:notes:job:12:04|12:04]], [[:en:bible:notes:job:15:34|15:34]], [[:en:bible:notes:job:18:05|18:05]], [[:en:bible:notes:job:18:14|18:14]], [[:en:bible:notes:job:19:10|19:10]], [[:en:bible:notes:job:20:26|20:26]], [[:en:bible:notes:job:21:27|21:27]], [[:en:bible:notes:job:22:23|22:23]], [[:en:bible:notes:job:29:04|29:04]], [[:en:bible:notes:job:31:31|31:31]], [[:en:bible:notes:job:36:27|36:27]]
+ [[:en:bible:notes:job:04:20|04:20]], [[:en:bible:notes:job:05:23|05:23]], [[:en:bible:notes:job:08:21|08:21]], [[:en:bible:notes:job:11:13|11:13]], [[:en:bible:notes:job:12:04|12:04]], [[:en:bible:notes:job:15:34|15:34]], [[:en:bible:notes:job:18:05|18:05]], [[:en:bible:notes:job:18:14|18:14]], [[:en:bible:notes:job:19:10|19:10]], [[:en:bible:notes:job:20:26|20:26]], [[:en:bible:notes:job:21:27|21:27]], [[:en:bible:notes:job:22:23|22:23]], [[:en:bible:notes:job:29:04|29:04]], [[:en:bible:notes:job:31:31|31:31]]
 
 * [[:en:obe:other:terror]] is found in:
- [[:en:bible:notes:job:06:04|06:04]], [[:en:bible:notes:job:09:34|09:34]], [[:en:bible:notes:job:13:20|13:20]], [[:en:bible:notes:job:15:19|15:19]], [[:en:bible:notes:job:18:09|18:09]], [[:en:bible:notes:job:18:14|18:14]], [[:en:bible:notes:job:20:23|20:23]], [[:en:bible:notes:job:23:15|23:15]], [[:en:bible:notes:job:24:15|24:15]], [[:en:bible:notes:job:27:20|27:20]], [[:en:bible:notes:job:30:14|30:14]], [[:en:bible:notes:job:31:22|31:22]], [[:en:bible:notes:job:33:06|33:06]], [[:en:bible:notes:job:41:13|41:13]]
+ [[:en:bible:notes:job:06:04|06:04]], [[:en:bible:notes:job:09:34|09:34]], [[:en:bible:notes:job:13:20|13:20]], [[:en:bible:notes:job:15:19|15:19]], [[:en:bible:notes:job:18:09|18:09]], [[:en:bible:notes:job:18:14|18:14]], [[:en:bible:notes:job:20:23|20:23]], [[:en:bible:notes:job:23:15|23:15]], [[:en:bible:notes:job:24:15|24:15]], [[:en:bible:notes:job:27:20|27:20]], [[:en:bible:notes:job:30:14|30:14]], [[:en:bible:notes:job:31:22|31:22]], [[:en:bible:notes:job:33:06|33:06]], [[:en:bible:notes:job:41:13|41:13]], [[:en:bible:notes:job:41:22|41:22]]
 
 * [[:en:obe:kt:test]] is found in:
  [[:en:bible:notes:job:07:16|07:16]], [[:en:bible:notes:job:12:11|12:11]], [[:en:bible:notes:job:23:10|23:10]], [[:en:bible:notes:job:36:19|36:19]]
@@ -916,7 +937,7 @@
  [[:en:bible:notes:job:34:36|34:36]]
 
 * [[:en:obe:other:trouble]] is found in:
- [[:en:bible:notes:job:03:25|03:25]], [[:en:bible:notes:job:05:06|05:06]], [[:en:bible:notes:job:05:17|05:17]], [[:en:bible:notes:job:14:01|14:01]], [[:en:bible:notes:job:14:13|14:13]], [[:en:bible:notes:job:21:04|21:04]], [[:en:bible:notes:job:27:01|27:01]], [[:en:bible:notes:job:27:08|27:08]], [[:en:bible:notes:job:38:22|38:22]]
+ [[:en:bible:notes:job:03:17|03:17]], [[:en:bible:notes:job:03:25|03:25]], [[:en:bible:notes:job:05:06|05:06]], [[:en:bible:notes:job:05:17|05:17]], [[:en:bible:notes:job:14:01|14:01]], [[:en:bible:notes:job:14:13|14:13]], [[:en:bible:notes:job:21:04|21:04]], [[:en:bible:notes:job:27:08|27:08]], [[:en:bible:notes:job:38:22|38:22]]
 
 * [[:en:obe:kt:true]] is found in:
  [[:en:bible:notes:job:06:24|06:24]], [[:en:bible:notes:job:13:03|13:03]], [[:en:bible:notes:job:15:27|15:27]], [[:en:bible:notes:job:19:03|19:03]]
@@ -925,16 +946,16 @@
  [[:en:bible:notes:job:39:24|39:24]]
 
 * [[:en:obe:kt:trust]] is found in:
- [[:en:bible:notes:job:04:18|04:18]], [[:en:bible:notes:job:08:13|08:13]], [[:en:bible:notes:job:12:19|12:19]], [[:en:bible:notes:job:15:15|15:15]], [[:en:bible:notes:job:15:31|15:31]], [[:en:bible:notes:job:18:14|18:14]], [[:en:bible:notes:job:39:11|39:11]]
+ [[:en:bible:notes:job:04:18|04:18]], [[:en:bible:notes:job:08:13|08:13]], [[:en:bible:notes:job:12:19|12:19]], [[:en:bible:notes:job:15:15|15:15]], [[:en:bible:notes:job:15:31|15:31]], [[:en:bible:notes:job:39:11|39:11]]
 
 * [[:en:obe:kt:turn]] is found in:
- [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:05:01|05:01]], [[:en:bible:notes:job:05:08|05:08]], [[:en:bible:notes:job:06:18|06:18]], [[:en:bible:notes:job:15:12|15:12]], [[:en:bible:notes:job:22:23|22:23]], [[:en:bible:notes:job:23:10|23:10]], [[:en:bible:notes:job:34:26|34:26]], [[:en:bible:notes:job:36:10|36:10]], [[:en:bible:notes:job:36:19|36:19]]
+ [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:05:01|05:01]], [[:en:bible:notes:job:05:08|05:08]], [[:en:bible:notes:job:06:18|06:18]], [[:en:bible:notes:job:15:12|15:12]], [[:en:bible:notes:job:23:10|23:10]], [[:en:bible:notes:job:34:26|34:26]], [[:en:bible:notes:job:36:10|36:10]], [[:en:bible:notes:job:36:19|36:19]]
 
 * [[:en:obe:kt:unclean]] is found in:
  [[:en:bible:notes:job:14:04|14:04]]
 
 * [[:en:obe:other:understand]] is found in:
- [[:en:bible:notes:job:15:07|15:07]], [[:en:bible:notes:job:17:04|17:04]], [[:en:bible:notes:job:23:03|23:03]], [[:en:bible:notes:job:26:11|26:11]], [[:en:bible:notes:job:26:13|26:13]], [[:en:bible:notes:job:28:12|28:12]], [[:en:bible:notes:job:32:08|32:08]], [[:en:bible:notes:job:34:10|34:10]], [[:en:bible:notes:job:34:16|34:16]], [[:en:bible:notes:job:34:34|34:34]], [[:en:bible:notes:job:36:04|36:04]], [[:en:bible:notes:job:36:25|36:25]], [[:en:bible:notes:job:37:16|37:16]]
+ [[:en:bible:notes:job:15:07|15:07]], [[:en:bible:notes:job:17:04|17:04]], [[:en:bible:notes:job:23:03|23:03]], [[:en:bible:notes:job:26:11|26:11]], [[:en:bible:notes:job:26:13|26:13]], [[:en:bible:notes:job:28:12|28:12]], [[:en:bible:notes:job:32:08|32:08]], [[:en:bible:notes:job:34:10|34:10]], [[:en:bible:notes:job:34:16|34:16]], [[:en:bible:notes:job:34:34|34:34]], [[:en:bible:notes:job:36:04|36:04]], [[:en:bible:notes:job:36:25|36:25]], [[:en:bible:notes:job:37:16|37:16]], [[:en:bible:notes:job:39:16|39:16]]
 
 * [[:en:obe:kt:ungodly]] is found in:
  [[:en:bible:notes:job:08:13|08:13]], [[:en:bible:notes:job:13:16|13:16]], [[:en:bible:notes:job:15:34|15:34]], [[:en:bible:notes:job:16:11|16:11]], [[:en:bible:notes:job:17:06|17:06]], [[:en:bible:notes:job:20:04|20:04]], [[:en:bible:notes:job:27:08|27:08]], [[:en:bible:notes:job:34:29|34:29]], [[:en:bible:notes:job:36:13|36:13]]
@@ -949,7 +970,7 @@
  [[:en:bible:notes:job:11:13|11:13]], [[:en:bible:notes:job:13:06|13:06]], [[:en:bible:notes:job:18:21|18:21]], [[:en:bible:notes:job:22:23|22:23]], [[:en:bible:notes:job:27:04|27:04]], [[:en:bible:notes:job:27:06|27:06]], [[:en:bible:notes:job:29:17|29:17]], [[:en:bible:notes:job:31:03|31:03]], [[:en:bible:notes:job:36:22|36:22]]
 
 * [[:en:obe:kt:upright]] is found in:
- [[:en:bible:notes:job:17:06|17:06]], [[:en:bible:notes:job:23:06|23:06]]
+ [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:17:06|17:06]], [[:en:bible:notes:job:23:06|23:06]]
 
 * [[:en:obe:other:vain]] is found in:
  [[:en:bible:notes:job:09:27|09:27]], [[:en:bible:notes:job:39:16|39:16]]
@@ -979,7 +1000,7 @@
  [[:en:bible:notes:job:07:19|07:19]]
 
 * [[:en:obe:other:water]] is found in:
- [[:en:bible:notes:job:03:23|03:23]], [[:en:bible:notes:job:05:08|05:08]], [[:en:bible:notes:job:06:14|06:14]], [[:en:bible:notes:job:06:18|06:18]], [[:en:bible:notes:job:08:11|08:11]], [[:en:bible:notes:job:09:30|09:30]], [[:en:bible:notes:job:11:15|11:15]], [[:en:bible:notes:job:12:13|12:13]], [[:en:bible:notes:job:22:09|22:09]], [[:en:bible:notes:job:24:18|24:18]], [[:en:bible:notes:job:26:05|26:05]], [[:en:bible:notes:job:26:07|26:07]], [[:en:bible:notes:job:27:20|27:20]], [[:en:bible:notes:job:28:12|28:12]], [[:en:bible:notes:job:29:17|29:17]], [[:en:bible:notes:job:34:07|34:07]], [[:en:bible:notes:job:37:10|37:10]], [[:en:bible:notes:job:38:28|38:28]]
+ [[:en:bible:notes:job:03:23|03:23]], [[:en:bible:notes:job:05:08|05:08]], [[:en:bible:notes:job:06:14|06:14]], [[:en:bible:notes:job:06:18|06:18]], [[:en:bible:notes:job:22:09|22:09]], [[:en:bible:notes:job:24:18|24:18]], [[:en:bible:notes:job:26:05|26:05]], [[:en:bible:notes:job:26:07|26:07]], [[:en:bible:notes:job:27:20|27:20]], [[:en:bible:notes:job:28:12|28:12]], [[:en:bible:notes:job:29:17|29:17]], [[:en:bible:notes:job:34:07|34:07]], [[:en:bible:notes:job:37:10|37:10]], [[:en:bible:notes:job:38:28|38:28]]
 
 * [[:en:obe:other:wheat]] is found in:
  [[:en:bible:notes:job:31:38|31:38]]
@@ -1027,4 +1048,4 @@
  [[:en:bible:notes:job:19:07|19:07]]
 
 * [[:en:obe:kt:yahweh]] is found in:
- [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:01:09|01:09]], [[:en:bible:notes:job:01:20|01:20]], [[:en:bible:notes:job:02:01|02:01]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:02:07|02:07]], [[:en:bible:notes:job:12:09|12:09]], [[:en:bible:notes:job:38:01|38:01]], [[:en:bible:notes:job:40:01|40:01]], [[:en:bible:notes:job:42:01|42:01]]
+ [[:en:bible:notes:job:01:06|01:06]], [[:en:bible:notes:job:01:09|01:09]], [[:en:bible:notes:job:01:20|01:20]], [[:en:bible:notes:job:02:01|02:01]], [[:en:bible:notes:job:02:03|02:03]], [[:en:bible:notes:job:02:04|02:04]], [[:en:bible:notes:job:02:07|02:07]], [[:en:bible:notes:job:12:09|12:09]], [[:en:bible:notes:job:38:01|38:01]], [[:en:bible:notes:job:40:01|40:01]], [[:en:bible:notes:job:42:01|42:01]]

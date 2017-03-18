@@ -20,7 +20,7 @@
 \q1
 \v 2 Proclaim that he is glorious;
 \q2 dress in your best clothing and bow down to Yahweh.
-\b
+
 
 
 \q1
@@ -30,17 +30,15 @@
 
 <usfm>
 \c 29
-\p
+\m
 \d A psalm of David.
-\b
 \q
 
-\v 1 Give praise to Yahweh, you sons of God! 
-\q Give praise to Yahweh for his glory and strength. 
+\v 1 Give praise to Yahweh, you sons of God!
+\q Give praise to Yahweh for his glory and strength.
 \q
 \v 2 Give to Yahweh the glory that his name deserves.
 \q Bow down to Yahweh in the splendor of holiness.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -59,7 +57,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **sons of God** - The phrase "sons  of" is a way of saying "having the characteristics of." AT: "you mighty men" (See: [[:en:ta:vol1:translate:figs_idiom]])
@@ -74,6 +72,6 @@
   * [[:en:bible:questions:comprehension:psa:029]]
 **[[:en:bible:notes:psa:028:009|<<]] | [[:en:bible:notes:psa:029:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check acknowledge book1}}
+~~DISCUSSION~~{{tag>publish p2pass acknowledge book1}}
 
 ~~NOCACHE~~

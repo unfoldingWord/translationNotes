@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 3 Then the glory of the God of Israel went up from the cherubim where it had been to the threshold of the house. And he called to the man dressed in linen who had the scribe's equipment at his side.
+\v 3 Then the glory of the God of Israel went up from the cherubim where it had been to the threshold of the house. He called to the man dressed in linen who had the scribe's equipment at his side.
 \v 4 Yahweh said to him, "Pass through the midst of the city—the midst of Jerusalem—and make a mark on the foreheads of those who groan and sigh about all the abominations being performed in the midst of the city."
 </usfm>
 
@@ -42,8 +42,8 @@
 
   * **from the cherubim where it had been** - Possible meanings are 1) "from above the four winged creatures" ([[:en:bible:notes:ezk:01:04|1:5]]) (UDB) or 2) from between the two cherubim in the most holy place in the temple. Try to translate this literally. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **threshold of the house** - The "house" refers to God's temple.
-  * **linen** - See how you translated this in [[:en:bible:notes:ezk:09:01|9:2]].
-  * **scribe's equipment** - see how you translated this in [[:en:bible:notes:ezk:09:01|9:2]].
+  * **linen** - Translate this as in [[:en:bible:notes:ezk:09:01|9:2]].
+  * **scribe's equipment** - tools that scribes write with. Translate as in [[:en:bible:notes:ezk:09:01|9:2]].
   * **groan and sigh** - These are sounds people make when they feel very sad or grieved about something. (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **the abominations being performed in the midst of the city** - "the horrible things being done in the city" or "the detestable things that people are doing in the city
 ===== Links: =====
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:ezk:09]]
 **[[:en:bible:notes:ezk:09:01|<<]] | [[:en:bible:notes:ezk:09:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit threshold cherubim}}
+~~DISCUSSION~~{{tag>publish p2check threshold cherubim}}
 
 ~~NOCACHE~~

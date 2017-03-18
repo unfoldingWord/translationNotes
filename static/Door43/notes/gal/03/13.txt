@@ -23,8 +23,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 Christ redeemed us from the curse of the law when he became a curse for us. For it is written, "Cursed is everyone who hangs on a tree."
-\v 14 The purpose was that the blessing that was on Abraham might come to the Gentiles in Christ Jesus, so that we might receive the promise of the Spirit through faith.
+\v 13 Christ redeemed us from the curse of the law by becoming a curse for us— for it is written, "Cursed is everyone who hangs on a tree"—
+\v 14 so that the blessing of Abraham might come to the Gentiles in Christ Jesus, so that by faith we might receive the promise of the Spirit.
 </usfm>
 
 ===== translationWords: =====
@@ -43,10 +43,13 @@
 ===== translationNotes: =====
 
   * **Connecting Statement:** - Paul reminds these believers again that keeping the law could not save a person and that the law did not add a new condition to the promise by faith given to Abraham.
-  * **he became a curse for us** - The action implied by the word "curse" may need to be stated. AT: "God condemned him instead of condemning us" (See: [[:en:ta:vol2:translate:figs_abstractnouns|Abstract Nouns]])
-  * **hangs on a tree** - Paul expected his audience to understand that he was referring to Jesus' hanging on the cross.
+
+  * **from the curse of the law** - The noun "curse" can be expressed with the verb "curse." AT: "from being cursed because of the law" or "from being cursed for not obeying the law"
+  * **by becoming a curse for us** - The noun "curse" can be expressed with the verb "curse." AT:  "by being cursed for us" or "when God cursed him instead of us" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **from the curse of the law ... becoming a curse for us ... Cursed is everyone** - Curse here represents being condemned. AT: "from being condemned by the law ... being condemned instead of us ... Condemned is everyone"  (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **hangs on a tree** - Paul expected his audience to understand that he was referring to Jesus hanging on the cross.
   * **might** - "will"
-  * **we** - Paul was including himself with the non-Jews. (See: [[:en:ta:vol2:translate:figs_inclusive|Inclusive "We"]])
+  * **we** - The word "we" includes the people who would read the letter. (See: [[:en:ta:vol2:translate:figs_inclusive]])
 ===== Links: =====
 
   * [[:en:bible:notes:gal:00:intro|Introduction to Galatians]]

@@ -33,8 +33,8 @@
 <usfm>
 \q
 \v 23 God of my ancestors,
-I thank you and praise you 
-\q for the wisdom and power you gave to me. 
+I thank you and praise you
+\q for the wisdom and power you gave to me.
 \q Now you have made known to me
 what we requested from you;
 \q you made known to us the matter that concerns the king."
@@ -51,22 +51,21 @@ what we requested from you;
   * [[:en:obe:other:king]] 
 
 ===== translationNotes: =====
- 
-  * **General Information:** - This verse is also part of Daniel's prayer.
 
+  * **General Information:** - This verse is also part of Daniel's prayer. He stops addressing God in the third person and switches to the more personal second person. (See: [[:en:ta:vol2:translate:figs_123person]])
+
+  * **made known to me what we requested from you** - "told me what my friends and I asked you to tell us" (UDB)
+  * **made known to us the matter that concerns the king** - "told us what the king wants to know"
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
   * [[:en:bible:notes:dan:02:00]]
   * [[:en:bible:questions:comprehension:dan:02]]
-
- 
-
 **[[:en:bible:notes:dan:02:21|<<]] | [[:en:bible:notes:dan:02:24|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

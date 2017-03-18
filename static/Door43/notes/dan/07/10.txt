@@ -29,10 +29,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 10 A river of fire flowed out from before him; 
-\q millions served him, 
+\v 10 A river of fire flowed out from before him;
+\q millions served him,
 \q and one hundred million were standing before him.
-\q The court was in session, 
+\q The court was in session,
 \q and the books were opened.
 </usfm>
 
@@ -45,14 +45,15 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Daniel continues to describe his vision of the response in heaven to the fourth animal that the saw in [[:en:bible:notes:dan:07:06|7:7]].
+  * **General Information:** - Daniel continues to describe his vision of the court in heaven and the response to the fourth animal that he saw in [[:en:bible:notes:dan:07:06|7:7]].
+  * **General Information:** - Most of the text of verses 9-14 is symbolic language with parallel lines that have similar meaning. For this reason, the ULB and UDB present them in poetic form. (See: [[:en:ta:vol2:translate:writing_symlanguage]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **A river of fire flowed out from before him** - The quick way in which fire came from the presence of God is compared to how water flows in a river. AT: "Fire poured out in front of him like water in a river" (UDB) (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **A river of fire flowed out from before him** - The quick way in which fire came from the presence of God is spoken of as if it was water flowing in a river. AT: "Fire poured out in front of him like water in a river" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **before him** - The word "him" refers to God, the Ancient of Days from [[:en:bible:notes:dan:07:09|7:9]]. 
-  * **millions** - AT: "thousands of thousands" or "great numbers of people" 
-  * **one hundred million** - AT: "tens of thousands times tens of thousands" or "uncountable numbers of people"
+  * **millions** - This probably refers to a large group rather than to a precise number. AT: "thousands of thousands" or "great numbers of people" 
+  * **one hundred million** - This probably refers to a large group rather than to a precise number. AT: "tens of thousands times tens of thousands" or "uncountable numbers of people"
   * **The court was in session** - This means that God, the judge, was ready to investigate the evidence and make his judgment. AT: "The judge was ready to judge" or "The judge was seated"
-  * **the books were opened** - These are the books that contain the evidence to be used in court. AT: "the books of evidence were open"
+  * **the books were opened** - These are the books that contain the evidence to be used in court. AT: "the books of evidence were opened"
 
 
 ===== Links: =====
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:dan:07]]
 **[[:en:bible:notes:dan:07:09|<<]] | [[:en:bible:notes:dan:07:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -38,7 +38,7 @@
 ===== translationNotes: =====
 
   * **These are what you must offer** - "These offerings are what you must offer"
-  * **fixed festivals** - "planned festival." The word "fixed" means "set" or "predetermined."
+  * **fixed festivals** - "planned festivals." These are festivals that occurred at regularly scheduled times. The word "fixed" means "set" or "predetermined."
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:num:29]]
 **[[:en:bible:notes:num:29:37|<<]] | [[:en:bible:notes:num:30:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

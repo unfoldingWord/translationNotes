@@ -43,17 +43,18 @@
 
 ===== translationNotes: =====
 
-  * **Seventy sevens of years are decreed for your people and your holy city to** - God decreed that he would do the things in this verse for the people and the holy city.
   * **Seventy sevens of years ... seven sevens ... and sixty-two sevens** - This is not the normal way the Israelites counted. If possible, try to translate in a way that preserves this use of the number seven. AT: "Seventy times seven years ... seven times seven years ... and sixty-two times seven years"
-  * **seven sevens ... and sixty-two sevens** - These added together are 69 of the 70 sevens spoken of in verse 24.
+  * **Seventy sevens of years are decreed for your people and your holy city to** - God decreed that he would do the things in this verse for the people and the holy city.
   * **your people and your holy city** - The word "your" here refers to Daniel. The people are the Israelites and the holy city is Jerusalem. (See: [[:en:ta:vol1:translate:figs_you]])
   * **to end the guilt and put an end to sin** - The idea is repeated to emphasize how certain it is that this will happen. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **to carry out the vision** - AT: "to accomplish the vision" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to carry out the vision** - Here "carry out" is an idiom that means to accomplish. AT: "to accomplish the vision" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **the vision and the prophecy** - These words in this context mean the same thing. They ensure Daniel that Jeremiah's vision was indeed a prophecy. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **Know and understand** - These words are used together to make the importance clear. AT: "You must clearly understand" or "You must know for sure"
-  * **the anointed one** - A person is anointed in order to choose them. AT: "the person that God anoints" or "the person that God chooses"
-  * **Jerusalem will be rebuilt** - AT: "People will rebuild Jerusalem" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Know and understand** - These words are used together to make the importance clear. AT: "You must clearly understand" or "You must know for sure" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **the anointed one** - Anointing is a symbolic act to show that someone is chosen. AT: "the person that God anoints" or "the person that God chooses" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **seven sevens ... and sixty-two sevens** - These added together are 69 of the 70 sevens spoken of in verse 24.
+  * **Jerusalem will be rebuilt** - This can be stated in active form. AT: "People will rebuild Jerusalem" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **moat** - a deep ditch around a city or building, usually with water in it
+  * **the times of distress** - "a time of great trouble"
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -61,6 +62,6 @@
   * [[:en:bible:questions:comprehension:dan:09]]
 **[[:en:bible:notes:dan:09:22|<<]] | [[:en:bible:notes:dan:09:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit peopleofgod sin transgression}}
+~~DISCUSSION~~{{tag>publish p2pass peopleofgod sin transgression}}
 
 ~~NOCACHE~~

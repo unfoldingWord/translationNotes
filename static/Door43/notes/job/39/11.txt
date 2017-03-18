@@ -22,7 +22,6 @@
 \q1
 \v 12 Can you rely on it to come back from the field
 \q2 bringing your grain to the place where you thresh it?
-\b
 
 
 \q1
@@ -38,7 +37,7 @@
 \q
 \v 12 Will you depend on him to bring your grain home,
 \q to gather the grain for your threshing floor?
-\b
+\m
 </usfm>
 
 
@@ -50,25 +49,26 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to challenge Job.
+  * **Connecting Statement:** - Yahweh continues to challenge Job.
+  * **General Information:** - Here Yahweh uses three questions to continue his argument that Job is not like Yahweh because Job cannot control the wild ox. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
-  * **Will you trust ... your threshing floor** - Yahweh uses these questions to emphasize that Job cannot control the wild ox. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Will you trust him because his strength is great?** - This question can be translated as a statement. AT: "You cannot trust him because his strength is great." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **trust him** - The word "him" refers to the "wild ox."
+  * **Will you leave your work to him to do?** - This question can be translated as a statement. AT: "You will not be able to make him do your work for you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **leave your work to him to do** - "have him do your hard work for you"
- 
+  * **Will you depend on him ... grain for your threshing floor?** - These two clauses basically mean the same thing. This question can be translated as a statement. AT: "You will not be able to depend on him ... grain for your threshing floor." (See: [[:en:ta:vol1:translate:figs_rquestion]]and [[:en:ta:vol2:translate:figs_parallelism]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
   * [[:en:bible:notes:job:39:00]]
   * [[:en:bible:questions:comprehension:job:39]]
-
- 
-
 **[[:en:bible:notes:job:39:09|<<]] | [[:en:bible:notes:job:39:13|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

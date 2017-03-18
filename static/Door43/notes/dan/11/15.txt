@@ -10,15 +10,15 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 Then the king of the North will come with his army and pile up dirt against the walls of a city that is well protected, and they will break through those walls and will capture the city. The soldiers from the South who have come to defend that city, even the best troops, will not be strong enough to continue to fight.
+\v 15 Then the king of the North will come with his army and pile up earth against the walls of a city that is well protected, and they will break through those walls and will capture the city. The soldiers from the South who have come to defend that city, even the best troops, will not be strong enough to continue to fight.
 \v 16 So the king of the North will do whatever he wants against the king of the South, and no one will be able to oppose him. He will occupy the glorious land of Israel and will have the power to destroy it.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
-\v 15 The king of the North will come and construct ramps on a mound and capture a fortified city. The forces of the South will not be able to stand; even their best soldiers will have no strength to stand.
-\v 16 But the king of the North will do whatever he wants against the king of the South, and no one will stop him; he will establish himself in the beautiful land with complete destruction in his hand.
+\v 15 The king of the North will come, pour out earth for siege mounds, and capture a city with fortifications. The forces of the South will not be able to stand, not even their best soldiers. There will be no strength to stand.
+\v 16 Instead, the one who comes will act according to his desires against him; no one will stand in his way. He will stand in the land of beauty, and destruction will be in his hand.
 </usfm>
 
 ===== translationWords: =====
@@ -30,18 +30,24 @@
 
   * **General Information:** - The angel continues speaking to Daniel.
 
-  * **The king of the North will come** - AT: "The army of the king of the North will come" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will not be able to stand** - AT: "will not be able to keep fighting against them"
-  * **he will establish himself** - AT: "the king will set up his rule" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the beautiful land** - This probably refers to Israel. 
-  * **with complete destruction in his hand** - AT: "and he will have power to destroy anything in his way" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **The king of the North will ... pour out earth** - "The king of the North" here stands for the soldiers in the king's army, who would do the actual work of making siege mounds. AT: "The soldiers of the king of the North will pour out earth to make siege mounds" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **The king of the North will come** - Here "king of the North" includes his army also. AT: "The army of the king of the North will come" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **pour out earth for siege mounds** - This refers to the piling up of earth in order for soldiers to reach the height of city walls in order to attack them. Soldiers and slaves would put loose earth in baskets, carry them to the right place, and pour it out in order to raise the mounds.
+  * **fortifications** - walls and other things built to defend a city or fort from enemy soldiers
+  * **will not be able to stand** - Here standing represents the ability to fight. AT: "will not be able to keep fighting against them" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **the one who comes will act according to his desires against him** - "the invading king will do whatever he wants against the other king"
+  * **He will stand in** - Here standing represents ruling. AT: "The king will begin to rule" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **the land of beauty** - This refers to the land of Israel. See how you translated this in [[:en:bible:notes:dan:08:09|08:09]].
+  * **destruction will be in his hand** - Here "destruction" represents the power to destroy. Also, the power to destroy is spoken of as if it were something that someone could hold in his hand. AT: "he will have power to destroy anything" (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]])
+
 ===== Links: =====
 
-  * [[:en:bible:notes:dan:00:intro]]
-  * [[:en:bible:notes:dan:11:00]]
-  * [[:en:bible:questions:comprehension:dan:11]]
+  * [[:en:bible:notes:dan:00:intro|Introduction to Daniel]]
+  * [[:en:bible:notes:dan:11:00|Daniel 11 General Notes]]
+  * [[:en:bible:questions:comprehension:dan:11|Daniel 11 Translation Questions]]
+
 **[[:en:bible:notes:dan:11:14|<<]] | [[:en:bible:notes:dan:11:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

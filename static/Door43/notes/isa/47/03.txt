@@ -24,11 +24,9 @@
 <usfm>
 \v 3 You will be naked and very ashamed.
 \q2 I will have vengeance on you and will not pity you."
-\b
 \q1
 \v 4 The one who frees us people of Judah, whom we call 'Yahweh, Commander of the angel armies,'
 \q2 is the Holy One of Israel.
-\b
 \q1
 \v 5 Yahweh says, "You people of Babylon,
 \q2 sit silently in the darkness,
@@ -46,10 +44,10 @@
 \v 3 Your nakedness will be uncovered, yes, your shame will be seen:
 \q1 I will take vengeance and will not spare a man.
 \q1
-\v 4 Our Redeemer, Yahweh of hosts is his name, 
+\v 4 Our Redeemer, Yahweh of hosts is his name,
 the Holy One of Israel.
 \q1
-\v 5 Sit in silence and go into darkness, daughter of the Chaldeans; 
+\v 5 Sit in silence and go into darkness, daughter of the Chaldeans;
 \q1 for you will no longer be called queen of kingdoms.
 </usfm>
 
@@ -70,15 +68,16 @@ the Holy One of Israel.
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking to the people of Babylon.
+  * **Connecting Statement:** - Yahweh continues to speak to Babylon about her downfall as if she were a queen who is humiliated. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
 
-  * **Your nakedness will be uncovered, yes, your shame will be seen** - This can be stated in active form. These two phrases mean basically the same thing. AT: "You will be naked, yes, and everyone will see your shame" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Your nakedness will be uncovered** - This can be stated in active form. AT: "You will be naked" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your shame will be seen** - Here the word "shame" is a euphemism for one's private parts. This can be translated in active form. AT: "people will see your shame" or "people will see your private parts" (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **Our Redeemer** - "Our" refers to Isaiah and the people of Israel. See how you translated "Redeemer" in [[:en:bible:notes:isa:41:14|41:14]]. (See: [[:en:ta:vol2:translate:figs_inclusive]])
-  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:24|1:24]].
-  * **Holy One of Israel** - See how you translated this in [[:en:bible:notes:isa:05:15|5:16]].
-  * **daughter of the Chaldeans** - See how you translated this in [[:en:bible:notes:isa:41:01|47:1]].
+  * **Yahweh of hosts** - Translate this phrase in the same way you did in [[:en:bible:notes:isa:01:24|1:24]].
+  * **Holy One of Israel** - Translate this phrase in the same way you did in [[:en:bible:notes:isa:05:15|5:16]].
+  * **daughter of the Chaldeans** - This phrase refers to the city, Babylon, which is spoken of as if it were a daughter. That the city is a "daughter" indicates how the Chaldeans think fondly of her. Translate this phrase in the same way you did in [[:en:bible:notes:isa:41:01|47:1]].
   * **for you will no longer be called** - This can be stated in active form. AT: "for people will no longer call you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **queen of kingdoms** - This means that people will no longer consider Babylon to be the greatest kingdom of all. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **queen of kingdoms** - Yahweh speaks of Babylon being the capital city of the Babylonian empire as if it were a queen who ruled many kingdoms. (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
  
 ===== Links: =====
@@ -94,6 +93,6 @@ the Holy One of Israel.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit avenge}}
+{{tag>publish p2pass avenge}}
 
 ~~NOCACHE~~

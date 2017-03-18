@@ -39,9 +39,10 @@
 
 ===== translationNotes: =====
 
-  * **from the paw of the lion and from the paw of the bear** - Here "paw" is a metonymy that refers to power. AT: "from the power of the lion and from the power of the bear" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the hand of this Philistine** - AT: "the power of this Philistine"
-  * **coat of chainmail** - A "coat of chainmail" is a flexible piece of body armor covered with protective scales or small plates.
+  * **from the paw of the lion and from the paw of the bear** - Bears and lions use their paws when they attack, so the word "paw" represents the attack. AT: "from the attack of the lion and from the attack of the bear" or "from the lion and the bear" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the hand of this Philistine** - The Philistine's hand represents his power in fighting. AT: "the power of this Philistine" or "the Philistine" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **coat of chainmail** - a flexible piece of body armor covered with protective scales or small plates
+
  
 ===== Links: =====
 
@@ -56,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit bronze}}
+{{tag>publish p2pass bronze}}
 
 ~~NOCACHE~~

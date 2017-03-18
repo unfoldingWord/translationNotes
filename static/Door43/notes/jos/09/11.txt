@@ -28,7 +28,7 @@
 <usfm>
 \v 11 Our elders and all the inhabitants of our country said to us, 'Take provisions in your hand for the journey. Go to meet them and say to them, "We are your servants. Make a treaty with us."
 \v 12 This is our bread, it was still warm when we took it from our houses on the day we set out to come to you. But now, see, it is dry and moldy.
-\v 13 These wineskins were new when we filled them, and look, now they are leaking. Our garments and our sandals are worn out from a very long journey.'"
+\v 13 These wineskins were new when we filled them, and look, now they are leaking. Our garments and our sandals are worn-out from a very long journey.'"
 </usfm>
 
 
@@ -38,16 +38,13 @@
   * [[:en:obe:other:servant]]
   * [[:en:obe:other:bread]]
   * [[:en:obe:other:house]]
+  * [[:en:obe:other:wine]]
   * [[:en:obe:other:sandal]]
  
-
 ===== translationNotes: =====
-
-  * **General Information:** - Gibeonites continue to deceive the nation of Israel.
  
-  * **in your hand** - This phrase means "take with you." Here the word "hand" represents a whole person. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **in your hand** - This phrase means "take with you." Here the word "hand" represents the possession by the Gibeonites of the provisions. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **meet them and say to them** - The word "them" refers to the people of Israel. 
-  * **wineskins** - a leather bag or bottle made to contain and carry wine 
  
 ===== Links: =====
 
@@ -62,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

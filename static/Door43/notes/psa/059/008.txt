@@ -17,7 +17,6 @@
 <usfm>
 \v 8 But Yahweh, you laugh at them.
 \q2 You scoff at the people of the pagan nations.
-\b
 \q1
 \v 9 God, I have confidence in you because you are very strong;
 \q2 you are my refuge.
@@ -49,7 +48,7 @@
   * **laugh at them** - "laugh at them scornfully" or "mock them." God would laugh at them because they are worthless and powerless. 
   * **you hold all the nations in derision** - "you ridicule all the nations" or "you know that the people of the nations are fools" 
   * **derision** - "ridicule" or "mockery"
-  * **my strength** - God's being the psalmist's strength represents God protecting him. This can be expressed with a sentence. AT: "you are my strength" or "you are my protector" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **my strength** - God's being the psalmist's strength represents God protecting him. AT: "you are my strength" or "you are my protector" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **you are my high tower** - A high tower is a place that people could go to for shelter from their enemies. The psalmist speaks of God protecting him as if God were a strong, safe shelter. AT: "you protect me like a high tower" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
@@ -58,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:059]]
 **[[:en:bible:notes:psa:059:006|<<]] | [[:en:bible:notes:psa:059:010|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

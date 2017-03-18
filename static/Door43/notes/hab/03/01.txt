@@ -18,13 +18,11 @@
 
 <usfm>
 \v 1 A prayer of Habakkuk the prophet.
-\p
 \v 2 Yahweh, I have heard about you;
 \q1 and I revere you because of all the amazing things that you have done.
 \q2 In our time, do again some of those things that you did long ago!
 \q1 Even when you are angry with us,
 \q2 act mercifully toward us!
-\b
 
 
 \q1
@@ -37,11 +35,11 @@
 \c 3
 \p
 \v 1 The prayer of Habakkuk the prophet:
-\f + \ft The Hebrew text adds the expression "on shigionoth," which may refer to musical directions for singers. \f*
+\f + \ft The Hebrew text adds the expression \fqa on shigionoth \fqa* , which may refer to musical directions for singers. \f*
 \q
-\v 2 Yahweh, I have heard your report, and I am afraid!
+\v 2 Yahweh, I have heard your report, and I am afraid.
 \q Yahweh, revive your work in the midst of these times; in the midst of these times make it known;
-\q remember to have compassion in your wrath!
+\q remember to have compassion in your wrath.
 </usfm>
 
 

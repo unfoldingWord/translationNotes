@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 And Yahweh said to him, "I have heard your prayer and your request that you have made before me. I have set apart this house, which you have built, to myself, to put my name there forever. My eyes and my heart will be there for all time.
+\v 3 Then Yahweh said to him, "I have heard your prayer and your request that you have made before me. I have set apart this house, which you have built, to myself, to put my name there forever. My eyes and my heart will be there for all time.
 </usfm>
 
 ===== translationWords: =====
@@ -35,8 +35,9 @@
 
 ===== translationNotes: =====
 
-  * **to put my name there forever** - AT: "to dwell there and to claim possession of it forever" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **My eyes and my heart will be there** - AT: "I will protect and care for it" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **your prayer and your request** - The words "prayer" and "request" mean basically the same thing and emphasize that Yahweh recognized that Solomon's request was sincere. Similar words appear in [[:en:bible:notes:1ki:08:27|8:28]]. AT: "your request" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **to put my name there forever** - The name is a metonym for the person. AT: "to dwell there and to claim possession of it forever" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **My eyes and my heart will be there** - The eyes and heart are synecdoche for the whole person. AT: "I will protect and care for it" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
 
 ===== Links: =====
 
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:09]]
 **[[:en:bible:notes:1ki:09:01|<<]] | [[:en:bible:notes:1ki:09:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

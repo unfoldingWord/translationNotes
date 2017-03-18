@@ -29,9 +29,9 @@
   * [[:en:obe:other:leprosy]]
 ===== translationNotes: =====
 
-  * **he tore his clothes** - AT: "he ripped his clothes to show his distress" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Am I God, to kill and to make alive, that this man wants me to cure a man of his leprosy?** - AT: "The king of Aram must think I am some sort of God, with the power over death and life! He wants me to cure this man of his leprosy, but I can not do that." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **It seems he is seeking to start an argument with me** - The king of Israel did not believe the request to heal Naamam was the real reason for the letter. He thought the real reason was to start a fight. "He is looking for an excuse to start a fight with me."
+  * **he tore his clothes** - Often people would rip their clothes if they were in great distress. AT: "he ripped his clothes to show his distress" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **Am I God, to kill and to make alive, that this man wants me to cure a man of his leprosy?** - The king uses this rhetorical question to emphasize that the request of the king of Aram is outrageous and something he cannot do. This can be written as a statement. AT: "The king of Aram must think I am some sort of God, with the power over death and life! He wants me to cure this man of his leprosy, but I cannot do that." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **It seems he is seeking to start an argument with me** - The king of Israel did not believe the request to heal Naamam was the real reason for the letter. He thought the real reason was to start a fight. AT: "It seems he is looking for an excuse to start a fight with me" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -40,6 +40,6 @@
   * [[:en:bible:questions:comprehension:2ki:05]]
 **[[:en:bible:notes:2ki:05:05|<<]] | [[:en:bible:notes:2ki:05:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

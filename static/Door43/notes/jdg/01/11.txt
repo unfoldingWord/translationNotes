@@ -1,6 +1,5 @@
 ====== Judges 01:11-13 ======
 
-
 ===== TFT: =====
 
 <usfm>
@@ -9,7 +8,6 @@
 \v 13 Othniel, who was the son of Caleb's younger brother Kenaz, captured the city. So Caleb gave his daughter Acsah to him, to become his wife.
 \p
 </usfm>
-
 
 ===== UDB: =====
 
@@ -22,7 +20,6 @@
 \p
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -32,36 +29,26 @@
 \v 13 Othniel, son of Kenaz (Caleb's younger brother) captured Debir, so Caleb gave him Achsah, his daughter, to be his wife.
 </usfm>
 
-
 ===== translationWords: =====
 
-  * [[:en:obe:other:judah]]
-  * [[:en:obe:other:caleb]]
- 
+  * [[:en:obe:other:judah|Judah]]
+  * [[:en:obe:other:caleb|Caleb]]
+
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]]
-
-  * **the name of Debir was previously Kiriath Sepher** - The author probably wrote this because his readers knew the city as Debir. But at the time Israel attacked it, it was called Kiriath Sepher. "which used to be called Kiriath Sepher" (See: [[:en:ta:vol2:translate:writing_background]] and (See: [[:en:ta:vol1:translate:translate_names]]))
+  * **the name of Debir was previously Kiriath Sepher** - The author probably wrote this because his readers knew the city as Debir. But at the time Israel attacked it, it was called Kiriath Sepher. AT: "which used to be called Kiriath Sepher" (See: [[:en:ta:vol2:translate:writing_background|Background Information]] and [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
   * **previously** - "in times past" or "at an earlier time"
-  * **Whoever attacks Kiriath Sepher and takes it** - Here "iriath Sepher" represents the people. AT: "Whoever attacks and defeats the people of Kiriath Sepher and takes their city" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Achsah** - This is the name of Caleb's daughter. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Othniel, son of Kenaz** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]]) 
-
- 
+  * **Whoever attacks Kiriath Sepher and takes it** - Here "Kiriath Sepher" represents the people. AT: "Whoever attacks and defeats the people of Kiriath Sepher and takes their city" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **Achsah** - This is the name of Caleb's daughter. (See: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+  * **Othniel, son of Kenaz** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 ===== Links: =====
 
-  * [[:en:bible:notes:jdg:00:intro]]
-  * [[:en:bible:notes:jdg:01:00]]
-  * [[:en:bible:questions:comprehension:jdg:01]]
-
- 
+  * [[:en:bible:notes:jdg:00:intro|Introduction to Judges]]
+  * [[:en:bible:notes:jdg:01:00|Judges 01 General Notes]]
+  * [[:en:bible:questions:comprehension:jdg:01|Judges 01 Translation Questions]]
 
 **[[:en:bible:notes:jdg:01:08|<<]] | [[:en:bible:notes:jdg:01:14|>>]]**
 
-~~DISCUSSION~~
-
-
-{{tag>publish p2check caleb}}
+~~DISCUSSION~~{{tag>publish p2pass caleb}}
 
 ~~NOCACHE~~

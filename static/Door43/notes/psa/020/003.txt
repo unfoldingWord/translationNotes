@@ -17,7 +17,6 @@
 <usfm>
 \v 3 We desire that he may accept all the offerings that you give him to be burned on the altar
 \q2 and all your other offerings.
-
 \q1
 \v 4 We desire that he may give to you what you desire in your heart,
 \q2 and that you may be able to accomplish all that you desire to do.
@@ -31,7 +30,7 @@
 <usfm>
 \q
 \v 3 May he call to mind all your offerings
-\q and accept your burnt sacrifice. 
+\q and accept your burnt sacrifice.
 \qs Selah\qs*
 \q
 \v 4 May he grant you your heart's desire
@@ -49,9 +48,9 @@
 
 ===== translationNotes: =====
 
-  * **May he call to mind** - The phrase "call to mind" is a way of saying "remember." It does not mean God forgot. It means may God consider or think about. AT: "May he remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **May he call to mind** - The phrase "call to mind" is a way of saying "remember." It does not mean God forgot. It means to consider or think about. AT: "May he remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **May he** - The word "he" refers to Yahweh.
-  * **Selah** - This may be a musical term that tells people how to sing or play their instruments here. Some translations write the Hebrew word, and some translations do not include it. See how you translated this in [[:en:bible:notes:psa:003:001|3:2]]. (See: [[:en:ta:vol1:translate:translate_transliterate]])
+  * **Selah** - This may be a musical term that tells people how to sing or play their instruments. Some translations write the Hebrew word, and some translations do not include it. See how you translated this in [[:en:bible:notes:psa:003:001|3:2]]. (See: [[:en:ta:vol1:translate:translate_transliterate]])
   * **May he grant** - "May he give"
   * **your heart's desire** - Here "heart" stands for the entire person. The abstract noun "desire" can be stated as a verb. AT: "what you desire" or "what you want" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **fulfill all your plans** - The abstract noun "plans" can be stated as a verb. AT: "may he help you to accomplish everything that you plan to do" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:020]]
 **[[:en:bible:notes:psa:020:001|<<]] | [[:en:bible:notes:psa:020:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

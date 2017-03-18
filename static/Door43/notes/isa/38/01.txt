@@ -29,7 +29,7 @@
 \p
 \v 1 In those days Hezekiah was sick to the point of dying. So Isaiah son of Amoz, the prophet, came to him, and said to him, "Yahweh says, 'Set your house in order; for you will die, not live.'"
 \v 2 Then Hezekiah turned his face to the wall and prayed to Yahweh.
-\v 3 He said, "Please, Yahweh, call to mind how I have faithfully walked before you with my whole heart, and how I have done what was good in your sight." And Hezekiah wept loudly.
+\v 3 He said, "Please, Yahweh, call to mind how I have faithfully walked before you with my whole heart, and how I have done what was good in your sight." Then Hezekiah wept loudly.
 </usfm>
 
 ===== translationWords: =====
@@ -49,7 +49,11 @@
 
 ===== translationNotes: =====
 
-
+  * **Set your house in order** - This means to prepare your family and those in charge of your affairs so that they know what to do after you die. This can be written clearly. AT: "You should tell the people in your palace what you want them to do after you die" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **call to mind** - This idiom means to remember. AT: "remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **faithfully walked before you** - This is an idiom. Here "walk" means to "live." The phrase means to live in a way the pleases Yahweh. AT: "faithfully lived before you" or "faithfully served you" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **with my whole heart** - Here the "heart" refers to the inner-being which represents a person's complete devotion. AT: "with all my inner being" (UDB) or "with my complete devotion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **what was good in your sight** - This phrase "in your sight" refers to what Yahweh thinks. AT: "what pleases you" or "what you consider to be good" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -57,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:38]]
 **[[:en:bible:notes:isa:37:38|<<]] | [[:en:bible:notes:isa:38:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

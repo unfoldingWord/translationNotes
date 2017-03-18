@@ -30,7 +30,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 21 But Ittai answered the king and said, "As Yahweh lives, and as my master the king lives, surely in whatever place where my master the king goes, there also will your servant go, whether that means living or dying." 
+\v 21 But Ittai answered the king and said, "As Yahweh lives, and as my master the king lives, surely in whatever place where my master the king goes, there also will your servant go, whether that means living or dying."
 \v 22 So David said to Ittai, "Go ahead and continue with us." So Ittai the Gittite marched with the king, along with all his men and all the families who were with him.
 \v 23 All the country wept with a loud voice as all the people passed by over the Kidron Valley, and as the king also himself crossed over. All the people traveled on the road toward the wilderness.
 </usfm>
@@ -46,9 +46,11 @@
 
 ===== translationNotes: =====
 
-  * **As Yahweh lives, and as my master the king lives** - Here the speaker is making a solemn promise. AT: "I solemnly promise" 
+  * **As Yahweh lives, and as my master the king lives** - Here the speaker is making a solemn promise. He compare the certainty the he will fulfill his promise to the certainty that Yahweh and the king are alive. AT: "I solemnly promise that as surely as Yahweh and the king live" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **your servant** - Ittai refers to himself this way to honor the king.
   * **whether that means living or dying** - "even if I get killed supporting you"
-  * **All the country wept with a loud voice** - This deliberate exaggeration is used to emphasize the concern for King David. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **All the country wept with a loud voice** - Many of the people of Israel wept loudly when they saw the king leaving. Here this is exaggerated by saying that the whole country wept. AT: "All the people along the road wept" or "Many of the people wept" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **with a loud voice** - Here the many people who were weeping are spoken of as if they shared one loud voice. AT: "loudly" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Kidron Valley** - This is the name of a place near Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
  
  
@@ -65,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

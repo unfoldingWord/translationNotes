@@ -36,7 +36,7 @@
 \q
 \v 7 See, terror of me will not make you afraid;
 \q neither will my pressure be heavy upon you.
-\b
+\m
 </usfm>
 
 
@@ -49,8 +49,12 @@
 
   * **General Information:** - Elihu continues speaking to Job.
 
-  * **I also have been formed out of the clay** - AT: "God has also made me out the clay" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **neither will my pressure be heavy upon you** - AT: "I will not oppress you with what I say" or "I will speak gently to you" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_litotes]])
+  * **See** - Elihu uses this word here to draw Job's attention to what he says next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **I am just as you are in God's sight** - Here sight represents judgment or evaluation. AT: "I am just as you are in God's judgment" or "God judges you the same way that he judges me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I also have been formed out of the clay** - Though people are not made out of clay, God has made everyone as a potter carefully makes things out of clay. AT: "God has made both of us just as a potter forms things from clay" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I also have been formed** - This can be stated in active form. AT: "God has also made me" or "God has formed both of us" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **terror of me will not make you afraid** - "you do not need to be afraid of me" (UDB)
+  * **neither will my pressure be heavy upon you** - This means that he will not hinder Job or burden him. He speaks of emotional burden here as if it were  a heavy physical burden. AT: "neither will I burden you" or "I will not oppress you with what I say" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 
 ===== Links: =====
@@ -60,6 +64,6 @@
   * [[:en:bible:questions:comprehension:job:33]]
 **[[:en:bible:notes:job:33:04|<<]] | [[:en:bible:notes:job:33:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

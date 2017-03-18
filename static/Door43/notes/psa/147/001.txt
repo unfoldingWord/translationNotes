@@ -15,10 +15,9 @@
 
 <usfm>
 \v 1 Praise Yahweh!
-\b
 \q1 It is good to sing praises to our God.
 \q2 It is a delightful thing to do and the right thing to do.
-\b
+
 
 
 \q1
@@ -28,7 +27,7 @@
 
 <usfm>
 \c 147
-\p
+\m
 \q
 \v 1 Praise Yahweh,
 \q for it is good to sing praises to our God,
@@ -44,7 +43,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **it is pleasant** - The object may be supplied from the previous phrase. AT: "it is pleasant to sing praises" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **praise is suitable** - "praise is fitting" or "praise is appropriate"
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:psa:147]]
 **[[:en:bible:notes:psa:146:009|<<]] | [[:en:bible:notes:psa:147:002|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

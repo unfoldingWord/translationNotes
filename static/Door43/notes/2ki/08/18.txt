@@ -33,12 +33,12 @@
   * [[:en:obe:other:descendant]]
 ===== translationNotes: =====
 
-  * **Jehoram walked in the ways of the kings of Israel** - AT: "Jehoram was an evil king, just as other kings of Israel who ruled before him had been," 
-  * **as the house of Ahab was doing** - AT: "the same as the other people in the family of his father-in-law, king Ahab of Israel were doing;" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Jehoram walked in the ways of the kings of Israel** - Here "walking" is an idiom that refers to how he lived and reigned as king. At this time in history, the recent kings of Israel had been evil kings. The full meaning of this statement can be made clear. AT: "Jehoram was an evil king, just as other kings of Israel who ruled before him had been" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **as the house of Ahab was doing** - Here the "house" of Ahab refers to the members of Ahab's family and his recent descendants. Ahab is Jehoram father-in-law. AT: "the same as the rest of the family of Ahab was doing" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **for he had Ahab's daughter as his wife** - Jehoram had married king Ahab's daughter.
-  * **he did what was evil in Yahweh's sight** - The words "Yahweh's sight" represent Yahweh himself. AT: "Jehoram did things that Yahweh considered very wrong." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **destroy Judah** - Here the name of the country "Judah" represents the people of that country. AT: "put an end to the people of Judah," 
-  * **since he had told him that he would always give him descendants** - "since Yahweh had told David that he would always give David descendants."
+  * **he did what was evil in Yahweh's sight** - Here Yahweh's "sight" refers to what he thinks. AT: "he did things that Yahweh considered to be evil" or "he did things that Yahweh said were evil" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **destroy Judah** - Here "Judah" is a metonym for the people who live there. AT: "destroy the people of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **since he had told him that he would always give him descendants** - "since Yahweh had told David that he would always give David descendants." This refers to Yahweh's promise to David that his descendants would always rule Judah. The full meaning of this statement can be made explicit. AT: "since he had told David that his descendants would always rule Judah" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 
 ===== Links: =====
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2ki:08]]
 **[[:en:bible:notes:2ki:08:16|<<]] | [[:en:bible:notes:2ki:08:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

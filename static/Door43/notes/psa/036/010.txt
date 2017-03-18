@@ -36,11 +36,11 @@
 \v 10 Extend your covenant faithfulness fully to those who know you,
 \q your defense to the upright of heart.
 \q
-\v 11 Do not let the foot of the arrogant man come near to me. 
+\v 11 Do not let the foot of the arrogant man come near to me.
 \q Do not let the hand of the wicked drive me away.
 \q
 \v 12 Over there the evildoers have fallen;
-\q they are knocked down and are not be able to get up.
+\q they are knocked down and are not able to get up.
 </usfm>
 
 
@@ -57,12 +57,13 @@
 ===== translationNotes: =====
 
   * **Extend your covenant faithfulness fully** - "Continue your covenant faithfulness"
-  * **your defense to the upright of heart** - The abstract noun "defense" can be stated as a verb. "Continue" is implied form the previous phrase. AT: "Continue to protect the upright of heart" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **your defense to the upright of heart** - The abstract noun "defense" can be stated as a verb. "Continue" is implied from the previous phrase. AT: "Continue to protect the upright of heart" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_ellipsis]])
   * **the upright of heart** - Here "heart" refers to the people. AT: "the upright" or "people who act righteously" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the foot of the arrogant man ... the hand of the wicked** - Here "foot" and "hand" refer to the evil people. These are not specific men. This refers to these evil people in general. AT: "arrogant people ... wicked people" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **the foot of the arrogant man ... the hand of the wicked** - Here "foot" and "hand" refer to the evil people. These are not specific men. This refers to evil people in general. AT: "arrogant people ... wicked people" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_genericnoun]])
   * **drive me away** - "send me away" or "make me leave my place"
-  * **have fallen; they are knocked down and are not be able to get up** - All three phrases describe the evildoers as defeated. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **evildoers have fallen; they are knocked down and are not able to get up** - All three phrases describe the evildoers as defeated. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **they are knocked down** - This can be stated in active form. AT:  "you have knocked them down" or "you have destroyed them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **are not able to get up** - "cannot get up"
 
 ===== Links: =====
 
@@ -74,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book1}}
+{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

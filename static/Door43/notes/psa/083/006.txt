@@ -17,7 +17,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 Your enemies are the people who live in the tents of Edom— 
+\v 6 Your enemies are the people who live in the tents of Edom—
 \q2 the Ishmaelites, Moab and the Hagrites, they conspire together with
 \v 7 the people of Gebal, and the Ammonites, and the Amalekites,
 \q2 and the Philistines, and the people of the city of Tyre.
@@ -54,7 +54,7 @@
 
   * **General Information:** - The writer continues to list the people groups who want to destroy Israel.
 
-  * **the tents of Edom** - Tents were their homes so this means the people who lived there. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the tents of Edom** - This refers to the people of Edom who lived in tents. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Hagrites** - This is the name of a people group that lived on the east side of the Jordan River. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Gebal, Ammon, Amalek ... Philistia** - These all represent the people of each area or tribe. AT: "the people of Gebal, the Ammonites, the Amalekites ... the Philistines" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Gebal** - This is the name of a region south of the Dead Sea. (See: [[:en:ta:vol1:translate:translate_names]])
@@ -72,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book3}}
+{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

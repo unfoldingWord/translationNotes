@@ -27,7 +27,7 @@
 \p
 \v 9 He said to me, "The iniquity of the house of Israel and Judah is exceedingly great. The land is full of blood and the city full of perversions, since they say, 'Yahweh has forgotten the land,' and 'Yahweh does not see!'
 \v 10 So then, my eye will not look with compassion, and I will not spare them. I will instead bring it all on their heads."
-\v 11 And behold! The man dressed in linen who had the scribe's equipment by his side came back. He reported and said, "I have done all that you have commanded."
+\v 11 Behold! The man dressed in linen who had the scribe's equipment by his side came back. He reported and said, "I have done all that you have commanded."
 </usfm>
 
 
@@ -41,15 +41,16 @@
 
 ===== translationNotes: =====
 
-  * **house of Israel** - See how you translated this in [[:en:bible:notes:ezk:03:01|3:1]].
+  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate as in [[:en:bible:notes:ezk:03:01|3:1]]. AT: "the Israelites" or "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **exceedingly great** - "very great"
-  * **The land is full of blood** - "the land is full of violence" or "All over the land people are killing people" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **the city full of perversions** - Possible meanings are 1) "the city is full of people who pervert justice" or 2) "the city is full of people who do perverse things." Alternate translations: "the city is full of people who act unjustly" (UDB) or "the city has many people who do wicked things" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **The land is full of blood** - The word "blood" is a metonym for murder. AT: "the land is full of murder" or "All over the land people are killing innocent people" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **the city full of perversions** - The city is spoken of as if it were a container, and perversion is spoken of as if it were something that could fill that container. The abstract noun "perversions" can be written as a verb. AT: "all the people in the city do wicked things" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **my eye will not look with compassion** - "I will not look on them with compassion" or "I will not be compassionate to them." The eye here refers to how he regards people. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **bring it all on their heads** - "bring the effects of what they have done on their heads." It means "I will repay them for what they have done" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **behold!** - The word "behold" here adds emphasis to what follows. It can also be translated as "indeed!"
-  * **linen** - See how you translated this in [[:en:bible:notes:ezk:09:01|9:2]].
+  * **bring it all on their heads** - "repay them for what they have done" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Behold** - "Pay attention to what I am about to say"
+  * **linen** - a strong, smooth cloth made from a plant. It is worn by many people in places that are hot. See how you translated this in [[:en:bible:notes:ezk:09:01|9:2]]. AT: "smooth cloth" (See: [[:en:ta:vol1:translate:translate_unknown]])
   * **He reported and said** - "He reported to Yahweh and told him"
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -57,6 +58,6 @@
   * [[:en:bible:questions:comprehension:ezk:09]]
 **[[:en:bible:notes:ezk:09:07|<<]] | [[:en:bible:notes:ezk:10:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

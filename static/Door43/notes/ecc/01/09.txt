@@ -41,19 +41,18 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 9 Whatever has been is what will be, 
-\q2 and whatever has been done is what will be done. 
+\v 9 Whatever has been is what will be,
+\q2 and whatever has been done is what will be done.
 \q1 There is nothing new under the sun.
 \q1
-\v 10 Is there anything about which it may be said, 
+\v 10 Is there anything about which it may be said,
 \q2 'Look, this is new'?
 \q1 Whatever exists has already existed for a long time,
 \q2 during ages which came long before us.
 \q1
-\v 11 No one seems to remember the things that happened in ancient times.
-\q2 And the things that happened much later 
+\v 11 No one seems to remember the things that happened in ancient times,
+\q2 and the things that happened much later
 \q2 and that will happen in the future
 \q1 will not likely be remembered either."
 </usfm>

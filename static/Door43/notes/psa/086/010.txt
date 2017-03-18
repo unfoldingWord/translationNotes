@@ -21,7 +21,6 @@
 <usfm>
 \v 10 You are great, and you do wonderful things;
 \q2 only you are God.
-\b
 \q1
 \v 11 Yahweh, teach me what you want me to do
 \q2 so that I may conduct my life according to what you say, all of which is right.
@@ -65,8 +64,8 @@
 
   * **wonderful things** - "very good things that amaze me"
   * **you only are God** - "you are the only God"
-  * **Teach me your ways, Yahweh. Then I will walk in your truth** - How God wants people to live is spoken of as if it were his ways or roads. A person who obeys what God wants is spoken of as if he were walking on God's way or road. AT: "Teach me your truth, Yahweh. Then I will obey what you say" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Unite my heart to reverence you** - Here "heart" represents a person's thoughts, emotions, and motives. Asking God to cause a person to respect him completely is spoken of as if the person's heart is in many pieces and God unites them together. AT: "Cause me to respect you sincerely with all my heart" or "Cause me to respect you sincerely" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Teach me your ways, Yahweh. Then I will walk in your truth** - A person who obeys what God wants is spoken of as if he were walking on God's way or road. AT: "Teach me your truth, Yahweh. Then I will obey what you say" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Unite my heart to reverence you** - Here "heart" represents a person's thoughts, emotions, and motives. Asking God to cause a person to respect him completely is spoken of as if the person's heart were in many pieces and that God unites them together. AT: "Cause me to respect you sincerely with all my heart" or "Cause me to respect you sincerely" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **I will praise you with my whole heart** - Here "heart" represents a person's thoughts, emotions, and motives. AT: "I will praise you completely and sincerely" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **I will glorify your name** - Here "name" represents the whole person. AT: "I will glorify you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
@@ -77,6 +76,6 @@
   * [[:en:bible:questions:comprehension:psa:086]]
 **[[:en:bible:notes:psa:086:008|<<]] | [[:en:bible:notes:psa:086:013|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

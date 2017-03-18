@@ -19,22 +19,24 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 Sheba and Dedan, and the traders of Tarshish with all their young warriors—they will all say to you, 'Have you come to capture booty? Have you assembled your army to steal plunder, to carry off silver and gold, to take cattle and property, to capture much plunder?'
+\v 13 Sheba and Dedan, and the traders of Tarshish along with all its young warriors will say to you, 'Have you come to plunder? Have you assembled your armies to take away spoil, to carry off silver and gold, to take their livestock and property and to haul away much plunder?'
 </usfm>
 
 ===== translationWords: =====
 
   * [[:en:obe:other:tarshish]]
   * [[:en:obe:other:gold]]
-  * [[:en:obe:other:cow]]
+  * [[:en:obe:other:livestock]]
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh is speaking to Gog.
+  * **Connecting Statement:** - Yahweh continues speaking to Gog.
 
-  * **Sheba** - See how you translated this in [[:en:bible:notes:ezk:27:22|27:22]].
-  * **Dedan** - See how you translated this in [[:en:bible:notes:ezk:25:12|25:13]].
-  * **cattle** - sheep, goats, cows
+  * **Sheba** - Translate this as in [[:en:bible:notes:ezk:27:22|27:22]].
+  * **Dedan** - Translate this as in [[:en:bible:notes:ezk:25:12|25:13]].
+  * **Have you come to plunder? Have you assembled your armies ... to haul away much plunder?** - These two questions are used to accuse Gog of attacking Israel without cause. These can be translated as statements. AT: "It is not right for you to assemble your army to plunder, to carry off silver and gold, to take their livestock and property, and to haul away much plunder!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **to take their livestock and property ... to haul away much plunder** - These phrases have similar meaning and can be combined into a single phrase. AT: "take away their livestock and all their valuable possessions" (See: [[:en:ta:vol2:translate:figs_doublet]])
+
 
 ===== Links: =====
 
@@ -43,6 +45,6 @@
   * [[:en:bible:questions:comprehension:ezk:38]]
 **[[:en:bible:notes:ezk:38:10|<<]] | [[:en:bible:notes:ezk:38:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

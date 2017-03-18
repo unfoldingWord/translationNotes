@@ -34,8 +34,8 @@
 
 ===== translationNotes: =====
 
-  * **no delicacies** - no expensive or rare kinds of food. AT: "no fancy foods"
-  * **until the completion of three entire weeks** - "for the duration of three entire weeks"
+  * **delicacies** - These are expensive or rare kinds of food. AT: "fancy foods"
+  * **until the completion of three entire weeks** - "until the end of three entire weeks"
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:dan:10]]
 **[[:en:bible:notes:dan:10:01|<<]] | [[:en:bible:notes:dan:10:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

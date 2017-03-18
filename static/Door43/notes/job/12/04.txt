@@ -32,7 +32,6 @@
 \v 6 Meanwhile, bandits live peacefully,
 \q2 and no one threatens those who cause God to become angry;
 \q2 the god they worship is their own strength.
-\b
 
 
 \q1
@@ -53,7 +52,6 @@
 \v 6 The tents of robbers prosper,
 \q and those who provoke God feel secure;
 \q their own hands are their gods.
-\b
 </usfm>
 
 
@@ -70,10 +68,13 @@
  
 ===== translationNotes: =====
 
-  * **he thinks in a way that brings more misfortune to those whose foot is slipping.** - AT: "His way of thinking brings more trouble to those who are already in trouble."
-  * **foot is slipping** - The foot represents the whole person who is already starting to have trouble come to him. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **The tents of robbers prosper** - AT: "Robbers live in prosperity in their own tents" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **their own hands** - "Hands" represents the abilities of a person. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **I am something for my neighbor to laugh at—I, one who called on God and who was answered by him!** - The relationship between these phrases can be made clear with the words "even though." AT: "I am something for my neighbor to laugh at—even though I am one who called on God and he answered me" (See: [[:en:ta:vol2:translate:writing_connectingwords]])
+  * **I, a just and blameless man—I am now something to laugh at** - The relationship between these phrases can be made clear with the words "even though." AT: "Even though I am a just and blameless man, people now laugh at me" (See: [[:en:ta:vol2:translate:writing_connectingwords]])
+  * **In the thought of someone who is at ease, there is contempt for misfortune.** - The abstract nouns "thought", "ease," "contempt," and "misfortune" can be expressed with other phrases. AT: "A person who lives an easy life despises a person who suffers" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **brings more misfortune** - Bringing misfortune represents causing it to happen. AT: "causes more bad things to happen" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **to those whose foot is slipping.** - The foot slipping represents being in danger or trouble. AT: "to those who are already in trouble" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The tents of robbers prosper** - Their tents prospering represents the robbers prospering in their tents. AT: "Robbers live in prosperity in their own tents" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **their own hands are their gods** - 'Their own hands" is a metonym for strength, and "their gods" is a  metaphor for their pride. AT: "they are extremely proud of their own abilities" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -88,6 +89,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

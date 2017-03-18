@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 Jeroboam's wife did so; she left and went to Shiloh and came to the house of Ahijah. Now Ahijah could not see, for his eyes had failed because of his age.
+\v 4 Jeroboam's wife did so; she left and went to Shiloh and came to the house of Ahijah. Now Ahijah could not see; he lost his sight because of old age.
 \v 5 Yahweh said to Ahijah, "Look, the wife of Jeroboam is coming to seek advice from you regarding her son, for he is sick. Say such and such to her, because when she comes, she will act as if she were some other woman."
 </usfm>
 
@@ -32,6 +32,7 @@
 ===== translationNotes: =====
 
   * **Look, the wife of Jeroboam** - Here the word "Look" means "pay attention."
+  * **coming to seek advice from you** - The abstract noun "advice" can be translated as a verb. AT: "coming to ask you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **Say such and such to her** - The words "such and such" mean that Yahweh told Ahijah what to say. AT: "Speak in this way to her" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
@@ -41,6 +42,6 @@
   * [[:en:bible:questions:comprehension:1ki:14]]
 **[[:en:bible:notes:1ki:14:01|<<]] | [[:en:bible:notes:1ki:14:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

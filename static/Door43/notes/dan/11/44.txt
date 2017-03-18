@@ -11,14 +11,14 @@
 
 <usfm>
 \v 44 But he will become very frightened when he hears reports about what is happening in the east and in the north. So he will become very angry and will send his army to fight furiously and to kill many of their enemies.
-\v 45 The king will set up his royal tents in the area between the Mediterranean Sea and the hill in Jerusalem, the location of the temple. But he will be killed there, and there will be no one to help him."
+\v 45 The king will set up his royal tents in the area between the Mediterranean Sea and the hill in Jerusalem, the location of the temple. But someone will kill him there, and there will be no one to help him."
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
-\v 44 But reports from the east and the north will alarm him, and he will go out with great rage to destroy and to set many apart for destruction.
-\v 45 He will set up the tents of his palace between the seas and the beautiful holy mountain. He will come to his end, and there will be no one to help him.
+\v 44 But news from the east and the north will frighten him, and he will go out with great rage to completely destroy and to set many apart for destruction.
+\v 45 He will set up the tent of his royal residence between the seas and the mountain of the beauty of holiness. He will come to his end, and there will be no helper for him.
 </usfm>
 
 ===== translationWords: =====
@@ -32,9 +32,12 @@
 
   * **General Information:** - This is still about the king of the North.
 
-  * **he will go out with great rage** - AT: "he will be very angry and will go out" or "he will become very angry and will go out with his army" 
-  * **the beautiful, holy mountain** - This refers to the hill in Jerusalem where God's temple was. See how you translated similar phrases in [[:en:bible:notes:dan:09:15|9:16]] and [[:en:bible:notes:dan:09:20|9:20]].  (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **between the seas and the beautiful holy mountain** - Some versions understand this phrase to mean, "between the seas at the beautiful holy mountain."
+  * **he will go out with great rage** - The abstract noun "rage" can be expressed with the word "angry." It can be stated clearly that he would go out with his army. AT: "he will be very angry and will go out" or "he will become very angry and will go out with his army" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **go out** - Here this represents the action of attacking the enemy. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to set many apart for destruction** - "to destroy many people"
+  * **the tent of his royal residence** - This refers to the king's luxurious tents that he lived in when he was with his army in time of war. 
+  * **between the seas and the mountain of the beauty of holiness** - This probably refers to the region between the Mediterranean Sea and Temple Mount in Jerusalem.
+  * **the mountain of the beauty of holiness** - This refers to the hill in Jerusalem where God's temple was. See how you translated somewhat similar phrases in [[:en:bible:notes:dan:09:15|9:16]] and [[:en:bible:notes:dan:09:20|9:20]].  (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -42,6 +45,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 [[:en:bible:notes:dan:11:42|<<]] | [[:en:bible:notes:dan:12:01|>>]]
 
-~~DISCUSSION~~{{tag>publish p2edit alarm tent}}
+~~DISCUSSION~~{{tag>publish p2pass alarm tent}}
 
 ~~NOCACHE~~

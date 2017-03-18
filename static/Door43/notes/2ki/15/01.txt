@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 After Jeroboam had been ruling Israel for almost twenty-seven years, Amaziah son of King Amaziah of Judah, began to rule.
+\v 1 After Jeroboam had been ruling Israel for almost twenty-seven years, Azariah, son of Amaziah king of Judah, began to rule.
 \v 2 He was sixteen years old when he started to rule, and he ruled in Jerusalem for fifty-two years. His mother was Jecoliah. She was from Jerusalem.
 \v 3 He did things that Yahweh was pleased with, as his father Amaziah had done.
 </usfm>
@@ -21,9 +21,9 @@
 <usfm>
 \c 15
 \p
-\v 1 In the twenty-seventh year of Jeroboam king of Israel, began the reign of Azariah son of Amaziah king of Judah.
-\v 2 Azariah was sixteen years old when he began to reign. He reigned for fifty-two years in Jerusalem. His mother's name was Jechiliah, of Jerusalem.
-\v 3 He did what was right in the eyes of Yahweh, following the example of his father, and doing as Amaziah had done.
+\v 1 In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah began to reign.
+\v 2 Azariah was sixteen years old when he began to reign, and he reigned for fifty-two years in Jerusalem. His mother's name was Jechiliah, and she was from Jerusalem.
+\v 3 He did what was right in the eyes of Yahweh, just as his father Amaziah had done.
 </usfm>
 
 ===== translationWords: =====
@@ -39,11 +39,11 @@
   * [[:en:obe:kt:yahweh]]
 ===== translationNotes: =====
 
-  * **In the twenty-seventh year of Jeroboam** - "In year 27 of the reign of Jeroboam" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **In the twenty-seventh year of Jeroboam** - It can be stated clearly that this is the twenty-seventh year of his reign. AT: "In year 27 of the reign of Jeroboam" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:translate_numbers]])
   * **Azariah** - This king is better known today by the name "Uzziah."
-  * **Jechiliah** - (See: [[:en:ta:vol1:translate:translate_names]])
-  * **right in the eyes of Yahweh** - "right according to Yahweh" or "right before Yahweh" or "Yahweh approved of what he did" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
+  * **Jechiliah** - This is the name of Azariah's mother. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **He did what was right** - "Azariah did what was right" 
+  * **what was right in the eyes of Yahweh** - The phrase "eyes of Yahweh" is a metonym for Yahweh's sight, which is a metaphor for Yahweh's judgment. AT: "what was right in Yahweh's judgment" or "what Yahweh considers to be right" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2ki:15]]
 **[[:en:bible:notes:2ki:14:28|<<]] | [[:en:bible:notes:2ki:15:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

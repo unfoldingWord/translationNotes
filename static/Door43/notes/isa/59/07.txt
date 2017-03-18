@@ -28,7 +28,6 @@
 \v 8 You do not know how to act peacefully or to treat others fairly.
 \q1 You always are dishonest,
 \q2 and those who imitate your behavior never have any peace within themselves.
-\b
 
 
 \q1
@@ -39,11 +38,11 @@
 
 <usfm>
 \q1
-\v 7 Their feet run to evil, and they run to pour out innocent blood. 
+\v 7 Their feet run to evil, and they run to pour out innocent blood.
 \q1 Their thoughts are thoughts of sin; violence
 and destruction are their roads.
 \q1
-\v 8 The way of peace they do not know, and there is no justice in their paths. 
+\v 8 The way of peace they do not know, and there is no justice in their paths.
 \q1 They have made crooked paths; whoever
 travels these paths does not know peace.
 </usfm>
@@ -62,10 +61,10 @@ travels these paths does not know peace.
 
   * **General Information:** - Isaiah continues speaking to the people of Israel.
 
-  * **Their feet run to evil** - This means the wicked people are quick to do evil things. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **are their roads** - "roads" speaks of a way of life. AT: "are all they do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **there is no justice in their paths** - "paths" speaks of a way of life. AT: "they never do what is just" or "everything they do is unjust" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **They have made crooked paths** - This refers to people who say and do dishonest things. They are devious. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Their feet run to evil** - "Feet" represents the ability to go and "run" represents doing it speedily. AT: "They are quick to do evil things" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **are their roads** - "roads" represents their way of life. AT: "are all they do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **there is no justice in their paths** - "paths" represents their way of life. AT: "they never do what is just" or "everything they do is unjust" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **They have made crooked paths** - "Crooked paths" represents the way of life that is corrupt. AT: "They say and do dishonest things. They are devious" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -74,6 +73,6 @@ travels these paths does not know peace.
   * [[:en:bible:questions:comprehension:isa:59]]
 **[[:en:bible:notes:isa:59:05|<<]] | [[:en:bible:notes:isa:59:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

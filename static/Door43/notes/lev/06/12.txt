@@ -38,7 +38,7 @@
 ===== translationNotes: =====
 
   * **The fire on the altar will be kept burning** - This can be translated in active form. AT: "The priest will keep the fire on the altar burning" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **as required on it** - This can be stated in active form. AT: "on it as Yahweh demands" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **as required on it** - This can be stated in active form. AT: "on it as Yahweh demands" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:lev:00:intro]]
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:lev:06]]
 **[[:en:bible:notes:lev:06:10|<<]] | [[:en:bible:notes:lev:06:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

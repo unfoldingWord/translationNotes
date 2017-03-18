@@ -22,7 +22,6 @@
 \q1
 \v 18 With their arrows, the soldiers of Media will shoot the young men of Babylon;
 \q2 they will not even act mercifully toward infants or children!"
-\b
 
 
 \q1
@@ -33,10 +32,10 @@
 
 <usfm>
 \q1
-\v 17 Look, I am about to stir up the Medes to attack them, 
+\v 17 Look, I am about to stir up the Medes to attack them,
 \q1 who will not be concerned about silver, nor do they delight in gold.
 \q1
-\v 18 Their arrows will pierce the young men. 
+\v 18 Their arrows will pierce the young men.
 \q1 They will have no pity on babies and will not spare children.
 </usfm>
 
@@ -50,9 +49,9 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh is speaking.
+  * **Connecting Statement:** - Yahweh continues speaking.
 
-  * **stir up the Medes** - "make the Medes want"
+  * **I am about to stir up the Medes to attack them** - Making people want to do something is spoken of as stirring them up. AT: "I am about to make the Medes want to attack them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -66,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

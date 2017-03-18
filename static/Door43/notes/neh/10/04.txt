@@ -30,7 +30,6 @@
 \v 7 Meshullam, Abijah, Mijamin,
 \li1
 \v 8 Maaziah, Bilgai, and Shemaiah.
-\b
 
 
 \m
@@ -44,7 +43,7 @@
 \v 5 Harim, Meremoth, Obadiah,
 \v 6 Daniel, Ginnethon, Baruch,
 \v 7 Meshullam, Abijah, Mijamin,
-\v 8 Maaziah, Bilgai, and Shemaiah. 
+\v 8 Maaziah, Bilgai, and Shemaiah.
 These were the priests.
 </usfm>
 
@@ -57,8 +56,14 @@ These were the priests.
 
   * **General Information:** - In these verses, Nehemiah lists the names of the priests who signed the sealed document. (See [[:en:bible:notes:neh:10:01|10:1]])
 
-  * **Hattush, Shebaniah, Malluch, Harim, Meremoth, Obadiah, Daniel, Ginnethon, Baruch, Meshullam, Abijah, Mijamin, Maaziah, Bilgai, and Shemaiah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **These were the priests** - This refers to the previous list of men who signed the document. AT: "These were the names of the priests who signed the document."
+  * **Hattush** - This is a man's name. Translate as in [[:en:bible:notes:neh:03:08|3:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Shebaniah ... Meshullam** - These are the names of men. Translate as in [[:en:bible:notes:neh:09:03|9:4]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Malluch ... Obadiah, Daniel, Ginnethon ... Abijah, Mijamin, Maaziah, Bilgai** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Harim** - This is a man's name. Translate as in [[:en:bible:notes:neh:03:11|3:11]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Meremoth** - This is a man's name. Translate as in [[:en:bible:notes:neh:03:03|3:4]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Baruch** - This is a man's name. Translate as in [[:en:bible:notes:neh:03:20|3:20]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Shemaiah** - This is a man's name. Translate as in [[:en:bible:notes:neh:03:28|3:29]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **These were the priests** - This refers to the previous list of men who signed the document. AT: "These were the names of the priests who signed the document" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -73,6 +78,6 @@ These were the priests.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

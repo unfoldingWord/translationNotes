@@ -16,10 +16,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 23 A poor person desperately begs for mercy, 
-but a rich person is rude when he answers. 
+\v 23 A poor person desperately begs for mercy,
+but a rich person is rude when he answers.
 \q1
-\v 24 One person says that he has many friends, but his life is ruined by them; 
+\v 24 One person says that he has many friends, but his life is ruined by them;
 \q2 but there is a friend who stands with us through everything,
 \q2 and he is always close at our side, even closer than a brother.
 </usfm>
@@ -29,7 +29,7 @@ but a rich person is rude when he answers.
 
 <usfm>
 \q
-\v 23 A poor person pleads for mercy, 
+\v 23 A poor person pleads for mercy,
 \q but a rich person answers harshly.
 \q
 \v 24 The one who claims many friends is brought to ruin by them,
@@ -45,7 +45,7 @@ but a rich person is rude when he answers.
 
 ===== translationNotes: =====
 
-  * **is brought to ruin by them** - AT: "they will bring him to ruin" or "they will destroy him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **many friends is brought to ruin by them** - This can be stated in active form. AT: "many friends--they will bring him to ruin" or "many friends--his friends will destroy him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **comes closer than** - "is more faithful than" or "stays more loyal than"
  
  
@@ -61,6 +61,6 @@ but a rich person is rude when he answers.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

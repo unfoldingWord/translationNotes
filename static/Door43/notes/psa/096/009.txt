@@ -21,7 +21,6 @@
 <usfm>
 \v 9 Bow down before Yahweh when he appears in his glorious temple.
 \q2 Everyone on earth should be very afraid in his presence, because he is good and powerful, completely different than us.
-\b
 \q1
 \v 10 Say to all the people groups, "Yahweh is the king!
 \q2 He put the world in its place, and nothing will ever be able to move it.
@@ -56,7 +55,7 @@
  
 ===== translationNotes: =====
 
-  * **wearing clothing that honors his holiness** - The person is to wear clothes that show that he understands that Yahweh is holy. "Yahweh, and wear suitable clothes because he is holy." See how these words are translated in [[:en:bible:notes:psa:029:001|29:2]].
+  * **Yahweh wearing clothing that honors his holiness** - The person is to wear clothes that show that he understands that Yahweh is holy. "Yahweh, and wear suitable clothes because he is holy." See how these words are translated in [[:en:bible:notes:psa:029:001|29:2]].
   * **Tremble** - to shake because of fear
   * **all the earth** - "all the people of the earth" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **The world also is established** - This can be translated in active form. AT: "He also established the world" (See: [[:en:ta:vol2:translate:figs_activepassive]])
@@ -69,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:096]]
 **[[:en:bible:notes:psa:096:007|<<]] | [[:en:bible:notes:psa:096:011|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

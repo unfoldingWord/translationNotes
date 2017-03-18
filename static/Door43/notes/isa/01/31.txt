@@ -25,7 +25,7 @@
 
 <usfm>
 \q1
-\v 31 The strong man will be like tinder, and his work like a spark; 
+\v 31 The strong man will be like tinder, and his work like a spark;
 \q1 they will both burn together, and no one will quench them."
 </usfm>
 
@@ -36,7 +36,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah 1:31 is probably a continuation of God speaking.
+  * **General Information:** - Isaiah speaks Yahweh's words to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **The strong man** - "The strong person" or "Whoever is powerful." This may refer to people who are important and who influence other people.
   * **tinder** - dry material that burns easily
@@ -51,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit quench}}
+{{tag>publish p2pass quench}}
 
 ~~NOCACHE~~

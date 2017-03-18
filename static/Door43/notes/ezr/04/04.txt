@@ -16,9 +16,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 Then the people who had been living in that land before the Israelites returned tried to cause the Jews to become discouraged and afraid, so they would stop building 
+\v 4 Then the people who had been living in that land before the Israelites returned tried to cause the Jews to become discouraged and afraid, so they would stop building
 the temple.
-\v 5 They bribed government officials to prevent the Jews from continuing to work on the temple. They did that all during the time that Cyrus was king of 
+\v 5 They bribed government officials to prevent the Jews from continuing to work on the temple. They did that all during the time that Cyrus was king of
 Persia and also when Darius became king.
 \v 6 Then during the first year that Darius' son Ahasuerus was king, the enemies of the Jews wrote a letter to the king saying that the Jews were planning to rebel against the government.
 
@@ -49,10 +49,11 @@ Persia and also when Darius became king.
  
 ===== translationNotes: =====
 
+  * **the people of the land** - "the people who were living in the land at that time," which could include non-Jews and Jews whose families the Babylonians had not taken into exile
   * **made the Judeans' hands weak** - discouraged the Judeans (See: [[:en:ta:vol2:translate:figs_metonymy]] )
-  * **Judeans** - The people who returned and settled in the land of Judah were called Judeans.
-  * **afraid** - to be fearful
-  * **to frustrate their plans** - "to frustrate Israel's plans to build the temple"
+  * **Judeans** - people who returned from Babylon and settled in the land of Judah
+  * **to frustrate their plans** - "to make it so the Judeans could not build the temple as they had planned"
+  * **wrote an accusation against the inhabitants of Judah and Jerusalem** - The abstract nouns "accusation" can be translated as a verb "accuse" and the verb "live in," respectively. You may need to make explicit what the enemies accused the Judeans of doing. AT: "wrote a letter in which they accused those who lived in Judah and Jerusalem of disobeying the king" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -64,6 +65,6 @@ Persia and also when Darius became king.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit darius}}
+{{tag>publish p2pass darius}}
 
 ~~NOCACHE~~

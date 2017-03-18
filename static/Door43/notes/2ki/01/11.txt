@@ -31,7 +31,9 @@
 
 ===== translationNotes: =====
 
-
+  * **fifty soldiers** - "50 soldiers" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **If I am a man of God, let fire come down from heaven** - The captain had called Elijah a man of God, but the captain and the king did not show Elijah proper respect. Elijah said this so that fire would come down from heaven, and this would prove that Elijah really was a man of God and he deserved their respect. Translate this phrase the same as you did in [[:en:bible:notes:2ki:01:09|1:10]]. AT: "Since I am a man of God, let fire come down from heaven" or "If I am a man of God as you have said, let fire come down from heaven"
+  * **fire of God** - This means that the fire came from God. AT: "fire from God" (See: [[:en:ta:vol2:translate:figs_possession]])
 
 ===== Links: =====
 
@@ -40,6 +42,6 @@
   * [[:en:bible:questions:comprehension:2ki:01]]
 **[[:en:bible:notes:2ki:01:09|<<]] | [[:en:bible:notes:2ki:01:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -28,7 +28,6 @@
 \q1
 \v 30 In the winter, the water freezes and becomes as hard as a rock,
 \q2 and the surface of lakes becomes frozen.
-\b
 
 
 \q1
@@ -47,7 +46,6 @@
 \q
 \v 30 The waters hide themselves and become like stone;
 \q the surface of the deep becomes frozen.
-\b
 </usfm>
 
 
@@ -59,15 +57,20 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to challenge Job.
+  * **Connecting Statement:** - Yahweh continues to challenge Job.
+  * **General Information:** - Yahweh uses four questions to emphasize to Job that he makes rain, dew, ice, and frost and Job does not. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **General Information:** - Each of the two lines in these three verses mean similar things. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Rain, dew, ice, and frost are spoken of as though they could be born like people are. (See: [[:en:ta:vol2:translate:figs_personification]])
 
-  * **Is there a father of the rain? Who has engendered the dewdrops?** - Yahweh uses these questions to emphasize that Job does not understand how Yahweh makes rain, dew, ice, and frost. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Is there a father of the rain** - Yahweh describes the rains as though it were a person. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **engendered** - the role that the father has in causing a child to be born
-  * **dewdrops** - the drops of dew that form from condensation on plant and other things
-  * **Who bore the white frost** - "Who has given birth to the frost"
-  * **The waters hide themselves** - during the winter the ice hides the water underneath it
-  * **the deep** - This refers to deep water such as lakes, rivers, and oceans.
+  * **Is there a father of the rain? Who has engendered the dewdrops? Out of whose womb did the ice come? Who bore the white frost out of the sky?** - These can be translated as statements. AT: "Tell me whether the rain has a father, and who has engendered the raindrops. Tell me out of whose womb the ice came, and who bore the white frost out of the sky." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **engendered** - "fathered." This means the role that the father has in causing a child to be born.
+  * **dewdrops** - "drops of dew"
+  * **ice** - "frozen water"
+  * **bore** - "gave birth to"
+  * **the white frost** - dew that freezes on the ground on cold, clear nights
+  * **The waters hide themselves and become like stone** - The waters are spoken of as being able to hide. During the winter the ice hides the water underneath it. (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_rpronouns]])
+  * **become like stone** - "become hard like stone" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **the deep** - This refers to the sea or ocean where the water is very deep. AT: "the deep sea" or "the ocean depths" or "the deep water" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
 
 ===== Links: =====
 
@@ -76,6 +79,6 @@
   * [[:en:bible:questions:comprehension:job:38]]
 **[[:en:bible:notes:job:38:25|<<]] | [[:en:bible:notes:job:38:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

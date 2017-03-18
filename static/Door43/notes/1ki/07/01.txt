@@ -11,7 +11,7 @@
 
 <usfm>
 \v 1 They also built a palace for Solomon, but it required thirteen years to build it.
-\v 2 One of the buildings they built was a large ceremonial hall. It was called the Palace of the Forest of Lebanon. It was about 46 meters long, 23 meters wide, and 14 meters high. It was supported by four rows of cedar pillars. There were cedar beams across each row.
+\v 2 One of the buildings they built was a large ceremonial hall. It was called the Palace of the Forest of Lebanon. It was forty-six meters long, twenty-three meters wide, and fourteen meters high. It was supported by four rows of cedar pillars. There were cedar beams across each row.
 </usfm>
 
 ===== ULB: =====
@@ -35,11 +35,11 @@
 
   * **General Information:** - The author is writing about Solomon's palace.
 
-  * **Solomon took thirteen years to build his own palace** - Because Solomon was the king, others did the work for him. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Solomon took thirteen years to build his own palace** - Because Solomon was the king, others did the work for him. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **his own palace** - If your language does not have a word for "palace," you may translate this as "house" or "big house."
-  * **the Palace of the Forest of Lebanon** - AT: "the House of the Forest of Lebanon" or "the house called the House of the Lebanon Forest." 
-  * **cubit** - about 46 centimeters (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **beam** - a long piece of strong wood usually used as a support for a roof
+  * **the Palace of the Forest of Lebanon** - "the house called the House of the Lebanon Forest"
+  * **one hundred cubits ... fifty cubits ... thirty cubits** - A cubit is 46 centimeters. AT: "46 meters ... 23 meters ... 13.8 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **beams** - A beam is a long piece of strong wood used to support walls and roofs.
 
 ===== Links: =====
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1ki:07]]
 **[[:en:bible:notes:1ki:06:37|<<]] | [[:en:bible:notes:1ki:07:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit cedar}}
+~~DISCUSSION~~{{tag>publish p2pass cedar}}
 
 ~~NOCACHE~~

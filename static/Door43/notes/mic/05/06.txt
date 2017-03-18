@@ -18,10 +18,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 With their swords our army will defeat the army of Assyria, whose capital was founded by Nimrod long ago.
+\v 6 With their swords our army will defeat the army of Assyria, whose capital Nimrod founded long ago. Our army will rule their cities.
 \q1 So our army will rescue us from the Assyrian army
 \q2 when they invade our country.
-\b
 \q1
 \v 7 The descendants of Jacob who survive will be a blessing to the people of other nations
 \q2 like dew and rain sent by Yahweh do good to the grass.
@@ -36,8 +35,9 @@
 
 <usfm>
 \q
-\v 6 These men will rule the land of Assyria with the sword,
-\q and the land of Nimrod with swords in their hands.
+\v 6 They will shepherd the land of Assyria with the sword,
+\q and the land of Nimrod in its entrances.
+\f + \ft The Hebrew text has \fqa in its entrances \fqa* , that is, in their gates. However, some modern versions suppose that a different Hebrew word was intended: \fqa with a drawn sword \fqa* . \f* 
 \q He will rescue us from the Assyrians,
 \q when they come into our land,
 \q when they march inside our borders.
@@ -61,8 +61,9 @@
 
 ===== translationNotes: =====
 
-  * **These men** - This refers to the "seven shepherds" and "eight leaders."
+  * **They will shepherd the land of Assyria** - Here defeating the Assyrians is spoken of as if it were herding sheep. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **land of Nimrod** - This is another name for the land of Assyria. Nimrod was a hunter and early leader. Translators may add this footnote: "The name 'Nimrod' means 'rebellion.'" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **in its entrances** - This expression can be understood as "in its gates." City gates were public places where leaders often made important decisions.
   * **He will rescue** - "The ruler will rescue"
   * **like dew from Yahweh, like showers on the grass** - This emphasizes that the people of Judah will be a refreshing, a blessing, to the nations. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **that do not wait for a man, and they do not wait for the children of mankind** - AT: "and they will wait for and depend on God" (See: [[:en:ta:vol2:translate:figs_litotes]])

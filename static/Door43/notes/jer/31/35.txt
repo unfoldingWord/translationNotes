@@ -36,7 +36,7 @@
 \q
 \v 35 Yahweh says this—Yahweh, the one who makes the sun to shine by day and arranges the moon and stars to shine by night. He is the one who sets the sea in motion so that its waves roar. Yahweh of hosts is his name. He says this,
 \q
-\v 36 "Only if these permanent things vanish from my sight—this is Yahweh's declaration— 
+\v 36 "Only if these permanent things vanish from my sight—this is Yahweh's declaration—
 \q will Israel's descendants ever stop from forever being a nation before me."
 </usfm>
 
@@ -50,7 +50,10 @@
   * [[:en:obe:other:nation]]
 
 ===== translationNotes: =====
- 
+
+  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Only if these permanent things vanish ... will Israel's descendants ever stop from forever being a nation** - This is a hypothetical situation that Yahweh never expects to truly happen. AT: "These permanent things will never vanish ... and Israel's descendants will never stop from forever being a nation" (See: [[:en:ta:vol1:translate:figs_hypo]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -58,6 +61,6 @@
   * [[:en:bible:questions:comprehension:jer:31]]
 **[[:en:bible:notes:jer:31:33|<<]] | [[:en:bible:notes:jer:31:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

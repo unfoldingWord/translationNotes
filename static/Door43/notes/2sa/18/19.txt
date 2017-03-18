@@ -43,8 +43,11 @@
  
 ===== translationNotes: =====
 
-  * **Ahimaaz ... Zadok** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ahimaaz** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:15:27|15:27]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **run to the king with the good news** - Here Ahimaaz speaks of running to go and tell the king the good news as if the good news were a object that he were carrying. AT: "run to tell the king the good news" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the hand of his enemies** - Here "hand" refers to control. AT: "the control of his enemies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **the bearer of news** - "the one who tells the news"
+  * **you will bear no news** - This refers to not bearing the news to the king. AT: "you will not tell the news to the king" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -59,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

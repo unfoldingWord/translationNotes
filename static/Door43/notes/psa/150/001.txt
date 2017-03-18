@@ -17,7 +17,6 @@
 
 <usfm>
 \v 1 Praise Yahweh!
-\b
 \q1 Praise God in his temple!
 \q2 Praise him who is in his fortress in heaven!
 \q1
@@ -32,7 +31,7 @@
 
 <usfm>
 \c 150
-\p
+\m
 \q
 \v 1 Praise Yahweh.
 \q Praise God in his holy place;
@@ -52,7 +51,8 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This focuses on praise or worship is most commonly held in the temple. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - This focuses on praise or worship is most commonly held in the temple.
 
   * **Praise God in his holy place** - God's temple was often referred to as his holy place. This was the most common place to go to worship God.
   * **his mighty acts** - "the great things he has done." God's "mighty acts" can possibly mean 1) natural such as thunderstorms and earthquakes or 2) miraculous such as healings and great victories in battle.
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:150]]
 **[[:en:bible:notes:psa:149:008|<<]] | [[:en:bible:notes:psa:150:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

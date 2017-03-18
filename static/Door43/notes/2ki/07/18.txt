@@ -21,9 +21,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 18 So it happened as the man of God had said to the king, saying, "About this time in the gate of Samaria, two measures of barley will be available for a shekel, and a measure of fine flour for a shekel." 
+\v 18 So it happened as the man of God had said to the king, saying, "About this time in the gate of Samaria, two measures of barley will be available for a shekel, and a measure of fine flour for a shekel."
 \v 19 That captain had answered the man of God and said, "See, even if Yahweh should make windows in heaven, can this thing happen?" Elisha had said, "See, you will watch it happen with your own eyes, but you will not eat any of it."
-\v 20 And it happened that way to him, for the people trampled him in the gate, and he died.
+\v 20 That is what exactly what happened to him, for the people trampled him in the gate, and he died.
 </usfm>
 
 ===== translationWords: =====
@@ -31,16 +31,19 @@
   * [[:en:obe:other:samaria]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:heaven]]
+
 ===== translationNotes: =====
 
-  * **So it happened as the man of God had said to the king** - See [[:en:bible:notes:2ki:07:01]] where Elisha told all this to the king before. 
-  * **About this time** - "About this time tomorrow"
-  * **in the gate of Samaria** - "in the marketplace of Samaria" or "in the city of Samaria" 
-  * **will be available** - "will be for sale"
-  * **See** - This brings attention to what the speaker is saying (both the captain and Elijah).
-  * **can this thing happen?** - AT: "I do not believe this can happen!" (See [[:en:ta:vol1:translate:figs_rquestion]])
-  * **you will watch it happen with your own eyes** - AT: "you will be there when it happens," (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **General Information:** - In these verses, the writer summarizes what happened by repeating the events that he described in [[:en:bible:notes:2ki:07:01|7:1-2]]. (See: [[:en:ta:vol2:translate:writing_endofstory]])
 
+  * **About this time** - "About this time tomorrow" 
+  * **two measures of barley ... a measure of fine flour** - Here the word "measure" translates the word "seah," which is a unit of dry measurement equal to about 7 liters. AT: "14 liters of barley ... 7 liters of fine flour" (See: [[:en:ta:vol2:translate:translate_bvolume]])
+  * **a shekel** - A shekel is a unit of weight equal to about 11 grams. AT: "about 11 grams of silver" or "one silver coin" (See: [[:en:ta:vol2:translate:translate_bmoney]])
+  * **See** - "Indeed." The word "See" here adds emphasis to what follows.
+  * **even if Yahweh should make windows in heaven** - Yahweh causing much rain to fall in order to make the crops grow is spoken of as if Yahweh were opening windows in heaven through which he pours down rain. See how you translated this in [[:en:bible:notes:2ki:07:01|7:2]]. AT: "even if Yahweh were to cause much rain to fall from heaven" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **can this thing happen?** - The captain asks this question to express his unbelief. This question can be translated as a statement. See how you translated this in [[:en:bible:notes:2ki:07:01|7:2]]. AT: "this could never happen!" (See [[:en:ta:vol1:translate:figs_rquestion]])
+  * **you will watch it happen with your own eyes** - The phrase "with your own eyes" emphasizes that the captain will certainly see the things that Elisha prophesied. See how you translated this in [[:en:bible:notes:2ki:07:01|7:2]]. AT: "you yourself will watch these things happen" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **but you will not eat any of it** - "but you will not eat any of the flour or barley"
 
 ===== Links: =====
 
@@ -49,6 +52,6 @@
   * [[:en:bible:questions:comprehension:2ki:07]]
 **[[:en:bible:notes:2ki:07:16|<<]] | [[:en:bible:notes:2ki:08:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -35,7 +35,8 @@
   * [[:en:obe:other:father]]
 ===== translationNotes: =====
 
-  * **Jeshua ... Joiakim ... Eliashib ... Joiada ... Jonathan ... Jaddua** - These are male names (See: [[:en:ta:vol1:translate:translate_names]]
+  * **Jeshua ... Joiakim ... Eliashib ... Joiada ... Jonathan ... Jaddua** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]]
+  * **Jeshua was the father of Joiakim** - If your reader will need to know that this Jeshua had been high priest many years before this time, you may want to follow the example of the UDB. AT: "Jeshua many years previously was the high priest. He was the father of Joiakim." (See: [[:en:ta:vol1:translate:figs_explicit]])
  
  
 ===== Links: =====
@@ -51,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

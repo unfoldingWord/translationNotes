@@ -19,11 +19,9 @@
 
 <usfm>
 \v 9 No one can truthfully say, "I have kept my heart pure, and I am free from my sins."
-\b
 \q1
 \v 10 Uneven weights, improperly marked, and unequal measures, that favor the one who is selling,
-\q2 Yahweh hates both of them. 
-
+\q2 Yahweh hates both of them.
 
 \q1
 </usfm>
@@ -51,10 +49,10 @@
 
 ===== translationNotes: =====
 
-
-  * **Who can say, "I have kept my heart clean; I am free from my sin"?** - The implicit answer to this question is, "No one can say that." AT: "No one can say that his heart is clean and that he is free from sin" or "everyone has to say that his heart is not clean and that he is a sinner" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **my heart** - AT: "myself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I am free from my sin** - AT: "I have not sinned"
+  * **Who can say, "I have kept my heart clean; I am free from my sin"?** - The implicit answer to this question is, "No one can say that." This rhetorical question can be written as a statement. AT: "No one can say that his heart is clean and that he is free from sin" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **my heart** - Here a person is referred to by his "heart" to emphasize his thoughts and desires. AT: "myself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **clean** - A person who God considers spiritually acceptable is spoken of as if the person where physically clean. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I am free from my sin** - "I am without sin" or "I have not sinned"
  
 ===== Links: =====
 
@@ -69,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

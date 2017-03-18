@@ -23,8 +23,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 22 I will save my flock and they will no longer be plunder. And I will judge between one sheep and another sheep!
-\v 23 I will set over them one shepherd, my servant David. He will shepherd them, he will feed them, and he will be their shepherd. 
+\v 22 I will save my flock and they will no longer be plunder, and I will judge between one sheep and another!
+\v 23 I will set over them one shepherd, my servant David. He will shepherd them, he will feed them, and he will be their shepherd.
 \v 24 For I, Yahweh, will be their God, and my servant David will be a prince among them—I, Yahweh, have declared this.
 </usfm>
 
@@ -37,17 +37,18 @@
   * [[:en:obe:other:david]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:god]]
+  * [[:en:obe:other:prince]]
   * [[:en:obe:other:declare]]
 
 ===== translationNotes: =====
+  * **General Information:** - Yahweh continues speaking of the people of Israel as if they were a flock of sheep and of himself as if he were their shepherd. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
+  * **they will no longer be plunder** - This can be stated in active form. AT: "I will not allow anyone to plunder them" or "I will not allow anyone to take them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **plunder** - "things that are stolen." The shepherds and wild animals have been stealing the sheep and the goats from Yahweh's flock.
-  * **I will judge between one sheep and another sheep** - See how you translated "I will be a judge among sheep" in [[:en:bible:notes:ezk:34:17|34:17]].
-  * **I will set over them one shepherd** - "I will assign one shepherd to be in charge of my sheep and the goats"
-  * **my servant David** - Yahweh said "David" to refer to a descendent of David. AT: "a descendent of my servant David." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will be their God** - See how you translated this in [[:en:bible:notes:ezk:11:19|11:20]].
+  * **I will set over them one shepherd** - The phrase "set over" is an idiom that means to cause a person to rule someone else. AT: "I will assign one shepherd to be in charge of my sheep and the goats" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **my servant David** - Yahweh said "David" to represent a descendant of David. AT: "a descendant of my servant David" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **He will shepherd them** - The descendant of David being the king over the people of Israel is spoken of as if he would be their shepherd. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **will be a prince among them** - "will be their ruler"
-  * **I, Yahweh, have declared this** - See how you translated this in [[:en:bible:notes:ezk:05:15|5:17]].
 
 ===== Links: =====
 
@@ -56,6 +57,6 @@
   * [[:en:bible:questions:comprehension:ezk:34]]
 **[[:en:bible:notes:ezk:34:20|<<]] | [[:en:bible:notes:ezk:34:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 14 As for the other matters concerning Elah, all that he did, are they not written in The Book of the Events of the Kings of Israel?
+\v 14 As for the other matters concerning Elah, all that he did, are they not written in the book of the events of the kings of Israel?
 </usfm>
 
 ===== translationWords: =====
@@ -30,8 +30,8 @@
 
 ===== translationNotes: =====
 
-  * **all that he did, are they not written ... Kings of Israel?** - See how you translated this in [[:en:bible:notes:1ki:15:31|15:31]]. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **are they not written ... kings of Israel?** - This question is used to either inform or remind the readers that the information about Elah is in this other book. This rhetorical question can be translated as a statement. See how you translated this in [[:en:bible:notes:1ki:15:31|15:31]].  AT: "they are written in the book of the events of the kings of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **are they not written ... Israel?** - This can be stated in active form. AT: "someone has written about them in the book of the events of the kings of Israel." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -39,6 +39,6 @@
   * [[:en:bible:questions:comprehension:1ki:16]]
 **[[:en:bible:notes:1ki:16:11|<<]] | [[:en:bible:notes:1ki:16:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

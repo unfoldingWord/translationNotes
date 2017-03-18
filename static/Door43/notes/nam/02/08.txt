@@ -26,19 +26,20 @@
 
 <usfm>
 \v 8 The people will rush from Nineveh
- like water rushes from a broken dam.
- The officials will shout, "Stop! Stop!"
- but the people will not even look back as they run away.
+\q2 like water rushes from a broken dam.
+\q2 The officials will shout, "Stop! Stop!"
+\q2 but the people will not even look back as they run away.
+\q1
 \v 9 The enemy attackers say to each other, 
-\pi "Seize the silver!
- Grab the gold!
- There is a huge amount of very valuable things in the city,
- more valuable things than anyone can count!"
-\m
+\q2 "Seize the silver!
+\q2 Grab the gold!
+\q1 There is a huge amount of very valuable things in the city,
+\q2 more valuable things than anyone can count!"
+\q1
 \v 10 Soon everything valuable in the city will be seized or ruined.
  People will be trembling, with the result that they will not be able to fight.
  Their faces will all become pale with fear.
-\b
+\q1
 </usfm>
 
 
@@ -46,13 +47,13 @@
 
 <usfm>
 \q
-\v 8 Nineveh is like a leaking pool of water, with its people fleeing away like rushing water. 
+\v 8 Nineveh is like a leaking pool of water, with its people fleeing away like rushing water.
 \q Others shout, "Stop, stop," but no one looks back.
 \q
-\v 9 Take the silver plunder, take the gold plunder, for there is no end to it, 
+\v 9 Take the silver plunder, take the gold plunder, for there is no end to it,
 \q to the splendor of all Nineveh's beautiful things.
 \q
-\v 10 Nineveh is empty and ruined. Everyone's heart melts, everyone's knees strike together, 
+\v 10 Nineveh is empty and ruined. Everyone's heart melts, everyone's knees strike together,
 \q and anguish is in everyone; their faces are all pale.
 </usfm>
 
@@ -70,7 +71,7 @@
 ===== translationNotes: =====
 
   * **plunder** - Things stolen by force, usually in war.
-  * **there is no end to it** - This is a way to say there is a huge amount of something. Alternate translation: "there is a huge amount of it" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **there is no end to it** - This is a way to say there is a huge amount of something. AT: "there is a huge amount of it" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
   * **splendor of all Nineveh's beautiful things** - Possible meanings: 1) "abundance of all the beautiful things" or 2) "amount of all the beautiful things"
   * **Everyone's heart melts** - "All the people lose their courage" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
  

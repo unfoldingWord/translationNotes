@@ -40,11 +40,11 @@
 <usfm>
 \p
 \v 21 Then Isaiah son of Amoz sent a message to Hezekiah, saying, "Yahweh, the God of Israel says, 'Because you have prayed to me concerning Sennacherib king of Assyria,
-\v 22 this is the word that Yahweh has spoken about him: 
-\q1 "The virgin daughter of Zion despises you and laughs you to scorn; 
+\v 22 this is the word that Yahweh has spoken about him:
+\q1 "The virgin daughter of Zion despises you and laughs you to scorn;
 \q1 the daughter of Jerusalem shakes her head at you.
 \q1
-\v 23 Whom have you defied and insulted? And against whom have you exalted your voice
+\v 23 Whom have you defied and insulted? Against whom have you exalted your voice
 \q1 and lifted up your eyes in pride? Against the Holy One of Israel.
 </usfm>
 
@@ -69,10 +69,14 @@
 
 ===== translationNotes: =====
 
-  * **The virgin daughter of Zion ... shakes her head at you.** - These two phrases both mean the same thing and refer to the inhabitants of Jerusalem. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **shakes her head** - This is a gesture of scorn. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **The virgin daughter of Zion ... the daughter of Jerusalem** - Both of these phrases refer to the people of Jerusalem. See how you translated a similar phrase in [[:en:bible:notes:isa:01:07|1:8]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Whom have you defied and insulted? And against whom have you exalted your voice and lifted up your eyes in pride? Against the Holy One of Israel.** - Yahweh uses questions to ridicule the king of Assyria. AT: "You have rebelled against, and spoken against, and lifted yourself above Yahweh, the Holy One of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **sent a message** - This means that he sent a messenger to give a message to the king. AT: "sent someone to give a message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **is the word that Yahweh has spoken** - "is what Yahweh has said"
+  * **laughs you to scorn** - "laughs at you" or "makes fun of you"
+  * **shakes her head** - This is a gesture of scorn. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **The virgin daughter of Zion ... the daughter of Jerusalem** - These are idioms. Both of these phrases have the same meaning. The "daughter" of a city means the people who live in the city. See how you translated a similar phrase in [[:en:bible:notes:isa:01:07|1:8]].  AT: "The people of Zion ... the people of Jerusalem" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Whom have you defied and insulted? ... Against the Holy One of Israel.** - Yahweh uses these rhetorical questions to ridicule the king of Assyria. These can be written as statements. AT: "You have defied and insulted Yahweh, you have shouted at and acted pridefully against the Holy One of Israel!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **have you exalted your voice** - This refers to speaking loudly as if the person's voice were an object that they lifted high. AT: "have you shouted" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **lifted up your eyes in pride** - This is an idiom that means to look at something pridefully, considering yourself more important that you should. AT: "looked at pridefully" or "acted pridefully" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -87,6 +91,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit amoz}}
+{{tag>publish p2pass p2example amoz}}
 
 ~~NOCACHE~~

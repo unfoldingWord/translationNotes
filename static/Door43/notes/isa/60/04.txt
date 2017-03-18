@@ -36,12 +36,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 4 Look all around and see. They all gather themselves together and come to you. 
+\v 4 Look all around and see. They all gather themselves together and come to you.
 \q1 Your sons will come from far, and your daughters will be carried in their arms.
 \q1
-\v 5 Then you will look and be radiant, and your heart shall rejoice and overflow, 
+\v 5 Then you will look and be radiant, and your heart shall rejoice and overflow,
 \q1 because the abundance of the sea will be poured out to you, the wealth of the nations will come to you.
 </usfm>
 
@@ -55,12 +54,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues speaking to the people of Israel.
+  * **General Information:** - Here Yahweh begins speaking.
 
-  * **They all gather themselves** - "They" refers to the rest of the people of Israel returning to Jerusalem.
-  * **your daughters will be carried in their arms** - This can be stated in active form. AT: "you will be brought back like daughters being carried on the hip" or "they will carry your daughters on the hip" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **They all gather themselves** - "They" refers to the rest of the people of Israel who will come together to return to Jerusalem.
+  * **your daughters will be carried in their arms** - This can be stated in active form. AT: "they will carry your daughters in their arms" or "they will carry your daughters on their hips" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Then you will look and be radiant, and your heart shall rejoice and overflow** - These phrases share similar meanings and emphasize that they will be very happy because of what will happen in Jerusalem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **the abundance of the sea** - This refers to the riches and goods that will come to Jerusalem via ships, perhaps from along the Mediterranean Sea.
+  * **the abundance of the sea** - This refers to the riches and goods that will come to Jerusalem by way of shipping, perhaps from along the Mediterranean Sea.
+  * **be poured out to you** - This describes that the abundance will be like water that gushes out. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:60]]
 **[[:en:bible:notes:isa:60:02|<<]] | [[:en:bible:notes:isa:60:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

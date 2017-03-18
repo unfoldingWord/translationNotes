@@ -18,9 +18,8 @@
 <usfm>
 \v 16 Manasseh commanded his officials to kill many innocent people in Jerusalem, with the result that their blood flowed in the streets. He did this in addition to persuading the people of Judah to do many things that Yahweh said were evil.
 \p
-\v 17 If you want to know more about all the things that Manasseh did, they are written in the Book of the Events of the Kings of Judah.
+\v 17 If you want to know more about all the things that Manasseh did, they are written in the book of the events of the Kings of Judah.
 \v 18 Manasseh died and was buried in the garden outside his palace, the garden that Uzza had made. Then his son Amon became the king.
-
 
 
 \p
@@ -32,7 +31,7 @@
 <usfm>
 \p
 \v 16 Moreover, Manasseh shed much innocent blood, until he had filled Jerusalem from one end to another with death. This was in addition to the sin by which he made Judah to sin, when they did what was evil in the sight of Yahweh.
-\v 17 As for the other matters concerning Manasseh, all that he did, and the sin that he committed, are they not written in The Book of the Events of the Kings of Judah?
+\v 17 As for the other matters concerning Manasseh, all that he did, and the sin that he committed, are they not written in the book of the events of the kings of Judah?
 \v 18 Manasseh slept with his ancestors and was buried in the garden of his own house, in the garden of Uzza. Amon his son became king in his place.
 </usfm>
 
@@ -46,12 +45,14 @@
   * [[:en:obe:other:bury]]
 ===== translationNotes: =====
 
-
-  * **Moreover** - "In addition to those evil things"
-  * **evil in the sight of Yahweh** - See how you translated this in [[:en:bible:notes:2ki:03:01|3:2]]
-  * **are they not written ... Judah?** - AT: "you can be certain that they are written ... Judah." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Moreover** - "Also" or "In addition"
+  * **Manasseh shed much innocent blood** - The words "shed much innocent blood" are a metonym for killing people violently. It might be best to translate this so the reader understands that other people helped Manasseh do this. AT: "Manasseh ordered his soldiers to kill many innocent people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he had filled Jerusalem from one end to another with death** - This hyperbole emphasizes the great number of people Manasseh had killed throughout Jerusalem. The abstract noun "death" can be stated as "dead people." AT: "there were very many dead people throughout Jerusalem" (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **what was evil in the sight of Yahweh** - The nominal adjective "evil" can be translated as a relative clause "things that ... evil." Here Yahweh's "sight" refers to how he judges or decides on the value of something. Translate this as you did in [[:en:bible:notes:2ki:03:01|3:2]]. AT: "things that Yahweh said were evil" or "the things that Yahweh considers evil" (See: [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **are they not written ... Judah?** - This can be expressed in active form and assumes that the answer is positive. The question is rhetorical and is used for emphasis. See how this phrase is translated in [[:en:bible:notes:2ki:08:22|8:23]]. AT: "they are written ... Judah." or "you can find them ... Judah." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **slept with his ancestors and** - This is a polite way of saying he "died, as his ancestors had, and" (See: [[:en:ta:vol2:translate:figs_euphemism]])
   * **the garden of Uzza** - Possible meanings are 1) "the garden that had once belonged to a man named Uzza" or 2) "Uzza Garden." (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Amon** - man's name (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Amon** - This is a man's name (See: [[:en:ta:vol1:translate:translate_names]])
 
  
 ===== Links: =====
@@ -67,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

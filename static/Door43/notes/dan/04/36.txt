@@ -11,7 +11,7 @@
 
 <usfm>
 \v 36 When I was able to think correctly again, I was honored again; and for the glory of my kingdom, my splendor and the shining brightness of my reign were brought back to my kingdom again. My advisors returned to me, and I became greater and more powerful than I was before.
-\v 37 Now I, Nebuchadnezzar, praise and honor God, the king who rules in heaven. All of his actions are just and right. And he is able to make the proud humble."
+\v 37 Now I, Nebuchadnezzar, praise and honor God, the king who rules in heaven. All of his actions are just and right. And he is able to make the proud humble.
 </usfm>
 
 ===== ULB: =====
@@ -44,11 +44,16 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - In verses 34-37 Nebuchadnezzar speaks in the first person to describe his response to God. (See: [[:en:ta:vol2:translate:figs_123person]])
+
+  * **my sanity returned to me** - Here his sanity is spoken of as if it was able to return by its own power. AT: "I became sane again" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **my majesty and splendor returned to me** - Here his majesty and splendor are spoken of as if they were able to return by their own power. AT: "I regained my majesty and my splendor again" (See: [[:en:ta:vol2:translate:figs_personification]])
   * **majesty and splendor** - These words mean basically the same thing and emphasize the greatness of his glory. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **my noblemen sought my favor** - "my noblemen requested my counsel again"
-  * **I was brought ... greatness was given to me.** - "I returned to rule my kingdom again, and I received even more greatness" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **my noblemen sought my favor** - "my noblemen requested my help again"
+  * **I was brought ... greatness was given to me** - Here "throne" refers to his authority to rule. This can be stated in active form. AT: "I returned to rule my kingdom again, and I received even more greatness" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]]) 
   * **praise, extol, and honor** - All three of these words have basically the same meaning and emphasize how greatly he praised God. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **who walk in their own pride** - This phrase uses "walk" to refer to the person being proud. AT: "who are proud" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **who walk in their own pride** - This phrase uses "walk" to refer to the person who acts proud. AT: "who are proud" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
 
 ===== Links: =====
 
@@ -57,6 +62,6 @@
   * [[:en:bible:questions:comprehension:dan:04]]
 **[[:en:bible:notes:dan:04:35|<<]] | [[:en:bible:notes:dan:05:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit majesty works noble}}
+~~DISCUSSION~~{{tag>publish p2pass majesty works noble}}
 
 ~~NOCACHE~~

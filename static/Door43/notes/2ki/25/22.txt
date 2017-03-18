@@ -29,7 +29,7 @@
 
 <usfm>
 \p
-\v 22 As for the people who remained in the land of Judah, those whom Nebuchadnezzar king of Babylon had left, he put Gedaliah son of Ahikam son of Shaphan, in charge of them.
+\v 22 As for the people who remained in the land of Judah, those whom Nebuchadnezzar king of Babylon had left, he put Gedaliah son of Ahikam, son of Shaphan, in charge of them.
 \v 23 Now when all the commanders of the soldiers, they and their men, heard that the king of Babylon had made Gedaliah governor, they went to Gedaliah at Mizpah. These men were Ishmael son of Nethaniah, Johanan son of Kareah, Seraiah son of Tanhumeth the Netophathite, and Jaazaniah son of the Maacathite—they and their men.
 \v 24 Gedaliah made an oath to them and to their men, and said to them, "Do not be afraid of the Chaldean officials. Live in the land and serve the king of Babylon, and it will go well with you."
 </usfm>
@@ -45,9 +45,9 @@
   * [[:en:obe:other:serve]]
 ===== translationNotes: =====
 
-  * **Nebuchadnezzar ... Gedaliah ... Ahikam ... Shaphan ... Ishmael ... Nethaniah ... Johanan ... Kareah ... Seraiah ... Tanhumeth ... Jaazaniah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Netophathite** - This means that Tanhumeth is from the family or clan of Netophah. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Maacathite** - This means that Jaazaniah's father was from a place called Maacah. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Gedaliah ... Ahikam ... Shaphan ... Ishmael ... Nethaniah ... Johanan ... Kareah ... Seraiah ... Tanhumeth ... Jaazaniah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Netophathite** - This refers to a person who is a descendant of a man named Netophah. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Maacathite** - This refers to a person who comes from a place called Maacah. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -59,6 +59,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

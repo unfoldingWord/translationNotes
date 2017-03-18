@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 17 Therefore, your Majesty, please order someone to search in the place in Babylon where the important records are kept, to find out whether it is true that King Cyrus decreed that God's 
+\v 17 Therefore, your Majesty, please order someone to search in the place in Babylon where the important records are kept, to find out whether it is true that King Cyrus decreed that God's
 temple should be rebuilt in Jerusalem. Then you can tell us what you want us to do about this matter."
 </usfm>
 
@@ -19,7 +19,7 @@ temple should be rebuilt in Jerusalem. Then you can tell us what you want us to 
 ===== ULB: =====
 
 <usfm>
-\v 17 Now if it pleases the king, may it be investigated in the house of archives in Babylon if a judgment from King Cyrus exists there to build this house of God in Jerusalem. Then let the king send his decision to us."
+\v 17 Now if it pleases the king, may it be investigated in the house of archives in Babylon if a judgment from King Cyrus exists there to build this house of God in Jerusalem. Then let the king send his decision to us.
 </usfm>
 
 
@@ -29,8 +29,10 @@ temple should be rebuilt in Jerusalem. Then you can tell us what you want us to 
 
 ===== translationNotes: =====
 
-  * **may it be investigated** - The writers request the king to find out from the official records. (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **if a judgment from King Cyrus** - if an order from King Cyrus
+  * **General Information:** - The letter from Tattenai to the king that began in [[:en:bible:notes:ezr:05:06|5:7]] continues. Tattenai has finished telling the king what the Judeans told him and now asks the king to see if what the Judeans told him was true.
+
+  * **may it be investigated** - This can be translated in active form. AT: "I would like you to have someone investigate this matter" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **if a judgment from King Cyrus exists there** - "if there is a record there that King Cyrus issued a law"
 
 ===== Links: =====
 
@@ -42,6 +44,6 @@ temple should be rebuilt in Jerusalem. Then you can tell us what you want us to 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

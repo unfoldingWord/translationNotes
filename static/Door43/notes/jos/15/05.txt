@@ -22,7 +22,7 @@
 
 <usfm>
 \v 5 The eastern boundary was the Salt Sea, at the mouth of the Jordan. The border on the north ran from the bay of the sea at the mouth of the Jordan.
-\v 6 It went up to Beth Hoglah and passed along north of Beth Arabah. Then it went up to the Stone of Bohan the son of Reuben).
+\v 6 It went up to Beth Hoglah and passed along north of Beth Arabah. Then it went up to the Stone of Bohan the son of Reuben.
 </usfm>
 
 
@@ -35,7 +35,7 @@
 
 ===== translationNotes: =====
 
-  * **at the mouth of the Jordan** - The point as which the river empties into the sea is spoken of as if it were the mouth of the river. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **at the mouth of the Jordan** - The point at which the river empties into the sea is spoken of as if it were the mouth of the river. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **border ... ran** - "border ... was"
   * **Beth Hoglah ... Beth Arabah** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
   * **the Stone of Bohan** - This was likely a large stone that someone set up as a landmark and named after the man, Bohan. (See: [[:en:ta:vol1:translate:translate_names]])
@@ -53,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

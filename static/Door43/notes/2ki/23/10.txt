@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 10 Josiah defiled Topheth, which is in the valley of Ben Hinnom, so that no one might put his son or his daughter into the fire as a sacrifice to Molech.
+\v 10 Josiah defiled Topheth, which is in the Valley of Ben Hinnom, so that no one might put his son or his daughter into the fire as a sacrifice to Molech.
 \v 11 He took away the horses that the kings of Judah had given to the sun. They had been in an area at the entrance to the temple of Yahweh, near the room of Nathan Melech, the chamberlain. Josiah burned the chariots of the sun.
 </usfm>
 
@@ -40,8 +40,9 @@
 
   * **Topheth ... Ben Hinnom** - place names (See: [[:en:ta:vol1:translate:translate_names]])
   * **put his son or his daughter into the fire as a sacrifice to Molech** - "put his son or his daughter in the fire and burn them as an offering to Molech"
-  * **He took away** - "King Josiah had his officials take away"
+  * **He took away** - It might be best to translate so that the reader understands that other people, perhaps Hilkiah and "the priests under him" ([[:en:bible:notes:2ki:23:04|23:4]]), might have helped Josiah do this. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **the horses** - Possible meanings are 1) real horses or 2) statues of horses.
+  * **had given to the sun** - This metonym means "had used to worship the sun." (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Nathan Melech** - a man's name (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
@@ -56,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit molech}}
+{{tag>publish p2pass molech}}
 
 ~~NOCACHE~~

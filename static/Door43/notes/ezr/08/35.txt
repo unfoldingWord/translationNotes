@@ -12,9 +12,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 35 We who had returned from Babylonia offered to God sacrifices on the altar. We offered twelve bulls for all us Israelite people. We also offered ninety-six rams and seventy-seven lambs. 
+\v 35 We who had returned from Babylonia offered to God sacrifices on the altar. We offered twelve bulls for all us Israelite people. We also offered ninety-six rams and seventy-seven lambs.
 We also sacrificed twelve goats to atone for the sins that all the people had committed. These were all completely burned on the altar.
-\v 36 Some of us who returned from Babylonia took to the governors and other officials of the province west of the Euphrates River the letter that the king had given to us. After they read the 
+\v 36 Some of us who returned from Babylonia took to the governors and other officials of the province west of the Euphrates River the letter that the king had given to us. After they read the
 letter, they did all that they were able to do for us Israelite people and for the temple of God."
 </usfm>
 
@@ -24,7 +24,7 @@ letter, they did all that they were able to do for us Israelite people and for t
 <usfm>
 \p
 \v 35 The ones who came back from the captivity, the people of exile, offered burnt offerings to the God of Israel: twelve bulls for all of Israel, ninety-six rams, seventy-seven lambs, and twelve male goats as a sin offering. All were a burnt offering for Yahweh.
-\v 36 Then they gave the king's decrees to the king's high officials and the governors beyond the River, and they helped the people and God's house."
+\v 36 Then they gave the king's decrees to the king's high officials and the governors in the Province Beyond the River, and they helped the people and the house of God.
 </usfm>
 
 
@@ -45,9 +45,10 @@ letter, they did all that they were able to do for us Israelite people and for t
  
 ===== translationNotes: =====
 
-  * **from the captivity, the people of exile** - These are the Jewish people who were taken captive and resettled in Babylon and choose to come back to Judea and Jerusalem. 
-  * **twelve ... ninety-six ... seventy-seven** - 12, 96 and 77. (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **governors beyond the River** - These were the Babylonian officials managing the people west of the Euphrates River which included those residing in Judea.
+  * **The ones who came back from the captivity ... the people of exile** - These two phrases refer to the Jewish people who were living as exiles in Babylon and who left Babylon and returned to Jerusalem in Judea. AT: "The ones who came back to Jerusalem from the captivity in Babylon, the people of exile"
+  * **twelve ... ninety-six ... seventy-seven ... twelve** - "12 ... 96 ... 77 ... 12" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **the governors in the Province Beyond the River** - These were the Babylonian officials managing the people west of the Euphrates River, which included the people living in Judea.
+  * **the Province Beyond the River** - This is the name of the province that was west of the Euphrates River. It was across the river from the city of Susa. It included Judea. See how you translated it in [[:en:bible:notes:ezr:04:09|4:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
   * **God's house** - the temple
  
 ===== Links: =====
@@ -63,6 +64,6 @@ letter, they did all that they were able to do for us Israelite people and for t
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit lamb}}
+{{tag>publish p2pass lamb}}
 
 ~~NOCACHE~~

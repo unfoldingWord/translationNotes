@@ -20,8 +20,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 25 He took the fat, the fat tail, all the fat that was on the inner parts, the covering of the liver, the two kidneys and their fat, and the right thigh. 
-\v 26 Out of the basket of bread without yeast that was before Yahweh, he took one loaf without yeast, and one loaf of oiled bread, and one wafer, and placed them on the fat and on the right thigh. 
+\v 25 He took the fat, the fat tail, all the fat that was on the inner parts, the covering of the liver, the two kidneys and their fat, and the right thigh.
+\v 26 Out of the basket of bread without yeast that was before Yahweh, he took one loaf without yeast, and one loaf of oiled bread, and one wafer, and placed them on the fat and on the right thigh.
 \v 27 He put it all in the hands of Aaron and in the hands of his sons and waved them before Yahweh as a wave offering.
 </usfm>
 
@@ -42,28 +42,25 @@
 
 ===== translationNotes: =====
 
-
   * **inner parts** - **the inner parts** - This is the stomach and intestines. See how you translated this in [[:en:bible:notes:lev:01:07|1:9]].
   * **liver ... kidneys** - Translate these words the same way you did in [[:en:bible:notes:lev:03:03|3:4]].
   * **right thigh** - The thigh is the upper part of the leg above the knee. See how you translated this in [[:en:bible:notes:lev:07:31|7:32]].
   * **the basket of bread without yeast that was before Yahweh** - This does not refer to the location of the basket of bread. It means this is the bread that Moses had dedicated to Yahweh.
   * **put it all in the hands of Aaron and in the hands of his sons** - Here "hands" represents the whole person. AT: "gave it all to Aaron and his sons" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **raised them high as an offering before Yahweh** - It is implied that Aaron and his sons raised up the offering. AT: "and they raised them high as an offering before Yahweh" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **raised them high** - This is a symbolic action that dedicates the offering to Yahweh. (See: [[:en:ta:vol2:translate:translate_symaction]])
- 
+  * **waved them before Yahweh as a wave offering** - It is implied that Aaron and his sons presented the offering. The full meaning of this statement can be made clear. AT: "they waved them before Yahweh as a wave offering" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **waved them** - This is a symbolic action that dedicates the offering to Yahweh. (See: [[:en:ta:vol2:translate:translate_symaction]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:lev:00:intro]]
   * [[:en:bible:notes:lev:08:00]]
   * [[:en:bible:questions:comprehension:lev:08]]
-
- 
-
 **[[:en:bible:notes:lev:08:22|<<]] | [[:en:bible:notes:lev:08:28|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

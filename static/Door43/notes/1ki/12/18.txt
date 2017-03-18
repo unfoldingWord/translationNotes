@@ -37,8 +37,10 @@
 
 ===== translationNotes: =====
 
-  * **all Israel stoned him** - AT: "all the people of Israel who were there" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **the house of David** - AT: "the kings descended from David" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Adoram** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **all Israel** - Here "Israel" is a metonym for the people of Israel. "All Israel" is an exaggeration which means almost all the people of Israel. AT: "all the people of Israel who were there" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **the house of David** - Here "house" is a metonym that represents family or descendants. AT: "the kings descended from David" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to this day** - "Day" is a metonym for a period of time, a duration. Here it refers to the time that the writer was actually writing this. AT: "to the time of the writer" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -47,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:12]]
 **[[:en:bible:notes:1ki:12:16|<<]] | [[:en:bible:notes:1ki:12:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit rebel}}
+~~DISCUSSION~~{{tag>publish p2pass rebel}}
 
 ~~NOCACHE~~

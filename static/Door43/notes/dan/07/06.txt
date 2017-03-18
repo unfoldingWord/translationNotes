@@ -38,10 +38,14 @@
 
 ===== translationNotes: =====
 
-  * **it had four heads** - "the leopard had four heads." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **On its back ... it had four heads** - This is not an ordinary leopard. The animal, its wings, and its head are all symbols.
-  * **It was given authority to rule** - "Someone gave it authority to rule"
+  * **another animal, one that looked like a leopard** - This was not an actual leopard, but a symbolic animal that was similar to a leopard. (See: [[:en:ta:vol2:translate:writing_symlanguage]])
+  * **four wings ... four heads** - The four wings and four heads are symbols, but their meaning is unclear. (See: [[:en:ta:vol2:translate:writing_symlanguage]])
+  * **it had four heads** - "the animal had four heads"
+  * **It was given authority to rule** - This can be stated in active form. AT: "Someone gave it authority to rule" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a fourth animal ... it had ten horns** - This is also not an actual animal. It is a symbolic creature. (See: [[:en:ta:vol2:translate:writing_symlanguage]])
   * **trampled underfoot** - "walked on and crushed" 
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -49,6 +53,6 @@
   * [[:en:bible:questions:comprehension:dan:07]]
 **[[:en:bible:notes:dan:07:04|<<]] | [[:en:bible:notes:dan:07:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit leopard}}
+~~DISCUSSION~~{{tag>publish p2pass leopard}}
 
 ~~NOCACHE~~
