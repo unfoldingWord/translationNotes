@@ -20,7 +20,7 @@ const DataFetcher = function (params, progress, callback, addNewBible, addNewRes
   /**
   * @description This fetches the data for translationHelps (TranslationAcademy
   * specifically)
-  *******************************************************************************/
+  */
   var sectionList = require('./static/SectionList.json');
   var tASectionList = sectionList.sectionList;
   addNewResource('translationNotes', tASectionList);
