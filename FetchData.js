@@ -16,7 +16,7 @@ const Door43DataFetcher = require('./parsers/Door43DataFetcher.js');
   * @param {callback} addNewResource -
   *        @example take in two arguments resource name and resource data
   */
-const DataFetcher = function (params, progress, callback) {
+const DataFetcher = function (params, progress, callback, addNewBible, addNewResource) {
   /**
   * @description This fetches the data for translationHelps (TranslationAcademy
   * specifically)
