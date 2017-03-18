@@ -5,7 +5,17 @@ const fs = require('fs');
 const HTMLScraper = require('./parsers/HTMLscraper');
 const Parser = require('./parsers/tNParser.js');
 const Door43DataFetcher = require('./parsers/Door43DataFetcher.js');
-
+  /**
+  * Fetch data.
+  * @param {Object} params - .
+  * @param {} progress -
+  * @param {callback} callback -
+  * @param {callback} addNewBible - redux action to save a bible to
+  * the resources reducer.
+  *        @example take in two arguments bible name/version and bible data
+  * @param {callback} addNewResource -
+  *        @example take in two arguments resource name and resource data
+  */
 const DataFetcher = function (params, progress, callback, addNewBible, addNewResource) {
   /**
   * @description This fetches the data for translationHelps (TranslationAcademy
