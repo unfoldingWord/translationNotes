@@ -8,12 +8,13 @@ const Door43DataFetcher = require('./parsers/Door43DataFetcher.js');
   /**
   * Fetch data.
   * @param {Object} params - .
-  * @param {} progress -
-  * @param {callback} callback -
-  * @param {callback} addNewBible - redux action to save a bible to
-  * the resources reducer.
+  * @param {function} progress -
+  * @param {function} callback -
+  * @param {function} addNewBible (callback) - callback that uses a redux action to save a bible to
+  *        the resources reducer.
   *        @example take in two arguments bible name/version and bible data
-  * @param {callback} addNewResource -
+  * @param {function} addNewResource (callback) - callback that uses a redux action to save a resource to
+  *        the resources reducer.
   *        @example take in two arguments resource name and resource data
   */
 const DataFetcher = function (params, progress, callback, addNewBible, addNewResource) {
