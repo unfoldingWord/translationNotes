@@ -6,7 +6,7 @@
   "include": {
     "TranslationHelps": "1.0.0",
     "ScripturePane": "1.0.2",
-    "VerseCheck": "1.0.0",
+    "VerseCheck": "1.0.0"
   },
   "main": "Container.js",
   "display": "app",
