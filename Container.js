@@ -225,6 +225,10 @@ class Container extends React.Component {
       let title = currentFile.match(/title: .*/)[0].replace('title: ', '');
       currentFile = currentFile.replace(/---[\s\S]+---/g, '');
       currentFile = '## ' + title + '\n' + currentFile;
+      if(!this.props.online){
+        let parsedFile = currentFile.replace(/\[([^\)]+)\)/g, "**Link Redacted, go online to enable links**");
+        currentFile = parsedFile;
+      }
     }catch(e){
     }
     return (
