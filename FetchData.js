@@ -5,14 +5,27 @@ const fs = require('fs');
 const HTMLScraper = require('./parsers/HTMLscraper');
 const Parser = require('./parsers/tNParser.js');
 const Door43DataFetcher = require('./parsers/Door43DataFetcher.js');
-
-const DataFetcher = function (params, progress, callback) {
+  /**
+  * Fetch data.
+  * @param {Object} params - .
+  * @param {function} progress -
+  * @param {function} callback -
+  * @param {function} addNewBible (callback) - callback that uses a redux action to save a bible to
+  *        the resources reducer.
+  *        @example take in two arguments bible name/version and bible data
+  * @param {function} addNewResource (callback) - callback that uses a redux action to save a resource to
+  *        the resources reducer.
+  *        @example take in two arguments resource name and resource data
+  */
+const DataFetcher = function (params, progress, callback, addNewBible, addNewResource) {
   /**
   * @description This fetches the data for translationHelps (TranslationAcademy
   * specifically)
-  *******************************************************************************/
+  */
   var sectionList = require('./static/SectionList.json');
   var tASectionList = sectionList.sectionList;
+  //this is used to replace api.putDataInCheckStore
+  addNewResource('translationNotes', tASectionList);
   api.putDataInCheckStore('TranslationHelps', 'sectionList', tASectionList);
   var ulb;
   var phraseData;
@@ -38,6 +51,8 @@ const DataFetcher = function (params, progress, callback) {
         }
         //assign gatewayLanguage into CheckStore
         newStructure.title = api.convertToFullBookName(params.bookAbbr);
+        //this is used to replace api.putDataInCommon
+        addNewBible('ULB', newStructure);
         api.putDataInCommon('gatewayLanguage', newStructure);
       }
   chapterData = DoorDataFetcher.getTNFromBook(book, params.bookAbbr);
