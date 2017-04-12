@@ -63,21 +63,21 @@ var style = {
   },
   tHelpsOpen:{
     float: "left",
-    marginTop: "100%",
+    marginTop: "50vh",
     zIndex: "999",
     color: "#fff",
-    backgroundColor: "#333333",
-    padding: "10px 0px 10px",
+    backgroundColor: "#000",
+    padding: "10px 0px",
     marginLeft: "-15px",
     borderRadius: "5px 0px 0px 5px"
   },
   tHelpsClosed:{
     float: "right",
-    marginTop: "100%",
+    marginTop: "50vh",
     zIndex: "999",
     color: "#fff",
-    backgroundColor: "#333333",
-    padding: "10px 0px 10px",
+    backgroundColor: "#000",
+    padding: "10px 0px",
     marginLeft: "-15px",
     borderRadius: "5px 0px 0px 5px"
   },
