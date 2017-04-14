@@ -11,15 +11,16 @@ import style from './css/style'
 
 class View extends React.Component {
   render(){
+    console.log(this.props)
     //Modules not defined within translationNotes
     const { ScripturePane, VerseCheck, TranslationHelps } = this.props.modules;
-    let groupName = this.props.groups[this.props.currentGroupIndex].groupName.trim();
+    let groupName = this.props.contextIdReducer.groupId;
     return (
       <MuiThemeProvider>
         <Row className="show-grid" style={{margin: '0px', bottom: "0px",  height: "100%"}}>
           <Col sm={12} md={6} lg={9} style={{height: "100%", padding: '0px'}}>
-            <ScripturePane {...this.props} currentCheck={this.props.currentCheck} />
-            <CheckInfoCard phraseTitle={groupName} openHelps={this.props.toggleHelps} showHelps={this.props.showHelps} title={this.props.currentCheck.phrase} file={this.props.currentCheck.phraseInfo}/>
+            <ScripturePane {...this.props} currentCheck={this.props.currentCheck} contextIdReducer={this.props.contextIdReducer} />
+            <CheckInfoCard phraseTitle={groupName} openHelps={this.props.toggleHelps} showHelps={this.props.showHelps} title={this.props.title} file={"This would be the file"}/>
             <VerseCheck
               {...this.props}
               verse={this.props.targetVerse}
