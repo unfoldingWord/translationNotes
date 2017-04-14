@@ -2,6 +2,7 @@
 const api = window.ModuleApi;
 import React from 'react'
 import View from './View.js'
+const fetchData = require('./FetchData.js');
 //String constants
 const NAMESPACE = "TranslationNotesChecker";
 
@@ -17,32 +18,28 @@ class Container extends React.Component {
     this.onCurrentCheckChange = this.onCurrentCheckChange.bind(this);
   }
 
-  componentWillMount(){
-    let checkStatus = this.props.currentCheck.checkStatus;
-    this.currentCheck = this.props.currentCheck;
-    if(checkStatus === "FLAGGED"){
-      this.setState({tabKey: 2});
-    }else {
-      this.setState({tabKey: 1});
-    }
+  componentWillMount() {
+    console.log(this.props);
+    const { projectDetailsReducer, actions } = this.props;
+    const {addNewBible, addNewResource, progress, doneLoading} = actions;
+    fetchData(projectDetailsReducer.params, progress, doneLoading, addNewBible, addNewResource);
+    this.props.actions.isDataFetched(true);
   }
 
   componentDidMount() {
     this.addTargetLanguageToChecks();
+
   }
 
   componentWillReceiveProps(nextProps) {
-    let checkStatus = nextProps.currentCheck.checkStatus;
-    nextProps.currentCheck.isCurrentItem = true;
-    if (JSON.stringify(this.currentCheck) === JSON.stringify(nextProps.currentCheck)) {
-      return;
-    } else {
-      this.currentCheck = nextProps.currentCheck;
-    }
-    if(checkStatus === "FLAGGED"){
-      this.setState({tabKey: 2});
-    }else {
-      this.setState({tabKey: 1});
+    if (!nextProps.currentToolReducer.isDataFetched) {
+      //This will make sure that the data will not be fetched twice
+      const { projectDetailsReducer, actions } = nextProps;
+      const {addNewBible, addNewResource, progress, doneLoading} = actions;
+      fetchData(projectDetailsReducer.params, progress, doneLoading, addNewBible, addNewResource);
+      //This will make sure that the anything triggered by the 
+      //DONE_LOADING action will be called at the right time.
+      nextProps.actions.isDataFetched(true);
     }
   }
 
@@ -204,43 +201,27 @@ class Container extends React.Component {
     this.setState({showHelps: !this.state.showHelps});
   }
 
-  render(){
-    let dragToSelect = false;
-    if(this.props.currentSettings.textSelect === 'drag'){
-      dragToSelect = true;
-    }
-    let direction = api.getDataFromCommon('params').direction == 'ltr' ? 'ltr' : 'rtl';
-    let gatewayVerse = '';
-    let targetVerse = '';
-    if(this.props.currentCheck){
-      gatewayVerse = this.getVerse('gatewayLanguage');
-      targetVerse = this.getVerse('targetLanguage');
-    }
-    let currentFile = '';
-    var currentWord = this.props.groups[this.props.currentGroupIndex].group;
-    var file = currentWord + ".md";
-    var TranslationAcademyObject = api.getDataFromCheckStore('TranslationHelps', 'sectionList');
+  currentFile(file, TranslationAcademyObject) {
     try{
-      currentFile = TranslationAcademyObject[file].file;
+      let currentFile = TranslationAcademyObject[file].file;
       let title = currentFile.match(/title: .*/)[0].replace('title: ', '');
       currentFile = currentFile.replace(/---[\s\S]+---/g, '');
       currentFile = '## ' + title + '\n' + currentFile;
-    }catch(e){
+      return currentFile;
+    }catch (e) {
+      return null;
     }
-    return (
-      <View
+  }
+
+  view() {
+    let view = <div />
+    let { contextId } = this.props.contextIdReducer;
+    let { translationNotes } = this.props.resourcesReducer;
+    if (contextId !== null) {
+      var group = contextId.groupId + ".md";
+      view = <View
         {...this.props}
-        currentCheck={this.props.currentCheck}
-        updateCurrentCheck={(newCurrentCheck, proposedChangesField) => {
-          this.onCurrentCheckChange(newCurrentCheck, proposedChangesField)
-        }}
-        bookName={this.props.book}
-        currentFile={currentFile}
-        gatewayVerse={gatewayVerse}
-        targetVerse={targetVerse}
-        dragToSelect={dragToSelect}
-        direction={direction}
-        tabKey={this.state.tabKey}
+        currentFile={this.currentFile(group, translationNotes)}
         updateSelectedWords={this.updateSelectedWords.bind(this)}
         updateCheckStatus={this.updateCheckStatus.bind(this)}
         handleSelectTab={this.handleSelectTab.bind(this)}
@@ -249,10 +230,16 @@ class Container extends React.Component {
         showHelps={this.state.showHelps}
         toggleHelps={this.toggleHelps.bind(this)}
       />
+    }
+    return view;
+  }
+
+  render() {
+    return (
+      this.view()
     );
   }
 }
-
 
 module.exports = {
   name: NAMESPACE,

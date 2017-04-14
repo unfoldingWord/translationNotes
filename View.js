@@ -21,14 +21,8 @@ class View extends React.Component {
             <ScripturePane {...this.props} currentCheck={this.props.currentCheck} />
             <CheckInfoCard phraseTitle={groupName} openHelps={this.props.toggleHelps} showHelps={this.props.showHelps} title={this.props.currentCheck.phrase} file={this.props.currentCheck.phraseInfo}/>
             <VerseCheck
-              updateCheckStatus={this.props.updateCheckStatus}
-              updateCurrentCheck={this.props.updateCurrentCheck}
-              currentCheck={this.props.currentCheck}
-              goToNext={this.props.goToNext}
-              goToPrevious={this.props.goToPrevious}
+              {...this.props}
               verse={this.props.targetVerse}
-              direction={this.props.direction}
-              bookName={this.props.bookName}
             />
           </Col>
           <Col sm={12} md={6} lg={3} style={{height: "100%", padding: "0px"}}>
