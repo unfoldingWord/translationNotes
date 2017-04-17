@@ -4,6 +4,7 @@ import React from 'react'
 import View from './View.js'
 //String constants
 const NAMESPACE = "TranslationNotesChecker";
+import FetchData from './FetchData/main'
 
 class Container extends React.Component {
   constructor() {
@@ -17,14 +18,13 @@ class Container extends React.Component {
     this.onCurrentCheckChange = this.onCurrentCheckChange.bind(this);
   }
 
-  componentWillMount(){
-    let checkStatus = this.props.currentCheck.checkStatus;
-    this.currentCheck = this.props.currentCheck;
-    if(checkStatus === "FLAGGED"){
-      this.setState({tabKey: 2});
-    }else {
-      this.setState({tabKey: 1});
-    }
+  componentWillMount() {
+    FetchData(this.props).then(this.props.actions.doneLoading);
+    //This will make sure that the anything triggered by the 
+    //DONE_LOADING action will be called at the right time.
+    this.props.actions.isDataFetched(true);
+    //This will make sure that the data will not be fetched twice when 
+    //the component receives new props.
   }
 
   componentDidMount() {
@@ -32,17 +32,12 @@ class Container extends React.Component {
   }
 
   componentWillReceiveProps(nextProps) {
-    let checkStatus = nextProps.currentCheck.checkStatus;
-    nextProps.currentCheck.isCurrentItem = true;
-    if (JSON.stringify(this.currentCheck) === JSON.stringify(nextProps.currentCheck)) {
-      return;
-    } else {
-      this.currentCheck = nextProps.currentCheck;
-    }
-    if(checkStatus === "FLAGGED"){
-      this.setState({tabKey: 2});
-    }else {
-      this.setState({tabKey: 1});
+    if (!nextProps.currentToolReducer.isDataFetched) {
+      //This will make sure that the data will not be fetched twice
+      FetchData(nextProps).then(this.props.actions.doneLoading);
+      //This will make sure that the anything triggered by the 
+      //DONE_LOADING action will be called at the right time.
+      nextProps.actions.isDataFetched(true);
     }
   }
 
@@ -63,12 +58,12 @@ class Container extends React.Component {
     api.putDataInCheckStore(NAMESPACE, 'groups', groups);
   }
 
-  saveProjectAndTimestamp(){
-    let { currentCheck, userdata, currentGroupIndex, currentCheckIndex} = this.props;
+  saveProjectAndTimestamp() {
+    let { currentCheck, userdata, currentGroupIndex, currentCheckIndex } = this.props;
     let currentUser;
-    if(userdata){
+    if (userdata) {
       currentUser = userdata.username;
-    }else {
+    } else {
       currentUser = "unknown";
     }
     let timestamp = new Date();
@@ -88,10 +83,10 @@ class Container extends React.Component {
   updateCheckStatus(newCheckStatus) {
     let { currentCheck, currentGroupIndex, currentCheckIndex } = this.props;
     if (currentCheck.checkStatus) {
-      if(currentCheck.checkStatus === newCheckStatus){
+      if (currentCheck.checkStatus === newCheckStatus) {
         currentCheck.checkStatus = "UNCHECKED";
         newCheckStatus = "UNCHECKED";
-      }else {
+      } else {
         currentCheck.checkStatus = newCheckStatus;
       }
       api.emitEvent('changedCheckStatus', {
@@ -109,16 +104,16 @@ class Container extends React.Component {
 
   updateSelectedWords(wordObj, remove) {
     let currentCheck = this.props.currentCheck;
-    if(remove){
+    if (remove) {
       this.removeFromSelectedWords(wordObj, currentCheck);
-    }else{
+    } else {
       this.addSelectedWord(wordObj, currentCheck);
     }
   }
 
-  addSelectedWord(wordObj, currentCheck){
+  addSelectedWord(wordObj, currentCheck) {
     let idFound = false;
-    if(currentCheck.selectedWordsRaw.length > 0){
+    if (currentCheck.selectedWordsRaw.length > 0) {
       for (var i in currentCheck.selectedWordsRaw) {
         if (currentCheck.selectedWordsRaw[i].key == wordObj.key) {
           idFound = true;
@@ -128,7 +123,7 @@ class Container extends React.Component {
         currentCheck.selectedWordsRaw.push(wordObj);
         this.sortSelectedWords(currentCheck.selectedWordsRaw);
       }
-    }else{
+    } else {
       currentCheck.selectedWordsRaw.push(wordObj);
     }
     this.props.updateCurrentCheck(NAMESPACE, currentCheck);
@@ -137,7 +132,7 @@ class Container extends React.Component {
 
   removeFromSelectedWords(wordObj, currentCheck) {
     let index = -1;
-    if(currentCheck.selectedWordsRaw){
+    if (currentCheck.selectedWordsRaw) {
       for (var i in currentCheck.selectedWordsRaw) {
         if (currentCheck.selectedWordsRaw[i].key == wordObj.key) {
           index = i;
@@ -152,7 +147,7 @@ class Container extends React.Component {
   }
 
   sortSelectedWords(selectedWords) {
-    selectedWords.sort(function(first, next) {
+    selectedWords.sort(function (first, next) {
       return first.key - next.key;
     });
   }
@@ -184,15 +179,15 @@ class Container extends React.Component {
     this.props.handleGoToNext(NAMESPACE);
   }
 
-  handleSelectTab(tabKey){
-     this.setState({tabKey});
+  handleSelectTab(tabKey) {
+    this.setState({ tabKey });
   }
 
-  onCurrentCheckChange(newCurrentCheck, proposedChangesField){
+  onCurrentCheckChange(newCurrentCheck, proposedChangesField) {
     let currentCheck = this.props.currentCheck;
     currentCheck.proposedChanges = newCurrentCheck.proposedChanges;
     currentCheck.comment = newCurrentCheck.comment;
-    if(proposedChangesField){
+    if (proposedChangesField) {
       currentCheck[proposedChangesField] = newCurrentCheck[proposedChangesField];
     }
     this.currentCheck = currentCheck;
@@ -200,19 +195,19 @@ class Container extends React.Component {
     this.saveProjectAndTimestamp();
   }
 
-  toggleHelps(){
-    this.setState({showHelps: !this.state.showHelps});
+  toggleHelps() {
+    this.setState({ showHelps: !this.state.showHelps });
   }
 
-  render(){
+  render() {
     let dragToSelect = false;
-    if(this.props.currentSettings.textSelect === 'drag'){
+    if (this.props.settingsReducer.currentSettings.textSelect === 'drag') {
       dragToSelect = true;
     }
-    let direction = api.getDataFromCommon('params').direction == 'ltr' ? 'ltr' : 'rtl';
+    let direction = this.props.projectDetailsReducer.params.direction == 'ltr' ? 'ltr' : 'rtl';
     let gatewayVerse = '';
     let targetVerse = '';
-    if(this.props.currentCheck){
+    if (this.props.currentCheck) {
       gatewayVerse = this.getVerse('gatewayLanguage');
       targetVerse = this.getVerse('targetLanguage');
     }
@@ -220,12 +215,12 @@ class Container extends React.Component {
     var currentWord = this.props.groups[this.props.currentGroupIndex].group;
     var file = currentWord + ".md";
     var TranslationAcademyObject = api.getDataFromCheckStore('TranslationHelps', 'sectionList');
-    try{
+    try {
       currentFile = TranslationAcademyObject[file].file;
       let title = currentFile.match(/title: .*/)[0].replace('title: ', '');
       currentFile = currentFile.replace(/---[\s\S]+---/g, '');
       currentFile = '## ' + title + '\n' + currentFile;
-    }catch(e){
+    } catch (e) {
     }
     return (
       <View
