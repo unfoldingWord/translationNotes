@@ -2,6 +2,7 @@
 const api = window.ModuleApi;
 import React from 'react'
 import View from './View.js'
+const fetchData = require('./FetchData.js');
 //String constants
 const NAMESPACE = "TranslationNotesChecker";
 import FetchData from './FetchData/main'
@@ -29,6 +30,7 @@ class Container extends React.Component {
 
   componentDidMount() {
     this.addTargetLanguageToChecks();
+
   }
 
   componentWillReceiveProps(nextProps) {
@@ -199,55 +201,62 @@ class Container extends React.Component {
     this.setState({ showHelps: !this.state.showHelps });
   }
 
-  render() {
-    let dragToSelect = false;
-    if (this.props.settingsReducer.currentSettings.textSelect === 'drag') {
-      dragToSelect = true;
-    }
-    let direction = this.props.projectDetailsReducer.params.direction == 'ltr' ? 'ltr' : 'rtl';
-    let gatewayVerse = '';
-    let targetVerse = '';
-    if (this.props.currentCheck) {
-      gatewayVerse = this.getVerse('gatewayLanguage');
-      targetVerse = this.getVerse('targetLanguage');
-    }
-    let currentFile = '';
-    var currentWord = this.props.groups[this.props.currentGroupIndex].group;
-    var file = currentWord + ".md";
-    var TranslationAcademyObject = api.getDataFromCheckStore('TranslationHelps', 'sectionList');
-    try {
-      currentFile = TranslationAcademyObject[file].file;
+  currentFile(file, TranslationAcademyObject) {
+    try{
+      let currentFile = TranslationAcademyObject[file].file;
       let title = currentFile.match(/title: .*/)[0].replace('title: ', '');
       currentFile = currentFile.replace(/---[\s\S]+---/g, '');
       currentFile = '## ' + title + '\n' + currentFile;
-    } catch (e) {
+      return currentFile;
+    }catch (e) {
+      return null;
     }
-    return (
-      <View
+  }
+
+  view() {
+    let view = <div />
+    let { contextId } = this.props.contextIdReducer;
+    let { translationNotes } = this.props.resourcesReducer;
+    if (!contextId) {
+      contextId = {
+        contextId: {
+          quote: "This is the quote",
+          reference: {
+            chapter: 1,
+            verse: 1, 
+            book: 'eph'
+          }
+        },
+        groupId: "translate_hebrewmonths",
+      }
+    }
+    if (contextId !== null) {
+      var group = contextId.groupId + ".md";
+      let currentFile = this.currentFile(group, translationNotes);
+      let title = "Hello World";
+      view = <View
         {...this.props}
-        currentCheck={this.props.currentCheck}
-        updateCurrentCheck={(newCurrentCheck, proposedChangesField) => {
-          this.onCurrentCheckChange(newCurrentCheck, proposedChangesField)
-        }}
-        bookName={this.props.book}
         currentFile={currentFile}
-        gatewayVerse={gatewayVerse}
-        targetVerse={targetVerse}
-        dragToSelect={dragToSelect}
-        direction={direction}
-        tabKey={this.state.tabKey}
+        title = {title}
         updateSelectedWords={this.updateSelectedWords.bind(this)}
         updateCheckStatus={this.updateCheckStatus.bind(this)}
         handleSelectTab={this.handleSelectTab.bind(this)}
         goToPrevious={this.goToPrevious.bind(this)}
         goToNext={this.goToNext.bind(this)}
         showHelps={this.state.showHelps}
+        contextIdReducer={contextId}
         toggleHelps={this.toggleHelps.bind(this)}
       />
+    }
+    return view;
+  }
+
+  render() {
+    return (
+      this.view()
     );
   }
 }
-
 
 module.exports = {
   name: NAMESPACE,
