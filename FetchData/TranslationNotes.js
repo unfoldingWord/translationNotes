@@ -16,13 +16,14 @@ const Door43DataFetcher = require('../parsers/Door43DataFetcher.js');
 */
 export default function fetchData(projectDetails, bibles, actions, progress, groupsIndexLoaded, groupsDataLoaded) {
   return new Promise(function (resolve, reject) {
+    const params = projectDetails.params;
+    const { addNewBible, setModuleSettings, addGroupData, setGroupsIndex, setProjectDetail } = actions;
     /**
     * @description This fetches the data for translationHelps (TranslationAcademy
     * specifically)
     */
-    var sectionList = require('./static/SectionList.json');
+    var sectionList = require('../static/SectionList.json');
     var tASectionList = sectionList.sectionList;
-    addNewResource('translationNotes', tASectionList);
     //api.putDataInCheckStore('TranslationHelps', 'sectionList', tASectionList);
     var ulb;
     var phraseData;
@@ -50,16 +51,16 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     //this is used to replace api.putDataInCommon
     addNewBible('ULB', newStructure);
     addNewBible('gatewayLanguage', newStructure);
-    chapterData = DoorDataFetcher.getTNFromBook(book, params.bookAbbr);
-    phraseData = parseObject(chapterData, tASectionList);
-    debugger;
-    saveData(phraseData, params, callback, bibles);
+    chapterData = DoorDataFetcher.getTNFromBook(book, newStructure, params.bookAbbr, () => { });
+    parseObject(chapterData, tASectionList, addGroupData, setGroupsIndex);
+    progress(100);
+    resolve();
   })
 
   function getULBFromDoor43Static(bookAbr) {
     var ULB = {};
     ULB['chapters'] = [];
-    const pathBase = __dirname + '/static/Door43/notes/';
+    const pathBase = __dirname + '/../static/Door43/notes/';
     var bookFolder = fs.readdirSync(pathBase + bookAbr);
     for (var chapter in bookFolder) {
       var currentChapter = [];
@@ -85,65 +86,48 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     return ULB;
   }
 
-  var parseObject = function (object, tASectionList) {
-    let phraseObject = {};
-    phraseObject["groups"] = [];
+  function parseObject(object, tASectionList, addGroupData, setGroupsIndex) {
+    var indexList = [];
+    var checkObj = {};
     for (let type in object) {
       //parsing the headers/phrases removing uncessesary and messy data
       let typeMD = type + ".md";
       for (var sectionFileName in tASectionList) {
         if (sectionFileName === typeMD) {
-          var titleKeyAndValue = tASectionList[sectionFileName]['file'].match(/title: .*/)[0];
-          var groupName = titleKeyAndValue.substr(titleKeyAndValue.indexOf(':') + 1);
+          var titleKeyAndValue;
+          var groupName;
+          try {
+            titleKeyAndValue = tASectionList[sectionFileName]['file'].match(/title: .*/)[0];
+            groupName = titleKeyAndValue.substr(titleKeyAndValue.indexOf(':') + 1);
+          } catch (e) {
+            groupName = tASectionList[sectionFileName]['file'].match(/===== (.*) =====/)[1];
+          }
+          indexList.push({ id: type, name: groupName });
         }
       }
-      var newGroup = { group: type, groupName: groupName, checks: [] };
-      for (let verse of object[type].verses) {
-        let newVerse = Object.assign({}, verse);
-        newVerse.checkStatus = "UNCHECKED";
-        newVerse.spelling = false;
-        newVerse.wordChoice = false;
-        newVerse.punctuation = false;
-        newVerse.meaning = false;
-        newVerse.grammar = false;
-        newVerse.other = false;
-        newVerse.proposedChanges = "";
-        newVerse.comment = "";
-        newVerse.selectedText = [];
-        newVerse.selectedWordsRaw = [];
-        newGroup.checks.push(newVerse);
-      }
-      phraseObject["groups"].push(newGroup);
-    }
-    return phraseObject;
-  };
-
-  // Saves phrase data into the CheckStore
-  function saveData(phraseObject, params, callback, bibles) {
-    var groups = phraseObject['groups'];
-    const gatewayLanguage = bibles.gatewayLanguage;
-    for (var group in groups) {
-      for (var item in groups[group].checks) {
-        var checkObject = groups[group].checks[item];
-        var gatewayAtVerse = gatewayLanguage[checkObject.chapter][checkObject.verse];
-        groups[group].checks[item].gatewayLanguage = gatewayAtVerse;
-        groups[group].checks[item].wordOccurrence = 1;
-        let wordMatch = gatewayAtVerse.match(groups[group].checks[item].phrase);
-        if (wordMatch) {
-          groups[group].checks[item].wordIndex = wordMatch.index;
-        } else {
-          /* This only happens when the phrase is shorten for example
-           * "For every kind of ... mankind" instead of the actual quote
-           * For every kind of wild animal, bird, reptile, and sea creature
-           * is being tamed and has been tamed by mankind.
-           */
-          groups[group].checks[item].wordIndex = null;
-        }
+      if (!checkObj[type]) checkObj[type] = [];
+      for (var check in object[type]['verses']) {
+        const currentCheck = object[type]['verses'][check];
+        checkObj[type].push({
+          contextId: {
+            groupId: type,
+            occurence: 1,
+            quote: currentCheck.phrase,
+            reference: {
+              bookId: currentCheck.book,
+              chapter: currentCheck.chapter,
+              verse: currentCheck.verse
+            },
+            tool: 'TranslationNotesChecker'
+          },
+          information: currentCheck.phraseInfo,
+          priority: 1
+        });
       }
     }
-    api.putDataInCheckStore('TranslationNotesChecker', 'groups', groups);
-    api.putDataInCheckStore('TranslationNotesChecker', 'currentCheckIndex', 0);
-    api.putDataInCheckStore('TranslationNotesChecker', 'currentGroupIndex', 0);
-    callback(null);
+    Object.keys(checkObj).map(function (key, index) {
+      addGroupData(key, checkObj[key]);
+    });
+    setGroupsIndex(indexList);
   }
 }

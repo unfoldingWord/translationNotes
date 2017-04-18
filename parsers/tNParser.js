@@ -2,7 +2,7 @@
  * @author Evan "He of the Squeaky Chair" Wiederspan
  * @param book A book object retrived from the getBook call from
  * the HTMLParser
- * @param progCallback a function with a single parameter that is
+ * @param progress a function with a single parameter that is
  * called in order to tie the function to a progress bookAbbr
  * its parameter will be a decimal number between 0 and 1 representing
  * the percentage of the way through the function
@@ -10,9 +10,8 @@
 */
 
 var suppress = true;
-var TNParser = function(book, bookAbbr, progCallback = () => {}) {
+var TNParser = function(book, bookAbbr, lang, progress) {
   // using target language to find which verses the checks are in
-    let lang = window.ModuleApi.getDataFromCommon("gatewayLanguage");
     if (!lang) {
       console.error("No gateway language for TN parser");
       return {};
@@ -20,7 +19,7 @@ var TNParser = function(book, bookAbbr, progCallback = () => {}) {
     book = book.chapters;
     let numChapters = Object.keys(book).length;
     let i = 1;
-    progCallback(0);
+    progress(0);
     // bookData will be an object where each key is a different part of speech
     // each key will have an array called "verses" that contains all of the checks
     // tied to that part of speech
@@ -99,7 +98,7 @@ var TNParser = function(book, bookAbbr, progCallback = () => {}) {
           }
         });
       }
-      progCallback(i++ / numChapters);
+      progress(i++ / numChapters);
     }
     return bookData;
 }

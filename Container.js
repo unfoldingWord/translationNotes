@@ -217,34 +217,19 @@ class Container extends React.Component {
     let view = <div />
     let { contextId } = this.props.contextIdReducer;
     let { translationNotes } = this.props.resourcesReducer;
-    if (!contextId) {
-      contextId = {
-        contextId: {
-          quote: "This is the quote",
-          reference: {
-            chapter: 1,
-            verse: 1, 
-            book: 'eph'
-          }
-        },
-        groupId: "translate_hebrewmonths",
-      }
-    }
     if (contextId !== null) {
       var group = contextId.groupId + ".md";
       let currentFile = this.currentFile(group, translationNotes);
-      let title = "Hello World";
       view = <View
         {...this.props}
         currentFile={currentFile}
-        title = {title}
+        title = {contextId.groupId}
         updateSelectedWords={this.updateSelectedWords.bind(this)}
         updateCheckStatus={this.updateCheckStatus.bind(this)}
         handleSelectTab={this.handleSelectTab.bind(this)}
         goToPrevious={this.goToPrevious.bind(this)}
         goToNext={this.goToNext.bind(this)}
         showHelps={this.state.showHelps}
-        contextIdReducer={contextId}
         toggleHelps={this.toggleHelps.bind(this)}
       />
     }
