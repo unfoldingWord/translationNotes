@@ -323,12 +323,12 @@ class Door43DataFetcher {
 		return ulbData;
 	}
 
-	getTNFromBook(book = { chapters: [] }, bookAbbr = "?") {
+	getTNFromBook(book = { chapters: [] }, gatewayLanguage, bookAbbr = "?", progress) {
 		if (!book.chapters) {
 			console.error("Error: Input object is in incorrect format");
 			return {};
 		}
-		return TNParser(book, bookAbbr);
+		return TNParser(book, bookAbbr, gatewayLanguage, progress);
 	}
 }
 

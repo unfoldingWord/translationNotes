@@ -57,7 +57,8 @@ const DataFetcher = function (params, progress, callback, addNewBible, addNewRes
       }
   chapterData = DoorDataFetcher.getTNFromBook(book, params.bookAbbr);
   phraseData = parseObject(chapterData, tASectionList);
-  saveData(phraseData, params, callback);
+  callback();
+  // saveData(phraseData, params, callback);
 };
 
 function getULBFromDoor43Static(bookAbr) {
@@ -97,8 +98,13 @@ var parseObject = function (object, tASectionList) {
     let typeMD = type + ".md";
       for(var sectionFileName in tASectionList) {
         if(sectionFileName === typeMD){
-          var titleKeyAndValue = tASectionList[sectionFileName]['file'].match(/title: .*/)[0];
-          var groupName = titleKeyAndValue.substr(titleKeyAndValue.indexOf(':') + 1);
+          var titleKeyAndValue = tASectionList[sectionFileName]['file'].match(/title: .*/);
+          if (titleKeyAndValue) {
+            var groupName = titleKeyAndValue[0].substr(titleKeyAndValue[0].indexOf(':') + 1);
+          } else {
+            titleKeyAndValue = tASectionList[sectionFileName]['file'].match(/===== (.*) =====/g)[0];
+            var groupName = titleKeyAndValue;
+          }
         }
       }
     var newGroup = { group: type, groupName: groupName, checks: [] };
