@@ -24,8 +24,8 @@ class TargetVerseDisplay extends React.Component {
       //do nothing since an empty space was selected
     } else {
       let expression = '/' + text + '/g';
-      let wordOccurencesArray = verseText.match(eval(expression));
-      let occurrences = wordOccurencesArray.length;
+      let wordoccurrencesArray = verseText.match(eval(expression));
+      let occurrences = wordoccurrencesArray.length;
       let occurrence;
       let textBeforeSelection = verseText.slice(0, indexOfTextSelection);
       if (textBeforeSelection.match(eval(expression))) {

@@ -110,7 +110,7 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
         checkObj[type].push({
           contextId: {
             groupId: type,
-            occurence: 1,
+            occurrence: 1,
             quote: currentCheck.phrase,
             information: currentCheck.phraseInfo,
             reference: {
