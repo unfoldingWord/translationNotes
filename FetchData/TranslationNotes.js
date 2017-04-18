@@ -112,6 +112,7 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
             groupId: type,
             occurence: 1,
             quote: currentCheck.phrase,
+            information: currentCheck.phraseInfo,
             reference: {
               bookId: currentCheck.book,
               chapter: currentCheck.chapter,
