@@ -18,6 +18,7 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
   return new Promise(function (resolve, reject) {
     const params = projectDetails.params;
     const { addNewBible, setModuleSettings, addGroupData, setGroupsIndex, setProjectDetail } = actions;
+    setProjectDetail('bookName', convertToFullBookName(params.bookAbbr));
     /**
     * @description This fetches the data for translationHelps (TranslationAcademy
     * specifically)
@@ -31,8 +32,6 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     var chapterData = {};
     //progress(done / total * 100);
     var book = getULBFromDoor43Static(params.bookAbbr);
-    //check to see if gatewayLanguage has already been loaded
-    //var gatewayLanguage = api.getDataFromCommon('gatewayLanguage');
     ulb = DoorDataFetcher.getULBFromBook(book);
     var newStructure = { title: '' };
     for (let chapter in ulb) {
@@ -129,5 +128,15 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
       addGroupData(key, checkObj[key]);
     });
     setGroupsIndex(indexList);
+  }
+
+  /**
+  * @description - Method to convert a book abbreviation to the full name
+  *
+  * @param {string} bookAbbr
+  */
+  function convertToFullBookName(bookAbbr) {
+    if (!bookAbbr) return;
+    return BooksOfBible[bookAbbr.toString().toLowerCase()];
   }
 }
