@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 const HTMLScraper = require('../parsers/HTMLscraper');
 const Parser = require('../parsers/tNParser.js');
 const Door43DataFetcher = require('../parsers/Door43DataFetcher.js');
@@ -51,7 +52,9 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     addNewBible('ULB', newStructure);
     addNewBible('gatewayLanguage', newStructure);
     chapterData = DoorDataFetcher.getTNFromBook(book, newStructure, params.bookAbbr, () => { });
-    parseObject(chapterData, tASectionList, addGroupData, setGroupsIndex);
+    let filters = readFilters(convertToFullBookName(params.bookAbbr));
+    console.log(filters);
+    parseObject(chapterData, tASectionList, addGroupData, setGroupsIndex, filters);
     progress(100);
     resolve();
   })
@@ -85,7 +88,7 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     return ULB;
   }
 
-  function parseObject(object, tASectionList, addGroupData, setGroupsIndex) {
+  function parseObject(object, tASectionList, addGroupData, setGroupsIndex, filters) {
     var indexList = [];
     var checkObj = {};
     for (let type in object) {
@@ -104,9 +107,14 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
           indexList.push({ id: type, name: groupName });
         }
       }
-      if (!checkObj[type]) checkObj[type] = [];
       for (var check in object[type]['verses']) {
         const currentCheck = object[type]['verses'][check];
+        let found = false;
+        let currentFilter = filters.primary[currentCheck.chapter +":" + currentCheck.verse];
+        if (!currentFilter || !currentFilter.includes(currentCheck.phrase)) {
+          continue;
+        }
+        if (!checkObj[type]) checkObj[type] = [];
         checkObj[type].push({
           contextId: {
             groupId: type,
@@ -139,5 +147,37 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
   function convertToFullBookName(bookAbbr) {
     if (!bookAbbr) return;
     return BooksOfBible[bookAbbr.toString().toLowerCase()];
+  }
+}
+
+function readFilters(bookName) {
+  try {
+    let file = fs.readFileSync(path.join(__dirname, '../filters/', bookName + '.csv')).toString();
+    let lines = file.split('\n');
+    let primaryMatrix = [];
+    let secondaryMatrix = [];
+    for (let i = 1; i < lines.length; i++) {
+      let line = lines[i].split(',');
+      let value = parseFloat(line[5]);
+      let chapterVerse = line[1] + ':' + line[2];
+      if (value >= 1.5) {
+        if (!primaryMatrix[chapterVerse]) {
+          primaryMatrix[chapterVerse] = [];
+        }
+        primaryMatrix[chapterVerse].push(line[4]);
+      } else {
+        if (!secondaryMatrix[chapterVerse]) {
+          secondaryMatrix[chapterVerse] = [];
+        }
+        secondaryMatrix[chapterVerse].push(line[4]);
+      }
+    }
+    return {
+      primary: primaryMatrix,
+      secondary: secondaryMatrix
+    };
+  } catch (err) {
+    console.log(err);
+    return null;
   }
 }
