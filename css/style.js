@@ -89,14 +89,9 @@ var style = {
     cursor: 'pointer'
   },
   linkInactive: {
-    fontWeight: 'bold',
-    color: '#e7e7e7',
-    marginTop: '3em',
-    textAlign: 'right',
-    cursor: 'not-allowed'
+    display: 'none',
   },
   title: {
-    textTransform: 'capitalize',
     textAlign: 'center',
     fontSize: '16px',
     fontWeight: 'bold',

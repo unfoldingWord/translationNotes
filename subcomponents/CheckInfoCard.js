@@ -27,7 +27,7 @@ class CheckInfoCard extends React.Component {
               </div>
               <div onClick={this.props.showHelps ? null : this.props.openHelps}
               style={this.props.showHelps ? styles.linkInactive : styles.linkActive}>
-              See More: {this.props.phraseTitle}
+              See: {this.props.phraseTitle}
               </div>
             </Col>
           </Row>
