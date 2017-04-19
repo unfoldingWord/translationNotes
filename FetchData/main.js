@@ -8,7 +8,7 @@ export default function fetchAllData(props) {
   const bibles = props.resourcesReducer.bibles;
   const actions = props.actions;
   const totalProgress = actions.progress;
-  const scripturePaneSettings = props.modulesSettingsReducer.ScripturePane ? true : false;
+  const scripturePaneSettings = props.modulesSettingsReducer.ScripturePane;
   const groupsDataLoaded = props.groupsDataReducer.loadedFromFileSystem;
   const groupsIndexLoaded = props.groupsIndexReducer.loadedFromFileSystem;
 

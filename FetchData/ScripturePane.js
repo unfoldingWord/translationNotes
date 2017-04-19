@@ -25,8 +25,7 @@ var missingChunks = 0;
  * @param {object} actions - The functions that a tool has access to in order to store data
  * after it is loaded
  * @param {function} progress - Function to send to fetch data container to show progress
- * @param {boolean} scripturePaneSettings - its true if the scripture pane was preloaded
- * from the file system otherwise its false.
+ * @param {object} scripturePaneSettings - the current settings.
  * @returns {Promise} - Function that gets called when all the data is finished loading
  */
 export default function fetchData(projectDetails, bibles, actions, progress, scripturePaneSettings) {
@@ -34,11 +33,24 @@ export default function fetchData(projectDetails, bibles, actions, progress, scr
     const params = projectDetails.params;
     const tcManifest = projectDetails.manifest;
     const { addNewBible, setModuleSettings } = actions;
-    // Only generate ScripturePane settings if they were not previously generated and/or loaded from the filesystem.
+    const { currentPaneSettings, staticPaneSettings } = getPaneSettings(tcManifest);
+
+    setModuleSettings(NAMESPACE, 'staticPaneSettings', staticPaneSettings);
     if (!scripturePaneSettings) {
-      const { currentPaneSettings, staticPaneSettings } = getPaneSettings(tcManifest);
       setModuleSettings(NAMESPACE, 'currentPaneSettings', currentPaneSettings);
-      setModuleSettings(NAMESPACE, 'staticPaneSettings', staticPaneSettings);
+    } else {
+      var oldCurrentPaneSettings = scripturePaneSettings.currentPaneSettings;
+      var newCurrentPaneSettings = [];
+
+      oldCurrentPaneSettings.forEach(function (setting) {
+        var match = staticPaneSettings.filter(function (item) {
+          return item.sourceName === setting.sourceName;
+        });
+        if (match) {
+          newCurrentPaneSettings.push(match[0]);
+        }
+      });
+      setModuleSettings(NAMESPACE, 'currentPaneSettings', newCurrentPaneSettings);
     }
     getTargetLanguage().then(() => {
       progress(33);
