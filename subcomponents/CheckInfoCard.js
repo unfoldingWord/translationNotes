@@ -14,20 +14,20 @@ class CheckInfoCard extends React.Component {
       }
       return (
         <div style={{margin: '10px'}}>
-        <Card zDepth={2} style={{ background: '#2196F3', padding: "20px"}}>
+        <Card zDepth={2} style={{background: '#2196F3'}}>
           <Row>
-            <Col md={4} style={{borderRight: '1px solid #FFFFFF'}}>
+            <Col md={4}>
               <div style={styles.title}>
                 {this.props.title}
               </div>
             </Col>
-            <Col md ={8}>
-              <div style={{color: '#FFFFFF'}}>
+            <Col md ={8} style={{borderLeft: '1px solid #FFFFFF'}}>
+              <div style={{color: '#FFFFFF', margin: '20px 20px 0 0'}}>
                 {phraseInfo}
               </div>
               <div onClick={this.props.showHelps ? null : this.props.openHelps}
-              style={this.props.showHelps ? styles.linkInactive : styles.linkActive}>
-              See More: {this.props.phraseTitle}
+                   style={this.props.showHelps ? styles.linkInactive : styles.linkActive}>
+                See: {this.props.phraseTitle}
               </div>
             </Col>
           </Row>
