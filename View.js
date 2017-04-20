@@ -13,13 +13,21 @@ class View extends React.Component {
     //Modules not defined within translationNotes
     const { ScripturePane, VerseCheck, TranslationHelps } = this.props.modules;
     // set the scripturePane to empty to handle react/redux when it first renders without required data
-    let {contextIdReducer} = this.props;
+    let {contextIdReducer, groupsIndexReducer} = this.props;
     let scripturePane = <div></div>
-    // pupulate scripturePane so that when required data is preset that it renders as intended.
+    // populate scripturePane so that when required data is preset that it renders as intended.
     if (this.props.modulesSettingsReducer.ScripturePane !== undefined) {
       scripturePane = <ScripturePane {...this.props} />
     }
-    let groupName = contextIdReducer.contextId.groupId;
+    let groupId = contextIdReducer.contextId.groupId;
+    let groups = groupsIndexReducer.groupsIndex;
+    let match = groups.filter(function (item) {
+      return item.id === groupId;
+    });
+    let groupName = groupId;
+    if (match && match[0]) {
+      groupName = match[0].name;
+    }
     return (
       <MuiThemeProvider>
         <Row className="show-grid" style={{ margin: '0px', bottom: "0px", height: "100%" }}>
