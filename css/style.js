@@ -84,19 +84,23 @@ var style = {
   linkActive: {
     fontWeight: 'bold',
     color: '#FFFFFF',
-    marginTop: '3em',
+    margin: '10px 20px',
     textAlign: 'right',
     cursor: 'pointer'
   },
   linkInactive: {
-    display: 'none',
+    fontWeight: 'bold',
+    color: '#2196F3',
+    margin: '10px 20px',
+    textAlign: 'right',
+    cursor: 'default'
   },
   title: {
     textAlign: 'center',
     fontSize: '16px',
     fontWeight: 'bold',
     color: '#ffffff',
-    margin: '15px'
+    margin: '20px'
   },
 }
 
