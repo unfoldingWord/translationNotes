@@ -53,7 +53,6 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     addNewBible('gatewayLanguage', newStructure);
     chapterData = DoorDataFetcher.getTNFromBook(book, newStructure, params.bookAbbr, () => { });
     let filters = readFilters(convertToFullBookName(params.bookAbbr));
-    console.log(filters);
     parseObject(chapterData, tASectionList, addGroupData, setGroupsIndex, filters);
     progress(100);
     resolve();
@@ -110,9 +109,11 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
       for (var check in object[type]['verses']) {
         const currentCheck = object[type]['verses'][check];
         let found = false;
-        let currentFilter = filters.primary[currentCheck.chapter +":" + currentCheck.verse];
-        if (!currentFilter || !currentFilter.includes(currentCheck.phrase)) {
-          continue;
+        if (filters) {
+          let currentFilter = filters.primary[currentCheck.chapter + ":" + currentCheck.verse];
+          if (!currentFilter || !currentFilter.includes(currentCheck.phrase)) {
+            continue;
+          }
         }
         if (!checkObj[type]) checkObj[type] = [];
         checkObj[type].push({
