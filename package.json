@@ -2,7 +2,7 @@
   "name": "TranslationNotesChecker",
   "version": "1.0.2",
   "description": "This is a tool to check the grammatical structure of phrases.",
-  "title": "translationNotes Check",
+  "title": "translationNotes (Part 1)",
   "include": {
     "TranslationHelps": "1.0.0",
     "ScripturePane": "1.0.2",
