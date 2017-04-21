@@ -178,7 +178,6 @@ function readFilters(bookName) {
       secondary: secondaryMatrix
     };
   } catch (err) {
-    console.log(err);
     return null;
   }
 }
