@@ -1,7 +1,7 @@
 {
   "name": "TranslationNotesChecker",
   "version": "1.0.2",
-  "description": "This is a tool to check the grammatical structure of phrases.",
+  "description": "A tool to check a wide range of potential translation problems in the Bible, including grammatical constructions and figures of speech that can be difficult to translate, with explanations and suggestions for translation.",
   "title": "translationNotes (Part 1)",
   "include": {
     "TranslationHelps": "1.0.0",
