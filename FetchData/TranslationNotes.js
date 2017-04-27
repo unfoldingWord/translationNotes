@@ -31,7 +31,7 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     var phraseData;
     var DoorDataFetcher = new Door43DataFetcher();
     var chapterData = {};
-    //progress(done / total * 100);
+    //progress("translationNotes", done / total * 100);
     var book = getULBFromDoor43Static(params.bookAbbr);
     ulb = DoorDataFetcher.getULBFromBook(book);
     var newStructure = { title: '' };
@@ -54,7 +54,7 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     chapterData = DoorDataFetcher.getTNFromBook(book, newStructure, params.bookAbbr, () => { });
     let filters = readFilters(convertToFullBookName(params.bookAbbr));
     parseObject(chapterData, tASectionList, addGroupData, setGroupsIndex, filters);
-    progress(100);
+    progress("translationNotes", 100);
     resolve();
   })
 

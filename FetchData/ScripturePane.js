@@ -53,13 +53,13 @@ export default function fetchData(projectDetails, bibles, actions, progress, scr
       setModuleSettings(NAMESPACE, 'currentPaneSettings', newCurrentPaneSettings);
     }
     getTargetLanguage().then(() => {
-      progress(33);
+      progress("Bibles", 33);
       getOriginalLanguage();
     }).then(() => {
-      progress(66);
+      progress("Bibles", 66);
       getUDB();
     }).then(() => {
-      progress(100);
+      progress("Bibles", 100);
       resolve();
     }).catch(reject);
 
