@@ -31,8 +31,8 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     var phraseData;
     var DoorDataFetcher = new Door43DataFetcher();
     var chapterData = {};
-    //progress(done / total * 100);
-    var book = getULBFromDoor43Static(params.bookAbbr);
+    //
+    var book = getULBFromDoor43Static(params.bookAbbr, progress);
     ulb = DoorDataFetcher.getULBFromBook(book);
     var newStructure = { title: '' };
     for (let chapter in ulb) {
@@ -54,11 +54,10 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     chapterData = DoorDataFetcher.getTNFromBook(book, newStructure, params.bookAbbr, () => { });
     let filters = readFilters(convertToFullBookName(params.bookAbbr));
     parseObject(chapterData, tASectionList, addGroupData, setGroupsIndex, filters);
-    progress(100);
     resolve();
   })
 
-  function getULBFromDoor43Static(bookAbr) {
+  function getULBFromDoor43Static(bookAbr, progress) {
     var ULB = {};
     ULB['chapters'] = [];
     const pathBase = __dirname + '/../static/Door43/notes/';
@@ -91,7 +90,10 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     var indexList = [];
     var checkObj = {};
     for (let type in object) {
-      //parsing the headers/phrases removing uncessesary and messy data
+      let done = Object.keys(object).indexOf(type);
+      let progressPercentage = done / (Object.keys(object).length - 1) * 100;
+      progress("translationNotes", progressPercentage);
+      // parsing the headers/phrases removing uncessesary and messy data
       let typeMD = type + ".md";
       for (var sectionFileName in tASectionList) {
         if (sectionFileName === typeMD) {
