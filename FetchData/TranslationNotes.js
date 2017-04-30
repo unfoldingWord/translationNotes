@@ -89,6 +89,7 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
   function parseObject(object, tASectionList, addGroupData, setGroupsIndex, filters) {
     var indexList = [];
     var checkObj = {};
+    console.log(filters)
     for (let type in object) {
       let done = Object.keys(object).indexOf(type);
       let progressPercentage = done / (Object.keys(object).length - 1) * 100;
@@ -112,10 +113,18 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
         const currentCheck = object[type]['verses'][check];
         let found = false;
         if (filters) {
-          let currentFilter = filters.primary[currentCheck.chapter + ":" + currentCheck.verse];
-          if (!currentFilter || !currentFilter.includes(currentCheck.phrase)) {
+          let currentFilter = filters.primary[type];
+          if (currentFilter) {
+            let chapterObj = filters.primary[type][currentCheck.chapter + ":" + currentCheck.verse];
+              if (!chapterObj || !chapterObj.includes(currentCheck.phrase)) {
+                continue;
+              }
+          } else {
             continue;
           }
+          // if (!currentFilter || !currentFilter.includes(currentCheck.phrase)) {
+            // continue;
+          // }
         }
         if (!checkObj[type]) checkObj[type] = [];
         checkObj[type].push({
@@ -139,6 +148,7 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     Object.keys(checkObj).map(function (key, index) {
       addGroupData(key, checkObj[key]);
     });
+    console.log(checkObj);
     setGroupsIndex(indexList);
   }
 
@@ -163,16 +173,23 @@ function readFilters(bookName) {
       let line = lines[i].split(',');
       let value = parseFloat(line[5]);
       let chapterVerse = line[1] + ':' + line[2];
+      let category = line[3];
       if (value >= 1.5) {
-        if (!primaryMatrix[chapterVerse]) {
-          primaryMatrix[chapterVerse] = [];
+        if (!primaryMatrix[category]) {
+          primaryMatrix[category] = {};
         }
-        primaryMatrix[chapterVerse].push(line[4]);
+        if (!primaryMatrix[category][chapterVerse]) {
+          primaryMatrix[category][chapterVerse] = [];
+        }
+        primaryMatrix[category][chapterVerse].push(line[4].replace("/<", ","));
       } else {
-        if (!secondaryMatrix[chapterVerse]) {
-          secondaryMatrix[chapterVerse] = [];
+        if (!secondaryMatrix[category]) {
+          secondaryMatrix[category] = {};
         }
-        secondaryMatrix[chapterVerse].push(line[4]);
+        if (!secondaryMatrix[category][chapterVerse]) {
+          secondaryMatrix[category][chapterVerse] = [];
+        }
+        secondaryMatrix[category][chapterVerse].push(line[4].replace("/<", ","));
       }
     }
     return {
