@@ -119,20 +119,23 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
         }
         if (!checkObj[type]) checkObj[type] = [];
         checkObj[type].push({
+          priority: 1,
+          information: currentCheck.phraseInfo,
+          comments: false,
+          reminders: false,
+          selections: false,
+          verseEdits: false,
           contextId: {
-            groupId: type,
-            occurrence: 1,
-            quote: currentCheck.phrase,
-            information: currentCheck.phraseInfo,
             reference: {
               bookId: currentCheck.book,
               chapter: currentCheck.chapter,
               verse: currentCheck.verse
             },
-            tool: 'TranslationNotesChecker'
-          },
-          information: currentCheck.phraseInfo,
-          priority: 1
+            tool: 'translationNotes',
+            groupId: type,
+            quote: currentCheck.phrase,
+            occurrence: 1
+          }
         });
       }
     }
