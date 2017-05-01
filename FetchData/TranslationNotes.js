@@ -89,7 +89,6 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
   function parseObject(object, tASectionList, addGroupData, setGroupsIndex, filters) {
     var indexList = [];
     var checkObj = {};
-    console.log(filters)
     for (let type in object) {
       let done = Object.keys(object).indexOf(type);
       let progressPercentage = done / (Object.keys(object).length - 1) * 100;
@@ -122,9 +121,6 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
           } else {
             continue;
           }
-          // if (!currentFilter || !currentFilter.includes(currentCheck.phrase)) {
-            // continue;
-          // }
         }
         if (!checkObj[type]) checkObj[type] = [];
         checkObj[type].push({
@@ -148,7 +144,6 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
     Object.keys(checkObj).map(function (key, index) {
       addGroupData(key, checkObj[key]);
     });
-    console.log(checkObj);
     setGroupsIndex(indexList);
   }
 
