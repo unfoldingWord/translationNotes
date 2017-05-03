@@ -45,7 +45,7 @@ class View extends React.Component {
                 onClick={this.props.toggleHelps} />
               <div style={{ display: this.props.showHelps ? "block" : "none", height: "100vh" }}>
                 <TranslationHelps currentFile={this.props.currentFile}
-                  online={this.props.online} />
+                  online={this.props.statusBarReducer.online} />
               </div>
             </div>
           </Col>
