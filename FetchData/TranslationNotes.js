@@ -87,25 +87,27 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
   }
 
   function parseObject(object, tASectionList, addGroupData, setGroupsIndex, filters) {
-    var indexList = [];
-    var checkObj = {};
-    for (let type in object) {
-      let done = Object.keys(object).indexOf(type);
-      let progressPercentage = done / (Object.keys(object).length - 1) * 100;
-      progress("translationNotes", progressPercentage);
-      // parsing the headers/phrases removing uncessesary and messy data
-      let typeMD = type + ".md";
-      for (var sectionFileName in tASectionList) {
-        if (sectionFileName === typeMD) {
-          var titleKeyAndValue;
-          var groupName;
-          try {
-            titleKeyAndValue = tASectionList[sectionFileName]['file'].match(/title: .*/)[0];
-            groupName = titleKeyAndValue.substr(titleKeyAndValue.indexOf(':') + 1);
-          } catch (e) {
-            groupName = tASectionList[sectionFileName]['file'].match(/===== (.*) =====/)[1];
+    if (!groupsIndexLoaded || !groupsDataLoaded) {
+      var indexList = [];
+      var checkObj = {};
+      for (let type in object) {
+        let done = Object.keys(object).indexOf(type);
+        let progressPercentage = done / (Object.keys(object).length - 1) * 100;
+        progress("translationNotes", progressPercentage);
+        // parsing the headers/phrases removing uncessesary and messy data
+        let typeMD = type + ".md";
+        for (var sectionFileName in tASectionList) {
+          if (sectionFileName === typeMD) {
+            var titleKeyAndValue;
+            var groupName;
+            try {
+              titleKeyAndValue = tASectionList[sectionFileName]['file'].match(/title: .*/)[0];
+              groupName = titleKeyAndValue.substr(titleKeyAndValue.indexOf(':') + 1);
+            } catch (e) {
+              groupName = tASectionList[sectionFileName]['file'].match(/===== (.*) =====/)[1];
+            }
+            indexList.push({ id: type, name: groupName });
           }
-          indexList.push({ id: type, name: groupName });
         }
       }
       for (var check in object[type]['verses']) {
@@ -121,30 +123,33 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
           } else {
             continue;
           }
-        }
-        if (!checkObj[type]) checkObj[type] = [];
-        checkObj[type].push({
-          contextId: {
-            groupId: type,
-            occurrence: 1,
-            quote: currentCheck.phrase,
+          if (!checkObj[type]) checkObj[type] = [];
+          checkObj[type].push({
+            priority: 1,
             information: currentCheck.phraseInfo,
-            reference: {
-              bookId: currentCheck.book,
-              chapter: currentCheck.chapter,
-              verse: currentCheck.verse
-            },
-            tool: 'TranslationNotesChecker'
-          },
-          information: currentCheck.phraseInfo,
-          priority: 1
-        });
+            comments: false,
+            reminders: false,
+            selections: false,
+            verseEdits: false,
+            contextId: {
+              reference: {
+                bookId: currentCheck.book,
+                chapter: currentCheck.chapter,
+                verse: currentCheck.verse
+              },
+              tool: 'translationNotes',
+              groupId: type,
+              quote: currentCheck.phrase,
+              occurrence: 1
+            }
+          });
+        }
       }
+      Object.keys(checkObj).map(function (key, index) {
+        addGroupData(key, checkObj[key]);
+      });
+      setGroupsIndex(indexList);
     }
-    Object.keys(checkObj).map(function (key, index) {
-      addGroupData(key, checkObj[key]);
-    });
-    setGroupsIndex(indexList);
   }
 
   /**

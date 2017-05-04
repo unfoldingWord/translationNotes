@@ -2,7 +2,7 @@
 import React from 'react'
 import View from './View.js'
 //String constants
-const NAMESPACE = "TranslationNotesChecker";
+const NAMESPACE = "translationNotes";
 import FetchData from './FetchData/main'
 const sectionList = require('./static/SectionList.json').sectionList;
 
