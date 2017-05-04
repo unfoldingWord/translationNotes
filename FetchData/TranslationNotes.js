@@ -109,7 +109,6 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
             indexList.push({ id: type, name: groupName });
           }
         }
-      }
       for (var check in object[type]['verses']) {
         const currentCheck = object[type]['verses'][check];
         let found = false;
@@ -123,6 +122,7 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
           } else {
             continue;
           }
+        }
           if (!checkObj[type]) checkObj[type] = [];
           checkObj[type].push({
             priority: 1,
