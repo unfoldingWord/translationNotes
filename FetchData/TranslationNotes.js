@@ -126,12 +126,12 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
           if (!checkObj[type]) checkObj[type] = [];
           checkObj[type].push({
             priority: 1,
-            information: currentCheck.phraseInfo,
             comments: false,
             reminders: false,
             selections: false,
             verseEdits: false,
             contextId: {
+              information: currentCheck.phraseInfo,
               reference: {
                 bookId: currentCheck.book,
                 chapter: currentCheck.chapter,
