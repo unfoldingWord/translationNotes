@@ -475,29 +475,39 @@ function parseTargetLanguage(usfm) {
      */
     function getPaneSettings(tcManifest) {
       let targetLanguageName = "";
-      let gatewayLanguageName = "";
-      let gatewayLanguageVersion = "";
-      let originalLanguageName = "";
       let bookAbbr = "";
       if (tcManifest && tcManifest.target_language) {
         targetLanguageName = tcManifest.target_language.name;
       }
-      if (tcManifest && (tcManifest.source_translations.length !== 0)) {
-        gatewayLanguageName = tcManifest.source_translations[0].language_id.toUpperCase();
-        gatewayLanguageVersion = " (" + tcManifest.source_translations[0].resource_id.toUpperCase() + ")";
-      }
+
+      //The following code is not currently being used since English is the only gateway we support
+      //but eventually this will be needed again to extract the gateway language from the manifest
+      /*
+       if (tcManifest && (tcManifest.source_translations.length !== 0)) {
+       gatewayLanguageName = tcManifest.source_translations[0].language_id.toUpperCase();
+       gatewayLanguageVersion = " (" + tcManifest.source_translations[0].resource_id.toUpperCase() + ")";
+       }
+       */
+
       let gatewayLanguageHeading = {
-        heading: gatewayLanguageName + " " + gatewayLanguageVersion,
+        language_name: "English",
+        resource_id: "ulb",
+        resource_name: "Unlocked Literal Bible",
         headingDescription: "Gateway Language"
-      }
+      };
+
       let targetLanguageHeading = {
-        heading: targetLanguageName,
+        language_name: targetLanguageName,
         headingDescription: "Target Language"
-      }
+      };
+
       let UDBHeading = {
-        heading: gatewayLanguageName + " (UDB)",
+        language_name: "English",
+        resource_id: "udb",
+        resource_name: "Unlocked Dynamic Bible",
         headingDescription: "Gateway Language"
-      }
+      };
+
       if (tcManifest.ts_project) {
         bookAbbr = tcManifest.ts_project.id;
       }
@@ -508,16 +518,18 @@ function parseTargetLanguage(usfm) {
         bookAbbr = tcManifest.project_id;
       }
 
+      let originalLanguageHeading = {
+        headingDescription: "Original Language"
+      };
+
       if (isOldTestament(bookAbbr)) {
-        originalLanguageName = "Hebrew";
+        originalLanguageHeading.language_name = "Hebrew";
       } else {
-        originalLanguageName = "Greek (UGNT)";
+        originalLanguageHeading.language_name = "Greek";
+        originalLanguageHeading.resource_id = "ugnt";
+        originalLanguageHeading.resource_name = "Unlocked Greek New Testament";
       }
 
-      let originalLanguageHeading = {
-        heading: originalLanguageName,
-        headingDescription: "Original Language"
-      }
       let staticPaneSettings = [
         {
           sourceName: "originalLanguage",
