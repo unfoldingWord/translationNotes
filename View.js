@@ -31,7 +31,7 @@ class View extends React.Component {
     return (
       <MuiThemeProvider>
         <Row className="show-grid" style={{ margin: '0px', bottom: "0px", height: "100%" }}>
-          <Col sm={12} md={6} lg={9} style={{ height: "100%", padding: '0px' }}>
+          <Col sm={12} md={6} lg={9} style={{height: "100%", padding: '0px', display: "flex", flexDirection: "column"}}>
             {scripturePane}
             <CheckInfoCard phraseTitle={groupName} openHelps={this.props.toggleHelps} showHelps={this.props.showHelps} title={contextIdReducer.contextId.quote} file={contextIdReducer.contextId.information} />
             <VerseCheck
