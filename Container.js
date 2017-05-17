@@ -1,9 +1,9 @@
 //Api Consts
-import React from 'react'
-import View from './View.js'
-//String constants
+import React from 'react';
+import View from './View.js';
+import fetchData from './FetchData/main';
+// String constants
 const NAMESPACE = "translationNotes";
-import FetchData from './FetchData/main'
 const sectionList = require('./static/SectionList.json').sectionList;
 
 
@@ -12,26 +12,7 @@ class Container extends React.Component {
     super();
     this.state = {
       showHelps: true
-    }
-  }
-
-  componentWillMount() {
-    FetchData(this.props).then(this.props.actions.doneLoading);
-    //This will make sure that the anything triggered by the 
-    //DONE_LOADING action will be called at the right time.
-    this.props.actions.isDataFetched(true);
-    //This will make sure that the data will not be fetched twice when 
-    //the component receives new props.
-  }
-
-  componentWillReceiveProps(nextProps) {
-    if (!nextProps.currentToolReducer.isDataFetched) {
-      //This will make sure that the data will not be fetched twice
-      FetchData(nextProps).then(this.props.actions.doneLoading);
-      //This will make sure that the anything triggered by the 
-      //DONE_LOADING action will be called at the right time.
-      nextProps.actions.isDataFetched(true);
-    }
+    };
   }
 
   toggleHelps() {
@@ -81,5 +62,6 @@ class Container extends React.Component {
 
 module.exports = {
   name: NAMESPACE,
-  container: Container
-}
+  container: Container,
+  fetchData: fetchData
+};
