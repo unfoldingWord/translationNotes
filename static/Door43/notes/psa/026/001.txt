@@ -36,8 +36,9 @@
 
 <usfm>
 \c 26
-\m
+\p
 \d A psalm of David.
+\b
 \q
 \v 1 Judge me, Yahweh, for I have walked with integrity;
 \q I have trusted in Yahweh without wavering.
@@ -66,16 +67,16 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
-  * **I have walked** - The word "walked" is a metaphor for behavior. AT: "I have behaved" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **in Yahweh** - The third person use of "Yahweh" can be stated in the second person. AT: "in you" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **I have walked** - Acting or behaving is spoken of as if it were walking. AT: "I have acted" or "I have behaved" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in Yahweh** - Here the writer speaks about Yahweh in the third person. It can be stated in second person. AT: "in you" (See: [[:en:ta:vol2:translate:figs_123person]])
   * **without wavering** - Doubting is spoken of as if it were losing balance and waving back and forth. AT: "without doubting" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Examine me** - "Try me" 
-  * **test the purity of my inner parts and my heart** - Here "inner parts" and "heart" mean motives. AT: "test whether my motives are good" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **test the purity of my inner parts and my heart** - Here "inner parts" and "heart" represent a person's thoughts and motives. Some languages may use different body parts of these. AT: "test whether my thoughts and motives are good" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **For your covenant faithfulness is before my eyes** - Here "eyes" represent a person's thoughts. AT: "For I always think about how faithful you are to me because of your covenant" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I walk about in your faithfulness** - The word "walk" is a metaphor for behavior. AT: "I conduct my life according to your faithfulness" (UDB) or "I behave the way I do because of your faithfulness" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I walk about in your faithfulness** - Acting or behaving is spoken of as if it were walking. God's faithfulness is the reason the writer acts the way he does. AT: "I conduct my life according to your faithfulness" (UDB) or "I live the way I do because of your faithfulness" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -83,6 +84,6 @@
   * [[:en:bible:questions:comprehension:psa:026]]
 **[[:en:bible:notes:psa:025:022|<<]] | [[:en:bible:notes:psa:026:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1 test true integrity}}
+~~DISCUSSION~~{{tag>publish p2check book1 test true integrity}}
 
 ~~NOCACHE~~

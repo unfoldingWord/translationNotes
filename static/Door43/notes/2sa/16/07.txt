@@ -24,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 7 Shimei called out in cursing, "Go away, get out of here, you villain, you man of blood!
-\v 8 Yahweh has repaid all of you for the blood you shed within the family of Saul, in whose place you have reigned. Yahweh has given the kingdom into the hand of Absalom your son. You have come to ruin because you are a man of blood."
+\v 7 Shimei called out in cursing, "Go away, get out of here, you villain, you man of blood! 
+\v 8 Yahweh has repaid all of you for the blood of Saul's family, in whose place you have reigned. Yahweh has given the kingdom into the hand of Absalom your son. And now you are ruined because you are a man of blood."
 </usfm>
 
 
@@ -41,12 +41,11 @@
  
 ===== translationNotes: =====
 
+
   * **villain** - someone who is evil, a criminal or lawbreaker 
-  * **man of blood** - Here "blood" refers to all of men he was responsible for killing in battle. AT: "murderer" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Yahweh has repaid** - Yahweh repays them by punishing them. This can be stated clearly. AT: "Yahweh has punished" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **for the blood you shed within the family of Saul** - Here "blood" refer to people who were killed from Saul's family. The king was responsible for them dying. AT: "for killing many of Saul's family" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in whose place you have reigned** - David reigned as king over the same people whom Saul had previously reigned. AT: "in whose place you have reigned as king" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **into the hand of Absalom** - Here "hand" refers to control. AT: "into the control of Absalom" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **man of blood** - This metonym refers to David, who had killed many in battle. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Yahweh has repaid all of you for the blood of Saul's family** - Here the metonym "blood" refers to the deaths caused to the family of Saul. AT: "Yahweh is paying you all back for killing many of Saul's family" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **into the hand of Absalom your son** - Here "hand" refers to control. AT: "into the control of Absalom your son." (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
  
 ===== Links: =====
 
@@ -59,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

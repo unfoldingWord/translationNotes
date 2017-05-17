@@ -40,9 +40,10 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 17 This is what Yahweh, your Redeemer, the Holy One of Israel says,
-\q1 "I am Yahweh your God, who teaches you how to succeed,
+\q1 "I am Yahweh your God, who teaches you how to succeed, 
 \q1 who leads you by the way that you should go.
 \q1
 \v 18 If only you had obeyed my commandments!
@@ -63,13 +64,12 @@
 
 ===== translationNotes: =====
 
-  * **your Redeemer ... your God** - Here "your" refers to the people of Israel. (See: [[:en:ta:vol1:translate:figs_youdual]])
-  * **Redeemer** - Translate this word in the same way you did in [[:en:bible:notes:isa:41:14|41:14]].
-  * **Holy One of Israel** - Translate this phrase in the same way you did in [[:en:bible:notes:isa:01:04|1:4]].
-  * **who leads you by the way that you should go** - Yahweh teaching the people how they should live is spoken of as if he were leading them to walk on the correct paths. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **If only you had obeyed my commandments** - Yahweh describes something that could have happened but did not. (See: [[:en:ta:vol1:translate:figs_hypo]])
-  * **Then your peace and prosperity would have flowed like a river, and your salvation like the waves of the sea** - These two phrases share similar meanings. In both, Yahweh speaks of Israel's experiencing abundant blessings as if those blessings flowed like water. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **your salvation like the waves of the sea** - The verb may be supplied from the previous phrase. AT: "your salvation would have flowed like the waves of the sea" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Redeemer** - See how you translated this in [[:en:bible:notes:isa:41:14|41:14]].
+  * **Holy One of Israel** - See how you translated this in [[:en:bible:notes:isa:01:04|1:4]].
+  * **your God** - Here "your" refers to the people of Israel. (See: [[:en:ta:vol1:translate:figs_youdual]])
+  * **who leads you by the way that you should go** - This compares Yahweh telling the people what they should do to a shepherd leading his sheep on the correct path. This means Yahweh cares for the people and wants them to do what is right. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **If only you had obeyed my commandments** - In 48:18-19 Yahweh describes something that could have happened but did not. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **Then your peace and prosperity would have flowed like a river, and your salvation like the waves of the sea** - Both of these mean their peace and security would have been abundant. (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_parallelism]])
  
 ===== Links: =====
 
@@ -84,6 +84,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

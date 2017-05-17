@@ -18,8 +18,9 @@
 <usfm>
 \v 3 Doing what is right and just is more acceptable to Yahweh
 \q2 than offering sacrifices to him.
+\b
 \q1
-\v 4 When you show people that you think you are better than they,
+\v 4 When you show people that you think you are better than they, 
 \q2 and add to that the pride you have within you—this shines like a light and it tells others you are a wicked person—
 \q2 they are examples of sin.
 
@@ -52,13 +53,11 @@
 
 ===== translationNotes: =====
 
-  * **To do what is right** - "To do what Yahweh thinks is right"
-  * **To do what is ... just** - "To treat people the way Yahweh wants people to treat other people"
-  * **just is more acceptable to Yahweh** - "just—Yahweh wants this more"
-  * **Haughty eyes and a proud heart** - The words "eyes" and "heart" are synecdoches for a person who considers himself better than other people and wants other people to know it. AT: "People who want others to think that they are better than other people" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_doublet]])
-  * **Haughty eyes** - This is a synecdoche for a person who wants others to know that he thinks he is better than they are. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **proud heart** - This is a synecdoche for a person who thinks he is better than others. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the lamp of the wicked** - The things that help the wicked are spoken of as a lamp. AT: "the things that help a wicked person like a lamp helps to see in the dark" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **right and just** - These two words mean basically the same thing and emphasize how important it is to be just. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **is more acceptable to Yahweh** - "Yahweh wants this more" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Haughty eyes and a proud heart** - These two phrases mean basically the same thing and emphasize how bad pride is. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **eyes ... heart** - Both these words refer to a whole person. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the lamp of the wicked** - "the things that help a wicked person like a lamp helps to see in the dark" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:01|<<]] | [[:en:bible:notes:pro:21:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -36,8 +36,7 @@
 ===== translationNotes: =====
 
   * **See** - "Listen carefully to what I am about to say" or "What I am about to say is very important"
-  * **I will cut off your strength and the strength of your father's house** - The words "cut off ... strength" are probably a euphemism for the death of strong, young men; the words "your father's house" are a metonymy for "your family." AT: "I will kill you and all strong, young male descendants in your family" (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **be any old man** - "be any old men" or "be any men who grow old"
+  * **I will cut off your strength and the strength of your father's house** - The words "cut off ... strength" are probably a euphemism for the death of strong, young men; the words "your father's house" are a synecdoche for "your family." AT: "I will kill you and all strong, young male descendants in your family" (See: [[:en:ta:vol2:translate:figs_euphemism]])
   * **cause your eyes to fail** - "cause you to lose your eyesight" or "cause you to go blind"
 
 ===== Links: =====
@@ -47,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1sa:02]]
 **[[:en:bible:notes:1sa:02:29|<<]] | [[:en:bible:notes:1sa:02:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

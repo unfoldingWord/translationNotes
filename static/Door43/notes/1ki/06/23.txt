@@ -10,8 +10,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 23 Inside the very holy place they made from olive tree wood large statues of two creatures with wings. Each one was four and one-half meters tall.
-\v 24-26 They each were the same size and had the same shape. They each had two wings which were spread out. Each wing was two and one-third meters long, with the result that the distance between the outer ends of the two wings was four and one-half meters across. The height of each cherub was four and one-half meters.
+\v 23 Inside the very holy place they made from olive tree wood large statues of two creatures with wings. Each one was about 4.5 meters tall.
+\v 24-26 They each were the same size and had the same shape. They each had two wings which were spread out. Each wing was about 2.3 meters long, with the result that the distance between the outer ends of the two wings was about 4.5 meters. The height of each cherub was 4.5 meters.
 </usfm>
 
 ===== ULB: =====
@@ -31,7 +31,6 @@
 ===== translationNotes: =====
 
   * **olivewood** - "wood from an olive tree"
-  * **ten cubits ... five cubits** - A cubit is 46 centimeters. AT: "4.6 meters ... 2.3 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **wingspan** - the distance from the tip of one wing to the tip of the other wing
   * **dimensions** - "size"
 
@@ -42,6 +41,6 @@
   * [[:en:bible:questions:comprehension:1ki:06]]
 **[[:en:bible:notes:1ki:06:21|<<]] | [[:en:bible:notes:1ki:06:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass cherubim}}
+~~DISCUSSION~~{{tag>publish p2edit cherubim}}
 
 ~~NOCACHE~~

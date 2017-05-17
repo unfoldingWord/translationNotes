@@ -45,7 +45,7 @@
 \q
 \v 9 See, the hope of anyone who does that is a lie;
 \q will not anyone be thrown down to the ground just by the sight of him?
-\m
+\b
 </usfm>
 
 
@@ -55,12 +55,9 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues to rebuke Job by asking him questions.
-
-  * **Can you fill his hide with harpoons or his head with fishing spears?** - This can be translated as a statement. AT: "You cannot pierce his skin with your hunting weapons, nor can you pierce his head with fishing spears." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **harpoons** - large spears with barbed points that people use to hunt large sea creatures
-  * **See** - "Pay attention to the important thing I am going to say"
-  * **will not anyone be thrown down to the ground just by the sight of him?** - This generalization can be translated as a statement in active form. The words "the sight of him" the reason that the person will throw himself on the ground, is a metonym for the person being afraid and for the person throwing himself on the ground. AT: "Anyone who looks at him will be so frightened that he will throw himself on the ground" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Can you fill his hide with harpoons or his head with fishing spears?** - AT: "You cannot pierce his skin with your hunting weapons, nor can you pierce his head with fishing spears." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **harpoon** - a large spear with a barbed point used to hunt large fish or whales.
+  * **will not anyone be thrown down to the ground just by the sight of him?** - "Anyone will be thrown down to the ground just by the sight of him". (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -69,6 +66,6 @@
   * [[:en:bible:questions:comprehension:job:41]]
 **[[:en:bible:notes:job:41:04|<<]] | [[:en:bible:notes:job:41:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

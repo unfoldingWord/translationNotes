@@ -31,7 +31,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 The Lord Yahweh says this:
+\v 3 The Lord Yahweh says this: 
 \q So I will spread my net over you in the assembly of many peoples, and they will lift you up in my net.
 \q
 \v 4 I will abandon you in the land. I will throw you into a field
@@ -48,13 +48,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to speak to Pharaoh and to speak of him as if he were a monster, perhaps a crocodile,  in the water.
+  * **General Information:** - Yahweh continues to speak to Pharaoh and to compare him to a monster that lives in the water.
 
-  * **The Lord Yahweh says this** - Translate this as in [[:en:bible:notes:ezk:05:05|5:5]].
-  * **So I will spread my net over you in the assembly of many peoples** - God's punishment of Pharaoh is spoken of as if the king were the river monster caught in a net. AT: "So I will gather many peoples and throw my net over you." ([[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will abandon you in the land** - "I will leave you helpless on the land." The monster that was fearsome and powerful when it was in the water cannot do anything when it is left on dry land. 
+  * **The Lord Yahweh says this** - See how you translated this in [[:en:bible:notes:ezk:05:05|5:5]].
+  * **So I will spread my net over you in the assembly of many peoples** - AT: "So I will gather many peoples and throw my net over you." ([[:en:ta:vol1:translate:figs_explicit]])
+  * **they will lift you up in my net** - AT: "using my net, the peoples will pull you up out of the water" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **I will abandon you in the land** - "I will leave you helpless on the land." The monster that was scary when it was in the water cannot do anything when it is left on dry land. 
   * **all the birds of the heavens** - "all the birds that fly in the sky"
-  * **the hunger of all living animals on earth will be satisfied by you** - This can be put into active form. AT: "I will let all the animals of the earth eat your body until they are hungry no longer" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the hunger of all living animals on earth will be satisfied by you** - AT: "I will let all the animals of the earth eat your body until they are not hungry anymore" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:ezk:32]]
 **[[:en:bible:notes:ezk:32:01|<<]] | [[:en:bible:notes:ezk:32:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

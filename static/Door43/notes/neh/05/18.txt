@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 18 Now what was prepared each day was one ox, six choice sheep, and also birds, and every ten days all kinds of wine in abundance, yet for all this I did not demand the food allowance of the governor, because the demands were too heavy on the people.
+\v 18 Now what was prepared each day was one ox, six choice sheep, and also birds, and every ten days all kind of wine in abundance. And yet for all this I did not demand the food allowance of the governor, because the demands were too heavy on the people.
 \p
 \v 19 Call me to mind, my God, for good, because of all that I have done for this people.
 </usfm>
@@ -36,12 +36,14 @@
   * [[:en:obe:kt:good]]
 ===== translationNotes: =====
 
-  * **Now what was prepared each day was** - This can be stated in active form. AT: "Each day I told my servants to prepare" or "Each day I told my servants to serve us the meat from" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **six choice ... ten days** - "6 choice ... 10 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **wine in abundance** - "enough wine for everyone"
-  * **yet for all this I did not demand the food allowance of the governor** - "yet I never asked for the governor's food allowance"
-  * **Call me to mind** - This is an idiom. It is a request for God to think about him and remember him. AT: "Remember me" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **for good** - This idiom is a request for God to reward him with good things because of the good that he has done for the people. AT: "and reward me" or "cause good to happen to me" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **General Information:** - (See: [[:en:ta:vol2:translate:translate_numbers]])
+
+  * **what was prepared** - AT: "what was cooked for my table," or "what was made for our meal"
+  * **one ox, six choice sheep, and also birds** - This was the daily menu for the 150+ people mentioned in [[:en:bible:notes:neh:05:16|05:17]])
+  * **wine in abundance** - AT: "more than enough wine for everyone"
+  * **yet for all this I did not demand the food allowance of the governor** - "yet I never asked for the governor's food allowance." All of this food and wine was supposed to be supplied by the people, but Nehemiah used his own food and wine to feed all of these people.
+  * **food allowance** - This is the portion that was owed the governor by the people.
+  * **Call me to mind, my God, for good** - "Remember me, my God, for the good things that I have done," or "God, when you think about me, remember all the good I am doing for the people." Nehemiah is now praying to God and asking for help.
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -49,6 +51,6 @@
   * [[:en:bible:questions:comprehension:neh:05]]
 **[[:en:bible:notes:neh:05:16|<<]] | [[:en:bible:notes:neh:06:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

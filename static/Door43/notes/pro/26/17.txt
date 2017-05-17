@@ -12,11 +12,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 17 Someone who walks by a dog lying on the ground, who then reaches down and pulls its ears;
-\q2 he is like someone who hears an argument as he is walking by,
-\q2 and he gets involved, and becomes angry
+\v 17 Someone who walks by a dog lying on the ground, who then reaches down and pulls its ears; 
+\q2 he is like someone who hears an argument as he is walking by, 
+\q2 and he gets involved, and becomes angry 
 \q2 and then he takes sides and joins in—
-\q2 even though he had nothing to do with it.
+\q2 even though he had nothing to do with it. 
+
 
 \q1
 </usfm>
@@ -35,9 +36,7 @@
 
 ===== translationNotes: =====
 
-  * **Like one who takes hold of the ears of a dog, is a passerby who becomes angry at a dispute that is not his own** - This can be reordered. AT: "A passerby who becomes angry at some other people's dispute is like a person who grabs hold of a dog's ears" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Like one who takes hold of the ears of a dog** - The implied information is that the dog will get angry and bite the person. AT: "Like a person who angers a dog by grabbing its ears" or "Like a person who grabs a dog's ears and is bitten by the dog" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **is a passerby who becomes angry at a dispute that is not his own** - The implied information is that the passerby will start arguing, and the people who were fighting will get angry with him and hurt him. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Like one who takes hold of the ears of a dog, is a passerby who becomes angry at a dispute that is not his own** - A person who becomes angry at someone else's dispute causes himself needless hurt, like the person who angers a dog by pulling on its ears. (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -45,6 +44,6 @@
   * [[:en:bible:questions:comprehension:pro:26]]
 **[[:en:bible:notes:pro:26:15|<<]] | [[:en:bible:notes:pro:26:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 So Elijah did what Yahweh commanded him to do. He went and camped alongside Cherith Brook.
+\v 5 So Elijah did what Yahweh commanded him to do. He went and camped alongside Kerith Brook.
 \v 6 Crows bought bread and meat to him every morning and every evening, and he drank water from the brook.
 \p
 \v 7 But after a while, the water in the brook dried up, because rain did not fall anywhere in the land.
@@ -32,9 +32,9 @@
 
 ===== translationNotes: =====
 
-  * **as the word of Yahweh commanded** - Here "the word" represents Yahweh himself. AT: "as Yahweh commanded" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the brook Cherith** - This is the name of a very small stream. Translate this as you did in [[:en:bible:notes:1ki:17:02|17:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **in the land** - "in that area" or "in that country"
+  * **as the word of Yahweh commanded** - AT: "as Yahweh commanded" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the brook Cherith** - This is the name of a very small stream. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **in the land** - "in that area" or "in that country."
 
 ===== Links: =====
 
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:1ki:17]]
 **[[:en:bible:notes:1ki:17:02|<<]] | [[:en:bible:notes:1ki:17:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

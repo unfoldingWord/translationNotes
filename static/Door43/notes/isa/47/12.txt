@@ -36,14 +36,15 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 12 Persist in casting your spells and your many sorceries
-\q1 which you have faithfully recited since your childhood;
+\q1 which you have faithfully recited since your childhood; 
 \q1 perhaps you will be successful, perhaps you will scare away disaster.
 
 \q1
-\v 13 You are tired out with your many consultations; let those men stand up
-\q1 and save you—those who chart the heavens and look at the stars,
+\v 13 You are tired out with your many consultations; let those men stand up 
+\q1 and save you—those who chart the heavens and look at the stars, 
 \q1 those who declare the new moons—let them save you from what will happen to you.
 </usfm>
 
@@ -59,9 +60,9 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues to speak to Babylon about her downfall as if she were a queen who is humiliated. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **General Information:** - Yahweh continues speaking to the people of Babylon.
 
-  * **Persist in casting your spells ... perhaps you will scare away disaster** - Yahweh mocks Babylon by telling her to continue to practice her sorcery to keep bad things away, but he knows that it will not help her. (See: [[:en:ta:vol1:translate:figs_irony]])
+  * **Persist in casting your spells ... let them save you from what will happen to you** - In 47:12-13 Yahweh is mocking the people of Babylon. He challenges them to use magic to keep bad things away, but he knows they cannot. (See: [[:en:ta:vol1:translate:figs_irony]])
  
  
 ===== Links: =====
@@ -77,6 +78,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -21,6 +21,7 @@
 <usfm>
 \v 4 Ask Yahweh to help you and give you his strength,
 \q2 and always seek to be with him!
+\b
 \q1
 \v 5-6 You people who are descendants of God's servant Abraham,
 \q2 you descendants of Jacob, the people whom God has chosen,
@@ -65,10 +66,10 @@
 
   * **Seek Yahweh and his strength** - To "seek Yahweh's strength" means to ask him to strengthen you. AT: "(See: [[:en:ta:vol1:translate:figs_idiom]])
   * **Recall** - "Remember" 
-  * **his miracles and** - It may be helpful to add the missing words. AT: "remember his miracles and" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **decrees from his mouth** - Here "mouth" refers to the things that he spoke. AT: "decrees that he has spoken" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **his miracles and** - "Remember his miracles and"
+  * **decrees from his mouth** - "that he has spoken"
   * **you descendants of Abraham ... you people of Jacob** - The author is speaking to the Israelites, calling them these names.
-  * **Abraham his servant** - "Abraham, Yahweh's servant"
+  * **Abraham his servant** - "Abraham Yahweh's servant"
  
  
 ===== Links: =====
@@ -78,6 +79,6 @@
   * [[:en:bible:questions:comprehension:psa:105]]
 **[[:en:bible:notes:psa:105:001|<<]] | [[:en:bible:notes:psa:105:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

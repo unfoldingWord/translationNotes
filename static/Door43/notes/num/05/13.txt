@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 Then suppose that another man sleeps with her. In that case, she is defiled. Even if her husband does not see it or know about it, and even if no one catches her in the act and there is no one to testify against her,
+\v 13 Then suppose that another man sleeps with her. In that case, she is defiled. Even if her husband does not see it or know about it, and even if no one catches her in the act and there is no one to testify against her, 
 \v 14 nevertheless, a spirit of jealousy might still inform the husband that his wife is defiled. However, a spirit of jealousy might falsely come on a man when his wife is not defiled.
 </usfm>
 
@@ -32,9 +32,9 @@
 
 ===== translationNotes: =====
 
-  * **Then suppose that another man sleeps with her** - "and another man sleeps with her." This sentence can be written as part of the previous sentence. This explains how she sinned against her husband. This is something that could possibly happen. Yahweh is telling Moses what to do if it does happen. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **Then suppose that another man sleeps with her** - "and another man sleeps with her." This sentence can be written as part of the previous sentence. This explains how she sinned against her husband. 
   * **she is defiled ... his wife is defiled ... his wife is not defiled** - These phrases can be stated in active form. AT: "she has defiled herself ... his wife has defiled herself ... his wife has not defiled herself" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **in the act** - This refers to the act of adultery. The full meaning of this statement can be made explicit. AT: "in the act of adultery" or "sleeping with him" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **in the act** - This refers to the act of adultery. AT: "in the act of adultery" or "sleeping with him" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **a spirit of jealousy might still inform the husband** - Here the word "spirit" refers to a person's attitude and emotions. His "jealously" is spoken of as if it were a person who spoke to him. AT: "the husband might feel jealous and become suspicious" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_personification]])
   * **a spirit of jealousy might falsely come on a man** - Here the word "spirit" refers to a person's attitude and emotions. The idea of the spirit "coming on him" means that he began to have these jealous feelings. AT: "a man might feel jealous for no reason" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
 
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:num:05]]
 **[[:en:bible:notes:num:05:11|<<]] | [[:en:bible:notes:num:05:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -23,11 +23,12 @@
 <usfm>
 \v 1 Here are more wise sayings of Solomon that were written down by the men of Hezekiah, the king of Judah.
 \q1
-\v 2 God honors himself when he hides something so people cannot know it.
-\q2 But it is to the honor of kings to search out the things that God has hidden.
+\v 2 God honors himself when he hides something so people cannot know it. 
+\q2 But it is to the honor of kings to search out the things that God has hidden. 
 \q1
-\v 3 What kings think is above the way peasants think; they are like the heavens, they are above us all;
-\q2 and all kings have the same deep burdens that others cannot understand.
+\v 3 What kings think is above the way peasants think; they are like the heavens, they are above us all; 
+\q2 and all kings have the same deep burdens that others cannot understand. 
+
 
 \q1
 </usfm>
@@ -62,11 +63,9 @@
   * [[:en:obe:other:heart]] 
 ===== translationNotes: =====
 
-  * **to conceal a matter** - "to keep some things secret"
-  * **but the glory** - The ellipsis can be filled in. AT: "but it is the glory" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **search it out** - "search that matter out" or "search for those things that God has concealed"
-  * **Like the heavens are for height and the earth is for depth, so the heart of kings is unsearchable** - The hearts of kings are compared to the size of the heavens and the earth. AT: "Just as no one can measure the height of the heavens or the depth of the earth, even so no one can understand the heart of kings" (See: [[:en:ta:vol1:translate:figs_simile]]) 
-  * **heavens** - This refers to everything we see above the earth, including the sun, moon, and stars.
+  * **to conceal a matter** - "to keep something secret"
+  * **Like the heavens are for height and the earth is for depth, so the heart of kings is unsearchable.** - AT: "Just as no one can measure the height of the heavens or the depth of the earth, even so no one can understand the heart of kings." (See: [[:en:ta:vol1:translate:figs_simile]]) 
+  * **heavens** - This refers to everything we see above the earth, including the sun, moon, and stars. It also includes the heavenly bodies, such as far-off planets.
 
  
 ===== Links: =====
@@ -82,6 +81,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass hezekiah}}
+{{tag>publish p2edit hezekiah}}
 
 ~~NOCACHE~~

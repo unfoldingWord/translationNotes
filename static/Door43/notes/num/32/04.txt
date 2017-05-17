@@ -1,5 +1,6 @@
 ====== Numbers 32:4-5 ======
 
+
 ===== TFT: =====
 
 <usfm>
@@ -7,6 +8,7 @@
 \v 5 If it pleases you, we would like this land to be ours, instead of land on the other side of the Jordan River."
 \p
 </usfm>
+
 
 ===== UDB: =====
 
@@ -18,6 +20,7 @@
 \p
 </usfm>
 
+
 ===== ULB: =====
 
 <usfm>
@@ -25,32 +28,33 @@
 \v 5 They said, "If we have found favor in your sight, let this land be given to us, your servants, as a possession. Do not make us cross over the Jordan."
 </usfm>
 
+
 ===== translationWords: =====
 
-  * [[:en:obe:kt:yahweh|Yahweh]]
-  * [[:en:obe:other:israel|Israel, Israelites, nation of Israel]]
-  * [[:en:obe:other:servant|servant, slave, slavery]]
-  * [[:en:obe:kt:favor|favor, favorable, favoritism]]
-  * [[:en:obe:other:possess|possess, possession]]
-  * [[:en:obe:other:jordanriver|Jordan River]]
+  * [[:en:obe:kt:yahweh]]
+  * [[:en:obe:other:israel]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:favor]]
+  * [[:en:obe:other:possess]]
+  * [[:en:obe:other:jordanriver]]
 
 ===== translationNotes: =====
 
   * **General Information:** - The people from Reuben and Gad continue speaking to Moses, Eleazar, and the other leaders.
 
-  * **the lands that Yahweh attacked before the community of Israel** - Yahweh enabling the Israelites to conquer the people who lived in the land is spoken of as if Yahweh went before the Israelites and attacked the people. AT: "the lands where Yahweh enabled us to defeat the people living there" (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **the lands that Yahweh attacked before the community of Israel** - Yahweh enabling the Israelites to conquer the people who lived in the land is spoken of as if Yahweh went before the Israelites and attacked the people. AT: "the lands where Yahweh enabled us to defeat the people living there" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **We, your servants** - The people of the tribes of Reuben and Gad refer to themselves in this way to show respect to a person of higher authority.
-  * **If we have found favor in your sight** - The phrase "in your sight" is a metonym for the thoughts or opinion. AT: "If we have found favor with you" or "If you are pleased with us" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
-  * **let this land be given to us** - This can be stated in active form. AT: "give this land to us" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
-  * **Do not make us cross over the Jordan** - They wanted the land on the east side of the Jordan River instead of crossing over to the west side and claiming land there. AT: "Do not make us cross over the Jordan to take possession of land on that side" (See: [[:en:ta:vol1:translate:figs_explicit|Assumed Knowledge and Implicit Information]])
+  * **If we have found favor in your sight** - The phrase "in your sight" is a metonym for the thoughts or opinion. AT: "If we have found favor with you" or "If you are pleased with us" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **let this land be given to us** - This can be stated in active form. AT: "give this land to us" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Do not make us cross over the Jordan** - They wanted to land on the east side of the Jordan river instead of crossing over to the west side and claiming land there. AT: "Do not make us cross over the Jordan to take possession of land on that side" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
-  * [[:en:bible:notes:num:00:intro|Introduction to Numbers]]
-  * [[:en:bible:notes:num:32:00|Numbers 32 General Notes]]
-  * [[:en:bible:questions:comprehension:num:32|Numbers 32 Translation Questions]]
-
+  * [[:en:bible:notes:num:00:intro]]
+  * [[:en:bible:notes:num:32:00]]
+  * [[:en:bible:questions:comprehension:num:32]]
 **[[:en:bible:notes:num:32:01|<<]] | [[:en:bible:notes:num:32:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

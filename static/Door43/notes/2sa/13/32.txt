@@ -40,11 +40,9 @@
 ===== translationNotes: =====
 
   * **Jehonadab ... Shammah** - Translate these men's names as you did in [[:en:bible:notes:2sa:13:03|13:03]].
-  * **Let not my master believe** - "My master, do not believe"
-  * **my master** - Jonadab calls David "my master" to show respect.
+  * **Let not my master** - Jonadab calls David "my master" to show respect.
   * **Amnon violated his sister** - This is a polite way of saying that Amnon raped his sister. (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **let not my master the king** - "my master the king, do not"
-  * **take this report to heart** - The phrase "take something to heart" means "to worry about it." AT: "worry about this report" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **let not my master the king take this report to heart** - Here "heart" represents belief. AT: "my master the king should not believe this report" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -57,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

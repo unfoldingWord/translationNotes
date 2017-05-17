@@ -28,6 +28,7 @@
 \q1
 \v 17 The record of my sins would be sealed in a small bag,
 \q2 and you would cover them.
+\b
 
 
 \q1
@@ -46,7 +47,7 @@
 \q
 \v 17 My transgression would be sealed up in a bag;
 \q you would cover up my iniquity.
-\m
+\b
 </usfm>
 
 
@@ -61,17 +62,15 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** Job continues speaking to God.
-
-  * **I would answer** - "I would respond"
-  * **You would have a desire for** - The noun "desire" can be expressed with the verbs "desire" or "want." AT: "You would desire" or "You would want" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **for the work of your hands** - Here God's hands represent him making things. Job refers to himself as the work of God's hands. AT: "for me, whom you have made" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_123person]])
-  * **number and care for** - These two verbs together express a single action. AT: "attentively care for" (See: [[:en:ta:vol2:translate:figs_hendiadys]])
-  * **my footsteps** - Footsteps represent his life or what he does  AT: "my life" or "the things I do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **you would not keep ... My transgression would be ... you would cover up** - These three lines express the same thought and are used together to emphasize his confidence that God would forgive him. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **you would not keep track of my sin** - Keeping track of Job's sin represents thinking about his sin. AT: "you would not look at my sin" or "you would not think about my sin" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **My transgression would be sealed up in a bag** - Sealing transgression in a bag represents hiding it and refusing to think about it. This can be stated in active form. AT: "You would refuse to think about my transgression like someone who hides something in a bag" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **you would cover up my iniquity** - Covering up something iniquity so that it cannot be seen represents refusing to think about. AT: "you would hide my iniquity" or "you would ignore my iniquity" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I would answer** - AT: "I would respond" or "I would do what you ask of me"
+  * **have a desire for** - AT: "desire" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **for the work of your hands** - AT: "for me" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_123person]])
+  * **number and care for** - These two verbs combined express a single action. AT: "attentively care for" (See: [[:en:ta:vol2:translate:figs_hendiadys]])
+  * **my footsteps** - AT: "my life" or "me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you would not keep ... My transgression would be ... you would cover up** - These three lines repeat the same thought and are used together to emphasize the importance of forgiveness. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **you would not keep track of** - "you would not look at" AT: "you would forget" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **would be sealed up in a bag** - Transgression is described as if it is a small object you can put away. AT: "would be like trash you put in a bag" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **cover up my iniquity** - This describes iniquities as if they are a damaged part in a wall that will be covered with plaster. AT: "cover my iniquity as you plaster over a damaged wall" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -79,6 +78,6 @@
   * [[:en:bible:questions:comprehension:job:14]]
 **[[:en:bible:notes:job:14:13|<<]] | [[:en:bible:notes:job:14:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

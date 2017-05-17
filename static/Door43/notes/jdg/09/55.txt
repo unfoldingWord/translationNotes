@@ -22,7 +22,7 @@
 
 <usfm>
 \v 55 When the men of Israel saw that Abimelech was dead, they went home.
-\v 56 So God avenged the evil of Abimelech that he did to his father by murdering his seventy brothers.
+\v 56 And so God avenged the evil of Abimelech that he did to his father by murdering his seventy brothers.
 \v 57 God made all the evil of the men of Shechem turn back on their own heads and on them came the curse of Jotham son of Jerub Baal.
 </usfm>
 
@@ -31,7 +31,6 @@
   * [[:en:obe:other:israel]]
   * [[:en:obe:other:abimelech]]
   * [[:en:obe:kt:god]]
-  * [[:en:obe:kt:avenge]]
   * [[:en:obe:kt:evil]]
   * [[:en:obe:other:shechem]]
   * [[:en:obe:other:head]]
@@ -42,8 +41,8 @@
 
   * **seventy** - "70" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **made all the evil of the men of Shechem turn back on their own heads** - "Evil turn back on their heads" is an idiom. AT: "punished the men of Shechem for all the evil they had done" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **on them came the curse of Jotham son of Jerub Baal** - This is an idiom. AT: "the curse of Jotham son of Jerub Baal happened to them" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Jerub Baal** - This is another name for Gideon. See how you translated this name in [[:en:bible:notes:jdg:06:31|6:32]].
+  * **on them came the curse of Jotham son of Jerub Baal** - "the curse of Jotham son of Jerub Baal came true"
+  * **Jerub Baal** - See how you translated this name in [[:en:bible:notes:jdg:06:31| 6:32]].
 
 ===== Links: =====
 
@@ -52,6 +51,6 @@
   * [[:en:bible:questions:comprehension:jdg:09]]
 **[[:en:bible:notes:jdg:09:52|<<]] | [[:en:bible:notes:jdg:10:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass evil}}
+~~DISCUSSION~~{{tag>publish p2edit evil}}
 
 ~~NOCACHE~~

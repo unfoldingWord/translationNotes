@@ -33,11 +33,13 @@
 
   * **General Information:** - This passage summarizes much of the story of Esther in order to explain the reason for the festival of Purim. 
 
-  * **Haman son of Hammedatha the Agagite** - This is the name and description of Haman, one of the king's officials. See how you translated this in [[:en:bible:notes:est:03:01|3:1]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **he threw Pur (that is, he threw lots)** - "Pur" was the Persian word for "lot." The phrase "he threw lots" explains what "he threw Pur" means.  
-  * **he threw Pur (that is, he threw lots)** - Why he threw Pur, or lots, can be stated clearly. AT: "he threw Pur (that is, he threw lots) to find out what would be the best day to attack the Jews" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Haman** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Hammedatha** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Agagite** - This is the people group of Haman. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **he threw Pur (that is, he threw lots)** - "he threw Pur (that is, he cast lots to find out what would be the most lucky day in the year for him to do it on)" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Pur** - "Purim" or "lots"
   * **But when the matter came before the king** - The Hebrew text can also be interpreted to mean, "But when Esther came before the king." Some modern versions choose this interpretation.
-  * **the wicked plan Haman developed against the Jews should come back on his own head** - "Come back on his own head" means that it should be done to Haman. AT: "the wicked plan Haman developed against the Jews should be done to him" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -45,6 +47,6 @@
   * [[:en:bible:questions:comprehension:est:09]]
 **[[:en:bible:notes:est:09:20|<<]] | [[:en:bible:notes:est:09:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

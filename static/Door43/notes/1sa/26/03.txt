@@ -13,8 +13,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 Saul and his men set up their tents close to the road on the hill of Hachilah, east of the town of Jeshimon, but David and his men stayed in the wilderness. When David heard that Saul was searching for him,
-\v 4 he sent some spies to find out for certain that Saul had come to Hachilah.
+\v 3 Saul and his men set up their tents close to the road on the hill of Hakilah, east of the town of Jeshimon, but David and his men stayed in the wilderness. When David heard that Saul was searching for him,
+\v 4 he sent some spies to find out for certain that Saul had come to Hakilah.
 
 
 \p
@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 Saul camped on the hill of Hachilah, which is before Jeshimon, by the road. But David was staying in the wilderness, and he saw that Saul was coming after him into the wilderness.
+\v 3 Saul camped on the hill of Hachilah, which is before the wilderness, by the road. But David was staying in the wilderness, and he saw that Saul was coming after him into the wilderness.
 \v 4 So David sent out spies and learned that Saul had indeed come.
 </usfm>
 
@@ -37,8 +37,6 @@
 
 ===== translationNotes: =====
 
-  * **before Jeshimon** - "from which they could see Jeshimon"
-  * **Jeshimon** - This is the name of a desert area near the Dead Sea. It can also be translated as "the Judean Wilderness" or "the wasteland." Translate as in [[:en:bible:notes:1sa:23:19|23:19]]. (See: [[:en:ta:vol1:translate:translate_names]]) 
 
 ===== Links: =====
 
@@ -47,6 +45,6 @@
   * [[:en:bible:questions:comprehension:1sa:26]]
 **[[:en:bible:notes:1sa:26:01|<<]] | [[:en:bible:notes:1sa:26:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

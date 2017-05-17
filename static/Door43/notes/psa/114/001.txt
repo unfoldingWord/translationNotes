@@ -20,7 +20,7 @@
 \q2
 \v 2 the land of Judah became the place where people worshiped God;
 \q2 and Israel became the land that he ruled over.
-
+\b
 
 
 \q1
@@ -30,7 +30,7 @@
 
 <usfm>
 \c 114
-\m
+\p
 \q
 \v 1 When Israel left Egypt,
 \q the house of Jacob from that foreign people,
@@ -53,11 +53,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
-  * **When Israel left Egypt, the house of Jacob from that foreign people** - These two lines are parallel, with "Israel" and "the house of Jacob" meaning the same thing and "Egypt" and "that foreign people" referring to the same people. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **the house of Jacob from that foreign people** - The word "house" here represents the family or descendents. The verb may be supplied to this phrase. AT: "the descendants of Jacob departed from that foreign people" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **Judah became his holy place, Israel his kingdom** - Possible meanings for "Judah" and "Israel" are 1) they refer to the land. AT: "The land of Judah became Yahweh's holy place, the land of Israel became his kingdom" or 2) they are metonyms for the people of Judah and Israel. AT: "The people of Judah became those among whom Yahweh lived, the people of Israel became those over whom he ruled" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+
+  * **When Israel left Egypt, the house of Jacob from that foreign people** - These two lines are parallel, with "Israel" and "the house of Jacob" meaning the same thing and "Egypt" and "that foreign people" meaning the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the house of Jacob from that foreign people** - The word "house" here represents family. The verb may be supplied to this phrase. AT: "the descendants of Jacob departed from that foreign people" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Judah became his holy place, Israel his kingdom** - Possible meanings are that the words "Judah" and "Israel" 1) refer to the land or 2) are metonyms for the people of Judah and Israel. AT: "The land of Judah became Yahweh's holy place, the land of Israel became his kingdom" or "The people of Judah became those among whom Yahweh lived, the people of Israel became those over whom he ruled" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -65,6 +67,6 @@
   * [[:en:bible:questions:comprehension:psa:114]]
 **[[:en:bible:notes:psa:113:009|<<]] | [[:en:bible:notes:psa:114:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

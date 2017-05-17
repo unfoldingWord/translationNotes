@@ -16,12 +16,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 If you think about how heavy a stone can be, or how much sand can weigh—
-\q2 then you will understand that the trouble a fool causes is harder to carry than both of those things.
+\v 3 If you think about how heavy a stone can be, or how much sand can weigh— 
+\q2 then you will understand that the trouble a fool causes is harder to carry than both of those things. 
 \q1
-\v 4 If you think about how cruel can be people who rage at others, and how angry people can attack others like a flood of water,
+\v 4 If you think about how cruel can be people who rage at others, and how angry people can attack others like a flood of water, 
 \q2 then think about how jealous people are even worse;
-\q2 no one can resist being harmed by a jealous person.
+\q2 no one can resist being harmed by a jealous person. 
+
 
 \q1
 </usfm>
@@ -46,13 +47,10 @@
 
 ===== translationNotes: =====
 
-  * **the provocation of a fool is heavier than both** - The difficulty of being patient with a fool who provokes you is spoken of as if that difficulty were heavy. AT: "the provocation of a fool is harder to tolerate than either of them" or "It is harder to be patient when a fool provokes you than it is to be patient while carrying them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the provocation of a fool** - "the trouble caused by a fool." "Provocation" means actions or words that cause anger or irritation.
-  * **There is the cruelty of rage and the flood of anger, but who is able to stand before jealousy?** - The abstract nouns "rage", "anger" and "jealousy" can be translated as adjectives. AT: "A raging person is cruel and an angry person is overwhelming, but who can stand before a jealous person?" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **provocation** - actions or words that cause others to become angry
   * **cruelty** - "harshness"
-  * **the flood of anger** - "the destructiveness of anger." Anger is spoken of here as if it were a powerful flood. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **but who is able to stand before jealousy?** - This question implies that no one can stand before jealousy. It can be reworded as a statement. AT: "but no one is able to stand before jealousy" (See: [[:en:ta:vol1:translate:figs_rquestion]]).
-  * **to stand before jealousy** - Here standing represents being strong and resisting being harmed by a jealous person who attacks. AT: "to resist a jealous person" or "to remain strong when a jealous person attacks him" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **but who is able to stand before jealousy?** - AT: "no one is able to keep from being harmed by a jealous person" (See: [[:en:ta:vol1:translate:figs_rquestion]]).
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -60,6 +58,6 @@
   * [[:en:bible:questions:comprehension:pro:27]]
 **[[:en:bible:notes:pro:27:01|<<]] | [[:en:bible:notes:pro:27:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

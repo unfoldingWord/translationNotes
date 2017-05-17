@@ -38,14 +38,14 @@
 
 <usfm>
 \c 31
-\m
+\p
 \q1
-\v 1 Woe to those who go down to Egypt for help and lean on horses,
-\q1 and trust in chariots (for they are many) and in horsemen (for they are countless).
+\v 1 Woe to those who go down to Egypt for help and lean on horses, 
+\q1 and trust in chariots (for they are many) and in horsemen (for they are countless). 
 \q1 But they are not concerned about the Holy One of Israel, nor do they seek Yahweh!
 \q1
-\v 2 Yet he is wise, and he will bring disaster and will not retract his words.
-\q1 He will arise against the evil house and against the helpers of those who commit sin.
+\v 2 Yet he is wise, and he will bring disaster and will not retract his words. 
+\q1 And he will arise against the evil house and against the helpers of those who commit sin.
 </usfm>
 
 ===== translationWords: =====
@@ -64,15 +64,12 @@
   * [[:en:obe:kt:sin]]
 
 ===== translationNotes: =====
-  * **General Information:** - Isaiah continues speaking to the people of Judah.
 
-  * **go down to Egypt** - The phrase "go down" is used here because Egypt is lower in Elevation than Jerusalem.
   * **those who go down** - "those people of Judah who go down"
-  * **lean on horses** - This speaks about people relying on their horses to help them as if they were leaning on their horses. AT: "rely on their horses" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Holy One of Israel** - Translate this phrase the same as you did in [[:en:bible:notes:isa:01:04|1:4]].
+  * **lean on horses** - "rely on their horses"
+  * **Holy One of Israel** - See how you translated this in [[:en:bible:notes:isa:01:04|1:4]].
   * **nor do they seek Yahweh** - "nor do they ask Yahweh to help them"
-  * **he will bring disaster** - Here the word "bring" means to "cause." AT: "he will cause disasters to happen" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **will not retract his words** - The phrase "retract his words" speaks of a person not fulfilling what they said they will do as if the words that he had said were something that he could pull back to himself. Here it says that Yahweh will not do this, meaning he will fulfill what he has said. AT: "he will do what he said he would do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **will not retract his words** - "he will do what he said he would do"
   * **arise against** - "punish"
   * **evil house** - This refers to evil people who live there. AT: "all who do evil things" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
@@ -83,6 +80,6 @@
   * [[:en:bible:questions:comprehension:isa:31]]
 **[[:en:bible:notes:isa:30:33|<<]] | [[:en:bible:notes:isa:31:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass trust woe}}
+~~DISCUSSION~~{{tag>publish p2edit trust woe}}
 
 ~~NOCACHE~~

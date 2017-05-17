@@ -19,10 +19,12 @@
 
 <usfm>
 \v 28 A king measures his glory by the number of the people in his kingdom,
-\q2 but if the prince has no people, he is brought to ruin.
+\q2 but if the prince has no people, he is brought to ruin. 
+\b
 \q1
 \v 29 Those who do not quickly become angry have much understanding;
-\q2 the quick-tempered praise foolishness.
+\q2 the quick-tempered praise foolishness. 
+\b
 
 
 \q1
@@ -33,8 +35,8 @@
 
 <usfm>
 \q
-\v 28 The glory of a king is found in the great number of his people,
-\q but without people the prince is ruined.
+\v 28 The glory of a king is found in the great number of his people, 
+\q but without people the prince is ruined. 
 \q
 \v 29 A patient person has great understanding,
 \q but the quick-tempered person exalts folly.
@@ -52,8 +54,8 @@
 ===== translationNotes: =====
 
 
-  * **the great number of his people** - "how many people he rules"
-  * **the prince is ruined** - "the prince has nothing and his kingdom will fall"
+  * **the great number of his people** - AT: "how many people he rules"
+  * **the prince is ruined** - AT: "the prince has nothing and his kingdom will fall"
   * **the quick-tempered** - a person who is quick to become angry
  
  
@@ -70,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

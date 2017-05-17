@@ -39,8 +39,8 @@
 \v 4 For the yoke of his burden, the beam across his shoulder,
 \q1 the rod of his oppressor, you have shattered as on the day of Midian.
 \q1
-\v 5 For every boot treading in the tumult
-\q1 and the garments rolled in blood
+\v 5 For every boot treading in the tumult 
+\q1 and the garments rolled in blood 
 \q1 will be burned, fuel for the fire.
 </usfm>
 
@@ -56,16 +56,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe the time when God will save the people of Israel. Although these events will happen in the future ([[:en:bible:notes:isa:09:01|9:1-2]]), Isaiah describes them as if they have already happened. This emphasizes that they certainly will happen. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **General Information:** - Isaiah continues to describe the time when God will save the people of Israel. Although these events would happen in the future, Isaiah describes them as if they already happened. This emphasizes that they certainly will happen. (See: [[:en:bible:notes:isa:09:01|9:1-2]])
 
-  * **For the yoke of his burden ... you have shattered as on the day of Midian** - Isaiah speaks of the Israelites, who are the Assyrians' slaves, as if they were an ox wearing a yoke. This will happen in the future, but he speaks as if it has already happened. AT: "For as on the day of Midian you will set the people of Israel free from being slaves to their oppressors like a person removes a yoke from the shoulders of an animal" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_pastforfuture]])
-  * **For the yoke of his burden ... his shoulder ... his oppressor** - Isaiah speaks of the people of Israel as if they were one man. AT: "For the yoke of their burden ... their shoulders ... their oppressor" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the beam across his shoulder** - The beam is the part of the yoke that goes over the shoulders of the ox.
-  * **beam** - Another possible meaning is "staff," a long piece of wood that a person uses to beat the oxen so they will work and a symbol of one person's power to rule other people.
-  * **the rod of his oppressor** - Isaiah speaks of the power the oppressor has over the people of Judah as if it were the piece of wood used by a person to beat oxen so they will work. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **as on the day of Midian** - The word "day" is an idiom that can refer to an event that takes more than one day to happen. AT: "as when you defeated the Midianites" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **every boot treading in the tumult and the garments rolled in blood will be burned** - This can be stated in active form. AT: "you will burn the boots of the soldiers and their clothes, which are covered with blood" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **burned, fuel for the fire** - This can be made more explicit by translating it as a new sentence. AT: "burned. You will make the boots and the garments fuel for the fire" (See [[:en:ta:vol1:translate:figs_explicit]])
+  * **For the yoke of his burden, the beam across his shoulder, the rod of his oppressor, you have shattered** - The word "his" refers to the people of Israel. Isaiah includes himself as a part of Israel. Isaiah compares the slaves from Israel to oxen wearing yokes. AT: "You will free the slaves from Israel like a person removing a yoke from an oxen, and you will shatter the rod of the one who oppresses us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **as on the day of Midian** - "Day" refers to the day that Israel defeated Midian. AT: "as when you defeated the Midianites" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **every boot treading in the tumult and the garments rolled in blood will be burned** - This can be stated in active form. AT: "you will burn the boots of the soldiers and their clothes which are covered with blood" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **fuel for the fire** - This can be translated as a new sentence. AT: "You will make them fuel for the fire" 
 
 ===== Links: =====
 
@@ -74,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:09]]
 **[[:en:bible:notes:isa:09:03|<<]] | [[:en:bible:notes:isa:09:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example yoke}}
+~~DISCUSSION~~{{tag>publish p2edit yoke}}
 
 ~~NOCACHE~~

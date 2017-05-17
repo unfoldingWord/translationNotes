@@ -22,7 +22,7 @@
 <usfm>
 \p
 \v 15 It was on the seventh day that they got up early at daybreak, and they marched around the city in the same way that was their pattern, this time for seven times. It was on this day that they marched around the city seven times.
-\v 16 It was on the seventh day, when the priests gave a blast with the trumpets, that Joshua commanded the people, "Shout! For Yahweh has given you the city.
+\v 16 It was on the seventh day when the priests gave a blast with the trumpets, that Joshua commanded the people, "Shout! For Yahweh has given you the city.
 </usfm>
 
 
@@ -35,10 +35,10 @@
 
 ===== translationNotes: =====
 
-  * **the people** - This refers to the people of Israel.
-  * **gave a blast with the trumpets** - "sounded the trumpets loudly" or "blew into the ram's horn trumpets"
-  * **Yahweh has given you** - Joshua is saying that Yahweh will definitely give them the city by saying that he has already given it to them. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
-  * **given you** - The word "you" refers to the entire nation of Israel. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **General Information:** - Joshua and Israel march around Jericho - Day 7
+
+  * **people** - refers to the people of Israel 
+  * **given you** - The word "you" refers to the entire nation of Israel. (See: [[:en:ta:vol1:translate:figs_youdual]])
  
 ===== Links: =====
 
@@ -53,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

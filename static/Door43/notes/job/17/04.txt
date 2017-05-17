@@ -24,6 +24,7 @@
 \v 5 Our ancestors said, 'It often happens that when someone betrays his friends in order to get some of their property,
 \q2 it is that person's children who will be punished for it;'
 \q1 so I desire that will be true of these friends of mine who are lying about me.
+\b
 
 
 \q1
@@ -39,7 +40,7 @@
 \q
 \v 5 He who denounces his friends for a reward,
 \q the eyes of his children will fail.
-\m
+\b
 </usfm>
 
 
@@ -56,11 +57,11 @@
 
   * **General Information:** - Job continues to speak.
 
-  * **have kept their hearts** - The word "their" refers to his friends. They are referred to by their "hearts" to emphasize their emotions. AT: "have kept them" or "have kept my friends" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **you will not exalt them over me** - "you will not allow them to triumph over me" 
+  * **have kept their hearts** - AT: "have kept their minds" or "have kept them" or "have kept my three friends" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **you will not exalt them over me** - AT: "you will not allow them to triumph over me" or "you will not allow them to defeat me"
   * **He who** - "Anyone who"
-  * **denounces his friends for a reward** - "falsely accuses his friends in order to get a profit" or "betrays his friends to receive a reward" 
-  * **the eyes of his children will fail** - The person's children are referred to here by their "eyes." This phrase describes the children suffering because of what their father or mother did. AT: "his children will suffer for it" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **denounces his friends for a reward** - AT: "falsely accuses his friends in order to get a profit" or "betrays his friends in order to get a portion of his goods" 
+  * **the eyes of his children will fail** - AT: "his children will suffer for it" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:17]]
 **[[:en:bible:notes:job:17:01|<<]] | [[:en:bible:notes:job:17:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -28,7 +28,8 @@
 \v 6 But see, I am about to bring healing and a cure, for I will heal them and will bring to them abundance, peace, and faithfulness.
 \v 7 For I will bring back the fortunes of Judah and Israel; I will build them up as in the beginning.
 \v 8 Then I will purify them from all the iniquity that they have committed against me. I will pardon all the iniquities that they have done against me, and all the ways that they rebelled against me.
-\v 9 For this city will become for me an object of joy, a song of praise and honor for all the nations of the earth who will hear of all the good things that I am going to do for it. Then they will fear and tremble because of all the good things and the peace that I will give to it.'
+\v 9 For this city will become for me an object of joy, a song of praise and honor for all the nations of the earth who will hear of all the good things that I am going to do for it. 
+Then they will tremble because of all the good things and the peace that I will give to it.'
 </usfm>
 
 ===== translationWords: =====
@@ -49,13 +50,8 @@
 
 ===== translationNotes: =====
 
-  * **fortunes** - "wealth"
-  * **this city ... do for it ... give to it" - The city is a metonym for the people who live in the city. AT: "the people who live in this city ... do for the people who live there ... give to the people who live there" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **a song of praise and honor for all the nations of the earth** - The word "song" is a metonym for the object about which people will sing the song. AT: "something about which all the people groups of the earth will sing songs of praise and honor to me, Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **they will fear and tremble** - This hendiadys can be translated by a single verb. AT: "they will tremble with fear" (See: [[:en:ta:vol2:translate:figs_hendiadys]])
-  * **fear** - Another possible meaning is "awe."
-  * **the peace that I will give to it** - The abstract noun "peace" is spoken of as if it were a solid object that one person could give to another, and the city is spoken of as a person who could receive a gift. AT: "the way I cause the people of the city to live in peace" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_personification]])
-
+  * **bring back the fortunes** - AT: "bring back their prosperity"
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -63,6 +59,6 @@
   * [[:en:bible:questions:comprehension:jer:33]]
 **[[:en:bible:notes:jer:33:04|<<]] | [[:en:bible:notes:jer:33:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

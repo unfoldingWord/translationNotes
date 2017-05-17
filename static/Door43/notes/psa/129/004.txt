@@ -16,6 +16,7 @@
 <usfm>
 \v 4 But Yahweh is righteous,
 \q2 and he has freed us from being slaves to wicked people.
+\b
 \q1
 \v 5 I wish that they may all be shamed because we will defeat them—all of Jerusalem's enemies.
 
@@ -45,8 +46,8 @@
 
 ===== translationNotes: =====
 
-  * **he has cut the ropes of the wicked** - Israel is spoken of as being bound by evil people. AT: "he has freed us from our enemies" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **May they all be put to shame and turned back** - Yahweh is not explicitly mentioned as the one who does these things. This can be stated in active form. AT: "May Yahweh shame them and defeat them" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **cut the ropes of the wicked** - Israel is spoken of as being bound by evil people. AT: "he has freed us from our enemies" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **May they all be put to shame and turned back** - Yahweh is not explicitly mentioned as the one who does these things. AT: "May Yahweh shame them and defeat them" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -55,6 +56,6 @@
   * [[:en:bible:questions:comprehension:psa:129]]
 **[[:en:bible:notes:psa:129:001|<<]] | [[:en:bible:notes:psa:129:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

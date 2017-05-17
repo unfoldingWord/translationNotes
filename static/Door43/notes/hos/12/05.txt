@@ -18,12 +18,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 This is Yahweh, the God of the angel armies!
+\v 5 This is Yahweh, the God of the angel armies! 
 \q2 "Yahweh" is the name by which we should worship him.
 \q1
 \v 6 Turn to your God!
 \q2 Obey his covenant and do what is right.
 \q1 Never stop trusting in your God for him to help you.
+\b
 
 
 \q1
@@ -65,6 +66,6 @@
   * [[:en:bible:questions:comprehension:hos:12]]
 **[[:en:bible:notes:hos:12:03|<<]] | [[:en:bible:notes:hos:12:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

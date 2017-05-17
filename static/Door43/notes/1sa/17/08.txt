@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 Goliath stood there and shouted to the Israelite army, "I can see you are lined up for battle, but you will not fight me. You can see that I am a Philistine soldier who is ready to fight, but you are just the slaves of Saul. Choose one man who can fight for all of you and send him down here to me!
+\v 8 Goliath stood there and shouted to the Israelite army, "Why are you all lined up for battle? I am the great Philistine soldier, and I think you are merely Saul's slaves. Choose one man to fight for all of you, and send him down here to me!
 \v 9 If he fights with me and kills me, then my fellow Philistines will all be your slaves. But if I defeat him and kill him, then you Israelites will all be our slaves.
 </usfm>
 
@@ -35,9 +35,7 @@
 
 ===== translationNotes: =====
 
-
-  * **Why have you come out to draw up for battle?** - "Why have you come to fight in battle against us?" Goliath uses this question to mock the Israelites. AT: "You are fools if you think you can fight in battle against us!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Am not I a Philistine, and are you not servants of Saul?** - Goliath uses this question to mock the Israelites. When he says that he is a Philistine, he is implying that he is strong. AT: "I am a great Philistine, and you are merely servants of Saul." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Am not I a Philistine, and are you not servants of Saul?** - This rhetorical question can be translated as a statement. AT: "I am a great Philistine, and you are merely servants of Saul." (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -52,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -23,7 +23,7 @@
 <usfm>
 \v 38 Then Zebul said to him, "Where are your proud words now, you who said, 'Who is Abimelech that we should serve him?' Are these not the men you despised? Go out now and fight against them."
 \v 39 Gaal went out and he was leading the men of Shechem, and he fought Abimelech.
-\v 40 Abimelech chased him, and Gaal fled before him. Many fell with deadly wounds before the entrance to the city gate.
+\v 40 Abimelech chased him, and Gaal fled before him. And many fell with deadly wounds before the entrance to the city gate.
 </usfm>
 
 ===== translationWords: =====
@@ -36,13 +36,13 @@
 
 ===== translationNotes: =====
 
-  * **Zebul** - Translate this name as you did in [[:en:bible:notes:jdg:09:28|9:28]].
-  * **Where are your proud words now?** - Zebul is scolding Gaal with this rhetorical question. Also, "words" represent what was said. AT: "You are not speaking proudly now!" or "You are not proud now!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **you who said, 'Who is Abimelech that we should serve him?'** - Zebul is quoting  Gaal's boast back to Gaal. This can be translated as a statement and as an indirect quote. AT: "you who said that we should not serve Abimelech." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_quotations]])
-  * **Are these not the men you despised?** - Zebul is challenging Gaal with this rhetorical question. This question can be translated as a statement. AT: "Here are the men that you despised." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Zebul** - See how you translated this in [[:en:bible:notes:jdg:09:28| 9:28]].
+  * **Where are your proud words now?** - Zebul is scolding Gaal with this rhetorical question. This question can be translated as a statement. AT: "You are not proud now." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **you who said, 'Who is Abimelech that we should serve him?'** - Zebul is quoting  Gaal's boast back to Gaal. See how you translated this in [[:en:bible:notes:jdg:09:28| 9:28]].
+  * **Are these not the men you despised?** - Zebul is challenging Gaal with this rhetorical question. This question can be translated as a statement. AT: "You said you could fight these men and now you will indeed have to fight them!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **despised** - "hated" or "disliked"
-  * **Gaal** - Translate this name as you did in [[:en:bible:notes:jdg:09:26|9:26]].
-  * **Many fell with deadly wounds** - This is an idiom. AT: "And many men died of wounds" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Gaal** - See how you translated this in [[:en:bible:notes:jdg:09:26|9:26]].
+  * **And many fell with deadly wounds** - This is an idiom. AT: "And many men died of wounds" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:jdg:00:intro]]
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:jdg:09]]
 **[[:en:bible:notes:jdg:09:36|<<]] | [[:en:bible:notes:jdg:09:41|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

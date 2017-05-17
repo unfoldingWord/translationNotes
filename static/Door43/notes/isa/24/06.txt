@@ -37,7 +37,7 @@
 
 <usfm>
 \q1
-\v 6 Therefore a curse devours the earth, and its inhabitants are found guilty.
+\v 6 Therefore a curse devours the earth, and its inhabitants are found guilty. 
 \q1 The inhabitants of the earth burn up, and few people are left.
 \q1
 \v 7 The new wine dries up, the vine withers, all the merry-hearted groan.
@@ -47,16 +47,14 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:curse]]
-  * [[:en:obe:other:devour]]
   * [[:en:obe:kt:guilt]]
   * [[:en:obe:other:wine]]
   * [[:en:obe:other:vine]] 
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe a time in the future when God will judge the earth. Prophets sometimes describe a future event as something in the past or in the present. This emphasizes the event certainly will happen. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **General Information:** - Isaiah continues to describe a time in the future when God will judge the earth. Prophets sometimes describe a future event as something in the past or in the present. This emphasizes the event certainly will happen.
 
-  * **a curse devours the earth** - Yahweh cursing the earth and destroying it is spoken of as if a curse were either a wild animal that completely eats the earth or a fire that completely burns up the earth. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **and its inhabitants are found guilty** - This can be stated in active form. AT: "and Yahweh will declare that the people are guilty" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
@@ -72,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -26,7 +26,7 @@
 \p
 \v 14 Then Yahweh spoke to Moses, saying,
 \v 15 "If anyone violates a command and sins against the things that belong to Yahweh, but did so unintentionally, then he must bring his guilt offering to Yahweh. This offering must be a ram without blemish from the flock; its value must be appraised in silver shekels—the shekel of the sanctuary—as a guilt offering.
-\v 16 He must satisfy Yahweh for what he had done wrong in connection with what is holy, and he must add one-fifth to it and give it to the priest. Then the priest will make atonement for him with the ram of the guilt offering, and that person will be forgiven.
+\v 16 He must satisfy Yahweh for what he had done wrong in connection with what is holy, and he must add one fifth to it and give it to the priest. Then the priest will make atonement for him with the ram of the guilt offering, and that person will be forgiven.
 </usfm>
 
 ===== translationWords: =====
@@ -50,11 +50,11 @@
 
   * **sins against the things that belong to Yahweh** - This means the person sinned by not giving to Yahweh what Yahweh commanded him to give. AT: "sins by failing to give to Yahweh what belongs to Yahweh"
   * **its value must be appraised in silver shekels** - This can be stated in active form. AT: "he must determine how many shekels the ram is worth" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **shekels** - A shekel is about 11 grams in weight. (See: [[:en:ta:vol2:translate:translate_bmoney]])
+  * **shekel** - This is about 11 grams in weight. (See: [[:en:ta:vol2:translate:translate_bmoney]])
   * **the shekel of the sanctuary** - This probably means there were at least two ways of measuring a shekel. This refers to how the priests of the sanctuary weigh a shekel. AT: "the official standard in the sacred tent" (UDB)
   * **the sanctuary** - This is another name for the holy tent.
-  * **he must add one-fifth** - This means the person must pay an extra one-fifth of the value of what he owes to Yahweh.
-  * **one-fifth** - This is one part out of five equal parts. (See: [[:en:ta:vol2:translate:translate_fraction]])
+  * **he must add one fifth** - This means the person must pay an extra one fifth of the value of what he owes to Yahweh.
+  * **one fifth** - This is one part out of five equal parts. (See: [[:en:ta:vol2:translate:translate_fraction]])
   * **the priest will make atonement for him** - The abstract noun "atonement" can be stated as a verb. AT: "the priest will atone for him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **that person will be forgiven** - This can be stated in active form. AT: "Yahweh will forgive that person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
@@ -65,6 +65,6 @@
   * [[:en:bible:questions:comprehension:lev:05]]
 **[[:en:bible:notes:lev:05:12|<<]] | [[:en:bible:notes:lev:05:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

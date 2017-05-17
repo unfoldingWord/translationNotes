@@ -20,6 +20,7 @@
 <usfm>
 \v 5 When the wicked are treated with special honor, it is not good,
 \q2 and it is not good to refuse to give justice to those who do what is right.
+\b
 \q1
 \v 6 A foolish person says things that start arguments;
 \q2 he says things that make other people want to beat him with a stick.
@@ -33,8 +34,8 @@
 
 <usfm>
 \q
-\v 5 It is not good to be partial to the wicked person,
-\q nor to deny justice to the righteous person.
+\v 5 It is not good to be partial to the wicked,
+\q nor to deny justice to those who do right.
 \q
 \v 6 A fool's lips bring him conflict
 \q and his mouth invites a beating.
@@ -49,11 +50,11 @@
   * [[:en:obe:kt:foolish]]
 ===== translationNotes: =====
 
-  * **It is not good to ... to the righteous person** - These phrases can be written in positive form. AT: "It is good to treat the wicked person as he deserves, and to be just to the righteous person" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **A fool's lips bring** - Here the fool is referred to by his "lips" to emphasize what he says. AT: "what a fool says brings" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **bring** - "cause"
-  * **his mouth invites a beating** - This speaks of the fool saying things that cause people to want to beat him as if he were inviting them to beat him. AT: "his mouth makes people want to beat him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **his mouth** - Here what the fool says is referred to as his "mouth." AT: "what he says" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
+  * **It is not good to ... to those who do right** - "It is good to treat the wicked as he deserves, and to be just to those who do right" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **A fool's lips bring ... invites a beating** - These two lines express the same idea to emphasize the danger of speaking foolishly. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **A fool's lips bring** - "what a fool says brings" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **his mouth invites a beating** - "what he says calls for someone to give him a beating" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
  
 ===== Links: =====
@@ -69,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

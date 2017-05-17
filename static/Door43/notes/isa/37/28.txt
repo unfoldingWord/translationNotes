@@ -32,6 +32,7 @@
 \q2 and an iron bit in your mouth in order that I can take you where I wish,
 \q1 and I will force you to return to your own country,
 \q2 on the same road on which you came here, without conquering Jerusalem.'"
+\b
 
 
 \p
@@ -44,15 +45,14 @@
 \q1
 \v 28 But I know your sitting down, your going out, your coming in, and your raging against me.
 \q1
-\v 29 Because of your raging against me, and because your arrogance has reached my ears,
-\q1 I will put my hook in your nose, and my bit in your mouth;
+\v 29 Because of your raging against me, and because your arrogance has reached my ears, 
+\q1 I will put my hook in your nose, and my bit in your mouth; 
 \q1 I will turn you back the way you came."
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:rage]]
   * [[:en:obe:other:arrogant]]
   * [[:en:obe:kt:turn]]
 
@@ -60,13 +60,9 @@
 
   * **General Information:** - This continues Yahweh's message to the king of Assyria. 
 
-  * **But I know your sitting down, your going out, your coming in** - This refers to all activities of life. AT: "I know everything you do" (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **and your raging against me** - The word "raging" can be expressed as a verb. AT: "how you rage against me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **your arrogance** - Here the king's "arrogance" refers to his arrogant speech. AT: "your arrogant speech" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **your arrogance has reached my ears** - This speaks of Yahweh hearing the king's speech as if the king's speech were something that traveled to his ear. AT: "I have heard you speaking arrogantly" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will put my hook in your nose, and my bit in your mouth** - A person uses a hook and bit to lead an animal around. This speaks of Yahweh controlling the king as if the king were an animal Yahweh controlled with a bit and hook. AT: "I will control you like a man controls his animal by place a hook in its nose and a bit in its mouth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will turn you back the way you came** - This refers to causing the king to return to his own home country. The meaning of this can be made clear. AT: "I will force you to return to your own country" (See: [[:en:ta:vol1:translate:figs_explicit]])
- 
+  * **But I know your sitting down, your going out, your coming in, and your raging against me** - This refers to all activities of life. AT: "I know everything you do and your words of anger against me" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **I will put my hook in your nose, and my bit in your mouth** - A person uses a hook and bit to lead an animal around. This emphasizes that God completely controls what the king of Assyria will do. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -80,6 +76,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

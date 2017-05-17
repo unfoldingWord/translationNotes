@@ -20,7 +20,7 @@
 \q1
 \v 5 He will cause the evil things that they want to do to me to happen to them instead;
 \q2 because you faithfully do what you have promised to me, destroy them.
-
+\b
 
 
 \q1
@@ -33,7 +33,7 @@
 \v 4 See, God is my helper;
 \q the Lord is the one who upholds me.
 \q
-\v 5 He will repay my enemies with evil;
+\v 5 He will repay my enemies with evil; 
 \q in your faithfulness, destroy them!
 </usfm>
 
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:psa:054]]
 **[[:en:bible:notes:psa:054:001|<<]] | [[:en:bible:notes:psa:054:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

@@ -22,7 +22,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 21 Yahweh will indeed do wonderful things!
+\v 21 Yahweh indeed does wonderful things!
 \q2 So even the ground should rejoice!
 \q1
 \v 22 And the wild animals should not be afraid,
@@ -43,9 +43,10 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 21 Do not fear, land, be glad and rejoice,
-\q for Yahweh will do great things.
+\q for Yahweh has done great things.
 \q
 \v 22 Do not fear, beasts of the field,
 \q for the pastures of the wilderness will sprout,
@@ -54,7 +55,7 @@
 \q
 \v 23 Be glad, people of Zion,
 \q and rejoice in Yahweh your God.
-\q For he will give you the autumn rain in due course
+\q For he will give you the autumn rain in due measure
 \q and bring down showers for you,
 \q the autumn rain and the spring rain as before.
 </usfm>

@@ -15,9 +15,9 @@
 
 <usfm>
 \v 9 You will understand what Yahweh sees is right and what Yahweh determines is just to do,
-\q2 and he will show you the best way to live.
+\q2 and he will show you the best way to live. 
 \q1
-\v 10 Wisdom will fill your life;
+\v 10 Wisdom will fill your life; 
 \q2 knowing what Yahweh wants you to know will cause you to be joyful.
 
 
@@ -47,9 +47,9 @@
 ===== translationNotes: =====
 
   * **equity** - "fairness"
-  * **every good path** - A behavior that is wise and pleases Yahweh is spoken of as if it were a good path. AT: "ways to live that are pleasing to God" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **wisdom will come into your heart** - Here "heart" represents a person's inner being. A person becoming wise is spoken of as if wisdom would enter into a person's heart. AT: "you will gain much wisdom" or "you will learn how to be truly wise" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **pleasant to your soul** - Here "soul" represents the whole person. AT: "pleasing to you" or "enjoyable to you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **every good path** - "ways to live that are pleasing to God" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **wisdom will come into your heart** - "you will gain much wisdom" or "you will learn how to be truly wise" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **pleasant** - "pleasing" or "enjoyable"
 
 ===== Links: =====
 
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:pro:02]]
 **[[:en:bible:notes:pro:02:06|<<]] | [[:en:bible:notes:pro:02:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

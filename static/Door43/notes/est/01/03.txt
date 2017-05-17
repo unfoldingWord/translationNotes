@@ -39,12 +39,8 @@
 
 ===== translationNotes: =====
 
-  * **In the third year of his reign** - "After he had ruled for 2 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **The army** - This may refer to the leaders of the army. AT: "The officers of the army" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the wealth of the splendor of his kingdom** - These words have similar meaning and emphasize how great his kingdom was. AT: "the great wealth of his kingdom" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **the honor of the glory of his greatness** - These words have similar meaning and emphasize how great he was. AT: "the splendor of his greatness" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **180** - "one hundred and eighty" (See: [[:en:ta:vol2:translate:translate_numbers]])
-
+  * **third year** - "after 2 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **180** - (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 ===== Links: =====
 
@@ -53,6 +49,6 @@
   * [[:en:bible:questions:comprehension:est:01]]
 **[[:en:bible:notes:est:01:01|<<]] | [[:en:bible:notes:est:01:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass mede persia}}
+~~DISCUSSION~~{{tag>publish p2edit mede persia}}
 
 ~~NOCACHE~~

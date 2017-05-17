@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 23 So Saul's servants spoke these words to David. Then David said, "Is it a small matter to you to be the king's son-in-law, since I am a poor man, and lightly esteemed?"
+\v 23 So Saul's servants spoke these words to David. And David said, "Is it a small matter to you to be the king's son-in-law, since I am a poor man, and lightly esteemed?"
 \v 24 The servants of Saul reported to him the words which David spoke.
 </usfm>
 
@@ -36,8 +36,7 @@
 
 ===== translationNotes: =====
 
-  * **Is it a small matter to you to be the king's son-in-law, since I am a poor man, and lightly esteemed?** - David asks this rhetorical question to emphasize that he is not worthy to be the king's son-in-law. AT: "It is a great matter to be the king's son-in-law, and I am too poor and unimportant for that." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **Is it a small matter to you to be the king's son-in-law, since I am a poor man, and lightly esteemed?** - This rhetorical question can be translated as a statement. AT: "It is no small matter to be the king's son-in-law, and I am too poor and unimportant for that." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -51,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

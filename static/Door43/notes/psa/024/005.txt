@@ -20,10 +20,10 @@
 \q1 When God judges them, he will rescue them and say that they have done nothing wrong.
 \q1
 \v 6 They are the people who come to God,
-\q2 they are the ones who desire to worship God,
+\q2 they are the ones who desire to worship God, 
 \q2 and serve the God of Jacob.
 
-
+\b
 
 \q1
 </usfm>
@@ -36,8 +36,9 @@
 \q and righteousness from the God of his salvation.
 \q
 \v 6 Such is the generation of those who seek him,
-\q those who seek the face of the God of Jacob.
+\q those who seek the face of the God of Jacob. 
 \qs Selah\qs*
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:024]]
 **[[:en:bible:notes:psa:024:003|<<]] | [[:en:bible:notes:psa:024:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1 selah}}
+~~DISCUSSION~~{{tag>publish p2check book1 selah}}
 
 ~~NOCACHE~~

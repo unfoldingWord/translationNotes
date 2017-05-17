@@ -14,10 +14,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 27 One who digs a pit will fall into it;
-\q2 and a stone rolls back on the one who tried to push it up a hill.
+\v 27 One who digs a pit will fall into it; 
+\q2 and a stone rolls back on the one who tried to push it up a hill. 
 \q1
-\v 28 The one who lies hates the people he destroys;
+\v 28 The one who lies hates the people he destroys; 
 \q2 just as much as the person who uses flattery causes terrible destruction.
 </usfm>
 
@@ -41,11 +41,8 @@
 
 ===== translationNotes: =====
 
-  * **Whoever digs a pit will fall into it** - It is implied that the person digs the pit as a trap so that someone will fall into it. AT: "Whoever digs a pit to trap someone will fall into it" or "If someone digs a pit in order to trap someone, the one who dug it will fall into it" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the stone will roll back on the one who pushed it** - It is implied that the person pushed a large stone so that it would roll downhill and crush someone there. AT: "if someone pushed a stone so that it would roll downhill and crush someone, the stone will roll back on him instead" or "if someone maked a stone roll so that it would hurt someone, the stone will crush him instead" (See: [[:en:ta:vol1:translate:figs_explicit]]
-  * **A lying tongue hates the people it crushes** - The phrase "a lying tongue" represents a person who tells lies. Crushing people represents causing them trouble.  AT: "A liar hates those he hurts by his lies" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a flattering mouth brings about ruin** - The phrase "a flattering mouth" represents a person who flatters people. Possible meanings are 1) a person who flatters others causes trouble or 2) a person who flatters others ruins them (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **flattering** - praising someone in a manner that is not sincere, or praising someone about things that are not true
+  * **A lying tongue hates the people it crushes** - AT: "A liar hates those he hurts by his lies" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **flattering** - praising someone in a manner that is not sincere
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -53,6 +50,6 @@
   * [[:en:bible:questions:comprehension:pro:26]]
 **[[:en:bible:notes:pro:26:24|<<]] | [[:en:bible:notes:pro:27:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

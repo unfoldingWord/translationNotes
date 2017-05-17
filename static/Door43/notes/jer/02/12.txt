@@ -26,6 +26,7 @@
 \q1 you have rejected me, the one who is like a fountain where you can obtain fresh water,
 \q2 and you are worshiping gods that are like pits in the ground
 \q2 that are cracked and which are not able to hold any water.
+\b
 
 
 \q1
@@ -38,9 +39,8 @@
 \q
 \v 12 Shudder, heavens, because of this! Be shocked and horrified—this is Yahweh's declaration.
 \q
-\v 13 For my people have committed two evils against me: They have abandoned the springs of living waters,
-\q and they have dug out cisterns for themselves,
-\q broken cisterns that cannot hold water.
+\v 13 For my people have committed two evils against me: They have abandoned the springs of living waters by digging out cisterns for themselves,
+\q broken cisterns that cannot hold water!
 </usfm>
 
 
@@ -56,12 +56,12 @@
 
 ===== translationNotes: =====
 
-  * **Shudder, heavens, because of this! Be shocked and horrified** - Yahweh turns and talks to the heavens as if they were there listening to him. God says this to express that what Israel has done is terrible. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
-  * **Shudder, heavens, because of this! Be shocked and horrified** - Possible meanings are 1) God speaks to the creatures in the heavens or 2) God speaks to the heavens themselves as if they were people. (See [[:en:ta:vol2:translate:figs_personification]])
-  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **have abandoned the springs of living waters** - God speaks of himself as if he were springs of living waters. AT: "have abandoned me, their springs of living waters" or "have abandoned me, who is like springs of living water" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **have dug out cisterns for themselves** - God speaks of false gods as if they were cisterns that people dig in order to get water. AT: "have gone to false gods, which are like cisterns they have dug for themselves" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **cisterns** - "deep holes for storing water"
+  * **Shudder, heavens, because of this! Be shocked and horrified** - The speaker is turning and talking to the heaven as if it were a person. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
+  * **abandoned the springs** - AT: "abandoned me, their spring" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **by digging out cisterns for themselves** - Idols are compared to broken cisterns. AT: by worshiping useless gods" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **cisterns** - "deep hole for storing water"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -75,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check commit horror}}
+{{tag>publish p2edit commit horror}}
 
 ~~NOCACHE~~

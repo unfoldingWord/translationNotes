@@ -27,6 +27,7 @@
 \q2 and a refuge from the storm.
 \q1 They will be like streams of water in the desert,
 \q2 like the shade under a huge rock in a very hot and dry land.
+\b
 \q1
 \v 3 When that happens, those leaders will enable people who have not understood God's truth to understand it,
 \q2 and they will enable those who have not paid attention to God's truth to pay attention to it.
@@ -39,11 +40,11 @@
 
 <usfm>
 \c 32
-\m
+\p
 \q1
 \v 1 Look, a king will reign in righteousness, and princes will rule in justice.
 \q1
-\v 2 Each one will be like a shelter from the wind and a refuge from the storm,
+\v 2 Each one will be like a shelter from the wind and a refuge from the storm, 
 \q1 like streams of water in a dry place, like the shade of a great rock in a land of weariness.
 \q1
 \v 3 Then the eyes of those who see will not be dim, and the ears of those who hear will hear attentively.
@@ -60,13 +61,10 @@
   * [[:en:obe:other:water]]
 
 ===== translationNotes: =====
-
-  * **Look** - This word is used here to draw peoples' attention to what is said next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-  * **Each one will be like a shelter from the wind and a refuge from the storm** - This compares the king and princes who protect the people to a shelter. AT: "the rulers will protect the people like a shelter does in a storm" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **like streams of water in a dry place** - This is another comparison that means that the rulers will provide for the needs of the people. AT: "they will provide for the people like streams of water in a dry place" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **like the shade of a great rock in a land of weariness** - This is another comparison that means that the rulers will provide comfort and rest for the people. AT: "they will provide rest for the people like a huge rock gives shade to weary people" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Each one will be like a shelter from the wind and a refuge from the storm** - This compares the king and princes who protect the people to a shelter. AT: "the rulers will provide protection for the people" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **like streams of water in a dry place** - This adds another contrast showing that the rulers will provide for the needs of the people. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **like the shade of a great rock in a land of weariness** - This adds another contrast showing that the rulers will provide comfort and rest for the people. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **Then the eyes ... attentively** - Both of these phrases emphasize that the leaders will enable the people to understand God's truth. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **will not be dim** - "will see clearly"
 
 ===== Links: =====
 
@@ -75,6 +73,6 @@
   * [[:en:bible:questions:comprehension:isa:32]]
 **[[:en:bible:notes:isa:31:08|<<]] | [[:en:bible:notes:isa:32:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

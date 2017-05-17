@@ -22,10 +22,11 @@
 \q2 they are like lions that chew to bits the animals that they kill.
 \q1 But my enemies are human, and they have spears and arrows, not teeth;
 \q2 they say false things about me.
+\b
 \q1
 \v 5 God, show in the heavens that you are very great!
 \q2 Show your glory to people all over the earth!
-
+\b
 
 
 \q1
@@ -42,6 +43,7 @@
 \q
 \v 5 Be exalted, God, above the heavens;
 \q let your glory be above all the earth.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -73,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:057]]
 **[[:en:bible:notes:psa:057:002|<<]] | [[:en:bible:notes:psa:057:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

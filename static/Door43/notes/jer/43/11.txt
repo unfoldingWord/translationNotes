@@ -18,7 +18,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 For he will come and attack the land of Egypt. Anyone who is assigned to death will be given to death. Anyone who is assigned to captivity will be taken captive. Anyone who is assigned to the sword will be given to the sword.
+\v 11 For he will come and attack the land of Egypt. Anyone who is assigned to death will be given to death. Anyone who is assigned to captivity will be taken captive. And anyone who is assigned to the sword will be given to the sword.
 \v 12 Then I will light a fire in the temples of Egypt's gods. Nebuchadnezzar will burn them or capture them. He will clean out the land of Egypt just as shepherds clean vermin off their clothes. He will go out from that place in victory.
 \f + \ft Instead of \fqa I will light a fire \fqb , some ancient and modern versions have \fqa he will light a fire \fqb . \f*
 \v 13 He will break the stone pillars at Heliopolis in the land of Egypt. He will burn the temples of Egypt's gods.'"
@@ -41,15 +41,12 @@
 
   * **General Information:** - Yahweh continues telling his message.
 
-  * **he will come** - Here "he" refers to Nebuchadnezzar who represents his whole army. AT: "Nebuchadnezzar's army will come" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Anyone who is assigned to death will be given to death** - The abstract noun "death" can be stated as "die." This can be stated in active form. AT: "Everyone will die whom I have decided must die" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Anyone who is assigned to captivity will be taken captive** - This can be stated in active form. AT: "The Babylonians will take everyone captive whom I have decided must go into captivity" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **And anyone who is assigned to the sword will be given to the sword** - Here "sword" represents battle. This can be stated in active form. AT: "Everyone will die in battle whom I have decided will die in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Then I will light a fire** - Here "I" refers to Yahweh. This represents Yahweh sending the Babylonian army to light a fire. AT: "Then I will cause the Babylonian army to light a fire" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Nebuchadnezzar will ... He will** - Here Nebuchadnezzar represents his army. AT: "Nebuchadnezzar's army will ... They will" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **burn them or capture them** - "burn the Egyptian idols or take them"
-  * **He will clean out the land of Egypt just as shepherds clean vermin off their clothes** - Taking or destroying everything in Egypt is compared to how a shepherd carefully cleans off his clothes. AT: "He will take or destroy everything valuable in Egypt just as a shepherd is careful to get every insect off of his clothes" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Heliopolis** - This is the name of a city. The name means "City of the sun." In this city was a temple where they worshiped a sun god. (See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **he will come** - AT: "Nebuchadnezzar will come"
+  * **Anyone who is assigned to death will be given to death** - AT: "Everyone will die whom I have decided must die" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Anyone who is assigned to captivity will be taken captive** - AT: "The Babylonians will take everyone captive whom I have decided must go into captivity" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **And anyone who is assigned to the sword will be given to the sword** - AT: "Everyone will die in battle whom I have decided will die in battle" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **He will clean out the land of Egypt just as shepherds clean vermin off their clothes** - "He will take everything valuable from Egypt just as a shepherd is careful to get every insect off of his clothes" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Heliopolis** - the name of a city, "Sun City" (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -57,6 +54,6 @@
   * [[:en:bible:questions:comprehension:jer:43]]
 **[[:en:bible:notes:jer:43:08|<<]] | [[:en:bible:notes:jer:44:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check assign}}
+~~DISCUSSION~~{{tag>publish p2edit assign}}
 
 ~~NOCACHE~~

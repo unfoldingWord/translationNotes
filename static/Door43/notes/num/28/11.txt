@@ -44,11 +44,11 @@
 
   * **General Information:** - Yahweh continues telling Moses what the people must do.
 
-  * **three tenths of an ephah** - "Three tenths" means three parts out of ten equal parts. This can be written in modern measurements. AT: "six liters" or "three tenths of an ephah (which is about six liters)" (See: [[:en:ta:vol2:translate:translate_fraction]] and [[:en:ta:vol2:translate:translate_bvolume]])
-  * **two tenths** - The words "of an ephah" are missing and may be added. "Two tenths" means two parts out of ten equal parts. This can be written in modern measurements. AT:  "four and a half liters" or "two tenths of an ephah (which is about 4.5 liters)" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:translate_fraction]] and [[:en:ta:vol2:translate:translate_bvolume]])
+  * **three tenths of an ephah** - "Three tenths" means three parts out of ten equal parts. This can be written in modern measurements. AT:  "six liters" or "three tenths of an ephah (which is about six liters)" (See: [[:en:ta:vol2:translate:translate_fraction]] and [[:en:ta:vol2:translate:translate_bvolume]])
+  * **two tenths** - The words "of an ephah" are missing and may be added. "Two tenths" means two parts out of ten equal parts. This can be written in modern measurements. AT:  "four and a half liters" or "two tenths of an ephah (which is about 4.5 liters)" (See: [[:en:ta:vol2:translate:figs_ellipsis]], [[:en:ta:vol2:translate:translate_fraction]], and [[:en:ta:vol2:translate:translate_bvolume]])
   * **a tenth of an ephah** - "A tenth" means one part out of ten equal parts. This can be written in modern measurements. AT:  "2 liters" or "a tenth of an ephah (which is about 2 liters)" (See: [[:en:ta:vol2:translate:translate_fraction]] and [[:en:ta:vol2:translate:translate_bvolume]])
-  * **mixed with oil** - This can be stated in active form. AT: "which you have mixed with oil" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **made by fire** - This can be stated in active form. AT: "that you burned on the altar" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **mixed with oil** - This can be stated in active form. "which you have mixed with oil" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **made by fire** - This can be stated in active form. "that you burned on the altar" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:num:28]]
 **[[:en:bible:notes:num:28:09|<<]] | [[:en:bible:notes:num:28:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -28,7 +28,7 @@
 \q1
 \v 9 You are the one who causes everything to live;
 \q2 your light is what enables us to know the truth about you.
-
+\b
 
 
 \q1
@@ -64,14 +64,14 @@
  
 ===== translationNotes: =====
 
-  * **How precious is your covenant faithfulness** - God's covenant faithfulness is spoken of as if it were rare and expensive jewels. AT: "Your covenant faithfulness is as valuable as rare jewels" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Humanity takes refuge** - "People will seek protection"
+  * **How precious is your covenant faithfulness** - God's covenant faithfulness is spoken of as if it was rare and expensive jewels. AT: "Your covenant faithfulness is as valuable as rare jewels" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Humanity takes refuge under the shadow of your wings** - God does not really have wings. This is a metaphor for God's protection. AT: "Humanity takes refuge with you like young birds seek protection under the wings of their mother" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **They will be abundantly satisfied** - This can be stated in active form. AT: "You will abundantly satisfy them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **with the richness of the food of your house** - This does not mean that God has a house with food. This is a metaphor for abundant provision. AT: "as if they were eating the rich food from your house" or "with your rich blessings" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **you will let them drink from the river of your precious blessings** - There are two metaphors here. God's abundant blessings are spoken of as if they are the water in a flowing river. Also, those who receive those blessings are spoken of as if they are drinking them like water. AT: "your precious blessings are like a river from which you will let them drink" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **fountain of life** - "source of life"
-  * **in your light we will see light** - Here "light" is a metaphor for true knowledge. AT: "when you enlighten us, we will know the truth" or "your light is what enables us to know the truth about you" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in your light we will see light** - Here "light" is a metaphor for true knowledge. AT: "when you enlighten us, we will know that truth" or "your light is what enables us to know the truth about you" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -82,6 +82,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book1 precious}}
+{{tag>publish p2check book1 precious}}
 
 ~~NOCACHE~~

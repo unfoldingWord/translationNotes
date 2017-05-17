@@ -34,6 +34,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 8 Blow the horn in Gibeah,
 \q and the trumpet in Ramah.
@@ -62,7 +63,7 @@
   * **General Information:** - Yahweh is talking about Israel.
 
   * **Blow the horn in Gibeah, and the trumpet in Ramah** - Here "horn" and "trumpet" mean the same thing. This command is given to the people of Gibeah and Ramah to emphasize that the enemy is coming. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **Sound a battle cry at Beth Aven: 'We will follow you, Benjamin!'** - This may be a request that the soldiers in the tribe of Benjamin would lead the people into battle. But modern versions make various attempts to interpret this expression. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:translate_names]])
+  * **Sound a battle cry at Beth Aven: 'We will follow you, Benjamin!'** - This may be a request that the soldiers in the tribe of Benjamin would the people into battle. But modern versions make various attempts to interpret this expression. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:translate_names]])
   * **Beth Aven** - This was a city on the border between the northern kingdom of Israel and the tribe of Benjamin in the southern kingdom. See how you translated this in [[:en:bible:notes:hos:04:15|4:15]]. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Among the tribes of Israel I have declared what is certain to happen** - "I will do to the tribes of Israel what I have declared"
 ===== Links: =====
@@ -72,6 +73,6 @@
   * [[:en:bible:questions:comprehension:hos:05]]
 **[[:en:bible:notes:hos:05:05|<<]] | [[:en:bible:notes:hos:05:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

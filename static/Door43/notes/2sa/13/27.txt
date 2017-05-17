@@ -29,7 +29,7 @@
 
 <usfm>
 \v 27 Absalom pressed David, and so he let Amnon and all the king's sons go with him.
-\v 28 Absalom commanded his servants saying, "Listen closely. When Amnon begins to be drunk with wine, and when I say to you, 'Attack Amnon,' then kill him. Do not be afraid. Have I not commanded you? Be courageous and brave."
+\v 28 Absalom commanded his servants saying, "Listen closely. When Amnon begins to be drunk with wine, and when I say to you, 'Attack Amnon,' then kill him. Do not be afraid. Have I not commanded you? Be courageous and brave." 
 \v 29 So Absalom's servants did to Amnon as he had commanded them. Then all the king's sons arose, and every man mounted his mule and fled.
 </usfm>
 
@@ -45,14 +45,9 @@
 
 ===== translationNotes: =====
 
-  * **Absalom pressed David** - Here the author speaks of Absalom urging David to let Amnon come as if he were putting physical pressure on him. AT: "Absalom begged David for Amnon to come" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Do not be afraid** - This implies that they do not need to be afraid of the consequences for killing Amnon. This can be stated clearly. AT: "Do not be afraid that you will be blamed for killing the king's son" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Have I not commanded you?** - Absalom asks this rhetorical question to emphasize that he will be blamed for killing Amnon because he is commanding them. This can be written as a statement. AT: "I have commanded you to do this." or "I will be the one guilty for killing him because I have commanded you to do this." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **not commanded you** - What Absalom has commanded them to do may be stated in the question. AT: "not commanded you to kill him" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **all the king's sons** - This does not include Absalom and Amnon who is dead. It includes the rest of the sons that the king allowed to go to the celebration. AT: "the rest of the king's sons" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **every man** - This refers to the king's sons who left the celebration.
-
-
+  * **pressed** - "kept on requesting him to send Amnon" 
+  * **Do not be afraid** - "Do not be afraid that you will be blamed for killing the king's son" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Have I not commanded you?** - Understood information can be included in this question. This rhetorical question emphasizes that Absalom has given the command to his men and can be translated as a statement. AT: "I am the one who has commanded you to do this" or "I am to blame because you were just following what I have commanded you to do" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -66,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

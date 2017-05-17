@@ -40,13 +40,13 @@
 
 <usfm>
 \q1
-\v 17 The pride of man will be brought low, and the haughtiness of men will fall;
+\v 17 The pride of man will be brought low and the haughtiness of men will fall; 
 \q1 Yahweh alone will be exalted on that day.
 \q1
 \v 18 The idols will completely pass away.
 \q1
-\v 19 Men will go into the caves of the rocks and the holes of the ground,
-\q1 from the terror of Yahweh, and from the glory of his majesty, when he rises to terrify the earth.
+\v 19 Men will go into the caves of the rocks and the holes of the ground, 
+\q1 from the terror of Yahweh, and from the splendor of his majesty, when he rises to terrify the earth.
 </usfm>
 
 ===== translationWords: =====
@@ -57,24 +57,17 @@
   * [[:en:obe:kt:dayofthelord]]
   * [[:en:obe:other:idol]]
   * [[:en:obe:other:terror]]
-
+  * [[:en:obe:other:splendor]]
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. He continues to describe what will happen on the day of Yahweh of Hosts ([[:en:bible:notes:isa:02:12|2:12]]). (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Isaiah continues to describe what will happen on the day of Yahweh.
 
-  * **The pride of man will be brought low** - This can be stated in active form. AT: "He will bring low every proud man" or "He will humiliate every proud man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the haughtiness of men will fall** - The abstract noun "haughtiness" can be translated as an adjective. AT: "those people who are haughty will stop being haughty" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Yahweh alone will be exalted** - This can be stated in active form. AT: "people will praise only Yahweh." See how you translated this in [[:en:bible:notes:isa:02:09|2:11]]. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The pride of man will be brought low and the haughtiness of men will fall** - These phrases mean basically the same thing and emphasize that Yahweh will humble every proud person. This can be stated in active form. AT: "He will make every prideful person humble" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Yahweh alone will be exalted** - See how you translated this in [[:en:bible:notes:isa:02:09|2:11]].
   * **The idols will completely pass away** - "All idols will disappear" (UDB) or "There will be no more idols"
-  * **Men will go ... from the terror** - The full meaning of this statement can be made clear. AT: "Men will go ... to hide from the terror" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the caves of the rocks** - "the caves in the rocks." These are large rocks, not small stones that can be held in the hand.
-  * **from the terror of Yahweh, and from the glory of his majesty** - Translate this as in [[:en:bible:notes:isa:02:09|2:10]].
-  * **from the terror of Yahweh** - because they are very afraid of Yahweh
-  * **the glory of his majesty** - Here the word "glory" describes "majesty." AT: "the beauty he has as king" (See: [[:en:ta:vol2:translate:figs_hendiadys]]) 
-  * **when he rises to terrify the earth** - "when Yahweh takes action and causes the people of the earth to be terribly afraid of him"
-
-
+  * **from the terror of Yahweh, and from the splendor of his majesty** - See how this was translated in [[:en:bible:notes:isa:02:09|2:10]].
+  * **when he rises to terrify the earth** - "when Yahweh causes the people of the earth to be terribly afraid of him"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -82,6 +75,6 @@
   * [[:en:bible:questions:comprehension:isa:02]]
 **[[:en:bible:notes:isa:02:14|<<]] | [[:en:bible:notes:isa:02:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example haughty}}
+~~DISCUSSION~~{{tag>publish p2edit haughty}}
 
 ~~NOCACHE~~

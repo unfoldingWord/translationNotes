@@ -24,6 +24,7 @@
 \q2 when they decide people's cases.
 \q1 He will enable the soldiers who stand at the city gates
 \q2 to strongly defend the city when our enemies attack it.
+\b
 
 
 \q1
@@ -49,13 +50,11 @@
 
 ===== translationNotes: =====
 
-  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
-  * **will become a beautiful crown and a diadem of beauty** - Yahweh is spoken of as if he were to become a beautiful crown that the people who honor him as their true king would wear. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a beautiful crown and a diadem of beauty** - These mean the same thing. AT: "a beautiful crown" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **people, a spirit of justice for him who sits in judgment, and strength** - This can be reworded so that the abstract noun "justice" is expressed as the verb "be just." AT: "people. Yahweh will cause the judges to be just and give strength" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **a spirit of justice** - A person who has a  "spirit of justice" is someone who has the characteristic of justice and is a just person. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **sits in judgment** - This idiom means the person has the authority to judge. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **and strength for those who turn back their enemies at their gates** - Here "to turn back" is an idiom that means to defeat in battle. AT: "and Yahweh will cause the soldiers to be strong so that they defeat their enemies when the enemies attack their city" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **will become a beautiful crown and a diadem of beauty** - These two phrases mean basically the same thing. "Crown" refers to the blessing that God gives to his people. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **a spirit of justice for him who sits in judgment** - This can be reworded so that the abstract noun "justice" is expressed as the verb "be just." AT: "Yahweh will cause the judges to be just" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **sits in judgment** - AT: "has the authority to judge" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **and strength for those who turn back their enemies at their gates** - "and Yahweh will cause the soldiers of the city to be strong"
 
 ===== Links: =====
 
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:28]]
 **[[:en:bible:notes:isa:28:03|<<]] | [[:en:bible:notes:isa:28:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

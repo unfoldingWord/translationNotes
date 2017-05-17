@@ -26,6 +26,7 @@
 \q2 it will shake like a hammock in a windstorm.
 \q1 It will collapse and not be able to rise again,
 \q2 because the guilt of the people who rebel against Yahweh is very great.
+\b
 
 
 \q1
@@ -36,11 +37,11 @@
 
 <usfm>
 \q1
-\v 19 The earth will be completely broken, the earth ripped apart;
+\v 19 The earth will be completely broken, the earth ripped apart; 
 \q1 the earth will be violently shaken.
 \q1
-\v 20 The earth will stagger like a drunken man and it will sway back and forth like a hut.
-\q1 Its sin will be heavy on it and it will fall and never rise again.
+\v 20 The earth will stagger like a drunken man and will sway to and fro like a hammock. 
+\q1 The transgression of it will be heavy on it, and it will fall and not rise again.
 </usfm>
 
 
@@ -50,21 +51,22 @@
 
 ===== translationNotes: =====
 
-  * **The earth will be completely broken, the earth ripped apart; the earth will be violently shaken** - These passive clauses can be stated in active form. AT: "The earth will break and split apart; the earth will shake violently" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **The earth will stagger like a drunken man and it will sway back and forth like a hut** - These similes emphasize how the earth will shake back and forth. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Its sin will be heavy on it and it will fall and never rise again** - This speaks of the earth as if it were a person and transgressions were a heavy object. The person tries to carry the heavy weight but the weight causes the person to fall and not be able to stand back up. Here the earth represents the people of the earth who cause Yahweh to destroy the earth because of their sins. AT: "The sins of the people are many and so Yahweh will destroy the earth, and the earth will be like a person who falls and cannot get back up" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-
+ 
+  * **The transgression of it will be heavy on it, and it will fall and not rise again** - The word "it" in the phrase "transgression of it" refers to the earth, but it means the people of the earth. AT: "The sins of the people are many and they will cause the earth to fall and not rise again" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
   * [[:en:bible:notes:isa:24:00]]
   * [[:en:bible:questions:comprehension:isa:24]]
+
+ 
+
 **[[:en:bible:notes:isa:24:17|<<]] | [[:en:bible:notes:isa:24:21|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

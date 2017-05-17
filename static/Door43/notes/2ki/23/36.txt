@@ -22,7 +22,7 @@
 <usfm>
 \p
 \v 36 Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. His mother's name was Zebidah; she was the daughter of Pedaiah of Rumah.
-\v 37 Jehoiakim did what was evil in the sight of Yahweh, just as his ancestors had done.
+\v 37 Jehoiakim did what was evil in the sight of Yahweh, like everything that his ancestors had done.
 </usfm>
 
 
@@ -35,9 +35,9 @@
   * **Zebidah** - woman's name (See: [[:en:ta:vol1:translate:translate_names]])
   * **Pedaiah** - man's name (See: [[:en:ta:vol1:translate:translate_names]])
   * **Rumah** - place name (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Jehoiakim did what was evil in the sight of Yahweh** - The nominal adjective "evil" can be translated as a relative clause "things that ... evil." Here Yahweh's "sight" refers to how he judges or decides on the value of something. See how you translated this in [[:en:bible:notes:2ki:03:01|3:2]]. AT: "He did things that Yahweh said were evil" or "He did the things that Yahweh considers evil" (See: [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol1:translate:figs_metaphor]]) 
-
-
+  * **evil in the sight of Yahweh** - See how you translated this in [[:en:bible:notes:2ki:03:01|3:2]]
+ 
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -48,6 +48,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -34,11 +34,11 @@
 
 ===== translationNotes: =====
 
-  * **Jeroboam made houses on high places** - The workers who did this at Jeroboam's commands are represented by the metonym of the name of Jeroboam himself. AT: "Jeroboam's workers made houses on high places" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **houses on high places** - The implied information is that these were houses of worship. The full meaning of this statement can be made explicit.  AT: "houses of worship on high places" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **made priests** - "appointed men to be priests"
+  * **Jeroboam made houses on high places** - AT: "Jeroboam's workers made houses on high places" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **made priests** - AT: "appointed men to be priests"
+  * **all the people** - AT: "all the people of the ten northern tribes" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **in the eighth month, on the fifteenth day of the month** - This is the eighth month of the Hebrew calendar. The fifteenth day is near the beginning of November on Western calendars. AT: "on the fifteenth day of the eighth month" (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **went up to the altar** - "Went up" is an idiom for going to a sacred place to worship since these altars were located on high places. AT: "offered sacrifices on the altar" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **went up to the altar** - AT: "offered sacrifices on the altar" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:1ki:12]]
 **[[:en:bible:notes:1ki:12:28|<<]] | [[:en:bible:notes:1ki:12:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass ordain}}
+~~DISCUSSION~~{{tag>publish p2edit ordain}}
 
 ~~NOCACHE~~

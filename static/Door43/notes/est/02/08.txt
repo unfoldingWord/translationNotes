@@ -25,8 +25,8 @@
 
 <usfm>
 \p
-\v 8 When the king's order and decree were proclaimed, many young women were brought to the fortress of Susa. They were put under Hegai's care. Esther also was taken into the king's palace and put under the care of Hegai, the overseer of the women.
-\v 9 The young girl pleased him, and she found favor with him. Immediately he provided her with cosmetics and her portion of food. He assigned to her seven servant girls from the king's palace, and he moved her and the servant girls to the best place in the house of the women.
+\v 8 When the king's order and decree were proclaimed, many young women were brought to the palace in Susa. They were put under Hegai's care. Esther also was taken into the king's palace and put under the care of Hegai, the overseer of the women. 
+\v 9 The young girl pleased him, and she won his favor. Immediately he provided her with cosmetics and her portion of food. He assigned to her seven servant girls from the king's palace, and he moved her and the servant girls to the best place in the house of the women.
 </usfm>
 
 
@@ -42,26 +42,24 @@
 
 ===== translationNotes: =====
 
-  * **When the king's order and decree were proclaimed** - This can be stated in active form. AT: "After the king commanded that they search for some beautiful women" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
   * **proclaimed** - "announced"
-  * **many young women were brought** - This can be stated in active form. AT: "they brought many young women" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **They were put under Hegai's care** - This can be stated in active form. AT: "Hegai began to take care of them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Esther also was taken into the king's palace and put under the care of Hegai, the overseer of the women** - This can be stated in active form. AT: "Hegai, the overseer of the women, also began to take care of Esther when they brought her to the king's palace" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **palace** - Translate this as in [[:en:bible:notes:est:01:05|1:5]].
-  * **The young girl pleased him, and she found favor with him** - These two phrases mean the same thing and emphasize how much she pleased him. AT: "The young girl greatly pleased him" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **The young girl** - "Esther"
-
-
+  * **palace** - Use the same word or phrase used in [[:en:bible:notes:est:01:05|Esther 1:5]].
+ 
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
   * [[:en:bible:notes:est:02:00]]
   * [[:en:bible:questions:comprehension:est:02]]
+
+ 
+
 **[[:en:bible:notes:est:02:07|<<]] | [[:en:bible:notes:est:02:10|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

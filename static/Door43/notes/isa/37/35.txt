@@ -16,6 +16,7 @@
 <usfm>
 \v 35 For the sake of my own reputation and because of what I promised King David, who served me well,
 \q2 I will defend this city and prevent it from being destroyed.'"
+\b
 
 
 \p
@@ -25,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\q1
+\q1 
 \v 35 For I will defend this city and rescue it, for my own sake and for David my servant's sake."
 </usfm>
 
@@ -39,7 +40,7 @@
 
   * **General Information:** - Yahweh continues speaking.
  
-  * **sake** - "cause"
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -53,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -27,12 +27,14 @@
 <usfm>
 \v 7 As a result, those who travel through there become stronger
 \q2 knowing that they will appear in your presence on Mount Zion.
+\b
 \q1
 \v 8 Yahweh, commander of the angel armies, listen to my prayer;
 \q1 God, whom we descendants of Jacob worship, hear what I am saying!
 \q1
 \v 9 God, act kindly toward our king, the one who protects us,
 \q2 the one whom you have chosen to rule us.
+\b
 \q1
 \v 10 For me, spending one day in your temple
 \q2 is better than spending a thousand days somewhere else;
@@ -93,6 +95,6 @@
   * [[:en:bible:questions:comprehension:psa:084]]
 **[[:en:bible:notes:psa:084:005|<<]] | [[:en:bible:notes:psa:084:011|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

@@ -22,6 +22,7 @@
 \q1
 \v 4 The young calves grow up in the open fields,
 \q2 and then they leave their mothers and do not return to them again.
+\b
 
 
 \q1
@@ -37,7 +38,7 @@
 \q
 \v 4 Their young ones become strong and grow up in the open fields;
 \q they go out and do not come back again.
-\m
+\b
 </usfm>
 
 
@@ -47,11 +48,11 @@
  
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues to challenge Job.
+  * **General Information:** - Yahweh continues to challenge Job.
 
-  * **They crouch down** - The word "They" refers to the wild mountain goats and the deer.
-  * **birth their young** - "give birth to their offspring"
-  * **then they finish their labor pains** - Possible meanings are 1) their labor pains are over when the birth is finished or 2) "labor pains" is a metonym that refers to the offspring of the goats and deer because they are the result of the mother's labor and pain. AT: "send out their offspring from their womb" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They crouch down** - The word "they" refers to the goats and the deer.
+  * **birth their young** - "make their offspring come out"
+  * **then they finish their labor pains** - The word "labor pains" refers to the offspring of the goats and deer because they are the result of the mother's labor and pain. AT: "send out their offspring from their womb." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **the open fields** - "the countryside" or "the wild"
   * **do not come back again** - "do not come back to them" or "come back to their mothers"
  
@@ -60,11 +61,14 @@
   * [[:en:bible:notes:job:00:intro]]
   * [[:en:bible:notes:job:39:00]]
   * [[:en:bible:questions:comprehension:job:39]]
+
+ 
+
 **[[:en:bible:notes:job:39:01|<<]] | [[:en:bible:notes:job:39:05|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

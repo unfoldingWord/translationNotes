@@ -41,7 +41,7 @@
 
 <usfm>
 \q
-\v 7 See, I cry out, "Violence!" but I get no answer.
+\v 7 See, I call out to say that I have been done wrong, but I am not heard;
 \q I call out for help, but there is no justice.
 \q
 \v 8 He has walled up my way so that I cannot pass,
@@ -66,14 +66,16 @@
   * **General Information:** - Job continues to speak to his three friends.
 
   * **See** - The word "See" here adds emphasis to what follows. AT: "Indeed"
-  * **Violence!** - This is a cry for help. This can be stated clearly. AT: "Violence! Help!" or "Help! I am being attacked!" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **I call out to say that I have been done wrong** - "I scream 'Violence'" or "I shout 'Injustice'." Job shouts "Violence" as a short and urgent way of saying "Help me because someone is treating me violently." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **but I am not heard** - AT: "but no one hears me." (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **I call out for help** - "I shout for help" or "I cry for help"
-  * **but there is no justice** - The abstract noun "justice" can be translated with a phrase. AT: "but no one protects me from those who do me wrong" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **but there is no justice** - AT: "no one helps me and gets justice for me." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **He has walled up ... darkness in my path** - Job uses these images to say that God has made him feel helpless and hopeless. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **He has walled up my way so that I cannot pass** - "God has put a wall on the road that I am walking on" or "He has blocked the way so I can not keep going"
-  * **He has stripped ... the crown from my head** - Job uses these images to say that God has taken his good reputation, wealth, and prosperity away from him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **He has stripped me of my glory** - Job speaks of his glory as if it were a robe that God. AT: "He has taken away my glory" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he has taken the crown from my head** - The crown refers to Job's dignity or honor. AT: "he has taken away my crown of dignity" or "it is as though he has taken my crown off my head" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He has walled up my way so that I cannot pass** - "God has put a wall on the road that I am walking on"
+  * **He has stripped ... the crown from my head** - Job uses these images to say that God has taken his good reputation, wealth and prosperity away from him. "Crown" refers to Job's good reputation. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He has stripped me of my glory** - "He has taken away my glory." Job describes his glory as a robe that God has taken off of him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the crown from my head** - "the crown that was on my head"
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -81,6 +83,6 @@
   * [[:en:bible:questions:comprehension:job:19]]
 **[[:en:bible:notes:job:19:05|<<]] | [[:en:bible:notes:job:19:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

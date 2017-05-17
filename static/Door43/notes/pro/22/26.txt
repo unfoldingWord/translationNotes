@@ -18,7 +18,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 26 Be careful that you do not shake hands and promise to pay for the debts of others,
+\v 26 Be careful that you do not sign contracts to pay for the debts of others,
 \q2 and do not make or sign a pledge so another person can take out a loan.
 \q1
 \v 27 For if you cannot pay it back,
@@ -33,10 +33,10 @@
 
 <usfm>
 \q
-\v 26 Do not be one who strikes hands in making a pledge,
-\q or who puts up security for debts.
+\v 26 Do not be one who gives binding pledges regarding money
+\q and do not give a guarantee for the debts of others.
 \q
-\v 27 If you lack the means to pay,
+\v 27 If you lack the means to pay, 
 \q what could stop someone from taking away your bed from under you?
 </usfm>
 
@@ -47,11 +47,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **strikes hands** - A person would strike his hand against another person's hand to bind himself to do what he had agreed to do. Here the speaker warns the hearer not to strike hands as a way to promise to pay off someone's debts.
-  * **in making a pledge** - "and agree to pay what someone owes to another person"
-
+ 
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -65,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

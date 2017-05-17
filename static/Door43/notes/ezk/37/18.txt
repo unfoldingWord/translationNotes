@@ -21,7 +21,7 @@
 <usfm>
 \v 18 When your people speak to you and say, 'Will you not tell us what these things of yours mean?'
 \v 19 then say to them, 'The Lord Yahweh says this: Behold! I am taking the branch of Joseph that is in the hand of Ephraim and the tribes of Israel his companions and joining it to the branch of Judah, so that they will make one branch, and they will become one in my hand.'
-\v 20 Hold in your hand the branches that you wrote on before their eyes.
+\v 20 Then hold in your hand the branches that you wrote on before their eyes.
 </usfm>
 
 ===== translationWords: =====
@@ -34,13 +34,14 @@
 
   * **General Information:** - Yahweh continues speaking to Ezekiel.
 
-  * **what these things of yours mean** - "what your sticks means" or "why you have these sticks"
-  * **Behold!** - This tells the reader to pay special attention to what follows. AT: "Look!" or "Listen!" or "Pay attention to what I am about to tell you!"
-  * **the branch of Joseph** - "the stick of Joseph." This represents the kingdom of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **speak to you and say** - See how you translated "are talking and say" in [[:en:bible:notes:ezk:33:23|33:24]].
+  * **what these things of yours mean** - AT: "what your sticks means" or "why you have these sticks"
+  * **Behold!** - AT: "Look!" or "Listen!" or "Pay attention to what I am about to tell you!"
+  * **the branch of Joseph** - "the stick of Joseph." This represents the kingdom of Israel.
   * **that is in the hand of Ephraim** - The word "hand" refers to power. AT: "that is in the power of Ephraim" or "that the tribe of Ephraim rules over" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the tribes of Israel his companions** - "the other tribes of Israel who are his companions" or "the other tribes of Israel who are part of that kingdom"
-  * **the branch of Judah** - "the stick of Judah." This represents the kingdom of Judah. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **before their eyes** - The eyes represent sight. AT: "in their sight" or "so they can see them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the tribes of Israel his companions** - AT: "the other tribes of Israel who are his companions" or "the other tribes of Israel who are part of that kingdom"
+  * **the branch of Judah** - "the stick of Judah." This represents the kingdom of Judah.
+  * **before their eyes** - See how you translated this in [[:en:bible:notes:ezk:21:06|21:6]].
  
 ===== Links: =====
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:ezk:37]]
 **[[:en:bible:notes:ezk:37:15|<<]] | [[:en:bible:notes:ezk:37:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

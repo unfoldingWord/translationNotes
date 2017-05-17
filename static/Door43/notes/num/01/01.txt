@@ -21,7 +21,7 @@
 \c 1
 \p
 \v 1 Yahweh spoke to Moses in the tent of meeting in the Sinai wilderness. This happened on the first day of the second month during the second year after the people of Israel had come out from the land of Egypt. Yahweh said,
-\v 2 "Conduct a census of all the men of Israel in each clan, in their fathers' families. Count them by name. Count every male, each man
+\v 2 "Conduct a census of all the men of Israel in each clan, in their fathers' families. Count them by name. Count every male, each man 
 \v 3 who is twenty years old or older. Count all who can fight as soldiers for Israel. You and Aaron must record the number of men in their armed groups.
 </usfm>
 
@@ -46,8 +46,7 @@
 
 ===== translationNotes: =====
 
-  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this. 
-  * **the first day of the second month** - "the 1st day of the 2nd month." This is the second month of the Hebrew calendar. The first day is near the middle of April on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the first day of the second month** - "the 1st day of the 2nd month." This is the second month of the Hebrew calendar. The first day is near the middle of April on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths|Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **the second year** - "the 2nd year" or "year 2" (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **Count them by name** - This means to count the men by recording their names. AT: "Count them, recording each man's name" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **twenty years old** - "20 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
@@ -60,6 +59,6 @@
   * [[:en:bible:questions:comprehension:num:01]]
 **| [[:en:bible:notes:num:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

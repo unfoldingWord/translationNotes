@@ -18,9 +18,9 @@
 
 <usfm>
 \v 5 A man who has wisdom has strength,
-\q2 and a person with knowledge is mightier than the one who is strong,
+\q2 and a person with knowledge is mightier than the one who is strong, 
 \q1
-\v 6 for with wise guidance you can wage a war successfully,
+\v 6 for with wise guidance you can wage a war successfully, 
 \q2 and by the advice of many advisors there will be victory.
 
 
@@ -32,10 +32,10 @@
 
 <usfm>
 \q
-\v 5 A warrior of wisdom is strong,
-\q and a man of knowledge increases his strength;
+\v 5 A wise man proves to be strong
+\q and a person who has knowledge is better than one who is strong;
 \q
-\v 6 for by wise direction you can wage your war
+\v 6 for by wise directions you can wage your war
 \q and with many advisors there is victory.
 </usfm>
 
@@ -47,13 +47,10 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **warrior of wisdom** - The abstract noun "wisdom" can be translated as a noun phrase. AT: "wise warrior" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **a man of knowledge increases his strength** - The abstract nouns "knowledge" and "strength" can be translated as the verb "know" and the adjective "strong." AT: "a man who knows many things is stronger because he knows these things" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **by wise direction** - The abstract noun "direction" can be translated as a verb. AT: "if you have wise people telling you what to do" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **wage** - "fight"
-  * **advisors** - those who tell government officials what those officials should do 
+  * **you can wage your war** - "you can carry out your war"
+  * **advisors** - counselors
+ 
  
 ===== Links: =====
 
@@ -68,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

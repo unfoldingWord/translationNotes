@@ -38,11 +38,12 @@
 
   * **General Information:** - This is what happened after the army of Israel defeated the army of Judah at Beth Shemesh. 
 
-  * **He came ... He took** - Here "He" refers to Jehoash and his army. AT: "Jehoash and his army came ... Jehoash's soldiers took" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Ephraim Gate ... Corner Gate** - There are the names of gates in the wall of Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **four hundred cubits** - "about 180 meters" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **cubits** - A cubit was about 46 centimeters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **with hostages also, and returned to Samaria** - This implies that Jehoash needed to take these hostages to prevent Amaziah from attacking again. This can be made explicit. AT: "and they also took to Samaria some prisoners to make sure that Amaziah would cause them no more trouble" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **He came** - "Jehoash and his army came" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Ephraim Gate ... Corner Gate** - place names (See: [[:en:ta:vol1:translate:translate_names]])
+  * **four hundred cubits** - "about 180 meters long" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **cubit** - (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **He took** - "Jehoash's soldiers took" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **with hostages also, and returned to Samaria** - This implies that Jehoash needed to take these hostages to prevent Amaziah from attacking again. AT: "They also took to Samaria some prisoners to make sure that Amaziah would cause them no more trouble." (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -50,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2ki:14]]
 **[[:en:bible:notes:2ki:14:11|<<]] | [[:en:bible:notes:2ki:14:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

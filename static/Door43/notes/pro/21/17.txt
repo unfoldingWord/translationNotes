@@ -17,10 +17,11 @@
 
 <usfm>
 \v 17 Love pleasure and it will make you poor;
-\q2 you cannot be rich and love to drink wine and eat expensive foods.
+\q2 you cannot be rich and love to drink wine and eat expensive foods. 
 \q1
 \v 18 A person who does right is honored much more than a wicked man,
-\q2 and a good man is worth far more than one who never keeps his promise.
+\q2 and a good man is worth far more than one who never keeps his promise. 
+
 
 \q1
 </usfm>
@@ -29,11 +30,11 @@
 
 <usfm>
 \q
-\v 17 Whoever loves pleasure will become poor;
+\v 17 Whoever loves pleasure will become poor; 
 \q the one who loves wine and oil will not be rich.
 \q
-\v 18 A wicked person is ransom for the righteous person,
-\q and the treacherous person is ransom for upright people.
+\v 18 A wicked person becomes ransom for the one who does righ
+\q and the treacherous is ransom for the upright.
 </usfm>
 
 ===== translationWords: =====
@@ -46,10 +47,11 @@
 
 ===== translationNotes: =====
 
-  * **is ransom for** - The word "ransom" is a metaphor for one person who takes the place of another person. Here the person who does what is wrong is punished instead of the person who does what is right. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the treacherous** - a person who harms those who trust him by lying and otherwise dealing falsely
-  * **upright people** - "righteous people" or "honest people" or "just people"
+  * **General Information:** - Both verse 17 and verse 18 are a parallelism. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
+  * **becomes ransom for ... is ransom for** - To be or become the ransom for someone else means that you have to pay their financial debt or their moral penalty. AT: "will pay the debt of ... pays the debt of" or "will be punished instead of ... is punished instead of"
+  * **the treacherous** - someone who cannot be trusted
+  * **the upright** - See how you translated this in [[:en:bible:notes:pro:03:31|3:32]].
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -57,6 +59,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:15|<<]] | [[:en:bible:notes:pro:21:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

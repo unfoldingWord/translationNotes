@@ -24,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 On each side of the pass through which Jonathan wanted to go in order to get to the Philistines' garrison, there was a rocky cliff on one side and another rocky cliff on the other side. One rocky cliff was called Bozez and the other rocky cliff was called Seneh.
-\v 5 One rocky cliff stood on the north in front of Michmash, and the other on the south in front of Geba.
+\v 4 Between the passes, by which Jonathan intended to cross over to the Philistines' garrison, there was a rocky cliff on the one side, and a rocky cliff on the other side. The name of the one cliff was Bozez, and the name of the other was Seneh.
+\v 5 The one steep cliff rose up on the north in front of Michmash, and the other on the south in front of Geba.
 </usfm>
 
 
@@ -33,22 +33,25 @@
 
 ===== translationNotes: =====
 
-  * **One rocky cliff was called Bozez** - A "cliff" is a rocky height with a steep drop. The cliff was well-known and given the name "Bozez." (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the other rocky cliff was called Seneh** - This was the name of the other cliff. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Michmash** - "Michmash" was a town north of Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Geba** - "Geba" was a town north of Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
-
-
+  * **Between the passes, by which Jonathan intended to cross over** - "Jonathan planned to go between the two cliffs" 
+  * **one cliff was Bozez** - The word "cliff" refers to a rocky height with a steep drop. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the other was Seneh** - a name of a cliff (See: [[:en:ta:vol1:translate:translate_names]])
+  * **in front of Michmash** - "Michmash" was a town north of Jerusalem.
+  * **in front of Geba** - "Geba" was a town north of Jerusalem.
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
   * [[:en:bible:notes:1sa:14:00]]
   * [[:en:bible:questions:comprehension:1sa:14]]
+
+ 
+
 **[[:en:bible:notes:1sa:14:02|<<]] | [[:en:bible:notes:1sa:14:06|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -14,7 +14,7 @@
 
 <usfm>
 \v 15 David replied, "I am sure that you are the greatest man in Israel ! So why did you not guard your master, the king? Someone came into your camp in order to kill your master, the king.
-\v 16 You have done a very poor job of guarding Saul. So just as surely as Yahweh is alive, you and your men should be executed! You have not guarded your master whom Yahweh appointed to be the king. Where are the king's spear and the water jug that were close to his head?"
+\v 16 You have done a very poor job of guarding Saul. So just as surely as Yahweh lives, you and your men should be executed! You have not guarded your master whom Yahweh appointed to be the king. Where are the king's spear and the water jug that were close to his head?"
 
 
 \p
@@ -25,7 +25,7 @@
 
 <usfm>
 \v 15 David said to Abner, "Are not you a courageous man? Who is like you in Israel? Why then have you not kept watch over your master the king? For someone came in to kill the king your master.
-\v 16 This thing you have done is not good. As Yahweh lives, you deserve to die because you have not kept watch over your master, Yahweh's anointed one. Now see where the king's spear is and the jar of water that was near his head!"
+\v 16 This thing is not good that you have done. As Yahweh lives, you deserve to die because you have not kept watch over your master, Yahweh's anointed one. And now see where the king's spear is, and the jar of water that was at his head."
 </usfm>
 
 
@@ -44,9 +44,9 @@
 
 ===== translationNotes: =====
 
-  * **Are not you a courageous man?** - David uses a question to rebuke Abner for not guarding Saul. AT: "You are a very brave man." (See [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Who is like you in Israel?** - David uses a question to rebuke Abner for not guarding Saul. AT: "You are the greatest soldier in Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why then have you not kept watch over your master the king?** - Possible meanings are 1) this is a real question and David wants Abner to answer him or 2) this is a rhetorical question and David is rebuking Abner. AT: "Therefore you should have kept watch over your master the king!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Are not you a courageous man?** - This rhetorical question can be translated as a statement. Possible meanings are 1) David is rebuking Abner, "You are a courageous man," or 2) David is taunting Abner, "You are not acting like a courageous man." (See [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_irony]])
+  * **Who is like you in Israel?** - This rhetorical question can be translated as a statement. Possible meanings are 1) David is continuing to rebuke Abner, "You are the greatest man in Israel," or 2) David is continuing to taunt Abner, "You want everyone to think you are the greatest man in Israel, but you are not." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_irony]]) 
+  * **Why then have you not kept watch ... king?** - This rhetorical question can be translated as a statement. David is rebuking Abner. Possible meanings are 1) David wants Abner to answer or 2) "You should have kept watch ... king." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1sa:26]]
 **[[:en:bible:notes:1sa:26:13|<<]] | [[:en:bible:notes:1sa:26:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

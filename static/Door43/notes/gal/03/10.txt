@@ -28,9 +28,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 10 All who rely on the works of the law are under a curse; and so it is written, "Cursed is everyone who does not abide by all the things written in the book of the law, and do them."
-\v 11 Now it is clear that no one is justified before God by the law, because the righteous will live by faith.
-\v 12 But the law is not of faith, rather, "The person who does the works of the law must live by them."
+\v 10 Those who rely on the works of the law are under a curse. For it is written, "Cursed is everyone who does not abide by all the things written in the book of the law, to do it all."
+\v 11 Now it is clear that God justifies no one by the law, for "The righteous will live by faith."
+\v 12 The law is not from faith, but instead, "He who does these things in the law will live by the laws."
 </usfm>
 
 
@@ -47,13 +47,16 @@
  
 ===== translationNotes: =====
 
-  * **All who rely on ... the law are under a curse** - Being under a curse represents being cursed. Here it refers to being eternally punished. "Those who rely on ... the law are cursed" or "God will eternally punish those who rely on ... the law" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Now it is clear** - What is clear can be stated explicitly. AT "The scriptures are clear" or "The scriptures teach clearly" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **no one is justified before God by the law** - This can be stated with an active verb. AT: "God justifies no one by the law"
-  * **no one is justified before God by the law** - Paul is correcting their believe that if they obeyed the law, God would justify them. AT: "no one is justified before God by obeying the law" or "God does not justify anyone for their obedience to the law" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the righteous** - This refers to righteous people. AT: "righteous people" or "the people whom God considers righteous" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **the works of the law** - "what the law says we must do" 
-  * **must live by them** - Possible meanings are 1) "must obey them all" (UDB) or 2) "will be judged by his ability to do what the law demands."
+  * **Those who rely on ... the law are under a curse** - "God will eternally punish those who rely on ... the law"
+  * **Now it is clear that God justifies** - "God has said plainly that he justifies"
+  * **Those** - "People" or "The people"
+  * **works of the law** - "obeying God's law"
+  * **abide by** - "live according to" or "submit to" or "stay faithful to" or "obey" or "observe"
+  * **to do it all** - "to obey all of the law"
+  * **The righteous** - The adjective "righteous" can be translated as a noun phrase. AT: "The people whom God considers righteous" or "The righteous people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **things in the law** - "things written in the law"
+  * **will live by the laws** - Possible meanings are 1) "must obey them all" (UDB) or 2) "will live because he does what the law commands."
+
 ===== Links: =====
 
   * [[:en:bible:notes:gal:00:intro]]

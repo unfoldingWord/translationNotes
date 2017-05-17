@@ -47,10 +47,8 @@
 
 ===== translationNotes: =====
 
-  * **It happened** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **given him rest from all his surrounding enemies** - "given him safety from all his surrounding enemies." Here "rest" is an abstract noun. AT: "caused the enemy people groups to stop attacking Israel" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **I am living in a house of cedar** - Cedar is a kind of tree that is known for its strength. If you have an equivalent type of tree in your culture, you use that name, otherwise you can reword this. AT: "I am living in a strong, permanent house" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the ark of God is staying in the middle of a tent** - Tents are temporary dwellings. If you do not have tents in your culture, you can word this differently. AT: "the ark of God is staying in a temporary place" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **I am living in a house of cedar** - Cedar is a kind of tree that is known for its strength. If you have an equivalent type of tree in your culture, you use that name, otherwise you can reword this. AT: "I am living in a strong, permanent house"
+  * **the ark of God is staying in the middle of a tent** - Tents are temporary dwellings. If you do not have tents in your culture, you can word this differently. AT: "the ark of God is staying in a temporary place" 
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -58,6 +56,6 @@
   * [[:en:bible:questions:comprehension:2sa:07]]
 **[[:en:bible:notes:2sa:06:21|<<]] | [[:en:bible:notes:2sa:07:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

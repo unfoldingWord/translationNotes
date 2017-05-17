@@ -17,13 +17,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 All the soldiers in that nation's army will be killed,
+\v 6 All the soldiers in the Ethiopian army will be killed,
 \q2 and their corpses will lie in the fields for vultures to eat their flesh in the summer.
-\q1 Then wild animals will chew on their bones all during the winter."
+\q1 Then wild animals will chew on their bones all during the winter.
+\b
 \p
-\v 7 At that time, the people of the nation that rivers divide will take gifts to Yahweh in Jerusalem.
-\q1 Those people are tall and have smooth skins; people everywhere are afraid of those people,
-\q2 because they conquer and destroy other nations,
+\v 7 At that time, the people of that land that is divided by the branches of one big river will take gifts to Yahweh in Jerusalem.
+\q1 Those tall people who have smooth skins, whom people everywhere are afraid of,
+\q2 because they conquer and destroy many countries,
 \q1 will take gifts to Jerusalem, the city where Yahweh, commander of the angel armies, lives.
 </usfm>
 
@@ -31,11 +32,11 @@
 
 <usfm>
 \q1
-\v 6 They will be left together for the birds of the mountains and for the animals of the earth.
-\q1 The birds will summer on them, and all the animals of the earth will winter on them."
+\v 6 They will be left together for the birds of the mountains and for the animals of the earth. 
+\q1 The birds will summer on them, and all the animals of the earth will winter on them.
 \q1
-\v 7 At that time tribute will be brought to Yahweh of hosts from a people tall and smooth,
-\q1 from a people feared far and near, a nation strong and trampling down, whose land the rivers divide,
+\v 7 At that time tribute will be brought to Yahweh of hosts from a people tall and smooth, 
+\q1 from a people feared far and near, a nation mighty and conquering, whose land the rivers divide, 
 \q1 to the place of the name of Yahweh of hosts, to Mount Zion.
 </usfm>
 
@@ -51,15 +52,10 @@
 
 ===== translationNotes: =====
 
-  * **They will be left together** - God seems to change from telling the parable to speaking more directly about the nation. This can be stated clearly. AT: "Those who are killed will be left together" or "Like branches that are cut off and thrown away, the bodies of those who are killed will be left on the ground" (See: [[:en:ta:vol1:translate:figs_parables]])
-  * **The birds will summer on them** - "The birds will eat them during the summer." The word "birds" refers to birds that eat the flesh of dead bodies.
-  * **all the animals of the earth** - "all kinds of wild animals"
-  * **will winter on them** - "will eat them in the winter"
-  * **a people tall and smooth ... a people feared far and near ... a nation strong and trampling down, whose land the rivers divide** - These phrases all describe the people of one nation. See how you translated these phrases in [[:en:bible:notes:isa:18:01|18:2]].
-  * **a people tall and smooth** - "a people who are tall and have smooth skin" 
-  * **a people feared far and near** - The words "far" and "near" are used together to mean "everywhere." AT: "a people who are feared everywhere" or "a people that everyone in the earth fears" (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **a nation strong and trampling down** - Trampling down represents conquering other nations. AT: "a nation that is strong and conquers other nations" See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **people tall and smooth, from a people feared far and near, a nation mighty and conquering, whose land the rivers divide** - See how you translated similar phrases in [[:en:bible:notes:isa:18:01|18:2]].
   * **to the place of the name of Yahweh of hosts, to Mount Zion** - The word "name" refers to Yahweh. AT: "to Mount Zion, where Yahweh of hosts dwells" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -67,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:18]]
 **[[:en:bible:notes:isa:18:04|<<]] | [[:en:bible:notes:isa:19:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

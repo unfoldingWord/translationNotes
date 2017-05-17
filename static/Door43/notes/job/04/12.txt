@@ -27,7 +27,7 @@
 
 <usfm>
 \q
-\v 12 Now a certain matter was secretly brought to me,
+\v 12 Now a certain matter was secretly brought to me
 \q and my ear received a whisper about it.
 \q
 \v 13 Then came thoughts from visions in the night,
@@ -43,7 +43,6 @@
   * **Now a certain matter was secretly brought to me ... my ear received a whisper about it** - These phrases express the same idea in a different way. They convey the idea that Eliphaz heard a message whispered to him. This repetition is a form of Hebrew poetry used frequently for emphasis, teaching, or clarity. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **was secretly brought** - "something brought a certain matter to me secretly" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **visions in the night** - "dreams"
-  * **when deep sleep falls on people** - "when people sleep very deeply"
 
 
 ===== Links: =====
@@ -53,6 +52,6 @@
   * [[:en:bible:questions:comprehension:job:04]]
 **[[:en:bible:notes:job:04:10|<<]] | [[:en:bible:notes:job:04:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

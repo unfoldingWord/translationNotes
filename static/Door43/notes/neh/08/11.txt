@@ -26,8 +26,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 So the Levites made the people be quiet, saying, "Hush! for this day is holy. Do not be grieved."
-\v 12 Then all the people went their way to eat and to drink and to share food and to celebrate with great joy because they had understood the words that were made known to them.
+\v 11 So the Levites made the people be quiet, saying, "Hush! for this day is holy. Do not be grieved." 
+\v 12 And all the people went their way to eat and to drink and to share food and to celebrate with great joy because they had understood the words that were made known to them.
 </usfm>
 
 
@@ -40,10 +40,10 @@
   * [[:en:obe:other:know]]
 ===== translationNotes: =====
 
-  * **Hush!** - "Be quiet!" or "Be silent!"
-  * **Do not be grieved** - This can be stated in active form. AT: "Do not grieve" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **celebrate with great joy** - The abstract noun "joy" can be expressed as a verb. AT: "rejoice greatly" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **the words that were made known to them** - This can be stated in active form. AT: "the words that he declared to them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Hush!** - "Be quiet!" or "Do not make a sound!"
+  * **for this day is holy** - "for this day is set apart for God"
+  * **and to celebrate with great joy** - "and to rejoice with great happiness"
+  * **they had understood the words that were made known to them** - This can be stated in active form. AT: "they had understood the words that the priest had explained to them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
  
 ===== Links: =====
@@ -59,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

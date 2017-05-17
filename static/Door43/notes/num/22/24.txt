@@ -27,10 +27,7 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:angel]]
-  * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:vineyard]]
-  * [[:en:obe:other:balaam]]
 
 ===== translationNotes: =====
 
@@ -44,6 +41,6 @@
   * [[:en:bible:questions:comprehension:num:22]]
 **[[:en:bible:notes:num:22:21|<<]] | [[:en:bible:notes:num:22:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

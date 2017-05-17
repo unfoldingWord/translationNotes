@@ -13,10 +13,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 30 Here are the city gates: On the north side, which is two and two-fifth kilometers long,
+\v 30 Here are the city gates: On the north side, which is about 2.4 kilometers long,
 \v 31 there will be three gates. Each gate will have the name of one of the tribes of Israel. The first one will be named for Reuben, the next for Judah, the next for Levi.
 \p
-\v 32 On the east side, also two and two-fifth kilometers long, will be gates named for Joseph, Benjamin, and Dan.
+\v 32 On the east side, also about 2.4 kilometers long, will be gates named for Joseph, Benjamin, and Dan.
 
 
 \p
@@ -27,7 +27,7 @@
 <usfm>
 \p
 \v 30 These will be the exits from the city: on the north side, which will measure 4,500 cubits in length,
-\v 31 will be three gates, named for tribes of Israel:
+\v 31 will be three gates, named for tribes of Israel: 
 one gate for Reuben, one gate for Judah, and one gate for Levi.
 \v 32 On the east side, which will measure 4,500 cubits in length, will be three gates: one gate for Joseph, one gate for Benjamin, and one gate for Dan.
 </usfm>
@@ -44,7 +44,8 @@ one gate for Reuben, one gate for Judah, and one gate for Levi.
 
 ===== translationNotes: =====
 
-  * **4,500 cubits** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "about 2.4 kilometers" (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **cubits** - See how you translated these "long" cubits in [[:en:bible:notes:ezk:40:05|40:05]].
+  * **4,500 cubits** - about 2.4 kilometers. (See: [[:en:ta:vol2:translate:translate_bdistance]])
 
 ===== Links: =====
 
@@ -53,6 +54,6 @@ one gate for Reuben, one gate for Judah, and one gate for Levi.
   * [[:en:bible:questions:comprehension:ezk:48]]
 **[[:en:bible:notes:ezk:48:27|<<]] | [[:en:bible:notes:ezk:48:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

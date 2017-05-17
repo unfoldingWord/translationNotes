@@ -15,11 +15,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 Wisdom builds her own house, just like a woman who has built her home;
-\q2 she made seven pillars to support the roof of her house.
+\v 1 Wisdom builds her own house, just like a woman who has built her home, 
+\q2 and she made seven pillars that she used to support the roof of her house. 
 \q1
 \v 2 She prepared a meal and set her table;
-\q1 she prepared the animals and cooked them to serve for the dinner,
+\q1 she prepared the animals and cooked them to serve for the dinner, 
 \q1 and she made the wine ready for her guests.
 
 
@@ -34,7 +34,7 @@
 \v 1 Wisdom has built her own house;
 \q she has carved seven pillars out of rocks.
 \q
-\v 2 She has slaughtered her animals; she has mixed her wine;
+\v 2 She has prepared her animals to serve for dinner; she has mixed her wine;
 \q and she has set her table.
 </usfm>
 
@@ -42,16 +42,17 @@
 
   * [[:en:obe:kt:wise]]
   * [[:en:obe:other:pillar]]
+  * [[:en:obe:other:serve]]
   * [[:en:obe:other:wine]]
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses begin a parable in which wisdom is imagined to be a woman who is giving good advice to people.  (See: [[:en:ta:vol2:translate:figs_personification]]) 
-
-  * **Wisdom has built** - The writer speaks about wisdom as if it were a woman who has built her own house. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **She has slaughtered her animals** - This refers to animals whose meat will be eaten in the dinner that Wisdom will give. AT: "She has killed the animals for meat at dinner" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **mixed her wine** - In ancient Israel, people often mixed wine with water. AT: "prepared her wine by mixing it with water" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **she has set her table** - "she has prepared her table" 
+  * **Wisdom** - The writer speaks about "wisdom" as if it were a woman who built her house. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **pillars** - This refers to large vertical structures that were used to hold up a roof or other part of a building.
+  * **serve** - This means to offer food for someone to eat.
+  * **her animals** - AT: "meat" or "animal meat" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **mixed her wine** - In ancient Israel, people often mixed wine with water. AT: "prepared her drinks" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **she has set her table** - "she has prepared her table" AT: "she has put the whole dinner on her table" (See: [[:en:ta:vol2:translate:figs_personification]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -59,6 +60,6 @@
   * [[:en:bible:questions:comprehension:pro:09]]
 **[[:en:bible:notes:pro:08:35|<<]] | [[:en:bible:notes:pro:09:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass pillar}}
+~~DISCUSSION~~{{tag>publish p2edit pillar}}
 
 ~~NOCACHE~~

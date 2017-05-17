@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 21 If you want to know more about everything that Menahem did, it is written in the book of the events of the Kings of Israel.
+\v 21 If you want to know more about everything that Menahem did, it is written in the Book of the Events of the Kings of Israel.
 \v 22 Menahem died and was buried, and his son Pekahiah became the king of Israel.
 
 
@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 21 As for the other matters concerning Menahem, and all that he did, are they not written in the book of the events of the kings of Israel?
+\v 21 As for the other matters concerning Menahem, and all that he did, are they not written in The Book of the Events of the Kings of Israel?
 \v 22 So Menahem slept with his ancestors, and Pekahiah his son became king in his place.
 </usfm>
 
@@ -32,10 +32,9 @@
   * [[:en:obe:kt:sleep]]
 ===== translationNotes: =====
 
-  * **are they not written ... Israel?** - This question is used to either inform or remind the readers that the information about Menahem is in this other book. See how you translated this in [[:en:bible:notes:2ki:01:17|1:18]]. AT: "they are written in The Book of the Events of the Kings of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Menahem slept with his ancestors** - Sleeping represents dying. See how you translated this in [[:en:bible:notes:2ki:10:34|10:35]]. AT: "Menahem died as his ancestors had" or "like his ancestors, Menahem died"  (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_euphemism]])
-  * **Pekahiah** - This a man's name. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **became king in his place** - The phrase "in his place" is a metaphor meaning "instead of him." AT: "became king instead of Menahem" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **are they not written ... Israel?** - "they are written ... Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **slept with his ancestors** - "died and the people buried him, (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **Pekahiah** - (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -43,6 +42,6 @@
   * [[:en:bible:questions:comprehension:2ki:15]]
 **[[:en:bible:notes:2ki:15:19|<<]] | [[:en:bible:notes:2ki:15:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -54,7 +54,7 @@
 \li1
 \v 21 Hashabiah, of the family of Hilkiah,
 \li1 and Nethanel, of the family of Jedaiah.
- 
+
 
 \p
 </usfm>
@@ -63,9 +63,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 Adna was the leader of Harim, Helkai the leader of Meraioth,
-\v 16 Zechariah was the leader of Iddo, Meshullam was the leader of Ginnethon, and
-\v 17 Zichri was the leader of Abijah. ... of Miniamin. Piltai was the leader of Moadiah.
+\v 15 To continue, Adna was the leader of Harim, Helkai the leader of Meraioth,
+\v 16 Zechariah was the leader of Iddo, Meshullam was the leader of Ginnethon, and 
+\v 17 Zichri was the leader of Abijah. ... of Miniamin. Piltai was the leader of Moadiah. 
 \f + \ft The expression \fqa ... of Miniamin \fqb is incomplete, because no leader of that family is named in the Hebrew text. \f*
 \v 18 Shammua was the leader of Bilgah, Jehonathan was the leader of Shemaiah,
 \v 19 Mattenai was the leader of Joiarib, Uzzi was the leader of Jedaiah,
@@ -79,14 +79,11 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - The list that began in [[:en:bible:notes:neh:12:12|12:12]] continues.
-
-  * **Adna ... Helkai ... Zechariah ... Meshullam ... Zichri ... Piltai ... Shammua ... Jehonathan ... Mattenai ... Uzzi ... Kallai ... Eber ... Hashabiah ... Nethanel** - These are all names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Harim ... Meraioth ... Iddo ... Ginnethon ... Abijah ... Miniamin ... Moadiah ... Bilgah ... Shemaiah ... Joiarib ... Jedaiah ... Sallai ... Amok ... Hilkiah ... Jedaiah** - These are all names of families that are named after men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **was the leader of** - "was the leader of the family of" or "was the leader of the descendants of"
+  * **Adna was the leader of Harim ... and Nethanel was the leader of Jedaiah** - This continues to list the representatives of each family. 
   * **Meshullam was the leader of Ginnethon** - Ginnethon may be another form of the name Ginnethoi. 
   * **of Miniamin** - The Hebrew text mistakenly leaves out the name of the leader of the family of Miniamin. Some modern versions leave the expression incomplete, as the ULB does. Other versions provide a short explanation to make up for the omission of the leader's name (see UDB).
   * **Moadiah** - Maadiah may be another form of the name Moadiah. 
+  * **Adna ... Harim ... Helkai ... Meraioth ... Zechariah ... Iddo ... Meshullam ... Ginnethon ... Zichri ... Abijah ... Miniamin ... Piltai ... Moadiah ... Shammua ... Bilgah ... Jehonathan ... Shemaiah ... Mattenai ... Joiarib ... Uzzi ... Jedaiah ... Kallai ... Sallai ... Eber ... Amok ... Hashabiah ... Hilkiah ... Nethanel ... Jedaiah** - These are all male names. (See: [[:en:ta:vol1:translate:translate_names]])
 
  
 ===== Links: =====
@@ -99,6 +96,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

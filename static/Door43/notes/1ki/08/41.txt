@@ -39,8 +39,8 @@
 
 ===== translationNotes: =====
 
-  * **your mighty hand, and your raised arm** - These two phrases mean basically the same thing and refer to God's power. (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **this house I have built is called by your name** - This can be stated in active form. The phrase "called by your name" indicates that the person possesses and owns the house. AT: "you own this house that I have built" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your mighty hand, and your raised arm** - These two phrases mean basically the same thing and refer to God's power. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **this house I have built is called by your name** - This can be stated in active form. The phrase "called by your name" indicates possession and ownership. AT: "you own this house that I have built" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:08]]
 **[[:en:bible:notes:1ki:08:39|<<]] | [[:en:bible:notes:1ki:08:44|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

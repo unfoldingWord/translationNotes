@@ -46,11 +46,7 @@
 ===== translationNotes: =====
 
   * **my son** - Saul was not David's true father. Saul speaks as if he were David's father to show David that he wants David to trust and respect him as David would trust and respect his own father. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Why does my master pursue his servant?** - Possible meanings are 1) David really does want Saul to answer the question or 2) this rhetorical question can be translated as a statement. AT: "My master has no reason to pursue his servant." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why does my master pursue his servant?** - Here David speaks of Saul in third person calling him "my master," and he speaks of himself in third person calling himself "his servant." David speaks this way to show respect to Saul. AT: "Why are you, my master, pursuing me, your servant?" or "Why are you pursuing me?" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **What have I done?** - Possible meanings are 1) David really does want Saul to answer the question or 2) this rhetorical question can be translated as a statement. AT: "You know that I have done nothing to harm you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **What evil is in my hand?** - This speaks of evil as if it were an object that is held in the hand. Here "hand" represents a person acting or doing something. Possible meanings are 1) David really does want Saul to answer the question. AT: "What have I done wrong?" or 2) this rhetorical question can be translated as a statement. AT: "I have done nothing wrong!" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **What have I done? What evil is in my hand?** - These two questions mean basically the same thing. David uses them to emphasize that he has done nothing wrong. This rhetorical question can be translated as a statement. AT: "Clearly, I have done nothing against you. I have no evil plans." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -58,6 +54,6 @@
   * [[:en:bible:questions:comprehension:1sa:26]]
 **[[:en:bible:notes:1sa:26:15|<<]] | [[:en:bible:notes:1sa:26:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

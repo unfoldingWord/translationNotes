@@ -15,7 +15,7 @@
 <usfm>
 \v 14 I will scatter all those who have been around him—his advisors and his soldiers—in every direction; and I will cause his enemies to pursue them, with their swords ready to strike them.
 \p
-\v 15 Then, when I scatter them among many nations, they will know that I, Yahweh have the power to do what I say that I will do.
+\v 15 Then, when I scatter them among many nations , they will know that I, Yahweh have the power to do what I say that I will do.
 \v 16 But I will spare some of them from being killed by the sword, or starving to death, or dying of disease so they can record that they have been doing disgusting things, and they will know that I, Yahweh, have the power to do what I say that I will do."
 
 
@@ -43,11 +43,9 @@
 
 ===== translationNotes: =====
 
-  * **I will send out a sword after them** - The word "sword" is a metonym for enemy armies who will attack with their swords. AT: "I will send armies to pursue them with swords" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **know that I am Yahweh** - When Yahweh says that people will know that he is Yahweh, he is implying that they will know that he is the one true God who has supreme authority and power. Translate as in [[:en:bible:notes:ezk:06:06|6:7]]. AT: "understand that I am Yahweh, the one true God" or "realize that I, Yahweh, have supreme power and authority" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **when I scatter them among the nations and disperse them throughout the lands** - These two phrases mean basically the same thing. AT: "when I cause them to separate from each other and live in different nations" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **from the sword** - The word "sword" is a metonym for enemy armies who will attack with their swords. It is implied that Yahweh will spare them from dying in battle. AT: "from dying in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
-
+  * **I will send out a sword after them** - The word "sword" is used to refer to an army of men carrying swords. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **when I scatter them among the nations and disperse them throughout the lands** - These two phrases mean basically the same thing. AT: "when I cause them to separate from each other and live in different nations." (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **from the sword** - The word "sword" refers to being killed in fighting. AT: "from being killed" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -55,6 +53,6 @@
   * [[:en:bible:questions:comprehension:ezk:12]]
 **[[:en:bible:notes:ezk:12:11|<<]] | [[:en:bible:notes:ezk:12:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check disperse}}
+~~DISCUSSION~~{{tag>publish p2edit disperse}}
 
 ~~NOCACHE~~

@@ -44,20 +44,20 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:god]]
-  * [[:en:obe:other:serpent]]
+  * [[:en:obe:other:serpent|asp, viper]]
  
 ===== translationNotes: =====
 
   * **General Information:** - Zophar continues speaking to Job.
 
-  * **He swallows down riches ... cast them out of his stomach** - Zophar speaks of gaining and losing wealth as if it were food that a person eats and vomits. AT: "The wicked person becomes very wealthy, but he loses his wealth like a person who vomits up his food. God causes him to lose it all" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **He swallows down riches** - Possible meanings are that "swallows down riches" represents 1) accumulating riches and storing them selfishly. AT: "The wicked man gains much wealth and keeps it all for himself" or 2) accumulating riches in wicked ways. AT: "The wicked man steals much wealth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **God will cast them out of his stomach** - Here "cast them out of his stomach" is a metonym for causing the man to vomit them. This is a metaphor for causing the man to lose his riches. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He swallows down riches ... cast them out of his belly** - Zophar compares wealth to food. Just like a person who eats too much food will vomit it back up, God will take the wealth from a rich person who stores up things for himself. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He will suck the poison of asps; the viper's tongue will kill him** - Zophar says that holding onto wealth is evil, and like poison evil can kill a person. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **vomit** - when a full stomach throws food back out of the mouth
   * **cast** - "throw"
-  * **He will suck the poison of asps** - Here "suck the poison of asps" represents doing evil things. Both are very dangerous. AT: "Doing evil things is like sucking the poison of asps" or "He will do evil things and endanger his life like a person who sucks the poison of asps" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **asps** - poisonous snakes
-  * **the viper's tongue will kill him** - The viper is a poisonous snake. Its tongue represents its poisonous bite. AT: "the viper's poisonous bite will kill him" or "the viper will bite him and he will die" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the viper's tongue will kill him** - The viper represents the man's wickedness. AT: "his wickedness will kill him like a viper's bite" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **belly** - "stomach"
+  * **suck** - to pull liquid into the stomach by the mouth
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -65,6 +65,6 @@
   * [[:en:bible:questions:comprehension:job:20]]
 **[[:en:bible:notes:job:20:12|<<]] | [[:en:bible:notes:job:20:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

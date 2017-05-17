@@ -17,11 +17,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 21 Our bodies become very thin so that we look like a skeleton,
+\v 21 Our bodies become very thin so that we look like a skeleton, 
 \q2 and our bones stick out so others can count them.
 \q1
 \v 22 We know that we will soon die
 \q2 and go to the place where dead people are.
+\b
 
 
 \q1
@@ -37,7 +38,7 @@
 \q
 \v 22 Indeed, his soul draws close to the pit,
 \q his life to those who wish to destroy it.
-\m
+\b
 </usfm>
 
 
@@ -52,10 +53,9 @@
 
   * **General Information:** - Elihu continues speaking to Job.
 
-  * **His flesh is consumed away so that it cannot be seen; his bones, once not seen, now stick out** - This can be stated in active form. "His flesh" refers to a his fat and muscles, not to his body's outer skin. AT: "Disease makes his body weak and thin so that a person can see his bones" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **his soul draws close to the pit** - Here a person is represented by his "soul." AT: "he is close to going into the grave" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the pit** - The place where people go when they die is referred to here as "the pit." AT: "the place where dead people are" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **his life to those who wish to destroy it** - Here the person is represented by his "life." The phrase "those who wish to destroy it" refers to the place where people go after they die. AT: "and he is close to going the to place where dead people go" or "and he will soon go to the place of the dead" (See: (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **His flesh is consumed away so that it cannot be seen; his bones, once not seen, now stick out** - AT: "Disease makes his body weak and thin so that a person can see his bones" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **his soul draws close to the pit** - AT: "he is close to going into the grave" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **his life to those who wish to destroy it** - The phrase "those who wish to destroy it" may refer to the people who are already in the place where dead people go. It may also refer to the angel of death that comes and causes the person to die. AT: "he is close to dying" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 
 ===== Links: =====
@@ -65,6 +65,6 @@
   * [[:en:bible:questions:comprehension:job:33]]
 **[[:en:bible:notes:job:33:19|<<]] | [[:en:bible:notes:job:33:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -18,8 +18,8 @@
 
 <usfm>
 \p
-\v 11 Then Yahweh said to me, "Son of man, these bones are the entire house of Israel. Behold! They are saying, 'Our bones have dried up, and our hope is gone. We have been cut off.'
-\v 12 Therefore prophesy and say to them, 'The Lord Yahweh says this: Behold! I will open your graves and lift you out from them, my people. I will bring you back to the land of Israel.
+\v 11 And Yahweh said to me, "Son of man, these bones are the entire house of Israel. Behold! They are saying, 'Our bones have dried up, and our hope is gone. We have been cut off.'
+\v 12 Therefore prophesy and say to them, 'The Lord Yahweh says this: Behold! I will open your graves and lift you out from them, my people. And I will bring you back to the land of Israel.
 </usfm>
 
 ===== translationWords: =====
@@ -31,11 +31,11 @@
 
 ===== translationNotes: =====
 
-  * **the entire house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate this as in [[:en:bible:notes:ezk:03:01|3:1]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Behold!** - The word "Behold" here adds emphasis to what follows. AT: "Indeed!"
-  * **We have been cut off** - The people being destroyed and removed from their land is spoken of as if they had been cut off like a person would cut off a branch or piece of cloth. AT: "Our nation is destroyed" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Behold** - This tells the reader to pay special attention to what follows. AT: "Look" or "Listen" or "Pay attention to what I am about to tell you"
-  * **I will open your graves and lift you out from them** - Yahweh restoring the people and bringing them back to their land is spoken of as if he will bring them back to life again. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]].
+  * **the entire house of Israel** - See how you translated this in [[:en:bible:notes:ezk:03:01|3:1]].
+  * **Behold!** - The word "Behold" here adds emphasis to what follows. Alternate translation: "Indeed!"
+  * **prophesy and say** - See how you translated this in [[:en:bible:notes:ezk:21:08]].
+  * **Behold** - AT: "Look" or "Listen" or "Pay attention to what I am about to tell you"
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:ezk:37]]
 **[[:en:bible:notes:ezk:37:09|<<]] | [[:en:bible:notes:ezk:37:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

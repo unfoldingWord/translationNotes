@@ -34,10 +34,11 @@
 
 <usfm>
 \q1
-\v 7 The deceiver's methods are evil. He devises wicked schemes
+\v 7 The deceiver's methods are evil. He devises wicked schemes 
 \q1 to ruin the poor with lies, even when the poor say what is right.
 \q1
 \v 8 But the honorable man makes honorable plans; and because of his honorable actions he will stand.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -49,9 +50,7 @@
 
 ===== translationNotes: =====
 
-  * **The deceiver's** - This refers to a person who deceives others. AT: "The deceptive person's" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **to ruin the poor with lies** - "The poor" refers to poor people. Also, the phrase "to ruin" does not means to kill them but to harm them by telling lies about them. AT: "to harm the poor people by telling lies" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **he will stand** - This means that he will be successful. AT: "he will be successful" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -59,6 +58,6 @@
   * [[:en:bible:questions:comprehension:isa:32]]
 **[[:en:bible:notes:isa:32:04|<<]] | [[:en:bible:notes:isa:32:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -18,9 +18,9 @@
 
 <usfm>
 \v 5 Put all your trust in Yahweh,
-\q2 and do not take action because you made up your mind what you should do;
+\q2 and do not take action because you made up your mind what you should do; 
 \q1
-\v 6 but in every choice and decision, look to Yahweh,
+\v 6 but in every choice and decision, look to Yahweh, 
 \q2 and he will show you how you must live.
 
 
@@ -49,10 +49,10 @@
 ===== translationNotes: =====
 
 
-  * **all your heart** - Here the word "heart" represents the inner person. AT: "your whole being" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **do not lean on your own understanding** - The writer speaks of relying on one's own understanding as if "understanding" were an object on which a person can lean. AT: "do not rely on your own understanding" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **in all your ways** - The writer speaks of a person's actions as if they were paths on which the person walks. AT: "in everything you do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he will make your paths straight** - The writer speaks of Yahweh making a person's actions prosperous as if that person's actions were paths on which he walks and which Yahweh makes free of obstacles. AT: "he will give you success" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **all your heart** - AT: "your whole being" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **lean on** - "depend on"
+  * **acknowledge him** - "recognize his authority"
+  * **he will make your paths straight** - AT: "he will direct your life in the best way" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -65,6 +65,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2pass understand}}
+{{tag>publish p2edit understand}}
 
 ~~NOCACHE~~

@@ -22,7 +22,7 @@
 \p
 \v 34 Yahweh said to Moses, "Take spices—stacte, onycha, and galbanum—sweet spices along with pure frankincense, each in equal amounts.
 \v 35 Make it into the form of incense, blended by a perfumer, seasoned with salt, pure and set apart.
-\v 36 You will grind it into a very fine mixture. Put part of it in front of the ark of the testimony, which is in the tent of meeting, where I will meet with you. You will regard it as very holy to me.
+\v 36 You will grind it into a very fine mixture. Put part of it in front of the ark of the covenant decrees, which is in the tent of meeting, where I will meet with you. You will regard it as very holy to me.
 </usfm>
 
 ===== translationWords: =====
@@ -44,7 +44,7 @@
   * **Make it into the form of incense, blended by a perfumer** - The phrase with "blended" can be translated in active form. AT: "Make it into the form of incense that a perfumer has blended" or "A perfumer must blend it into a kind of incense" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **blended by a perfumer** - Possible meanings are 1) Moses was to have a perfumer do the work or 2) Moses was to do the work himself the way a perfumer would do it. See how you translated these words in [[:en:bible:notes:exo:30:22|30:25]]. 
   * **You will grind it** - "You will crush it." Here "you" refers to Moses. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **You will regard** - Here "you" is plural and refers to Moses and all the people. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **You will regard** - Here "you" refers to Moses and all the people and so is plural. (See: [[:en:ta:vol1:translate:figs_you]])
 ===== Links: =====
 
   * [[:en:bible:notes:exo:00:intro]]
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:exo:30]]
 **[[:en:bible:notes:exo:30:32|<<]] | [[:en:bible:notes:exo:30:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass frankincense}}
+~~DISCUSSION~~{{tag>publish p2check frankincense}}
 
 ~~NOCACHE~~

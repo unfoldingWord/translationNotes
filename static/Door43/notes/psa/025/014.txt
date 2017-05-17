@@ -23,6 +23,7 @@
 \q1
 \v 15 I always request Yahweh to help me,
 \q2 and he rescues me from danger.
+\b
 \q1
 \v 16 Yahweh, pay attention to me and be merciful to me because I am alone,
 \q2 and I am greatly distressed because I am suffering.
@@ -36,7 +37,7 @@
 <usfm>
 \q
 \v 14 The friendship of Yahweh is for those who honor him,
-\q and he makes his covenant known to them.
+\q and he makes his covenant known to them. 
 \q
 \v 15 My eyes are always on Yahweh,
 \q for he will free my feet from the net.
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:025]]
 **[[:en:bible:notes:psa:025:012|<<]] | [[:en:bible:notes:psa:025:017|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

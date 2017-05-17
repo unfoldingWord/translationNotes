@@ -17,8 +17,8 @@
 
 <usfm>
 \p
-\v 50 Behold, there was a man named Joseph, who was a member of the Council. He was a good and righteous man.
-\v 51 This man had not agreed with the decision of the Council and their action. He was from the Judean town of Arimathea; and he was looking for the kingdom of God.
+\v 50 Behold, there was a man named Joseph, belonging to the Council, a good and righteous man
+\v 51 (he had not agreed with the decision and their action), from Arimathea, a Jewish city, who was waiting for the kingdom of God.
 </usfm>
 
 ===== translationWords: =====
@@ -32,10 +32,11 @@
   * **General Information:** - This is the next part of the story. Joseph asks Pilate for Jesus' body. These verses give us background information about who Joseph is. It may be helpful to reorder some of this information with a verse bridge as the UDB does. (See: [[:en:ta:vol2:translate:writing_background]] and [[:en:ta:vol2:translate:translate_versebridge]])
 
   * **Behold, there was a man** - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. AT: "There was a man who was" (See: [[:en:ta:vol2:translate:writing_participants]])
-  * **the Council** - "the Jewish Council"
+  * **belonging to the Council** - "and he was a member of the Jewish Council"
   * **a good and righteous man** - This can be translated as a new sentence. AT: "He was a good and righteous man"
-  * **with the decision of the Council and their action** - What the decision was can be stated clearly. AT: "with the Council's decision to kill Jesus and their action" (See: [[:en:ta:vol2:translate:writing_background]])
-  * **the Judean town of Arimathea** - "the town called Arimathea, which is in Judea" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **had not agreed with the decision and their action** - This can be translated as a new sentence. AT: "Joseph did not agree with the council's decision to kill Jesus and the council's action" (See: [[:en:ta:vol2:translate:writing_background]])
+  * **from Arimathea, a Jewish city** - This can be translated as a new sentence. AT: "Joseph was from the Jewish city called Arimathea" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **who was waiting** - This can be translated as a new sentence. AT: "He was waiting."
 ===== Links: =====
 
   * [[:en:bible:notes:luk:00:intro]]

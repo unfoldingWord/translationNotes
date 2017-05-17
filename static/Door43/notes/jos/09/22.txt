@@ -14,7 +14,8 @@
 
 <usfm>
 \v 22 Then Joshua summoned the men from Gibeon and asked them, "Why did you lie to us? Your homes are near to us; you live close to us, but you told us that you were from a far land!
-\v 23 Now you are going to live under a curse. You will become our slaves. You will always be our slaves, and you will be forced to cut wood and carry water for the house of our God."
+\v 23 Now you are going to live under a curse. You will become our slaves. You will always be our slaves, and you will be forced to cut wood and carry water for the house of our God." 
+
 
 \p
 </usfm>
@@ -39,6 +40,7 @@
 
 ===== translationNotes: =====
 
+
   * **house of my God** - Here this phrase refers to the dwelling place of Yahweh, the Tabernacle. (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
  
@@ -55,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

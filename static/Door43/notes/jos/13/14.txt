@@ -12,7 +12,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 The Levites received no assignment of lands; they were the only tribe that received no land. Moses gave them no possessions. Yahweh, the God of Israel, told them that the offerings given to himself would be their possession.
+\v 14 The Levites received no assignment of lands; they were the only tribe that received no land. Moses gave them no possessions. Yahweh, the God of Israel, told them that the offerings given to himself would be their possession. 
+
 
 \p
 </usfm>
@@ -40,7 +41,7 @@
 
   * **Moses gave no inheritance** - The land that Moses assigned to the tribes of Israel is spoken of as if it were an inheritance that they received as a permanent possession. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **The offerings of Yahweh ... are their inheritance** - The writer speaks of the great honor that the Levites had by serving Yahweh as priests as if the offerings were something that they would inherit. AT: "The offerings of Yahweh ... are what they will have for their provision" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **offerings of Yahweh** - "offerings that the people were to bring to Yahweh"
+  * **offerings of Yahweh** - "the offerings that the people were to bring to Yahweh"
   * **made by fire** - This can be stated in active form. AT: "that the priests burned with fire" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
@@ -56,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

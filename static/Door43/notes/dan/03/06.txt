@@ -15,7 +15,8 @@
 <usfm>
 \v 6 Anyone who refuses to do that will be thrown into a blazing fire."
 \p
-\v 7 So all those people who had gathered from the many people and nations, who were speaking various languages, when they heard the instruments play, they laid themselves down on the ground and gave their worship and said words of praise to the statue.
+\v 7 So when all those people who had gathered from the many people and nations, speaking various languages, and when they heard the instruments play, they laid themselves down on the ground and gave their worship and said words of praise to the statue.
+\b
 
 
 \p
@@ -24,7 +25,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 Whoever does not fall down and worship, at that very moment, will be thrown into a blazing furnace."
+\v 6 Whoever does not fall down and worship, at that very moment, will be thrown into a blazing furnace." 
 \v 7 So when all the peoples heard the sounds of the horns, flutes, zithers, lyres, harps, and pipes, and all kinds of music, all the peoples, nations, and languages fell down and prostrated themselves to the golden statue that Nebuchadnezzar the king had set up.
 </usfm>
 
@@ -43,16 +44,10 @@
 ===== translationNotes: =====
 
   * **Whoever does not fall down and worship, at that very moment, will be thrown into a blazing furnace** - This can be stated in active form. AT: "The soldiers will throw into a blazing furnace anyone who does not fall down and worship the statue at the very moment they hear the music" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
-  * **fall down** - Here "fall down" means "quickly lie down"
-  * **blazing furnace** - This is a large room filled with a hot fire.
-  * **all the peoples, nations, and languages** - Here "all" that means all the people who were present.
-  * **peoples, nations, and languages** - Here "nations" and "languages" represent people from different nations who speak different languages. See how you translated this in [[:en:bible:notes:dan:03:03|3:4]]. AT: "people from different nations and who spoke different languages" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the horns, flutes ... and pipes** - These are musical instruments. Translate this list as you did in [[:en:bible:notes:dan:03:03|3:5]].
-  * **fell down** - Here "fell down" means "quickly lay down"
-  * **prostrated themselves to** - "stretched themselves out on the ground face down in worship of" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **the golden statue that Nebuchadnezzar the king had set up** - That Nebuchadnezzar's men had set up the statue is spoken of as if Nebuchadnezzar had set it up. AT: "the golden statue that King Nebuchadnezzar's men had set up" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
-
+  * **blazing furnace** - This is a large room where people burn things.
+  * **the horns, flutes ... and all kinds of music** - See how you translated this list in [[:en:bible:notes:dan:03:03|3:5]].
+  * **the golden statue that Nebuchadnezzar the king had set up** - King Nebuchadnezzar commanded the statue to be built. AT: "the golden statue that Nebuchadnezzar the king had commanded his men to set up" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -60,6 +55,6 @@
   * [[:en:bible:questions:comprehension:dan:03]]
 **[[:en:bible:notes:dan:03:03|<<]] | [[:en:bible:notes:dan:03:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -18,6 +18,7 @@
 \q2 You will have wise counselors like you had long ago.
 \q1 Then people will call your city a city where people act righteously,
 \q2 a faithful city."
+\b
 
 
 \q1
@@ -27,7 +28,7 @@
 
 <usfm>
 \q1
-\v 26 I will restore your judges as at the first, and your counselors as at the beginning;
+\v 26 I will restore your judges as at the first, and your counselors as at the beginning; 
 \q1 after that you will be called the city of righteousness, a faithful town."
 </usfm>
 
@@ -40,7 +41,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - God continues speaking to the people of Judah and Jerusalem.
 
   * **at the first ... at the beginning** - These are two ways of speaking of the first part or beginning of Israel's history, when Israel first became a nation.
   * **you will be called** - This can be stated in active form. AT: "people will call you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:isa:01]]
 **[[:en:bible:notes:isa:01:24|<<]] | [[:en:bible:notes:isa:01:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass faithful}}
+~~DISCUSSION~~{{tag>publish p2edit faithful}}
 
 ~~NOCACHE~~

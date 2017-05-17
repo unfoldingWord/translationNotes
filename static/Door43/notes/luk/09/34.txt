@@ -25,9 +25,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 34 As he was saying this, a cloud came and overshadowed them, and they were afraid as they entered into the cloud.
-\v 35 A voice came out of the cloud, saying, "This is my Son, the one who is chosen; listen to him."
-\v 36 When the voice had spoken, Jesus was found alone. They kept silent and told no one in those days anything of what they had seen.
+\v 34 Then while he was saying these things, a cloud came and overshadowed them; and they were afraid as they were surrounded by the cloud.
+\v 35 A voice came out of the cloud, saying, "This is my chosen Son. Listen to him."
+\v 36 When the voice had finished, Jesus was alone. They kept silent, and in those days they told no one any of the things which they had seen.
 </usfm>
 
 ===== translationWords: =====
@@ -39,15 +39,15 @@
 
 ===== translationNotes: =====
 
-  * **As he was saying this** - "While Peter was saying these things"
+  * **while he was saying these things** - "while Peter was saying these things"
   * **they were afraid** - These adult disciples were not afraid of clouds. This phrase indicates that some kind of unusual fear came over them with the cloud. AT: "they were terrified" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **they entered into the cloud** - This can be expressed in terms of what the cloud did. AT: "the cloud surrounded them" 
+  * **they were surrounded by the cloud** - This can be stated in active form. AT: "the cloud surrounded them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **A voice came out of the cloud** - It is understood that the voice could only have belonged to God. AT: "God spoke to them from the cloud" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **my chosen Son** - The word "chosen" gives information about God's Son. It is not saying that God has more than one son. AT: "my Son, whom I have chosen" (UDB) or "my Son, the chosen one" (See: [[:en:ta:vol2:translate:figs_distinguish]])
   * **Son** - This is an important title for Jesus, the Son of God. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
-  * **the one who is chosen** - This can be stated with an active form. AT: "the one I have chosen" or "I have chosen him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **They kept silent ... what they had seen** - This is information that tells what happened after the story as a result of the events in the story itself. (See: [[:en:ta:vol2:translate:writing_endofstory]])
+  * **They kept silent, and in those days ... the things which they had seen** - This is information that tells what happened after the story as a result of the events in the story itself. (See: [[:en:ta:vol2:translate:writing_endofstory]])
   * **kept silent ... told no one** - The first phrase refers to their immediate response, and the second refers to what they did in the following days.
-
+  * **those days** - Possible meanings are 1) the days until Jesus was taken up to heaven after the resurrection or 2) the days directly after Jesus made the statement.
 ===== Links: =====
 
   * [[:en:bible:notes:luk:00:intro|Introduction to the Gospel of Luke]]

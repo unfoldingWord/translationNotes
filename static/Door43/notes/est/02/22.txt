@@ -21,7 +21,7 @@
 
 <usfm>
 \v 22 When the matter was revealed to Mordecai, he told Queen Esther, and Esther spoke to the king in the name of Mordecai.
-\v 23 The report was investigated and confirmed, and both the men were hanged from a gallows. This account was written in The Book of The Chronicles in the presence of the king.
+\v 23 The report was investigated and confirmed, and both the men were hanged from a gallows. And the account was written in The Book of The Chronicles in the presence of the king.
 </usfm>
 
 
@@ -34,11 +34,9 @@
 
 ===== translationNotes: =====
 
-  * **When the matter was revealed to Mordecai** - This can be stated in active form. AT: "When Mordecai learned about what they were planning" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **in the name of Mordecai** - This is an idiom. AT: "on behalf of Mordecai" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **The report was investigated and confirmed, and both the men were hanged** - This can be stated in active form. AT: "The king investigated and confirmed the report, and ordered his servants to hang both men" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **a gallows** - This was a structure used for killing people by tying one end of a rope around the top of the structure and the other end of the rope around their necks and hanging them from it. AT: "a frame for hanging people"  (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **This account was written** - This can be stated in active form. AT: "They recorded this account" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+  * **gallows** - a structure from which a person is "hanged" by putting a rope around his neck and suspending his body without any support from below.
+
 
  
 ===== Links: =====
@@ -46,11 +44,14 @@
   * [[:en:bible:notes:est:00:intro]]
   * [[:en:bible:notes:est:02:00]]
   * [[:en:bible:questions:comprehension:est:02]]
+
+ 
+
 **[[:en:bible:notes:est:02:19|<<]] | [[:en:bible:notes:est:03:01|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

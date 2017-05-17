@@ -37,7 +37,7 @@
 
 ===== translationNotes: =====
 
-  * **the pillar of cloud** - The cloud had the shape of a pillar. See how you translated this in [[:en:bible:notes:exo:13:19|13:22]]. AT: "the cloud shaped like a pillar" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the pillar of cloud** - The cloud is spoken of as if it were a pillar because it had the shape of a pillar. AT: "the cloud shaped like a pillar" or "the tall cloud." See how you translated this in [[:en:bible:notes:exo:13:19|13:22]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **would come down** - Where it came down from can be stated clearly. AT: "would come down from the sky" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:exo:33]]
 **[[:en:bible:notes:exo:33:04|<<]] | [[:en:bible:notes:exo:33:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass pillar}}
+~~DISCUSSION~~{{tag>publish p2check pillar}}
 
 ~~NOCACHE~~

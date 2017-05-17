@@ -50,7 +50,7 @@
 \q1
 \v 10 Look, I refined you, but not as silver; I have purified you in the furnace of affliction.
 \q1
-\v 11 For my own sake, for my own sake I will act; for how can I allow my name to be dishonored?
+\v 11 For my own sake, for my own sake I will act; for how can I allow my name to be dishonored? 
 \q1 I will not give my glory to anyone else.
 </usfm>
 
@@ -70,10 +70,10 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **For the sake of my name I will defer my anger** - Here the word "name" refers to Yahweh's reputation. AT: "For the sake of my reputation I will delay my anger" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **For the sake of my name I will defer my anger** - "Name" refers to one's reputation. AT: "For the sake of my reputation I will delay my anger" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **and for my honor I will hold back from destroying you** - This part of the sentence means basically the same thing as the first part. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Look, I refined you, but not as silver; I have purified you in the furnace of affliction** - Yahweh speaks of using affliction to purify his people as if they were precious metals and affliction were a furnace in which he refines them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **for how can I allow my name to be dishonored?** - Yahweh uses a question to emphasize that he can never allow his own name to be dishonored. This can be stated in active form. AT: "for I cannot allow anyone to dishonor my name." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Look, I refined you, but not as silver; I have purified you in the furnace of affliction** - These two phrases mean basically the same thing. Just like people put silver in the hot fire to remove dirt and impurities, Yahweh has purified his people from their sinful behavior by making them suffer much. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **for how can I allow my name to be dishonored?** - Yahweh uses a question to emphasize that he can never allow his own name to be dishonored. AT: "in order that my reputation will not be damaged." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -88,6 +88,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

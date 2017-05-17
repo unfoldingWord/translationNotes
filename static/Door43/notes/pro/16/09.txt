@@ -18,11 +18,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 From deep within a person come the plans he makes,
+\v 9 From deep within a person come the plans he makes, 
 \q2 but Yahweh leads the person in each step he takes.
+\b
 \q1
-\v 10 A king can speak with inspired judgment;
+\v 10 A king can speak with inspired judgment; 
 \q2 and when he makes a ruling, it is good and true.
+\b
 
 
 \q1
@@ -33,10 +35,10 @@
 
 <usfm>
 \q
-\v 9 In his heart a person plans out his way,
+\v 9 In his heart a person plans out his way, 
 \q but Yahweh directs his steps.
 \q
-\v 10 An oracle is on the lips of a king,
+\v 10 An oracle is on the lips of a king, 
 \q in judgment his mouth does not speak deceitfully.
 </usfm>
 
@@ -51,12 +53,10 @@
  
 ===== translationNotes: =====
 
-  * **In his heart a person plans out his way** - Here the word "heart" represents the mind and thoughts. The writer speaks of a person's actions as if the person were walking on a path. AT: "A person plans in his mind what he will do" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Yahweh directs his steps** - The writer speaks of Yahweh determining the outcome of a person's plans as if Yahweh were telling that person where to walk. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **An oracle is on the lips of a king** - Here the word "lips" is a metonym for what the king says. AT: "What a king says is an oracle" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **An oracle** - a decision from God, a divine verdict
-  * **in judgment his mouth does not speak deceitfully** - The word "mouth" represents the king himself. AT: "when he pronounces judgment, he does not speak deceitfully" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **his mouth does not speak deceitfully** - This can be stated in positive terms. AT: "he speaks truthfully" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **An oracle** - a decision from God, a divine verdict.
+  * **on the lips of a king** - "in what a king says" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **does not speak deceitfully** - "speaks truth" (See: [[:en:ta:vol2:translate:figs_litotes]] )
+ 
  
 ===== Links: =====
 
@@ -71,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

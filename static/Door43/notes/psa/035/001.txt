@@ -28,7 +28,7 @@
 \q1
 \v 3 Lift up your spear and throw it at those who pursue me!
 \q2 Promise me that you will enable me to defeat my enemies.
-
+\b
 
 
 \q1
@@ -39,8 +39,9 @@
 
 <usfm>
 \c 35
-\m
+\p
 \d A psalm of David.
+\b
 \q
 \v 1 Yahweh, work against those who work against me;
 \q fight against those who fight against me.
@@ -67,10 +68,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
-  * **Grab your small shield and large shield ... your spear and battle ax** - These phrases describe God as a warrior who is preparing himself for battle. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Grab your small shield and ... your spear and battle ax** - These phrases describe God as a warrior who is preparing himself for battle. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **small shield and large shield** - these are defensive weapons
   * **spear and battle ax** - these are offensive weapons
   * **those who chase me** - Possible meanings are 1) these enemies are literally chasing the writer or 2) this is a metaphor for people who are enemies of the writer. (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -87,6 +88,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book1 ax spear}}
+{{tag>publish p2check book1 ax spear}}
 
 ~~NOCACHE~~

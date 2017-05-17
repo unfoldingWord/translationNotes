@@ -18,7 +18,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 I will be the one who will teach your children
+\v 13 I will be the one who will teach you people
 \q2 and cause things to go well with you.
 \q1
 \v 14 Your government will be strong because it will act justly;
@@ -35,10 +35,10 @@
 
 <usfm>
 \q1
-\v 13 Then all your children will be taught by Yahweh;
+\v 13 And all your children will be taught by Yahweh; 
 \q1 and the peace of your children will be great.
 \q1
-\v 14 In righteousness I will reestablish you.
+\v 14 In righteousness I will reestablish you. 
 \q1 You will no longer experience persecution, for you will not be afraid, and nothing frightening will come near you.
 </usfm>
 
@@ -56,10 +56,8 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Jerusalem.
 
-  * **Then all your children will be taught by Yahweh** - This can be stated in active form. AT: "And Yahweh will teach all your children" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **by Yahweh** - Yahweh speaks of himself in the third person. It can be stated in first person. AT: "by me, Yahweh" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **In righteousness I will reestablish you** - The abstract noun "righteousness" can be stated as the adjective "right." AT: "I will cause you to be strong again because you will do what is right" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **and nothing frightening will come near you** - This means that no one in the city or outsiders will ever terrify the inhabitants of Jerusalem again.
+  * **And all your children will be taught by Yahweh** - "children" refers to the future population of Jerusalem. This can be stated in active form. AT: "And Yahweh will teach all your people" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **and nothing frightening will come near you** - This means that no one in the city or outsiders will ever terrify the inhabitants.
 
 ===== Links: =====
 
@@ -68,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:54]]
 **[[:en:bible:notes:isa:54:11|<<]] | [[:en:bible:notes:isa:54:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

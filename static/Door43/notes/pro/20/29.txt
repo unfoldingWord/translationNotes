@@ -18,6 +18,7 @@
 <usfm>
 \v 29 The honor of young people is seen in how strong they are,
 \q2 but the splendor of old people is in their gray hair.
+\b
 \q1
 \v 30 When we are beaten, the wound that results may cleanse away evil,
 \q2 and beatings make our inmost self clean.
@@ -45,7 +46,9 @@
 
 ===== translationNotes: =====
 
-  * **Blows that make a wound cleanse away evil and beatings make the innermost parts clean** - Both statements mean the same thing and are repeated for emphasis. Using physical punishment to correct a person is spoken of as if the evil were dirt and the beatings cleansed him. AT: "Beating a person who has done wrong will correct him and cause him to be a better person" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Blows that make a wound ... and beatings make** - These two phrases basically mean the same thing and are repeated for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **cleanse away evil** - "make a person less evil"
+  * **make the innermost parts clean** - "make a person better in his innermost parts"
 
 
 ===== Links: =====
@@ -61,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass clean}}
+{{tag>publish p2edit clean}}
 
 ~~NOCACHE~~

@@ -47,10 +47,8 @@
  
 ===== translationNotes: =====
 
-  * **It came about** - This phrase is used to introduce the next event in the storyline. (See: [[:en:ta:vol2:translate:writing_newevent]])
-  * **at the end of four years that Absalom** - This refers to four years after he returned to Jerusalem. AT: "fours years after Absalom had returned to Jerusalem, he" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **and pay a vow that I have made to Yahweh in Hebron** - "to Hebron and there fulfill a vow that I have made to Yahweh" 
-  * **For your servant** - Here Absalom refers to himself this way to honor the king.
+  * **at the end of four years that Absalom** - "fours years after Absalom had returned to Jerusalem, he"
+  * **For your servant** - Here Absalom is referring to himself. (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -65,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

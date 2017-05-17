@@ -29,7 +29,7 @@
 
 <usfm>
 \v 15 Now then, seeing that I have come to speak this thing to my master the king, it is because the people have made me afraid. So your servant said to herself, 'I will now speak to the king. It may be that the king will perform the request of his servant.
-\v 16 For the king will listen to me, in order to hand over his servant out of the hand of the man who would destroy me and my son together, out of the inheritance of God.'
+\v 16 For the king will listen to me, in order to hand over his servant out of the hand of the man who would destroy me and my son together, out of the inheritance of God.' 
 \v 17 Then your servant prayed, 'Yahweh, please let the word of my master the king give me relief, for as an angel of God, so is my master the king in telling good from evil.' May Yahweh your God be with you."
 </usfm>
 
@@ -40,21 +40,12 @@
   * [[:en:obe:other:hand]]
   * [[:en:obe:kt:inherit]]
   * [[:en:obe:other:pray]]
-  * [[:en:obe:kt:word]]
   * [[:en:obe:kt:angel]]
  
 
-
-
 ===== translationNotes: =====
 
-  * **because the people have made me afraid** - The missing words can be added to this phrase. AT: "because the people have made me afraid that I have come" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **your servant** - To show respect for the king the woman refers to herself as "your servant"
-  * **to hand over his servant** - Here the idiom "to hand over" means to deliver out of someone's control. AT: "to deliver his servant" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **out of the hand of the man** - This is an idiom. Here "the hand" refers to the man's control. AT: "out of the control of the man" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **out of the inheritance of God** - This speaks of the land which Yahweh gave to the Israelites as if it were an inheritance that a father leaves his children. AT: "out of the land that God gave us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the word of my master the king** - Here "word" represents the king's message. AT: "what my master the king says" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **for as an angel of God, so is my master ... from evil** - Here David, the king, is compared to an "angel of God." AT: "for the king is like an angel of God because they both know how to tell good from evil" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **for as an angel of God ... evil** - Here David, the king, is compared to an "angel of God." AT: "for the king is like an angel of God because they both know how to tell good from evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -69,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

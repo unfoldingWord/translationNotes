@@ -22,6 +22,7 @@
 \q1
 \v 19 I certainly do not think that you or anyone else will say that what I say is false;
 \q2 if you did so, then I would speak no more, and I would die.
+\b
 
 
 \q1
@@ -37,6 +38,7 @@
 \q
 \v 19 Who is the one who would argue against me in court?
 \q If you came to do so, and if I were proved wrong, then I would be silent and give up my life.
+\b
 </usfm>
 
 
@@ -47,15 +49,14 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues speaking to God.
+  * **General Information:** - Job continues addressing his case directly to God himself.
 
-  * **See now** - This emphasizes what follows. "Listen now" or "Please pay special attention"
-  * **I have set my defense in order** - Setting his defense in order represents deciding what he will say to defend himself. AT: "I have thought through how I will defend myself" or "I have decided how I will explain myself" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Who is the one who would argue against me in court?** - Job uses this question to express his belief that since he is right, no one would argue against him. AT: "I do not believe that anyone will argue against me in court" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **If you came to do so** - "If you came to argue against me"
+  * **See now** - This emphasizes what follows. "Please pay special attention"
+  * **I have set my defense in order** - This expression means "have thought how to explain myself and I am ready to show that I am innocent".
+  * **Who is the one who would argue against me in court?** - Job asks this question because he assumes everyone would know the answer. (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **If you** - "You" here means God himself.
-  * **if I were proved wrong** - This can be stated in active form. AT: "if you were to prove me wrong" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **give up my life** - Giving up one's life is a metaphor for dying.  AT: "die" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **give up my life** - "allow myself to face death"
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -63,6 +64,6 @@
   * [[:en:bible:questions:comprehension:job:13]]
 **[[:en:bible:notes:job:13:16|<<]] | [[:en:bible:notes:job:13:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

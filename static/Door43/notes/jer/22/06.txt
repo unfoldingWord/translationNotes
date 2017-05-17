@@ -21,7 +21,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 And this is what Yahweh says about the house of the king of Judah:
+\v 6 And this is what Yahweh says about the king's palace:
 \q1 "I like this palace, like I like the forests in the region of Gilead
 \q2 and the mountains in Lebanon.
 \q1 But I will cause this palace to become a desert,
@@ -40,7 +40,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 For Yahweh says this concerning the house of the king of Judah,
+\v 6 For Yahweh says this concerning the palace of the king of Judah,
 \q 'You are like Gilead, or like the summit of Lebanon to me. Yet I will turn you into a wilderness,
 \q into cities with no inhabitants.
 \q
@@ -62,12 +62,10 @@
 
 ===== translationNotes: =====
 
-  * **the house of the king of Judah** - Possible meanings are 1) this here refers to the royal palace there the king lived or 2) "house" is a metonym for the family that lives in the house, who were the royal line of the kings of Judah. AT: "the royal dynasty of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **You are like Gilead, or like the summit of Lebanon** - Possible meanings are 1) "You are as beautiful as Gilead or the summit of Lebanon" or 2) "You give me as much pleasure as Gilead or the summit of Lebanon." (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **turn you into a wilderness** - What was formerly beautiful is said to become bare and deserted. AT: "cause you to become empty like the desert or uninhabited cities" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I have designated destroyers to come against you** - "I have chosen an army to attack you"
-  * **the best of your cedars** - Possible meaning are 1) the beams of the palace or 2) the leading men of the royal family. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **fall into the fire** - Possible meanings are 1) a literal fire that will burn the palace beams or 2) the destruction of the royal family is spoken of as if they were burned in a fire. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+  * **palace of the king of Judah** - This could also be translated as "house of the king of Judah" and refers to the family and descendants of the King of Judah. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **You are like Gilead, or like the summit of Lebanon** - Yahweh is describing his good feelings toward the family and descendants of the King of Judah (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **turn you into a wilderness** - AT: "cause your cities to become empty or uninhabited" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
  
 ===== Links: =====
@@ -80,6 +78,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

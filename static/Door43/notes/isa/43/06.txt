@@ -35,7 +35,7 @@
 \v 6 I will say to the north, 'Hand them over;' and to the south, 'Do not hold any back;'
 \q1 Bring my sons from afar, and my daughters from the remote regions of the earth,
 \q1
-\v 7 everyone who is called by my name, whom I have created for my glory,
+\v 7 everyone who is called by my name, whom I have created for my glory, 
 whom I have formed, yes, whom I have made.
 </usfm>
 
@@ -52,9 +52,9 @@ whom I have formed, yes, whom I have made.
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **say to the north ... to the south** - Yahweh speaks to "the north" and "the south" as if commanding the nations in those locations. (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **my sons ... my daughters** - Yahweh speaks of the people who belong to him as if they were his children. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **everyone who is called by my name** - Here to be called by someone's name represents belonging to that person. This can be stated in active form. AT: "everyone whom I have called by my name" or "everyone who belongs to me" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **say to the north ... to the south** - Yahweh speaks to these directions as if commanding the nations in those locations. (See: [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **my sons ... my daughters** - This means all of God's people. (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **everyone who is called by my name** - This means everyone who belongs to God and worships him. This can be stated in active form. AT: "everyone whom I have called by my name" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **whom I have formed, yes, whom I have made** - Both of these mean the same thing and emphasize that it is God who made the people of Israel. (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
@@ -64,6 +64,6 @@ whom I have formed, yes, whom I have made.
   * [[:en:bible:questions:comprehension:isa:43]]
 **[[:en:bible:notes:isa:43:04|<<]] | [[:en:bible:notes:isa:43:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

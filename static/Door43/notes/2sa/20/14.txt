@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 Sheba went through all the tribes of Israel, and arrived at the city that is called Abel of Beth Maacah in the northern part of Israel. All the members of his father Bichri's clan gathered there and went with Sheba into the city.
+\v 14 Sheba went through all the tribes of Israel, and arrived at the city of Abel Beth Maacah in the northern part of Israel. All the members of his father Bichri's clan gathered there and went with Sheba into the city.
 \v 15 The soldiers who were with Joab found out that Sheba had gone there, so they went there and surrounded the city. They built a dirt ramp up against the city wall. They also pounded against the wall to cause it to collapse.
 \v 16 Then a wise woman who was in that town stood on the top of the wall and shouted down, "Listen to me! Tell Joab to come here, because I want to talk to him!"
 </usfm>
@@ -23,7 +23,7 @@
 
 <usfm>
 \p
-\v 14 Sheba passed through all the tribes of Israel to Abel of Beth Maacah, and through all the land of the Berites, who gathered together and also pursued Sheba.
+\v 14 Sheba passed through all the tribes of Israel to Abel, to Beth Maacah, and through all the land of the Berites, who gathered together and also pursued Sheba.
 \v 15 They caught up with him and besieged him in Abel of Beth Maacah. They built up a siege ramp against the city against the wall. All the army who were with Joab battered the wall to knock it down.
 \v 16 Then a wise woman cried out of the city, "Listen, please listen, Joab! Come near me so I may speak with
 you."
@@ -40,13 +40,11 @@ you."
 
 ===== translationNotes: =====
 
-  * **Sheba passed through** - Here "Sheba" refers to both him and his army. AT: "Sheba and his army" or "Sheba and his men" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Abel of Beth Maacah** - "Abel Beth Maacah." Both names refer to the same place and may be combined. It is a city near the tribe of Dan. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **of the Berites** - This is the name of a people group. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **to Abel, to Beth Maacah** - "Abel of Beth Maacha" or "Abel Beth Maacha." Both names refer to the same place. It is a city near the tribe of Dan. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **of the Berites** - This is the name of a people group. It may refer to the descendants of Bichri.
   * **and also pursued Sheba** - "and also followed Sheba"
   * **They caught up with him** - "Joab and the soldiers caught up with him"
   * **against the city against the wall** - "against the city wall"
-  * **battered the wall to knock it down** - This means that they used a battering ram to knock down the wall. A battering ram was a cut tree or large log with a sharpened end or an end covered in metal. It was held by several men who would pound the end against a wall. AT: "used a battering ram to knock down the wall" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **Listen, please listen** - The repetition of "Listen" strengthens the woman's plea.
  
 ===== Links: =====
@@ -62,6 +60,6 @@ you."
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -38,7 +38,7 @@
 
 <usfm>
 \q
-\v 19 Hear—you!—my son, and be wise
+\v 19 Hear, my son, and be wise
 \q and direct your heart in the way.
 \q
 \v 20 Do not associate with drunkards,
@@ -55,15 +55,10 @@
   * [[:en:obe:kt:wise]] 
   * [[:en:obe:other:heart]] 
   * [[:en:obe:other:drunk]]
-
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
-
-  * **Hear—you!—my son** - "Listen carefully, my son." The speaker speaks an extra word to make sure the hearer is paying attention.
-  * **direct your heart in the way** - Deciding to do what is right is spoken of as if one person were showing another person the correct path to follow. AT: "make sure you do what is wise" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **gluttonous eaters of meat** - Possible meanings are 1) "people who eat more meat than they need to" or 2) this is a synecdoche for "people who eat more food than they need to." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **slumber will clothe them with rags** - The word "slumber" is a hyperbole for a person spending too much time enjoying food and drink. This activity is spoken of as if it were a parent putting clothes on a child. AT: "because they spend so much time eating and drinking, they will do no work and so will become poor" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **glutton** - a person who eats more than needed
+  * **slumber will clothe them with rags** - This phrase describes how sleeping too much will cause the drunkard and the glutton to become poor and end up wearing rags. (See: [[:en:ta:vol2:translate:figs_personification]])
  
 ===== Links: =====
 
@@ -78,6 +73,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example drunk}}
+{{tag>publish p2edit drunk}}
 
 ~~NOCACHE~~

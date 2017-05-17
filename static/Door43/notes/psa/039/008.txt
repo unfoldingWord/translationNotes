@@ -16,7 +16,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 Deliver me from the sins that I have committed.
+\v 8 Save me from being punished for all the sins that I have committed.
 \q2 Do not allow foolish people to make fun of me.
 \q1
 \v 9 I did not say anything when you punished me
@@ -31,11 +31,11 @@
 
 <usfm>
 \q
-\v 8 Rescue me from my sins;
-\q do not make me the reproach of fools.
+\v 8 Give me victory over all my sins:
+\q do not make me the object of insults by fools.
 \q
-\v 9 I am silent and cannot open my mouth,
-\q because it is you who has done it.
+\v 9 I am silent and do not open my mouth
+\q because of what you did.
 </usfm>
 
 
@@ -47,10 +47,8 @@
 
 ===== translationNotes: =====
 
-  * **I am silent ... cannot open my mouth** - These phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **because it is you who has done it** - "because my punishment comes from you"
-
-
+  * **I am silent ... do not open my mouth** - These phrases mean the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **because of what you did** - "because my punishment comes from you"
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -61,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book1}}
+{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

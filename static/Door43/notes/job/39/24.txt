@@ -24,6 +24,7 @@
 \v 25 They neigh joyfully when they hear someone blowing the trumpet.
 \q2 They can smell a battle even when they are far away,
 \q2 and they understand what it means when the commanders shout their commands to their soldiers.
+\b
 
 
 \q1
@@ -40,7 +41,7 @@
 \v 25 Whenever the trumpet sounds, he says, 'Aha!'
 \q He smells the battle from far away—
 \q the thunderous shouts of the commanders and the outcries.
-\m
+\b
 </usfm>
 
 
@@ -52,28 +53,29 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues to challenge Job.
 
-  * **He** - The word "He" refers to the horse.
-  * **swallows up ground** - The horse runs over the ground so quickly that the ground passes by like water that a person drinks. AT: "runs very fast over the ground" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **with fierceness and rage** - The horse is very excited, so he moves quickly and strongly.
-  * **at the trumpet's sound** - It can be stated that someone blows the trumpet. AT: "when someone blows a trumpet to announce that a battle has begun" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **he cannot stand in one place** - "he is too excited to stand still" 
-  * **he says, 'Aha** - The word "Aha" is a sound people make when they discover something. The horse makes a sound because he has discovered the battle. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **the thunderous shouts** - It is implied that the horse hears these things. AT: "he hears the thunderous shouts" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the outcries** - "the battle cries." People have special shouts that they use in war to show their great strength and bravery and to scare the enemy.
-
-
+  * **He** - The word "he" refers to the horse.
+  * **swallows up ground** - The horse runs over the ground so quickly that the ground passes by like water that a person drinks. AT: "runs very fast over the ground." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **with fierceness and rage** - "with big and quick movements." The horse is very excited, so he moves quickly and strongly. Because of this, the horse runs very fast.
+  * **at the trumpet's sound** - AT: "when someone blows a trumpet to announce that a battle has begun." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **he cannot stand in one place** - AT: "he always rushes to the battle." (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **he says, 'Aha** - The word "Aha" is a sound people make when they are happy about something. The horse is happy because he enjoys battles. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **the thunderous shouts** - It is implied that the horse hears these things. AT: "he hears the thunderous shouts."
+  * **the outcries** - "the war cries." People have special yells that they use in war to show who they are and their great strength and bravery and to scare the enemy.
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
   * [[:en:bible:notes:job:39:00]]
   * [[:en:bible:questions:comprehension:job:39]]
+
+ 
+
 **[[:en:bible:notes:job:39:21|<<]] | [[:en:bible:notes:job:39:26|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

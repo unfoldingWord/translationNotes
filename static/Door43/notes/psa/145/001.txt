@@ -23,6 +23,7 @@
 \q1
 \v 2 Every day I will praise you;
 \q2 Yes, I will praise you forever.
+\b
 \q1
 \v 3 Yahweh, you are great, and you ought to be praised very much;
 \q2 we cannot fully realize how great you are.
@@ -35,8 +36,9 @@
 
 <usfm>
 \c 145
-\m
+\p
 \d A psalm of praise. Of David.
+\b
 \q
 \v 1 I will extol you, my God, King;
 \q I will bless your name forever and ever.
@@ -62,11 +64,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of praise. Of David** - "This is a psalm of praise that David wrote."
   * **extol you** - "tell people how wonderful you are"
-  * **bless your name** - The word "name" is a metonym for Yahweh himself. See how "may his glorious name be blessed" is translated in [[:en:bible:notes:psa:072:018|72:19]]. AT: "bless you" or "do what makes you happy" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **bless your name** - The word "name" is a metonym for Yahweh himself. AT: "bless you" or "do what makes you happy." See how "may his glorious name be blessed" is translated in [[:en:bible:notes:psa:072:018|72:19]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **praise your name** - The word "name" is a metonym for Yahweh himself. AT: "praise you" or "tell people how great you are" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
@@ -76,6 +78,6 @@
   * [[:en:bible:questions:comprehension:psa:145]]
 **[[:en:bible:notes:psa:144:014|<<]] | [[:en:bible:notes:psa:145:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

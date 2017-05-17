@@ -21,7 +21,7 @@
 
 <usfm>
 \q
-\v 25 The righteous person eats until he satisfies his appetite,
+\v 25 The one who does right eats until he satisfies his appetite, 
 \q but the stomach of the wicked is always hungry.
 </usfm>
 
@@ -33,8 +33,8 @@
 
 ===== translationNotes: =====
 
-  * **he satisfies his appetite** - "he has satisfied himself" or "he fulfills his desires"
-  * **the stomach of the wicked is always hungry** - Here "stomach" represents the desires of a person. AT: "the wicked person is always hungry for more" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **satisfies his appetite** - "is satisfied" or "have satisfied themselves" AT: "fulfill his desires"
+  * **the stomach of the wicked is always hungry** - AT: "the wicked person is always hungry" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
  
 
  
@@ -51,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

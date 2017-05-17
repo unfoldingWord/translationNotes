@@ -37,11 +37,8 @@
  
 ===== translationNotes: =====
 
-  * **So why have you despised ... Yahweh, so as to do what is evil in his sight?** - This rhetorical question is used to rebuke David. This can be written as a statement. AT: "You should not have despised ... Yahweh and should not have done what is evil in his sight!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **so as to do what is evil in his sight** - Yahweh's "sight" refers to what he thinks. Here it is speaking specifically to what he considers evil. AT: "so as to do what he considers to be evil" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **You have killed Uriah the Hittite with the sword** - David did not kill Uriah himself, rather he arranged for him to be killed in battle. The phrase "with the sword" represents how Uriah died in battle. AT: "You have arranged for Uriah the Hittite to die in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **You killed him with the sword of the army of Ammon** - David did not kill Uriah himself, rather he arranged for him to be killed in battle when Israel was fighting against Ammon. The phrase "with the sword" refers to how he died in battle. AT: "You arranged for him to die in battle against the army of Ammon" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the sword will never leave your house** - Here the word "sword" refers to people dying in war. Also, David's "house" refers to his descendants. AT: "some of your descendants will always die in battle" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **You have killed Uriah the Hittite with the sword** - Here "the sword" is a metonym that stands for the soldier who killed Uriah. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the sword will never leave your house** - Here the word "sword" refers to war. AT: "Your house will always have to fight in wars" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -55,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

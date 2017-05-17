@@ -18,11 +18,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 Also, even a youth is known by how what he does,
-\q2 it is clear whether what he does is pure and respectable or not.
+\v 11 Also, even a youth is known by how what he does, 
+\q2 it is clear whether what he does is pure and respectable or not. 
+\b
 \q1
 \v 12 Ears that hear and eyes that see—
-\q2 Yahweh made them both.
+\q2 Yahweh made them both. 
+
 
 \q1
 </usfm>
@@ -33,9 +35,9 @@
 <usfm>
 \q
 \v 11 Even a youth is known by his actions,
-\q by whether his conduct is pure and upright.
+\q by whether his conduct is pure and upright. 
 \q
-\v 12 Ears that hear and eyes that see—
+\v 12 Ears that hear and eyes that see— 
 \q Yahweh made them both.
 </usfm>
 
@@ -48,10 +50,9 @@
 
 ===== translationNotes: =====
 
-  * **Even a youth is known by his actions** - This can be stated in active form. AT: "People know a young man by his actions" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
-  * **whether his conduct is pure and upright** - "whether his conduct is pure and upright or not"
-  * **his conduct** - "his deeds" or "what he does"
-  * **pure and upright** - These two words basically mean the same thing and emphasize how good this young person is. They can be combined into one word if necessary. AT: "pure" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **a youth is known by his actions** - AT: "people know a young man by his actions" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **his conduct** - "his deeds" AT: "what he does"
+  * **pure and upright** - These two words basically mean the same thing and emphasize how good this young person is. (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **Ears that hear and eyes that see** - The same thought is repeated to emphasize that Yahweh made all our senses. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:20]]
 **[[:en:bible:notes:pro:20:09|<<]] | [[:en:bible:notes:pro:20:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

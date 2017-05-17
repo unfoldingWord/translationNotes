@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 5 As for the other matters concerning Baasha, what he did, and his might, are they not written in the book of the events of the kings of Israel?
+\v 5 As for the other matters concerning Baasha, what he did, and his might, are they not written in The Book of the Events of the Kings of Israel?
 \v 6 Baasha slept with his ancestors and was buried in Tirzah, and Elah his son became king in his place.
 </usfm>
 
@@ -36,12 +36,9 @@
 
 ===== translationNotes: =====
 
-  * **are they not written in the book of the events of the kings of Israel?** - This question is used to either inform or remind the readers that the information about Baasha is in this other book. This rhetorical question can be translated as a statement. See how you translated this in [[:en:bible:notes:1ki:15:31|15:31]]. AT: "they are written in the book of the events of the kings of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **are they not written in the book of the events of the kings of Israel?** - This can be stated in active form. AT: "someone has written  about them in the book of the events of the kings of Israel." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Baasha slept with his ancestors** - Sleeping is a euphemism that represents dying. AT: "Baasha died as his ancestors had" or "Like his ancestors, Baasha died"  (See: [[:en:ta:vol1:translate:figs_metaphor]]and [[:en:ta:vol2:translate:figs_euphemism]])
-  * **and was buried** - This can be stated in active form. AT: "and people buried him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Tirzah** - This is the name of a city. See how you translated it in [[:en:bible:notes:1ki:14:17|14:17]].
-  * **became king in his place** - The phrase "in his place" is a metaphor meaning "instead of him." AT: "became king instead of Baasha" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **are they not written in The Book of the Events of the Kings of Israel?** - See how you translated this in [[:en:bible:notes:1ki:15:31|15:31]]. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **slept with his ancestors and was buried** - See how you translated this in [[:en:bible:notes:1ki:14:29|14:31]]. (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -49,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:16]]
 **[[:en:bible:notes:1ki:16:03|<<]] | [[:en:bible:notes:1ki:16:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

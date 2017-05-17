@@ -13,8 +13,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 26 But they disobeyed you and rebelled against you. They turned their backs on your law. They killed the prophets who warned them that they should return to you. They said and did very evil things against you.
-\v 27 So you handed them over to their enemies to defeat them. But when their enemies caused them to suffer, they called out to you. You heard their cry from heaven, and because you are very merciful, you sent them people to help them, and those leaders rescued them from their enemies.
+\v 26 But they disobeyed you and rebelled against you. They turned their backs on your laws. They killed the prophets who warned them that they should return to you. They cursed your name.
+\v 27 So you handed them over to their enemies to defeat them. But when their enemies caused them to suffer, they called out to you. You heard their cry from heaven, and because you are very merciful, you sent whomever could deliver them from their enemies. And they did.
 
 
 \pi
@@ -25,8 +25,8 @@
 
 <usfm>
 \p
-\v 26 Then they became disobedient and they rebelled against you. They threw your law behind their backs. They murdered your prophets who had warned them to turn back to you, and they committed great blasphemies.
-\v 27 So you gave them into the hand of their enemies, who made them suffer. In the time of their suffering, they cried out to you, and you heard them from heaven, and because of your great mercies you sent them rescuers who rescued them out of the hand of their enemies.
+\v 26 Then they became disobedient and they rebelled against you. They threw your law behind their backs. They murdered your prophets who had warned them to turn back to you, and they committed great blasphemies. 
+\v 27 So you gave them into the hand of their enemies, who made them suffer. And in the time of their suffering, they cried out to you and you heard them from heaven and many times you rescued them out of the hand of their enemies, because of your great mercies.
 </usfm>
 
 
@@ -43,12 +43,16 @@
   * [[:en:obe:kt:mercy]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
+  * **General Information:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
 
-  * **They threw your law behind their backs** - The law is spoken of as if it were a worthless item that a person could throw away. AT: "They considered your law worthless and paid no attention to it" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **They threw your law** - The Israelites threw Yahweh's law.
-  * **you gave them into the hand of their enemies, who made them suffer** - Here "hand" represents power or control. AT: "you allowed their enemies to defeat them and cause them to suffer" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **you sent them rescuers who rescued them out of the hand of their enemies** - Here "hand" represents power or control. AT: "you sent people to stop their enemies from harming them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They threw your law behind their backs** - This is a Hebrew idiom meaning "They disregarded your law" or "They paid no attention to your law." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **They threw your law** - The word "They" refers to the Israelites, and "your" refers to Yahweh. 
+  * **you handed them over into** - This is an idiom meaning "placed them under the control of"
+  * **the hand of their enemies** - Here the word "hand" (a part) signifies the "enemies" (as a whole). AT: "their enemies" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **many times you rescued them out of the hand of their enemies, because of your great mercies** - "because of your great mercies, you rescued them from out of the hand of their enemies"
+ 
+
+
 
 
 ===== Links: =====
@@ -56,11 +60,14 @@
   * [[:en:bible:notes:neh:00:intro]]
   * [[:en:bible:notes:neh:09:00]]
   * [[:en:bible:questions:comprehension:neh:09]]
+
+ 
+
 **[[:en:bible:notes:neh:09:25|<<]] | [[:en:bible:notes:neh:09:28|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

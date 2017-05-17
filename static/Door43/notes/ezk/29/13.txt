@@ -18,7 +18,7 @@
 
 <usfm>
 \p
-\v 13 For the Lord Yahweh says this: At the end of forty years I will gather Egypt from the peoples among whom they were scattered.
+\v 13 For the Lord Yahweh says this: At the end of forty years I will gather Egypt from peoples among whom they were scattered.
 \v 14 I will restore the fortunes of Egypt and bring them back to the region of Pathros, to the land of their origin. Then they will be a lowly kingdom there.
 </usfm>
 
@@ -34,11 +34,10 @@
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to Pharaoh.
 
-  * **I will gather Egypt** - Here "Egypt" is a metonym for the people of Egypt, and "gather" is a metaphor for causing them to return to Egypt.  AT: "I will cause the people of Egypt to return to Egypt" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **among whom they were scattered** - This can be translated in active form. AT: "among whom I scattered them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **I will restore the fortunes of Egypt** - The phrase "fortunes of Egypt" is a metaphor for the people of Egypt who had been taken away to other countries. AT: "I will bring back the people of Egypt" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they were scattered** - AT: "I scattered them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **will restore the fortunes of Egypt** - "will give Egypt what it had lost"
   * **the region of Pathros** - the southern part of Egypt between the Delta and the land of Cush. This is also called Upper Egypt. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **a lowly kingdom** - Here "lowly" represents unimportant. AT: "an unimportant kingdom" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:ezk:29]]
 **[[:en:bible:notes:ezk:29:11|<<]] | [[:en:bible:notes:ezk:29:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

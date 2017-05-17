@@ -39,8 +39,8 @@
 
 <usfm>
 \q1
-\v 11 Woe to those who rise up early in the morning to obtain strong drink,
-\q1 those who linger late into the night until wine inflames them.
+\v 11 Woe to those who rise up early in the morning to look for strong drink; 
+\q1 who linger late into the night until wine inflames them!
 \q1
 \v 12 They banquet with harp, lute, tambourine, flute, and wine,
 \q1 but they do not recognize the work of Yahweh, nor have they considered the doings of his hands.
@@ -61,13 +61,9 @@
 
 ===== translationNotes: =====
 
-  * **those who rise up early in the morning ... who linger late into the night** - This refers to people who do nothing all day but drink alcoholic drinks. (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **until wine inflames them** - Here the power of wine to make its drinkers drunk is spoken of as if it were inflaming them, that is, setting them on fire. AT: "until they are drunk with wine" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **harp, lute, tambourine, flute, and wine** - These musical instruments and the wine imply that the people enjoying these things are celebrating very much.
-  * **tambourine** - A musical instrument with a head like a drum that can be beaten with the hand. It probably had pieces of metal around the side that sounded when the player shook it. The tambourine was small enough for the player to hold it and shake it with one hand. (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **considered** - "thought seriously about"
+  * **until wine inflames them** - "until they are drunk with wine"
+  * **tambourine** - a musical instrument with a head like a drum that can be hit and with pieces of metal around the side that sound when the instrument is shaken (See: [[:en:ta:vol1:translate:translate_unknown]])
   * **the doings of his hands** - This can be reworded so that the abstract noun "doings" is expressed as the verb "done" or "created." AT: "what he has done" or "what he has created" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **the doings of his hands** - Here the metonym "hands" represents the person who has done something. AT: "what Yahweh has done" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -78,6 +74,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass banquet strongdrink}}
+{{tag>publish p2edit banquet strongdrink}}
 
 ~~NOCACHE~~

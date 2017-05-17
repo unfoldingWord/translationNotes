@@ -23,7 +23,7 @@
 
 <usfm>
 \p
-\v 14 Malchijah son of Rechab, the ruler of the district of Beth Hakkerem, repaired the Dung Gate. He built it and set its doors, its bolts and its bars.
+\v 14 Malchijah son of Rechab, the ruler of the district of Beth Hakkerem, repaired the Dung Gate. He built it and set its doors, its bolts and its bars. 
 \p
 \v 15 Shallun son of Col Hozeh, the ruler of the district of Mizpah, rebuilt the Fountain Gate. He built it, and put a cover on it and set its doors and its bolts and its bars. He also rebuilt the wall of the Pool of Siloam by the king's garden, as far as the stairs leading down from the city of David.
 </usfm>
@@ -40,15 +40,15 @@
   * [[:en:obe:other:cityofdavid]] 
 ===== translationNotes: =====
 
-  * **Malchijah ... Rechab ... Shallun ... Col Hozeh** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Malchijah son of Rechab, the ruler** - Malchijah was the ruler, not Rechab.
-  * **ruler** - "chief administrator" or "leader"
+  * **Malchijah ... Rechab** - These are names of males. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Beth Hakkerem** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **He ... set its doors** - "He installed its doors" or "He put its doors in place"
-  * **its bolts, and its bars** - "its locks, and its bars." These locked the gates securely. 
-  * **Shallun son of Col Hozeh, the ruler** - Shallun was the ruler, not Col Hozeh.
-  * **the wall of the Pool of Siloam** - This means that the wall was beside the Pool of Siloam. AT: "the wall that surrounded the Pool of Siloam" (See: [[:en:ta:vol2:translate:figs_possession]])
-
+  * **he ... set its doors** - "he installed its doors" or "he put its doors in place"
+  * **its bolts and its bars** - "its locking mechanisms" or "its locks" 
+  * **Shallun ... Col Hozeh** - These are names of males. 
+  * **the district of Mizpah** - Mizpah is a city to the northwest of Jerusalem. 
+  * **the Fountain Gate** - "the gate that leads to the fountain"
+  * **the wall of the Pool of Siloam** - "the wall that surrounded the Pool of Siloam"
+  * **king's garden** - a known location along the wall that, at one time, enclosed the royal garden
 
  
 ===== Links: =====
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass cityofdavid}}
+{{tag>publish p2edit cityofdavid}}
 
 ~~NOCACHE~~

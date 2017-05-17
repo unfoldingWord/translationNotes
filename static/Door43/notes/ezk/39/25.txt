@@ -21,7 +21,7 @@
 <usfm>
 \p
 \v 25 Therefore the Lord Yahweh says this: Now I will restore the fortunes of Jacob, and I will have compassion on all the house of Israel, when I act with zeal for my holy name.
-\v 26 Then they will bear their shame and all the treason in which they betrayed me. They will forget all this when they rest in their land in safety, with no one to terrify them.
+\v 26 Then they will forget their shame and all the treason in which they betrayed me. They will forget all this when they rest in their land in safety, with no one to terrify them.
 \v 27 When I restore them from the peoples and gather them from the lands of their enemies, I will show myself to be holy in the sight of many nations.
 </usfm>
 
@@ -42,14 +42,13 @@
   
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues to give Ezekiel a message about what will happen to Israel.
+  * **General Information:** - Yahweh continues giving Ezekiel his message about the house of Israel.
 
-  * **will restore the fortunes of Jacob** - Translate "will restore their fortunes" as in [[:en:bible:notes:ezk:16:53|16:53]]. However, some modern versions interpret the Hebrew expression here as "will bring Jacob back from captivity." 
-  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate this as in [[:en:bible:notes:ezk:03:01|3:1]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **act with zeal for my holy name** - "make sure that they honor me"
-  * **they will bear their shame and all the treason** - Experts do not agree on the meaning of this phrase. Possible meanings are 1) "they will regret their shame and all the treason" or 2) they will forget their shame and all the treason."
+  * **will restore the fortunes of Jacob** - See how you translated "will restore their fortunes" in [[:en:bible:notes:ezk:16:53|16:53]]. However, some modern versions interpret the Hebrew expression here as "will bring Jacob back from captivity." 
   * **the treason** - "the unfaithfulness"
-  * **I will show myself to be holy in the sight of many nations** - Here "sight" is a metonym for "seeing" and "seeing" is a metonym for understanding. AT: "many nations will understand that I am holy because of what did for the house of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will show myself to be holy in the sight of many nations** - AT: "many nations will understand that I am holy because of what did for the house of Israel." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+
 
 
 ===== Links: =====
@@ -59,6 +58,6 @@
   * [[:en:bible:questions:comprehension:ezk:39]]
 **[[:en:bible:notes:ezk:39:23|<<]] | [[:en:bible:notes:ezk:39:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check lordyahweh}}
+~~DISCUSSION~~{{tag>publish p2edit lordyahweh}}
 
 ~~NOCACHE~~

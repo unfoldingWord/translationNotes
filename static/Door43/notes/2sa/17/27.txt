@@ -25,7 +25,7 @@
 \p
 \v 27 It came about when David had come to Mahanaim, that Shobi son of Nahash from Rabbah of the Ammonites, and Machir son of Ammiel from Lo Debar, and Barzillai the Gileadite from Rogelim,
 \v 28 brought sleeping mats and blankets, bowls and pots, and wheat, barley flour, roasted grain, beans, lentils,
-\v 29 honey, butter, sheep, and milk curds, so that David and the people with him could eat. These men had said, "The people are hungry, weary, and thirsty in the wilderness."
+\v 29 honey, butter, sheep, and milk curds. So David and the people with him could eat. These men had said, "The people are hungry, weary, and thirsty in the wilderness."
 </usfm>
 
 
@@ -42,9 +42,8 @@
  
 ===== translationNotes: =====
 
-  * **It came about** - This phrase is used to introduce the next event in the storyline. (See: [[:en:ta:vol2:translate:writing_newevent]])
-  * **Mahanaim ... Rabbah ... Lo Debar ... Rogelim** - These are the names of cities or places. (See: [[:en:ta:vol1:translate:translate_names]]) 
   * **Shobi ... Nahash ... Machir ... Ammiel ... Barzillai** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Mahanaim ... Rabbah ... Lo Debar ... Rogelim** - These are the names of cities or places. (See: [[:en:ta:vol1:translate:translate_names]]) 
   * **Ammonites ... Gileadite** - These are the names of people groups. (See: [[:en:ta:vol1:translate:translate_names]])
   * **sleeping mats and blankets** - A mat is something soft to sleep on, and a blanket is a cloth covering for warmth.
   * **flour** - Flour is crushed grain made into powder and used to make bread.
@@ -67,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

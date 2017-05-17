@@ -27,10 +27,11 @@
 \q1
 \v 19 "You Israelite people, your glorious leaders have been killed on the mountains!
 \q2 It is very sad that these mighty men have died!
+\b
 \q1
-\v 20 Do not tell it to our enemies in the region of Philistia.
-\q1 Do not tell the people who live in the city of Gath.
-\q2 Do not proclaim it in the streets of the city of Ashkelon, or their women would celebrate.
+\v 20 Do not tell it to our enemies in the region of Philistia. 
+\q1 Do not tell the people who live in the city of Gath. 
+\q2 Do not proclaim it in the streets of the city of Ashkelon, or their women would celebrate. 
 \q2 Do not allow those pagan women to rejoice.
 
 
@@ -50,11 +51,11 @@
 \q How the mighty have fallen!
 \q
 \v 20 Do not tell it in Gath,
-\q do not proclaim it
+\q do not proclaim it 
 \q2 in the streets of Ashkelon,
-\q so that the daughters of the
+\q so that the daughters of the 
 \q2 Philistines may not rejoice,
-\q so that the daughters of the
+\q so that the daughters of the 
 \q2 uncircumcised may not celebrate.
 </usfm>
 
@@ -82,8 +83,8 @@
   * **General Information:** - David sings a song of mourning for Saul and Jonathan.
 
   * **Song of the Bow** - This was the title of the song.
-  * **which has been written in The Book of Jashar** - This is background information added to tell the reader what happened to the song in the future. (See: [[:en:ta:vol2:translate:writing_background]])
   * **The Book of Jashar** - The word "Jashar" means "upright." AT: "The Book of the Upright" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **which has been written in The Book of Jashar** - This is background information added to tell the reader what happened to the song in the future. (See: [[:en:ta:vol2:translate:writing_background]])
   * **Your glory, Israel, is dead** - "Your glory" refers to Saul. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **the mighty** - The phrase "the mighty" refers to both Saul and Jonathan. This nominal adjective is plural, and can be stated as "the mighty ones."  (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_nominaladj]]) 
   * **have fallen** - The word "fallen" here means "died" (UDB). (See: [[:en:ta:vol2:translate:figs_euphemism]])
@@ -97,6 +98,6 @@
   * [[:en:bible:questions:comprehension:2sa:01]]
 **[[:en:bible:notes:2sa:01:14|<<]] | [[:en:bible:notes:2sa:01:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass uncircumcised}}
+~~DISCUSSION~~{{tag>publish p2check uncircumcised}}
 
 ~~NOCACHE~~

@@ -27,9 +27,9 @@
 
 <usfm>
 \p
-\v 3 "I am a Jew, born in Tarsus of Cilicia, but educated in this city at the feet of Gamaliel. I was instructed according to the strict ways of the law of our fathers. I am zealous for God, just as all of you are today.
-\v 4 I persecuted this Way to the death, binding up and deliver to prison both men and women,
-\v 5 as the high priest and all the elders can bear witness. I received letters from them for the brothers in Damascus, and went there to bring them back in bonds to Jerusalem in order for them to be punished.
+\v 3 "I am a Jew, born in Tarsus of Cilicia, but educated in this city at the feet of Gamaliel. I was instructed according to the strict ways of the law of our forefathers. I am zealous for God, just as all of you are today.
+\v 4 I persecuted this Way to the death; I tied up both men and women and delivered them into prison.
+\v 5 Also the high priest and all the elders can bear witness that I received letters from them for the brothers in Damascus, for me to journey there. I was to bring back in bonds to Jerusalem those of this Way in order to be punished.
 </usfm>
 
 
@@ -60,8 +60,8 @@
   * **but educated in this city at the feet of Gamaliel** - This can be stated in active form. AT: "but I was a student of rabbi Gamaliel here in Jerusalem" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **at the feet of Gamaliel** - Here "feet" stands for the place where a student would sit while learning from a teacher. AT: "by Gamaliel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Gamaliel** - Gamaliel was one of the most prominent teachers of the Jewish law. See how you translated this name in [[:en:bible:notes:act:05:33|5:34]].
-  * **I was instructed according to the strict ways of the law of our fathers** - This can be stated in active form. AT: "He instructed me how to carefully obey every law of our forefathers" or "The instruction I received followed the exact details of the law of our forefathers" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **law of our fathers** - "law of our ancestors." This refers to the law that God gave to the people of Israel through Moses.
+  * **I was instructed according to the strict ways of the law of our forefathers** - This can be stated in active form. AT: "He instructed me how to carefully obey every law of our forefathers" or "The instruction I received followed the exact details of the law of our forefathers" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **law of our forefathers** - This is another way of saying "law of Moses."
   * **I am zealous for God** - "I am completely dedicated to obeying God" or "I am passionate about my service to God"
   * **just as all of you are today** - "in the same way all of you are today." Paul compares himself with the crowd.  
   * **this Way** - This was a term used to refer to Christianity. See how you translated "the Way" in [[:en:bible:notes:act:09:01|9:2]].
@@ -70,8 +70,9 @@
   * **bear witness that** - "tell how," "attest that," or "testify that"
   * **I received letters from them** - "The high priests and elders gave me letters"
   * **for the brothers in Damascus** - Here "brothers" refers to "fellow Jews."
-  * **to bring them back in bonds to Jerusalem** - "They ordered me to bind with chains those of the Way and bring them back to Jerusalem"
-  * **in order for them to be punished** - This can be stated in active form. AT: "in order that they may receive punishment" or "in order that the Jewish authorities could punish them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I was to bring back in bonds to Jerusalem those of this Way** - "They ordered me to bind with chains those of the Way and bring them back to Jerusalem"
+  * **in order to be punished** - This can be stated in active form. AT: "in order that they may receive punishment" or "in order that the Jewish authorities could punish them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]

@@ -32,12 +32,12 @@
 
 <usfm>
 \c 40
-\m
+\p
 \q1
 \v 1 "Comfort, comfort my people," says your God.
 \q1
 \v 2 "Speak tenderly to Jerusalem; and proclaim to her
-\q1 that her warfare has ended, that her iniquity is pardoned,
+\q1 that her warfare has ended, that her iniquity is pardoned, 
 \q1 that she has received double from Yahweh's hand for all her sins."
 </usfm>
 
@@ -58,13 +58,10 @@
 ===== translationNotes: =====
 
   * **Comfort, comfort** - The word "comfort" is repeated for emphasis. 
-  * **says your God** - Here "your" is plural and refers to those whom the prophet tells to comfort God's people. (See: [[:en:ta:vol1:translate:figs_youdual]])
-  * **Speak tenderly to Jerusalem** - The prophet speaks of Jerusalem as if it were a woman whom Yahweh has forgiven. As such, Jerusalem represents the people who live in that city. AT: Speak tenderly to the people of Jerusalem" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **proclaim to her ... her warfare ... her iniquity ... she has received ... her sins** - These pronouns refer to Jerusalem but may be changed if "the people of Jerusalem" is adopted as a translation. AT: "proclaim to them ... their warfare ... their iniquity ... they have received ... their sins" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **her warfare** - Possible meanings are that the word "warfare" refers 1) to military battle or 2) to forced labor.
-  * **her iniquity is pardoned** - This can be stated in active form. AT: "Yahweh has pardoned her iniquity" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **from Yahweh's hand** - Here the word "hand" represents Yahweh himself. AT: "from Yahweh" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
+  * **says your God** - Here "your" is plural and refers to God's people. (See: [[:en:ta:vol1:translate:figs_youdual]])
+  * **to her that her warfare ... her iniquity ... she has** - Here "her" and "she" refers to the people of Jerusalem.
+  * **her warfare** - "their forced labor" or "their struggles"
+  * **from Yahweh's hand** - "Hand" refers to Yahweh's care. AT: "from me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -72,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:40]]
 **[[:en:bible:notes:isa:39:07|<<]] | [[:en:bible:notes:isa:40:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass pardon}}
+~~DISCUSSION~~{{tag>publish p2edit pardon}}
 
 ~~NOCACHE~~

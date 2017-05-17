@@ -36,12 +36,12 @@
 
 <usfm>
 \q1
-\v 3 Therefore Pharaoh's protection will be your shame,
+\v 3 Therefore Pharaoh's protection will be your shame, 
 \q1 and the refuge in Egypt's shade, your humiliation,
 \q1
 \v 4 although their princes are at Zoan, and their messengers have come to Hanes.
 \q1
-\v 5 They will all be ashamed because of a people who cannot help them,
+\v 5 They will all be ashamed because of a people who cannot help them, 
 \q1 who are neither help nor aid, but a shame, and even a disgrace."
 </usfm>
 
@@ -59,12 +59,9 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Judah.
 
-  * **Therefore Pharaoh's protection will be your shame, and the refuge in Egypt's shade, your humiliation** - This can be reworded so that the abstract nouns "protection," "shame," and "humiliation" are expressed as adjectives or verbs. AT: "Therefore you will be ashamed because you relied on Pharaoh to protect you; you will be humiliated because you relied on the Egyptians to keep you safe" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **the refuge in Egypt's shade** - Egypt's protection from enemy armies is spoken of as if it were a shadow that protects someone from the burning heat of the sun. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **their princes** - Here "princes" mean an official or ambassador, not necessarily sons of the king.
+  * **Therefore Pharaoh's protection will be your shame, and the refuge in Egypt's shade, your humiliation** - This can be reworded so that the abstract nouns "protection," "shame," "humiliation" are expressed as verbs. These two clauses mean the same thing and are used for emphasis. AT: "Therefore you will be ashamed because you relied on Pharaoh to protect you; you will be humiliated because you took refuge in Egypt's shade" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_parallelism]])
   * **their ... They ... them** - These words refer to the people of Judah.
   * **Zoan ... Hanes** - These were cities in the northern part of Egypt. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **have come to Hanes** - Here "come" can be stated as "gone." (See: [[:en:ta:vol2:translate:figs_go]])
   * **because of a people** - "because of the people of Egypt"
 ===== Links: =====
 
@@ -73,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:30:01|<<]] | [[:en:bible:notes:isa:30:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

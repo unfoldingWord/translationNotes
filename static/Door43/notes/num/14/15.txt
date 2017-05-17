@@ -22,7 +22,7 @@
 
 <usfm>
 \v 15 Now if you kill this people as one man, then the nations that have heard of your fame will speak and say,
-\v 16 'Because Yahweh could not take this people into the land that he swore to give them,
+\v 16 'Because Yahweh could not take this people into the land that he swore to give them, 
 he has killed them in the wilderness.'
 </usfm>
 
@@ -33,7 +33,7 @@ he has killed them in the wilderness.'
 
 ===== translationNotes: =====
 
-  * **as one man** - Killing them all at the same time is spoken of as killing them as one person. AT: "all at one time" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **as one person** - Killing them all at the same time is spoken of as killing them as one person. AT: "all at one time" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -42,6 +42,6 @@ he has killed them in the wilderness.'
   * [[:en:bible:questions:comprehension:num:14]]
 **[[:en:bible:notes:num:14:13|<<]] | [[:en:bible:notes:num:14:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

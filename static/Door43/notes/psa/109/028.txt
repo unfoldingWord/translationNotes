@@ -17,12 +17,12 @@
 
 <usfm>
 \v 28 They may curse me, but I ask that you bless me.
-\q2 Cause those who persecute me to be defeated and disgraced,
+\q2 Cause those who persecute me to be defeated and disgraced, 
 \q1 but cause me to be glad!
 \q1
 \v 29 Cause those who accuse me to be completely disgraced;
 \q2 cause other people to see that they are disgraced as easily as they see the clothes that they wear!
-
+\b
 
 
 \q1
@@ -66,6 +66,6 @@
   * [[:en:bible:questions:comprehension:psa:109]]
 **[[:en:bible:notes:psa:109:026|<<]] | [[:en:bible:notes:psa:109:030|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5 curse}}
+~~DISCUSSION~~{{tag>publish p2check book5 curse}}
 
 ~~NOCACHE~~

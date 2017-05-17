@@ -33,10 +33,10 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 26 Your rowers have brought you into vast seas;
-\q the eastern wind has broken you in the middle of them.
-\q
+\q the eastern wind has broken you in the middle of them. 
 \v 27 Your wealth, merchandise, and trade goods; your mariners, sailors, and ship builders; your traders of merchandise and all the men of war who are in you, and all your crew—they will fall into the depths of the sea on the day of your destruction.
 </usfm>
 
@@ -44,18 +44,10 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues giving Ezekiel his message to Tyre.
-  * **General Information:** - The words "you" and "your" in these verses refer to Tyre.
-  * **General Information:** - The city of Tyre is described here and in the following verses as if it were a wrecked ship. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **General Information:** - Yahweh continues giving Ezekiel his message to Tyre.
 
-  * **Your rowers** - "The people that row you"
-  * **vast seas** - "great waters"
-  * **the eastern wind** - "the strong wind from the east"
-  * **middle of them** - "heart of the seas" or "middle of the seas." See how you translated this in [[:en:bible:notes:ezk:27:04|27:4]].
-  * **mariners** - "seamen" or "pilots"
-  * **crew** - team of workers
-  * **depths of the sea** - "heart of the seas" or "middle of the seas." See how you translated this in [[:en:bible:notes:ezk:27:04|27:4]].
-  * **on the day of your destruction** - The abstract noun "destruction" can be translated using the verb "destroy." AT: "at the time you are destroyed" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Your rowers have brought you into vast seas** - "The people that row you have brought you out far into the sea"
+  * **in the middle of them** - "in the middle of the seas"
  
 ===== Links: =====
 
@@ -64,6 +56,6 @@
   * [[:en:bible:questions:comprehension:ezk:27]]
 **[[:en:bible:notes:ezk:27:24|<<]] | [[:en:bible:notes:ezk:27:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

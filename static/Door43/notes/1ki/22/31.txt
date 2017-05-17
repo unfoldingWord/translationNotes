@@ -37,8 +37,8 @@
 
 ===== translationNotes: =====
 
-  * **thirty-two captains** - "32 captains" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **Do not attack unimportant or important soldiers** - By mentioning both "unimportant" and "important soldiers," the king meant all soldiers. AT: "Do not attack any of the soldiers" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **thirty-two captains** - AT: "32 captains" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Do not attack unimportant or important soldiers** - AT: "Do not attack any of the soldiers" (See: [[:en:ta:vol2:translate:figs_merism]])
   * **It came about that** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
 
 ===== Links: =====
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1ki:22]]
 **[[:en:bible:notes:1ki:22:29|<<]] | [[:en:bible:notes:1ki:22:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

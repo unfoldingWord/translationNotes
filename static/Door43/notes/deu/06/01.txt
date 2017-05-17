@@ -41,11 +41,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Moses continues the speech to the people of Israel he began in [[:en:bible:notes:deu:05:01|5:1]]. Beginning in verse 2, he speaks to the people of Israel as if they were one person. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **General Information:** - Moses continues the speech to the people of Israel he begin in [[:en:bible:notes:deu:05:01|5:1]]. Beginning in verse 2, he speaks to the people of Israel as if they were one person. (See: [[:en:ta:vol1:translate:figs_you]])
 
   * **might keep ... to keep** - "might obey ... to obey"
   * **going over the Jordan** - "going to the other side of the Jordan River"
-  * **that your days may be prolonged** - Long days are a metaphor for a long life. This can be stated in active form. This can be translated similarly to "prolong your days" in [[:en:bible:notes:deu:04:25|4:26]]. AT: "that I may prolong your days" or "that I may cause you to live a long time" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **that your days may be prolonged** - Long days are a metaphor for a long life. This can be stated in active form. AT: "that I may prolong your days" or "that I may cause you to live a long time" This can be translated similarly to "prolong your days" in [[:en:bible:notes:deu:04:25|4:26]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:deu:00:intro]]
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:deu:06]]
 **[[:en:bible:notes:deu:05:32|<<]] | [[:en:bible:notes:deu:06:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

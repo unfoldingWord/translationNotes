@@ -11,8 +11,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 Birds of the sky settled on the fallen tree, and wild animals lived among its branches.
-\v 14 As a result, no other tree, even if the tree has plenty of water, will ever grow to such great height, or lift its top above the branches higher than other trees. They will all certainly die and decay; they will go to the place of the dead; they will go to the grave.'"
+\v 13 Birds settled on the fallen tree, and wild animals lived among its branches. This is what other nations were like when they depended on Assyria.
+\v 14 As a result, no other tree—no other nation, even if the tree has plenty of water, will ever grow very high and become proud, or lift its top above the branches of other trees. Other nations will not become as strong as that nation did; nations will all certainly die and decay, as people die and go down to their graves.'"
 
 
 \p
@@ -22,10 +22,10 @@
 
 <usfm>
 \q
-\v 13 All the birds of the sky rested on the trunk of the fallen tree,
-\q and every animal of the field came to its branches.
+\v 13 All the birds of the heavens rested on its trunk 
+\q and all the beasts of the field sat on its branches.
 \p
-\v 14 This happened so that no other trees that grow by the waters will lift up their foliage to the height of the tallest trees, and that no other trees that grow beside the waters will reach up to that height. All of them have been assigned to death, to the earth below, among the children of humanity, with those that go down to the pit.
+\v 14 This happened so that none of the other watered trees would ever grow that tall, so that they would not raise their tree tops above the foliage, for no other tree that drank up water would ever again grow that tall. For they were all given over to death down to the lowest part of the earth, in the midst of the people of mankind who go down to the pit.
 </usfm>
 
 ===== translationWords: =====
@@ -38,16 +38,16 @@
 
   * **General Information:** - Yahweh's parable about the cedar continues.
 
-  * **All the birds of the sky** - "All the birds that fly in the sky"
-  * **rested on the trunk of the fallen tree** - "rested on the remains of the cedar"
+  * **All the birds of the heavens** - "All the birds that fly in the sky"
+  * **rested on its trunk** - This can be translated as "lived on the remains of the cedar" or "lived on the dead wood from the cedar that was laying on the ground"
   * **trunk** - The trunk is a very thick part of the tree that comes out of the ground and holds up the rest of the tree. 
-  * **every animal of the field came to its branches** - "the wild animals lived in the branches of the cedar"
-  * **that no other trees that grow by the waters** - "that no other trees that get a lot of water"
-  * **will lift up their foliage to the height of the tallest trees** - "will grow taller than the branches of other trees." Some Bibles translate this as "will set their tops among the clouds."
-  * **that no other trees that grow beside the waters will reach up to that height** - "that no other trees that get a lot of water will ever grow that tall again"
-  * **All of them have been assigned to death, to the earth below** - This can be stated in active form. And the abstract noun "death" can be stated "die." AT: "For I made it so that they all will die and go deep under the ground" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **among the children of humanity, with those that go down to the pit** - "to be with those people who have died and gone down to the grave"
-  * **the pit** - This refers to the grave; because the grave was thought to be the entrance to the world of the dead, the pit also represents that world. See how you translated this in [[:en:bible:notes:ezk:26:19|26:20]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the beasts of the field sat on its branches** - "the wild animals lived in the branches of the cedar"
+  * **watered trees** - "trees that get a lot of water"
+  * **would not raise their tree tops above the foliage** - Possible meanings are 1) "would not grow taller than the branches of other trees" or 2) "would not put their tops in the clouds."
+  * **for no other tree that drank up water would ever again grow that tall** - "and no other trees that get a lot of water will ever grow that tall again"
+  * **For they were all given over to death** - "For I gave them all over to death" or "For I made it so that they all will die." Yahweh is speaking. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **down to the lowest part of the earth** - "and I made it so that they all will go deep under the ground." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **in the midst of the people of mankind who go down to the pit** - "to be with those people who have died and gone down to the grave"
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:ezk:31]]
 **[[:en:bible:notes:ezk:31:12|<<]] | [[:en:bible:notes:ezk:31:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

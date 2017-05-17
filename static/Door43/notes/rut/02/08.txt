@@ -21,7 +21,7 @@
 <usfm>
 \p
 \v 8 Then Boaz said to Ruth, "Are you listening to me, my daughter? Do not go and glean in another field; do not leave my field. Instead, stay here and work with my young female workers.
-\v 9 Keep your eyes only on the field where the men are reaping and follow behind the other women. Have I not instructed the men not to touch you? Whenever you are thirsty, you may go to the waterpots and drink the water that the men have drawn."
+\v 9 Keep your eyes only on the field where the men are reaping and follow behind the other women. Have I not instructed the men not to touch you? And when you are thirsty, you may go to the waterpots and drink the water that the men have drawn."
 </usfm>
 
 ===== translationWords: =====
@@ -33,10 +33,10 @@
 
 ===== translationNotes: =====
 
-  * **Are you listening to me, my daughter** - This can be reworded as a command. AT: "Listen to me, my daughter!" or "Note well what I am telling you, my daughter!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Are you listening to me** - This can be reworded as a command. AT: "Listen to me" or "Note well what I am telling you" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **my daughter** - This was a kind way of addressing a younger woman. Ruth was not the actual daughter of Boaz, so make sure the translation of this does not make it sound like she was. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Keep your eyes only on the field** - The eyes represent watching something or paying attention to something. AT: "Watch only the field" or "Pay attention only to the field" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Have I not instructed the men ... you?** - Boaz used this question to emphasize what he had already done to help Ruth. AT: "I have given the men strict instructions ... you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Keep your eyes only on the field** - The eyes represent watching something or paying attention to something. AT: "Watch the field" or "Pay attention to the field" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Have I not instructed the men ... you?** - Boaz  used this question to emphasize what he had already done to help Ruth. AT: "I have given the men strict instructions ... you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **men ... the other women** - "young male workers ... young female workers." The word "men" is used three times to refer to the young men who are harvesting in the field. Some languages can say this using one word, and they have a different word that means young women workers.
   * **not to touch you** - Possible meanings are 1) the men were not to harm Ruth or 2) the men were not to stop her from gleaning in his field.
   * **the water that the men have drawn** - To draw water means to pull up water from a well or to take it out of a storage vessel.
@@ -47,4 +47,4 @@
   * [[:en:bible:questions:comprehension:rut:02]]
 **[[:en:bible:notes:rut:02:05|<<]] | [[:en:bible:notes:rut:02:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}

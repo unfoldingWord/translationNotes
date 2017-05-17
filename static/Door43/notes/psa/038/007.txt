@@ -17,10 +17,11 @@
 <usfm>
 \v 7 My body is burning with fever,
 \q2 and I am very ill.
+
 \q1
 \v 8 I am completely exhausted, and I have no strength.
 \q2 I am very distressed in my inner being, and I groan with pain.
-
+\b
 
 
 \q1
@@ -55,6 +56,6 @@
   * [[:en:bible:questions:comprehension:psa:038]]
 **[[:en:bible:notes:psa:038:005|<<]] | [[:en:bible:notes:psa:038:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

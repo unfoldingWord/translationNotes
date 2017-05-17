@@ -41,11 +41,12 @@
 ===== translationNotes: =====
 
   * **General Information:** - Moses speaks to the Israelites as if they were one man, so the words "you" and "your" here are singular. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **General Information:** - These phrases appeared earlier in the chapter. See how you translated many of these words in [[:en:bible:notes:deu:28:03|28:3-4]] and [[:en:bible:notes:deu:28:05|28:5-6]].
+  * **General Information:** - See how you translated many of these words in [[:en:bible:notes:deu:28:03|28:3-4]] and [[:en:bible:notes:deu:28:05|28:5-6]].
 
   * **Cursed will you be** - This can be stated in active form. AT: "Yahweh will curse you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **in the city ... in the field** - This merism means that Yahweh will bless them everywhere. Translate this as in [[:en:bible:notes:deu:28:03|28:3]]. (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **your basket and your kneading trough** - The Israelites used a basket to carry grain. A "kneading trough" was a bowl they used to mix the grain and make bread. Translate as you did in [[:en:bible:notes:deu:28:05|28:5]]. AT: "all the food you grow and all the food you eat" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in the city ... in the field** - This merism means that Yahweh will bless them everywhere. Translate as in [[:en:bible:notes:deu:28:03|28:3]] (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **your basket and your kneading trough** - Israelites used a basket to carry grain. A kneading trough was a bowl they used to xmix the grain and make bread. AT: "all the food you grow and all the food you eat" Translate as you did in [[:en:bible:notes:deu:28:05|28:5]] (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:deu:00:intro]]
@@ -53,6 +54,6 @@
   * [[:en:bible:questions:comprehension:deu:28]]
 **[[:en:bible:notes:deu:28:15|<<]] | [[:en:bible:notes:deu:28:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

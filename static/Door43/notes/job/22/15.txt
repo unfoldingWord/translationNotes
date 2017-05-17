@@ -58,13 +58,12 @@
  
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Eliphaz continues speaking to Job.
+  * **General Information:** - Eliphaz continues speaking to Job.
 
-  * **Will you keep the old way that wicked men have walked** - Here doing wicked deeds is spoken of as walking in a path. AT: "Will you continue to do the things that evil people do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **those who were snatched away** - Here dying is spoken of as if God snatched them away. This can be stated in active form. AT: "those who died" or "those whom God took away" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **those whose foundations have washed away like a river** - The death of the wicked people is spoken of as if they were buildings that had their foundations washed away by a flood. (See: [[:en:ta:vol1:translate:figs_simile]]) 
-  * **What can the Almighty do to us?** - Eliphaz quotes question the wicked people use to mock God. AT: "The Almighty cannot do anything to us!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **Will you keep the old way that wicked men have walked** - AT: "Will you continue to do the things that evil people do"
+  * **those who were snatched away** - AT: "those who died" or "those whom God took away" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **those whose foundations have washed away like a river** - This means the wicked people thought they were safe and secure but God destroyed them. (See: [[:en:ta:vol1:translate:figs_simile]]) 
+  * **What can the Almighty do to us?** - Eliphaz quotes the wicked people who use this question to mock God. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -73,6 +72,6 @@
   * [[:en:bible:questions:comprehension:job:22]]
 **[[:en:bible:notes:job:22:12|<<]] | [[:en:bible:notes:job:22:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

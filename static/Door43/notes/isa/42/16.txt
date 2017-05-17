@@ -38,7 +38,7 @@
 <usfm>
 \q1
 \v 16 I will bring the blind by a way that they do not know; in paths that they do not know I will lead them.
-\q1 I will turn the darkness into light before them, and make the crooked places straight.
+\q1 I will turn the darkness into light before them, and make the crooked places straight. 
 \q1 These things I will do, and I will not abandon them.
 </usfm>
 
@@ -51,11 +51,6 @@
 ===== translationNotes: =====
 
   * **General Information:** - Yahweh continues speaking.
-
-  * **I will bring the blind by a way that they do not know; in paths that they do not know I will lead them** - These two phrases mean basically the same thing. AT: "I will lead the blind in paths that they do not know" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **the blind** - Yahweh speaks of his people being helpless as if they could not see because they were blind. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **that they do not know** - Possible meanings are 1) "that they have never traveled" or 2) "with which they are unfamiliar."
-  * **I will turn the darkness into light before them** - Yahweh speaks of his people being helpless as if they could not see because they walked in darkness, and of his helping them as if he caused light to shine in the darkness. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
  
 ===== Links: =====
@@ -71,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

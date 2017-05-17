@@ -13,10 +13,10 @@
 
 <usfm>
 \v 1-2 This is the good news concerning Jesus the Messiah, the Son of God. Isaiah the prophet mentioned this good news when he wrote:
-\q "Listen! I am sending my messenger ahead of you.
+\q "Listen! I am sending my messenger ahead of you. 
 \q He will prepare the people to welcome you.
 \q
-\v 3 He will call out to anyone who hears him in the wilderness,
+\v 3 He will call out to anyone who hears him in the wilderness, 
 \q 'Make yourselves ready to welcome the Lord.'"
 
 
@@ -28,13 +28,13 @@
 <usfm>
 \c 1
 \p
-\v 1 This is the beginning of the gospel of Jesus Christ, the Son of God.
+\v 1 This is the beginning of the gospel of Jesus Christ, the Son of God. 
 \p
-\v 2 As it is written in Isaiah the prophet,
-\q "Look, I am sending my messenger before your face,
+\v 2 As it is written in Isaiah the prophet, 
+\q "Look, I am sending my messenger before your face, 
 \q the one who will prepare your way.
 \q
-\v 3 The voice of one calling out in the wilderness,
+\v 3 The voice of someone calling out in the wilderness, 
 \q 'Make ready the way of the Lord;
 \q make his paths straight.'"
 \m
@@ -53,18 +53,17 @@
   * [[:en:obe:kt:lordgod]]
   * [[:en:obe:kt:face]]
 ===== translationNotes: =====
-
-  * **General Information:** - The book of Mark begins with the prophet Isaiah's foretelling the coming of John the Baptist who baptizes Jesus. 
+ 
+  * **Connecting Statement:** - The book of Mark begins with the prophet Isaiah's foretelling the coming of John the Baptist who baptizes Jesus. 
   * **General Information:** - The author is Mark, also called John Mark, who is the son of one of the several women named Mary mentioned in the four Gospels. He is also the nephew of Barnabas. 
 
   * **Son of God** - This is an important title for Jesus. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
-  * **before your face** - This is an idiom that means "ahead of you." (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **your face ... your way** - Here the word "your" refers to Jesus and is singular. When you translate this, use the pronoun "your" because this is a quote from a prophet, and he did not use Jesus' name. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **before you** - In the original language, this means "before your face." This is an idiom that means "ahead of you." (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **you ... your way** - Here the words "you" and "your" refer to Jesus and is singular. When you translate this, use the pronoun "you" or "your" because this is a quote from a prophet, and he did not use Jesus' name. (See: [[:en:ta:vol1:translate:figs_you]])
   * **the one** - This refers to the messenger.
-  * **will prepare your way** - Doing this represents preparing the people for the Lord's arrival. AT: "will prepare the people for your arrival"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The voice of one calling out in the wilderness** - This can be expressed as a sentence. AT: "The voice of one calling out in the wilderness is heard" or "They hear the sound of someone calling out in the wilderness" 
-  * **Make ready the way of the Lord ... make his paths straight** - These two phrases mean the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Make ready the way of the Lord** - "Get the road ready for the Lord." Doing this represents being prepared to hear the Lord's message when he comes. People do this by repenting of their sins. AT: "Prepare to hear the Lord's message when he comes" or "Repent and be ready for the Lord to come" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **prepare your way** - This metaphor means to make preparations physically and in their attitude for the Lord's coming to them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The voice of someone** - This is a metonym for the messenger. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Make ready the way of the Lord; make his paths straight** - This speaks about making physical and attitudinal preparations for the Lord coming to them just like one would fix up a road for an important official to travel on. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
 ===== Links: =====
 
   * [[:en:bible:notes:mrk:00:intro]]

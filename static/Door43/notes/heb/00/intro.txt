@@ -17,7 +17,7 @@ In the Book of Hebrews, the author wanted to show that Jesus fulfilled several O
 
 === How should the title of this book be translated? === 
 
-Translators may choose to call this book by its traditional title, "Hebrews." Or they may choose a clearer title, such as "The Letter to the Hebrews," or "A Letter to the Jewish Christians." (See: [[:en:ta:vol1:translate:translate_names]])
+Translators may choose to call this book by its traditional title, "Hebrews." Or they may choose a clearer title, such as "The Letter to the Hebrews," or "A Letter to the Jewish Christians." (See: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
 === Who wrote the Book of Hebrews? ===
 
@@ -27,7 +27,7 @@ No one knows who wrote Hebrews, but scholars have made suggestions such as the A
 
 === Can readers understand this book without knowing about the sacrifices and the work of the priests required in the Old Testament? ===
 
-It would be very difficult for readers to understand this book without understanding these matters. Translators might consider giving some explanations to this effect in notes or in an introduction to this book.
+It would be very difficult for readers to understand this book with understanding these matters. Translators might consider giving some explanations to this effect in notes or in an introduction to this book.
 
 === How is the idea of blood used in the Book of Hebrews? ===
 
@@ -51,10 +51,11 @@ The following are the most significant textual issues in the Book of Hebrews:
 
   * "and you have put him over the works of your hands." (2:7) The ULB, UDB, and most modern versions do not have this reading. Some older versions do.
   * "those who did not unite in faith with those who obeyed" (4:2). The ULB, UDB, and some other versions have this reading. Other versions read, "those who heard it without joining faith to it." If there are other versions in the region, translators might consider following their reading.
+
   * "Christ came as a high priest of the good things that have come." (9:11) The ULB, UDB, and most other modern versions have this reading. Some other versions have, "Christ came as a high priest of the good things that are to come." If there are other versions in the region, translators might consider following their reading.
   * "on those who were prisoners" (10:34). The ULB, UDB, and most other modern versions have this reading. Some older versions read, "of me in my chains."
   * "They were stoned. They were sawn in two. They were killed with the sword." (11:37) The ULB, UDB, and most other modern versions have this reading. Some older versions have, "They were stoned. They were sawn in two. They were tempted. They were killed with the sword."
-  * "If even an animal touches the mountain, it must be stoned." (12:20) The ULB, UDB, and most other modern versions have this reading. Some older versions have, "If even an animal touches the mountain, it must be stoned or shot with an arrow."
+  * ""If even an animal touches the mountain, it must be stoned." (12:20) The ULB, UDB, and most other modern versions have this reading. Some older versions have, "If even an animal touches the mountain, it must be stoned or shot with an arrow."
 
 (See: [[:en:ta:vol2:translate:translate_textvariants]])
 
@@ -62,4 +63,4 @@ The following are the most significant textual issues in the Book of Hebrews:
 
 ~~NOCACHE~~
 
-{{tag>publish p2pass CHTeam p2pr}}
+{{tag>publish p2pass CHTeam}}

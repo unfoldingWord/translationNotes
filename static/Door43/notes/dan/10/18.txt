@@ -22,8 +22,8 @@
 
 <usfm>
 \p
-\v 18 Again the one with an appearance of a man touched me and strengthened me.
-\v 19 He said, "Do not be afraid, man greatly treasured. May peace be to you! Be strong now, be strong!" While he was speaking to me, I was strengthened. I said, "Let my master speak, for you have strengthened me."
+\v 18 The one with an appearance like a human being touched me and strengthened me.
+\v 19 He said, "Man greatly loved, do not be afraid. Peace be with you. Be strong now; be strong!" When he spoke to me, I was strengthened and said, "Let my master speak, for you have strengthened me."
 </usfm>
 
 ===== translationWords: =====
@@ -35,12 +35,9 @@
 
 ===== translationNotes: =====
 
-  * **the one with an appearance of a man** - "the one who looked like a human"
-  * **Be strong now, be strong** - The words "be strong" are repeated for emphasis.
-  * **man greatly treasured** - This can also be stated in active form. AT: "you whom God greatly treasures" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **I was strengthened** - This can also be stated in active form. AT: "I became strong" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
-
+  * **The one with an appearance like a human being** - AT: The one who looked like a human"
+  * **Be strong now; be strong** - The words "be strong" are repeated for emphasis.
+  * **I was strengthened** - AT: "I became strong"
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -48,6 +45,6 @@
   * [[:en:bible:questions:comprehension:dan:10]]
 **[[:en:bible:notes:dan:10:16|<<]] | [[:en:bible:notes:dan:10:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

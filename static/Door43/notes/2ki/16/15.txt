@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 Then King Ahaz ordered Uriah: "Each morning put on this new altar the sacrifices that the priests will burn completely, and in the evening put on it the flour offering, along with my offering and the offerings that the people bring, ones that they will burn completely, and my flour offering and the people's grain and wine offerings. Pour against the sides of the altar the blood of all the animals that are sacrificed. But the old bronze altar will be only for me to use for divination."
+\v 15 Then King Ahaz ordered Uriah: "Each morning put on this new altar the sacrifices that the priests will burn completely, and in the evening put on it the flour offering, along with my offering and the offerings that the people bring, ones that they will burn completely, and my flour offering and the people's grain and wine offerings. Pour against the sides of the altar the blood of all the animals that are sacrificed. But the old bronze altar will be only for me to use to ask Yahweh for help."
 \v 16 So Uriah did what the king commanded him to do.
 
 
@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 Then King Ahaz commanded Uriah the priest, saying, "On the large altar burn the morning burnt offering and the evening grain offering, and the king's burnt offering and his grain offering, with the burnt offering of all the people of the land, and their grain offering and their drink offerings. Sprinkle on it all the blood of the burnt offering, and all the blood of the sacrifice. But the bronze altar will be for me to consult for guidance."
+\v 15 Then King Ahaz commanded Uriah the priest, saying, "On the large altar burn the morning burnt offering and the evening grain offering, and the king's burnt offering and his grain offering, with the burnt offering of all the people of the land, and their grain offering and their drink offerings. Sprinkle on it all the blood of the burnt offering, and all the blood of the sacrifice. But the bronze altar will be for me to ask for God's help."
 \v 16 Uriah the priest did just what King Ahaz commanded.
 </usfm>
 
@@ -32,11 +32,10 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:command]]
-
+  * [[:en:obe:kt:god]]
 ===== translationNotes: =====
 
-  * **the large altar** - This refers to the new altar that Ahaz told Uriah to build.
-  * **the king's burnt offering and his grain offering** - When Ahaz said "the king" and "his," he was referring to himself. The king treated his offerings as special. AT: "my burnt offering and my grain offering"  or "the royal burnt offering and royal grain offering" (See: [[:en:ta:vol2:translate:figs_123person]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -50,6 +49,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

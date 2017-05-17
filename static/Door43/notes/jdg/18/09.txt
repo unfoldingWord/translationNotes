@@ -22,7 +22,7 @@
 
 <usfm>
 \v 9 They said, "Come! Let us attack them! We have seen the land and it is very good. Are you doing nothing? Do not be slow to attack and conquer the land.
-\v 10 When you go, you will come to a people who think they are secure, and the land is wide! God has given it to you—a place that does not lack anything in the land."
+\v 10 When you go, you will come to a people who think they are secure, and the land is wide! God has given it to you—a place that does not lack anything on earth."
 </usfm>
 
 ===== translationWords: =====
@@ -33,11 +33,11 @@
 
 ===== translationNotes: =====
 
-  * **Are you doing nothing?** - This rhetorical question is asked sarcastically and means that they should be doing the opposite. This question can be written as a statement. AT: "You should be acting now!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **Do not be slow to attack** - These two negative words "not" and "slow" together emphasize the positive idea to attack quickly. AT: "Hurry! Attack" (See: [[:en:ta:vol2:translate:figs_doublenegatives]]) 
+  * **Are you doing nothing?** - This rhetorical question is asked sarcastically and means that they should be doing the opposite. This question can be written as a statement. AT: "You should be acting now!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_litotes]]) 
+  * **Do not be slow to attack** - These two negative words "not" and "slow" together emphasize the positive idea to attack quickly. AT: "Hurry! Attack" (See: [[:en:ta:vol2:translate:figs_litotes]]) 
   * **the land is wide** - "the land is large." This is a description of the size of the land.
-  * **that does not lack anything in the land** - The men use a hyperbole, an exaggeration, to emphasize that it is a very desirable place to live. AT: "where we will have everything there that we need" (See: [[:en:ta:vol2:translate:figs_hyperbole]])   
-  * **that does not lack anything** - The two negative words together emphasize a positive idea. AT: "has everything" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **that does not lack anything on earth** - The men use a hyperbole, an exaggeration, to emphasize that it is a very desirable place to live. AT: "We will have everything there that we need" (See: [[:en:ta:vol2:translate:figs_hyperbole]])   
+  * **not lack** - These two negative words together emphasize a positive idea. AT: "has everything" (See: [[:en:ta:vol2:translate:figs_litotes]])
 
 ===== Links: =====
 
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:jdg:18]]
 **[[:en:bible:notes:jdg:18:07|<<]] | [[:en:bible:notes:jdg:18:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

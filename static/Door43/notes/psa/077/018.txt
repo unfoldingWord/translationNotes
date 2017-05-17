@@ -26,6 +26,7 @@
 \v 19 Then you walked through the sea
 \q2 in a path that you made through the deep water,
 \q2 but your footprints could not be seen.
+\b
 \q1
 \v 20 You led your people as a shepherd leads his flock of sheep
 \q2 while Moses and Aaron were the leaders of your people.
@@ -60,14 +61,11 @@
 
 ===== translationNotes: =====
 
-  * **thunderous voice** - This is personification, referring to the thunder as the voice of God. AT: "voice, which was as loud as thunder" or "very loud voice" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **lightning lit up the world** - The lightning seemed to light up the whole world. AT: "lightning lit up everything as far as you could see" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **Your path ... your way** - These two phrases have similar meanings and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **your footprints** - Asaph is speaking of Yahweh as if Yahweh was a person with feet. While this is personification, it should be translated literally, if possible. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **your footprints were not seen** - This can be stated in active form. AT: "no one saw your footprints" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **You led your people like a flock** - This simile compares God's people to a flock of animals. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **by the hand of** - The phrase "by the hand of" here means "by the action of" or "through the action of."
-  * **hand** - Here "hand" is synechdoche for the whole person. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **thunderous voice** - "voice, which was as loud as thunder" or "very loud"
+  * **lightning lit up the world** - "lightning lit up everything all around" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **Your path ... your way ... your footprints** - Asaph is speaking of Yahweh as if Yahweh were a person with feet. While this is personification, it should be translated literally if possible. [[:en:ta:vol2:translate:figs_personification]]
+  * **your footprints were not seen** - This can be stated in active form. AT: "no one saw your footprints"
+  * **by the hand of** - "by the work of"
 
 ===== Links: =====
 
@@ -76,6 +74,6 @@
   * [[:en:bible:questions:comprehension:psa:077]]
 **[[:en:bible:notes:psa:077:016|<<]] | [[:en:bible:notes:psa:078:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

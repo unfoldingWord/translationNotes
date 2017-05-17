@@ -30,7 +30,7 @@
 \q2 It was not any of those gods who brought you out of Egypt;
 \q1 I am the one who did it!
 \q2 So request what you want me to do for you, and I will do it.
-
+\b
 
 
 \q1
@@ -77,6 +77,6 @@
   * [[:en:bible:questions:comprehension:psa:081]]
 **[[:en:bible:notes:psa:081:006|<<]] | [[:en:bible:notes:psa:081:011|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3 falsegod}}
+~~DISCUSSION~~{{tag>publish p2check book3 falsegod}}
 
 ~~NOCACHE~~

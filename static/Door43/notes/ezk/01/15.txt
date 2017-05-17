@@ -19,7 +19,7 @@
 <usfm>
 \p
 \v 15 Then I looked at the living creatures; there was one wheel on the ground beside the living creatures.
-\v 16 This was the appearance and structure of the wheels: each wheel was like beryl, and the four had the same likeness; their appearance and structure was like a wheel intersecting another wheel.
+\v 16 This was the appearance and structure of the wheels: each wheel was like beryl, and the four were all the same; they looked like a wheel intersecting another wheel.
 </usfm>
 
 ===== translationWords: =====
@@ -29,14 +29,13 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Ezekiel continues to tell about his vision.
+  * **General Information:** - Ezekiel continues to tell about his vision
 
   * **there was one wheel on the ground beside the living creatures** - "there was one wheel on the ground by each one of the living creatures, one wheel for each direction the creatures faced"
   * **This was the appearance and structure of the wheels** - "This is what the wheels looked like and how they were made"
-  * **like beryl** - Beryl is a kind of clear, valuable stone, often of yellow or golden color. "clear and yellow like a beryl stone" or "clear and yellow like a precious stone"
-  * **the four had the same likeness** - The abstract noun "likeness" can be translated as an adjective. AT: "all four of the wheels looked the same" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **their appearance and structure was like a wheel intersecting another wheel** - The abstract noun "appearance" can be translated as a verb. "they appeared to be made with one wheel going through another wheel" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-
+  * **like beryl** - Beryl is a kind of clear, valuable stone, often of yellow or golden color. "clear and yellow like a beryl stone" or "clear and yellow like a precious stone."
+  * **the four were all the same** - "all four of the wheels looked the same"
+  * **they looked like a wheel intersecting another wheel** - "they were made with one wheel going through another wheel" 
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -44,6 +43,6 @@
   * [[:en:bible:questions:comprehension:ezk:01]]
 **[[:en:bible:notes:ezk:01:13|<<]] | [[:en:bible:notes:ezk:01:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

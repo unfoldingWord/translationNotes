@@ -26,8 +26,8 @@
 \v 6 Shemaiah, Joiarib, Jedaiah,
 \li1
 \v 7 Sallu, Amok, Hilkiah, and Jedaiah.
-\m All those men were leaders of the priests and their associates during the time that Jeshua was the leader of all the priests.
- 
+\m All those men were leaders of the priests during the time that Jeshua was the leader of all the priests.
+
 
 \p
 </usfm>
@@ -36,8 +36,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 There were Iddo, Ginnethon, Abijah,
-\v 5 Mijamin, Moadiah, Bilgah,
+\v 4 There were Iddo, Ginnethoi, Abijah,
+\v 5 Mijamin, Maadiah, Bilgah,
 \v 6 Shemaiah, and Joiarib, Jedaiah,
 \v 7 Sallu, Amok, Hilkiah, and Jedaiah. These were the leaders of the priests and their associates in the days of Jeshua.
 </usfm>
@@ -46,27 +46,24 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:priest]]
-
-
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - The list that began in [[:en:bible:notes:neh:12:01|12:1]] continues.
-
-  * **There were** - These words have been added for this translation. If you continue the list that began in [[:en:bible:notes:neh:12:01|12:1]], you can omit these words.
-  * **Iddo ... Ginnethon ... Abijah ... Mijamin ... Moadiah ... Bilgah ... Shemaiah ... Joiarib ... Jedaiah ... Sallu ... Amok ... Hilkiah ... Jedaiah ... Jeshua.** - These are all names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Ginnethon** - Ginnethoi may be another form of the name "Ginnethon".
-
-
+  * **Iddo ... Ginnethoi ... Abijah ... Mijamin ... Maadiah ... Bilgah ... Shemaiah ... Joiarib ... Jedaiah ... Sallu ... Amok ... Hilkiah ... Jedaiah ... Jeshua.** - These are all male names (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ginnethon** - Ginnethoi may be another form of the name Ginnethon"
+  * **Maadiah** - Moadiah may be another form of the name Maadiah.
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
   * [[:en:bible:notes:neh:12:00]]
   * [[:en:bible:questions:comprehension:neh:12]]
+
+ 
+
 **[[:en:bible:notes:neh:12:01|<<]] | [[:en:bible:notes:neh:12:08|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 8 So we passed by our brothers, the descendants of Esau who live in Seir, away from the Arabah road, from Elath and from Ezion Geber. Then we turned and passed by the way of the wilderness of Moab.
+\v 8 So we passed by our brothers, the descendants of Esau, who live in Seir, away from the Arabah road, from Elath and from Ezion Geber. And we turned and passed by the way of the wilderness of Moab.
 </usfm>
 
 
@@ -41,7 +41,7 @@
 
   * **by our brothers** - "by our relatives"
   * **Elath ... Ezion Geber** - These are names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **we turned** - This is an idiom. AT: "we kept going" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **we turned** - "we kept going" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -56,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

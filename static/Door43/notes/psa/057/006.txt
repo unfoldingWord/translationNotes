@@ -20,7 +20,7 @@
 \q1 It is as if they have dug a deep pit along the path where I walk,
 \q2 but they themselves fell into it!
 
-
+\b
 
 
 \q1
@@ -31,9 +31,9 @@
 <usfm>
 \q
 \v 6 They spread out a net for my feet;
-\q I was distressed.
+\q I was distressed. 
 \q They dug a pit in front of me.
-\q They themselves have fallen into the middle of it!
+\q They themselves have fallen into the middle of it! 
 \qs Selah\qs*
 </usfm>
 
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:psa:057]]
 **[[:en:bible:notes:psa:057:004|<<]] | [[:en:bible:notes:psa:057:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

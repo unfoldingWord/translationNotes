@@ -19,7 +19,7 @@
 <usfm>
 \c 24
 \p
-\v 1  The word of Yahweh came to me in the ninth year, on the tenth month, and on the tenth day of the month:
+\v 1  The word of Yahweh came to me in the ninth year, on the tenth month, and on the tenth day of the month: 
 \v 2 "Son of man, write for yourself the name of this day, this exact day, for this exact day the king of Babylon has besieged Jerusalem.
 </usfm>
 
@@ -39,11 +39,10 @@
 
   * **General Information:** - Yahweh speaks to Ezekiel.
 
-  * **The word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **in the ninth year** - "in the 9th year." This refers how long they had been in exile under King Jehoiachin. AT: "in the ninth year of the exile of King Jehoiachin" (See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **the tenth month, and on the tenth day of the month** - "the tenth day of the tenth month" or "the 10th day of the 10th month." This is the tenth month of the Hebrew calendar. The tenth day is near the beginning of January on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **Son of man** - "Son of a human being" or "Son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. AT: "Mortal person" or "Human"
-  * **the king of Babylon has besieged** - The army of Babylon is referred to by its leader. AT: "the army of the king of Babylon" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **The word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **in the ninth year** - AT: "in the ninth year of the exile of King Jehoiachin" (See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **the tenth month, and on the tenth day of the month** - "the tenth day of the tenth month." This is the tenth month of the Hebrew calendar. The tenth day is near the beginning of January on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the king of Babylon has besieged Jerusalem** - The army of Babylon is referred to by its leader. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 
 ===== Links: =====
@@ -53,6 +52,6 @@
   * [[:en:bible:questions:comprehension:ezk:24]]
 **[[:en:bible:notes:ezk:23:48|<<]] | [[:en:bible:notes:ezk:24:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

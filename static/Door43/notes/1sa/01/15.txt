@@ -24,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 Hannah answered, "No, my master, I am a woman of a sorrowful spirit. I have drunk neither wine nor strong drink, but I have been pouring out my soul before Yahweh.
-\v 16 Do not consider your servant to be a shameless woman; I have been speaking out of the abundance of my great concern and provocation."
+\v 15 Hannah answered, "No, my master, I am a woman of a sorrowful spirit. I have drunk neither wine nor strong drink, but I have been pouring out my soul before Yahweh."
+\v 16 "Do not consider your servant to be a shameless woman; I have been speaking out of the abundance of my great concern and provocation."
 </usfm>
 
 
@@ -42,7 +42,7 @@
 
   * **I am a woman of a sorrowful spirit** - "I am a woman who is deeply sad" 
   * **pouring out my soul before Yahweh** - This is an idiom that means "telling Yahweh my deepest emotions." (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Do not consider your servant to be** - Hannah speaks of herself in the second person to show her humility. It can be stated in first person. AT: "Do not consider me, your servant, to be" or "Do not consider me" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **your servant** - Hannah speaks of herself as if she were someone else to show her humility. (See: [[:en:ta:vol2:translate:figs_pronouns]])
   * **I have been speaking out of the abundance of my great concern and provocation** - This is another way of saying that she has a "sorrowful spirit," as in 1:15. The abstract nouns "abundance," "concern," and "provocation" can be translated as adjectives and verbs. AT: "I have been speaking because I am very sad, and my rival has greatly provoked me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **concern and provocation** - These words both mean that Hannah is sad and annoyed because her rival has been provoking her. (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **concern** - Peninnah irritates and annoys her.
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1sa:01]]
 **[[:en:bible:notes:1sa:01:12|<<]] | [[:en:bible:notes:1sa:01:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

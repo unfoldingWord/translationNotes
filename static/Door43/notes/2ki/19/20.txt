@@ -22,9 +22,9 @@
 <usfm>
 \v 20 Then Isaiah sent this message to Hezekiah to tell him what Yahweh, the God to whom the Israelites belonged, said in response: "I have heard what you prayed to me about Sennacherib, the king of Assyria.
 \v 21 This is what I say to that king:
-\q The people of Jerusalem
+\q The people of Jerusalem 
 \q2 despise you and make fun of you.
-\q They wag their heads
+\q They wag their heads 
 \q2 to mock you.
 \q
 \v 22 Who do you think that you were despising and ridiculing?
@@ -42,15 +42,15 @@
 <usfm>
 \p
 \v 20 Then Isaiah son of Amoz sent a message to Hezekiah, saying, "Yahweh, the God of Israel says, 'Because you have prayed to me concerning Sennacherib king of Assyria, I have heard you.
-\v 21 This is the word that Yahweh has spoken about him:
-\q "The virgin daughter of Zion
-\q2 despises you and laughs you to scorn.
-\q The daughter of Jerusalem
+\v 21 This is the word that Yahweh has spoken about him: 
+\q "The virgin daughter of Zion 
+\q2 despises you and laughs you to scorn. 
+\q The daughter of Jerusalem 
 \q2 shakes her head at you.
-\q
-\v 22 Whom have you defied and insulted?
-\q2 Against whom have you exalted your voice
-\q and lifted up your eyes in pride?
+\q 
+\v 22 Whom have you defied and insulted? 
+\q2 And against whom have you exalted your voice 
+\q and lifted up your eyes in pride? 
 \q2 Against the Holy One of Israel!
 </usfm>
 
@@ -69,15 +69,13 @@
   * [[:en:obe:other:voice]]
   * [[:en:obe:other:proud]]
   * [[:en:obe:kt:holyone]]
-
 ===== translationNotes: =====
 
-  * **The virgin daughter of Zion** - "Virgin daughter" is a metaphor for the people of Jerusalem as if they are young, vibrant and beautiful. The term "daughter" was used to give personal characteristics to cities by some biblical writers. AT: "The beautiful people of Jerusalem" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
+
+  * **The virgin daughter of Zion** - AT: "The people of Jerusalem" The term "daughter" was used to give personal characteristics to cities by some biblical writers. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **The virgin daughter of Zion despises you and laughs you to scorn. The daughter of Jerusalem shakes her head at you.** - Both of these sentences intend to give the same meaning. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **The daughter of Jerusalem** - "Daughter" is metaphor for the people of Jerusalem. AT: "The people of the city of Jerusalem" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **shakes her head at you** - This action is a metaphor to represent disdain at the pride of the Assyrians. AT: "scorns you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Whom have you defied and insulted? Against whom have you exalted your voice and lifted up your eyes in pride? Against the Holy One of Israel!** - Yahweh uses rhetorical questions to rebuke Sennacherib. AT: "You have defied and insulted me! You have exalted your voice and lifted up your eyes in pride against me, the Holy One of Israel!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **lifted up your eyes in pride** - "lifted up your eyes in pride" is metonymy for a haughty or arrogant facial expression. AT: "looked at very proudly" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The daughter of Jerusalem** - AT: "The people of the city of Jerusalem" 
+  * **lifted up your eyes in pride** - "looked at very proudly" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **the Holy One of Israel** - An expression for the God of Israel, Yahweh.
 
 ===== Links: =====
@@ -90,6 +88,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass holyone}}
+{{tag>publish p2edit holyone}}
 
 ~~NOCACHE~~

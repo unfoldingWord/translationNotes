@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 Then he took a royal descendant, made a covenant with him, and brought him under an oath. He took away the powerful people of the land,
+\v 13 Then he took a royal descendant, made a covenant with him, and brought him under an oath. And he took away the powerful people of the land,
 \v 14 so the kingdom might become lowly and not lift itself up. By keeping his covenant the land will survive.
 </usfm>
 
@@ -33,9 +33,6 @@
 
 ===== translationNotes: =====
 
-  * **brought him under an oath** - "made him swear an oath"
-  * **so the kingdom might become lowly and not lift itself up** - The kingdom being small and weak is spoken of as if it were lowly and being large and powerful as if it lifted itself up. AT: "so the kingdom might remain small and not become great" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the land will survive** - Here the word "land" represents the kingdom of Judah and the people in it. AT: "the kingdom will continue to exist" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -44,6 +41,6 @@
   * [[:en:bible:questions:comprehension:ezk:17]]
 **[[:en:bible:notes:ezk:17:11|<<]] | [[:en:bible:notes:ezk:17:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check lowly}}
+~~DISCUSSION~~{{tag>publish p2edit lowly}}
 
 ~~NOCACHE~~

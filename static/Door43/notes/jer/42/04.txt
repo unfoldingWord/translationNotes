@@ -47,12 +47,11 @@
 ===== translationNotes: =====
 
 
-  * **Look** - "Pay attention to what I am about to tell you"
-  * **I will keep nothing back from you** - This can be stated in positive form. AT: "I will tell you everything the Lord tells me" 
-  * **May Yahweh be** - This is a way of beginning an oath. AT: "We ask Yahweh to be" or "Yahweh will be"
-  * **true and faithful** - These words share similar meanings in this context. They describe Yahweh as a witness whom no one will be able to contradict. AT: "trustworthy" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **Whether it is good or if it is bad** - The people mention both extremes to emphasize that they will obey no matter what Yahweh's answer is. AT: "Whatever he answers" (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **the voice of Yahweh our God** - Here "voice" represents what Yahweh says. AT: "what Yahweh our God says" or "we will obey Yahweh our God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Look** - AT: "Pay attention to what I am about to tell you"
+  * **I will keep nothing back from you** - AT: "I will tell you everything the Lord tells me" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **true and faithful** - These words share similar meanings in this context. They describe Yahweh as a witness whom no one will be able to contradict. AT: "trustworthy." (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **Whether it is good or if it is bad** - The people mention both extremes to emphasize that they will obey no matter what Yahweh's answer is. AT: "Whatever he answers." (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **the voice of Yahweh our God** - Yahweh is referred to by what he uses to respond to their question. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
  
 ===== Links: =====
@@ -68,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

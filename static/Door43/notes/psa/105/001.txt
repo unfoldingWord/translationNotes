@@ -37,7 +37,7 @@
 
 <usfm>
 \c 105
-\m
+\p
 \q
 \v 1 Give thanks to Yahweh, call on his name;
 \q make known his deeds among the nations.
@@ -67,9 +67,7 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
-
-  * **call on his name ... Boast in his holy name** - Here "name" represents Yahweh. AT: "call on him ... Boast in Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **call on his name ... in his holy name** - Here "name" represents Yahweh. AT: "call on him ... boast in Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **the nations** - This refers to the people in the nations. AT: "the people of the nations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **let the heart of those who seek Yahweh rejoice** - Here "the heart" represents the person who seeks Yahweh. AT: "let the people who seek Yahweh rejoice" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
@@ -86,6 +84,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book4}}
+{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

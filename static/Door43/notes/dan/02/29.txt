@@ -14,7 +14,8 @@
 
 <usfm>
 \v 29 O king, while you were sleeping, you dreamed about events that will happen in the future. The one who reveals mysteries has shown you what is going to happen.
-\v 30 It is not because I am wiser than anyone else on earth that I know the meaning of this mysterious dream. It is because God wanted you to understand your deep thoughts hidden in the vision he gave you.
+\v 30 It is not because I am wiser than anyone else on earth that I know the meaning of this mysterious dream. It is because God wanted you to understand your deep thoughts hidden in the vision he gave you. 
+
 
 \p
 </usfm>
@@ -40,8 +41,7 @@
 
   * **General Information:** - Daniel continues talking to the king.
 
-  * **the one who reveals mysteries** - This phrase refers to God. AT: "God, who reveals mysteries" or "God, who makes mysteries known" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **this mystery was not revealed to me** - This can be stated in active form. AT: "God did not reveal this mystery to me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the one who reveals mysteries** - This phrase refers to God. AT: "God, who reveals mysteries" or "God, who makes mysteries known"
   * **This mystery was revealed to me so that you** - This can be stated in active form. AT: "He revealed the mystery to me so that you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **know the thoughts deep within you** - This phrase is using the word "you" referring to the person's mind. AT: "know the thoughts deep inside your mind" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
@@ -55,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -28,10 +28,11 @@
 
 <usfm>
 \q1
-\v 29 "For you will be ashamed of the sacred oak trees that you desired,
-\q1 and you will be embarrassed by the gardens that you have chosen.
-\q1
-\v 30 For you will be like an oak whose leaf fades,
+\v 29 "For you will be ashamed of the sacred oak trees that you desired, 
+\q1 and you will be embarrassed by the gardens that you have
+chosen.
+\q1 
+\v 30 For you will be like an oak whose leaf fades, 
 \q1 and like a garden that has no water.
 </usfm>
 
@@ -43,12 +44,11 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah speaks Yahweh's words to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Isaiah 1:29-31 is spoken to the people of Judah and Jerusalem. It is probably God speaking.
 
   * **the sacred oak trees ... gardens** - These phrases refer to places where the people of Judah worshiped idols.
-  * **you will be embarrassed by** - Some versions read, "you will blush because of." A person blushes when his face turns hot and red, often because he feels that he has done something wrong.
-  * **For you will be like an oak whose leaf fades, and like a garden that has no water** - Water gives life to trees and gardens. The people have cut themselves off from Yahweh, who gives them life. (See: [[:en:ta:vol1:translate:figs_simile]])
-
+  * **embarrassed by** - "disgraced because of"
+  * **For you will be like an oak whose leaf fades, and like a garden that has no water** - The people who were worshiping false gods were being compared to a tree or garden that is dying because it is cut off from what gives it life. (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:isa:01]]
 **[[:en:bible:notes:isa:01:27|<<]] | [[:en:bible:notes:isa:01:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -15,7 +15,7 @@
 \v 23 Her husband called out to her and said, "Why do you want to go today? This is not the day when we celebrate the festival of the new moon, and it is not a Sabbath day!"
 \p But she only replied, "Just do what I requested and everything will be all right."
 \p
-\v 24 So she saddled the donkey and said to her servant, "Lead the donkey! Do not slow down for me unless I tell you to do so!"
+\v 24 So she told the servant to put saddles on two donkeys, and as they left, she said, "Hurry! Do not slow down if I do not tell you to do so!"
 </usfm>
 
 ===== ULB: =====
@@ -31,8 +31,9 @@
   * [[:en:obe:kt:sabbath]]
 ===== translationNotes: =====
 
-  * **It will be all right** - The woman states this, knowing this will be the case if her husband does as she requests. The full meaning of this statement can be made explicit. AT: "Everything will be all right if you do as I ask" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **she saddled a donkey** - The woman did not saddle the donkey, rather the servant would have saddled it for her. AT: "she had her servant saddle a donkey" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Why do you want to go to him today?** - The husband does not know of any reason why she would want to go see Elisha on that day.
+  * **It is not a new moon nor a Sabbath** - AT: "There is nothing special about today that would be a reason for you to go see Elisha the prophet."
+  * **It will be all right** - AT: "Everything will be all right if you do as I ask." (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -41,6 +42,6 @@
   * [[:en:bible:questions:comprehension:2ki:04]]
 **[[:en:bible:notes:2ki:04:21|<<]] | [[:en:bible:notes:2ki:04:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass newmoon}}
+~~DISCUSSION~~{{tag>publish p2edit newmoon}}
 
 ~~NOCACHE~~

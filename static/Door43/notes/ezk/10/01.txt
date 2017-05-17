@@ -23,8 +23,8 @@
 <usfm>
 \c 10
 \p
-\v 1 As I looked toward the dome that was over the heads of the cherubim; something appeared above them like a sapphire with the appearance of the likeness of a throne.
-\v 2 Then Yahweh spoke to the man dressed in linen and said, "Go between the wheels underneath the cherubim, and fill both your hands with fiery coals from between the cherubim and scatter them over the city." Then the man went in as I watched.
+\v 1 Then I looked toward the dome that was over the heads of the cherubim; something appeared above them like a sapphire with the appearance of the likeness of a throne.
+\v 2 And Yahweh spoke to the man dressed in linen and said, "Go between the wheels underneath the cherubim, and fill both your hands with fiery coals from between the cherubim and scatter them over the city." Then the man went in as I watched.
 </usfm>
 
 ===== translationWords: =====
@@ -38,11 +38,11 @@
   * **General Information:** - Ezekiel continues to tell about the vision that started in [[:en:bible:notes:ezk:08:01|8:1]].
 
   * **toward the dome** - "toward the curved roof"
-  * **cherubim** - Translate this as in [[:en:bible:notes:ezk:09:03|9:3]].
+  * **cherubim** - See how you translated this in [[:en:bible:notes:ezk:09:03|9:3]].
   * **like a sapphire** - A sapphire is a valuable stone of blue or green color.
-  * **with the appearance of the likeness of a throne** - "that looked like something that looked like a throne." Ezekiel is not willing to say for sure that it looked like a throne.
-  * **linen** - a strong, smooth cloth made from a plant. It is worn by many people in places that are hot. See how you translated this in [[:en:bible:notes:ezk:09:01|9:2]]. AT: "smooth cloth" (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **Go between the wheels** - Translate the word "wheels" as in [[:en:bible:notes:ezk:01:15|1:15]].
+  * **with the appearance of the likeness of a throne** - "that looked like a throne"
+  * **man dressed in linen** - See how you translated the word "linen" in [[:en:bible:notes:ezk:09:01|9:1]].
+  * **Go between the wheels** - See how you translated the word "wheels" in [[:en:bible:notes:ezk:01:15|1:15]].
   * **fiery coals** - Coals are the burned pieces of wood left over after a fire. They are black, but they glow red and orange when they are very hot.
   * **scatter them over the city** - "sprinkle them over the city" or "spread them over the city"
 ===== Links: =====
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:ezk:10]]
 **[[:en:bible:notes:ezk:09:09|<<]] | [[:en:bible:notes:ezk:10:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

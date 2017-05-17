@@ -28,9 +28,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 7 \f + \ft Some ancient copies have vs 7: \fqa But Lysias, the officer, came and took him by force out of our hands. \f*
-\v 8 When you question Paul about all these matters, you will be able to learn about these charges we are bringing against him."
-\f + \ft Some ancient copies add to the first part of vs 8, \fqa sending us to you.\fqa* \f*
+\v 7 \f + \ft The best ancient copies omit vs 7, \fqa "But Lysias, the officer, came and forcibly took him out of our hands." \f*
+\v 8 \f + \ft The best ancient copies omit the first part of vs 8, \fqa "sending us to you."\f* When you question Paul about all these matters, you, too, will be able to learn what we accuse him of."
 \v 9 The Jews together accused Paul, too, and said that these things were true.
 </usfm>
 
@@ -47,7 +46,7 @@
   * **Connecting Statement:** - Tertullus finishes presenting the charges against Paul before Governor Felix.
   * **General Information:** - Here the word "you" is singular and refers to Governor Felix. (See: [[:en:ta:vol1:translate:figs_you]])
 
-  * **charges we are bringing against him** - "accuse Paul of doing what was against the law" or "accuse Paul of being guilty of breaking the law"
+  * **accuse him of** - "accuse Paul of doing" or "accuse Paul of being guilty of doing"
   * **The Jews** - This refers to the Jewish leaders who were there at Paul's trial. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====

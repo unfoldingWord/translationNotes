@@ -20,10 +20,11 @@
 <usfm>
 \v 4 Allow me to live close to your sacred tent all during my life!
 \q1 Allow me to be safe as a little bird is safe under its mother's wings.
+
 \q1
 \v 5 God, you heard me when I solemnly promised to give offerings to you;
 \q2 you have given to me the blessings that belong to those who have an awesome respect for you.
-
+\b
 
 
 \q1
@@ -35,7 +36,7 @@
 <usfm>
 \q
 \v 4 Let me live in your tabernacle forever!
-\q Let me take refuge under the shelter of your wings.
+\q Let me take refuge under the shelter of your wings. 
 \qs Selah\qs*
 \q
 \v 5 For you, God, have heard my vows,
@@ -68,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:061]]
 **[[:en:bible:notes:psa:061:001|<<]] | [[:en:bible:notes:psa:061:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

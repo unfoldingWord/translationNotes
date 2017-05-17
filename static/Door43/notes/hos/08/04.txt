@@ -23,9 +23,9 @@
 <usfm>
 \v 4 Israel has appointed kings for themselves,
 \q2 but they did not consult with me about it.
-\q1 They chose their own kings
+\q1 They chose their own kings 
 \q2 without asking me to approve them.
-\q1 They took their silver and gold and formed them into the idols they worshiped,
+\q1 They took their silver and gold and formed them into the idols they worshiped, 
 \q2 but the people will perish as a result."
 \v 5 The prophet says, "Yes, Yahweh has rejected your idol, you people of Samaria—an idol made in the form of a calf!"
 \q1 Yahweh says, "Perhaps these people will never again be innocent of evildoing. I am very angry with them!
@@ -67,7 +67,8 @@
   * **General Information:** - Yahweh is speaking.
 
   * **but it was only so they might be cut off** - This can be stated in active form. AT: "but the result will be that I will destroy the people" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Your calf has been rejected, Samaria** - Possible meanings are 1) this is the prophet speaking (see UDB) or 2)  Yahweh is speaking. AT: "I myself have rejected your calf, Samaria" (See: [[:en:ta:vol2:translate:figs_123person]]) 
+  * **cut off** - That is, destroy (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Your calf has been rejected, Samaria** - Possible meanings are 1) this is the prophet speaking (see UDB) or 2)  Yahweh is speaking.  AT: "I myself have rejected your calf, Samaria" (See: [[:en:ta:vol2:translate:figs_123person]]) 
   * **Your calf** - King Jeroboam the Second of Israel (See [[:en:bible:notes:1ki:12:28]]) had made two golden idols that looked like calves and set them up so the people of his kingdom would worship it. Yahweh is speaking of their worship as if it were the calves themselves. AT: "You because you worship your calf idol" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **My anger is burning against these people** - Anger is often spoken of as if it were a fire. AT: "I am very angry with these people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **For how long will they stay guilty?** - Yahweh asks this question to express his anger about his people being impure. "I am angry with these people because they have no desire to be innocent." (See: [[:en:ta:vol1:translate:figs_rquestion]])
@@ -79,6 +80,6 @@
   * [[:en:bible:questions:comprehension:hos:08]]
 **[[:en:bible:notes:hos:08:01|<<]] | [[:en:bible:notes:hos:08:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

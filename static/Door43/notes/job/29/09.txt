@@ -44,10 +44,8 @@
 
 ===== translationNotes: =====
 
-  * **The princes used to refrain from talking when I came** - This was a sign of respect. (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **they would lay their hand on their mouths** - They did this to show that they would not speak. This was a sign of their respect for Job. (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **The voices of the noblemen were hushed** - This can be stated in active form. AT: "The noblemen hushed their voices" or "The noblemen stopped speaking" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **and their tongue clung to the roof of their mouths** - This represents them having so much respect for Job that they had nothing to say. AT: "and they felt that they were unable to speak" or "and they had nothing to say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and their tongue clung to the roof of their mouths** - AT: "and they felt that they were unable to speak." (See: [[:en:ta:vol1:translate:figs_idiom]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -55,6 +53,6 @@
   * [[:en:bible:questions:comprehension:job:29]]
 **[[:en:bible:notes:job:29:07|<<]] | [[:en:bible:notes:job:29:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

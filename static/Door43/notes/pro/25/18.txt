@@ -22,7 +22,8 @@
 \q2 is like attacking them with a club used in battle, or with a sword, or with sharp arrows.
 \q1
 \v 19 Depending on an unreliable person during times of trouble
-\q2 is like having a bad tooth or a foot that slips and makes you fall.
+\q2 is like having a bad tooth or a foot that slips and makes you fall. 
+
 
 \q1
 </usfm>
@@ -53,8 +54,9 @@
 
 ===== translationNotes: =====
 
-  * **A man who bears false witness against his neighbor is like a club used in war, or a sword, or a sharp arrow** - A false witness is compared to three weapons that can hurt or kill people. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **An unfaithful man in whom you trust in a time of trouble is like a bad tooth or a foot that slips** - A foolish man is compared to a part of the body that causes trouble for a person. AT: "Trusting in an unfaithful man in time of trouble will bring you pain like a bad tooth or a foot that slips" (See: [[:en:ta:vol1:translate:figs_simile]])
+
+  * **A man who bears false witness against his neighbor is like a club used in war, or a sword, or a sharp arrow.** - A false witness is compared to three weapons that can kill people. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **An unfaithful man in whom you trust in a time of trouble is like a bad tooth or a foot that slips.** - AT: Trusting in an unfaithful man in time of trouble will bring you pain like a bad tooth or a foot that slips." (See: [[:en:ta:vol1:translate:figs_simile]])
  
  
 ===== Links: =====
@@ -70,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

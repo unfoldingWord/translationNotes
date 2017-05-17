@@ -17,7 +17,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 "After the rulers of Egypt forced you Israelites to work as slaves,
+\v 6 God says this: "After the rulers of Egypt forced you Israelites to work as slaves,
 \q1 I took those heavy burdens off your backs,
 \q2 and I enabled you to lay down those heavy baskets of bricks that you were carrying.
 \q1
@@ -39,8 +39,9 @@
 \q
 \v 7 In your distress you called out, and I helped you;
 \q I answered you from a dark thundercloud.
-\q I tested you at the waters of Meribah.
+\q I tested you at the waters of Meribah. 
 \qs Selah\qs*
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:081]]
 **[[:en:bible:notes:psa:081:004|<<]] | [[:en:bible:notes:psa:081:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

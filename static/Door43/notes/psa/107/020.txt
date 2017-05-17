@@ -26,7 +26,7 @@
 \q1
 \v 22 They should give offerings to him to show that they are thankful,
 \q2 and they should sing joyfully about the miracles that he has performed.
-
+\b
 
 
 \q1
@@ -44,6 +44,7 @@
 \q
 \v 22 Let them offer the sacrifices of thanksgiving
 \q and proclaim his deeds in singing.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:psa:107]]
 **[[:en:bible:notes:psa:107:017|<<]] | [[:en:bible:notes:psa:107:023|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

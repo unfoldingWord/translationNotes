@@ -26,7 +26,7 @@
 
 <usfm>
 \p
-\v 2 Sons were born to David in Hebron. His firstborn was Amnon, by Ahinoam from Jezreel.
+\v 2 Sons were born to David in Hebron. His firstborn was Amnon, by Ahinoam from Jezreel. 
 \v 3 His second son, Chileab, was born to Abigail, the widow of Nabal from Carmel. The third, Absalom, was son of Maacah, daughter of Talmai, king of Geshur.
 </usfm>
 
@@ -44,7 +44,6 @@
 
 ===== translationNotes: =====
 
-  * **Sons were born to David** - This can be stated in active form. AT: "David's wives gave birth to six sons" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **firstborn ... second son ... third** - This is the numerical order of David's sons. (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **Ahinoam ... Abigail ... Maacah** - These are women's names. They are the wives of David. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Chileab ... Nabal ... Talmai** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:2sa:03]]
 **[[:en:bible:notes:2sa:03:01|<<]] | [[:en:bible:notes:2sa:03:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass geshur}}
+~~DISCUSSION~~{{tag>publish p2edit geshur}}
 
 ~~NOCACHE~~

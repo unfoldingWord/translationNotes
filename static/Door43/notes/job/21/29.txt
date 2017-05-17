@@ -35,7 +35,7 @@
 \q Do you not know the evidence they can tell,
 \q
 \v 30 that the wicked man is kept from the day of calamity,
-\q
+\q 
 and that he is led away from the day of wrath?
 </usfm>
 
@@ -47,11 +47,8 @@ and that he is led away from the day of wrath?
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Job continues speaking to his friends.
-
-  * **Have you never asked traveling people? Do you not know the evidence they can tell ... from the day of wrath?** - Job uses these questions to rebuke his friends for not learning from people who travel. AT: "You should listen to those who have traveled to distant places. Even they will tell you ... from the day of wrath." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the wicked man is kept from the day of calamity ... he is led away from the day of wrath** - These phrase mean the same thing. This can be stated in active form. AT: "God spares the wicked person when he brings disaster on a place" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **Have you never asked traveling people? Do you not know the evidence they can tell** - Job uses these questions to answer the questions he believes his friends will ask. AT: "You should listen to those who have traveled to distant places. Even they will tell you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **that the wicked man is kept from the day of calamity, and that he is led away from the day of wrath?** - Both of these statements mean the same thing. AT: "that when God brings disaster on a place he spares the wicked person." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -60,6 +57,6 @@ and that he is led away from the day of wrath?
   * [[:en:bible:questions:comprehension:job:21]]
 **[[:en:bible:notes:job:21:27|<<]] | [[:en:bible:notes:job:21:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

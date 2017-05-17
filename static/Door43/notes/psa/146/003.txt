@@ -20,7 +20,7 @@
 \q1
 \v 4 When they die, their corpses decay and become soil again.
 \q2 After they die, they can no longer do the things that they planned to do.
-
+\b
 
 
 \q1
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:146]]
 **[[:en:bible:notes:psa:146:001|<<]] | [[:en:bible:notes:psa:146:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

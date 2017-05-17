@@ -40,15 +40,15 @@
 
 <usfm>
 \c 27
-\m
+\p
 \q1
-\v 1 On that day Yahweh with his hard, great and fierce sword
-\q1 will punish Leviathan the slithering serpent, Leviathan the squirming serpent,
+\v 1 On that day Yahweh with his hard, great and fierce sword 
+\q1 will punish Leviathan the slithering serpent, Leviathan the squirming serpent, 
 \q1 and he will kill the monster that is in the sea.
 \q1
 \v 2 In that day: A vineyard of wine, sing of it.
 \q1
-\v 3 "I, Yahweh, am its protector; I water it every moment;
+\v 3 "I, Yahweh, am its protector; I water it every moment; 
 \q1 so that no one hurts it, I guard it night and day.
 </usfm>
 
@@ -57,19 +57,17 @@
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:sword]]
   * [[:en:obe:other:punish]]
-  * [[:en:obe:other:leviathan]]
   * [[:en:obe:other:serpent]]
   * [[:en:obe:other:vineyard]]
   * [[:en:obe:other:wine]]
 
 ===== translationNotes: =====
 
-  * **On that day** - Here "day" represents a period of time in general. AT: "At that time" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Yahweh with his hard, great and fierce sword will punish** - Yahweh having the power to destroy his enemies is spoken of as if he had strong, large sword. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **Leviathan** - "Leviathon" is an evil beast. AT: "Leviathan, a symbol for evil" (See: [[:en:ta:vol1:translate:translate_names]]) 
   * **the monster that is in the sea** - This refers to Leviathan.
-  * **A vineyard of wine, sing of it** - "Sing about the vineyard of wine." This speaks about the people of Israel as if they were a vineyard that produced fruit. AT: "Sing about the people of Israel as if they were a vineyard that produced grapes for wine" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **A vineyard of wine, sing of it** - "Sing about the vineyard of wine." Isaiah compares the people of Israel to a vineyard that has produced fruit. AT: "Sing about the people of Israel as if they were a vineyard of wine" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **I, Yahweh, am its protector** - "I, Yahweh, protect the vineyard"
-  * **night and day** - The words "night" and "day" are combined here to mean "all the time." AT: "all the time" or "continually" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **night and day** - This means "all the time." AT: "all the time" or "continually" (See: [[:en:ta:vol2:translate:figs_merism]])
 
 ===== Links: =====
 
@@ -78,6 +76,6 @@
   * [[:en:bible:questions:comprehension:isa:27]]
 **[[:en:bible:notes:isa:26:20|<<]] | [[:en:bible:notes:isa:27:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

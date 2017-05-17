@@ -19,14 +19,15 @@
 will belong to the Lord—all those whose names are listed among those who live there.
 \v 4 That will happen when the Lord washes away the guilt of the women of Jerusalem,
  and when he stops the violence on the streets of Jerusalem by punishing the people of Jerusalem.
- When he does that, it will be like a fire that burns up all the impure things.
+ When he does that, it will be like a fire to burn up all the impure things.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
-\v 3 It will happen that the one who is left in Zion and the one who remains in Jerusalem will be called holy, everyone who is written down as living in Jerusalem.
-\v 4 This will happen when the Lord will have washed away the filth of the daughters of Zion, and will have cleansed the blood stains from Jerusalem's midst, by means of the spirit of judgment and the spirit of flaming fire.
+\v 3 Then, he who is left in Zion, and he who remains in Jerusalem, will be called holy, 
+every one who is recorded as living in Jerusalem,
+\v 4 when the Lord will have washed away the filth of the daughters of Zion, and will have cleansed the blood stains from Jerusalem's midst, by the spirit of judgment, and by the spirit of burning fire.
 </usfm>
 
 ===== translationWords: =====
@@ -38,21 +39,19 @@ will belong to the Lord—all those whose names are listed among those who live 
   * [[:en:obe:kt:clean]]
   * [[:en:obe:kt:blood]]
   * [[:en:obe:kt:spirit]]
-  * [[:en:obe:kt:judge]]
   * [[:en:obe:other:fire]]
   
 ===== translationNotes: =====
 
-  * **the one who is left in Zion and the one who remains in Jerusalem** - Both of these statements mean the same thing. Here "the one who" does not refer to a specific person but to people in general who are still alive in Jerusalem. AT: "everyone who remains in Jerusalem" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **he who is left in Zion, and he who remains in Jerusalem** - This merism includes all who are left alive in Jerusalem. AT: "everyone who remains in Jerusalem" (See: [[:en:ta:vol2:translate:figs_merism]])
   * **will be called holy** - This can be stated in active form. AT: "the Lord will call them holy" or "will belong to the Lord" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **everyone who is written down as living in Jerusalem** - This can be stated in active form. AT: "everyone whose name is on the list of the people who live in Jerusalem" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **when the Lord will have washed away the filth of the daughters of Zion** - This expression speaks of sin as if it were physical dirt. AT: "after the Lord removes the sins of the daughters of Zion as someone washes away filth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **every one who is recorded as living in Jerusalem** - "every one whose name is on the list of the people who live in Jerusalem"
+  * **when the Lord will have washed away the filth of the daughters of Zion** - This compares removing sin with washing away filth. AT: "after the Lord removes the sins of the daughters of Zion as someone washes away filth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the daughters of Zion** - Possible meanings are 1) the women of Jerusalem or 2) the people of Jerusalem.
-  * **and will have cleansed the blood stains from Jerusalem's midst** - "Blood stains" here represents violence and murder. AT: "and will have taken away those in Jerusalem who harm innocent people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **by means of the spirit of judgment and the spirit of flaming fire** - This is how God would remove the sin from Jerusalem. Here "spirit" probably represents the activity of judging and burning. AT: "by judgment and flaming fire" (See: [[:en:ta:vol1:translate:figs_metaphor]])  
-  * **spirit of judgment** - Possible meanings are 1) Yahweh will punish the people or 2) Yahweh will declare the people guilty.
-  * **the spirit of flaming fire** - Possible meanings are 1) this is a metaphor that means Yahweh will remove sinners from Zion like a fire removes impurities or 2) "flaming fire" is a metonym that represents the destruction in general of all the sinners. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **and will have cleansed the blood stains from Jerusalem's midst** - Blood stains refer to violence and murder. AT: "and will have taken away those in Jerusalem who harm innocent people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **by the spirit of judgment, and by the spirit of burning fire** - This is how God would remove the sin from Jerusalem. Here "spirit" probably represents the activity of judging and burning.  (See: [[:en:ta:vol1:translate:figs_metaphor]] 
+  * **by the spirit of judgment** - This can be reworded so that the abstract noun "judgment" is expressed as the verb "judging." AT: "by judging the people" (See: [[:en:ta:vol2:translate:figs_abstractnouns]]) 
+  * **by the spirit of burning fire** - Fire is often a symbol of severe punishment. AT: "by burning them with fire" or "by severely punishing them as if with fire" or "by destroying the city with fire"
 
 
 ===== Links: =====
@@ -62,6 +61,6 @@ will belong to the Lord—all those whose names are listed among those who live 
   * [[:en:bible:questions:comprehension:isa:04]]
 **[[:en:bible:notes:isa:04:01|<<]] | [[:en:bible:notes:isa:04:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass justice spirit}}
+~~DISCUSSION~~{{tag>publish p2edit justice spirit}}
 
 ~~NOCACHE~~

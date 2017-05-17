@@ -44,11 +44,13 @@
 
 ===== translationNotes: =====
 
-  * **Make a level path for your foot** - Here the word "foot" represents the person who is walking. The writer speaks of a person's actions as if he were walking along a path, and of planning those actions carefully as if it were making that path level. AT: "Make a level path to walk on" or "Prepare well what you want to do" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a level path** - "a smooth path" or "an even path"
-  * **then all your ways will be secure** - The writer speaks of a person's actions as if the person were walking along a path and of those actions being successful as if the path were safe and secure. AT: "then everything that you do will be right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Do not turn aside to the right or to the left** - The directions "right" and "left" form a merism, meaning that the person is not to leave the level path in any direction. AT: "Walk straight ahead and do not leave the level path" (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **turn your foot away from evil** - Here the word "foot" represents the person who walks. The writer speaks of not committing evil actions as if the person were walking away from evil. AT: "turn away from evil" or "stay away from evil" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Make a level path for your foot** - AT: "Make a level path to walk on" or "Prepare well what you want to do" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **level** - "smooth" or "even" AT: "easy to walk upon"
+  * **a level path ... your ways** - A path or way refers to the manner in which you live. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **your foot** - "yourself" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **secure** - "safe"
+  * **Do not turn aside to the right or to the left** - "Do not turn and go off the path"
+  * **turn your foot away from evil** - AT: "Turn away from evil" or "keep away from evil"
  
 ===== Links: =====
 
@@ -57,6 +59,6 @@
   * [[:en:bible:questions:comprehension:pro:04]]
 **[[:en:bible:notes:pro:04:24|<<]] | [[:en:bible:notes:pro:05:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

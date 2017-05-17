@@ -24,9 +24,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 66 Their horses: 736.
+\v 66 Their horses: 736. 
 Their mules: 245.
-\v 67 Their camels: 435.
+\v 67 Their camels: 435. 
 Their donkeys: 6,720.
 </usfm>
 
@@ -53,6 +53,6 @@ Their donkeys: 6,720.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

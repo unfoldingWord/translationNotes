@@ -22,7 +22,7 @@
 \q1
 \v 19 They will survive when calamities occur;
 \q2 when there are famines, they will still have plenty to eat.
-
+\b
 
 
 \q1
@@ -54,8 +54,8 @@
 ===== translationNotes: =====
 
   * **watches over the blameless** - To "watch over" means to protect someone. Here "the blameless" refers to the blameless people. AT: "protects the blameless people" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **day by day** - "every day" or "continually" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **when times are bad** - This phrase refers to disasters, such as famine. AT: "when calamities occur" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **day by day** - This idiom means "every day" or "continually." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **when times are bad** - This phrase refers to disasters such as famine. AT: "when calamities occur" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
 
  
 ===== Links: =====
@@ -68,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book1}}
+{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

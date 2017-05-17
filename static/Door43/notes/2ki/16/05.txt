@@ -13,8 +13,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 Then King Rezin of Aram, came along with his army, and at that time Pekah (who was the son of King Remaliah of Israel) also came along with his army, and together their armies came up to attack Jerusalem, but King Ahaz led a fight to defend the city. The armies surrounded the city, but they could not conquer it.
-\v 6 It was at that time that the army that was commanded by King Rezin of Aram drove out the people of Judah who were living in the city of Elath, and the city came under the control of the Arameans. This was the time when some people from Aram began to live in Elath, and they are still living there.
+\v 5 While he was the king of Judah, King Rezin of Assyria and King Pekah of Israel came with their armies and attacked Jerusalem. They surrounded the city, but they could not conquer it.
+\v 6 At that time the army of the king of Edom drove out the people of Judah who were living in the city of Elath. Some of the people from Edom started to live there, and they are still living there.
 
 
 \p
@@ -36,12 +36,8 @@
   * [[:en:obe:kt:life]]
 ===== translationNotes: =====
 
-  * **Rezin  ... Pekah ... Remaliah** - These are men's names. See how you translated them in [[:en:bible:notes:2ki:15:37|15:37]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **besieged Ahaz** - Ahaz was in Jerusalem. Here "Ahaz" represents himself and the people who were in Jerusalem with him. AT: "surrounded the city with Ahaz in it" or "surrounded Ahaz and the others in the city with him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **recovered Elath for Aram** - Here "Aram" represents the people who live there. AT: "took back control of the city of Elath for the people of Aram" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Elath** - This is the name of a city. See how you translated it in [[:en:bible:notes:2ki:14:20|14:22]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **drove the men of Judah out of Elath** - "forced the men of Judah to leave Elath"
-  * **to this day** - This means to the time of the writing of this book.
+
+  * **besieged Ahaz** - "surrounded the city," (UDB) or AT: "surrounded the city where Ahaz was," or AT: "surrounded the city of Jerusalem," (See: [[:en:ta:vol1:translate:figs_explicit]])
  
  
 ===== Links: =====
@@ -57,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

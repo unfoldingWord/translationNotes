@@ -27,8 +27,8 @@
 
 <usfm>
 \v 5 When Saul saw the army of the Philistines, he was afraid, and his heart trembled very much.
-\v 6 Saul prayed to Yahweh for help, but Yahweh did not answer him—neither by dreams, nor by Urim, nor by prophets.
-\v 7 Then Saul said to his servants, "Find me a woman who talks with the dead, so that I may go to her and seek her advice." His servants said to him, "See, there is a woman in Endor who claims to talk with the dead."
+\v 6 When Saul prayed to Yahweh for help, but Yahweh did not answer him—neither by dreams, nor by Urim, nor by prophets.
+\v 7 Then Saul said to his servants, "Find me a woman who claims to talk with the dead, so that I may go to her and seek her advice." His servants said to him, "See, there is a woman in Endor who claims to talk with the dead."
 </usfm>
 
 
@@ -48,8 +48,7 @@
 
   * **he was afraid, and his heart trembled very much** - These two phrases mean basically the same thing and emphasize the intensity of his fear. AT: "he was terrified" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_parallelism]])
   * **Urim** - The high priest carried the sacred lots called Urim and Thummin in his breastplate, in a marked pouch, next to his heart. 
-  * **who talks with the dead** - These words translate as one word in the original language. If your language has one word for a person who talks to the dead, you should use it here. Similar words appear in [[:en:bible:notes:1sa:28:03|28:3]].
-  * **Endor** - place name  (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Endor** - Endor was in Galilee, south-east of Nazareth.
 
 
 
@@ -60,6 +59,6 @@
   * [[:en:bible:questions:comprehension:1sa:28]]
 **[[:en:bible:notes:1sa:28:03|<<]] | [[:en:bible:notes:1sa:28:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

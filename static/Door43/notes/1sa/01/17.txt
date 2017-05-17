@@ -44,9 +44,8 @@
 ===== translationNotes: =====
 
   * **Then Eli answered** - Eli was the head priest residing over the tabernacle.
-  * **Let your servant find** - Hannah speaks of herself in the second person to show respect for Eli, the head priest. This can be stated in the first person. AT: "Let me, your servant, find" or "Let me find" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **in your sight** - Here seeing represents judging or deciding the value of something. AT: "in your judgment" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and ate; her face was** - Here "her face" represents Hannah herself. You can make this a separate sentence, if needed. AT: "and ate. She was" or "and ate. People could see that she was" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **your servant** - Hannah speaks of herself as if she were speaking of someone else to show respect for Eli, the head priest. (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **and ate; her face** - Here "her face" is a metonym for Hannah herself. You can make this a separate sentence, if needed. AT: "and ate. She" or "and ate. People could see that she" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -56,6 +55,6 @@
 **[[:en:bible:notes:1sa:01:15|<<]] | [[:en:bible:notes:1sa:01:19|>>]]** 
 
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

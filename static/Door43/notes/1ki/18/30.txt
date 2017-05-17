@@ -38,8 +38,8 @@
   * [[:en:obe:kt:seed]]
 ===== translationNotes: =====
 
-  * **twelve stones** - "12 stones" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **in the name of Yahweh** - "Name" is a metonymy for honor and reputation. Possible meanings are 1) "to honor Yahweh" or 2) "with the authority of Yahweh." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **twelve stones** - AT: "12 stones" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **in the name of Yahweh** - Possible meanings are 1) "to honor Yahweh" or 2) "with the authority of Yahweh." (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **trench** - a small waterway to hold water
   * **two seahs of seeds** - A seah is a unit of volume equal to about 7.7 liters. AT: "about 15 liters of seeds" (See: [[:en:ta:vol2:translate:translate_bvolume]])
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1ki:18]]
 **[[:en:bible:notes:1ki:18:27|<<]] | [[:en:bible:notes:1ki:18:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass seed}}
+~~DISCUSSION~~{{tag>publish p2edit seed}}
 
 ~~NOCACHE~~

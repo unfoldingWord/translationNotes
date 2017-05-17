@@ -18,6 +18,7 @@
 <usfm>
 \v 7 I must encourage myself
 \q2 because Yahweh has done very good things for me.
+\b
 \q1
 \v 8 Yahweh has saved me from dying
 \q2 and has kept me from troubles that would cause me to cry.
@@ -54,8 +55,8 @@
 
   * **My soul can return to its resting place** - The writer speaks of having peace and confidence as if it were a place where his soul can rest. The word "soul" represents the person. AT: "I can rest in peace again" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
   * **you rescued my life from death** - Here the word "you" refers to Yahweh. The word "life" represents the person. AT: "you have saved me from death" or "you have kept me from dying" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **my eyes from tears** - The verbal phrase may be supplied from the previous phrase to make the meaning clear. AT: "you have rescued my eyes from tears" or "you have kept me from crying" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **my feet from stumbling** - The verbal phrase may be supplied from the previous phrase to make the meaning clear. The feet here represent the person. Stumbling here probably represents being killed by his enemies. AT: "you have rescued me from stumbling" or "you have kept me from being killed by my enemies" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **my eyes from tears** - The verbal phrase may be supplied from the previous line. AT: "you have rescued my eyes from tears" or "you have kept me from crying" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **my feet from stumbling** - The verbal phrase may be supplied from the previous line. The feet here represent the person. Stumbling here probably represents being killed by his enemies. AT: "you have rescued me from stumbling" or "you have kept me from being killed by my enemies" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -63,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:116]]
 **[[:en:bible:notes:psa:116:005|<<]] | [[:en:bible:notes:psa:116:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

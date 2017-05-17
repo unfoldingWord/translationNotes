@@ -22,7 +22,7 @@
 \q1
 \v 6 Those who are in his presence honor him and can see that he is a great king.
 \q2 They can see in his temple that he is very powerful and is very beautiful.
-
+\b
 
 
 \q1
@@ -54,8 +54,8 @@
 ===== translationNotes: =====
 
   * **in his presence** - "where he is"
-  * **Splendor and majesty are in his presence** - The psalmist speaks as if splendor and majesty are people who can stand before a king. AT: "Everyone knows of his splendor and majesty" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **Strength and beauty are in his sanctuary** - The words "strength" and "beauty" are metonyms for the ark of the covenant decrees, which is found in the sanctuary. AT: "It is his sanctuary that contains the ark of the covenant decrees" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Splendor and majesty are in his presence** - The psalmist speaks as if splendor and majesty are people who can stand before a king. AT: "Everyone knows of his splendor and majesty" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Strength and beauty are in his sanctuary** - The words "strength" and "beauty" are metonyms for the ark of the covenant decrees, which is found in the sanctuary. AT: "It is his sanctuary that contains the ark of the covenant decrees"
  
 ===== Links: =====
 
@@ -68,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book4}}
+{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

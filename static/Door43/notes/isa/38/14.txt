@@ -25,6 +25,7 @@
 \q2 and moaned like a dove.
 \q1 My eyes became tired looking up toward heaven for help.
 \q2 I cried out, 'Yahweh, help me, because I am distressed!'
+\b
 \q1
 \v 15 But there was really nothing that I could say and ask him to reply to me,
 \q2 because it was Yahweh who sent this illness.
@@ -40,7 +41,7 @@
 
 <usfm>
 \q1
-\v 14 Like a swallow I chirp; I coo like a dove;
+\v 14 Like a swallow I chirp; I coo like a dove; 
 \q1 my eyes grow tired with looking upward. Lord, I am oppressed; help me.
 \q1
 \v 15 What shall I say? He has both spoken to me, and has done it;
@@ -57,13 +58,9 @@
 
   * **General Information:** - Hezekiah continues his written prayer.
 
-  * **Like a swallow I chirp; I coo like a dove** - Both of these clauses mean the same thing and they emphasize how sad and pitiful Hezekiah's cries were. A swallow and a dove are types of birds. AT: "My cries are pitiful--they sound like the chirp of a swallow and the coo of a dove" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **my eyes** - Here Hezekiah refers to himself my his "eyes" to emphasize that he is looking for something. AT: "I" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **with looking upward** - This refers to Hezekiah looking to heaven for God to help him. The full meaning of this statement can be made clear.  AT: "of waiting for help to come from heaven" or "of waiting for you to help me" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **I am oppressed** - This can be stated in active form. AT: "My sickness oppresses me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **What shall I say?** - Hezekiah uses a question to emphasize he has nothing left to say. This can be written as a statement. AT: "I have nothing left to say." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **I will walk slowly** - This is an idiom. Here "walking" refers to living. AT: "I will like humbly" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **all my years** - This refers to the rest of his life. The meaning of this can be made clear. AT: "the rest of my life" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Like a swallow I chirp; I coo like a dove** - Both of these clauses mean the same thing and they emphasize how sad and pitiful Hezekiah's cries were. A swallow and a dove are types of birds. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:translate_unknown]])
+  * **I am oppressed** - This can be stated in active form. AT: "My sickness is troubling me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **What shall I say?** - Hezekiah uses a question to emphasize he has nothing left to say. AT: "I have nothing left to say." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **because I am overcome with grief** - "because I am full of grief" or "because I am very sad"
 ===== Links: =====
 
@@ -78,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

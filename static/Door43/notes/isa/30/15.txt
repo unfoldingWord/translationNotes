@@ -35,13 +35,14 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 15 For this is what the Lord Yahweh, the Holy One of Israel says,
-\q1 "In returning and resting you will be saved; in quietness and in trust will be your strength.
+\v 15 For this is what the Lord Yahweh, the Holy One of Israel says, 
+\q1 "In returning and resting you will be saved; in quietness and in trust will be your strength. 
 \q1 But you were not willing.
 \q1
-\v 16 You said, 'No,
-\q1 for we will flee on horses,' so you will flee;
+\v 16 You said, 'No, 
+\q1 for we will flee on horses,' so you will flee; 
 \q1 and, 'We will ride upon swift horses,' so those who pursue you will be swift.
 </usfm>
 
@@ -57,11 +58,9 @@
 
 ===== translationNotes: =====
 
-  * **Holy One of Israel** - Translate this the same as you did in [[:en:bible:notes:isa:01:04|1:4]].
-  * **In returning and resting you will be saved** - Repenting is spoken of as if it were physically returning to Yahweh. This can be stated in active form. AT: "I will save you from your enemies if you will repent and rest knowing that I will take care of you" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **resting** - It is implied that the people rest because they trust that Yahweh will take care of them. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **in quietness and in trust will be your strength** - Quietness here refers to not being anxious and worried. It is implied that they are not worried because they trust in Yahweh. AT: "You will be strong if you are quiet and trust in me" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **we will flee on horses** - Apparently these are horses that the people of Judah received from the Egyptians. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Holy One of Israel** - See how you translated this in [[:en:bible:notes:isa:01:04|1:4]].
+  * **In returning and resting you will be saved** - This can be stated in active form. AT: "You will be saved if your return and rest" or "I will save you if you will return to me and rest in me" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **in quietness and in trust will be your strength** - "You will be strong if you are quiet and trust in me." Quietness here refers to not being anxious and worried. (See: [[:en:ta:vol2:translate:figs_abstractnouns]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -69,6 +68,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:30:14|<<]] | [[:en:bible:notes:isa:30:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

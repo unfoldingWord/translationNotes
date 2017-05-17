@@ -21,7 +21,7 @@
 \v 19 The one who loves to have arguments, that person also loves the sin that lies behind the conflict;
 \q2 one thing leads to another: the one who makes the threshold of his door too high, it is sure to make someone break the bones in his foot.
 \q1
-\v 20 A person who is dishonest because of what is within him, he will never find what is good,
+\v 20 A person who is dishonest because of what is within him, he will never find what is good, 
 \q2 and the one who tells lies will fall into trouble.
 
 
@@ -34,7 +34,7 @@
 <usfm>
 \q
 \v 19 Whoever loves conflict loves sin;
-\q the one who makes the threshold of his door too high causes bones to be broken.
+\q the one who makes the threshold of his door too high causes bones to be broken. 
 \q
 \v 20 A person who has a crooked heart finds nothing that is good;
 \q the one who has a perverse tongue falls into calamity.
@@ -51,10 +51,7 @@
   * [[:en:obe:other:tongue]] 
 ===== translationNotes: =====
 
-  * **causes bones to be broken** - This means that someone will trip on the threshold and break bones, probably in their foot. AT: "is sure to cause someone trip and break their the bones in their foot" or "is sure to cause someone to trip and injure himself" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **who has a crooked heart** - The "heart" represents a person's feelings, attitudes and motivations. AT: "who is deceptive" or "who is dishonest" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **has a perverse tongue** - The "tongue" represents a person's speech. AT: "speaks perversely" or "speaks wickedly" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **falls into calamity** - "falls into trouble" To "fall into" something means to get into that situation. AT: "will have calamity" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **who has a perverse tongue** - AT: "who lies"
  
 ===== Links: =====
 
@@ -63,6 +60,6 @@
   * [[:en:bible:questions:comprehension:pro:17]]
 **[[:en:bible:notes:pro:17:17|<<]] | [[:en:bible:notes:pro:17:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example threshold}}
+~~DISCUSSION~~{{tag>publish p2edit threshold}}
 
 ~~NOCACHE~~

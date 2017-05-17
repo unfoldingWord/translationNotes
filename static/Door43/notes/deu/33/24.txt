@@ -26,6 +26,7 @@
 \q
 \v 25 Their towns will be protected by high walls with gates that have bronze and iron bars;
 \q I desire all the time that they live and not be harmed by anyone.
+\b
 
 
 \q
@@ -58,9 +59,9 @@
 
   * **General Information:** - Moses continues to bless the tribes of Israel; the blessings are short poems. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **dip his foot in olive oil** - Olive oil was used for food and for the skin of the face and arms. Feet were dirty, so to put the foot in olive oil was to ruin valuable oil. The full meaning of this statement can be made clear. AT: "have so much olive oil that he can afford to waste it" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **your city bars ... your days ... your security** - Moses speaks to the tribe of Asher as if they are one man, so all instances of "your" are singular. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **May your city bars be iron and bronze** - Cities had large bars across their gates to keep enemies out. The meaning of this statement can be made clear. AT: "May you be safe from attacks by your enemies" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **dip his foot in olive oil** - Olive oil was used for food and for the skin of the face and arms; feet were dirty, so to put the foot in olive oil was to ruin valuable oil. AT: "have so much olive oil that he can afford to waste it" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **your city bars ... your days ... your security** - Moses speaks to the tribe of Asher as if they are one man, so all instances of "your" are singular. [[:en:ta:vol1:translate:figs_you]]
+  * **May your city bars be iron and bronze** - Cities had large bars across their gates to keep enemies out. "May you be safe from attacks by your enemies"
  
  
 ===== Links: =====
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:deu:33]]
 **[[:en:bible:notes:deu:33:23|<<]] | [[:en:bible:notes:deu:33:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

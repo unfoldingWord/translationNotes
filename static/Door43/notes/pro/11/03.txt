@@ -17,7 +17,7 @@
 
 <usfm>
 \v 3 People who keep their promises also make choices that lead them in the right way;
-\q2 those who cannot be trusted are destroyed by their own dishonesty.
+\q2 those who cannot be trusted are destroyed by their own dishonesty. 
 \q1
 \v 4 Your money will not help you on the day Yahweh judges the world;
 \q2 but if you do what is right, you will be kept safe from many dangers, even death.
@@ -40,16 +40,15 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:integrity]]
-  * [[:en:obe:kt:upright]]
   * [[:en:obe:other:biblicaltimeday]]
   * [[:en:obe:kt:wrath]]
   * [[:en:obe:kt:death]]
-
 ===== translationNotes: =====
 
-  * **the treacherous** - This nominal adjective can be stated as an adjective. AT: "treacherous people" or "those who are treacherous" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **Wealth is worthless on the day of wrath** - The "day of wrath" represents a specific event, such as the "day of Yahweh" or "judgment day" or "last days." AT: "A person's wealth will do him no good when God comes to judge." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **the upright** - See how you translated this word in [[:en:bible:notes:pro:03:31|3:32]].
+  * **crooked ways of the treacherous** - AT: "evil ways of those who deceive"
+  * **day** - This word is used figuratively to refer to a longer period of time, such as the "day of Yahweh" or "judgment day" or "last days."
+  * **Wealth is worthless on the day of wrath** - AT: "money is useless when God will judge"
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -57,6 +56,6 @@
   * [[:en:bible:questions:comprehension:pro:11]]
 **[[:en:bible:notes:pro:11:01|<<]] | [[:en:bible:notes:pro:11:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

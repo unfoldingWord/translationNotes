@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 They told him, "Say this to Isaiah: 'King Hezekiah says that this is a day when we have great distress. Other nations are insulting and shaming us. We are like a woman who is about to give birth to a baby, but she does not have the strength that she needs to do it.
+\v 3 He said to them, "Say this to Isaiah: 'King Hezekiah says that this is a day when we have great distress. Other nations are insulting and shaming us. We are like a woman who is about to give birth to a baby, but she does not have the strength that she needs to do it.
 \v 4 But perhaps Yahweh our God has heard what the official from Assyria said. Perhaps God knows that the king of Assyria has sent his official to insult him, the all-powerful God. Perhaps Yahweh will punish the king of Assyria for what he said. And I, Hezekiah, request that you pray for the few of us who are still alive here in Jerusalem.'"
 
 
@@ -38,19 +38,18 @@
   * [[:en:obe:kt:word]]
   * [[:en:obe:other:king]]
   * [[:en:obe:other:assyria]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:life]]
   * [[:en:obe:other:pray]]
   * [[:en:obe:kt:remnant]]
 
 ===== translationNotes: =====
 
   * **They said to him** - "The men sent by Hezekiah said to Isaiah"
-  * **like when a child is ready to be born, but the mother has no strength to give birth to her child** - This comparison is made to emphasizes that they are in a time of extreme difficulty. AT: "It is as terrible as the day when a child is ready to be born, but the mother has no strength to give birth to her child" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **It may be Yahweh your God will hear the words** - Hezekiah is indirectly suggesting that if the people pray Yahweh may listen and act upon what the chief commander had said. The full meaning of this statement can be made clear. AT: "Maybe if you pray to Yahweh your God will hear the message" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the chief commander** - Translate this phrase the same as you did in [[:en:bible:notes:isa:36:01|36:2]].
-  * **his master** - This phrase means that the king is the chief commander's master. 
-  * **and will rebuke the words which Yahweh your God has heard** - Here the phrase "the words which Yahweh your God has heard" refers to what the king of Assyria had said. The full meaning of this statement can be made clear. AT: "and Yahweh your God will rebuke the king of Assyria for what he has said" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **lift up your prayers** - Praying to Yahweh is described this way to emphasize that Yahweh is in heaven. Prayers is spoken of as if they were objects that could be lifted high into the sky. AT: "pray" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **for the remnant that is still here** - This refers to the people who are left in Jerusalem. AT: "for the few of us that are still here" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **like when a child is ready to be born, but the mother has no strength to give birth to her child** - This emphasizes that they are in a time of extreme difficulty. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **It may be Yahweh your God will hear the words** - AT: "Maybe if you pray to Yahweh your God he will hear the message" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the chief commander** - See how you translated this in [[:en:bible:notes:isa:36:01|36:2]].
+  * **and will rebuke the words which Yahweh your God has heard** - "and Yahweh your God will rebuke him"
 
 ===== Links: =====
 
@@ -65,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

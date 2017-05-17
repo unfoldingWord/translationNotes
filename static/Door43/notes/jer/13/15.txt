@@ -47,6 +47,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 15 Listen and pay attention. Do not be arrogant, for Yahweh had spoken.
 \q
@@ -67,14 +68,10 @@
 
 ===== translationNotes: =====
 
-  * **arrogant** - "proud"
-  * **he brings darkness** - "he causes darkness to come. Here trouble and despair are spoken of as if they were "darkness." AT: "he brings trouble and despair" or "he cause great troubles to come" 
-  * **before he causes your feet to stumble** - Here a person is referred to by his "feet" to emphasize that he is walking. AT: "before he causes you to trip and fall as you walk" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **twilight** - early morning or evening when it is partially dark, when the sun is beginning to rise or when the sun is almost set
-  * **For you are hoping for light, but he will turn the place into a deep darkness, into a dark cloud** - This speaks of goodness and blessings as "light" and of trouble and despair as "darkness." AT: "For you were hoping for light and blessings, but Yahweh will give you darkness and great despair--you will feel like you are surround by a dark cloud" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **for Yahweh's flock has been taken captive** - This can be stated in active form. AT: "for enemies have captured Yahweh's flock" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **for Yahweh's flock has been taken captive** - Here Jeremiah speaks of Yahweh's people as Yahweh's "flock," because he cares for them like a shepherd cares for his sheep. This event has not happened yet, but it is written here as if it already has. This can be written in future tense. AT: "for you who are Yahweh's flock, your enemies will soon capture you"  (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_pastforfuture]])
-
+  * **Do not be arrogant** - "Do not feel that your are better, smarter, or more important than others"
+  * **he brings darkness** - "he causes darkness to come" Darkness symbolizes deep trouble and despair. AT: "He brings big troubles"
+  * **before he causes your feet to stumble** - AT: "before he causes you to hit your foot on something while walking or running so that you fall"
+  * **he will turn the place into a deep darkness** - "he will cause the place to be completely dark" AT: "he will cause you to despair"
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -82,6 +79,6 @@
   * [[:en:bible:questions:comprehension:jer:13]]
 **[[:en:bible:notes:jer:13:12|<<]] | [[:en:bible:notes:jer:13:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check darkness}}
+~~DISCUSSION~~{{tag>publish p2edit darkness}}
 
 ~~NOCACHE~~

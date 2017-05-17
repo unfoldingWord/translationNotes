@@ -47,8 +47,9 @@
 \p
 \v 1 A declaration about Damascus.
 \q1
+\p Behold, Damascus will no longer be a city; it will be a heap of ruins.
 \q1
-\v 2 The cities of Aroer will be abandoned.
+\v 2 The cities of Aroer will be abandoned. 
 \q1 They will be places for flocks to lie down, and no one will frighten them.
 \q1
 \v 3 Fortified cities will disappear from Ephraim, the kingdom from Damascus,
@@ -71,15 +72,13 @@
 ===== translationNotes: =====
 
 
-  * **about Damascus** - Damascus is the name of a city. Translate this as you did in [[:en:bible:notes:isa:07:07|7:8]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **about Damascus** - See how you translated "Damascus" in [[:en:bible:notes:isa:07:07|7:8]]. This refers to the people. AT: "about the people of Damascus" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **The cities of Aroer will be abandoned** - This can be stated in active form. "All the people will abandon the cities of Aroer" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:translate_names]])
-  * **no one will frighten them** - The word "them" refers to the sheep.
-  * **Fortified cities will disappear from Ephraim** - Ephraim was the largest tribe in Israel. Here it represents the entire northern kingdom of Israel. AT: "Strong cities will disappear from Israel" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **will disappear** - This does not mean that they will vanish, but that the cities will be destroyed.
-  * **the kingdom from Damascus** - The words "will disappear" are understood from the previous phrase. Damascus was where the king of Aram ruled from. The kingdom disappearing represents the king no longer having royal power. AT: "the kingdom will disappear from Damascus" or "there will be no royal power in Damascus" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Aram** - Aram is the name of a nation. Translate this as you did in [[:en:bible:notes:isa:07:01|7:1]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **they will be like the glory of the people of Israel** - Since the people of Israel were no longer glorious, this meant that the remnant of Aram would no longer be glorious. AT: "they will no longer have glory, just like the people of Israel" or  "I will bring shame on them as I did the people of Israel" (See: [[:en:ta:vol1:translate:figs_irony]])
-  * **declaration of Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:14:21|14:22]].
+  * **Fortified cities** - "Strong cities"
+  * **Aram** - See how you translated this in [[:en:bible:notes:isa:07:01|7:1]].
+  * **they will be like the glory of the people of Israel** - "I, Yahweh, will bring shame on them as I did the people of Israel" 
+  * **declaration of Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:14:21|14:22]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -87,6 +86,6 @@
   * [[:en:bible:questions:comprehension:isa:17]]
 **[[:en:bible:notes:isa:16:13|<<]] | [[:en:bible:notes:isa:17:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

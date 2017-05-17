@@ -19,7 +19,7 @@
 
 <usfm>
 \p
-\v 32 From the descendants of Ephraim son of Joseph were counted all the names of each and every man twenty years old or older able to go to war, from the records of their ancestor's clans and families.
+\v 32 From the descendants of Ephraim son of Joseph were counted all the names of each and every man twenty years old or older able to go to war, from the records of their ancestor's clans and families. 
 \v 33 They counted 40,500 men from the tribe of Ephraim.
 </usfm>
 
@@ -41,6 +41,6 @@
   * [[:en:bible:questions:comprehension:num:01]]
 **[[:en:bible:notes:num:01:30|<<]] | [[:en:bible:notes:num:01:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

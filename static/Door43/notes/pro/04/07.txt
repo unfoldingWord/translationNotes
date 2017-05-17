@@ -25,10 +25,10 @@
 
 <usfm>
 \v 7 The most important thing you can do is to study the principles of wisdom
-\q2 and spend all you own so you can grow more and more in your understanding.
+\q2 and spend all you own so you can grow more and more in your understanding. 
 \q1
 \v 8 Wisdom is to be loved more than anything that is valuable, and she will raise you to a high position—
-\q2 and wisdom will honor you when you show how much you love it.
+\q2 and wisdom will honor you when you show how much you love it. 
 \q1
 \v 9 When you have attained wisdom, it will be like a beautiful wreath of honor on your head;
 \q2 she will give you a beautiful crown."
@@ -42,7 +42,7 @@
 
 <usfm>
 \q
-\v 7 Wisdom is the most important thing, so acquire wisdom
+\v 7 Wisdom is the most important thing, so acquire wisdom 
 \q and spend all you own so you can get understanding.
 \q
 \v 8 Cherish wisdom and she will exalt you;
@@ -59,19 +59,20 @@
   * [[:en:obe:kt:exalt]]
   * [[:en:obe:other:honor]]
   * [[:en:obe:other:crown]]
+ 
 
 ===== translationNotes: =====
 
-  * **General Information:** - The father finishes teaching his children what his father taught him.
+  * **General Information:** - Verse 9 concludes the quote that started in [[:en:bible:notes:pro:04:03|4:4]].
 
+  * **acquire** - See how you translated this in [[:en:bible:notes:pro:04:05|4:5]].
   * **spend all you own so you can get understanding** - "value understanding more than all you own"
-  * **Cherish wisdom and she will exalt you** - The writer speaks of wisdom as if it were a woman and of wisdom giving great honor to a person as if wisdom lifted that person to a high position. AT: "If you cherish wisdom, she will give you great honor" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **Cherish** - to feel or show great love for someone or something
-  * **she will honor you when you embrace her** - The writer speaks of wisdom as if it were a woman and of a person valuing wisdom as if the person placed his arms around her. AT: "if you love wisdom greatly, wisdom will cause people to honor you" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **She will put a wreath of honor on your head** - The writer speaks of the honor that a person will have from gaining wisdom as if wisdom placed a wreath upon that person's head. AT: "Wisdom will be like a wreath on your head that shows your great honor" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **wreath** - a woven circle made of leaves or flowers
-  * **she will give you a beautiful crown** - The writer speaks of the honor that a person will have from gaining wisdom as if wisdom placed a crown upon that person's head. AT: "wisdom will be like a beautiful crown on your head" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **she ... she ... She ... she** - Translate the idea of wisdom as a mother or loving woman the way you did in [[:en:bible:notes:pro:04:05|4:6]].
+  * **she will honor you when you embrace her** - AT: "people will honor you when you enjoy working hard to become wise" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **embrace** - to put one's arms around another person as a way of expressing love or friendship 
+  * **wreath** - a circular arrangement of leaves or flowers used to honor a person"
+  * **She will put a wreath of honor on your head** - AT: "People will honor you greatly for your wisdom" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -85,6 +86,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

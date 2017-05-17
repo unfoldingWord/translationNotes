@@ -21,7 +21,7 @@
 <usfm>
 \c 7
 \p
-\v 1 But the people of Israel acted unfaithfully regarding the things that were set apart for destruction. Achan son of Carmi son of Zabdi son of Zerah, from the tribe of Judah, took some things that were set apart for destruction, and Yahweh's anger burned against the people of Israel.
+\v 1 But the people of Israel acted unfaithfully regarding the things that were set apart for destruction. Achan son of Carmi son of Zimri son of Zerah, from the tribe of Judah, took some things that were set apart for destruction, and Yahweh's anger burned against the people of Israel.
 </usfm>
 
 ===== translationWords: =====
@@ -35,9 +35,9 @@
 
 ===== translationNotes: =====
 
-  * **the things that were set apart for destruction** - "the things that God had said they must set apart to him by destroying them"
-  * **Achan ... Carmi ... Zabdi ... Zerah** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Yahweh's anger burned** - "anger" and "burned" indicates intensity, not that fire is present. AT: "Yahweh's anger burned like a fire" or "Yahweh was very angry" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Achan ... Carmi ... Zimri ... Zerah** - These are names of men. Translate "Achan" the same way in Joshua 7:10, 18-20, 24 and 22:20. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Yahweh's anger burned** - "Anger" and "burned" indicates intensity, not that fire is present. AT: "Yahweh's anger burned like a fire" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:jos:07]]
 **[[:en:bible:notes:jos:06:26|<<]] | [[:en:bible:notes:jos:07:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

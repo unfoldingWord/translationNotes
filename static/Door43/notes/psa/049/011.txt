@@ -16,7 +16,7 @@
 \v 11 They once had houses on land that they owned,
 \q1 but now their graves are their homes forever,
 \q2 the place where they will stay for all time!
-
+\b
 
 
 \q1
@@ -52,6 +52,6 @@ continue forever,
   * [[:en:bible:questions:comprehension:psa:049]]
 **[[:en:bible:notes:psa:049:009|<<]] | [[:en:bible:notes:psa:049:012|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

@@ -26,11 +26,13 @@
 \q1
 \v 11 But terrible things will happen to wicked people;
 \q2 Yahweh will pay them back for the evil things that they have done.
+\b
 \q1
 \v 12 Youths who have become leaders treat my people cruelly,
 \q2 and women rule over my people.
 \q1 My people, your leaders are misleading you;
 \q2 they are causing you to do all kinds of evil things.
+\b
 
 
 \q1
@@ -40,12 +42,12 @@
 
 <usfm>
 \q1
-\v 10 Tell the righteous person that it will be well, for they will eat the fruit of their deeds.
+\v 10 Tell the righteous person that it will be well with him; for he will eat the fruit of his deeds.
 \q1
-\v 11 Woe to the wicked! It will go badly for him, for the recompense of his hands will be done to him.
+\v 11 Woe to the wicked! It will go badly for him, for what his hands have dealt out he will receive.
 \q1
-\v 12 My people—children are their oppressors, and women rule over them.
-\q1 My people, those who guide you lead you astray and confuse the direction of your path.
+\v 12 My people—children are their oppressors, and women rule over them. 
+\q1 My people, your leaders lead you astray and confuse the direction of your path.
 </usfm>
 
 ===== translationWords: =====
@@ -61,16 +63,15 @@
 
 ===== translationNotes: =====
 
+  * **Connecting Statement:** - Yahweh continues speaking.
 
-  * **Tell the righteous person that it will be well** - "Tell the one who is doing what is right that I will make things good for him"
-  * **the righteous person** - This refers to righteous people in general. AT: "righteous people" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
-  * **for they will eat the fruit of their deeds** - Deeds are spoken of as if they were trees giving fruit that can be eaten. The fruit stands for the reward for doing good deeds. AT: "for they will receive their reward for their good deeds" or "for they will receive their reward for the good things they have done" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they will eat the fruit of their deeds** - The Hebrew text has these plural pronouns here, but they refer to any righteous person. Translators can choose to translate them as singular: "he will eat the fruit of his deeds."
-  * **for the recompense of his hands will be done to him** - Here "hands" stands for the deeds that the person has done. AT: "for what the wicked person has done to others will be done to him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **My people ... My people** - Possible meanings are 1) Isaiah is talking and "My" refers to Isaiah, or 2) Yahweh is talking and "My" refers to Yahweh.
+  * **Tell the righteous person that it will be well with him** - "Tell him who is doing what is right that I will make things good for him"
+  * **for he will eat the fruit of his deeds** - "for he will receive his reward for his good deeds" or "for he will receive his reward for the good things he has done"
+  * **for what his hands have dealt out he will receive** - "for what the wicked person has done to others will be done to him"
+  * **My people ... My people** - Possible meanings are 1) Isaiah is talking or 2) Yahweh is talking.
   * **children are their oppressors** - Possible meanings are 1) "young people have become their leaders and they oppress the people" or 2) "their leaders are immature like children and oppress the people." (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **women rule over them** - Possible meanings are 1) "women rule over the people" or 2) "their leaders are weak like women."
-  * **those who guide you lead you astray and confuse the direction of your path** - It was common in the Ancient Middle East to speak of a nation's leaders as if they were shepherds. As shepherds lead the sheep along good paths to safety, leaders should teach the people the truth and help them do what is right. Judah's leaders were not doing this. AT: "your leaders are like bad shepherds who lead you away from good paths and do not show you where to go" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **your leaders lead you astray and confuse the direction of your path** - This compares Judah's leaders to shepherds. As shepherds lead the sheep along good paths to safety, leaders should teach the people the truth and help them do what is right. Judah's leaders were not doing this. AT: "your leaders are like bad shepherds who lead you away from good paths and do not show you where to go" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -78,6 +79,6 @@
   * [[:en:bible:questions:comprehension:isa:03]]
 **[[:en:bible:notes:isa:03:08|<<]] | [[:en:bible:notes:isa:03:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

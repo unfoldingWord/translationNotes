@@ -21,8 +21,8 @@
 \v 15 Consider the value of gold and many expensive jewels,
 \q2 but the words of the one who has knowledge are like precious jewels.
 \q1
-\v 16 Take the expensive coat of the person who guarantees a loan for a stranger, so it can be sold if the debt is not paid back.
-\q2 And if he makes a pledge for an immoral woman, hold his coat as a guarantee for the loan he makes.
+\v 16 If you guarantee a loan for a stranger, take his expensive coat, so you can sell it if he does not pay,
+\q2 and if he makes a pledge for a prostitute, hold him as a guarantee instead of anything he offers you.
 
 
 \q1
@@ -36,8 +36,9 @@
 \v 15 There is gold and an abundance of costly stones,
 \q but lips of knowledge are a precious jewel.
 \q
-\v 16 Take a garment of one who has put up security for a stranger,
-\q and hold it in pledge when he puts up security for an immoral woman.
+\v 16 Take a garment if its owner 
+\q puts up money as security for a stranger's debt, 
+\q and take it if he puts up security for adulteresses.
 </usfm>
 
 
@@ -50,12 +51,10 @@
 
 ===== translationNotes: =====
 
-  * **lips of knowledge are a precious jewel** - This speaks of the value of lips of knowledge by comparing them to a precious jewel. AT: "lips of knowledge are as valuable as an expensive jewel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **lips of knowledge** - Here "words" are referred to as "lips." AT: "wise words" or "words of knowledge" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Take a garment of one who has put up security for a stranger** - When lending money, the lender would take something from the borrower, such as a garment, as a guarantee of repayment. He would return it after the money was repaid. If the borrower was too poor, someone else could give something to the lender as a guarantee for him. The full meaning of this statement can be made clear. AT: "Take a garment as security from the one who guarantees that what a stranger has borrowed will be paid back"  (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **puts up security** - This is an idiom. It means that someone gives something to a lender as a guarantee that what was borrowed will be paid. AT: "guarantees that what has been borrowed will be paid back" or  "promises to pay a loan" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **hold it in pledge** - This is an idiom. To "hold something in pledge" means to hold on to something that someone has given as a pledge, or promise, that he will pay a debt.  AT: "hold onto his coat as a guarantee of repayment" (See: [[:en:ta:vol1:translate:figs_idiom]])
-
+  * **lips of knowledge are a precious jewel** - Lips of knowledge are compared to a valuable jewel. AT: "lips of knowledge are as valuable as an expensive jewel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **lips of knowledge** - AT: "wise words" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **puts up money as security for a stranger's debt** - AT: "agrees to pay off the loan of a stranger if he does not pay"
+  * **adulteresses** - See how you translated this word in [[:en:bible:notes:pro:05:03|5:3]].
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -69,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

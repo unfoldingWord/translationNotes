@@ -18,7 +18,7 @@
 \q2 you must act fairly toward those who are needy and those who have no one to help them.
 \q1
 \v 4 Rescue them from the power of the wicked people!"
-
+\b
 
 
 \q1
@@ -46,7 +46,7 @@
   * **maintain the rights of the** - "do what is right for the "
   * **the afflicted and destitute** - Here "the afflicted" and "destitute" are nominal adjectives. They can be stated as adjectives. AT: "those who are suffering and those who have nothing" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
   * **the poor and needy ... the wicked** - These are all nominal adjectives. They can be stated as adjectives. AT: "those who are poor and those who are needy ... those who are wicked" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **take them out of the hand of the wicked** - Here the word "hand" represents power or control. AT: "stop the wicked people from harming them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **take them out of the hand of the wicked** - Here the word "hand" represents power or control. AT: "stop the wicked from harming them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:psa:082]]
 **[[:en:bible:notes:psa:082:001|<<]] | [[:en:bible:notes:psa:082:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

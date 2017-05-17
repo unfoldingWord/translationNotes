@@ -42,11 +42,11 @@
 ===== translationNotes: =====
 
   * **Then they said to Jonah** - "Then the men who were working on the ship said to Jonah"
-  * **Please tell us who is the cause of this evil that is happening to us.** - "Who caused this bad thing that is happening to us?"
+  * **Please tell us who is the cause of this evil that is happening to us** - "Who caused this bad thing that is happening to us?"
   * **fear Yahweh** - The word "fear" refers Jonah having a deep respecting God.
-  * **What is this that you have done?** - The men on the ship used this rhetorical question to show how upset they were with Jonah. AT: "You have done a terrible thing." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **he was running away from the presence of Yahweh** - "Jonah was running away from Yahweh." Jonah was seeking to escape Yahweh as if Yahweh was present only in the land of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **because he had told them** - What he told them can be stated clearly. AT: "because he had told them 'I am trying to get away from Yahweh'" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **What is this that you have done?** - The men on the ship used this rhetorical question to show how upset they were with Jonah. AT: "Why have you done this?" or "You have done a terrible thing." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **he was running away from the presence of Yahweh** - "Jonah was running away from Yahweh." Jonah was seeking to escape Yahweh as if Yahweh was only present in Judea. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **because he had told them** - What he told them can be stated clearly. AT: "because he had told them 'I am trying to get away from Yahweh.'" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:jon:00:intro]]
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:jon:01]]
 **[[:en:bible:notes:jon:01:06|<<]] | [[:en:bible:notes:jon:01:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass hebrew fear}}
+~~DISCUSSION~~{{tag>publish p2check hebrew fear}}
 
 ~~NOCACHE~~

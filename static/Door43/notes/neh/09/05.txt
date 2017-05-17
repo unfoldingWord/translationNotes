@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 Then the leaders of the Levites called out to the people. They were Jeshua, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah. They said,
+\v 5 Then the leaders of the Levites called out to the people. They were Jeshua, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah. They said, 
 "Stand there and give praise to Yahweh your God, who has always lived and will live forever! Yahweh, we praise your glorious name! Your name is more important than everything else that is good and wonderful!
 \v 6 You are Yahweh, and no one else. You made the sky and the heavens above everything, and all the angels who do God's will. You made the earth and everything that is on it, and you made the seas and everything that is in them. You give life to everything. All the angel armies in heaven worship you.
 
@@ -26,9 +26,9 @@
 
 <usfm>
 \p
-\v 5 Then the Levites, Jeshua, and Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah said, "Stand up and give praise to Yahweh your God forever and ever."
+\v 5 Then the Levites, Jeshua, and Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah said, "Stand up and give praise to Yahweh your God forever and ever." 
 \p "May they bless your glorious name, and may it be exalted above every blessing and praise.
-\v 6 You are Yahweh. You alone. You have made heaven, the highest heavens, with all their host, and the earth and everything on it, and the seas and all that is in them. You give life to them all, and the host of heaven worship you.
+\v 6 You are Yahweh. You alone. You have made heaven, the highest heavens, with all their angels arrayed for war, and the earth and everything on it, and the seas and all that is in them. You give life to them all, and the angel armies of heaven worship you.
 </usfm>
 
 ===== translationWords: =====
@@ -46,15 +46,17 @@
   * [[:en:obe:other:earth]]
   * [[:en:obe:kt:life]]
   * [[:en:obe:kt:worship]]
-
 ===== translationNotes: =====
 
-  * **Then the Levites ... said, "Stand up ... ever."** - Here the Levites are speaking to the people of Israel.
+  * **Then the Levites ... said, "Stand up** - Here the Levites are speaking to the people of Israel.
   * **give praise to Yahweh** - "bless Yahweh"
-  * **Jeshua ... Kadmiel ... Bani ... Sherebiah ... Shebaniah** - men's names. Translate as in [[:en:bible:notes:neh:09:03|9:3-4]]. (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **Hashabneiah ... Hodiah ... Pethahiah** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
-  * **May they bless your glorious name** - the Levites are speaking to Yahweh. "May the people of Judah bless your glorious name, Yahweh"
-  * **the highest heavens, with all their host ... the host of heaven worship you** - A host is an army. The "host of heaven" speaks in a metaphor of the many stars as if they were an army. The stars in turn are a metaphor for the many angels. The stars worshiping Yahweh is a metaphor for the angels worshiping Yahweh. (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Jeshua, and Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah** - These are names of people. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **forever and ever** - This is an emphatic way of saying "for eternity" or "for all time." Israel is encouraged to praise Yahweh even after time ends.
+  * **May they bless your glorious name** - Here the Levites are speaking to Yahweh. The word "they" refers to the people of Israel, and "your" refers to Yahweh.
+  * **You have made heaven** - "You have created heaven"
+  * **heaven, the highest heavens** - This is an emphatic way of saying "the entire universe" or "the sky and everything beyond it."
+  * **with all their angels arrayed for war** - This expression could refer to all the stars in the heavens or to the angels. It refers to everything in the universe. AT: "with all their host," or "with all their multitudes" or "everything in the heavens"
+  * **the angel armies of heaven** - AT: "the host of heaven" or "the multitudes of heaven." This could refer to the stars and planets or to the angels.
  
 ===== Links: =====
 
@@ -63,6 +65,6 @@
   * [[:en:bible:questions:comprehension:neh:09]]
 **[[:en:bible:notes:neh:09:03|<<]] | [[:en:bible:notes:neh:09:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass bless}}
+~~DISCUSSION~~{{tag>publish p2edit bless}}
 
 ~~NOCACHE~~

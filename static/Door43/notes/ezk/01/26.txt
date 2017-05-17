@@ -16,7 +16,7 @@
 
 <usfm>
 \p
-\v 26 Above the dome over their heads was the likeness of a throne that was like the appearance of a sapphire stone, and on the likeness of the throne was a likeness like the appearance of a man.
+\v 26 Above the dome over their heads was the appearance of a throne that looked like sapphire, and on the throne was the appearance of one who looked like a man.
 </usfm>
 
 ===== translationWords: =====
@@ -26,11 +26,10 @@
 ===== translationNotes: =====
 
   * **over their heads** - "over the heads of the living creatures"
-  * **was the likeness of a throne** - "was something that looked like a throne"
-  * **the likeness of** - The abstract noun "likeness" can be translated as an adjective. AT: "something similar to" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **was the appearance of a throne** - "was something that looked like a throne"
   * **sapphire** - a very valuable stone that is clear blue and very shiny
-  * **on the likeness of the throne was** - The abstract noun "likeness" can be translated as an adjective. AT: "on what was similar to a throne there was" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **a likeness like the appearance of a man** - The abstract noun "likeness" can be translated as an adjective. The abstract noun "appearance" can be translated as a verb. If you need to tell who this is, you should probably identify him as Yahweh ([[:en:bible:notes:ezk:01:01|1:3]]). AT: "something that looked similar to what appeared to be a man" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **on the throne was** - "on the throne there was"
+  * **the appearance of one who looked like a man** - "someone who looked like a man" or "someone who looked like person"
 
 ===== Links: =====
 
@@ -39,6 +38,6 @@
   * [[:en:bible:questions:comprehension:ezk:01]]
 **[[:en:bible:notes:ezk:01:24|<<]] | [[:en:bible:notes:ezk:01:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

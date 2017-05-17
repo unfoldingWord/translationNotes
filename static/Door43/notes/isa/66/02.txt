@@ -21,6 +21,7 @@
 \v 2 I have created everything;
 \q2 all things exist because I made them.
 \q1 That is true because I, Yahweh, have said it.
+\b
 \q1 The people I am most pleased with are those who are humble,
 \q2 who patiently endure it when they suffer,
 \q2 and who tremble when they hear me rebuking them.
@@ -51,10 +52,8 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **My hand has made all these things** - "Hand" refers to the power and authority of Yahweh, not his physical body. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Yahweh's declaration** - Translate this as in [[:en:bible:notes:isa:14:21|14:22]].
+  * **Yahweh's declaration** - See how you translated this in [[:en:bible:notes:isa:14:21|14:22]].
   * **the broken and contrite in spirit** - Here "broken" and "contrite" refers to a person who is truly humble and who suffers for his faith.
-
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:66]]
 **[[:en:bible:notes:isa:66:01|<<]] | [[:en:bible:notes:isa:66:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

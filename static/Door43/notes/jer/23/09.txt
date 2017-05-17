@@ -30,6 +30,7 @@
 \q1 Even the pastures in the desert are all dried up,
 \q2 because the people do what is evil,
 \q2 and the false prophets use their power to do things that are not just.
+\b
 
 
 \q1
@@ -38,6 +39,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 9 Regarding the prophets, my heart is broken in me, and all of my bones tremble. I have become like a drunk man,
 \q like a man whom wine has overpowered, because of Yahweh and his holy words.
@@ -78,6 +80,6 @@
   * [[:en:bible:questions:comprehension:jer:23]]
 **[[:en:bible:notes:jer:23:07|<<]] | [[:en:bible:notes:jer:23:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

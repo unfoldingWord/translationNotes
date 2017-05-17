@@ -29,10 +29,11 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 7 He was oppressed; yet when he humbled himself, he did not open his mouth;
+\v 7 He was oppressed; yet when he humbled himself, he did not open his mouth; 
 \q1 as a lamb that is led to the slaughter, and as a
-sheep that before its shearers is silent,
+sheep that before its shearers is silent, 
 \q1 so he did not open his mouth.
 </usfm>
 
@@ -45,13 +46,12 @@ sheep that before its shearers is silent,
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues describing Yahweh's servant. (See: [[:en:bible:notes:isa:53:01|53:1-2]])
+  * **General Information:** - Isaiah continues speaking to the people in exile in Babylonia, describing Yahweh's servant. (See: [[:en:bible:notes:isa:53:01|53:1-2]])
 
   * **He was oppressed** - This can be stated in active form. AT: "They treated him harshly" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **he did not open his mouth** - "Mouth" represents what a person says. Opening one's mouth means to speak. AT: "he did not protest" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he did not open his mouth** - Opening one's mouth means to speak. AT: "he did not protest" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **as a lamb that is led to the slaughter, and as a sheep that before its shearers is silent** - Isaiah compares the servant to a lamb and a sheep to emphasize that he will remain silent as people harm and humiliate him. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **as a lamb that is led to the slaughter** - This can be stated in active form. AT: "just as a lamb is silent as a person slaughters it" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_activepassive]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -59,6 +59,6 @@ sheep that before its shearers is silent,
   * [[:en:bible:questions:comprehension:isa:53]]
 **[[:en:bible:notes:isa:53:06|<<]] | [[:en:bible:notes:isa:53:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

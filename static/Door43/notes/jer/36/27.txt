@@ -22,7 +22,7 @@
 \p
 \v 27 Then the word of Yahweh came to Jeremiah after the king had burned the scroll and the words that Baruch had written at Jeremiah's dictation, and he said,
 \v 28 "Go back, take another scroll for yourself, and write in it all the words that were on the original scroll, the one that Jehoiakim king of Judah burned.
-\v 29 Then you must say this to Jehoiakim king of Judah: 'You burned that scroll, saying, "Why have you written on it, 'The king of Babylon will certainly come and destroy this land, for he will destroy both man and beast in it'?"'"
+\v 29 Then you must say this to Jehoiakim king of Judah: 'You burned that scroll! And you said: Why have you written on it, "The king of Babylon will certainly come and destroy this land, for he will destroy both man and beast in it"?'"
 </usfm>
 
 ===== translationWords: =====
@@ -40,9 +40,8 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. Translate as in [[:en:bible:notes:jer:01:01|1:2]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **to Jeremiah ... Jeremiah's dictation** - It is not clear why Jeremiah is referring to himself by name here. You may translate using first person, as the UDB does. (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **at Jeremiah's dictation** - See [[:en:bible:notes:jer:36:04|36:4]], where similar words are translated.
+  * **the word of Yahweh came to** - See how you translated this in [[:en:bible:notes:jer:01:01|1:2]].
+  * **at Jeremiah's dictation** - See how you translated this in [[:en:bible:notes:jer:36:04|36:4]].
   * **Go back, take another scroll for yourself** - "Take another scroll for yourself again"
   * **the original scroll** - "the first scroll"
   * **Why have you written on it** - Jehoiakim uses this question to emphasize that Jeremiah should not have written that the king of Babylon would come and attack. AT: "You should not have written" or "You were wrong to write." (See: [[:en:ta:vol1:translate:figs_rquestion]])
@@ -55,6 +54,6 @@
   * [[:en:bible:questions:comprehension:jer:36]]
 **[[:en:bible:notes:jer:36:25|<<]] | [[:en:bible:notes:jer:36:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

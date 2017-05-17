@@ -13,7 +13,7 @@
 
 <usfm>
 \v 6 This is what I, Yahweh the Lord, say: You clapped your hands joyfully and stomped your feet, and laughed because you despised the people in the land of Israel.
-\v 7 Therefore, I will use my power against you, and I will enable other nations to conquer you and take you away like any other possessions of yours. I will destroy you completely, and you will no longer be one of the nations. When that happens, people will know that I, Yahweh, have the power to do what I say that I will do.'"
+\v 7 Therefore, I will use my power against you, and I will enable other nations to conquer you and take you away like any other possessions of yours. I will destroy you completely, and you will no longer will be one of the nations. When that happens, people will know that I, Yahweh, have the power to do what I say that I will do.'"
 
 
 \p
@@ -35,12 +35,12 @@
 
 ===== translationNotes: =====
 
-  * **You have clapped your hands and stamped your feet** - These actions are ways to show strong emotions. In this case they people are cheering and showing their contempt against Israel. (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **all the contempt within you against the land of Israel** - Here the "land of Israel" represents of the people who live there. AT: "with all of the hatred you feel towards the people who live in Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **behold** - "indeed." The word "behold" here adds emphasis to what follows.
-  * **I will strike you with my hand** - "I will hit you with my powerful hand." Here Yahweh speaks of punishing the people as if he were literally hitting them with his hand. AT: "I will punish you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **give you as plunder to the nations** - The word "you" refers to the people of Ammon but is also a metonym for their land and their possessions. AT: "I will allow enemies to defeat you and take you, your land, and your possessions as plunder" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **all the contempt within you against the land of Israel** - AT: "with all of the hatred you feel towards the people who live in Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **behold!** - AT: "look!" or "listen!" or "pay attention to what I am about to tell you!"
+  * **I will strike you with my hand** - AT: "I will hit you with my powerful hand" or "I will punish you"
+  * **and give you as plunder to the nations** - AT: "and I will cause the nations to come and take everything away from you"
   * **I will cut you off from the peoples ... make you perish from among the countries** - These phrases mean basically the same thing and emphasize Yahweh will completely destroy the people of Ammon so that they are no longer a nation. AT: "I will completely destroy you so that you are no longer a nation" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **you will know that I am Yahweh** - See how you translated this in [[:en:bible:notes:ezk:06:06|6:7]].
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:ezk:25]]
 **[[:en:bible:notes:ezk:25:03|<<]] | [[:en:bible:notes:ezk:25:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -23,8 +23,8 @@
 \v 6 Look! If you escape and the Assyrians do not kill you,
 \q2 the army of Egypt will capture you.
 \q2 You will die there, and the people in the city of Memphis will bury you.
-\q1 All your wealth in silver will be covered up 
-\q1 and lost when the desert plants grow into your homes and take them over. 
+\q1 All your wealth in silver will become like the wilderness,
+\q2 and your houses, also.
 
 
 \q1
@@ -62,13 +62,12 @@
 
   * **General Information:** - Hosea the prophet is speaking.
 
-  * **What will you do on the day of an appointed festival, on the day of a festival for Yahweh?** - Hosea uses this question to emphasize that the people will no longer be able to observe their festivals when their enemies defeat them and take them captive. AT: "You will not be able to celebrate the festivals that Yahweh appointed for you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the day of an appointed festival ... the day of a festival for Yahweh** - Both of these mean the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **if they escape** - Here "they" still refers to the people of Israel. You can continue stating this is second person. AT: "if you escape" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **What will you do on the day of an appointed festival, on the day of a festival for Yahweh?** - Hosea uses this question to emphasize that the people will no longer be able to observe their festivals when their enemies defeat them and take them captive. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **if they escape** - Here "they" still refers to the people of Israel. AT: "if you escape"
   * **Egypt will gather them, and Memphis will bury them** - Egypt and Memphis refer to the people who live there. AT: "the army of Egypt will capture you. You will die there, and the people in the city of Memphis will bury you" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **As for their treasures of silver—sharp briers will possess them** - Briers growing in the places where Israelites stored their silver is spoken of as if the briers were human enemies that would take the Israelite's precious possessions for themselves. AT: "Sharp briers will grow where they store their treasures of silver" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **sharp briers will possess them, and thorns will fill their tents** - Here "sharp briers" and "thorns" mean the same thing. To have briers and thorns growing represents a land that has become desolate and like a wilderness. (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **their tents** - Here "tents" represents the Israelites' homes. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **sharp briers will possess them, and thorns will fill their tents** - Plants with briers and thorns are symbolic of land that has no one living or working on it. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **sharp briers will possess them** - Briers are spoken of as if they were human enemies able to take the Israelite's precious possessions for themselves. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **tents** - This expression probably means "houses." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 
 ===== Links: =====
@@ -78,6 +77,6 @@
   * [[:en:bible:questions:comprehension:hos:09]]
 **[[:en:bible:notes:hos:09:03|<<]] | [[:en:bible:notes:hos:09:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass memphis}}
+~~DISCUSSION~~{{tag>publish p2check memphis}}
 
 ~~NOCACHE~~

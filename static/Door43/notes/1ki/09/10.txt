@@ -17,8 +17,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 10 It came about at the end of twenty years that Solomon had finished building the two buildings, the temple of Yahweh and the king's palace.
-\v 11 Now Hiram, the king of Tyre, had furnished Solomon with cedar and cypress trees, and with gold—all that Solomon desired—so King Solomon gave Hiram twenty cities in the land of Galilee.
+\v 10 It came about at the end of twenty years, Solomon had finished building the two buildings, the temple of Yahweh and the king's palace.
+\v 11 Hiram, the king of Tyre, had furnished Solomon with cedar and cypress trees, and with gold; all that Solomon desired. So King Solomon gave Hiram twenty cities in the land of Galilee.
 </usfm>
 
 ===== translationWords: =====
@@ -33,9 +33,9 @@
 
 ===== translationNotes: =====
 
-  * **It came about** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way of doing this, you could consider using it here.
-  * **at the end of twenty years** - "after 20 years"
-  * **Solomon had finished building** - It might be best to translate so that the reader understands that other people helped Solomon do this. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **It came about** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **at the end of twenty years** - AT: "after 20 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Solomon had finished building** - AT: "Solomon's workers had finished building" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:1ki:09]]
 **[[:en:bible:notes:1ki:09:08|<<]] | [[:en:bible:notes:1ki:09:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

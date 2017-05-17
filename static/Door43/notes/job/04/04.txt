@@ -26,6 +26,7 @@
 \q1
 \v 6 You say that you honor God; so you should be trusting in him, for him not to let you suffer.
 \q2 If you really had not sinned, you would have been confident that God would not let these disasters happen to you!
+\b
 
 
 \q1
@@ -35,14 +36,14 @@
 
 <usfm>
 \q
-\v 4 Your words have supported him who was falling;
+\v 4 Your words have supported him who was falling,
 \q you have made feeble knees firm.
 \q
-\v 5 But now trouble has come to you, and you are weary;
+\v 5 But now trouble has come to you, and you faint;
 \q it touches you, and you are troubled.
 \q
-\v 6 Is not your fear your confidence,
-\q and the integrity of your ways your hope?
+\v 6 Should not your fear of God give you confidence?
+\q Should not the integrity of your ways give you hope?
 </usfm>
 
 ===== translationWords: =====
@@ -57,17 +58,15 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The writer uses parallelism in each of these verses to make one idea using two different statements to emphasize 1) the support that Job has given others in the past, 2) the effect on him of his present troubles, and 3) his piety before God. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - The writer uses parallelism in each of these verses make one idea using two different statements to emphasize 1) the support that Job has given others in the past, 2) the effect on him of his present troubles, and 3) his piety before God. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **supported** - Someone who has been encouraged is spoken of as if he were kept from falling down. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **falling** - Here becoming discouraged is spoken of as if it were falling down. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **you have made feeble knees firm** - Here discouragement is spoken of as if it were a person whose weak knees could not keep him upright. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **But now trouble has come to you** - Here trouble is spoken of as if it were an object that could come to a person. AT: "But now you suffer from disasters" See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **you are weary** - "you are discouraged"
-  * **your fear** - "the fact that you honor God"
-  * **Is not your fear your confidence, and the integrity of your ways your hope?** - Eliphaz asks these questions in order to tell Job that it is because of his sin that he is suffering. AT: "Everyone thinks that you honor God; everyone thinks that you are an honest man. But these things must not be true, because you do not trust God any longer." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **your fear** - Eliphaz means Job's fear of God. AT: "your fear of God" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **your ways** - Here "your ways" represents "your conduct," "how you behave." See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **supported** - "held up" like catching someone from falling to the ground when they stumble on a rock
+  * **falling** - "stumbling"
+  * **you have made feeble knees firm** - "you encouraged others when they were in extreme sorrow."
+  * **But now trouble has come to you** - "But now you suffer from disasters"
+  * **you faint** - "you are emotionally weak"
+  * **your fear of God** - "your piety"
+  * **Should not your fear of God give you confidence? Should not the integrity of your ways give you hope?** - Eliphaz asks these questions to make Job consider that the cause of his suffering is sin in his life despite his supposed piety and integrity. AT: "Everyone thinks that you honor God; everyone thinks that you are an honest man. But these things must not be true, because you have no more trust in God." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -76,6 +75,6 @@
   * [[:en:bible:questions:comprehension:job:04]]
 **[[:en:bible:notes:job:04:01|<<]] | [[:en:bible:notes:job:04:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass confidence integrity}}
+~~DISCUSSION~~{{tag>publish p2edit confidence integrity}}
 
 ~~NOCACHE~~

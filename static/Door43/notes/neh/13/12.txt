@@ -17,7 +17,7 @@
 
 <usfm>
 \v 12 Then all the people of Judah again started to bring to the temple storerooms their tithes of grain, wine, and olive oil.
-\v 13 I appointed these men to be in charge of the storerooms. Shelemiah the priest, Zadok, an expert in the Jewish laws, and Pedaiah, a descendant of Levi. I appointed Hanan son of Zaccur and grandson of Mattaniah to assist them. I knew that I could trust those men to distribute the offerings fairly to their fellow workers.
+\v 13 I appointed these men to be in charge of the storerooms. Shelemiah the priest, Zadok, an expert in the Jewish laws, and Pedaiah, a descendant of Levi. I appointed Hanan son of Zaccur and grandson of Mattaniah to assist them. I knew that I could trust those men to distribute the offerings fairly to their fellow workers. 
 \p
 \v 14 My God, do not forget all these good deeds that I have done for your temple and for the work that is done there!
 
@@ -56,10 +56,10 @@
   * [[:en:obe:kt:houseofgod]]
 ===== translationNotes: =====
 
-  * **all Judah** - The name of the land is a metonym for the people of the land. This is probably a generalization. AT: "all the people who lived in Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **Shelemiah ... Zadok ... Pedaiah ... Hanan ... Zaccur ... Mattaniah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **they were counted as trustworthy** - This can be translated in active form. The abstract noun "trustworthy" can be translated as a verb. AT: "I knew that I could trust them" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Call me to mind, my God, concerning this** - "My God, remember me concerning this" 
+  * **all Judah brought in the tithe** - In response to Nehemiah's words in [[:en:bible:notes:neh:13:10|13:10-11]], the Jews are now keeping the law with regard to tithes and offerings for the priests.
+  * **Shelemiah ... Zadok ... Pedaiah ... Hanan ... Zaccur ... Mattaniah** - These are the names of males. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Call me to mind, my God, concerning this** - "My God, remember me concerning this." Nehemiah gives his summary account of accomplishments to God, asks to be remembered, and closes that item to move on to the next.
+ 
  
 ===== Links: =====
 
@@ -74,6 +74,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass trust}}
+{{tag>publish p2edit trust}}
 
 ~~NOCACHE~~

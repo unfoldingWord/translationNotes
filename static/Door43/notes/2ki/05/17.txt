@@ -48,14 +48,11 @@
 
 ===== translationNotes: =====
 
-  * **If not** - The missing words may be added. AT: "If you will not take the gifts I have brought for you" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **let there be given to your servant** - This can be stated in active from. AT: "let me have" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **two mule loads of earth** - Naaman is asking to take soil from Israel and place it in sacks for two mules to carry home with him. He then plans to build an altar on the soil. AT: "as much soil from Israel as two mules can carry, so that I can build an altar to Yahweh." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **your servant** - Naaman refers to himself as Elisha's servant to honor him. 
-  * **will offer neither burnt offering nor sacrifice to any god but Yahweh** - This can be written in positive form. AT: "will not offer burnt offering or sacrifice to any god but Yahweh" or "will only offer burnt offerings and sacrifices to Yahweh" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **If not** - "If you will not take the gifts I have brought for you" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **let there be given to your servant** - "let me have"; (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **two mule loads of earth** - "as much soil from Israel as two mules can carry, so that I can build an altar to Yahweh." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **when my king** - This is referring to the king of Aram, the king that Namaan works for.
-  * **he leans on my hand** - "he supports himself on my arm." This means that Naaman assists the king when he bows in the house of Rimmon because the king is either old or sick. 
-  * **Go in peace** - "Go home and do not worry" or "Leave without fear"
+  * **Go in peace** - AT: "Leave without fear"
 
 ===== Links: =====
 
@@ -64,6 +61,6 @@
   * [[:en:bible:questions:comprehension:2ki:05]]
 **[[:en:bible:notes:2ki:05:15|<<]] | [[:en:bible:notes:2ki:05:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass bow king pardon rimmon}}
+~~DISCUSSION~~{{tag>publish p2edit bow king pardon rimmon}}
 
 ~~NOCACHE~~

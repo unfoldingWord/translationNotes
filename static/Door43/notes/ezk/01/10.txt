@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 10 The likeness of their faces was like the face of a man. The four of them had the face of a lion to the right side, and the four of them had the face of an ox on the left side. They four had also the face of an eagle.
+\v 10 The appearance of their faces was like the face of a man, next, the face of a lion to the right, next, the face of an ox to the left, and finally, the face of an eagle.
 \v 11 Their faces were like that, and their wings were spread out above, so that each creature had a pair of wings that touched another creature's wing, and also a pair of wings that covered their bodies.
 \v 12 Each went straight forward, so that wherever the Spirit directed them to go, they went without turning.
 </usfm>
@@ -33,15 +33,13 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Ezekiel continues to describe his vision.
-
-  * **The likeness of their faces was like the face of a man** - Ezekiel is describing the faces of the creatures on their front side. The abstract noun "likeness" can be translated as an adjective. AT: "The faces of each creature were something similar to the face of a man" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **The four of them had the face of a lion to the right side** - "The face on the right side of each one's head looked like the face of a lion"
-  * **the four of them had the face of an ox on the left side** - "the face on the left side of the head of each one looked like the face of an ox"
-  * **They four had also the face of an eagle** - "The face on the back of the head of each one looked like the face of an eagle"
-  * **their wings were spread out above, so that each creature had a pair of wings that touched another creature's wing** - "each creature held up two of his wings so that one wing touched the wing of the creature on one side of him, and the other wing touched the wing of the creature on the other side of him"
-  * **and also a pair of wings that covered their bodies** - This can be translated as a new sentence: "The other two wings of each creature covered its body"
-  * **Each went straight forward** - "Each creature moved with a face looking forward"
+  * **The appearance of their faces was like the face of a man** - It was implied that Ezekiel was describing the faces of the creatures on their front side. AT: "The faces of each creature looked like this: The face in front looked like the face of a man." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **next, the face of a lion to the right** - "the face on the right side of its head looked like the face of a lion."
+  * **next, the face of an ox to the left** - "the face on the left side of its head looked like the face of an ox."
+  * **finally, the face of an eagle** - "finally, the face on the back of its head looked like the face of an eagle."
+  * **their wings were spread out above, so that each creature had a pair of wings that touched another creature's wing** - AT: "each creature held up two of his wings so that one wing touched the wing of the creature on one side of him, and the other wing touched the wing of the creature on the other side of him."
+  * **and also a pair of wings that covered their bodies** - This can be translated as a new sentence: "The other two wings of each creature covered its body."
+  * **Each went straight forward** - "Each creature went with a face looking forward"
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -49,6 +47,6 @@
   * [[:en:bible:questions:comprehension:ezk:01]]
 **[[:en:bible:notes:ezk:01:07|<<]] | [[:en:bible:notes:ezk:01:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

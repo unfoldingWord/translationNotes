@@ -22,7 +22,7 @@
 \q1
 \v 80 Enable me to perfectly obey your statutes
 \q2 so that I may not be ashamed because of not doing that.
-
+\b
 
 
 \q1
@@ -38,6 +38,7 @@
 \q
 \v 80 May my heart be blameless with respect to your statutes
 \q so that I may not be put to shame.
+\b
 </usfm>
 
 
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:077|<<]] | [[:en:bible:notes:psa:119:081|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

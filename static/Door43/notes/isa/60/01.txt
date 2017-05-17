@@ -26,7 +26,7 @@
 
 <usfm>
 \c 60
-\m
+\p
 \q1
 \v 1 Arise, shine; for your light has come, and the glory of Yahweh has risen on you.
 </usfm>
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:isa:60]]
 **[[:en:bible:notes:isa:59:21|<<]] | [[:en:bible:notes:isa:60:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

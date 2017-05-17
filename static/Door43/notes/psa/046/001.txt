@@ -32,7 +32,7 @@
 \q2 and if the hills shake violently,
 \q2 we will not be afraid!
 
-
+\b
 
 
 \q1
@@ -42,8 +42,9 @@
 
 <usfm>
 \c 46
-\m
+\p
 \d For the chief musician. A psalm of the sons of Korah; set to Alamoth. A song.
+\b
 \q
 \v 1 God is our refuge and strength,
 \q a very present help in trouble.
@@ -52,8 +53,9 @@
 \q though the mountains should be shaken into the heart of the seas,
 \q
 \v 3 though its waters roar and rage, and
-\q though the mountains tremble with their swelling.
+\q though the mountains tremble with their swelling. 
 \qs Selah\qs*
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -73,13 +75,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]) 
+  * **General Information:** - This psalm is a song of praise. See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]] 
 
   * **For the chief musician** - "This is for the director of music to use in worship."
   * **A psalm of the sons of Korah** - "This is a psalm that the sons of Korah wrote"
   * **set to Alamoth** - This may refer to a style of music. (See: [[:en:ta:vol1:translate:translate_unknown]])
   * **God is our refuge and strength** - The writer speaks of God as if he were a place where people can go for safety. AT: "God gives us safety and strength" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the mountains should be shaken into the heart of the seas** - The writer speaks of the deepest part of the sea as if it were the sea's heart. Here he describes an earthquake that causes the mountains to crumble and fall into the sea. This can be stated in active form. AT: "the mountains should shake so violently that they fall into the depths of the sea" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the mountains should be shaken into the heart of the seas** - The writer speaks of the deepest part of the sea as if it were the sea's heart. Here he describes an earthquake that causes the mountains to crumble and fall into the sea. AT: "the mountains should shake so violently that they fall into the depths of the sea" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **though its waters roar and rage** - "though the waters of the sea roar and rage." The words "roar" and "rage" describe the violent movements of the sea during a strong storm.
   * **mountains tremble with their swelling** - The phrase "their swelling" refers to the waters of the sea as they rise and crash against the mountains. AT: "the swelling waters cause the mountains to tremble" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
@@ -90,6 +92,6 @@
   * [[:en:bible:questions:comprehension:psa:046]]
 **[[:en:bible:notes:psa:045:016|<<]] | [[:en:bible:notes:psa:046:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2 refuge}}
+~~DISCUSSION~~{{tag>publish p2check book2 refuge}}
 
 ~~NOCACHE~~

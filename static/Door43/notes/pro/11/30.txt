@@ -16,12 +16,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 30 Those who do what is right will be like a life giving tree,
+\v 30 Those who do what is right will be like a life giving tree, 
 \q2 but acts of violence take away life.
 \q1
-\v 31 It is sure that those who do what is right will get what they truly deserve;
-\q2 but even more, the person who does bad things
-\q1 and the one who sins against Yahweh,
+\v 31 It is sure that those who do what is right will get what they truly deserve; 
+\q2 but even more, the person who does bad things 
+\q1 and the one who sins against Yahweh, 
 \q1 will surely receive what they deserve.
 </usfm>
 
@@ -30,10 +30,10 @@
 
 <usfm>
 \q
-\v 30 The righteous person will be like a tree of life,
+\v 30 Those who do right will be like a tree of life,
 \q but violence takes away lives.
 \q
-\v 31 Behold! The righteous person receives what he deserves;
+\v 31 If those who do right receive what they deserve, 
 \q how much more the wicked and the sinner!
 </usfm>
 
@@ -48,9 +48,10 @@
 
 ===== translationNotes: =====
 
-  * **The righteous will be like a tree of life** - A person who does what is right is compared to a tree that produces life as its fruit. AT: "Those who do right will bring life to themselves and others" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **tree of life** - Translate this as in [[:en:bible:notes:pro:03:17|3:18]].
-  * **how much more** - "even more so" 
+
+  * **Those who do right will be like a tree of life** - A person who does what is right is compared to a tree that produces life as its fruit. AT: "Those who do right will bring life to themselves and others" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **tree of life** - See how you translated this in [[:en:bible:notes:pro:03:17|3:18]].
+  * **how much more** - AT: "even more so" 
  
  
 ===== Links: =====
@@ -66,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

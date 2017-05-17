@@ -21,6 +21,7 @@
 <usfm>
 \v 13 You people who live far away and you people who live nearby,
 \q2 pay attention to what I have done and realize that I am very powerful."
+\b
 \q1
 \v 14 The sinners in Jerusalem will tremble because they are very afraid;
 \q2 godless people will be terrified.
@@ -35,6 +36,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 13 You who are far away, hear what I have done; and, you who are near, acknowledge my might."
 \q1
@@ -55,10 +57,7 @@
 
   * **General Information:** - Yahweh continues to speak.
 
-  * **You who are far away, hear what I have done; and, you who are near, acknowledge my might** - Yahweh uses the words "far away" and "near" to mean all people. The word "might" can be expressed with the adjective "mighty." AT: "All people everywhere hear what I have done and acknowledge that I am mighty" (See: [[:en:ta:vol2:translate:figs_merism]] and  [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **trembling has seized the godless ones** - This speaks of the godless people trembling as if their trembling were an enemy that had seized them. AT: "the godless ones are overwhelmed with trembling" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **Who among us ... burnings** - It is implied that the sinner in Zion ask these questions. AT: "They say, "Who among us ... burnings" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Who among us can sojourn with a raging fire? Who among us can sojourn with everlasting burnings?** - These rhetorial questions have basically the same meaning and emphasize that no one can live with fire. Here fire represents Yahweh's judgment. AT: "No one can live with raging fire! No one can live with everylasting burns!" or "No one can live bearing Yahweh's judgment, it is like an everlasting fire!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **You who are far away, hear what I have done; and, you who are near, acknowledge my might** - Yahweh uses the words "far away" and "near" to mean all people. AT: "All people everywhere listen to what I have done and admit that I am mighty" (See: [[:en:ta:vol2:translate:figs_merism]])
   * **sojourn** - live in a place that is not one's home
 ===== Links: =====
 
@@ -73,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

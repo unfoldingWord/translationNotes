@@ -24,7 +24,7 @@
 
 <usfm>
 \v 11 But Naomi said, "Turn back, my daughters! Why will you go with me? Do I still have sons in my womb for you, so that they may become your husbands?
-\v 12 Turn back, my daughters, go your own way, for I am too old to have a husband. If I said, 'I hope I get a husband tonight,' and then give birth to sons,
+\v 12 Turn back, my daughters, go your own way, for I am too old to have a husband. If I said, 'I hope I get a husband tonight,' and then give birth to sons, 
 \v 13 would you therefore wait until they were grown? Would you wait and not marry men now? No, my daughters! It greatly grieves me, much more than it grieves you, because the hand of Yahweh has turned against me."
 </usfm>
 
@@ -35,10 +35,10 @@
 
 ===== translationNotes: =====
 
-  * **Why will you go with me?** - This is a rhetorical question. AT: "It does not make sense for you to go with me." or "You should not go with me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Why will you go with me?** - This is a rhetorical question. AT: "It does not make sense for you to go with me" or "You should not go with me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Do I still have sons in my womb for you, so that they may become your husbands?** - Naomi uses this question to say she cannot have other sons for them to marry. AT: "Obviously it is not possible for me to have any more sons who could become your husbands." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **too old to have a husband** - The reason a husband would be important can be stated clearly. AT: "too old to marry again and bear more children" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **give birth to sons** - "bear children" or "deliver baby boys" 
+  * **give birth to son** - "bear a child" or "deliver a baby boy" 
   * **would you therefore wait until they were grown? Would you wait and not marry men now?** - These are rhetorical questions, which do not expect an answer. AT: "you would not wait until they were grown up so that you could marry them. You would want to marry men now." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **It greatly grieves me** - What grieves her can be stated clearly. AT: "It greatly grieves me that you have no husbands" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **the hand of Yahweh has turned against me** - The word "hand" refers to Yahweh's power or influence. AT: "Yahweh has caused terrible things to happen to me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -49,4 +49,4 @@
   * [[:en:bible:questions:comprehension:rut:01]]
 **[[:en:bible:notes:rut:01:08|<<]] | [[:en:bible:notes:rut:01:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}

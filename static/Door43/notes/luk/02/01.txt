@@ -23,10 +23,10 @@
 
 <usfm>
 \c 2
-\p
-\v 1 Now in those days, it came about that Caesar Augustus sent out a decree ordering that a census be taken of all the people living in the world.
-\v 2 This was the first census made while Quirinius was governor of Syria.
-\v 3 So everyone went to his own city to be registered for the census.
+\p 
+\v 1 Now in those days, it came about that Caesar Augustus sent out a decree ordering that a census be taken of all the people living in the world. 
+\v 2 This was the first census made while Quirinius was governor of Syria. 
+\v 3 So everyone went to his own town to be registered for the census.
 </usfm>
 
 
@@ -51,7 +51,7 @@
   * **the world** - "the part of the world controlled by the Roman government" or "the countries ruled by the Roman emperor"
   * **Quirinius** - Quirinius was appointed to be the governor of Syria. (See: [[:en:ta:vol1:translate:translate_names]])
   * **everyone went** - "everyone started off" or "everyone was going"
-  * **his own city** - This refers to the cities where people's ancestors lived. People may have lived in a different city. AT: "the city in which his ancestors lived" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **his own town** - It may be helpful to state that "his own" does not refer to the town where he lived. AT: "the town in which his ancestors lived" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **to be registered for the census** - "to have their names written in the register" or "to be included in the official count"
 ===== Links: =====
 

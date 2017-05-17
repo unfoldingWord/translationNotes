@@ -23,6 +23,7 @@
 <usfm>
 \v 3 Walk along and see where everything has been totally ruined;
 \q2 our enemies have destroyed everything in the sacred temple.
+\b
 \q1
 \v 4 Your enemies shouted triumphantly in this sacred place;
 \q1 they erected their banners to show they had defeated us.
@@ -78,6 +79,6 @@
   * [[:en:bible:questions:comprehension:psa:074]]
 **[[:en:bible:notes:psa:074:001|<<]] | [[:en:bible:notes:psa:074:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

@@ -30,7 +30,7 @@
 \q1
 \v 12 Even the elders of the city say bad things about me.
 \q2 The drunkards of the city sing disgusting songs about me.
-
+\b
 
 
 \q1
@@ -67,7 +67,7 @@
   * **I made sackcloth my clothing** - Wearing rough, cheap clothing was a symbol of mourning over sin. (See: [[:en:ta:vol2:translate:translate_symaction]])
   * **I became the object of a proverb** - The writer speak of himself as if he was the sad or foolish person in a proverb. AT: "I became the example of a sad person spoken of in their proverbs" or "they laugh at me" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Those who sit in the city gate** - Here "city gate" is associated with leadership of a town. AT: "The important people of the city" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I am a song of drunkards** - The writer speaks of himself as if he was the person about whom the drunkards sing mocking songs. AT: "the drunkards of the city sing disgusting songs about me" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I am a song of drunkards** - The writer speaks of himself as if he was the person about whom the drunkards sing mocking songs. AT: "The drunkards of the city sing disgusting songs about me" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 
  
@@ -83,6 +83,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book2}}
+{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

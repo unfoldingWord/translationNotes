@@ -18,7 +18,7 @@
 
 <usfm>
 \p
-\v 25 It happened in the fifth year of King Rehoboam that Shishak king of Egypt came up against Jerusalem.
+\v 25 It happened in the fifth year of King Rehoboam that Shishak king of Egypt, came up against Jerusalem.
 \v 26 He took away the treasures in the house of Yahweh, and the treasures in the king's house. He took everything away; he also took all the shields of gold that Solomon had made.
 </usfm>
 
@@ -32,14 +32,8 @@
 
 ===== translationNotes: =====
 
-  * **in the fifth year of King Rehoboam** - This refers to the fifth year of Rehoboam's reign as king. AT: "in the fifth year that Rehoboam was king" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **in the fifth year** - "in year 5" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **Shishak king of Egypt came up against Jerusalem** - "Shishak king of Egypt" is a metonym for Shishak along with the Egyptian army. AT: "Shishak king of Egypt, and his army with him, came up against Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Shishak** - This is the name of a man. See how you translated this in [[:en:bible:notes:1ki:11:40|11:40]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **came up against** - This is an idiom that means marched against or attacked. AT: "came to attack" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **He took everything away** - This is a generalization that indicates every valuable thing that could be found was taken away. AT: "He took away many valuable things" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **He took** - The word "He" represents Shishak and the soldiers who were with him. AT: "Shishak and his army took" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **that Solomon had made** - Here "Solomon" refers to the craftsmen who worked for Solomon to make the shields. AT: "that Solomon had his workers make" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **came up against** - had his army attack (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **that Solomon had made** - AT: "that Solomon had his workers make" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -48,6 +42,6 @@
   * [[:en:bible:questions:comprehension:1ki:14]]
 **[[:en:bible:notes:1ki:14:23|<<]] | [[:en:bible:notes:1ki:14:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass shield}}
+~~DISCUSSION~~{{tag>publish p2edit shield}}
 
 ~~NOCACHE~~

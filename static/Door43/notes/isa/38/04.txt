@@ -28,7 +28,7 @@
 <usfm>
 \v 4 Then the word of Yahweh came to Isaiah, saying,
 \v 5 "Go and say to Hezekiah, the leader of my people, 'This is what Yahweh, the God of David your ancestor, says: I have heard your prayer, and I have seen your tears. See, I am about to add fifteen years to your life.
-\v 6 Then I will rescue you and this city from the hand of the king of Assyria, and I will defend this city.
+\v 6 And I will rescue you and this city from the hand of the king of Assyria, and I will defend this city.
 </usfm>
 
 
@@ -45,10 +45,8 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **See** - This is an idiom. It is used to ask the listener to pay attention to what is said next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **fifteen years** - "15 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **the hand of the king of Assyria** - Here the king's "hand" refers to his power. AT: "the power of the king of Assyria" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the word of Yahweh came** - "Yahweh spoke his word" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **See, I am about to add fifteen years** - "Pay attention, I am going to add 15 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -62,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

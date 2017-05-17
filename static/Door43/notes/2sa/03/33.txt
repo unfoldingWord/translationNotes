@@ -29,8 +29,8 @@
 <usfm>
 \v 33 The king lamented for Abner and sang,
 \q "Should Abner die as a fool dies?
-\q2
-\v 34 Your hands were not bound.
+\q2 
+\v 34 Your hands were not bound. 
 \q2 Your feet were not shackled.
 \q As a man falls before the sons of injustice, so you have fallen."
 \m Once more all the people wept over him.
@@ -45,12 +45,12 @@
 
 ===== translationNotes: =====
 
-  * **Should Abner die as a fool dies?** - This rhetorical question is used to emphasize that his death was not fair. AT: "Abner should not have died in disgrace!" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Should Abner die as a fool dies?** - This rhetorical question is used for emphasis and can be translated as a statement. AT: "Abner should not have been killed like a criminal!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Your hands were not bound. Your feet were not shackled** - These two sentences express similar ideas. They can be combined into one sentence.  AT: "You were in no way a criminal in prison" or "You were completely innocent of doing wrong" (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **Your hands were not bound** - This can be stated in active form. AT: "No one had tied your hands" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Your feet were not shackled** - This can be stated in active form. AT: "No one had attached your feet to chains" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the sons of injustice** - This refers to people who are unjust or wicked. AT: "wicked men" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **the sons of injustice** - This phrase refers to Joab and his group of wrongdoers. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the people** - This refers to the nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:2sa:03]]
 **[[:en:bible:notes:2sa:03:31|<<]] | [[:en:bible:notes:2sa:03:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

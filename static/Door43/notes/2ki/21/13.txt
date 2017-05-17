@@ -16,7 +16,7 @@
 <usfm>
 \v 13 I will judge and punish the people of Jerusalem as I punished the family of King Ahab of Israel. I will remove the people of Jerusalem as people wipe a plate clean and then turn it upside down to show that they are now satisfied.
 \v 14 And I will abandon the people who remain alive, and I will allow their enemies to conquer them and steal everything valuable from their land.
-\v 15 I will do this because my people have done things that I say are very evil, things which have caused me to become very angry. They have caused me to become angry continually, ever since the time that their ancestors left Egypt."
+\v 15 I will do this because my people have done things that I say are very evil, things which have caused me to become very angry. They have caused me to become angry continually, ever since the time that their ancestors left Egypt.'"
 
 
 \p
@@ -45,12 +45,10 @@
 ===== translationNotes: =====
 
 
-  * **stretch over Jerusalem the measuring line used against Samaria, and the plumb line used against the house of Ahab** - The words "measuring line" and "plumb line" are metaphors for the standards Yahweh uses to judge people. AT: "judge Jerusalem using the same measure I used when I judged Samaria and the house of Ahab" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **against Samaria** - Samaria is the capital city and it represents all the people of the kingdom of Israel. AT: "against the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **plumb line** - a tool made of a heavy weight and a thin rope used to show if a wall is straight
-  * **the house of Ahab** - Here "house" represents family. AT: "the family of Ahab" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I will throw off** - "I will abandon" (UDB) or "I will reject"
-  * **give them into the hand of their enemies** - "let their enemies defeat them and take over their land" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **stretch over Jerusalem the measuring line used against Samaria** - AT: "judge Jerusalem using the same measure I used when I judged Samaria" 
+  * **plumb line** - a tool made of a heavy weight and a thin rope used to show if a wall is straight 
+  * **I will throw off** - AT: "I will abandon" (UDB) or "I will reject"
+  * **hand them over into the hand of their enemies** - "let their enemies defeat them and take over their land" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
  
 ===== Links: =====
@@ -66,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

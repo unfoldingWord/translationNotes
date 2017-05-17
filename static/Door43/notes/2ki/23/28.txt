@@ -17,7 +17,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 28 If you want to know more about all the other things that Josiah did, they are written in the book of the events of the Kings of Judah.
+\v 28 If you want to know more about all the other things that Josiah did, they are written in the Book of the Events of the Kings of Judah.
 \p
 \v 29 While he was the king of Judah, King Neco of Egypt led his army north to the Euphrates River to help the king of Assyria. King Josiah tried to stop the army of Egypt at the city of Megiddo, but he was killed in a battle there.
 \v 30 His officials placed his corpse in a chariot and took it back to Jerusalem, where it was buried in his own tomb.
@@ -33,7 +33,7 @@
 
 <usfm>
 \p
-\v 28 As for the other matters concerning Josiah, everything that he did, are they not written in the book of the events of the kings of Judah?
+\v 28 As for the other matters concerning Josiah, everything that he did, are they not written in The Book of the Events of the Kings of Judah?
 \v 29 In his days, Pharaoh Neco, king of Egypt, went to fight against the king of Assyria at the Euphrates River. King Josiah went to meet Neco in battle, and Neco killed him at Megiddo.
 \v 30 Josiah's servants carried him dead in a chariot from Megiddo, brought him to Jerusalem, and buried him in his own grave. Then the people of the land took Jehoahaz son of Josiah, anointed him, and made him king in his father's place.
 </usfm>
@@ -54,8 +54,8 @@
   * [[:en:obe:kt:anoint]]
 ===== translationNotes: =====
 
-  * **are they not written ... Judah?** - This can be expressed in active form and assumes that the answer is positive. The question is rhetorical and is used for emphasis. See how you translated this in [[:en:bible:notes:2ki:08:22|8:23]]. AT: "you can find them ... Judah." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **In his days, Pharaoh Neco, king of Egypt** - "During the time of Josiah, Pharaoh Neco, king of Egypt"
+  * **are they not written ... Judah?** - AT: "you can be certain that they are written ... Judah." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **In his days, Pharaoh Neco, king of Egypt** - During the time he was king of Egypt, Pharaoh Neco"
   * **Neco ... Megiddo** - Neco is the name of a man. Megiddo is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
 
  
@@ -72,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

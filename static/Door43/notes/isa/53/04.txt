@@ -25,8 +25,9 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 4 But surely he has borne our sicknesses and carried our sorrows;
+\v 4 But surely he has borne our sicknesses and carried our sorrows; 
 \q1 yet we thought he was being punished by God,
 struck by God, and afflicted.
 </usfm>
@@ -39,10 +40,10 @@ struck by God, and afflicted.
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues describing Yahweh's servant. (See: [[:en:bible:notes:isa:53:01|53:1-2]])
+  * **General Information:** - Isaiah continues speaking to the people in exile in Babylonia. He continues describing Yahweh's servant. (See: [[:en:bible:notes:isa:53:01|53:1-2]])
 
-  * **he has borne our sicknesses and carried our sorrows** - To "bear" or carry an abstraction like sickness and sorrow represents taking it up. AT: "he has taken our sicknesses and sorrows upon himself" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **yet we thought he was being punished by God, struck by God, and afflicted** - This can be stated in active form. AT: "yet we thought God was punishing and afflicting him" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **he has borne our sicknesses and carried our sorrows** - "he has taken our sicknesses and sorrows upon himself"
+  * **yet we thought he was being punished by God, struck by God, and afflicted** - This can be stated in active form. AT: "yet we thought God was punishing and afflicting him because he sinned" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -51,6 +52,6 @@ struck by God, and afflicted.
   * [[:en:bible:questions:comprehension:isa:53]]
 **[[:en:bible:notes:isa:53:03|<<]] | [[:en:bible:notes:isa:53:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

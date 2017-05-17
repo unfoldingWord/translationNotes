@@ -29,6 +29,7 @@
 \q2 I am sure that Yahweh will not be angry with me for much longer.'
 \q1 But I will punish you severely
 \q2 for claiming that you have not sinned.
+\b
 \q1
 \v 36 Previously you requested the army of Assyria to help you,
 \q2 but they were not able to help you.
@@ -36,7 +37,7 @@
 \q2 but they will not be able to help you, either.
 \q1
 \v 37 They will capture you, and you will be their prisoners,
-\q2 very ashamed with your hands on your heads.
+\q2 led to Egypt, very ashamed with your hands on your heads.
 \q1 That will happen because Yahweh has rejected those nations that you are relying on,
 \q2 and they will not be able to help you at all."
 </usfm>
@@ -46,8 +47,8 @@
 
 <usfm>
 \q
-\v 35 Yet you say, 'I am innocent; surely his anger has turned away from me.'
-\q But look! I will bring down judgment on you because you say, 'I have not sinned.'
+\v 35 Instead, in spite of all these things, you keep saying, 'I am blameless. Surely Yahweh's anger will turn from me.'
+\q But look! You will be judged since you say, 'I have not sinned.'
 \q
 \v 36 Why do you treat so very lightly this change in your ways?
 \q You will also be disappointed by Egypt, just as you were by Assyria.
@@ -70,16 +71,17 @@
 
 ===== translationNotes: =====
 
-  * **surely his anger has turned away from me** - Here anger is spoken of as if it were a person that could turn away from Israel. Its turning represents Yahweh's stopping be angry with Israel  AT: "Surely Yahweh has stopped being angry with me" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **I will bring down judgment on you** - Here "judgment" represents punishment. AT:"I will punish you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I am** - "We are"
+  * **Surely Yahweh's anger will turn from me** - AT: "Surely Yahweh will stop being angry with us." (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **judged** - "punished severely"
+  * **since** - "because"
+  * **I have** - "We have"
   * **Why do you treat so very lightly this change in your ways?** - Yahweh is scolding the Israelites because they changed from one kingdom to another for help but did not rely on God for help. (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **lightly** - without care or concern
-  * **You will also be disappointed by Egypt** - This can be stated in active form. AT: "Egypt will also disappoint you." feeling sad or unhappy because the king of Egypt did not agree to protect them.
-  * **You will also be disappointed by Egypt** - The people of Israel will be sad because the army of Egypt will protect them. AT: "You will be disappointed when Egypt does not protect you" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **just as you were by Assyria** - The word "disappointed" is understood from the previous phrase. This can be stated in active form. AT: "just as you were disappointed by Assyria" or "just as Assyria disappointed you" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **You will also go out from there** - "You will go out from Egypt"
-  * **with your hands on your head** - This is a symbol of shame. (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **so you will not be helped by them** - This can be stated in active form. AT: "So they will not help you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **disappointed** - feeling sad or unhappy because the king of Egypt did not agree to protect them.
+  * **You will also go out from there** - AT: "You will go out from Egypt"
+  * **dejected** - sad because you did not get what a promise of Egyptian help.
+  * **hands on your head** - this shows a people in mourning (See: [[:en:ta:vol1:translate:figs_idiom]])
 
  
 ===== Links: =====
@@ -95,6 +97,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

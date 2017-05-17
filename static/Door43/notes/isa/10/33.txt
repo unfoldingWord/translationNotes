@@ -26,7 +26,7 @@
 
 <usfm>
 \q1
-\v 33 Behold, the Lord Yahweh of hosts will lop off the boughs with a terrifying crash;
+\v 33 Behold, the Lord Yahweh of hosts will lop off the boughs with a terrifying crash; 
 \q1 the tallest trees will be cut down, and the lofty will be brought low.
 \q1
 \v 34 He will chop down the thickets of the forest with an ax, and Lebanon in his majesty will fall.
@@ -43,13 +43,13 @@
 ===== translationNotes: =====
 
   * **Behold** - This can be translated as "Look" or "Listen" or "Pay attention to what I am about to tell you."
-  * **Yahweh of hosts** - Translate this as in [[:en:bible:notes:isa:01:09|1:9]].
-  * **will lop off the boughs ... and Lebanon in his majesty will fall** - Isaiah speaks of the army of Assyria as if it were the tall trees in Lebanon. God will destroy the army like people cutting down the mighty trees of Lebanon. This emphasizes that though the army is strong, God has the power to destroy it. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **will lop off the boughs ... and Lebanon in his majesty will fall** - In 10:33-34 Isaiah compares the army of Assyria to the tall trees in Lebanon. God will destroy the army like people cutting down the mighty trees of Lebanon. This emphasizes that though the army is strong, God has the power to destroy it. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **will lop off the boughs** - "will cut off the big branches of the trees." In order to make it clear that this refers to the army of Assyria, it can be translated as a simile: He will destroy the army of Assyria like strong men cutting off the big branches of trees. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **with a terrifying crash** - This can be reworded so that the abstract noun "crash" is expressed as the verb "make a noise." AT: "and the branches will crash down on the ground and make a terrifying noise" or "and the branches will fall to the ground with a very loud noise" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **the tallest trees will be cut down** - This can be stated in active form. AT: "he will cut down the tallest trees" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the tallest trees** - This is a metaphor for "the strongest soldiers." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the lofty will be brought low** - This can be stated in active form. AT: "he will bring down the lofty people"  (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the lofty will be brought low** - This can be stated in active form. AT: "He will bring down the lofty people."  (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **lofty** - proud
   * **the thickets of the forest** - "the dense shrubs in the forest." This is possibly a metaphor for those people who are not well known. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Lebanon in his majesty will fall** - "the forests of Lebanon will no longer be so grand." This is possibly a metaphor for the Assyrian army. AT: "Yahweh will defeat the army of Assyria, as mighty as it is" (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:10]]
 **[[:en:bible:notes:isa:10:30|<<]] | [[:en:bible:notes:isa:11:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

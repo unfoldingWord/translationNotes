@@ -49,14 +49,11 @@
 ===== translationNotes: =====
 
 
-  * **Abishai** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:02:18|2:18]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Zeruiah** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:02:12|2:13]]. (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **Should not Shimei be put to death for this, because he cursed Yahweh's anointed?** - Abishai was angry at Shimei for cursing David and is suggesting that he should be killed. This question can be written as a statement. AT: "Shimei should be put to death because he cursed Yahweh's anointed." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Yahweh's anointed** - This refers to David. It means that he is the man that Yahweh had anointed as king. AT: "the man that Yahweh has anointed as king" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **What have I to do with you ... that you should today be adversaries to me?** - David uses this rhetorical question to rebuke Abishai. This can be written as a statement. AT: "We have nothing in common with you, you sons of Zeruiah! You have no good reason to become my adversaries today." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Will any man be put to death today in Israel? For do I not know that today I am king over Israel?** - David uses these rhetorical questions to continue rebuking Abishai. These questions can be written as statements. AT: "No person will be executed today in the nation of Israel, because today I am the one who is king over all of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Will any man be put to death** - This phrase "put to death" means to be killed or executed. AT: "Will any man be killed" or "Will I order any man to die" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **For do I not know that today I am king over Israel?** - Possible meanings of this rhetorical question are 1) "I know that I am still king of Israel." (UDB) or 2) "Today I am the one who is king over Israel!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Abishai ... Zeruiah ... Shimei** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Should not Shimei be put to death for this, because he cursed Yahweh's anointed?** - Zeruiah was angry at Shimei for cursing David and thought he should be killed. This rhetorical question can be translated as a statement. AT: "Shimei should be put to death because he cursed David, the anointed king of the nation of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Yahweh's anointed** - This metonym refers to David, the man whom Yahweh anointed as king. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **What have I to do with you, you sons of Zeruiah, that you should today be adversaries to me? Will any man be put to death today in Israel? For do I not know that today I am king over Israel?** - These three rhetorical questions show David's anger with the sons of Zeruiah.  These questions can be translated as statements. AT: "We have nothing in common with you, you sons of Zeruiah! You have no good reason to become my adversaries today. No person will be executed today in the nation of Israel, because today I am the one who is king over all of Israel."
+  * **For do I not know that today I am king over Israel?** - Possible meanings are 1) "I know that I am still king of Israel." (UDB) or 2) "Today I am the one who is king over Israel!"
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -70,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -25,7 +25,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 Each one called to another and said,
+\v 3 Each one called to another and said, 
 \q1 "Holy, holy, holy, is Yahweh of hosts! The whole earth is full of his glory."
 </usfm>
 
@@ -39,9 +39,9 @@
 
   * **General Information:** - Isaiah continues to describe his vision.
 
-  * **Each one called to another and said** - "The seraphim called out to one another and said" or "The winged creatures proclaimed to one another"
-  * **Holy, holy, holy, is Yahweh of hosts** - Repeating the word "holy" three times indicates God is completely holy. AT: "Yahweh of hosts is holy beyond all else" or "Yahweh of hosts is completely holy"
-  * **The whole earth is full of his glory** - This speaks of the earth as if it were a container and glory were the contents in the container. AT: "Everything on the earth is evidence of God's glory" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Each one called to another and said** - "The seraphim called out to one another" or "The creatures proclaimed to one another"
+  * **Holy, holy, holy** - Repeating the word "holy" three times indicates God is completely holy. AT: "He is holy beyond all else" or "He is completely holy" (UDB)
+  * **The whole earth is full of his glory** - "The glory of Yahweh fills all the earth"
  
 ===== Links: =====
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:isa:06]]
 **[[:en:bible:notes:isa:06:01|<<]] | [[:en:bible:notes:isa:06:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

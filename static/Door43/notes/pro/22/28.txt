@@ -15,7 +15,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 28 The ancient boundary stones show where the property lines are. Do not take them away or move them. Your ancestors put them there. Leave them alone.
+\v 28 The ancient boundary stones show where the property lines are. Do not take them away or move them. 
+Your ancestors put them there. Leave them alone.
 \q1
 \v 29 One who learns a trade and is skillful at it will become a servant of kings.
 \q2 Because of his achievements he will not serve mere ordinary people.
@@ -41,12 +42,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
-
   * **ancient** - very old
-  * **boundary stone** - a large stone that shows where one person's land ends and another person's land begins
-  * **fathers** - ancestors
-  * **Do you see a man skilled at his work?** - This rhetorical question is actually a command. AT: "Think of someone you know who is skilled at his work" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **boundary stone** - a large stone to show the line that marks one area from another
+  * **fathers** - This means "forefathers."
+  * **Do you see a man skilled at his work?** - AT: "Consider a man who is skilled at his work" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **stand before** - serve, become a servant of. Kings and other important people will think so highly of him that they will use his services. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:pro:22]]
 **[[:en:bible:notes:pro:22:26|<<]] | [[:en:bible:notes:pro:23:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

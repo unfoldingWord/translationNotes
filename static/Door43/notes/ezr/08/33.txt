@@ -25,8 +25,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 33 Then on the fourth day the silver, gold, and objects were weighed out in our God's house into the hand of Meremoth son of Uriah the priest, and with him were Eleazar son of Phinehas, Jozabad son of Jeshua, and Noadiah son of Binnui the Levite.
-\v 34 The number and weight of everything was determined. All the weight was written down at that time.
+\v 33 Then on the fourth day the silver, gold, and objects were weighed out in our God's house into the hand of Meremoth son of Uriah the priest. With him were Eleazar son of Phinehas, Jozabad son of Jeshua, and Noadiah son of Binnui the Levite.
+\v 34 The number and weight of everything was determined; all the weight was written down at that time.
 </usfm>
 
 
@@ -40,10 +40,11 @@
   * [[:en:obe:other:levite]]
 ===== translationNotes: =====
 
-  * **the silver, gold, and objects were weighed out** - This can be translated in active form. AT: "the twelve priestly officials weighed out the silver, gold and objects" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
-  * **the silver, gold, and objects were weighed out ... into the hand of Meremoth** - Here "the hand of Meremoth" represents Meremoth's care of the silver, gold, and objects. The men weighed those things and gave them to Meremoth to take care of them. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Meremoth ... Uriah ... Eleazar ... Phinehas ... Jozabad ... Jeshua ... Noadiah ... Binnui** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Jeshua** - Translate this man's name as you did in [[:en:bible:notes:ezr:02:03|2:6]].
+  * **objects were weighed out** - This was a means of accountability for transporting all the temple money and temple objects.
+  * **Meremoth ... Jozabad ... Noadiah ... Binnui** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Eleazar** - Translate the same way you did Eleazar in [[:en:bible:notes:ezr:07:01|7:5]].
+  * **Jeshua** - Translate the same way you did in [[:en:bible:notes:ezr:02:01|2:2]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -54,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

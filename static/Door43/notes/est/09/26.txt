@@ -21,7 +21,7 @@
 <usfm>
 \p
 \v 26 Therefore they called these days Purim, after the name of Pur. Because of everything that was written in this letter, and everything that they had seen and that had happened to them,
-\v 27 the Jews accepted a new custom and duty. This custom would be for themselves, their descendants, and everyone who joined them. It would be that they would celebrate these two days every year. They would celebrate them in a certain way and at the same time each year.
+\v 27 the Jews accepted a new custom and duty. This custom would be for themselves, their descendants, and everyone who joined them. It would be that they would celebrate these two days every year. They would celebrate them in a certain way and at the same time each year. 
 \v 28 These days were to be celebrated and observed in every generation, every family, every province, and every city. These Jews and their descendants would never cease to faithfully observe these days of Purim, so that they should never forget them.
 </usfm>
 
@@ -32,11 +32,12 @@
 
 ===== translationNotes: =====
 
-  * **they called these days Purim, after the name of Pur** - To call something after something else is an idiom that means to give it the same name or a similar name. AT: "They called these days Purim, like the word Pur" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Purim** - This is the name of the festival that commemorates the salvation of the Jewish people in ancient Persia from Haman's plot to destroy and kill all the Jews in a single day. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the name of Pur** - It can be stated clearly what "Pur" means. AT: "the word Pur, which means 'lot'" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **These days were to be celebrated and observed** - This can be stated in active form. AT: "The Jews were to celebrate and observe these days" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **would never cease to faithfully observe** - This can be stated positively. AT: "would always faithfully observe"
+  * **Purim** - a festival that commemorates the salvation of the Jewish people in ancient Persia from Haman's plot to destroy and kill all the Jews in a single day. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **two** - "2" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **These days were to be celebrated and observed** - "the Jews were to celebrate and observe these days." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **would never cease to faithfully observe** - "always faithfully observe"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -44,6 +45,6 @@
   * [[:en:bible:questions:comprehension:est:09]]
 **[[:en:bible:notes:est:09:23|<<]] | [[:en:bible:notes:est:09:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -29,7 +29,7 @@
 <usfm>
 \q1
 \v 19 But even if it hails and the forest is destroyed, and the city is completely annihilated,
-\v 20 you who sow beside all the streams will be blessed, you who send out your ox and donkey to graze.
+\v 20 you who sow beside all the streams will be blessed, you who who send out your ox and donkey to graze.
 </usfm>
 
 ===== translationWords: =====
@@ -41,9 +41,9 @@
 
 ===== translationNotes: =====
 
-  * **hail** - Translate this the same as you did in [[:en:bible:notes:isa:28:01|28:2]]. 
-  * **the forest is destroyed, and the city is completely annihilated** - This can be stated in active form. AT: "it destroys the forest and completely destroys the city" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **you who sow beside all the streams will be blessed, you who who send out your ox and donkey to graze** - This can be stated in active form. This refers to Yahweh blessing all of his people and speaks of the things that are normal for his people to do. AT: "Yahweh will bless you, as you plant your crops in fields alongside the streams and as you send out your ox and donkey to graze in the pasture" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **even if it hails and the forest is destroyed, and the city is completely annihilated** - This can be stated in active form. AT: "even if hail would completely destroy the forest and the city" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **hail** - See how you translated this in [[:en:bible:notes:isa:28:17|28:17]]. 
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:isa:32]]
 **[[:en:bible:notes:isa:32:16|<<]] | [[:en:bible:notes:isa:33:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

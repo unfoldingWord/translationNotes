@@ -24,7 +24,7 @@
 \q1
 \v 3 We said, "Yes, Yahweh truly has done great things for us,
 \q2 and we are very happy."
-
+\b
 
 
 \q1
@@ -60,6 +60,6 @@
   * [[:en:bible:questions:comprehension:psa:126]]
 **[[:en:bible:notes:psa:126:001|<<]] | [[:en:bible:notes:psa:126:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

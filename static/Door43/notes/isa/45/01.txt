@@ -30,10 +30,10 @@
 
 <usfm>
 \c 45
-\m
+\p
 \q1
-\v 1 This is what Yahweh says to his anointed, to Cyrus, whose right hand I hold,
-\q1 in order to subdue nations before him, to disarm kings,
+\v 1 This is what Yahweh says to his anointed, to Cyrus, whose right hand I hold, 
+\q1 in order to subdue nations before him, to disarm kings, 
 \q1 and to open the doors before him, so that gates remain open:
 </usfm>
 
@@ -48,9 +48,7 @@
   * [[:en:obe:kt:gate]]
 
 ===== translationNotes: =====
-
-  * **whose right hand I hold** - Yahweh helping Cyrus and causing him to be successful is spoken of as if he were holding his right hand. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **whose right hand I hold** - Holding one's hand means to help a person. This means God will be his strength. (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -58,6 +56,6 @@
   * [[:en:bible:questions:comprehension:isa:45]]
 **[[:en:bible:notes:isa:44:28|<<]] | [[:en:bible:notes:isa:45:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

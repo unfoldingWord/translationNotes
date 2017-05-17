@@ -16,11 +16,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 So now, my sons, pay attention to what I say,
-\q1 and do not forget or disobey the instruction I am giving you.
+\v 7 So now, my sons, pay attention to what I say, 
+\q1 and do not forget or disobey the instruction I am giving you. 
 \q1
 \v 8 Stay far away from the immoral woman;
-\q2 do not go near the door of her house.
+\q2 do not go near the door of her house. 
+
 
 \q1
 </usfm>
@@ -30,7 +31,7 @@
 
 <usfm>
 \q
-\v 7 Now, my sons, listen to me;
+\v 7 And now, my sons, listen to me;
 \q do not turn away from listening to the words of my mouth.
 \q
 \v 8 Keep your path far away from her
@@ -45,12 +46,14 @@
 
 ===== translationNotes: =====
 
-  * **Now** - Here the teacher shifts from warning about the adulteress to giving advice.
+  * **And now** - Here the teacher shifts from warning about the adulteress to giving concrete advice.
   * **listen to me ... do not turn away from listening** - These two phrases express the same idea to make the student pay attention. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **do not turn away from listening** - The writer speaks of stopping an action as if the person physically turned away from it. AT: "do not stop listening" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the words of my mouth** - Here the word "mouth" represents the person who is speaking. AT: "my words" or "what I am saying" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Keep your path far away from her** - Here the word "path" represents the person's daily conduct and circumstances. AT: "Keep yourself far away from her" or "Stay away from her" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **do not come near the door of her house** - Here "the door of her house" represents the house itself. It may be more appropriate to use the word "go" instead of "come" since the latter might imply that the speaker is at the door of her house. AT: "do not go near the door of her house" or "do not even go near her house" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_go]])
+  * **do not turn away from listening** - AT: "always listen" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **the words of my mouth** - AT: "my teachings" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Keep your path far away ... do not come near** - These two phrases express the same idea to emphasize the importance of this advice.
+  * **Keep your path far away from her** - Possible meanings are 1) keep a physical distance between you and the adulteress and 2) do not live in a similar way as her.
+  * **do not come near** - "do not come close to" AT: "stay far away from"
+  * **the door of her house** - AT: "her" or "the adulteress" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_123person]])
 
 ===== Links: =====
 
@@ -59,6 +62,6 @@
   * [[:en:bible:questions:comprehension:pro:05]]
 **[[:en:bible:notes:pro:05:05|<<]] | [[:en:bible:notes:pro:05:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

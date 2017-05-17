@@ -14,11 +14,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 And Yahweh said, "I will talk of Rahab and Babyon 
-\q2 and the people there who know me.
-\q2 There are some who know me among the people of Egypt and Babylonia,
-\q2 and they live in the lands of Philistia and Tyre and Ethiopia,
-\q2 and they will say, 'Our home is Jerusalem and our land is Zion.'" 
+\v 4 Some of those who know our God are the people of Egypt and Babylonia,
+\q2 and also the people of Philistia and Tyre and Ethiopia;
+\q2 someday they all will say,
+\q2 "Although I was not born in Jerusalem,
+\q2 it is as though I was born there because I belong to Yahweh."
 
 
 \q1
@@ -28,9 +28,9 @@
 
 <usfm>
 \q
-\v 4 "I mention Rahab and Babylon to my followers.
-\q See, there are Philistia, and Tyre, along with Ethiopia—
-\q and will say, 'This one was born there.'"
+\v 4 I mention Rahab and Babylon to my followers.
+\q See, there are Philistia, and Tyre, along with Ethiopia.
+\q This one was born there.
 </usfm>
 
 ===== translationWords: =====
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:psa:087]]
 **[[:en:bible:notes:psa:087:001|<<]] | [[:en:bible:notes:psa:087:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

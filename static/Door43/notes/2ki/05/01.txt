@@ -37,10 +37,10 @@
   * [[:en:obe:other:kingdomofisrael]]
 ===== translationNotes: =====
 
-  * **in his master's view** - The king's "view" refer to what he thinks about something. AT: "in the king's opinion" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **because by him Yahweh had given victory to Aram** - Here "Aram" refers to the Aramean army. AT: "because through Naaman, Yahweh had given victory to the Aramean army"
-  * **The Arameans had gone out** - Here the "Arameans" refer to the Aramean soldiers. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **raiding in bands** - "in small groups attacking." This means to go out attacking an enemy in small groups. 
+  * **in his master's view** - "in the king's opinion" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **because by him Yahweh had given victory to Aram** - "because through Naaman, Yahweh had given victory to the Aramean army"
+  * **The Arameans had gone out raiding in bands and had taken a little girl from the land of Israel** - AT: "Groups of Aramean soldiers had attacked Israel and had taken a little girl from there." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2ki:05]]
 **[[:en:bible:notes:2ki:04:42|<<]] | [[:en:bible:notes:2ki:05:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass naaman}}
+~~DISCUSSION~~{{tag>publish p2edit naaman}}
 
 ~~NOCACHE~~

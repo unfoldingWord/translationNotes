@@ -16,7 +16,7 @@
 \v 21 As a result, people in Jerusalem will praise you for what you have done.
 \q2
 \v 22 Many people from other people groups and those who are citizens of other kingdoms will gather to worship you.
-
+\b
 
 
 \q1
@@ -31,6 +31,7 @@
 \q
 \v 22 when the peoples and kingdoms gather together
 \q to serve Yahweh.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:psa:102]]
 **[[:en:bible:notes:psa:102:019|<<]] | [[:en:bible:notes:psa:102:023|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

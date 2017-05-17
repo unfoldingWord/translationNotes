@@ -42,9 +42,18 @@
 ===== ULB: =====
 
 <usfm>
-\v 25 His son was Rephah. Rephah's son was Resheph. Resheph's son was Telah. Telah's son was Tahan.
-\v 26 Tahan's son was Ladan. Ladan's son was Ammihud. Ammihud's son was Elishama.
-\v 27 Elishama's son was Nun. Nun's son was Joshua.
+\q 
+\v 25 His son was Rephah.
+\q Rephah's son was Resheph. 
+\q Resheph's son was Telah. 
+\q Telah's son was Tahan.
+\q 
+\v 26 Tahan's son was Ladan.
+\q Ladan's son was Ammihud.
+\q Ammihud's son was Elishama.
+\q 
+\v 27 Elishama's son was Nun.
+\q Nun's son was Joshua.
 </usfm>
 
 

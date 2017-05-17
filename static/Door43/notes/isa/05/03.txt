@@ -30,6 +30,7 @@
 \q1 I expected you to be doing good deeds,
 \q2 so it is disgusting that you were doing only evil deeds
 \q2 like the vineyard that produced only sour grapes!
+\b
 
 
 \q1
@@ -39,11 +40,11 @@
 
 <usfm>
 \p
-\q1
-\v 3 So now, inhabitant of Jerusalem and man of Judah,
+\q1 
+\v 3 So now, inhabitants of Jerusalem and men of Judah;
 \q1 judge between me and my vineyard.
 \q1
-\v 4 What more could have been done for my vineyard, that I have not done for it?
+\v 4 What more could have been done for my vineyard, that I have not done for it? 
 \q1 When I looked for it to produce grapes, why did it produce wild grapes?
 </usfm>
 
@@ -57,13 +58,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - In Isaiah's parable of the vineyard, the owner of the vineyard, who represents God, speaks to the people of Jerusalem and Judah about his vineyard. (See: [[:en:ta:vol1:translate:figs_parables]])
+  * **General Information:** - This continues the parable about the vineyard that Isaiah began in [[:en:bible:notes:isa:05:01|5:1]]. The one who planted the vineyard is speaking.
 
-  * **inhabitant of Jerusalem and man of Judah** - These expressions refer in general to all people living in Jerusalem and Judah, so they can be translated with plural nouns. AT: "all of you who live in Jerusalem and Judah" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
-  * **Jerusalem ... Judah** - "Judah" was the name of the southern kingdom of Israelites, and Jerusalem was the capital city.
-  * **judge between me and my vineyard** - The idea of a space separating two things is often used to express the idea of choosing one or the other of those things. AT: "decide who has acted right, I or my vineyard" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **What more could have been done for my vineyard, that I have not done for it?** - The owner uses this question to make a statement about his vineyard. This rhetorical questions can be translated as a stataement. AT: "I have done all that I could do for my vineyard!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **When I looked for it to produce grapes, why did it produce wild grapes?** - The owner uses a question to say that his vineyard should have produced good grapes. This rhetorical question can be translated as a statement. AT: "I wanted it to make good grapes, but it only produced worthless grapes" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **inhabitants of Jerusalem and men of Judah** - "you who live in Jerusalem and Judah"
+  * **judge between me and my vineyard** - "decide between me and my vineyard who is right"
+  * **What more could have been done for my vineyard, that I have not done for it?** - Yahweh uses this question to scold the people of Jerusalem and Judah. AT: "I have done all that I could do for my vineyard!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **When I looked for it to produce grapes, why did it produce wild grapes?** - Yahweh uses a question to scold the people of Jerusalem and Judah. AT: "I wanted it to make good grapes, but it only produced worthless grapes!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -71,6 +71,6 @@
   * [[:en:bible:questions:comprehension:isa:05]]
 **[[:en:bible:notes:isa:05:01|<<]] | [[:en:bible:notes:isa:05:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

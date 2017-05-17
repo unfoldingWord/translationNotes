@@ -26,7 +26,7 @@
 \q2 he changed his mind about punishing them more.
 \q1
 \v 46 He caused all those who had taken the Israelites to Babylonia to feel sorry for them.
-
+\b
 
 
 \q1
@@ -44,6 +44,7 @@
 \q
 \v 46 He caused all their conquerers
 \q to have pity on them.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:106]]
 **[[:en:bible:notes:psa:106:042|<<]] | [[:en:bible:notes:psa:106:047|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

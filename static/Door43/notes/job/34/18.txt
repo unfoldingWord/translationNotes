@@ -32,6 +32,7 @@
 \v 20 They often die suddenly;
 \q2 he strikes them at midnight and they die;
 \q2 he gets rid of important people without the help of any humans.
+\b
 
 
 \q1
@@ -52,6 +53,7 @@
 \v 20 In a moment they will die;
 \q at midnight people will be shaken and will pass away;
 \q mighty people will be taken away, but not by human hands.
+\b
 </usfm>
 
 
@@ -69,14 +71,11 @@
 
   * **General Information:** - Elihu continues speaking.
 
-  * **God, who says to a king, 'You are vile,' or says to nobles, 'You are wicked'?** - This continues the rhetorical question from the previous verse, emphasizing to Job that he cannot condemn God. This can be written as a statement. AT: "He says to some kings, 'You are vile,' and he says to some nobles, 'You are wicked.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **God, who says to a king** - This is part of the previous question. The missing words may be added. AT: "Will you condemn God, who says to a king" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **vile** - "evil" or "worthless" (UDB) 
+  * **God, who says to a king, 'You are vile,' or says to nobles, 'You are wicked'?** - This continues the question from the previous verse. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **vile** - "evil" or "worthless" (UDB)
   * **for they all are the work of his hands** - Here "hands" refer to power. AT: "for God made them all" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **at midnight** - Here "midnight" is the time when one day ends and another begins. Here though, it is used as an idiom. AT: "at night" or "suddenly, at night" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **people will be shaken and will pass away** - This can be stated in active form. The phrase "will be shaken" is an idiom that means to be "struck." AT: "God strikes them and they die" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **mighty people will be taken away, but not by human hands** - This means that it is God who causes people to die, not people. Also, this can be stated in active form. AT: "it is God and not humans who cause mighty people to die" (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **not by human hands** - Here people are represented by their "hands." AT: "not by humans" or "not by people" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **at midnight people will be shaken and will pass away** - "Midnight" is the time when one day ends and another begins. AT: "when a person's time is over, God strikes him and he dies" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **mighty people will be taken away, but not by human hands** - AT: "it is God and not humans who causes important people to die." (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_euphemism]])
 
 
 ===== Links: =====
@@ -86,6 +85,6 @@
   * [[:en:bible:questions:comprehension:job:34]]
 **[[:en:bible:notes:job:34:16|<<]] | [[:en:bible:notes:job:34:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -19,6 +19,7 @@
 <usfm>
 \v 25 All people have seen what he has done,
 \q2 but we understand those things only a little.
+\b
 \q1
 \v 26 How great God is! We are not able to know how great he is,
 \q2 and we do not understand how old he is.
@@ -46,9 +47,9 @@
 
 ===== translationNotes: =====
 
-  * **they see those deeds only from far away** - Elihu speaks of people not being fully able to understand God's deeds as if people were only able to see those deeds from far away. AT: "they do not fully understand them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **See** - "Indeed." The word "See" here adds emphasis to what follows.
-  * **the number of his years is incalculable** - This refers to how long God has existed. AT: "people cannot know how long he has lived" or "people cannot know his age" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **from far away** - AT: "imperfectly" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **See** - The word "See" here adds emphasis to what follows. AT: "Indeed"
+  * **the number of his years** - AT: "his age" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -57,6 +58,6 @@
   * [[:en:bible:questions:comprehension:job:36]]
 **[[:en:bible:notes:job:36:22|<<]] | [[:en:bible:notes:job:36:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

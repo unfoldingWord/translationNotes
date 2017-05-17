@@ -23,7 +23,7 @@
 \c 23
 \p
 \v 1 So the king sent messengers who gathered to him all the elders of Judah and of Jerusalem.
-\v 2 Then the king went up to the house of Yahweh, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, prophets, and all the people, from small to great. He then read in their hearing all the words of the book of the Covenant that had been found in the house of Yahweh.
+\v 2 Then the king went up to the house of Yahweh, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, prophets, and all the people, from small to great. He then read in their hearing all the words of the Book of the Covenant that had been found in the house of Yahweh.
 </usfm>
 
 
@@ -42,10 +42,10 @@
   * [[:en:obe:kt:covenant]]
 ===== translationNotes: =====
 
-  * **all the men of Judah and all the inhabitants of Jerusalem** - This is a generalization. AT: "many other people" (UDB) (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **from small to great** - This merism includes everyone in between. AT: "from the least important to the most important" (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **He then read in their hearing** - "Then the king read aloud so that they could hear"
-  * **that had been found** - In [[:en:bible:notes:2ki:22:08|22:8]] it states that Hilkiah found the book. This can be translated in active form. AT: "that Hilkiah had found" or "that they had found" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **all the men of Judah and all the inhabitants of Jerusalem** - AT: "many other people" (UDB) (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **from small to great** - "from the least important to the most important" 
+  * **He then read in their hearing** - AT: "The king then read aloud so that they could hear"
+
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -59,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -12,9 +12,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 Inside the sacred district, measure a section thirteen and one-half kilometers long and five and two-fifths kilometers wide. It will be where the sanctuary is, and that is the most holy place.
+\v 3 Inside the sacred district, measure a section about 13.5 kilometers long and about 5.4 kilometers wide.
 \v 4 It will be the sacred portion of the land for the priests who work in the temple, those who come near to Yahweh to serve him. It will be a place very special for Yahweh, for the priests' houses, as well as for the temple.
-\v 5 An area thirteen and one-half kilometers long and five and two-fifth kilometers wide will be for the descendants of Levi who work in the temple. That area will belong to them, and they can build towns there to live in.
+\v 5 An area about 13.5 kilometers long and about 5.4 kilometers wide will be for the descendants of Levi who work in the temple. That area will belong to them, and they can build towns there to live in.
 
 
 \p
@@ -23,9 +23,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 From this area you will measure a portion that is twenty-five thousand cubits in length and ten thousand in width; it will be the sanctuary, the most holy place.
+\v 3 From this area you will measure a portion that is twenty-five thousand cubits long and ten thousand wide; it will be a holy place for you; a most holy place.
 \v 4 It will be a holy place in the land for the priests who serve Yahweh, who come near Yahweh to serve him. It will be a place for their houses and a holy area for the holy place.
-\v 5 So it will be twenty-five thousand cubits in length and ten thousand in width, and it will be for towns for the Levites who serve in the house.
+\v 5 So it will be twenty-five thousand cubits long and ten thousand wide, and it will be for towns for the Levites who serve in the house.
+\f + \ft Instead of \fqa and it will be for towns for the Levites who serve in the house \fqa* , which some ancient and many modern versions have, the Hebrew text and some modern versions have \fqa they will possess twenty rooms \fqa* .
 </usfm>
 
 ===== translationWords: =====
@@ -42,8 +43,7 @@
 
   * **this area** - the temple and the border surrounding it
   * **a portion** - "a portion of land"
-  * **twenty-five thousand cubits ... ten thousand** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "25,000 cubits ... 10,000 cubits" or "about 13.5 kilometers ... about 5.4 kilometers" (See: [[:en:ta:vol2:translate:translate_bdistance]])
-
+  * **cubits** - See how you translated these "long" cubits in [[:en:bible:notes:ezk:40:05|40:05]].
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:ezk:45]]
 **[[:en:bible:notes:ezk:45:01|<<]] | [[:en:bible:notes:ezk:45:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

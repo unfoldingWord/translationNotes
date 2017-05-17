@@ -24,7 +24,7 @@
 \q1
 \v 2 Make me acceptable to you again, even though I did wrong things;
 \q2 forgive the guilt of my sin and accept me.
-
+\b
 
 
 \q1
@@ -34,8 +34,9 @@
 
 <usfm>
 \c 51
-\m
+\p
 \d For the chief musician. A psalm of David; when Nathan the prophet came to him after he had slept with Bathsheba.
+\b
 \q
 \v 1 Have mercy on me, God, because of your covenant faithfulness;
 \q for the sake of the multitude of your merciful actions, blot out my transgressions.
@@ -63,7 +64,7 @@
   * [[:en:obe:kt:sin]]
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
   * **General Information:** - In this psalm David asks God for forgiveness.
 
   * **For the chief musician** - "This is for the director of music to use in worship."
@@ -71,11 +72,11 @@
   * **when Nathan the prophet came to him** - It can be stated clearly what Nathan did when he came to David, because this psalm is in response to that. AT: "when Nathan the prophet came to David and rebuked him" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **after he had slept with Bathsheba** - "after David had slept with Bathsheba"
   * **for the sake of the multitude of your merciful actions** - "because you do so many merciful things" 
-  * **blot out my transgressions** - Forgiving sins is spoken of as either 1) blotting them out or 2) erasing a written record of the sins. AT: "forgive my sins like someone wiping something away" or "forget my sins like someone who erases a record of sins" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **blot out my transgressions** - Forgiving sins is spoken of as either 1) blotting them out or wiping them away,  or 2) erasing a written record of the sins. AT: 1) "forgive my sins like someone wiping something away" or "forget my sins like someone who erases a record of sins" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Wash me thoroughly from my iniquity ... cleanse me from my sin** - These two phrases mean the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **Wash me thoroughly from my iniquity** - Being acceptable to God is spoken of as being clean. God makes people acceptable by forgiving their sins.  AT:  "Wash away all my sin" or "Forgive all my sins so that I will be acceptable to you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **thoroughly** - "completely"
-  * **cleanse me from my sin** - Being acceptable to God is spoken of as being clean. God makes people acceptable by forgiving their sins.  AT: "Make me clean from my sin" or "forgive me for my sin so that I will be clean" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **cleanse me from my sin** - Being acceptable to God is spoken of as being clean. God makes people acceptable by forgiving their sins.  AT: "Make me clean from my sin" or "forgive me for  my sin so that I will be clean" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -83,6 +84,6 @@
   * [[:en:bible:questions:comprehension:psa:051]]
 **[[:en:bible:notes:psa:050:023|<<]] | [[:en:bible:notes:psa:051:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2 blotout prophet bathsheba nathan}}
+~~DISCUSSION~~{{tag>publish p2check book2 blotout prophet bathsheba nathan}}
 
 ~~NOCACHE~~

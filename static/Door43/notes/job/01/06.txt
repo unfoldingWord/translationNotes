@@ -24,9 +24,9 @@
 
 <usfm>
 \p
-\v 6 Then it was the day when the sons of God came to present themselves before Yahweh. Satan also came with them.
-\v 7 Yahweh said to Satan, "From where have you come?" Then Satan answered Yahweh and said, "From wandering on the earth, from going  back and forth on it."
-\v 8 Yahweh said to Satan, "Have you considered my servant Job? For there is no one like him on the earth, a blameless and upright man, one who fears God and turns from evil."
+\v 6 And then came the day when the sons of God came to present themselves before Yahweh, and Satan also came among them.
+\v 7 Yahweh said to Satan, "From where are you coming?" Then Satan answered Yahweh, and said, "From wandering on the earth, and from walking back and forth on it."
+\v 8 Yahweh said to Satan, "Have you considered my servant Job? For there is no one like him in the earth, a blameless and upright man, one who fears God and turns from evil."
 </usfm>
 
 ===== translationWords: =====
@@ -43,15 +43,14 @@
 
 ===== translationNotes: =====
 
-  * **Then it was the day when** - This is not a specific day. The gathering happened often. AT: "At the time when" or "One day when"
-  * **sons of God** - This refers to angels, heavenly beings. 
-  * **to present themselves before Yahweh** - "to stand together before Yahweh as he commanded them to do"
-  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
-  * **From wandering on the earth, from going back and forth on it** - The phrases "wandering" and "going back and forth" refer to the same activity to emphasize its completeness. AT: "From going everywhere on the earth" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **from going back and forth on it** - "back and forth" refers to traveling all over the earth. (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **Have you considered my servant Job?** - "Have you thought about my servant Job?" Here God is beginning to talk with Satan about Job. AT: "Consider my servant Job" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **a blameless and upright man** - Translate this as you did in [[:en:bible:notes:job:01:01|1:1]].
-  * **one who fears God and turns from evil** - Translate this as you did in [[:en:bible:notes:job:01:01|1:1]].
+  * **sons of God** - This is referring to "angels" or "heavenly beings." 
+  * **to present themselves before Yahweh** - "to stand together before Yahweh"
+  * **Satan also came among them** - "Satan was also there"
+  * **From wandering on the earth, and from walking back and forth on it** - The phrases "wandering" and "walking back and forth" refer to the same activity to emphasize its completeness. AT: "From going everywhere on the earth." (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **from walking back and forth on it** - "back and forth" refers to traveling all over the earth. (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **Have you considered my servant Job?** - "Have you thought about my servant Job?" God seeks to discuss Job with Satan. "Consider my servant Job." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **a blameless and upright man** - See how you translated a similar phrase in [[:en:bible:notes:job:01:01|1:1]].
+  * **one who fears God and turns from evil** - See how you translated a similar phrase in [[:en:bible:notes:job:01:01|1:1]].
 
 ===== Links: =====
 
@@ -60,6 +59,6 @@
   * [[:en:bible:questions:comprehension:job:01]]
 **[[:en:bible:notes:job:01:04|<<]] | [[:en:bible:notes:job:01:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check satan sonsofgod upright}}
+~~DISCUSSION~~{{tag>publish p2edit satan sonsofgod upright}}
 
 ~~NOCACHE~~

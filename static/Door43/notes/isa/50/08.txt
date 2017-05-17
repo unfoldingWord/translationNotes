@@ -28,6 +28,7 @@
 \q2 so no one will be able to condemn me.
 \q1 All those who accuse me will disappear
 \q2 like old clothes that have been eaten by moths.
+\b
 
 
 \q1
@@ -38,10 +39,10 @@
 
 <usfm>
 \q1
-\v 8 He who will justify me is close by. Who will oppose me? Let us stand and confront one another.
+\v 8 He who will justify me is close by. Who will oppose me? Let us stand and confront one another. 
 \q1 Who is my accuser? Let him come near to me.
 \q1
-\v 9 See, the Lord Yahweh will help me. Who will declare me guilty?
+\v 9 See, the Lord Yahweh will help me. Who will declare me guilty? 
 \q1 See, they will all wear out like a garment; the moth will eat them up.
 </usfm>
 
@@ -58,9 +59,8 @@
 
   * **General Information:** - Yahweh's servant continues speaking.
 
-  * **Who will oppose me? Let us stand ... Who is my accuser? Let him come** - The servant uses these questions to emphasize that there is no one who can legitimately accuse him of wrong. AT: "If anyone would oppose me, let us stand ... If anyone would accuse me, let him come" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Who will declare me guilty?** - The servant uses this question to assert that no one can declare him guilty. AT: "There is no one who can declare me guilty." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **they will all wear out like a garment; the moth will eat them up** - There being no one left to accuse the servant of being guilty is spoken of as if the accusers were garments that wear thin and are eaten by moths. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Who will oppose me? ... Who is my accuser? ... Who will declare me guilty?** - The servant uses these questions to emphasize that no one can prove before God that he has done anything wrong. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **they will all wear out like a garment; the moth will eat them up** - This means God will remove those who accuse his servant. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:50]]
 **[[:en:bible:notes:isa:50:07|<<]] | [[:en:bible:notes:isa:50:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

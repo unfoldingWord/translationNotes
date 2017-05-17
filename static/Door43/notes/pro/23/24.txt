@@ -17,11 +17,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 24 The father of a child who does what is right will be very happy;
+\v 24 The father of a child who does what is right will be very happy; 
 \q2 any man who has a wise son will be very happy because of him.
 \q1
-\v 25 Make your father and mother proud,
-\q2 and let your mother be glad.
+\v 25 Make your father and mother proud, 
+\q2 and let your mother be glad. 
+
 
 \q1
 </usfm>
@@ -31,11 +32,11 @@
 
 <usfm>
 \q
-\v 24 The father of the righteous person will greatly rejoice,
-\q and he who begets a wise child will be glad in him.
+\v 24 The father of the one who does right will greatly rejoice
+\q and he that begets a wise child will be glad in him.
 \q
 \v 25 Let your father and your mother be glad
-\q and let her who bore you rejoice.
+\q and let her that bore you rejoice.
 </usfm>
 
 
@@ -49,10 +50,8 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **The father of the righteous person will greatly rejoice, and he who begets a wise child will be glad in him** - Another possible meaning is that "he that begets a wise child" explains who "the father of the righteous person" is. AT: "The father of the righteous person, he who begets a wise child, will greatly rejoice and will be glad in him."
-  * **will be glad in him** - "will be glad because of him"
+  * **The father of the one who does right will greatly rejoice ... he that begets a wise child will be glad in** - These two phrases are saying the same thing and are used together for emphasis. "The father of a righteous and wise son will be glad." (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
  
 ===== Links: =====
@@ -68,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

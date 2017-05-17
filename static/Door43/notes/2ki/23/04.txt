@@ -21,7 +21,7 @@
 
 <usfm>
 \p
-\v 4 The king commanded Hilkiah the high priest, the priests under him, and the gatekeepers to bring out of the temple of Yahweh all the vessels that were made for Baal and Asherah, and for all the stars of heaven. He burned them outside Jerusalem in the fields in the Kidron Valley and carried their ashes to Bethel.
+\v 4 The king commanded Hilkiah the high priest, the priests under him, and the gatekeepers, to bring out of the temple of Yahweh all the vessels that were made for Baal and Asherah, and for all the stars of heaven. He burned them outside Jerusalem in the fields in the Kidron Valley and carried their ashes to Bethel.
 \v 5 He got rid of the idolatrous priests whom the kings of Judah had chosen to burn incense at the high places in the cities of Judah and in the places around Jerusalem—those who burned incense to Baal, to the sun and the moon, to the planets, and to all the stars of heaven.
 </usfm>
 
@@ -39,12 +39,9 @@
   * [[:en:obe:other:highplaces]]
 ===== translationNotes: =====
 
-  * **the priests under him** - "the other priests who served him" 
-  * **gatekeepers** - men who guarded the gates to the temple 
-  * **for Baal ... for all the stars** - "so people could use them to worship Baal ... so people could use them to worship all the stars"
-  * **He burned ... and carried ... He got rid** - The two instances of "He" refer to Josiah, but It might be best to translate so that the reader understands that other people, perhaps Hilkiah and "the priests under him" (23:4), might have helped Josiah do this. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **gatekeepers** - men who guarded the gates to the temple
   * **Kidron Valley ... Bethel** - names of places (See: [[:en:ta:vol1:translate:translate_names]])
-  * **to Baal, to the sun and the moon, to the planets, and to all the stars** - "as a way to worship Baal, the sun and the moon, the planets, and all the stars"
+ 
  
 ===== Links: =====
 
@@ -59,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -13,7 +13,7 @@
 
 <usfm>
 \v 24 I chose twelve of the leaders of the priests, Sherebiah and Hashabiah and ten others.
-\v 25 I assigned them to supervise the transport to Jerusalem of the gifts of silver and gold and the other valuable items that the king and his advisors and other officials, and the Israelite people who were
+\v 25 I assigned them to supervise the transport to Jerusalem of the gifts of silver and gold and the other valuable items that the king and his advisors and other officials, and the Israelite people who were 
 living in Babylonia, had contributed for the temple of our God.
 </usfm>
 
@@ -36,7 +36,9 @@ living in Babylonia, had contributed for the temple of our God.
   * [[:en:obe:other:israel]]
 ===== translationNotes: =====
 
-  * **Sherebiah, Hashabiah** - Translate these men's names as you did in [[:en:bible:notes:ezr:08:18|8:19]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **twelve men** - 12 men (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Sherebiah, Hashabiah** - See how you translated these in [[:en:bible:notes:ezr:08:18|8:19]].
+  * **ten** - 10 (See: [[:en:ta:vol2:translate:translate_numbers]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -50,6 +52,6 @@ living in Babylonia, had contributed for the temple of our God.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

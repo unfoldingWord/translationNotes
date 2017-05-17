@@ -15,8 +15,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 22 An evil person's sinful desires take hold of him;
-\q2 his sins are like a trap that catches him.
+\v 22 An evil person's sinful desires take hold of him; 
+\q2 his sins are like a trap that catches him. 
 \q1
 \v 23 An evil man will die because he could not say, "No" to his desires;
 \q2 he gets lost because his foolishness has no limits.
@@ -30,7 +30,7 @@
 \v 22 A wicked person will be seized by his own iniquities;
 \q the cords of his sin will hold him tight.
 \q
-\v 23 He will die because he lacks instruction;
+\v 23 He will die because he lacks discipline;
 \q he is led astray by his great foolishness.
 </usfm>
 
@@ -45,13 +45,15 @@
   * [[:en:obe:kt:discipline]]
   * [[:en:obe:kt:astray]]
   * [[:en:obe:kt:foolish]]
+ 
 
 ===== translationNotes: =====
 
-  * **A wicked person will be seized by his own iniquities** - The writer speaks of a wicked person being unable to avoid the consequences of his iniquities as if those iniquities were people who capture the wicked person. This can be stated in active form. AT: "A wicked person's own iniquities will seize him" or "A wicked person will be unable to avoid the consequences of his iniquities" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the cords of his sin will hold him tight** - The writer speaks of a wicked person being unable to avoid the consequences of his sin as if that sin were a trap made of cords in which the person is caught. AT: "because of his sin, he will be like an animal caught in a trap" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he is led astray by his great foolishness** - This can be stated in active form. AT: "his great foolishness leads him astray" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **by his great foolishness** - "because he is very foolish"
+  * **A wicked person will be seized by his own iniquities** - This implies that wicked people will die as a punishment for their sin. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **the cords of his sin will hold him tight** - Sin is pictured here as a small trap for birds that works with cords. AT: "he is no longer free from his desire to sin." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he is led astray by his great foolishness** - AT: "his great foolishness leads him astray" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **by his great foolishness** - AT: "because he acted very stupidly" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -59,4 +61,4 @@
   * [[:en:bible:questions:comprehension:pro:05]]
 **[[:en:bible:notes:pro:05:20|<<]] | [[:en:bible:notes:pro:06:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}

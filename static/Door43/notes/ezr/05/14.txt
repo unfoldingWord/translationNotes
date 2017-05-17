@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 Cyrus returned to our leaders all the gold and silver objects that had been taken from the temple and put in the temple in Babylon. Those objects were
+\v 14 Cyrus returned to our leaders all the gold and silver objects that had been taken from the temple and put in the temple in Babylon. Those objects were 
 given to a man named Sheshbazzar, whom King Cyrus had appointed to be the governor in Judah.
-\v 15 The king instructed him to take the objects back to Jerusalem, to the place from where they had been taken. He also decreed that they should rebuild the temple at the place
+\v 15 The king instructed him to take the objects back to Jerusalem, to the place from where they had been taken. He also decreed that they should rebuild the temple at the place 
 where it had been before. So Cyrus appointed Sheshbazzar to be the governor in Judah. He also sent all those things made of gold and silver, for Sheshbazzar to put into the new temple.
 </usfm>
 
@@ -38,11 +38,8 @@ where it had been before. So Cyrus appointed Sheshbazzar to be the governor in J
   * [[:en:obe:other:governor]]
 ===== translationNotes: =====
 
-  * **General Information:** - The letter from Tattenai to the king that began in [[:en:bible:notes:ezr:05:06|5:7]] continues. Tattenai continues to tell the king what the Judeans had told him beginning in ([[:en:bible:notes:ezr:05:11|5:11]]).
-
-  * **Sheshbazzar** - Translate as in [[:en:bible:notes:ezr:01:07]].
+  * **Sheshbazzar** - Translate the same way you did in [[:en:bible:notes:ezr:01:07]].
   * **He restored them** - King Cyrus returned the temple objects.
-  * **Let the house of God be rebuilt** - This can be translated in active form. AT: "I want the Judeans to rebuild the house of God" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -54,6 +51,6 @@ where it had been before. So Cyrus appointed Sheshbazzar to be the governor in J
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

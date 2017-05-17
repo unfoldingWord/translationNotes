@@ -20,7 +20,7 @@
 \q1
 \v 16 He caused a stream of water to flow from the rock;
 \q2 the water flowed like a river.
-
+\b
 
 
 \q1
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:psa:078]]
 **[[:en:bible:notes:psa:078:012|<<]] | [[:en:bible:notes:psa:078:017|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

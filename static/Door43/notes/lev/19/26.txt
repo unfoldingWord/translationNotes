@@ -30,7 +30,7 @@
 
 <usfm>
 \p
-\v 26 Do not eat any meat with blood still in it.
+\v 26 Do not eat any meat with blood still in it. 
 \p
 Do not consult spirits about the future, and do not seek to control others by supernatural powers.
 \p
@@ -55,6 +55,6 @@ Do not consult spirits about the future, and do not seek to control others by su
   * [[:en:bible:questions:comprehension:lev:19]]
 **[[:en:bible:notes:lev:19:23|<<]] | [[:en:bible:notes:lev:19:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

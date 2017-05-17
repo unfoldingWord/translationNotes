@@ -14,7 +14,8 @@
 <usfm>
 \v 1 There was a man from the region of Gilead named Jephthah. He proved himself to be a great warrior. But his mother was a prostitute. His father was Gilead.
 \v 2 Gilead's wife gave birth to several sons. When they grew up, they forced Jephthah to leave home, saying to him, "You are the son of another woman, not the son of our mother. So when our father dies, you will not receive any of his property."
-\v 3 So Jephthah ran away from his brothers, and he lived in the land of Tob. While he was there, some lawless men joined together with Jepthah, and they came and went with each other.
+\v 3 So Jephthah ran away from his brothers, and he lived in the land of Tob. While he was there, some lawless men joined together with Jepthah, and they came and went with each other. 
+
 
 \p
 </usfm>
@@ -40,8 +41,8 @@
   * [[:en:obe:other:lawless]]
 ===== translationNotes: =====
 
-  * **Gileadite** - This is someone who is from the region of Gilead. It is a coincidence that his father's name is also Gilead. See how you translated this in [[:en:bible:notes:jdg:10:03|10:3]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **When his wife's sons grew up** - "When the sons of Gilead's wife became adults"
+  * **Gileadite** - This is someone who is from the region of Gilead. That is father's name is also Gilead is a coincidence. See how you translated this in [[:en:bible:notes:jdg:10:03|10:3]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **When his wife's sons grew up** - "When Gilead's wife's sons became adults"
   * **the land of Tob** - Tob is the name of a region.  (See: [[:en:ta:vol1:translate:translate_names]])
   * **they came and went with him** - "they followed him" or "they went everywhere together"
 ===== Links: =====
@@ -51,6 +52,6 @@
   * [[:en:bible:questions:comprehension:jdg:11]]
 **[[:en:bible:notes:jdg:10:17|<<]] | [[:en:bible:notes:jdg:11:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass jephthah}}
+~~DISCUSSION~~{{tag>publish p2check jephthah}}
 
 ~~NOCACHE~~

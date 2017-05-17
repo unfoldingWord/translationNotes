@@ -13,9 +13,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 After I read that, I pleaded with the Lord my God by prayer and fasting to help us. I put on clothing made from old grain bags and sat in ashes.
+\v 3 After I read that, I pleaded with Yahweh my God by prayer and fasting to help us. I put on clothing made from old grain bags and sat in ashes.
 \p
 \v 4 I prayed to Yahweh my God, and I confessed the sins we had committed:
+\b
 \pi "Lord, I beg you, for you are great and powerful. You have faithfully done what you said you would do for us. You faithfully love those who love you and who do what you have commanded them to do.
 </usfm>
 
@@ -46,13 +47,9 @@
 
 ===== translationNotes: =====
 
-  * **I turned my face to the Lord God** - Here "face" represents Daniel's attention. AT: "I focused my attention on the Lord God" or "I directed my thoughts toward the Lord God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **to seek him** - Those who want to know Yahweh and please him are spoken of as if they are literally seeking to find Yahweh. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **fasting, wearing sackcloth, and sitting in ashes** - These are symbolic acts of repentance and sorrow. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **I turned my face to the Lord God** - "I focused my attention on the Lord God" or "I directed my thoughts toward the Lord God" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **I made confession of our sins** - "I confessed our sins"
-  * **you are the one who keeps the covenant and is faithful to love those** - "you do what what you said you would do in your covenant, and you faithfully love those"
-
-
+  * **keeps the covenant and is faithful to love those** - "does what he said he would do in his covenant and he keeps his promise to love those"
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -60,6 +57,6 @@
   * [[:en:bible:questions:comprehension:dan:09]]
 **[[:en:bible:notes:dan:09:01|<<]] | [[:en:bible:notes:dan:09:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass Yahweh}}
+~~DISCUSSION~~{{tag>publish p2edit yahweh}}
 
 ~~NOCACHE~~

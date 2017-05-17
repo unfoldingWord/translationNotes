@@ -10,14 +10,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 23 You caused our ancestors' children to become as numerous as the stars in the heavens, and you brought them into this land, the land you told their fathers to enter and take for themselves so they might live there.
-\v 24 They went in and took the land from the people who lived there. You enabled the Israelites to control the Canaanites and their kings so they could do to those people whatever they needed to do.
+\v 23 You helped our ancestors become as numerous as the stars in the sky, and you brought them into this land, the land you told their fathers to enter and take for themselves so they might live there.
+\v 24 The people of Israel went in and took the land from the people who lived there. You helped them defeat the Canaanites and their kings, and you ruled over the people of that land. You helped them so they could do to those people whatever they needed to do.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
-\v 23 You made their children as numerous as the stars of heaven, and you brought them into the land that you told their ancestors to go in and possess.
+\v 23 You made their children as numerous as the stars of heaven, and you brought them into the land. You told their ancestors to go in and possess it.
 \v 24 So the people went in and possessed the land and you subdued before them the inhabitants of the land, the Canaanites. You gave them into their hands, with their kings and the peoples of the land, that Israel might do with them as they pleased.
 </usfm>
 
@@ -33,10 +33,12 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
+  * **General Information:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
 
-  * **You made their children** - Yahweh made the descendants of the Israelites at the time of Moses
-  * **gave them into their hands** - The Canaanites are spoken of as if they were small objects that a person could place in the hand of another person. To give something into a person's hand is to give that person complete control over that thing. AT: "enabled the Israelites to have complete control over them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **You made their children as numerous as the stars of heaven** - "You multiplied their children as the stars of heaven" 
+  * **You made their** - Here "you" refers to Yahweh, and "their" refers to the Israelites at the time of Moses.
+  * **you brought them into the land. You told their ancestors to go in and possess it** - "you brought them into the land that you told their ancestors to enter and possess"
+  * **You gave them into their hands, with their kings and the peoples of the land** - Here "them" refers to the Canaanites, and "their" refers to the Israelites. "You handed the Canaanite kings and their people over to them" 
 
 
 ===== Links: =====
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:neh:09]]
 **[[:en:bible:notes:neh:09:22|<<]] | [[:en:bible:notes:neh:09:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

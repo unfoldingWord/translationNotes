@@ -32,8 +32,9 @@
 
 <usfm>
 \c 98
-\m
+\p
 \d A psalm.
+\b
 \q
 \v 1 Oh, sing to Yahweh a new song,
 \q for he has done marvelous things;
@@ -57,7 +58,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **a new song** - a song no one has ever sung before. See how this is translated in [[:en:bible:notes:psa:096:001|96:1]].
   * **his right hand and his holy arm have** - The words "right hand" and "holy arm" refer to Yahweh's strength. Together they emphasize how great his strength is. AT: "his very great power has" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_doublet]])
@@ -74,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:098]]
 **[[:en:bible:notes:psa:097:012|<<]] | [[:en:bible:notes:psa:098:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

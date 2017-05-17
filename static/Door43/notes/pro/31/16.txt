@@ -19,11 +19,12 @@
 
 <usfm>
 \v 16 She goes out and considers what field she will buy, and she buys it.
-\q1 With the money she has made in other ventures,
-\q2 she plants a vineyard.
+\q1 With the money she has made in other ventures, 
+\q2 she plants a vineyard. 
 \q1
-\v 17 She prepares herself with her strength,
-\q2 and her arms are strong, able to do hard work.
+\v 17 She prepares herself with her strength, 
+\q2 and her arms are strong, able to do hard work. 
+
 
 \q1
 </usfm>
@@ -33,7 +34,7 @@
 
 <usfm>
 \q
-\v 16 She considers a field and buys it,
+\v 16 She considers a field and buys it, 
 \q with the fruit of her hands she plants a vineyard.
 \q
 \v 17 She dresses herself with strength
@@ -48,9 +49,9 @@
 ===== translationNotes: =====
 
 
-  * **the fruit of her hands** - The money she has earned from the work she did with wool and flax ([[:en:bible:notes:pro:31:13|31:13]]) is spoken of as if it were fruit growing off a tree. The hands are a synecdoche for the person. AT: "the money she has earned" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **She dresses herself with strength** - Putting on clothes is a metonym for preparing for work. AT: "She prepares herself for hard physical work" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **and makes her arms strong** - "and she strengthens her arms by doing her work"
+  * **the fruit of her hands** - AT: "the money she has earned" or "the result of her hard work" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **She dresses herself with strength** - AT: "She prepares herself for hard work" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **and makes her arms strong** - AT: "and she strengthens her arms by doing her work"
 
  
 ===== Links: =====
@@ -66,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

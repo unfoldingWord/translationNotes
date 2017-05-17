@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 21 He will cause others to remove the women's finger rings and nose rings,
+\v 21 He will remove their finger rings and nose rings,
 \v 22 their nice robes and capes and veils and purses,
 \v 23 their mirrors and nice linen clothes, the ornaments for their heads, and the shawls.
 
@@ -37,11 +37,13 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - This continues to describe how Yahweh will judge the women of Judah.
+
   * **rings** - a decoration worn around the finger
   * **nose jewels** - a decoration worn in or through the nose
   * **festive robes** - a long, loose garment with decorations that was worn over other clothes for everyone to see
   * **mantles** - a cloth worn over the shoulders on the outside of the clothes
-  * **veils** - Translate this as in [[:en:bible:notes:isa:03:18|3:19]].
+  * **veils** - See how you translated this in [[:en:bible:notes:isa:03:18|3:19]].
   * **handbags** - a bag to used to carry small things
   * **hand mirrors** - a small surface, held in one's hand and used to see oneself
   * **fine linen** - a soft cloth worn by rich people
@@ -55,6 +57,6 @@
   * [[:en:bible:questions:comprehension:isa:03]]
 **[[:en:bible:notes:isa:03:18|<<]] | [[:en:bible:notes:isa:03:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

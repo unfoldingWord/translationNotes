@@ -21,6 +21,7 @@
 \q2 he has faithfully loved us and been loyal to us.
 \q1 People who live in very remote places in all the earth
 \q2 have seen that our God has defeated his enemies.
+\b
 \q1
 \v 4 All you people everywhere should sing joyfully to Yahweh;
 \q1 praise him while you sing and shout joyfully!
@@ -53,7 +54,7 @@
 ===== translationNotes: =====
 
   * **calls to mind** - "remembers." See how "call to mind" is translated in [[:en:bible:notes:psa:020:003|20:3]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **all the ends of the earth ... all the earth** - These are metonyms for the people of the earth. AT: "people from all over the world ... all people in the world" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **all the ends of the earth ... all the earth** - These are metonyms for "people from all over the world ... all people in the world." (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **will see the victory of our God** - The abstract noun "victory" can be translated using the verb "defeat." AT: "will see our God defeat his enemies" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **burst into song** - "suddenly begin singing happily"
   * **sing for joy** - "sing because you are happy"
@@ -66,6 +67,6 @@
   * [[:en:bible:questions:comprehension:psa:098]]
 **[[:en:bible:notes:psa:098:001|<<]] | [[:en:bible:notes:psa:098:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

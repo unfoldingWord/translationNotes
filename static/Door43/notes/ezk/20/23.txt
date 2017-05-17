@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 23 I myself also lifted up my hand to swear to them in the wilderness, that I would scatter them among the nations and disperse them among the lands.
+\v 23 I myself also raised my hand to them in the wilderness, in order to swear that I would scatter them among the nations and disperse them among the lands.
 \v 24 I decided to do this since they had not obeyed my decrees, and since they had rejected my statutes and profaned my Sabbaths. Their eyes were longing after their fathers' idols.
 </usfm>
 
@@ -32,9 +32,9 @@
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to the elders of Israel.
 
-  * **I myself also lifted up my hand to swear** - Here "lifted up my hand" is a symbolic action that shows he will truly do what he has sworn to do. AT: "I myself also solemnly swore" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **scatter them among the nations and disperse them among the lands** - These two phrases mean basically the same thing. Translate as in [[:en:bible:notes:ezk:12:14|12:15]]. AT: "cause them to separate from each other and live in different nations" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Their eyes were longing after their fathers' idols** - Here the word "eyes" represents the person who looks to the idols to worship them. AT: "They were longing after their fathers' idols" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **raised my hand to them** - It was a common practice to take an oath by raising a hand toward heaven.
+  * **scatter them among the nations and disperse them among the lands** - See how you translated this in [[:en:bible:notes:ezk:12:14|12:15]]. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Their eyes were longing after their fathers' idols** - AT: "they were eager to worship the idols that their parents had worshiped." (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:ezk:20]]
 **[[:en:bible:notes:ezk:20:21|<<]] | [[:en:bible:notes:ezk:20:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

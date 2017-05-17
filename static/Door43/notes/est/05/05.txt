@@ -29,11 +29,8 @@
 
 ===== translationNotes: =====
 
-  * **What is your petition** - The abstract noun "petition" can be expressed with the verb "ask for" or "want"? AT: "What do you ask for?" or "What do you want?" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **It will be granted you** - This can be expressed in active form. AT: "I will give you what you ask for" or "I will do for you what you ask" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **What is your request** - The abstract noun "request" can be expressed with the verb "ask for" or "want"? AT: "What do you ask for?" or "What do you want?" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Up to half of the kingdom, it will be granted** - This can be stated in active form. AT: "If you ask for up to half of my kingdom, I will give it to you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **petition** - "request of the king"
+  * **it will be granted** - "your request will be granted"
 
 ===== Links: =====
 
@@ -42,6 +39,6 @@
   * [[:en:bible:questions:comprehension:est:05]]
 **[[:en:bible:notes:est:05:03|<<]] | [[:en:bible:notes:est:05:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

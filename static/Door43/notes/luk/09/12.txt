@@ -22,9 +22,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 Now the day was about to come to an end, and the twelve came to him and said, "Send the crowd away that they may go into the surrounding villages and countryside to find lodging and food, because we are here in an isolated place."
-\v 13 But he said to them, "You give them something to eat." They said, "We have no more than five loaves of bread and two fish—unless we go and buy food for all these people."
-\v 14 (There were about five thousand men.) He said to his disciples, "Have them sit down in groups of about fifty each."
+\v 12 The day began to come to an end, and the twelve came to him and said, "Dismiss the crowds that they may go into the surrounding villages and countryside to find lodging and food, because we are here in a deserted place."
+\v 13 But he said to them, "You give them something to eat." They said, "We have no more than five loaves of bread and two fish, unless we went and bought food for all this crowd of people."
+\v 14 There were about five thousand men there. He said to his disciples, "Have them sit down in groups of about fifty each."
 </usfm>
 
 
@@ -38,9 +38,10 @@
 
 ===== translationNotes: =====
 
-  * **the day was about to come to an end** - "the day was about to end" or it was near the end of the day"
-  * **five loaves of bread** - A loaf of bread is a lump of dough that is shaped and baked.
-  * **unless we go and buy food** - If "unless" is difficult to understand in your language, you could make this a new sentence. AT: "In order to feed them all, we would have to go and buy food" 
+  * **The day began to come to an end** - "The sun set" or "The day ended"
+  * **Dismiss the crowds** - "Tell the crowds to go away"
+  * **unless we went and bought food** - If "unless" is difficult to understand in your language, you could make this a new sentence. AT: "That is not enough, so in order to feed them all, we would have to go and buy food" 
+  * **unless we** - "we" here refers only to the disciples, and not to Jesus. (See: [[:en:ta:vol2:translate:figs_exclusive]])
   * **about five thousand men** - "about 5,000 men." This number does not include the women and children who might have been present. (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **Have them sit down** - "Tell them to sit down"
   * **fifty each** - "50 each" (See: [[:en:ta:vol2:translate:translate_numbers]])

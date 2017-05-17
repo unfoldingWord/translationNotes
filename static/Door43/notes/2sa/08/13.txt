@@ -27,7 +27,7 @@
 
 <usfm>
 \p
-\v 13 David's name was well known when he returned from conquering the Arameans in the Valley of Salt, with their eighteen thousand men.
+\v 13 David's name was well known when he returned from conquering the Arameans in the valley of Salt, with their eighteen thousand men.
 \v 14 He placed garrisons throughout all of Edom, and all the Edomites became servants to him. Yahweh gave victory to David wherever he went.
 </usfm>
 
@@ -42,10 +42,9 @@
 
 ===== translationNotes: =====
 
-  * **David's name was well known** - Here "name" refers to David's reputation. This can be stated in active form. AT: "David was very famous" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Valley of Salt** - This is the name of a place. Its exact location is unknown. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **eighteen thousand men** - "18,000 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **He placed garrisons throughout all of Edom** - "He ordered groups of his soldiers to remain in areas throughout all of Edom"
+  * **David's name was well known** - Here "name" refers to David's reputation. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **valley of Salt** - This is the name of a place. Its exact location is unknown. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **garrisons** - camps of soldiers 
  
 ===== Links: =====
 
@@ -54,6 +53,6 @@
   * [[:en:bible:questions:comprehension:2sa:08]]
 **[[:en:bible:notes:2sa:08:11|<<]] | [[:en:bible:notes:2sa:08:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

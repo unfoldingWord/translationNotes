@@ -22,7 +22,7 @@
 \v 3 I became very anxious in my inner being.
 \q2 As I thought about my troubles, I became more worried.
 \q2 Then finally I said this:
-
+\b
 
 
 \q1
@@ -48,7 +48,7 @@
 
 ===== translationNotes: =====
 
-  * **I kept silent; I kept back my words** - These two phrases mean the same thing and emphasize that the writer did not speak at all. AT: "I was completely silent" (UDB) (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **I kept silent; I kept back my words** - These two phrases mean the same thing and emphasize that the write did not speak at all. AT: "I was completely silent" (UDB) (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **I kept back my words** - Here "my words" refers to the writer's speech. AT: "I did not speak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **My heart became hot ... it burned like a fire** - Here "heart" represents the whole person. The anxious thoughts of the writer are spoken of as if they were a fire burning inside him. AT: "I became very anxious when I thought about these things" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:039]]
 **[[:en:bible:notes:psa:039:001|<<]] | [[:en:bible:notes:psa:039:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

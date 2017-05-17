@@ -22,6 +22,7 @@
 \q1
 \v 19 He has thrown me into the mud;
 \q2 I am not worth anything more than dust and ashes.
+\b
 
 
 \q1
@@ -46,11 +47,8 @@
 
 ===== translationNotes: =====
 
-  * **God's great force has seized my clothing** - Job speaks of God using his force as if God's force were actually doing something.  AT: "God has seized my clothing by his great force" or It is as (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **God's great force has seized my clothing** - The image of God's force seizing Job is a metaphor. Possible meanings are 1) it represents Job's pain. AT: "My pain feels like God has grabbed my clothing tightly" or 2) it represents God's causing Job's many problems. AT: "It is as though by his great force God has grabbed me by my clothes" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **it wraps around me like the collar of my tunic** - The image of God's force wrapping around Job is a metaphor. Possible meanings are 1) it represents Job's pain. AT: "he wraps the collar of my tunic tightly around me" or  2) it represents God's causing Job's many problems. AT: "It is as though he grabs me by the collar of my tunic" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **He has thrown me into the mud** - Job says that God has humiliated him. AT: "It is as though he has thrown me in the mud" or "He has humiliated me, like a person thrown in the mud" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I have become like dust and ashes** - This represents Job's feeling of being worthless. AT: "I have become as worthless as dust and ashes" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **He has thrown me into the mud** - Job says that God has humiliated him. 
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -58,6 +56,6 @@
   * [[:en:bible:questions:comprehension:job:30]]
 **[[:en:bible:notes:job:30:16|<<]] | [[:en:bible:notes:job:30:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

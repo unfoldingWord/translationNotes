@@ -27,7 +27,7 @@
 \c 35
 \p
 \v 1 This is the word that came to Jeremiah from Yahweh in the days of Jehoiakim son of Josiah king of Judah, and he said,
-\v 2 "Go to the clan of the Rechabites and speak with them. Then bring them to my house, into one of the rooms there, and give them wine to drink."
+\v 2 "Go to the clan of the Rechabites and speak with them. Then bring them to my house, into one of the rooms there and give them wine to drink."
 </usfm>
 
 
@@ -45,10 +45,11 @@
 
 ===== translationNotes: =====
 
-  * **to Jeremiah** - It is not clear why Jeremiah is referring to himself by name here. You may translate using first person, as the UDB does. (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **Rechabites** - This is a people group. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **my house** - the temple
 
+  * **Rechabites** - This is a people group. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **my house** - This phrase refers to the temple of Yahweh. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+ 
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -62,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

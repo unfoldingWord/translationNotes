@@ -24,8 +24,9 @@
 \q1
 \v 5 People will treat each other cruelly:
 \q2 people will fight against their neighbors.
-\q1 Young people will say shameful things against older people,
+\q1 Young people will insult older people,
 \q2 and vulgar people will sneer at people whom others usually honor.
+\b
 
 
 \q1
@@ -39,7 +40,7 @@
 \v 4 "I will place mere youths as their leaders, and the young will rule over them.
 \q1
 \v 5 The people will be oppressed, every one by another, and every one by his neighbor;
-\q1 the child will insult the elderly, and the degraded will challenge the honorable.
+\q1 the child will proudly defy the elderly, and the degraded will challenge the honorable.
 </usfm>
 
 
@@ -48,15 +49,17 @@
   * [[:en:obe:other:peoplegroup]]
   * [[:en:obe:other:neighbor]]
   * [[:en:obe:kt:children]]
+  * [[:en:obe:other:proud]]
   * [[:en:obe:other:honor]]
 
 ===== translationNotes: =====
 
-  * **I will place mere youths as their leaders, and the young will rule over them** - These phrases mean basically the same thing. Possible meanings are 1) "I will place young people as their leaders, and those young people will rule over them" or 2) "youths" is a metaphor for simple and foolish men. AT: "I will place over them leaders who are immature, like young people, and those bad leaders will rule over them" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will place mere youths** - Here the word "I" refers to Yahweh. This can also be stated clearly. AT: "Yahweh says, "I will place mere youths as their leaders""  (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **I will place mere youths** - Here the word "I" refers to Yahweh. This can also be translated as "He will appoint boys" (UDB) or "The Lord says, 'I will place mere youths.'"
+  * **I will place mere youths as their leaders, and the young will rule over them** - Possible meanings are 1) "I will place young people as their leaders and those young people will rule over them" or 2) "youths" is a metaphor for simple and foolish men, AT: "I will place over them leaders who are immature, like young people, and those bad leaders will rule over them."  These phrases mean basically the same thing and emphasize that bad leaders will rule Judah. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **The people will be oppressed, every one by another, and every one by his neighbor** - This can be stated in active form. AT: "Everyone will be cruel to others and will mistreat his neighbor" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the degraded** - "the people who are without honor" or "the people whom no one respects"
-  * **the honorable** - "the people with honor" or "the people whom everyone respects"
+  * **the degraded** - "the people who are without honor"
+  * **the honorable** - "the people with honor" 
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -64,6 +67,6 @@
   * [[:en:bible:questions:comprehension:isa:03]]
 **[[:en:bible:notes:isa:03:01|<<]] | [[:en:bible:notes:isa:03:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

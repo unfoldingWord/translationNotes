@@ -24,7 +24,7 @@
 <usfm>
 \p
 \v 7 Now this was the custom in former times in Israel concerning the redemption and exchange of goods. To confirm all things, a man took off his shoe and gave it to his neighbor; this was the manner of making legal agreements in Israel.
-\v 8 So the near kinsman said to Boaz, "Buy it for yourself," and he took off his sandal.
+\v 8 So the near kinsman said to Boaz, "Buy it for yourself." And he took off his shoe.
 </usfm>
 
 
@@ -36,7 +36,7 @@
   * [[:en:obe:other:boaz]]
 ===== translationNotes: =====
 
-  * **Now this was the custom** - The writer of the book explains of the custom of exchange during the time of Ruth. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **Now this was the custom** - The writer of the book explains of the custom of exchange during the time of Ruth.(See: [[:en:ta:vol2:translate:writing_background]])
   * **in former times** - "in earlier times." This implies that the customs had changed from when the story took place until the book was written. (See: [[:en:ta:vol2:translate:writing_background]])
   * **shoe** - "sandal"
   * **his neighbor** - This refers to the person with whom he was making the agreement. In this situation the near kinsman gave Boaz his shoe.
@@ -51,5 +51,5 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 ~~NOCACHE~~

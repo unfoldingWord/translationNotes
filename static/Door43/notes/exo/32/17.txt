@@ -14,9 +14,9 @@
 
 <usfm>
 \v 17 Joshua heard the people shouting very loudly. So when Moses got near the camp, Joshua met him and said, "There is a noise in the camp that sounds like the noise of a battle!"
-\v 18 But Moses said,
+\v 18 But Moses said, 
 \q "No, that does not sound as though the people have won a victory;
-\q it does not sound as though they have been defeated in a battle!
+\q it does not sound as though they have been defeated in a battle! 
 \q It sounds as though they are singing!"
 
 
@@ -28,7 +28,7 @@
 
 <usfm>
 \v 17 When Joshua heard the noise of the people as they shouted, he said to Moses, "There is the noise of combat in the camp."
-\v 18 But Moses said,
+\v 18 But Moses said, 
 \q "It is not the sound of a victor,
 \q and not the sound of defeated people,
 \q but the sound of singing that I hear."
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:exo:32]]
 **[[:en:bible:notes:exo:32:15|<<]] | [[:en:bible:notes:exo:32:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

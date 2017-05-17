@@ -31,6 +31,7 @@
 \q2 because of the sins that their ancestors committed!
 \q1 Do not allow them to become rulers, and conquer all the nations in the world,
 \q2 and fill the world with the cities that they rule!"
+\b
 \q1
 \v 22 This is what Yahweh, commander of the angel armies, says:
 \q2 "I myself will cause Babylon to be conquered.
@@ -51,15 +52,16 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 21 Prepare your slaughter for his children, for the iniquity of their ancestors,
+\v 21 Prepare your slaughter for his children, for the iniquity of their ancestors, 
 \q1 so they will not rise up and possess the earth
 and fill the whole world with cities.
 \q1
-\v 22 "I will rise up against them"—this is the declaration of Yahweh of hosts.
+\v 22 "I will rise up against them"—this is the declaration of Yahweh of hosts. 
 \q1 "I will cut off from Babylon name, descendant, and posterity"—this is the declaration of Yahweh.
 \q1
-\v 23 "I will also make her into a possession of owls, and into pools of water,
+\v 23 "I will also make her into a possession of owls, and into pools of water, 
 \q1 and I will sweep her with the broom of destruction"—this is the declaration of Yahweh of hosts.
 </usfm>
 
@@ -79,19 +81,13 @@ and fill the whole world with cities.
 
 ===== translationNotes: =====
 
-  * **Prepare your slaughter for his children** - This can be reworded so that the abstract noun "slaughter" is expressed with the verb "kill." AT: "Get ready to kill the children of the king of Babylon" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Prepare your slaughter for his children** - This can be reworded so that the abstract noun "slaughter" is expressed as the verb "kill." AT: "Get ready to kill the children of the king of Babylon" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **for the iniquity of their ancestors** - This can be reworded so that the abstract noun "iniquity" is expressed as the verb "sinned greatly." AT: "because their forefathers have sinned greatly" (See: [[:en:ta:vol2:translate:figs_abstractnouns]]) 
-  * **so they will not rise up** - Here "rise up" represents either becoming powerful or attacking. AT: "so they will not become powerful" or "so they will not attack" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **possess the earth** - This represents taking control of the people on the earth, in this case by conquering them. AT: "take control of the peoples on the earth" or "conquer the peoples on the earth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and fill the whole world with cities** - This represents causing the world to have many cities on it. AT: "and build cities all over the world" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **I will rise up against them** - This means that God will do something against them. The word "them" refers to the people of Babylon. AT: "I will attack them" or "I will send people to attack them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **this is the declaration of Yahweh of hosts** - This can be reworded so that the abstract noun "declaration" is expressed as the verb "declared" or "solemnly said." AT: "this is what Yahweh of hosts has declared" or "this is what Yahweh of hosts has solemnly said" (See: [[:en:ta:vol2:translate:figs_abstractnouns]]) 
-  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
-  * **I will cut off from Babylon name, descendant, and posterity** - "Cut off" represents destroying.  Here "Babylon" refers to the people of Babylon. Also, "name" refers either to Babylon's fame or to Babylon itself as a kingdom. AT: "I will destroy Babylon, along with the people's children and grandchildren" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I will also make her** - The word "her" refers to the city of Babylon. Cities were often spoken of as if they were women. AT" "I will also make it"  (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **a possession of owls** - This represents wild animals living in the city because there are no people there. AT: "a place where owls live" or "a place where wild animals live" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and into pools of water** - Causing there to be swamps or ponds of stagnant water where the city was is spoken of as making the city into those things. AT: "and into a place where there are stagnant ponds" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will sweep her with the broom of destruction** - This represents completely destroying Babylon and making it no longer exist as if it is worthless dirt that people sweep away. AT: "I will destroy it completely, like sweeping it away with a broom" AT: (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **this is the declaration of Yahweh of hosts** - This can be reworded so that the abstract noun "declaration" is expressed as the verb "solemnly said." AT: "this is what Yahweh of hosts has declared" or "this is what Yahweh of hosts has solemnly said" (See: [[:en:ta:vol2:translate:figs_abstractnouns]]) 
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **from Babylon name, descendant, and posterity** - Here "Babylon" refers to the people of Babylon. Also, "name" refers to the entire families of the people. AT: "from the people of Babylon their entire family, their children, and grandchildren" ([[:en:ta:vol2:translate:figs_metonymy]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -105,6 +101,6 @@ and fill the whole world with cities.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

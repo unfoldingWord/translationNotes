@@ -16,11 +16,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 If you and your neighbor are having a disagreement,
-\q2 settle it between yourselves, and do not tell others any secret you have learned about;
+\v 9 If you and your neighbor are having a disagreement, 
+\q2 settle it between yourselves, and do not tell others any secret you have learned about; 
 \q1
-\v 10 for others might find out what you have done,
-\q2 and you would be ashamed;
+\v 10 for others might find out what you have done, 
+\q2 and you would be ashamed; 
 \q2 and from that time on, you will have a bad reputation.
 
 
@@ -43,14 +43,11 @@
   * [[:en:obe:other:neighbor]]
   * [[:en:obe:other:shame]]
   * [[:en:obe:kt:evil]]
-
 ===== translationNotes: =====
 
   * **your case** - "your disagreement"
-  * **do not disclose another's secret** - "do not share your neighbor's secret with other people"
-  * **and an evil report about you that cannot be silenced** - Here "evil report" refers to harmful things that the person will tell others. The phrase "cannot be silenced" can be stated in active form. AT: "and you will not be able to stop him from telling other people harmful things about you" or "and he will tell people evil things about you and you will never have a good reputation again" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
-
+  * **do not disclose another's secret** - AT: "do not share your neighbor's secrets with other people"
+  * **or else the one who hears you will bring shame upon you** - AT: "for the person who hears you may cause you to be ashamed"
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -58,6 +55,6 @@
   * [[:en:bible:questions:comprehension:pro:25]]
 **[[:en:bible:notes:pro:25:07|<<]] | [[:en:bible:notes:pro:25:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

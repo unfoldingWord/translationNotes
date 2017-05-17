@@ -22,11 +22,12 @@
 <usfm>
 \v 17 I made wicked people stop oppressing others; it was like someone who breaks the teeth of wild animals
 \q2 and forces them to drop their victims from their teeth.
+\b
 \q1
 \v 18 At that time I thought, 'Surely I will live in peace until I am very old,
-\q2 and I will die at home with my family.
+\q2 and I will die at home with my family.'
 \q1
-\v 19 I am like a tree whose roots reach down into the water
+\v 19 I was like a tree whose roots reach down into the water
 \q2 and whose branches become wet with dew each night.
 
 
@@ -57,12 +58,11 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - In verses 18-20 Job tells about the things he used to say before bad things happened to him.
+  * **I broke the jaws of ... I plucked the victim** - Job helped those who had been persecuted by unrighteous people. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **I will die in my nest** - "nest" represents a safe place. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **multiply my days like the grains of sand** - Job had believed he would live a long life. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **My roots ... my branches** - With God's help, Job was as sturdy as a well-watered tree. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
-  * **I broke the jaws of ... I plucked the victim** - Job speaks of unrighteous people who persecute others as if they were wild animals that attack their victims by picking them up between their teeth. AT: "I made unrighteous people stop persecuting people, like someone who breaks the jaw of a wild animal and rescues its victim from between its teeth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will die in my nest** - Here "nest" represents Job's home and family. Job used to speak as if he were a bird that lived in a nest with his baby birds. AT: "I will die at home with my family" (UDB) or "I will die in the safety of my home" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will multiply my days like the grains of sand** - Job used to speak as if the days of his life would be as many as the grains of sand on the shore. This is an exaggeration to express that he would live a very long time. AT: "I will live a very long time" or "I will live many years" (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **My roots ... my branches** - Job used to speak speak of his strength as if he were strong like a well-watered tree. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:29]]
 **[[:en:bible:notes:job:29:14|<<]] | [[:en:bible:notes:job:29:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

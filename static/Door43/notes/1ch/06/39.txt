@@ -48,6 +48,7 @@
 \v 43 Shimei was the son of Jahath.
 \li2 Jahath was the son of Gershon,
 \li2 and Gershon was the son of Levi.
+\b
 
 
 \li1
@@ -56,11 +57,25 @@
 ===== ULB: =====
 
 <usfm>
-\v 39 Heman's colleague was Asaph, who stood at his right hand. Asaph was the son of Berechiah. Berechiah was the son of Shimea. 
-\v 40 Shimea was the son of Michael. Michael was the son of Baaseiah. Baaseiah was the son of Malchijah.
-\v 41 Malchijah was the son of Ethni. Ethni was the son of Zerah. Zerah was the son of Adaiah.
-\v 42 Adaiah was the son of Ethan. Ethan was the son of Zimmah. Zimmah was the son of Shimei.
-\v 43 Shimei was the son of Jahath. Jahath was the son of Gershom. Gershom was the son of Levi.
+\v 39 Heman's colleague was Asaph, who stood at his right hand. 
+\q Asaph was the son of Berechiah.
+\q Berechiah was the son of Shimea.
+\q 
+\v 40 Shimea was the son of Michael.
+\q Michael was the son of Baaseiah.
+\q Baaseiah was the son of Malchijah.
+\q 
+\v 41 Malchijah was the son of Ethni.
+\q Ethni was the son of Zerah.
+\q Zerah was the son of Adaiah.
+\q 
+\v 42 Adaiah was the son of Ethan.
+\q Ethan was the son of Zimmah.
+\q Zimmah was the son of Shimei.
+\q 
+\v 43 Shimei was the son of Jahath.
+\q Jahath was the son of Gershom.
+\q Gershom was the son of Levi.
 </usfm>
 
 ===== translationWords: =====

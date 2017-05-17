@@ -33,7 +33,7 @@
 
 <usfm>
 \q
-\v 15 Look now at the behemoth, which I made as well as I made you;
+\v 15 Look now at the behemoth, which I made as well as I made you; 
 \q he eats grass like an ox.
 \q
 \v 16 See now, his strength is in his loins;
@@ -48,10 +48,8 @@
 
 ===== translationNotes: =====
 
-  * **behemoth** - a large water animal, possibly the hippopotamus (see UDB)
-  * **he eats** - the behemoth eats
-  * **eats grass like an ox** - Both the behemoth and the ox eat grass. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **loins ... belly's muscles** - These two phrases refer to the same part of the body.
+  * **he eats** - The word "he" refers to the behemoth.
+  * **like an ox** - This describes how the behemoth actually eats grass. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 
 ===== Links: =====
@@ -63,6 +61,6 @@
 **[[:en:bible:notes:job:40:12|<<]] | [[:en:bible:notes:job:40:17|>>]]**
 
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

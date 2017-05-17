@@ -22,7 +22,7 @@
 \q1
 \v 9 He created the moon and stars to shine during the nighttime;
 \q2 he will love us forever as he has promised.
-
+\b
 
 
 \q1
@@ -33,7 +33,7 @@
 
 <usfm>
 \q
-\v 8 Give thank to him who gave the sun to rule by day,
+\v 8 He made the sun to rule by day,
 \q for his covenant faithfulness endures forever—
 \q
 \v 9 the moon and stars to rule by night,
@@ -63,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book5}}
+{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

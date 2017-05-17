@@ -24,7 +24,7 @@
 <usfm>
 \v 3 Then Queen Esther replied, "If I have found favor in your eyes, king, and if it pleases you, let my life be given to me—this is my petition, and I request this also for my people.
 \v 4 For we have been sold, I and my people, to be destroyed, killed, and annihilated. If we had only been sold into slavery, as male and female slaves, I would have kept quiet, for no such distress as this would justify disturbing the king."
-\v 5 Then King Ahasuerus said to Esther the queen, "Who is he? Where is this person to be found who has filled his heart to do such a thing?"
+\v 5 Then King Ahasuerus and said to Esther the queen, "Who is he? Where is the one who has filled his heart to do such a thing?"
 </usfm>
 
 
@@ -41,12 +41,10 @@
 ===== translationNotes: =====
 
 
-  * **If I have found favor in your eyes, king** - "Find favor" is an idiom that means to be approved of or that he is pleased with her. "In your eyes" is a metaphor representing his evaluation. AT: "If you evaluate me and approve" or "If you are pleased with me" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **let my life be given to me** - The metaphor "giving life" represents rescuing a person from being killed. This statement can be expressed in active form. AT: "save my life" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **this is my petition** - The abstract noun "petition" can be expressed with the verb "ask for." AT: "this is what I ask for" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **For we have been sold** - The metaphor "being sold" represents being betrayed. This can be stated in active form. AT: "For someone has betrayed us" or "For someone has put us in danger of our enemies" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **to be destroyed, killed, and annihilated** - Here all three words have the same meaning and are used for emphasis. This can be stated in active form. AT: "for our enemies to destroy, kill, and annihilate us" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Where is this person to be found who has filled his heart to do such a thing** - To fill one's heart to do something is an idiom meaning to dare to do something. This can be stated in active form. AT: "Where is the one who has dared to so such a thing" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in your eyes** - "from you"
+  * **be given to me** - "be saved"
+  * **For we have been sold** - "For a decree sold us" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **destroyed, killed, and annihilated** - Here all three words have the same meaning and are used for emphasis.
  
 ===== Links: =====
 
@@ -61,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

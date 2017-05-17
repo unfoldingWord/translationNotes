@@ -20,7 +20,8 @@
 \v 2 Reuben, Simeon, Levi, Judah,
 \v 3 Issachar, Zebulun, Benjamin,
 \v 4 Dan, Naphtali, Gad, and Asher.
-\v 5 In all, there were seventy people who went with Jacob. His son Joseph was already in Egypt.
+\v 5 In all, there were seventy people who went with Jacob. His son Joseph was already in Egypt. 
+
 
 \p
 </usfm>
@@ -35,7 +36,7 @@
 \v 2 Reuben, Simeon, Levi, and Judah,
 \v 3 Issachar, Zebulun, and Benjamin,
 \v 4 Dan, Naphtali, Gad, and Asher.
-\v 5 All the people who were descendants of Jacob were seventy in number. Joseph was already in Egypt.
+\v 5 All the people who came out of the thigh of Jacob were seventy in number. Joseph was already in Egypt.
 </usfm>
 
 
@@ -60,7 +61,9 @@
 
 ===== translationNotes: =====
 
+
   * **household** - This refers to all the people who live in a house together, usually a large family with servants. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who came out of the thigh of Jacob** - who were descendants of Jacob (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **seventy** - "70" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **Joseph was already in Egypt** - "Joseph lived in Egypt before his brothers"
 

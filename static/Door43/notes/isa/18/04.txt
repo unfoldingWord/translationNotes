@@ -19,12 +19,13 @@
 
 <usfm>
 \v 4 Listen because Yahweh has told me this:
-\q2 "I will watch quietly from where I live.
-\q1 I will watch quietly like the heat that shimmers as it rises on a summer day.
-\q2 I will work effectively like the cloud of mist that settles during the heat of harvest.
-\v 5 Before the harvest, the farmer sees the grapevines making blossoms and the flowers growing into grapes, 
-\q2 and he knows that the time is right to cut off the new growth and spreading branches that keep the tree from growing strong.
-\q1 In the same way I know when the time is right to take action against that nation, and I will send an army to attack it. 
+\q1 "I will watch quietly from where I live.
+\q2 I will watch as quietly as the heat that shimmers as it rises on days during the summer, as quietly as the dew forms on the ground during harvest time."
+\q1
+\v 5 But even before the army of Ethiopia starts to attack,
+\q2 while their plans are slowly forming like grapes that are ripening,
+\q1 Yahweh will get rid of them like a farmer who cuts off the new shoots of the grapevines with his shears,
+\q2 who prunes the branches that have become very long.
 
 
 \q1
@@ -33,12 +34,12 @@
 ===== ULB: =====
 
 <usfm>
-\m
+\p
 \q1
-\v 4 This is what Yahweh said to me, "I will quietly observe from my home,
-\q1 like the simmering heat in sunshine, like a cloud of mist in the heat of harvest.
+\v 4 This is what Yahweh said to me, "I will quietly observe from my home, 
+\q1 like the simmering heat in sunshine, like a cloud of mist in the heat of harvest."
 \q1
-\v 5 Before the harvest, when the blossoming is over, and the flower is ripening into a grape,
+\v 5 Before the harvest, when the blossoming is over, and the flower is ripening into a grape, 
 \q1 he will cut off the sprigs with pruning hooks, and he will cut down and take away the spreading branches.
 </usfm>
 
@@ -50,16 +51,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - God uses a parable about a farmer in a vineyard in order to describe what he will do to a certain nation. That nation is either Ethiopia or Ethiopia's enemy.
-
   * **This is what Yahweh said to me** - "Yahweh said to me." Here the word "me" refers to Isaiah.
-  * **I will quietly observe from my home** - What God will observe can be stated clearly.  AT: "I will quietly observe that nation from my home" or "From my home, I will quietly watch what the people of that nation do" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **like the simmering heat in sunshine, like a cloud of mist in the heat of harvest** - These phrases show how quietly God will watch the nation. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Before the harvest** - "Before the grape harvest" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **when the blossoming is over** - It can be stated clearly that this refers to blossoms on grape vines. AT: "when flowers have finished growing on the grape vines" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **he will cut off the sprigs** - If a farmer sees that a new branch does not bear fruit, he will cut it off.  AT: "the farmer will cut off sprigs that do not bear fruit" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **pruning hooks** - A pruning hook is a knife that people use to cut branches off of vines or other plants.
-  * **he will cut down and take away the spreading branches** - If a farmer sees that a branch has grown too much and is keeping the whole vine from bearing a lot of fruit, he will cut it off and throw it away. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **like the simmering heat in sunshine, like a cloud of mist in the heat of harvest** - Both of these phrases emphasize how quietly God will watch. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **pruning hooks** - See how you translated this in [[:en:bible:notes:isa:02:04|2:4]].
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -67,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:18]]
 **[[:en:bible:notes:isa:18:03|<<]] | [[:en:bible:notes:isa:18:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

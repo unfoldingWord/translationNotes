@@ -18,7 +18,7 @@
 \q2 for what they did on the day that the army of Babylon captured Jerusalem.
 \q1 Do not forget that they said,
 \q2 "Tear down all the buildings! Destroy them completely! Leave only the foundations!"
-
+\b
 
 
 \q1
@@ -28,7 +28,7 @@
 
 <usfm>
 \q
-\v 7 Call to mind, Yahweh, what the Edomites did
+\v 7 Call to mind, Yahweh, what the Edomites did 
 \q on the day Jerusalem fell.
 \q They said, "Tear it down, tear it down
 \q to its foundations."
@@ -42,8 +42,8 @@
 ===== translationNotes: =====
 
   * **Call to mind** - "Remember" or "Think about" 
-  * **Call to mind, Yahweh, what the Edomites did** - Here remembering what the Edomites did represents punishing them for what they did. AT: "Punish the Edomites, Yahweh, for what they did" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the day Jerusalem fell** - Jerusalem being captured by an enemy army is spoken of as if it had fallen. Who captured Jerusalem can be stated clearly. AT: "the day Jerusalem was captured" or "the day the Babylonian army entered Jerusalem" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Call to mind, Yahweh, what the Edomites did** - Here remembering what the Edomites did represents punishing them for what they did. AT: "Punish the Edomites for what they did" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the day Jerusalem fell** - Jerusalem being captured by an enemy army is spoken of as if it had fallen. Who captured Jerusalem can be stated clearly AT: "the day Jerusalem was captured" or "the day the Babylonian army entered Jerusalem" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:psa:137]]
 **[[:en:bible:notes:psa:137:005|<<]] | [[:en:bible:notes:psa:137:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

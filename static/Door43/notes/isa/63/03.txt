@@ -35,8 +35,8 @@
 
 <usfm>
 \q1
-\v 3 I have trodden grapes in the winepress alone, and no one from the nations joined me.
-\q1 I trod them in my anger and trampled them in my fury.
+\v 3 I have trodden grapes in the winepress alone, and no one from the nations joined me. 
+\q1 I trod them in my anger and trampled them in my fury. 
 \q1 Their blood is spattered on my clothes and stained all my clothes.
 \q1
 \v 4 For I looked forward to the day of vengeance, and the year for my redemption had arrived.
@@ -56,8 +56,7 @@
 
   * **I have trodden grapes** - Here "I" refers to Yahweh. This imagery refers to Yahweh destroying his enemies. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **For I looked forward to the day of vengeance** - Here "day" refers to a period of time. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **vengeance** - Yahweh will punish in an appropriate way to bring about justice. His kind of vengeance differs from man's vengence.
-  * **the year for my redemption** - Here "year" refers to a specific time appointed by Yahweh for restoring Israel. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **vengeance** - Yahweh will punish in an appropriate way to bring about justice. His kind of vengeance differs from man's.
 
 ===== Links: =====
 
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:isa:63]]
 **[[:en:bible:notes:isa:63:01|<<]] | [[:en:bible:notes:isa:63:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

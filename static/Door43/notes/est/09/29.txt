@@ -28,9 +28,10 @@
 
 ===== translationNotes: =====
 
-  * **Queen Esther daughter of Abihail and Mordecai the Jew wrote ... this second letter** - Esther was the daughter of Abihail. Esther and Mordecai wrote the letter.
-  * **Abihail** - "Abihail" was Esther's father and Mordecai's uncle. See how you translated this in [[:en:bible:notes:est:02:15|2:15]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Abihail** - (See: [[:en:ta:vol1:translate:translate_names]])
   * **second letter** - "additional letter" (See: [[:en:ta:vol2:translate:translate_numbers]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -38,6 +39,6 @@
   * [[:en:bible:questions:comprehension:est:09]]
 **[[:en:bible:notes:est:09:26|<<]] | [[:en:bible:notes:est:09:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass authority}}
+~~DISCUSSION~~{{tag>publish p2edit authority}}
 
 ~~NOCACHE~~

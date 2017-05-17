@@ -46,11 +46,12 @@
 <usfm>
 \q1
 \v 7 The path of the righteous is level, Righteous One; the path of the righteous you make straight.
+\p
 \q1
-\v 8 Yes, in the path of your judgments, Yahweh, we wait for you;
+\v 8 Yes, in the path of your judgments, Yahweh, we wait for you; 
 \q1 your name and your reputation are our desire.
  \q1
-\v 9 I have longed for you in the night; yes, my spirit within me seeks you earnestly.
+\v 9 I have longed for you in the night; yes, my spirit within me seeks you earnestly. 
 \q1 For when your judgments come on the earth, the inhabitants of the world learn about righteousness.
 </usfm>
 
@@ -65,13 +66,9 @@
 
 ===== translationNotes: =====
 
-  * **The path of the righteous is level ... the path of the righteous you make straight** - These two phrases mean basically the same thing. People obeying Yahweh is spoken of as if they were walking on his path. Yahweh ensuring the people that what they do is right is spoken of as if he were making the path level and straight for them. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **in the path of your judgments, Yahweh, we wait for you** - Doing what Yahweh judged to be right is spoken of walking on his path. AT: "we wait for you, Yahweh, as we continue to do what you judged to be right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **of your judgments** - "of your laws" or "of your teachings"
-  * **we wait** - Here "we" refers to Isaiah and all righteous people who are speaking to Yahweh. (See: [[:en:ta:vol2:translate:figs_exclusive]]) 
-  * **your name and your reputation are our desire** - Here "name" and "reputation" represent Yahweh's character which represents Yahweh himself. AT: "our only desire is to honor you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **my spirit within me seeks you earnestly** - Wanting to know Yahweh and his laws better is spoken of as if the person were seeking to find Yahweh. AT: "I earnestly want to know you better" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **my spirit within me seeks you earnestly** - Here "spirit" represents the speaker as a whole. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **The path of the righteous is level ... the path of the righteous you make straight** - These two phrases mean basically the same thing. Here, obeying God is compared to walking a path. For God to make the path straight emphasizes that God always leads them in truth. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in the path of your judgments, Yahweh, we wait for you** - "We wait for you, O Yahweh, as we stay on the path you have judged to be right." Here "we" refers to Isaiah and all righteous people. (See: [[:en:ta:vol2:translate:figs_inclusive]]) 
+  * **your name and your reputation are our desire** - "Name" and "reputation" refer to the person of God. AT: "your name and your reputation are our only desire" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]])
 
 
 ===== Links: =====
@@ -87,6 +84,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

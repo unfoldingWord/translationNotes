@@ -37,7 +37,7 @@
 
 <usfm>
 \q1
-\v 18 I have seen his ways,
+\v 18 I have seen his ways, 
 \q1 but I will heal him. I will lead him and comfort and console those who mourn for him,
 \q1
 \v 19 and I create the fruit of the lips. Peace, peace, to those who are far off and to those who are near—says Yahweh—I will heal them.
@@ -57,10 +57,10 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **his ways** - "their ways." Here "his" refers to the people of Israel. 
-  * **comfort and console those who mourn for him** - "I will soothe and calm those who feel sad for the people's suffering because of their sinful behavior"
-  * **and I create the fruit of the lips** - Here "fruit of the lips" refers to what a person says. AT: "and I cause them to praise and thank me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Peace, peace, to those who are far off** - "I have made peace with them who are far off." The word "Peace" is repeated for emphasis. 
+  * **his ways** - Here "his" refers to the people of Israel. "their ways"
+  * **comfort and console those who mourn for him** - "I will soothe and calm those who feel sad for the people's sinful behavior"
+  * **and I create the fruit of the lips** - "fruit of the lips" refers to what a person says. AT: "I cause them to praise and thank me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Peace, peace, to those who are far off** - The word "Peace" is repeated for emphasis. "I have made peace with them"
 
 ===== Links: =====
 
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:57]]
 **[[:en:bible:notes:isa:57:16|<<]] | [[:en:bible:notes:isa:57:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

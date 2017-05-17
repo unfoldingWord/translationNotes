@@ -41,12 +41,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This is background information on Saul's family.
+  * **General Information:** - Background information on Saul's family.
 
-  * **Ishvi ... Malchishua** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **Merab ... Michal** - These are names of women. (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **Ahinoam ... Ahimaaz** - These are names of women. (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **Abner ... Ner ... Kish ... Abiel** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **Ishvi ... Malchishua** - These are male names. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **Merab ... Michal** - These are female names. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **Ahinoam ... Ahimaaz** - These are female names. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **Abner ... Ner ... Kish ... Abiel** - These are male names. (See: [[:en:ta:vol1:translate:translate_names]]) 
  
  
 ===== Links: =====
@@ -59,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

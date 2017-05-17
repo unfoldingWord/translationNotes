@@ -19,7 +19,7 @@
 <usfm>
 \c 9
 \p
-\v 1 Now in the twelfth month, which is the month of Adar, on the thirteenth day, when the king's law and decree were about to be carried out, on the day when the enemies of the Jews hoped to gain power over them, it was reversed. The Jews gained power over those who hated them.
+\v 1 Now in the twelfth month, which is the month of Adar, on the thirteenth day, when the king's law and decree were about to be carried out, on the day when the enemies of the Jews hoped to gain power over them, it was reversed. The Jews gained power over those who hated them. 
 \v 2 The Jews assembled in their cities throughout all the provinces of King Ahasuerus, to lay hands on those who tried to bring disaster on them. No one could stand against them, for the fear of them had fallen on all the peoples.
 </usfm>
 
@@ -34,16 +34,10 @@
 
 ===== translationNotes: =====
 
-  * **the twelfth month, which is the month of Adar, on the thirteenth day** - Translate this as you did a similar phrase in [[:en:bible:notes:est:03:12|3:13]].
-  * **when the king's law and decree were about to be carried out** - "Carry out" is an idiom meaning to do something that was commanded or planned. This can be stated in active form. AT: "when the people were about to obey the king's law and decree" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **to gain power over them** - Gaining power over people is an idiom for defeating them. AT: "to defeat the Jews" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **it was reversed** - "the situation was reversed." The situation being reversed is a metaphor meaning that the opposite of what was expected happened. AT: "the opposite happened" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **provinces** - A "province" is a large area into which some countries are divided for the purposes of government. Translate this as you did in [[:en:bible:notes:est:01:01|1:1]].
-  * **to lay hands on those who tried to bring disaster on them** - Laying hands on people is a metonym for fighting against them. AT: "to fight their enemies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **who tried to bring disaster on them** - To bring disaster on people is an idiom meaning to cause a disaster to happen to them. In this case it refers to destroying them. AT: "who tried to destroy them" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **No one could stand against them** - Standing against people represents resisting their attack. AT: "No one could resist the attack of the Jews" or "No one could successfully fight against the Jews" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the fear of them had fallen on all the peoples** - Fear falling on people represents people becoming very afraid. AT: "all the peoples had become very afraid of the Jews" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **the twelfth month, which is the month of Adar, on the thirteenth day** - See how you translated this in [[:en:bible:notes:est:03:12|3:13]].
+  * **about to be carried out** - "executed"
+  * **provinces** - Translate as in [[:en:bible:notes:est:01:01|Esther 1:1]].
+  * **to lay hands on those who tried to bring disaster on them** - "to fight their enemies"
 
 ===== Links: =====
 
@@ -52,6 +46,6 @@
   * [[:en:bible:questions:comprehension:est:09]]
 **[[:en:bible:notes:est:08:15|<<]] | [[:en:bible:notes:est:09:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

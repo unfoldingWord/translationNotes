@@ -28,7 +28,7 @@
 
 <usfm>
 \c 66
-\m
+\p
 \q1
 \v 1 This is what Yahweh says,
 \q1 "Heaven is my throne, and the earth is my footstool. Where then is the house you will build for me? Where is the place where I may rest?
@@ -44,10 +44,7 @@
   * [[:en:obe:kt:rest]]
 
 ===== translationNotes: =====
-
-  * **Heaven is my throne, and the earth is my footstool** - Yahweh compares heaven to a throne and the earth to a footstool to emphasize how great he is. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Where then is the house you will build for me? Where is the place where I may rest?** - Yahweh uses questions to emphasize that humans cannot build a place for him to dwell. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -55,6 +52,6 @@
   * [[:en:bible:questions:comprehension:isa:66]]
 **[[:en:bible:notes:isa:65:24|<<]] | [[:en:bible:notes:isa:66:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass footstool}}
+~~DISCUSSION~~{{tag>publish p2edit footstool}}
 
 ~~NOCACHE~~

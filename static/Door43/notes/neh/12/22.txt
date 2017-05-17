@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 22 During time when Eliashib led the Levites, this is a list of them all: Elisahib, Joiada, Johanan, and Jaddua were the leaders of all the priests. They wrote the names of the families who were descendants of Levi. When Darius was king of Persia, the priests were responsible for recording the names of those who were the heads of families.
-\v 23 They wrote the names of the leaders of the families who were descendants of Levi in the book of the annals until the time that Eliashib's grandson Johanan was the leader of all the priests.
- 
+\v 22 During time when Eliashib led the Levites, this is a list of them all: Elisahib, Joiada, Johanan, and Jaddua were the leaders of all the priests. They wrote the names of the families who were descendants of Levi. When Darius was king of Persia, the priests were responsible for recording who were the heads of families.
+\v 23 They wrote the names of the leaders of the families who were descendants of Levi in the book of the annals. They recorded the events until the time that Eliashib's grandson Johanan was the leader of all the priests.
+
 
 \p
 </usfm>
@@ -25,8 +25,8 @@
 
 <usfm>
 \p
-\v 22 In the days of Eliashib, the Levites Eliashib, Joiada, Johanan, and Jaddua were recorded as the heads of families, and the priests were recorded during the reign of Darius the Persian.
-\v 23 The descendants of Levi, their leaders of families were recorded in the book of the annals up to the days of Johanan son of Eliashib.
+\v 22 In the days of Eliashib, the Levites Eliashib, Joiada, Johanan, and Jaddua were recorded as the heads of families, and the priests were recorded during the reign of Darius the Persian. 
+\v 23 The descendants of Levi and their leaders of families were recorded in The Book of the Annals up to the days of Johanan son of Eliashib.
 </usfm>
 
 
@@ -42,9 +42,10 @@
   * [[:en:obe:kt:son]]
 ===== translationNotes: =====
 
-  * **Eliashib ... Joiada, Johanan ... Jaddua** - names of men (See: [[:en:ta:vol1:translate:translate_names]])
-  * **during the reign of Darius** - Another possible meaning is "until the reign of Darius"
-  * **recorded in the book of the annals** - This may refer to the Book of Chronicles. The scribes wrote the words in the verses above in a book that recorded the events of each day. 
+  * **In the days of Eliashib, the Levites Eliashib, Joiada, Johanan, and Jaddua were recorded as the heads of families, and the priests were recorded during the reign of Darius the Persian** - This statement is ambiguous since it is not clear whether the Levites and priests represented one group or were two different groups. Here is one possible translation: "The family heads of the Levites in the days of Eliashib (Joiada, Johanan and Jaddua), as well as those of the priests, were recorded in the reign of Darius the Persian." 
+  * **Eliashib ... Joiada, Johanan, and Jaddua were recorded as the heads of families** - These males were recorded as heads of families. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **The descendants of Levi and their leaders of families** - "The descendants of Levi, leaders of families"
+  * **recorded in The Book of the Annals** - This may refer to The Book of Chronicles. The scribes wrote the words in the verses above in a book that recorded the events of each day. 
   * **up to the days of Johanan son of Eliashib** - The records in the temple recorded only up until Johanan.
 
 
@@ -58,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass darius}}
+{{tag>publish p2edit darius}}
 
 ~~NOCACHE~~

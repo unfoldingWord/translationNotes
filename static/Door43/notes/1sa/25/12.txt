@@ -25,7 +25,7 @@
 
 <usfm>
 \v 12 So David's young men turned away and came back, and told him everything that was said.
-\v 13 David said to his men, "Every man strap on his sword." So every man strapped on his sword. David also strapped on his sword. About four hundred men followed after David, and two hundred stayed by the baggage.
+\v 13 David said to his men, "Every man strap on his sword." And every man strapped on his sword. David also strapped on his sword. About four hundred men followed after David, and two hundred stayed by the baggage.
 </usfm>
 
 
@@ -38,12 +38,12 @@
 
 ===== translationNotes: =====
 
-  * **that was said** - This can be stated in active form. AT: "that Nabal had said" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **that was said** - "that Nabal had said" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **said to his men** - "said to his army"
-  * **"Every man strap on his sword." So every man strapped on his sword. David also strapped on his sword** - If swords are not known in your language, you can treat "strap on his sword" as a metonymy meaning to prepare for war. AT: "'Every man, prepare for war.' And every man prepared for war. David also prepared for war" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **strap on his sword." And every man strapped on his sword. David also strapped on his sword** - If your swords are not known in your language, you can treat this as synecdoche. AT: "prepare for war.' And every man prepared for war. David also prepared for war" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **four hundred** - 400 (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **two hundred** - 200 (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **stayed by the baggage** - They remained at their base camp to prevent other raiders from stealing their possessions. 
+  * **two hundred** - 200
+  * **stayed by the baggage** - Remained at their base camp to prevent other raiders from stealing their possessions. 
 
  
 ===== Links: =====
@@ -59,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -21,6 +21,7 @@
 \v 8 Do not punish us because of the sins that our ancestors committed!
 \q1 Act mercifully toward us now
 \q2 because we are very discouraged.
+\b
 \q1
 \v 9 God, you have saved us many times,
 \q2 so help us now;
@@ -35,7 +36,7 @@
 
 <usfm>
 \q
-\v 8 Do not hold the sins of our forefathers against us;
+\v 8 Do not hold the sins of our forefathers against us; 
 \q may your merciful actions come to us,
 \q for we are very low.
 \q
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:psa:079]]
 **[[:en:bible:notes:psa:079:006|<<]] | [[:en:bible:notes:psa:079:010|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

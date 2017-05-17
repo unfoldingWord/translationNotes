@@ -24,7 +24,7 @@
 \q1
 \v 33 Yahweh listens to those who are needy;
 \q2 he does not ignore those who have suffered for him.
-
+\b
 
 
 \q1
@@ -53,14 +53,13 @@
 
 ===== translationNotes: =====
 
+
   * **The meek** - This refers to meek people in general. AT: "Meek people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **you who seek after God** - Seeking God represents either 1) asking God for help or 2) thinking about God and obeying him. AT: "you who ask God for help" or "you who think about God" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you who seek after God** - 
   * **let your hearts live** - Here "hearts" refer to the people. Here "live" is an idiom that means to be encouraged. AT: "may you be encouraged" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_hypo]])
   * **Yahweh hears** - Here "hears" means to respond. AT: "Yahweh answers" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the needy** - This refers to needy people in general. AT: "needy people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **the needy** - This refers to needy people in general. AT: "Needy people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
   * **his prisoners** - "those who have suffered for him" (UDB)
-
-
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -71,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book2}}
+{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

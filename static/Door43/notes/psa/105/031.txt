@@ -40,7 +40,7 @@
 \v 31 He spoke, and swarms of flies and gnats came
 \q throughout their country.
 \q
-\v 32 He turned their rain into hail,
+\v 32 He turned their rain into hail, 
 \q with fire flaming on their land.
 \q
 \v 33 He destroyed their vines and fig trees;
@@ -57,10 +57,8 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - The psalmist continues to describe Yahweh's judgment on Egypt.
-
-  * **swarms** - large flying groups
   * **gnats** - small flying insects like flies but smaller
+  * **swarms** - large flying groups
   * **hail** - ice that falls from the sky like rain
   * **He destroyed ... he broke** - God caused the hail, rain, and lightning to ruin the vines and trees. AT: "He caused it to destroy ... and to break" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
@@ -79,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book4}}
+{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

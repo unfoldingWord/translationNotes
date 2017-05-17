@@ -35,7 +35,7 @@
 
 <usfm>
 \q1
-\v 3 For I will pour water on the thirsty ground, and flowing streams on the dry ground;
+\v 3 For I will pour water on the thirsty ground, and flowing streams on the dry ground; 
 \q1 I will pour my Spirit on your offspring, and my blessing on your children.
 \q1
 \v 4 They will spring up among the grass, like willows by the streams of water.
@@ -54,11 +54,9 @@
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
   * **I will pour water on the thirsty ground, and flowing streams on the dry ground** - Yahweh speaks of giving his Spirit to the people of Israel as if he were causing rain to fall and streams to flow on dry ground. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the thirsty ground** - Dry ground is spoken of as if it were a thirsty person. AT: "the dry ground" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
-  * **I will pour my Spirit on your offspring** - Yahweh speaks of giving his Spirit to the people as if his Spirit were liquid that he pours out on them. AT: "I will give my Spirit to your offspring" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and my blessing on your children** - The verb may be supplied from the previous phrase. AT: "and I will pour out my blessing on your children" or "and I will give my blessing to your children" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **They will spring up among the grass, like willows by the streams of water** - The people of Israel being prosperous and multiplying is spoken of as if they were plants that grow because they have plenty of water. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **willows** - A willow is a tree with thin branches that grows near the water.
+  * **the thirsty ground** - Dry ground is spoke of as if it were a thirsty person. AT: "the dry ground" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **They will spring up among the grass, like willows by the streams of water** - This means God's Spirit will cause the people of Israel to prosper and multiply. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **willow** - a tree with thin branches that grows near the water
  
 ===== Links: =====
 
@@ -73,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass bless}}
+{{tag>publish p2edit bless}}
 
 ~~NOCACHE~~

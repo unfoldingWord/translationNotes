@@ -24,10 +24,12 @@
 \v 7 I created the light and the darkness.
 \q2 I cause there to be peace and I cause there to be disasters.
 \q2 I, Yahweh, do all those things."
+\b
 \q1
 \v 8 Yahweh also says, "Just like the rain falls on the earth to help it,
 \q2 I will help my people and rescue them; I will cause them to be treated justly.
 \q1 I, Yahweh, am the one who will cause both of those things to happen.
+\b
 
 
 \q1
@@ -38,11 +40,12 @@
 
 <usfm>
 \q1
-\v 7 I form the light and create darkness;
+\v 7 I form the light and create darkness; 
 \q1 I bring peace and create disaster; I am Yahweh, who does all these things.
+\p
 \q1
-\v 8 You heavens, rain down from above! Let the skies rain down righteousness.
-\q1 Let the earth absorb it, that salvation may sprout up,
+\v 8 You heavens, rain down from above! Let the skies rain down righteous salvation.
+\q1 Let the earth absorb it, that salvation may sprout up, 
 \q1 and righteousness spring up together with it. I, Yahweh, have created them both.
 </usfm>
 
@@ -60,10 +63,7 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **I form the light and create darkness; I bring peace and create disaster** - Both of these expressions form merisms that emphasize that Yahweh is sovereign creator of everything. (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **You heavens, rain down from above ... righteousness spring up together with it** - Yahweh speaks of his righteousness as if it were rain that falls on the earth, and of his righteousness and salvation as plants that grow on the earth. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **You heavens** - Yahweh momentarily turns his attention from his people and begins to speak to the heavens. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
-
+  * **You heavens, rain down from above ... I, Yahweh, have created them both** - God compares his power to save to the rain falling from the sky and causing plants to grow. This means the true God in heaven is the only one who can save people and restore justice on the earth. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -77,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

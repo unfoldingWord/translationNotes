@@ -20,7 +20,7 @@
 \q1
 \v 7 but you will die as people do;
 \q2 your lives will end as the lives of all rulers end."
-
+\b
 
 
 \q1
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:082]]
 **[[:en:bible:notes:psa:082:005|<<]] | [[:en:bible:notes:psa:082:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

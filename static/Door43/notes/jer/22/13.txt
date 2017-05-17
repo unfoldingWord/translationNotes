@@ -32,6 +32,7 @@
 \q2 with very large rooms and many windows.
 \q1 They will cover the walls with fragrant cedar panels
 \q2 and paint them bright red.'"
+\b
 
 
 \q1
@@ -41,12 +42,13 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
-\v 13 Woe to him who builds his house by unrighteousness, his upper rooms by injustice, 
-\q who makes his neighbor work for him for nothing, and he does not give him his wages;   
+\v 13 Woe to anyone who is building his house in unrighteousness and his upper rooms in injustice;
+\q for whom others work, but who does not pay them.
 \q
-\v 14 he says, 'I will build for myself a large house with spacious upper rooms.'
-\q So cuts out large windows for it, and he panels it with cedar, and he paints it red.'
+\v 14 Woe to anyone who says,'I will build for myself a house of great height and spacious upper rooms,
+\q who constructs wide windows for himself, and panels with cedar, and paints it all red.'
 </usfm>
 
 
@@ -60,11 +62,7 @@
 
 ===== translationNotes: =====
 
-  * **him who builds his house ... he says** - These refer to King Jehoiakim. 
-  * **his house** - The word "house" is a metonym for the family that lives in the house. In this case it refers to King Jehoiakim and his family. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **builds his house by unrighteousness, his upper rooms by injustice** - The abstract nouns "unrighteousness" and "injustice" have similar meanings and can be stated as actions. AT: "unjustly forced men to build his house and his upper rooms" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **a large house with spacious upper rooms ... large windows ... cedar ... red** - These characteristics all describe a very expensive house.
-
+  * **house** - House is being used here to describe Jehoiakim and his family. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -73,6 +71,6 @@
   * [[:en:bible:questions:comprehension:jer:22]]
 **[[:en:bible:notes:jer:22:11|<<]] | [[:en:bible:notes:jer:22:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

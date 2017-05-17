@@ -18,12 +18,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 All of you who bring good news to Zion, 
-\q2 shout it from the high mountain!
-\q1 Every one of you who brings good news to the people who live in Jerusalem,
-\q2 shout out loud the message you have to tell!
-\q1 Shout it out! Do not be afraid!
-\q2 Say to the people living in the cities of Judah, "Here is your God!
+\v 9 You people of Jerusalem, you have good news to tell to people,
+\q2 so shout it from the top of a high mountain!
+\q1 Shout it loudly and do not be afraid!
+\q1 Tell the people in the cities of Judah,
+\q2 "Your God is coming here!"
 \q1
 \v 10 Yahweh your God will be coming with power,
 \q2 he will rule powerfully.
@@ -36,15 +35,16 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 9 Go up on a high mountain, Zion, bearer of good news.
+\v 9 Go up on a high mountain, Zion, bearer of good news; 
 \f + \ft Instead of \fqa Go up on a high mountain, Zion, bearer of good news \fqb , some versions have \fqa You who are bearing good news to Zion, go up on a high mountain \fqb . \f*
-\q1 Shout out loud, Jerusalem. You who bring good news, raise your voice, do not be afraid.
+\q1 lift up your voice with strength. Jerusalem, proclaimer of good news, cry out loudly; do not be afraid. 
 \f + \ft Instead of \fqa Jerusalem, proclaimer of good news \fqb , some versions have \fqa proclaim good news to Jerusalem \fqb . \f*
 \q1 Say to the cities of Judah, "Here is your God!"
-\q1
+\q1 
 \v 10 Look, the Lord Yahweh comes as a victorious warrior, and his strong arm rules for him.
-\q1 See, his reward is with him, and those he has rescued go before him.
+\q1 See, his reward is with him, and his recompense goes before him.
 </usfm>
 
 ===== translationWords: =====
@@ -61,13 +61,12 @@
 
 ===== translationNotes: =====
 
-  * **Go up on a high mountain, Zion, bearer of good news** - The writer speaks of Zion as if it were a messenger who declares good news from a mountain top. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **Go up on a high mountain** - Messengers would often stand on elevated land, such as mountains, so that many people could hear what they proclaimed. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Go up on a high mountain** - Mountains provide a convenient place to speak to many people. AT: "Get into a position where everyone around can hear" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Zion** - This refers to the people who live in Zion. AT: "you people of Zion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Jerusalem. You who bring good news** - The writer speaks of Jerusalem as if it were a messenger who declares good news. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **and his strong arm rules for him** - Here the word "arm" represents God's power. AT: "and he rules with great power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **his reward is with him ... those he has rescued go before him** - These two phrases mean basically the same thing. The ones he rescued are his "reward." AT: "he is bringing those he rescued with him as his reward" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-
+  * **lift up your voice with strength** - "shout loudly"
+  * **and his strong arm rules for him** - "Arm" refers to God's power. AT: "and he rules with power" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **his reward is with him, and his recompense goes before him** - Both of these clauses mean the same thing. AT: "he is bringing his reward with him" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **his recompense goes before him** - "the payment for his efforts goes ahead of him"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -75,6 +74,6 @@
   * [[:en:bible:questions:comprehension:isa:40]]
 **[[:en:bible:notes:isa:40:06|<<]] | [[:en:bible:notes:isa:40:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass reward}}
+~~DISCUSSION~~{{tag>publish p2edit reward}}
 
 ~~NOCACHE~~

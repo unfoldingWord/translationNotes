@@ -35,8 +35,8 @@
 \q they know not its ways,
 \q nor do they stay in its paths.
 \q
-\v 14 Before daylight the murderer rises 
-\q and he kills poor and needy people;
+\v 14 The murderer rises with the light;
+\q he kills poor and needy people;
 \q in the night he is like a thief.
 </usfm>
 
@@ -51,12 +51,13 @@
  
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Job continues speaking.
+  * **General Information:** - Job continues speaking.
 
   * **rebel against the light** - Possible meanings of "light" are 1) visible light or 2) spiritual light, which refers to God or living righteously. AT: "hate the daylight" or "do not want to do things openly" or "they rebel against God" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **they know not its ways, nor do they stay in its paths** - These two lines describe the same thing, and are used together to emphasize that they do not want to follow the ways of the light. AT: "they do not know how to live a moral life; they stay far away from living a righteous life." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **rises with the light** - AT: "wakes up when the sun comes up"
   * **poor and needy people** - The words "poor" and "needy" refer to the same group of people and emphasize that these are people who are unable to help themselves. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **he is like a thief** - The murderer kills in secret just like a thief steals without anyone seeing what he does. AT: "he kills people secretly, just like a thief steals secretly" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **he is like a thief** - AT: "he kills people secretly, just like a tief steals secretly" (See: [[:en:ta:vol1:translate:figs_simile]])
  
 ===== Links: =====
 
@@ -65,6 +66,6 @@
   * [[:en:bible:questions:comprehension:job:24]]
 **[[:en:bible:notes:job:24:11|<<]] | [[:en:bible:notes:job:24:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

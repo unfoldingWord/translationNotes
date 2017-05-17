@@ -27,8 +27,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 16 Now I have one request of you, and do not turn away from my face." Bathsheba said to him, "Speak."
-\v 17 He said, "Please speak to Solomon the king, for he will not turn away from your face, so that he may give me Abishag the Shunammite as my wife."
+\v 16 Now I have one request of you. Do not refuse me." Bathsheba said to him, "Speak."
+\v 17 He said, "Please speak to Solomon the king, for he will not refuse you, so that he may give me Abishag the Shunammite as my wife."
 \v 18 Bathsheba said, "Very well, I will speak to the king."
 </usfm>
 
@@ -39,7 +39,7 @@
 
   * **General Information:** - Adonijah shares his request with Bathsheba.
 
-  * **do not turn away from my face ... he will not turn away from your face** - Turning from the face of someone is a metonym for refusing to look at someone, which in turn is a metonym for refusing to do what that person requests. AT: "do not refuse to do what I request ... he will not refuse to do what you request" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Do not refuse me ... he will not refuse you** - This can be expressed positively. "Please do as I say ... he will certainly do as you say" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
   * **Abishag the Shunammite** - (See: [[:en:bible:notes:1ki:01:03|1:3]])
 
 ===== Links: =====
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:02]]
 **[[:en:bible:notes:1ki:02:13|<<]] | [[:en:bible:notes:1ki:02:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

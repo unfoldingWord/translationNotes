@@ -22,6 +22,7 @@
 \q1 He carries them close to his chest
 \q2 and he gently leads the female sheep
 \q2 that are nursing their young lambs.
+\b
 
 
 \q1
@@ -31,8 +32,8 @@
 
 <usfm>
 \q1
-\v 11 He will feed his flock like a shepherd, he will gather in his arm the lambs,
-\q1 and carry them close to his heart,
+\v 11 He will feed his flock like a shepherd, he will gather in his arm the lambs, 
+\q1 and carry them close to his heart, 
 \q1 and will gently lead the ewes nursing their young.
 </usfm>
 
@@ -45,9 +46,7 @@
   * [[:en:obe:other:sheep]]
 
 ===== translationNotes: =====
-
-  * **He will feed his flock like a shepherd** - The writer speaks of Yahweh's people as if they were sheep and of Yahweh as if he were their shepherd. AT: "He will care for his people like a shepherd feeds his flock" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **He will feed his flock like a shepherd** - This emphasizes God's love and care for his people. AT: "like a shepherd takes care of his sheep" (UDB) (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -55,6 +54,6 @@
   * [[:en:bible:questions:comprehension:isa:40]]
 **[[:en:bible:notes:isa:40:09|<<]] | [[:en:bible:notes:isa:40:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

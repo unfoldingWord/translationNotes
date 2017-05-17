@@ -21,13 +21,14 @@
 
 <usfm>
 \v 7 They shook as ships sailing from Tarshish shake in a strong wind.
+\b
 \q1
 \v 8 We had heard that this city was glorious,
 \q1 and now we have seen that it is.
 \q2 It is the city in which Yahweh, commander of the angel armies, lives.
 \q2 It is the city that God will preserve forever.
 
-
+\b
 
 
 \q1
@@ -43,7 +44,7 @@
 \q
 \v 8 As we have heard, so have we seen
 \q in the city of Yahweh of hosts, in the city of our God;
-\q God will establish it forever.
+\q God will establish it forever. 
 \qs Selah\qs*
 </usfm>
 
@@ -56,13 +57,14 @@
 
 ===== translationNotes: =====
 
-  * **With the east wind you break the ships of Tarshish** - Possible meanings are 1) this is a metaphor in which the author describes the kings being afraid as if they were ships that shake because God destroys them with a strong wind. AT: "They shook with fear, as the ships of Tarshish shake when you break them with the east wind" or 2) this is an apostrophe in which the author describes God's great power. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_apostrophe]])
+  * **With the east wind you break the ships of Tarshish** - Possible meanings are 1) that this is a metaphor in which the author describes the kings being afraid as if they were ships that shake because God destroys them with a strong wind or 2) this is an apostrophe in which the author describes God's great power. AT: "They shook with fear, as the ships of Tarshish shake when you break them with the east wind" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_apostrophe]])
   * **the east wind** - Possible meanings are 1) "a wind blowing from the east" or 2) "a strong wind."
   * **the ships of Tarshish** - Possible meanings are that this refers to 1) ships that sail to or are built in the city of Tarshish or 2) any large ocean-going ship.
   * **As we have heard** - It is implied that what they have heard is the great things that God has done in the past. AT: "As we have heard about the great things that God has done" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **so have we seen** - This means that they have seen the proof that the things that they have heard are true. AT: "so we have seen God do great things now" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **in the city of Yahweh of hosts, in the city of our God** - Both of these phrases refer to Jerusalem. AT: "in the city of our God, Yahweh of hosts" (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **establish it** - "make it secure." Here the word "establish means to preserve and make something secure. 
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -76,6 +78,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book2 tarshish}}
+{{tag>publish p2check book2 tarshish}}
 
 ~~NOCACHE~~

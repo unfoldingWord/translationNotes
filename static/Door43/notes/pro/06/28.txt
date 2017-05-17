@@ -45,10 +45,10 @@
 
 ===== translationNotes: =====
 
-  * **Can a man walk on hot coals without scorching his feet?** - Walking on hot coals will scorch a person's feet, so the implied answer is "no." AT: "Every man who walks on hot coals will have scorched feet." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Can a man walk on hot coals without scorching his feet?** - Walking on hot coals will scorch a person's feet, so the implied answer is "no." AT: "Every man who walks on hot coals will have scorched feet" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **walk on hot coals** - This stands for committing adultery. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **walk** - That is to slowly walk a long distance, without using tricks or magic.
-  * **scorching** - "burning"
+  * **scorching** - AT: "burning"
 
 ===== Links: =====
 
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:pro:06]]
 **[[:en:bible:notes:pro:06:26|<<]] | [[:en:bible:notes:pro:06:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

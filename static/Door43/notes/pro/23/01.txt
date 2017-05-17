@@ -21,8 +21,8 @@
 \v 1 When you sit down to eat a meal with ruler of a country,
 \q2 think carefully about what is in front of you.
 \q1
-\v 2 It is said, "put a knife to your throat" if you think of eating a lot of food,
-\q2 because it would be foolish to eat too much at such an important event.
+\v 2 It is said, "put a knife to your throat" if you think of eating a lot of food, 
+\q2 because it would be foolish to eat too much at such an important event. 
 \q1
 \v 3 Do not crave the special and expensive food the ruler enjoys;
 \q2 the food will deceive you.
@@ -42,7 +42,7 @@
 \v 2 and put a knife to your throat
 \q if you are a person who likes to eat a lot of food.
 \q
-\v 3 Do not crave his delicacies,
+\v 3 Do not crave his delicacies, 
 \q for it is the food of lies.
 </usfm>
 
@@ -52,12 +52,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
+  * **General Information:** - An unnamed wise person continues speaking
 
-  * **put a knife to your throat** - Possible meanings are 1) "be very careful not to eat too much" or 2) "do not eat anything at all" (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **put a knife to your throat** - This means that a person should exercise self-discipline or self-control in the way he eats or speaks before a ruler. He should control his speech or appetite. (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **Do not crave** - "Do not strongly desire." See how you translated "craves" in [[:en:bible:notes:pro:21:09|21:9]].
-  * **delicacies** - "special and expensive food" (UDB)
-  * **it is the food of lies** - This is an idiom.  "he is giving it to you so he can deceive you" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -66,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:23]]
 **[[:en:bible:notes:pro:22:28|<<]] | [[:en:bible:notes:pro:23:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -36,11 +36,8 @@
 
 ===== translationNotes: =====
 
-  * **the Tishbite** - This is the name of a people group from Tishbe. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Tishbe** - This is the name of a town in the region of Gilead. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **As Yahweh, the God of Israel lives** - This phrase is an oath to emphasize that what he will say is true.
-  * **before whom I stand** - This is an idiom that means "to serve." AT: "whom I serve" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **dew** - drops of water that form on the plants during the night
+  * **As Yahweh, the God of Israel lives** - This phrase is used to add emphasis to the oath that follows.
+  * **before whom I stand** - AT: "whom I serve" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -49,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:17]]
 **[[:en:bible:notes:1ki:16:34|<<]] | [[:en:bible:notes:1ki:17:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass elijah}}
+~~DISCUSSION~~{{tag>publish p2edit elijah}}
 
 ~~NOCACHE~~

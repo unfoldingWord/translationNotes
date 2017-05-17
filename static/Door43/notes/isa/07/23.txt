@@ -21,7 +21,7 @@
 <usfm>
 \q1
 \v 23 At that time, where there were a thousand vines worth a thousand silver shekels,
-\q1 there will be nothing but briers and thorns.
+\q1 will be nothing but briers and thorns.
 \q1
 \v 24 Men will go there to hunt with bows, because all the land will be briers and thorns.
 \q1
@@ -38,11 +38,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe the time when the army from Assyria will attack the land of Israel.
+  * **General Information:** - Isaiah continues to describe the time the army from Assyria will attack the land of Israel.
  
-  * **there were a thousand vines ... briers and thorns** - "there were 1,000 vines." That is, when Isaiah wrote, there were vineyards, in some of which were 1,000 vines or more each. He says that these vineyards will become full of briers and thorns. (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **a thousand silver shekels** - "1000 silver shekels." A shekel is a silver coin worth 4 days wage. AT: "1,000 silver coins" [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_bmoney]])
-  * **briers and thorns** - The words "briers" and "thorns" both refer to useless, thorny plants. It is not necessary to translate both words. AT: "thorn bushes" or "brier bushes" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **there were a thousand vines** - "there were 1,000 vineyards" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **because all the land will be briers and thorns** - Why the hunters come to these lands can be made explicit. AT: "because there will be nothing in these lands but briers, thorns, and wild animals" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **They will stay away from all the hills that were cultivated with the hoe** - This can be stated in active form. AT: "People will stay away from the hills where they once prepared the soil to plant crops" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
@@ -53,6 +51,6 @@
   * [[:en:bible:questions:comprehension:isa:07]]
 **[[:en:bible:notes:isa:07:20|<<]] | [[:en:bible:notes:isa:08:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

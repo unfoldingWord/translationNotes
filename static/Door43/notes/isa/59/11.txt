@@ -24,6 +24,7 @@
 \q2 but nothing happens.
 \q1 We want God to rescue us,
 \q2 but it seems that he is far away.
+\b
 
 
 \q1
@@ -34,7 +35,7 @@
 
 <usfm>
 \q1
-\v 11 We growl like bears and moan like doves;
+\v 11 We growl like bears and moan like doves; 
 \q1 we wait for justice, but there is none; for rescue, but it is far from us.
 </usfm>
 
@@ -57,6 +58,6 @@
   * [[:en:bible:questions:comprehension:isa:59]]
 **[[:en:bible:notes:isa:59:09|<<]] | [[:en:bible:notes:isa:59:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

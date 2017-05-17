@@ -51,13 +51,12 @@
 
 ===== translationNotes: =====
 
-  * **Are not my days only a few?** - Here "my days" represent the length of Job's life. This question expects a positive answer, to emphasize that Job only expects to live a few more days. It can be translated as a statement. AT: "I only have a few days left to live." or "My life will soon end." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the land** - Here the place where the spirits of dead people go is spoken of as if it was a land. AT: "the place" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **of darkness and of the shadow of death** - The phrase "shadow of death" intensifies the idea of "darkness." Both phrases describe where the spirits of dead people go. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **the shadow of death** - Translate this as in [[:en:bible:notes:job:03:04|3:5]].
-  * **as dark as midnight** - The darkness of the place where the spirits of dead people go is compared to the darkness of midnight. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **without any order** - This negative phrase can be expressed in positive form. AT: "full of confusion" or "where all is confused" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **where the light is like midnight** - The light of the place where the spirits of dead people go is compared to midnight. AT: "where there is no light" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Are not my days only a few** - AT: "I only have a few days left to live." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **before I go from where I will not return** - AT: "before I die" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **the land of darkness and of the shadow of death** - The phrase "shadow of death" intensifies the idea of "darkness." Both phrases refer to the place of the dead. AT: "to the land of deepest darkness." (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **land that is as dark as midnight** - (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **without any order** - AT: "full of confusion" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **where the light is like midnight** - AT: "where even light shines like darkness" (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:job:10]]
 **[[:en:bible:notes:job:10:18|<<]] | [[:en:bible:notes:job:11:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

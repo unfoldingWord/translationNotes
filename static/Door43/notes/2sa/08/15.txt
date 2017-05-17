@@ -49,10 +49,10 @@
 
 ===== translationNotes: =====
 
-  * **Joab son of Zeruiah** - Translate these names as you did in [[:en:bible:notes:2sa:02:12|2:13]].
-  * **Ahilud ... Ahitub ... Ahimelech ... Seraiah ... Jehoiada** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Ahilud was recorder** - A recorder was a person who spoke to the people and told them the king's announcements. AT: "Ahilud was the herald" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Cherethites ... Pelethites** - These are names of people-groups. These people were David's bodyguards. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **David reigned over all Israel** - Here "all Israel" is a metonym for the whole nation of Israel (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **righteousness to all his people** - Here "all his people" refers to the whole nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Zeruiah ... Ahilud ... Ahitub ... Ahimelech ... Seraiah ... Jehoiada** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Cherethites ... Pelethites** - These are names of people-groups. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -60,6 +60,6 @@
   * [[:en:bible:questions:comprehension:2sa:08]]
 **[[:en:bible:notes:2sa:08:13|<<]] | [[:en:bible:notes:2sa:09:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass jehoshaphat}}
+~~DISCUSSION~~{{tag>publish p2edit jehoshaphat}}
 
 ~~NOCACHE~~

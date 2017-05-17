@@ -18,14 +18,15 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 When a drunk man picks up a bush full of thorns
-\q2 and starts to swing it around at people,
-\q2 that is as helpful as a fool reciting proverbs,
-\q2 people stand back and try to get away from him.
+\v 9 When a drunk man picks up a bush full of thorns 
+\q2 and starts to swing it around at people, 
+\q2 that is as helpful as a fool reciting proverbs, 
+\q2 people stand back and try to get away from him. 
 \q1
-\v 10 An archer who aims and shoots arrows at people standing around him,
-\q2 is as dangerous as one who hires a fool
-\q2 or he takes so little care that he hires the next person who comes along.
+\v 10 An archer who aims and shoots arrows at people standing around him, 
+\q2 is as dangerous as one who hires a fool 
+\q2 or he takes so little care that he hires the next person who comes along. 
+
 
 \q1
 </usfm>
@@ -34,11 +35,11 @@
 
 <usfm>
 \q
-\v 9 Like a thorn that goes into the hand of a drunkard
-\q is a proverb in the mouth of fools.
+\v 9 A thornbush that goes up into the hand of a drunk
+\q is like a proverb in the mouth of fools.
 \q
-\v 10 Like an archer who wounds all those around him
-\q is one who hires a fool or hires anyone who passes by.
+\v 10 An archer who wounds everybody
+\q is like the one who hires a fool or just anyone who passes by.
 </usfm>
 
 ===== translationWords: =====
@@ -50,10 +51,12 @@
 
 ===== translationNotes: =====
 
-  * **Like a thorn ... is a proverb in the mouth of fools** - How the two are alike can be stated clearly. AT: "A proverb in the mouth of fools is as dangerous as a thorn that goes into the hand of a drunkard" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **a thorn that goes into the hand of a drunkard** - Possible meanings are 1) if a drunk person holds a thornbush, a thorn will prick his hand, or 2) if a drunk person is angry, he will pick up a thornbush and swing it at people. For the second meaning, the word "thorn" represents a thornbush. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **in the mouth of fools** - "in the speech of fools" or "that fools say" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **hires a fool** - "gives a job to a fool"
+
+  * **A thornbush held in the hand of a drunk** - A drunk cannot control his motions, so will injure himself and others when he holds a thornbush. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **is like a proverb in the mouth of fools** - The writer compares the danger a drunk person with a thornbush can be to the proverb fools will use wrongly. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **a proverb in the mouth of fools** - Translate as you did in [[:en:bible:notes:pro:26:07|26:7]]. 
+  * **hires** - "pays to do a job"
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -61,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:26]]
 **[[:en:bible:notes:pro:26:07|<<]] | [[:en:bible:notes:pro:26:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass archer}}
+~~DISCUSSION~~{{tag>publish p2edit archer}}
 
 ~~NOCACHE~~

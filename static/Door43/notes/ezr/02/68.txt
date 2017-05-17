@@ -14,7 +14,7 @@
 
 <usfm>
 \v 68 When they arrived at the temple of Yahweh in Jerusalem, some of the clan leaders gave money for the supplies needed to rebuild the temple in the same place where the old temple had been.
-\v 69 They all gave as much money as they were able to give. Altogether they gave about five hundred kilograms of gold, three metric tons of silver, and one hundred robes for the priests.
+\v 69 They all gave as much money as they were able to give. Altogether they gave about five hundred kilograms of gold, about 2.9 metric tons of silver, and 100 robes for the priests.
 
 
 \p
@@ -40,10 +40,8 @@
 
 ===== translationNotes: =====
 
-  * **sixty-one thousand ... five thousand ... one hundred** - "61,000 ... 5,000 ... 100" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **gold darics** - A "daric" was a small gold coin used by the Persian Empire. (See: [[:en:ta:vol2:translate:translate_bmoney]])
-  * **minas** - A mina is a unit of weight. One mina equals 550 grams. Minas are normally linked with measuring silver. (See: [[:en:ta:vol2:translate:translate_bweight]])
-  * **tunics** - garments worn next to the skin
+  * **minas** - A measure of money by weight. Minas is normally linked with measuring silver. (See: [[:en:ta:vol2:translate:translate_bweight]])
  
 ===== Links: =====
 
@@ -55,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

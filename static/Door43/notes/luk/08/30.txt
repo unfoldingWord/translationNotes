@@ -20,8 +20,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 30 Then Jesus asked him, "What is your name?" and he said, "Legion," for many demons had entered into him.
-\v 31 They kept begging him not to send them into the abyss.
+\v 30 Then Jesus asked him, "What is your name?" And he said, "Legion," for many demons had entered into him.
+\v 31 They kept imploring him that he would not command them to depart into the abyss.
 </usfm>
 
 
@@ -29,13 +29,15 @@
 
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:kt:demon]]
+  * [[:en:obe:other:command]]
   * [[:en:obe:other:abyss]]
 
 
 ===== translationNotes: =====
 
   * **Legion** - Translate this with a word that refers to a large number of soldiers or people. Some other translations say "Army." AT: "Battalion" or "Brigade"
-  * **kept begging him** - "kept begging Jesus"
+  * **kept imploring him** - "continued to plead with Jesus" or "kept begging Jesus"
+  * **to depart into the abyss** - "to leave the man and go into the abyss"
 ===== Links: =====
 
   * [[:en:bible:notes:luk:00:intro]]

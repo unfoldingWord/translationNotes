@@ -34,6 +34,7 @@
 \v 26 They served in the days of Joiakim son of Jeshua son of Jozadak, and in the days of Nehemiah the governor and of Ezra the priest and scribe.
 </usfm>
 
+
 ===== translationWords: =====
 
   * [[:en:obe:other:levite]]
@@ -49,14 +50,12 @@
   * [[:en:obe:other:ezra]]
   * [[:en:obe:kt:priest]]
   * [[:en:obe:other:scribe]]
-
 ===== translationNotes: =====
 
-  * **Hashabiah, Sherebiah ... Jeshua ... Kadmiel ... David ... Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub ... Joiakim ... Jeshua ... Jozadak ... Nehemiah ... Ezra** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **who stood opposite them to give praise and to give thanks, responding section by section** - This refers to how they sang some of their songs in worship. A leader or one group would sing a phrase, then one or two groups that "stood opposite them" would sing a phrase in response.
-  * **obedience to the command of David** - King David had commanded the Levites how they were to organize and lead worship.
-  * **in the days of Joiakim ... Jozadak, and in the days of Nehemiah the governor and of Ezra ... scribe** - The date was fixed by listing those who were leading the Jews at the time. "when Joiakim ... Jozadak was high priest, and when Nehemiah was governor and Ezra ... was the scribe"  
-
+  * **who stood opposite them to give praise and to give thanks, responding section by section** - This refers to how worship was organized as "call and response." A leader-group may call to a single response-group or to two response-groups during worship.
+  * **obedience to the command of David** - King David directed how worship was to be organized and led by the Levites.
+  * **in the days of** - "during the leadership of" The date was fixed by listing those in charge at the time. 
+  * **Hashabiah, Sherebiah ... Jeshua ... Kadmiel ... David ... Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub ... Joiakim ... Jeshua ... Jozadak ... Nehemiah ... Ezra** - These are male names. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -71,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -22,7 +22,7 @@
 
 <usfm>
 \v 3 Now the donkeys of Kish, Saul's father, were lost. So Kish said to Saul his son, "Take one of the servants with you; arise and go look for the donkeys."
-\v 4 So Saul passed through the hill country of Ephraim and went through the land of Shalishah, but they did not find them. Then they passed through the land of Shaalim, but they were not there. Then he passed through the land of the Benjamites, but they did not find them.
+\v 4 So Saul passed through the hill country of Ephraim and went through the land of Shalishah, but they did not find them. Then they passed through the land of Shaalim, but they were not there. Then he passed through the land of the Benjaminites, but they did not find them.
 </usfm>
 
 ===== translationWords: =====
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1sa:09]]
 **[[:en:bible:notes:1sa:09:01|<<]] | [[:en:bible:notes:1sa:09:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass donkey}}
+~~DISCUSSION~~{{tag>publish p2check donkey}}
 
 ~~NOCACHE~~

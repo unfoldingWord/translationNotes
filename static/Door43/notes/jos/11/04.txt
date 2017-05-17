@@ -14,7 +14,8 @@
 
 <usfm>
 \v 4 So the armies of all those kings gathered together. Their men were as many as the grains of sand on the seashore. They also came with horses and chariots in great numbers.
-\v 5 All of those kings met at the fixed time and set up their armies in a camp at the brook of Merom, in order to wage war against Israel.
+\v 5 All of those kings met at the fixed time and set up their armies in a camp at the brook of Merom, in order to wage war against Israel. 
+
 
 \p
 </usfm>
@@ -23,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 All their armies came out with them, a great number of soldiers, in number like the sand on the seashore. They had a great number of horses and chariots.
+\v 4 All their armies came out with them, a great number of soldiers, in number like the sand on the seashore. They had a great number of horses and chariots. 
 \v 5 All these kings met at the appointed time, and they camped at the waters of Merom to wage war with Israel.
 </usfm>
 
@@ -55,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

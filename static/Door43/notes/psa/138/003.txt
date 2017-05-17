@@ -17,6 +17,7 @@
 <usfm>
 \v 3 When I called out to you, you answered me;
 \q2 you enabled me to be strong and brave.
+\b
 \q1
 \v 4 Yahweh, someday all the kings of this earth will praise you
 \q2 because they will have heard what you have said.
@@ -47,7 +48,7 @@
 ===== translationNotes: =====
 
   * **All the kings of the earth** - "All the leaders in the world" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **your mouth** - This expression stands for God himself. AT: "you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **your mouth** - This expression stands for God himself. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -56,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:138]]
 **[[:en:bible:notes:psa:138:001|<<]] | [[:en:bible:notes:psa:138:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

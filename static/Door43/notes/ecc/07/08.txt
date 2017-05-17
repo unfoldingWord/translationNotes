@@ -20,6 +20,7 @@
 \q1
 \v 9 Do not quickly lose your temper,
 \q2 because it is foolish people who become very angry.
+\b
 
 
 \q1
@@ -28,11 +29,11 @@
 ===== ULB: =====
 
 <usfm>
-\q1
+\q1 
 \v 8 Better is the end of a matter than the beginning;
 \q2 and the people patient in spirit are better than the proud in spirit.
-\q1
-\v 9 Do not be quick to anger in your spirit,
+\q1 
+\v 9 Do not be quick to anger in your spirit, 
 \q2 for anger resides in the hearts of fools.
 </usfm>
 

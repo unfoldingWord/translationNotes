@@ -28,7 +28,7 @@
 \q
 \v 11 He made darkness a tent around him, heavy rainclouds in the skies.
 \q
-\v 12 Hailstones and coals of fire fell from the lightning before him.
+\v 12 From the lightning before him, hailstones and coals of fire fell.
 </usfm>
 
 ===== translationWords: =====
@@ -36,11 +36,11 @@
 
 ===== translationNotes: =====
 
-  * **He made darkness ... him** - Here the words "He" and "him" refer to Yahweh.
+  * **He made darkness ... him** - The words "He" and "him" continue to refer to Yahweh.
   * **He made darkness a tent** - Here darkness is spoken of as if it were a tent. AT: "He made darkness a covering" or "He made darkness a hiding place" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **heavy rainclouds** - "clouds heavy with rain" or "thick, dark rainclouds"
-  * **Hailstones** - "stones made of ice"
-
+  * **From the lightning before him, hailstones and coals of fire fell** - "From the brightness before him came hail and coals of fire through his thick clouds"
+  * **hail** - "stones of ice"
 
 ===== Links: =====
 
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:psa:018]]
 **[[:en:bible:notes:psa:018:009|<<]] | [[:en:bible:notes:psa:018:013|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

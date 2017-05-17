@@ -26,7 +26,7 @@
 \q1
 \v 11 Do not allow those who slander others to succeed;
 \q2 cause evil things to happen to violent men and destroy them!
-
+\b
 
 
 \q1
@@ -36,7 +36,7 @@
 
 <usfm>
 \q
-\v 9 Those who surround me raise their heads;
+\v 9 Those who surround me raise their heads; 
 \q let the mischief of their own lips cover them.
 \q
 \v 10 Let burning coals fall on them;
@@ -56,7 +56,7 @@
 
 ===== translationNotes: =====
 
-  * **raise their heads** - This is a sign of being arrogant. AT: "are arrogant" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **raise their head** - This is a sign of being arrogant. AT: "are arrogant" (See: [[:en:ta:vol2:translate:translate_symaction]])
   * **let the mischief of their own lips cover them** - This is a prayer that God would make the evildoers suffer from the trouble that they caused by the things they said. 
   * **the mischief of their own lips** - The trouble that they themselves caused by what they said. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **cover them** - That is, stop them from causing any more trouble. (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -73,6 +73,6 @@
   * [[:en:bible:questions:comprehension:psa:140]]
 **[[:en:bible:notes:psa:140:006|<<]] | [[:en:bible:notes:psa:140:012|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

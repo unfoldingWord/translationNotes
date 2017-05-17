@@ -24,6 +24,7 @@
 \v 35 God is awesome as he comes out of his sacred temple;
 \q2 he is the God whom we Israelite people worship.
 \q1 He gives power and strength to his people.
+\b
 \q1 Praise God!
 </usfm>
 
@@ -64,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:068]]
 **[[:en:bible:notes:psa:068:032|<<]] | [[:en:bible:notes:psa:069:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

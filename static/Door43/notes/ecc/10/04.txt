@@ -16,6 +16,7 @@
 <usfm>
 \v 4 Do not quit your job when a ruler is angry with you.
 \q2 If you remain calm, he will probably stop being angry.
+\b
 
 
 \q1
@@ -25,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\q1
+\q1 
 \v 4 If the emotions of a ruler rise up against you, do not leave your work.
 \q2 Calm can quiet down great outrage.
 </usfm>

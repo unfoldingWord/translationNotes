@@ -22,7 +22,8 @@
 \q2 this is as delightful as seeing designs of gold in a silver bowl.
 \q1
 \v 12 When a wise person rebukes someone who is willing to listen to him,
-\q2 it is as priceless as a gold ring or jewelry made of finest gold.
+\q2 it is as priceless as a gold ring or jewelry made of finest gold. 
+
 
 
 \q1
@@ -33,10 +34,10 @@
 
 <usfm>
 \q
-\v 11 Apples of gold in settings of silver
-\q2 is a word spoken in the right situation.
+\v 11 Speaking a well-chosen word, 
+\q2 is like patterns of gold set in silver.
 \q
-\v 12 A gold ring or jewelry made of fine gold
+\v 12 Like a gold ring or jewelry made of fine gold
 \q is a wise rebuke to a listening ear.
 </usfm>
 
@@ -48,15 +49,13 @@
   * [[:en:obe:other:silver]]
   * [[:en:obe:kt:wise]]
   * [[:en:obe:other:rebuke]]
+ 
 
 ===== translationNotes: =====
 
-  * **Apples of gold in settings of silver is a word spoken in the right situation** - The goodness of "a word spoken at the right time" is spoken of as if it were the physical beauty of "apples of gold in settings of silver." Most translations translate this metaphor as a simile and change the order of the phrases. AT: "A word spoken at the right time is beautiful like apples of gold in settings of silver" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Apples of gold in settings of silver** - The ancient Israelites did not know the apples that most people know today. Possible meanings are 1) "apples" should be translated as "design." AT: "a golden design carved into a silver bowl" or 2) "apples" refers to another type of fruit with a golden color that someone has placed on a silver plate or bowl. AT: "Golden colored fruit placed in a silver bowl"
-  * **is a word spoken** - This can be stated in active form. AT: "is a message that someone speaks" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **A gold ring or jewelry made of fine gold is a wise rebuke to a listening ear** - The value and importance of "a wise rebuke" is spoken of as if it had the beauty and value of gold. Most translations translate this metaphor as a simile and change the order of the phrases. AT: "A wise rebuke to a listening ear is beautiful and valuable like a golden ring or golden jewelry" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **listening ear** - The ear is a synecdoche for the whole person. AT: "person who is willing to listen" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
+  * **listening ear** - "person who is willing to listen" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Speaking a well-chosen word, is like patterns of gold** - These two things are being compared because they both are pleasant. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Like a gold ring or jewelry ... is a wise rebuke** - These two things are being compared because they are both cherished and priceless. (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -70,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

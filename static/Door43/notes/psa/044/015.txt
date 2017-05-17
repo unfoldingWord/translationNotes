@@ -26,6 +26,7 @@
 \q
 \v 16 I hear what those who sneer at me and revile me say;
 \q2 I am ashamed in front of my enemies and those who want to harm me.
+\b
 \q1
 \v 17 All these things have happened to us
 \q2 even though we have not forgotten you,
@@ -76,6 +77,6 @@
   * [[:en:bible:questions:comprehension:psa:044]]
 **[[:en:bible:notes:psa:044:012|<<]] | [[:en:bible:notes:psa:044:018|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

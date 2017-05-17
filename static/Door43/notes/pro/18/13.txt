@@ -51,10 +51,10 @@
 ===== translationNotes: =====
 
 
-  * **it is his folly and shame** - The word "folly" may be expressed as an adjective and the word "shame" may be expressed as a verb. AT: "it is foolish of him, and he should be ashamed" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **A person's spirit will survive sickness** - Here a person is referred to by his spirit to emphasize his attitude. AT: "A person who is hopeful will survive sickness" or "If a person is full of hope in his inner being, he will survive being sick" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **but a broken spirit who can bear it?** - This is a rhetorical question, expecting the answer that few can bear it. This can be written as a statement. AT: "but it is very hard to bear a broken spirit." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **a broken spirit** - This refers to being depressed. AT: "being depressed" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **it is his folly and shame** - AT: "it is foolish of him, and he should be ashamed" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **A person's spirit will survive sickness** - A person's spirit stands for a person's desire to live. AT: "If a person is full of hope in his inner being, he will survive being sick" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **but a broken spirit who can bear it?** - This is a rhetorical question, expecting the answer that few can bear it. AT: "but it is very hard to bear a broken spirit" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **a broken spirit** - AT: "being depressed" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -68,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

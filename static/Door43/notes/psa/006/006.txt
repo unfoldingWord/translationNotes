@@ -20,7 +20,7 @@
 \q1
 \v 7 Because I cry so much, I cannot see well.
 \q2 My eyes have become weak because I constantly cry in fear of my enemies.
-
+\b
 
 
 \q1
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:006]]
 **[[:en:bible:notes:psa:006:003|<<]] | [[:en:bible:notes:psa:006:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

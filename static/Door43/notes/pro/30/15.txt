@@ -29,17 +29,18 @@
 
 <usfm>
 \v 15 There are leeches that suck blood, imagine they had two daughters;
-\q2 they say, "Give to us! Give to us!
+\q2 they say, "Give to us! Give to us! 
 \q1 There are four things that are never satisfied—
 \q2 they always want more :
 \q1
 \v 16 The grave, the place of the dead;
-\q1 the womb of a woman that never conceived a child;
+\q1 the womb of a woman that never conceived a child; 
 \q1 soil that badly needs to be watered;
 \q1 and a fire that burns hot and it never says, "The fire is hot enough!"
+\b
 \q1
-\v 17 The one who dishonors his father,
-\q2 and who disrespects and disobeys his mother.
+\v 17 The one who dishonors his father, 
+\q2 and who disrespects and disobeys his mother. 
 \q1 such a person would be killed and have his eyes pecked out by crows,
 \q2 and would be devoured by the vultures.
 
@@ -52,13 +53,13 @@
 
 <usfm>
 \q
-\v 15 The leech has two daughters: "Give and give" they cry.
+\v 15 The leech has two daughters, "Give and give," they cry.
 \q There are three things that are never satisfied,
 \q four that never say, "Enough":
 \q
-\v 16 Sheol; the barren womb;
-\q land that is never satisfied with water;
-\q and the fire that never says, "Enough!"
+\v 16 Sheol, the barren womb,
+\q land thirsty for water,
+\q and the fire that never says, "Enough."
 \q
 \v 17 The eye that mocks a father
 \q and scorns obedience to a mother,
@@ -78,16 +79,11 @@
 ===== translationNotes: =====
 
   * **The leech has two daughters** - This is an example of something that always wants more. AT: "Greed has two daughters" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **leech** - a type of worm that attaches itself to the skin and sucks blood
-  * **"Give and give" they cry** - Another possible meaning is "and they are both named Give Me." 
-  * **There are three things that are never satisfied, four that never say, "Enough"** - This use of the numbers "three" and "four" together here is likely a poetic device. AT: "There are four things that are never satisfied, who never say, 'Enough'" (See: [[:en:ta:vol2:translate:writing_poetry]])
-  * **are never satisfied** - This can be stated positively. AT: "always want more" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **land that is never satisfied with water** - Land that is no longer producing food because there has been no rain is spoken of as if it were a person who does not have enough water to drink. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **scorns obedience to a mother** - The word "obedience"—an abstract noun that can be translated as a verb—is a metonym for the mother herself. AT: "considers his mother worthless and will not obey her" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **his eyes ... the vultures** - The writer says that the person will die by giving two pictures of what happens to people who die away from where people live.
-  * **his eyes will be pecked out by the ravens of the valley** - This can be translated in active form. AT: "the ravens of the valley will peck out his eyes" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **leech** - a type of worm that attaches itself to the skin and sucks blood 
+  * **There are three things that are never satisfied, four that never say, "Enough"** - This use of the numbers "three" and "four" together here is likely a poetic device. AT: "There are four things that are never satisfied, who never say, 'Enough'" 
+  * **are never satisfied** - AT: "always want more" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **scorns obedience** - "despises to obey"
   * **ravens** - large, shiny, black birds that eat plants and dead animals
-  * **he will be eaten by the vultures** - This can be translated in active form. AT: "the vultures will eat him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **vultures** - any one of several large birds that eat dead animals and have small, featherless heads
 
  
@@ -96,11 +92,14 @@
   * [[:en:bible:notes:pro:00:intro]]
   * [[:en:bible:notes:pro:30:00]]
   * [[:en:bible:questions:comprehension:pro:30]]
+
+ 
+
 **[[:en:bible:notes:pro:30:13|<<]] | [[:en:bible:notes:pro:30:18|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

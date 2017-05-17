@@ -20,7 +20,7 @@
 
 <usfm>
 \v 32 So, you who are my children, listen to me.
-\q2 How fortunate are those who live as I live.
+\q2 How fortunate are those who live as I live. 
 \q1
 \v 33 Listen to what I teach you and you will become wise.
 \q2 Do not reject what I have taught you.
@@ -37,15 +37,15 @@
 
 <usfm>
 \q
-\v 32 Now, my sons, listen to me,
-\q for those who keep my ways will be blessed.
+\v 32 And now, my sons, listen to me,
+\q for those who keep my ways will be happy. 
 \q
 \v 33 Listen to my instruction and be wise;
 \q do not neglect it.
 \q
-\v 34 The one who listens to me will be blessed.
-\q He will be watching every day at my doors,
-\q waiting beside the posts of my doors.
+\v 34 The one who listens to me will be happy—
+\q watching every day at my gates,
+\q waiting for me beside the doors of my home.
 </usfm>
 
 
@@ -56,11 +56,13 @@
 
 ===== translationNotes: =====
 
-  * **Now** - This is to focus the attention of the children to the conclusion of this lesson.
+  * **And now** - This is to focus the attention of the students to the conclusion of this lesson.
+  * **my sons** - AT: "my children" or "my students"
   * **listen to me** - This is still wisdom talking about herself. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **those who keep my ways** - Here "my ways" represents wisdom's behavior. AT: "those who do what I teach" or "the people who follow my example" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **those who keep my ways** - AT: "those who do what I teach" or "the people who follow my example"
   * **do not neglect** - "do not disregard" AT: "be sure to pay attention to" or "be sure to follow" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **watching every day at my doors, waiting beside the posts of my doors** - These two phrases basically mean the same thing. Wisdom is described as having a home; possible meanings of "watching" are 1) a wise person waits outside wisdom's home in the morning in order to serve her, or 2) a wise person waits outside wisdom's house for her to come and teach him. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **The one who** - "The person who" or "He who"
+  * **watching every day at my gates, waiting for me beside the doors of my home** - These two phrases basically mean the same thing. Wisdom is described as having a home; possible meanings of "watching" are 1) a wise person waits for wisdom to come home to learn more 2) a wise person is at wisdom's house to be close to her and learn all the time. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 ===== Links: =====
 
@@ -69,6 +71,6 @@
   * [[:en:bible:questions:comprehension:pro:08]]
 **[[:en:bible:notes:pro:08:30|<<]] | [[:en:bible:notes:pro:08:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

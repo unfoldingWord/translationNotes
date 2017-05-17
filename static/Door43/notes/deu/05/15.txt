@@ -42,10 +42,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Moses continues to speak to the people of Israel as if they were one man, so all instances of "you" and "your" are singular. (See: [[:en:ta:vol1:translate:figs_you]]) 
+  * **General Information:** - Moses continues to speak to the people of Israel if they were one man, so all instances of "you" and "your" are singular. (See: [[:en:ta:vol1:translate:figs_you]]) 
 
   * **You will call to mind** - This is an idiom. AT: "You must remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **by a mighty hand and by an outstretched arm** - Here "a mighty hand" and "an outstretched arm" are metaphors for Yahweh's power. Translate this as it is in [[:en:bible:notes:deu:04:34|4:34]]. AT: "by showing his mighty power" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **by a mighty hand and by an outstretched arm** - Here "a mighty hand" and "an outstretched arm" are metaphors for Yahweh's power. AT: "by showing his mighty power" Translate this as it is in [[:en:bible:notes:deu:04:34|4:34]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -60,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

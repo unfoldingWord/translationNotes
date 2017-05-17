@@ -25,13 +25,14 @@
 \q2 a place where needy people can go when they are distressed.
 \q1 You are like a place where people can find refuge in a storm
 \q2 and where they can stay in the shade, out of the hot sun.
-\q1 People oppress us and show us no mercy,
+\q1 People oppress us and show us no mercy;
 \q2 they are like a storm beating against a wall,
 \q2
-\v 5 and like the very strong heat in the dry land.
-\q1 But you cause the noisy cries of people from foreign nations to be quiet.
+\v 5 and like the very strong heat in the desert.
+\q1 But you cause the roaring of people in foreign nations to cease.
 \q2 Like the air cools when a cloud comes overhead,
 \q2 you stop merciless people from singing songs about how great they are.
+\b
 
 
 \q1
@@ -41,15 +42,13 @@
 
 <usfm>
 \q1
-\v 4 For you have been a place of safety for the one who is poor, 
-\q1 a shelter for the one who is needy in his distress—
-\q1 a shelter from the storm and a shade from the heat.
-\q1 When the breath of the ruthless was like a storm against a wall,
+\v 4 For you are a protection for the poor, a guardian for the needy in his distress, 
+\q1 a refuge from the storm, a shade from the heat, 
+\q1 when the blast of the ruthless is like a storm against a wall.
 \q1
-\v 5 and like  heat in a dry land,
-\q1 you subdued the noise of foreigners,
-\q1 as the heat is subdued by the shade of a cloud, 
-\q1 so the song of the ruthless ones is answered.
+\v 5 As the heat in a drought, 
+\q1 you will subdue the noise of strangers; 
+\q1 as the heat by the shade of a cloud, the song of the ruthless ones will be put down.
 </usfm>
 
 ===== translationWords: =====
@@ -58,15 +57,9 @@
 
 ===== translationNotes: =====
 
-  * **you have been a place of safety ... a shelter ... a shelter from the storm ... a shade from the heat** - Yahweh protecting his people is spoken of as if he were a place that the people could go to be safe and comforted. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **When the breath of the ruthless was like a storm against a wall** - Ruthless people oppressing the people of God is spoken of as if they were a storm beating against a wall. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **When the breath** - "When the wind" or "When the blast"
-  * **the ruthless** - This is a nominal adjective. AT: "ruthless people" or "those who are ruthless" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **like  heat in a dry land** - This compares the enemies of God's people to the heat that dries up the land. This emphasizes how much the enemies cause the people of God to suffer. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **as the heat is subdued ... ruthless ones is answered** - Yahweh stopping ruthless people from singing and boasting is compared to a cloud providing shade on a hot day. This emphasizes that Yahweh comforts his people by stopping those who cause them to suffer. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **as the heat is subdued by the shade of a cloud** - This can be stated in active form. AT: "just like when a cloud passes overhead and subdues the heat" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the song of the ruthless ones is answered** - This can be stated in active form. AT: "you will stop the ruthless people from singing" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **you are a protection ... a guardian ... a refuge ... a shade** - Yahweh is compared to a place that the people can go to find safety and comfort. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **when the blast of the ruthless is like a storm ... the ruthless ones will be put down** - Those who try to harm the poor and needy will fail. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **the song of the ruthless ones will be put down** - This can be stated in active form. "You will stop the song of the ruthless ones" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -75,7 +68,7 @@
   * [[:en:bible:questions:comprehension:isa:25]]
 **[[:en:bible:notes:isa:25:01|<<]] | [[:en:bible:notes:isa:25:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 
 ~~NOCACHE~~

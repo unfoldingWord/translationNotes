@@ -35,7 +35,7 @@
 
 <usfm>
 \c 33
-\m
+\p
 \q
 \v 1 So now, Job, I beg you, hear my speech;
 \q listen to all my words.
@@ -59,9 +59,9 @@
   * **General Information:** - Elihu continues speaking.
 
   * **hear my speech; listen to all my words** - These two phrases mean the same thing. Elihu is emphasizing that Job must listen carefully. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **I have opened my mouth ... my tongue has spoken in my mouth** - These mean the same thing. Elihu is emphasizing that he is now ready to speak. His "tongue" speaking represents himself speaking. AT: "I have opened my mouth and I have begun to speak"  (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **My words will speak the uprightness of my heart** - Here Elihu refers to himself by his "heart" as he speaks of being upright. Also, he speaks of himself speaking as his "words" speaking. AT: "I will speak with uprightness" or "I will speak with complete honesty" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **what my lips know, they will speak sincerely** - Here Elihu refers to himself by his "lips" to emphasize his speech. AT: "I will speak sincerely to you the things I know" See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I have opened my mouth; my tongue has spoken in my mouth** - These mean the same thing. Elihu is emphasizing that he is now ready to speak. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **My words will speak the uprightness of my heart** - AT: "I will speak with complete honesty" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **what my lips know, they will speak sincerely** - AT: "I will speak sincerely to you the things I know" See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:33]]
 **[[:en:bible:notes:job:32:20|<<]] | [[:en:bible:notes:job:33:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

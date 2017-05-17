@@ -25,10 +25,12 @@
 <usfm>
 \v 6 The angels in heaven proclaim that he acts righteously,
 \q2 and all the people groups see his glory.
+\b
 \q1
 \v 7 Everyone who worships idols should be ashamed;
 \q2 all those who are proud of their false gods should realize that their gods are useless.
 \q1 All those gods will bow down to worship Yahweh.
+\b
 \q1
 \v 8 The people of Jerusalem heard that God is just, and they rejoiced;
 \q2 people in the other cities in Judah also rejoiced
@@ -78,9 +80,9 @@
 
 ===== translationNotes: =====
 
-  * **The skies declare his justice** - Possible meanings are 1) the psalmist speaks as if the skies are Yahweh's messengers who declare that Yahweh is just. AT: "Everyone can see that God is just, the same way that everyone can see the skies" or 2) the skies refer to the beings that live in the heavens. AT: "All those who live in heaven declare that Yahweh is just" (UDB) (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The skies declare his justice** - The psalmist speaks as if the skies are Yahweh's messengers who declare that Yahweh is just: "Everyone can see that God is just the same way that everyone can see the skies." Another possible meaning is "All those who live in heaven declare that Yahweh is just." (See UDB)
   * **All those who worship carved figures will be shamed, those who boast in worthless idols** - This can be translated in active form. AT: "God will shame all those who boast in worthless idols and worship carved figures" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Zion heard ... the towns of Judah** - This refers to the people who live in these lands. AT: "The people of Zion heard ... the people of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Zion heard ... the towns of Judah** - "The people of Zion heard ... the people of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
  
 ===== Links: =====
@@ -96,6 +98,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book4}}
+{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

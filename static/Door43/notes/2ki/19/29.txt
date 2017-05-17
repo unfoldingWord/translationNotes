@@ -20,22 +20,22 @@
 ===== UDB: =====
 
 <usfm>
-\v 29 Now I say this to Hezekiah:
+\v 29 Now I say this to Hezekiah: 
 \q2 'This is what will happen to prove that I am telling the truth:
-\q This year and next year you and your people
+\q This year and next year you and your people 
 \q2 will be able to harvest only wild grain.
-\q But the following year, you Israelites will be able
-\q2 to plant grain and harvest it,
+\q But the following year, you Israelites will be able 
+\q2 to plant grain and harvest it, 
 \q2 and to plant vineyards and eat the grapes.
 \q
-\v 30 The people in Judah who remain alive will prosper
+\v 30 The people in Judah who remain alive will prosper 
 \q2 and have many children;
-\q they will be like plants whose roots go deep down into the ground 
-\q2 and which produce much fruit.
+\q they will be like plants whose roots go deep down 
+\q2 into the ground and which produce much .
 \q
-\v 31 There will be many people in Jerusalem
+\v 31 There will be many people in Jerusalem 
 \q2 who will remain alive,
-\q because I, Yahweh, commander of the armies,
+\q because I, Yahweh, commander of the armies, 
 \q2 have planned it to happen.
 
 
@@ -47,17 +47,17 @@
 
 <usfm>
 \p
-\v 29 This will be the sign for you:
-\q This year you will eat what grows wild,
-\q2 and in the second year what grows from that.
-\q But in the third year you must plant and harvest,
+\v 29 This will be the sign for you: 
+\q This year you will eat what grows wild, 
+\q2 and in the second year what grows from that. 
+\q But in the third year you must plant and harvest, 
 \q2 plant vineyards and eat their fruit.
-\q
-\v 30 The remnant of the house of Judah that survives
+\q 
+\v 30 The remnant of the house of Judah that survives 
 \q2 will again take root and bear fruit.
-\q
-\v 31 For from Jerusalem a remnant will come out,
-\q2 from Mount Zion survivors will come.
+\q 
+\v 31 For from Jerusalem a remnant will come out, 
+\q2 from Mount Zion survivors will come. 
 The zeal of Yahweh of hosts will do this.
 </usfm>
 
@@ -74,14 +74,15 @@ The zeal of Yahweh of hosts will do this.
   * [[:en:obe:other:zion]]
   * [[:en:obe:kt:zealous]]
   * [[:en:obe:kt:yahwehofhosts]]
-
 ===== translationNotes: =====
 
-  * **General Information:** - Here Isaiah is talking to King Hezekiah.  He continues using parallelism throughout. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **grows wild** - "grows without having been planted"
-  * **The remnant of the house of Judah that survives will again take root and bear fruit** - This metaphor compares restoration of the remnant to plantings that take hold and produce results. AT: "The people of Judah who remain alive will restore their lives and prosperity" or "The people who remain in Judah will prosper and have many children" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **The zeal of Yahweh of hosts will do this** - "The strong action of Yahweh will make this happen"
+  * **General Information:** - Here Isaiah is talking to King Hezekiah.
+
+  * **grows wild** - AT: "grows without having been planted,"
+  * **The remnant of the house of Judah that survives will again take root and bear fruit** - AT: "The people of Judah who remain alive will be like plants who grow and produce fruit." or "The people who remain in Judah will prosper and have many children." (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **The zeal of Yahweh of hosts will do this** - AT: "The strong action of Yahweh will make this happen."
+
  
 ===== Links: =====
 
@@ -93,6 +94,6 @@ The zeal of Yahweh of hosts will do this.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

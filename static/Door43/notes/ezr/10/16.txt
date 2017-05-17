@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 16 But all the others who had returned from Babylonia said that they would do it. So Ezra chose leaders of each of the clans, and I wrote down their names. On the first day of the tenth month these men came and sat
+\v 16 But all the others who had returned from Babylonia said that they would do it. So Ezra chose leaders of each of the clans, and I wrote down their names. On the first day of the tenth month these men came and sat 
 down to investigate the matter.
 \v 17 By the first day of the first month of the next year they had finished determining which men had married women who were not Israelites.
 </usfm>
@@ -41,7 +41,7 @@ down to investigate the matter.
 
 ===== translationNotes: =====
 
-  * **did this** - The people investigated who had married non-Jewish wives.
+  * **did this** - The people investigated who married non-Jewish wives.
   * **the first day of the tenth month** - This is the tenth month of the Hebrew calendar. The first day is near the middle of December on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **first day of the first month** - This is near the middle of March on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
  
@@ -58,6 +58,6 @@ down to investigate the matter.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

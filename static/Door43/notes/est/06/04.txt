@@ -36,15 +36,13 @@
 
 ===== translationNotes: =====
 
-  * **Haman** - Translate this man's name as you did in [[:en:bible:notes:est:03:01|3:1]]
-  * **the outer courtyard** - "the first courtyard from the outside"
-  * **hanging Mordecai** - It can be made clear what the purpose of hanging him was. AT: "killing Mordecai by hanging him" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the gallows he set up for him** - The gallows was a structure that was used to kill people by hanging them from it. See how you translated "gallows" in [[:en:bible:notes:est:05:14|5:14]]. AT: "the structure Haman set up for hanging Mordecai" (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **Haman** - Translate as in [[:en:bible:notes:est:03:01|Esther 3:1]]
+  * **outer courtyard** - "first courtyard from the outside"
+  * **hanging Mordecai** - "putting Mordecai to death by hanging"
+  * **gallows** - Translate as in [[:en:bible:notes:est:02:22|Esther 2:23]].
   * **set up** - "built"
-  * **What should be done for the man whom the king takes pleasure in honoring** - Here the king speaks of himself in the third person. This can be stated in first person and in active form. AT: "What should I do for the man whom I take pleasure in honoring" (See: [[:en:ta:vol2:translate:figs_123person]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the king takes pleasure in honoring** - Taking pleasure in doing something is an idiom for being glad to do something or wanting to do something. AT: "the king is glad to honor" or "the king wants to honor" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **said in his heart** - The heart represents the thoughts and attitudes. AT: "thought" or "said to himself" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Whom would the king take pleasure in honoring more than me?** - This can be expressed as a statement. "Surely there is no one whom the king would take pleasure in honoring more than me!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **said in his heart** - AT: "thought to himself" or "said to himself" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Whom would the king take pleasure in honoring more than me?** - "Surely there is no one whom the king would take greater pleasure in honoring more than me!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -59,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

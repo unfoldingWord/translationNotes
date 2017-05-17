@@ -18,11 +18,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 The one who winks his eye signals others to help him do something that is wrong,
-\q2 and a fool will be ruined because he talks too much.
+\v 10 The one who winks his eye signals others to help him do something that is wrong, 
+\q2 and a fool will be ruined because he talks too much. 
 \q1
 \v 11 A person who does right is like a spring that gives life-saving water;
-\q2 but the wicked person hides his brutality by his words.
+\q2 but the wicked person hides his brutality by his words. 
+
 
 \q1
 </usfm>
@@ -36,7 +37,7 @@
 \q but a talkative fool will be thrown down.
 \f + \ft Some modern versions have \fqa but one who bravely corrects makes peace \fqb . \f*
 \q
-\v 11 The mouth of the righteous person is a water spring of life,
+\v 11 The mouth of one who does right is a water spring of life,
 \q but the mouth of the wicked covers up violence.
 </usfm>
 
@@ -52,24 +53,26 @@
 
 ===== translationNotes: =====
 
-  * **He who winks the eye** - "Winking the eye" represents a secretive sign for being cruel to someone else. AT: "He who makes a signal with a gesture" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will be thrown down** - A person who is ruined is spoken of as if he were thrown down. AT: "others will ruin him" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **The mouth of the righteous** - "The words of a righteous person" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will be thrown down** - A person who is ruined is spoken of as if he were thrown down. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The mouth of one** - "The words of a person" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **is a water spring of life** - This person's speech is spoken of as if it preserved living animals or people, as a water spring would do in a dry land. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the mouth of the wicked** - "Mouth" represents what a persons says. AT: "the words of a wicked person" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the mouth of the wicked covers up violence** - That is, the wicked person appears to say harmless things, but plans to violent things against other people. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-
+  * **the mouth of the wicked** - "the words of a wicked person" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the mouth of the wicked covers up violence** - That is, the wicked person says harmless things, but plans to violent things against other people. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the mouth of the wicked** - This expressions stands what the wicked person says. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **covers up violence** - This expression represent the idea of hiding violence, that is, hiding one's plan to do violence to another person. (See: [[:en:ta:vol1:translate:figs_metaphor]]
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
   * [[:en:bible:notes:pro:10:00]]
   * [[:en:bible:questions:comprehension:pro:10]]
 
+ 
+
 **[[:en:bible:notes:pro:10:08|<<]] | [[:en:bible:notes:pro:10:12|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -28,7 +28,7 @@
 \v 15 By your power you rescued your people from Egypt;
 \q2 you saved those who were descendants of Jacob and his son Joseph.
 
-
+\b
 
 
 \q1
@@ -45,7 +45,7 @@
 \q you have revealed your strength among the peoples.
 \q
 \v 15 You gave your people victory by your great power—
-\q the descendants of Jacob and Joseph.
+\q the descendants of Jacob and Joseph. 
 \qs Selah\qs*
 </usfm>
 
@@ -67,10 +67,10 @@
   * **General Information:** - The writer continues to speak to Yahweh.
 
   * **what god compares to our great God?** - This can be translated as a statement. AT: "no god compares to our great God." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **revealed your strength among the peoples** - "shown people from many people groups how strong you are" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **revealed your strength among the peoples** - "shown people from other people groups how strong you are" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **gave your people victory ... the descendants** - "gave us, your people, victory ... us who are the descendants"
   * **gave your people victory** - "enabled your people to defeat their enemies" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **the descendants of Jacob and Joseph** - This refers to the entire nation of Israel.
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -78,6 +78,6 @@
   * [[:en:bible:questions:comprehension:psa:077]]
 **[[:en:bible:notes:psa:077:011|<<]] | [[:en:bible:notes:psa:077:016|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

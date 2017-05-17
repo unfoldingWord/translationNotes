@@ -29,7 +29,7 @@
 
 <usfm>
 \p
-\v 8 So the people of Israel gave, by casting lots, these cities (including their pasturelands) to the Levites, just as Yahweh had commanded by the hand of Moses.
+\v 8 So the people of Israel gave these cities, including their pasturelands, to the Levites by casting lots, just as Yahweh had commanded by the hand of Moses.
 \v 9 From the tribes of Judah and Simeon, they assigned land to the following cities, here listed by name.
 \v 10 These cities were given to the descendants of Aaron, who were among the clans of the Kohathites, who in turn were from the tribe of Levi. For the first casting of lots had fallen to them.
 </usfm>
@@ -49,7 +49,7 @@
 ===== translationNotes: =====
 
   * **Yahweh had commanded by the hand of Moses** - The phrase "by the hand of" here means that Yahweh used Moses as the agent to deliver his command. AT: "Yahweh had told Moses to command" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **clans of the Kohathites** - The priests in this group were descendants of Levi's son Kohath. A portion of them were also descendants of Aaron, Kohath's grandson. See how you translated this in [[:en:bible:notes:jos:21:04|21:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **clans of the Kohathites** - This priests in this group were descendants of Levi's son Kohath. A portion of them were also descendants of Aaron, Kohath's grandson. See how you translated this in [[:en:bible:notes:jos:21:04|21:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
   * **casting of lots** - A random method of choosing to remove the choice from the leader's will, often done with the idea that God will decide the outcome. See how you translated this in [[:en:bible:notes:jos:19:01|19:1]].
  
 ===== Links: =====
@@ -62,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

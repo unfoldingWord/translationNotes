@@ -40,6 +40,7 @@
 \q1 But they should not forget that some day they will die
 \q2 and then they will never be able to see any light again,
 \q2 and they do not know what will happen to them after they die.
+\b
 
 
 \q1
@@ -48,20 +49,20 @@
 ===== ULB: =====
 
 <usfm>
-\q1
+\q1 
 \v 6 In the morning plant your seed;
-\q2 until the evening, work with your hands as needed,
-\q1 for you know not which will prosper,
-\q2 whether morning or evening, or this or that,
+\q2 until the evening, work with your hands as needed, 
+\q1 for you know not which will prosper, 
+\q2 whether morning or evening, or this or that, 
 \q2 or whether they will both alike be good.
-\q1
-\v 7 Truly the light is sweet,
+\q1 
+\v 7 Truly the light is sweet, 
 \q2 and it is a pleasant thing for the eyes to see the sun.
-\q1
-\v 8 If someone lives many years,
-\q2 let him be happy in all of them,
-\q1 but let him think about the coming days of darkness,
-\q2 for they will be many.
+\q1 
+\v 8 If someone lives many years, 
+\q2 let him be happy in all of them, 
+\q1 but let him think about the coming days of darkness, 
+\q2 for they will be many. 
 \q1 Everything to come is vanishing vapor.
 </usfm>
 

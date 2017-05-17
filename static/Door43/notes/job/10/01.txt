@@ -38,7 +38,7 @@
 
 <usfm>
 \c 10
-\m
+\p
 \q
 \v 1 I am weary of my life;
 \q I will give free expression to my complaint;
@@ -65,12 +65,11 @@
 
 ===== translationNotes: =====
 
-  * **I am weary of my life** - "I am tired of living"
-  * **I will give free expression to my complaint** - The abstract nouns "expression" and "complaint" can be translated as the verbs "express" and "complain." AT: "I will freely express what I have to complain about" or "I will argue freely" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **I will speak in the bitterness of my soul** - How Job feels is compared to a bitter taste. The abstract noun "bitterness" can be translated as the adverb "bitterly." AT: "My inner being will speak bitterly" or "I will bitterly speak out" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Is it good to you that you should oppress me, to despise the work of your hands while you smile on the plans of the wicked?** - This question expects a "no" answer and can be changed into a statement. AT: "It is not good that you should oppress me, that you should despise the work of your hands, while you smile on the plans of the wicked." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the work of your hands** - Here the hands represent God's creative power. AT: "what you have created" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **smile on the plans of the wicked** - Here the idiom "smiling on" represents God's approval. AT: "approve the plans of the wicked" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **I am weary of my life** - AT: "I am tired of living;" or "I hate my life;"
+  * **I will give free expression to my complaint** - AT: "I will not hold back my complaint any longer;" or "I will tell God exactly how I feel he has wronged me;"
+  * **I will speak in the bitterness of my soul** - AT: "I will speak out of the agony that I feel," or "I will speak because of the pain I have felt." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Is it good to you that you should oppress me, to despise the work of your hands** - This question expects a "no" answer and can be changed into a statement. AT: "It is not good that you should oppress me, that you should reject the work of your hands!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **while you smile on the plans of the wicked?** - The second part of the previous question can also be changed into a statement. AT: "while you smile on the plans of the wicked." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -78,6 +77,6 @@
   * [[:en:bible:questions:comprehension:job:10]]
 **[[:en:bible:notes:job:09:34|<<]] | [[:en:bible:notes:job:10:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass oppress}}
+~~DISCUSSION~~{{tag>publish p2edit oppress}}
 
 ~~NOCACHE~~

@@ -27,7 +27,7 @@
 <usfm>
 \p
 \v 21 So they turned and went away. They put the small children in front of themselves, as well as the cattle and their possessions.
-\v 22 When they were a good distance from the house of Micah, the men who were in the houses near Micah's house were called together, and they caught up with the Danites.
+\v 22 When they were a good distance from the house of Micah, the men who were in the houses near Micah's house were called together, and they caught up with the Danites. 
 \v 23 They shouted to the Danites, and they turned and said to Micah, "Why have you been called together?"
 </usfm>
 
@@ -42,8 +42,8 @@
 
   * **They put the small children in front of themselves** - They traveled this way to protect the children. If Micah and his people attacked them the would reach the warriors first and not the children. AT: "They put the small children in front of themselves to protect them" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **a good distance** - "some distance." This refers a short distance but one that is long enough to be considered as measurable progress. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the men who were in the houses near Micah's house were called together** - This can be stated in active form. AT: "he called together the men who were in the houses near his house" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **they caught up with the Danites** - This implies that they ran after them. This can be stated clearly. AT: "running after the Danites, they caught up with them" 
+  * **the men who were in the houses near Micah's house were called together** - This can be stated in active form. AT: "Micah called together the men who were in the house near his house" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they caught up with the Danites** - This implies that they ran after them. This can be stated clearly. AT: "they ran after the Danites and caught up with them" 
   * **they turned** - "the Danites turned around"
   * **Why have you been called together?** - This question is a rebuke. It can be translated as a statement. AT: "You should not have called your men together to chase us." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **been called together** - This can be stated in active form. AT: "called these men together" (See: [[:en:ta:vol2:translate:figs_activepassive]])
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:jdg:18]]
 **[[:en:bible:notes:jdg:18:19|<<]] | [[:en:bible:notes:jdg:18:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2check p2example}}
 
 ~~NOCACHE~~

@@ -34,7 +34,7 @@
 
 <usfm>
 \c 43
-\m
+\p
 \q
 \v 1 Bring me justice, God, and plead my cause against an ungodly nation.
 \q
@@ -55,7 +55,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **the God of my strength** - Possible meanings are 1) "the God who protects me" or 2) "the God who gives me strength."
   * **Why have you rejected me? Why do I go about in mourning because of the oppression of the enemy?** - The writer asks these questions in order to complain to God and express his emotions, not to receive an answer. (See: [[:en:ta:vol1:translate:figs_rquestion]])
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:043]]
 **[[:en:bible:notes:psa:042:011|<<]] | [[:en:bible:notes:psa:043:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

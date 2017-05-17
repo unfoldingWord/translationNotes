@@ -22,9 +22,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 The shame of it is that this idol came from Israel! A craftsman made it.
-\q1 It is only an idol; it cannot be the true and living God!
+\v 6 The shame of it is that this idol came from Israel! A craftsman made it. 
+\q1 It is only an idol; it cannot be the true and living God! 
 \q2 I will ensure that someone will smash it to bits.
+\b
 \q1
 \v 7 This is because these people do useless things, so something terrible will destroy them.
 \q2 Their grain standing in the fields will give no harvest.
@@ -78,6 +79,6 @@
   * [[:en:bible:questions:comprehension:hos:08]]
 **[[:en:bible:notes:hos:08:04|<<]] | [[:en:bible:notes:hos:08:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

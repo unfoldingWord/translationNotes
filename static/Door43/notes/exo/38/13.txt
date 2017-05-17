@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 On the east side, where the entrance is, the courtyard was twenty-three meters wide.
+\v 13 On the east side, where the entrance is, the courtyard was 22.9 meters wide.
 \v 14 On one side of the entrance, Bezalel and his men made a curtain about seven meters wide with three posts and three bases.
 \v 15 On the other side of the entrance, they made a curtain about seven meters wide with three posts and three bases.
 \v 16 They made all the curtains around the courtyard from fine linen.
@@ -22,7 +22,7 @@
 <usfm>
 \v 13 The courtyard was also fifty cubits long on the east side.
 \v 14 The hangings for one side of the entrance were fifteen cubits long. They had three posts with three bases.
-\v 15 On the other side of the entrance of the court were also hangings fifteen cubits long, with three posts and three bases.
+\v 15 On the other side of the entrance of the court were also hangings fifteen cubits long, with three posts and three bases. 
 \v 16 All the hangings around the courtyard were made of fine linen.
 </usfm>
 
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:exo:38]]
 **[[:en:bible:notes:exo:38:11|<<]] | [[:en:bible:notes:exo:38:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

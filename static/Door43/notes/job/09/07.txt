@@ -32,7 +32,7 @@
 
 <usfm>
 \q
-\v 7 It is the same God who tells the sun not to rise, and it does not,
+\v 7 It is the same God who tells the sun not to rise, and it does not, 
 \q and who covers up the stars,
 \q
 \v 8 who by himself stretches out the heavens
@@ -50,13 +50,13 @@
 
 ===== translationNotes: =====
 
-  * **who covers up the stars** - "who blocks the stars from view"
-  * **who by himself stretches out the heavens** - God is spoken of as creating the heavens without any help, as if the heavens were fabric that he stretches out. (See: [[:en:ta:vol2:translate:figs_rpronouns]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **tramples down the waves of the sea** - God is spoken of as calming the sea as if with his feet. AT: "puts his feet down on the waves of the sea" or "calms the waves of the sea" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the Bear, Orion, the Pleiades** - These are the names of constellations, which are groups of stars that seem like they form a particular shape in the sky. (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **Orion** - a famous hunter in Greek mythology
-  * **Pleiades** - several bright stars that look like they are close together in the sky
-  * **constellations** - groups of stars that seem like they form a particular shape in the sky
+  * **It is the same God who tells the sun not to rise, and it does not** - "It is the same God who commands the sun and could keep it from rising if he wanted to" or "He is the one who speaks to the sun and it does not rise"
+  * **who covers up the stars** - "who has control over the stars" or "who blocks the stars from view"
+  * **who by himself stretches out the heavens** - This is a figurative description of how the skies range from one horizon to the other. "who alone stretches out the heavens" 
+  * **tramples down the waves of the sea** - This is a reference to the creation story in which God controls the chaotic sea. "who marches on the waves of the sea" or "who calms the waves of the sea"
+  * **who makes the Bear, Orion, the Pleiades** - These refer to constellations, groups of stars picturing individuals and objects. 
+  * **Orion** - a group of stars picturing a famous hunter in Greek mythology
+  * **Pleiades** - a group of stars picturing seven sisters
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -64,6 +64,6 @@
   * [[:en:bible:questions:comprehension:job:09]]
 **[[:en:bible:notes:job:09:04|<<]] | [[:en:bible:notes:job:09:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

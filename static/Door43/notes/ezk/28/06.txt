@@ -33,8 +33,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 Therefore, the Lord Yahweh says this: Because you have made your heart like the heart of a god,
-\v 7 I will therefore bring foreigners against you, terrifying men from other nations. They will bring their swords against the beauty of your wisdom, and they will profane your splendor.
+\v 6 Therefore, the Lord Yahweh says this: Because you have made your heart like the heart of a god, 
+\v 7 I will therefore bring foreigners against you, terrifying men from other nations. And they will bring their swords against the beauty of your wisdom, and they will profane your splendor.
 </usfm>
 
 ===== translationWords: =====
@@ -49,12 +49,10 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues giving Ezekiel his message to the ruler of Tyre.
-  * **General Information:** - The words "you" and "your" in these verses refer to the ruler of Tyre.
+  * **General Information:** - Yahweh continues giving Ezekiel his message to the ruler of Tyre.
 
-  * **you have made your heart like the heart of a god** - Here "heart" refers to the will or thoughts of the ruler of Tyre. See how you translated the similar phrase in [[:en:bible:notes:ezk:28:01|28:2]]. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **the beauty of your wisdom** - The abstract nouns "beauty" and "wisdom" can be translated using the adjective "beautiful" and the adverb "wisely." AT: "the beautiful things that you have so wisely made" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **profane your splendor** - The abstract noun "splendor" can be translated using the adjective "splendid." AT: "profane how splendid you are" or "defile how majestic you are" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **you have made your heart like the heart of a god** - See how you translated "you make your heart like the heart of a god" in [[:en:bible:notes:ezk:28:01|28:2]].
+  * **the beauty of your wisdom** - AT: "the beautiful city that you have built with you wisdom." (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -63,6 +61,6 @@
   * [[:en:bible:questions:comprehension:ezk:28]]
 **[[:en:bible:notes:ezk:28:04|<<]] | [[:en:bible:notes:ezk:28:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check splendor}}
+~~DISCUSSION~~{{tag>publish p2edit splendor}}
 
 ~~NOCACHE~~

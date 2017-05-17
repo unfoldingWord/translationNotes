@@ -16,10 +16,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 24 Make it your aim to keep away from you any lying speech, 
-\q2 and put any deceptive talk far away.
+\v 24 Make it your aim to keep any lying speech, any deceptive talk away from you; 
+\q2 and put away from you anything that might corrode their values or harm them with useless talk. 
 \q1
-\v 25 Look straight ahead because you are focused on what is good and right,
+\v 25 Look straight ahead because you are focused on what is good and right, 
 \q2 and do not turn aside neither to the right or the left.
 
 
@@ -45,8 +45,15 @@
 
 ===== translationNotes: =====
 
-  * **Put crooked speech away from you and put corrupt talk far from you** - The writer speaks of lying or deceitful speech as if it were crooked and of a person not using this kind of language as if it were removing it far away from oneself. AT: "Do not lie and do not speak deceitfully" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Let your eyes look straight ahead and fix your gaze straight before you** - Here the word "eyes" represents the person who is looking. The writer speaks of a person being committed to doing the right thing as if that person were constantly looking forward without turning his head to look in another direction. AT: "Always look straight ahead and fix your gaze straight before you" (See [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]]) 
+
+  * **crooked** - not straight; deformed; dishonest; deceitful
+  * **Put crooked speech away from you** - AT: "Never tell lies"
+  * **and put corrupt talk far from you** - AT: "do not ever say things that are not true"
+  * **Let your eyes look straight ahead** - AT: "keep remembering your goal" (See [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **and fix your gaze straight before you** - AT: "and plan to keep doing the right things" (See [[:en:ta:vol1:translate:figs_metaphor]])
+
+ 
+ 
  
 ===== Links: =====
 
@@ -61,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

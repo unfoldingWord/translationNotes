@@ -34,6 +34,7 @@
 \q1 They are as frail as grass and plants in the fields,
 \q2 as frail as grass that grows on the roofs of houses
 \q2 and is scorched by the hot east wind.
+\b
 
 
 \q1
@@ -44,12 +45,12 @@
 
 <usfm>
 \p
-\q1
-\v 26 Have you not heard how I determined it long ago
-\q1 and worked it out in ancient times? Now I am bringing it to pass.
+\q1 
+\v 26 Have you not heard how I determined it long ago 
+\q1 and worked it out in ancient times? Now I am bringing it to pass. 
 \q1 You are here to reduce impregnable cities into heaps of ruins.
 \q1
-\v 27 Their inhabitants, of little strength, are shattered and ashamed.
+\v 27 Their inhabitants, of little strength, are shattered and ashamed. 
 \q1 They are plants in the field, green grass,
 \q1 the grass on the roof or in the field,
 \q1 before the east wind.
@@ -65,13 +66,8 @@
 
   * **General Information:** - This continues Yahweh's message to the king of Assyria.
 
-  * **Have you not heard how ... times?** - Yahweh uses this rhetorical question to remind Sennacherib of information that he should already be aware of. This can be written as a statement. AT: "Certainly you have heard how ... times." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **You are here to reduce impregnable cities into heaps of ruins** - Yahweh had planned for Sennacherib's army to destroy the cities that they had destroyed. This can be stated clearly. AT: "I planned that your army would destroy cities and cause them to become piles of rubble" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **impregnable** - strong and heavily guarded
-  * **of little strength** - "who are weak"
-  * **shattered** - "discouraged"
-  * **I am bringing it to pass** - The idiom "to bring something to pass" means to cause a specific thing to happen. AT: "I am causing it to happen" or "I am causing these things to take place" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **They are plants in the field, green grass, the grass on the roof or in the field, before the east wind** - This speaks of how weak and vulnerable the cities are before the Assryian army by comparing the cities to grass. AT: "The cities are as weak as the grass in the fields before your armies. They are as weak as the grass that grows on the roofs of houses and is scorched by the hot east wind." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Have you not heard how ... times?** - Yahweh assumes Sennacherib should know this. AT: "Certainly you have heard how ... times." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **They are plants in the field, green grass, the grass on the roof or in the field, before the east wind** - This emphasizes how weak the people are before the army of Assyria. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **before the east wind** - The east wind is hot and dry from the desert and plants die when it blows.
 ===== Links: =====
 
@@ -86,6 +82,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

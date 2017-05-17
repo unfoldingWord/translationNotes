@@ -28,7 +28,7 @@
 
 <usfm>
 \q1
-\v 11 They will spread their hands in the midst of it, as a swimmer spreads his hands to swim.
+\v 11 They will spread their hands in the midst of it, as a swimmer spreads his hands to swim. 
 \q1 But Yahweh will bring down their pride in spite of the skill of their hands.
 \q1
 \v 12 Your high fortress walls he will bring down to the ground, to the dust.
@@ -38,17 +38,10 @@
 
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:proud]]
-  * [[:en:obe:other:stronghold]]
 
 ===== translationNotes: =====
 
-  * **They will spread their hands ... his hands to swim** - This simile emphasizes how badly Yahweh will humiliate the people of Moab. They will spread their hands in dung like a swimmer spreads his hands in water. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **They will spread their hands in the midst of it** - "The people of Moab will push their hands through the dung"
-  * **as a swimmer spreads his hands to swim** - "as if they were swimming"
-  * **will bring down their pride** - Yahweh humiliating a proud person is spoken of as if pride were something high and Yahweh would cause it to be low. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **in spite of the skill of their hands** - Here "hands" represents the power to do or make something. AT: "in spite of the great things they have built" or "in spite of the great things they have done" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Your high fortress walls he will bring down to the ground, to the dust** - This speaks of Yahweh causing armies to bring down the walls as if he himself were going to bring them down. AT: "He will send an army to bring your high fortress walls to the ground, to the dust" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Your high fortress** - Here "Your" refers to the people of Moab. It can be stated in third person to be consistent with the previous verse. AT: "Their high fortress" (See: [[:en:ta:vol2:translate:figs_123person]])
 
 
 ===== Links: =====
@@ -58,6 +51,6 @@
   * [[:en:bible:questions:comprehension:isa:25]]
 **[[:en:bible:notes:isa:25:09|<<]] | [[:en:bible:notes:isa:26:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

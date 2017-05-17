@@ -38,9 +38,9 @@
 \v 7 Among the bushes they brayed like donkeys;
 \q under the bushes they gathered together.
 \q
-\v 8 They were the sons of fools, indeed, sons of nameless people!
-\q They were driven out of the land with whips.
-\m
+\v 8 They were descendants of fools, indeed, of worthless men;
+\q they were driven out of the land by whips.
+\b
 </usfm>
 
 
@@ -48,20 +48,12 @@
 
   * [[:en:obe:other:descendant]]
   * [[:en:obe:kt:foolish]] 
-  * [[:en:obe:kt:son]]
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Job continues to talk about the fathers of the mockers.
-
-  * **brayed like donkeys** - Job speaks of the men crying out in hunger as if they were wild donkey making a loud noise. AT: "cried out like wild donkeys because they were hungry" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **under the bushes they gathered together** - This implies that they did not have a home.
-  * **They were the sons of fools** - Here "were the sons of fools" represents having the characteristics fools. AT: "They were like fools" or "they were fools" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **indeed, sons of nameless people** - The word "indeed" shows that what follows strengthens the previous thought. Here "sons of nameless people" represents having the characteristics of nameless people. AT: "indeed, they were nameless people" or "indeed, they were worthless" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **nameless people** - Here being "nameless" represents having no honor or respect. It implies that they are worthless. AT(See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **They were driven out of the land with whips** - This can be stated in active form. Possible meanings are 1) the idea of whips implies that they were being treated like criminals. AT: "People treated them like criminals and forced them to leave the land" or 2) people actually used whips to force them out. AT: "People whipped them and forced them to leave the land" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **They were driven out of the land** - Here "the land" refers to the land where they lived before they were forced to go out to the wilderness.
-
+  * **brayed like donkeys** - AT: "cried out in their hunger;" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **They were descendants of fools, indeed, of worthless men** - AT: "They acted like people without good sense."
+  * **they were driven out of the land by whips** - AT: "they were driven out of the land like criminals" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -70,6 +62,6 @@
   * [[:en:bible:questions:comprehension:job:30]]
 **[[:en:bible:notes:job:30:04|<<]] | [[:en:bible:notes:job:30:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

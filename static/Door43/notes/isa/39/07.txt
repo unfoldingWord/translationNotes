@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 7 The sons born from you, whom you yourself have fathered—they will take them away, and they will become eunuchs in the
+\v 7 And the sons born from you, whom you yourself have fathered—they will take them away, and they will become eunuchs in the
 palace of the king of Babylon.'"
 \v 8 Then Hezekiah said to Isaiah, "The word of Yahweh that you have spoken is good." For he thought, "There will be
 peace and stability in my days."
@@ -41,8 +41,7 @@ peace and stability in my days."
 
   * **General Information:** - Isaiah continues to speak Yahweh's message to Hezekiah.
 
-  * **the sons born from you** - "your sons"
-  * **they will take them** - "the Babylonians will take them"
+  * **they will take them away, and they** - "the Babylonians will the Israelites away, and the Israelites"
 
 ===== Links: =====
 
@@ -51,6 +50,6 @@ peace and stability in my days."
   * [[:en:bible:questions:comprehension:isa:39]]
 **[[:en:bible:notes:isa:39:05|<<]] | [[:en:bible:notes:isa:40:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass eunuch}}
+~~DISCUSSION~~{{tag>publish p2edit eunuch}}
 
 ~~NOCACHE~~

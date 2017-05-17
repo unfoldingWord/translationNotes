@@ -32,10 +32,10 @@
 
 <usfm>
 \q1
-\v 3 I will encamp against you in a circle
+\v 3 I will encamp against you in a circle 
 \q1 and will lay siege against you with a palisade, and I will raise siege works against you.
 \q1
-\v 4 You will be brought down and will speak from the ground; your speech will be low from the dust.
+\v 4 You will be brought down and will speak from the ground; your speech will be low from the dust. 
 \q1 Your voice will be like a ghost out of the ground, and your speech will be very weak from the dust.
 </usfm>
 
@@ -46,10 +46,10 @@
 
 ===== translationNotes: =====
 
-  * **I will encamp against you** - The word "I" refers to Yahweh. This represents Yahweh causing an enemy army to surround Jerusalem. AT: "I will command the army of your enemies to surround you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **palisade ... siege works** - A "palisade" is a tower armies would build to attack cities with high walls. Also "siege works" refers to other various weapons armies would build to attack cities. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **I will encamp against you** - The word "I" refers to Yahweh. "I will command the army of your enemies to surround you"
+  * **palisade ... siege works** - A "palisade" is a tower armies would build to attack cities with high walls. Also "siege works" refers to other various weapons armies would build to attack cities.
   * **You will be brought down** - This can be stated in active form. AT: "Your enemy will bring you down" or "Your enemy will humble you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **and will speak from the ground; your speech will be low from the dust. Your voice will be like a ghost out of the ground, and your speech will be very weak from the dust** - All of these statements mean basically the same thing. They emphasize that the people who once spoke with proud words will be weak and grieving after the enemy defeats them. AT: "and you will only be able to speak with weak whispers like a spirit speaking from where dead people dwell" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **and will speak from the ground; your speech will be low from the dust. Your voice will be like a ghost out of the ground, and your speech will be very weak from the dust** - This emphasizes that the people who once spoke with proud words will be weak and grieving after the enemy defeats them. AT: "and you will only be able to speak with weak whispers like a spirit speaking from where dead people dwell" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_parallelism]])
  
 
 ===== Links: =====
@@ -59,6 +59,6 @@
   * [[:en:bible:questions:comprehension:isa:29]]
 **[[:en:bible:notes:isa:29:01|<<]] | [[:en:bible:notes:isa:29:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

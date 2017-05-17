@@ -20,9 +20,11 @@
 <usfm>
 \v 13 A foolish child will ruin a father.
 \q2 A wife who is always quarreling will upset her husband like water that is constantly dripping.
+\b
 \q1
-\v 14 We can inherit houses and money from our parents,
-\q2 but a sensible wife is from Yahweh.
+\v 14 We can inherit houses and money from our parents, 
+\q2 but a sensible wife is from Yahweh. 
+
 
 \q1
 </usfm>
@@ -50,12 +52,11 @@
 
 ===== translationNotes: =====
 
-  * **is ruin to his father** - "will ruin a father" (UDB)
-  * **a quarreling wife is a constant dripping of water** - This speaks of an annoying wife as if she were the constant dripping of water. AT: "a quarreling wife is as annoying and distracting as a constant dripping of water" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a quarreling wife** - "an arguing wife" or "a disagreeing wife" 
-  * **A house and wealth are inherited from parents** - This can be stated in active form. AT: "Children inherit a house and wealth from their parents" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **prudent** - Translate this word the same as you did in [[:en:bible:notes:pro:12:23|12:23]].
-  * **a prudent wife is from Yahweh** - This can be stated in active form. AT: "Yahweh gives a prudent wife" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a quarreling wife is a constant dripping of water** - AT: "A quarreling wife is as annoying and distracting as a constant dripping of water" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **quarreling** - "arguing" or "disagreeing" 
+  * **A house and wealth are inherited from parents** - AT: "Children inherit a house and wealth from their parents" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **prudent** - See how you translated this word in [[:en:bible:notes:pro:12:23|12:23]].
+  * **a prudent wife is from Yahweh** - AT: "Yahweh gives a prudent wife" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -70,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

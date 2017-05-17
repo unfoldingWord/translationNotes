@@ -18,9 +18,9 @@
 
 <usfm>
 \v 17 Do not envy sinful people;
-\q2 but give Yahweh the respect he deserves, all day long.
+\q2 but give Yahweh the respect he deserves, all day long. 
 \q1
-\v 18 If you respect him, you will have a life in the future,
+\v 18 If you respect him, you will have a life in the future, 
 \q2 and Yahweh will not cut off his promises for the future.
 
 
@@ -35,7 +35,7 @@
 \v 17 Do not let your heart envy sinners,
 \q but continue in the fear of Yahweh all the day.
 \q
-\v 18 Surely there is a future
+\v 18 Surely there is a future 
 \q and your hope will not be cut off.
 </usfm>
 
@@ -53,10 +53,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
-
-  * **Do not let your heart envy sinners** - The word "heart" is a synecdoche for the whole person. AT: "Do not allow yourself to envy sinners" or "Make sure you do not envy sinners" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **your hope will not be cut off** - This can be translated in active form. AT: "God will not allow anyone to cut off your hope" or "God will keep the promises he made to you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your hope will not be cut off** - "God's will keep the promises he made to you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
  
 ===== Links: =====
@@ -72,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass cutoff}}
+{{tag>publish p2edit cutoff}}
 
 ~~NOCACHE~~

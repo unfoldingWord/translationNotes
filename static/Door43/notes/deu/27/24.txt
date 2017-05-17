@@ -31,9 +31,9 @@
 
 <usfm>
 \p
-\v 24 'May the man be cursed who kills his neighbor secretly.' Then all the people must say, 'Amen.'
+\v 24 'May the man be cursed who kills his neighbor secretly.' And all the people must say, 'Amen.'
 \p
-\v 25 'May the man be cursed who takes a bribe to kill an innocent person.' Then all the people must say, 'Amen.'
+\v 25 'May the man be cursed who takes a bribe to kill an innocent person.' And all the people must say, 'Amen.'
 </usfm>
 
 
@@ -48,7 +48,7 @@
 
   * **General Information:** - Moses continues telling the Levites and the people what they must say. 
 
-  * **May the man be cursed** - This may be stated in active form. See how you translated this in [[:en:bible:notes:deu:27:16|27:16]]. AT: "May Yahweh curse the man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **May the man be cursed** - This may be stated in active form. AT: "May Yahweh curse the man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -63,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

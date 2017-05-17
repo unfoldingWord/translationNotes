@@ -52,14 +52,9 @@
 
 ===== translationNotes: =====
 
-  * **Tiglath Pileser** - In [[:en:bible:notes:2ki:15:19|15:19]] this man was called "Pul." See how you translated his name in [[:en:bible:notes:2ki:15:29|15:29]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **I am your servant and your son** - Being a servant and a son represents submitting to someone's authority. AT: "I will obey you as if I were your servant or your son" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **from the hand of the king of Aram and from the hand of the king of Israel** - The hand is a metonym that represents power. AT: "from the power of the king of Aram and from the power of the king of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **who have attacked me** - The kings attacking Ahaz represent the armies of those kings attacking Ahaz and his people. AT: "who have attacked me with their armies" or "whose armies have attacked me" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
-  * **the king of Assyria went up against Damascus** - The word "king" represents the king and his army. Also, Damascus represents the people who live there. AT: "the king of Assyria and his army attacked the people of Damascus" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **carried off its people as prisoners to Kir** - Carrying off the people represents forcing them to go away. AT: "made the people his prisoners and forced them to go to Kir" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Kir** - Possible meanings are 1) this is the name of a city or 2) this word means "city" and refers to the capital city of Assyria. (See: [[:en:ta:vol1:translate:translate_names]])
-
+  * **I am your servant and your son** - AT: "I will obey you as if I were your servant or your son."
+  * **from the hand of the king of Aram and from the hand of the king of Israel** - AT: "from the armies of Aram and Israel" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Kir** - AT: "the capital city of Assyria." (UDB) (See: [[:en:ta:vol1:translate:translate_names]])
 
  
 ===== Links: =====
@@ -75,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

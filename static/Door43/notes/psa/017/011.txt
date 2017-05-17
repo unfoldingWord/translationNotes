@@ -22,7 +22,7 @@
 \q1
 \v 12 They are like lions that are ready to tear apart the animals that they capture;
 \q2 They are like young lions that are hiding, waiting to jump on their prey.
-
+\b
 
 
 \q1
@@ -47,8 +47,8 @@
 ===== translationNotes: =====
 
   * **They have surrounded my steps** - Here "surrounded my steps" represents how David's enemies have followed him everywhere he goes in order to capture him. AT: "My enemies have surrounded me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **like a lion eager for a victim, like a young lion crouching in hidden places** - These two phrases express very similar ideas. The repetition adds intensity. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **They are like a lion ... like a young lion** - The writer feels pursued the way a lion hunts its prey (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **like a lion eager for a victim ... a young lion crouching in hidden places** - These two phrases express very similar ideas. The repetition adds intensity. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **They are like a lion** - The writer feels pursued the way a lion hunts its prey (See: [[:en:ta:vol1:translate:figs_simile]])
  
 ===== Links: =====
 
@@ -63,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book1 lion}}
+{{tag>publish p2check book1 lion}}
 
 ~~NOCACHE~~

@@ -49,6 +49,7 @@
 \q
 \v 23 Or, 'Save me from my adversary's hand?'
 \q Or, 'Ransom me from the hand of my oppressors?'
+\b
 </usfm>
 
 
@@ -67,12 +68,12 @@
   * **General Information:** - In these verses, Job poses four questions to rebuke his friends and to emphasize that he did not ask for help from any of them. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
   * **For now** - Job uses this phrase to introduce the main part of what he is saying.
-  * **you friends are nothing to me** - "you friends have not helped me at all!" (UDB)
-  * **and are afraid** - This means that they see the trouble Job has and are afraid of being in the same situation. AT: "and you are afraid that God might do similar things to you" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Did I say to you, 'Give something to me?'** - Job uses this rhetorical question to emphasize that he did not ask his friends to give him anything. This question can be written as a statement. AT: "I did not ask any of you for anything." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Offer me a gift from your wealth?** - Job uses this rhetorical question to emphasize that he did not ask his friends to give him any money. This question can be written as a statement. AT: "I did not ask you to give me money." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Save me from my adversary's hand?** - Here Job's adversary's "hand" is a metonym for his adversary's power. Job uses this rhetorical question to emphasize that he did not ask them to save him. This question can be written as a statement. AT: "I never asked any of you to rescue me from my enemies" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Ransom me from the hand of my oppressors?** - Here the "hand" of Job's oppressors is a metonym for their power. Job uses this rhetorical question to emphasize that he did not ask them to save him. This question can be written as a statement. AT: "I did not ask you to rescue me from those who treated me badly." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **you friends are nothing to me** - "you do not act like my friends"
+  * **and are afraid** - "and you are afraid that God might do similar things to you." (UDB) Here the UDB makes more explicit the implicit information that the friends are afraid of God punishing them. 
+  * **Did I say to you, 'Give something to me?'** - AT: "I did not ask any of you for anything." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Offer me a gift from your wealth?** - AT: "I did not ask you to give me money." or "I did not ask you to offer from your wealth a bride on my account." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Save me from my adversary's hand?** - "My adversary's hand" is a metonym that stands for the power of someone who is strongly against Job. AT: "I never asked any of you to rescue me from my enemies" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Ransom me from the hand of my oppressors?** - "Hand of my oppressors" is a metonym that stands for the power of the men who are treating Job badly. AT: "I did not ask you to rescue me from those who treated me badly." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
   * **Ransom me** - "Rescue me"
  
 ===== Links: =====
@@ -88,6 +89,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check adversary ransom}}
+{{tag>publish p2edit adversary ransom}}
 
 ~~NOCACHE~~

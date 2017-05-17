@@ -22,7 +22,7 @@
 
 <usfm>
 \v 24 Now therefore as Yahweh lives, who has established me and set me on the throne of David my father, and who has made me a house as he promised, surely Adonijah will be put to death today."
-\v 25 So King Solomon sent Benaiah son of Jehoiada, and Benaiah found Adonijah and put him to death.
+\v 25 So King Solomon sent Benaiah son of Jehoiada and Benaiah found Adonijah and put him to death.
 </usfm>
 
 ===== translationWords: =====
@@ -41,7 +41,7 @@
   * **General Information:** - King Solomon executes Adonijah.
 
   * **set me on the throne** - The word "throne" refers to Solomon's authority to rule that was given by Yahweh. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **who has made me a house** - Here "house" refers to descendants that Yahweh gave to King Solomon, who would continue to reign after him. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **who has made me a house** - Here "house" refers to descendants that Yahweh gave to King Solomon, that would continue to reign after him. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
 
 ===== Links: =====
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1ki:02]]
 **[[:en:bible:notes:1ki:02:22|<<]] | [[:en:bible:notes:1ki:02:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

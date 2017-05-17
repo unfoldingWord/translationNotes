@@ -26,6 +26,7 @@
 \q2 he causes clouds to form in every part of the earth.
 \q1 He sends lightning with the rain
 \q2 and releases the winds from his storehouses.
+\b
 
 
 \q1
@@ -35,7 +36,7 @@
 
 <usfm>
 \q
-\v 15 He has made the earth by his power; he set in place the world by his wisdom.
+\v 15 He has made the earth by his power; he set in place the world by his wisdom. 
 \q By his understanding he stretched out the heavens.
 \q
 \v 16 When he thunders, there is the roar of waters in the heavens, for he brings up the mist from the ends of the earth.
@@ -55,7 +56,7 @@
 ===== translationNotes: =====
 
   * **When he thunders, there is the roar of waters in the heavens** - These phrases compare the voice of Yahweh to the loud sound made by thunder and rain. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **storehouses** - A storehouse is a place where things are kept for future use.
+  * **storehouse** - This is a place where things are kept for future use.
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]

@@ -10,35 +10,32 @@
 ===== UDB: =====
 
 <usfm>
-\v 42 He will invade other countries and conquer them. He will also defeat the people of Egypt.
-\v 43 The army of the North will take away the treasuries of gold and silver, and the riches of Egypt. The Libyans and the Ethiopians will serve the king of the North.
+\v 42 He will invade other countries, and the people of Egypt will be defeated.
+\v 43 The army of the North will take away the treasuries of gold and silver. He will take the riches of Egypt. The Libyans and the Ethiopians will serve him.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
-\v 42 He will extend his hand into lands; the land of Egypt will not be rescued.
-\v 43 He will have control over the treasures of gold and of silver, and over all the riches of Egypt; the Libyans and the Ethiopians will be in his footsteps.
+\v 42 He will extend his power over many countries; the land of Egypt will not escape.
+\v 43 He will have authority over the treasures of gold and of silver, and over all the riches of Egypt; the Libyans and the Ethiopians will serve him.
 </usfm>
 
 ===== translationWords: =====
 
   * [[:en:obe:kt:power]]
   * [[:en:obe:other:egypt]]
+  * [[:en:obe:kt:authority]]
   * [[:en:obe:other:gold]]
   * [[:en:obe:other:silver]]
   * [[:en:obe:other:ethiopia]]
-
+  * [[:en:obe:other:serve]]
 
 ===== translationNotes: =====
 
   * **General Information:** - This is still about the king of the North.
 
-  * **He will extend his hand into lands** - Here "hand" represents power and control. AT: "He will extend his control over various lands" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **into lands** - Here the idea is many lands or various lands. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the land of Egypt will not be rescued** - This can be put into active form. AT: "the land of Egypt will not escape" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the Libyans and the Ethiopians will be in his footsteps** - Here "footsteps" represent submission. AT: "the Libyans and the Ethiopians will have to serve him" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the Libyans and the Ethiopians** - "the people of Libya and Ethiopia." Libya is a country west of Egypt, and Ethiopia is a country south of Egypt. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the Libyans and the Ethiopians** - "the people of Libya and Ethiopia." Libya is a country west of Egypt, and Ethiopia is a country south of Egypt. (See: [[:en:ta:vol1:translate:translate_names|]])
 
 ===== Links: =====
 
@@ -47,6 +44,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:40|<<]] | [[:en:bible:notes:dan:11:44|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

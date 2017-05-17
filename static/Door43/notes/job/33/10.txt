@@ -25,7 +25,8 @@
 \q2 and he considers that I am his enemy.
 \q1
 \v 11 It is as though he had put my feet in stocks,
-\q2 and he watches everything that I do.'
+\q2 and he watches everything that I do.' 
+\b
 \q1
 \v 12 However, what you have said is wrong,
 \q2 and I will tell you what you have said that is wrong.
@@ -46,9 +47,9 @@
 \v 11 He puts my feet in stocks;
 \q he watches all my paths.'
 \q
-\v 12 See, in this you are not right—I will answer you,
+\v 12 See, in this you are not right—I will answer you, 
 \q for God is greater than man.
-\m
+\b
 </usfm>
 
 
@@ -61,9 +62,8 @@
 
   * **General Information:** - Elihu continues quoting what he heard Job say.
 
-  * **See** - The speaker uses this word here to draw the attention to what he says next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **He puts my feet in stocks** - "Stocks" are wooden blocks a jailer puts around a prisoner's feet to restrict his movement. Job speaks of feeling like he is a prisoner by saying that he is in stocks. AT: "I feel he has made me a prisoner" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **my paths** - These words refer to where he goes. Here where he goes represents what he does. AT: "everything that I do" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **He puts my feet in stocks** - "Stocks" are wooden blocks a jailer puts around a prisoner's feet to restrict his movement. AT: "I feel like God's prisoner" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my paths** - This refers to Job's actions.
   * **I will answer you** - Elihu is speaking to Job.
 
 ===== Links: =====
@@ -73,6 +73,6 @@
   * [[:en:bible:questions:comprehension:job:33]]
 **[[:en:bible:notes:job:33:08|<<]] | [[:en:bible:notes:job:33:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

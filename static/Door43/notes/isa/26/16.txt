@@ -32,11 +32,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 16 Yahweh, in trouble have they looked to you; they whispered prayers when your discipline was on them.
 \f + \ft This difficult verse has many different translations among modern versions. \f*
 \q1
-\v 17 As a pregnant woman nears the time for her to give birth, when she is in pain and cries out in her labor pains,
+\v 17 As a pregnant woman nears the time for her to give birth, when she is in pain and cries out in her labor pains, 
 \q1 so we have been before you, Lord.
 </usfm>
 
@@ -49,10 +50,8 @@
 
 ===== translationNotes: =====
 
-  * **they looked to you** - Here "they" refers to the people of Israel. This would include Isaiah. AT: "we looked to you" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **looked to you** - This idiom means they asked Yahweh for help. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **when your discipline was on them** - The abstract noun "discipline" can be stated as a verb. AT: "when you disciplined them" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **As a pregnant woman ... cries out in her labor pains** - This compares the people to a woman giving birth. This emphasizes their suffering and crying when Yahweh disciplined them. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **so we** - This refers to Isaiah and includes the people of Judah. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+  * **As a pregnant woman ... cries out in her labor pains** - This compares the people's suffering with the pains of childbirth. (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -66,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -44,12 +44,12 @@
 
 <usfm>
 \c 25
-\m
+\p
 \q1
-\v 1 Yahweh, you are my God; I will exalt you, I will praise your name;
+\v 1 Yahweh, you are my God; I will exalt you, I will praise your name; 
 \q1 for you have done wonderful things, things planned long ago, in perfect faithfulness.
 \q1
-\v 2 For you have made the city a heap, a fortified city, a ruin,
+\v 2 For you have made the city a heap, a fortified city, a ruin, 
 \q1 and a fortress of strangers into no city.
 \q1
 \v 3 Therefore a strong people will glorify you; a city of ruthless nations will fear you.
@@ -64,7 +64,6 @@
   * [[:en:obe:kt:name]]
   * [[:en:obe:kt:perfect]]
   * [[:en:obe:kt:faithful]]
-  * [[:en:obe:other:stronghold]]
   * [[:en:obe:other:ruin]]
   * [[:en:obe:kt:glorify]]
   * [[:en:obe:other:nation]]
@@ -72,12 +71,7 @@
 
 ===== translationNotes: =====
 
-  * **praise your name** - Here "name" represents Yahweh. AT: "praise you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **things planned long ago** - This can be stated in active form. AT: "things you planned long ago" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **in perfect faithfulness** - The abstract noun "faithfulness" can be stated as "faithful." AT: "because you are perfectly faithful" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **the city** - This is not referring to a certain city. It means cities in general. (See: [[:en:ta:vol2:translate:figs_genericnoun]])
-  * **a fortress of strangers** - "a fortress belonging to foreigners"
-  * **a city of ruthless nations** - Here "city" and "nations" represent the people who live there. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the city** - This is not referring to a certain city. Isaiah means it as any place where arrogant people live.
 
 
 ===== Links: =====
@@ -87,6 +81,6 @@
   * [[:en:bible:questions:comprehension:isa:25]]
 **[[:en:bible:notes:isa:24:21|<<]] | [[:en:bible:notes:isa:25:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

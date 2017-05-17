@@ -22,7 +22,7 @@
 \q1
 \v 26 We see the ships which sail along!
 \q2 We see the huge sea monster which you made to splash around in the sea.
-
+\b
 
 
 \q1
@@ -60,6 +60,6 @@
   * [[:en:bible:questions:comprehension:psa:104]]
 **[[:en:bible:notes:psa:104:023|<<]] | [[:en:bible:notes:psa:104:027|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4 leviathan}}
+~~DISCUSSION~~{{tag>publish p2check book4 leviathan}}
 
 ~~NOCACHE~~

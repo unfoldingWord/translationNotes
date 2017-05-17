@@ -22,9 +22,9 @@
 
 <usfm>
 \p
-\v 54 This is the law for all types of infectious skin disease and things that cause such disease, and for an itch,
+\v 54 This is the law for all types of infectious skin disease and things that cause such disease, and for an itch, 
 \v 55 and for mildew in clothing and in a house,
-\v 56 for swelling, for a rash, and for a bright spot,
+\v 56 for swelling, for a rash, and for a bright spot, 
 \v 57 to determine when any of these cases is unclean or when it is clean. This is the law for infectious skin diseases and mildew."
 </usfm>
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:lev:14]]
 **[[:en:bible:notes:lev:14:52|<<]] | [[:en:bible:notes:lev:15:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

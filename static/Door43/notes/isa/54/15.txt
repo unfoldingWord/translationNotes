@@ -24,6 +24,7 @@
 \v 15 If any army attacks you,
 \q2 it will not be because I have incited them to do that,
 \q1 and you will defeat anyone who attacks you.
+\b
 \q1
 \v 16 Think about this:
 \q2 Blacksmiths fan the coals to make a very hot flame
@@ -42,7 +43,7 @@
 \q1
 \v 15 Look, if anyone stirs up trouble, it will not be from me; anyone who stirs up trouble with you will fall in defeat.
 \q1
-\v 16 See, I have created the craftsman, who blows the burning coals
+\v 16 See, I have created the craftsman, who blows the burning coals 
 \q1 and forges weapons as his work, and I have created the destroyer to destroy.
 </usfm>
 
@@ -57,9 +58,6 @@
 
   * **General Information:** - Yahweh continue speaking to the people of Jerusalem.
 
-  * **stirs up trouble** - This is an idiom. AT: "causes trouble" or "troubles you" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **will fall in defeat** - This is an idiom. AT: "you will defeat them in battle" (See: [[:en:ta:vol1:translate:figs_idiom]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -67,6 +65,6 @@
   * [[:en:bible:questions:comprehension:isa:54]]
 **[[:en:bible:notes:isa:54:13|<<]] | [[:en:bible:notes:isa:54:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

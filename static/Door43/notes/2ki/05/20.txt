@@ -43,17 +43,12 @@
 ===== translationNotes: =====
 
   * **He had traveled** - "Naaman had traveled"
-  * **Gehazi** - Translate this man's name the same as you did in [[:en:bible:notes:2ki:04:12|4:12]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Look** - This word is used here to draw someone's attention to what is said next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **has spared this Naaman the Aramean** - "has let Naaman the Aramean leave too easily"
-  * **by not receiving** - "by not accepting"  
-  * **from his hands** - Here Naaman is referred to by his hands to emphasize the act of giving. AT: "from him" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **As Yahweh lives** - "As surely as Yahweh lives." Here Gehazi compares the certainty that Yahweh is alive to the certainty of what he has decided to do. This is a way of making a solemn promise. AT: "As Yahweh lives, I promise" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **of the sons of the prophets** - This does not mean that they were the sons of prophets, but rather, that they were a group of prophets. See how you translated this phrase in [[:en:bible:notes:2ki:02:03|2:3]]. AT: "from among the prophets there" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Please give them a talent of silver and two changes of clothes** - Gehazi is asking Naaman to give these things to him so that he can take them and give them to the prophets. AT: "Please give me a talent of sliver and two changes of clothes to give to them" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **See** - This word is used here to draw someone's attention to what is said next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **a talent of silver** - This can be written in modern measurements. AT: "34 kilograms of silver" (See: [[:en:ta:vol2:translate:translate_bweight]])
-
+  * **Gehazi** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Look** - The word "Look" is used here to draw attention to what he is about to say.
+  * **my master has spared this Naaman the Aramean** - AT: "Elisha has let Naaman the Aramean leave too easily"
+  * **by not receiving** - "without accepting any gifts" 
+  * **from his hands** - AT: "from him"; (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **two young men of the sons of the prophets** - AT: "two young men who are prophets"
 
 ===== Links: =====
 
@@ -62,6 +57,6 @@
   * [[:en:bible:questions:comprehension:2ki:05]]
 **[[:en:bible:notes:2ki:05:17|<<]] | [[:en:bible:notes:2ki:05:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

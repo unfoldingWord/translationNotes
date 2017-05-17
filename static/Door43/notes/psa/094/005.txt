@@ -28,7 +28,7 @@
 \q2
 \v 7 Those wicked people say, "Yahweh does not see anything;
 \q2 the God whom those Israelites worship does not see the evil things that we do."
-
+\b
 
 
 \q1
@@ -42,7 +42,7 @@
 \v 5 They crush your people, Yahweh;
 \q they afflict the nation that belongs to you.
 \q
-\v 6 They kill the widow and foreigner who lives in their country,
+\v 6 They kill the widow and the alien,
 \q and they murder the fatherless.
 \q
 \v 7 They say, "Yahweh will not see,
@@ -60,9 +60,11 @@
 
 ===== translationNotes: =====
 
-  * **afflict the nation** - Here the metonym "nation" refers to the people of the nation. AT: "afflict the people of the nation" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
+  * **afflict the nation** - "afflict the people of the nation" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **They crush** - The psalmist speaks of powerful people treating powerless people badly as if it were crushing them or breaking them in pieces. AT: "They completely destroy" or "They greatly harm." See how "break in pieces" is translated in [[:en:bible:notes:psa:072:004|72:4]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the widow** - "women whose husbands have died"
+  * **the alien** - "strangers in the land"
   * **the fatherless** - "children without fathers"
   * **the God of Jacob does not take notice of it** - "the God of Israel does not see what we do"
  
@@ -80,6 +82,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book4}}
+{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

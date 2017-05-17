@@ -41,9 +41,9 @@
   * **Belshazzar** - This is the son of Nebuchadnezzar who became king after his father. (See: [[:en:ta:vol1:translate:translate_names]])
   * **for a thousand** - "for 1,000" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **he drank wine in front of** - "he drank wine in the presence of"
-  * **the containers made of gold or silver** - This can be stated in active form. AT: "the gold or silver containers that the Israelites had made" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **containers** - These were cups and other items that were small enough for a person to hold and to drink from them.
-  * **Nebuchadnezzar his father had taken** - This phrase is using the name Nebuchadnezzar to refer to the king's army. AT: "the army of Nebuchadnezzar his father had taken" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the containers made of gold or silver** - This can be stated in active form. AT: "the containers that the Israelites had made of gold or sliver" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Nebuchadnezzar his father had taken** - This phrase is using the name Nebuchadnezzar to refer to the king's army. AT: "the army of Nebuchadnezzar his father had taken" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:dan:05]]
 **[[:en:bible:notes:dan:04:36|<<]] | [[:en:bible:notes:dan:05:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

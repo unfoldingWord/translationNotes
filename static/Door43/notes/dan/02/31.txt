@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 31 King, you looked up and you saw a large statue. This statue, which was very powerful and bright, stood before you. Its brightness was terrifying.
+\v 31 King, you looked up and you saw a large statue. This statue, which was very powerful and bright, stood before you. Its brightness was terrifying. 
 \v 32 The head of the statue was made of fine gold. Its breast and arms were of silver. Its middle and its thighs were made of bronze,
 \v 33 and its legs were made of iron. Its feet were made partly of iron and partly of clay.
 </usfm>
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:dan:02]]
 **[[:en:bible:notes:dan:02:29|<<]] | [[:en:bible:notes:dan:02:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass gold}}
+~~DISCUSSION~~{{tag>publish p2edit gold}}
 
 ~~NOCACHE~~

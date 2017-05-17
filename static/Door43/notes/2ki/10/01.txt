@@ -29,7 +29,7 @@
 \c 10
 \p
 \v 1 Now Ahab had seventy descendants in Samaria. Jehu wrote letters and sent them to Samaria, to the rulers of Jezreel, including the elders and the guardians of Ahab's descendants, saying,
-\v 2 "Your master's descendants are with you, and you also have chariots and horses and a fortified city and armor. So then, as soon as this letter comes to you,
+\v 2 "Your master's descendants are with you, and you also have chariots and horses and a fortified city and armor. So then, as soon as this letter comes to you, 
 \v 3 select the best and most deserving of your master's descendants and set him on his father's throne, and fight for your master's royal line."
 </usfm>
 
@@ -52,11 +52,9 @@
   * [[:en:obe:other:royal]]
 ===== translationNotes: =====
 
-  * **seventy descendants** - "70 descendants" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **Jehu wrote letters and sent them to Samaria** - This means that Jehu sent a messenger to deliver the letters. AT: "Jehu wrote letters and sent a messenger to deliver them in Samaria" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **saying, "Your master's** - "The letters said, 'Your master's"
-  * **set him on his father's throne** - Here, sitting on the king's throne means to be appointed as king. AT: "make him king in his father's place" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **for your master's royal line** - "your master's descendants" Here the man that they selected to be king is referred to as Ahab's royal line of descendants. AT: "to defend your master's descendant" or "to defend him" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Jehu wrote letters and sent them to Samaria, to the rulers of Jezreel, including the elders and the guardians of Ahab's descendants** - AT: "Jehu wrote and sent letters to the rulers of Jezreel in Samaria. These rulers included the elders and guardians of Ahabs descendants"
+  * **set him on his father's throne** - AT: "give him his father's kingdom," or "make him king in his father's place," (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **your master's royal line** - "Ahab's descendants"
 
 ===== Links: =====
 
@@ -65,6 +63,6 @@
   * [[:en:bible:questions:comprehension:2ki:10]]
 **[[:en:bible:notes:2ki:09:35|<<]] | [[:en:bible:notes:2ki:10:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -17,11 +17,13 @@
 
 <usfm>
 \v 1 Wine makes you loud, and strong drink makes you foolish;
-\q2 whoever lets alcohol lead them to where they get lost is not wise.
+\q2 whoever lets alcohol lead them to where they get lost, are not wise.
+\b
 \q1
 \v 2 The king's wrath makes people as afraid as if they were facing a young lion roaring at them;
 \q2 the person who makes a king angry is giving up his own life.
 
+\b
 
 
 \q1
@@ -55,16 +57,13 @@
 ===== translationNotes: =====
 
   * **Wine is a mocker and strong drink is a brawler** - These two phrases mean basically the same thing and are combined to emphasize the danger of too much alcohol. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Wine is a mocker** - Here "wine" refers to the person who is drunk with wine. AT: "A person who is drunk with wine mocks" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **strong drink is a brawler** - Here "strong drink" refers to a person who is drunk with strong drink. AT: "a person who is drunk with strong drink starts fights" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **a brawler** - a person who fights noisily, usually in a public place
-  * **whoever is led astray by drink is not wise** - This can be stated in active form. AT: "whoever drinks until they can no longer think clearly" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **by drink** - Here "drink" refers to alcoholic drinks
-  * **is not wise** - This means the opposite of "wise" which is "foolish." AT: "is foolish" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **The fear of a king is like the fear of a young lion that is roaring** - This compares how people fear a king's wrath to how they fear a young roaring lion. AT: "The king's wrath makes people as afraid as if they were facing a young lion roaring at them" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **makes him angry** - "makes the king angry"
-  * **forfeits his life** - This refers to being killed. "Life" here refers to physical life. AT: "will die" (See: [[:en:ta:vol2:translate:figs_euphemism]])
-
+  * **Wine is a mocker** - AT: "A person who is drunk with wine mocks" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **strong drink is a brawler** - AT: "a person who is drunk with strong drink starts fights" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **brawler** - a person who fights noisily, usually in a public place
+  * **whoever is led astray by drink is not wise** - AT: "it is fools who drink until they no longer think clearly" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_litotes]])
+  * **drink** - This refers to alcoholic drinks.
+  * **forfeits his life** - This refers to being killed. (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **life** - This refers to physical life.
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -72,6 +71,6 @@
   * [[:en:bible:questions:comprehension:pro:20]]
 **[[:en:bible:notes:pro:19:28|<<]] | [[:en:bible:notes:pro:20:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -19,7 +19,7 @@
 \v 27 It is not good to eat too much honey;
 \q2 that is like searching for more honor when you already have honor.
 \q1
-\v 28 A person who cannot control himself
+\v 28 A person who cannot control himself 
 \q2 is like a city with no way to keep out enemies; its walls have fallen down.
 </usfm>
 
@@ -32,7 +32,7 @@
 \q that is like searching for honor after honor.
 \f + \ft Modern versions have different interpretations of this difficult verse. \f*
 \q
-\v 28 A person without self-control
+\v 28 A person without self-control 
 \q is like a city breached and without walls.
 </usfm>
 
@@ -45,11 +45,9 @@
 ===== translationNotes: =====
 
 
-  * **It is not good to eat too much honey; that is like searching for honor after honor.** - Both wanting others to honor you and eating honey are good, but you can eat too much honey, and you can try too hard to have people honor you. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **It is not good** - This can be stated positively. AT:  "It is a bad thing" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **that is like searching for honor after honor** - "that is like always thinking about how others should honor you." The meaning of the original language is uncertain. Some versions of the Bible translate this as "that is like speaking too many compliments to people."
-  * **A person without self-control is like a city breached and without walls.** - Both a person without self-control and a city without walls are weak and vulnerable. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **breached and without walls** - "whose walls an army has knocked down and destroyed"
+  * **It is not good to eat too much honey; that is like searching for honor after honor.** - Eating too much honey is compared to searching for more honor. Neither is good in excess. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **A person without self-control is like a city breached and without walls.** - A person without self-control is compared to a city without walls. Both are weak and vulnerable. (See: [[:en:ta:vol1:translate:figs_simile]])
+ 
  
 ===== Links: =====
 
@@ -64,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

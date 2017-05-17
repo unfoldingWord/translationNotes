@@ -23,10 +23,12 @@
 \v 23 Saul and Jonathan were loved; they pleased many people.
 \q2 They were together while they lived and when they died.
 \q1 In battle they were swifter than eagles and stronger than lions.
+\b
 \q1
 \v 24 You women in Israel, weep about Saul.
 \q1 He provided beautiful scarlet clothes for you
 \q2 and gave you gold ornaments to put on.
+\b
 
 
 \q1
@@ -43,8 +45,8 @@
 \q they were stronger than lions.
 \q
 \v 24 You daughters of Israel, weep over Saul,
-\q who clothed you in scarlet as well as jewels,
-\q and who put ornaments of gold on your clothing.
+\q who clothed you in scarlet delicately,
+\q who put ornaments of gold on your garments.
 </usfm>
 
 
@@ -63,9 +65,9 @@
 
 ===== translationNotes: =====
 
-  * **in their death they were not separated** - The phrase "were not separated" is used to emphasize that they were always together. AT: "even in death they were together"
-  * **They were swifter than eagles, they were stronger than lions.** - Saul and Jonathan were spoken of as if they were faster than eagles and stronger than lions. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **who clothed you in scarlet as well as jewels, and who put ornaments of gold on your clothing** - "who provided you nice clothes and jewelry." These two phrases share similar meanings that describe providing the women with expensive, attractive clothing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **in their death they were not separated** - The phrase "were not separated" is used to emphasize that they were always together. AT: "even in death they were together" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **They were swifter than eagles, they were stronger than lions.** - Saul and Jonathan spoken of as if they were faster than eagles and stronger then lions. ( See: [[:en:ta:vol1:translate:figs_simile]])
+  * **who clothed you in scarlet delicately, who put ornaments of gold on your garments.** - "who provided you nice clothes and jewelry." These two phrases share similar meanings that focus on providing the women with expensive, attractive clothing.
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -73,6 +75,6 @@
   * [[:en:bible:questions:comprehension:2sa:01]]
 **[[:en:bible:notes:2sa:01:21|<<]] | [[:en:bible:notes:2sa:01:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass eagle}}
+~~DISCUSSION~~{{tag>publish p2check eagle}}
 
 ~~NOCACHE~~

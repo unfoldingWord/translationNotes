@@ -29,9 +29,10 @@
 ===== ULB: =====
 
 <usfm>
-\c 49
-\m
+\c 49 
+\p
 \d For the chief musician. A psalm of the sons of Korah.
+\b
 \q
 \v 1 Hear this, all you peoples;
 \q give ear, all you inhabitants of the world,
@@ -50,7 +51,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - This psalm is a song that teaches people. See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **For the chief musician** - "This is for the director of music to use in worship"
   * **A psalm of the sons of Korah** - "This is a psalm that the sons of Korah wrote" 
@@ -66,6 +67,6 @@
   * [[:en:bible:questions:comprehension:psa:049]]
 **[[:en:bible:notes:psa:048:014|<<]] | [[:en:bible:notes:psa:049:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

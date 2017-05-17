@@ -33,9 +33,9 @@
 ===== ULB: =====
 
 <usfm>
-\p
+\p 
 \q1
-\v 28 The enemy has come to Aiath
+\v 28 The enemy has come to Aiath 
 \q1 and has passed through Migron; at Michmash he has stored his provisions.
 \q1
 \v 29 They have crossed over the pass and they lodge at Geba.
@@ -51,7 +51,7 @@
 
   * **has come ... has passed ... has stored ... have crossed ... lodge ... trembles ... has fled** - Isaiah speaks of these future events as though they have already happened. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
   * **Aiath ... Migron ... Michmash ... Geba ... Ramah ... Gibeah** - These are all cities and villages near Jerusalem that the army of Assyria went through and caused trouble in. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Ramah trembles and Gibeah of Saul has fled** - "The people of Ramah tremble and the people of Gibeah of Saul have fled" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Ramah trembles and Gibeah of Saul has fled** - "The people of Ramah tremble and the people of Gibeah of Saul have fled"
 
 
 ===== Links: =====
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:10]]
 **[[:en:bible:notes:isa:10:26|<<]] | [[:en:bible:notes:isa:10:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -25,7 +25,7 @@
 <usfm>
 \v 11 Therefore Yahweh says this, 'See, I am about to bring disaster on them, disaster from which they will not be able to escape. Then they will call out to me, but I will not listen to them.
 \v 12 The cities of Judah and the inhabitants of Jerusalem will go and call out to the gods to which they had given offerings, but they will certainly not be saved by them at the time of their disaster.
-\v 13 For you Judah, the number of your gods has increased to equal the number of your cities. You have made the number of shameful altars in Jerusalem, incense altars for Baal, equal to the number of her streets.
+\v 13 For the number of your gods has increased to equal the number of your cities, Judah. And you have made the number of shameful altars in Jerusalem, incense altars for Baal, to equal the number of her streets.
 </usfm>
 
 ===== translationWords: =====
@@ -39,11 +39,7 @@
 
 ===== translationNotes: =====
 
-  * **See** - This word is used here to draw someone's attention to what is said next. AT: "Listen" or "Pay attention to what I am about to tell you" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-  * **The cities of Judah and the inhabitants of Jerusalem** - Here the "cities of Judah" represents the people who live in them. AT: "The people who live in the cities of Judah and in Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **but they will certainly not be saved by them** - This can be stated in active form. AT: "but their gods will certainly not save them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **to equal** - "to as many as"
-  * **her streets** - "the streets in Jerusalem" 
+  * **See** - AT: "Listen" or "Pay attention to what I am about to tell you"
 
 
 ===== Links: =====
@@ -53,6 +49,6 @@
   * [[:en:bible:questions:comprehension:jer:11]]
 **[[:en:bible:notes:jer:11:09|<<]] | [[:en:bible:notes:jer:11:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

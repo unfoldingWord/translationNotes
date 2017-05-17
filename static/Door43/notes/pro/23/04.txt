@@ -19,10 +19,10 @@
 
 <usfm>
 \v 4 Do not work so much that you are always tired, so you can become rich;
-\q2 be wise and know when you should stop and rest.
+\q2 be wise and know when you should stop and rest. 
 \q1
 \v 5 As soon as you look at the money, it will be gone;
-\q2 it will be as if it suddenly took up wings
+\q2 it will be as if it suddenly took up wings 
 \q2 and flew up like an eagle, up into the sky.
 
 
@@ -34,13 +34,12 @@
 
 <usfm>
 \q
-\v 4 Do not work too hard to gain wealth;
+\v 4 Do not work too hard so you can become rich;
 \q be wise enough to know when to stop.
 \q
-\v 5 Will you let your eyes light upon it?
-\q It will be gone,
-\q for it will surely take up wings like an eagle
-\q and fly off to the sky.
+\v 5 When your eyes light upon the money, it is gone,
+\q and suddenly it takes up wings 
+\q and flies off to the sky like an eagle.
 </usfm>
 
 
@@ -52,12 +51,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **Do not work too hard** - "Do not work so much that you are always tired" (UDB)
-  * **light upon it** - land like a bird upon the wealth (verse 4). This is a metaphor for looking at the wealth for a short time. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **it will surely take up wings like an eagle and fly off** - A person losing his wealth is spoken of as if the wealth were a bird. AT: "the wealth will disappear as quickly as an eagle can fly away" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **wings like an eagle** - wings like an eagle's wings
+  * **your eyes light upon the money** - AT: "you notice the money" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **suddenly it takes up wings and flies off to the sky like an eagle** - This describes how quickly money or worldly riches can disappear, out of sight, as if it has grown wings like an eagle. (See: [[:en:ta:vol1:translate:figs_simile]])
  
 ===== Links: =====
 
@@ -72,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

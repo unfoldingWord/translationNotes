@@ -39,6 +39,7 @@
 \q2 Why do you not plead with them to rescue you
 \q2 when you experience disasters?
 \q1 For you have as many gods as you have cities and towns in Judah!
+\b
 
 
 \q1
@@ -80,14 +81,14 @@
 
 ===== translationNotes: =====
 
-  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house. In this case it refers to Israel's descendants. Translate as in [[:en:bible:notes:jer:02:04|2:4]]. AT: "the Israelites" or "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **when he is found** - This can be stated in active form. AT: "when someone finds him" or "when people know that he has stolen things"  (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **they, their kings, their princes, and their priests and prophets** - This list shows that everyone belonging to Israel will be ashamed.
-  * **These are the ones who say to the tree, 'You are my father,' and to the stone, 'You gave birth to me.'** - Here "tree" and "stone" represent idols carved from wood and stone. These words emphasize that the idol was made of ordinary things and is not worthy of worship. AT: "These people are the ones who say to a carved piece of wood, "You are my father," and to a carved stone, "You gave birth to me." " (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **their back faces me and not their faces** - "their backs are toward me; their faces are not toward me." This represents them rejecting God. AT: "they have turned away from me" or "they have turned their backs toward me and not their faces" or "they have completely rejected me"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Arise and save us** - It can be made clear that they say this to Yahweh. "Yahweh, come and save us" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Yet where are the gods that you made for yourselves?** - With this question God implies that people should ask the gods they worship to help them. He uses this irony to show that he is angry that they worship other gods. AT: "You should ask the gods you made to help you." or "You do not ask the gods you made to help you." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_irony]])
-  * **Let them arise if they wish to save you in your time of troubles** - God implies that false gods should help the people who worship them. He knows that false gods cannot help people. When he said this he was using irony to show that he was angry that his people worshiped false gods. AT:  "You do not ask them because know you that they cannot save you in your time of troubles" (See: [[:en:ta:vol1:translate:figs_irony]])
+
+  * **when he is found** - "when he is caught"
+  * **they** - "the people"
+  * **These are the ones who say to the tree, 'You are my father,' and to the stone, 'You gave birth to me.'** - AT: "These people are the ones who say to a carved piece of wood, "You are my father," and to a carved stone, "You gave birth to me." " (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **their back faces me and not their faces** - AT: "they turn away and do not worship me" or "they turn so I see only their backs, not their faces" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Arise and save us!** - AT: "Yahweh come and save us." (See: [[:en:ta:vol1:translate:figs_explicit]])
+
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -101,6 +102,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

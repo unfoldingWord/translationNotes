@@ -39,12 +39,10 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Son of man, is the house of Israel, that rebellious house, not asking, 'What are you doing?'** - God asks this rhetorical question to remind Ezekiel of something he already knew - that the people had asked him this question. AT: "Son of man, the house of Israel, that rebellious house, are asking, 'What are you doing?'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the house of Israel, that rebellious house** - This is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate "rebellious house" as in [[:en:bible:notes:ezk:02:04|2:5]]. AT: "the people of Israel, that rebellious people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **What are you doing?** - Since the people had seen what Ezekiel was doing, their question implies their desire to know the reason why he was doing it. AT: "What is the meaning of the things you are doing?" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **in whose midst they are** - The phrase "in whose midst" refers to Jerusalem, while "they" refers to the "house of Israel." AT: "who are in Jerusalem" (See: [[:en:ta:vol1:translate:figs_explicit]])
-
+  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **house of Israel** - See how you translated this in [[:en:bible:notes:ezk:03:16|3:01]].
+  * **Son of man, is the house of Israel, that rebellious house, not asking, 'What are you doing?** - God asks this question to Ezekiel to show that the people of Israel have noticed what Ezekiel is doing. AT: "Ezekiel, the people of Israel, the ones who disobey me, have noticed what you are doing." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **in whose midst they are** - AT: "who are among them"
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -52,6 +50,6 @@
   * [[:en:bible:questions:comprehension:ezk:12]]
 **[[:en:bible:notes:ezk:12:07|<<]] | [[:en:bible:notes:ezk:12:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -42,13 +42,12 @@
  
 ===== translationNotes: =====
 
-  * **tumors** - Possible meanings are 1) painful swelling under the skin or 2) hemorrhoids. See how you translated this in [[:en:bible:notes:1sa:05:06|5:6]].
-  * **mice** - Translated this as in [[:en:bible:notes:1sa:06:03|6:4]].
+  * **tumors** - Possible meanings are 1) painful swelling under the skin or 2) hemorrhoids. Translate as in [[:en:bible:notes:1sa:05:06|5:6]].
+  * **mice** - More than one mouse. Another possible meaning is "rats." Translate as in [[:en:bible:notes:1sa:06:03|6:4]].
   * **fortified cities** - These are cities with high walls around them to protect the people inside from attack by their enemies.
   * **The great stone ... remains a witness** - The stone is referred to as if it is a person who can see. AT: "The great stone ... is still there, and people remember what happened on it" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **Joshua** - man's name (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the Bethshemite** - This is what a person from Beth Shemesh is called. AT: "from Beth Shemesh" (See: [[:en:ta:vol1:translate:translate_names]])
-  * **to this day** - to the time at which the writer wrote the book
+  * **Joshua the Bethshemite** - "Joshua from Beth Shemesh" (See: [[[[:en:ta:vol1:translate:translate_names]])
+  * **to this day** - to the time on which the writer wrote the book
  
 ===== Links: =====
 
@@ -61,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass ashkelon}}
+{{tag>publish p2check ashkelon}}
 
 ~~NOCACHE~~

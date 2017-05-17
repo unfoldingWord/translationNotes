@@ -18,7 +18,7 @@
 
 <usfm>
 \v 16 The girl's father must say to the elders, 'I gave my daughter to this man as a wife, and he hates her.
-\v 17 See, he has accused her of shameful things and said, "I did not find in your daughter the proof of virginity." But here is the proof of my daughter's virginity.' Then they will spread the garment out before the elders of the city.
+\v 17 See, he has accused her of shameful things and said, "I did not find in your daughter the proof of virginity"—yet this is the proof of my daughter's virginity.' And then they will spread the garment out before the elders of the city.
 </usfm>
 
 ===== translationWords: =====
@@ -34,8 +34,8 @@
 
   * **he has accused her of shameful things** - The full meaning of this statement can be made explicit. AT: "he has accused her of having slept with someone before he married her" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **I did not find in your daughter the proof of virginity** - The abstract nouns "proof" and "virginity" can be translated as verb phrases. AT: "Your daughter could not prove that she was a virgin" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **But here is the proof of my daughter's virginity** - The abstract nouns "proof" and "virginity" can be translated as verb phrases. AT: "But this proves that my daughter was a virgin" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Then they will spread the garment out before the elders of the city** - The full meaning of this statement can be made explicit. AT: "And then the mother and father will show the clothing with the bloodstain to the elders as proof that she was a virgin" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **yet this is the proof of my daughter's virginity** - The abstract nouns "proof" and "virginity" can be translated as verb phrases. AT: "but this proves that my daughter was a virgin" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **And then they will spread the garment out before the elders of the city** - The full meaning of this statement can be made explicit. AT: "And then the mother and father will show the clothing with the bloodstain to the elders as proof that she was a virgin" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:deu:22]]
 **[[:en:bible:notes:deu:22:15|<<]] | [[:en:bible:notes:deu:22:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

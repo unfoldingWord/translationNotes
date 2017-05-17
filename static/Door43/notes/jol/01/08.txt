@@ -22,14 +22,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 Cry and wail as a young woman does
+\v 8 Cry and wail as a young woman does 
 \q2 when the young man to whom she was engaged has died.
 \q1
 \v 9 There is no more flour or wine for us to offer to be sacrifices at the temple,
 \q2 so the priests who serve Yahweh are mourning.
 \q1
 \v 10 The crops in the fields have been ruined;
-\q2 it is as though the ground itself had died.
+\q2 it is as though the ground itself is mourning.
 \q1 The grain has been destroyed,
 \q2 there are no grapes to make wine,
 \q2 and there is no more olive oil.
@@ -42,6 +42,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 8 Mourn like a virgin dressed in sackcloth for the death of her young husband.
 \q
@@ -49,7 +50,7 @@
 \q The priests, Yahweh's servants, mourn.
 \q
 \v 10 The fields have been devastated,
-\q and the land has become weak.
+\q and the land mourns.
 \q For the grain has been destroyed,
 \q the new wine has dried up,
 \q and the oil is spoiled.
@@ -71,7 +72,6 @@
 
   * **General Information:** - God continues speaking to the people of Israel.
 
-  * **the land has become weak** - Here the land is spoken of as if it were a person. However, some versions interpret this passage as a different metaphor: "the land mourns." (See:  [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:jol:00:intro]]

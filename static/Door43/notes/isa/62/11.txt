@@ -19,15 +19,15 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 This is the message that Yahweh has sent to the people of every nation.
-\q2 Tell the people of Israel, "The one who will rescue you is coming!
+\v 11 This is the message that Yahweh has sent to the people of every nation:
+\q2 "Tell the people of Israel, 'The one who will rescue you is coming!
 \q1 Look! He will be bringing to you your reward;
-\q2 those whom he has rescued will be going ahead of him."
+\q2 those whom he has rescued will be going ahead of him.'"
 \q1
-\v 12 They will be called: "Yahweh's own people,
-\q2 and ones whom he rescued."
-\q1 And Jerusalem will be known as: "The city that Yahweh loves,"
-\q2 and "The city that is no longer abandoned."
+\v 12 They will be called 'Yahweh's own people,'
+\q2 'the ones whom he rescued.'
+\q1 And Jerusalem will be known as the city that Yahweh loves,
+\q2 the city that is no longer abandoned.
 </usfm>
 
 
@@ -53,11 +53,8 @@
 
 ===== translationNotes: =====
 
-  * **Look** - "Take notice!"
-  * **the ends of the earth** - The places on the earth that are very far away are spoken of as if they were the places where the earth ends. This phrase also forms a merism and refers to everywhere in between the ends. See how you translated this in [[:en:bible:notes:isa:40:27|40:28]]. AT "the farthest places of the earth" or "the entire earth" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_merism]])
-  * **the daughter of Zion** - "Daughter" represents the people of Jerusalem (Zion). See how you translated this in [[:en:bible:notes:isa:01:07|1:8]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **See, his reward is with him, and his recompense is going before him** - These clauses represent the same idea for emphasis. See how you translated a similar phrase in [[:en:bible:notes:isa:40:09|40:10]]. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **you will be called** - This can be stated actively, "they will call you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the daughter of Zion** - See how you translated this in [[:en:bible:notes:isa:01:07|1:8]].
+  * **See, his reward is with him, and his recompense is going before him** - See how you translated a similar phrase in [[:en:bible:notes:isa:40:09|40:10]].
 
 ===== Links: =====
 
@@ -66,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:62]]
 **[[:en:bible:notes:isa:62:10|<<]] | [[:en:bible:notes:isa:63:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

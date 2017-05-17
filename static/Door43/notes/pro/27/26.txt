@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 26 The lambs will give you warm clothing and the goats will give you enough to pay for the cost of the field.
+\v 26 The lambs will give you warm clothing and the goats will give you enough to pay for the cost of the field. 
 \q1
 \v 27 There will be milk from the goats that you can drink—that will be food for everyone who lives in your house—
 \q2 and it is food to feed your servant girls, as well.
@@ -23,7 +23,7 @@
 
 <usfm>
 \q
-\v 26 Those lambs will provide your clothing
+\v 26 The lambs will provide your clothing
 \q and the goats will provide the price of the field.
 \q
 \v 27 There will be goats' milk for your food—the food for your household—
@@ -39,13 +39,9 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Verses 26 and 27 go together with verses 23 to 25 as one proverb.
-
-  * **The lambs will provide your clothing** - The implied information is that the wool (hair) from the lambs can be used to make clothing. AT: "The lambs' wool will provide you with clothing" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the goats will provide the price of the field** - The implied information is that the money received by selling the goats will be enough to buy a field. AT: "selling your goats will provide the price of the field" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **for your household** - "for your whole family"
-  * **and nourishment for your servant girls** - The implied information is that there will also be enough goats' milk to feed the servant girls. AT: "and there will be goat's milk to nourish your servant girls" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **nourishment** - "food"
+  * **The lambs will provide your clothing** - AT: "The lambs' skin and wool will provide you with clothing"
+  * **the goats will provide the price of the field** - AT: "selling your goats will provide the price of the field"
+  * **and nourishment for your servant girls** - AT: "there will be goat's milk to nourish your servant girls" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -53,6 +49,6 @@
   * [[:en:bible:questions:comprehension:pro:27]]
 **[[:en:bible:notes:pro:27:23|<<]] | [[:en:bible:notes:pro:28:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -26,7 +26,7 @@
 <usfm>
 \c 17
 \p
-\v 1 Yahweh spoke to Moses, saying,
+\v 1 Yahweh spoke to Moses, saying, 
 \v 2 "Speak to Aaron and to his sons, and to all the people of Israel. Tell them what Yahweh has commanded:
 \v 3 'Any man from Israel who kills an ox, lamb, or goat in the camp, or who kills it outside the camp, in order to sacrifice it—
 \v 4 if he does not bring it to the entrance of the tent of meeting to offer it as a sacrifice to Yahweh before his tabernacle, that man is guilty of bloodshed. He has shed blood, and that man must be cut off from among his people.
@@ -71,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass lamb}}
+{{tag>publish p2check lamb}}
 
 ~~NOCACHE~~

@@ -22,13 +22,13 @@
 
 <usfm>
 \v 25 Omri did what was evil in the sight of Yahweh and acted more wickedly than all who had been before him.
-\v 26 For he walked in all the ways of Jeroboam son of Nebat and in his sins by which he led Israel to sin, to provoke Yahweh, the God of Israel, to be angry with their worthless idols.
+\v 26 For he walked in all the way of Jeroboam son of Nebat and in his sins by which he led Israel to sin, to provoke Yahweh, the God of Israel, to be angry with their worthless idols.
 </usfm>
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:evil]]
   * [[:en:obe:kt:yahweh]]
+  * [[:en:obe:kt:evil]]
   * [[:en:obe:kt:walk]]
   * [[:en:obe:other:jeroboam]]
   * [[:en:obe:kt:god]]
@@ -38,16 +38,10 @@
 
 ===== translationNotes: =====
 
-  * **what was evil in the sight of Yahweh** - The sight of Yahweh represents Yahweh's judgment. AT: "what was evil in Yahweh's judgment" or "what Yahweh considers to be evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **walked in all the ways of Jeroboam son of Nebat** - Walking represents behaving. AT: "did all the same things that Jeroboam son of Nebat did" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **in his sins by which he led Israel to sin** - Possible meanings are that "his" and "he" refer to 1) Baasha or 2) Jeroboam.
-  * **in his sins** - Possible meanings are walking in his sins represents 1) sinning as Jeroboam sinned. AT: "he sinned as Jeroboam sinned" or 2) or sinning habitually. AT: "he sinned habitually" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **by which he led Israel to sin** - Leading people to sin represents influencing them to sin. AT: "his sins, by which he influenced Israel to sin" or "and by sinning like this, he influenced people to sin.
-  * **to provoke Yahweh ... to be angry with their worthless idols** - God became angry with the people because they worshiped idols. See how you translated a similar phrase in [[:en:bible:notes:1ki:16:11|16:13]]. AT: "to make Yahweh, the God of Israel, angry because they worshiped worthless idols" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **their worthless idols** - The word "worthless" here reminds people that idols are worthless because they cannot do anything. AT: "their idols, which are worthless" or "their idols, which are useless" (See: [[:en:ta:vol2:translate:figs_distinguish]])
-  * **the God of Israel** - Here the word "Israel" refers to all of the twelve tribes descended from Jacob.
-
-
+  * **what was evil in the sight of Yahweh** - "what Yahweh considered to be evil" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **walked in all the way of Jeroboam son of Nebat** - "did all the same things that Jeroboam son of Nebat had done" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to provoke Yahweh ... to be angry with their worthless idols** - See how you translated this phrase in [[:en:bible:notes:1ki:16:11|16:13]].
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -55,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:16]]
 **[[:en:bible:notes:1ki:16:23|<<]] | [[:en:bible:notes:1ki:16:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

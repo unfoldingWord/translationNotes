@@ -19,6 +19,7 @@
 <usfm>
 \v 6 Yahweh lifts up those who have been oppressed,
 \q2 and he throws the wicked down to the ground.
+\b
 \q1
 \v 7 Thank Yahweh while you are singing to him to praise him;
 \q2 on the harps, play music to our God.
@@ -59,6 +60,6 @@
   * [[:en:bible:questions:comprehension:psa:147]]
 **[[:en:bible:notes:psa:147:004|<<]] | [[:en:bible:notes:psa:147:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

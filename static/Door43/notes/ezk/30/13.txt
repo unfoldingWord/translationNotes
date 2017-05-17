@@ -20,7 +20,7 @@
 
 <usfm>
 \v 13 This is also what I, Yahweh the Lord, say:
-\q1 I will cause the enemy to destroy the idols
+\q1 I will cause the enemy to destroy the idols 
 \q2 in the city of Memphis.
 \q1 No longer will there be a king in Egypt,
 \q2 and I will terrify everyone in the land of Egypt.
@@ -54,15 +54,14 @@
 
 ===== translationNotes: =====
 
-  * **The Lord Yahweh says this** - The word "this" refers to what follows. See how you translated this in [[:en:bible:notes:ezk:05:05|5:5]].
-  * **I will bring an end to the worthless idols** - "I will destroy the worthless idols" 
+  * **The Lord Yahweh says this** - See how you translated this in [[:en:bible:notes:ezk:05:05|5:5]].
+  * **bring an end to the worthless idols** - "destroy the useless idols"
   * **Memphis** - Memphis was a very important city in Egypt. It was near modern-day Cairo. (See: [[:en:ta:vol1:translate:translate_names]])
   * **a prince in the land of Egypt** - "an important ruler in the land of Egypt"
-  * **I will put terror on the land of Egypt** - Here "put terror on the land" represents causing the people of the land to be very afraid. AT: "I will make the people of Egypt very afraid" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will put terror on the land of Egypt** - "I will make the people of Egypt very afraid"
   * **Pathros** - This was a region in southern Egypt. 
   * **set fire in Zoan** - "I will burn Zoan with fire"
   * **Zoan** - Zoan was another important city in Egypt.
-  * **I will execute acts of judgment on Thebes** - The phrase "acts of judgment" refers to punishment. AT: "I will punish Thebes" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **Thebes** - This was the capital city of southern Egypt.
 ===== Links: =====
 
@@ -72,6 +71,6 @@
 
 **[[:en:bible:notes:ezk:30:12|<<]] | [[:en:bible:notes:ezk:30:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -17,7 +17,7 @@
 
 <usfm>
 \v 24 But God is very pleased with Jael,
-\q2 (the wife of Heber the Kenite).
+\q2 (the wife of Heber the Kenite). 
 \q2 He is more pleased with her than with all the other women who live in tents.
 \q1
 \v 25 Sisera asked for some water,
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:jdg:05]]
 **[[:en:bible:notes:jdg:05:23|<<]] | [[:en:bible:notes:jdg:05:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -24,6 +24,7 @@
 \v 11 Between the walls of the city you will build a reservoir to store water from the old pool.
 \q1 But you will never request help from the one who made the city;
 \q2 you have never depended on Yahweh, who planned this city long ago.
+\b
 
 
 \q1
@@ -36,7 +37,7 @@
 \q1
 \v 10 You counted the houses of Jerusalem, and you tore down the houses to strengthen the wall.
 \q1
-\v 11 You made a reservoir between the two walls for the water of the old pool.
+\v 11 You made a reservoir between the two walls for the water of the old pool. 
 \q1 But you did not consider the city's maker, who had planned it long ago.
 </usfm>
 
@@ -48,12 +49,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe a time in the future when an army will attack the people of Jerusalem. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **General Information:** - Isaiah continues to describe a time in the future when an army will attack the people of Jerusalem. (See: [[:en:bible:notes:isa:22:05|22:5]].
 
-  * **You counted the houses** - Here "counted" means they inspected the houses to find material to help them rebuild the city wall.
   * **You made a reservoir** - "You made a storage place"
-  * **between the two walls** - It is unclear what two walls Isaiah meant. The main point is that they built the reservoir within the city walls.
-  * **the city's maker** - This refers to Yahweh.
 
 ===== Links: =====
 
@@ -68,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

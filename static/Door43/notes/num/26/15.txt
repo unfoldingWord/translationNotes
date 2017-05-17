@@ -20,7 +20,8 @@
 \li the Erites descended from his son Eri,
 \li the Arodites descended from his son Arod,
 \li the Arelites descended from his son Areli.
-\pi The Israelite leaders counted 40,500 men from the tribe of Gad.
+\pi The Israelite leaders counted 40,500 men from the tribe of Gad. 
+
 
 \pi
 </usfm>
@@ -32,14 +33,14 @@
 \p
 \v 15 The clans of Gad's descendants were these:
 \q1
-By Zephon, the clan of the Zephonites,
-\q1 by Haggi, the clan of the Haggites,
+By Zephon, the clan of the Zephonites, 
+\q1 by Haggi, the clan of the Haggites, 
 \q1 by Shuni, the clan of the Shunites,
 \q1
-\v 16 by Ozni, the clan of the Oznites,
+\v 16 by Ozni, the clan of the Oznites, 
 \q1 by Eri, the clan of the Erites,
 \q1
-\v 17 by Arod, the clan of the Arodites,
+\v 17 by Arod, the clan of the Arodites, 
 \q1 by Areli, the clan of the Arelites.
 \v 18 These were the clans of Gad's descendants, who numbered 40,500 men.
 </usfm>
@@ -61,6 +62,6 @@ By Zephon, the clan of the Zephonites,
   * [[:en:bible:questions:comprehension:num:26]]
 **[[:en:bible:notes:num:26:12|<<]] | [[:en:bible:notes:num:26:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

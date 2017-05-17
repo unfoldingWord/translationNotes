@@ -26,7 +26,7 @@
 \v 6 Our enemies have disappeared;
 \q2 you destroyed their cities,
 \q2 and people do not even remember them anymore.
-
+\b
 
 
 \q1
@@ -37,11 +37,11 @@
 
 <usfm>
 \q
-\v 5 You rebuked the nations;
+\v 5 You rebuked the nations; 
 \q you have destroyed the wicked;
 \q you have blotted out their name forever and ever.
 \q
-\v 6 The enemy crumbled like ruins
+\v 6 The enemy crumbled like ruins 
 \q when you overthrew their cities.
 \q All remembrance of them has perished.
 </usfm>
@@ -59,11 +59,11 @@
 
 ===== translationNotes: =====
 
-  * **you have blotted out their name forever and ever** - Causing people to be forgotten is spoken of as blotting out their name.  AT: "you have caused them to be forgotten as if their name was blotted out" or "no one will ever remember them again" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you have blotted out their name forever** - Causing people to be forgotten is spoken of as blotting out their name.  AT: "you have caused them to be forgotten as if their name was blotted out" or "no one will ever remember them again" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **blotted out** - "erased"
   * **The enemy crumbled like ruins** - The enemy is spoken of as if it were a city full of broken down buildings. AT: "Our enemies were destroyed" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **when you overthrew their cities** - "when you destroyed their cities"
-  * **All remembrance of them has perished** - Remembrance is spoken of as if it were a living being that could die. AT: "All remembrance of them has stopped" or "There is no longer any remembrance of them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **All remembrance of them has perished** - Remembrance is spoken of as if it were a living being that could die. AT: "All remembrance of them has stopped" or "There is no longer any remembrance of them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **All remembrance of them has perished** - Remembrance can be expressed with the verb "remember." AT: "No one remembers them at all" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
@@ -79,6 +79,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book1}}
+{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

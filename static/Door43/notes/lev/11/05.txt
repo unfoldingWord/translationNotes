@@ -25,9 +25,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 5 Also the rock badger, because it chews the cud but does not have a split hoof, it is also unclean for you.
-\v 6 The rabbit, because it chews the cud, but does not have a split hoof, is unclean for you.
-\v 7 The pig, although it has a split hoof, does not chew the cud, is unclean for you.
+\v 5 Also the rock badger: because it chews the cud but does not have a split hoof, it is also unclean for you.
+\v 6 And the rabbit: because it chews the cud but does not have a split hoof, it is unclean for you.
+\v 7 And the pig: although it has a split hoof, it does not chew the cud, so it is unclean for you.
 \v 8 You must not eat any of their meat, nor touch their carcasses. They are unclean for you.
 </usfm>
 
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:lev:11]]
 **[[:en:bible:notes:lev:11:03|<<]] | [[:en:bible:notes:lev:11:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

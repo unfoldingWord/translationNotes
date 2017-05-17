@@ -28,10 +28,11 @@
 \v 2 Show yourself to the people of the tribes of Ephraim and Benjamin and Manasseh!
 \q2 Show us that you are powerful
 \q2 and come and rescue us!
+\b
 \q1
 \v 3 God, cause our nation to be strong like it was before;
 \q2 act kindly toward us so that we may be saved from our enemies!
-
+\b
 
 
 \q1
@@ -41,8 +42,9 @@
 
 <usfm>
 \c 80
-\m
+\p
 \d For the chief musician, set to the Shoshannim Eduth style. A psalm of Asaph.
+\b
 \q
 \v 1 Pay attention, Shepherd of Israel,
 \q you who lead Joseph like a flock;
@@ -53,6 +55,7 @@
 \q
 \v 3 God, restore us;
 \q make your face shine on us, and we will be saved.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -77,7 +80,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **For the chief musician** - "This is for the director of music to use in worship" See how this is translated in [[:en:bible:notes:psa:004:001|4:1]].
   * **set to the Shoshannim** - This may refer to a style of music. See how you translated this in [[:en:bible:notes:psa:045:001|45:1]].
@@ -97,6 +100,6 @@
   * [[:en:bible:questions:comprehension:psa:080]]
 **[[:en:bible:notes:psa:079:012|<<]] | [[:en:bible:notes:psa:080:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3 power restore save}}
+~~DISCUSSION~~{{tag>publish p2check book3 power restore save}}
 
 ~~NOCACHE~~

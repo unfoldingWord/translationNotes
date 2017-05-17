@@ -22,7 +22,7 @@
 \p
 \v 31 You must make a curtain of blue, purple, and scarlet wool, and of fine linen, with designs of cherubim, the work of a skillful workman.
 \v 32 You must hang it on four pillars of acacia wood covered with gold. These pillars must have hooks of gold set on four silver bases.
-\v 33 You must hang up the curtain under the clasps, and you must bring in the ark of the testimony. The curtain is to separate the holy place from the most holy place.
+\v 33 You must hang up the curtain under the clasps, and you must bring in the ark of the covenant decrees. The curtain is to separate the holy place from the most holy place.
 </usfm>
 
 ===== translationWords: =====
@@ -40,11 +40,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to tell Moses how the tabernacle is to be constructed.
+  * **General Information:** - Yahweh continues to tell Moses what the people must do.
 
   * **You must make** - Yahweh is speaking to Moses, so the word "you" is singular. Yahweh probably expected Moses to tell someone else to do the actual work, but Moses would be the one responsible for seeing that the work was done correctly. "Tell a craftsman to make." See how you translated this in [[:en:bible:notes:exo:26:01|26:1]]. (See: [[:en:ta:vol1:translate:figs_you]])
   * **clasps** - The clasps fit into the loops to hold the curtains together. See how you translated these in [[:en:bible:notes:exo:26:04|26:4-6]].
-  * **you must bring in the ark of the testimony** - The ark of the testimony is the chest that contains the commandments. This can be stated clearly in the translation. AT: "you must bring in the chest containing the commandments" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **you must bring in the ark of the covenant decrees** - The ark of the covenant is the chest that contains the commandments. This can be stated clearly in the translation. AT: "you must bring in the chest containing the commandments" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
   * **The curtain is to separate the holy place** - This can be stated in active form. AT: "The curtain will separate the holy place" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
 ===== Links: =====
 
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:exo:26]]
 **[[:en:bible:notes:exo:26:29|<<]] | [[:en:bible:notes:exo:26:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass holyplace}}
+~~DISCUSSION~~{{tag>publish p2check holyplace}}
 
 ~~NOCACHE~~

@@ -16,6 +16,7 @@
 
 <usfm>
 \v 19 The gatekeepers who settled in Jerusalem were Akkub and Talmon. Altogether, there were 172 of them and their relatives who settled in Jerusalem.
+\b
 \p
 \v 20 The other Israelite people including descendants of Levi and priests lived on their own property in other towns and cities in Judea.
 \p
@@ -30,7 +31,7 @@
 <usfm>
 \p
 \v 19 The gatekeepers: Akkub, Talmon, and their associates, who kept watch at the gates, 172 men.
-\v 20 The remainder of Israel and of the priests and the Levites were in all the towns of Judah. Everyone lived on his own inherited property.
+\v 20 And the remainder of Israel and of the priests and the Levites were in all the towns of Judah. Everyone lived on his own inherited property.
 \v 21 The temple workers lived in Ophel, and Ziha and Gishpa were in charge of them.
 </usfm>
 
@@ -46,8 +47,11 @@
   * [[:en:obe:kt:temple]]
 ===== translationNotes: =====
 
-  * **gatekeepers** - people assigned to each gate, responsible to control access to the city or temple, as well as to open and close the gates at times and for reasons set by the administrator. Translate as in [[:en:bible:notes:neh:07:01|7:1]].
-  * **Akkub ... Talmon ... Ziha ... Gishpa** - These are the names of men. (See [[:en:ta:vol1:translate:translate_names]])
+  * **gatekeepers** - See how you translated this in [[:en:bible:notes:neh:07:01|7:1]]
+  * **Akkub ... Talmon ... Ziha ... Gishpa** - These are male names. (See [[:en:ta:vol1:translate:translate_names]])
+  * **their associates** - "their brothers"
+  * **172 men** - See how you translated numbers in [[:en:bible:notes:neh:07:11|07:11-14]].
+  * **The temple workers lived in Ophel, and Ziha and Gishpa were in charge of them** - "The temple workers lived in Ophel. Ziha and Gishpa were over the temple workers."
   * **Ophel** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
@@ -57,6 +61,6 @@
   * [[:en:bible:questions:comprehension:neh:11]]
 **[[:en:bible:notes:neh:11:17|<<]] | [[:en:bible:notes:neh:11:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

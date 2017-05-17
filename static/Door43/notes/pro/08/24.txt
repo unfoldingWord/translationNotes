@@ -30,9 +30,9 @@
 <usfm>
 \q
 \v 24 Before there were oceans, I was given birth—
-\q before there were springs abounding with water.
+\q before there were springs abounding with water,
 \q
-\v 25 Before the mountains were settled
+\v 25 before the mountains were settled
 \q and before the hills, I was born.
 </usfm>
 
@@ -45,7 +45,7 @@
 
   * **General Information:** - Wisdom continues to speak. (See: [[:en:ta:vol2:translate:figs_personification]])
 
-  * **Before the mountains were settled** - "Before the bases of the mountains were put into place." This can also be put into active form. AT: "Before God made the foundations of the mountains and put them into their proper places" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **before the mountains were settled** - "before the mountains were formed"
 
  
 ===== Links: =====
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:pro:08]]
 **[[:en:bible:notes:pro:08:22|<<]] | [[:en:bible:notes:pro:08:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

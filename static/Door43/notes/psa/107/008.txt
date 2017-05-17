@@ -23,6 +23,7 @@
 \q1
 \v 9 He gives thirsty people plenty of water to drink,
 \q2 and he gives hungry people plenty of good things to eat.
+\b
 \q1
 \v 10 Some of them were in very dark prisons;
 \q2 they were prisoners, suffering because of chains fastened to their hands and feet.
@@ -40,6 +41,7 @@
 \q
 \v 9 For he satisfies the longings of those who are thirsty,
 \q and the desires of those who are hungry he fills up with good things.
+\b
 \q
 \v 10 Some sat in darkness and in gloom,
 \q prisoners in affliction and chains.
@@ -71,6 +73,6 @@
   * [[:en:bible:questions:comprehension:psa:107]]
 **[[:en:bible:notes:psa:107:004|<<]] | [[:en:bible:notes:psa:107:011|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

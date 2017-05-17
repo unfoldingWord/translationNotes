@@ -34,11 +34,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 18 This is what Yahweh says, who created the heavens, the true God
-\q1 who created the earth and made it, who established it.
-\q1 He created it, not as a waste, but designed it to be inhabited:
-\q1 "I am Yahweh, and there is no other.
+\v 18 This is what Yahweh says, who created the heavens, the true God 
+\q1 who created the earth and made it, who established it. 
+\q1 He created it, not as a waste, but designed it to be inhabited: 
+\q1 "I am Yahweh, and I have no peer.
 </usfm>
 
 
@@ -54,10 +55,7 @@
   * [[:en:obe:kt:iyahweh]]
 
 ===== translationNotes: =====
-
-  * **not as a waste** - "not to be empty." Here the word "waste" refers to an empty, barren place. 
   * **but designed it to be inhabited** - This can be stated in active form. AT: "but he designed it so people could live on it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -71,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

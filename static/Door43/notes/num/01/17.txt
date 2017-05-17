@@ -16,6 +16,7 @@
 \v 17 Aaron and Moses summoned all these leaders,
 \v 18 and they gathered all of the people on that same day. They listed the names of all the men who were at least 20 years old, and with their names they wrote the names of their clans and their family groups
 \v 19 just as Moses had commanded. They wrote the names while the Israelites were there in the wilderness of Sinai.
+\b
 
 
 \li1
@@ -24,8 +25,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 Moses and Aaron took these men, who were recorded by name,
-\v 18 and along with these men they assembled all the men of Israel on the first day of the second month. Then each man twenty years old and older identified his ancestry. He had to name the clans and families descended from his ancestors.
+\v 17 Moses and Aaron took these men, who were recorded by name, 
+\v 18 and along with these men they assembled all the men of Israel on the first day of the second month. Then each man twenty years old and older identified his ancestry. He had to name the clans and families descended from his ancestors. 
 \v 19 Then Moses recorded their numbers in the wilderness of Sinai, as Yahweh had commanded him to do.
 </usfm>
 
@@ -45,9 +46,9 @@
 
   * **took these men** - "gathered these men together"
   * **who were recorded by name** - This can be stated in active form. AT: "whose names they had recorded" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the first day of the second month** - "the 1st day of the 2nd month." This is the second month of the Hebrew calendar. The first day is near the middle of April on Western calendars. See how you translated this in [[:en:bible:notes:num:01:01|1:1]]. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the first day of the second month** - "the 1st day of the 2nd month." This is the second month of the Hebrew calendar. The first day is near the middle of April on Western calendars. See how you translated this in [[:en:bible:notes:num:01:01|1:1]]. (See: [[:en:ta:vol2:translate:translate_hebrewmonths|Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]])
   * **Then each man ... identified his ancestry. He had to name the clans and families descended from his ancestors** - The second sentence means basically the same thing as the first and is added for clarification. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **He had to name** - Here "name" means to "say." AT: "Each man had to say" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **He had to name** - Here word "name" means to "say." AT: "Each man had to say" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -56,6 +57,6 @@
   * [[:en:bible:questions:comprehension:num:01]]
 **[[:en:bible:notes:num:01:16|<<]] | [[:en:bible:notes:num:01:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass command sinai}}
+~~DISCUSSION~~{{tag>publish p2check command sinai}}
 
 ~~NOCACHE~~

@@ -23,6 +23,7 @@
 \q1 Tyre is like a woman who is saying,
 \q2 "Now it is as though I have not given birth to any children,
 \q2 or raised any sons or daughters."
+\b
 \q1
 \v 5 When the people of Egypt hear what has happened to Tyre,
 \q2 they will grieve very much.
@@ -34,9 +35,9 @@
 
 <usfm>
 \v 4 Be ashamed, Sidon; for the sea has spoken, the mighty one of the sea. He says,
-\q1 "I have not labored nor given birth,
+\q1 "I have not labored nor given birth, 
 \q1 nor have I raised young men nor brought up young women."
-\q1
+\q1 
 \v 5 When the report comes to Egypt, they will be grieved concerning Tyre.
 </usfm>
 
@@ -53,7 +54,7 @@
 
 ===== translationNotes: =====
 
-  * **for the sea has spoken, the mighty one of the sea ... nor brought up young women** - Possible meanings are 1) Yahweh describes the city of Tyre as a mother who speaks about the people who live in the city as her children, or 2) Yahweh is describing the Mediterranean Sea as speaking. The people of Tyre considered the sea their god and father. In either meaning the speaker mourns because its children are destroyed. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **for the sea has spoken, the mighty one of the sea** - Possible meanings are 1) Yahweh describes the city of Tyre as a mother who speaks about the people who live in the city as her children, or 2) Yahweh is describing the Mediterranean Sea as speaking. The sea is considered the father of the people who live in the coastal city of Tyre. In either meaning the speaker mourns because its children are destroyed. (See: [[:en:ta:vol2:translate:figs_personification]])
 
 ===== Links: =====
 
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:23]]
 **[[:en:bible:notes:isa:23:01|<<]] | [[:en:bible:notes:isa:23:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

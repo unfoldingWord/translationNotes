@@ -22,7 +22,7 @@
 <usfm>
 \p
 \v 8 This is the word that came to Jeremiah from Yahweh after King Zedekiah had made a covenant with all the people in Jerusalem, to proclaim freedom to them—
-\v 9 that each man must free his Hebrew slaves, both male and female. No one was to make a slave of a Jew, who was his brother.
+\v 9 that each man must free his Hebrew servants, both male and female. No one is to make a slave of a Jew, who is his brother.
 </usfm>
 
 
@@ -34,10 +34,9 @@
  
 ===== translationNotes: =====
 
-  * **This is the word that came to Jeremiah from Yahweh** - After this phrase, the reader will expect to see the content of the message from Yahweh. However, the actual message does not begin until [[:en:bible:notes:jer:34:12|39:12]]. For this reason, the translator may choose to follow the example of the UDB by moving the phrase from here to verse 12, either combining all verses into 8-12 or explaining the change in a note.
+  * **This is the word that came to Jeremiah from Yahweh** - After this phrase, the reader will of course expct to see the content of the message from Yahweh. However, the actual message does not begin until [[:en:bible:notes:jer:34:12|39:12]]. For this reason, the translator may choose to omit this phrase here, and to follow the example of the UDB.
   * **word** - "message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **after King Zedekiah had made a covenant ... his brother** - These words all provide background information to events that will be described later. (See: [[:en:ta:vol2:translate:writing_background]])
-
+  * **No one should enslave a fellow Israelite in Judah any longer** - AT: "No one should enslave another member of the nation of Israel anymore"
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -45,6 +44,6 @@
   * [[:en:bible:questions:comprehension:jer:34]]
 **[[:en:bible:notes:jer:34:06|<<]] | [[:en:bible:notes:jer:34:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

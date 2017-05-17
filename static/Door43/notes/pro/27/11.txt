@@ -18,9 +18,11 @@
 <usfm>
 \v 11 My son, if you become wise, you will make me happy;
 \q2 so I will be able to give an answer to anyone who argues against me.
+\b
 \q1
 \v 12 One who has good sense takes cover when he sees trouble coming,
-\q2 but those who have no experience or knowledge rush ahead into danger.
+\q2 but those who have no experience or knowledge rush ahead into danger. 
+
 
 \q1
 </usfm>
@@ -33,7 +35,7 @@
 \q then I will give back an answer to the one who mocks me.
 \q
 \v 12 A prudent man sees trouble and hides himself,
-\q but the naive people go on and suffer because of it.
+\q but inexperienced people push ahead and suffer because of it.
 </usfm>
 
 ===== translationWords: =====
@@ -43,13 +45,10 @@
   * [[:en:obe:other:rejoice]]
   * [[:en:obe:other:prudent]]
 ===== translationNotes: =====
-
-  * **make my heart rejoice** - Here the "heart" represents the person's feelings or emotions. AT: "make me feel joyful" or "make me glad" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **then I will give back an answer to the one who mocks me** - Here "answer" does not mean to answer a question. It means to respond or to reply to someone who is mocking. How this relates to the clause before it can be made clear. AT "then I will reply to the one who mocks me by telling him about you" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **A prudent man sees trouble and hides himself, but the naive people go on and suffer because of it** - Translate this as you did a similar phrase in [[:en:bible:notes:pro:22:03|22:3]].
-  * **A prudent man** - "A man who is wise" or "A man who has good sense" 
-  * **the naive people** - "the inexperienced and immature people"
+  * **prudent** - See how you translated this word in 22:3.
+  * **push ahead** - "pass through" AT: "keep going"
  
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -57,6 +56,6 @@
   * [[:en:bible:questions:comprehension:pro:27]]
 **[[:en:bible:notes:pro:27:09|<<]] | [[:en:bible:notes:pro:27:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass prudent}}
+~~DISCUSSION~~{{tag>publish p2edit prudent}}
 
 ~~NOCACHE~~

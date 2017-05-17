@@ -11,14 +11,14 @@
 
 <usfm>
 \v 30 Then they will know that I, Yahweh their God, am helping them, and they will know that they, the Israelite people, are my people.
-\v 31 It is as though you, my people, are my sheep whom I take care of, and I am your God. That is what I, Yahweh the Lord, declare.'"
+\v 31 It will be as though you, my people, are my sheep whom I will take care of, and I will be your God. That is what I, Yahweh the Lord, declare.'"
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
 \v 30 Then they will know that I, Yahweh their God, am with them. They are my people, the house of Israel—this is the Lord Yahweh's declaration.
-\v 31 For you are my sheep, the flock of my pasture, and my people, and I am your God—this is the Lord Yahweh's declaration.'"
+\v 31 For you are my sheep, the flock of my pasture, and my people! I will be your God—this is the Lord Yahweh's declaration.'"
 </usfm>
 
 ===== translationWords: =====
@@ -31,11 +31,10 @@
 
 ===== translationNotes: =====
 
-  * **I, Yahweh their God, am with them** - Here "I ... am with them" is an idiom that means Yahweh helps them. AT: "I, Yahweh their God, am helping them" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **with them. They are my people** - This can be stated as once sentence. AT: "with them, and that they are my people"
-  * **the house of Israel** - Here "house" represents people. AT: "the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **For you are my sheep, the flock of my pasture** - This speaks of the people of Israel as if they were a flock of sheep and Yahweh is their shepherd. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **I, Yahweh their God, am with them** - AT: "I, Yahweh their God, am helping them" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **They are my people** - AT: "and that they are my people"
+  * **this is the Lord Yahweh's declaration** - See how you translated this in [[:en:bible:notes:ezk:05:11|5:11]].
+  * **I will be your God** - AT: "I am your God"
 
 ===== Links: =====
 
@@ -44,6 +43,6 @@
   * [[:en:bible:questions:comprehension:ezk:34]]
 **[[:en:bible:notes:ezk:34:28|<<]] | [[:en:bible:notes:ezk:35:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

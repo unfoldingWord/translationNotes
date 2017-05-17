@@ -22,9 +22,11 @@
 \v 10 If your axe is not sharp,
 \q2 you will need to work harder to cut down a tree,
 \q1 but by using wisdom, you will succeed.
+\b
 \q1
 \v 11 If a snake bites someone before the snake is charmed,
 \q2 then that person's ability to charm snakes will not benefit him.
+\b
 
 
 \q1
@@ -34,13 +36,13 @@
 ===== ULB: =====
 
 <usfm>
-\q1
-\v 10 If an iron blade is dull,
-and a man does not sharpen it,
-then he must use more strength,
+\q1 
+\v 10 If an iron blade is dull, 
+and a man does not sharpen it, 
+then he must use more strength, 
 but wisdom provides an advantage for success.
-\q1
-\v 11 If a snake bites before it is charmed,
+\q1 
+\v 11 If a snake bites before it is charmed, 
 \q2 then there is no advantage for the charmer.
 </usfm>
 

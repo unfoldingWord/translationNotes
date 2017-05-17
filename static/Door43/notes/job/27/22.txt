@@ -42,12 +42,10 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - In verses 22-23 Job speaks of the wind as if it were a person attacking the wicked person. (See: [[:en:ta:vol2:translate:figs_personification]])
-
-  * **It throws itself at him** - Here "throws itself at him" represents the wind blowing strong against him like an attacker. AT: "It blows strong against him like someone attacking him" (See: [[:en:ta:vol2:translate:figs_personification]]
-  * **he tries to flee out of its hand** - Here "hand" represents the power or control that the wind has over the wicked man. AT: "he tries to flee out of its control" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **It claps its hands at him in mockery** - Clapping the hands is a way of mocking someone. Here it represents the wind making loud noises. AT: "It makes loud noises like someone clapping his hands to mock him" (See: [[:en:ta:vol2:translate:translate_symaction]] and [[:en:ta:vol2:translate:figs_personification]])
-  * **it hisses him out of his place** - The wind makes a noise as it blows him out of his place. It sounds like the hissing sound that people make to mock someone. AT: "it makes a hissing noise as it causes him to leave his home" or "it blows him out of his place and makes a hissing noise like someone who hisses at him to mock him" (See: [[:en:ta:vol2:translate:translate_symaction]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **It throws ... It claps ... it hisses** - In these verse the wind is described as if it were a person attacking someone. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **at him ... he tries ... his place** - The words "him," "he," and "his" refer to the wicked man who is being attacked by the wind.
+  * **out of its hand** - Here the wind is described as having hands that control someone. AT: "out of its control" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **it hisses him out of his place** - AT: "it hisses at him, causing him to leave his home"
  
 ===== Links: =====
 
@@ -56,6 +54,6 @@
   * [[:en:bible:questions:comprehension:job:27]]
 **[[:en:bible:notes:job:27:20|<<]] | [[:en:bible:notes:job:28:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 The Israelites started to rebuild the temple in the spring of the second year after they returned to Jerusalem. Zerubbabel and Jeshua, together with all the people who had returned to Jerusalem,
+\v 8 The Israelites started to rebuild the temple in the spring of the second year after they returned to Jerusalem. Zerubbabel and Jeshua, together with all the people who had returned to Jerusalem, 
 worked on the building. All the Levites supervised this work.
-\v 9 Jeshua, his sons, and his other relatives, and Kadmiel and his sons, who were descendants of Judah, also helped to supervise the work. The people who were descendants of Henadad, who were also all
+\v 9 Jeshua, his sons, and his other relatives, and Kadmiel and his sons, who were descendants of Judah, also helped to supervise the work. The people who were descendants of Henadad, who were also all 
 Levites, joined with them in supervising this work.
 
 
@@ -28,9 +28,10 @@ Levites, joined with them in supervising this work.
 <usfm>
 \p
 \v 8 Then in the second month of the second year after they came to the house of God in Jerusalem, Zerubbabel, Jeshua son of Jozadak, the rest of the priests, the Levites, and those who came from captivity back to Jerusalem began the work. They assigned the Levites twenty years old and older to oversee the work of Yahweh's house.
-\v 9 Jeshua set his sons and his brothers, Kadmiel and his sons, and the descendants of Judah to oversee the people doing the work on the house of God. Along with them were the descendants of
+\v 9 Jeshua set his sons and his brothers, Kadmiel and his sons, and the descendants of Judah to oversee the people doing the work on the house of God. Along with them were the descendants of 
 Henadad, their descendants, and also their fellow Levites.
 </usfm>
+
 
 ===== translationWords: =====
 
@@ -43,15 +44,14 @@ Henadad, their descendants, and also their fellow Levites.
   * [[:en:obe:other:captive]]
   * [[:en:obe:other:descendant]]
   * [[:en:obe:other:judah]]
-
 ===== translationNotes: =====
 
   * **second month** - This is the second month of the Hebrew calendar. This is during the warm season when people are harvesting crops. It is during the last part of April and the first part of May on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **the second year** - This is during the year after the one in which they returned. (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **to the house of God** - You may need to make explicit that there was no house of God standing when they arrived. AT: "to where the house of God had stood" or "to where they were going to build the house of God" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Jeshua ... Jozadak ... Henadad** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Jeshua ... Jozadak** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **twenty years old** - "20 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **Kadmiel** - This is a man's name. Translate as in [[:en:bible:notes:ezr:02:40|2:40]].
+  * **Kadmiel** - See how you translated this in [[:en:bible:notes:ezr:02:40|2:40]].
+  * **Henadad** - A man's name. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -60,6 +60,6 @@ Henadad, their descendants, and also their fellow Levites.
   * [[:en:bible:questions:comprehension:ezr:03]]
 **[[:en:bible:notes:ezr:03:06|<<]] | [[:en:bible:notes:ezr:03:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass zerubbabel}}
+~~DISCUSSION~~{{tag>publish p2edit zerubbabel}}
 
 ~~NOCACHE~~

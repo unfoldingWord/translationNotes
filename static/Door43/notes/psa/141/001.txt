@@ -24,7 +24,7 @@
 \v 2 Accept my prayer as though it were incense being burned as an offering to you.
 \q2 Accept me while I lift up my hands to pray to you,
 \q2 just as you accept sacrifices that are offered to you in the evening.
-
+\b
 
 
 \q1
@@ -34,8 +34,9 @@
 
 <usfm>
 \c 141
-\m
+\p
 \d A psalm of David.
+\p
 \q
 \v 1 Yahweh, I am crying out to you; come quickly to me.
 \q Listen to me when I call to you.
@@ -56,7 +57,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms. See how you translated this in [[:en:bible:notes:psa:003:001|3:1]].
   * **crying out** - "asking you for help"
@@ -74,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:141]]
 **[[:en:bible:notes:psa:140:012|<<]] | [[:en:bible:notes:psa:141:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

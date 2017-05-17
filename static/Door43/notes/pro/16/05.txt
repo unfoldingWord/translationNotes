@@ -18,11 +18,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 Yahweh hates those whose pride comes from deep within them.
-\q2 But you can be sure of this: they will still be punished for their pride.
+\v 5 Yahweh hates those whose pride comes from deep within them;
+\q2 and even there are many of them together, they will still be punished for their pride. 
+\b
 \q1
-\v 6 Love and faithfulness will cover over sin and forgive sin.
-\q2 When people give Yahweh the respect he deserves,
+\v 6 Love and faithfulness will cover over sin and forgive sin. 
+\q2 When people give Yahweh the respect he deserves, 
 \q2 they will be able to turn away from doing what is evil.
 
 
@@ -35,7 +36,7 @@
 <usfm>
 \q
 \v 5 Yahweh hates everyone who has an arrogant heart,
-\q but be sure of this, they will not go unpunished.
+\q though they stand hand in hand, they will not go unpunished.
 \q
 \v 6 By covenant faithfulness and trustworthiness iniquity is atoned for
 \q and by the fear of Yahweh people turn away from evil.
@@ -53,13 +54,11 @@
   * [[:en:obe:kt:atonement]]
   * [[:en:obe:kt:fear]] 
   * [[:en:obe:kt:evil]]
-
 ===== translationNotes: =====
 
-  * **everyone who has an arrogant heart** - Here the word "heart" represents the person. AT: "everyone who is arrogant" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **they will not go unpunished** - The two negatives in this phrase strongly emphasize the positive. This can be stated in active form. AT: "Yahweh will certainly punish them" (See: [[:en:ta:vol2:translate:figs_litotes]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **By covenant faithfulness and trustworthiness iniquity is atoned for** - This can be stated in active form. AT: "Yahweh atones for iniquity by covenant faithfulness and trustworthiness" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **people turn away from evil** - The writer speaks of people no longer doing evil things as if they were turning away from evil. AT: "people stop doing evil things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **though they stand hand in hand** - This is an idiom meaning "It is certain" or "Be sure of this" as when people shake hands to confirm an agreement or stand together in unity. See how you translated "Be sure of this" in [[:en:bible:notes:pro:11:21|11:21]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **they will not go unpunished** - "they will certainly be punished" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **atoned for** - "paid for"
 
 ===== Links: =====
 
@@ -74,6 +73,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass arrogant}}
+{{tag>publish p2edit arrogant}}
 
 ~~NOCACHE~~

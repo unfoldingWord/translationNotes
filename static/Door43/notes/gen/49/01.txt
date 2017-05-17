@@ -31,7 +31,7 @@ I am your father, Jacob.
 <usfm>
 \c 49
 \p
-\v 1 Then Jacob called for his sons, and said:
+\v 1 Then Jacob called for his sons, and said: 
 \q "Gather yourselves together, that I may tell you what will happen to you in
 the future.
 \q
@@ -45,11 +45,11 @@ the future.
   * [[:en:obe:kt:assembly]] 
 
 ===== translationNotes: =====
-
-  * **General Information:** - This begins Jacob's final blessings to his sons. This continues through [[:en:bible:notes:gen:49:27|49:27]]. Jacob's blessings are written in poetic form. (See: [[:en:ta:vol2:translate:writing_poetry]])
+  * **General Information:** - This begins Jacob's final blessings to his sons. This continues through 49:7. Jacob's blessings are written in poetic form. (See: [[:en:ta:vol2:translate:writing_poetry]])
 
   * **Assemble yourselves and listen, you sons of Jacob. Listen to Israel, your father** - Both sentences say the same thing for emphasis. AT: "Come and listen carefully to your father" (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **you sons of Jacob. Listen to Israel, your father** - Jacob is referring to himself in the third person. It can be stated in the first person. AT: "my sons. Listen to me, your father" (See: [[:en:ta:vol2:translate:figs_123person]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -63,6 +63,6 @@ the future.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit }}
 
 ~~NOCACHE~~

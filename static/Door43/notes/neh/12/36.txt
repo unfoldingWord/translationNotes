@@ -24,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 36 There also were Zechariah's relatives, Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, Hanani, with the musical instruments of David the man of God. Ezra the scribe was in front of them.
-\v 37 By the Fountain Gate they went straight up on the stairs of the city of David, by the stairway to the wall above David's palace, to the Water Gate on the east.
+\v 36 There also were Zechariah's relatives, Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, Hanani, with the instruments of the music of David the man of God. Ezra the scribe was in front of them.
+\v 37 By the Fountain Gate they went straight up by the stairs of the city of David on the ascent of the wall, above David's palace, to the Water Gate on the east.
 </usfm>
 
 
@@ -45,8 +45,14 @@
 
   * **There also were** - "Along with them were"
   * **Zechariah ... Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, Hanani ... David ... Ezra** - These are the names of males. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Hanani** - This male may not be a relative of Zechariah.
+  * **with the instruments of the music of David** - "with the musical instruments of David"
   * **Ezra the scribe was in front of them** - "Ezra the scribe was leading them"
+  * **By the Fountain Gate they went straight up** - "And by the Fountain Gate and opposite them, they went up"
   * **Fountain Gate ... Water Gate** - These are the names of openings in the wall.
+  * **they went straight up by the stairs of the city of David on the ascent of the wall, above David's palace, to the Water Gate on the east** - "they went up to the heights of the city of David by means of the stair to the wall above the house of David and up to the Water Gate in the east"
+  * **on the ascent of the wall** - "by the ascent to the wall"
+
  
 ===== Links: =====
 
@@ -61,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

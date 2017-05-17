@@ -41,15 +41,15 @@
 
 ===== translationNotes: =====
 
-  * **In those days** - This phrase introduces the beginning of another event in the storyline. (See: [[:en:ta:vol2:translate:writing_newevent]])
   * **In those days ... from among the tribes of Israel** - This is background information about Israel and the people of the tribe of Dan. (See: [[:en:ta:vol2:translate:writing_background]])
-  * **not received any inheritance from** - This refers specifically to land inherited where they would live. AT: "not received a land inheritance from" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **In those days** - This phrase introduces the beginning of another event in the storyline. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **not received any inheritance from** - This refers specifically to land inherited where they would live. AT: "not received a land inheritance" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **from the whole number of their tribe** - The phrase "the whole number" refers to all of the men in the tribe. AT: "from among all of the men in their tribe" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **experienced warriors** - "experienced fighters"
-  * **Zorah** - Translate the name of this town the same as you did in [[:en:bible:notes:jdg:13:01|13:2]].
-  * **Eshtaol** - Translate the name of this town the same as you did in  [[:en:bible:notes:jdg:13:24|13:25]].
   * **to scout the land on foot** - The phrase "on foot" means to walk. AT: "to scout the land by walking through it" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Micah** - Translate this man's name the same as you did in [[:en:bible:notes:jdg:17:01|17:1]].
+  * **Zorah** - Translate the name of this town the saw as you did in [[:en:bible:notes:jdg:13:01|13:2]].
+  * **Eshtaol** - Translate the name of this town the saw as you did in  [[:en:bible:notes:jdg:13:24|13:25]].
+  * **Micah** - Translate this man's name the say as you did in [[:en:bible:notes:jdg:17:01|17:1]].
 ===== Links: =====
 
   * [[:en:bible:notes:jdg:00:intro]]
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:jdg:18]]
 **[[:en:bible:notes:jdg:17:12|<<]] | [[:en:bible:notes:jdg:18:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

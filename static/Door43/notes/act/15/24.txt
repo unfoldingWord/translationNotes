@@ -19,9 +19,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 24 We have heard that certain men have gone out from us, with no orders from us, and have disturbed you with teachings that upset your souls.
-\v 25 This being so, all of us have agreed to choose men and to send them to you along with our beloved Barnabas and Paul,
-\v 26 men who have risked their lives for the name of our Lord Jesus Christ.
+\v 24 We have heard that certain men to whom we gave no such commandment, went out from us and have troubled you with teachings that make trouble for your souls.
+\v 25 So it seemed good to all of us to agree to choose men and send them to you with our beloved Barnabas and Paul,
+\v 26 people who have risked their lives for the name of our Lord Jesus Christ.
 </usfm>
 
 ===== translationWords: =====
@@ -41,8 +41,9 @@
   * **General Information:** - Here the word "our" refers to the believers in the church in Jerusalem as well as all believers, including the Gentile believers to whom they were writing. (See: [[:en:ta:vol2:translate:figs_inclusive]])
 
   * **that certain men** - "that some men"
-  * **with no orders from us** - "even though we gave no orders for them to go" 
-  * **disturbed you with teachings that upset your souls** - Here "souls" refers to the people. AT: "have taught things that have troubled you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **men to whom we gave no such commandment** - "men that we did not give those commands"
+  * **have troubled you with teachings that make trouble for your souls** - Here "souls" refers to the people. AT: "have taught things that have troubled you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **So it seemed good to all of us to agree** - "So we all agreed"
   * **to choose men** - The men they sent were Judas called Barsabbas and Silas. (See: [[:en:bible:notes:act:15:22|15:22]])
   * **for the name of our Lord Jesus Christ** - Here "name" refers to the whole person. AT: "because they believe in our Lord Jesus Christ" or "because they serve our Lord Jesus Christ" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 

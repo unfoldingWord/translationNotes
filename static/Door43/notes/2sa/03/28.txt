@@ -26,7 +26,7 @@
 
 <usfm>
 \v 28 When David heard about this he said, "I and my kingdom are innocent before Yahweh forever regarding the blood of Abner son of Ner.
-\v 29 Let the guilt of Abner's death fall on the head of Joab and on all his father's house. May there never fail to be in the family of Joab someone who has a flowing sore or skin disease or who is lame and must walk with a staff or who is killed by the sword or who goes without food."
+\v 29 Let the guilt of Abner's death fall on the head of Joab and on all his father's house. May there never fail to be in the family of Joab someone who has a flowing sore or skin disease or who is lame and must walk with a staff or who is killed by the sword or who goes without food." 
 \v 30 So Joab and Abishai his brother killed Abner, because he had killed their brother Asahel at Gibeon in battle.
 </usfm>
 
@@ -50,13 +50,8 @@
 
 ===== translationNotes: =====
 
-  * **Ner ... Abishai ... Asahel** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the blood of Abner** - Here "blood" refers to the death of Abner. See how you translated a similar phrase in [[:en:bible:notes:2sa:03:27|3:27]]. AT: "the death of Abner" or "the murder of Abner" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **fall on the head of Joab and on all his father's house** - This phrase means the results of the guilt will happen to Joab and his family as if something heavy had collapsed on them. AT: "always cause suffering for Joab and for all his father's house" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **all his father's house** - Here "house" refers to descendants. AT: "all the descendants of Joab's father" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **May there never fail to be** - This double negative emphasizes that there will always be someone with the problems listed. AT: "May there always be" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **is killed by the sword** - Here "sword" refers to violent death. AT: "dies violently" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **goes without food** - "is hungry"
+  * **Ner ... Abishai ... Asahel** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **on the head of Joab and on all his father's house** - Here the phrase "head of Joab" means "Joab is responsible." The phrase "all his father's house" refers to all the descendants of Joab's father. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -64,6 +59,6 @@
   * [[:en:bible:questions:comprehension:2sa:03]]
 **[[:en:bible:notes:2sa:03:27|<<]] | [[:en:bible:notes:2sa:03:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass forever}}
+~~DISCUSSION~~{{tag>publish p2edit forever}}
 
 ~~NOCACHE~~

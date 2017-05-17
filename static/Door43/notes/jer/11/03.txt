@@ -29,7 +29,7 @@
 
 <usfm>
 \v 3 Say to them, 'Yahweh, God of Israel says this: Cursed is anyone who does not listen to the words of this covenant.
-\v 4 This is the covenant that I commanded your ancestors to keep the day I brought them out from the land of Egypt, from the furnace for smelting iron. I said, "Listen to my voice and do all of these things
+\v 4 This is the covenant that I commanded your ancestors to keep the day I brought them out from the land of Egypt, from the furnace for smelting iron. I said, "Listen to my voice and do all of these things 
 just as I have commanded you, for you will be my people and I will be your God."
 \v 5 Obey me so that I may confirm the oath that I swore to your ancestors, the oath that I would give them the land flowing with milk and honey, where you live today.'" Then I, Jeremiah, answered and said, "Yes, Yahweh!"
 </usfm>
@@ -53,12 +53,10 @@ just as I have commanded you, for you will be my people and I will be your God."
 
 ===== translationNotes: =====
 
-  * **Cursed is anyone** - This can be stated in active form. AT: "I will curse anyone" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **from the land of Egypt, from the furnace for smelting iron** - This speaks of the horrible circumstances and oppression the Israelites were living in in Egypt by comparing them to a smelting furnace. AT: "of Egypt. What happened to them in Egypt was terrible; it was as though they were living in a hot furnace" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **smelting** - heating iron to liquid form
-  * **Listen to my voice** - Here what Yahweh says is represented by his "voice." AT: "Listen to what I say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the land flowing with milk and honey** - "the land where milk and honey flow." God spoke of the land being good for animals and plants as if the milk and honey from those animals and plants were flowing through the land. AT: "the land that is excellent for raising livestock and growing crops" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **the land flowing with milk and honey** - This means that the land will be rich and productive, so there will be enough food for everyone. AT: "the land that is excellent for cattle and farming" (See: [[:en:ta:vol1:translate:figs_idiom]])
+ 
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -72,6 +70,6 @@ just as I have commanded you, for you will be my people and I will be your God."
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

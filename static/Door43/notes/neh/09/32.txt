@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 32 Our God, you are great! You are mighty! You are awesome! You faithfully love us as you promised in your covenant with us that you fulfill! But now we are having great difficulties in all these things. Do not let our hardships become unimportant to you! They have come on our kings, on our princes, and on our priests, and on our prophets, and on our ancestors, and on all your people, from the days of the kings of Assyria until today.
-\v 33 We know that you acted justly each time you punished us. You have treated us faithfully, but we have done evil things.
-\v 34 Our kings and the leaders they appointed and our priests and our other ancestors did not obey your laws. They did not heed your commands or the warnings that you gave them.
+\v 32 Our God, you are great! You are mighty! You are awesome! You faithfully love us as you promised in your covenant with us that you fulfill! But now we are have great difficulties all these things. Do not let our hardships become unimportant to you! This has come on our kings, on our princes, and on our priests, and on our prophets, and on our ancestors, and on all your people, from the days of the kings of Assyria until today.
+\v 33 We know that you acted justly each time you punished us. We have sinned greatly, but you have treated us faithfully and we have acted wickedly.
+\v 34 Our kings and other leaders and our priests and our other ancestors did not obey your laws. They did not heed your commands or the warnings that you gave them.
 </usfm>
 
 
@@ -23,8 +23,8 @@
 
 <usfm>
 \p
-\v 32 Now therefore, our God—you great, mighty, and  awesome God who keep your covenant and steadfast love—do not let all this hardship seem little to you that has come on us, on our kings, on our princes, and on our priests, and on our prophets, and on our ancestors, and on all your people from the days of the kings of Assyria until today.
-\v 33 You are just in everything that has come on us, for you have dealt faithfully, but we have acted wickedly.
+\v 32 Now therefore, our God, the great, the mighty, and the awesome God, who keeps his covenant and steadfast love, do not let all this hardship seem little to you that has come on us, on our kings, on our princes, and on our priests, and on our prophets, and on our ancestors, and on all your people from the days of the kings of Assyria until today.
+\v 33 You are just in everything that has come on us, for you have dealt faithfully, and we have acted wickedly. 
 \v 34 Our kings, our princes, our priests, and our ancestors have not kept your law, nor paid attention to your commandments or your covenant decrees by which you warned them.
 </usfm>
 
@@ -48,10 +48,12 @@
   * [[:en:obe:other:command]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel. 
+  * **General Information:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel. 
 
-  * **do not let all this hardship seem little to you that has come on us ... until today** - It is possible to divide this into two sentences. "Do not let all this hardship seem little to you. The hardship has come upon us ... until today"
-  * **hardship ... has come on us ... everything that has come on us** - The phrase "come on us" speaks of bad things that happen as if they are people who cause harm. AT: "harm ... we have suffered ... everything we have suffered" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Now therefore, our God, the great, the mighty, and the awesome God, who keeps his covenant and steadfast love** - "Now, therefore, our God, you are great, mighty, and awesome, and you keep your covenant and steadfast love." 
+  * **do not let all this hardship seem little to you that has come on us ... until today** - It is possible to divide this into two sentences. "Do not let all this hardship seem little to you. The hardship has come upon us ... until today."
+  * **You are just in everything that has come on us** - "You are just in sending us hardships"
+  * **and we have acted wickedly** - "but we have acted wickedly"
  
 ===== Links: =====
 
@@ -63,6 +65,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2pass admonish love}}
+{{tag>publish p2edit admonish love}}
 
 ~~NOCACHE~~

@@ -72,15 +72,15 @@
 
 ===== translationNotes: =====
 
-  * **you defiled my land, you made my inheritance an abomination!** - These two phrases mean the same thing. AT: "you sinned and made the land I gave you disgusting to me!" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **you defiled my land** - Here "defiled" represents making the land unacceptable to God. They did this by sinning against him there when they worshiped idols. AT: "by sinning, you made my land no good" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **you made my inheritance an abomination** - "you made my inheritance disgusting by your sin" or "by sinning, you made my inheritance repulsive"
-  * **my inheritance** - Possible meanings are 1) God is speaking of his land as if he had inherited it. AT: "my land" or 2) God is speaking of the land he gave to Israel as if he had given it to them as an inheritance. AT: "the land I gave you" or "the land I gave you as an inheritance" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Where is Yahweh?** - This question would have shown that they wanted to obey Yahweh. AT: "We need to obey Yahweh!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **did not care about me** - "were not committed to me" or "rejected me"
-  * **The shepherds transgressed against me** - The leaders are spoken of as if they were shepherds and the people who followed them were sheep. AT: "Their leaders sinned against me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **walked after unprofitable things** - Here "walked after" represents obeying or worshiping. AT: "obeyed unprofitable things" or "worshiped unprofitable things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **unprofitable things** - Unprofitable things are things that cannot help a person. Here it refers to idols.
+  * **Yet when you came, you defiled my land, you made my inheritance an abomination!** - AT: "There you sinned and made the land I gave you filthy!" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **The priest did not say, 'Where is Yahweh?' and the experts in the law did not care about me!** - AT: The priests and other religious leaders did not want to know me." (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Where is Yahweh?** - "We need to obey Yahweh!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **The shepherds transgressed against me** - "Their leaders sinned against me" 
+  * **shepherds** - "leaders"
+  * **and walked after unprofitable things.** - AT: and prayed to gods that could not help them"
+  * **walked after** - "obeyed" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -88,6 +88,6 @@
   * [[:en:bible:questions:comprehension:jer:02]]
 **[[:en:bible:notes:jer:02:04|<<]] | [[:en:bible:notes:jer:02:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check inherit baal unprofitable}}
+~~DISCUSSION~~{{tag>publish p2edit inherit baal unprofitable}}
 
 ~~NOCACHE~~

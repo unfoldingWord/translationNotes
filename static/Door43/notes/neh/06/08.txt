@@ -25,7 +25,7 @@
 
 <usfm>
 \p
-\v 8 Then I sent word to him saying, "No such things have occurred as you say, for within your heart you invented them."
+\v 8 Then I sent word to him saying, "No such things have occurred as you say, for within your heart you invented them." 
 \v 9 For they all wanted to make us afraid, thinking, "They will drop their hands from doing the work, and it will not be done." But now, God, please strengthen my hands.
 </usfm>
 
@@ -40,11 +40,11 @@
 ===== translationNotes: =====
 
   * **Then I sent word to him** - Here "I" refers to Nehemiah and "him" to Sanballat.
-  * **No such things have occurred as you say** - "None of the things you have written have occurred"
-  * **for within your heart you invented them** - Here the "heart" refers to the "mind," that is, to one's desires and thoughts. AT: "for within your mind you invented them" or "for you have made this up in your own imagination" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **For they all wanted to make us afraid** - Here "they" refers to Nehemiah's enemies, Sanballat, Tobiah, Geshem, and their followers. The word "us" refers to the Jews. 
-  * **They will drop their hands from doing the work** - This is a descriptive phrase that means that they are stopping their work on the wall. AT: "The workers on the wall will stop doing the work" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **strengthen my hands** - Here Nehemiah requests for God to strengthen him by asking him to strengthen his "hands." AT: "strengthen me" or "give me courage" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **No such things have occurred as you say** - "None of the things you say have occurred"
+  * **for within your heart you invented them** - "you fabricated all of them yourself"
+  * **For they all wanted to make us afraid** - Here "they" refers to Nehemiah's enemies, Sanballat, Tobiah, Geshem, and their followers. The word "us" refers to the people of God.
+  * **They will drop their hands from doing the work, and it will not be done** - "Out of fear, the workers on the wall will stop their work"
+  * **But now, God, please strengthen my hands** - AT "Now I was even more determined to do the work."
 
 ===== Links: =====
 
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:neh:06]]
 **[[:en:bible:notes:neh:06:07|<<]] | [[:en:bible:notes:neh:06:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

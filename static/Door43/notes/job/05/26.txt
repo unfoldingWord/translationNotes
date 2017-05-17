@@ -16,6 +16,7 @@
 <usfm>
 \v 26 You will become very old before you die,
 \q2 like sheaves of grain continue to grow until it is time to harvest and thresh them.
+\b
 \q1
 \v 27 My friends and I have thought carefully about these things, and we know that they are true,
 \q2 so pay attention to what I have said!"
@@ -26,7 +27,7 @@
 <usfm>
 \q
 \v 26 You will come to your grave at a full age,
-\q like a stack of grain sheaves that goes up at its time.
+\q like a stack of grain sheaves that is carried up to the threshing floor.
 \q
 \v 27 See, we have examined this matter; it is like this;
 \q listen to it, and know it for yourself."
@@ -43,7 +44,7 @@
 ===== translationNotes: =====
 
   * **You will come to your grave at a full age** - "You will die at a very old age"
-  * **like a stack of grain sheaves that goes up at its time** - "like a stack of grain sheaves that is carried up to the threshing floor"
+  * **like a stack of grain sheaves that is carried up to the threshing floor** - Eliphaz is using simile to make his point that Job will die when it is time for him to die. AT: "Just as grain is harvested at the appointed time, so shall you die when it is your appointed time." (See: [[:en:ta:vol1:translate:figs_simile]])
   * **See, we have examined this matter; it is like this; listen to it, and know it for yourself** - "We" refers to Job's friends, including Eliphaz, who is speaking. AT: "Look, we have thought about this matter. Listen to what I am saying and know that it is true." (See: [[:en:ta:vol2:translate:figs_inclusive]])
 ===== Links: =====
 
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:job:05]]
 **[[:en:bible:notes:job:05:23|<<]] | [[:en:bible:notes:job:06:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass age}}
+~~DISCUSSION~~{{tag>publish p2edit age}}
 
 ~~NOCACHE~~

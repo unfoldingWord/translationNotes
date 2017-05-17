@@ -33,23 +33,15 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:gilead]]
-  * [[:en:obe:kt:judge]]
+  * [[:en:obe:other:judgeposition]]
   * [[:en:obe:other:israel]]
-  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:donkey]]
 
 ===== translationNotes: =====
 
-  * **He was followed by Jair the Gileadite** - This can be stated in active form. AT: "Jair the Gileadite was leader after Tola" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Jair** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
   * **the Gileadite** - Jair was from the tribe of Gilead.
-  * **He judged Israel** - Here "judged" means he led the people of Israel.
-  * **Israel** - Here "Israel" represents the people of Israel. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **twenty-two years** - "22 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **thirty** - "30" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **Havvoth Jair** - This is the name of a region, which is named after a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **to this day** - This means to the time when the book of Judges was being written.
-  * **was buried** - This can be stated in active form. AT: "they buried him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Kamon** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
@@ -59,6 +51,6 @@
   * [[:en:bible:questions:comprehension:jdg:10]]
 **[[:en:bible:notes:jdg:10:01|<<]] | [[:en:bible:notes:jdg:10:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,13 +20,15 @@
 
 <usfm>
 \p
-\v 20 At that time the Lord will shave with a razor that was hired beyond the Euphrates River—the king of Assyria—
-\q1 the head and the hair of the legs; it will also sweep away the beard.
-\q1
+\v 20 At that time the Lord will shave with a razor that was hired beyond the Euphrates River—
+the king of Assyria—
+\q1 he will shave your head, the hair on your legs; and he will also shave off your beard.
+\q1 
 \v 21 On that day, a man will keep alive a young cow and two sheep,
 \q1
-\v 22 and because of the abundance of milk which they shall give, he will eat curds,
-\q1 for everyone left in the land  will eat curds and honey.
+\v 22 and because of the abundance of milk which they shall give, he will eat curds, 
+\q1 for everyone left in the land 
+ will eat curds and honey.
 </usfm>
 
 ===== translationWords: =====
@@ -42,14 +44,8 @@
 
   * **General Information:** - Isaiah continues to describe the time when the army of Assyria will attack Israel.
 
-  * **the Lord will shave with a razor that was hired beyond the Euphrates River—the king of Assyria** - The word "razor" is a metaphor for the king of Assyria and his army, and Yahweh speaks of the king as if the king were a man who would do Yahweh's work and then receive money from Yahweh. AT: "the Lord will call the king of Assyria from beyond the Euphrates River to work for him to shave you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **that was hired** - This can be stated in active form. AT: "that he bought" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the head ... the hair of the legs ... also ... the beard** - It was bad to have someone shave the top of the head; it was worse to have someone shave "the hair of the legs"; it was worst of all to have someone shave the beard. 
-  * **the head ... the hair of the legs ... the beard** - Isaiah does not say whose head, hair, and beard the Lord is going to shave, but Ahaz and the reader would understand that this is a man; the man is a metaphor for the people living in the land of Judah (see UDB). (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the head** - "the hair on the head" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the hair of the legs** - Possible meanings are 1) this is a polite way to speak of the hair on the lower body or 2) this speaks of the hair on the legs. (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **it will also sweep** - "the razor will also sweep." If your language requires a person to be the subject of "will ... sweep," you can say, "the Lord will also sweep."
-  * **because of the abundance of milk which they shall give** - The abstract noun "abundance" can be translated as a clause. AT: "because they will give so much milk" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the Lord will shave with a razor that was hired beyond the Euphrates River—the king of Assyria** - He uses razor as a metaphor to speak of shaming the king." AT: "the Lord will use the king of Assyria from beyond the Euphrates River like a razor to shave you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he will shave** - "Yahweh will shave"
 
 ===== Links: =====
 
@@ -58,6 +54,6 @@
   * [[:en:bible:questions:comprehension:isa:07]]
 **[[:en:bible:notes:isa:07:18|<<]] | [[:en:bible:notes:isa:07:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example euphrates}}
+~~DISCUSSION~~{{tag>publish p2edit euphrates}}
 
 ~~NOCACHE~~

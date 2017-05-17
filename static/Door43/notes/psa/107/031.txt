@@ -20,7 +20,7 @@
 \q1
 \v 32 They should praise him among the Israelite people when they have gathered together,
 \q2 and they should praise him in front of the leaders of the country.
-
+\b
 
 
 \q1
@@ -34,7 +34,8 @@
 \q and for the amazing things he has done for humanity!
 \q
 \v 32 Let them exalt him in the assembly of the people
-\q and praise him in the council of the elders.
+\q and praise him in the council of the elders. 
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:psa:107]]
 **[[:en:bible:notes:psa:107:028|<<]] | [[:en:bible:notes:psa:107:033|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

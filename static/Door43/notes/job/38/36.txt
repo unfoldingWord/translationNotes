@@ -26,6 +26,7 @@
 \q1
 \v 38 so that the dry ground becomes hard
 \q2 as the dry clods become wet and stick together?
+\b
 
 
 \q1
@@ -44,6 +45,7 @@
 \q
 \v 38 when the dust runs into a hard mass
 \q and the clods of earth clump tightly together?
+\b
 </usfm>
 
 
@@ -54,17 +56,14 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues to challenge Job.
-  * **General Information:** - Yahweh uses three questions to emphasize to Job that he rules the clouds and rain and Job does not. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **General Information:** - Yahweh continues to challenge Job.
 
-  * **Who has put wisdom ... tightly together?** - These questions can be translated as statements. AT: "Tell me who has put wisdom in the clouds and given understanding to the mists. Tell me who can number the clouds by his skill. Tell me who can pour out the water skins of the sky when the dust runs into a hard mass and the clods of earth clump tightly together." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Who has put wisdom in the clouds or has given understanding to the mists** - These two lines mean similar things. Yahweh describes the clouds and mists as though they were people to whom he gives wisdom and understanding so that they know what to do. The abstract nouns "wisdom" and "understanding" can be translated as the adjective "wise" and the verb "understand." AT: "Who has made the clouds wise or the mists understand" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **has put wisdom in the clouds** - "has given wisdom to the clouds" 
-  * **Who can number the clouds by his skill** - "Who is able to count the clouds"
-  * **the water skins** - These are skins that people sewed together so that they could hold water. Yahweh refers to the thick clouds as "waters skins" because they hold much water just like water skins. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **when the dust runs into a hard mass and the clods of earth clump tightly together** - These two lines mean similar things. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **when the dust runs into a hard mass** - The rain makes the loose dry dirt stick together like one piece of dirt. This can be stated in active form. AT: "when the rain molds the dirt into a hard mass" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the clods of earth clump tightly together** - "the lumps of soil stick together"
+  * **Who has put wisdom ... tightly together** - Yahweh uses these question to emphasize that he has control of the clouds and that Job does not. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **has put wisdom in the clouds** - "has given wisdom to the clouds." Yahweh describes the clouds as though they were people and gives them wisdom so that they know what to do. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **Who can number the clouds by his skill** - This phrase means: "Who can wisely control how many thin clouds are in the sky." (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **the water skins** - skins that people sewed together so that they could hold water. Yahweh refers to the thick clouds as "waters skin" because they hold a lot of water just like water skins. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **when the dust runs into a hard mass** - "when the rain molds the dirt together into one piece." The rain makes the loose dry dirt stick together like one piece of dirt. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the clods of earth clump tightly together** - "the chunks of dirt stick together"
  
 ===== Links: =====
 
@@ -79,6 +78,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

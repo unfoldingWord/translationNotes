@@ -30,7 +30,7 @@
 \q1
 \v 19 Whenever I am very worried,
 \q2 you comfort me and cause me to be happy.
-
+\b
 
 
 \q1
@@ -59,9 +59,8 @@
 
 ===== translationNotes: =====
 
-  * **Unless Yahweh had been my help ... silence** - This is a hypothetical situation. Yahweh did help him, so he was not lying in the place of silence. ([[:en:ta:vol1:translate:figs_hypo]])
-  * **Unless Yahweh had been my help** - The abstract noun "help" can be expressed as a verb. AT: "If Yahweh had not helped me." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])  
-  * **I would soon be lying down in the place of silence** - Here "would be lying down" refers to "death" and "in the place of silence" refers to the grave." AT: "in a short time, I would be dead, lying in a silent grave" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **Unless Yahweh had been my help** - The abstract noun "help" can be translated with the verb "help." "If Yahweh had not helped me." Yahweh did help him, so he was not lying in the place of silence. (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_hypo]])
+  * **I would soon be lying down in the place of silence** - "in a short time, I would be dead, lying in a silent grave"
   * **When cares within me are many, your consolations make me happy** - The psalmist speaks of care as if he could count separate cares. The abstract noun "consolations" can be translated with the verb "console" or "comfort." AT: "When I have been worried about many things, you have comforted me and made me happy" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
@@ -75,6 +74,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book4}}
+{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

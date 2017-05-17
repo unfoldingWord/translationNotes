@@ -26,10 +26,11 @@
 \v 2 As the hills that surround Jerusalem protect it,
 \q2 so Yahweh protects us, his people,
 \q2 and he will protect us forever.
+\b
 \q1
 \v 3 Wicked people should not be allowed to rule over the land where righteous people live.
 \q2 If they did that, those righteous people would think of doing wrong themselves.
-
+\b
 
 
 \q1
@@ -39,8 +40,9 @@
 
 <usfm>
 \c 125
-\m
+\p
 \d A song of ascents.
+\b
 \q
 \v 1 Those who trust in Yahweh
 \q are like Mount Zion, unshakable, forever enduring.
@@ -69,7 +71,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **song of ascents** - Possible meanings are 1) "song people sang while going up to Jerusalem for a celebration" or 2) "song people sang while going up the steps into the temple" or 3) "song whose words are like steps." See how you translated this in [[:en:bible:notes:psa:120:001|120:1]]
   * **Those who trust in Yahweh are like Mount Zion, unshakable, forever enduring** - People who trust in Yahweh are spoken of as if they they were Mount Zion. Mountains are unable to be moved.  (See: [[:en:ta:vol1:translate:figs_simile]])
@@ -83,6 +85,6 @@
   * [[:en:bible:questions:comprehension:psa:125]]
 **[[:en:bible:notes:psa:124:008|<<]] | [[:en:bible:notes:psa:125:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

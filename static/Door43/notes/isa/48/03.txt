@@ -32,7 +32,7 @@
 \q2 Long before they occurred, I announced that they would occur,
 \q1 in order that when they happened you could not say
 \q2 'Our idols did it;
-\q2 our statue carved out of wood or our idol made of metal caused them to happen.'
+\q2 our statue made of wood or our idol made of metal caused them to happen.'
 
 
 \q1
@@ -43,14 +43,14 @@
 
 <usfm>
 \q1
-\v 3 "I have declared the things from long ago; they came out from my mouth, and I made them known;
+\v 3 "I have declared the things from long ago; they came out from my mouth, and I made them known; 
 \q1 then suddenly I did them, and they came to pass.
 \q1
-\v 4 Because I knew that you were obstinate,
+\v 4 Because I knew that you were obstinate, 
 \q1 your neck muscles tight as iron, and your forehead like bronze,
 \q1
-\v 5 therefore I declared these things to you beforehand; before they happened I informed you,
-\q1 so you could not say, 'My idol has done them,' or 'My carved figure and my cast metal figure has ordained these things.'
+\v 5 therefore I declared these things to you beforehand; before they happened I informed you, 
+\q1 so you could not say, 'My idol has done them,' or 'my carved figure, or my cast metal figure has ordained these things.'
 </usfm>
 
 
@@ -68,8 +68,8 @@
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
   * **they came out from my mouth** - "Mouth" refers to someone speaking. AT: "I spoke these things" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **your neck muscles tight as iron, and your forehead like bronze** - Yahweh compares the tightness of their neck muscles and the hardness of their foreheads to the hardness of iron and bronze. Here, to have a tight neck or a hard forehead is a metaphor that means the people are stubborn. AT: "it is as if your necks were iron and your heads were bronze" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I declared these things to you beforehand; before they happened I informed you** - This is saying the same thing twice for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **your neck muscles tight as iron, and your forehead like bronze** - These two phrases repeat the idea of the previous phrase and mean that the people were very stubborn. AT: "you have stiff necks and hard heads" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **I declared these things to you beforehand; before they happened I informed you** - This is also saying the same thing twice for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
  
 ===== Links: =====
 
@@ -84,6 +84,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

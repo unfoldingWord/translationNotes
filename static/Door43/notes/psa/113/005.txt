@@ -18,7 +18,7 @@
 \q2 who lives in the highest heaven
 \q2
 \v 6 and looks far down through the heavens and sees the people on the earth.
-
+\b
 
 
 \q1
@@ -45,7 +45,7 @@
 
 ===== translationNotes: =====
 
-  * **Who is like Yahweh our God ... at the earth?** - The writer asks this question to emphasize that there is no one like Yahweh. This rhetorical question may be translated as a statement. AT: "There is no one like Yahweh our God ... at the earth." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who is like Yahweh our God ... at the earth?** - The writer asks this rhetorical question to emphasize that there is no one like Yahweh. AT: "There is no one like Yahweh our God ... at the earth." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **who has his seat on high** - "who is enthroned on high" or "who rules in the highest position" 
 
 ===== Links: =====
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:psa:113]]
 **[[:en:bible:notes:psa:113:003|<<]] | [[:en:bible:notes:psa:113:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

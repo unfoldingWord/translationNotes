@@ -28,7 +28,7 @@
 \p
 \v 9 Then they said each other, "We are not doing right. This day is a day of good news, but we are keeping quiet about it. If we wait until daybreak, punishment will overtake us. Now then, come, let us go and tell the king's household."
 \v 10 So they went and called the gatekeepers of the city. They told them, saying, "We went to the camp of the Arameans, but there was no one there, not the sound of anyone, but there were the horses tied, and the donkeys tied, and the tents as they were."
-\v 11 Then the gatekeepers shouted out the news, and then it was told inside the king's household.
+\v 11 And the gatekeepers shouted out the news, and then it was told inside the king's household.
 </usfm>
 
 ===== translationWords: =====
@@ -37,14 +37,12 @@
   * [[:en:obe:other:king]]
   * [[:en:obe:other:household]]
   * [[:en:obe:other:aram]]
-
 ===== translationNotes: =====
 
-  * **until daybreak** - "until morning" 
-  * **punishment will overtake us** - Someone punishing the four men is spoken of as if punishment were a person who captures them. AT: "the people will punish us" or "someone will punish us" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
-  * **tell the king's household** - Here the word "household" represents the people who live in the king's palace. AT: "tell the king and his people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **as they were** - The implicit information may be supplied in translation. AT: "as they were when the soldiers were still there" [[:en:ta:vol1:translate:figs_explicit]])
-  * **then it was told inside the king's household** - This can be stated in active form. AT: "then people told it inside the king's household" or "then people told it to the king and those in his palace" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **If we wait until daybreak** - "If we wait until tomorrow morning," 
+  * **punishment will overtake us** - AT: "something bad will happen to us." (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **tell the king's household** - AT: "tell the king and his people" (See: [[:en:ta:vol2:translate:figs_synecdoche]]
+  * **as they were** - AT: "as they were when the soldiers were still there" [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -53,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2ki:07]]
 **[[:en:bible:notes:2ki:07:07|<<]] | [[:en:bible:notes:2ki:07:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

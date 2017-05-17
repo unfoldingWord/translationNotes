@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 16 But then an old man was coming from his work in the field that evening. He was from the hill country of Ephraim, and he was staying for a while in Gibeah. But the men living in that place were Benjamites.
+\v 16 But then an old man was coming from his work in the field that evening. He was from the hill country of Ephraim, and he was staying for a while in Gibeah. But the men living in that place were Benjaminites.
 \v 17 He raised his eyes and saw the traveler in the city square. The old man said, "Where are you going?
 Where are you coming from?"
 </usfm>
@@ -35,9 +35,9 @@ Where are you coming from?"
 
 ===== translationNotes: =====
 
-  * **Benjamites** - A Benjamite was a descendant of Benjamin. Translate the name of these people the same as you did in [[:en:bible:notes:jdg:03:15|3:15]].
-  * **He raised his eyes** - Here the man looked up and paid attention to what was around him. AT: "He looked up" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the city square** - the marketplace where people gathered during the day. Translate this the same as you did in [[:en:bible:notes:jdg:19:14|19:14]].
+  * **Benjamite** - Translate the name of these people the same as you did in [[:en:bible:notes:jdg:03:15|3:15]].
+  * **He raised his eyes** - Here the man looking up and paying attention to what is around him is spoken of as him "raising his eyes." AT: "He looked up" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the city square** - the marketplace where people gathered during the day
 ===== Links: =====
 
   * [[:en:bible:notes:jdg:00:intro]]
@@ -45,6 +45,6 @@ Where are you coming from?"
   * [[:en:bible:questions:comprehension:jdg:19]]
 **[[:en:bible:notes:jdg:19:14|<<]] | [[:en:bible:notes:jdg:19:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

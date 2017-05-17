@@ -28,9 +28,10 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 10 Who among you fears Yahweh? Who obeys the voice of his servant?
-\q1 Who walks in deep darkness without light?
+\v 10 Who among you fears Yahweh? Who obeys the voice of his servant? 
+\q1 Who walks in deep darkness without light? 
 \q1 He should trust in the name of Yahweh and lean on his God.
 </usfm>
 
@@ -52,10 +53,8 @@
 
   * **General Information:** - The servant continues speaking to the people of Israel.
 
-  * **Who among you fears Yahweh? Who obeys the voice of his servant? Who walks in deep darkness without light? He should ... his God.** - The servant uses these questions to identify those to whom he is speaking. AT: "If someone among you fears Yahweh and obeys the voice of his servant, but he walks in deep darkness without light, then he should ... his God." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **obeys the voice of his servant** - Here the word "voice" represents what the servant says. AT: "obeys his servant" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **walks in deep darkness without light** - The servant speaks of people who are suffering and feel helpless as if they were walking in a very dark place. AT: "is suffering and feels helpless" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **trust in the name of Yahweh and lean on his God** - These two phrases mean basically the same thing. Here the word "name" represents Yahweh himself. Trusting in God is spoken of as if it were leaning on him. AT: "trust in Yahweh, his God" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Who among you fears Yahweh? Who obeys the voice of his servant? Who walks in deep darkness without light?** - Here Isaiah lays out responses to the servant in question form, telling God's people to continue to trust and obey Yahweh, even in the darkness. (See UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -63,6 +62,6 @@
   * [[:en:bible:questions:comprehension:isa:50]]
 **[[:en:bible:notes:isa:50:08|<<]] | [[:en:bible:notes:isa:50:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

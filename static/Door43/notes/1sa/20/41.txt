@@ -23,7 +23,7 @@
 
 <usfm>
 \v 41 As soon as the young man was gone, David stood up from behind the mound, lay facedown on the ground, and bowed himself three times. They kissed one another and wept together, with David weeping the more.
-\f + \ft The Hebrew text reads, \fqa David came out from beside the south. \fqb Modern versions interpret this passage in different ways because the Hebrew text is difficult to understand. \f*
+\f + \ft The Hebrew text reads, \fqa David came out from beside the south. \fqb Modern versions interpret this passage in different ways, because the Hebrew text is difficult to understand. \f*
 \v 42 Jonathan said to David, "Go in peace, because we have both sworn in the name of Yahweh and said, 'May Yahweh be between you and me, and between my descendants and your descendants, forever.'" Then David stood up and left, and Jonathan returned to the city.
 </usfm>
 
@@ -43,8 +43,8 @@
 ===== translationNotes: =====
 
   * **the mound** - It seems that David had hidden behind a pile of earth or stones (see UDB).
-  * **lay facedown on the ground, and bowed himself three times.** - David bowed before Jonathan, who was still the King's son, worthy of such respect. Also, this was the last time David met with Jonathan.
-  * **May Yahweh be between you and me** - Possible meanings are 1) "Yahweh is a witness between you and me" or "Yahweh will be watching how we treat each other" or 2) "May Yahweh be a witness between you and me" or "May Yahweh watch how we treat each other." Translate as in in [[:en:bible:notes:1sa:20:22|20:23]].
+  * **lay facedown on the ground, and bowed himself three times.** - David bowed before Jonathan who was still the King's son, worthy of such respect. Also, this was the last time David met with Jonathan.
+  * **between you and me** - See how you translated this in [[:en:bible:notes:1sa:20:22|20:23]].
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:1sa:20]]
 **[[:en:bible:notes:1sa:20:38|<<]] | [[:en:bible:notes:1sa:21:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

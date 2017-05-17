@@ -25,7 +25,7 @@
 \q2 Tell him all your troubles
 \q2 because we go to him for safety.
 
-
+\b
 
 
 \q1
@@ -40,7 +40,7 @@
 \q
 \v 8 Trust in him at all times, you people;
 \q pour out your heart before him;
-\q God is a refuge for us.
+\q God is a refuge for us. 
 \qs Selah\qs*
 </usfm>
 
@@ -67,6 +67,6 @@
 **[[:en:bible:notes:psa:062:005|<<]] | [[:en:bible:notes:psa:062:009|>>]]**
 
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

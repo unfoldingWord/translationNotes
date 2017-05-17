@@ -23,11 +23,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 You people of Babylon who enjoy pleasures and who live in luxury,
+\v 8 You people of Babylon who enjoy pleasure and sleeping with people without restraint,
 \q2 listen to this:
-\q1 You act as through you were gods, saying, "I am special, and there is no one better than I am,"
-\q1 None of our women will never become widows,
-\q2 and none of our children will never be killed in wars.'
+\q1 You enjoy a luxurious life and you feel secure.
+\q1 You say, 'We are like gods,
+\q2 and there are no others like us.
+\q1 Our women will never become widows,
+\q2 and our children will never be killed in wars.'
 \q1
 \v 9 But both of those things will happen to you suddenly:
 \q2 many of your women will become widows
@@ -42,14 +44,15 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 8 So now hear this, you who love pleasure and sit securely;
+\v 8 So now hear this, you who loves pleasure and sits securely, 
 \q1 you who say in your heart, "I exist, and there is no one else like me;
 \q1 I will never sit as a widow, nor will I ever experience loss of children."
 
 \q1
-\v 9 But these two things will come to you in a moment in one day:
-\q1 the loss of children and widowhood; in full force they will come on you,
+\v 9 But these two things will come to you in a moment in one day: 
+\q1 the loss of children and widowhood; in full force they will come on you, 
 \q1 despite your sorceries and your many incantations and amulets.
 </usfm>
 
@@ -62,24 +65,24 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues to speak to Babylon about her downfall as if she were a queen who is humiliated. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **General Information:** - Yahweh continues speaking to the people of Babylon.
 
-  * **you who love pleasure** - "you luxurious one." This refers to the many luxuries that Babylon enjoyed.
-  * **sit securely** - This refers to Babylon's false sense of security in thinking that she will never lose her position of wealth and honor. AT: "who think you are safe" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **I will never sit as a widow ... loss of children** - Babylon believing that other nations will never be able to conquer her is spoken of as if she will never become a widow or never have children die. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will never sit as a widow** - "I will never become a widow"
-  * **in a moment in one day** - "suddenly at the same time"
+  * **you who loves pleasure and sits securely** - In 47:8-9 Yahweh speaks to the people of Babylon as if they were a sensual and prideful queen. Because of their pride Yahweh will destroy the city and the people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
  
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
   * [[:en:bible:notes:isa:47:00]]
   * [[:en:bible:questions:comprehension:isa:47]]
+
+ 
+
 **[[:en:bible:notes:isa:47:06|<<]] | [[:en:bible:notes:isa:47:10|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

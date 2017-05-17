@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 23 Then you saw a holy angel come down from heaven; he said, 'Cut down that tree, and cut off its branches. Strip off all of its leaves, and scatter its fruit. But leave the stump of the tree and its roots in the ground. Fasten a band of iron and bronze around the stump and allow it to stay there with grass around it. Each morning bring dew from the sky to make this man, who is represented by that tree, damp. Cause him to live in the fields with the animals for seven years.'
+\v 23 Then you saw a holy angel come down from heaven; he said, "Cut down that tree, and cut off its branches. Strip off all of its leaves, and scatter its fruit. But leave the stump of the tree and its roots in the ground. Fasten a band of iron and bronze around the stump and allow it to stay there with grass around it. Each morning bring dew from the sky to make this man, who is represented by that tree, damp. Cause him to live in the fields with the animals for seven years."
 
 
 \pi
@@ -31,14 +31,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Verses 19-33 use the third person to describe the punishment of Nebuchadnezzar. (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **General Information:** - This verse is almost the same as [[:en:bible:notes:dan:04:13|4:13-14]] and [[:en:bible:notes:dan:04:15|4:15-16]]. See how you translated those verses.
+  * **General Information:** - This these verses are almost the same as [[:en:bible:notes:dan:04:13|4:13-14]] and [[:en:bible:notes:dan:04:15|4:15-16]]. See how you translated those verses.
 
   * **the stump of its roots** - This is the part of the tree that is left above ground after a tree is cut down.
-  * **in the middle of the tender grass of the field** - "surrounded by the tender grass of the field"
-  * **dew** - the moisture that settles on the ground in the mornings
+  * **dew** - the moisture on the ground that is found in the mornings
  
-
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -46,6 +44,6 @@
   * [[:en:bible:questions:comprehension:dan:04]]
 **[[:en:bible:notes:dan:04:20|<<]] | [[:en:bible:notes:dan:04:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

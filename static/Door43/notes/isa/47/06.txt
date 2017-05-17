@@ -32,6 +32,7 @@
 \q2 it is as though our city will be the queen of the world forever!'
 \q1 But you did not think about the things that you were doing,
 \q2 or think about what would result.
+\b
 
 
 \q1
@@ -42,7 +43,7 @@
 
 <usfm>
 \q1
-\v 6 I was angry with my people; I defiled my heritage
+\v 6 I was angry with my people; I defiled my heritage 
 \q1 and gave them over into your hand, but you showed them no mercy;
 \q1 you placed a very heavy yoke on the old people.
 
@@ -66,14 +67,12 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues to speak to Babylon about her downfall as if she were a queen who is humiliated. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
-
   * **I was angry** - Here "I" refers to Yahweh.
-  * **I defiled my heritage** - Yahweh speaks of the people of Israel being his special possession as if they were his heritage or inheritance. AT: "I defiled my people, who are my special possession" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **gave them over into your hand** - Here the word "hand" represents Babylon's power or control. AT: "I put them under your power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **you placed a very heavy yoke on the old people** - Yahweh speaks of the Babylonians oppressing the old people as if they had treated the old people like cattle and put heavy yokes on their necks. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will rule forever as sovereign queen** - Babylon speaks of permanently ruling over many nations as if she were a queen who would rule forever. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **You did not take these things to heart** - Yahweh speaks of thinking carefully about something as if it were placing that thing on one's heart. AT: "You did not consider these things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my heritage** - This means the people who belong to Yahweh.
+  * **your hand** - Here "your" refers to the "people of Babylon" and "hand" refers to their power or control. (See: [[:en:ta:vol1:translate:figs_youdual]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you placed a very heavy yoke on the old people** - This means the Babylonians were even demanding heavy work from the oldest of the Israelite people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **as sovereign queen** - This means the Babylonians thought they would rule over all other people and nations.
+ 
  
 ===== Links: =====
 
@@ -88,6 +87,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -28,8 +28,8 @@
 <usfm>
 \p
 \v 13 On the second day the leaders of the ancestors' families from all the people, the priests and the Levites, came together to Ezra the scribe to gain insight from the words of the law.
-\v 14 They found written in the law how Yahweh had commanded through Moses that the people of Israel should live in tents during the festival of the seventh month.
-\v 15 They should make a proclamation in all their cities, and in Jerusalem, saying, "Go out into the hill country, and bring back branches from olive and wild olive trees, and from myrtle, palms and shade trees, to make tents, as it is written."
+\v 14 And they found written in the law how Yahweh had commanded through Moses that the people of Israel should live in tents during the festival of the seventh month.
+\v 15 They should make a proclamation in all their cities, and in Jerusalem, saying, "Go out into the hill country, and bring back branches from olive and wild olive trees, and from myrtle, palms and shade trees, to make temporary shelters, as it is written."
 </usfm>
 
 
@@ -56,13 +56,15 @@
   * [[:en:obe:other:palm]]
 ===== translationNotes: =====
 
-  * **On the second day** - "On day 2" or "On the next day" (UDB) (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **to gain insight from** - The abstract noun "insight" can be expressed as a verb. AT: "to understand" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **the seventh month** - "month 7." This is the seventh month of the Hebrew calendar. It is during the last part of September and the first part of October on Western calendars. (See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol2:translate:translate_hebrewmonths]])
+  * **On the second day** - "On day two" or "On the next day" (UDB) (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **to gain insight from** - "to understand"
+  * **Yahweh had commanded through Moses that the people of Israel should live in tents during the festival of the seventh month** - The reason for the Israelites living in the tents can be made explicit. AT: "Yahweh had ordered Moses to command the people of Israel to live in temporary shelters that entire month, to remember that their ancestors lived in shelters when they walked in the wilderness" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the seventh month** - This is the seventh month of the Hebrew calendar. It is during the last part of September and the first part of October on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **They should make a proclamation** - "They should announce"
-  * **myrtle** - a kind of small tree with colorful flowers (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **shade trees** - "leafy trees"
-  * **as it is written** - This can be translated in active form. AT: "as Moses wrote about it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **myrtle** - a type of tree with dark leaves and white flowers used for perfume. It was a symbol of peace and happiness.
+  * **shade trees** - "trees with lots of thick leaves"
+  * **to make temporary shelters** - "to make tents which will last just for this festival" 
+  * **as it is written** - This passive phrase can be translated as an active phrase. AT: "as Moses wrote about this" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
  
 ===== Links: =====
@@ -70,11 +72,14 @@
   * [[:en:bible:notes:neh:00:intro]]
   * [[:en:bible:notes:neh:08:00]]
   * [[:en:bible:questions:comprehension:neh:08]]
+
+ 
+
 **[[:en:bible:notes:neh:08:11|<<]] | [[:en:bible:notes:neh:08:16|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

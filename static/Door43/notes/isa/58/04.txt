@@ -26,6 +26,7 @@
 \q1 and you wear rough clothes and cover your heads with ashes like people do when they are grieving.
 \q1 That is what you do when you are fasting,
 \q2 but do you really think that will please me?
+\b
 
 
 \q1
@@ -38,8 +39,8 @@
 \v 4 Look, you fast to quarrel and fight, and to hit with your fist of wickedness;
 \q1 you do not fast today to make your voice heard above.
 \q1
-\v 5 Is this really the kind of fast that I would want: A day for anybody to humble himself,
-\q1 for him to bow down his head like a reed, and to spread sackcloth and ashes under himself?
+\v 5 Is this really the kind of fast that I would want: A day for anybody to humble himself, 
+\q1 for him to bow down his head like a reed, and to spread sackcloth and ashes under himself? 
 \q1 Do you really call this a fast, a day that pleases Yahweh?
 </usfm>
 
@@ -55,14 +56,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking to the people of Israel by answering their challenging question.
+  * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **Look** - "Behold!" or "Pay attention." Yahweh confronts their questioning by telling them to pay attention. 
-  * **fist of wickedness** - "wicked fist." This shows that they fight viciously. "Fist" represents anger that is physically violent. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Is this really the kind of fast that I would want ... under himself?** - Yahweh uses a question to scold the people. They act like they are humble before God, but they are hurting other people. AT: "This is not the kind of fast I want ... under himself." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **A day for anybody to humble himself, for him to bow down his head like a reed** - This means the person is bowing down, but he is not truly humble. "A reed" represents a weak plant that bends easily. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **fist of wickedness** - "wicked fist." This shows to what point they fight—viciously. It is possible that going without food leads them to being irritable to the point of violence.
+  * **Is this really the kind of fast that I would want ... pleases Yahweh?** - Yahweh uses a question to scold the people. They act like they are humble before God, but they are hurting other people. AT: "This is not the kind of fast I want ... pleases Yahweh" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **A day for anybody to humble himself, for him to bow down his head like a reed** - This means the person is bowing down, but he is not truly humble. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **Do you really call this a fast, a day that pleases Yahweh?** - Yahweh uses a question to scold the people. AT: "Surely you do not think this kind of fast pleases me!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -70,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:58]]
 **[[:en:bible:notes:isa:58:03|<<]] | [[:en:bible:notes:isa:58:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -16,12 +16,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 22 Pay attention to your father who brought you into the world,
+\v 22 Pay attention to your father who brought you into the world, 
 \q2 and do not hate your mother when she is old.
 \q1
-\v 23 When you study wisdom, think of it as buying truth, but never selling it;
-\q2 and the same for wisdom, and with discipline, and also with understanding;
-\q2 let it be as though you were buying them so you can keep them for the rest of your life.
+\v 23 When you study wisdom, think of it as buying truth, but never selling it; 
+\q2 and the same for wisdom, and with discipline, and also with understanding; 
+\q2 let it be as though you were buying them so you can keep them for the rest of your life. 
+
 
 \q1
 </usfm>
@@ -35,7 +36,7 @@
 \q and do not despise your mother when she is old.
 \q
 \v 23 Buy the truth, but do not sell it;
-\q buy wisdom, instruction, and understanding.
+\q buy wisdom, discipline, and understanding.
 </usfm>
 
 
@@ -47,10 +48,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **do not despise** - This can be stated positively.  "show respect for" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **Buy the truth, but do not sell it; buy wisdom, instruction, and understanding** - Another possible meaning is "Buy the truth, and do not sell wisdom, instruction, or understanding." The words "truth," "wisdom," "instruction," and "understanding" are abstract nouns that are spoken of as if they were physical items that a person can buy and sell in a market. They can be translated as verbs. AT: "Do what you need to do so you can know what is true, so you can be wise, so you can learn how to act, and so you can tell good from bad; never think of anything else as more important than these things" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **do not despise** - "show respect for" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **Buy the truth, but do not sell it; buy wisdom, discipline, and understanding** - This phrase emphasizes the importance of having truth, wisdom, self-discipline and knowledge. These virtues are to be treasured and not sold. (See: [[:en:ta:vol1:translate:figs_idiom]])
+ 
  
 ===== Links: =====
 
@@ -65,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

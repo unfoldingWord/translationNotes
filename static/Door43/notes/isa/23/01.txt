@@ -27,6 +27,7 @@
 \q1 You sailors on ships from Tarshish,
 \q2 weep, because the harbor of Tyre and all the houses in the city have been destroyed.
 \q2 The reports that you heard in the Island of Cyprus about Tyre are true.
+\b
 \q1
 \v 2 You people who live along the coast, you merchants of the city of Sidon, mourn silently.
 \q2 Your sailors went across the seas to make you rich, there in Tyre.
@@ -34,6 +35,7 @@
 \v 3 They sailed across deep seas
 \q2 to buy grain in Egypt, grain from the Valley of Shihor.
 \q2 This wealth came down the Nile River, and you, Tyre, were the place where the people of all nations traded.
+\b
 
 
 \q1
@@ -44,18 +46,17 @@
 <usfm>
 \c 23
 \p
-\v 1 A declaration about Tyre:
-\q1 Howl, you ships of Tarshish; for there is neither home nor harbor;
+\v 1 A declaration about Tyre: 
+\q1 Howl, you ships of Tarshish; for there is neither home nor harbor; 
 \q1 from the land of Cyprus it has been revealed to them.
 \f + \ft Instead of \fqa Cyprus \fqb , some modern versions keep \fqa Kittim \fqb , the Hebrew name for this island. \f*
 \q1
 \v 2 Be silent, you inhabitants of the coast; the merchant of Sidon,
 \q1 who travels over the sea, has filled you.
-\f + \ft Some ancient and modern versions have \fqa Be silent, you inhabitants of the coast; the merchants of Sidon, who travel over the sea, have filled you \fqb or \fqa Be silent, you inhabitants of the coast and you merchants of Sidon, whom those who travel over the sea have filled \fqb . \f*
+\f + \ft Some ancient and modern versions have \fqa Be silent, you inhabitants of the coast; the merchants of Sidon, who travel over the sea, have filled you \fqb or \fqa Be silent, you inhabitants of the coast and you merchants of Sidon, whom those who travel over the sea have filled \fqb . \f* 
 \q1
-\v 3 Upon the great waters was the grain of Shihor,
-\q1 the harvest of the Nile was her produce; 
-\q2 and it became the commerce of the nations.
+\v 3 And on great waters was the grain of Shihor, 
+\q1 the harvest of the Nile, her produce; you were the commerce of nations.
 </usfm>
 
 ===== translationWords: =====
@@ -63,7 +64,6 @@
   * [[:en:obe:other:declare]]
   * [[:en:obe:other:tyre]]
   * [[:en:obe:other:tarshish]]
-  * [[:en:obe:other:cyprus]]
   * [[:en:obe:kt:reveal]]
   * [[:en:obe:other:sidon]]
   * [[:en:obe:other:water]]
@@ -76,18 +76,12 @@
 
   * **General Information:** - Isaiah continues to tell what God has judged against the nations in 13:1-23:18.
 
-  * **A declaration about Tyre** - "This is what Yahweh declares about Tyre"
-  * **Howl, you ships of Tarshish** - Here "ships" represents the men on the ships. Isaiah speaks to the men on the ships of Tarshish as if they could hear him. AT: "Cry out in despair you men on the ships of Tarshish" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_apostrophe]])
-  * **harbor** - an area of the sea that is near land and safe for ships
-  * **from the land of Cyprus it has been revealed to them** - This phrase can be stated in active form. AT: "the men heard about Tyre when they were in the land of Cyprus" (See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Be silent, you inhabitants of the coast** - Isaiah speaks to the people who live on the coast as if they could hear him. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
-  * **Be silent** - This is an idiom. Here silence is meant to signal shock and amazement. AT: "Be shocked"  (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **of the coast** - The "coast" is the land near or around the sea or ocean. Here it refers to the people who live in Phoenicia which borders the Mediterranean sea.
-  * **the merchant of Sidon, who travels over the sea, has filled you** - Here "merchant" means "many merchants." AT: "the merchants of Sidon, who travel over the sea, have made you rich" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
-  * **Upon the great waters was the grain of Shihor** - Shihor was the name of a valley near the Nile River in Egypt known for its production of grain. AT: "The men traveled on the large sea to transport the grain from Shihor in Egypt" (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the harvest of the Nile was her produce** - The grain was harvested near the Nile River and transported on the river and then to Phoenicia.  (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **her produce** - "its produce." It was common to refer to the river as "her."
-  * **it became the commerce of the nations** - Commerce is the activity of buying and selling goods. Here "nations" represents the people. AT: "you were where people from other nations came to buy and sell goods" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Howl, you ships of Tarshish** - See how you translated "ships of Tarshish" in [[:en:bible:notes:isa:02:14|2:16]]. Isaiah speaks to the men on the ships of Tarshish as if they could hear him. AT: "Cry out in despair you men on the ships of Tarshish" (See: [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **from the land of Cyprus it has been revealed to them** - The island of Cyprus, located in the in the Mediterranean Sea, as known as "Kittim" in Hebrew. This phrase can be stated in active form. AT: "The men heard about Tyre when they were in the land of Cyprus" (See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Be silent, you inhabitants of the coast** - Here silence is meant to signal shock and amazement. "Be shocked, you people of the coast, you sellers from Sidon." The "coast" is the land near or around the sea or ocean. 
+  * **the merchant of Sidon** - Sidon was a city near Tyre. Here "merchant" means "many merchants."
+  * **And on great waters was the grain of Shihor** - Shihor was the name of a valley near the Nile River in Egypt known for its production of grain. AT: "The men traveled on the great waters to transport the grain from Egypt"
+  * **the harvest of the Nile, her produce** - That is, grain harvested near the Nile River and transported down it.  (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
 
 ===== Links: =====
 
@@ -96,6 +90,6 @@
   * [[:en:bible:questions:comprehension:isa:23]]
 **[[:en:bible:notes:isa:22:25|<<]] | [[:en:bible:notes:isa:23:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

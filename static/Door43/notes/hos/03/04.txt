@@ -21,7 +21,7 @@
 
 <usfm>
 \v 4 For the people of Israel will live for many days without a king, prince, sacrifice, stone pillar, ephod or household idols.
-\v 5 Afterward the people of Israel will return and seek Yahweh their God and David their king, and in the last days, they will come trembling before Yahweh and his goodness.
+\v 5 Afterward the people of Israel will return and seek Yahweh their God and David their king. And in the last days, they will come trembling before Yahweh and his goodness.
 </usfm>
 
 
@@ -45,11 +45,10 @@
 ===== translationNotes: =====
 
   * **For the people of Israel will live for many days without a king, prince, sacrifice, stone pillar, ephod or household idols** - Just as Hosea lived without his wife because she committed adultery, Israel will live without a king and without worshiping God, because they committed idolatry.
-  * **seek Yahweh their God** - Here "seek" means they are asking God to accept them and their worship.
   * **David their king** - Here "David" represents all the descendants of David. AT: "a descendant of David to be their king" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in the last days** - Here "last days" refers to a period of time in the future. AT: "in the future" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in the last days** - "in the future"
+  * **seek Yahweh their God** - Here "seek" means to ask God to accept them and their worship.
   * **they will come trembling before Yahweh and his goodness** - Here "trembling" represents feelings of awe and humility. AT: "they will come back to Yahweh and will humble themselves, honor him, and ask for his blessings" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:hos:00:intro]]
@@ -57,6 +56,6 @@
   * [[:en:bible:questions:comprehension:hos:03]]
 **[[:en:bible:notes:hos:03:01|<<]] | [[:en:bible:notes:hos:04:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass ephod}}
+~~DISCUSSION~~{{tag>publish p2check ephod}}
 
 ~~NOCACHE~~

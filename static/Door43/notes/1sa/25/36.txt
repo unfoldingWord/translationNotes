@@ -34,8 +34,9 @@
 
 ===== translationNotes: =====
 
-  * **morning light** - dawn
-  * **Nabal's heart was merry within him** - Nabal was very happy
+  * **morning light** - This is a metonymy the first appearance of the sun's light in the morning. AT: "dawn" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **like the feast of a king** - This is a simile that the feast in his house is described in this manner to make the reader understand the majesty and magnificence of the feast in his house. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Nabal's heart was merry within him** - This is a metonymy that means Nabal was drunk (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -47,6 +48,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass drunk}}
+{{tag>publish p2edit drunk}}
 
 ~~NOCACHE~~

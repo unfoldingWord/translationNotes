@@ -29,6 +29,7 @@
 \q1
 \v 25 Do not allow them to be able to say to themselves,
 \q2 "Yes, we have gotten rid of him just like we desired!"
+\b
 \q1
 \v 26 Cause those who rejoice about my misfortunes
 \q2 to be completely confused and disgraced;
@@ -70,14 +71,14 @@
 
   * **do not let them rejoice over me** - "do not let them be glad because I am suffering"
   * **say in their heart** - This is an idiom that means to say to oneself. AT: "say to themselves" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Aha** - This is an exclamation that is used when something is suddenly seen or understood. It emphasizes what follows. AT: "Yes" (See: [[:en:ta:vol2:translate:figs_exclamations]])
+  * **Aha** - This is an exclamation that emphasizes what follows. AT: "Yes! we have destroyed him, just like we wanted" (See: [[:en:ta:vol2:translate:figs_exclamations]])
   * **we have what we wanted** - It is implied that the writer's enemies wanted him to be declared guilty. AT: "he has been declared guilty just as we desired!" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **We have devoured him** - The writer's enemies speak of his destruction as if they were wild animals who had eaten him. AT: "We have swallowed him up" or "We have destroyed him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **We have devoured him** - "We have swallowed him up." The writer's enemies speak of his destruction as if they were wild animals who had eaten him. AT: "We have destroyed him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **confound** - "humiliate" or "perplex"
-  * **May those who taunt me be covered with shame and dishonor** - This can be stated in active form. AT: "May you cover with shame and dishonor those who taunt me" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
-  * **taunt** - to insult someone to make them angry
-  * **covered with shame and dishonor** - Here shame and dishonor are spoken of as if they were shameful clothes that the writer could wear. These abstract nouns can be stated as verbs. AT: "shamed and dishonored" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **shame and dishonor** - These terms mean about the same thing and are used to emphasize how degraded they will be. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **May those who taunt me be covered with shame and dishonor** - This can be stated in active form. AT: "May you cover those who taunt me with shame and dishonor" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **taunt** - insulting someone to make him angry
+  * **covered with shame and dishonor** - These abstract nouns can be stated as verbs. Here shame and dishonor are spoken of as if they were shameful clothes that the writer could wear. AT: "shamed and dishonored" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **shame and dishonor** - These terms mean about the same thing and are used to emphasize who degraded they will be. (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 
 
@@ -92,6 +93,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book1}}
+{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

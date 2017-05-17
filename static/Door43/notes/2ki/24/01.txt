@@ -48,9 +48,9 @@
 
 ===== translationNotes: =====
 
-  * **In Jehoiakim's days** - "During the time that Jehoiakim ruled Judah"
-  * **attacked Judah** - You may need to make explicit what happened after Nebuchadnezzar attacked Judah. AT: "attacked and defeated Judah" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **This was in conformity with the word of Yahweh that had been spoken through his servants the prophets** - This can be translated in active form. AT: "This was according to the word of Yahweh that his servants the prophets had spoken" or "This was exactly what Yahweh had told his servants the prophets to say would happen" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **In Jehoiakim's days** - AT: "During the time that Jehoiakim ruled Judah"
+  * **attacked Judah** - AT: "attacked and defeated Judah" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **This was in conformity with the word of Yahweh** - AT: "This was according to the word of Yahweh"
 
 ===== Links: =====
 
@@ -65,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass jehoiakim}}
+{{tag>publish p2edit jehoiakim}}
 
 ~~NOCACHE~~

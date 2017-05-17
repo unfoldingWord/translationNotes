@@ -21,9 +21,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 38 He will honor the god of fortresses instead of these. It is a god whom his fathers did not acknowledge that he will honor with gold and silver, with precious stones and valuable gifts.
-\v 39 He will attack the strongest fortresses with the help of a foreign god. To anyone who acknowledges him, he will give much honor. He will make them rulers over many people, and he will divide up the land as a reward.
-\f + \ft Instead of \fqa He will attack the strongest fortresses \fqa* , some modern versions have \fqa He will defend his fortress \fqa* . \f*
+\v 38 Instead of them, he will honor the god of fortresses. He will honor a god whom his ancestors did not know with gold and silver, with precious stones and costly gifts.
+\v 39 He will attack the strongest fortresses with the help of people who belong to a foreign god. He will give honor to whoever acknowledges him. He will make them rulers over many people, and he will divide up the land as a reward.
 </usfm>
 
 ===== translationWords: =====
@@ -39,8 +38,8 @@
 
 ===== translationNotes: =====
 
-  * **the god of fortresses** - The king probably believed that this false god would help him to attack other people's fortresses and keep his own. AT: "the god that controls fortresses" 
-  * **instead of these** - The word "these" refers to the gods mentioned in [[:en:bible:notes:dan:11:36|11:37]].
+  * **Instead of them** - The word "them" refers to the gods mentioned in [[:en:bible:notes:dan:11:36|11:37]]
+  * **the god of fortresses** - "the god that controls fortresses." He probably believes that this false god will either protect his fortresses or help him to attack other people's fortresses.
   * **he will divide up the land as a reward** - Possible meanings are 1) "he will give the land to his followers as a reward" or 2) "he will sell land to his followers"
 ===== Links: =====
 
@@ -49,6 +48,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:36|<<]] | [[:en:bible:notes:dan:11:40|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass precious acknowledge}}
+~~DISCUSSION~~{{tag>publish p2edit precious acknowledge}}
 
 ~~NOCACHE~~

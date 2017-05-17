@@ -22,6 +22,7 @@
 \q1
 \v 7 Even though you were not very prosperous before,
 \q2 during the last stage of your life you would become very wealthy.
+\b
 
 
 \q1
@@ -31,14 +32,14 @@
 
 <usfm>
 \q
-\v 6 If you are pure and upright,
-\q then he would surely stir himself on your behalf
-\q and restore you to your rightful place.
+\v 6 Suppose that you were pure and upright;
+\q then he surely would act for you
+\q and reward you with a home that truly belonged to you.
 \q
 \v 7 Even though your beginning was small,
 \q still your final condition would be much greater.
+\b
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -47,13 +48,8 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Bildad says that God would treat Job well if he was pure, but Bildad does not believe that Job is pure. (See: [[:en:ta:vol1:translate:figs_hypo]])
-
-  * **If you are pure and upright** - "If only you were pure and righteous" or "If only you would obey God and do what is right"
-  * **stir himself on your behalf** - Here Yahweh is spoken of as if he woke from sleep to help Job. AT: "help you" or "do good things for you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **restore you to your rightful place** - This refers to giving back to Job the things he lost, including his family, wealth, and honor.
-  * **Even though your beginning was small, still your final condition would be much greater** - Here lack of wealth is spoken of as being a "small beginning." AT: "Even if you were poor early in your life, God would make you very wealthy later in your life" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **Suppose that you were pure and upright** - "If only you were pure and righteous" or "If your heart and actions were right"
+  * **Even though your beginning was small, still your final condition would be much greater.** - "Even though you were not very prosperous before, during the last part of your life you will become very wealthy."
 
 ===== Links: =====
 
@@ -62,6 +58,6 @@
   * [[:en:bible:questions:comprehension:job:08]]
 **[[:en:bible:notes:job:08:04|<<]] | [[:en:bible:notes:job:08:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

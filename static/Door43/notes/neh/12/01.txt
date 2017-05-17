@@ -17,7 +17,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 These are the names of the priests and descendants of Levi that returned from Babylonia with Zerubbabel and Jeshua. They included
+\v 1 Many priests and descendants of Levi returned from Babylonia with Zerubbabel and Jeshua. They included
 \li1 Seraiah, Jeremiah, Ezra,
 \li1
 \v 2 Amariah, Malluch, Hattush,
@@ -49,7 +49,7 @@
 
   * **who came up** - "who arrived from Babylonia"
   * **with Zerubbabel** - "under the leadership of Zerubbabel"
-  * **Zerubbabel ... Shealtiel ... Jeshua ... Seraiah ... Jeremiah ... Ezra ... Amariah ... Malluch ... Hattush ... Shecaniah ... Rehum ... Meremoth** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Zerubbabel ... Shealtiel ... Jeshua ... Seraiah ... Jeremiah ... Ezra ... Amariah ... Malluch ... Hattush ... Shecaniah ... Rehum ... Meremoth** - These are male names (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -64,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass ezra}}
+{{tag>publish p2edit ezra}}
 
 ~~NOCACHE~~

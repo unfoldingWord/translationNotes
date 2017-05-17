@@ -15,6 +15,7 @@
 
 <usfm>
 \v 1 This is a list of the Israelite men who served the king in the army. Some were leaders of families, some were commanders of one hundred men, some were commanders of one thousand men, and some were other officers. There were twenty-four thousand men in each group. Each group served one month of each year.
+\b
 \li1
 \v 2 Jashobeam, son of Zabdiel, was in charge of the group that served during the first month of each year.
 \v 3 He was a descendant of Perez, and he was the commander of all the army officers during the first month of each year.
@@ -28,7 +29,8 @@
 <usfm>
 \c 27
 \p
-\v 1 This is the list of the Israelite family leaders, commanders of thousands and hundreds, as well as army officers who served the king in various ways. Each military division served month by month throughout the year. Each division had twenty-four thousand men
+\v 1 This is the list of the Israelite family leaders, commanders of thousands and hundreds, as well as army officers who served the king in various ways. Each military division served month by month throughout the year. Each division had twenty-four thousand men.
+\q
 \v 2 Over the division for the first month was Jashobeam son of Zabdiel. In his division were twenty-four thousand men.
 \v 3 He was among the descendants of Perez and in charge of all the army officers for the first month.
 </usfm>

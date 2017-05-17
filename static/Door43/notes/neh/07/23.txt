@@ -23,6 +23,7 @@
 \v 24 from the descendants of Hariph, whose other name is Jorah, 112,
 \li2
 \v 25 from the descendants of Gibeon, whose other name is Gibbar, ninety-five.
+\b
 \pi
 \v 26 Men whose ancestors had lived in these towns also returned:
 \li2 Men from Bethlehem and Netophah, 188.
@@ -47,10 +48,10 @@
   * [[:en:obe:other:bethlehem]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile. (See [[:en:ta:vol2:translate:translate_numbers]])
+  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile.
 
-  * **Bezai ... Hariph ... Gibeon** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Bethlehem and Netophah** - These are the names of places in Judah. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Bezai ... Hariph ... Gibeon** - These are the names of the patriarchs of each family group. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Bethlehem and Netophah** - These are the names of two villages in Judah. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -59,6 +60,6 @@
   * [[:en:bible:questions:comprehension:neh:07]]
 **[[:en:bible:notes:neh:07:19|<<]] | [[:en:bible:notes:neh:07:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

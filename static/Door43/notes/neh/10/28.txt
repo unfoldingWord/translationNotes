@@ -25,7 +25,7 @@
 
 <usfm>
 \p
-\v 28 As for the rest of the people, who were priests, Levites, gatekeepers, singers, temple servants, and all who had separated themselves from the people of the neighboring lands and pledged themselves to the law of God, including their wives, their sons and their daughters, all who have knowledge and understanding,
+\v 28 And the rest of the people, who were priests, Levites, gatekeepers, singers, temple servants, and all who had separated themselves from the people of the neighboring lands and pledged themselves to the law of God, including their wives, their sons and their daughters, all who have knowledge and understanding,
 \v 29 they joined together with their brothers, their nobles, and bound themselves with both a curse and an oath to walk in God's law, which was given by Moses the servant of God, and to observe and obey all the commandments of Yahweh our Lord and his decrees and his statutes.
 </usfm>
 
@@ -53,13 +53,15 @@
   * [[:en:obe:other:statute]]
 ===== translationNotes: =====
 
-  * **gatekeepers** - This refers to the people assigned to each gate, responsible to control access to the city or temple, as well as to open and close the gates at times and for reasons set by the administrator. See how you translated this in [[:en:bible:notes:neh:07:01|7:1]].
+  * **gatekeepers** - These are people who looked after the opening in the wall and controlled who went in and out. See how you translated this in [[:en:bible:notes:neh:07:01|7:1]]
   * **singers** - "temple singers"
+  * **all who had separated themselves from the people of the neighboring lands and pledged themselves to the law of God** - AT: "all who had separated themselves for the purpose of the Law of God"
+  * **all who had separated themselves** - This refers to the separate gathering of the Jews in [[:en:bible:notes:neh:09:01|09:2]].
   * **all who have knowledge and understanding** - This phrase can be made explicit. AT: "all who were old enough to understand what promising to obey God meant" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **their brothers, their nobles** - "their fellow brothers the nobles" or "their brothers the leaders." These phrases refer to the same people.  
-  * **bound themselves with both a curse and an oath** - This speaks of the people taking an oath and a curse as if the oath and the curse were a rope that physically bound them.  AT: "swore themselves to an oath and a curse" or "they took an oath and called for a curse to come on themselves if they failed to keep it" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **to walk in God's law** - This is an idiom. AT: "to live by God's law" or "to obey God's law"  (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **which was given by Moses the servant of God** - This can be stated in active form. AT: "which Moses the servant of God had given to Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **nobles** - "the group of people who are members of the highest social class"
+  * **bound themselves with both a curse and an oath** - The people did not physically tie themselves up with a curse and an oath. The phrase "curse and an oath" is a metonym for "a solemn promise. AT: "made a solemn promise" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a curse and an oath** - These words are related. An "oath" is a solemn promise to do something and a "curse" refers to the bad things that will happen if they break the oath. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **to walk in God's law** - "to obey God's law" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **to observe** - "to follow"
  
 ===== Links: =====
@@ -75,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass lawofmoses priest son temple pledge}}
+{{tag>publish p2edit lawofmoses priest son temple pledge}}
 
 ~~NOCACHE~~

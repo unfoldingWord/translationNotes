@@ -9,9 +9,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 10-11 Elishama son of Ammihud, from the tribe of Joseph's son Ephraim;
-\q1 Gamaliel son of Pedahzur, from the tribe of Joseph's son Manasseh;
-\q1 Abidan son of Gideoni, from the tribe of Benjamin;
+\v 10-11 
+\li1 Elishama son of Ammihud, from the tribe of Joseph's son Ephraim;
+\li1 Gamaliel son of Pedahzur, from the tribe of Joseph's son Manasseh;
+\li1 Abidan son of Gideoni, from the tribe of Benjamin;
 
 
 \li1
@@ -24,7 +25,7 @@
 \v 10 from the tribe of Ephraim son of Joseph, Elishama son of Ammihud;
 \q1 from the tribe of Manasseh, Gamaliel son of Pedahzur;
 \q1
-\v 11 from the tribe of Benjamin, Abidan son of Gideoni;
+\v 11 from the tribe of Benjamin son of Joseph, Abidan son of Gideoni;
 </usfm>
 
 ===== translationWords: =====
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:num:01]]
 **[[:en:bible:notes:num:01:07|<<]] | [[:en:bible:notes:num:01:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -33,11 +33,9 @@
   * [[:en:obe:kt:wordofgod]]
 ===== translationNotes: =====
 
-  * **Is there not here a prophet of Yahweh, that we may consult Yahweh by him?** - Jehoshaphat uses a rhetorical question here to state that he is certain that there is a prophet there and to find out where he is. This may be written as a statement. AT: "I am sure there is a prophet of Yahweh here! Tell me where one is, so we may consult Yahweh by him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Shaphat** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **who poured water on the hands of Elijah** - This idiom means that he was Elijah's helper. The phrase "poured water on the hands" is a description of one of the ways he served Elijah. AT: "who was a helper to Elijah" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **The word of Yahweh is with him** - This means that he is a prophet and that Yahweh tells him what to say. AT: "He speaks what Yahweh tells him to say" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **went down to him** - They went to see Elijah and to consult with him about what they should do. The full meaning of this statement can be made clear. AT: "went to see Elisha to ask him what they should do" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Is there not here a prophet of Yahweh, that we may consult Yahweh by him?** - "I am sure there is a prophet of Yahweh here! Tell me where one is, so we may consult Yahweh by him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **who poured water on the hands of Elijah** - AT: "who was a helper to Elijah." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **went down to him** - AT: "went to see Elisha to ask him what they should do" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 
 ===== Links: =====
@@ -47,6 +45,6 @@
   * [[:en:bible:questions:comprehension:2ki:03]]
 **[[:en:bible:notes:2ki:03:09|<<]] | [[:en:bible:notes:2ki:03:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

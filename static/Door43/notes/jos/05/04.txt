@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 This is the reason Joshua circumcised them: all the males who had come out of Egypt, including all the men of war, had died in the wilderness along the way, after they came out from Egypt.
+\v 4 And this is the reason Joshua circumcised them: all the males who had come out of Egypt, including all the men of war, had died in the wilderness along the way, after they came out from Egypt.
 \v 5 Though all the males who came out of Egypt were circumcised, still, none of the boys born in the wilderness on the way out of Egypt had been circumcised.
 </usfm>
 
@@ -35,7 +35,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The reason all the males of Israel had to be circumcised is explained.
+  * **General Information:** - The reason all the males of Israel had to be circumcised.
 
   * **the men of war** - the men who were old enough to be soldiers 
 ===== Links: =====
@@ -48,6 +48,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -30,6 +30,7 @@
 \q1
 \v 14 If you do that, I will congratulate you
 \q2 and say that truly you can save yourself by your own ability.
+\b
 
 
 \q1
@@ -48,6 +49,7 @@
 \q
 \v 14 Then will I also acknowledge about you
 \q that your own right hand can save you.
+\b
 </usfm>
 
 
@@ -61,8 +63,8 @@
 
 ===== translationNotes: =====
 
-  * **their faces** - The face is a part of the whole person. AT: "them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the hidden place** - a euphemism for the place where people's spirits go when they die (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **imprison their faces** - AT: "imprison them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **in the hidden place** - This is another way of saying "Sheol" or "the place where Old Testament people went when they died." (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -71,6 +73,6 @@
   * [[:en:bible:questions:comprehension:job:40]]
 **[[:en:bible:notes:job:40:10|<<]] | [[:en:bible:notes:job:40:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

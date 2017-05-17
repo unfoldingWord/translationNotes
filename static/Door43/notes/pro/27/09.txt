@@ -18,12 +18,12 @@
 
 <usfm>
 \v 9 The aroma of perfume and the scent of incense can help to make a person feel happy;
-\q2 and we most appreciate friends who give us good advice.
+\q2 but the sweetness of a friend is more important than his advice. 
 \q1
-\v 10 Do not forget your friend or a friend of your father;
-\q2 and when you have a problem and you need help,
+\v 10 Do not forget your friend or a friend of your father; 
+\q2 and when you have a problem and you need help, 
 \q2 do not go to your brother's home.
-\q2 When there is trouble, a neighbor who lives close by
+\q2 When there is trouble, a neighbor who lives close by 
 \q2 is better than a brother who lives far away.
 
 
@@ -34,11 +34,10 @@
 
 <usfm>
 \q
-\v 9 Perfume and incense make the heart rejoice,
-\q but the sweetness of a friend comes from his sincere counsel.
-\f + \ft Modern versions have different interpretations of this difficult verse. \f*
+\v 9 Perfume and incense make the heart rejoice, 
+\q but the sweetness of a friend is better than his advice.
 \q
-\v 10 Do not forsake your friend and your friend's father,
+\v 10 Do not forsake your friend and your friend's father, 
 \q and do not go to your brother's house on the day of your calamity.
 \q Better is a neighbor who is nearby than a brother who is far away.
 </usfm>
@@ -53,11 +52,9 @@
   * [[:en:obe:other:neighbor]]
 ===== translationNotes: =====
 
-  * **Perfume** - The word "perfume" here means a desirable oil or ointment.
-  * **make the heart rejoice** - Here "the heart" represents the feelings or emotions of a person. AT: "make a person feel joyful" or "make a person glad" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the sweetness of a friend comes from his sincere counsel** - Possible meanings are 1) "sweetness" represents kindness. AT: "we recognize our friend's kindness by his counsel" or 2) "sweetness" represents what we appreciate about a person. AT: "what we appreciate about a friend is his advice" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **your brother's house** - Here the word "brother" is a general reference to relatives, such as members of the same tribe, clan, or people group.
   * **calamity** - extreme troubles and misfortune
+  * **the sweetness** - AT: "the sweet behavior"
+  * **brother's** - Here the word "brother" is a general reference to relatives, such as members of the same tribe, clan, or people group.
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -65,6 +62,6 @@
   * [[:en:bible:questions:comprehension:pro:27]]
 **[[:en:bible:notes:pro:27:07|<<]] | [[:en:bible:notes:pro:27:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass forsaken}}
+~~DISCUSSION~~{{tag>publish p2edit forsaken}}
 
 ~~NOCACHE~~

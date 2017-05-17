@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 If you buy land from your neighbor, consider the number of years and crops that can be harvested until the next Jubilee. Your neighbor selling the land must consider that also.
+\v 15 If you buy land from your neighbor, consider the number of years and crops that can be harvested until the next Jubilee. Your neighbor selling the land must consider that also. 
 \v 16 A larger number of years until the next Jubilee will increase the value of land, and a smaller number of years until the next Jubilee will decrease the value, because the number of harvests the land will produce for the new owner is related to the number of years before the next Jubilee.
 \v 17 You must not cheat or wrong one another; instead, you must honor your God, for I am Yahweh your God.
 </usfm>
@@ -40,9 +40,8 @@
 
   * **General Information:** - God continues telling Moses what the people must do.
 
-  * **that can be harvested** - This can be stated in active form. AT: "that you can harvest" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the next Jubilee** - "the next year of restoration" or "the next year to return land"
- 
+  * **that can be harvested** - This can be stated in active form. AT: "that you can harvest" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:lev:00:intro]]
@@ -50,6 +49,6 @@
   * [[:en:bible:questions:comprehension:lev:25]]
 **[[:en:bible:notes:lev:25:13|<<]] | [[:en:bible:notes:lev:25:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

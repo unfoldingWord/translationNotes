@@ -24,6 +24,7 @@
 \q2 I did not tell them
 \q1 'It will be useless for you to seek for me!'
 \q2 I, Yahweh, speak only what is true and what is right.
+\b
 
 
 \q1
@@ -34,7 +35,7 @@
 
 <usfm>
 \q1
-\v 19 I have not spoken in private, in some hidden place;
+\v 19 I have not spoken in private, in some hidden place; 
 \q1 I did not say to Jacob's descendants, 'Seek me in vain!'
 \q1 I am Yahweh, who speaks sincerely; I declare the things that are right.
 </usfm>
@@ -65,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass vain}}
+{{tag>publish p2edit vain}}
 
 ~~NOCACHE~~

@@ -28,7 +28,7 @@
 
 <usfm>
 \c 43
-\m
+\p
 \q1
 \v 1 But now this is what Yahweh says, he who created you, Jacob, and he who formed you, Israel:
 \q1 "Do not be afraid, for I have redeemed you; I have called you by your name, you are mine.
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:isa:43]]
 **[[:en:bible:notes:isa:42:25|<<]] | [[:en:bible:notes:isa:43:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

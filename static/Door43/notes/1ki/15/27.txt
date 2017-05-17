@@ -34,11 +34,9 @@
 
 ===== translationNotes: =====
 
-  * **conspired against Nadab** - "secretly plotted to kill King Nadab"
-  * **Gibbethon** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Nadab and all Israel** - "The phrase "all Israel" is a generalization that represents the  many soldiers of Israel. AT: "Nadab and the many soldiers of Israel" or "Nadab and the army of Israel" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **were laying siege to Gibbethon** - "were surrounding Gibbethon, so that the people of Gibbethon would surrender to them"
-  * **became king in his place** - The phrase "in his place" is a metaphor meaning "instead of him." AT: "became king instead of Nadab" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **conspired against Nadab** - "secretly plotted to kill Nadab"
+  * **Nadab and all Israel** - AT: "Nadab and the armies of Israel" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_hyperbole]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -46,6 +44,6 @@
   * [[:en:bible:questions:comprehension:1ki:15]]
 **[[:en:bible:notes:1ki:15:25|<<]] | [[:en:bible:notes:1ki:15:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass ahijah}}
+~~DISCUSSION~~{{tag>publish p2edit ahijah}}
 
 ~~NOCACHE~~

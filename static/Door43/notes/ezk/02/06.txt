@@ -15,7 +15,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 You, son of man, do not be afraid of them or their words. Do not be afraid, although you are with briers and thorns and although you live with scorpions. Do not fear their words or be dismayed by their faces, since they are a rebellious house.
+\v 6 And you, son of man, do not be afraid of them or their words. Do not be afraid, although you are with briers and thorns and although you live with scorpions. Do not fear their words or be dismayed by their faces, since they are a rebellious house.
 </usfm>
 
 ===== translationWords: =====
@@ -28,13 +28,12 @@
 
   * **General Information:** - God continues to speak to Ezekiel
 
-  * **son of man** - "son of a human being" or "son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. Translate this as in [[:en:bible:notes:ezk:02:01|2:1]]. AT: "mortal person" or "human"
+  * **son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]]. 
   * **briers and thorns and ... scorpions** - These words describe the people of Israel who will not treat Ezekiel kindly when he tells them what God says. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **briers and thorns** - Briers are bushes with sharp points on the branches. The sharp points on the branches are called thorns.
-  * **scorpions** - A scorpion is an small animal with two front claws, six legs, and a large tail with a poisonous stinger. Its sting is very painful.
+  * **scorpions** - A scorpion is a small animal with two front claws, six legs and a large tail with poisonous stinger. It's sting is very painful.
   * **Do not fear their words** - "Do not be afraid of what they say."
-  * **be dismayed by their faces** - The words "their faces" are a metonym for the message the people express with their faces. AT: "lose your desire to serve me because of the way they look at you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **dismayed by their faces** - "upset at the way they look at you"
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -42,6 +41,6 @@
   * [[:en:bible:questions:comprehension:ezk:02]]
 **[[:en:bible:notes:ezk:02:04|<<]] | [[:en:bible:notes:ezk:02:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check mzrezk}}
+~~DISCUSSION~~{{tag>publish p2edit mzrezk}}
 
 ~~NOCACHE~~

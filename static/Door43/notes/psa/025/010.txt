@@ -20,7 +20,7 @@
 \q1
 \v 11 Yahweh, forgive me for all my sins, which are many,
 \q2 in order that I may honor you.
-
+\b
 
 
 \q1
@@ -47,9 +47,9 @@
   * [[:en:obe:other:pardon]]
 ===== translationNotes: =====
 
-  * **All the paths of Yahweh are steadfast love and faithfulness** - The word "paths" is a metaphor for ways. AT: "Yahweh always loves us because of his covenant and he is always trustworthy" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **All the paths of Yahweh are covenant faithfulness and trustworthiness** - How God lives and behaves is spoken of as if it were a way or path on which he walks. AT: "Yahweh is always faithful because of his covenant and he is always trustworthy" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **For your name's sake** - The phrase "your name" here refers to Yahweh's reputation. AT: "For your reputation" or "So that people will honor you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **pardon my sin, for it is great** - The abstract noun "sin" can be stated as "sinned." AT: "please forgive me, for I have sinned much" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **pardon my sin, for it is great** - The abstract noun "sin" can be stated as "sinned." AT: "Please forgive me, for I have sinned much" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:025]]
 **[[:en:bible:notes:psa:025:008|<<]] | [[:en:bible:notes:psa:025:012|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1 pardon}}
+~~DISCUSSION~~{{tag>publish p2check book1 pardon}}
 
 ~~NOCACHE~~

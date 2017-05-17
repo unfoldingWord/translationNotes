@@ -21,7 +21,9 @@
 
 <usfm>
 \v 1 This is a list of those who signed the agreement:
-\li1 I, Nehemiah son of Hacaliah, the governor and also Zedekiah.
+\b
+\li1 I, Nehemiah, the governor and also Zedekiah.
+\b
 \m
 \v 2 The priests who signed it were:
 \li1 Seraiah, Azariah, Jeremiah,
@@ -38,9 +40,9 @@
 <usfm>
 \c 10
 \p
-\v 1 On the sealed documents were
-Nehemiah, the governor, son of Hacaliah
-and Zedekiah,
+\v 1 Those who put their names on the sealed documents were: 
+Nehemiah son of Hacaliah, the governor, 
+and the priests who signed were Zedekiah,
 \v 2 Seraiah, Azariah, Jeremiah,
 \v 3 Pashhur, Amariah, Malchijah,
 </usfm>
@@ -56,13 +58,8 @@ and Zedekiah,
   * [[:en:obe:other:zedekiah]]
 ===== translationNotes: =====
 
-  * **On the sealed documents were** - You may need to fill in the missing words. "On the sealed documents were the names of the following people:" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **sealed documents** - The documents were sealed after the names had been signed on the documents.
-  * **Nehemiah** - Some people believe that Nehemiah wrote this book (see UDB) and is speaking of himself as if he were someone else because this is an official list. (See: [[:en:ta:vol2:translate:figs_pronouns]]) 
-  * **Hacaliah** - This is a man's name. Translate as in [[:en:bible:notes:neh:01:01|1:1]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Zedekiah, Seraiah ... Jeremiah, Pashhur, Amariah** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Azariah** - This is a man's name. Translate as in [[:en:bible:notes:neh:03:22|3:23]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Malchijah** - This is a man's name. Translate as in [[:en:bible:notes:neh:03:11|3:11]]. (See: [[:en:ta:vol1:translate:translate_names]])
+
+  * **Nehemiah ... Hacaliah ... Zedekiah, Seraiah, Azariah, Jeremiah, Pashhur, Amariah, Malchijah** - These are male names. (See: [[:en:ta:vol1:translate:translate_names]])
  
  
 ===== Links: =====
@@ -78,6 +75,6 @@ and Zedekiah,
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass nehemiah}}
+{{tag>publish p2edit nehemiah}}
 
 ~~NOCACHE~~

@@ -23,7 +23,7 @@
 \q1
 \v 3 You have caused us, your people, to suffer very much;
 \q2 it is as though you had taken away our strength by making us drink strong wine.
-
+\b
 
 
 \q1
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:060]]
 **[[:en:bible:notes:psa:060:001|<<]] | [[:en:bible:notes:psa:060:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

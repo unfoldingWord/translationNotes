@@ -29,9 +29,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 Of the descendants of Azgad, Johanan son of Hakkatan and with him were listed 110 males.
-\v 13 Those of the descendants of Adonikam came later. These were their names: Eliphelet, Jeuel, and Shemaiah and with them came sixty males.
-\v 14 Of the descendants of Bigvai, Uthai and Zaccur and with him were listed seventy males.
+\v 12 Of the descendants of Azgad: Johanan son of Hakkatan. With him were listed 110 males.
+\v 13 Those of the descendants of Adonikam came later. These were their names: Eliphelet, Jeuel, and Shemaiah. With them came sixty males.
+\v 14 Of the descendants of Bigvai: Uthai and Zaccur. With him were listed seventy males.
 </usfm>
 
 
@@ -40,16 +40,12 @@
   * [[:en:obe:other:descendant]]
 ===== translationNotes: =====
 
-  * **General Information:** - This is the end of the list of men's names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **General Information:** - Continuing list of names of men (See: [[:en:ta:vol1:translate:translate_names]])
  
-
-  * **Of the descendants of Azgad, Johanan son of Hakkatan** - This is the next item in the list. It can be written with the verb "was." AT: "The leader of the descendants of Azgad was Johanan son of Hakkatan" or "Johanan son of Hakkatan was the leader of the descendants of Azgad"
-  * **and with him were listed 110 males** - "and with Johanan were listed 110 males"
-  * **Those of the descendants of Adonikam** - The word "those" refers to the leaders. AT: "The leaders of the descendants of Adonikam"
-  * **Azgad** - Translate this man's name as you did in [[:en:bible:notes:ezr:02:11|2:12]].
-  * **Adonikam** - Translate this man's name as you did in [[:en:bible:notes:ezr:02:11|2:13]].
-  * **Bigvai** - Translate this man's name as you did in [[:en:bible:notes:ezr:02:01|2:2]].
-  * **sixty ... seventy** - "60 ... 70" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Azgad** - See how you translated this in [[:en:bible:notes:ezr:02:11|2:12]].
+  * **Adonikam** - See how you translated this in [[:en:bible:notes:ezr:02:11|2:13]].
+  * **Bigvai** - See how you translated this in [[:en:bible:notes:ezr:02:01|2:2]].
+  * **sixty ... seventy** - 60, 70. The numbers represent the men and boys in each family listed. (See: [[:en:ta:vol2:translate:translate_numbers]])
 
  
 ===== Links: =====
@@ -65,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

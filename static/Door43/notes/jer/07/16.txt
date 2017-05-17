@@ -29,7 +29,7 @@
 
 <usfm>
 \p
-\v 16 As for you, Jeremiah, do not pray for this people, and do not lift up a lamenting wail or say a prayer on their behalf, and do not petition me, for I will not listen to you.
+\v 16 And you, Jeremiah, do not pray for this people, and do not lift up a lamenting wail or say a prayer on their behalf, and do not petition me, for I will not listen to you.
 \v 17 Do you not see what they are doing in the cities of Judah and in the streets of Jerusalem?
 \v 18 The children are gathering wood and the fathers kindling the fire! The women are kneading dough to make cakes for the queen of the heavens and pour out drink offerings for other gods so that they will provoke me.
 </usfm>
@@ -49,19 +49,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh speaks to Jeremiah about the people of Judah.  In these verses, "this people" refers to the people of Judah.
-
-  * **do not pray for this people, and do not lift up a lamenting wail or say a prayer on their behalf, and do not petition me** - These four clauses each mean about the same thing and are repeated for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **lift up a lamenting wail** - "cry out with sadness"
-  * **on their behalf** - "for their benefit" or "for them"
-  * **petition me** - "plead with me"
-  * **Do you not see what they are doing in the cities of Judah and in the streets of Jerusalem?** This question expects a positive answer and is asked to bring these things to Jeremiah's attention. They can be expressed as a statement. AT: "Look at what they are doing in the cities of Judah and in the streets of Jerusalem!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **kindling the fire** - "starting the fire"
-  * **kneading dough** - mixing dough by hand
-  * **dough** - a thick mixture of flour and liquid used for baking
-  * **the queen of the heavens** - This was the name of a false god. AT: "the false god known as 'the queen of the heavens'" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **do not pray for this people, and do not lift up a lamenting wail or say a prayer on their behalf, and do not petition me** - These four clauses say the same thing. AT: "do not pray to me asking me to bless these people" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **do not lift up a lamenting wail** - "do not cry out with sadness"
+  * **on their behalf** - "for their benefit" or "in their interest"
+  * **do not petition me** - "do not ask me"
   * **will provoke me** - "will anger me"
-
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -69,6 +61,6 @@
   * [[:en:bible:questions:comprehension:jer:07]]
 **[[:en:bible:notes:jer:07:12|<<]] | [[:en:bible:notes:jer:07:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check drinkoffering}}
+~~DISCUSSION~~{{tag>publish p2edit drinkoffering}}
 
 ~~NOCACHE~~

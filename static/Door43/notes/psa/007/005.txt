@@ -20,7 +20,7 @@
 \q1 Allow them to trample me into the ground
 \q2 and leave me lying dead in the dirt.
 
-
+\b
 
 
 \q1
@@ -33,7 +33,7 @@
 \q
 \v 5 If I am not telling the truth then let my enemy pursue my life and overtake it;
 \q let him trample my living body on the ground
-\q and leave me lying dishonored in the dust.
+\q and leave me lying dishonored in the dust. 
 \qs Selah\qs*
 </usfm>
 
@@ -59,6 +59,6 @@
   * [[:en:bible:questions:comprehension:psa:007]]
 **[[:en:bible:notes:psa:007:003|<<]] | [[:en:bible:notes:psa:007:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1 trample}}
+~~DISCUSSION~~{{tag>publish p2check book1 trample}}
 
 ~~NOCACHE~~

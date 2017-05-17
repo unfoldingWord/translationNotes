@@ -27,8 +27,9 @@
 
 <usfm>
 \q1
-\v 8 this is the declaration of the Lord Yahweh, who gathers the outcasts of Israel—
-\q1 I will still gather others in addition to them."
+\v 8 The Lord Yahweh, who gathers the outcasts of Israel, declares this—
+\q1 "I will gather others in addition to them,
+\q2 besides those already gathered."
 </usfm>
 
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:isa:56]]
 **[[:en:bible:notes:isa:56:06|<<]] | [[:en:bible:notes:isa:56:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

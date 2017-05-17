@@ -14,11 +14,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 Dear Theophilus,
+\v 1 Dear Theophilus, 
 \p Many people have written reports about the amazing events that have happened among us.
 \v 2 We heard about these things from people who saw them happen, from the time everything first started happening. These people taught others about God's message.
 \v 3 I myself have carefully studied everything that these people wrote and taught. So I decided that it would also be good for me to write for you, noble Theophilus, an accurate account of these matters.
-\v 4 I am doing this so that you may know that what you have been taught about these things is true.
+\v 4 I am doing this so that you may know that what you have been taught about these things is true. 
+
 
 \p
 </usfm>
@@ -26,12 +27,13 @@
 ===== ULB: =====
 
 <usfm>
-\c 1
-\p
-\v 1 Many have tried to set in order a narrative about those matters that have been fulfilled among us, 
-\v 2 just as they handed them to us, who from the beginning have been eyewitnesses and servants of the message.
-\v 3 So to me also it seemed good—having accurately investigated the course of all these things from the beginning— to write an orderly account for you, most excellent Theophilus.
-\v 4 This is so that you might know the truth about the things that you were taught.
+\c 1 
+\p 
+\v 1 Many have tried to set in order a narrative about those matters that have been fulfilled among us,  
+\v 2 just as they handed them to us, who from the beginning have been eyewitnesses and servants of the message. 
+\v 3 So to me also it seemed good—having accurately investigated the course of all these things from the beginning— to write an orderly account for you, most excellent Theophilus. 
+\v 4 This is so that you might know the truth about the things that you were taught. 
+\b
 </usfm>
 
 ===== translationWords: =====

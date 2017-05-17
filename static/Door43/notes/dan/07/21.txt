@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 21 As I looked, this horn waged war against the holy people and was defeating them
+\v 21 As I looked, this horn waged war against the holy people and was defeating them 
 \v 22 until the Ancient of Days came, and justice was given to the holy people of the Most High. Then the time came when the holy people received the kingdom.
 </usfm>
 
@@ -38,11 +38,9 @@
 
 ===== translationNotes: =====
 
-  * **this horn** - "this fourth horn." This refers to the horn that is described in [[:en:bible:notes:dan:07:19|7:20]]. 
-  * **until the Ancient of Days came, and justice was given** - This can be stated in active form. AT: "until the Ancient of Days came and brought justice" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Ancient of Days** - This is a title for God that emphasizes that he is eternal. See how you translated this title in [[:en:bible:notes:dan:07:09|7:9]].
-  * **the holy people received the kingdom** - This can be stated in active form. AT: "God gave his kingdom to his holy people" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **this horn** - This refers to the horn that is described in [[:en:bible:notes:dan:07:19|7:20]]. 
+  * **until the Ancient of Days came, and justice was given** - AT: "until the Ancient of Days came and brought justice" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Ancient of Days** - See how you translated this title in [[:en:bible:notes:dan:07:09|7:9]].
 
 ===== Links: =====
 
@@ -51,6 +49,6 @@
   * [[:en:bible:questions:comprehension:dan:07]]
 **[[:en:bible:notes:dan:07:19|<<]] | [[:en:bible:notes:dan:07:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

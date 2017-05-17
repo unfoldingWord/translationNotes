@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 26 Their priests disobey my laws and dishonor my sacred things by saying that there is no difference between things that are sacred and those that are not sacred, and by ignoring my laws about resting on the Sabbath days. As a result, they no longer honor me.
+\v 26 Their priests disobey my laws and dishonor my sacred things by saying that there is no difference between things that are sacred and those that are not sacred, and by ignoring my laws about resting on the Sabbath days. As a resut, they no longer honor me.
 \v 27 Their officials are like wolves that tear apart the animals that they have killed. They murder people in order to get their money.
-\v 28 Their prophets try to cover up those sins by saying they have received visions from God. They say, 'This is what Yahweh the Lord says,' when I have said nothing to them.
+\v 28 Their prophets try to cover up those sins by saying they have received visions from God, but by giving false messages. They say, 'This is what Yahweh the Lord says,' when I have said nothing to them.
 </usfm>
 
 
@@ -24,7 +24,7 @@
 <usfm>
 \v 26 Her priests do violence to my law, and they profane my holy things. They do not distinguish between holy things and profane things, and do not teach the difference between the unclean and the clean. They hide their eyes from my Sabbaths so that I am profaned in their midst.
 \v 27 Her princes within her are like wolves tearing apart their victims. They pour out blood and destroy life, to make a profit dishonestly.
-\v 28 Her prophets have painted them over with whitewash; they see false visions and predict falsehoods to them. They say "The Lord Yahweh says this" when Yahweh has not spoken.
+\v 28 And her prophets have painted them over with whitewash; they see false visions and predict falsehoods to them. They say "The Lord Yahweh says this" when Yahweh has not spoken.
 </usfm>
 
 
@@ -42,15 +42,7 @@
 ===== translationNotes: =====
 
   * **her** - This pronoun refers to Jerusalem.
-  * **do violence to my law** - "disobey my laws" (UDB)
-  * **the unclean and the clean** - This refers to unclean and clean things. Something that God considers spiritually unacceptable or defiled is spoken of as if it were physically unclean. AT: "things that are unclean and things that are clean" (See: [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **They hide their eyes from my Sabbaths** - This speaks of the people ignoring and not observing the Sabbath and if they were hiding their eyes from the Sabbath" AT: "They ignore my Sabbaths" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **so that I am profaned in their midst** - This can be stated in active form. AT: "and profane me among themselves" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Her princes within her are like wolves tearing apart their victims** - This compares Israel's princes to wolves who attack and kill their victims. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **They pour out blood and destroy life** - These two phrases mean basically the same thing and emphasize the violence that the princes practice. AT: "They murder people" (UDB). (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Her prophets have painted them over with whitewash** - This speaks of the prophets trying to hide the these sins as if they were something that they could paint over with whitewash. AT: "It is like her prophets have painted over their sins with whitewash" or "Their prophets try to hide these evil things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **whitewash** - This is a solution that is painted on things to make them white that is similar to white paint. 
-  * **predict falsehoods to them** - "predict lies for the princes." The word "them" refers to the princes. 
+  * **They pour out blood and destroy life** - These two phrases mean basically the same thing and emphasize the violence that Jerusalem's princes practice. AT: "They murder people" (UDB). (See: [[:en:ta:vol2:translate:figs_parallelism]])
  
 ===== Links: =====
 
@@ -65,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

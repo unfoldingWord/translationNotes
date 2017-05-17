@@ -36,13 +36,11 @@
 
 ===== translationNotes: =====
 
-  * **where there is mourning** - The word "mourning" can be translated with a verbal phrase. AT: "where people are mourning" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **I have gathered up my peace, covenant faithfulness, and acts of tender mercy** - Yahweh speaks of no longer acting towards the people with peace, covenant faithfulness, and tender mercy as if these were items that he has gathered up. AT: "I will no longer act towards them with peace, covenant faithfulness, and tender mercy" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **the great and the small** - This refers to all kinds of people and uses size to refer to how important they are. AT: "the important and the unimportant" or "many people, regardless of how important they are" (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **They will not be buried** - This can be stated in active form. AT: "No one will bury them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **No one will cut themselves or shave their heads for them** -  Cutting oneself and shaving one's head were symbolic actions that expressed strong grief, especially when a loved one died. (See: [[:en:ta:vol2:translate:translate_symaction]])
-
+  * **I have gathered up my peace, covenant faithfulness, and acts of tender mercy** - Yahweh gather different ways he has blessed the people of Israel to mean he will not bless the people of Israel anymore. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|1:8]].
+  * **the great and the small** - This refers to all kinds of people and uses size to refer to how important they are. Either great importance or small importance. (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **nor will anyone mourn for them. No one will cut themselves or shave their heads for them** - These two statements have similar meanings. The second one strengthens the thought in the first. AT: "No one will mourn for them in any way." (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **cut themselves or shave their heads for them** - These are customs the people used to show they were very sad. (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -50,6 +48,6 @@
   * [[:en:bible:questions:comprehension:jer:16]]
 **[[:en:bible:notes:jer:16:01|<<]] | [[:en:bible:notes:jer:16:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

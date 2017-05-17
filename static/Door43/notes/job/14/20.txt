@@ -38,8 +38,8 @@
 \v 20 You always defeat him, and he passes away;
 \q you change his face and send him away to die.
 \q
-\v 21 If his sons are honored, he does not know it;
-\q and if they are brought low, he does not see it.
+\v 21 His sons may come to honor, but he does not know it;
+\q they may be brought low, but he does not see it happen.
 \q
 \v 22 He feels only the pain of his own body,
 \q and he mourns for himself.
@@ -54,13 +54,13 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues speaking to God.
-
-  * **You always defeat him** - The word "him" refers to any person. AT: "You always defeat man" or "You always defeat people"
-  * **he passes away** - Passing away represents dying. AT: "he dies" (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **you change his face** - Possible meanings are 1) the pain just before dying makes his face contract or 2) when a person dies, God makes the person's face look different.
-  * **send him away to die** - This represents causing him to die. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **if they are brought low** - Being brought low represents being shamed. AT: "if they are disgraced" or "if people shame them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **You always defeat him** - The word "You" refers to God, and "him" to any person.
+  * **he passes away** - AT: "he dies" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **you change his face** - Possible meanings are 1) the pain just before dying makes his face contract or 2) God deforms his face after he dies.
+  * **send him away to die** - Other translations may only have: "send him away," which is a euphemism. (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **may come to honor** - AT: "may be honored by other people" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **they may be brought low** - AT: "or they may be disgraced by other people"
+  * **He feels only the pain of his own body, and he mourns for himself.** - Job reflects on the pain and shortness of life, and the associated pain and mourning.
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -68,6 +68,6 @@
   * [[:en:bible:questions:comprehension:job:14]]
 **[[:en:bible:notes:job:14:18|<<]] | [[:en:bible:notes:job:15:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

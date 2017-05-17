@@ -20,8 +20,9 @@
 \v 19 By his wisdom Yahweh laid out the earth from the very beginning,
 \q2 and by his understanding he put everything in the heavens exactly where they should be.
 \q1
-\v 20 The deepest part of the oceans broke open according to Yahweh's design,
-\q2 and in the same way, he made the dew so it would fall from the clouds above.
+\v 20 The deepest part of the oceans broke open according to Yahweh's design, 
+\q2 and in the same way, he made the dew so it would fall from the clouds above. 
+
 
 \q1
 </usfm>
@@ -47,12 +48,15 @@
   * [[:en:obe:other:earth]]
   * [[:en:obe:kt:heaven]]
   * [[:en:obe:other:know]]
+ 
 
 ===== translationNotes: =====
 
-  * **Yahweh founded the earth ... established the heavens** - The writer speaks of Yahweh creating the earth and the heavens as if he were laying the foundation of a building. AT: "Yahweh created the earth ... made the heavens" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the depths broke open** - In ancient thought, water existed under the earth. This phrase refers to Yahweh causing that water to come out of the earth and make the oceans and rivers exist. AT: "he caused the rivers to flow" or "he caused the oceans to exist" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
+  * **founded the earth** - "created the world"
+  * **heavens** - This refers to everything we see above the earth, including the sun, moon, and stars. It also includes the heavenly bodies, such as far-off planets, that we cannot directly see from the earth.
   * **dew** - water that forms on the ground at night
+ 
  
 ===== Links: =====
 
@@ -67,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

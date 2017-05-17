@@ -22,8 +22,8 @@
 
 <usfm>
 \q1
-\v 13 Even if a tenth of the people remain in it, it will again be destroyed;
-\q1 as a terebinth or an oak is cut down and whose trunk remains,
+\v 13 Even if a tenth of the people remain in it, it will again be destroyed; 
+\q1 as a terebinth or an oak is cut down and whose trunk remains, 
 \q1 the holy seed is in its stump."
 </usfm>
 
@@ -39,10 +39,9 @@
 
 
   * **it will again be destroyed** - This can be stated in active form. AT: "armies will again destroy the land of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **as a terebinth or an oak is cut down and whose trunk remains, the holy seed is in its stump** - This simile means that even after Yahweh destroys Israel, he will still set apart people from among the Israelites to serve him. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **as a terebinth or an oak is cut down and whose trunk remains, the holy seed is in its stump** - "like a tree stump with new shoots, the people of Israel will be a holy people who obey God" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **terebinth** - a kind of oak tree (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **trunk ... stump** - A trunk is the thick main stem of a tree. A stump is the part of a tree that remains in the ground after the tree is cut down. 
-  * **the holy seed** - The people who will serve Yahweh after armies destroy Israel are spoken of as if they were set apart as a holy seed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **trunk ... stump** - The "trunk" is the thick main stem of a tree. The "stump" is the part of a tree that remains in the ground after the tree is cut down. 
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -50,6 +49,6 @@
   * [[:en:bible:questions:comprehension:isa:06]]
 **[[:en:bible:notes:isa:06:11|<<]] | [[:en:bible:notes:isa:07:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass tenth}}
+~~DISCUSSION~~{{tag>publish p2edit tenth}}
 
 ~~NOCACHE~~

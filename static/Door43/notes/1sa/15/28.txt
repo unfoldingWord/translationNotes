@@ -38,12 +38,9 @@
 
 ===== translationNotes: =====
 
-  * **Yahweh has torn the kingdom of Israel** - This refers back to when Saul tore Samuel's robe in [[:en:bible:notes:1sa:15:26|15:27]]. This can be made explicit. AT: "Just as you tore my robe, Yahweh has torn the kingdom of Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **has given it to a neighbor of yours, one who is better than you** - God had already decided who would be the next king after Saul.
-  * **the Strength of Israel** - This idiom refers to Yahweh, who gives strength to the Israelites. AT: "Yahweh, who is the strength of Israel" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will not lie nor change his mind** - This is stated as a negative to emphasize that God tells the truth. This can be stated in positive form. AT: "will always tell the truth and do what he says" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **his mind** - This refers to his thoughts and decisions. AT: "what he has decided to do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **he is not a man, that he should change his mind** - This is stated as a negative to emphasize that God is trustworthy. This can be stated in positive form. AT: "he is God, and will do what he says he will do" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **Yahweh has torn the kingdom of Israel** - This refers back to the tearing of the robe in [[:en:bible:notes:1sa:15:26|15:26-27]]. The full meaning of this statement can be made explicit. AT: "Just as Saul tore the robe, Yahweh has torn the kingdom." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **from you today and has given it to a neighbor of yours** - God has already decided who should be the next king.
+  * **the Strength of Israel** - "Strength" is a metonymy that phrase refers to the people of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
  
 ===== Links: =====
@@ -56,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -26,6 +26,7 @@
 \v 55 Barkos, Sisera, Temah,
 \li2
 \v 56 Neziah, and Hatipha.
+\b
 
 
 \pi
@@ -48,10 +49,8 @@
 ===== translationNotes: =====
 
 
-  * **General Information:** - These verses continue the names of people whose descendants returned from the exile.
-
-  * **Bakbuk ... Hakupha ... Harhur ... Bazlith ... Mehida ... Harsha ... Barkos ... Sisera ... Temah ... Neziah ... Hatipha** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Bazlith** - This is the name of a man who is also called Bazluth in Ezra 2:52.
+  * **Bakbuk ... Hakupha ... Harhur ... Bazlith ... Mehida ... Harsha ... Barkos ... Sisera ... Temah ... Neziah ... Hatipha.** - These are male names (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Bazlith** - This is the name of a man who is also called Bazluth in Ez. 2:52.
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -65,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

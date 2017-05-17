@@ -18,7 +18,7 @@
 <usfm>
 \v 9 But Uriah did not go home. Instead, he slept at the palace entrance with the palace guards.
 \p
-\v 10 When someone told David that Uriah did not go to his house that night, David summoned him again and said to him, "Why did you not go home to be with your wife last night, after having been away for a long time?"
+\v 10 When someone told David that Uriah did not go to his house that night, David summoned him again and said to him, "Why did you not go home to be with your wife last night, after having been away for a long time?" 
 \p
 \v 11 Uriah replied, "The soldiers of Judah and Israel are camping in the open fields, and even our commander Joab is sleeping in a tent, and the sacred chest is with them. I could not possibly go home, eat and drink, and sleep with my wife. I solemnly declare that I will never do such a thing!"
 
@@ -52,7 +52,7 @@
   * **Have you not come from a journey? Why did you not go down to your house?** - This rhetorical question is used to show David's surprise that Uriah did not visit his wife. This can be written as a statement. AT: "After coming from such a long journey, you should have gone down to your house." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Israel and Judah** - This refers to their armies. AT: "the armies of Israel and Judah" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **How then can I go into my house ... with my wife?** - This rhetorical question is used to emphasize Uriah's refusal to visit his wife and can be translated as a statement. AT: "It would be wrong for me to go into my house ... with my wife while the other soldiers in my army are in danger." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **As sure as you are alive, I will not do this** - Uriah swears a strong promise that he will not go home to his wife as long as the rest of the soldiers are at war. He makes this promise by comparing the truth of his promise to the certainty that the king was alive. AT: "I solemnly promise that I will not do this!" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **As sure as you are alive, I will not do this.** - Uriah swears a strong promise that he will not go home to his wife as long as the rest of the soldiers are at war. He makes this promise by comparing the truth of his promise to the certainty that the king was alive. AT: "I solemnly promise that I will not do this!" (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -66,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -45,7 +45,7 @@
 
 ===== translationNotes: =====
 
-  * **For what reason should he be put to death? What has he done?** - Jonathan is trying to get Saul to think carefully about what he is doing. This can be translated as a statement, and the words "should he be put to death" can be translated in active form. AT: "You have no good reason to put him to death. He has done nothing wrong." or "You have no good reason to kill him. He has done nothing wrong." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **he be put to death** - This can be stated in active form. AT: "you put him to death" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the second day of the month** - This "second" is an ordinal number which refers to two. AT: "the second day of the new moon festival" (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **he was grieved over David** - This can be stated in active form. AT: "he was grieving over David" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **had dishonored him** - Here "him" refers to David.
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:1sa:20]]
 **[[:en:bible:notes:1sa:20:30|<<]] | [[:en:bible:notes:1sa:20:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example biblicaltimemonth david dishonor}}
+~~DISCUSSION~~{{tag>publish p2edit biblicaltimemonth david dishonor}}
 
 ~~NOCACHE~~

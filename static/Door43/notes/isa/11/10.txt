@@ -35,14 +35,15 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 10 On that day, the root of Jesse will stand as a banner for the peoples.
+\v 10 On that day, the root of Jesse will stand as a banner for the peoples. 
 \q1
 The nations will seek him out, and his resting place will be glorious.
 \q1
-\v 11 On that day, the Lord will again extend his hand
+\v 11 On that day, the Lord will again extend his hand 
 \q1 to recover the remnant of
-his people who remain in Assyria, Egypt,
+his people who remain in Assyria, Egypt, 
 \q1 Pathros, Cush, Elam, Shinar, Hamath, and the islands of the sea.
 </usfm>
 
@@ -64,11 +65,9 @@ his people who remain in Assyria, Egypt,
 
 ===== translationNotes: =====
 
-  * **the root of Jesse** - This refers to Jesse's and King David's descendant who would become the king that was told about in [[:en:bible:notes:isa:11:01|1:1]]. AT: "Jesse's descendant king" or "the king descended from Jesse" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will stand as a banner for the peoples** - A banner is a flag that a king would raise as a sign for people to see it and come to him. AT: "will be like a sign for the peoples" or "will attract the peoples to come to him" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **The nations** - "The people of the nations"
-  * **the Lord will again extend his hand to recover the remnant of his people** - The hand is a reference to God's power. AT: "the Lord will again use his power to bring back the remnant of his people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the Lord will again extend his hand to recover the remnant of his people** - The hand is a reference to God's power. AT: "The Lord will again use his power to bring back the remnant of his people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Pathros ... Elam ... Hamath** - These are names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -76,6 +75,6 @@ his people who remain in Assyria, Egypt,
   * [[:en:bible:questions:comprehension:isa:11]]
 **[[:en:bible:notes:isa:11:08|<<]] | [[:en:bible:notes:isa:11:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass remnant shinar}}
+~~DISCUSSION~~{{tag>publish p2edit remnant shinar}}
 
 ~~NOCACHE~~

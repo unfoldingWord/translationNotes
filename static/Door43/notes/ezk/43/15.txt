@@ -12,9 +12,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 The hearth at the top of the altar is another two meters high, and there is a hornlike projection that juts up from each of the four corners.
-\v 16 That place at the top of the altar is square, six and one-half meters long on each side.
-\v 17 The upper ledge that borders the hearth is also a square, seven and three-fifth meters long on each side, and has a rim all around that is twenty-seven centimeters wide. There is a gutter measuring one-half meter at the bottom of the altar. There are steps leading up to the east side of the altar."
+\v 15 The hearth at the top of the altar is another 2.1 meters high, and there is a hornlike projection that juts up from each of the four corners.
+\v 16 That place at the top of the altar is square, about 6.5 meters long on each side.
+\v 17 The upper ledge that borders the hearth is also a square, about 7.6 meters long on each side, and has a rim all around that is about twenty-seven centimeters wide. There is a one half meter wide gutter at the bottom of the altar. There are steps leading up to the east side of the altar."
 
 
 \p
@@ -24,8 +24,8 @@
 
 <usfm>
 \v 15 The hearth on the altar for the burnt offerings is four cubits high, and there are four horns pointing upward on the hearth.
-\v 16 The hearth is twelve cubits in length and twelve cubits in width, a square.
-\v 17 Its border is fourteen cubits in length and fourteen cubits in width on each of its four sides, and its rim is a half cubit in width. The gutter is a cubit in width all around with its steps facing east."
+\v 16 The hearth is twelve cubits long and twelve cubits wide, a square.
+\v 17 Its border is fourteen cubits long and fourteen cubits wide on each of its four sides, and its rim is a half cubit wide. The gutter is a cubit wide all around with its steps facing east."
 </usfm>
 
 ===== translationWords: =====
@@ -35,8 +35,7 @@
 ===== translationNotes: =====
 
   * **The hearth** - the place where sacrifices were either cooked or burnt up with fire
-  * **four cubits ... twelve cubits ... fourteen cubits ... a half cubit ... a cubit** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "about 2.2 meters ... about 6.5 meters ... about 7.6 meters ... about 27 centimeters ... about 54 centimeters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **horns** - The horns were the parts of the altar at the four corners of the altar that stuck up above the rest of the altar.
+  * **horn** - parts of the altar at the four corners of the altar that stuck up above the rest of the altar
  
 ===== Links: =====
 
@@ -45,6 +44,6 @@
   * [[:en:bible:questions:comprehension:ezk:43]]
 **[[:en:bible:notes:ezk:43:13|<<]] | [[:en:bible:notes:ezk:43:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

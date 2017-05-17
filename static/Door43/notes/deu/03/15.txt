@@ -21,7 +21,7 @@
 
 <usfm>
 \v 15 I gave Gilead to Machir.
-\v 16 To the Reubenites and to the Gadites I gave territory from Gilead to the Valley of the Arnon—the middle of the valley is the territory's border—and to the Jabbok River, which is the border with the descendants of Ammon.
+\v 16 To the Reubenites and to the Gadites I gave territory from Gilead to the valley of the Arnon—the middle of the valley is the territory's border—and to the Jabbok River, which is the border with the descendants of Ammon.
 </usfm>
 
 
@@ -38,8 +38,8 @@
   * **General Information:** - Moses continues to speak to the people of Israel.
 
   * **I gave** - Here "I" refers to Moses.
-  * **to Machir** - Machir was the son of Manasseh. He had died before Moses gave this land. The name is a metonym for the descendants of the person. AT: "to the descendants of Machir." (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the Valley of the Arnon** - This is the name of the valley of the Arnon River. It creates the border between Moab and the Amorites. See how you translated this in [[:en:bible:notes:deu:02:24|2:24]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **to Machir** - "to the descendants of Machir." This is the son of Manasseh. He had died before Moses gave this land. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the valley of the Arnon** - This is the name of the valley of the Arnon River. It creates the border between Moab and the Amorites. See how you translated this in [[:en:bible:notes:deu:02:24|2:24]]. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Jabbok River** - This is the name of a river that created the border between Sihon's land and the land of the Ammonites. See how you translated this in [[:en:bible:notes:deu:02:36|2:37]]. (See: [[:en:ta:vol1:translate:translate_names]])
 
  
@@ -55,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

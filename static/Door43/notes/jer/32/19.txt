@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 You are great in wisdom and mighty in deeds, for your eyes are open to all the ways of people, to give to each man what his conduct and deeds deserve.
+\v 19 You are great in wisdom and mighty in deeds, for your eyes are open to all the ways of people, to give to each man what his conduct and deeds deserve. 
 \v 20 You did signs and wonders in the land of Egypt. To this present day here in Israel and among all mankind, you have made your name famous.
 \v 21 For you brought your people Israel out from the land of Egypt with signs and wonders, with a strong hand, with a raised arm, and with great terror.
 </usfm>
@@ -42,15 +42,15 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Jeremiah continues praying the introduction to his lament to Yahweh.
+  * **General Information:** - Jeremiah continues praying to Yahweh.
 
-  * **for your eyes are open to all the ways of people** - Open eyes are a metonym for what the person sees. How a person lives is spoken of as if he were walking on a path. AT: "You see everything that people do" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **to give to each man what his conduct and deeds deserve** - The abstract nouns "conduct" and "deeds," which are similar in meaning, can be translated as verbs. AT: "and will reward everyone according to how good or evil the things they do are" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_doublet]])
+  * **for your eyes are open to all the ways of people** - AT: "You see everything that people do" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to give to each man what his conduct and deeds deserve** - "and will reward everyone according to the things they do"
   * **You did signs and wonders in the land of Egypt** - This refers to an event in the past when God used his power to free the people of Israel from slavery in Egypt.
   * **To this present day** - "To this day"
   * **and among all mankind** - "and among all people"
   * **you have made your name famous** - Here "name" refers to God's reputation. AT: "you have made yourself famous" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **with a strong hand, with a raised arm** - The phrase "strong hand" is a metonym for strength, and the phrase "raised arm" is a metonym for the strength of the arm, so the phrases "strong hand" and "raised arm" form a doublet. AT: "by your great strength" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_doublet]])
+  * **with a strong hand, with a raised arm** - Both of these phrases are idiomatic ways of referring to strength. Together the phrases emphasize the greatness of Yahweh's power. AT: "with your great power." (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -59,6 +59,6 @@
   * [[:en:bible:questions:comprehension:jer:32]]
 **[[:en:bible:notes:jer:32:16|<<]] | [[:en:bible:notes:jer:32:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check Kteam}}
+~~DISCUSSION~~{{tag>publish p2edit Kteam}}
 
 ~~NOCACHE~~

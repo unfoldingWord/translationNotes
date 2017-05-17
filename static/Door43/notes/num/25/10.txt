@@ -19,7 +19,7 @@
 <usfm>
 \p
 \v 10 Yahweh spoke to Moses and said,
-\v 11 "Phinehas son of Eleazar son of Aaron the priest, has turned my rage away from the people of Israel because he was passionate with my zeal among them. So I have not consumed the people of Israel in my fierceness.
+\v 11 "Phinehas son of Eleazar son of Aaron, the priest, has turned my rage away from the people of Israel because he was passionate with my zeal among them. So I have not consumed the people of Israel in my fierceness.
 </usfm>
 
 ===== translationWords: =====
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:num:25]]
 **[[:en:bible:notes:num:25:08|<<]] | [[:en:bible:notes:num:25:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass rage}}
+~~DISCUSSION~~{{tag>publish p2check rage}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 \q1
 \v 4 He has chosen us, the descendants of Jacob;
 \q2 he has chosen us Israelites to belong to him.
-
+\b
 
 
 \q1
@@ -48,8 +48,8 @@
 ===== translationNotes: =====
 
   * **for it is pleasant to do so** - "because we get pleasure from praising his name"
-  * **Yahweh has chosen Jacob** - "Jacob" here refers to his descendants, the people of Israel. AT: "Yahweh has chosen Jacob's descendants" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Israel as his possession** - The beginning of the sentence can be stated clearly. AT: "he has chosen Israel to be his possession" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Yahweh has chosen Jacob** - "Jacob" here refers his descendants, the people of Israel. AT: "Jacob's descendants" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Israel as his possession** - The beginning of the sentence can be stated clearly. AT: "He has chosen Israel to be his possession" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:135]]
 **[[:en:bible:notes:psa:135:001|<<]] | [[:en:bible:notes:psa:135:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

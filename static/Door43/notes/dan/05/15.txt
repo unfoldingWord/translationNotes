@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 There were men who are known for their wisdom and others who speak with the dead, and they tried to read the writing on this wall and to tell me what it means, but they could not do it.
+\v 15 The men who are known for their wisdom and who speak with the dead tried to read the writing on this wall and to tell me what it means, but they could not do it.
 \v 16 Someone told me that you can explain what dreams mean and that you can make things understandable that others cannot know. If you can read these words and tell me what they mean, I will give you a purple robe like I wear because I am the king, and I will put a gold chain around your neck, and I will make you the third most powerful ruler in the kingdom."
 
 
@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 Now the men known for wisdom and those who claim to speak with the dead have been brought in before me to read this writing and make known to me its interpretation, but they could not make known the interpretation of it.
+\v 15 And now the men known for wisdom and those who claim to speak with the dead, have been brought in before me, to read this writing and make known to me its interpretation, but they could not make known the interpretation of it.
 \v 16 I have heard that you can give interpretations and solve problems. Now if you can read the writing and tell me its meaning, you will be clothed with purple and have a gold chain placed around your neck, and you will have the authority of the third highest ruler in the kingdom."
 </usfm>
 
@@ -38,12 +38,7 @@
 
 ===== translationNotes: =====
 
-  * **Now the men known ... have been brought in before me** - This can be stated in active form. AT: "Now the men known ... have come in before me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **make known to me** - "tell me"
-  * **you will be clothed with purple and have a gold chain placed around your neck** - This can be stated in active form. AT: "I will give you purple clothes and a gold neck chain" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **clothed with purple** - Purple cloth was rare and reserved for royal officials. AT: "dressed in royal clothing" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the third highest ruler** - "the number three ruler" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-
+  * **third highest ruler** - "ruler three" (See: [[:en:ta:vol2:translate:translate_ordinal]])
 
 ===== Links: =====
 
@@ -52,6 +47,6 @@
   * [[:en:bible:questions:comprehension:dan:05]]
 **[[:en:bible:notes:dan:05:13|<<]] | [[:en:bible:notes:dan:05:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

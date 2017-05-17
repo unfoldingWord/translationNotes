@@ -18,7 +18,7 @@
 
 <usfm>
 \v 19 Now therefore write this song for yourselves and teach it to the people of Israel. Put it in their mouths, so that this song may be a witness for me against the people of Israel.
-\v 20 For when I will have brought them into the land that I swore to give to their ancestors, a land flowing with milk and honey, and when they have eaten and become satisfied and fat, then they will turn to other gods and they will serve them and they will despise me and they will break my covenant.
+\v 20 For when I will have brought him into the land that I swore to give to his ancestors, a land flowing with milk and honey, and when he will have eaten and become satisfied and fat, then he will turn to other gods and they will serve them; they will despise me and he will break my covenant.
 </usfm>
 
 ===== translationWords: =====
@@ -39,6 +39,7 @@
   * **General Information:** - Yahweh continues speaking to Moses about the Israelites.
 
   * **Put it in their mouths** - This is an idiom. AT: "Make them memorize and sing it" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **his ancestors ... he will have eaten and become ... he will turn ... he will break** - Yahweh is speaking of the Israelites as one man, so all instances of "he" and "his" refer to the people as a group, not as many people. It is best to translate as plural throughout. "their ancestors ... they will have eaten and become ... they will turn ... they will break" (See: [[:en:ta:vol2:translate:figs_pronouns]])
   * **a land flowing with milk and honey** - This is an idiom. AT: "a land where plenty of milk and honey flow" or "a land that is excellent for cattle and farming" See how you translated this in [[:en:bible:notes:deu:06:03|6:3]].
 
 ===== Links: =====
@@ -48,6 +49,6 @@
   * [[:en:bible:questions:comprehension:deu:31]]
 **[[:en:bible:notes:deu:31:17|<<]] | [[:en:bible:notes:deu:31:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

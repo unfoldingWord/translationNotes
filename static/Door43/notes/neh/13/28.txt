@@ -27,7 +27,7 @@
 
 <usfm>
 \p
-\v 28 One of the sons of Joiada son of Eliashib the high priest was son-in-law to Sanballat the Horonite. Therefore I caused him to flee from my presence.
+\v 28 One of the sons of Joiada son of Eliashib the high priest was son-in-law to Sanballat the Horonite. Therefore I physically removed him from my presence. 
 \p
 \v 29 Call them to mind, my God, because they have defiled the priesthood, and the covenant of the priesthood and the Levites.
 </usfm>
@@ -46,13 +46,11 @@
   * [[:en:obe:other:levite]]
 ===== translationNotes: =====
 
-  * **Joiada ... Eliashib ... Sanballat** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the Horonite** - This refers to a person from the city of Beth Horon. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **I caused him to flee from my presence** - "I chased him away" or "I made him leave Jerusalem"
-  * **Call them to mind** - "Think about them" or "Remember what they have done." See how you translated a similar phrase in [[:en:bible:notes:neh:13:12|13:14]].
-  * **they have defiled the priesthood, and the covenant of the priesthood and the Levites** - Causing the priesthood to be dishonored and breaking the covenant is spoken of as if they made the priesthood and covenant physically unclean. AT: "they have dishonored the priesthood and broken the covenant you made with the priests and Levites" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
-
+  * **Joiada ... Eliashib ... Sanballat** - These are names of males. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the Horonite** - This is a people group. (See: [[:en:obe:other:peoplegroup]])
+  * **Sanballat** - the sworn enemy of the Jews
+  * **physically removed him** - "physically dragged him out"
+  * **Call them to mind, my God** - "My God, remember these people and what I have done*" - For the third time, Nehemiah is giving an account of the things he did to make sure that the Law was followed. He asks God to remember his deeds. 
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -66,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

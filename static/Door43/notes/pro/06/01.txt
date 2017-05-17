@@ -18,10 +18,11 @@
 
 <usfm>
 \v 1 My son, if you provide a guarantee for a neighbor who takes out a loan,
-\q2 or if you give the promise that you will pay for a loan of a person you do not know,
+\q2 or if you give the promise that you will pay for a loan of a person you do not know, 
 \q1
-\v 2 you laid a trap for yourself by making the promise,
-\q2 and you have been caught by agreeing to a contract for someone you did not know.
+\v 2 you laid a trap for yourself by making the promise, 
+\q2 and you have been caught by agreeing to a contract for someone you did not know. 
+
 
 \q1
 </usfm>
@@ -32,7 +33,7 @@
 <usfm>
 \c 6
 \q
-\v 1 My son, if you set aside your money as a guarantee for your neighbor's loan,
+\v 1 My son, if you set aside your money as a guarantee for your neighbor's loan, 
 \q if you gave your promise for a loan of someone you do not know,
 \q
 \v 2 then you have laid a trap for yourself by your promise
@@ -48,11 +49,11 @@
 
 ===== translationNotes: =====
 
-  * **set aside your money** - Implied here is that your promise and the circumstances forced you to save up your money. AT: "had to save up some of your money" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **a guarantee for your neighbor's loan** - Possible meanings are 1) your neighbor may come to you to ask for a loan or 2) your neighbor wants to take out a loan from someone else, but you promise to pay the lender back if your neighbor cannot.
-  * **neighbor** - This same Hebrew word can also mean "friend."
-  * **you have laid a trap for yourself** - This is a figure of speech saying that you are going to trap yourself. AT: "you have made a trap in which you yourself are caught" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the words of your mouth** - "what you said" or "what you promised to do"
+  * **set aside your money** - Implied here is that your promise and the circumstances forced you to save up. AT: "had to save up some of your money" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **a guarantee for your neighbor's loan** - Possible meanings are 1) your neighbor may come to you to ask for a loan 2) your neighbor wants to take out a loan from someone else, but you promise to pay the lender back if your neighbor cannot.
+  * **neighbor** - this same Hebrew word can also mean "friend"
+  * **you have laid a trap for yourself** - AT: "you have made a trap in which you yourself are caught" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the words of your mouth** - AT: "what you said" or "what you promised to do"
 
 ===== Links: =====
 
@@ -61,6 +62,6 @@
   * [[:en:bible:questions:comprehension:pro:06]]
 **[[:en:bible:notes:pro:05:22|<<]] | [[:en:bible:notes:pro:06:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

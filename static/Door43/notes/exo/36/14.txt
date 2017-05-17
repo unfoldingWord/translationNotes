@@ -12,8 +12,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 Bezalel and his men made a cover for the sacred tent from 11 pieces of cloth made from goats' hair.
-\v 15 Each piece of cloth was eighteen and one-third meters long and one and four-fifth meters wide.
+\v 14 Bezalel and his men made a cover for the sacred tent from eleven pieces of cloth made from goats' hair.
+\v 15 Each piece of cloth was 18.3 meters long and 1.8 meters wide.
 \v 16 They sewed five of these pieces of cloth together to make one set, and they sewed the other six pieces of cloth together to make another set.
 \v 17 They made one hundred loops of blue cloth. They fastened fifty of them to the outer edge of the one set and they fastened fifty to the outer edge of the other set.
 </usfm>
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:exo:36]]
 **[[:en:bible:notes:exo:36:11|<<]] | [[:en:bible:notes:exo:36:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

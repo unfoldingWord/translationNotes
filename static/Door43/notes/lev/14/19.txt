@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 Then the priest will offer the sin offering and make atonement for him who is to be cleansed because of his uncleanness, and afterward he will kill the burnt offering.
+\v 19 Then the priest will offer the sin offering and make atonement for him who is to be cleansed because of his uncleanness, and afterward he will kill the burnt offering. 
 \v 20 Then the priest will offer the burnt offering and the grain offering on the altar. The priest will make atonement for the person, and then he will be clean.
 </usfm>
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:lev:14]]
 **[[:en:bible:notes:lev:14:17|<<]] | [[:en:bible:notes:lev:14:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -40,6 +40,7 @@
 \v 26 This is the plan that is intended for the whole earth, and this is the hand that is raised over all the nations.
 \q1
 \v 27 For Yahweh of hosts has planned this; who will stop him? His hand is raised, and who will turn it back?
+\b
 </usfm>
 
 
@@ -52,14 +53,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This may be Isaiah speaking or it may be Yahweh speaking.
+  * **General Information:** - This may be Isaiah speaking or it may be Yahweh speaking
 
-  * **This is the plan that is intended for the whole earth** - The idea of "is intended" can be expressed with an active verb. AT: "This is the plan that God intends for the whole earth" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **and this is the hand that is raised over all the nations** - God being ready to punish the nations is spoken of as if he raised his hand in order to hit them. The word "hand" may also represent his power. AT: "and this is Yahweh's power to punish all the nations" or "this is how Yahweh will punish the nations" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **this is the hand that is raised over all the nations** - Here "hand" refers to Yahweh's power. AT: "this is my power to punish all the nations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **who will stop him?** - This question emphasizes that no one can stop Yahweh. AT: "there is no one who can stop him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
-  * **His hand is raised** - This represents Yahweh being ready to punish the nations. AT: "He is ready to punish them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **who will turn it back?** - This question is used to say that no one can turn back God's hand. Turning back his hand represents stopping him from punishing the nations. AT: "no one can turn it back." or "no one can stop him from punishing them." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -73,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

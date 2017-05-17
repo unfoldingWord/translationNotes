@@ -32,7 +32,7 @@
 <usfm>
 \q
 \v 28 You save afflicted people,
-\q but your eyes are against the proud, and you bring them down.
+\q but your eyes are against the proud, and you bring them down. 
 \q
 \v 29 For you are my lamp, Yahweh.
 \q Yahweh lights up my darkness.
@@ -52,9 +52,9 @@
 
   * **General Information:** - David continues his song to Yahweh.
 
-  * **your eyes are against the proud** - Here the metonym "your eyes" refers to what Yahweh sees. This means Yahweh watches the proud person. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **your eyes are against the proud** - Here the metonym "your eyes" refers to what Yahweh sees. This means Yahweh watches the proud person. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **and you bring them down** - "and you destroy their pride"
-  * **you are my lamp, Yahweh. Yahweh lights up my darkness** - This metaphor compares Yahweh to a lamp, which means he gives David light and helps him to see when things seem hopeless. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you are my lamp, Yahweh. Yahweh lights up my darkness.** - This metaphor compares Yahweh to a lamp, which means he gives David light and helps him to see when things seem hopeless. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -68,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

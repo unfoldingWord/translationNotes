@@ -34,7 +34,7 @@
 \v 30 People do not despise a thief if he steals
 \q to satisfy his need when he is hungry.
 \q
-\v 31 Yet if he is caught, he will pay back seven times what he stole;
+\v 31 Yet if he is caught, he will pay back seven times what he stole; 
 \q he must give up everything of value in his house.
 </usfm>
 
@@ -46,9 +46,9 @@
 
 ===== translationNotes: =====
 
-  * **despise a thief** - "do not regard a thief with contempt" or "do not think a thief is evil"
-  * **if he is caught** - This can be stated in active form. AT: "if someone catches him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **in his house** - This figure of speech is saying that everything in his house is all that he owns. AT: "that he owns" ([[:en:ta:vol1:translate:figs_idiom]])
+  * **despise a thief** - AT: "do not regard a thief with contempt" or "do not think a thief is evil"
+  * **if he is caught** - AT: "if someone catches him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in his house** - AT: "that he owns" ([[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:pro:06]]
 **[[:en:bible:notes:pro:06:28|<<]] | [[:en:bible:notes:pro:06:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass thief}}
+~~DISCUSSION~~{{tag>publish p2edit thief}}
 
 ~~NOCACHE~~

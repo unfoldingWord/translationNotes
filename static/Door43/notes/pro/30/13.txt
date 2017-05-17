@@ -24,7 +24,8 @@
 \q1
 \v 14 These people use their mouths to speak the most hurtful words, like they are cutting and tearing people apart;
 \q1 it is as if they are eating up the poor people from the earth,
-\q2 and swallowing up the needy from humanity.
+\q2 and swallowing up the needy from humanity. 
+
 
 \q1
 </usfm>
@@ -34,12 +35,11 @@
 
 <usfm>
 \q
-\v 13 There is a generation whose eyes are raised up,
-\q and how high are their eyelids lifted up!
+\v 13 That is a generation—how haughty are their eyes
+\q and their eyelids are lifted up!—
 \q
-\v 14 There is a generation whose teeth are swords,
-\q and their jawbones are like knives,
-\q so they may devour the poor from the earth and the needy from among humanity.
+\v 14 they are a generation whose teeth are swords, and their jawbones are knives,
+\q so they may devour the poor from the earth and the needy from among mankind.
 </usfm>
 
 
@@ -53,8 +53,7 @@
 
 ===== translationNotes: =====
 
-  * **eyes are raised up ... their eyelids lifted up** - These two metonyms refer to people who think that they are better than other people. Their eyes show that they are proud, and the way they look at others shows that they think they are better than those other people. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **There is a generation whose teeth are swords, and their jawbones are like knives, so they may devour the poor ... and the needy** - The people of the generation who speak very harmful things is spoken of as if they were wild animals with teeth and jawbones made of swords and knives, and they eat the poor and needy. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **how haughty are their eyes and their eyelids are lifted up!** - These two phrases have basically the same meaning and are used together for emphasis. AT: "their eyes show that they are haughty" (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **jawbones** - the bones of the face where teeth grow
 
  
@@ -63,11 +62,14 @@
   * [[:en:bible:notes:pro:00:intro]]
   * [[:en:bible:notes:pro:30:00]]
   * [[:en:bible:questions:comprehension:pro:30]]
+
+ 
+
 **[[:en:bible:notes:pro:30:11|<<]] | [[:en:bible:notes:pro:30:15|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

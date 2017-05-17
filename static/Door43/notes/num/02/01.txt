@@ -14,6 +14,7 @@
 <usfm>
 \v 1 Then Yahweh said this to Aaron and Moses,
 \v 2 "When the Israelites set up their tents, they are to set them up in areas that surround the sacred tent, but not close to it. The people of each tribe must set up their tents in a different area. Each tribe must put up a flag in that area that identifies their tribe.
+\b
 
 
 \li
@@ -40,7 +41,8 @@
 
   * **around his standard** - The "standards" were four larger groups that the tribes were divided into. Each standard was commanded to camp together. The standards was represented by a banner. 
   * **with the banners of their fathers' houses** - Each extended family also had a banner under with the camp, which was within the area designated for their standard.
-  * **banners** - A banner is a large flag.
+  * **banner** - a large flag
+
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -48,6 +50,6 @@
   * [[:en:bible:questions:comprehension:num:02]]
 **[[:en:bible:notes:num:01:53|<<]] | [[:en:bible:notes:num:02:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

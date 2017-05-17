@@ -46,10 +46,8 @@
 
 ===== translationNotes: =====
 
-  * **house of Yahweh** - This is another way of saying "temple of Yahweh."
-  * **Eliakim ... Shebna ... Isaiah ... Amoz** - These are all names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **He sent Eliakim** - "Hezekiah sent Eliakim" 
-  * **all covered with sackcloth** - "all wearing sackcloth"
+  * **all covered with sackcloth** - AT: "all wearing sackcloth"
 
 
 ===== Links: =====
@@ -65,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass amoz}}
+{{tag>publish p2edit amoz}}
 
 ~~NOCACHE~~

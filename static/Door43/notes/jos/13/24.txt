@@ -15,7 +15,7 @@
 <usfm>
 \v 24 Moses also gave land to the tribe of Gad, to the people of Gad, and allotted to each of their families the land they needed to live on.
 \v 25 They lived near Jazer, in all the cities of Gilead, and in half the land where the Ammonites lived, all the way to Aroer, which is a city east of Rabbah.
-\v 26 Their land extended from Heshbon to Ramath Mizpah and Betonim, all the way to Mahanaim and to the region of Debir.
+\v 26 Their land extended from Heshbon to Ramath Mizpeh and Betonim, all the way to Mahanaim and to the region of Debir.
 </usfm>
 
 
@@ -25,7 +25,7 @@
 \p
 \v 24 This is what Moses gave to the tribe of Gad, clan by clan:
 \v 25 Their territory was Jazer, all the cities of Gilead and half the land of the Ammonites, to Aroer, which is east of Rabbah,
-\v 26 from Heshbon to Ramath Mizpah and Betonim, from Mahanaim to the territory of Debir.
+\v 26 from Heshbon to Ramath Mizpeh and Betonim, from Mahanaim to the territory of Debir.
 </usfm>
 
 
@@ -39,7 +39,7 @@
 
 ===== translationNotes: =====
 
-  * **Jazer ... Aroer ... Heshbon ... Ramath Mizpah ... Betonim ... Mahanaim ... Debir** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Jazer ... Aroer ... Heshbon ... Ramath Mizpeh ... Betonim ... Mahanaim ... Debir** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -54,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

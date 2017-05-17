@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 Then the queen gave to the king the things that she had brought. She gave him over 4,500 kilograms of gold and a large amount of spices and gems. Never again did King Solomon receive more spices than the queen gave him at that time.
+\v 10 Then the queen gave to the king the things that she had brought. She gave him over 4500 kilograms of gold and a large amount of spices and gems. Never again did King Solomon receive more spices than the queen gave him at that time.
 
 
 \p
@@ -32,7 +32,7 @@
 
 ===== translationNotes: =====
 
-  * **120 talents of gold** - A talent is a unit of weight equal to about 34 kilograms. AT: "about 4,000 kilograms of gold" (See: [[:en:ta:vol2:translate:translate_bweight]])
+  * **talent** - A talent is a unit of weight equal to about 34 kilograms. AT: "about 4,000 kilograms of gold" (See: [[:en:ta:vol2:translate:translate_bweight]])
   * **No greater amount of spices ... was ever given to him again** - This can be stated in active form. AT: "No one ever again gave to King Solomon more spices than the queen of Sheba gave to him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
@@ -42,6 +42,6 @@
   * [[:en:bible:questions:comprehension:1ki:10]]
 **[[:en:bible:notes:1ki:10:08|<<]] | [[:en:bible:notes:1ki:10:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass queen}}
+~~DISCUSSION~~{{tag>publish p2edit queen}}
 
 ~~NOCACHE~~

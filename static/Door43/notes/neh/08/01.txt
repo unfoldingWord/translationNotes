@@ -15,7 +15,8 @@
 <usfm>
 \v 1 All the people gathered together in the plaza that was close to the Water Gate. Men and women and children who were old enough to understand gathered together. They asked Ezra to bring out the scroll of the law that Moses had written down, and which Yahweh had given as the law for the people of Israel, for them to obey its rules and commands.
 \v 2 Ezra, who served God through the sacrifices in the temple, brought out the law and presented it before all the people, to both men and women, and anyone else who could understand what he read. He did this on the first day of the seventh month of that year.
-\v 3 So he brought it out and read it to the people. He read it from early in the morning until the middle of the day. All the people listened, men and women, anyone who was able to understand what he read. The people listened with great interest to what Ezra read from the book of the law.
+\v 3 So he brought it out and read it to the people. He read it from early in the morning until the middle of the day. All the people listened, men and women, anyone who was able to understand what he read. The people listened with great interest to what Ezra read from the book of the law. 
+
 
 \p
 </usfm>
@@ -26,9 +27,9 @@
 <usfm>
 \c 8
 \p
-\v 1 All the people gathered as one man in the open area in front of the Water Gate. They asked Ezra the scribe to bring the book of the law of Moses, which Yahweh had commanded Israel.
+\v 1 All the people gathered as one man in the open area in front of the Water Gate. They asked Ezra the scribe to bring The Book of the Law of Moses, which Yahweh had commanded Israel.
 \v 2 On the first day of the seventh month, Ezra the priest brought the law before the assembly, both men and women, and all who could hear and understand.
-\v 3 He faced the open area in front of the Water Gate, and he read from it from early morning until midday, before men and women, and any who could understand, and all the people listened attentively to the book of the law.
+\v 3 He faced the open area in front of the Water Gate, and he read from it from early morning until midday, before men and women, and any who could understand. And all the people listened attentively to The Book of the Law.
 </usfm>
 
 
@@ -48,13 +49,9 @@
   * [[:en:obe:kt:assembly]]
 ===== translationNotes: =====
 
-  * **All the people gathered as one man** - This is a generalization that indicates the people as a whole came together. AT: "The people gathered all together" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **Water Gate** - This was the name of a large opening or doorway in the wall.
-  * **the book of the law of Moses** - This would have been all or part of the first five books of the Old Testament.
-  * **On the first day of the seventh month** - This is the seventh month of the Hebrew calendar. The first day of the seventh month is near the middle of September on Western calendars. AT: "On day 1 of month 7" (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **brought the law** - "brought The Book of the Law"
-  * **all who could hear and understand** - This would include children who were old enough to understand what was being read.
-  * **he read from it** - Here "it" refers to The Book of the Law of Moses.
+  * **All the people gathered themselves for one purpose** - AT: "The entire population gathered as one man" or "All the people gathered as one people."
+  * **On the first day of the seventh month** - This is the seventh month of the Hebrew calendar. The first day is near the middle of September on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **all who could hear and understand** - No one excluded from hearing the law read.
 
 
  
@@ -65,6 +62,6 @@
   * [[:en:bible:questions:comprehension:neh:08]]
 **[[:en:bible:notes:neh:07:73|<<]] | [[:en:bible:notes:neh:08:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass assembly ezra}}
+~~DISCUSSION~~{{tag>publish p2edit assembly ezra}}
 
 ~~NOCACHE~~

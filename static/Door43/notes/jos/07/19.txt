@@ -18,7 +18,7 @@
 \v 19 Then Joshua said to Achan, "Son, make your confession to Yahweh, the God of Israel. Tell me what you did, and do not try to hide it from me."
 \p
 \v 20 Achan replied, "It is true. I have sinned against Yahweh, the God of Israel. This is what I did:
-\v 21 Among the things in Jericho that I saw was a beautiful coat from Babylonia. I also saw over two kilograms of silver and some gold that weighed six hundred grams. I wanted those things very much for myself, so I took them. I buried them in the ground under my tent. You will find them there. The silver is buried beneath it all."
+\v 21 Among the things in Jericho that I saw was a beautiful coat from Babylonia. I also saw over 2 kilograms of silver and some gold that weighed almost six hundred grams. I wanted those things very much for myself, so I took them. I buried them in the ground under my tent. You will find them there. The silver is buried beneath it all."
 
 
 \p
@@ -52,11 +52,10 @@
  
 ===== translationNotes: =====
 
-  * **give your confession to him** - "give your confession" can be expressed with the verb confess. AT: "confess to him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Do not hide it from me** - Hiding information represents trying to keep someone from knowing it. AT: "Do not try to prevent me from knowing what you have done" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **two hundred shekels** - This is over two kilograms. (See: [[:en:ta:vol2:translate:translate_bweight]])
-  * **fifty shekels** - This is over 500 grams. (See: [[:en:ta:vol2:translate:translate_bweight]])
-  * **They are hidden in the ground** - This can be stated in active form. AT: "I hid them in the ground" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **General Information:** - Joshua hears Achan's confession.
+
+  * **shekels** - a small unit of weight (See: [[:en:ta:vol2:translate:translate_bweight]])
+ 
  
 ===== Links: =====
 
@@ -65,6 +64,6 @@
   * [[:en:bible:questions:comprehension:jos:07]]
 **[[:en:bible:notes:jos:07:16|<<]] | [[:en:bible:notes:jos:07:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass true}}
+~~DISCUSSION~~{{tag>publish p2edit true}}
 
 ~~NOCACHE~~

@@ -21,10 +21,12 @@
 <usfm>
 \v 23 The one who rebukes a person will later be appreciated more
 \q2 than the one who says nice things just to flatter him.
+\b
 \q1
 \v 24 Anyone who steals things from his father or his mother
 \q2 and says "That is not sinful,"
-\q2 he is friend of the one who destroys.
+\q2 he is friend of the one who destroys. 
+
 
 \q1
 </usfm>
@@ -34,8 +36,7 @@
 
 <usfm>
 \q
-\v 23 Whoever disciplines someone, 
-\q afterward will find more favor from him
+\v 23 Whoever rebukes someone will afterward find more favor from him 
 \q than from the one who flatters him with his tongue.
 \q
 \v 24 Whoever robs his father and his mother and says, "That is no sin,"
@@ -54,13 +55,10 @@
 
 ===== translationNotes: =====
 
-  * **Whoever disciplines someone, afterward will find more favor from him than from the one who flatters him with his tongue** - This can be stated in active form, with the abstract noun "favor" being expressed as a verb. AT: "A person will favor the one who disciplines him more than he favors the person who flatters him with his tongue" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Whoever disciplines** - "If a person disciplines"
-  * **flatters him with his tongue** - The tongue here represents speaking.  AT: "flatters him with words" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **flatters** - praises someone in a manner that is not sincere, or praises someone about things that are not true
-  * **Whoever robs** - "The one who robs"
-  * **and says, "That is no sin,"** - This can be expressed as an indirect quotation. AT: "and says that it is not a sin," (See: [[:en:ta:vol2:translate:figs_quotations]])
-  * **the companion of** - Possible meanings are: 1) "the friend of" or 2) an idiom that means having the same character as. AT: "the same kind of person as" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **find more favor** - This means to receive someone's approval.
+  * **flatters him with his tongue** - AT: "praises him with words that are not sincere" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the one who destroys** - the person who causes destruction or damage
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -68,6 +66,6 @@
   * [[:en:bible:questions:comprehension:pro:28]]
 **[[:en:bible:notes:pro:28:21|<<]] | [[:en:bible:notes:pro:28:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

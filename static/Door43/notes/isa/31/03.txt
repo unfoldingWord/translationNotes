@@ -26,6 +26,7 @@
 \q2 he will also strike you who thought that you would be helped,
 \q2 and you and they will stumble and fall down;
 \q2 all of you will die together.
+\b
 
 
 \p
@@ -36,7 +37,7 @@
 
 <usfm>
 \q1
-\v 3 Egypt is a man and not God, their horses flesh and not spirit.
+\v 3 Egypt is a man and not God, their horses flesh and not spirit. 
 \q1 When Yahweh reaches out with his hand, both the one who helps will stumble, and the one who is helped will fall; both will perish together.
 </usfm>
 
@@ -55,8 +56,6 @@
 
 ===== translationNotes: =====
 
-  * **Egypt is a man** - Here Egypt refers to the soldiers of Egypt. AT: "The soldiers of Egypt are men"
-  * **their horses flesh and not spirit** - This means that their horses are only horses and not spiritual beings. AT: "their horses are only horses; they are not powerful spirits!" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **When Yahweh reaches out with his hand** - The term "hand" is often used in reference to God's power and action. AT: "When Yahweh uses his power against them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **both the one who helps will stumble, and the one who is helped will fall** - These two phrases mean basically the same thing. Stumbling and falling are metaphors of failing. This can be stated in active form. AT: "these two things will happen: I will destroy Egypt, who helps you, and I will destroy you, whom Egypt helps" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]]) 
   * **the one who is helped** - This can be stated in active form. AT: "the one who is seeking help" (See: [[:en:ta:vol2:translate:figs_activepassive]])
@@ -73,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass stumble}}
+{{tag>publish p2edit stumble}}
 
 ~~NOCACHE~~

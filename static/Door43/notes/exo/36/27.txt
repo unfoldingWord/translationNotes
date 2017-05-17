@@ -17,8 +17,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 27 For the back of the tabernacle on the west, Bezalel made six frames.
-\v 28 He made two frames for the back corners of the tabernacle.
+\v 27 For the back of the tabernacle on the west, Bezalel made six boards.
+\v 28 He made two boards for the back corners of the tabernacle.
 </usfm>
 
 ===== translationWords: =====
@@ -27,8 +27,6 @@
 
 ===== translationNotes: =====
   * **For the back ... of the tabernacle** - For 36:27-28 see how you translated many of these words in [[:en:bible:notes:exo:26:22|26:22-23]].
-  * **on the west** - on the side that is on the west 
-  * **for the back corners** - for the corners at the rear of the tabernacle
 
 ===== Links: =====
 
@@ -37,6 +35,6 @@
   * [[:en:bible:questions:comprehension:exo:36]]
 **[[:en:bible:notes:exo:36:24|<<]] | [[:en:bible:notes:exo:36:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

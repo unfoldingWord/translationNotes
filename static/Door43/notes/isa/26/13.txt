@@ -34,7 +34,7 @@
 \q1
 \v 13 Yahweh our God, other masters besides you have ruled over us; but we praise your name alone.
 \q1
-\v 14 They are dead, they will not live; they are deceased, they will not arise.
+\v 14 They are dead, they will not live; they are deceased, they will not arise. 
 \q1 Indeed, you came in judgment and destroyed them, and made every memory of them to perish.
 </usfm>
 
@@ -49,9 +49,8 @@
 
 ===== translationNotes: =====
 
-  * **but we praise your name alone** - Here "name" represents the person of God. AT: "but we praise you alone" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **they will not arise** - "they will not come back to life"
-  * **made every memory of them to perish** - Yahweh causing people to no longer remember those he destroyed is spoken of as if Yahweh made their memory perish or die. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **our God** - Here "our" refers to Isaiah and includes all the righteous people. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+  * **but we praise your name alone** - The "name" refers to the person of God. AT: "but we praise you alone" or "but we praise your reputation alone" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 
 ===== Links: =====
@@ -61,6 +60,6 @@
   * [[:en:bible:questions:comprehension:isa:26]]
 **[[:en:bible:notes:isa:26:11|<<]] | [[:en:bible:notes:isa:26:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

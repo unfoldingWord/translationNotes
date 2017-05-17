@@ -15,7 +15,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 Then you divided the sea before them, so that they went through the middle of the sea on the dry land; and threw those who pursued them into the depths, as a stone into deep waters.
+\v 11 And you divided the sea before them, so that they went through the middle of the sea on the dry land; and threw those who pursued them into the depths, as a stone into deep waters.
 </usfm>
 
 ===== translationWords: =====
@@ -24,10 +24,11 @@
   * [[:en:obe:other:water]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
+  * **General Information:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
 
-  * **you divided the sea** - God divided
-  * **you ... threw those who pursued them into the depths, as a stone into deep waters** - In this simile, the writer describes God throwing the Egyptians into the sea as easily as a person would throw a stone into water, and the stone would disappear under the water completely. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **And you divided the sea** - Here "you" refers to God. The Levites are telling the story of the exodus from Egypt.
+  * **divided** - "ripped open" or "split open"
+  * **you ... threw those who pursued them into the depths, as a stone into deep waters** - In this simile, the writer describes God throwing the Egyptians into the sea as a person would throw a stone into water. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -36,6 +37,6 @@
   * [[:en:bible:questions:comprehension:neh:09]]
 **[[:en:bible:notes:neh:09:09|<<]] | [[:en:bible:notes:neh:09:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

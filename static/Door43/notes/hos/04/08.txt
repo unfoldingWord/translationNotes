@@ -25,6 +25,7 @@
 \v 9 I will punish you priests just as I punish the people.
 \q2 I will punish all of you for your behavior;
 \q2 I will pay you all back for all the wicked deeds you have done.
+\b
 
 
 \q1
@@ -56,10 +57,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking about the priests.
+  * **General Information:** - Yahweh is speaking about Israel.
 
-  * **They feed on the sin of my people** - When people sinned, they would offer sacrifices so God would forgive them. The priests were allowed to eat these sacrifices. The priests eating these sacrifices for sin is spoken of as if they would actually feed on the people's sins. (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they are greedy for more of their wickedness** - The priests want the people to sin more so that the people will offer more sacrifices that the priests may eat. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **They feed on the sin of my people** - When people sinned, they would offer sacrifices so God would forgive them. The priests were allowed to eat these sacrifices. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **they are greedy for more of their wickedness** - The priests want the people to sin more so that the people will offer more sacrifices that the priests may eat.
   * **It will be the same for the people as for the priests** - "The people and the priests will be punished in the same way"
   * **their practices** - "their habits" or "their conduct"
 
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:hos:04]]
 **[[:en:bible:notes:hos:04:06|<<]] | [[:en:bible:notes:hos:04:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

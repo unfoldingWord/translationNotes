@@ -40,10 +40,10 @@
 
 <usfm>
 \c 30
-\m
+\p
 \q1
-\v 1 "Woe to the rebellious children," this is the declaration of Yahweh.
-\q1 "They make plans, but not from me; they make alliances with other nations, but they were not directed by my Spirit,
+\v 1 "Woe to the rebellious children," this is the declaration of Yahweh. 
+\q1 "They make plans, but not from me; they make alliances with other nations, but they were not directed by my Spirit, 
 \q1 so they add sin to sin.
 \q1
 \v 2 They set out to go down into Egypt, but have not asked for my direction.
@@ -64,13 +64,11 @@
 
 ===== translationNotes: =====
 
-  * **the rebellious children** - Yahweh speaks about his people as if they were his children. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **this is the declaration of Yahweh** - This can be reworded so that the abstract noun "declaration" is expressed as the verb "solemnly said." AT: "this is what Yahweh has declared" or "this is what Yahweh has solemnly said" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **They make plans, but not from me** - This can be reworded so that the abstract noun "plans" can be stated as the verb "plan." AT: "They plan to do things, but they do not ask me what I want them to do" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **but they were not directed by my Spirit** - This can be stated in active form. AT: "but my Spirit did not direct them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **they add sin to sin** - Continuing to sin is spoken of as if sins were objects that could be stacked on one another. AT: "they continue to sin more and more" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **They seek protection from Pharaoh** - This can be reworded so that the abstract noun "protection" is expressed as the verb "protect." AT: "They ask Pharaoh to protect them" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **take refuge in the shadow of Egypt** - Egypt's protection from enemy armies is spoken of as if it were a shadow that protects someone from the burning heat of the sun. AT: "they rely on the Egyptians to keep them safe" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the rebellious children** - This refers to the people of Judah.
+  * **declaration of Yahweh** - See how you translated this in [[:en:bible:notes:isa:14:21|14:22]].
+  * **They make plans, but not from me; they make alliances with other nations, but they were not directed by my Spirit** - Both phrases mean the same thing and are used for emphasis. AT: "They make plans and ally with others but I do not approve" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **They seek protection from Pharaoh** - his can be reworded so that the abstract noun "protection" is expressed as the verb "protect." AT: "They ask Pharaoh to protect them" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **take refuge in the shadow of Egypt** - Egypt's protection from enemy armies is spoken of as if it were a shadow that protects someone from the burning heat of the sun. AT: "make themselves feel secure in the protection that Egypt offers" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -79,6 +77,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:29:22|<<]] | [[:en:bible:notes:isa:30:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass shadow}}
+~~DISCUSSION~~{{tag>publish p2edit shadow}}
 
 ~~NOCACHE~~

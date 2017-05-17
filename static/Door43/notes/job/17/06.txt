@@ -58,14 +58,15 @@
 
   * **General Information:** - Job continues to speak.
 
-  * **he has made me a byword of the people** - This means that people speak of him in a mocking way and use his name as an insult. AT: "because of him, people use my name as an insult" or "because of them, people use my name as a byword" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **they spit in my face** - "people spit in my face." In this culture spitting on someone was a great insult. If spitting has a different meaning in your culture you can write this differently. AT: "people insult me greatly, by spitting in my face" (See: [[:en:ta:vol2:translate:translate_symaction]]) 
-  * **My eye is also dim because of sorrow** - Job speaks of his vision as his "eyes." AT: "My vision has become weak because I am so sad" or "I am almost blind because of my sorrow" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **all my body parts are as thin as shadows** - Shadows have no thickness and are infinitely thin. That is an exaggeration of how thin Job's body parts are. AT: "all my body parts are very thin" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **all my body parts** - This is a generalization used to emphasize that his whole body is thin, but refers specifically to his arms and legs. AT: "my arms and legs" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **stunned** - "shocked" or "horrified"
-  * **by this** - "by what has happened to me"
-  * **will stir himself up against** - This is an idiom. AT: "will be distressed because of" or "will be very angry with" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **he has made me a byword of the people** - AT: "because of him, people use my name as a byword" or "because of them, people use my name as a byword" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **a byword** - "an insult" AT: "a joke"
+  * **they spit in my face** - "people spit in my face" AT: "people insult me deeply"
+  * **My eye is also dim because of sorrow** - AT: "My vision has become weak because I am so sad" or "I am almost blind because of the grief" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **all my body parts are as thin as shadows** - Shadows have no thickness and are infinitely thin. That is how thin Job's body parts are. AT: "all my body parts are very thin" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **all my body parts** - AT: "my arms and legs"
+  * **will be stunned** - "will be shocked" or "will be horrified"
+  * **by this** - AT: "because of what happened" or "by what has happened to me"
+  * **will stir himself up against** - AT: "will be distressed because of" or "will be very angry with"
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -73,6 +74,6 @@
   * [[:en:bible:questions:comprehension:job:17]]
 **[[:en:bible:notes:job:17:04|<<]] | [[:en:bible:notes:job:17:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

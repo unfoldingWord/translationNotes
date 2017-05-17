@@ -28,7 +28,7 @@
 \q2 he protects me as shields protect soldiers,
 \q2 and he gives me refuge.
 \q1 He defeats other nations and then puts them under my power.
-
+\b
 
 
 \q1
@@ -38,8 +38,9 @@
 
 <usfm>
 \c 144
-\m
+\p
 \d A psalm of David.
+\p
 \q
 \v 1 Blessed be Yahweh, my rock,
 \q who trains my hands for war
@@ -66,7 +67,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **my rock** - Possible meanings are 1) "the one who keeps me safe" or 2) "the one who gives me strength" (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -85,6 +86,6 @@
   * [[:en:bible:questions:comprehension:psa:144]]
 **[[:en:bible:notes:psa:143:011|<<]] | [[:en:bible:notes:psa:144:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

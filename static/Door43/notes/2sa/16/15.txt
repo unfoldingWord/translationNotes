@@ -38,10 +38,9 @@
  
 ===== translationNotes: =====
 
-  * **Ahithophel** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:15:11|15:12]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Hushai** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:15:32|15:32]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **It came about** - "It happened that." This phrase is used to introduce the next event in the storyline. (See: [[:en:ta:vol2:translate:writing_newevent]])
-  * **Archite** - Translate the name of this people group the same as you did in [[:en:bible:notes:2sa:15:32|15:32]]. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **Ahithophel ... Hushai** - These are the names of me. (See how you translated these names in [[:en:bible:notes:2sa:15:11|15:12]] and in [[:en:bible:notes:2sa:15:32|15:32]])
+  * **It came about** - "It happened that"
+  * **Archite** - This is the name of a people group. 
  
 ===== Links: =====
 
@@ -56,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

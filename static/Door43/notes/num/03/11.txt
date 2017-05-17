@@ -25,7 +25,7 @@
 <usfm>
 \p
 \v 11 Yahweh spoke to Moses. He said,
-\v 12 "Look, I have taken the Levites from among the people of Israel. I have done this instead of taking each firstborn male who is born among the people of Israel. The Levites belong to me.
+\v 12 "Look, I have taken the Levites from among the people of Israel. I have done this instead of taking each firstborn male who is born among the people of Israel. The Levites belong to me. 
 \v 13 All the firstborn belong to me. On the day that I attacked all the firstborn in the land of Egypt, I set apart for myself all the firstborn in Israel, both people and animals. They belong to me. I am Yahweh."
 </usfm>
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:num:03]]
 **[[:en:bible:notes:num:03:09|<<]] | [[:en:bible:notes:num:03:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass setapart}}
+~~DISCUSSION~~{{tag>publish p2check setapart}}
 
 ~~NOCACHE~~

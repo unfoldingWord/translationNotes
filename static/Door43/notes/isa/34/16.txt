@@ -33,12 +33,14 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 16 Search through the scroll of Yahweh; not one of these will be missing.
+\v 16 Search through the scroll of Yahweh; not one of these will be missing. 
 \q1 None will lack for a mate; for his mouth has commanded it, and his spirit has gathered them.
-\q1
-\v 17 He has cast lots for their places, and his hand has measured it out for them by a cord.
-\q1 They will possess it forever; from generation to generation they will live there.
+ \q1
+\v 17 He has cast lots for their places, and his hand has measured it out for them by a cord. 
+\q1 They will possess it for ever; from
+generation to generation they will live there.
 </usfm>
 
 ===== translationWords: =====
@@ -53,13 +55,10 @@
 
 ===== translationNotes: =====
 
-  * **Search through the scroll of Yahweh** - The phrase "the scroll of Yahweh" means that it contains the messages spoken by Yahweh. AT: "Read carefully what is written in this scroll that contains the messages of Yahweh" (See: [[:en:ta:vol2:translate:figs_possession]])
-  * **not one of these** - "not one of the animals"
-  * **None will lack for a mate** - This can be written as a positive statement. AT: "Each animal will have a mate" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **for his mouth has commanded it** - Yahweh is referred to by his "mouth" to emphasize what he has said. AT: "for Yahweh has commanded it" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **He has cast lots for their places** - This speaks of Yahweh deciding where to cause the animals to live as if he actually cast lots for their places. AT: "He has determined where they will live" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and his hand has measured it out for them by a cord** - This refers to the way that people measured things in biblical times. AT: "and he has given the animals their places" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **from generation to generation they will** - The phrase "generation to generation" refers to all generations of people who will live in the future. See how you translated the phrase "from generation to generation" in [[:en:bible:notes:isa:13:19|13:20]].  AT: "forever they will" or "they will always" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **not one of these** - not one of the animals listed in [[:en:bible:notes:isa:34:13|34:13-15]]
+  * **for his mouth has commanded it** - "Mouth" means that Yahweh has spoken. AT: "for Yahweh has commanded it" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **He has cast lots for their places** - This refers to how people divided things in antiquity. AT: "He has determined where they will live" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and his hand has measured it out for them by a cord** - This refers to how people divided things in antiquity. AT: "and he has used a cord to measure it and give it to them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -68,6 +67,6 @@
   * [[:en:bible:questions:comprehension:isa:34]]
 **[[:en:bible:notes:isa:34:13|<<]] | [[:en:bible:notes:isa:35:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

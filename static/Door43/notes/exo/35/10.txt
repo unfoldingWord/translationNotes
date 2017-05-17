@@ -24,7 +24,7 @@
 <usfm>
 \p
 \v 10 Every skilled man among you is to come and make everything that Yahweh has commanded—
-\v 11 the tabernacle with its tent, its covering, its clasps, frames, bars, posts, and bases;
+\v 11 the tabernacle with its tent, its covering, its clasps, boards, bars, posts, and bases;
 \v 12 also the ark with its poles, the atonement lid, and the curtain to conceal it.
 </usfm>
 
@@ -44,7 +44,7 @@
   * **General Information:** - Moses continues telling the people what God commanded them to do.
 
   * **Every skilled man** - "Every man with a skill"
-  * **clasps** - The clasps fit into the loops to hold the curtains together. See how you translated these in [[:en:bible:notes:exo:26:04|26:4-6]].
+  * **clasp** - The clasps fit into the loops to hold the curtains together. See how you translated these in [[:en:bible:notes:exo:26:04|26:4-6]].
   * **bases** - These are heavy objects that rest on the ground and keep the object attached to them from moving. See how you translated this in [[:en:bible:notes:exo:25:31|25:31]].
   * **atonement lid** - This is the lid that sits on top of the ark where the atonement offering was made. See how you translated this in [[:en:bible:notes:exo:25:15|25:17]].
  
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:exo:35]]
 **[[:en:bible:notes:exo:35:04|<<]] | [[:en:bible:notes:exo:35:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

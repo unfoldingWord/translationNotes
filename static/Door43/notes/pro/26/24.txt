@@ -24,7 +24,7 @@
 \v 25 He may speak kind words, but you should not believe them,
 \q2 because deep within him is everything that Yahweh despises.
 \q1
-\v 26 Even though he covers up his hatred by his lies,
+\v 26 Even though he covers up his hatred by his lies, 
 \q2 everyone will realize how wicked he is.
 
 
@@ -41,7 +41,7 @@
 \v 25 He will speak graciously, but do not believe him,
 \q for there are seven abominations in his heart.
 \q
-\v 26 Though his hatred is covered with deception,
+\v 26 Though his hatred is covered with deception, 
 \q his wickedness will be exposed in the assembly.
 </usfm>
 
@@ -57,15 +57,10 @@
 
 ===== translationNotes: =====
 
-
-  * **disguises his feelings with his lips** - Disguising his feelings represents keeping people from knowing what his feelings are. The phrase "his lips" is a metonym for what he says. AT: "hides his feelings with what he says" or "speaks in such a way that people cannot know his true feelings" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **he lays up deceit within himself** - Being deceitful is spoken of as if he were storing deceit within himself. Possible meanings are that "deceit" refers to lies. AT: "he likes his many lies" or 2) deceit refers secret plans to harm people. AT: "he secretly plans to harm people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **but do not believe him** - "but do not believe what he says"
-  * **for there are seven abominations in his heart** - The number seven represents completeness. Possible meanings are 1) "abominations" refers to attitudes that God hates. AT: "for his heart is completely filled with hateful things" or 2) "abominations" refers to his hatred for people.  AT: "for his heart is completely filled with hatred" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Though his hatred is covered with deception** - This can be stated actively. AT: "Though deception covers his hatred" or "Though he covers his hatred with deception" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Though his hatred is covered with deception** - Keeping people from knowing that he hates them is spoken of as covering his hatred. AT: "Though he lies to keep people from knowing that he hates them" or "Though he lies so that people will not know that he hates them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **his wickedness will be exposed in the assembly** - Being exposed represents being discovered or becoming known. AT: "his wickedness will become known in the assembly" or "the assembly will discover his wickedness" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the assembly** - "the community of Israel"
+  * **believe** - This means to acknowledge that what someone has said is true.
+  * **for there are seven abominations in his heart** - AT: "for his heart is completely filled with evil thoughts and plans" The number "7" means completeness in this case.
+  * **Though his hatred is covered with deception** - AT: "though deception covers his hatred" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **his wickedness will be exposed in the assembly** - AT: "the community of Israel will discover his wickedness" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -73,6 +68,6 @@
   * [[:en:bible:questions:comprehension:pro:26]]
 **[[:en:bible:notes:pro:26:22|<<]] | [[:en:bible:notes:pro:26:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass abomination}}
+~~DISCUSSION~~{{tag>publish p2edit abomination}}
 
 ~~NOCACHE~~

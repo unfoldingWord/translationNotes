@@ -29,9 +29,9 @@
 
 <usfm>
 \q1
-\v 17 No weapon that is formed against you will succeed;
+\v 17 No weapon that is formed against you will succeed; 
 \q1 and you will condemn everyone who accuses you.
-\q1 This is the heritage of the servants of Yahweh, and their vindication from me—this is Yahweh's declaration."
+\q1 This is the heritage of the servants of Yahweh, and their vindication from me—this Yahweh's declaration."
 </usfm>
 
 
@@ -39,7 +39,6 @@
 
   * [[:en:obe:kt:condemn]]
   * [[:en:obe:other:accuse]]
-  * [[:en:obe:kt:inherit]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:declare]] 
@@ -48,9 +47,8 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Jerusalem.
 
-  * **No weapon that is formed against you will succeed** - Enemies not succeeding against Yahweh's people is spoken of as if their weapons would not succeed against Yahweh's people. This can be stated in active form. AT: "Enemies may form weapons to attack you but they will not defeat you" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **This is the heritage of the servants of Yahweh** - The reward that Yahweh will give to those who serve him is spoken of as if the reward were something they would inherit. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **this is Yahweh's declaration** - Yahweh speaks of himself in the third person. This can be stated in first person. AT: "this is what I, Yahweh, declare" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **No weapon that is formed against you will succeed** - This can be stated in active form. AT: "No one who makes a weapon to attack you can hurt you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Yahweh's declaration** - See how you translated this in [[:en:bible:notes:isa:14:21|14:22]].
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -58,6 +56,6 @@
   * [[:en:bible:questions:comprehension:isa:54]]
 **[[:en:bible:notes:isa:54:15|<<]] | [[:en:bible:notes:isa:55:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

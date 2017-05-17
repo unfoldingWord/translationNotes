@@ -37,10 +37,10 @@
 
 ===== translationNotes: =====
 
-  * **Make a snake** - Since it is impossible for Moses to make a real snake, it is implied that he was to make a model of a snake. This implied information can be made clear. AT: "Make a model of a snake" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Make a snake** - Since it is impossible for Moses to make a real snake, it is implied that he was to make a model of a snake. This can be stated. AT: "Make a model of a snake" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **everyone who is bitten** - This can be stated in active form. AT: "everyone whom a snake bites" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **a bronze snake** - "a snake out of bronze"
-  * **if he looked at the bronze snake, he survived** - Here "he" refers to "any person" who was bitten by a snake.
+  * **if he looked at the bronze snake, he survived** - Here "he" refers to "any person" whom a snake bites.
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:num:21]]
 **[[:en:bible:notes:num:21:06|<<]] | [[:en:bible:notes:num:21:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

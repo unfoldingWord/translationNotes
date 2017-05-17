@@ -22,10 +22,10 @@
 
 <usfm>
 \q
-\v 5 He also took some seed of the land, and planted it ground ready for sowing.
+\v 5 He also took some seed of the land, and planted it ground ready for sowing. 
 \q He planted it beside a large body of water like a willow.
 \q
-\v 6 Then it sprouted and became a spreading vine low to the ground.
+\v 6 Then it sprouted and became a spreading vine low to the ground. 
 \q Its branches turned toward him, and its roots grew under it.
 \q So it became a vine and produced branches and sent out shoots.
 </usfm>
@@ -40,16 +40,15 @@
   * **General Information:** - This is a continuation of the parable about the eagle.
 
   * **He also took** - The word "He" is the eagle in the parable.
-  * **ground ready for sowing** - "a field that was ready for seed to be planted in it." This can be translated with a different adjectival phrase. AT: "a fertile field" or "in good ground." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **ground ready for sowing** - "a field that was ready for seed to be planted in it." Alternate translations: "a fertile field" or "in good ground."
   * **He planted it beside a large body of water** - "the eagle planted the seed in a place where there was a lot of water"
-  * **planted it ... like a willow** - Willow trees grow in places where there is a lot of water. If the eagle planted the seed like a willow, it means that he planted it in a place with a lot of water. AT: "and planted the seed like one would plant a willow tree by water." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **planted it ... like a willow** - Willow trees grow in places where there is a lot of water. If the eagle planted the seed like a willow, it means that he planted it in a place with a lot of water. Alternate translation: "and planted the seed like a willow tree by water." (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **Then it sprouted** - "Then the seed began to grow into a plant"
   * **a spreading vine low to the ground** - "a vine that spreads out on the ground"
-  * **Its branches turned toward him** - The branches of the vine turned toward the eagle. This means that they began to grow upward towards the sky.
-  * **its roots grew under it** - Possible meanings are 1) "its roots grew under itself into the ground" or "the roots of the vine grew under the eagle."
+  * **Its branches turned toward him** - The branches of the vine turned toward the eagle.
+  * **its roots grew under it** - The roots of the vine grew under the eagle.
   * **So it became a vine** - "That is how the vine grew"
   * **produced branches and sent out shoots** - "grew branches and spread its shoots"
-
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -57,6 +56,6 @@
   * [[:en:bible:questions:comprehension:ezk:17]]
 **[[:en:bible:notes:ezk:17:01|<<]] | [[:en:bible:notes:ezk:17:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

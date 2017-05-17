@@ -13,7 +13,7 @@
 
 <usfm>
 \v 12 The whole group answered, shouting loudly, "Yes, what you have said is right! We will do what you have said.
-\v 13 But we are a very large group, and it is raining hard. Also, there are many of us who have committed this evil sin. This is something that we cannot take care of in
+\v 13 But we are a very large group, and it is raining hard. Also, there are many of us who have committed this evil sin. This is something that we cannot take care of in 
 one or two days, and we cannot stand here in this rain.
 </usfm>
 
@@ -32,8 +32,9 @@ one or two days, and we cannot stand here in this rain.
   * [[:en:obe:kt:transgression]] 
 ===== translationNotes: =====
 
-  * **this is not only one or two days of work** - This litotes can be translated in positive form. AT: "we will need a long time to do all this work" (See: [[:en:ta:vol2:translate:figs_litotes]])
-
+  * **one or two days** - It will take more than a few days to resolve.
+  * **it is the rainy season. We have no strength to stand outside** - The people express concern regarding everyone remaining outside in the rain while dealing with this issue since it will take more than just a few days.
+  * **this is not only one or two days of work** - "we will need a long time to do all this work" (See: [[:en:ta:vol2:translate:figs_litotes]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -47,6 +48,6 @@ one or two days, and we cannot stand here in this rain.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass assembly}}
+{{tag>publish p2edit assembly}}
 
 ~~NOCACHE~~

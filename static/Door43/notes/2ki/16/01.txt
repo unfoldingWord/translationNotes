@@ -39,10 +39,8 @@
   * [[:en:obe:other:david]]
 ===== translationNotes: =====
 
-  * **In the seventeenth year of Pekah son of Remaliah** - It can be stated clearly that this is the seventeenth year of his reign. AT: "In year 17 of the reign of Pekah son of Remaliah" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:translate_numbers]])
-  * **Pekah ... Remaliah** - These are men's names. Pekah was the king of Israel. See how you translated them in [[:en:bible:notes:2ki:15:25|15:25]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **what was right in the eyes of Yahweh his God** - The phrase "eyes of Yahweh" is a metonym for Yahweh's sight, which is a metaphor for Yahweh's judgment. AT: "what was right in Yahweh his God's judgment" or "what Yahweh his God considers to be right" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **as David his ancestor had done** - David had done what is right.
+  * **In the seventeenth year of Pekah** - "In year 17 of Pekah," (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **in the eyes of Yahweh** - "according to Yahweh" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -57,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

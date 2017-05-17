@@ -14,12 +14,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 18-19 Who is like an insane person who shoots burning arrows in every direction?
+\v 18-19 Who is like an insane person who shoots burning arrows in every direction? 
 \q2 One who lies to his neighbor!
-\q2 He makes an excuse to his neighbor and tells him,
-\q2 "I was only joking;"
-\q2 but just like the madman's arrows,
-\q2 what he said has set everything on fire.
+\q2 He makes an excuse to his neighbor and tells him, 
+\q2 "I was only joking;" 
+\q2 but just like the madman's arrows, 
+\q2 what he said has set everything on fire. 
+
 
 \q1
 </usfm>
@@ -28,7 +29,7 @@
 
 <usfm>
 \q
-\v 18 Like a madman who shoots burning arrows,
+\v 18 Like a madman who shoots burning arrows, 
 \q
 \v 19 is the one who deceives his neighbor
 \q and says, "Was I not telling a joke?"
@@ -42,8 +43,8 @@
 
 ===== translationNotes: =====
 
-  * **Like a madman ... is the one who deceives ... telling a joke?"** - Both the madman and the deceiver hurt people but do not take responsibility for it.
-  * **Was I not telling a joke?** - The deceiver uses this question to imply that since he his joke was only for fun, he should not be blamed for any harm he has caused. AT: "I was only telling a joke." or "Do not blame me. I was only telling a joke." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
+
+  * **Was I not telling a joke?** - The madman claims that his actions were only for fun, despite the potential harm they caused. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -51,6 +52,6 @@
   * [[:en:bible:questions:comprehension:pro:26]]
 **[[:en:bible:notes:pro:26:17|<<]] | [[:en:bible:notes:pro:26:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

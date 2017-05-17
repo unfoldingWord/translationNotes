@@ -16,6 +16,7 @@
 <usfm>
 \v 64 They searched in the records that contained the names of people's ancestors, but they could not find the names of those families, so they were not allowed to have the rights and duties that priests had. They did not qualify to be priests because they could not trace their family history.
 \v 65 The governor told them they should not be allowed to eat the priests' share of the food, taken from the sacrifices, and they should come who could use the marked stones to find what God said about their being priests once more.
+\b
 
 
 \pi
@@ -25,8 +26,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 64 These sought their records among those enrolled by their genealogy, but they could not be found, so they were excluded from the priesthood as unclean.
-\v 65 Then the governor said to them that they should not be allowed to eat the priests' share of food from the sacrifices until there rose up a priest with Urim and Thummim.
+\v 64 These sought their records among those enrolled by their genealogy, but they could not be found, so they were excluded from the priesthood as unclean. 
+\v 65 And the governor said to them that they should not be allowed to eat the priests' share of food from the sacrifices until there rose up a priest with Urim and Thummim.
 </usfm>
 
 
@@ -39,12 +40,11 @@
   * [[:en:obe:kt:raise]]
 ===== translationNotes: =====
 
-  * **These sought their records among those enrolled by their genealogy** - "They sought their written genealogical records" or "They searched their written genealogical records"
-  * **These sought** - "These" refers to the descendants of Hobaiah, Hakkoz and Barzillai. (See: [[:en:bible:notes:neh:07:61|7:63]])
-  * **but they could not be found** - This can be expressed in active form. AT: "but they could not find their records" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **they were excluded from the priesthood as unclean** - This can be translated in active form. The abstract noun "priesthood" can be translated as the verb "work as priests." AT: "the governor treated them as if they were unclean and did not allow them to work as priests" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **until there rose up a priest with Urim and Thummim** - This can be stated in active form. AT: "until a priest with Urim and Thummim approved" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Urim and Thummim** - These were sacred stones that the high priest carried on his breastplate and used at times to determine God's will. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **These sought their records among those enrolled by their genealogy** - AT: "They sought their written genealogical records" or "They searched their written genealogical records."
+  * **These sought** - "These" refers to the descendants of Hobaiah, Hakkoz and Barzillai. (See: [[:en:bible:notes:neh:07:61|07:63]])
+  * **but they could not be found** - AT: "but they could not find the records" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **so they were excluded from the priesthood as unclean** - "so the governor excluded them from the priesthood as unqualified." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **until there rose up a priest with Urim and Thummim** - "until there arose a priest skilled with the priestly marked stones used to discern God's selection."
  
 ===== Links: =====
 
@@ -59,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

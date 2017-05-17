@@ -21,8 +21,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 Then Jehoiada the priest ordered the commanders of hundreds who were over the army, saying, "Bring her out between the ranks. Anyone who follows her, kill him with the sword." For the priest had said, "Do not let her be killed in the house of Yahweh."
-\v 16 So they seized her as she reached the place where the horses enter the palace grounds, and there she was killed.
+\v 15 Then Jehoiada, the priest, commanded the commanders of hundreds who were over the army; he said to them, "Bring her out between the ranks. Anyone who follows her, kill him with the sword." For the priest had said, "Do not let her be killed in the house of Yahweh."
+\v 16 So they made way for her, and she went by way of the horse gate to the king's house, and there she was killed.
 </usfm>
 
 ===== translationWords: =====
@@ -34,10 +34,10 @@
   * [[:en:obe:kt:gate]]
 ===== translationNotes: =====
 
-  * **the commanders of hundreds** - This refers to the officers who supervised the royal bodyguards and the palace guards. Translate this as you did in [[:en:bible:notes:2ki:11:04|11:4]].
-  * **Bring her out between the ranks** - "Take her away between two rows of guards" (UDB) or "Lead her away with a row of soldiers on each side of her." Ranks are lines or rows of soldiers.
-  * **Anyone who follows her** - It is implied that a person who followed her would be trying to help her. AT: "Anyone who follows to try to rescue her" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **they seized her as she reached the place where the horses enter the palace grounds** - Some versions translate this as "the guards seized her and took her to the palace, to the place where horses enter the courtyard." 
+  * **Bring her out between the ranks** - "Take her away between two rows of guards" (UDB) Ranks are lines or rows of soldiers.
+  * **Anyone who follows her** - AT: "Anyone who follows to try to rescue her," (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **So they made way for her** - "So the guards seized her and led her away"
+  * **and she went by way of the horse gate to the king's house** - "to the place where horses come into the palace grounds,"
 
 
 ===== Links: =====
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:2ki:11]]
 **[[:en:bible:notes:2ki:11:13|<<]] | [[:en:bible:notes:2ki:11:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

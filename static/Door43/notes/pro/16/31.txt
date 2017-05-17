@@ -18,12 +18,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 31 Gray hair is like a glorious crown;
-\q2 it is given to those who live their lives
+\v 31 Gray hair is like a glorious crown; 
+\q2 it is given to those who live their lives 
 \q2 by doing what is right.
+\b
 \q1
 \v 32 The one who is slow to get angry is stronger than a warrior;
-\q2 the one who is self-controlled is mightier than one who conquers a city by force.
+\q2 the one who is self-controlled is mightier than one who conquers a city by force. 
+
 
 \q1
 </usfm>
@@ -34,9 +36,9 @@
 <usfm>
 \q
 \v 31 Gray hair is a crown of glory;
-\q it is gained by living the right way.
+\q it is gained by living the right way. 
 \q
-\v 32 It is better to be slow to anger than to be a warrior
+\v 32 It is better to be slow to anger than to be a warrior 
 \q and one who rules his spirit is stronger than one who conquers a city.
 </usfm>
 
@@ -47,13 +49,10 @@
   * [[:en:obe:kt:glory]]
   * [[:en:obe:kt:life]]
   * [[:en:obe:other:angry]]
-  * [[:en:obe:kt:spirit]]
-
+  * [[:en:obe:kt:spirit]] 
 ===== translationNotes: =====
 
-  * **Gray hair is a crown of glory** - The writer speaks of gray hair as if it were a crown. "Gray hair" is a metonym for old age. AT: "A person who has lived long enough to have gray hair is like one who wears a glorious crown on his head" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **it is gained** - This can be stated in active form. AT: "a person gains it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **one who rules his spirit** - The writer speaks of a person being able to control his own temper and emotions as if he ruled over his spirit like a king rules his people. AT: "one who controls his temper" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Gray hair is a crown of glory** - Old age is an honor, like a crown (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -68,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

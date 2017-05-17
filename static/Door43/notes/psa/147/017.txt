@@ -20,7 +20,7 @@
 \q1
 \v 18 But he commands the wind to blow, and it blows.
 \q2 Then the hail melts and the water flows into the streams.
-
+\b
 
 
 \q1
@@ -44,7 +44,7 @@
 
 ===== translationNotes: =====
 
-  * **He dispenses the hail like crumbs** - Yahweh scatters hail as easily as a person would scatter bread crumbs. AT: "He dispenses the hail easily, as if it were crumbs" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **He dispenses the hail like crumbs** - Yahweh scatters hail as easily as a person would scatter bread crumbs. AT: "He dispenses the hail easily, as if they were crumbs" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **He dispenses** - "He sends"
   * **hail** - small pieces of ice that fall from the sky like rain
   * **who can withstand the cold he sends?** - The writer uses this question to emphasize that it is difficult to endure the cold weather that Yahweh causes. AT: "no one can live in the cold he sends." (See: [[:en:ta:vol1:translate:figs_rquestion]])
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:147]]
 **[[:en:bible:notes:psa:147:015|<<]] | [[:en:bible:notes:psa:147:019|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 Then Goliath, from the city of Gath, came out from the Philistine camp. He was a great warrior, three meters tall.
+\v 4 Then Goliath, from the city of Gath, came out from the Philistine camp. He was a great warrior, about three meters tall.
 \v 5 He wore a helmet made of bronze to protect his head, and he wore a coat made of metal plates to protect his body. The metal coat weighed about fifty-five kilograms.
 </usfm>
 
@@ -35,7 +35,7 @@
 ===== translationNotes: =====
 
   * **six cubits and a span** - A cubit is a unit of measurement equal to about 46 centimeters. A span is a unit of measurement equal to about 23 centimeters. AT: "about 3 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **he was armed with a coat of chainmail** - A "coat of chainmail" is a flexible piece of body armor covered with protective scales or small plates. This can be stated in active form. AT: "he protected himself by wearing a coat of chainmail" or "he wore a coat of chainmail" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he was armed with a coat of chainmail** - A "coat of chainmail" is a flexible piece of body armor covered with protective scales or small plates. This can be stated in active form. AT: "he wore a coat of chainmail" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **five thousand shekels** - A shekel is a unit of weight equal to about 11 grams. AT: "about 55 kilograms" (See: [[:en:ta:vol2:translate:translate_bweight]]) 
  
 ===== Links: =====
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:1sa:17]]
 **[[:en:bible:notes:1sa:17:02|<<]] | [[:en:bible:notes:1sa:17:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass goliath}}
+~~DISCUSSION~~{{tag>publish p2edit goliath}}
 
 ~~NOCACHE~~

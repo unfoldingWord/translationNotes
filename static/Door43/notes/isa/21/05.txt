@@ -28,7 +28,7 @@
 
 <usfm>
 \q1
-\v 5 They prepare the table, they spread rugs and eat and drink;
+\v 5 They prepare the table, they spread rugs and eat and drink; 
 \q1 arise, princes, anoint your shields with oil.
 </usfm>
 
@@ -41,10 +41,7 @@
 
 ===== translationNotes: =====
 
-  * **They prepare** - Here "They" refers to the leaders of Babylon.
-  * **prepare the table** - Here "table" represents the food that people will eat at the feast. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **arise, princes** - Here "princes" refers in general to men with authority and not necessarily to sons of kings.
-  * **anoint your shields with oil** - Soldiers would put oil on their leather shields so they would stay soft and not crack during battle. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **anoint your shields with oil** - Soldiers would put oil on their leather shields so they would stay soft and not crack during battle.
 
 ===== Links: =====
 
@@ -53,6 +50,6 @@
   * [[:en:bible:questions:comprehension:isa:21]]
 **[[:en:bible:notes:isa:21:03|<<]] | [[:en:bible:notes:isa:21:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

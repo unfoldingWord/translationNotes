@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 The land that you will assign to the descendants of Levi will be the same size as the land that the priests will receive. So together, these two portions of land will be thirteen and one-half kilometers long and about eleven kilometers wide.
+\v 13 The land that you will assign to the descendants of Levi will be the same size as the land that the priests will receive. So together, these two portions of land will be about 13.5 kilometers long and about eleven kilometers wide.
 \v 14 None of this special land, this best land, may ever be sold or traded or used by other people, because it belongs to Yahweh. It is set apart for him.
 
 
@@ -25,7 +25,7 @@
 
 <usfm>
 \p
-\v 13 The Levites' land along the border with the priests' land will be twenty-five thousand cubits in length and ten thousand cubits in width. The entire length of the two tracts of land will be twenty-five thousand cubits in length and twenty thousand cubits in width.
+\v 13 The Levites' land along the border with the priests' land will be twenty-five thousand cubits long and ten thousand cubits wide. The entire length of the two tracts of land will be twenty-five thousand cubits long and twenty thousand cubits wide.
 \v 14 They must not sell it or exchange it; none of this firstfruits of the land of Israel must ever be separated from these tracts, for it all is holy to Yahweh.
 </usfm>
 
@@ -37,7 +37,6 @@
 
 ===== translationNotes: =====
  
-  * **twenty-five thousand cubits ... ten thousand cubits** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "25,000 cubits ... 10,000 cubits" or "13.5 kilometers ... 5.4 kilometers" (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **this firstfruits** - "this land which is the firstfruits." Here "firstfruits" probably means the best things among all the offerings set aside to give to God. This land is spoken of in that way, as land set aside for Yahweh's use. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
@@ -47,6 +46,6 @@
   * [[:en:bible:questions:comprehension:ezk:48]]
 **[[:en:bible:notes:ezk:48:10|<<]] | [[:en:bible:notes:ezk:48:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

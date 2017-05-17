@@ -23,6 +23,7 @@
 \q1
 \v 4 I think about wise words to tell you,
 \q2 and while I play my harp, I explain what they mean.
+\b
 \q1
 \v 5 I do not worry when I am in trouble,
 \q2 when I am surrounded by my enemies.
@@ -65,8 +66,8 @@
   * **with the harp** - "as I play the harp"
   * **Why should I fear ... heels?** - The writer asks this question to emphasize that he has no reason to fear when bad things happen. AT: "I have no reason to fear ... heels." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **the days of evil** - "when evil things happen." Here the word "days" refers to general periods of time.
-  * **when iniquity surrounds me at my heels** - Possible meanings are 1) the writer speaks of the evil desires of his enemies as if it were a predator ready to overtake him. AT: "when the iniquity of sinful men is ready to overcome me" or 2) the writer's enemies surround him as they commit their iniquity (UDB). AT: "when my enemies surround me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
- 
+  * **when iniquity surrounds me at my heels** - The phrase "at my heels" may mean "of my enemies." Possible meanings are 1) that the writer speaks of the iniquity of his enemies as if it were a predator ready to overtake him or 2) the writer's enemies surround him as they commit their iniquity (UDB). AT: "when the iniquity of sinful men is ready to overcome me" or "when my enemies surround me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -74,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:049]]
 **[[:en:bible:notes:psa:049:001|<<]] | [[:en:bible:notes:psa:049:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

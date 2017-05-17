@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 51 When the tabernacle is to move to another place, the Levites must take it down. When the tabernacle is to be set up, the Levites must set it up. Any stranger who comes near the tabernacle must be killed.
+\v 51 When the tabernacle is to move to another place, the Levites must take it down. When the tabernacle is to be set up, the Levites must set it up. And any stranger who comes near the tabernacle must be killed.
 \v 52 When the people of Israel set up their tents, each man must do so near the banner that belongs to his armed group.
 </usfm>
 
@@ -29,7 +29,7 @@
 ===== translationNotes: =====
 
   * **When the tabernacle is to be set up** - This can be stated in active form. AT: "When it is time to set up the tabernacle" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Any stranger ... must be killed** - This can be stated in active form. AT: "Any stranger ... must die" or "You must kill any stranger who comes near the tabernacle" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **any stranger ... must be killed** - This can be stated in active form. AT: "any stranger ... must die" or "you must kill any stranger ... " (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the banner** - a large flag
   * **his armed group** - "his military division"
 
@@ -40,6 +40,6 @@
   * [[:en:bible:questions:comprehension:num:01]]
 **[[:en:bible:notes:num:01:50|<<]] | [[:en:bible:notes:num:01:53|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

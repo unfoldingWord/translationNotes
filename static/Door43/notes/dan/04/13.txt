@@ -10,8 +10,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 "While I was lying in bed, I saw in my dream a holy angel come down from heaven.
-\v 14 He shouted, 'Cut down that tree, and cut off its branches. Strip off all of its leaves, and scatter its fruit. Chase away the animals that are lying in the shade of the tree and the birds that are in its branches.
+\v 13 While I was lying in bed, I saw in my dream a holy angel come down from heaven.
+\v 14 He shouted, "Cut down that tree, and cut off its branches. Strip off all of its leaves, and scatter its fruit. Chase away the animals that are lying in the shade of the tree and the birds that are in its branches.
 </usfm>
 
 ===== ULB: =====
@@ -30,13 +30,8 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - In verses 1-18, Nebuchadnezzar describes in the first person his vision from God. (See: [[:en:ta:vol2:translate:figs_123person]])
-
-  * **I saw in my mind** - This refers to seeing a dream or vision. AT: "I saw in my dream"
   * **He shouted and said** - It can be made clear that the holy messenger was speaking to more than one person. AT: "He shouted to some people and said" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Let the animals flee ... from its branches** - "The animals will flee from under it and the bird will fly away from its branches"
-
-
+  * **Let the animals flee ... from its branches** - "The animals will be free to flee from under it and the bird will fly away from its branches"
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -44,6 +39,6 @@
   * [[:en:bible:questions:comprehension:dan:04]]
 **[[:en:bible:notes:dan:04:10|<<]] | [[:en:bible:notes:dan:04:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -21,8 +21,10 @@
 \v 1 Six sons of King David were born in the city of Hebron.
 \li1 His oldest son was Amnon, whose mother Ahinoam was from the city of Jezreel.
 \li1 His next son was Daniel, whose mother was Abigail from the city of Carmel.
+\li1
 \v 2 His next son was Absalom, whose mother was Maacah, the daughter of Talmai, the king who ruled in the city of Geshur.
 \li1 His next son was Adonijah, whose mother was Haggith.
+\li1
 \v 3 The next son was Shephatiah, whose mother was Abital.
 \li1 His youngest son was Ithream, whose mother was Eglah.
 \m
@@ -36,9 +38,15 @@
 <usfm>
 \c 3
 \p
-\v 1 Now these are the sons of David who were born to him in Hebron: the firstborn was Amnon, by Ahinoam from Jezreel; the second was Daniel, by Abigail from Carmel;
-\v 2 the third was Absalom, whose mother was Maacah, daughter of Talmai king of Geshur. The fourth was Adonijah son of Haggith;
-\v 3 the fifth was Shephatiah by Abital; the sixth was Ithream by Eglah his wife.
+\v 1 Now these are the sons of David who were born to him in Hebron: 
+\q The firstborn was Amnon, by Ahinoam from Jezreel;
+\q the second was Daniel, by Abigail from Carmel;
+\q 
+\v 2 the third was Absalom, whose mother was Maacah, daughter of Talmai king of Geshur. 
+\q The fourth was Adonijah son of Haggith;
+\q 
+\v 3 the fifth was Shephatiah by Abital; 
+\q the sixth was Ithream by Eglah his wife.
 \m
 </usfm>
 

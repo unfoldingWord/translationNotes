@@ -23,8 +23,8 @@
 \q1
 \v 28 Have you never heard
 \q2 and have you never understood
-\q1 that Yahweh is the everlasting God?
-\q2 He is the one who created the earth, even the most distant places on the earth.
+\q1 that Yahweh is the everlasting God;
+\q2 he is the one who created the earth, even the most distant places on the earth.
 \q1 He never becomes weak or weary,
 \q2 and no one can find out how much he understands.
 
@@ -35,11 +35,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 27 Why do you say, Jacob, and declare, Israel,
-\q1 "My way is hidden from Yahweh, and my God is not concerned about my vindication"?
+\q1 "My way is hidden from Yahweh, and my God is not concerned about my vindication?"
 \q1
-\v 28 Have you not known? Have you not heard?
+\v 28 Have you not known? Have you not heard? 
 \q1 The everlasting God, Yahweh, the Creator of the ends of the earth,
 \q1 does not get tired or weary; there is no limit to his understanding.
 </usfm>
@@ -57,13 +58,9 @@
 
 ===== translationNotes: =====
 
-  * **Why do you say, Jacob, and declare, Israel ... vindication"?** - The question emphasizes that they should not say what they say. AT: "'You should not say, O people of Israel ... vindication'." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why do you say, Jacob, and declare, Israel** - These two phrases both refer to the people of Israel. AT: "Why do you say, O people of Israel" (See: [[:en:ta:vol2:translate:figs_doublet]]) 
-  * **My way is hidden from Yahweh** - Yahweh not knowing what happens to them is spoken of as if Yahweh could not see the road upon which they travel. AT: "Yahweh does not know what happens to me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **my God is not concerned about my vindication** - Possible meanings are 1) "my God is not concerned about others treating me unjustly" or 2) "my God is not concerned about treating me justly."
-  * **Have you not known? Have you not heard?** - Isaiah uses these questions to emphasize that the people should know Yahweh's greatness. See how you translated these in [[:en:bible:notes:isa:40:21|40:21]]. AT: "You certainly know and have heard!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the ends of the earth** - The places on the earth that are very far away are spoken of as if they were the places where the earth ends. This phrase also forms a merism and refers to everywhere in between the ends. AT "the farthest places of the earth" or "the entire earth" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_merism]])
-
+  * **Why do you say, Jacob, and declare, Israel ... vindication?** - These two phrases mean the same thing and emphasize that all of Israel is included. The question emphasizes that they should not say what they say. AT: "Why do you say, O people of Israel ... vindication?" or "You should not say, O people of Israel ... vindication'." (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **My way is hidden from Yahweh, and my God is not concerned about my vindication** - "Yahweh does not see us. He is not concerned to clear our blame" ([[:en:ta:vol2:translate:figs_parallelism]])
+  * **Have you not known? Have you not heard?** - See how you translated this in [[:en:bible:notes:isa:40:21|40:21]].
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -71,6 +68,6 @@
   * [[:en:bible:questions:comprehension:isa:40]]
 **[[:en:bible:notes:isa:40:25|<<]] | [[:en:bible:notes:isa:40:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass eternity}}
+~~DISCUSSION~~{{tag>publish p2edit eternity}}
 
 ~~NOCACHE~~

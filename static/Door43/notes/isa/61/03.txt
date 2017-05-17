@@ -28,6 +28,7 @@
 \q1 They will be called 'people who continually do what is right,
 \q2 people who are like tall oak trees that Yahweh has planted'
 \q1 to show others that he is very great.
+\b
 
 
 \q1
@@ -39,7 +40,7 @@
 <usfm>
 \q1
 \v 3 He has sent me—to give to those who mourn in Zion—to give them a turban instead of ashes,
-\q1 oil of joy instead of mourning, a mantle of praise in place of a spirit of dullness,
+\q1 oil of joy instead of mourning, a mantle of praise in place of a spirit of dullness, 
 \q1 to call them oaks of righteousness, the planting of Yahweh, that he may be glorified.
 </usfm>
 
@@ -59,11 +60,10 @@
 
   * **General Information:** - Isaiah continues speaking.
 
-  * **to give ... to give** - Isaiah repeats this for emphasis. 
-  * **a turban** - "a headdress" or "a beautiful head covering." This is a long piece of cloth that is wrapped around the head.
+  * **turban** - a long piece of cloth that is wrapped around the head
   * **oil of joy ... a mantle of praise** - People put oil on themselves and dressed in beautiful, long robes during times of celebration and joy. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in place of a spirit of dullness** - "in place of sadness" or "in place of mourning"
-  * **oaks of righteousness, the planting of Yahweh** - This means Yahweh has caused the people to be strong and sturdy. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in place of a spirit of dullness** - "in place of sadness"
+  * **oaks of righteousness, the planting of Yahweh** - This means Yahweh has caused the people to be fine and sturdy. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **that he may be glorified** - This can be stated in active form. AT: "so that the people's lives may glorify him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
@@ -73,6 +73,6 @@
   * [[:en:bible:questions:comprehension:isa:61]]
 **[[:en:bible:notes:isa:61:02|<<]] | [[:en:bible:notes:isa:61:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

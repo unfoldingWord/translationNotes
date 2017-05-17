@@ -10,15 +10,15 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 Then a very powerful king will rise up. He will rule over a very large empire, and he will do everything he wants to do.
+\v 3 Then a very powerful king will rise up. He will rule over a very large empire, and he will do whatever he wants to do.
 \v 4 But when he has become very powerful, his kingdom will be divided into four parts. Kings who are not his descendants will rule, but they will not be as powerful as he was. His kingdom will be torn up and given to others.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
-\v 3 A mighty king will rise up who will rule a very great kingdom, and he will act according to his desires.
-\v 4 When he has risen up, his kingdom will be broken and divided to the four winds of heaven, but not to his own descendants, and not with his power when he had been ruling. For his kingdom will be uprooted for others besides his descendants.
+\v 3 A mighty king will rise up who will rule a very great kingdom, and he will do everything he wants. 
+\v 4 When he rises up, his kingdom will be broken and divided to the four winds of heaven. However, it will not be given to his own descendants, and it will not have the power that it had when he was ruling over it. For his kingdom will be uprooted and given to others who are not his own descendants.
 </usfm>
 
 ===== translationWords: =====
@@ -34,12 +34,11 @@
 
   * **General Information:** - The angel continues speaking to Daniel.
 
-  * **A mighty king will rise up** - The idea of rising up or standing is often used for someone who becomes powerful. AT: "A mighty king will begin to reign" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **A mighty king will rise up** - "A mighty king will appear" or "A mighty king will begin to reign"
   * **who will rule a very great kingdom** - Possible meanings are 1) that the size of this kingdom would be very great, or 2) that the king would rule his kingdom with very great power.
-  * **his kingdom will be broken and divided** - This can be stated in active form. AT: "his kingdom will break apart and divide" or "his kingdom will break apart into pieces" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the four winds of heaven** - Translate this as in [[:en:bible:notes:dan:07:01|7:2]].
-  * **but not to his own descendants** - The idea of not being divided and shared out is implied here. AT: "but it will not be divided for his own descendants" or "but it will not be shared by his own descendants" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **his kingdom will be uprooted for others besides his descendants** - The kingdom is spoken of as if it were a plant that someone destroyed by uprooting it. This idea can be expressed in active form. AT: "another power will uproot and destroy his kingdom and others who are not his descendants will rule over it" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the four winds of heaven** - See how you translated this in [[:en:bible:notes:dan:07:01|7:2]]
+  * **it will not be given to his own descendants** - AT: "his descendants will not rule his kingdom" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **his kingdom will be uprooted and given to others who are not his own descendants** - AT: "another power will uproot and destroy his kingdom, and others who are not his descendants will rule over it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -47,6 +46,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:01|<<]] | [[:en:bible:notes:dan:11:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

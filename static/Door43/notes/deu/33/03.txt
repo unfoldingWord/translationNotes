@@ -61,7 +61,7 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Moses continues to bless the tribes of Israel, which he began to do in [[:en:bible:notes:deu:33:01|33:2]]; Moses speaks the blessing in the form of short poems. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Moses continues to bless the tribes of Israel, which he began to do in [[:en:bible:notes:deu:33:01|33:2]]; the blessings are short poems. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **General Information:** - These verses are difficult to understand.
 
   * **the peoples** - "the people of Israel"
@@ -77,6 +77,6 @@
   * [[:en:bible:questions:comprehension:deu:33]]
 **[[:en:bible:notes:deu:33:01|<<]] | [[:en:bible:notes:deu:33:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2check p2example}}
 
 ~~NOCACHE~~

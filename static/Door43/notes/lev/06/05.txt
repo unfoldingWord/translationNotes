@@ -25,7 +25,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 5 Or if he lied about any matter, he must restore it in full and must add one-fifth more to pay him to whom it is owed, on the day that he is found guilty.
+\v 5 Or if he lied about any matter, he must restore it in full and must add one fifth more to pay him to whom it is owed, on the day that he is found guilty.
 \v 6 Then he must bring his guilt offering to Yahweh: a ram without blemish from the flock that is worth the current value, as a guilt offering to the priest.
 \v 7 The priest will make atonement for him before Yahweh, and he will be forgiven concerning whatever he has become guilty of doing."
 </usfm>
@@ -47,10 +47,10 @@
 ===== translationNotes: =====
 
   * **in full** - "fully" or "totally"
-  * **add one-fifth** - This means the person must return what he owes to someone and pay an extra one-fifth of the value. See how you translated this in [[:en:bible:notes:lev:05:14|5:16]]. (See: [[:en:ta:vol2:translate:translate_fraction]])
+  * **add one fifth** - This means the person must return what he owes to someone plus an extra one fifth of the value. See how you translated this in [[:en:bible:notes:lev:05:14|5:16]]. (See: [[:en:ta:vol2:translate:translate_fraction]])
   * **to pay him to whom it is owed** - This can be translated in active form. AT: "to pay the person he owes" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **he is found guilty** - The person who stole is to be brought before the judge and be declared guilty. This can be stated in active form. AT: "the judge declares him guilty" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **worth the current value** - This means the person must determine how many shekels the ram is worth by using the official standard of the sacred tent. You can make clear the understood information. See how this was translated in [[:en:bible:notes:lev:05:14|5:15]]. (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **worth the current value** - This means the person must determine how many shekels the ram is worth by using the official standard of the sacred tent. See [[:en:bible:notes:lev:05:14|5:15]]. (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **The priest will make atonement for him** - The abstract noun "atonement" can be stated as a verb. AT: "The priest will atone for him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **before Yahweh** - "in the presence of Yahweh"
   * **he will be forgiven** - This means Yahweh will forgive the person, not the priest. This can be translated in active form. AT: "God will forgive him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:lev:06]]
 **[[:en:bible:notes:lev:06:01|<<]] | [[:en:bible:notes:lev:06:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass restore}}
+~~DISCUSSION~~{{tag>publish p2check restore}}
 
 ~~NOCACHE~~

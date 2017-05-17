@@ -16,14 +16,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 16 Do you know how God decides where to place the clouds in the sky?
-\q2 Can you understand all the wonderful things that God does,
-\q1 and how he knows everything and he knows them completely?
+\v 16 Only God knows everything perfectly;
+\q2 so do you know how he causes the clouds to move in the sky?
 \q1
-\v 17 No, you just sweat there in your hot clothing
-\q2 because even the clothes you wear become very hot.
-\q1 Your clothing becomes hot because the heat builds up 
-\q2 when the wind comes from the south.   
+\v 17 No, you just sweat there in your clothes;
+\q2 it is very oppressive when the hot wind stops blowing from the south and all the leaves on the trees become still.
 
 
 \q1
@@ -38,7 +35,7 @@
 \q the marvelous deeds of God, who is perfect in knowledge?
 \q
 \v 17 Do you understand how your garments become hot
-\q when the land is still because the wind comes from the south?
+\q when the land is still because of the wind coming from the south?
 </usfm>
 
 
@@ -50,12 +47,11 @@
 
 ===== translationNotes: =====
 
-  * **Do you understand the floating of the clouds, the marvelous deeds of God, who is perfect in knowledge?** - Elihu asks this question to emphasize that Job does not know these things. AT: "You do not understand the floating of the clouds, the marvelous deeds of God, who is perfect in knowledge." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Do you understand the floating of the clouds, the marvelous deeds of God, who is perfect in knowledge?** - AT: "You do not understand the floating of the clouds, the marvelous deeds of God, who is perfect in knowledge" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **the floating of the clouds** - "how the clouds float"
-  * **the marvelous deeds of God** - The verb may be supplied from the previous phrase. AT: "or do you understand the marvelous deeds of God" or "and you do not understand the marvelous deeds of God" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **Do you understand how your garments become hot ... from the south?** - Elihu asks this question to emphasize that Job does not know these things. AT: "You do not understand how your garments become hot ... from the south." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **how your garments become hot** - "how you become hot in your clothes" or "how you sweat in your clothes"
-  * **because the wind comes from the south** - In Israel, hot winds blow in across the desert from the south and cause hot temperatures. AT: "because of the hot, dry wind blowing in from the south" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the marvelous deeds of God** - "the miraculous way in which he makes the clouds float across the sky"
+  * **Do you understand how your garments become hot when the land is still because of the wind coming from the south?** - AT: "You do not understand how to stop sweating there in your clothes; it is very oppressive when the hot wind stops blowing from the south and all the leaves on the trees become still" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
 
 ===== Links: =====
 
@@ -64,6 +60,6 @@
   * [[:en:bible:questions:comprehension:job:37]]
 **[[:en:bible:notes:job:37:14|<<]] | [[:en:bible:notes:job:37:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

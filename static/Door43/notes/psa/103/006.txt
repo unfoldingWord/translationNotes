@@ -61,7 +61,7 @@
 ===== translationNotes: =====
 
   * **does acts of justice for** - "causes justice to happen to"
-  * **all who are oppressed** - Who is doing the oppressing can be stated explicitly. AT: "​all ​who are oppressed by men" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **all who are oppressed** - This can be stated in active form. AT: "all who are oppressed by men" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **his deeds to the descendants** - The missing words may be added. AT: "he made known his deeds to the descendants" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **has great covenant loyalty** - "is full of mercy and love"
 ===== Links: =====
@@ -71,6 +71,6 @@
   * [[:en:bible:questions:comprehension:psa:103]]
 **[[:en:bible:notes:psa:103:003|<<]] | [[:en:bible:notes:psa:103:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

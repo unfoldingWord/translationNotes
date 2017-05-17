@@ -36,7 +36,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 Is this what makes you a good king, that you wanted to have boards of cedar?
+\v 15 Is this what makes you a good king, that you wanted to have cedar boards?
 \q Did not your father also eat and drink, yet do justice and righteousness? Then things went well for him.
 \q
 \v 16 He judged in favor of the poor and needy. It was good then. Is this not what it means to know me?—this is Yahweh's declaration.
@@ -55,24 +55,22 @@
 
 ===== translationNotes: =====
 
-  * **Is this what makes you a good king, that you wanted to have boards of cedar** - Yahweh asks this question to rebuke Jehoiakim for his expensive palace. AT: "Having a cedar palace does not make you a good king." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Did not your father also eat and drink ... righteousness?** - Yahweh asks this question to remind Jehoiakim about the example of his father, King Josiah. AT: "Your father King Josiah enjoyed his life ... righteousness." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **justice and righteousness** - These abstract nouns can be stated as actions. AT: "things that are right and just" (UDB) (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **It was good then** - "Things went well for him"
-  * **Is this not what it means to know me?** - Yahweh asks this question to rebuke Jehoiakim for not following the example of his father, King Josiah. AT: "This is what it means to know me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
-
-
+  * **Is this what makes you a good king, that you wanted to have cedar boards** - AT: "Having a cedar palace does not make you a good king" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Did not your father also eat and drink ... righteousness?** - AT: "King Josiah enjoyed his life ... righteousness." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Is this not what it means to know me?** - AT: "This is what it means to know me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
   * [[:en:bible:notes:jer:22:00]]
   * [[:en:bible:questions:comprehension:jer:22]]
+
+ 
+
 **[[:en:bible:notes:jer:22:13|<<]] | [[:en:bible:notes:jer:22:17|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

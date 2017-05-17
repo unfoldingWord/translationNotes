@@ -35,7 +35,7 @@
 
 <usfm>
 \c 37
-\m
+\p
 \q
 \v 1 Indeed, my heart trembles at this;
 \q it is moved out of its place.
@@ -61,9 +61,9 @@
 
   * **my heart trembles ... it is moved out of its place** - These two phrases mean basically the same thing and emphasize the intensity of his fear. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **my heart trembles at this** - The word "this" refers to the storm in [[:en:bible:notes:job:36:32|36:33]].
-  * **it is moved out of its place** - Elihu speaks of his heart beating violently as if it were to jump out of his chest. AT: "it moves out of its place" or "it beats violently" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **it is moved out of its place** - Elihu's heart beats so hard that it is as if it jumps out of his chest. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the noise of his voice, the sound that goes out from his mouth** - These two phrases mean basically the same thing. Elihu speaks of the thunder as if it is God's voice. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **to the borders of the earth** - Elihu speaks of the farthest places on the earth as if they were the earth's borders. AT: "everywhere in the world" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **to the borders of the earth** - "everywhere in the world" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -72,6 +72,6 @@
   * [[:en:bible:questions:comprehension:job:37]]
 **[[:en:bible:notes:job:36:32|<<]] | [[:en:bible:notes:job:37:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

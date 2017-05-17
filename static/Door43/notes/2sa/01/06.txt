@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 The young man replied, "By chance I happened to be on Mount Gilboa, and there Saul was leaning on his spear, and chariots and riders were about to catch up with him.
+\v 6 The young man replied, "By chance I happened to be on Mount Gilboa, and there Saul was leaning on his spear, and chariots and riders were about to catch up with him. 
 \v 7 Saul turned around and saw me and called out to me. I answered, 'Here I am.'
 </usfm>
 
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:2sa:01]]
 **[[:en:bible:notes:2sa:01:03|<<]] | [[:en:bible:notes:2sa:01:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

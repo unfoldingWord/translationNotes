@@ -35,11 +35,8 @@
 
 ===== translationNotes: =====
 
-  * **What have you done?** - Joab asks this question to rebuke David for letting Abner go in peace. AT: "You should not have done this!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why have you sent him away, and he is gone?** - Joab asks this question to rebuke David for letting Abner escape. This can be translated as a statement. AT: "Abner was here and you let him leave!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Do you not know ... everything you are doing?** - Joab asks this question to convince David that Abner is plotting against David. AT: "Surely you know ... everything you are doing." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **well of Sirah** - "Sirah" is the name of a place where the well was located. (See: [[:en:ta:vol1:translate:translate_names]])
-
+  * **Why have you sent him away, and he is gone?** - This question is asked to rebuke David's ignorance and can be translated as a statement. AT: "Abner was here and you let him leave." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **well of Sirah** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -47,6 +44,6 @@
   * [[:en:bible:questions:comprehension:2sa:03]]
 **[[:en:bible:notes:2sa:03:22|<<]] | [[:en:bible:notes:2sa:03:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

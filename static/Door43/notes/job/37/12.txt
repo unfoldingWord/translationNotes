@@ -22,6 +22,7 @@
 \q1
 \v 13 Sometimes God sends rain to punish us, sometimes to water the land that he has made,
 \q2 and sometimes because he wants to be very kind to us.
+\b
 
 
 \q1
@@ -38,7 +39,7 @@
 \q
 \v 13 He makes all of this happen; sometimes it happens for correction, sometimes for his land,
 \q and sometimes as acts of covenant faithfulness.
-\m
+\b
 </usfm>
 
 
@@ -50,8 +51,6 @@
 
 ===== translationNotes: =====
 
-  * **sometimes it happens for correction** - The word "correction" can be translated with a verbal phrase. The object of his "correction" is people. AT: "sometimes it happens to correct his people" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **sometimes for his land** - This means that the rain waters the ground and causes vegetation to grow. AT: "sometimes to water the land" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -60,6 +59,6 @@
   * [[:en:bible:questions:comprehension:job:37]]
 **[[:en:bible:notes:job:37:10|<<]] | [[:en:bible:notes:job:37:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

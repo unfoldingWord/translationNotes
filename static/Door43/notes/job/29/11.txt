@@ -24,8 +24,8 @@
 \q2 they said good things about me.
 \q1 When they saw me, they always praised me
 \q1
-\v 12 because I had helped those who were poor when they cried out for help,
-\q2 and because I aided those who had no fathers, those who had no one else to help them.
+\v 12 because I had helped the poor people when they cried out for help,
+\q2 and because I aided orphans who had no one else to help them.
 \q1
 \v 13 Those who were suffering and about to die praised me,
 \q2 and I caused widows to sing joyfully, because I helped them.
@@ -42,8 +42,8 @@
 \v 11 For after their ears heard me, they would then bless me;
 \q after their eyes saw me, they would then give witness to me and approve of me
 \q
-\v 12 because I rescued the one who was poor when he cried out,
-\q and the one who had no father when he had no one to help him.
+\v 12 because I used to rescue the poor person who cried out,
+\q and also those without fathers, who had no one to help him.
 \q
 \v 13 The blessing of him who was about to perish came on me;
 \q I caused the widow's heart to sing for joy.
@@ -59,13 +59,8 @@
 
 ===== translationNotes: =====
 
-  * **after their ears heard me ... after their eyes saw me** - The ears represent those who heard him, and the eyes represent those who saw him. AT: "after they heard what I told them ... after they saw me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **they would then give witness to me and approve of me** - "they would witness approvingly of me" 
-  * **I rescued the one who was poor when he cried out** - Here "the one who was poor" refers to any poor person. AT: "I used to rescue poor people who cried out" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
-  * **The blessing of him who was about to perish came on me** - Someone's blessing coming on another represents that person blessing another. AT: "He who was about to perish would bless me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **him who was about to perish** - This represents anyone who was about to die. AT: "those who were about to die" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
-  * **I caused the widow's heart to sing for joy** - Here "the widow's heart" represents any widow. AT: "I caused widows to sing joyfully" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_genericnoun]])
-
+  * **ears heard me ... eyes saw me** - "When they all heard what I told them ... after they saw me," (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **I caused the widow's heart to sing for joy** - "I caused widows to sing joyfully," (UDB) 
 
 ===== Links: =====
 
@@ -74,6 +69,6 @@
   * [[:en:bible:questions:comprehension:job:29]]
 **[[:en:bible:notes:job:29:09|<<]] | [[:en:bible:notes:job:29:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

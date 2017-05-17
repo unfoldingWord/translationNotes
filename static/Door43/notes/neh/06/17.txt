@@ -24,7 +24,7 @@
 <usfm>
 \v 17 At this time the nobles of Judah sent many letters to Tobiah, and Tobiah's letters came to them.
 \v 18 For there were many in Judah who were bound by an oath to him, because he was the son-in-law of Shecaniah son of Arah. His son Jehohanan had taken as his wife the daughter of Meshullam son of Berechiah.
-\v 19 They also spoke to me about his good deeds and reported my words back to him.
+\v 19 They also spoke to me about his good deeds and reported my words back to him. 
 \p Letters were sent to me from Tobiah to frighten me.
 </usfm>
 
@@ -41,17 +41,13 @@
   * [[:en:obe:kt:word]]
 ===== translationNotes: =====
 
-  * **sent many letters** - The nobles sent messengers to bring these letters to Tobiah. AT: "sent many messengers with letters" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Tobiah's letters came** - Here Tobiah's letters are personified as coming by themselves, when they were actually brought by messengers. AT: "Tobiah sent letters" or "Tobiah sent many messengers with letters" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **Tobiah** - Translate this man's name as you did in [[:
-en:bible:notes:neh:02:09|2:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **who were bound by an oath to him** - This speaks of people being loyal to Tobiah because they had pledged an oath to him as if their oath were a rope that bound their bodies. AT: "who had sworn an oath to him" or "who had made an oath and were loyal to him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he was the son-in-law of Shecaniah** - This means that Tobiah was married to the daughter of Shecaniah. Translate the name "Shecaniah" as you did in [[:en:bible:notes:neh:03:28|3:29]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Arah ... Jehohanan** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Meshullam ... Berechiah** - These are the names of men. Translate as in [[:en:bible:notes:neh:03:03|3:4]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **They also spoke to me about his good deeds and reported my words back to him** - "The Jewish nobles told me about Tobiah's good deeds and then told him about my responses"
-  * **Letters were sent to me from Tobiah** - This can be stated in active form. Tobiah sent messengers to bring the letters to Nehemiah. AT: "Tobiah sent letters to me" or "Tobiah sent messengers to bring letters to me" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **the nobles of Judah sent many letters to Tobiah, and Tobiah's letters came to them** - There was constant communication between the wealthy of Judah and the enemy of the Jews, Tobiah.
+  * **For there were many in Judah who were bound by an oath to him** - "For there were many people in Judah who owed allegiance to Tobiah"
+  * **he was the son-in-law of Shecaniah** - This means that Tobiah was married to the daughter of Shecaniah.
+  * **Tobiah ... Shecaniah ... Arah ... Jehohanan ... Meshullam ... Berechiah** - These are the names of males. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **They also spoke to me about his good deeds and reported my words back to him** - "The Jewish nobles told me about Tobiah's good deeds and then told him about my responses."
+  * **Letters were sent to me from Tobiah to frighten me** - This can be stated in active form. AT: "Tobiah sent letters to me to scare me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **to frighten me** - "to scare me." The continuing goal was to overcome Nehemiah using fear.
 
  
 ===== Links: =====
@@ -67,6 +63,6 @@ en:bible:notes:neh:02:09|2:10]]. (See: [[:en:ta:vol1:translate:translate_names]]
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

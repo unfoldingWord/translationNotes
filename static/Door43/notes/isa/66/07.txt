@@ -38,12 +38,13 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 7 Before she goes into labor, she gives birth;
 \q1 before pain is upon her, she gave birth to a son.
 \q1
-\v 8 Who has heard of such a thing? Who has seen such things?
-\q1 Will a land be born in one day? Can a nation be established in one moment?
+\v 8 Who has heard of such a thing? Who has seen such things? 
+\q1 Will a land be born in one day? Can a nation be established in one moment? 
 \q1 Yet as soon as Zion goes into labor, she gives birth to her children.
 </usfm>
 
@@ -60,7 +61,7 @@
   * **General Information:** - Yahweh continues speaking.
 
   * **Before she goes into labor, she gives birth; before pain is upon her, she gave birth to a son** - Yahweh speaks about Zion as if it were a woman who is about to give birth. Although Zion was destroyed and the people no longer lived there, Yahweh promises that without delay and with little effort an entire nation will come from her. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Who has heard of such a thing? Who has seen such things? Will a land be born in one day? Can a nation be established in one moment?** - Yahweh uses questions to emphasize how unique this event will be. The series of questions builds tension until Zion is finally mentioned. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who has heard of such a thing? Who has seen such things? Will a land be born in one day? Can a nation be established in one moment?** - Yahweh uses questions to emphasize how unique this event will be. The series of questions build tension until Zion is finally mentioned. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 
 ===== Links: =====
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:isa:66]]
 **[[:en:bible:notes:isa:66:06|<<]] | [[:en:bible:notes:isa:66:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

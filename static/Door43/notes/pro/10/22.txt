@@ -18,11 +18,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 22 Yahweh gives good gifts that make some people wealthy,
+\v 22 Yahweh gives good gifts that make some people wealthy, 
 \q2 and he does not make them suffer for it.
+\b
 \q1
 \v 23 Foolish people play games when they do what is wrong,
-\q2 but people with understanding enjoy wisdom.
+\q2 but people with understanding enjoy wisdom. 
+
 
 \q1
 </usfm>
@@ -35,7 +37,7 @@
 \v 22 The good gifts of Yahweh bring wealth
 \q and he adds no pain to it.
 \q
-\v 23 Wickedness is a game a fool plays,
+\v 23 Wickedness is a game a fool plays, 
 \q but wisdom is a pleasure to a man of understanding.
 </usfm>
 
@@ -52,7 +54,7 @@
 ===== translationNotes: =====
 
 
-  * **Wickedness is a game a fool plays** - A game is an activity people do for pleasure. AT: "Fools find pleasure in wickedness" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **game** - a physical or mental activity people do for pleasure
  
 ===== Links: =====
 
@@ -67,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

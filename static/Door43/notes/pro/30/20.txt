@@ -16,7 +16,7 @@
 
 <usfm>
 \v 20 This is what a woman is like who is not faithful to her husband:
-\q2 she eats and then wipes her mouth,
+\q2 she eats and then wipes her mouth, 
 \q2 and she says, "There is nothing wrong in what I have done."
 
 
@@ -28,7 +28,7 @@
 
 <usfm>
 \q
-\v 20 This is the way of an adulteress:
+\v 20 This is the way of an adulteress—
 \q she eats and she wipes her mouth
 \q and says, "I have done nothing wrong."
 </usfm>
@@ -41,8 +41,8 @@
 
 ===== translationNotes: =====
 
-  * **she eats and she wipes her mouth** - This seems to be both a euphemism and a metaphor for committing adultery and then taking a bath. (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol1:translate:figs_metaphor]])
 
+  * **she eats and she wipes her mouth** - This is an idiom for sleeping with someone. AT: "She commits adultery and washes herself" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -56,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

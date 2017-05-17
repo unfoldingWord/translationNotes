@@ -27,7 +27,7 @@
 
 <usfm>
 \p
-\v 15 'May the man be cursed who makes a carved or cast figure, an abomination to Yahweh, the work of the hands of a craftsman, and who sets it up in secret.' Then all the people must answer and say, 'Amen.'
+\v 15 'May the man be cursed who makes a carved or cast figure, an abomination to Yahweh, the work of the hands of a craftsman, and who sets it up in secret.' And all the people must answer and say, 'Amen.'
 </usfm>
 
 
@@ -40,7 +40,7 @@
   * [[:en:obe:kt:amen]]
 
 ===== translationNotes: =====
-  * **May the man be cursed ... sets it up in secret** - This is the statement the Levites must shout to all the people of Israel. It may be stated in active form. AT: "May Yahweh curse the person ... sets it up in secret" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **May the man be cursed** - This is the statement the Levites must shout to all the people of Israel. It may be stated in active form. AT: "May Yahweh curse the person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the work of the hands of a craftsman** - This is an idiom. AT: "something a man has made" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **craftsman** - a man who knows how to make things well 
 ===== Links: =====
@@ -56,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass amen}}
+{{tag>publish p2check amen}}
 
 ~~NOCACHE~~

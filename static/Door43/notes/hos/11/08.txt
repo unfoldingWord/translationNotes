@@ -47,6 +47,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 8 How can I give you up, Ephraim?
 \q How can I hand you over, Israel?
@@ -79,11 +80,11 @@
 
   * **General Information:** - Yahweh is speaking about Israel.
 
-  * **How can I give you up, Ephraim? How can I hand you over, Israel?** - Yahweh loves his people so much that he will not totally destroy them. These questions may be translated as statements. AT: "I will not give you up, Ephraim. I will not hand you over, Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **How can I make you like Admah? How can I make you like Zeboiim?** - Yahweh loves his people so much that he will not totally destroy them. These questions may be translated as statements. AT: "I do not want to act toward you as I acted toward Admah or make you like Zeboiim—cities that I destroyed along with Sodom" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **For I am God and not a man** - God is not like people, who often decide very quickly to take revenge.
+  * **How can I give you up, Ephraim? How can I hand you over, Israel?** - Yahweh loves his people so much that he will not totally destroy them. These statements may be presented as statements. AT: "I will not give you up, Ephraim. I will not have you over, Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **How can I make you like Admah? How can I make you like Zeboiim?** - These questions may also be presented as statements. AT: "I do not want to act toward you as I acted toward Admah or make you like Zeboiim—cities that I destroyed along with Sodom" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **For I am God and not a man** - God is not like people, who often decide very quickly to take revenge. 
   * **My heart has changed within me** - Here "heart" represents God's will and decisions. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I will not come in wrath** - The abstract noun "wrath" can be stated as the adjective "angry." AT: "I will not come to you and be angry with you" (UDB) (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **I will not come in wrath** - Wrath is represented as a quality in which God will not come. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:hos:00:intro]]
@@ -91,6 +92,6 @@
   * [[:en:bible:questions:comprehension:hos:11]]
 **[[:en:bible:notes:hos:11:05|<<]] | [[:en:bible:notes:hos:11:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

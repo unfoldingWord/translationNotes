@@ -31,8 +31,8 @@
 
 <usfm>
 \q1
-\v 16 Therefore the Lord Yahweh says,
-\q1 "See: I will lay in Zion a foundation stone, a tried stone,
+\v 16 Therefore the Lord Yahweh says, 
+\q1 "See: I will lay in Zion a foundation stone, a tried stone, 
 \q1 a precious cornerstone, a sure foundation. He who believes will not be ashamed.
 </usfm>
 
@@ -48,11 +48,11 @@
 
 ===== translationNotes: =====
 
-  * **See** - "Listen to this"
-  * **I will lay in Zion a foundation stone ... sure foundation** - Yahweh sending a strong person to help the people of Israel is spoken of as if Yahweh is constructing a strong foundation for a building. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **See** - AT: "Listen to this"
+  * **I will lay in Zion a foundation stone** - A foundation stone is the first stone to be laid in a new building. AT: "I will prepare a sure start for building in Zion" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **a tried stone** - "a stone that is solid"
   * **a sure foundation** - "a firm support"
-  * **He who believes will not be ashamed** - "Anyone who trusts in this foundation stone will not be sorry"
+  * **He who believes will not be ashamed** - "Anyone who believes in the foundation stone placed by Yahweh will not be sorry"
 
 ===== Links: =====
 
@@ -67,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

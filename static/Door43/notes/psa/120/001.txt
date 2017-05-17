@@ -20,7 +20,7 @@
 \q1
 \v 2 I prayed,
 \q2 "Yahweh, rescue me from those who lie to me and try to deceive me!"
-
+\b
 
 
 \q1
@@ -30,8 +30,9 @@
 
 <usfm>
 \c 120
-\m
+\p
 \d A song of ascents.
+\b
 \q
 \v 1 In my distress I called out to Yahweh,
 \q and he answered me.
@@ -49,7 +50,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A song of ascents** - Possible meanings are 1) "A song people sang while going up to Jerusalem for a celebration" or 2) "A song people sang while going up the steps into the temple" or 3) "A song whose words are like steps."
   * **In my distress** - "In my trouble" or "When I was in trouble"
@@ -63,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:120]]
 **[[:en:bible:notes:psa:119:175|<<]] | [[:en:bible:notes:psa:120:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

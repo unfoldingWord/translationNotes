@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 Yahweh said to Satan, "Have you considered my servant Job? For there is no one like him on the earth, a blameless and upright man, one who fears God and turns away from evil. He still holds fast to his integrity, although you misled me against him, to destroy him without cause."
+\v 3 Yahweh said to Satan, "Have you considered my servant Job? For there is no one like him on the earth, a blameless and upright man, one who fears God and turns away from evil. He still holds fast to his integrity, although you persuaded me to act against him, to destroy him without cause."
 </usfm>
 
 ===== translationWords: =====
@@ -38,14 +38,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This verse is the same as [[:en:bible:notes:job:01:06|1:8]], except for the addition of "He still holds fast to his integrity, although you misled me against him, to destroy him without cause."
+  * **Have you considered my servant Job?** - See how you translated this in [[:en:bible:notes:job:01:06|1:8]]. AT: "Consider my servant Job." (See: [[:en:ta:vol1:translate:figs_rquestion]]).
+  * **a blameless and upright man** - See how you translated a similar phrase in [[:en:bible:notes:job:01:01|1:1]]. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **one who fears God and turns away from evil** - See how you translated a similar phrase in [[:en:bible:notes:job:01:01|1:1]].
+  * **still holds fast to his integrity** - "still does what is good and right"
+  * **persuaded me to act against him** - AT: "urged me to attack him" 
 
-  * **Have you considered my servant Job?** - This rhetorical question actually makes a statement.Translate this as in [[:en:bible:notes:job:01:06|1:8]]. AT: "Consider my servant Job." (See: [[:en:ta:vol1:translate:figs_rquestion]]).
-  * **a blameless and upright man** - Translate this as you did a similar phrase in [[:en:bible:notes:job:01:01|1:1]]. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **one who fears God and turns away from evil** - Translate this as in [[:en:bible:notes:job:01:01|1:1]].
-  * **still holds fast to his integrity** - "remains completely dedicated to doing what is good and right"
-  * **misled me against him** - "persuaded me without cause to attack him" 
-  * **to destroy him** - Here "destroy" represents "make poor." AT: "to make him a poor man"
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -53,6 +51,6 @@
   * [[:en:bible:questions:comprehension:job:02]]
 **[[:en:bible:notes:job:02:01|<<]] | [[:en:bible:notes:job:02:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass integrity}}
+~~DISCUSSION~~{{tag>publish p2edit integrity}}
 
 ~~NOCACHE~~

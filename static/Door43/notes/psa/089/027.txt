@@ -26,7 +26,7 @@
 \q1
 \v 29 I will establish a line of his descendants that will never end,
 \q2 various ones of his descendants will always be kings.
-
+\b
 
 
 \q1
@@ -73,6 +73,6 @@
   * [[:en:bible:questions:comprehension:psa:089]]
 **[[:en:bible:notes:psa:089:024|<<]] | [[:en:bible:notes:psa:089:030|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

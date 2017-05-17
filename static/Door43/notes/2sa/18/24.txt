@@ -32,7 +32,6 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:watch]]
   * [[:en:obe:kt:gate]]
   * [[:en:obe:kt:raise]]
  
@@ -40,8 +39,8 @@
 ===== translationNotes: =====
 
   * **Now** - This word is used here to mark a break in the main storyline and the beginning of a new part of the story.
-  * **and raised his eyes** - Here the watchman looking to see something is spoken of as if he lifted up his eyes. AT: "and looked out beyond the city" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **there is news in his mouth** - Here the king speaks of the man having a message as if the news were an object sitting in his mouth. AT: "he has news to tell us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **watchman** - a person who guards property from thieves
+  * **there is news in his mouth** - Here "his mouth" means what someone says. AT: "he has come to tell us what happened" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -56,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

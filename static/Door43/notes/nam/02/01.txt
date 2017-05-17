@@ -26,6 +26,7 @@
 <usfm>
 \v 1 You people of Nineveh, your enemies are coming to attack you. So place guards on the tops of the walls around the city! Guard the roads into the city! Get ready to fight! Gather your troops together!
 \v 2 Even though your soldiers have destroyed the descendants of Jacob, Yahweh will cause other nations to honor them again. Invaders from your country have ruined Israel as enemies would uproot a vineyard, but Israel will prosper again.
+\b
 </usfm>
 
 
@@ -33,13 +34,13 @@
 
 <usfm>
 \c 2
-\m
+\p
 \q
-\v 1 The one who will dash you to pieces is coming up against you.
-\q Man the city walls, guard the roads,
+\v 1 The one who will dash you to pieces is coming up against you. 
+\q Man the city walls, guard the roads, 
 \q make yourselves strong, assemble your armies.
 \q
-\v 2 For Yahweh is restoring the majesty of Jacob, like the majesty of Israel,
+\v 2 For Yahweh is restoring the majesty of Jacob, like the majesty of Israel, 
 \q although the plunderers devastated them and destroyed their vine branches.
 </usfm>
 
@@ -57,7 +58,7 @@
 
   * **General Information:** - Nahum continues describing the destruction of Nineveh in poetry that began in [[:en:bible:notes:nam:01:01|1:1]]. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **The one who will dash you to pieces** - The picture is of someone breaking a pot. AT: "He who will destroy you" (See: [[:en:ta:vol1:translate:figs_metaphor]]).
+  * **The one who will dash you to pieces** - The picture is of someone breaking a pot. Alternate translation: "He who will destroy you" (See: [[:en:ta:vol1:translate:figs_metaphor]]).
   * **The one who will dash** - The person who is "the one" is not clear, so translate using a general term: "Someone who will break you to pieces."
   * **Man the city walls, guard the roads, make yourselves strong, assemble your armies.** - prepare for war
   * **Man the city walls** - "Set guards on the walls for protection"

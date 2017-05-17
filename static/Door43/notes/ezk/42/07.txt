@@ -12,8 +12,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 The outer wall ran parallel to the rooms that faced the outer courtyard; this part of the outer wall was twenty-seven meters long.
-\v 8 The row of rooms that was along the outer courtyard was twenty-seven meters long, and the row of rooms that faced the temple was fifty-four meters long.
+\v 7 The outer wall ran parallel to the rooms that faced the outer courtyard; this part of the outer wall was about twenty-seven meters long.
+\v 8 The row of rooms that was along the outer courtyard was about twenty-seven meters long, and the row of rooms that faced the temple was about fifty-four meters long.
 \v 9 The bottom story had an entrance on its east side, coming from the outer courtyard.
 
 
@@ -23,8 +23,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 7 The outside wall ran along the rooms toward the outer courtyard, the courtyard that was in front of the rooms. That wall was fifty cubits in length.
-\v 8 The length of the rooms of the outer courtyard was fifty cubits, and the rooms facing the sanctuary were one hundred cubits in length.
+\v 7 The outside wall ran along the rooms toward the outer courtyard, the courtyard that was in front of the rooms. That wall was fifty cubits long. 
+\v 8 The length of the rooms of the outer courtyard was fifty cubits, and the rooms facing the sanctuary were one hundred cubits long.
 \v 9 There was an entrance to the lowest rooms from the east side, coming from the outer courtyard.
 </usfm>
 
@@ -36,8 +36,7 @@
 ===== translationNotes: =====
 
  
-  * **fifty cubits ... one hundred cubits** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "50 cubits ... 100 cubits" or "about 27 meters ... about 54 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **facing** - Translate as in [[:en:bible:notes:ezk:40:08|40:9]].
+  * **facing** - See how you translated this in [[:en:bible:notes:ezk:40:08|40:9]].
  
 ===== Links: =====
 
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:ezk:42]]
 **[[:en:bible:notes:ezk:42:04|<<]] | [[:en:bible:notes:ezk:42:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 When the Governor decided that we should sail for Italy, he put Paul and some other prisoners into the control of an army captain whose name was Julius. He held the rank of centurion and was part of a large number of soldiers who were under the direct command of the Emperor.
+\v 1 When the Governor decided that we should sail for Italy, he put Paul and some other prisoners into the control of an army captain whose name was Julius. He held the rank of centurion and was part of a regiment called "the Augustans".
 \v 2 We boarded a ship from the city of Adramyttium in Asia. The ship was about to sail to places on the coast of Asia. In this way we went to sea. Aristarchus, from Thessalonica in Macedonia, went with us.
 </usfm>
 
@@ -22,7 +22,7 @@
 <usfm>
 \c 27
 \p
-\v 1 When it was decided that we should sail for Italy, they put Paul and some other prisoners under the charge of a centurion named Julius of the Imperial Regiment.
+\v 1 When it was decided that we should sail for Italy, they put Paul and some other prisoners under the charge of a centurion named Julius of the Augustan Regiment.
 \v 2 We boarded a ship from Adramyttium, which was about to sail along the coast of Asia. So we went to sea. Aristarchus from Thessalonica in Macedonia went with us.
 </usfm>
 
@@ -42,17 +42,17 @@
   * **General Information:** - The word "we" includes to Luke, the author of Acts, as well as Paul and others traveling with Paul. (See: [[:en:ta:vol2:translate:figs_exclusive]])
   * **General Information:** - Adramyttium was a city possibly located on the west coast of modern-day Turkey. (See: [[:en:ta:vol1:translate:translate_names]])
 
-  * **When it was decided** - This can be stated in active form. AT: "When the king and the governor decided" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **When it was decided** - This can be stated in active form. AT: "When the governor decided" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **sail for Italy** - Italy is the name of the province Rome was in. See how you translated "Italy" in [[:en:bible:notes:act:18:01|18:2]].
-  * **they put Paul and some other prisoners under the charge of a centurion named Julius of the Imperial Regiment** - "they put a centurion named Julius, of the Imperial Regiment, in charge of Paul and some other prisoners"  
-  * **they put Paul and some other prisoners** - Possible meanings are that 1) "they" refers to the governor and the king or 2) "they" refers to other Roman officials.   
+  * **they put Paul and some other prisoners under the charge of a centurion named Julius of the Augustan Regiment** - "the Roman soldiers put a centurion named Julius, of the Augustan Regiment, in charge of Paul and some other prisoners"
   * **a centurion named Julius** - Julius is a man's name. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the Imperial Regiment** - This was the name of the battalion or army from which the centurion came. Some versions translate this as "the Augustan Regiment." (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the Augustan Regiment** - This was the name of the battalion or army from which the centurion came. (See: [[:en:ta:vol1:translate:translate_names]])
   * **We boarded a ship ... which was about to sail** - Here "ship ... which was about to sail" stands for the crew that will sail the ship. AT: "We boarded a ship ... which a crew was about to sail" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **a ship from Adramyttium** - Possible meanings are 1) a ship that had come from Adramyttium or 2) a ship that was registered or licensed in Adramyttium. 
   * **about to sail** - "soon going to sail" or "would depart soon"
   * **went to sea** - "began our journey on the sea"
   * **Aristarchus** - Aristarchus came from Macedonia but had been working with Paul in Ephesus. See how you translated his name in [[:en:bible:notes:act:19:28|19:29]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]

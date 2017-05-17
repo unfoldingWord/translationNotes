@@ -30,10 +30,11 @@
 \q1 Then I, Yahweh, will be their king,
 \q2 and I will rule from Jerusalem forever.
 \q1
-\v 8 As for you people of Jerusalem,
+\v 8 As for you people of Jerusalem, 
 \q2 you who guard all of my people as a shepherd guards his sheep from a tower,
 \q1 you who live on Mount Zion will have great power again.
 \q2 You people who live in Jerusalem will again rule as you did previously.
+\b
 
 
 \q1
@@ -42,6 +43,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 6 "On that day," says Yahweh,
 \q "I will assemble the lame
@@ -53,10 +55,11 @@
 \q and I, Yahweh, will reign over them on Mount Zion,
 \q now and forever.
 \q
-\v 8 As for you, watchtower for the flock,
-\q hill of the daughter of Zion—
-\q to you it will come, your former dominion will be restored,
-\q the kingdom that belongs to the daughter of Jerusalem.
+\v 8 And you, watchtower for the flock,
+\q hill of the daughter of Zion,
+\q to you it will come—
+\q the former rule will come,
+\q the kingdom of the daughter of Jerusalem.
 </usfm>
 
 ===== translationWords: =====
@@ -84,7 +87,6 @@
   * **and the ones driven away into a strong nation** - AT: "and the ones I drove away I will make into a strong nation" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **watchtower for the flock** - Yahweh uses this phrase to emphasize that the people of Jerusalem are supposed to guard and care for all the other people of Israel. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **hill of the daughter of Zion** - The "daughter" of a city means the people of the city. AT: "hill where the people of Zion live"
-  * **hill** - Some modern versions understand this Hebrew word to mean "fortress" or "stronghold" here.
 
 ===== Links: =====
 

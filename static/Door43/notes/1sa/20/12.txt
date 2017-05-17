@@ -25,7 +25,9 @@
 \v 13 If it pleases my father to do you harm, may Yahweh do to Jonathan and more also if I do not make it known to you and send you away, so that you may go in peace. May Yahweh be with you, as he has been with my father.
 </usfm>
 
+
 ===== translationWords: =====
+
 
   * [[:en:obe:other:david]]
   * [[:en:obe:kt:god]]
@@ -38,10 +40,10 @@
 
 ===== translationNotes: =====
 
-  * **see** - "look" or "listen" or "pay attention to what I am about to tell you"
+  * **see** - AT: "Look" or "Listen" or "Pay attention to what I am about to tell you"
   * **if there is good will** - "if my father wants to do good things for you"
   * **will I not then send to you and make it known to you?** - Jonathan uses this question to emphasize that he will tell David if Saul intends to harm him. This rhetorical question can be translated as a statement. AT: "then I will certainly send to you and make it known to you" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **may Yahweh do to Jonathan and more also** - This is an idiom. Jonathan uses this oath for emphasis and speaks of himself as if he were another person. AT: "may Yahweh do to me whatever harm my father intends to do to you, and even more than that" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_pronouns]])
+  * **may Yahweh do to Jonathan and more also** - Jonathan uses this oath for emphasis and speaks of himself in the third person. AT: "may Yahweh do to me whatever harm my father intends to do to you, and even more than that" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -50,6 +52,6 @@
   * [[:en:bible:questions:comprehension:1sa:20]]
 **[[:en:bible:notes:1sa:20:10|<<]] | [[:en:bible:notes:1sa:20:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

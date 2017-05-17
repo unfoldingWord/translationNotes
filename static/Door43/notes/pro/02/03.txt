@@ -50,10 +50,8 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:cry]]
   * [[:en:obe:other:understand]]
   * [[:en:obe:other:voice]]
-  * [[:en:obe:other:seek]]
   * [[:en:obe:other:silver]]
   * [[:en:obe:kt:fear]]
   * [[:en:obe:kt:yahweh]]
@@ -61,12 +59,8 @@
 
 ===== translationNotes: =====
 
-  * **If you cry out for understanding and raise your voice for it** - Both of these statements have the same meaning. It is implied that the person is strongly asking Yahweh for understanding. AT:  "If you urgently ask God and plead for understanding" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **If you cry ... if you seek** - This continues the series of conditional statements started in [[:en:bible:notes:pro:02:01|2:1]]. If you translated the statements in 1:1-2 as commands, you should translate these as commands also as in the UDB.
-  * **raise your voice** - This is an idiom that means to speak loudly or to shout. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **if you seek it like you would seek silver and search for understanding as you would seek hidden treasures** - Both statements have the same meaning. These similes emphasize the great effort a person should make to understand what is wise. AT:  "if you seek understanding with as much effort as you search for a valuable object" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **you seek it ... search for understanding** - Trying very hard to understand what is wise is spoken of as if understanding were an object for which a person must search. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **you will find the knowledge of God** - To succeed in knowing God is spoken of as if the knowledge of God were an object that a person finds after searching. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **If you cry out for understanding and raise your voice for it** - Both parts of the verse mean "If you urgently ask God for understanding." (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **if you seek it like you would seek silver and search for understanding as you would seek hidden treasures** - Both parts of the verse mean "if you seek understanding with as much effort as you search for a valuable object." (See: [[:en:ta:vol2:translate:figs_parallelism]])
  
 ===== Links: =====
 
@@ -81,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

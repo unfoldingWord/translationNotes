@@ -17,6 +17,7 @@
 <usfm>
 \v 12 The people from the city of Tyre will bring gifts to you;
 \q2 their rich people will try to persuade you to do favors for them.
+\b
 \q1
 \v 13 You, the king's bride, enter the palace
 \q2 wearing beautiful robes made from gold thread."
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:045]]
 **[[:en:bible:notes:psa:045:010|<<]] | [[:en:bible:notes:psa:045:014|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2 beg}}
+~~DISCUSSION~~{{tag>publish p2check book2 beg}}
 
 ~~NOCACHE~~

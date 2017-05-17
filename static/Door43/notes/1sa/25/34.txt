@@ -20,6 +20,7 @@
 \v 35 Then David accepted the gifts that Abigail had brought to him. He said to her, "I hope that things may go well for you. I have heard what you said, and I will do what you have requested."
 
 
+
 \p
 </usfm>
 
@@ -27,7 +28,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 34 For in truth, as Yahweh, the God of Israel, lives, he who has kept me from hurting you, unless you had hurried to come meet me, there would certainly have not been left to Nabal so much as one male baby by morning."
+\v 34 For in truth, as Yahweh , the God of Israel, lives, he who has kept me from hurting you, unless you had hurried to come meet me, there would certainly have not been left to Nabal so much as one male baby by morning."
 \v 35 So David received from her hand what she had brought him; he said to her, "Go up in peace to your house; see, I have listened to your voice and have accepted you."
 </usfm>
 
@@ -47,12 +48,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - David accepts Abigail's gifts and agrees to do as she has advised him.
+  * **General Information:** - David accepts Abigail's gifts and counsel.
 
-  * **there would certainly have not been left to Nabal so much as one male baby** - This can be translated in active form. AT: "I would not have left to Nabal even one male baby" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **received from her hand** - This is an idiom. Abigail did not unload all gifts from the donkeys herself. AT: "accepted all the gifts that she had brought" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **have listened to your voice** - The word "voice" is a metonym for the message the person speaks and a synecdoche for the person who speaks. AT: "have listened to what you have told me" or "will do as you have advised me" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-
+  * **as one male baby** - every male would have been killed from the oldest to the youngest
+  * **received from her hand** - This is an idiom that is an expression for David accepting all the gifts that Abigail brought with her. It is unlikely that Abigail unloaded all the donkeys herself and handed all the food to David personally. (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -62,6 +61,7 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2pass}}
+
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

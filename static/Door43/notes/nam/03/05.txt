@@ -27,21 +27,21 @@
 
 <usfm>
 \v 5 So Yahweh, commander of the angel armies, says to the people of Nineveh:
-\q2 "I am your enemy, and I will cause the people 
-\q2 in other nations to see you completely humiliated;
-\q2 like women who have committed adultery are humiliated 
-\q2 by having their skirts lifted high,
-\q2 with the result that people can see their naked bodies.
-\q1
+\pi "I am your enemy,
+ and I will cause the people in other nations to see you completely humiliated
+ like women who have committed adultery are humiliated by having their skirts lifted high,
+ with the result that people can see their naked bodies.
 \v 6 I will cause others to throw garbage at you;
-\q2 I will show others that I despise you very much,
-\q2 and I will cause everyone to ridicule you in public.
-\q1
+ I will show others that I despise you very much,
+ and I will cause everyone to ridicule you in public.
 \v 7 All those who see you will turn their backs to you and say,
-\q2 'Nineveh is ruined,
-\q2 but absolutely no one will mourn for it.'
-\q2 Nineveh, no one will want to comfort you."
-\q1
+ 'Nineveh is ruined,
+ but absolutely no one will mourn for it.'
+ Nineveh, no one will want to comfort you."
+
+
+
+\m
 </usfm>
 
 
@@ -49,13 +49,13 @@
 
 <usfm>
 \q
-\v 5 "See, I am against you—this is the declaration of Yahweh of hosts—I will raise up your skirt over your face
+\v 5 "See, I am against you—this is the declaration of Yahweh of hosts—I will raise up your skirt over your face 
 \q and show your private parts to the nations, your shame to the kingdoms.
 \q
 \v 6 I will throw disgusting filth on you and make you vile; I will make you someone that everyone will look at.
 \q
-\v 7 It will come about that everyone who looks at you will flee from you and say,
-\q 'Nineveh is destroyed; who will weep for her?'
+\v 7 It will come about that everyone who looks at you will flee from you and say, 
+\q 'Nineveh is destroyed; who will weep for her?' 
 \q Where can I find anyone to comfort you?"
 </usfm>
 
@@ -70,7 +70,7 @@
 ===== translationNotes: =====
 
   * **See** - This word serves to draw attention to what comes next.
-  * **who will weep for her?' Where can I find anyone to comfort you?** - AT: "no one will cry for her,' and I cannot find anyone to comfort her." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **who will weep for her?' Where can I find anyone to comfort you?** - Alternate translation: "no one will cry for her,' and I cannot find anyone to comfort her." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 

@@ -25,7 +25,7 @@
 
 <usfm>
 \v 6 In addition to him, I have appointed Oholiab son of Ahisamach, from the tribe of Dan. I have put skill into the hearts of all who are wise so that they may make all that I have commanded you. This includes
-\v 7 the tent of meeting, the ark of the testimony, the atonement lid on the ark, and all the furniture of the tent—
+\v 7 the tent of meeting, the ark of the covenant decrees, the atonement lid on the ark, and all the furniture of the tent—
 \v 8 the table and its utensils, the pure lampstand with all its equipment, the incense altar,
 \v 9 the altar for burnt offerings with all its equipment, and the large basin with its base.
 </usfm>
@@ -54,10 +54,11 @@
   * **Oholiab ... Ahisamach** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **I have put skill into the hearts of all who are wise** - God speaks of making people able to make things as if he were putting the ability into their hearts. AT: "I have given skill to all who are wise" or "I have made all who are wise able to make things well" 
   * **tent of meeting** - This is another name for the tabernacle. See how you translated this in [[:en:bible:notes:exo:27:20|27:21]].
-  * **ark of the testimony** - The ark is the chest that contains the commandments. This can be stated clearly in the translation. See how you translated this in [[:en:bible:notes:exo:26:31|26:33]]. AT: "the chest containing the commandments" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **ark of the covenant decrees** - The ark is the chest that contains the commandments. This can be stated clearly in the translation. AT: "the chest containing the commandments." See how you translated this in [[:en:bible:notes:exo:26:31|26:33]]. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **atonement lid** - This is the lid that sits on top of the ark where the atonement offering was made. See how you translated this in [[:en:bible:notes:exo:25:15|25:17]].
-  * **incense altar** - "altar to burn incense." See how you translated this in [[:en:bible:notes:exo:30:03|30:03]].
-  * **altar for burnt offerings** - "altar on which offering were burnt." See how you translated this in [[:en:bible:notes:exo:30:26|30:28]].
+  * **incense altar** - "an altar to burn incense." See how you translated this in [[:en:bible:notes:exo:30:03|30:03]].
+  * **altar for burnt offerings** - "the altar on which offering were burnt." See how you translated this in [[:en:bible:notes:exo:30:26|30:28]].
+
 
 ===== Links: =====
 
@@ -66,6 +67,6 @@
   * [[:en:bible:questions:comprehension:exo:31]]
 **[[:en:bible:notes:exo:31:03|<<]] | [[:en:bible:notes:exo:31:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass purify wise}}
+~~DISCUSSION~~{{tag>publish p2check purify wise}}
 
 ~~NOCACHE~~

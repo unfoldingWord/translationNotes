@@ -24,6 +24,7 @@
 \q2 It will be as though it is the highest mountain,
 \q1 as though it has been raised up above all other hills,
 \q2 and people from all over the world will come there.
+\b
 
 
 \p
@@ -36,11 +37,10 @@
 \p
 \v 1 The things that Isaiah son of Amoz perceived in a vision, concerning Judah and Jerusalem.
 \q1
-\v 2 It will be in the last days 
-\q1 that the mountain of Yahweh's house 
-\q1 will be established as the highest of the mountains, 
-\q1 and it will be raised up above the hills,
-\q1 and all the nations will flow to it.
+\v 2 In the latter days, the mountain of Yahweh's house will be established 
+\q1 as the highest of the
+mountains, and will be exalted above the hills; 
+\q1 and all nations will flow to it.
 </usfm>
 
 ===== translationWords: =====
@@ -56,17 +56,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-
-  * **Judah and Jerusalem** - "Judah" and "Jerusalem" are metonyms for the people who live there. AT: "those living in Judah and Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in the last days** - "in the future"
-  * **the mountain of Yahweh's house will be established** - This can be stated 1) as a description. AT: "The mountain of Yahweh's house will stand" or 2) in active form. AT: "Yahweh will establish the mountain on which his temple is built" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Judah and Jerusalem** - "those living in Judah and Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **In the latter days** - "In the future"
+  * **the mountain of Yahweh's house will be established** - This can be stated 1) as a description AT: "The mountain of Yahweh's house will stand" or 2) as an active form. AT: "Yahweh will establish the mountain on which his temple is built" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **as the highest of the mountains** - Isaiah speaks of importance as if it were physical height. AT: "the most important of the mountains" or "the most important place in the world" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **it will be raised up above the hills** - Isaiah speaks of honor in metaphor as if it were physical height. This can be stated 1) in active form. AT: "Yahweh will honor it more than any other hill" or 2) as a metonym for the people who worship there. AT: "Yahweh will honor the people who worship there more than he honors any other people" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **and all the nations** - Here "nations" is a metonym for the people of those nations. AT: "and people from all the nations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and will be exalted above the hills** - Isaiah speaks of honor in metaphor as if it were physical height. This can be stated 1) in active form, AT: "and Yahweh will honor it more than any other hill" or 2) as a metonym for the people who worship there AT: "and Yahweh will honor the people who worship there more than he honors any other people." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and all nations** - "and people from all nations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **will flow to it** - The people around the world going to the mountain of Yahweh is compared to how a river flows. This emphasizes that many people will come, not just a few people. AT: "will flow like a river to it" or "will go to it" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
-
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -74,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:02]]
 **[[:en:bible:notes:isa:01:31|<<]] | [[:en:bible:notes:isa:02:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass lastday ktlist}}
+~~DISCUSSION~~{{tag>publish p2edit lastday ktlist }}
 
 ~~NOCACHE~~

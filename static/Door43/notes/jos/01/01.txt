@@ -44,13 +44,12 @@
 
 ===== translationNotes: =====
 
-  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
+  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the note on the Important Term page concerning how to translate this.
   * **Nun** - Joshua's father (See [[:en:ta:vol1:translate:translate_names]])
   * **cross over this Jordan** - To "cross over" means "go to the opposite bank of the river." AT: "travel from this side to the opposite side of the Jordan" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **you and all this people** - The word "you" here refers to Joshua. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **I have given you every place** - God giving the land to the Israelites in the future is spoken of as if he gave it to them in the past. This emphasizes that he will certainly give it to them. AT: "I will give to you every place" (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
-  * **I have given you** - The word "you" refers to both Joshua and the nation of Israel. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **every place where the sole of your foot will walk** - This refers to all the places Joshua and the Israelites will travel when they cross the Jordan River. AT: "everywhere you go in this land" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **you and all this people** - The word "you" here refers to Joshua. (See: [[:en:ta:vol1:translate:figs_youdual]])
+  * **sole of your foot** - Here this refers to all the places Joshua visits in his journey across the Jordan River. AT: "Wherever you journey, that land will belong to Israel" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **I have given you** - The word "you" refers to both Joshua and the nation of Israel. (See: [[:en:ta:vol1:translate:figs_youdual]])
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -58,6 +57,6 @@
   * [[:en:bible:questions:comprehension:jos:01]]
 **| [[:en:bible:notes:jos:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass joshua}}
+~~DISCUSSION~~{{tag>publish p2check joshua}}
 
 ~~NOCACHE~~

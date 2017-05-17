@@ -28,6 +28,7 @@
 \q1
 \v 15 No one tells the truth,
 \q2 and people try to ruin the reputations of those who quit doing evil.
+\b
 \q1 Yahweh looked around, and he saw that no one was doing what is just;
 \q2 he was very displeased.
 
@@ -40,10 +41,10 @@
 
 <usfm>
 \q1
-\v 14 Justice is driven back, and righteousness stands far off;
+\v 14 Justice is driven back, and righteousness stands far off; 
 \q1 for truth stumbles in the public square, and right cannot come.
 \q1
-\v 15 Trustworthiness has gone away, and he who turns away from evil makes himself a victim.
+\v 15 Trustworthiness has gone away, and he who turns away from evil makes himself a victim. 
 \q1 Yahweh saw it and was displeased that there was no justice.
 </usfm>
 
@@ -62,8 +63,7 @@
 
   * **General Information:** - Isaiah continues speaking.
 
-  * **Justice is driven back** - This can be stated in active form. TA: "The people drive justice back" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Justice ... righteousness ... truth ... right ... Trustworthiness** - These are ideas that Isaiah describes as acting like persons. (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **truth stumbles** - Isaiah describes "truth" as a person who falls down. This means the people fail to speak the truth. (See: [[:en:ta:vol2:translate:figs_personification]])
 
 ===== Links: =====
 
@@ -72,6 +72,6 @@
   * [[:en:bible:questions:comprehension:isa:59]]
 **[[:en:bible:notes:isa:59:12|<<]] | [[:en:bible:notes:isa:59:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

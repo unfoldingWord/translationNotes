@@ -20,6 +20,7 @@
 \q2 The cedar trees in Lebanon are drying up and decaying.
 \q1 The Plain of Sharon along the coast is now a desert plain.
 \q2 There are no more leaves on the trees in the areas of Bashan and Carmel.
+\b
 
 
 \q1
@@ -29,8 +30,8 @@
 ===== ULB: =====
 
 <usfm>
-\q1
-\v 9 The land mourns and withers away; Lebanon is ashamed and withers away;
+\q1 
+\v 9 The land mourns and withers away; Lebanon is ashamed and withers away; 
 \f + \ft Some versions have \fqa The land dries up and withers away \fqb . \f*
 \q1 Sharon is like a desert plain; and Bashan and Carmel shake off their leaves.
 </usfm>
@@ -47,11 +48,11 @@
 
 ===== translationNotes: =====
 
-  * **The land mourns and withers away** - This speaks of the land becoming dry as if it were a person mourning. AT: "The land becomes dry and its plants wither away" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **is ashamed and withers away** - This speaks of Lebanon's trees withering and decaying as if Lebanon were a person is ashamed. AT: "Lebanon's trees wither and decay" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Sharon ... Bashan ... Carmel** - Many trees and flowers once grew in these places. 
-  * **Sharon is like a desert plain** - This compares how dry Sharon is to a desert plain. AT: "Sharon is as dry as a desert plain" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Bashan and Carmel shake off their leaves** - Here Bashan and Carmel by their trees. AT: "there are no more leaves on the trees in Bashan and Carmel" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **mourns and withers away** - like a person who is very sad and has lost hope. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **Lebanon** - a place known for its strong trees
+  * **is ashamed and withers away** - Lebanon is someone who is ashamed (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **Lebanon ... withers away** - Because Lebanon was known for its beautiful trees, this expression is probably based on the fact that trees wither away. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Sharon ... Bashan ... Carmel** - regions where many flowers and trees once grew
 
 ===== Links: =====
 
@@ -66,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass sharon}}
+{{tag>publish p2edit sharon}}
 
 ~~NOCACHE~~

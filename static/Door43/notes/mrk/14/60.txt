@@ -23,12 +23,11 @@
 
 <usfm>
 \v 60 The high priest stood up among them and asked Jesus, "Have you no answer? What is it these men testify against you?"
-\v 61 But he was silent and answered nothing. Again the high priest questioned him and said, "Are you the Christ, the Son of the Blessed?"
-\v 62 Jesus said, "I am;
-\q and you will see the Son of Man
-\q2 when he sits at the right hand of power
+\v 61 But he was silent and answered nothing. Again the high priest questioned him and said, "Are you the Christ, the son of the Blessed?"
+\v 62 Jesus said, "I am. 
+\q And you will see the Son of Man 
+\q2 when he sits at the right hand of power 
 \q2 and comes with the clouds of heaven."
-\m
 </usfm>
 
 
@@ -51,7 +50,7 @@
 
   * **stood up among them** - Jesus stands up in the middle of the angry crowd to speak to them. Translate this to show who was present when Jesus stood up to speak. AT: "stood up among the chief priests, scribes, and elders" (See: [[:en:ta:vol1:translate:figs_explicit|Assumed Knowledge and Implicit Information]])
   * **Have you no answer? What is it these men testify against you?** - The chief priest is not asking Jesus for information about what the witnesses said. He is asking Jesus to prove what the witnesses said is wrong. AT: "Are you not going to reply? What do you say in response to the testimony these men are speaking against you?" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the Son of the Blessed** - Here God is called "the Blessed." It is best to translate "Son" with the same word your language would naturally use to refer to a "son" of a human father. AT: "the Son of the Blessed One" or "the Son of God" (UDB) (See: [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]]) 
+  * **the son of the Blessed** - Here God is called "the Blessed." It is best to translate "son" with the same word your language would naturally use to refer to a "son" of a human father. AT: "the son of the Blessed One" or "the Son of God" (UDB) (See: [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]]) 
   * **I am** - This likely has a double meaning: 1) to respond to the high priest's question and 2) to call himself "I Am," which is what God called himself in the Old Testament. 
   * **at the right hand of power** - Here "power" refers to God. AT: "at the right hand of God, who is very powerful" (See: [[:en:ta:vol2:translate:figs_metonymy]])  
   * **comes with the clouds of heaven** - Here the clouds are described as accompanying Jesus when he returns. AT: "when he comes down through the clouds in the sky" (See: [[:en:ta:vol1:translate:figs_metaphor]])

@@ -10,8 +10,8 @@
 
 <usfm>
 \v 72-74 On the eleventh day, Pagiel son of Ochran, leader of the tribe of Asher brought his gifts:
-\li a silver dish that weighed one and one-half kilograms and a silver bowl that weighed four-fifths of a kilogram, both of which were full of good flour and mixed with olive oil to be flour offerings. They both were weighed using the standard scales,
-\li a small gold dish that weighed 110 grams, filled with incense.
+\li a silver dish that weighed almost 1.5 kilograms and a silver bowl that weighed about .8 kilograms, both of which were full of good flour and mixed with olive oil to be flour offerings. They both were weighed using the standard scales,
+\li a small gold dish that weighed about 110 grams, filled with incense.
 
 
 \li
@@ -41,7 +41,7 @@
 ===== translationNotes: =====
 
   * **the eleventh day** - "the 11th day" or "day 11" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **Pagiel son of Ochran** - Translate this man's name the same way that you did in [[:en:bible:notes:num:01:12|1:13]].
+  * **Pagiel son of Ochran** - Translate this man's name the say way that you did in [[:en:bible:notes:num:01:12|1:13]].
   * **one silver platter weighing 130 shekels** - If necessary, these weights can be written in modern measurements. See how you translated these same weights in [[:en:bible:notes:num:07:12|7:13]]. AT: "one silver platter weighing nearly one and a half kilograms" or "one silver platter weighing one kilogram and 430 grams" (See: [[:en:ta:vol2:translate:translate_bweight]])
   * **one silver bowl weighing seventy shekels** - "one silver bowl weighing 70 shekels." If necessary, these weights can be written in modern measurements. See how you translated these same weights in [[:en:bible:notes:num:07:12|7:13]]. AT: "one silver bowl weighing nearly eight tenths of a kilogram" or "one silver bowl weighting 770 grams" (See: [[:en:ta:vol2:translate:translate_bweight]] and [[:en:ta:vol2:translate:translate_numbers]])
   * **by the standard weight of the sanctuary shekel** - There were shekels of different weights. This is the one that people had to use in the sanctuary of the sacred tent. Translate this phrase the same way you did in [[:en:bible:notes:num:07:12|7:13]]. AT: "measured by the standard weights used in the sanctuary" (See: [[:en:ta:vol2:translate:translate_bweight]])
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:num:07]]
 **[[:en:bible:notes:num:07:69|<<]] | [[:en:bible:notes:num:07:75|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

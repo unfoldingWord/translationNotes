@@ -18,7 +18,7 @@
 
 <usfm>
 \p
-\v 8 Then Yahweh spoke to Moses, saying,
+\v 8 Then Yahweh spoke to Moses, saying, 
 \v 9 "Command Aaron and his sons, saying, 'This is the law of the burnt offering: The burnt offering must be on the hearth of the altar all night until morning, and the fire of the altar will be kept burning.
 </usfm>
 
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:lev:06]]
 **[[:en:bible:notes:lev:06:05|<<]] | [[:en:bible:notes:lev:06:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

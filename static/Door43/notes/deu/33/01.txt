@@ -21,6 +21,7 @@
 <usfm>
 \v 1 Before God's prophet Moses died, he asked God to bless the Israelite people.
 \v 2 This is what he said:
+\b
 \q "Yahweh came and spoke to us at Mount Sinai;
 \q he came like the sun rises in the region of Edom
 \q and like his light shone on us when we were in the desert near Mount Paran after we left Mount Sinai.
@@ -61,7 +62,7 @@
   * [[:en:obe:kt:righthand]]
 ===== translationNotes: =====
 
-  * **General Information:** - Moses begins to bless the tribes of Israel. Moses speaks the blessing in the form of short poems. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Moses begins to bless the tribes of Israel. The blessings are short poems. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **Yahweh came from Sinai and rose from Seir upon them. He shined out from Mount Paran** - Moses compares Yahweh to the rising sun. AT: "When Yahweh came from Sinai, he looked to them like the sun when it rises from Seir and shines out from Mount Paran" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **upon them** - "upon the people of Israel"
@@ -76,6 +77,6 @@
   * [[:en:bible:questions:comprehension:deu:33]]
 **[[:en:bible:notes:deu:32:50|<<]] | [[:en:bible:notes:deu:33:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2check p2example}}
 
 ~~NOCACHE~~

@@ -25,7 +25,7 @@
 \v 2 Yahweh, my God, I called out for you to help me when I was wounded, and you healed me.
 \q1
 \v 3 You saved me from death. I was nearly dead, but you caused me to become healthy again.
-
+\b
 
 
 \q1
@@ -35,8 +35,9 @@
 
 <usfm>
 \c 30
-\m
+\p
 \d A psalm; a song at the dedication of the temple. A psalm of David.
+\b
 \q
 \v 1 I will exalt you, Yahweh, for you have raised me up and have not allowed my enemies to rejoice over me.
 \q
@@ -66,7 +67,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **a song at the dedication of the temple** - "This song was sung when the temple was dedicated"
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
@@ -82,6 +83,6 @@
   * [[:en:bible:questions:comprehension:psa:030]]
 **[[:en:bible:notes:psa:029:011|<<]] | [[:en:bible:notes:psa:030:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

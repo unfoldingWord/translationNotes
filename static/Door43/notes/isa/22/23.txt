@@ -22,10 +22,10 @@
 
 <usfm>
 \q1
-\v 23 I will fasten him, a peg in a secure place,
+\v 23 I will fasten him, a peg in a secure place, 
 \q1 and he will become a seat of glory for his father's house.
 \q1
-\v 24 They will hang on him all the glory of his father's house, the offspring and descendants, every small container 
+\v 24 They will hang on him all the glory of his father's house, the offspring and descendants, every small container  
 \q1 from the cups to all the jugs.
 </usfm>
 
@@ -41,12 +41,10 @@
 
   * **General Information:** - Yahweh continues to describe Eliakim, who will replace Shebna in the king's palace.
 
-  * **I will fasten him, a peg in a secure place** - Yahweh causing Eliakim's authority to be strong and secure in the king's palace is spoken of as if Eliakim were a peg and Yahweh will set him firmly in the palace wall. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he will become a seat of glory for his father's house** - Here "seat of glory" represents a place of honor. AT: "Eliakim will bring honor to his family" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **his father's house** - Here "house" represents family. AT: "his father's family" or "his family" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **They will hang on him all the glory of his father's house** - Yahweh causing Eliakim's whole family to be honored because of Eliakim is spoken of as if Eliakim were a peg in the wall and his family were something that hangs on the peg. AT: "They will give honor to his whole family because of him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **every small container from the cups to all the jugs** - This continues to speak of Eliakim as a peg. His offspring will be like cups that hang on the peg. This means his descendants will be honored because of him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the cups to all the jugs** - A cup is a small container that holds water. A jug is a larger container that holds water.
+  * **I will fasten him, a peg in a secure place** - Eliakim's authority will be strong and secure in the king's palace. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he will become a seat of glory for his father's house** - Here "throne of glory" refers to a place of honor. AT: "Eliakim will bring honor to his family" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They will hang on him all the glory of his father's house** - AT: "They will give honor to his whole family because of him"
+  * **every small container from the cups to all the jugs** - This continues to speak of Eliakim as a peg. His offspring will be like cups that hang on it. His descendants will be honored because of him.
 
 ===== Links: =====
 
@@ -55,6 +53,6 @@
   * [[:en:bible:questions:comprehension:isa:22]]
 **[[:en:bible:notes:isa:22:20|<<]] | [[:en:bible:notes:isa:22:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

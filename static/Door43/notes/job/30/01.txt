@@ -41,7 +41,7 @@
 
 <usfm>
 \c 30
-\m
+\p
 \q
 \v 1 Now those who are younger than I have nothing but mockery for me—
 \q these young men whose fathers I would have refused to allow to work beside the dogs of my flock.
@@ -68,15 +68,7 @@
 
 ===== translationNotes: =====
 
-
-  * **have nothing but mockery for me** - The abstract noun "mockery" can be expressed with the verb "mock."  AT: "only mock me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **whose fathers I would have refused to allow to work beside the dogs of my flock** - This shows how much he despised those fathers. They were not even good enough to be with his dogs. AT: "whose fathers I despised and would not have allowed to work beside the dogs of my flock"
-  * **the dogs of my flock** - The dog's relationship to the flock can be stated clearly. AT: the dogs that guarded my flock" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Indeed, the strength of their fathers' hands, how could it have helped me ... perished?** - Job uses this question to mock the weakness of those men. AT: "The strength of their fathers' hands could not have helped me ... perished." or "(See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **men in whom the strength of their mature age had perished** - Their strength perishing is a metaphor that represents no longer being strong but weak. The phrase "mature age" refers to them being old. AT: "men who had become old and had no strength" or "men who had become old and weak" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **They were thin from poverty and hunger** - The word "They" refers to the fathers of the young mockers.
-  * **They were thin from poverty and hunger** - The abstract noun "poverty" can be expressed with the word "poor." The abstract noun "hunger" can be expressed with the words "hungry" or "starving." AT: "They were very thin because they were poor and starving" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **they gnawed at the dry ground** - Possible meanings are that 1) "dry ground" is a metonym for the dry roots that grow in the ground. AT: "they chewed on the dry roots they found in the ground" or 2) "gnawed at the dried ground" is a metonym for eating whatever they could find in the dry ground. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **Indeed, the strength of their fathers' hands, how could it have helped me ... perished?** - What their fathers' hands could do can be stated clearly. "I could gain nothing by having their fathers help me because they were now so weak ... perished!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -84,6 +76,6 @@
   * [[:en:bible:questions:comprehension:job:30]]
 **[[:en:bible:notes:job:29:25|<<]] | [[:en:bible:notes:job:30:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

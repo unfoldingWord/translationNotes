@@ -35,13 +35,13 @@
 <usfm>
 \q
 \v 11 He does this in order to set up on high those who are low;
-\q to raise to safety those who mourn.
+\q to raise to safety those who mourn in ashes.
 \q
-\v 12 He breaks the plans of the crafty people,
-\q so that their hands cannot achieve success.
+\v 12 He frustrates the schemes of crafty people,
+\q so that their hands cannot carry out their plots.
 \q
-\v 13 He traps wise people in their own crafty actions;
-\q the plans of twisted people are hurried to their end.
+\v 13 He traps wise people in their own craftiness;
+\q the plans of clever people soon end.
 </usfm>
 
 ===== translationWords: =====
@@ -54,10 +54,11 @@
 
   * **General Information:** - The writer continues to use parallelism in each verse, conveying a single idea using two different statements to emphasize how God lifts those who are lowly and debases those who are cunning. (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
 
-  * **He does this in order to set up on high those who are low** - Humble people in distress are spoken of as if they were in a low position. When God rescues them, they receive honor. When this happens, they are spoken of as being raised up and put into a high position. AT: "God does this in order to rescue and honor the humble who have been suffering" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **He breaks the plans** - Here stopping the plans of crafty people is spoken of as if they were things that could be physically broken. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **He traps wise people in their own crafty actions** - Here making wise people suffer for their own evil actions is spoken of as if it were catching them in traps. Their own actions are spoken of as if they were those traps. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **twisted people** - Here being evil in a clever way is spoken of as if it were being twisted. AT: "those who are cunning" or "those who are devious" or "those who are shrewd" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **He does this in order to set up on high those who are low** - "God sets up on high those who are lowly" or "God gives honor to those who are lowly" or "God exalts those who are lowly"
+  * **to raise to safety those who mourn in ashes** - "he raises to safety those who mourn" 
+  * **He frustrates** - "He breaks" or "He brings to nothing"
+  * **schemes** - "plans" or "designs" or "undertakings"
+  * **crafty people** - "those who are cunning" or "those who are devious" or "those who are shrewd"
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -65,6 +66,6 @@
   * [[:en:bible:questions:comprehension:job:05]]
 **[[:en:bible:notes:job:05:08|<<]] | [[:en:bible:notes:job:05:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

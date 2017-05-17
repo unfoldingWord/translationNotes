@@ -19,8 +19,8 @@
 \v 9 It is better to live alone in the corner of a housetop
 \q2 than inside a house with a wife who always wants to argue with you.
 \q1
-\v 10 The wicked crave evil more than anything,
-\q2 when his neighbor looks at him, he cannot see any kindness in his eyes.
+\v 10 The wicked crave evil more than anything, 
+ \q2 when his neighbor looks at him, he cannot see any kindness in his eyes.
 
 
 \q1
@@ -30,7 +30,7 @@
 
 <usfm>
 \q
-\v 9 It is better to live on a corner of the roof
+\v 9 It is better to live in a corner of the housetop
 \q than in a house shared with a quarrelsome wife.
 \q
 \v 10 The appetite of the wicked craves evil;
@@ -44,12 +44,9 @@
 
 ===== translationNotes: =====
 
-  * **a corner of the roof** - Houses in those days had flat roofs. Ancient Israelites spent much time on their roofs, where it was often cooler than inside the house, and sometimes people would build a shelter large enough for a person to sleep in on one corner of the roof. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **quarrelsome** - a person who often argues or complains
-  * **The appetite of the wicked craves evil** - The writer speaks of a person's appetite, the physical desire for food and drink, as if it were a person who could desire something. The word "wicked" is a nominal adjective that refers to evil people; the word "evil" is a metonym for evil deeds. AT: "Evil people desire to do evil deeds just as they desire to eat and drink" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **craves** - "strongly desires"
-  * **no kindness in his eyes** - The abstract noun "kindness" can be translated as an adjective. The litotes "no kindness" can be translated positively. The phrase "his eyes" is a metonym for the person. AT: "that he is not kind" or "that he is very mean" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_litotes]] and [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **a corner of the housetop** - "the edge of the roof"
+  * **craves** - "strongly desires" AT: "really wants to do something"
+  * **no kindness in his eyes** - AT: "that he is not kind" or "that he is very mean" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_litotes]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -57,6 +54,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:07|<<]] | [[:en:bible:notes:pro:21:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

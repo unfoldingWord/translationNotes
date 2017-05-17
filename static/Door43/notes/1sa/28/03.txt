@@ -20,8 +20,8 @@
 
 <usfm>
 \p
-\v 3 Now Samuel had died, and all Israel had lamented him and buried him in Ramah, in his own city. Also, Saul had banned from the land those who talked with the dead or with spirits.
-\v 4 Then the Philistines gathered themselves together and came and camped at Shunem; and Saul gathered all Israel together, and they camped at Gilboa.
+\v 3 Samuel was dead; all Israel had lamented him and buried him in Ramah, in his own city. Now Saul had banned from the land those who had talked with the dead or with spirits.
+\v 4 The Philistines gathered themselves together and came and camped at Shunem; and Saul gathered all Israel together, and they camped at Gilboa.
 </usfm>
 
 ===== translationWords: =====
@@ -40,10 +40,7 @@
 
 ===== translationNotes: =====
 
-  * **Now Samuel ... with spirits** - The writer provides background information to prepare the reader for the events that follow. (See: [[:en:ta:vol2:translate:writing_background]])
-  * **banned from the land** - officially removed from the country or region, or prevented from entering AT: "expel from Israel" (UDB)
-  * **those who talked with the dead or with spirits** - The words "those who talked with the dead" translate as one word in the original language, and the words "those who ... talked with spirits" also translate as one word in the original language. If your language has one word for those who talk with the dead and one word for those who talk with spirits, or if your language has only one word for those who talk with the dead and with spirits, you should use those words here.
-  * **Then the Philistines gathered** - after David and Achish spoke ([[:en:bible:notes:1sa:28:01|28:02]])
+  * **banned from the land** - officially removed from the country or region, or prevented from entering AT: "expelled from Isreal" (UDB)
   * **gathered all Israel together** - "gathered all his armies in Israel together"
   * **Shunem ... Gilboa** - these are names of places (See: [[:en:ta:vol1:translate:translate_names]])
 
@@ -54,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1sa:28]]
 **[[:en:bible:notes:1sa:28:01|<<]] | [[:en:bible:notes:1sa:28:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

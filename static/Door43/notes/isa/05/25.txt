@@ -22,6 +22,7 @@
 \q2 and the corpses of people will be scattered in the streets like manure.
 \q1 But even when that happens, Yahweh will still be very angry;
 \q2 he will be ready to punish his people again.
+\b
 
 
 \q1
@@ -31,9 +32,9 @@
 
 <usfm>
 \q1
-\v 25 Therefore the anger of Yahweh is kindled against his people. He has reached out with his hand against them and has punished them.
-\q1 The mountains tremble, and their corpses are like garbage in the streets.
-\q1 In all these things, his anger does not subside; instead, his hand is still stretched out.
+\v 25 Therefore the anger of Yahweh is kindled against his people, and he has reached out with his hand against them and has punished them; 
+\q1 the mountains tremble, and their corpses are like garbage in the streets. 
+\q1 Despite all this, his anger does not subside, but his hand is still raised to strike again.
 </usfm>
 
 ===== translationWords: =====
@@ -46,12 +47,9 @@
 ===== translationNotes: =====
 
   * **the anger of Yahweh is kindled** - Isaiah speaks of Yahweh's anger as if it were a fire. AT: "Yahweh is very angry" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **He has reached out with his hand against them and has punished them** - The prophet speaks of the future as if it had already happened. He does this to insist that the prophecy certainly will come about. AT: "he will punish them with his powerful hand" (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
-  * **has reached out with his hand against them** - Here "hand" refers to God's power and control. AT: "has shown his power against them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he has reached out with his hand against them and has punished them** - In prophecy something that will happen in the future is described as something in the past. This emphases that the prophecy certainly will happen. AT: "he will punish them with his powerful hand" (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
   * **corpses** - "dead bodies"
-  * **their corpses are like garbage in the streets** - The dead bodies are allowed to lie in the streets as if they were garbage. This implies that many will die but that no one will be there to bury them. The word "garbage" can also be translated as "refuse" or "manure." (UDB) (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **In all these things, his anger does not subside; instead, his hand** - "Even though all these things have happened, he is still angry, and his hand" 
-  * **his hand is still stretched out** - Here "hand" represents God's power and control. Isaiah speaks as if Yahweh were a person about to hit another person with his fist. This is a metaphor for Yahweh punishing Israel. AT: "he will still be ready to punish them" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **their corpses are like garbage in the streets** - Isaiah compares their dead bodies to garbage. This emphasizes that many will die but no one will be there to bury them. Their bodies will be left to rot in the streets. The word "garbage" can also be translated as "refuse" or "manure." (UDB) (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -59,6 +57,6 @@
   * [[:en:bible:questions:comprehension:isa:05]]
 **[[:en:bible:notes:isa:05:24|<<]] | [[:en:bible:notes:isa:05:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

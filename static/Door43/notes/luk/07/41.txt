@@ -22,8 +22,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 41 Jesus said, "A certain moneylender had two debtors. The one owed five hundred denarii, and the other fifty.
-\v 42 When they could not pay him, he forgave them both. Therefore, which of them will love him more?"
+\v 41 Jesus said, "There were two debtors to a certain lender. The one owed five hundred denarii, and the other owed fifty denarii.
+\v 42 Since they had no money to pay, he forgave them both. Therefore, which of them will love him more?"
 \v 43 Simon answered him and said, "I suppose the one whom he forgave the most." Jesus said to him, "You have judged correctly."
 </usfm>
 
@@ -39,9 +39,10 @@
 
   * **General Information:** - To emphasize what he is going to tell Simon the Pharisee, Jesus tells him a story. (See: [[:en:ta:vol1:translate:figs_parables]])
 
-  * **A certain moneylender had two debtors** - "Two men owed money to a certain moneylender"
-  * **five hundred denarii** - "500 days' wages." "Denarii" is the plural of "denarius." A "denarius" was a silver coin. (See: [[:en:ta:vol2:translate:translate_bmoney]] and [[:en:ta:vol2:translate:translate_numbers]])
-  * **fifty** - "50 days' wages" (See: [[:en:ta:vol2:translate:translate_bmoney]])
+  * **There were two debtors to a certain lender** - "Two men owed money to a certain lender"
+  * **five hundred denarii** - "500 day's wages." "Denarii" is the plural of "denarius." A "denarius" was a silver coin. (See: [[:en:ta:vol2:translate:translate_bmoney]] and [[:en:ta:vol2:translate:translate_numbers]])
+  * **fifty denarii** - "50 day's wages" (See: [[:en:ta:vol2:translate:translate_bmoney]])
+  * **Since they had no money to pay** - "When they did not have money to pay back the debt" 
   * **he forgave them both** - "he forgave their debts" or "he canceled their debts"
   * **I suppose** - Simon was cautious about his answer. AT: "Probably" 
   * **You have judged correctly** - "You are right"

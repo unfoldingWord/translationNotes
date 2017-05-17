@@ -23,14 +23,16 @@
 <usfm>
 \v 4 I will not be dishonest,
 \q2 and I will not have anything to do with evil.
+\b
 \q1
 \v 5 I will get rid of anyone who secretly slanders someone else,
 \q1 and I will not let anyone near me who is proud and arrogant.
+\b
 \q1
 \v 6 I will approve of people in this land who are loyal to God,
 \q1 and I will allow them to live with me.
 \q2 I will allow to serve me those who behave in such a way that no one can criticize them.
-
+\b
 
 
 \q1
@@ -77,6 +79,6 @@
   * [[:en:bible:questions:comprehension:psa:101]]
 **[[:en:bible:notes:psa:101:002|<<]] | [[:en:bible:notes:psa:101:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass perverse book4}}
+~~DISCUSSION~~{{tag>publish p2check perverse book4}}
 
 ~~NOCACHE~~

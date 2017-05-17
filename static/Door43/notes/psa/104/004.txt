@@ -17,6 +17,7 @@
 <usfm>
 \v 4 You caused the winds to be like your messengers,
 \q1 and flames of fire to be like your servants.
+\b
 \q1
 \v 5 You placed the world firmly on its foundation
 \q2 so that it can never be moved.
@@ -46,11 +47,12 @@
 
 ===== translationNotes: =====
 
-  * **He makes the winds his messengers** - Possible meanings are 1) he causes the wind to be able to carry a message like a messenger, "He makes the winds to be like his messengers" or 2) "He makes his messengers swift like the wind" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **flames of fire his servants** - Possible meanings are 1) "he causes flames of fire to be like his servants." He causes fire to serve him like a servant would or 2) "he makes his servants to be like flames of fire"and (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **flames of fire his servants** - This can be stated with the implied information from the previous line. AT: "He makes the flames of fire his servants" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **He makes the winds his messengers** - Possible meanings are 1) he causes the wind to be able to carry a message like a messenger. "He makes the winds to be like his messengers" or 2) "He makes his messengers swift like the wind" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **flames of fire his servant** - Possible meanings are 1) "causes flames of fire to be like his servants" He causes fire to serve him like a servant would.   or 2) "he makes his servants to be appear like flames of fire" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **He laid the foundations of the earth** - Here the phrase "laid the foundations" means "created." AT: "He created the whole earth" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -58,6 +60,6 @@
   * [[:en:bible:questions:comprehension:psa:104]]
 **[[:en:bible:notes:psa:104:001|<<]] | [[:en:bible:notes:psa:104:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

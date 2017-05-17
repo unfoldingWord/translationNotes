@@ -13,7 +13,7 @@
 <usfm>
 \v 17 On the fifteenth day of that same month, Yahweh gave me another message. He said,
 \p
-\v 18 "Son of man, wail about the many people of Egypt, because I will send them to the place under the earth, where they and people of other mighty nations will be. I will send them there, along with others, down to the place where the dead are.
+\v 18 "Son of man, wail about the servants of Egypt, because I will send them to the place under the earth, where they and people of other mighty nations will be. I will send them there, along with others, down to the place where the dead are.
 </usfm>
 
 ===== ULB: =====
@@ -22,7 +22,7 @@
 \p
 \v 17 Then it happened in the twelfth year, on the fifteenth day of the month, that the word of Yahweh came to me and said,
 \q
-\v 18 "Son of man, weep for the multitudes of Egypt and bring them down—
+\v 18 "Son of man, weep for the servants of Egypt and throw them down—
 \q her and the daughters of majestic nations—to the lowest earth with those who have gone down to the pit.
 </usfm>
 
@@ -38,14 +38,14 @@
 
   * **Then it happened** - This phrase is used here to mark the beginning of a new message. If your language has a way for doing this, you could consider using it here.
   * **in the twelfth year** - Possible meanings are 1) This happened in the twelfth year after the Babylonians took the Israelites to Babylon or 2) this happened in twelfth year after the Babylonians took Jehoiachin to Babylon. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Son of man** - "Son of a human being" or "Son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. Translate this as in [[:en:bible:notes:ezk:02:01|2:1]]. AT: "Mortal person" or "Human"
-  * **bring them down—her and the daughters of majestic nations** - God is perhaps telling Ezekiel to cause this to happen by giving a prophetic command. 
-  * **her** - Once again, the land of Egypt is referred to as a woman.
+  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]].
+  * **weep for the servants of Egypt** - "cry loudly for the army of Egypt"
+  * **throw them down—her and the daughters of majestic nations** - AT: "throw Egypt and the daughters of majestic nations down"
   * **the daughters of majestic nations** - Possible meanings are 1) "the people of powerful nations" or 2) "other powerful nations."
-  * **the lowest earth** - "to the places under the ground." When people died, they were put in the ground. So "throw them down ... to the lowest earth" means "make them die." (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **with those who have gone down to the pit** - "with everyone else who had died and gone into the ground"
-  * **the pit** - "The pit" refers to the grave; because the grave was thought to be the entrance to the world of the dead, the pit also represents that world. See how you translated this in [[:en:bible:notes:ezk:31:16|31:16]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the lowest earth** - "to the places under the ground." When people died, they were put in the ground. So, "throw them down ... to the lowest earth" means "make them die." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **with those who have gone down to the pit!** - "with everyone else who had died and gone into the ground"
+  * **the pit** - "the pit" refers to the grave. It is the hole in the ground that people go into after they have died. 
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:ezk:32]]
 **[[:en:bible:notes:ezk:32:15|<<]] | [[:en:bible:notes:ezk:32:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

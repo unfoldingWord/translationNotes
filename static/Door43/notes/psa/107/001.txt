@@ -28,7 +28,7 @@
 \v 3 He has gathered those of you who were exiled to many lands;
 \q2 he has gathered you together from the east and the west,
 \q2 from the north and from the south.
-
+\b
 
 
 \q1
@@ -39,6 +39,7 @@
 <usfm>
 \ms Book Five
 \c 107
+\p
 \q
 \v 1 Give thanks to Yahweh, for he is good,
 \q and his covenant faithfulness endures forever.
@@ -49,6 +50,7 @@
 \v 3 He has gathered them out of foreign lands,
 \q from the east and from the west,
 \q from the north and from the south.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -65,7 +67,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **his covenant faithfulness endures forever** - "his faithful love for me will never end"
   * **the redeemed of Yahweh** - "The redeemed" refers to the people whom Yahweh has saved. AT: "those whom Yahweh has saved" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
@@ -80,6 +82,6 @@
   * [[:en:bible:questions:comprehension:psa:107]]
 **[[:en:bible:notes:psa:106:047|<<]] | [[:en:bible:notes:psa:107:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

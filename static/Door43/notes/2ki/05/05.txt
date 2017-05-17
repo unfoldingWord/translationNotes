@@ -28,10 +28,9 @@
   * [[:en:obe:other:send]]
 ===== translationNotes: =====
 
-  * **I will send a letter** - The king is going to give the letter to Naaman to take with him to the king of Israel. AT: "I will send a letter with you" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **ten talents of silver, six thousand pieces of gold** - "10 talents of silver, 6,000 pieces of gold." This can be written in modern measurements. AT: "340 kilograms of sliver, 6,000 pieces of gold" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_bweight]])
-  * **took with him ten ... clothes** - This were gifts from the king of Aram for the king of Israel. AT: "took with him ten ... clothes, which were gifts for the king of Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
-
+  * **talents** - (See: [[:en:ta:vol2:translate:translate_bweight]])
+  * **took with him ten ... clothes** - AT: "took with him ten ... clothes, which were gifts for the king of Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **six thousand** - "6,000" (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 
 ===== Links: =====
@@ -41,6 +40,6 @@
   * [[:en:bible:questions:comprehension:2ki:05]]
 **[[:en:bible:notes:2ki:05:03|<<]] | [[:en:bible:notes:2ki:05:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

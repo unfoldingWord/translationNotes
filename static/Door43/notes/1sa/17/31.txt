@@ -49,8 +49,7 @@
 ===== translationNotes: =====
 
   * **When the words that David said were heard** - This can be stated in active form. AT: "When the soldiers heard what David said" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Let no man's heart fail** - The heart failing represents being terrified and losing confidence. AT: "Do not let anyone be terrified"  or "Do not let anyone lose their confidence" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **your servant will go** - David spoke of himself as "your servant" to show respect to Saul. AT: "I, your servant, will go"  (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Let no man's heart fail** - Here "heart fail" is an idiom that refers to be discouraged. AT: "Do not let anyone be discouraged" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -65,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

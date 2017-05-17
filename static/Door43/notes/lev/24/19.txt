@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 If anyone injures his neighbor, it must be done to him as he did to his neighbor:
+\v 19 If a man injures his neighbor, it must be done to him as he did to his neighbor:
 \v 20 fracture for fracture, eye for eye, tooth for tooth. As he has caused an injury to a person, so must it also be done to him.
 \v 21 Anyone who kills an animal must pay it back, and anyone who kills a person must be put to death.
 </usfm>
@@ -34,7 +34,7 @@
 
   * **it must be done to him** - This can be stated in active form. AT: "you must do to him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **fracture for fracture, eye for eye, tooth for tooth** - These phrases emphasize that a person should receive the same harm he did to someone else.
-  * **fracture for fracture** - This refers to broken bones. AT: "broken bone for broken bone" or "If he breaks someone's bone, one of his bones must be broken"  or "If he breaks someone's bone, they will break one of his bones" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **fracture for fracture** - This refers to broken bones. AT: "broken bone for broken bone" or "If he breaks someone's bone, one of his bones must be broken"  or "If he breaks someone's bone, they will break one of his bones.=" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **eye for eye** - This refers to eyes being seriously injured or gouged out. AT: "If he destroys someone's eye, one of his bones must be destroyed" or "If he destroys someone's eye, they will destroy his eye" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **tooth for tooth** - This refers to teeth being knocked out of the mouth. AT: "If he knocks out someone's tooth, one of his teeth must be knocked out" or "If he knocks out someone's tooth, they will knock out one of his teeth" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **anyone who kills a person must be put to death** - This can be stated in active form. AT: "they must put to death anyone who kills a person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:lev:24]]
 **[[:en:bible:notes:lev:24:17|<<]] | [[:en:bible:notes:lev:24:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

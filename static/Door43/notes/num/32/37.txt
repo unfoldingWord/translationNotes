@@ -38,8 +38,8 @@
 ===== translationNotes: =====
 
   * **Heshbon, Elealeh, Kiriathaim, Nebo, Baal Meon ... Sibmah** - These are names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **their names were later changed** - This can be translated in active form. AT: "people later changed the names of these cities" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Machir** - This is the name of a man. See how you translated this name in [[:en:bible:notes:num:26:28|26:29]].
+  * **their names were later changed** - This can be translated in active form AT: "people later changed the names of these cities" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Machir** - See how you translated this name in [[:en:bible:notes:num:26:28|26:29]].
 
 ===== Links: =====
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:num:32]]
 **[[:en:bible:notes:num:32:34|<<]] | [[:en:bible:notes:num:32:40|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

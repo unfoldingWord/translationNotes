@@ -23,18 +23,19 @@
 
 <usfm>
 \v 27 But I know everything about you.
-\q2 I know when you are in your house
+\q2 I know when you are in your house 
 \q3 and when you go outside;
 \q2 I also know that you are raging against me.
 \q
 \v 28 So, because you have raged against me,
 \q2 and because I have heard you do this,
 \q it will be as though I will put a hook in your nose,
-\q2 and I will put an iron bit in your mouth,
+\q2 and I will put an iron bit in your mouth, 
 \q in order that I can take you where I want you to go.
 \q2 I will force you to return to your own country
-\q on the same road on which you came here,
+\q on the same road on which you came here, 
 \q2 without conquering Jerusalem.'
+\q 
 
 
 \q
@@ -44,16 +45,16 @@
 ===== ULB: =====
 
 <usfm>
-\q
-\v 27 But I know your sitting down,
-\q2 your going out, your coming in,
+\q 
+\v 27 But I know your sitting down, 
+\q2 your going out, your coming in, 
 \q2 and your raging against me.
-\q
-\v 28 Because of your raging against me,
-\q2 and because your arrogance has reached my ears,
-\q I will put my hook in your nose,
+\q 
+\v 28 Because of your raging against me, 
+\q2 and because your arrogance has reached my ears, 
+\q I will put my hook in your nose, 
 \q2 and my bit in your mouth;
-\q I will turn you back
+\q I will turn you back 
 \q2 the way you came."
 </usfm>
 
@@ -63,16 +64,15 @@
   * [[:en:obe:other:rage]]
   * [[:en:obe:other:arrogant]]
   * [[:en;obe:kt:turn]]
-
 ===== translationNotes: =====
 
-  * **General Information:** - This continues the message from Yahweh, given by Isaiah, the prophet, for King Hezekiah concerning King Sennecherib.  It uses parallelism throughout. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **raging against me** - "angry shouting about me"
-  * **because your arrogance has reached my ears** - "Ears" are metonymy for listening or hearing. AT: "because I have heard your proud words" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I will put my hook in your nose, and my bit in your mouth** - A "hook" and a "bit" (to control a horse) are metaphors for Yahweh's control of Sennacherib. AT: "I will lead you like an animal" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will turn you back the way you came** - That Sennacherib will return home before he can conquer Jerusalem can be stated clearly. AT: "I will make you return to your own country the same way you came, without conquering Jerusalem" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **General Information:** - This continues the message from Yahweh, given by Isaiah, the prophet, for King Hezekiah concerning King Sennecherib. 
 
+  * **raging against me** - AT: "your angry shouting about me,"
+  * **because your arrogance has reached my ears** - "because I have heard your proud words," (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **I will put my hook in your nose, and my bit in your mouth** - AT: "I will lead you like an animal."
+  * **I will turn you back the way you came** - That Sennacherib will return home before he can conquer Jerusalem can be stated clearly. AT: "I will make you return to your own country the same way you came, without conquering Jerusalem." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -83,6 +83,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

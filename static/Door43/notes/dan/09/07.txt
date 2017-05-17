@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 7 To you, Lord, belongs righteousness. To us today, however, belongs shame on our faces—for the people of Judah and those who live in Jerusalem, and to all Israel. This includes those who are near and those who are far away in all the lands where you scattered them. This is because of the great treachery that we committed against you.
+\v 7 To you, Lord, belongs righteousness. To us today, however, belongs shame on our faces—for the people of Judah and those who live in Jerusalem, and to all Israel. This includes those who are near and those who are far away in all the lands where you scattered them. This is because of the great treachery that we committed against you. 
 \v 8 To us, Yahweh, belongs shame on our faces—to our kings, to our leaders, and to our ancestors—because we have sinned against you.
 </usfm>
 
@@ -37,12 +37,8 @@
 
   * **General Information:** - Daniel continues praying to the Lord about the people of Israel.
 
-  * **To you, Lord, belongs righteousness** - Being righteous is spoken of as if "righteousness" were an object that belongs to Yahweh. The abstract noun "righteousness" can be stated as an action. AT: "Lord, you act justly" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **To us today, however, belongs shame on our faces—for the people** - Being ashamed is spoken of as if "shame" were an object that belongs to people. The abstract noun "shame" can be stated as a verb. AT: "But as for us, we are ashamed of what we have done—the people" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **To us today** - The word "us" includes Daniel and the Israelites, but it does not include God. (See: [[:en:ta:vol2:translate:figs_exclusive]])
-  * **belongs shame on our faces** - This idiom means their shame is visible to all. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **because of the great treachery that we committed against you** - "because we greatly betrayed you" or "because we were very unfaithful to you" (UDB)
-
+  * **because of the great treachery that we committed** - AT: "because we greatly betrayed you" or "because we were very unfaithful to you" (UDB)
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -50,6 +46,6 @@
   * [[:en:bible:questions:comprehension:dan:09]]
 **[[:en:bible:notes:dan:09:05|<<]] | [[:en:bible:notes:dan:09:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

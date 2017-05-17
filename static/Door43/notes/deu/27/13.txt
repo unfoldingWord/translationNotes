@@ -18,6 +18,7 @@
 \v 13 And the tribes of Reuben, Gad, Asher, Zebulun, Dan, and Naphtali must stand on Mount Ebal and listen to the things that Yahweh will do when he curses the people.
 \p
 \v 14 The descendants of Levi must shout these words loudly:
+\b
 
 
 \q1
@@ -27,7 +28,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 These are the tribes that must stand on Mount Ebal to pronounce curses: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
+\v 13 And these tribes must stand on Mount Ebal to pronounce curses: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
 \v 14 The Levites will answer and say to all the men of Israel in a loud voice:
 </usfm>
 
@@ -66,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass naphtali}}
+{{tag>publish p2check naphtali}}
 
 ~~NOCACHE~~

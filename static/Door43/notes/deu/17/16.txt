@@ -24,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 16 But he must not multiply horses for himself, nor cause the people to return to Egypt so that he may multiply horses, for Yahweh had said to you, 'You will never return that way again.'
-\v 17 He must not take many wives for himself, so that his heart does not turn away. He must not accumulate large amounts of silver and gold.
+\v 16 But he must not multiply horses for himself, nor cause the people to return to Egypt so that he may multiply horses, for Yahweh had said to you, 'You must from now on never return that way again.'
+\v 17 And he must not multiply wives for himself, so that his heart does not turn away from Yahweh; neither must he greatly multiply for himself silver or gold.
 </usfm>
 
 
@@ -41,8 +41,8 @@
 
 ===== translationNotes: =====
 
-  * **for Yahweh had said to you, 'You will never return that way again'** - This has a quotation within a quotation. A direct quotation can be stated as an indirect quotation. AT: "for Yahweh had said that you must never return to Egypt again" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
-  * **so that his heart does not turn away** - Here "heart" refers to the whole person. An Israelite king who marries foreign wives and starts to worship their false gods is spoken of as if his heart were to turn away from Yahweh. AT: "so that they do not cause him to turn from Yahweh and start worshiping false gods" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for Yahweh had said to you, 'You must from now on never return that way again'** - This has a quotation within a quotation. A direct quotation can be stated as an indirect quotation. AT: "for Yahweh has said that you must never return to Egypt again" (See:[[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **so that his heart does not turn away from Yahweh** - Here "heart" refers to the whole person. Kings often married women from other nations who worshiped different gods. An Israelite king that starts to worship the false gods of his wives is spoken of as if his heart turned away from Yahweh. AT: "so that they do not cause him to turn from Yahweh and start worshiping false gods" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:deu:17]]
 **[[:en:bible:notes:deu:17:14|<<]] | [[:en:bible:notes:deu:17:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

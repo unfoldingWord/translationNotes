@@ -26,9 +26,9 @@
 \q1 You love me for just as long as the clouds come in the morning before they disappear again.
 \q2 You love me for just as long as the dew stays before the warm sun shines on it.
 \q1
-\v 5 I sent my prophets to you,
-\q2 and it was as though I had cut you into pieces when they spoke the messages I gave them. 
-\q1 You were devastated by what they said to you.
+\v 5 I sent my prophets to you, 
+\q2 and it was as though I had cut you into pieces when they spoke the messages I gave them.  
+\q1 You were devastated by what they said to you. 
 \q2 It was as though I had killed you with the words I spoke to you.
 \q1 I spoke about how I would punish you.
 \q2 I told you by the prophets that I was angry with you, and they told you this."
@@ -43,6 +43,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 4 Ephraim, what will I do with you?
 \q Judah, what will I do with you?
@@ -67,9 +68,9 @@
 
   * **Connecting Statement:** - Yahweh is speaking.
 
-  * **what will I do with you?** - God is expressing that his patience is coming to an end and what remains is judgment. AT: "it is hard to know what to do with you!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **what will I do with you?** - God is expressing his patience is coming to a close and what remains is judgment. AT: "It is hard to know what to do with you!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **So I have cut them to pieces by the prophets** - Through his prophets, Yahweh has pronounced destruction on the rebellious nation. The destruction, here called "cutting to pieces," is as sure as the condemnation. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Your decrees are like the light that shines out** - Here the prophet Hosea is speaking to God. He may mean that when God gives the command for someone to die as punishment, it is like a bolt of lightning that strikes (see UDB). Or he may mean that God's commandments allow people to know the truth, just as light makes objects visible. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Your decrees are like the light that shines out** - Here the prophet Hosea is apparently speaking to God. He may mean that when God gives the command for someone to die as punishment, it is like a bolt of lightning that strikes (see UDB). Or he may mean that God's commandments allow people to know the truth, just as light makes objects visible. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **Your decrees** - "Yahweh's commands"
 ===== Links: =====
 
@@ -78,6 +79,6 @@
   * [[:en:bible:questions:comprehension:hos:06]]
 **[[:en:bible:notes:hos:06:01|<<]] | [[:en:bible:notes:hos:06:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

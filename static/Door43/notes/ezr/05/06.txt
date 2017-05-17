@@ -25,7 +25,7 @@
 
 <usfm>
 \p
-\v 6 This is a copy of the letter of Tattenai, governor of the Province Beyond the River, and Shethar Bozenai and his accociates in the Province Beyond the River, which they sent to Darius the king.
+\v 6 This was the letter of Tattenai, Shethar Bozenai, and their fellow officials to Darius the king.
 \v 7 They sent a report, writing this to King Darius, "May all peace be yours.
 </usfm>
 
@@ -38,8 +38,7 @@
 
 ===== translationNotes: =====
 
-  * **This is a copy of the letter** - Ezra includes the contents of the letter to King Darius regarding their work on the temple.
-  * **the Province Beyond the River** - This is the name of the province that was west of the Euphrates River. It was across the river from the city of Susa. Translate as in [[:en:bible:notes:ezr:04:09|4:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **This was the letter** - Ezra includes the contents of the letter to King Darius regarding their work on the temple.
 
 ===== Links: =====
 
@@ -51,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

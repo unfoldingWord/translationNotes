@@ -28,8 +28,9 @@
 
 <usfm>
 \c 142
-\m
+\p
 \d A maschil of David, when he was in the cave; a prayer.
+\p
 \q
 \v 1 With my voice I cry out for help to Yahweh;
 \q with my voice I plead for Yahweh's favor.
@@ -50,7 +51,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A maschil** - This may refer to a style of music. See how you translated this in [[:en:bible:notes:psa:032:001|32:1]].
   * **cave** - open place under the earth large enough for people to walk around in
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:142]]
 **[[:en:bible:notes:psa:141:008|<<]] | [[:en:bible:notes:psa:142:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

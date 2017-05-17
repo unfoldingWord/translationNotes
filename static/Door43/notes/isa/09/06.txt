@@ -39,16 +39,17 @@
 <usfm>
 \q1
 \v 6 For to us a child has been born, to us a son has been given;
-\q1 and the rule will be on his shoulder;
-\q1 and his name will be called Wonderful Counselor,
-\q1 Mighty God, Everlasting Father,
+\q1 and the rule will be on his shoulder; 
+\q1 and his name will be called Wonderful Counselor, 
+\q1 Mighty God, Everlasting Father, 
 \q1 Prince of Peace.
 \q1
-\v 7 Of the increase of his government and of peace there will be no end,
-\q1 as he rules on the throne of David, and over his kingdom,
-\q1 to establish it and sustain it
-\q1 with justice and with righteousness from this time onward and for evermore.
-\q1 The zeal of Yahweh of hosts will do this.
+\v 7 Of the increase of his government and of peace there will be no end, 
+\q1 as he rules on the throne of David, and over his kingdom, 
+\q1 to establish it and sustain it 
+\q1 with justice and with righteousness from this time onward and for evermore. 
+\q1 The zeal of Yahweh of hosts 
+will do this.
 </usfm>
 
 ===== translationWords: =====
@@ -74,15 +75,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe the time when God will save the people of Israel ([[:en:bible:notes:isa:09:01|9:1-2]]). Although these events will happen in Isaiah's future, he describes them as if they have already happened. This emphasizes that they certainly will happen. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **General Information:** - Isaiah continues to describe the time when God will save the people of Israel. Although these events would happen in the future, Isaiah describes them as if they already happened. This emphasizes that they certainly will happen. (See: [[:en:bible:notes:isa:09:01|9:1-2]])
 
-  * **For to us a child has been born, to us a son has been given** - These two phrases mean basically the same thing. The word "us" refers to both the speaker and the hearer and so is inclusive. This can be stated in active form. AT: "For the Lord will give to us a child" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_inclusive]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the rule will be on his shoulder** - "he will have authority to rule as king" or "Yahweh will make him responsible to rule" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Counselor** - one who advises kings
-  * **Of the increase of his government and of peace there will be no end** - "As time passes he will rule over more and more people and enable them to live more and more peacefully"
-  * **rules on the throne of David** - Sitting on the "throne of David" is a metonym for having the right to rule; only David's descendants could be king over Israel. AT: "has the right to rule as David's descendant" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **his kingdom, to establish it and sustain it with justice and with righteousness** - This can be translated as a new sentence. AT: "his kingdom. He will establish and protect his kingdom, and he will do what is fair and just"
-  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
+  * **For to us a child has been born, to us a son has been given** - These two phrases mean basically the same thing. This can be stated in active form. AT: "For the Lord will give to us a child" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_inclusive]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the rule will be on his shoulder** - This means that he will have authority to rule as king. AT: "the son will rule the people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **to establish it and sustain it with justice and with righteousness** - This can be translated as a new sentence. AT: "He will establish and protect his kingdom and he will do what is fair and just"
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -90,6 +88,6 @@
   * [[:en:bible:questions:comprehension:isa:09]]
 **[[:en:bible:notes:isa:09:04|<<]] | [[:en:bible:notes:isa:09:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example eternity son}}
+~~DISCUSSION~~{{tag>publish p2edit eternity son}}
 
 ~~NOCACHE~~

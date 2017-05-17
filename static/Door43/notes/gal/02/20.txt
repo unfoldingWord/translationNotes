@@ -18,7 +18,7 @@
 
 <usfm>
 \v 20 I have been crucified with Christ. It is no longer I who live, but Christ lives in me. The life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
-\v 21 I do not set aside the grace of God, for if righteousness could be gained through the law, then Christ died for nothing!
+\v 21 I do not negate the grace of God, for if righteousness existed through the law, then Christ would have died for nothing.
 </usfm>
 
 ===== translationWords: =====
@@ -39,10 +39,10 @@
 ===== translationNotes: =====
 
   * **Son of God** - This is an important title for Jesus. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
-  * **I do not set aside** - Paul states a negative to emphasize the positive. AT: "I confirm the value of" See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **if righteousness could be gained ... then Christ would have died** - Paul is describing a situation that never existed. AT: "but righteousness did not exist ... so Christ did not die" (See: [[:en:ta:vol1:translate:figs_hypo]])
-  * **if righteousness could be gained through the law** - "if a person could be righteous by keeping the law"
-  * **then Christ died for nothing** - "would have accomplished nothing by dying"
+  * **I do not negate** - Paul states a negative to emphasize the positive. AT: "I do not set aside" (UDB) or "I show the great value of" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **if righteousness existed ... then Christ would have died** - Paul is describing a situation that never existed. AT: "but righteousness did not exist ... so Christ did not die" (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **if righteousness existed through the law** - "if a person could be righteous by keeping the law"
+  * **would have died for nothing** - "would have accomplished nothing by dying"
 ===== Links: =====
 
   * [[:en:bible:notes:gal:00:intro]]

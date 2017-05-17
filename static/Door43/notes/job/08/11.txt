@@ -39,14 +39,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - It is unclear if verses 11-14 are the teaching of Bildad, or if Bildad is quoting the sayings of the ancestors of [[:en:bible:notes:job:08:08|8:8-10]].
-
-  * **Can papyrus grow without a marsh? Can reeds grow without water?** - Bildad uses these two parallel questions to emphasize the single point that people cannot live without God. Here the plants represent people and the water represents God. The questions can be translated as statements. AT: "Papyrus plants cannot grow away from the marshes. Reeds cannot grow without water." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]]).
-  * **papyrus** - a tall reed-like plant that grows in shallow water
-  * **While they are still green and not cut down, they wither before any other plant** - It is implied that they wither when there is no water. This can be stated explicitly. AT: "Without water, they stop growing and wither faster than any other plant, even if no one cuts them down" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Can papyrus grow without a marsh? Can reeds grow without water?** - Bildad poses two rhetorical questions to emphasize his point made in [[:en:bible:notes:job:08:08|08:8-10]]: People need the teachings of their ancestors. AT: "Papyrus plants cannot grow away from the marshes. Reeds cannot grow without water." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]]). 
   * **wither** - "dry up"
-
-
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -54,6 +49,6 @@
   * [[:en:bible:questions:comprehension:job:08]]
 **[[:en:bible:notes:job:08:08|<<]] | [[:en:bible:notes:job:08:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

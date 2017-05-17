@@ -34,10 +34,10 @@
 <usfm>
 \q
 \v 27 The one who diligently seeks good is also seeking favor,
-\q but the one who searches for evil will find it.
+\q but the one who searches for evil will find it. 
 \q
 \v 28 Those who trust in their riches will fall,
-\q but like the leaf, righteous people will flourish.
+\q but like the leaf, those who do right will flourish.
 </usfm>
 
 
@@ -50,10 +50,12 @@
 
 ===== translationNotes: =====
 
-  * **The one who diligently seeks** - the one who seeks with careful and continued effort
-  * **will fall** - This is an idiom. Here "fall" represents destruction or failure. AT: "will be destroyed" or "awaits a bad future" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **like the leaf, righteous people will flourish** - "Leaf" represents growth and prosperity. AT: "righteous people will prosper in the same way a healthy green leaf grows" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **righteous people will flourish** - This means that righteous people will thrive or prosper.
+
+  * **diligently** - with careful and continued effort
+  * **will fall** - AT: "will be destroyed" or "awaits a bad future" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **like the leaf, those who do right will flourish** - AT: "those who do right will prosper in the same way a healthy green leaf grows" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **flourish** - "thrive" or "prosper"
+ 
  
 ===== Links: =====
 
@@ -61,11 +63,13 @@
   * [[:en:bible:notes:pro:11:00]]
   * [[:en:bible:questions:comprehension:pro:11]]
 
+ 
+
 **[[:en:bible:notes:pro:11:25|<<]] | [[:en:bible:notes:pro:11:29|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

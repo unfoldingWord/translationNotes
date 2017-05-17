@@ -21,9 +21,10 @@
 
 <usfm>
 \p
-\v 43 Now David had also taken Ahinoam of Jezreel as a wife; both of them became his wives.
-\v 44 Also, Saul had given Michal his daughter, David's wife, to Palti son of Laish, who was of Gallim.
+\v 43 David also took Ahinoam of Jezreel as a wife; both of them became his wives.
+\v 44 Now Saul had given Michal his daughter, David's wife, to Palti son of Laish, who was of Gallim.
 </usfm>
+
 
 ===== translationWords: =====
 
@@ -31,12 +32,14 @@
   * [[:en:obe:other:jezreel]]
   * [[:en:obe:other:saul]]
 
+ 
+
 ===== translationNotes: =====
 
-  * **Now David had also taken Ahinoam ... Saul had given Michal** - These events took place before David married Abigail. (See: [[:en:ta:vol2:translate:writing_background]])
-  * **Ahinoam ... Michal** - These are names of women. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Palti ... Laish** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Gallim** - This is a town north of Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **General Information:** - The narrative takes a short break to mention David's current wives.
+
+  * **Ahinoam ... Michal ... Palti ... Laish** - names of people (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Gallim** - a town, north of Jerusalem.
  
 ===== Links: =====
 
@@ -48,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass jezreel}}
+{{tag>publish p2edit jezreel}}
 
 ~~NOCACHE~~

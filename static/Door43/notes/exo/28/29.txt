@@ -23,8 +23,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 29 When Aaron goes into the holy place, he must carry the names of the people of Israel over his heart in the breastpiece for decision making, as a continuing memorial before Yahweh.
-\v 30 You are to put the Urim and the Thummim in the breastpiece for decision making, so they may be over Aaron's heart when he goes in before Yahweh. Thus Aaron will always carry the means for making decisions for the people of Israel over his heart before Yahweh.
+\v 29 When Aaron goes into the holy place, he must carry the names of Israel's twelve sons in the breastpiece for decision making on his heart. This will serve as a constant reminder to Yahweh.
+\v 30 You must put in the breastpiece for decision making the Urim and the Thummim. They must be on Aaron's breast when he goes in before Yahweh, and Aaron must constantly carry the decision making for the Israelites on his breast before Yahweh.
 </usfm>
 
 ===== translationWords: =====
@@ -41,11 +41,8 @@
 
   * **General Information:** - Yahweh continues to tell Moses what the people must do.
 
-  * **he must carry the names of the people of Israel over his heart in the breastpiece** - This refers to the names of the tribes engraved on the twelve stones the breastplate as described in [[:en:bible:notes:exo:28:17|28:17-21]].
-  * **over his heart** - "over Aaron's heart" or "on his chest"
-  * **the Urim and the Thummim ... the means for making decisions** - The second phrase appears to refer to the Urim and Thummim and explain their purpose.
+  * **on his heart** - "over his heart" or "on his chest"
   * **the Urim and the Thummim** - It not clear what these are. They were objects, possibly stones, that the priest used to determine somehow the will of God. (See: [[:en:ta:vol1:translate:translate_unknown]])
-
 
 ===== Links: =====
 
@@ -54,6 +51,6 @@
   * [[:en:bible:questions:comprehension:exo:28]]
 **[[:en:bible:notes:exo:28:27|<<]] | [[:en:bible:notes:exo:28:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

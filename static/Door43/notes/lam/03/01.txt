@@ -31,6 +31,7 @@
 \q1
 \v 3 He has punished me many times,
 \q2 many times during each day.
+\b
 \q1
 \v 4 He has caused my skin and my flesh to become old.
 \q2 He has broken my bones.
@@ -44,13 +45,13 @@
 
 <usfm>
 \c 3
-\m
+\p
 \q
 \v 1 I am a man who has seen misery under the rod of Yahweh's fury.
 \q
 \v 2 He drove me away and caused me to walk in darkness rather than light.
 \q
-\v 3 Surely he turned his hand against me again and again, the whole day long. 
+\v 3 Surely he turned his hand against me again and again, the whole day long.  
 \q
 \v 4 He made my flesh and my skin waste away; he broke my bones.
 </usfm>

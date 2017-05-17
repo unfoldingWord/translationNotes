@@ -21,7 +21,7 @@
 
 <usfm>
 \v 34 But David said to Saul, "Your servant used to keep his father's sheep. When a lion or a bear came and took a lamb out of the flock,
-\v 35 I chased after him and attacked him, and rescued it out of his mouth. When he rose up against me, I caught him by his beard, struck him, and killed him.
+\v 35 I chased after him and attacked him, and rescued it out of his mouth. And when he rose up against me, I caught him by his beard, struck him, and killed him.
 </usfm>
 
 
@@ -38,12 +38,11 @@
 
 ===== translationNotes: =====
 
-  * **Your servant used to keep his father's sheep** - David spoke of himself as "your servant" to show respect to Saul. See how you translated this in [[:en:bible:notes:1sa:17:31|17:32]]. AT: "I, your servant, used to keep my father's sheep"  (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **used to keep his father's sheep** - "used to take care of his father's sheep"
+
   * **a bear** - A bear is a large animal with thick fur and long claws and that walks on four legs but can stand on two legs as a person does.
   * **chased after him and attacked him** - Here "him" refers to the lion or bear. Some languages would use the word "it" instead of "him."
   * **and rescued it out of his mouth** - Here "it" refers to the lamb.
-  * **he rose up against me** - Here "rose up against" is an idiom that refers to attacking. AT: "it attacked me" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **he rose up against me** - Here "rose up" is an idiom that refers to attack. AT: "it attacked me" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **caught him by his beard** - The "beard" refers to the lion's mane or the hair on the bear's face.
  
 ===== Links: =====
@@ -59,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

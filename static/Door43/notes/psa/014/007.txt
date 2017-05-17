@@ -11,9 +11,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 Out of Zion Yahweh will come and rescue the Israelite people!
-\q2 He will make his people free again and will bring them back to their home.
-\q2 On that day all of us Israelite people will rejoice, and we, who are also called the descendants of Jacob, will be happy.
+\v 7 Is there anyone for Yahweh to send to help the Israelite people on behalf of Yahweh?
+\q2 Yahweh, when you bless your people again,
+\q2 all of us Israelite people, who are the descendants of Jacob, will rejoice.
 </usfm>
 
 ===== ULB: =====
@@ -37,9 +37,8 @@
 
 ===== translationNotes: =====
 
-  * **Oh, that the salvation of Israel would come from Zion!** - The writer is saying that he longs for God to come from Jerusalem to help Israel. AT: "I wish that Yahweh would come from Jerusalem and rescue his people!" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Oh, that the salvation of Israel would come from Zion!** - David is saying that he longs for help from God in Jerusalem. AT: "I wish that Yahweh would come from Jerusalem and rescue his people!" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **then Jacob will rejoice and Israel will be glad** - These two phrases mean the same thing. Here both "Jacob" and "Israel" represent the people of Israel. The two phrases can be combined in the translation. AT: "then all the people of Israel will rejoice greatly" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-
 
 ===== Links: =====
 
@@ -48,6 +47,6 @@
   * [[:en:bible:questions:comprehension:psa:014]]
 **[[:en:bible:notes:psa:014:005|<<]] | [[:en:bible:notes:psa:015:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

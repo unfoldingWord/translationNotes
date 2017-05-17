@@ -29,8 +29,9 @@
 
 <usfm>
 \q1
-\v 5 Truly, as a young man marries a young woman, so your sons will marry you,
-\q1 and as a bridegroom rejoices over his bride, your God will rejoice over you.
+\v 5 As a young man marries a young woman, so your sons will marry you. 
+\q1 As a bridegroom rejoices over his bride, 
+ your God will rejoice over you.
 </usfm>
 
 
@@ -42,8 +43,9 @@
 
 ===== translationNotes: =====
 
-  * **as a young man marries a young woman, so your sons will marry you** - Here "sons" refers to the people of Israel and "you" refers to Judah, the land of Israel. This means the people will take possession of the land as a man takes possession of his young wife. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **as a bridegroom rejoices over his bride, your God will rejoice over you** - This emphasizes God's happiness about his relationship with his people. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **As a young man marries a young woman, so your sons will marry you** - Here "sons" refers to the people of Israel and "you" refers to Judah, the land of Israel. This means the people will take possession of the land as a man takes possession of his young wife. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **so your sons will marry you** - A few modern versions have "so your builder will marry you," where "builder" refers to God, who will rebuild Jerusalem.
+  * **As a bridegroom rejoices over his bride, your God will rejoice over you** - This emphasizes God's happiness about his relationship with his people. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -52,6 +54,6 @@
   * [[:en:bible:questions:comprehension:isa:62]]
 **[[:en:bible:notes:isa:62:03|<<]] | [[:en:bible:notes:isa:62:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass bride bridegroom}}
+~~DISCUSSION~~{{tag>publish p2edit bride bridegroom}}
 
 ~~NOCACHE~~

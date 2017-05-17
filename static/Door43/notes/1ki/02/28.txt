@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 28 Joab had not supported Absalom when he tried to become the king, but he had supported Adonijah. So when Joab heard what had happened, he ran to the sacred tent, and he took hold of the altar because he thought that no one would kill him there.
+\v 28 Joab had not supported Absalom when he tried to become the king, but he had supported Adonijah. So when Joab heard what had happened, he ran to the sacred tent, and he took hold of the altar, because he thought that no one would kill him there.
 \v 29 When someone told Solomon that Joab had run to the sacred tent and was alongside the altar, Solomon told Benaiah, "Go and execute Joab."
 
 
@@ -37,9 +37,8 @@
 
   * **General Information:** - King Solomon orders Benaiah to execute Joab.
 
-  * **The news came to Joab** - "Joab heard what Solomon did after he had become king"
+  * **The news came to Joab** - AT: "Joab heard what Solomon did after he had become king"
   * **the horns of the altar** - The horns of the altar symbolized Yahweh's power and protection. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **It was told King Solomon that Joab had fled** - This can be translated in active form. AT: "Someone told King Solomon that Joab had fled" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -48,6 +47,6 @@
   * [[:en:bible:questions:comprehension:1ki:02]]
 **[[:en:bible:notes:1ki:02:26|<<]] | [[:en:bible:notes:1ki:02:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass tentofmeeting}}
+~~DISCUSSION~~{{tag>publish p2edit tentofmeeting}}
 
 ~~NOCACHE~~

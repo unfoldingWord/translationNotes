@@ -32,12 +32,14 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 4 It will come about on that day
+\v 4 It will come about on that day 
 \q1 that the glory of Jacob will become thin, and the fatness of his flesh will become lean.
 \q1
-\v 5 It will be as when a harvester gathers the standing grain, and his arm reaps the heads of grain.
-\q1 It will be as when one gleans heads of grain in the Valley of Rephaim.
+\v 5 It will be as when a harvester gathers the standing grain, and his arm reaps the heads of grain. 
+\q1 It will be as
+when one gleans heads of grain in the valley of Rephaim.
 </usfm>
 
 
@@ -54,10 +56,8 @@
 ===== translationNotes: =====
 
   * **It will come about** - This phrase is used here to mark an important event that will happen. If your language has a way for doing this, you could consider using it here.
-  * **the glory of Jacob will become thin, and the fatness of his flesh will become lean** - Here "Jacob" refers to the kingdom of Israel. Israel would no longer be glorious. Rather it would be weak and poor. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **It will be as when a harvester gathers the standing grain ... in the Valley of Rephaim** - There will be nothing left in the land after God punishes the people of Israel. (See: [[:en:ta:vol1:translate:figs_simile]]) 
-  * **the Valley of Rephaim** - This is a valley where people normally grew and harvested much food. (See: [[:en:ta:vol1:translate:translate_names]])
-
+  * **the glory of Jacob will become thin, and the fatness of his flesh will become lean** - Here "Jacob" refers to the people of Israel. God emphasizes that they were strong but they will become weak. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **It will be as when a harvester gathers the standing grain, and his arm reaps the heads of grain. It will be as when one gleans heads of grain in the valley of Rephaim** - There will be nothing left in the land after God punishes the people of Israel. (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -66,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:17]]
 **[[:en:bible:notes:isa:17:01|<<]] | [[:en:bible:notes:isa:17:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass glean}}
+~~DISCUSSION~~{{tag>publish p2edit glean}}
 
 ~~NOCACHE~~

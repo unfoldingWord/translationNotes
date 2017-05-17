@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 18 When Joab sent word to David about everything concerning the war,
+\v 18 When Joab sent word to David about everything concerning the war, 
 \v 19 he commanded the messenger, saying, "When you have finished telling all the things concerning the war to the king,
 \v 20 it may happen that the king will become angry, and he will say to you, 'Why did you go so near to the city to fight? Did you not know that they would shoot from the wall?
 </usfm>
@@ -39,9 +39,9 @@
  
 ===== translationNotes: =====
 
-  * **Joab sent word to David** - The phrase "sent word" means that he sent a messenger to give a report. AT: "Joab sent a messenger to David to give a report" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Why did you go so near ... from the wall?** - Joab says that David may rebuke him by asking these rhetorical questions. These questions may be written as statements. AT: "You should not have gone so near to the city to fight. You should have known that they would shoot from the wall." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **shoot from the wall** - This refers to men of the city shooting arrows down at their enemy from the top of the city wall. AT: "shoot arrows at you from the top of the city wall" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Joab sent word to David** - The phrase "sent word" means that he sent a messenger to give a report. AT: "Joab sent a messenger to David to give a report" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Why did you go so near ... from the wall?** - Joab says that David my rebuke him by asking these rhetorical questions. These questions may be written as statements. AT: "You should not have gone so near to the city to fight. You should have known that they would shoot from the wall" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **shoot from the wall** - This refers to men of the city shooting arrow down at their enemy from the top of the city wall. AT: "shoot arrows at you from the top of the city wall" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -56,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

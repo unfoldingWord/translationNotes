@@ -27,7 +27,7 @@
 
 <usfm>
 \p
-\v 26 Now Joab fought against Rabbah, the royal city of the people of Ammon, and he captured its fortress.
+\v 26 Now Joab fought against Rabbah, the royal city of the people of Ammon, and he captured its fortress. 
 \v 27 So Joab sent messengers to David and said, "I have fought against Rabbah, and I have taken the city's water supply.
 \v 28 Now therefore gather the rest of the army together and camp against the city and take it, because if I take the city, it will be named after me."
 </usfm>
@@ -44,14 +44,7 @@
  
 ===== translationNotes: =====
 
-  * **Joab fought ... he captured** - Here the author says "Joab" but he is referring to Joab and his soldiers who fought with him. AT: "Joab and his soldiers fought ... they captured" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Rabbah** - Fighting against this city literally means to fight against the people of Rabbah. Translate the name the same as you did in [[:en:bible:notes:2sa:11:01|11:1]]. AT: "the people of Rabbah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **So Joab sent messengers to David and said** - "So Joab sent messengers to David to say to him"
-  * **have taken the city's water supply** - "Taking" a place or landmark means to take control of it. AT: "have taken control of the city's water supply" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **I have fought ... I have taken ... if I take** - Here Joab speaks of himself when he is actually referring to himself and his soldiers. AT: "My soldiers and I have fought ... my soldier and I have taken ... if my soldiers and I take" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **camp against** - This means to surround and attack. AT: "besiege" or "surround" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **take it ... take the city** - "Taking" a place or landmark means to take control of it. AT: "take control of it ... take control of the city" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **it will be named** - This can be stated in active form. AT: "people will name it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -65,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example rabbah}}
+{{tag>publish p2edit rabbah}}
 
 ~~NOCACHE~~

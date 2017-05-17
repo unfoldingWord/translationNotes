@@ -43,14 +43,10 @@
 
 ===== translationNotes: =====
 
-  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate as in [[:en:bible:notes:ezk:03:16|3:1]]. AT: "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **who takes his idols into his heart** - Yahweh speaks of the people committing themselves to worshiping idols as if they had taken their idols into their hearts. See how you translated this metaphor in [[:en:bible:notes:ezk:14:01|14:3]]. AT: "who devotes himself to idols" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and puts the stumbling block of his iniquity before his own face** - Yahweh speaks of the idols that people worship as if they were blocks over which the people stumble, and of being determined to worship those idols as if they had placed those stumbling blocks in front of their faces. See how you translated this metaphor in [[:en:bible:notes:ezk:14:01|14:3]]. AT: "who resolutely determines to worship the things that lead to iniquity" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will set my face against that man** - Yahweh speaks of being opposed to a person as if he were to set his face against that person. AT: "I will be against that man" or "I will oppose that man" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **set my face** - Here "face" is a metonym for attention or gaze, and "set my face" refers to staring. AT: "stare" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **make him a sign and a proverb** - Here the word "sign" refers to something that communicates a special warning to those who see it. The word proverb refers to what people will say about that sign when they see it. AT: "I will make that man to be a warning and a proverb" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will cut him off from the midst of my people** - Yahweh speaks of causing a person no longer to belong to his people as if he were cutting that person off from the people, like a person would cut a branch from a tree. AT: "I will cause him no longer to belong to my people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **know that I am Yahweh** - When Yahweh says that people will know that he is Yahweh, he is implying that they will know that he is the one true God who has supreme authority and power. Translate as in [[:en:bible:notes:ezk:06:06|6:7]]. AT: "understand that I am Yahweh, the one true God" or "realize that I, Yahweh, have supreme power and authority" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **who takes his idols into his heart** - AT: "who considers his idols to be very important" or "who has affection for his idols"
+  * **and puts the stumbling block of his iniquity before his own face** - AT: "the idol that he has used to sin by worshiping it" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will set my face against that man** - AT: "I will be against him" or "I will give my attention to being against him" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **make him a sign and a proverb** - Here the words "sign" and "proverb" refer to something that serves as a warning to others about the bad consequences of wicked behavior. (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -59,6 +55,6 @@
   * [[:en:bible:questions:comprehension:ezk:14]]
 **[[:en:bible:notes:ezk:14:06|<<]] | [[:en:bible:notes:ezk:14:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

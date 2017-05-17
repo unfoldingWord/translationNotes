@@ -20,6 +20,7 @@
 <usfm>
 \v 3 Yahweh sees everything that is happening;
 \q2 he keeps account of the evil and of the good.
+\b
 \q1
 \v 4 A person who can give healing with what they say is like a tree that gives life;
 \q2 when someone lies to you, it can feel like they have crushed you.
@@ -54,10 +55,14 @@
 
 ===== translationNotes: =====
 
-  * **The eyes of Yahweh are everywhere** - Here the word "eyes" represents Yahweh's ability to see. AT: "Yahweh sees everything" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the evil and the good** - The words "evil" and "good" refer to people. AT: "evil people and good people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **A healing tongue is a tree of life** - The word "tongue" refers to speech. The writer speaks of the words of a person who says things that help and encourage others as if they were a tree that provides life-giving nourishment. AT: "Kind words are like a tree that gives life" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a deceitful tongue crushes the spirit** - The phrase "a deceitful tongue" refers to speech that is deceitful or hurtful. The writer speaks of a person being hurt or in despair as if that person's spirit were an object that words have crushed. AT: "deceitful speech causes a person to despair" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+
+  * **The eyes of Yahweh are everywhere** - AT: "Yahweh sees everything" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the evil and the good** - "evil people and good people" AT: "everyone"
+  * **A healing tongue** - AT: "Healing words" or "Kind speech" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **is a tree of life** - AT: "is like a tree of life" or "is as spiritually healthy as a tree of life" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **a deceitful tongue** - AT: "a lying tongue" or "lying" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **crushes the spirit** - AT: "causes pain and hopelessness" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+
  
 ===== Links: =====
 
@@ -72,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

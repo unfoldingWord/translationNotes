@@ -36,8 +36,8 @@
 
 <usfm>
 \q1
-\v 24 Instead of sweet perfume there will be stench; and instead of a sash, a rope;
-\q1 instead of well-arranged hair, baldness; and instead of a robe, a covering of sackcloth;
+\v 24 Instead of sweet perfume there will be stench; and instead of a sash, a rope; 
+\q1 instead of well-coiffed hair, baldness; and instead of a robe, a covering of sackcloth; 
 \q1 and branding instead of beauty.
 \q1
 \v 25 Your men will fall by the sword, and your strong men will fall in war.
@@ -55,11 +55,12 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - This continues to describe how Yahweh will judge the women of Judah.
 
-  * **sash** - a piece of cloth that people wear around the waist or across the chest. See how you translated this in [[:en:bible:notes:isa:03:18|3:20]].
-  * **a rope** - This may refer to a rope that enemies would tie on the people of Judah when they captured them. Or it might mean that Jerusalem's women would have nothing to wear but rough clothing secured with ropes.
-  * **well-arranged hair, baldness** - "pretty hair, their heads will be bald"
-  * **Your men will fall by the sword, and your strong men will fall in war** - Falling represents being killed, and the sword represents battle. AT: "Your men will be killed in battle, and your strong men will be killed in war" or "Enemies will kill your soldiers in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **perfume ... sash** - See how these were translated in [[:en:bible:notes:isa:03:18|3:20]]
+  * **a rope** - This may refer to enemies capturing the people of Judah.
+  * **well-coiffed hair, baldness** - "pretty hair, their heads will be bald"
+  * **Your men will fall by the sword, and your strong men will fall in war** - "Enemies will kill your husbands and soldiers in battle."
   * **Jerusalem's gates will lament and mourn** - Isaiah speaks of the city gates weeping as if they were people as a metonym for the people who will weep at the public places near the gates. AT: "The people of Jerusalem will sit at the city gates and cry and mourn" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **she will be alone and sit upon the ground** - Isaiah speaks of the people of Jerusalem, whom no one will save from their enemies, as if they were the city itself and as if they were a woman who sits on the ground because all her friends have deserted her. (UDB) (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:03]]
 **[[:en:bible:notes:isa:03:21|<<]] | [[:en:bible:notes:isa:04:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

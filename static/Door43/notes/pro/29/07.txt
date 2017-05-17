@@ -18,10 +18,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 The one who does right stands up for the poor and defends them;
-\q2 but wicked people do not see the importance of standing up for the poor.
+\v 7 The one who does right stands up for the poor and defends them; 
+\q2 but wicked people do not see the importance of standing up for the poor. 
 \q1
-\v 8 People who sneer and mock others are like those who set a city on fire;
+\v 8 People who sneer and mock others are like those who set a city on fire; 
 \q2 but those who help people get rid of their anger are wise.
 
 
@@ -32,8 +32,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 7 The righteous person pleads the cause of poor people;
-\q the wicked person does not understand such knowledge.
+\v 7 The one who does right pleads the cause of the poor;
+\q the wicked person does not understand such knowledge. 
 \q
 \v 8 Mockers set a city on fire,
 \q but those who are wise turn away wrath.
@@ -54,8 +54,7 @@
 ===== translationNotes: =====
 
 
-  * **set a city on fire** - "persuade the people of a city to cause trouble" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **turn away wrath** - make angry people become peaceful (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **set a city on fire** - persuade the people of a city to cause trouble (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:29]]
 **[[:en:bible:notes:pro:29:05|<<]] | [[:en:bible:notes:pro:29:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

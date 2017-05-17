@@ -18,10 +18,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 17 Speaking the truth is the same as saying what is right,
+\v 17 Speaking the truth is the same as saying what is right, 
 \q2 but a dishonest person tell lies.
 \q1
-\v 18 When a person speaks without thinking, it is like they are taking stabs at you with a sword;
+\v 18 When a person speaks without thinking, it is like they are taking stabs at you with a sword; 
 \q2 but what wise people say helps to heal the hurts.
 
 
@@ -33,7 +33,7 @@
 
 <usfm>
 \q
-\v 17 The one who speaks the truth says what is right,
+\v 17 The one who speaks the truth says what is right, 
 \q but a false witness tells lies.
 \q
 \v 18 The words of one who speaks rashly are like the thrusts of a sword,
@@ -51,8 +51,8 @@
   * [[:en:obe:kt:wise]]
 ===== translationNotes: =====
 
-  * **The words of one who speaks rashly are like the thrusts of a sword** - The phrase, "thrusts of a sword" represents cruel words that hurt another. AT: "What a person says without thinking can hurt as much as if he stabbed with a sword." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **the tongue of the wise** - "Tongue" represents what a person says. AT: "what wise people say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The words of one who speaks rashly are like the thrusts of a sword** - "What a person says without thinking can hurt as much as if he stabbed with a sword." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **the tongue of the wise** - "what wise people say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **brings healing** - "comforts and heals"
  
  
@@ -69,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

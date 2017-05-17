@@ -24,6 +24,7 @@
 \q and you poured out wine for them to drink.
 \q So they should rise and help you;
 \q they should be the ones who will protect you!
+\b
 
 
 \q
@@ -53,10 +54,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Moses speaks a poetic song to the people of Israel. (See: .[[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Moses speaks a poetic song to the people of Israel.(See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **Where are their gods, the rock in whom they took refuge?** - Yahweh scolds the people of Israel for seeking protection from other gods. This question can be translated as a statement. AT: "Look, the gods that the Israelites thought would protect them have not come to help them." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The gods who ate the fat of their sacrifices and drank the wine of their drink offerings?** - Here Yahweh mocks the people of Israel for offering sacrifices to other gods. This question can be translated as a statement. AT: "The gods to whom the Israelites offered meat and wine have not come to help them." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Where are their gods, the rock in whom they took refuge?** - Yahweh scolds the people of Israel for seeking protection from other gods. This question can be translated as a statement. AT: "Look, the gods that the Israelites thought would protect them have not come to help them" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The gods who ate the fat of their sacrifices and drank the wine of their drink offerings?** - Here Yahweh mocks the people of Israel for offering sacrifices to other gods. This question can be translated as a statement. AT: "The gods to whom the Israelites offered meat and wine have not come to help them" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Let them rise up and help you; let them be your protection** - Yahweh says this to mock the Israelites. He knows these gods cannot help them. AT: "These idols are not even able to get up and help or to protect you" (See: [[:en:ta:vol1:translate:figs_irony]]) 
 
 ===== Links: =====
@@ -66,6 +67,6 @@
   * [[:en:bible:questions:comprehension:deu:32]]
 **[[:en:bible:notes:deu:32:36|<<]] | [[:en:bible:notes:deu:32:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass refuge}}
+~~DISCUSSION~~{{tag>publish p2check refuge}}
 
 ~~NOCACHE~~

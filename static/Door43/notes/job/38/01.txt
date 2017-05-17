@@ -28,6 +28,7 @@
 \v 3 I want to ask you some questions,
 \q2 so act like a man and
 \q2 get ready to answer my questions.
+\b
 
 
 \q1
@@ -61,15 +62,12 @@
 
 ===== translationNotes: =====
 
-  * **Then** - "And then." The word "Then" starts a new part of the book that describes what happened next. See if your language has a similar way to introduce a new scene.
-  * **called to Job** - "answered Job" or "responded to Job"
-  * **out of a fierce storm** - "from a powerful storm"
-  * **Who is this who brings darkness to plans by means of words without knowledge?** - Yahweh uses this question to emphasize that Job spoke of things he did not know about. It can be translated as a statement. AT: "You bring darkness to my plans by means of words without knowledge." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Who is this who brings** - "Who are you to bring"
-  * **brings darkness to plans** - "obscures my plans" or "confuses my purposes." How Job confuses God's plans is spoken of as if he were making God's plans harder to see. The abstract noun "darkness" can be translated as the verb "darkens." AT: "darkens plans" or "makes plans hard to see" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **by means of words without knowledge** - "by speaking of things about which you do not know"
-  * **words without knowledge** - The abstract noun "knowledge" can be translated as an adjective. AT: "unknowing words" or "ignorant words" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **gird up your loins like a man** - "tie your robe up around your waist like a man." Men tied up their robes around their waist so that their legs could move more freely. The idiom "gird up your loins like a man" means to get ready to do something involving action such as work, a contest, or a battle, and Job was to prepare for the hard work of answering God. AT: "get yourself ready for hard work" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Who is this ... without knowledge** - Yahweh uses this question to emphasize that Job has said foolish things. AT: "You bring darkness ... without knowledge." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **brings darkness to plans** - Darkness represents foolish advice. AT: "gives foolish advice." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **by means of words without knowledge** - "by speaking words but having no knowledge"
+  * **gird up your loins** - "tie your robe up around your waist." Men tied up their robes around their waist, so that their legs could move more freely in a battle or a contest. AT: "prepare yourself for a contest." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **like a man** - "like a warrior"
+  * **must answer me** - "must tell me the answers"
  
 ===== Links: =====
 
@@ -84,6 +82,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check gird}}
+{{tag>publish p2edit gird}}
 
 ~~NOCACHE~~

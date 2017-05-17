@@ -34,6 +34,7 @@
 \q1 As surely as I live,
 \q2 they will be with you for you to show to people
 \q2 like a bride shows her wedding ornaments!
+\b
 
 
 \q1
@@ -48,7 +49,7 @@
 \q1
 \v 17 Your children are hurrying back, while those who destroyed you are going away.
 \q1
-\v 18 Look around and see, they are all gathering and coming to you.
+\v 18 Look around and see, they are all gathering and coming to you. 
 \q1 As surely as I live—this is the declaration of Yahweh—you will surely wear them like jewelry; you will put them on, like a bride.
 </usfm>
 
@@ -63,15 +64,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking to Zion. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **I have inscribed your name on my palms** - Yahweh speaks of his unwavering devotion to Zion as if he had written her name on the palms of his hands. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **your walls are continually before me** - Yahweh speaks of always thinking about Zion as if her walls were always before him. The word "walls" is a metonym for the city. AT: "I am continually thinking about your walls" or "I am always thinking about you" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Your children are hurrying back** - Yahweh speaks of the people who are returning to live in Jerusalem as if they were the city's children. AT: "Your inhabitants are hurrying back" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **As surely as I live** - This is an oath formula that Yahweh uses to guarantee the truth of what he is saying.
-  * **declaration of Yahweh** - This can be reworded so that the abstract noun "declaration" is expressed as the verb "declared" or "solemnly said." See how you translated this in [[:en:bible:notes:isa:14:21|14:22]]. AT: "this is what Yahweh declared" or "this is what Yahweh solemnly said" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **you will surely wear them like jewelry; you will put them on, like a bride** - Yahweh speaks of the inhabitants of Zion as if they were jewelry that the city wears to show her beauty and joy. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **you will put them on, like a bride** - The last part of the phrase can be clarified from the previous line. AT: "you will put them on, like a bride wears jewelry" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **I have inscribed your name on my palms** - This means that God is always thinking about the honor of his people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Your children are hurrying back** - AT: "Your descendants are hurrying back to rebuild your city" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **As surely as I live** - This is an oath formula.
+  * **declaration of Yahweh** - See how you translated this in [[:en:bible:notes:isa:14:21]].
+  * **you will surely wear them like jewelry; you will put them on, like a bride** - This means the descendants that return will cause the city of Jerusalem to be beautiful and happy again. (See: [[:en:ta:vol1:translate:figs_simile]])
+ 
  
 ===== Links: =====
 
@@ -86,6 +86,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -24,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 8 Lord, what can I say, after Israel has turned their backs before their enemies?
-\v 9 For the Canaanites and all the inhabitants of the land will hear of it. They will surround us and make the people of the earth forget our name. What will you do for your great name?"
+\v 8 Lord, what can I say, after Israel has turned their backs before their enemies! 
+\v 9 For the Canaanites and all the inhabitants of the land will hear of it. They will surround us and make the people of the earth forget our name. And so what will you do for your great name?"
 </usfm>
 
 
@@ -39,13 +39,8 @@
 
   * **General Information:** - Joshua expresses frustration to God.
 
-  * **what can I say, after Israel has turned their backs before their enemies!** - Joshua said this to show how upset he was that he did not even know what to say. AT: "I do not know what to say. Israel has turned their backs before their enemies." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Israel has turned their backs before their enemies** - Doing this represents running away from their enemies. AT: "Israel has run away from their enemies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **They will surround us and make the people of the earth forget our name** - Making people forget the name of the Israelites represents making them forget the Israelites. In this case they would do it by killing the Israelites. AT: "They will surround us and kill us, and the people of the earth will forget about us" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **for your great name** - The phrase "your great name" here represents God's reputation and power. AT: "And so what will you do so that people will know that you are great" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **What will you do for your great name?** - Joshua uses this question to warn God that if the Israelites are destroyed, then the other people will think that God is not great. AT: "Then there will be nothing you can do for your great name." or "Then people will not know that you are great." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
-
-
+  * **Lord, what can I say, after Israel has turned their backs before their enemies!** - AT: O Lord, I have no more words to say to you. Israel has run away in defeat. We have turned our backs in shame as we ran away from our enemies." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **And so what will you do for your great name?** - The phrase "your great name" here represents the reputation and power of God. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
  
 ===== Links: =====
@@ -61,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

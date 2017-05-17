@@ -34,8 +34,8 @@
 \v 8 I heard the voice of the Lord say, "Whom shall I send; who will go for us?" Then I said, "Here I am; send me."
 
 \q1
-\v 9 He said, "Go and tell this people,
-\q1 'Listen, but do not understand; see, but do not perceive.'
+\v 9 He said, "Go and tell this people, 
+\q1 listen, but do not understand; see, but do not perceive.
 </usfm>
 
 ===== translationWords: =====
@@ -47,14 +47,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe his vision.
+  * **General Information:** - Isaiah continues to describe his vision. In these verses, God is telling him that he must preach to the people, but that, even if they listen, they will not truly understand his message.
 
-  * **the voice of the Lord say** - Here "voice" represents the Lord himself. AT: "the Lord say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Whom shall I send** - It is implied that Yahweh will send someone to speak his message to the people of Israel. AT: "Whom shall I send to be a messenger to my people" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **who will go for us** - It seems "us" refers to Yahweh and the members of his heavenly council. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+  * **the voice of the Lord say** - "Voice" refers to what the Lord says with his voice. AT: "the Lord say" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **who will go for us** - Possible meanings are 1) The word "us" refers to God and his angels. 2) The Lord refers to himself as "us." When a person refers to himself this way, it emphasizes the person's authority and importance.
   * **this people** - "the people of Israel"
-  * **Listen, but do not understand; see, but do not perceive** - Possible meanings are 1) the imperatives "do not understand" and "do not perceive" express what God is causing to happen. AT: "You will listen, but Yahweh will not let you understand; you will look carefully, but Yahweh will not allow you to understand" or 2) the imperatives "Listen" and "see" express the idea of "if." AT: "Even if you listen you will not understand; even if you look carefully, you will not understand" (See: [[:en:ta:vol2:translate:figs_imperative]])
-  * **Listen, but do not understand; see, but do not perceive** - You can state clearly the understood information. AT: "Listen to Yahweh's message, but do not understand what it means; look at what Yahweh is doing, but do not realize what it means" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **listen, but do not understand; see, but do not perceive** - "listen very carefully, but may you not understand; look very carefully, but may you not know"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -63,6 +61,6 @@
 
 [[:en:bible:notes:isa:06:06|<<]] | [[:en:bible:notes:isa:06:10|>>]]
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

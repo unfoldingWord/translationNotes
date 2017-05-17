@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 16 The man said to Eli, "I am the one who came from the battle line. I fled from the battle today." Eli said, "How did it go, my son?"
+\v 16 The man said to Eli, "I am the one who came from the battle line. I fled from the battle today." And he said, "How did it go, my son?"
 \v 17 The man who brought the news answered and said, "Israel fled from the Philistines. Also, there has been a great defeat among the people. Also, your two sons, Hophni and Phinehas, are dead, and the ark of God has been taken."
 </usfm>
 
@@ -38,6 +38,7 @@
 
 ===== translationNotes: =====
 
+  * **And he said** - "And Eli said"
   * **my son** - Eli was not the other man's true father. Eli speaks as if he were the man's father to show the man that he is not angry but that the man needs to answer him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Israel fled from the Philistines** - This is a general statement about what happened. The rest of the man's words give details.
   * **Also, there has been ... people. Also, your two sons** - "I will now tell you something worse ... I will now tell you something worse" or "Not only has there been ... people, but your two sons"
@@ -56,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2check p2example}}
 
 ~~NOCACHE~~

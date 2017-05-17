@@ -24,7 +24,7 @@
 
 <usfm>
 \v 3 I also will set my face against that man and will cut him off from among his people because he has given his child to Molech, so as to defile my holy place and profane my holy name.
-\v 4 If the people of the land close their eyes to that man when he gives any of his children to Molech, if they do not put him to death,
+\v 4 If the people of the land close their eyes to that man when he gives any of his children to Molech, if they do not put him to death, 
 \v 5 then I myself will set my face against that man and his clan, and I will cut him off and everyone else who prostitutes himself in order to play the harlot with Molech.
 </usfm>
 
@@ -44,7 +44,7 @@
   * [[:en:obe:other:prostitute]]
 ===== translationNotes: =====
 
-  * **I also will set my face against that man** - The phrase "set my face against" is an idiom which means "to reject" or "to oppose strongly." AT: "I will also reject him" or "I will also oppose him" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **I also will set my face against that man** - This phrase "set my face against" means "to reject." AT: "I will also reject him" or "I will also oppose him" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **he has given his child** - "he has sacrificed his child"
   * **so as to defile my holy place and profane my holy name** - "and by doing that, he has defiled my holy place and profaned my holy name"
   * **profane my holy name** - God's name represents God and his reputation. AT: "dishonor my reputation" or "dishonor me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:lev:20]]
 **[[:en:bible:notes:lev:20:01|<<]] | [[:en:bible:notes:lev:20:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

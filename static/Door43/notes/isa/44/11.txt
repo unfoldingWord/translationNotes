@@ -24,6 +24,7 @@
 \q1 They should stand in front of God in a courtroom,
 \q2 and when they hear what he says, they will be terrified,
 \q2 and they will all be disgraced.
+\b
 
 
 \q1
@@ -34,7 +35,7 @@
 
 <usfm>
 \q1
-\v 11 Look, all his associates will be put to shame; the craftsmen are only men.
+\v 11 Look, all his associates will be put to shame; the craftsmen are only men. 
 \q1 Let them take their stand together; they will cower and be put to shame.
 </usfm>
 
@@ -47,10 +48,10 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **all his associates** - Possible meanings are 1) this refers to the associates of the craftsman who makes the idol. AT: "all of the craftsman's associates" or 2) this refers to those who associate themselves with the idol by worshiping it. AT: "all those who worship the idol" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **be put to shame** - This can be stated in active form. AT: "will be ashamed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **all his associates will be put to shame** - This can be stated in active form. AT: "I will put to shame all who help him make his idol" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Let them take their stand together** - "Let them all come together before me"
-  * **they will cower** - "they will be terrified." To "cower" is to bend over in fear. 
+  * **they will cower and be put to shame** - This can be stated in active form. AT: "they will be afraid and I will put them to shame" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+ 
  
 ===== Links: =====
 
@@ -65,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -19,7 +19,7 @@
 
 <usfm>
 \p
-\v 24 From the descendants of Gad were counted all the names of each and every man twenty years old or older able to go to war, from the records of their ancestor's clans and families.
+\v 24 From the descendants of Gad were counted all the names of each and every man twenty years old or older able to go to war, from the records of their ancestor's clans and families. 
 \v 25 They counted 45,650 men from the tribe of Gad.
 </usfm>
 
@@ -40,6 +40,6 @@
   * [[:en:bible:questions:comprehension:num:01]]
 **[[:en:bible:notes:num:01:22|<<]] | [[:en:bible:notes:num:01:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

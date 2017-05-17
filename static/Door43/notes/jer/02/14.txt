@@ -47,7 +47,7 @@
 
 <usfm>
 \q
-\v 14 Is Israel a slave? Was he born in his master's home? So why has he become plunder?
+\v 14 Is Israel a slave? Was he not born at home? So why has he become plunder?
 \q
 \v 15 Young lions roared against him. They made a lot of noise and made his land a horror.
 \q His cities are destroyed without any inhabitants.
@@ -70,20 +70,15 @@
 
 ===== translationNotes: =====
 
-  * **Is Israel a slave? Was he born in his master's home? So why has he become plunder?** - Though Yahweh was speaking to the people of Israel, he used the third person as though he were talking to someone else about Israel. AT: "Israel, are you a slave? Were you born at home? So why have you become plunder?" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **Is Israel a slave? Was he born in his master's home?** - Yahweh uses these questions to tell why Israel should not have become plunder. AT: "Israel is not a slave. Israel was not born at home." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Was he born in his master's home** - Here "born in his master's home" is metonym for being born into slavery. AT: "Was he born a slave" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **So why has he become plunder?** - Yahweh uses this question to indicate that Israel should not have become plunder. AT: "But now he has become plunder" or "So he should not have become plunder" (See: [[:en:ta:vol1:translate:figs_rquestion]] 
-  * **So why has he become plunder** - Here "become plunder" represents being attacked and taken as captives to another country. AT: "So why has Israel been taken away as captives" or "So why have Israel's enemies taken Israel away as captives" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Young lions roared against him. They made a lot of noise** - God speaks of Israel's enemies attacking Israel as if the enemies were lions roaring and attacking Israel. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and made his land a horror** - This represents destroying the land in such a way that people will feel horror when they see it. AT: "and destroyed Israel's land" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Young lions roared** - A roar is a loud sound that a wild animal makes when it attacks.
-  * **His cities are destroyed without any inhabitants** - This can be stated in active form. AT: "They have destroyed Israel's cities and now no one lives in them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Is Israel a slave? Was he not born at home? So why has he become plunder?** - AT: "You people of Israel were not born slaves; but now you have been plundered by your enemies." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **why has he become plunder?** - AT: "Everything you owned has been taken by force?"
+  * **Young lions roared against him. They made a lot of noise and made his land a horror. His cities are destroyed without any inhabitants.** - AT: "Your enemies attacked you roaring like young lions. They destroyed your land and burned your towns so that no one can live in them." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **roar** - a loud sound made by a wild animal
   * **inhabitants** - people who live in a certain place 
-  * **Memphis and Tahpanhes** - These are the names of two cities in Egypt (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Memphis and Tahpanhes** - cities in Egypt (See: [[:en:ta:vol1:translate:translate_names]])
   * **will shave your skull** - The Egyptians shaved the head of their slaves to mark them as slaves.
-  * **will shave your skull** - Some versions interpret the Hebrew text as "have cracked your skull."
-  * **Did you not do this to yourselves when you abandoned Yahweh your God, while he was leading you along the way?** - Yahweh uses this question to remind Israel that it is their own fault that their enemies attacked them. AT: "You caused this yourselves by abandoning Yahweh your God while he was leading you along the way." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **will shave your skull** - The Hebrew text is interpreted by some modern versions as "have cracked your skull."
+  * **Did you not do this to yourselves when you abandoned Yahweh your God, while he was leading you along the way?** - AT: "You cause this yourselves by abandoning Yahweh your God, while he was leading you along the way." (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -98,6 +93,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check skull}}
+{{tag>publish p2edit skull}}
 
 ~~NOCACHE~~

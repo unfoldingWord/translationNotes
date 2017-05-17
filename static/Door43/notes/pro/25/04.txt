@@ -17,11 +17,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 Silver cannot be used by the metal worker,
+\v 4 Silver cannot be used by the metal worker, 
 \q2 unless the silver is heated and dross is removed from it;
 \q1
-\v 5 just as the dross is removed, even so, if wicked men are removed from the kings court,
-\q2 his throne will be more secure, and he will be able to do what is right.
+\v 5 just as the dross is removed, even so, if wicked men are removed from the kings court, 
+\q2 his throne will be more secure, and he will be able to do what is right. 
+
 
 \q1
 </usfm>
@@ -32,7 +33,7 @@
 <usfm>
 \q
 \v 4 Remove the dross from the silver
-\q and a metal worker can use the silver in his craft.
+\q and a metal worker can use the silver in his craft. 
 \q
 \v 5 Even so, remove wicked people from the presence of the king
 \q and his throne will be established by doing what is right.
@@ -48,8 +49,10 @@
 
 ===== translationNotes: =====
 
-  * **dross** - the material in a metal that people do not want and they remove by heating the metal
-  * **his throne will be established by doing** - The throne is a metonym for the power to rule. These words can be translated in active form. AT: "the king will establish his throne by doing" or "he will have the power to rule because he does" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **dross** - the unwanted material in a metal that is removed by heating the metal
+  * **his throne will be established** - AT: "the king will establish his throne" or "his rule will be established" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
+ 
+ 
  
 ===== Links: =====
 
@@ -57,10 +60,13 @@
   * [[:en:bible:notes:pro:25:00]]
   * [[:en:bible:questions:comprehension:pro:25]]
 
+ 
+
 **[[:en:bible:notes:pro:25:01|<<]] | [[:en:bible:notes:pro:25:06|>>]]**
 
 ~~DISCUSSION~~
 
-{{tag>publish p2pass}}
+
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

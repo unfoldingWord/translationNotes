@@ -34,12 +34,12 @@
 
 <usfm>
 \c 34
-\m
+\p
 \q1
-\v 1 Come near, you nations, and listen; pay attention, you people!
+\v 1 Come near, you nations, and listen; pay attention, you people! 
 \q1 The earth and all that fills it must listen, the world, and all things that come from it.
 \q1
-\v 2 For Yahweh is angry with all the nations, and furious against all their armies;
+\v 2 For Yahweh is angry with all the nations, and furious against all their armies; 
 \q1 he has completely destroyed them, he has handed them over to the slaughter.
 </usfm>
 
@@ -56,9 +56,7 @@
 
   * **General Information:** - Yahweh is speaking in poetry. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **The earth and all that fills it must listen, the world, and all things that come from it** - Here the earth is spoken of as being required to listen to Yahweh to emphasize that it is under Yahweh's authority. These two parallel phrases are metonyms for all the people who live in the world. AT: "In all places everywhere on earth, everyone must listen to what I say" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the world, and all things that come from it** - This is the second of two parallel phrases. The missing words may be added to this phrase. AT: "the world, and all things that come from it must listen" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **he has completely destroyed them, he has handed them over to the slaughter** - Often prophets speak of things that will happen in the future as if they have already happened. This emphasizes the event will certainly happen. AT: "he will completely destroy them, he will give them over to the slaughter" (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **he has completely destroyed them, he has handed them over to the slaughter** - Often prophets speak of things that will happen in the future as if they have already happened. This emphasizes the event will certainly happen. AT: "he will completely destroy them, he will give them over to the slaughter"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -66,6 +64,6 @@
   * [[:en:bible:questions:comprehension:isa:34]]
 **[[:en:bible:notes:isa:33:23|<<]] | [[:en:bible:notes:isa:34:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass slaughter}}
+~~DISCUSSION~~{{tag>publish p2edit slaughter}}
 
 ~~NOCACHE~~

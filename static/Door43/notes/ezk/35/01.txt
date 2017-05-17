@@ -24,7 +24,7 @@
 <usfm>
 \c 35
 \p
-\v 1 Then the word of Yahweh came to me and said,
+\v 1 Then the word of Yahweh came to me and said, 
 \v 2 "Son of man, set your face against Mount Seir and prophesy against it.
 \v 3 Say to it, 'The Lord Yahweh says this: Behold! I am against you, Mount Seir, and I will strike you with my hand and make you a desolation and a horror.
 </usfm>
@@ -43,18 +43,16 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh tells Ezekiel to speak a prophecy. Ezekiel is to speak to Mount Seir, but the message is for all of the people of Edom.
-
-  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Son of man** - "Son of a human being" or "Son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. Translate this as in [[:en:bible:notes:ezk:02:01|2:1]]. AT: "Mortal person" or "Human"
-  * **set your face against Mount Seir** - Mount Seir was far away, so Ezekiel could not see it, but Yahweh commands him to stare in that direction as a symbol of harming the people there. See how you translated a similar phrase in [[:en:bible:notes:ezk:06:01|6:2]]. AT: "turn toward Mount Seir and stare" or "stare toward Mount Seir so that the people there will be harmed" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **Mount Seir and prophesy against it** - "the mountain of Seir." Yahweh tells Ezekiel to speak to Mount Seir as if it could hear him. The message is for all of the people of Edom. AT: "Mount Seir and prophesy against because of what the people of Edom have done" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]].
+  * **set your face against** - See how you translated this in [[:en:bible:notes:ezk:04:01|4:3]].
+  * **Mount Seir** - "the mountain of Seir." This refers to the people who lived in Edom because they lived in the Seir mountain range. AT: "the people of Edom" or "the people in the Seir mountains" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **to it** - "to the mountain" or "to the people of Edom"
-  * **Behold! I am against you, Mount Seir, and I will strike you with my hand and make you a desolation and a horror** - Yahweh tells Ezekiel to speak to Mount Seir as if it could hear him. The message is for all of the people of Edom. AT: "Listen, Mount Seir, I will strike you with my hand and make you a desolation and a horror because of what your people did" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **Behold!** - The word "Behold" here adds emphasis to what follows. AT: "Listen!" or "Indeed!"
-  * **I am against you** - "I am your enemy" (UDB) or "I oppose you"
-  * **I will strike you with my hand** - Here "hand" represents power. AT: "I will use my power to strike you" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **make you a desolation and a horror** - This can be stated to remove the abstract nouns "desolation" and "a horror." AT: "make you desolate and ruined" or "make you a desolate wasteland" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Behold!** - The word "Behold" here adds emphasis to what follows. Alternate translation: "Indeed!"
+  * **I am against you** - See how you translated this in [[:en:bible:notes:ezk:21:01|21:3]].
+  * **I will strike you with my hand** - AT: "I have stretched out my hand over you." This means "I am about to attack you." 
+  * **a desolation and a horror** - See how you translated this in [[:en:bible:notes:ezk:33:27|33:28]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -62,6 +60,6 @@
   * [[:en:bible:questions:comprehension:ezk:35]]
 **[[:en:bible:notes:ezk:34:30|<<]] | [[:en:bible:notes:ezk:35:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

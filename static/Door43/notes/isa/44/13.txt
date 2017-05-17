@@ -33,8 +33,8 @@
 
 <usfm>
 \q1
-\v 13 The carpenter measures the wood with a line, and marks it with a stylus.
-\q1 He shapes it with his tools and marks it out with a compass.
+\v 13 The carpenter measures the wood with a line, and marks it with a stylus. 
+\q1 He shapes it with his tools and marks it out with a compass. 
 \q1 He shapes it after the figure of a man, like an attractive human, so it may stay in a house.
 </usfm>
 
@@ -45,7 +45,7 @@
 
 
   * **with a line** - A string was used to outline the shape of the idol in the wood.
-  * **stylus** - This is a sharp tool to scratch the wood so the craftsman can see where to cut.
+  * **stylus** - This is a sharp tool to scratch the wood so the craftsman can see here to cut,
   * **a compass** - This is a tool with two points that spread out used to help mark the wood to make the idol.
 
  
@@ -62,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

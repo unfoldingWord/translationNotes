@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 Everything else that Abijah did is written in the book of the events of the Kings of Judah.
+\v 7 Everything else that Abijah did is written in the Book of the Events of the Kings of Judah.
 \v 8 Abijah died and was buried in the part of Jerusalem called the city of David, and his son Asa became king.
 
 
@@ -24,7 +24,7 @@
 
 <usfm>
 \p
-\v 7 As for the other matters of Abijah, all that he did, are they not written in the book of the events of the kings of Judah? There was war between Abijah and Jeroboam.
+\v 7 As for the other matters of Abijah, all that he did, are they not written in The Book of the Events of the Kings of Judah? There was war between Abijah and Jeroboam.
 \v 8 Abijah slept with his ancestors, and they buried him in the city of David. Asa his son became king in his place.
 </usfm>
 
@@ -38,11 +38,9 @@
 
 ===== translationNotes: =====
 
-  * **are they not written in the book of the events of the kings of Judah?** - This question is used to either inform or remind the readers that the information about Abijah is in this other book. See how you translated this in [[:en:bible:notes:1ki:14:29|14:29]]. This rhetorical question can be translated as a statement. AT: "they are written in the book of the events of the kings of Judah." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **are they not written in the book of the events of the kings of Judah?** - This can stated in active form. AT: "someone has written about this in the book of the events of the kings of Judah." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **between Abijah and Jeroboam** - The names "Abijah" and "Jeroboam" represent the armies of those two kings.  AT: "between the armies of Abijah and Jeroboam" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Abijah slept with his ancestors** - In this euphemism, sleeping represents dying. AT: "Abijah died as his ancestors had" or "Like his ancestors, Abaijah died" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_euphemism]])
-  * **became king in his place** - The phrase "in his place" is a metaphor meaning "instead of him." AT: "became king instead of Abijah" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **all that he did, are they not written in The Book of the Events of the Kings of Judah?** - See how you translated this in [[:en:bible:notes:1ki:14:29|14:29]]. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Abijah slept with his ancestors** - AT: "Abijah died" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -50,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1ki:15]]
 **[[:en:bible:notes:1ki:15:04|<<]] | [[:en:bible:notes:1ki:15:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass asa}}
+~~DISCUSSION~~{{tag>publish p2edit asa}}
 
 ~~NOCACHE~~

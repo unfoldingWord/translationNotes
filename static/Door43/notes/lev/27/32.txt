@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 32 As for every tenth of the herd or the flock, whatever passes under the shepherd's rod, one-tenth must be set apart to Yahweh.
+\v 32 As for every tenth of the herd or the flock, whatever passes under the shepherd's rod, one tenth must be set apart to Yahweh. 
 \v 33 The shepherd must not search for the better or the worse animals, and he must not substitute one for another. If he changes it at all, then both it and that for which it is changed will be holy. It cannot be redeemed.'"
 </usfm>
 
@@ -34,8 +34,8 @@
 ===== translationNotes: =====
 
   * **whatever passes under the shepherd's rod** - This refers to the the way they would count their animals.  AT: "when you count your animals by raising your shepherd rod and having them walk under it to the other side" or "when you count the animals" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **one-tenth must be set apart to Yahweh** - This can be stated in active form. AT: "you must set apart one-tenth to Yahweh" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **one-tenth** - "every tenth animal"
+  * **one tenth must be set apart to Yahweh** - This can be stated in active form. AT: "you must set apart one tenth to Yahweh" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **one tenth** - Here this refers to every tenth animal that is counted. AT: "every tenth animal"
   * **then both it and that for which it is changed** - "then both animals"
   * **It cannot be redeemed** - This can be stated in active form. AT: "He cannot redeem it" or "He cannot buy it back" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:lev:27]]
 **[[:en:bible:notes:lev:27:30|<<]] | [[:en:bible:notes:lev:27:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

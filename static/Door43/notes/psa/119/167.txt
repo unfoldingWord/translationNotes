@@ -20,7 +20,7 @@
 \q1
 \v 168 I obey your principles of behavior,
 \q2 and you see everything that I do.
-
+\b
 
 
 \q1
@@ -35,6 +35,7 @@
 \q
 \v 168 I keep your instructions and your solemn commands,
 \q for you are aware of everything I do.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -43,11 +44,7 @@
 
 ===== translationNotes: =====
 
-  * **I observe your solemn commands** - "I obey your solemn commands"
   * **solemn commands** - Other possible meanings are "testimonies" or "laws." See how you translated this in [[:en:bible:notes:psa:119:001|119:2]].
-  * **I keep your instructions** - "I obey your instructions"
- 
-
 
 ===== Links: =====
 
@@ -56,6 +53,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:165|<<]] | [[:en:bible:notes:psa:119:169|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

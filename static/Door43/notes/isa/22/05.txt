@@ -24,6 +24,7 @@
 \q2 in the valley where I received this vision.
 \q1 It will be a time when our city walls will be battered down
 \q2 and the people's cries for help will be heard in the mountains.
+\b
 \q1
 \v 6 The armies from Elam and Kir in Media will attack,
 \q2 driving chariots and carrying shields.
@@ -38,11 +39,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 5 For there is a day of tumult, treading down, and confusion for the Lord, Yahweh of hosts,
-\q1 in the Valley of Vision, a breaking down of the walls, and people crying out to the mountains.
+\v 5 For there is a day of tumult, treading down, and confusion for the Lord, Yahweh of hosts, 
+\q1 in the valley of vision, a breaking down of the walls, and people crying out to the mountains.
 \q1
-\v 6 Elam takes up the quiver, with chariots of men and horsemen,
+\v 6 Elam takes up the quiver, with chariots of men and horsemen, 
 \q1 and Kir lays the shield bare.
 \q1
 \v 7 It will come about that your choicest valleys
@@ -54,7 +56,6 @@
   * [[:en:obe:kt:lordgod]]
   * [[:en:obe:kt:yahwehofhosts]]
   * [[:en:obe:other:vision]]
-  * [[:en:obe:other:cry]]
   * [[:en:obe:other:elam]]
   * [[:en:obe:other:chariot]]
   * [[:en:obe:other:shield]]
@@ -62,15 +63,14 @@
 
 ===== translationNotes: =====
 
-  * **For there is a day** - Here "day" refers to a longer period of time. AT: "For there will be a time" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **of tumult, treading down, and confusion for the Lord, Yahweh of hosts** - "when Yahweh of hosts will cause panic, treading down, and confusion"
-  * **treading down** - Possible meanings are 1) this refers to soldiers marching or 2) people in general are running in panic and not sure where to go.
-  * **in the Valley of Vision** - This refers to Jerusalem. See how you translated this in [[:en:bible:notes:isa:22:01|22:1]].
-  * **people crying out to the mountains** - Possible meanings are 1) "people in the mountains will hear their cries" or 2) "the people's cries will echo off the mountains"
-  * **Elam takes up the quiver** - The quiver is a bag to carry arrows and represents the archer's weapons. AT: "The soldiers of Elam take their bows and arrows" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Kir lays the shield bare** - Here "Kir" represents the soldiers. AT: "the soldiers of Kir will take their shields out of their covers" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **For there is a day** - "For there will be a day"
+  * **for the Lord** - "from the Lord"
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **in the valley of vision** - See how you translated this in [[:en:bible:notes:isa:22:01|22:1]].
+  * **Elam takes up the quiver** - The quiver is a bag to carry arrows and represents the archer's weapons. AT: "the soldiers of Elam take their bows and arrows" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Kir lays the shield bare** - "the soldiers of Kir prepare their shields" 
   * **Kir** - Kir is a city in Media. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **your choicest valleys** - Here "your" refers to the people of Jerusalem. Isaiah does include himself as one of the people of Jerusalem. AT: "our best valleys"
+  * **your choicest valleys** - "our best valleys." Here "your" refers to the people of Jerusalem. Isaiah does include himself as one of the people of Jerusalem.
 
 ===== Links: =====
 
@@ -79,6 +79,6 @@
   * [[:en:bible:questions:comprehension:isa:22]]
 **[[:en:bible:notes:isa:22:03|<<]] | [[:en:bible:notes:isa:22:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass elam}}
+~~DISCUSSION~~{{tag>publish p2edit elam}}
 
 ~~NOCACHE~~

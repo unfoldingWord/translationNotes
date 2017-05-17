@@ -13,8 +13,8 @@
 
 <usfm>
 \v 19 Say to them, 'You people of Egypt, you think that you are more beautiful than the people of other nations. But you also will descend to the place where the godless dead people are.
-\v 20 You will die along with many others whom their enemies have killed. Their enemies have begun to attack, and they will drag away a huge number people of Egypt.
-\v 21 In the place where the dead people are, mighty leaders of other countries will make fun of you people of Egypt and your allies. They will say that you have come to lie dead with them, those godless people whom their enemies killed.
+\v 20 You will die along with many others whom their enemies have killed. Their enemies have pulled out their swords to attack, and they will drag away a huge number people of Egypt and her servants.
+\v 21 In the place where the dead people are, mighty leaders of other countries will make fun of you people of Egypt and your allies. They will say that you have come to lie with them, who were godless people whom their enemies killed.
 
 
 \p
@@ -24,12 +24,12 @@
 
 <usfm>
 \q
-\v 19 'Are you really more beautiful than anyone else? Go down and lie down with the uncircumcised.'
+\v 19 Ask them, 'Are you really more beautiful than anyone else? Go down and lie with the uncircumcised.'
 \q
-\v 20 They will fall among those who were killed by the sword. The sword has been drawn! She has been given to the sword; they will seize her and her multitudes.
+\v 20 They will fall among those who were killed by the sword. Egypt is given to the sword; her enemies will seize her and her servants.
 \q
 \v 21 The strongest of the warriors in Sheol will declare about Egypt and her allies,
-\q 'They have come down here! They will lie with the uncircumcised, with those who were killed by the sword.'
+\q 'They have come down here! They will lie with the uncircumcised who were killed by the sword.'
 </usfm>
 
 ===== translationWords: =====
@@ -43,19 +43,17 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking to Ezekiel. 
+  * **General Information:** - Yahweh continues speaking to Ezekiel.
 
-  * **Are you really more beautiful than anyone else? Go down and lie down with the uncircumcised.** - This is a question and command that the prophet is to ask the Egyptians. AT: "Go down and lie down with the uncircumcised. Ask them all: 'Are you really more beautiful than anyone else?'" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Go down** - It is implied that they must go down to Sheol. AT: "Go down to Sheol." (See: [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **Are you really more beautiful than anyone else?** This question really makes a statement. AT: "You are not more beautiful than anyone else." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **They** - "Egypt and her people"
-  * **who were killed by the sword** - This can be put into active form. AT: "whom enemies killed with swords" or "who died in battle" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **She has been given to the sword** - This can be put in active form. AT: "I have given Egypt to the sword" 
-  * **The sword has been drawn!** - This represents the beginning of war. AT: "War has begun" [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the sword** - This represents defeat in battle. AT: "Egypt has been handed over to be defeated in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **they will seize her and her multitudes** - "her enemies will seize Egypt and her people" 
-  * **about Egypt and her allies** - "about the Egyptians and those who join them"
-
+  * **Ask them** - "Ask Egypt and her army"
+  * **Go down** - It is implied that they go down to Sheol. AT: "Go down to Sheol." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **They** - "Egypt and her army"
+  * **will fall** - "will die" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **who were killed by the sword** - AT: "whom enemies killed with swords" or "who died in battle" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Egypt is given to the sword** - AT: "Enemies will attack Egypt" 
+  * **her enemies will seize her and her servants** - "Her enemies will drag off Egypt and her servants." 
+  * **her servants** - Possible meanings are 1) Egypt's people or 2) Egypt's army.
+  * **about Egypt and her allies** - AT: "about the Egyptians and those who join them"
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -63,6 +61,6 @@
   * [[:en:bible:questions:comprehension:ezk:32]]
 **[[:en:bible:notes:ezk:32:17|<<]] | [[:en:bible:notes:ezk:32:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

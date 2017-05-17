@@ -28,7 +28,7 @@
 \q1
 \v 3 You listen to me when I pray to you each morning,
 \q2 and I wait for you to reply.
-
+\b
 
 
 \q1
@@ -38,8 +38,9 @@
 
 <usfm>
 \c 5
-\m
+\p
 \d For the chief musician; with wind instruments. A psalm of David.
+\b
 \q
 \v 1 Listen to my call to you, Yahweh;
 \q think about my groanings.
@@ -62,7 +63,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **For the chief musician** - "This is for the director of music to use in worship"
   * **with wind instruments** - "This song should be accompanied by people who play wind instruments."
@@ -79,6 +80,6 @@
   * [[:en:bible:questions:comprehension:psa:005]]
 **[[:en:bible:notes:psa:004:006|<<]] | [[:en:bible:notes:psa:005:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

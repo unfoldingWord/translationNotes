@@ -14,7 +14,7 @@
 
 <usfm>
 \v 6 But when they came to the place where Nacon threshed grain, the oxen stumbled. So Uzzah put his hand on the sacred chest to steady it.
-\v 7 Yahweh immediately became very angry with Uzzah, and killed him right there alongside the sacred chest, because he had touched the chest.
+\v 7 Yahweh immediately became very angry with Uzzah, and killed him right there alongside the sacred chest, because he had touched the chest. Yahweh had commanded that only the descendants of Levi who help the priests should touch the sacred chest.
 
 
 \p
@@ -42,8 +42,7 @@
 ===== translationNotes: =====
 
   * **Nacon** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **anger of Yahweh burned** - Here the "anger of Yahweh" is spoken of as if it were fire. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **for his sin** - It was a sin for Uzzah to touch the ark because Yahweh had commanded that no one should touch the ark. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **anger of Yahweh burned** - Here the "anger of Yahweh" is spoken of as it were fire. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -52,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2sa:06]]
 **[[:en:bible:notes:2sa:06:03|<<]] | [[:en:bible:notes:2sa:06:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

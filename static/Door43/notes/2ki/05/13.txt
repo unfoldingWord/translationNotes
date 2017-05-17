@@ -34,14 +34,8 @@
 ===== translationNotes: =====
 
   * **My father** - The servants were showing respect to Naaman by addressing him as "my father" or "sir."
-  * **would you not have done it?** - The servant uses this question to carefully rebuke Naaman. AT: "you surely would have done it!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **How much rather then** - The servant is comparing how much more willing Naaman should be to obey a simple command since he is willing to obey a difficult one. AT: "How much more willing you should be to obey" or "Should you not be even more willing to obey" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **How much rather then, when he says to you to simply, 'Dip yourself and be clean?** - The servant uses this rhetorical question to emphasize to Naaman that he should obey Elisha's command. This question can be written as statement. AT: "You should be even more willing to obey when he says to you simply, 'Dip yourself and be clean.'" [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the man of God** - "Elisha, the man of God" 
-  * **His flesh was restored again like the flesh of a little child** - This speaks how smooth Namaan's skin is after he is healed by comparing it to the skin of a young child. AT: "His flesh was restored again and was as soft as the flesh of a young child" or "His skin was well again and was smooth like a young child's skin" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **His flesh** - "His skin" 
-  * **he was healed** - This can be stated in active form. AT: "his leprosy was gone" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **would you not have done it?** - AT: "you surely would have done it" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **How much rather then, when he says to you to simply** - AT: "You should be even more willing to obey then, when he tells you to do such an easy thing like"
  
 ===== Links: =====
   * [[:en:bible:notes:2ki:00:intro]]
@@ -49,6 +43,6 @@
   * [[:en:bible:questions:comprehension:2ki:05]]
 **[[:en:bible:notes:2ki:05:11|<<]] | [[:en:bible:notes:2ki:05:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

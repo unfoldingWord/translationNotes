@@ -29,6 +29,7 @@
 \q2 and a leopard certainly cannot change its spots.
 \q1 Similarly, you cannot start doing what is good,
 \q2 because you have always done what is evil.
+\b
 \q1
 \v 24 Yahweh says, "I will scatter you like chaff
 \q2 that is blown away by the wind from the desert.
@@ -64,10 +65,11 @@
 
   * **General Information:** - Yahweh continues to talk to Jeremiah. He is telling Jeremiah what to say to the king of Judah and the king's mother. 
 
-  * **that your skirts are raised up and you have been violated** -  This means that the enemy soldiers will rape the Judean women. This can be stated in active form. AT: "that they enemy soldiers will lift up the skirts of your women and rape them"(See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Can the people of Cush change their skin color, or a leopard change its spots?** - This rhetorical question is used to state an example of something that is impossible. This question can be written as a statement. Also, the missing words can be added to the second phrase. AT: "The people of Cush cannot change their skin color and a leopard cannot change its spots." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **If so, then you yourself, although accustomed to wickedness, would be able to do good** - This statement is ironic because the examples about the Cushite and the leopard are impossible situations. This states that if those impossible things could happen then they could do good. AT: "Just like these things are impossible, so it is also impossible for you who always do evil to do good" (See: [[:en:ta:vol1:translate:figs_irony]])
-  * **I will scatter them like chaff that perishes in the desert wind** - "I will scatter them like chaff that is blown away by them wind." Yahweh is saying He will scatter His people throughout the world just as chaff is scattered by the wind. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **skirts are raised up** - AT: "soldiers of the invading armies will raise up the skirts of your women". The Judean women's clothes will be torn off so the Babylonian soldiers can seize them and sleep with them. (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Can the people of Cush change their skin color** - AT: "The people of Cush cannot change their skin color" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **a leopard change its spots** - AT: "A leopard cannot change its spots" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **If so, then you yourself, although accustomed to wickedness, would be able to do good.** - AT: "You cannot do good because of your wickedness." (See: [[:en:ta:vol1:translate:figs_irony]])
+  * **scatter them like chaff that perishes in the desert wind** - Yahweh is saying He will scatter His people throughout the world. (See: [[:en:ta:vol1:translate:figs_simile]])
  
 ===== Links: =====
 
@@ -76,6 +78,6 @@
   * [[:en:bible:questions:comprehension:jer:13]]
 **[[:en:bible:notes:jer:13:20|<<]] | [[:en:bible:notes:jer:13:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check cush}}
+~~DISCUSSION~~{{tag>publish p2edit cush}}
 
 ~~NOCACHE~~

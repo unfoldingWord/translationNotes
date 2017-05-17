@@ -16,9 +16,8 @@
 <usfm>
 \v 14 So Hilkiah, Ahikam, Achbor, Shaphan, and Asaiah went to consult a woman whose name was Huldah, who was a prophetess who lived in the newer part of Jerusalem. Her husband Shallum son of Tikvah and grandson of Harhas, took care of the robes that were worn in the temple. Those five men told her about the scroll.
 \p
-\v 15 She then told them what Yahweh the God whom the Israelites worship says, 
-"Yahweh has a message for the king who sent you to me, and this is what Yahweh says:
-\v 16 'Listen to this carefully. I am going to bring a disaster on Jerusalem and all the people who live here, which is what was written in the scroll that the king has read.
+\v 15 She then told them what Yahweh the God whom the Israelites worship says. Yahweh told Huldah to go back and tell the king who sent her
+\v 16 that this is what Yahweh says: "Listen to this carefully. I am going to bring a disaster on Jerusalem and all the people who live here, which is what was written in the scroll that the king has read.
 </usfm>
 
 
@@ -28,7 +27,7 @@
 \p
 \v 14 So Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophetess, the wife of Shallum son of Tikvah son of Harhas, keeper of the wardrobe (she lived in Jerusalem in the second quarter), and they spoke with her.
 \v 15 She said to them, "This is what Yahweh, the God of Israel, says: 'Tell the man who sent you to me,
-\v 16 "This is what Yahweh says: 'See, I will bring disaster to this place and to its inhabitants, according to everything written in the book that the king of Judah has read.
+\v 16 "This is what Yahweh says: 'See, I am about to bring disaster to this place and to its inhabitants, all the words of the book that the king of Judah has read.
 </usfm>
 
 
@@ -43,13 +42,9 @@
 ===== translationNotes: =====
 
 
-  * **Huldah** - This is a woman's name. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Shallum ... Tikvah ... Harhas** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **keeper of the wardrobe** - Possible meanings are 1) the person who took care of the clothing that priests wore in the temple or 2) the person who took care of the king's clothing.
-  * **she lived in Jerusalem in the second quarter** - Here "second quarter" refers to the new part of the city that was built on the north side of Jerusalem. Also, "second" is the ordinal form of 2. AT: "she lived in Jerusalem in the new part of the city" or "she lived in the new part of Jerusalem" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **the man who sent you to me** - Here "the man" refers to King Josiah.
-  * **I will bring disaster to this place and to its inhabitants** - Yahweh causing terrible things to happen is spoken of as if disaster were an object that he could bring to a place. AT: "I will cause terrible things to happen to this place and to those who live there" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **to this place** - This refers to the city of Jerusalem which represents the whole land of Judah. AT: "to Jerusalem" or "to Judah" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Huldah** - a woman's name (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Shallum ... Tikvah ... Harhas** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the man who sent you to me** - King Josiah (See: [[:en:ta:vol2:translate:figs_euphemism]])
  
 ===== Links: =====
 
@@ -64,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

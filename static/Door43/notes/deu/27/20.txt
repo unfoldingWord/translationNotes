@@ -33,9 +33,9 @@
 
 <usfm>
 \p
-\v 20 'May the man be cursed who lies with his father's wife, because he has taken away his father's rights.' Then all the people must say, 'Amen.'
+\v 20 'May the man be cursed who lies with his father's wife, because he has taken away his father's rights.' And all the people must say, 'Amen.'
 \p
-\v 21 'May the man be cursed who sleeps with any kind of beast.' Then all the people must say, 'Amen.'
+\v 21 'May the man be cursed who sleeps with any kind of beast.' And all the people must say, 'Amen.'
 </usfm>
 
 
@@ -51,10 +51,10 @@
 
   * **General Information:** - Moses continues telling the Levites and the people what they must say.
 
-  * **May the man be cursed** - This can be stated in active form. See how you translated this in [[:en:bible:notes:deu:27:16|27:16]]. AT: "May Yahweh curse the man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **May the man be cursed** - This can be stated in active form. AT: "May Yahweh curse the man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **who sleeps with any kind of beast** - The full meaning of this statement can be made explicit. AT: "who sleeps with any kind of beast in the way that man sleeps with a woman" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **his father's wife** - This does not refer to the man's mother, but another wife of his father.
   * **he has taken away his father's rights** - When a man marries a woman, only he has the legal right to sleep with her. The full meaning of this statement may be made explicit. AT: "he has taken away his father's legal rights" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **who sleeps with any kind of beast** - The full meaning of this statement can be made explicit. AT: "who sleeps with any kind of beast in the way that man sleeps with a woman" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -69,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

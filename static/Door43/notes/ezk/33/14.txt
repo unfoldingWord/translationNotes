@@ -23,9 +23,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 14 So if I say to the wicked, "You will surely die," but if he then repents from his sins and does what is just and right—
-\v 15 if he restores the loan guarantee that he wickedly demanded, or if he makes restitution for what he has stolen, and if he walks in the statutes that give life and no longer commits sin—then he will surely live. He will not die.
-\v 16 None of the sins that he has committed will be called to mind for him. He has acted justly and rightly, and so, he will surely live!
+\v 14 And if I say to the wicked, "You will surely die," but if he then repents from his sins and does what is just and right—
+\v 15 if he restores the loan guarantee that he wickedly demanded, or if he makes restitution for what he has stolen, and if he walks in the statutes that give life and no longer commits sin—then he will surely live; he will not die.
+\v 16 None of the sins that he has committed will be called to mind for him. He has acted justly and rightly; he will surely live!
 </usfm>
 
 ===== translationWords: =====
@@ -38,13 +38,11 @@
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to the Israelites.
 
-  * **to the wicked** - The nominal adjective "the wicked" can be stated as "the wicked person." AT: "to the wicked person" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
   * **if he restores the loan guarantee** - "if he gives back the loan guarantee"
-  * **loan guarantee** - something a person leaves with another person to show that he will keep his promise to pay back what he has borrowed
+  * **loan guarantee** - something a person leaves with another person to show that he will keep his promise to pay back what he has borrowed.
   * **makes restitution for what he has stolen** - "returns what he has stolen" or "pays back the value of what he stole"
-  * **walks in the statutes that give life** - Acting or behaving in a certain way is spoken of as if it were walking. AT: "lives according to the laws that give life" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **will be called to mind for him** - The phrase "call to mind" is an idiom that means to remember. The phrase "will be called" can be stated in active form. AT: "will I think about" or "will I recall" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **walks in the statutes that give life** - AT: "lives according to the laws that give life"
+  * **None of the sins that he has committed will be called to mind for him** - AT: "I will not hold any of his sins against him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -52,6 +50,6 @@
   * [[:en:bible:questions:comprehension:ezk:33]]
 **[[:en:bible:notes:ezk:33:12|<<]] | [[:en:bible:notes:ezk:33:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check statute}}
+~~DISCUSSION~~{{tag>publish p2edit statute}}
 
 ~~NOCACHE~~

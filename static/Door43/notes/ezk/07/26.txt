@@ -21,12 +21,12 @@
 
 <usfm>
 \q
-\v 26 Disaster upon disaster will come, and there will be rumor after rumor.
+\v 26 Disaster upon disaster will come, and there will be rumor after rumor. 
 \q Then they will seek a vision from the prophet, but the law will perish from the priest and advice from the elders.
 \q
-\v 27 The king will mourn and the prince will dress in despair,
-\q while the hands of the people of the land will tremble in fear. According to their own ways I will do this to them!
-\q I will judge them with their own standards until they know that I am Yahweh.'"
+\v 27 The king will mourn and the prince will dress in despair, 
+\q while the hands of the people of the land will tremble in fear. According to their own ways I will do this to them! 
+\q And I will judge them with their own standards until they know that I am Yahweh.'"
 </usfm>
 
 
@@ -46,12 +46,12 @@
 
   * **General Information:** - These are Yahweh's words about Israel.
 
-  * **Disaster upon disaster will come** - Disaster is spoken of as if it could move by itself. AT: "One disaster after another will happen" (See: [[:en:ta:vol2:translate:figs_personification]]) 
   * **they will seek a vision from the prophet** - "they will ask the prophets what visions they have seen." 
-  * **the law will perish from the priest and advice from the elders** - "The priests will not teach the law, and the elders will not be able to give good advice." This is because God will not give them wisdom.
+  * **the law will perish from the priest and advice from the elders** - "The priests will not teach the law and the elders will not be able to give good advice." This is because God will not give them wisdom.
   * **the prince** - Possible meanings are 1) "the king's son" (UDB) or 2) every male member of the royal family except the king.
-  * **will dress in despair** - Possible meanings are 1) clothing is a metonym for what a person feels, "will have no hope," or 2) "will dress in clothes that show he is mourning." (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **hands of the people of the land will tremble in fear** - The word "hands" is a synecdoche for the people. AT: "the people of the land will be so afraid that their hands will tremble" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **will dress in despair** - Possible meanings are 1) "will have no hope" or 2) "will dress in clothes that show he is mourning." (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **hands of the people of the land will tremble in fear** - "the people of the land will be so afraid that their hands will tremble" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **know that I am Yahweh** - Possible meanings are 1) "understand who I, Yahweh, am" or 2) "understand that I am Yahweh, the one true God" or 3) "know that I, Yahweh, have the power to do what I say that I will do." (UDB)
  
 ===== Links: =====
 
@@ -66,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check promisedland}}
+{{tag>publish p2edit promisedland}}
 
 ~~NOCACHE~~

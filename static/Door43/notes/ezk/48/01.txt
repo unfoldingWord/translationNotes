@@ -35,8 +35,8 @@
 \c 48
 \p
 \v 1 These are the names of the tribes. The tribe of Dan will receive one portion of land; its boundary will run along the northern boundary of Israel by way of Hethlon and Lebo Hamath. Its boundary will go on to Hazar Enan and along the border with Damascus to the north and then on to Hamath. Dan's boundary will go from east all the way to the Great Sea.
-\v 2 Adjoining the border of Dan, from the east side to the west, Asher will have one portion. 
-\v 3 Adjoining the border of Asher from the east side to the west, Naphtali will have one portion.
+\v 2 To the south of Dan's border will be the land of Asher—one portion of land, going from the east to the west.
+\v 3 South of the border with Asher will be the one portion of Naphtali, extending from the east side to the west side.
 </usfm>
 
 
@@ -54,8 +54,7 @@
 ===== translationNotes: =====
 
   * **one portion of land** - "one piece of the land that you will distribute"
-  * **boundary will run ... boundary will go** - "boundary will be ... boundary will be"
-  * **Hethlon ... Lebo Hamath ... Hazar Enan** - names of towns. Translate as in [[:en:bible:notes:ezk:47:15|47:15-17]].
+  * **Hethlon ... Lebo Hamath ... Hazar Enan** - See how you translated these in [[:en:bible:notes:ezk:47:15|47:15-17]].
 
 ===== Links: =====
 
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:ezk:48]]
 **[[:en:bible:notes:ezk:47:21|<<]] | [[:en:bible:notes:ezk:48:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check asher naphtali}}
+~~DISCUSSION~~{{tag>publish p2edit asher naphtali}}
 
 ~~NOCACHE~~

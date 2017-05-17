@@ -40,11 +40,8 @@
 ===== translationNotes: =====
 
   * **Then Daniel was brought before the king** - This can be stated in active form. AT: "Then they brought Daniel before the king" or "Then the soldiers brought Daniel before the king" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **whom my father the king brought out of Judah** - In this phrase "father" is being used to represent all of the soldiers. AT: "whom my father's soldiers brought out of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the spirit of the gods** - Belshazzar believed that Daniel's power came from the false gods that Belshazzar worshiped. See how you translated a similar phrase in [[:en:bible:notes:dan:04:07|4:8]].
-  * **light and understanding and excellent wisdom are found in you** - This can be stated in active form. AT: "you have light and understanding and excellent wisdom" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
-
+  * **whom my father the king brought out of Judah** - In this phrase "father" is being used to represent all of the soldiers. AT: "whom my father's soldiers brought out of Judah" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -52,6 +49,6 @@
   * [[:en:bible:questions:comprehension:dan:05]]
 **[[:en:bible:notes:dan:05:11|<<]] | [[:en:bible:notes:dan:05:15|>>]]**
 
-~~DISCUSSION~~ {{tag>publish p2pass}}
+~~DISCUSSION~~ {{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -41,16 +41,10 @@
  
 ===== translationNotes: =====
 
-  * **Now** - This word marks a new part of the story.
-  * **all the chosen men of Israel** - This metonym represents the army of the nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **thirty thousand** - "30,000" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **from Baalah in Judah to bring up from there the ark of God** - It is implied that they are taking the ark to Jerusalem. AT: "from Baalah in Judah to take to Jerusalem the ark of God" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **to bring up from there the ark of God** - Jerusalem was higher than almost any other place in Israel, so it was normal for Israelites to speak of going up to Jerusalem and going down from it.
-  * **to bring up** - The word "bring" can be translated as "take." (See: [[:en:ta:vol2:translate:figs_go]])
+  * **all the chosen men of Israel** - This metonym refers to the army of the nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Baalah** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **which is called by the name of Yahweh of hosts** - Yahweh's name was written on the ark.
-  * **who sits enthroned over the cherubim** - "who sits in his place of authority between the cherubim"
   * **enthroned** - to sit on a throne or a place of authority
+  * **who sits enthroned over the cherubim** - "who sits in his place of authority between the cherubim"
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -58,6 +52,6 @@
   * [[:en:bible:questions:comprehension:2sa:06]]
 **[[:en:bible:notes:2sa:05:24|<<]] | [[:en:bible:notes:2sa:06:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

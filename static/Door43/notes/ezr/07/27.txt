@@ -21,8 +21,8 @@
 
 <usfm>
 \p
-\v 27 Praise Yahweh, our ancestors' God, who placed all this into the king's heart to glorify Yahweh's house in Jerusalem,
-\v 28 and who extended covenant faithfulness to me before the king, his counselors, and all his powerful officials. I have been strengthened by the hand of Yahweh my God, and I gathered leaders from Israel to go with me.
+\v 27 Ezra said, "Praise Yahweh, our ancestors' God, who placed all this into the king's heart to glorify Yahweh's house in Jerusalem,
+\v 28 and who extended covenant faithfulness to me before the king, his counselors, and all his powerful officials. I have been strengthened by the hand of Yahweh my God, and I gathered leaders from Israel to go with me."
 </usfm>
 
 
@@ -39,12 +39,10 @@
   * [[:en:obe:other:israel]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Ezra praises God because of what King Artaxerxes decreed. 
+  * **General Information:** - Ezra prays a prayer of thanksgiving to God.
 
-  * **placed all this into the king's heart to glorify Yahweh's house in Jerusalem** - Placing things in the king's heart represents causing him to have certain thoughts and desires. AT: "caused the king to want to glorify Yahweh's house in Jerusalem" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Yahweh's house** - This refers to Yahweh's temple" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I have been strengthened** - Being strengthened represents being encouraged. AT: I am encouraged" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **by the hand of Yahweh my God** - Here Yahweh's hand represents what he did to help Ezra. AT: "because Yahweh has helped me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **placed all this into the king's heart** - God directed the King's desires and thoughts to honor God and God's temple in Jerusalem.
+  * **strengthened by the hand of Yahweh my God** - Ezra has received courage and confidence to continue knowing that Yahweh, His God is equipping him. The "hand of Yahweh" is an expression for receiving God's blessings. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -58,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

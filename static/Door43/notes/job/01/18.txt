@@ -22,7 +22,7 @@
 
 <usfm>
 \v 18 While he was yet speaking, another also came and said, "Your sons and your daughters were eating and drinking wine in their oldest brother's house.
-\v 19 A strong wind came from the wilderness and struck the four corners of the house. It fell on the young people, and they died. I alone have escaped to tell you."
+\v 19 A great wind came from the wilderness and struck the four corners of the house, and it fell upon the young men, and they are dead, and I only have escaped to tell you."
 </usfm>
 
 ===== translationWords: =====
@@ -35,11 +35,13 @@
 
 ===== translationNotes: =====
 
-  * **Your sons and your daughters were eating and drinking wine in their oldest brother's house** - Translate this as you did in [[:en:bible:notes:job:01:13|01:13]].
-  * **A strong wind** - "A tornado" or "A desert storm"
+
+  * **Your sons and your daughters were eating and drinking wine in their oldest brother's house** - See how you translated this in [[:en:bible:notes:job:01:13|01:13]].
+  * **A great wind** - "a tornado" or "a desert sandstorm"
   * **the four corners of the house** - "the structural supports of the house"
-  * **It fell on the young people** - "The house fell on your sons and daughters"
-  * **I alone have escaped to tell you** - Translate this as you did in [[:en:bible:notes:job:01:13|01:15]]. 
+  * **and it fell upon the young men** - AT: "The house fell on the men and women" or "The house fell on your sons and daughters"
+  * **I only have escaped to tell you** - See how you translated this in [[:en:bible:notes:job:01:13|01:15]]. 
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -47,6 +49,6 @@
   * [[:en:bible:questions:comprehension:job:01]]
 **[[:en:bible:notes:job:01:16|<<]] | [[:en:bible:notes:job:01:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,6 +20,7 @@
 \q1 it burned all the grapes.
 \q2 Now not even one strong branch remains;
 \q1 they will never become scepters for a king.'
+\b
 \m This funeral song must be sung very sadly."
 </usfm>
 
@@ -39,11 +40,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to tell a story in which the nation of Israel is a vine. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **General Information:** - Yahweh continues to compare Israel with a vine and her leaders with the strong branches of the vine.
 
-  * **no scepter to rule** - The implicit information may be supplied from [[:en:bible:notes:ezk:19:10|19:11]]. AT: "no branch strong enough for a ruler's scepter" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **will be sung as a lamentation** - This can be stated in active form. AT: "you must sing it as a lamentation" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **to rule** - "that a king could use to rule"
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -51,6 +50,6 @@
   * [[:en:bible:questions:comprehension:ezk:19]]
 **[[:en:bible:notes:ezk:19:12|<<]] | [[:en:bible:notes:ezk:20:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

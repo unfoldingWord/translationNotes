@@ -17,10 +17,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 17 Wisdom is known by how kind she is,
-\q2 and she always directs you to the place where you will find peace.
+\v 17 Wisdom is known by how kind she is, 
+\q2 and she always directs you to the place where you will find peace. 
 \q1
-\v 18 Wisdom is like a tree whose fruit gives life to those who hold on to it,
+\v 18 Wisdom is like a tree whose fruit gives life to those who hold on to it, 
 \q2 and Yahweh gives happiness to those who hold on to it.
 
 
@@ -44,14 +44,14 @@
 
   * [[:en:obe:other:peace]]
   * [[:en:obe:kt:life]]
+ 
 
 ===== translationNotes: =====
 
-  * **Her ways are ways of kindness and all her paths are peace** - The writer speaks of wisdom as if it were a woman and of the benefits that wisdom gives a person as if wisdom were leading that person along a path. AT: "Wisdom will always treat you kindly and give you peace" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **She is a tree of life to those who take hold of it** - The writer speaks of wisdom as if it were a tree that bears life-giving fruit and of a person who benefits from wisdom as if that person ate of the fruit. AT: "Wisdom is like a tree that sustains the life of those who eat of its fruit" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a tree of life** - "a tree that gives life" or "a tree whose fruit sustains life"
-  * **those who hold on to it** - "those who hold on to its fruit"
+  * **General Information:** - The writer continues to picture wisdom as a woman.
 
+  * **She is a tree of life to those who take hold of it** - "Wisdom gives life to those who have it" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **tree of life** - "tree that gives life" as trees give fruit
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -65,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

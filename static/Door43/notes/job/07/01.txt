@@ -34,9 +34,9 @@
 
 <usfm>
 \c 7
-\m
+\p
 \q
-\v 1 Does not man have hard labor on earth?
+\v 1 Is there not hard labor for every person on earth?
 \q Are not his days like the days of a hired man?
 \q
 \v 2 Like a slave earnestly desires the shadows of evening,
@@ -58,15 +58,13 @@
 
   * **General Information:** - The writer continues to use parallelism in each of these verses, conveying a single idea using two different statements to emphasize that his personal suffering is part of the universal suffering which all people experience. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **Does not man have hard labor on earth?** - Job poses this negative question to emphasize his awareness that all people experience hard work. It can be translated as a positive statement. AT: "There is hard labor for every person on earth." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **on earth** - This is a generalization that means for the time people are living on the earth. AT: "while on the earth" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **Are not his days like the days of a hired man?** - Job poses this negative question to emphasize his awareness that all people struggle in life. AT: "And their days are like the days of a hired man." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **Like a slave ... like a hired man ... so I have been ... given trouble-filled nights** - Job compares his misery and trouble to that of the slave and hired man. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **the shadows of evening** - "cool shade." The implied information is that the shadows of evening provide coolness and shade from the sun (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **a hired man** - "a day laborer." This is a man who worked jobs one day at a time and was paid at the end of every day.
-  * **looks for his wages** - "waits for his pay" 
-  * **so I have been made to endure months of misery; I have been given trouble-filled nights** - This can be translated in active form. AT: "so I endure months of misery; I get trouble-filled nights" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **months of misery** - The abstract noun "misery" can be translated as the adjective "miserable." AT: "miserable months" or "empty months"
+  * **Is there not hard labor for every person on earth?** - Job poses this question to emphasize his awareness that all people experience suffering. AT: "Does not everyone have hard labor on earth?" or "Everyone has hard labor on earth" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Are not his days like the days of a hired man?** - Job poses this question to emphasize his awareness that all people struggle in life. AT: "And his days are like the days of a hired man." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Like a slave ... like a hired man** - Job compares himself (verse 3) to those who work hard have no relief (verse 2). (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **the shadows of evening** - "shade"
+  * **a hired man** - This is a man who worked jobs one day at a time and was paid at the end of every day. "a day laborer" 
+  * **so I have been made to endure months of misery; I have been given trouble-filled nights** - "so I endure months of misery and trouble-filled nights"
+  * **months of misery** - "disastrous months" or "months of emptiness"
 
 
 ===== Links: =====
@@ -76,6 +74,6 @@
   * [[:en:bible:questions:comprehension:job:07]]
 **[[:en:bible:notes:job:06:28|<<]] | [[:en:bible:notes:job:07:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

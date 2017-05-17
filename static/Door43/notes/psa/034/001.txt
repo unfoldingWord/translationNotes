@@ -25,8 +25,9 @@
 
 <usfm>
 \c 34
-\m
+\p
 \d A psalm of David; when he pretended to be insane before Abimelech, who drove him out.
+\b
 \q
 \v 1 I will praise Yahweh at all times,
 \q his praise will always be in my mouth.
@@ -44,7 +45,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **pretended to be insane** - "acted like a crazy person"
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:psa:034]]
 **[[:en:bible:notes:psa:033:022|<<]] | [[:en:bible:notes:psa:034:002|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

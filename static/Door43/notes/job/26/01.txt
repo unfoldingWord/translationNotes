@@ -31,7 +31,7 @@
 
 \q1
 \v 4 Who helped you to say all those great things?
-\q2 Who inspired you to speak like you did?
+\q2 Who inspired you to speak like you did?"
 
 
 
@@ -54,6 +54,7 @@
 \q
 \v 4 With whose help have you spoken these words?
 \q Whose spirit was it that came out from you?
+\b
 </usfm>
 
 
@@ -73,7 +74,7 @@
   * **the arm that has no strength** - Job uses this phrase to describe himself. AT: "me, who is like an arm that has no strength" or "the one who is so weak" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **How you have advised one who has no wisdom and announced to him sound knowledge!** - Job is saying that Bildad has not provided him with good advice and knowledge. AT: "You act like I have no wisdom and that you have advised me, that you have given me good advice!" (See: [[:en:ta:vol1:translate:figs_irony]]) 
   * **announced to him sound knowledge** - "given him good advice"
-  * **With whose help have you spoken these words? Whose spirit was it ... you?** - In these questions Job continues to mock Bildad. They are both rhetorical questions and have basically the same meaning. They are used together to strengthen each other. AT: "You must have had help speaking these words. Perhaps some spirit helped you speak them!" (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **With whose help have you spoken these words? Whose spirit was it ... you?** - In these questions Job continues to mock Bildad. They are both rhetorical questions and have basically the same meaning. They are used together to strengthen each other. AT: "You must have had help speaking these words, perhaps some spirit helped you speak them!" (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
 
 ===== Links: =====
 
@@ -82,6 +83,6 @@
   * [[:en:bible:questions:comprehension:job:26]]
 **[[:en:bible:notes:job:25:04|<<]] | [[:en:bible:notes:job:26:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -16,10 +16,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 One who is lazy might reach down with his hand to get some food,
-\q2 but he does not have the energy to put the food into his mouth.
+\v 15 One who is lazy might reach down with his hand to get some food, 
+\q2 but he does not have the energy to put the food into his mouth. 
 \q1
-\v 16 The one who is lazy considers himself to be very wise,
+\v 16 The one who is lazy considers himself to be very wise, 
 \q2 more wise than seven men who are known for their insight.
 
 
@@ -33,7 +33,7 @@
 \v 15 The lazy person puts his hand into the dish
 \q and yet he has no strength to lift it up to his mouth.
 \q
-\v 16 The lazy person is wiser in his own eyes
+\v 16 The lazy person is wiser in his own eyes 
 \q than seven men with discernment.
 </usfm>
 
@@ -44,9 +44,8 @@
 
 ===== translationNotes: =====
 
-  * **puts his hand into the dish** - "puts his hand into the dish to get food" or "reaches for food"
-  * **he has no strength to lift it up to his mouth** - This shows how extremely lazy his is. He just leaves his hand near the food and does not eat the food.  (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **The lazy person is wiser in his own eyes than seven men with discernment** - The phrase "his own eyes" represents his thoughts. AT: "The lazy person thinks he is wiser than seven men who can respond sensibly" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The lazy person puts his hand into the dish and yet he has no strength to lift it up to his mouth** - The extreme laziness of the person is shown by his putting his hand into the dish for food and then just leaving it there. The first part of the sentence is equivalent to Proverbs [[:en:bible:notes:pro:19:23|19:24]]. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **The lazy person is wiser in his own eyes than seven men with discernment** - AT: "The lazy person thinks he is wiser than 7 men who can give a reason" 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -54,6 +53,6 @@
   * [[:en:bible:questions:comprehension:pro:26]]
 **[[:en:bible:notes:pro:26:13|<<]] | [[:en:bible:notes:pro:26:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

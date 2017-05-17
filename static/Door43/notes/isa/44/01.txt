@@ -30,11 +30,11 @@
 
 <usfm>
 \c 44
-\m
+\p
 \q1
 \v 1 Now listen, Jacob my servant, and Israel, whom I have chosen:
 \q1
-\v 2 This is what Yahweh says, he who made you and formed you in the womb
+\v 2 This is what Yahweh says, he who made you and formed you in the womb 
 \q1 and who will help you: "Do not fear, Jacob my servant; and
 you, Jeshurun, whom I have chosen.
 </usfm>
@@ -52,9 +52,7 @@ you, Jeshurun, whom I have chosen.
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **Jacob my servant** - This refers to Jacob's descendants. AT: "descendants of Jacob, my servants" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **he who made you and formed you in the womb** - Yahweh speaks of creating the nation of Israel as if it were forming the nation as a baby in its mother's womb. AT: "he who made you, as I form a baby in the womb" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and you, Jeshurun, whom I have chosen** - The verb may be supplied from the previous phrase. AT: "and you, Jeshurun, whom I have chosen, do not fear" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Jacob my servant** - This refers to Jacob's descendants. AT: "descendants of Jacob my servants" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Jeshurun** - This also refers to the people of Israel. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
@@ -64,6 +62,6 @@ you, Jeshurun, whom I have chosen.
   * [[:en:bible:questions:comprehension:isa:44]]
 **[[:en:bible:notes:isa:43:27|<<]] | [[:en:bible:notes:isa:44:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

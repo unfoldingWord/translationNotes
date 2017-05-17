@@ -48,9 +48,8 @@
 
 ===== translationNotes: =====
 
-  * **Surely every man walks about like a shadow** - The lives of people are spoken of as if they are as insignificant as shadows. AT: "Everyone disappears like shadows do" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **although they do not know who will receive them** - Here it is implied that they do not know what will happen to their wealth after they die. The full meaning of this statement can be made explicit. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Now, Lord, for what am I waiting?** - The writer asks this question to emphasize that people cannot help him. This rhetorical question can be translated as a statement. AT: "So now, Yahweh, I can expect to receive nothing from anyone else." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Surely every man walks about like a shadow** - The lives of people are spoken of as if they are as insignificant as shadows. AT: "Everyone disappears like shadows do" (See [[:en:ta:vol1:translate:figs_simile]])
+  * **Now, Lord, for what am I waiting?** - The writer asks this question to emphasize that people cannot help him. AT: "So now, Yahweh, I can expect to receive nothing from anyone else" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -58,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:039]]
 **[[:en:bible:notes:psa:039:004|<<]] | [[:en:bible:notes:psa:039:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

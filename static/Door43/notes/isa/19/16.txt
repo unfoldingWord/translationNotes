@@ -40,9 +40,11 @@
 ===== translationNotes: =====
 
   * **Egyptians will be like women** - This emphasizes that the people of Egypt will be afraid and helpless when God punishes them. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **because of the upraised hand of Yahweh of hosts that he raises over them** - Here "hand" refers to God's power, and raising the hand against them represents punishing them. AT: "because Yahweh of hosts has raised his powerful hand to punish them" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The land of Judah will become a cause of staggering to Egypt** - "land of Judah" and "Egypt" refer to the people in those places. The Egyptians will stagger because they are afraid. AT: "The people of Judah will cause the Egyptians to stagger" or "The people of Judah will cause the Egyptians to be terribly afraid" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Whenever anyone reminds them of her, they will be afraid** - Here, "them" and "they" refer to the Egyptians and "her" refers to the people of Judah. AT: "Whenever anyone reminds the Egyptians of the people of Judah, the Egyptians will be afraid"
+  * **because of the upraised hand of Yahweh of hosts that he raises over them** - Here "hand" refers to God's power. AT: "because Yahweh of hosts has raised his powerful hand to punish them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **land of Judah ... to Egypt** - This refers to the people. AT: "the people of Judah ... to the people of Egypt" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **cause of staggering** - People will stagger because they are afraid. AT: "cause of fear" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **anyone reminds them of her** - "anyone reminds the Egyptians of the people of Judah"
  
 ===== Links: =====
 
@@ -51,6 +53,6 @@
   * [[:en:bible:questions:comprehension:isa:19]]
 **[[:en:bible:notes:isa:19:13|<<]] | [[:en:bible:notes:isa:19:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

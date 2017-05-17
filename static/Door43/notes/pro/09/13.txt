@@ -37,13 +37,13 @@
 
 <usfm>
 \q
-\v 13 The woman of foolishness is ignorant;
-\q she is untaught and knows nothing.
+\v 13 A foolish woman is noisy—
+\q she is untaught and she knows nothing.
 \q
 \v 14 She sits at the door of her house,
 \q on a seat in the highest places of the town.
 \q
-\v 15 She is calling out to those who pass by in the streets,
+\v 15 She is calling out to those who pass by,
 \q to people walking straight on their way.
 </usfm>
 
@@ -55,12 +55,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses begin to describe foolishness, which is also personified as a woman. (See: [[:en:ta:vol2:translate:figs_personification]])
-
-  * **The woman of foolishness** - It is possible to translate "foolishness" as a description. AT: "A foolish woman." However, if a language allows wisdom to be personified, as in the previous part of this chapter, it may also allow foolishness to be personified. AT: "The woman Foolishness" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **she is untaught and knows nothing** - These two expressions basically mean the same thing, which is repeated to show how useless the foolish woman is. AT: "she does not know anything at all" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **she is untaught** - "she has not learned from experience" or "she is young and naive"
-  * **walking straight on their way** - This seems to be an idiom for "thinking only of their own affairs" or "minding their own business." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **she is untaught and she knows nothing** - Both of these expressions basically mean the same thing and are repeated to show how useless the foolish woman is. AT: "she does not know anything at all" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **she is untaught** - AT: "she lacks experience" or "she is young and naive"
+  * **people walking straight on their way** - "people who make their ways straight" AT: "people who walk straight on the way to life" or "people who live a righteous life"
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -68,6 +65,6 @@
   * [[:en:bible:questions:comprehension:pro:09]]
 **[[:en:bible:notes:pro:09:10|<<]] | [[:en:bible:notes:pro:09:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

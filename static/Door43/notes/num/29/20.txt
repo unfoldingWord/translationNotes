@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\p
+\p 
 \v 20 On the third day of the assembly, you must offer eleven bulls, two rams, and fourteen male lambs a year old, each without blemish.
 \v 21 You must make with them a grain offering and the drink offerings for the bulls, for the rams, and for the lambs, making as many offerings as were commanded.
 \v 22 You must offer one male goat as a sin offering in addition to the regular burnt offering, its grain offering, and their drink offerings.
@@ -37,10 +37,10 @@
 
 ===== translationNotes: =====
 
-  * **the third day of the assembly** - "the 3rd day of the festival." Here the word "assembly" refers to the Festival of Weeks. (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the third day of the assembly** - "the 3rd day of the festival." Here the word "assembly" refers to the Festival of Weeks. (See: [[:en:ta:vol2:translate:translate_ordinal]]
   * **eleven bulls, two rams, and fourteen male lambs** - "11 bulls, 2 rams, and 14 male lambs" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **as were commanded** - This can be stated in active form. AT: "as Yahweh commanded" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **its grain offering, and their drink offerings** - The grain offering was to be offered with the burnt offering. The drink offerings were to be offered with both the sin offering and the burnt offering. AT: "along with the grain offering and the drink offerings that accompany them" (See: [[:en:ta:vol2:translate:figs_possession]])
+  * **as were commanded** - This can be stated in active form. "as Yahweh commanded" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **its grain offering, and their drink offerings** - The grain offering was to be offered with the burnt offering and the drink offerings were to be offered with both the sin offering and the burnt offering. AT: "along with the grain offering and the drink offerings that accompany them" (See: [[:en:ta:vol2:translate:figs_possession]])
 
 
 ===== Links: =====
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:num:29]]
 **[[:en:bible:notes:num:29:17|<<]] | [[:en:bible:notes:num:29:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

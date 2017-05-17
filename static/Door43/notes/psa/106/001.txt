@@ -32,7 +32,7 @@
 
 <usfm>
 \c 106
-\m
+\p
 \q
 \v 1 Praise Yahweh.
 \q Give thanks to Yahweh, for he is good,
@@ -56,7 +56,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
 
   * **Who can recount the mighty acts of Yahweh ... deeds?** - The author asks this question to praise God and does not expect an answer. AT: "No one can recount the mighty acts of Yahweh ... deeds." (See: [[:en:ta:vol1:translate:figs_rquestion]])
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:psa:106]]
 **[[:en:bible:notes:psa:105:043|<<]] | [[:en:bible:notes:psa:106:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

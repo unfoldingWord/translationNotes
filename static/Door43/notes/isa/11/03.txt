@@ -36,6 +36,7 @@
 \q2 the good things he does will be like a belt around his waist.
 \q1 He will always speak what is true;
 \q2 the true words he speaks will be like a sash around his waist.
+\b
 
 
 \q1
@@ -45,11 +46,11 @@
 
 <usfm>
 \q1
-\v 3 His delight will be the fear of the Lord;
+\v 3 His delight will be the fear of the Lord; 
 \q1 he will not judge by what his eyes see, nor decide by
 what his ears hear.
 \q1
-\v 4 Instead, he will judge the poor with righteousness and decide fairly for the humble of the earth.
+\v 4 Instead, he will judge the poor with righteousness and decide fairly for the humble of the earth. 
 \q1 He will strike the
 earth with the rod of his mouth, and with the breath of his lips he will slay the wicked.
 \q1
@@ -68,18 +69,10 @@ earth with the rod of his mouth, and with the breath of his lips he will slay th
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Isaiah continues to describe the king.
-
-  * **he will not judge by what his eyes see** - The phrase "what his eyes see" refers to seeing things that are not important for judging a person rightly. AT: "he will not judge a person simply by seeing what the person looks like" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **nor decide by what his ears hear** - "and he will not decide by what his ears hear." The phrase "what his ears hear" refers to hearing what people say about someone. AT: "and he will not judge a person simply by hearing what others say about him" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the poor ... the humble ... the wicked** - These phrases refer to people who have these qualities. AT: "poor people ... humble people ... wicked people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **He will strike the earth with the rod of his mouth ... with the breath of his lips he will slay the wicked** - These two phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **He will strike the earth with the rod of his mouth** - The word "earth" here represents the people on earth. Striking them with the rod of his mouth represents judging them, and that judgement will lead to punishment. AT: "He will judge the people of the earth, and they will be punished"  (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **with the breath of his lips he will slay the wicked** - The "breath of his lips" represents him judging them. AT: "he will judge wicked people, and they will be killed" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the belt of his waist ... the belt around his hips** - Possible meanings are 1) the belt is used to secure one's clothes so he can work, or 2) the belt is an undergarment, or 3) the belt is a sash that a king wears to show his authority. 
-  * **Righteousness will be the belt of his waist** - Wearing righteousness like a belt represents being righteous. Possible meanings are 1) the king's righteousness will enable him to rule. AT: "His righteousness will be a like a belt around his waist" or 2) the king's righteousness would show his authority to rule. AT: "He will rule righteously" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **faithfulness the belt around his hips** - The words "will be" are understood in this phrase. AT: "faithfulness will be the belt around his hips" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **faithfulness the belt around his hips** - Wearing faithfulness like a belt represents being faithful. Possible meanings are 1) the king's faithfulness will enable him to rule, or 2) the king's faithfulness will show his authority to rule. AT: "his faithfulness will be a like a belt around his hips" or "he will rule faithfully"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Connecting Statement:** - Isaiah continues to describe the Messiah.
+ 
+  * **He will strike the earth with the rod of his mouth, and with the breath of his lips he will slay the wicked** - These two phrases mean basically the same thing. AT: "He will speak and judge against the wicked like he is using a weapon to kill his enemies" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **strike the earth with the rod of his mouth** - This person will judge all the people of the earth and execute justice. (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -88,6 +81,6 @@ earth with the rod of his mouth, and with the breath of his lips he will slay th
   * [[:en:bible:questions:comprehension:isa:11]]
 **[[:en:bible:notes:isa:11:01|<<]] | [[:en:bible:notes:isa:11:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass fear p2example}}
+~~DISCUSSION~~{{tag>publish p2edit fear}}
 
 ~~NOCACHE~~

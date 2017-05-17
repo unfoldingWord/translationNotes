@@ -16,10 +16,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 31 Wisdom is like a fruit that those who do right bear,
-\q2 but Yahweh will cut out the deceitful tongue.
+\v 31 Wisdom is like a fruit that those who do right bear, 
+\q2 but Yahweh will cut out the deceitful tongue. 
 \q1
-\v 32 Those who do right know the words Yahweh permits them to speak,
+\v 32 Those who do right know the words Yahweh permits them to speak, 
 \q2 but wicked people say what Yahweh has forbidden.
 </usfm>
 
@@ -28,10 +28,10 @@
 
 <usfm>
 \q
-\v 31 Out of the mouth of the righteous person comes the fruit of wisdom,
+\v 31 Out of the mouth of those doing right comes the fruit of wisdom,
 \q but the perverse tongue will be cut out.
 \q
-\v 32 The lips of the righteous person know what is acceptable,
+\v 32 The lips of those who do right know what is acceptable,
 \q but the mouth of the wicked, they know what is perverse.
 </usfm>
 
@@ -45,11 +45,11 @@
 
 ===== translationNotes: =====
 
-  * **Out of the mouth of the righteous person** - "Mouth" represents what a person says. AT: "From the righteous man's words" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the perverse tongue will be cut out** - "Tongue" represents what a person says. AT: "God will shut the mouths of people who say what is false" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **lips of the righteous know what is acceptable** - "Lips" represent what a person says. AT: "righteous person knows how to speak acceptably" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **mouth of the wicked** - "Mouth" represents what a person says. AT: "the words of the wicked" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
 
+  * **Out of the mouth of those doing right** - "From the righteous man's words" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the perverse tongue will be cut out** - "God will shut the mouths of people who say what is not true" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **lips of those who do right know what is acceptable** - "righteous people know what to say that is acceptable" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **mouth of the wicked** - "the words of the wicked" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:pro:10]]
 **[[:en:bible:notes:pro:10:28|<<]] | [[:en:bible:notes:pro:11:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

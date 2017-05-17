@@ -12,7 +12,7 @@
 
 <usfm>
 \v 10-11 There was a man whose mother's name was Shelomith. She was an Israelite whose father was Dibri from the tribe of Dan. Her son's father was from Egypt. One day this man and another Israelite man started to fight inside the camp. And while they were fighting, that man cursed Yahweh.
-\v 12 So the Israelite people seized him and guarded him until they could find out what Yahweh would reveal to them what they should do to that man.
+\v 12 So the Israelite people seized him and guarded him until they could find out what Yahweh would reveal to them about what they should do to that man.
 
 
 \p
@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 10 Now it happened that the son of an Israelite woman, whose father was an Egyptian, went among the people of Israel. This son of the Israelite woman fought against an Israelite man in the camp.
+\v 10 Now it happened that the son of an Israelite woman, whose father was an Egyptian, went among the people of Israel. This son of the Israelite woman fought against an Israelite man in the camp. 
 \v 11 The son of the Israelite woman blasphemed the name of Yahweh and cursed God, so the people brought him to Moses. His mother's name was Shelomith, the daughter of Dibri, from the tribe of Dan.
 \v 12 They held him in custody until Yahweh himself should declare his will to them.
 </usfm>
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:lev:24]]
 **[[:en:bible:notes:lev:24:07|<<]] | [[:en:bible:notes:lev:24:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

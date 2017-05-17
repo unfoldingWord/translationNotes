@@ -16,7 +16,8 @@
 <usfm>
 \v 6 When you travel near their land, buy food and water from them.'
 \p
-\v 7 Do not forget that Yahweh our God has blessed you in everything that you have done. He knows what has happened to you while you have wandered in this huge desert. But he has been with you during those forty years, and as a result you have had everything that you needed.
+\v 7 Do not forget that Yahweh our God has blessed you in everything that you have done. He knows what has happened to you while you have wandered in this huge desert. But he has been with you during those forty years, and as a result you have had everything that you needed. 
+
 
 \p
 </usfm>
@@ -49,9 +50,9 @@
   * **for money** - If these words are not needed or make the translation unclear, you may omit them.
   * **your God has blessed you ... your hand ... your walking ... your God ... with you, and you have lacked** - Moses speaks to the Israelites as if they were one man, so all instances of "you" and "your" are singular. (See: [[:en:ta:vol1:translate:figs_you]])
   * **you in all the work of your hand** - The "work of your hand" refers to all the work they had done. AT: "all of your work" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **he has known your walking** - This is a synecdoche for "he knows what has happened to you while you have been walking." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **he has known your walking** - This is a synecdoche for "he knows what has happened to you as you have been walking." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **forty years** - "40 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **you have lacked nothing** - This is a litotes for "you have had everything you needed." (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **you have lacked nothing** - This is a litotes for that "you have had everything you needed." (See: [[:en:ta:vol2:translate:figs_litotes]])
  
 ===== Links: =====
 
@@ -66,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

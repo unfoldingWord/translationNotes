@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 25 Moses saw that the people were running wild (for Aaron had let them get out of control, causing their enemies to mock them).
+\v 25 Moses saw that the people were running wild, for Aaron had let them get out of control, to mocking from their enemies.
 \v 26 Then Moses stood at the entrance to the camp and said, "Whoever is on Yahweh's side, come to me." All the Levites gathered around him.
 \v 27 He said to them, "Yahweh, the God of Israel, says this: 'Let each man fasten his sword on his side and go back and forth from entrance to entrance throughout the camp, and kill his brother, his companion, and his
 neighbor.'"
@@ -38,11 +38,10 @@ neighbor.'"
 ===== translationNotes: =====
 
   * **were running wild** - "were behaving wildly" or "were not controlling themselves"
-  * **Then Moses stood at the entrance ... "Whoever is on Yahweh's side, come to me."** - This can be stated as an indirect quote. AT: "Then Moses stood at the entrance to the camp and said that whoever was on Yahweh's side should come to him" (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **to mocking from their enemies** - "and their enemies would mock them"
   * **Whoever is on Yahweh's side** - Moses speaks of being loyal to Yahweh as being on Yahweh's side. AT: "Whoever is loyal to Yahweh"  or "Whoever serves Yahweh" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **go back and forth from entrance to entrance** - "go in and out from one entrance of the camp to the other entrance" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-
-
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:exo:00:intro]]
@@ -50,6 +49,6 @@ neighbor.'"
   * [[:en:bible:questions:comprehension:exo:32]]
 **[[:en:bible:notes:exo:32:21|<<]] | [[:en:bible:notes:exo:32:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~

@@ -28,6 +28,7 @@
 \q1
 \v 8 O my God, I enjoy doing what you desire;
 \q2 I am always thinking about your laws within my inner being.
+\b
 \q1
 \v 9 When all your people were gathered together,
 \q2 I told them about how you do what is right and how you rescue us.
@@ -66,10 +67,10 @@
  
 ===== translationNotes: =====
 
-  * **the scroll of the document** - This refers to a scroll on which was written the word of Yahweh. AT: "the written scroll" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the scroll of the document** - This refers to a scroll on which was written the word of Yahweh. AT: "the written scroll"
   * **your laws are in my heart** - Here "my heart" refers to the inner being of the writer. AT: "I am always thinking about your laws within my inner being" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **I have proclaimed good news of your righteousness in the great assembly** - "I have told a large assembly of people the good news of your righteousness."
-  * **good news of your righteousness** - This refers to the good news that God rescues his people. AT: "good news that because you are righteous, you rescue your people" ([[:en:ta:vol2:translate:figs_ellipsis]])
+  * **good news of your righteousness** - This refers to the good news that God rescues his people. AT: "good news that because you are righteous, you rescue your people"
   * **my lips have not kept back from doing this** - Here "my lips" refers to the writer's speech. AT: "I have not stopped myself from proclaiming these things" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
  
@@ -83,6 +84,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book1}}
+{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

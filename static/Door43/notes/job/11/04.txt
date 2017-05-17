@@ -30,6 +30,7 @@
 \v 6 God knows everything about everything,
 \q2 so I wish that he would tell you the secrets that he knows because he is wise.
 \q1 It would be good if you realized that God is punishing you less than you deserve!
+\b
 
 
 \q1
@@ -49,6 +50,7 @@
 \v 6 that he would show you the secrets of wisdom!
 \q For he is great in understanding.
 \q Know then that God demands from you less than your iniquity deserves.
+\b
 </usfm>
 
 
@@ -64,11 +66,11 @@
 
 ===== translationNotes: =====
 
-  * **My beliefs are pure** - "My understanding is correct"
-  * **I am blameless in your eyes** - The eyes represent sight, which is a metaphor for God's evaluation of Job. Possible meanings are 1) that Job is saying that God judges him as blameless. AT: "You say that I am blameless" or 2) that Job believes he has been blameless and that God should judge him as blameless. AT: "You should recognize that I am blameless" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **that God would speak ... open his lips against you** - The words "open his lips" are a metonym that means speak. These two phrases mean the same thing and are used together to emphasize Zophar's desire that God would speak harshly against Job. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **that he would show ... secrets of wisdom** - What the "secrets of wisdom" are can be stated clearly. AT: "that he would show you that you are suffering because of your sin"  (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **God demands from you less than your iniquity deserves** - Demanding from Job represents punishing Job. AT: "God is punishing you less than you deserve" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **My beliefs are pure** - "My understanding is correct,"
+  * **I am blameless in your eyes** - "God knows I am innocent." (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **that God would speak ... open his lips** - The words "open his lips" mean to speak. (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **that he would show ... secrets of wisdom** - "that he would show you that you are suffering because of your sin." What the "secrets of wisdom" are can be stated clearly. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **God demands ... less than your iniquity deserves** - "God is punishing you less than you deserve."
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -76,6 +78,6 @@
   * [[:en:bible:questions:comprehension:job:11]]
 **[[:en:bible:notes:job:11:01|<<]] | [[:en:bible:notes:job:11:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

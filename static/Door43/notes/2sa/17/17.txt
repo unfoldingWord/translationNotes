@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 Now Jonathan and Ahimaaz were staying at the spring of En Rogel. A female servant used to go and inform them what they needed to know, for they could not risk being seen going into the city. When the message came, then they were to go and tell King David.
+\v 17 Now Jonathan and Ahimaaz were staying at the spring of Rogel; a female servant used to go and relay messages to them. Then they would go and tell King David, so that they would not be seen coming into the city.
 \v 18 But a young man saw them this time and told Absalom. So Jonathan and Ahimaaz went away quickly and came to the house of a man in Bahurim, who had a well in his courtyard, into which they descended.
 </usfm>
 
@@ -34,12 +34,8 @@
 
 ===== translationNotes: =====
 
-  * **Jonathan ... Ahimaaz** - Translate these men's names the same as you did in [[:en:bible:notes:2sa:15:27|15:27]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **When the message came** - Here the "message" is spoken of as coming to them, when really it is the woman who came to then bringing the message. AT: "When she brought them a message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **this time** - "one time" 
-  * **So Jonathan and Ahimaaz went away** - It is implied that they found out that the young man had told Absalom about them being there. This can be stated clearly. AT: "Jonathan and Ahimaaz found out what the young man had done, so they went away" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **spring of En Rogel ... Bahurim** - These are the name of places, both near Jerusalem. Bahurim is a small town. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **they descended** - "they lowered themselves and hid"
+  * **Jonathan ... Ahimaaz ... Absalom** - These are the names of men. See how you translated Jonathan and Ahimaaz in [[:en:bible:notes:2sa:15:27|15:27]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **spring of Rogel ... Bahurim** - These are the name of places, both near Jerusalem. Bahurim is a small town. (See: [[:en:ta:vol1:translate:translate_names]])
 
  
 ===== Links: =====
@@ -55,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass well}}
+{{tag>publish p2edit well}}
 
 ~~NOCACHE~~

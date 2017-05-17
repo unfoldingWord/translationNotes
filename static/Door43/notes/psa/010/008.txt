@@ -20,19 +20,21 @@
 
 <usfm>
 \v 8 He makes plans to attack the people living in the villages, people who have done nothing wrong.
-\q2 He waits in places where he can hide
-\q2 while he keeps looking for more people he can attack,
+\q2 He waits in places where he can hide 
+\q2 while he keeps looking for more people he can attack, 
 \q2 people who cannot defend themselves.
 \q1
-\v 9 He waits for his victims like a lion who crouches down,
+\v 9 He waits for his victims like a lion who crouches down, 
 \q2 and just like the lion, he hides in the bushes.
-\q2 He is like the hunter who spreads out the net
+\q2 He is like the hunter who spreads out the net 
 \q2 so he can catch helpless people and drag them away.
+\b
 \q1
-\v 10 The helpless people are crushed by the wicked person's plans
-\q2 and all the things he does.
-\q2 He is powerful, and when he opposes the helpless people,
-\q2 he always takes away from them whatever he wants.
+\v 10 The helpless people are crushed by the wicked person's plans 
+\q2 and all the things he does. 
+\q2 He is powerful, and when he opposes the helpless people, 
+\q2 he always takes away from them whatever he wants. 
+
 
 \q1
 </usfm>
@@ -75,6 +77,6 @@
   * [[:en:bible:questions:comprehension:psa:010]]
 **[[:en:bible:notes:psa:010:006|<<]] | [[:en:bible:notes:psa:010:011|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

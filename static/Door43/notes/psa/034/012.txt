@@ -28,7 +28,7 @@
 \q1
 \v 14 Refuse to do evil; instead, do what is good!
 \q2 Always try hard to enable people to live peacefully with each other!
-
+\b
 
 
 \q1
@@ -40,7 +40,7 @@
 <usfm>
 \q
 \v 12 What man is there who desires life
-\q and loves many days,
+\q and loves many days, 
 \q that he may see good?
 \q
 \v 13 Then keep your tongue from evil
@@ -61,8 +61,8 @@
  
 ===== translationNotes: =====
 
-  * **What man is there who desires life and loves many days, that he may see good?** - The implicit answer to this question is "every man." This rhetorical question can be translated as a statement. AT: "Every man desires life and desires to live many days and have a good life" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **keep your tongue from evil ... keep your lips from speaking lies** - These two phrases refer to the same thing and it is said in different ways to emphasize its importance. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **What man is there who desires life and loves many days, that he may see good?** - The implicit answer to this question is "every man." AT: "Every man desires life and desires to live many days and have a good life" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **keep your tongue from evil ... keep your lips from speaking lies** - These two phrases refer to the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **Then keep your tongue from evil** - Here "tongue" refers to the whole person. AT: "Therefore, do not speak evil" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **keep your lips from speaking lies** - Here "lips" refers to the person speaking. AT: "do not speak lies" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **Turn away from evil** - Here "Turn away" is a metaphor for avoiding evil. AT: "Refuse to do evil" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -76,6 +76,6 @@
   * [[:en:bible:questions:comprehension:psa:034]]
 **[[:en:bible:notes:psa:034:010|<<]] | [[:en:bible:notes:psa:034:015|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

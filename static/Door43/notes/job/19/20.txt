@@ -23,12 +23,14 @@
 <usfm>
 \v 20 My body is only skin and bones;
 \q2 I am barely alive.
+\b
 \q1
 \v 21 I plead with you, my three friends, pity me
 \q2 because God has struck me very hard.
 \q1
 \v 22 Why do you cause me to suffer, also? Do you think you are God?
 \q2 Why do you never get enough of accusing me of doing wrong?
+\b
 
 
 \q1
@@ -47,6 +49,7 @@
 \q
 \v 22 Why do you persecute me as if you were God?
 \q Why are you not satisfied with consuming my flesh?
+\b
 </usfm>
 
 
@@ -61,13 +64,13 @@
 
   * **General Information:** - Job continues to speak to his three friends.
 
-  * **My bones cling to my skin and to my flesh** - Job speaks of his bones, skin, and flesh to describe his appearance. He was extremely thin, and people could easily see the shape of his bones. Some languages have idioms for this. AT: "I am just skin and bones" or "My skin stick to my bones" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I survive only by the skin of my teeth** - This idiom means that he is barely surviving, that he almost does not survive. AT: "I am barely alive"  or "I hardly survive" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **My bones cling to my skin and to my flesh** - Job is so thin that his skin and flesh barely cover his bones.
+  * **I survive only by the skin of my teeth** - AT: "I am barely alive." (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Have pity upon me** - "Have compassion on me"
-  * **for the hand of God has touched me** - Here "touched me" is a metonym for "hit me." This is a metaphor for doing things that cause Job to suffer. AT: "because God has afflicted me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Why do you persecute me ... God?** - Job uses this question to complain about how his friends are treating him.  AT: "Do not persecute me ... God!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why are you not satisfied with consuming my flesh?** - Job uses this question to complain about how his friends are treating him. AT: "You have consumed my flesh enough!" or "Stop consuming my flesh!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why are you not satisfied with consuming my flesh?** - Job speaks of his friends speaking so cruelly to him as if they were wild beasts eating up another animal. AT: "Stop violently slandering me." or "Stop attacking me with your words." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for the hand of God has touched me** - "Hand" represents the power and authority of God. AT: "because God has afflicted me." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Why do you persecute me ... God?** - AT: "You should not persecute me ... God!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Why are you not satisfied with consuming my flesh?** - Job uses this image to compare a person who slanders another person with an animal that eats another animal. AT: "Stop violently slandering me." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -75,6 +78,6 @@
   * [[:en:bible:questions:comprehension:job:19]]
 **[[:en:bible:notes:job:19:17|<<]] | [[:en:bible:notes:job:19:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -54,8 +54,8 @@
 ===== translationNotes: =====
 
   * **Hephzibah** - The mother of King Manasseh (See: [[:en:ta:vol1:translate:translate_names]])
-  * **what was evil in the sight of Yahweh** - The nominal adjective "evil" can be translated as a relative clause "things that ... evil." Here Yahweh's "sight" refers to how he judges or decides on the value of something. Translate this as you did in [[:en:bible:notes:2ki:03:01|3:2]]. AT: "things that Yahweh said were evil" or "the things that Yahweh considers evil" (See: [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **like the disgusting things** - Another possible meaning is "including the disgusting things."
+  * **evil in the sight of Yahweh** - See how you translated this in [[:en:bible:notes:2ki:03:01|3:2]]
+  * **like the disgusting things** - "including the disgusting things"
   * **he rebuilt** - "Manasseh rebuilt" 
  
 
@@ -72,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass asherim}}
+{{tag>publish p2edit asherim}}
 
 ~~NOCACHE~~

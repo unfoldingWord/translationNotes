@@ -32,12 +32,9 @@
   * [[:en:obe:kt:face]]
 
 ===== translationNotes: =====
- 
-  * **to David** - Some versions add "when he was at Hebron" and others omit it. You may want to add the phrase if it is present in your national version. (See: [[:en:ta:vol2:translate:translate_textvariants]]) 
-  * **Whose land is this?** - The original text of this question is not clear. Possible meanings are 1) Abner had the power to give the land to David. AT: "This land is mine!" or 2) David is chosen by God to rule the land: AT: "This land rightfully belongs to you!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **my hand is with you** - Here "hand" represents Abner's assistance that he is offering to David. AT: "I will assist you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **you cannot see my face unless you first bring Michal** - David is stating the condition under which he will meet Abner. Here "face" refers to David himself. AT: "you cannot see me unless you bring Michal to me first" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Michal** - This is the name of a daughter of Saul. She was David's first wife. (See: [[:en:ta:vol1:translate:translate_names]])
+
+  * **my hand is with you** - The word "hand" here represents Abner, who is offering his assistance. AT: "you have my assistance" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Michal** - This is a female name. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -46,6 +43,6 @@
 
 **[[:en:bible:notes:2sa:03:09|<<]] | [[:en:bible:notes:2sa:03:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

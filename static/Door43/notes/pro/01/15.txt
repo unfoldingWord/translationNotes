@@ -25,7 +25,7 @@
 \v 16 They run to the places where they do terrible things,
 \q2 They hurry so they can commit murder.
 \q1
-\v 17 It is useless to put out a net to trap a bird
+\v 17 It is useless to put out a net to trap a bird 
 \q while the bird is watching you.
 
 
@@ -58,11 +58,9 @@
 
 ===== translationNotes: =====
 
-  * **do not walk down that road with them; do not let your foot touch where they walk** - To avoid behaving the same way as the sinners do is spoken of as if the son were to avoid walking on or even touching the roads that sinners walk on. AT: "do not go with the sinners or do what they do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **their feet run to evil** - The sinners having an eager interest in doing evil things is spoken of as if they were running to evil. AT: "they are eager to do wicked things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **their feet run** - Here "feet" represents the whole person. AT: "they run" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **to shed blood** - Here "blood" represents a person's life. To "shed blood" means to murder someone. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **For it is useless to spread ... is watching** - This begins a comparison that ends in 1:18. It compares the wisdom of birds who avoid traps that they see to the foolishness of sinners who get caught in traps they make for themselves.
+  * **do not walk down that road with them** - The word "walk" is a metaphor for being like the sinners. AT: "do not go with the sinners or do what they do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **do not let your foot touch where they walk** - "let your foot touch" is a metaphor for not doing what they do. AT: "do not do anything like what they do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **their feet run to evil** - "Feet run to evil" is a metaphor for their eager interest in doing evil things. AT: "they are eager to do wicked things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -77,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass run}}
+{{tag>publish p2edit run}}
 
 ~~NOCACHE~~

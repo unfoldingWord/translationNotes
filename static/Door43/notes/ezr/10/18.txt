@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 18 This is a list of the names of the priests who had married non-Jewish women, and the clans to which they belonged.
+\v 18 This is a list of the names of the priests who had married non-Jewish women, and the clans to which they belonged. 
 In the clan of Jeshua and his brothers, who were sons of Jehozadak, there were Maaseiah, Eliezer, Jarib, and Gedaliah.
 \v 19 They solemnly promised to divorce their wives, and they each sacrificed a ram to be an offering to atone for their sins.
 </usfm>
@@ -36,10 +36,10 @@ In the clan of Jeshua and his brothers, who were sons of Jehozadak, there were M
   * [[:en:obe:kt:guilt]] 
 ===== translationNotes: =====
 
-  * **Jeshua** - Translate as in [[:en:bible:notes:ezr:02:01|2:2]].
-  * **Jozadak** - Translate as in [[:en:bible:notes:ezr:03:01|3:2]].
+  * **Jeshua** - See how you translated this in [[:en:bible:notes:ezr:02:01|2:2]].
+  * **Jozadak** - See how you translated this in [[:en:bible:notes:ezr:03:01|3:2]].
   * **Maaseiah ... Gedaliah** - names of men (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **Eliezer ... Jarib** - Translate as in [[:en:bible:notes:ezr:08:15|8:16]].
+  * **Eliezer ... Jarib** - See how you translated these in [[:en:bible:notes:ezr:08:15|8:16]].
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -53,6 +53,6 @@ In the clan of Jeshua and his brothers, who were sons of Jehozadak, there were M
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

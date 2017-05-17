@@ -10,17 +10,17 @@
 ===== UDB: =====
 
 <usfm>
-\v 48 Then he brought me to the portico of the sanctuary and measured the doorposts and their walls on each side of the entrance; they were about two and three-quarter meters thick. The doorway was seven meters wide, and the sides on each side of it were one and three-fifth meters wide.
-\v 49 The portico was eleven meters wide, and its depth was six meters on each side. There were steps leading up to it, and there were columns on each side of the portico.
+\v 48 Then he brought me to the portico of the sanctuary and measured the doorposts and their walls on each side of the entrance; they were about 2.7 meters thick. The doorway was about seven meters wide, and the sides on each side of it were about 1.6 meters wide.
+\v 49 The portico was about eleven meters wide, and its depth was about six meters on each side. There were steps leading up to it, and there were columns on each side of the portico.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
 \p
-\v 48 Then the man brought me to the portico of the house and measured its doorposts—they were five cubits thick on either side. The entryway itself was fourteen cubits in width, and the walls on each side of it were three cubits in width.
-\f + \ft Instead of \fqa the walls on each side of it were three cubits in width \fqa* , the Hebrew text reads \fqa the entrance was three cubits in width \fqa* , but this seems to be a mistake, judging from the preceding words in this verse. \f*
-\v 49 The length of the portico was twenty cubits, and its depth was eleven cubits. There were steps that went up to it and columns that stood on either side of it.
+\v 48 Then the man brought me to the portico of the house and measured its doorposts—they were five cubits thick on either side. The entryway itself was fourteen cubits wide, and the walls on each side of it were three cubits wide.
+\f + \ft Instead of \fqa the walls on each side of it were three cubits wide \fqa* , the Hebrew text reads \fqa the entrance was three cubits wide \fqa* , but this seems to be a mistake, judging from the preceding words in this verse. \f*
+\v 49 The sanctuary's portico was twenty cubits long, and its depth was eleven cubits. There were steps that went up to it and columns that stood on either side of it.
 \f + \ft Instead of \fqa steps \fqa* , some ancient and modern versions read \fqa ten steps \fqa* . \f*
 \f + \ft Instead of \fqa eleven cubits \fqa* , some ancient and modern versions read \fqa twelve cubits \fqa* . \f*
 </usfm>
@@ -32,17 +32,15 @@
 
 ===== translationNotes: =====
 
-  * **portico** - Translate this as in [[:en:bible:notes:ezk:08:16|8:16]].
-  * **the house** - this refers to the temple
+  * **portico** - See how you translated this in [[:en:bible:notes:ezk:08:16|8:16]].
   * **its doorposts** - "the doorposts of the house"
-  * **cubits** - Translate these "long" cubits as in [[:en:bible:notes:ezk:40:05|40:05]].
+  * **cubits** - See how you translated these "long" cubits in [[:en:bible:notes:ezk:40:05|40:05]].
   * **five cubits** - about 2.7 meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **fourteen cubits** - about 7.5 meters
   * **three cubits** - about 1.6 meters
-  * **twenty cubits** - about eleven meters
-  * **eleven cubits** - about six meters
-  * **columns** - pieces of stone that are tall and narrow and supported the roof of the building
-
+  * **twenty cubits** - About eleven meters
+  * **eleven cubits** - About six meters
+  * **columns** - pieces of stone that are tall and narrow and support buildings
 
 ===== Links: =====
 
@@ -51,6 +49,6 @@
   * [[:en:bible:questions:comprehension:ezk:40]]
 **[[:en:bible:notes:ezk:40:46|<<]] | [[:en:bible:notes:ezk:41:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

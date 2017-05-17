@@ -45,6 +45,7 @@
 \q2 Those who are needy and poor and who do not have money to buy things,
 \q1 we will make them our slaves
 \q2 by buying them with the little amount of silver with which we could buy a pair of sandals!"
+\b
 
 
 \p
@@ -54,20 +55,21 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 4 Listen to this, you who trample the needy
 \q and remove the poor of the land.
 \v 5 They say,
 \q "When will the new moon be over,
 \q so we can sell grain again?
-\q When will the Sabbath day be over,
-\q so that we can sell wheat?
+\q And the Sabbath, when will it be over,
+\q so that we can market wheat?
 \q We will make the measure small
 \q and increase the price,
-\q as we cheat with false scales.
+\q as we cheat with false scales,
 \q
-\v 6 This is so we can sell bad wheat, buy the poor with silver,
-\q and the needy for a pair of sandals."
+\v 6 So that we can sell bad wheat and buy the poor for silver,
+\q the needy for a pair of sandals."
 </usfm>
 
 
@@ -84,7 +86,7 @@
 
   * **you who trample ... and remove** - Amos is speaking to those who "sell" and "market" (8:5).
   * **trample** - See how you translated this in [[:en:bible:notes:amo:02:07|2:7]].
-  * **They say, "When will the new moon be over, so we can sell grain again? When will the Sabbath day be over, so that we can sell wheat?"** - "They are always asking when the new moon will be over so they can sell grain again, and when the Sabbath will be over so they can market wheat." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **They say, "When will the new moon be over, so we can sell grain again? And the Sabbath, when will it be over, so that we can market wheat? ... sandals."** - "They are always asking when the new moon will be over so they can sell grain again, and when the Sabbath will be over so they can market wheat ... sandals." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_quotations]])
   * **We will make the measure small and increase the price, as we cheat with false scales** - The merchants would use false scales that showed that the amount of grain they were giving was greater than it really was and that the weight of the payment was less than it really was.
   * **the needy for a pair of sandals** - AT: "and buy the needy for a pair of sandals" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 

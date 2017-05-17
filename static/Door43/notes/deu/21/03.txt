@@ -20,8 +20,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 Then the elders of the town nearest to the dead man's body must take a heifer from the herd, one that has never been put to work, and that has not borne the yoke. 
-\v 4 Then they must lead the heifer down to a valley with running water, a valley that has been neither plowed nor sown, and there in the valley they must break the heifer's neck.
+\v 3 And the city that is nearest to the killed man—its elders must take a heifer from the herd, one that has never been put to work, that has not borne the yoke.
+\v 4 The elders of that city must bring the heifer down to a valley with running water, a valley that has been neither plowed nor sown, and must break the heifer's neck there in the valley.
 </usfm>
 
 
@@ -37,6 +37,7 @@
 
 ===== translationNotes: =====
 
+  * **to the killed man** - This can be stated in active form. AT:"the man whom someone has killed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **has not borne the yoke** - "has not worn a yoke"
   * **running water** - This is an idiom for water that is moving. AT: "a stream" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **a valley that has been neither plowed nor sown** - This can be stated in active form. AT: "a valley where nobody has plowed the ground or planted seeds" (See: [[:en:ta:vol2:translate:figs_activepassive]])
@@ -48,6 +49,6 @@
   * [[:en:bible:questions:comprehension:deu:21]]
 **[[:en:bible:notes:deu:21:01|<<]] | [[:en:bible:notes:deu:21:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass plow heifer}}
+~~DISCUSSION~~{{tag>publish p2check plow heifer}}
 
 ~~NOCACHE~~

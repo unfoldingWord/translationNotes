@@ -27,7 +27,7 @@
 
 <usfm>
 \q1
-\v 16 He saw that there was no man, and wondered that there was no one to intervene.
+\v 16 He saw that there was no man, and wondered that there was no one to intervene. 
 \q1 Therefore his own arm brought salvation
 for him, and his righteousness sustained him.
 </usfm>
@@ -42,9 +42,9 @@ for him, and his righteousness sustained him.
 
   * **General Information:** - Isaiah continues speaking.
 
-  * **He saw that there was no man, and wondered that there was no one to intervene.** - "Yahweh was appalled that no one came to help those who were suffering." or "Yahweh was astonished that no one came to help those who were suffering."
-  * **Therefore his own arm brought salvation for him** - "arm" represents ability and power. AT: "Yahweh used his own power to save the people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **and his righteousness sustained him** - "Righteousness" is a quality that acts like a person. AT: "and he did right as he always would do" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **He saw that there was no man, and wondered that there was no one to intervene** - "Yahweh was appalled that no one came to help those who were suffering" or "Yahweh was astonished that no one came to help those who were suffering"
+  * **Therefore his own arm brought salvation for him** - "arm" is a metaphor for "power." AT: "Yahweh used his own power to save the people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and his righteousness sustained him** - God's nature is to always do what is just and right. "and he did right as he always would do"
 
 ===== Links: =====
 
@@ -53,6 +53,6 @@ for him, and his righteousness sustained him.
   * [[:en:bible:questions:comprehension:isa:59]]
 **[[:en:bible:notes:isa:59:14|<<]] | [[:en:bible:notes:isa:59:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

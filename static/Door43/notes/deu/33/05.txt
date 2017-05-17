@@ -21,10 +21,12 @@
 <usfm>
 \v 5 So Yahweh became the king of his Israelite people
 \q when all the tribes and their leaders had gathered together.
+\b
 \p
 \v 6 I say this about the tribe of Reuben:
 \q I desire that their tribe will never disappear,
 \q but that they will never become numerous.
+\b
 
 
 \p
@@ -72,6 +74,6 @@
   * [[:en:bible:questions:comprehension:deu:33]]
 **[[:en:bible:notes:deu:33:03|<<]] | [[:en:bible:notes:deu:33:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2check p2example}}
 
 ~~NOCACHE~~

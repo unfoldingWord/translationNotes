@@ -22,7 +22,7 @@
 <usfm>
 \p
 \v 7 Then Nathan said to David, "You are that man! Yahweh, the God of Israel, says, 'I anointed you king over Israel, and I rescued you out of the hand of Saul.
-\v 8 I gave you your master's house, and your master's wives into your arms. I also gave you the house of Israel and Judah. But if that had been too little, I would have given you many other things in addition.
+\v 8 I gave you your master's house, and your master's wives into your arms. I also gave you the house of Israel and Judah. And if that had been too little, I would have given you many other things in addition.
 </usfm>
 
 
@@ -43,8 +43,8 @@
 ===== translationNotes: =====
 
   * **out of the hand of Saul** - Here the word "hand" refers to control. AT: "out of Saul's control" or "from Saul's control" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **your master's wives into your arms** - Here Yahweh describes David having his master's wives as his own wives, by saying that they are "in his arms." AT: "your master's wives as your own" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I also gave you the house of Israel and Judah** - Here Yahweh speaks of how he gave David his authority as king over Israel and Judah as if he gave him the houses of Israel and Judah as a gift. The phrase "the house of" means "the people of." AT: "I also gave you authority as king over the people of Israel and Judah" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **your master's wives into your arms** - Here Yahweh describes David having his master's wive as his own wives, by saying that they are "in his arms." AT: "your master's wives as your own" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * ** I also gave you the house of Israel and Judah** - Here Yahweh speaks of how he gave David his authority as king over Israel and Judah as if he gave him the houses of Israel and Judah as a gift. The phrase "the house of" means "the people of." AT: "I also gave you authority as king over the people of Israel and Judah" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **if that had been too little** - "if I had not given you enough"
 
  
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass kingdomofjudah}}
+{{tag>publish p2check kingdomofjudah}}
 
 ~~NOCACHE~~

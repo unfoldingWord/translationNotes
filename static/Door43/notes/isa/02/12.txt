@@ -29,11 +29,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 12 For there will be a day of Yahweh of hosts
-\q1 against everyone who is proud and raised up, and against everyone who is arrogant—and he will be brought down—
+\v 12 For there will be a day of Yahweh of hosts 
+\q1 against everyone who is proud and raised up, and against everyone who is arrogant, and he will be brought down—
 \q1
-\v 13 and against all the cedars of Lebanon that are high and lifted up,
+\v 13 and against all the cedars of Lebanon that are high and lifted up, 
 \q1 and against all the oaks of Bashan.
 </usfm>
 
@@ -49,13 +50,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-
-  * **who is proud and raised up** - One who is "raised up" is proud and considers himself better than other people. This can be stated in active form. AT: "who is proud and who raises himself above other people" or "who is proud and thinks that he is better than other people" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **who is proud ... who is arrogant** - Someone who is arrogant speaks and acts as if he is better than other people. These two phrases have similar meanings and are used together to emphasize that Yahweh will punish them. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **against everyone who is proud and raised up, and against everyone who is arrogant** - The words "proud, "raised up," and "arrogant" all mean the same thing. AT: "against every person who is proud" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **and he will be brought down** - "and every proud person will be brought down." This can be stated in active form. AT: "Yahweh will humble him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **against all the cedars of Lebanon ... against all the oaks of Bashan** - The "day of Yahweh of Hosts" will be against the cedars and oaks. Possible meanings are 1) these trees are a metaphor for the proud people whom God will judge or 2) God will actually destroy these mighty trees. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **against all the cedars of Lebanon ... against all the oaks of Bashan** - "day of Yahweh of Hosts" will be against the cedars and oaks. Possible meanings are 1) these trees refer to the proud people that God will judge or 2) God will actually destroy these mighty trees.
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -63,6 +60,6 @@
   * [[:en:bible:questions:comprehension:isa:02]]
 **[[:en:bible:notes:isa:02:09|<<]] | [[:en:bible:notes:isa:02:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example cedar}}
+~~DISCUSSION~~{{tag>publish p2edit cedar}}
 
 ~~NOCACHE~~

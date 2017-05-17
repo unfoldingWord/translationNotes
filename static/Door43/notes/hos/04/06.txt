@@ -23,12 +23,13 @@
 <usfm>
 \v 6 My people are perishing because you priests have refused to understand me.
 \q1 And why do you understand me so little? Because you have rejected the things I have instructed you to do.
-\q2 So I am rejecting you from being priests to me.
+\q2 So I am rejecting you from being priests to me. 
 \q1 Look at what you have forgotten: You have forgotten the instructions that I, your God, gave to you.
 \q2 Because you forgot me, I will forget your children.
 \q1
 \v 7 The more numerous you priests become,
 \q2 the more you do the things that I have forbidden.
+\q2 
 \q1 You have abandoned me in order to become shameful.
 
 
@@ -39,6 +40,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 6 My people are being destroyed because of the lack of knowledge.
 \q Because you priests have rejected knowledge,
@@ -69,9 +71,9 @@
   * **General Information:** - In 4:6, Yahweh is talking to the priests about the people of Israel. But in 4:7, he is talking about the priests, not to them. It is possible for the translator to follow the example of the UDB, which portrays Yahweh as talking to the priests also in 4:7.
 
   * **My people are being destroyed because of the lack of knowledge** - This can be stated in active form. AT: "My people are perishing because you, the priests, have not properly taught them about me so that they will obey me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **knowledge** - Here "knowledge" refers to the knowledge of God. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **They exchanged their honor for shame** - Possible meanings are 1) "honor" is a metonym that represents Yahweh, and "shame" is a metonym that represents idols. AT: "They have stopped worshiping me, their honorable God, and now worship shameful idols" or 2) some Bible versions translate this as "I will exchange their honor for shame." This means Yahweh will take away the things which the priests honor and cause the priests to be ashamed. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **knowledge** - That is, the knowledge of God that leads to faithfulness to him. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **multiplied** - "became more numerous"
+  * **They exchanged their honor for shame** - The people's honor was God himself. They became faithless to him in order to fulfill their shameful desires. Here "honor" stands for God. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -80,6 +82,6 @@
   * [[:en:bible:questions:comprehension:hos:04]]
 **[[:en:bible:notes:hos:04:04|<<]] | [[:en:bible:notes:hos:04:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass multiply reject}}
+~~DISCUSSION~~{{tag>publish p2check henrydv multiply reject}}
 
 ~~NOCACHE~~

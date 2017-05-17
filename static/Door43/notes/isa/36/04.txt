@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 4 The chief commander said to them, "Tell Hezekiah that the great king, the king of Assyria, says, 'What is the source of your confidence?
+\v 4 The chief commander said to them, "Tell Hezekiah that the great king, the king of Assyria, says, 'What is the source of your confidence? 
 \v 5 You speak only useless words, saying there is counsel and strength for war. Now in whom are you trusting? Who has given you courage to rebel against me?
 </usfm>
 
@@ -38,9 +38,8 @@
 ===== translationNotes: =====
 
   * **said to them** - "said to Eliakim, Shebna, and Joah"
-  * **What is the source of your confidence?** - The king of Assyria uses this question to challenge Hezekiah and to say that he does not have a good source for confidence. This question may be written as a statement. AT: "You have no reliable source for your confidence." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **there is counsel and strength for war** - "you have the council and the strength to go to war." The phrase "strength for war" refers to having a large enough and strong enough army with weapons. AT: "you have enough military council, strong men, and weapons to go to war" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Now in whom are you trusting? Who has given you courage to rebel against me?** - The king of Assyria uses questions to ridicule Hezekiah for believing he has the strength to rebel. This question may be written as a statement. AT: "No matter in whom you trust, you will not have the courage to rebel against me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **What is the source of your confidence?** - The king of Assyria uses this question to challenge Hezekiah that he does not have a good source for confidence. AT: "You have no reliable source for your confidence." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Now in whom are you trusting? Who has given you courage to rebel against me?** - The king of Assyria uses questions to ridicule Hezekiah for believing he has the strength to rebel. AT: "No matter in whom you trust, you will not have the courage to rebel against me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -49,6 +48,6 @@
   * [[:en:bible:questions:comprehension:isa:36]]
 **[[:en:bible:notes:isa:36:01|<<]] | [[:en:bible:notes:isa:36:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

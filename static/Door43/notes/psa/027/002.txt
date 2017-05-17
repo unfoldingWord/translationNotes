@@ -24,7 +24,7 @@
 \q2 I will not be afraid.
 \q1 Even if they attack me,
 \q2 I will trust in God.
-
+\b
 
 
 \q1
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:027]]
 **[[:en:bible:notes:psa:027:001|<<]] | [[:en:bible:notes:psa:027:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

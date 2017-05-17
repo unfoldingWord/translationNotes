@@ -16,7 +16,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 It was as though you crushed the head of the king of Egypt
+\v 14 It was as though you crushed the head of the king of Egypt 
 \q2 and gave his body to the animals in the desert to eat.
 \q1
 \v 15 You caused springs and streams to flow,
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:074]]
 **[[:en:bible:notes:psa:074:012|<<]] | [[:en:bible:notes:psa:074:016|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

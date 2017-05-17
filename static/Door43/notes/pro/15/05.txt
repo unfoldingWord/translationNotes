@@ -21,8 +21,9 @@
 \v 5 A fool has contempt for his father when he disciplines him,
 \q2 but the one who learns from correction has insight.
 \q1
-\v 6 In the families of those who do right there are great treasures,
-\q2 but the wealth that the wicked have gives them great troubles.
+\v 6 In the families of those who do right there are great treasures, 
+\q2 but the wealth that the wicked have gives them great troubles. 
+\b
 
 
 \q1
@@ -33,11 +34,11 @@
 
 <usfm>
 \q
-\v 5 A fool has contempt for his father's instruction,
-\q but he who learns from correction is prudent.
+\v 5 A fool has contempt for his father's discipline, 
+\q but he who learns from correction is prudent. 
 \q
-\v 6 In the house of the righteous person there is great treasure,
-\q but the earnings of the wicked person give him trouble.
+\v 6 In the house of those who do right there is great treasure,
+\q but the earnings of wicked people give them trouble.
 </usfm>
 
 
@@ -53,9 +54,12 @@
 
 ===== translationNotes: =====
 
-  * **he who learns from correction** - The word "correction" can be translated as a verb. AT: "he who learns when someone corrects him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+
+  * **correction** - AT: "being corrected" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **prudent** - "wise"
-  * **the earnings of the wicked person give** - The word "earnings" can be translated as a verbal phrase. AT: "the wealth that a wicked person earns gives" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **great treasure** - AT: "a lot of wealth"
+  * **the earnings** - AT: "the earned wealth" or "the produce" or "the revenue"
+ 
  
 ===== Links: =====
 
@@ -70,6 +74,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass contempt}}
+{{tag>publish p2edit contempt}}
 
 ~~NOCACHE~~

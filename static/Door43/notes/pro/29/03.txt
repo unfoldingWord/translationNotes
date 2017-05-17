@@ -22,7 +22,7 @@
 \q2 but the son who is a companion of prostitutes will lose all his money
 \q1
 \v 4 When a king rules with honest rules and good laws, he causes his nation to be strong,
-\q2 but anyone who asks for bribes ruins his nation.
+\q2 but anyone who asks for bribes, ruins his nation.
 
 
 \q1
@@ -34,7 +34,7 @@
 <usfm>
 \q
 \v 3 Whoever loves wisdom makes his father rejoice,
-\q but he who keeps company with prostitutes destroys his wealth.
+\q but he who keeps company with prostitutes destroys his wealth. 
 \q
 \v 4 The king establishes the land by justice,
 \q but the one who demands bribes tears it down.
@@ -53,7 +53,6 @@
 
 ===== translationNotes: =====
 
-  * **by justice** - The abstract noun "justice" can be translated as a noun phrase. AT: "by doing what is just" or "by making just laws" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 
 ===== Links: =====
 
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:pro:29]]
 **[[:en:bible:notes:pro:29:01|<<]] | [[:en:bible:notes:pro:29:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

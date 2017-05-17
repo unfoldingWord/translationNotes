@@ -31,7 +31,6 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:labor]]
   * [[:en:obe:kt:glory]]
   * [[:en:obe:other:archer]]
@@ -41,8 +40,8 @@
 
 ===== translationNotes: =====
 
-  * **as a laborer hired for a year would see it** - "as a hired laborer would count the days of a year." A hired worker is careful to count the days so that he works exactly the amount of time he is paid to work. This means Kedar will be defeated in exactly one year. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **of Kedar** - This is a region in Arabia. Kedar represents the population of Kedar. AT: "of the people of Kedar" (See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **as a laborer hired for a year would see it** - "as a hired laborer would count the days"
+  * **of Kedar** - Kedar refers to the population of Kedar. AT: "of the people of Kedar" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:translate_names]])
 
 
 ===== Links: =====
@@ -52,6 +51,6 @@
   * [[:en:bible:questions:comprehension:isa:21]]
 **[[:en:bible:notes:isa:21:13|<<]] | [[:en:bible:notes:isa:22:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass archer}}
+~~DISCUSSION~~{{tag>publish p2edit archer}}
 
 ~~NOCACHE~~

@@ -19,6 +19,7 @@
 <usfm>
 \v 9 Those who are truly righteous will continue to do what is right,
 \q2 and those who live righteously will continue to become stronger.
+\b
 \q1
 \v 10 But all you friends of mine,
 \q2 I do not find even one among you who is wise.
@@ -50,11 +51,12 @@
 
   * **General Information:** - Job continues to speak.
 
-  * **will keep to his way** - This is an idiom. AT: "will continue to live in a righteous way" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **he who has clean hands** - This speak of a person being innocent as having clean hands. AT: "he who does what is right" or "he who is innocent" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **will grow stronger and stronger** - This does not refer only to physical strength but also to the strength of a person's will and emotions.
+  * **will keep to his way** - AT: "will hold firmly to his way" or "will continue to live in a righteous way"
+  * **he who has clean hands** - AT: "he who is clean" or "he who does what is right" or "he who is innocent" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **will grow stronger and stronger** - "adds strenght" AT: "becomes cleaner" or "becomes more righteous"
   * **you all** - Job is speaking to Eliphaz, Bildad, and Zophar.
-  * **come on now** - Job invites his friends to debate what he has said. AT: "come on now, argue with me again" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **come on now** - Job invites his friends to repeat their arguments. AT: "come on then, argue with me again"
+  * **I will not find a wise man among you** - AT: "none of you are wise" or "all of you are foolish"
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -62,6 +64,6 @@
   * [[:en:bible:questions:comprehension:job:17]]
 **[[:en:bible:notes:job:17:06|<<]] | [[:en:bible:notes:job:17:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

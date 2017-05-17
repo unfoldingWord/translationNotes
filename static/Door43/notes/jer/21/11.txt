@@ -40,7 +40,7 @@
 \v 11 Concerning the house of the king of Judah, listen to the word of Yahweh.
 \q
 \v 12 House of David, Yahweh says, 'Bring about justice in the morning.
-\q Rescue the one who has been robbed by the hand of the oppressor,
+\q Rescue the one who has been robbed by the hand of the oppressor, 
 \q or my fury will go out like fire and burn,
 \q and there is no one who can quench it, because of your evil deeds.
 </usfm>
@@ -62,15 +62,11 @@
 ===== translationNotes: =====
 
 
-  * **Concerning the house of the king of Judah, listen to the word of Yahweh** - This may serve as a title for 21:12 - 23:8. AT: "Listen to what Yahweh says about the king of Judah, his family, and his servants"
-  * **the house of the king of Judah** - The word "house" is a metonym for the family that lives in the house. In this case it refers to the royal descendants of that kings. AT: "descendants of the king of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **House of David** - This refers to the same people as "the house of the king of Judah." All of the kings of Judah were descendants of David. AT: "Descendants of David" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Bring about justice in the morning** - The abstract noun "justice" can be stated as an action. AT: "Always treat the people whom you rule over fairly" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **the hand of the oppressor** - Here "hand" refers to power. AT: "the power of the one who oppresses them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **my fury will go out like fire and burn** - Here Yahweh's punishment is spoken of as if it was a fire that would burn up those who did evil. AT: "I will punish and destroy you in my anger quickly and completely" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **there is no one who can quench it** - Jeremiah continues the simile of Yahweh's punishment as a fire that was so hot that no one could put it out with water. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
-
+  * **Concerning the house of the king of Judah, listen to the word of Yahweh** - AT: "Listen to what Yahweh says about the king of Judah, his family, and his servants."
+  * **Bring about justice in the morning** - AT: "Always treat the people whom you rule over fairly" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the hand of the oppressor** - AT: "the power of the one who oppresses" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **my fury will go out like fire and burn** - AT: "I will punish and destroy you in my anger quickly and completely" (See: [[:en:ta:vol1:translate:figs_simile]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -81,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check quench}}
+{{tag>publish p2edit quench}}
 
 ~~NOCACHE~~

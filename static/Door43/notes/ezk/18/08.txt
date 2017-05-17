@@ -28,6 +28,7 @@
 \q2 That man is truly righteous;
 \q1 he will remain alive.
 \q2 That is what I, Yahweh the Lord, promise.
+\b
 
 
 \p
@@ -36,7 +37,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 8 Then suppose that he does not charge any interest for loans, nor gains too much profit. Suppose that he carries out justice and establishes faithfulness between people.
+\v 8 And suppose that he does not charge any interest for loans, nor gains too much profit. Suppose that he carries out justice and establishes faithfulness between people.
 \v 9 Suppose that he walks in my statutes and keeps my decrees to act faithfully. Then the promise for this righteous man is this: He will surely live!—this is the Lord Yahweh's declaration.
 </usfm>
 
@@ -55,9 +56,7 @@
   * **General Information:** - Yahweh continues to describe the actions of the righteous man.
 
   * **interest** - This word refers to the money paid by a person to use borrowed money. However, some modern versions interpret "any interest" in this passage as "too much interest."
-  * **establishes faithfulness between people** - This means that he judges fairly the disputes that may arise between people.
-  * **he walks in my statutes** - Yahweh speaks of a person obeying his statutes as if the statutes were a path in which the person walks. AT: "he obeys my statutes" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **this is the Lord Yahweh's declaration** - See how you translated this in [[:en:bible:notes:ezk:05:11|5:11]]. 
 
 ===== Links: =====
 
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:ezk:18]]
 **[[:en:bible:notes:ezk:18:07|<<]] | [[:en:bible:notes:ezk:18:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

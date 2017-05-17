@@ -22,7 +22,7 @@
 \q1
 \v 8 The people who make those idols are as powerless as those idols,
 \q2 and those who trust in those idols can accomplish nothing, just like their idols!
-
+\b
 
 
 \q1
@@ -32,7 +32,7 @@
 
 <usfm>
 \q
-\v 7 Those idols have hands, but do not feel;
+\v 7 Idols have hands, but do not feel;
 \q they have feet, but they cannot walk;
 \q nor do they speak from their mouths.
 \q
@@ -47,9 +47,9 @@
 
 ===== translationNotes: =====
 
-  * **Those idols have hands** - The idols do not have real hands, feet, or mouths. Rather, people made them with the likeness of hands, feet, and mouths. The writer is emphasizing that these idols are not really alive. You can make this implicit information clear. AT: "People have given hands to those idols" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **but do not feel** - "but those hands do not feel"
-  * **Those who make them are like them, as is everyone who trusts in them** - Those who make and worship idols become lifeless and powerless, just like those idols. The full meaning of this statement can be made clear. AT: "Those who make them become lifeless like they are, as does everyone who trusts in them" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
+  * **Idols have hands** - The idols do not have real hands, feet, or mouths. Rather, people made them with the likeness of hands, feet, and mouths. The writer is emphasizing that these idols are not really alive. AT: "People have given hands to those idols" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Those who make them are like them, as is everyone who trusts in them** - Those who make and worship idols become lifeless and powerless, just like those idols. AT: "Those who make them become lifeless like they are, as does everyone who trusts in them" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:115]]
 **[[:en:bible:notes:psa:115:005|<<]] | [[:en:bible:notes:psa:115:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

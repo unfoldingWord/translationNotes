@@ -19,6 +19,7 @@
 <usfm>
 \v 4 God, rescue me from wicked people,
 \q2 from the power of unjust and evil men.
+\b
 \q1
 \v 5 Yahweh, my Lord, you are the one whom I confidently expect to help me;
 \q2 I have trusted in you ever since I was young.
@@ -52,10 +53,11 @@
  
 ===== translationNotes: =====
 
-  * **out of the hand of the wicked, out of the hand of the unrighteous** - Possible meanings are 1) the word "hand" is a metonym for power. AT: "from the power of the wicked, from the power of the unrighteous" or 2) "hand" refers to the person himself. AT: "from wicked people, from unrighteous ... people" or "so that wicked people and unrighteous ... people cannot harm me" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **wicked, out of the hand of the unrighteous** - "wicked; rescue me out of the hand of the unrighteous." You can make clear the understood information. (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **out of the hand of the wicked, out of the hand of the unrighteous** - Possible meanings are the word "hand" is a metonym 1) for power, AT: "from the power of the wicked, from the power of the unrighteous" or 2) for the person himself, AT: "from wicked people, from unrighteous ... people" or "so that wicked people and unrighteous ... people cannot harm me" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **wicked, out of the hand of the unrighteous** - "wicked; rescue me out of the hand of the unrighteous" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **wicked ... unrighteous ... cruel** - These adjectives can be translated as noun phrases. AT: "wicked people ... unrighteous people ... cruel people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **you are my hope** - Here "hope" is a metonym for the one in whom the psalmist hopes. AT: "you are the one whom I confidently expect to help me" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you are my hope** - Hope itself is a metonym for the one in whom the psalmist hopes. AT: "you are the one whom I confidently expect to help me" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -63,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:071]]
 **[[:en:bible:notes:psa:071:001|<<]] | [[:en:bible:notes:psa:071:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

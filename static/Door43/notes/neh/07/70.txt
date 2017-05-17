@@ -14,9 +14,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 70 Some of the leaders of the clans gave gifts for the work of rebuilding the temple. The governor gave eight and one-half kilograms of gold, fifty bowls to be used in the temple, and five-hundred and thirty robes for the priests.
-\v 71 The other leaders gave to the treasury one-hundred and seventy kilograms of gold, and the leaders of the clans gave a total of one and one-fifth metric tons of silver.
-\v 72 The rest of the people gave one-hundred and seventy kilograms of gold, and one metric ton of silver, and sixty-seven robes for the priests.
+\v 70 Some of the leaders of the clans gave gifts for the work of rebuilding the temple. The governor gave 8.5 kilograms of gold, fifty bowls to be used in the temple, and 530 robes for the priests.
+\v 71 The other leaders gave to the treasury 170 kilograms of gold, and the leaders of the clans gave a total of 1.2 metric tons of silver.
+\v 72 The rest of the people gave 170 kilograms of gold, and 1.1 metric tons of silver, and sixty-seven robes for the priests.
 
 
 \pi
@@ -30,7 +30,7 @@
 \v 70 Some from among the heads of ancestors' families gave gifts for the work. The governor gave to the treasury one thousand darics of gold, 50 basins, and 530 priestly garments.
 \f + \ft The Hebrew text has \fqa thirty priestly garments \fqb , but it is difficult to understand. Most modern versions have \fqa 530 priestly garments \fqb . However, some recommend reading \fqa thirty priestly garments and five hundred minas of silver \fqb . \f*
 \v 71 Some of the heads of ancestors' families gave into the treasury for the work twenty thousand darics of gold and 2,200 minas of silver.
-\v 72 The rest of the people gave twenty thousand darics of gold, and two thousand minas of silver, and sixty-seven priestly garments.
+\v 72 The rest of the people gave twenty thousand darics of gold, and two thousand minas of silver, and sixty-seven robes for the priests.
 </usfm>
 
 
@@ -45,28 +45,27 @@
   * [[:en:obe:kt:priest]]
 ===== translationNotes: =====
 
-  * **the heads of ancestors' families** - "the chief patriarchs" or "the leaders of the clans" (UDB)
-  * **gave to the treasury** - "put into the treasury"
-  * **one thousand darics** - "1,000 darics"
+  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile.
+
+  * **the heads of ancestors' families** - AT: "heads of the clans" or "heads of the families"
   * **darics of gold** - A daric was a small gold coin that people in the Persian Empire used. (See: [[:en:ta:vol2:translate:translate_bmoney]])
   * **basins** - large bowls
   * **garments** - items of clothing
-  * **twenty thousand darics** - "20,000 darics"
-  * **minas of silver** - A mina is about one half of a kilogram in weight. (See: [[:en:ta:vol2:translate:translate_bweight]])
-  * **two thousand minas** - "2,000 minas"
-  * **sixty-seven priestly garments** - "67 priestly garments"
-
-
+  * **minas of silver** - A mina is 600 grams. (See: [[:en:ta:vol2:translate:translate_bweight]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
   * [[:en:bible:notes:neh:07:00]]
   * [[:en:bible:questions:comprehension:neh:07]]
+
+ 
+
 **[[:en:bible:notes:neh:07:68|<<]] | [[:en:bible:notes:neh:07:73|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

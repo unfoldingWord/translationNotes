@@ -18,7 +18,7 @@
 
 <usfm>
 \v 18 After him their countrymen repaired, including Bavvai son of Henadad, the ruler of half the district of Keilah.
-\v 19 Next to him, Ezer son of Jeshua, the ruler of Mizpah, repaired another section that faced the ascent to the armory at the corner of the wall.
+\v 19 Next to him repaired Ezer son of Jeshua, the ruler of Mizpah, who repaired another section opposite the ascent to the armory, at the corner of the wall.
 </usfm>
 
 ===== translationWords: =====
@@ -28,13 +28,13 @@
 
 ===== translationNotes: =====
 
-  * **After him their countrymen repaired ... repaired another section** - These phrases refer to repairing the wall. AT: "Next to him their countrymen repaired the wall ... repaired another section of the wall" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **After him** - "Next to him" 
+  * **After him their countrymen repaired** - The implied information here is that the wall was being repaired. AT: "On the next section of the wall, their brothers did the repairs." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **Bavvai ... Henadad ... Ezer ... Jeshua** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Bavvai son of Henadad, the ruler** - Bavvai was the ruler, not Henadad.
-  * **Keilah ... Mizpah** - These are names of places. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Ezer son of Jeshua, the ruler** - Ezer was the ruler, not Jeshua.
-  * **that faced the ascent to the armory** - "in front of the steps that went up to the armory" (UDB)
+  * **Bavvai son of Henadad, the ruler of half the district of Keilah** - Bavvai was the leader of half the district, not Henadad.
+  * **district** - "governmental area" or "governmental region"
+  * **Keilah ... Mizpah** - These are names of areas or regions. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ezer ... son of Jeshua, the ruler of Mizpah** - Ezer was the ruler of Mizpah, not Jeshua
+  * **the ascent to the armory** - "the steps which went up to the armory" (UDB)
   * **armory** - the place where weapons are kept
 
 ===== Links: =====
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:neh:03]]
 **[[:en:bible:notes:neh:03:16|<<]] | [[:en:bible:notes:neh:03:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

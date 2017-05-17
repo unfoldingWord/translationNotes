@@ -51,10 +51,10 @@
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:jealous]]
   * [[:en:obe:kt:falsegod]]
+  * [[:en:obe:other:angry]]
   * [[:en:obe:other:detestable]]
   * [[:en:obe:other:idol]]
   * [[:en:obe:kt:abomination]]
-  * [[:en:obe:other:angry]]
 
 ===== translationNotes: =====
 
@@ -64,7 +64,7 @@
   * **grew fat and kicked** - Jeshurun, the well-fed animal who kicks instead of becoming gentle is a metaphor for the Israelites, who rebelled even though God took care of them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **you grew fat, you were too fat, and you had eaten your fill** - Moses scolds the Israelites by speaking in the song to Jeshurun. "you became fat, you became fatter, and you became as fat as you could become"
   * **the Rock of his salvation** - This means Yahweh is strong like a rock and able to protect his people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the Rock** - This a proper name that Moses gives to Yahweh, who, like a rock, is strong and able to protect his people. Translate as in [[:en:bible:notes:deu:32:03|32:4]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the Rock** - This a proper name that Moses gives to Yahweh, who, like a rock, is strong and able to protect his people. Translate "as in [[:en:bible:notes:deu:32:03|32:4]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **They made Yahweh jealous** - The Israelites made Yahweh jealous.
 ===== Links: =====
 
@@ -73,6 +73,6 @@
   * [[:en:bible:questions:comprehension:deu:32]]
 **[[:en:bible:notes:deu:32:14|<<]] | [[:en:bible:notes:deu:32:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2check p2example}}
 
 ~~NOCACHE~~

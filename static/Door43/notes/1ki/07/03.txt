@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 The carpenters build a roof from cedar planks that were attached to beams. The carpenters made pillars to support the cedar beams. There were a total of forty-five pillars put in place, making fifteen pillars in each row to support the roof.
+\v 3 To support the roof there were cedar beams that connected the rows of pillars. There were fifteen pillars in each row.
 \v 4 On each of the two side walls there were three sets of windows facing each other.
 \v 5 All the windows and doorways had rectangular frames. The windows along the long wall on one side faced the windows on the other side.
 
@@ -36,9 +36,9 @@
 
   * **General Information:** - Some details are given about the structure of the Palace of the Forest of Lebanon.
 
-  * **The house was roofed with cedar that rested on beams** - This can be stated in active form. AT: "The carpenters built a roof from cedar planks and attached them to beams" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **beams** - long pieces of strong wood usually used to support a roof
-  * **were made square** - "had rectangular frames" (UDB)
+  * **The house was roofed with cedar** - AT: "To support the roof there were cedar beams" (UDB) 
+  * **beam** - a long piece of strong wood usually used as a support for a roof
+  * **the doors and posts were made square** - "had rectangular frames" (UDB)
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:07]]
 **[[:en:bible:notes:1ki:07:01|<<]] | [[:en:bible:notes:1ki:07:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

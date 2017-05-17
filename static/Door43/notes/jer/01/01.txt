@@ -52,21 +52,16 @@
 
 ===== translationNotes: =====
 
-  * **Hilkiah ... Amon** - These are the names of two men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **he was one of the priests** - "Jeremiah was one of the priests"
-  * **Anathoth** - This is the name of a town. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the land of Benjamin** - "the land that belongs to the tribe of Benjamin"
-  * **The word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
+  * **Hilkiah ... Amon** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Anathoth** - name of a town (See: [[:en:ta:vol1:translate:translate_names]])
+  * **The word of Yahweh came** - "Yahweh spoke his word" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **came to him** - "came to Jeremiah"
-  * **in the days of Josiah son of Amon, king of Judah** - Here "in the days of" is an idiom meaning "when." AT: "when Josiah son of Amon was king of Judah" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **the thirteenth ... the eleventh** - (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **his reign** - "Josiah's reign"
   * **It also came** - "The word of Yahweh also came"
-  * **in the days of Jehoiakim son of Josiah, king of Judah** - Here "in the days of" is an idiom meaning "when." AT: "when Johoiakim son of Josiah was king of Judah" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **the fifth month** - This is the fifth month of the Hebrew calendar. It is during the last part of July and the first part of August on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **of Zedekiah** - "of the reign of Zedekiah" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **when the people of Jerusalem were taken away as prisoners** - This can be stated in active form. It can be stated clearly that they were taken to Babylon. AT: "when the army of Babylon took the people of Jerusalem away as prisoners" or "when the army of Babylon took the people of Jerusalem as prisoners to Babylon" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -74,6 +69,6 @@
   * [[:en:bible:questions:comprehension:jer:01]]
 **| [[:en:bible:notes:jer:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check jehoiakim jeremiah josiah}}
+~~DISCUSSION~~{{tag>publish p2edit jehoiakim jeremiah josiah}}
 
 ~~NOCACHE~~

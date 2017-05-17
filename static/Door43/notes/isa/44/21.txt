@@ -34,6 +34,7 @@
 \q2 that I have blown away.
 \q1 Return to me
 \q2 because I have rescued you."
+\b
 
 
 \q1
@@ -43,11 +44,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 21 Think about these things, Jacob, and Israel, for you are my servant:
+\v 21 Think about these things, Jacob, and Israel, for you are my servant: 
 \q1 I have formed you; you are my servant: Israel, you will not be forgotten by me.
 \q1
-\v 22 I have blotted out, like a thick cloud, your rebellious deeds, and like a cloud, your sins;
+\v 22 I have blotted out, like a thick cloud, your rebellious deeds, and like a cloud, your sins; 
 \q1 return to me, for I have redeemed you.
 </usfm>
 
@@ -68,8 +70,8 @@
 
   * **Jacob, and Israel** - This refers to people descended from Jacob, Israel. AT: "you descendants of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_doublet]])
   * **you will not be forgotten by me** - This can be stated in active form. AT: "I will not forget you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **I have blotted out, like a thick cloud, your rebellious deeds, and like a cloud, your sins** - Both of these statements mean the same thing. God has removed their sins as quickly and easily as a wind can blow away a cloud. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **and like a cloud, your sins** - The verb may be supplied from the previous phrase. AT: "and like a cloud, I have blotted out your sins" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **I have blotted out, like a thick cloud, your rebellious deeds, and like a cloud, your sins** - Both of these statements mean the same thing. God has removed their sins as quickly and easily as a wind can blow away a cloud. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]]) 
+ 
  
 ===== Links: =====
 
@@ -84,6 +86,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

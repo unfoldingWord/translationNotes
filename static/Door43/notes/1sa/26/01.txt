@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 One day some of the people of Ziph town went to Saul while he was at Gibeah, and they said to him, "David is hiding in a cave on the hill of Hachilah, east of the town of Jeshimon."
+\v 1 One day some of the people of Ziph town went to Saul while he was at Gibeah, and they said to him, "David is hiding in a cave on the hill of Hakilah, east of the town of Jeshimon."
 \p
 \v 2 So Saul chose three thousand of the best Israelite soldiers and went with them to the wilderness of Ziph to search for David.
 </usfm>
@@ -24,7 +24,7 @@
 <usfm>
 \c 26
 \p
-\v 1 The Ziphites came to Saul at Gibeah and said, "Is not David hiding in the hill of Hachilah, which is before Jeshimon?"
+\v 1 The Ziphites came to Saul at Gibeah and said, "Is not David hiding in the hill of Hachilah, which is before the wilderness?"
 \v 2 Then Saul arose and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph.
 </usfm>
 
@@ -41,13 +41,9 @@
 
 ===== translationNotes: =====
 
-  * **Is not David hiding ... Jeshimon?** - This rhetorical question can be translated as an exclamation. AT: "David is hiding  ... Jeshimon!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **before Jeshimon** - "from which we can see Jeshimon"
-  * **Jeshimon** - This is the name of a desert area near the Dead Sea. It can also be translated as "the Judean Wilderness" or "the wasteland." Translate as in [[:en:bible:notes:1sa:23:19|23:19]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Then Saul arose and went** - The word "arose" is an idiom for taking action. AT: "Then Saul took action and he went" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Is not David hiding in the hill of Hachilah, which is before the wilderness?** - This rhetorical question can be translated as a statement. AT: "David certainly must be hiding in the hill of Hachilah, which is near the desert." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Then Saul arose** - This is an idiom for "taking action." (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **three thousand** - 3,000 (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **chosen men** - men whom he had chosen because of their superior military abilities
-
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -55,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1sa:26]]
 **[[:en:bible:notes:1sa:25:43|<<]] | [[:en:bible:notes:1sa:26:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

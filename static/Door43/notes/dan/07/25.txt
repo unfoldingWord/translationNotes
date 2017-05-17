@@ -22,14 +22,14 @@
 ===== ULB: =====
 
 <usfm>
-\v 25 He will speak words against the Most High
-\q and will oppress the holy people of the Most High God.
-\q He will try to change the festivals and the law.
+\v 25 He will speak words against the Most High 
+\q and will oppress the holy people of the Most High God. 
+\q He will try to change the festivals and the law. 
 \q These things will be given into his hand
 \q for one year, two years, and half a year.
 \q
-\v 26 But the court will be in session,
-\q and they will take his royal power away
+\v 26 But the court will be in session, 
+\q and they will take his royal power away 
 \q to be consumed and destroyed at the end.
 </usfm>
 
@@ -45,20 +45,17 @@
 ===== translationNotes: =====
 
   * **General Information:** - The man in Daniel's vision continues talking to Daniel.
-  * **General Information:** - Most of the text of verses 23-27 is symbolic language. For this reason, the ULB presents them in poetic form. (See: [[:en:ta:vol2:translate:writing_symlanguage]])
 
   * **He will speak words against the Most High** - This means that the newest king will openly disagree with and say bad things about the Most High. (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **He will try ... into his hand** - The words "He" and "his" refer to the newest king, not the Most High.
-  * **the holy people** - "God's holy people"
+  * **the holy people** - AT: "God's holy people"
   * **change the festivals and the law** - Both terms refer to the law of Moses. The festivals were an important part of the religion of Israel in the Old Testament.
-  * **These things will be given into his hand** - Here "his hand" refers to his control. This can be stated in active form. AT: "The newest king will control the religous festivals and laws" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **one year, two years, and half a year** - This means "three and half years" (UDB). This is not the normal way the Israelites counted. Try to translate it in a way that preserves this way of counting. AT: "one year plus two years plus six months"
-  * **the court will be in session** - This means that the judge will be ready to investigate evidence and make his judgment. AT: "the judge will judge" or "The judge will sit down"
-  * **they will take his royal power away** - "the members of the court will take the royal power away from the newest king"
-  * **royal power** - This, here, refers to "authority." See how you translated this in [[:en:bible:notes:dan:07:13|7:14]].
-  * **to be consumed and destroyed at the end** - This can be stated in active form. AT: "and consume and destroy it in the end" or "and completely destroy his royal power in the end" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
-
+  * **These things will be given into his hand** - AT: "The newest king will control the religous festivals and laws" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **one year, two years, and half a year** - This means "three and half years" (UDB). This is not the normal way the Israelites counted. Try to translate it in a way that preserves this way of counting. AT: "One year plus two years plus six months"
+  * **the court will be in session** - This means that the judge will be ready to investigate evidence and make his judgment. AT: "The judge will judge" or "The judge will sit down"
+  * **they will take his royal power away** - AT: "the members of the court will take the royal power away from the newest king"
+  * **royal power** - See how you translated this in [[:en:bible:notes:dan:07:13|7:14]].
+  * **to be consumed and destroyed at the end** - AT: "and consume and destroy it in the end" or "and in the end his royal power will be completely destroyed"
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -66,6 +63,6 @@
   * [[:en:bible:questions:comprehension:dan:07]]
 **[[:en:bible:notes:dan:07:23|<<]] | [[:en:bible:notes:dan:07:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

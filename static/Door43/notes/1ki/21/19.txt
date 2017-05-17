@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 You must speak to him and say that Yahweh says, 'Have you killed and also taken possession?' Then you will tell him that Yahweh says, 'In the place where dogs licked the blood of Naboth, the dogs will lick your blood, yes, your blood.'"
+\v 19 You must speak to him and say that Yahweh says, 'Have you killed and also taken possession?' And you will tell him that Yahweh says, 'In the place where dogs licked the blood of Naboth, the dogs will lick your blood, yes, your blood.'"
 \v 20 Ahab said to Elijah, "Have you found me, my enemy?" Elijah answered, "I have found you, because you have sold yourself to do what is evil in the sight of Yahweh.
 </usfm>
 
@@ -38,9 +38,9 @@
 
   * **Have you killed and also taken possession?** - Yahweh asks this question to scold Ahab. AT: "You have killed Naboth and stolen his vineyard!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **your blood, yes, your blood** - This is repeated for emphasis.
-  * **Have you found me, my enemy?** - Ahab uses this question to express anger toward Elijah. That Elijah "found" Ahab likely refers to Elijah discovering Ahab's actions, not to finding his physical location. AT: "You have found me, my enemy!" or "You have discovered what I have done, my enemy!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **you have sold yourself to do what is evil** - A person being committed to doing what is evil is spoken of as if that person had sold himself to evil. AT: "you have dedicated yourself to doing what is evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **what is evil in the sight of Yahweh** - The phrase, "in the sight of" refers to someone's opinion. See how you translated this in [[:en:bible:notes:1ki:11:05|11:6]]. AT: "what Yahweh considers to be evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Have you found me, my enemy?** - Ahab uses this question to express anger toward Elijah. AT: "You have found me, my enemy!" or "You have discovered what I have done, my enemy!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **sold yourself to do what is evil** - AT: "dedicated yourself to do what is evil" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **what is evil in the sight of Yahweh** - AT: "what Yahweh considers to be evil" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:21]]
 **[[:en:bible:notes:1ki:21:17|<<]] | [[:en:bible:notes:1ki:21:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass yahweh}}
+~~DISCUSSION~~{{tag>publish p2edit yahweh}}
 
 ~~NOCACHE~~

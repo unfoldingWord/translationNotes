@@ -37,8 +37,7 @@
 ===== translationNotes: =====
 
 
-  * **the house** - Here this represents a temple. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **El Berith** - The word "El" means "god." This is the same false god as "Baal Berith" in [[:en:bible:notes:jdg:08:32|8:33]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **El Berith** - Use a name similar to Baal Berith in [[:en:bible:notes:jdg:08:32|8:33]] since this is referring to the temple of a Baal god.
   * **Abimelech was told** - This can be stated in active form. AT: "Someone told Abimelech" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
  
@@ -53,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

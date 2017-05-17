@@ -19,10 +19,11 @@
 
 <usfm>
 \v 21 It is certain that evil people will not escape their punishment.
-\q2 and the children of those who do right will be kept safe.
+\q2 and the children of those who do right will be kept safe. 
 \q1
-\v 22 If you see a gold ring in a pig's nose,
-\q2 that is very much like a beautiful woman who does not have good sense.
+\v 22 If you see a gold ring in a pig's nose, 
+\q2 that is very much like a beautiful woman who does not have good sense. 
+
 
 \q1
 </usfm>
@@ -32,8 +33,8 @@
 
 <usfm>
 \q
-\v 21 Be sure of this—the wicked person will not go unpunished,
-\q but the descendants of righteous people will be kept safe.
+\v 21 Be sure of this—wicked people will not go unpunished,
+\q but the descendants of those who do what is right will be kept safe.
 \q
 \v 22 Like a gold ring in a pig's nose
 \q is a beautiful woman without discretion.
@@ -51,9 +52,9 @@
 ===== translationNotes: =====
 
 
-  * **will not go unpunished** - "will be punished" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **will not go unpunished** - "will be punished" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
   * **Like a gold ring ... without discretion** - A beautiful woman without discretion is compared to a useless and unsuitable golden ring in a pig's nose. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **without discretion** - " without common sense" or "who is foolish"
+  * **discretion** - "common sense" or "understanding"
  
 ===== Links: =====
 
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:11]]
 **[[:en:bible:notes:pro:11:19|<<]] | [[:en:bible:notes:pro:11:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -38,10 +38,10 @@
 
 <usfm>
 \q1
-\v 5 I looked, and there was no one to help. I wondered that there was none to help,
+\v 5 I looked, and there was no one to help. I wondered that there was none to help, 
 \q1 but my own arm brought victory for me, and my strong anger drove me on.
 \q1
-\v 6 I trampled down the peoples in my anger and made them drunk in my wrath,
+\v 6 I trampled down the peoples in my anger and made them drunk in my wrath, 
 \q1 and I poured out their blood on the earth.
 </usfm>
 
@@ -56,8 +56,7 @@
   * **General Information:** - Yahweh continues speaking.
 
   * **but my own arm** - Here "arm" represents power. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **and made them drunk in my wrath** - This means Yahweh made them stunned and senseless by his full wrath and punishment. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I poured out their blood** - Here "blood" represents the life of Yahweh's enemies that was gushing out so they would die. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and made them drunk in my wrath** - This means Yahweh made them experience his full wrath and punishment. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
  
 ===== Links: =====
@@ -67,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:63]]
 **[[:en:bible:notes:isa:63:03|<<]] | [[:en:bible:notes:isa:63:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

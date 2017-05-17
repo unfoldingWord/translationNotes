@@ -16,7 +16,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 From the descendants of Pahathmoab, the descendants of Jeshua and Joab, 2,818,
+\v 11 From the descendants of Pahathmoab, the descendants of Jeshua and Joab, 2,818, 
 \li2
 \v 12 from the descendants of Elam, 1,254,
 \li2
@@ -44,10 +44,11 @@
   * [[:en:obe:other:joab]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile. (See [[:en:ta:vol2:translate:translate_numbers]])
+  * **Connecting Statement:** - Nehemiah is continuing to recount the number of people who returned from exile.
 
-  * **through the descendants of Jeshua and Joab** - "that is, the descendants of Jeshua and Joab"
-  * **Pahath Moab ... Jeshua ... Joab ... Elam ... Zattu ... Zaccai** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Pahath Moab** - Pahath Moab is a place name. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the descendants of Jeshua and Joab** - "that is, the descendants of Jeshua and Joab"
+  * **Jeshua ... Joab ... Elam ... Zattu ... Zaccai** - These are the names of the patriarchs of each family group. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -56,6 +57,6 @@
   * [[:en:bible:questions:comprehension:neh:07]]
 **[[:en:bible:notes:neh:07:08|<<]] | [[:en:bible:notes:neh:07:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass joab}}
+~~DISCUSSION~~{{tag>publish p2edit joab}}
 
 ~~NOCACHE~~

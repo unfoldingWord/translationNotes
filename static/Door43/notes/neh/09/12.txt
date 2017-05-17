@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 You led them by a pillar of cloud during by day, and by a pillar of fire during the night to light the way for them to go.
+\v 12 You led them by a pillar of cloud during the by day, and by a pillar of fire during the night, to light up the way for them so they could walk in its light.
 \v 13 On Mount Sinai you came down and you spoke with them from heaven and gave to them righteous decrees and true laws, good statutes and commandments.
 </usfm>
 
@@ -40,12 +40,12 @@
   * [[:en:obe:other:command]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
+  * **General Information:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel.
 
-  * **You led them** - Yahweh led the Israelites.
+  * **You led them** - Here "You" refers to Yahweh, and "them" refers to the Israelites.
+  * **to light up the way for them so they could walk in its light** - AT: "to light up the way they should go"
   * **you came down** - When God talks with his people, he is often described as "coming down" or "coming down from heaven." This is a descriptive way of saying that God appeared to that person. AT: "you appeared" or "you came down from heaven" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **righteous decrees and true laws, good statutes and commandments** - Both of these double phrases describe the same thing, the law of Moses. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-
+  * **righteous decrees and true laws, good statutes and commandments** - Both of these double phrases describe the same thing: the law of Moses. (See: [[:en:ta:vol2:translate:figs_doublet]])
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:neh:09]]
 **[[:en:bible:notes:neh:09:11|<<]] | [[:en:bible:notes:neh:09:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass light}}
+~~DISCUSSION~~{{tag>publish p2edit light}}
 
 ~~NOCACHE~~

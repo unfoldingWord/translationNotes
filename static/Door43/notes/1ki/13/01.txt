@@ -26,7 +26,7 @@
 \c 13
 \p
 \v 1 A man of God came out of Judah by the word of Yahweh to Bethel. Jeroboam was standing by the altar to burn incense.
-\v 2 He cried against the altar by the word of Yahweh: "Altar, altar! This is what Yahweh says, 'See, a son named Josiah will be born to the family of David, and on you he will sacrifice the priests of the high places who now burn incense on you. On you they will burn human bones.'"
+\v 2 He cried against the altar by the word of Yahweh: "Altar, altar!" this is what Yahweh says, 'See, a son named Josiah will be born to the family of David, and on you he will sacrifice the priests of the high places who now burn incense on you. On you they will burn human bones.'"
 \v 3 Then the man of God gave a sign the same day, saying, "This is the sign that Yahweh has spoken: 'Look, the altar will be split apart, and the ashes on it will be poured out.'"
 </usfm>
 
@@ -50,16 +50,12 @@
 
 ===== translationNotes: =====
 
-  * **A man of God came out of Judah by the word of Yahweh to Bethel** - The implied information is that Yahweh sent the man of God to Bethel. This can be stated in active form. AT: "Yahweh sent a man of God from Judah to Bethel" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **A man of God** - This is another title for a prophet. AT: "A prophet"
-  * **came out of Judah** - "came from Judah"
-  * **the word of Yahweh** - Here "word" represents Yahweh's message. AT: "the message of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **He cried against the altar** - Here "He" refers to the man of God.
-  * **cried against the altar** - This means he prophesied toward the altar in a loud and condemning voice. AT: "prophesied loudly toward the altar" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **cried against the altar** - AT: "prophesied loudly against the altar" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **Altar, altar** - The prophet spoke to the altar as if it were a person who could hear him. He said this twice for emphasis. (See: [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_personification]])
-  * **a son named Josiah will be born to the family of David** - Here the "family of David" refers to the descendants of David. This can be stated in active form. AT: "a descendant of David will have a son named Josiah" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a son named Josiah will be born to the family of David** - This can be stated in active form. AT: "a descendant of David will have a son named Josiah" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **they will burn** - Here "they" refers to Josiah and the people with him.
-  * **the altar will be split apart, and the ashes on it will be poured out** - This can be stated in active form. AT: "Yahweh will split the altar apart and the ashes on it will fall to the ground" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the altar will be split apart, and the ashes on it will be poured out** - This can be stated in active form. AT: "Yahweh will split the altar apart and will scatter the ashes that are on it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -67,6 +63,6 @@
   * [[:en:bible:questions:comprehension:1ki:13]]
 **[[:en:bible:notes:1ki:12:33|<<]] | [[:en:bible:notes:1ki:13:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass son wordofgod}}
+~~DISCUSSION~~{{tag>publish p2edit son wordofgod}}
 
 ~~NOCACHE~~

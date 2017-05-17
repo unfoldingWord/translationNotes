@@ -39,9 +39,7 @@
 
 ===== translationNotes: =====
 
-  * **Makkedah** - This is the name of a city. See how you translated it in [[:en:bible:notes:jos:10:09|10:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **He completely destroyed them and every living creature there. He left no survivors.** - The second sentence summarizes the first sentence to emphasize that Joshua left no person or animal alive. (See: [[:en:ta:vol2:translate:figs_parallelism]])
- 
+  * **He completely destroyed them and every living creature there. He left no survivors.** - The second sentence summarizes the first sentence to emphasize that Joshua left no person or animal alive. (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -55,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass creature}}
+{{tag>publish p2check creature}}
 
 ~~NOCACHE~~

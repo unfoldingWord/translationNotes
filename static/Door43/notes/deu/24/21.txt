@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 21 When you gather the grapes of your vineyard, you must not glean it again. What is left over will be for the foreigner, for the fatherless, and for the widow.
+\v 21 When you gather the grapes of your vineyard, you must not glean after yourself; it will be for the foreigner, for the fatherless, or for the widow.
 \v 22 You must call to mind that you were a slave in the land of Egypt; therefore I instruct you to obey this command.
 </usfm>
 
@@ -40,8 +40,7 @@
 
   * **General Information:** - Moses speaks to the Israelites as if they were one man, so the words "you" and "your" here are singular. (See: [[:en:ta:vol1:translate:figs_you]])
 
-  * **it will be for the foreigner, for the fatherless, or for the widow** - "the grapes that you do not pick will be for the foreigner, the fatherless, and the widow to pick"
-  * **for the foreigner, for the fatherless, or for the widow** - These refer to groups of people. AT: "for foreigners, for those who are fatherless, or for the widows" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **it will be for the foreigner** - "the grapes that you do not pick will be for the foreigner to pick and take with him"
   * **call to mind** - This is an idiom. AT: "remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
@@ -51,6 +50,6 @@
   * [[:en:bible:questions:comprehension:deu:24]]
 **[[:en:bible:notes:deu:24:19|<<]] | [[:en:bible:notes:deu:25:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass glean}}
+~~DISCUSSION~~{{tag>publish p2check glean}}
 
 ~~NOCACHE~~

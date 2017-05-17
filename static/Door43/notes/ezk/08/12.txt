@@ -21,8 +21,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 He said to me, "Son of man, do you see what the elders of the house of Israel are doing in the dark? Each one does this in the hidden chamber of his idol, for they say, 'Yahweh does not see us! Yahweh has forsaken the land.'"
-\v 13 Then he said to me, "Turn again and see the other great abominations that they are doing."
+\v 12 Then he said to me, "Son of man, do you see what the elders of the house of Israel are doing in the dark? Each one does this in the hidden chamber of his idol, for they say, 'Yahweh does not see us! Yahweh has forsaken the land.'"
+\v 13 And he said to me, "Turn again and see the other great abominations that they are doing."
 </usfm>
 
 ===== translationWords: =====
@@ -32,8 +32,8 @@
 
 ===== translationNotes: =====
 
-  * **do you see what the elders of the house of Israel are doing in the dark?** - God is commanding Ezekiel to look at what the elders are doing. AT: "look at what the elders of the house of Israel are doing in the dark." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate as in [[:en:bible:notes:ezk:03:01|3:1]]. AT: "the Israelites" or "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **do you see what the elders of the house of Israel are doing in the dark** - God asked this question so Ezekiel would look at what God was telling him to look at. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the house of Israel** - See how you translated this in [[:en:bible:notes:ezk:03:01|3:1]].
   * **the hidden chamber of his idol** - "the room where no one can see him worship his idol" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:ezk:08]]
 **[[:en:bible:notes:ezk:08:10|<<]] | [[:en:bible:notes:ezk:08:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

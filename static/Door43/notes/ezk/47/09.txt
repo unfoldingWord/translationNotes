@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 9 It will be that every living creature that swarms will live where the water goes; there will be many fish, for these waters flow there. It will make the salt water fresh. Everything will live wherever the river goes.
+\v 9 Every living creature which swarms where the water goes; there will be many fish for these waters flow there. It will make the salt water fresh. Everything will live wherever the river goes.
 \v 10 Then it will happen that fishermen of En Gedi will stand by the water, and there will be a place to dry out the fishing nets by En Eglaim. There will be many kinds of fish in the Salt Sea, like the fish in the Great Sea for their abundance.
 </usfm>
 
@@ -30,9 +30,9 @@
 
 ===== translationNotes: =====
 
-  * **Then it will happen** - Translate as in [[:en:bible:notes:ezk:21:06|21:7]].
+  * **Then it will happen** - See how you translated this in [[:en:bible:notes:ezk:21:06|21:7]].
   * **En Gedi** - a very large spring on the western side of the Salt Sea
-  * **a place to dry out the fishing nets** - "a place for people to dry out their fishing nets"
+  * **to dry out** - "for people to dry out"
   * **En Eglaim** - a large spring on the eastern side of the Salt Sea
 
 ===== Links: =====
@@ -42,6 +42,6 @@
   * [[:en:bible:questions:comprehension:ezk:47]]
 **[[:en:bible:notes:ezk:47:06|<<]] | [[:en:bible:notes:ezk:47:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check fisherman}}
+~~DISCUSSION~~{{tag>publish p2edit fisherman}}
 
 ~~NOCACHE~~

@@ -22,13 +22,17 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 Listen to the word that Yahweh says, 
-\q2 you who rule over the people of Jerusalem,
-\q2 you who mock and make fun of me!
+\v 14 Because of what will happen in Samaria,
+\q2 you rulers in Jerusalem who make fun of me;
+\q2 listen to this message from Yahweh:
 \q1
 \v 15 You boast and say,
-\q1 "We made a promise with death to ensure that the power of death, when it passes over us, it cannot get to us.
-\q2 We tried to turn our lying words into a shelter in which we could hide.  
+\q1 "We have made an alliance with the leaders of Egypt,
+\q2 so we will not be killed in battles;
+\q2 we will never go to the place where the dead people are.
+\q1 When the army of Assyria attacks us, they will never defeat us,
+\q2 because we have made an agreement with Egypt to protect us!"
+\q1 But that agreement consists of a lot of lies.
 
 
 \p
@@ -38,14 +42,14 @@
 ===== ULB: =====
 
 <usfm>
-\m
+\p
 \q1
-\v 14 So listen to the word of Yahweh, you who mock,
-\q1 you who rule over this people who are in Jerusalem.
+\v 14 So listen to the word of Yahweh, you who mock, 
+\q1 who rule this people in Jerusalem.
 \q1
-\v 15 This will happen because you said, "We have made a covenant with death,
-\q1 and with Sheol we have reached an agreement. So when the overwhelming whip passes through, it will not reach us.
-\q1 For we have made a lie our refuge, and taken shelter in falsehood."
+\v 15 You have said, "We have made a covenant with death;
+\q1 with Sheol we have reached an agreement. So when the overflowing judgment passes through, it will not reach us, 
+\q1 for we have made a lie our refuge, and in falsehood we have hidden."
 </usfm>
 
 
@@ -63,23 +67,24 @@
 
 ===== translationNotes: =====
 
-  * **So listen to the word of Yahweh** - Isaiah now speaks to the leaders of Jerusalem. Here "word" represents a message. AT: "So listen to Yahweh's message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **We have made a covenant with death, and with Sheol we have reached an agreement** - Both of these statements mean basically the same thing. Possible meanings are 1) the leaders of Jerusalem have used magic or sorcery to try to make an agreement with the gods of the place of the dead so that these gods would protect them from dying or 2) this is a metaphor that speaks of the leaders having made an agreement with the leaders of Egypt. The leaders of Jerusalem were so confident that the Egyptians would protect that it was like they had made an agreement with the gods of the place of the dead. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **So when the overwhelming whip passes through, it will not reach us** - This speaks of Yahweh's judgment and punishment as if it were a whip that would strike the people. And the whip is spoken of as if it were a flood that would pass through Jerusalem. AT: "As a result, when everyone else is suffering and dying, nothing will harm us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **For we have made a lie our refuge, and taken shelter in falsehood** - These two phrases mean basically the same thing. A "lie" and "falsehood" are spoken of as if they were places where a person could go to hide. The leaders in Jerusalem would not have said they trust in a lie. They believed they were truly safe. But Isaiah knows they are not safe, because they trust in lies. AT: "For lies and falsehoods have become like a place where we can hide from danger" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a lie our refuge ... taken shelter in falsehood** - Possible meanings are 1) the leaders trust in their own lies that they have said in order to protect themselves or 2) the leaders trust that the covenant they have made with the false gods of the place of the dead will keep them safe or 3) the leaders trust that the agreement they have made with the Egyptians will keep them safe.
-
+  * **So listen to the word of Yahweh** - "So listen to Yahweh's message." Isaiah now speaks to the leaders of Jerusalem.
+  * **We have made a covenant with death; with Sheol we have reached an agreement** - Isaiah quotes the leaders who believe nothing bad will happen. They describe death and Sheol as a person that makes a covenant with them. AT: "Nothing bad will ever happen to us in Jerusalem. It is like we made a deal with death itself" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **So when the overflowing judgment passes through, it will not reach us** - This compares God's judgment to a flood of water. AT: "As a result when God judges the people, and the enemy army comes like a flood, it will not harm us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for we have made a lie our refuge, and in falsehood we have hidden** - These two phrases mean basically the same thing. AT: "for we have trusted a lie to protect us" (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
   * [[:en:bible:notes:isa:28:00]]
   * [[:en:bible:questions:comprehension:isa:28]]
+
+ 
+
 **[[:en:bible:notes:isa:28:13|<<]] | [[:en:bible:notes:isa:28:16|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

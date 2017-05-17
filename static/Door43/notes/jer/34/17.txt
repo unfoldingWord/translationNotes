@@ -43,13 +43,10 @@
  
 ===== translationNotes: =====
 
+  * **So look! I am about to proclaim freedom to you ... freedom for the sword, the plague, and famine** - AT: "So because you have not obeyed me, I will allow you to be punished by the sword, the plague, and famine" (See: [[:en:ta:vol1:translate:figs_irony]])
   * **So look!** - "Listen!" or "Pay attention to the important thing I am going to tell you!"
-  * **I am about to proclaim freedom to you ... freedom for the sword, the plague, and famine** - Jeremiah uses irony to say that the "freedom" they people will enjoy will actually be suffering. AT: "I will proclaim misery to you ... misery from the sword, the plague, and famine" (See: [[:en:ta:vol1:translate:figs_irony]])
-  * **proclaim freedom to you** - "proclaim that you are free"
-  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **sword** - This is a metonym for soldiers who carry swords. AT: "enemy soldiers to kill you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **when they cut a bull ... walked ... walked between the parts of the bull** - This passage describes how the people established the covenant. (See: [[:en:ta:vol2:translate:writing_background]])
-  * **established before me** - "agreed to with me" or "established while I was watching"
+  * **established before me** - AT: "agreed to with me"
+ 
  
 ===== Links: =====
 
@@ -58,6 +55,6 @@
   * [[:en:bible:questions:comprehension:jer:34]]
 **[[:en:bible:notes:jer:34:15|<<]] | [[:en:bible:notes:jer:34:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check eunuch}}
+~~DISCUSSION~~{{tag>publish p2edit eunuch}}
 
 ~~NOCACHE~~

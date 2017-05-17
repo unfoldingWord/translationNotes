@@ -21,7 +21,7 @@
 <usfm>
 \p
 \v 3 So Jeremiah said to them, "This is what you must say to Zedekiah,
-\v 4 'Yahweh, God of Israel, says this: See, I am about to turn back the instruments of war that are in your hand, with which you are fighting against the king of Babylon and the Chaldeans
+\v 4 'Yahweh, God of Israel, says this: See, I am about to turn back the instruments of war that are in your hand, with which you are fighting against the king of Babylon and the Chaldeans 
 who are closing you in from outside the walls! For I will gather them in the middle of this city.
 \v 5 Then I myself will fight against you with a raised hand and a strong arm, and with wrath, fury, and great anger.
 </usfm>
@@ -39,15 +39,10 @@ who are closing you in from outside the walls! For I will gather them in the mid
 
 ===== translationNotes: =====
 
-  * **See** - This tells the reader to pay special attention to what follows.
-  * **turn back** - Possible meanings are 1) to make useless or 2) to send back into the city.
-  * **the instruments of war that are in your hand** - Possible meanings are 1) the instruments of war refers to the soldiers who carry them and "hand" represents control. AT: "the soldiers that you command" or 2) the instruments of war are literal weapons and "your hand" represent both the king and his soldiers. AT: "the weapons that you and your soldiers carry" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Chaldeans** - This term here is another name for the Babylonians.
+  * **the instruments of war that are in your hand** - AT: "the soldiers that you command" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **closing you in** - "coming close to you"
-  * **I will gather them** - Possible meanings are 1) Yahweh will allow the Babylonians to enter the city or 2) Yahweh will cause the Israelites to bring their weapons back into the center of the city.
-  * **Then I myself** - This is emphatic and stresses that Yahweh is the one who will do this. (See: [[:en:ta:vol2:translate:figs_rpronouns]])
-  * **with a raised hand and a strong arm** - Both of these phrases are idiomatic expressions that refer to great power. AT: "with very great power" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_doublet]])
-  * **with wrath, fury, and great anger** - These words all mean basically the same thing. Together they emphasize the great intensity of his anger. AT: "with extremely great anger" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **with a raised hand and a strong arm** - Both of these phrases are idiomatic expressions that refer to great power. AT: "with very great power." (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_doublet]])
+  * **with wrath, fury, and great anger** - These words all mean basically the same thing. Together they emphasize the great intensity of his anger. AT: "with extremely great anger." (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
 
@@ -56,6 +51,6 @@ who are closing you in from outside the walls! For I will gather them in the mid
   * [[:en:bible:questions:comprehension:jer:21]]
 **[[:en:bible:notes:jer:21:01|<<]] | [[:en:bible:notes:jer:21:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

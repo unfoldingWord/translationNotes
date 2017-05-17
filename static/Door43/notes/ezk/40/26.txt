@@ -13,7 +13,7 @@
 
 <usfm>
 \v 26 There were seven steps leading up to that gate and its portico. It also had carvings of palm trees on the walls that were between the rooms.
-\v 27 Across the outer courtyard from the south gate was a gate opening onto the inner courtyard. The man measured from that gateway to the entrance on the south side of the outer courtyard; it was also fifty-four meters in distance.
+\v 27 Across the outer courtyard from the south gate was a gate opening onto the inner courtyard. The man measured from that gateway to the entrance on the south side of the outer courtyard; it was also about fifty-four meters in distance.
 
 
 \p
@@ -33,12 +33,9 @@
 
 ===== translationNotes: =====
 
-  * **portico** - Translate this as in [[:en:bible:notes:ezk:08:16|8:16]]
-  * **on either side** - "on both sides"
-  * **cubits** - Translate these "long" cubits as in [[:en:bible:notes:ezk:40:05|40:05]].
-  * **one hundred cubits** - about fifty-four meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
-
-
+  * **portico** - See you translated this in [[:en:bible:notes:ezk:08:16|8:16]]
+  * **cubits** - See how you translated these "long" cubits in [[:en:bible:notes:ezk:40:05|40:05]].
+  * **one hundred cubits** - About fifty-four meters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -46,6 +43,6 @@
   * [[:en:bible:questions:comprehension:ezk:40]]
 **[[:en:bible:notes:ezk:40:24|<<]] | [[:en:bible:notes:ezk:40:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -25,8 +25,8 @@
 
 <usfm>
 \v 24 All the men of the city listened to Hamor and Shechem, his son. Every male was circumcised.
-\v 25 On the third day, when they were still in pain, two of the sons of Jacob (Simeon and Levi, Dinah's brothers), each took his sword and they attacked the city that was certain of its security, and they killed all the males.
-\v 26 They killed Hamor and his son Shechem with the edge of the sword. They took Dinah from Shechem's house and went away.
+\v 25 On the third day, when they were very sore, two of the sons of Jacob, Simeon and Levi, Dinah's brothers, each man took his sword and went to the unsuspecting city, and killed all the males.
+\v 26 They killed Hamor and Shechem, his son, with the edge of the sword. They took Dinah from Shechem's house and left.
 </usfm>
 
 
@@ -45,10 +45,10 @@
 
   * **Every male was circumcised** - This can be stated in active form. AT: "So Hamor and Shechem had someone circumcise all the men" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **On the third day** - "third" is the ordinal number for three. It can be stated without the ordinal number. AT: "After two days" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **when they were still in pain** - "when the men of the city were still in pain"
-  * **each took his sword** - "took their swords"
-  * **they attacked the city** - Here "city" stands for the people. AT: "they attacked the people of the city" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **security, and they killed all the males** - This can be translated as a new sentence. "security. Simeon and Levi killed all the men of the city"
+  * **when they were very sore** - "when the men of the city were very sore"
+  * **each man took his sword** - "took their swords"
+  * **went to the unsuspecting city** - Here "city" stands for the people. AT: "entered the city where the people did not think the Israelites would harm them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **city, and killed all the males** - This can be translated as a new sentence. "city. Simeon and Levi killed all the men of the city"
   * **with the edge of the sword** - Here "edge" stands for the blade of the sword. AT: "with the blade of their swords" or "with their swords" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 
@@ -57,11 +57,14 @@
   * [[:en:bible:notes:gen:00:intro]]
   * [[:en:bible:notes:gen:34:00]]
   * [[:en:bible:questions:comprehension:gen:34]]
+
+ 
+
 **[[:en:bible:notes:gen:34:22|<<]] | [[:en:bible:notes:gen:34:27|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass simeon sword}}
+{{tag>publish p2review simeon sword}}
 
 ~~NOCACHE~~

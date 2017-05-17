@@ -13,7 +13,7 @@
 
 <usfm>
 \v 9 But David whispered to Abishai, "No, do not kill Saul. Yahweh has appointed him to be king, so Yahweh will surely punish anyone who kills him.
-\v 10 Just as surely as Yahweh is alive, he himself will punish Saul. Perhaps Yahweh will strike him when it is Saul's time to die, or perhaps Saul will be killed in a battle.
+\v 10 Just as surely as Yahweh lives, he himself will punish Saul. Perhaps Yahweh will strike him when it is Saul's time to die, or perhaps Saul will be killed in a battle.
 </usfm>
 
 
@@ -37,9 +37,8 @@
 
 ===== translationNotes: =====
 
-  * **who can extend his hand against Yahweh's anointed one and be guiltless?** - This rhetorical question can be translated as a statement. AT: " No one can strike Yahweh's anointed one and be without guilt." This can also be stated in positive form. AT: "Anyone who strikes Yahweh's anointed one will be guilty of murder." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_litotes]])
-  * **As Yahweh lives** - "as certainly as Yahweh lives" or "as surely as Yahweh lives" (UDB)
-  * **his day will come to die** - "he will die a natural death"
+  * **who can extend his hand against Yahweh's anointed one and be guiltless?** - This rhetorical question can be translated as a statement. AT: " No one can strike Yahweh's anointed one justly." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **As Yahweh lives** - "as certainly as Yahweh lives" or "as surely as Yahweh lives" (UDB) 
  
 ===== Links: =====
 
@@ -48,6 +47,6 @@
   * [[:en:bible:questions:comprehension:1sa:26]]
 **[[:en:bible:notes:1sa:26:06|<<]] | [[:en:bible:notes:1sa:26:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

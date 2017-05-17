@@ -22,11 +22,11 @@
 
 <usfm>
 \q
-\v 7 But there was another great eagle with large wings and many feathers.
-\q Behold! This vine turned its roots toward the eagle,
+\v 7 But there was another great eagle with large wings and many feathers. 
+\q And behold! This vine turned its roots toward the eagle, 
 \q and it spread out its branches toward the eagle from the place it had been planted so it would be watered.
 \q
-\v 8 It had been planted in good soil beside a large body of water
+\v 8 It had been planted in good soil beside a large body of water 
 \q so it would produce branches and sprout fruit, to become a magnificent vine.'
 </usfm>
 
@@ -39,11 +39,13 @@
 
   * **General Information:** - The introductory "but" shows that a different eagle is being describe than the one before.
 
-  * **another great eagle** - "another large eagle"
-  * **Behold!** - The word "Behold" here alerts us to pay attention to the surprising information that follows.
-  * **This vine turned its roots toward the eagle** - Yahweh speaks of the vine as if it were able to behave like a person and intentionally turned its roots toward the other eagle to receive nourishment from it. AT: "The roots of the vine grew toward the eagle" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **from the place it had been planted so it would be watered** - This can be stated in active form. AT: "from the place that the first eagle had planted it so that it would have water" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **It had been planted** - This can be stated in active form. AT: "The first eagle had planted the vine" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **great eagle** - The eagle is large, powerful, and impressive bird.
+  * **behold!** - The word "behold" here alerts us to pay attention to the surprising information that follows.
+  * **This vine turned its roots toward the eagle** - AT: "The roots of the vine grew toward the eagle"
+  * **so it would be watered** - AT: "so the eagle would water the vine" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **It had been planted** - AT: "the first eagle had planted the vine."
+  * **beside a large body of water** - AT: "in a place where there was a lot of water"
+  * **so it would produce branches and sprout fruit, to become a magnificent vine** - "so that the vine would grow branches and fruit and be an impressive vine"
 
 ===== Links: =====
 
@@ -52,6 +54,6 @@
   * [[:en:bible:questions:comprehension:ezk:17]]
 **[[:en:bible:notes:ezk:17:05|<<]] | [[:en:bible:notes:ezk:17:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

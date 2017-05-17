@@ -27,9 +27,9 @@
 \p
 \v 1 This is the word of Yahweh that came to Hosea son of Beeri in the days of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel.
 \v 2 When Yahweh spoke at first through Hosea, he said to him,
-\q "Go, take for yourself a wife who is a prostitute.
+\q "Go, take for yourself a wife who is a prostitute. 
 \q She will have children who are the result of her prostitution.
-\q For the land is committing great prostitution
+\q For the land is committing great prostitution 
 \q by forsaking Yahweh."
 </usfm>
 
@@ -53,10 +53,9 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh that came** - This is an idiom. AT: "the word that Yahweh God spoke" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the word of Yahweh that came** - "the word that Yahweh God spoke" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **Beeri** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Uzziah ... Jotham ... Ahaz ... Hezekiah ... Jeroboam ... Joash** - The events in this book happened during the time of these kings. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
   * **great prostitution** - Here "prostitution" represents the people being unfaithful to God. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:hos:01]]
 **| [[:en:bible:notes:hos:01:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass hosea ahaz uzziah hezekiah}}
+~~DISCUSSION~~{{tag>publish p2check hosea ahaz uzziah hezekiah}}
 
 ~~NOCACHE~~

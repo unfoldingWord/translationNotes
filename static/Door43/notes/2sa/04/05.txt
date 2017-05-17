@@ -25,8 +25,8 @@
 
 <usfm>
 \p
-\v 5 So the sons of Rimmon the Beerothite, Rechab and Baanah, traveled during the heat of the day to the house of Ishbosheth, as he was resting at noon.
-\v 6 The woman guarding the door had fallen asleep while sifting wheat, and Rechab and Baanah walked in quietly and passed her.
+\v 5 So the sons of Rimmon the Beerothite, Rechab and Baanah, traveled during the heat of the day to the house of Ish Bosheth, as he was resting at noon.
+\v 6 The woman guarding the door had fallen asleep while sifting wheat, and Rechab and Baanah walked in quietly and passed her. 
 \v 7 So after they entered the house, they attacked him and killed him as he was lying on his bed in his room. Then they cut off his head and carried it away, traveling on the road all night to the Arabah.
 </usfm>
 
@@ -42,12 +42,7 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - The story returns to the actions of Rechab and Baanah who were introduced in [[:en:bible:notes:2sa:04:01|4:2]].
-
-  * **the heat of the day** - the middle of the day, the part of the day when it is the hottest
-  * **sifting wheat** - "cleaning chaff from wheat"
-
-
+  * **the heat of the day** - the middle of the day, the part of the day when it is the hottest 
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -55,6 +50,6 @@
   * [[:en:bible:questions:comprehension:2sa:04]]
 **[[:en:bible:notes:2sa:04:04|<<]] | [[:en:bible:notes:2sa:04:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass rimmon}}
+~~DISCUSSION~~{{tag>publish p2edit rimmon}}
 
 ~~NOCACHE~~

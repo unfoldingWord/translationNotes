@@ -37,10 +37,8 @@
  
 ===== translationNotes: =====
 
-  * **the King's Valley** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **to carry along the memory of my name** - Absalom uses the phrase "my name" to refer to himself and his family line. AT: "to carry on my family name, by which people would remember me" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **so it is called Absalom's Monument to this very day** - This can be stated in active form. AT: "so people called it Absalom's Monument from that day on" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **to this very day** - This refers to the present time when this book of the Bible was written. 
+  * **to carry along the memory of my name** - This means to remember who he was. AT: "to remind people of me so they will never forget me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to this very day** - This means to the time that these words were written and not to the present time in the twenty-first century.
  
 ===== Links: =====
 
@@ -55,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass absalom}}
+{{tag>publish p2edit absalom}}
 
 ~~NOCACHE~~

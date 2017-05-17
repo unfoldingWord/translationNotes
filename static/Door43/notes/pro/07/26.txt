@@ -27,11 +27,11 @@
 
 <usfm>
 \q
-\v 26 She has caused many people to fall down pierced;
-\q her dead victims are very many.
+\v 26 She has brought down many victims;
+\q they cannot be counted.
 \q
-\v 27 Her house is on the paths to Sheol;
-\q they go down to the dark bedrooms of death.
+\v 27 Her house is on the road to Sheol;
+\q it goes down to the rooms of death.
 </usfm>
 
 
@@ -43,10 +43,11 @@
 
 ===== translationNotes: =====
 
-  * **She has caused many people to fall down pierced** - Being pierced by spears or arrows represents being killed. AT: "She has caused many people to fall dead" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Her house is on the paths to Sheol ... they go down** - Here "paths" represents the kinds of behavior that foolish people participate in. Sheol was the name for the world of the dead. 
-  * **on the paths to Sheol ... down to the dark bedrooms of death** - These two phrases basically mean the same thing and are repeated to emphasize that the woman's victims will be destroyed. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **the dark bedrooms of death** - This expression pictures the dead as sleeping in many different rooms in Sheol. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **brought down** - On the one hand it is an idiom for "ruined" (UDB) or "destroyed", but it also begins the metaphor of entering Sheol which is always described as down. (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Her house** - AT: "She" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Her house is on the road to Sheol ... it goes down** - AT: "Her destination is Sheol; she is going down"
+  * **the rooms of death** - This expression pictures the dead as lying in many different rooms in Sheol. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **on the road to Sheol ... down to the rooms of death** - These two phrases basically mean the same thing and are repeated to emphasize that the adulteress will be destroyed. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 
 ===== Links: =====
@@ -56,6 +57,6 @@
   * [[:en:bible:questions:comprehension:pro:07]]
 **[[:en:bible:notes:pro:07:24|<<]] | [[:en:bible:notes:pro:08:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -32,6 +32,7 @@
 \q2 "Why am I working so hard; whom am I actually helping?
 \q1 Why am I not doing things that I would enjoy doing?
 \q2 What I have been doing seems useless." This is very bad.
+\b
 
 
 \q1
@@ -42,13 +43,13 @@
 
 <usfm>
 \v 7 Then I thought again about more futility, more vanishing vapor under the sun.
-\q1
-\v 8 There is the kind of man who is alone.
-\q2 He does not have anyone, no son or brother.
-\q1 There is no end to all his work,
-\q2 and his eyes are not satisfied with gaining wealth.
-\q1 He wonders, "For whom am I toiling
-\q2 and depriving myself of pleasure?"
+\q1 
+\v 8 There is the kind of man who is alone. 
+\q2 He does not have anyone, no son or brother. 
+\q1 There is no end to all his work, 
+\q2 and his eyes are not satisfied with gaining wealth. 
+\q1 He wonders, "For whom am I toiling 
+\q2 and depriving myself of pleasure?" 
 \q1 This also is vapor, a bad situation.
 </usfm>
 

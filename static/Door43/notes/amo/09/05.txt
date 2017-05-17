@@ -32,6 +32,7 @@
 \q1 He scoops up the water from the ocean and puts it into clouds,
 \q2 and then empties the clouds onto the earth.
 \q2 His name is Yahweh.
+\b
 
 
 \q1
@@ -41,6 +42,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 5 The Lord, Yahweh of hosts
 \q touches the land and it melts;
@@ -48,10 +50,10 @@
 \q all of it will rise up like the River,
 \q and sink again like the river of Egypt.
 \q
-\v 6 It is he who builds his steps in the heavens,
-\q and has established his vault over the earth.
+\v 6 It is he who builds his chambers in the heavens,
+\q and has established his vault on the earth.
 \q He calls for the waters of the sea,
-\q and pours them out on the surface of the earth,
+\q and pours them out on the face of the earth,
 \q Yahweh is his name.
 </usfm>
 
@@ -68,8 +70,7 @@
  
 ===== translationNotes: =====
 
-  * **he who builds his steps in the heavens** - These are probably the steps that ancient people imagined led up to God's palace in the heavens. However, some modern versions wish to read a different Hebrew word meaning "palace" or "rooms." Here "his steps" probably serves as metonymy for God's palace. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **has established his vault over the earth** - Some versions translate "has established his supports on the earth," that is, the structures that on which the earth rests.
+
 ===== Links: =====
 
   * [[:en:bible:notes:amo:00:intro]]

@@ -35,11 +35,10 @@
 
   * **General Information:** - Jehoram becomes king of Judah.
 
-  * **In the fifth year of Joram son of Ahab, king of Israel** - This describes the time that Jehoram began to reign by stating how long Joram, the current king of Israel, had reigned. AT: "In the fifth year that Jorman son of Ahab was king of Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **fifth year** - "5th year" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **In the fifth year of Joram son of Ahab, king of Israel** - AT: "During year 5 of the reign of King Joram, son of Ahab, over Israel," (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **Jehoram began to reign** - Jehoram, son of Jehoshaphat, became the king of Judah.
-  * **thirty-two years old** - "32 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
-
+  * **Jehoram was thirty-two years old** - "Jehoram was 32 years old"
+  * **he reigned for eight years** - "he reigned for 8 years."
 
 
 ===== Links: =====
@@ -49,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2ki:08]]
 **[[:en:bible:notes:2ki:08:13|<<]] | [[:en:bible:notes:2ki:08:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass joram}}
+~~DISCUSSION~~{{tag>publish p2edit joram}}
 
 ~~NOCACHE~~

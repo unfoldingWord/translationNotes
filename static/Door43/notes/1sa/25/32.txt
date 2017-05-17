@@ -16,13 +16,15 @@
 \v 33 I hope today God may help you because you have wisely kept me from killing people today, and from paying back evil for evil.
 </usfm>
 
+
 ===== ULB: =====
 
 <usfm>
 \p
 \v 32 David said to Abigail, "May Yahweh, the God of Israel, be blessed, he who sent you to meet me today.
-\v 33 Your wisdom is blessed and you are blessed, because you have kept me today from bloodshed and from avenging myself with my own hand!
+\v 33 And your wisdom is blessed, and you are blessed, because you have kept me today from guilt over shedding blood, and from avenging myself with my own hand.
 </usfm>
+
 
 ===== translationWords: =====
 
@@ -36,15 +38,13 @@
   * [[:en:obe:kt:blood]]
   * [[:en:obe:kt:avenge]]
   * [[:en:obe:other:hand]]
+ 
 
 ===== translationNotes: =====
 
   * **General Information:** - David accepts Abigail's counsel and gifts.
 
-  * **May Yahweh ... be blessed, he who** - This can be translated in active form. Possible meanings are 1) "I praise Yahweh ... who" (UDB) or 2) "May all people praise Yahweh ... who." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Your wisdom is blessed and you are blessed, because** - This can be translated in active form. AT: "I thank Yahweh because he has blessed you by making you wise and because" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **bloodshed** - murder. The same word appears in [[:en:bible:notes:1sa:25:25|25:26]].
-  * **with my own hand** - The word "hand" here is a metonym for the action taken by the hand. AT: "by my own actions" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **guilt over shedding blood** - David's guilt would have included the killing of Nabal's servants who supported David's request for food before Nabal.
  
 ===== Links: =====
 
@@ -56,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -34,8 +34,9 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 9 All who fashion idols are nothing; the things they delight in are worthless;
+\v 9 All who fashion idols are nothing; the things they delight in are worthless; 
 \q1 their witnesses cannot see or know anything, and they will be put to shame.
 \q1
 \v 10 Who would form a god or cast an idol that is worthless?
@@ -52,11 +53,11 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **the things they delight in are worthless** - "the idols they delight in are worthless"
-  * **their witnesses cannot see or know anything** - This phrase refers to those who worship these idols and who claim to be witnesses of the idols' power. Yahweh speaks of their inability to understand the truth as if they were blind. AT: "those who serve as witnesses for these idols are like blind people who know nothing" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they will be put to shame** - This can be stated in active form. AT: "they will be ashamed" or "their idols will put them to shame" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Who would form a god or cast an idol that is worthless?** - Yahweh is using this question to rebuke those who make idols. This question can be translated as a statement. AT: "Only fools would form a god or cast an idol that is worthless." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **cast an idol that is worthless** - The word "worthless" does not distinguish worthless idols from idols that have worth, because all idols are worthless. AT: "cast worthless idols" (See: [[:en:ta:vol2:translate:figs_distinguish]])
+  * **the things they delight in are worthless** - "the images that are precious to them are useless"
+  * **their witnesses cannot see or know anything** - This means that those who say idols have power are spiritually blind and do not understand the truth. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they will be put to shame** - This can be stated in active form. AT: "and I will put them to shame" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Who would form a god or cast an idol that is worthless?** - Yahweh is using this question to rebuke those who make idols. AT: "All those who make idols are foolish." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
  
 ===== Links: =====
 
@@ -71,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

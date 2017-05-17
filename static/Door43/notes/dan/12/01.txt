@@ -19,7 +19,7 @@
 <usfm>
 \c 12
 \p
-\v 1 "At that time Michael, the great prince who guards your people, will rise up. There will be a time of trouble such as never was since the beginning of any nation until that time. At that time your people will be saved, everyone whose name is found written in the book.
+\v 1 "At that time Michael, the great prince who guards your people, will rise up. There will be a time of trouble such as never was since the beginning of any nation until that time. At that time your people will be saved, everyone whose name is found written in the book. 
 \v 2 Many of those who sleep in the dust of the earth will rise up, some to everlasting life and some to shame and everlasting contempt.
 </usfm>
 
@@ -28,12 +28,12 @@
   * [[:en:obe:other:time]]
   * [[:en:obe:other:michael]]
   * [[:en:obe:other:prince]]
-  * [[:en:obe:kt:raise]]
   * [[:en:obe:other:trouble]]
   * [[:en:obe:other:nation]]
   * [[:en:obe:kt:save]]
   * [[:en:obe:kt:sleep]]
   * [[:en:obe:other:earth]]
+  * [[:en:obe:kt:raise]]
   * [[:en:obe:kt:eternity]]
   * [[:en:obe:kt:life]]
   * [[:en:obe:other:shame]]
@@ -41,13 +41,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The angel who appeared to Daniel in [[:en:bible:notes:dan:10:04|10:5]] continues speaking.
+  * **General Information:** - The angel continues telling Daniel what he started telling him in [[:en:bible:notes:dan:10:20|10:20]].
 
-  * **Michael, the great prince** - Michael is an archangel. Here he is also given the title "great prince."
-  * **Michael ... will rise up** - Here "rise up" is an idiom that means to appear. AT: "Michael ... will appear" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **your people will be saved** - This can be stated in active form. You can also make it clear that God will save the people. AT: "God will save your people" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **whose name is found written in the book** - This can be stated in active form. You can also make it clear that God writes names in the book. AT: "whose name God has written in the book"  (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **those who sleep in the dust of the earth will rise up** - The phrase "sleep in the dust of the earth" is another way of referring to those who have died. Here "rise up" is an idiom that means to come back to life. AT: "those who have died will come back to life" (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **your people will be saved** - AT: "God will save your people" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **whose name is found written in the book** - AT: "whose name God has written in the book" or "whose name is in the book" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -56,6 +53,6 @@
   * [[:en:bible:questions:comprehension:dan:12]]
 **[[:en:bible:notes:dan:11:44|<<]] | [[:en:bible:notes:dan:12:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass time sleep contempt}}
+~~DISCUSSION~~{{tag>publish p2edit time sleep contempt}}
 
 ~~NOCACHE~~

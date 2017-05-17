@@ -36,7 +36,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This is the end of a part of Moses' speech reminding the Israelites of how Yahweh guided them in the wilderness. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **General Information:** - This is the end of a part of Moses' speech reminding the Israelites of how Yahweh had guided them in the wilderness. (See: [[:en:ta:vol2:translate:writing_background]])
 
   * **Do not trouble Moab** - The word "Moab" is a synecdoche for the people of Moab. AT: "Do not trouble the people of Moab" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **Ar** - This is the name of a city in Moab. (See: [[:en:ta:vol1:translate:translate_names]])
@@ -55,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

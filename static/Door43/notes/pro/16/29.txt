@@ -18,11 +18,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 29 A violent person tells lies to his friend,
-\q2 and he leads him down a path that will never find what is good.
+\v 29 A violent person tells lies to his friend, 
+\q2 and he leads him down a path that will never find what is good. 
+\b
 \q1
-\v 30 The one who winks the eye is signaling to others it is time to begin their terrible plot;
-\q2 those who press their lips together, they do evil things.
+\v 30 The one who winks the eye is signaling to others it is time to begin their terrible plot; 
+\q2 those who press their lips together, they do evil things. 
+\b
 
 
 \q1
@@ -45,15 +47,10 @@
 
   * [[:en:obe:other:neighbor]]
   * [[:en:obe:kt:evil]]
-
 ===== translationNotes: =====
 
-  * **A man of violence lies to his neighbor** - It is implied that this man lies to his neighbor in order to get his neighbor to join him in violent actions. AT: "A man of violence entices his neighbor" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **A man of violence** - "A violent man" or "A man who practices violence"
-  * **leads him down a path that is not good** - The writer speaks of a person's actions as if they were a road on which the person walks. AT: "gets him to do things that are not good" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a path that is not good** - The writer uses an understatement to emphasize how bad this path is. AT: "a very bad path" or "a terrible path" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **The one who winks the eye ... those who purse the lips** - Both of these are facial gestures which people might use to signal their plans to others. See how you translated "winks the eye" in [[:en:bible:notes:pro:10:10|10:10]].
-  * **will bring evil to pass** - "will do evil things"
+  * **those who purse the lips** - The face will often show signs when a person is plotting evil.
+
  
 ===== Links: =====
 
@@ -68,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

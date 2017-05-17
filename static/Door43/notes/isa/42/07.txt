@@ -16,8 +16,9 @@
 
 <usfm>
 \v 7 For you will enable blind people to see,
-\q2 you will free those who are in prison
+\q2 you will free those who are in prison 
 \q2 and release those who are in dark dungeons.
+\b
 
 
 \q1
@@ -28,7 +29,7 @@
 
 <usfm>
 \q1
-\v 7 to open the eyes of the blind, to release the prisoners from the dungeon,
+\v 7 to open the eyes of the blind, to release the prisoners from the dungeon, 
 \q1 and from the house of confinement those who sit in darkness.
 </usfm>
 
@@ -42,8 +43,9 @@
 
   * **General Information:** - Yahweh continues describing what his servant will do.
 
-  * **to open the eyes of the blind** - Causing blind people to see is spoken of as if it were opening their eyes. Also, Yahweh speaks of his servant delivering those who have been wrongly imprisoned as if his servant were restoring sight to blind people. AT: "to enable the blind to see" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **to release the prisoners from the dungeon, and from the house of confinement those who sit in darkness** - These two phrases mean basically the same thing. The verb may be supplied in the second phrase. AT: "to release the prisoners from the dungeon, and to release those who sit in darkness from the house in which they are confined" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **to release the prisoners from the dungeon, and from the house of confinement those who sit in darkness.** - These two phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+
+
  
 ===== Links: =====
 
@@ -55,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

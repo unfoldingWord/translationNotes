@@ -11,7 +11,7 @@
 
 <usfm>
 \v 28 Solomon's agents bought horses and supervised the bringing of them into Israel from the areas of Egypt and Cilicia that were famous for breeding horses.
-\v 29 In Egypt they bought chariots and horses. They paid six and one-half kilograms of silver for each chariot and one and three-fifth kilograms of silver for each horse. They brought them to Israel. Then they sold many of them to the kings of the Hittite people group and the kings of Aram.
+\v 29 In Egypt they bought chariots and horses. They paid about 6.5 kilograms of silver for each chariot and about 1.6 kilograms of silver for each horse. They brought them to Israel. Then they sold many of them to the kings of the Hittite people group and the kings of Aram.
 </usfm>
 
 ===== ULB: =====
@@ -34,10 +34,9 @@
 
 ===== translationNotes: =====
 
-  * **that had been bought from Egypt** - This can be stated in active form. AT: "that his merchants had bought from people in Egypt" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **that had been bought from Egypt** - This can be stated in active form. AT: "that his merchants had bought from Egypt" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Chariots were purchased** - This can be stated in active form. AT: "His merchants purchased chariots" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **six hundred shekels of silver ... 150 shekels** - A shekel is a unit of weight equal to about 11 grams. AT: "about 6.6 kilograms of silver ... about 1.7 kilograms" (See: [[:en:ta:vol2:translate:translate_bweight]])
-  * **six hundred shekels of silver** - "600 shekels of silver" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **Many of these were then sold** - This can be stated in active form. AT: "His merchants then sold many of these" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
@@ -47,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:10]]
 **[[:en:bible:notes:1ki:10:26|<<]] | [[:en:bible:notes:1ki:11:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass flock}}
+~~DISCUSSION~~{{tag>publish p2edit flock}}
 
 ~~NOCACHE~~

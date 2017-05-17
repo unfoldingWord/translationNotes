@@ -25,8 +25,8 @@
 <usfm>
 \p
 \v 15 Then the word of Yahweh came to me and said,
-\v 16 "So now you, son of man, take one stick for yourself and write on it, 'For Judah and for the people of Israel, his companions.' Then take another stick and write on it, 'For Joseph, the branch of Ephraim, and for all the people of Israel, their companions.'
-\v 17 Bring both of them together into one stick, so that they become one in your hand.
+\v 16 "Now you, son of man, take one stick for yourself and write on it, 'For Judah and for the people of Israel, his companions.' And take another stick and write on it, 'For Joseph, the branch of Ephraim, and for all the people of Israel, their companions.' 
+\v 17 Then bring both of them together into one stick, so that they become one in your hand.
 </usfm>
 
 ===== translationWords: =====
@@ -39,11 +39,12 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **For Judah** - Here "For" means "representing." AT: "Representing Judah" or "Belonging to Judah"
+  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]].
+  * **For Judah** - AT: "Representing Judah" or "Belonging to Judah."
   * **Judah** - The tribe of Judah lived in the southern kingdom of Israel which was called Judah. Here the name is used to refer to the whole southern kingdom. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **the people of Israel, his companions** - This refers to the Israelites who lived in the southern kingdom of Judah. AT: "all the tribes of Judah" (UDB) or "the tribes of Israel who are part of the kingdom of Judah"
-  * **For Joseph, the branch of Ephraim** - Joseph was Ephraim's father. The tribe of Ephraim lived in the northern kingdom of Israel. Here the names are used to represent to the whole northern kingdom. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Ephraim** - The tribe of Ephraim lived in the northern kingdom of Israel. Here the name is used to refer to the whole northern kingdom. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **all the people of Israel, their companions** - This refers to the Israelites who lived in the northern kingdom of Israel. AT: "all the tribes of Israel" (UDB) or "the Israelites who were part of the kingdom of Israel"
   * **into one stick** - "so that they become one stick" 
 ===== Links: =====
@@ -53,6 +54,6 @@
   * [[:en:bible:questions:comprehension:ezk:37]]
 **[[:en:bible:notes:ezk:37:13|<<]] | [[:en:bible:notes:ezk:37:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check companion ephraim}}
+~~DISCUSSION~~{{tag>publish p2edit companion ephraim}}
 
 ~~NOCACHE~~

@@ -32,6 +32,7 @@
 \q1
 \v 21 After wicked people are dead,
 \q2 they are not at all concerned for their families who are still alive.
+\b
 
 
 \q1
@@ -63,18 +64,12 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Job continues speaking to his friends.
+  * **General Information:** - Job continues speaking to his friends.
 
-  * **You say** - These words are added by most versions in order to make it clear that the Job is quoting his friends in the next statement. 
-  * **God lays up one's guilt for his children to pay** - Guilt is spoken of as something that can be stored for later use. Here "to pay" refers to punishment for sin. AT: "God keeps a record of a person's sins, then he punishes the person's children for his wicked deeds" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Let him pay it himself** - Job now begins to state his own opinion. It may be helpful to state this explicitly. AT: "But I say, 'Let him pay it himself'" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Let his eyes see** - Here "eyes" refers to the person. AT: "Let him see" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **let him drink of the wrath of the Almighty** - Here the wrath of God is spoken of as if it a drink that a person can taste, and tasting is a metonymy for experiencing the drink. Job wants the wicked person to experience God's punishment. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **For what does he care about his family after him when the number of his months is cut off?** - Job uses this question to show that the punishing the evil man's children is not effective. This can be stated in active form. AT: "For the wicked man does not care about his family after he has died!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the number of his months is cut off** - This is a polite way of saying that he dies. (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **the number of his months** - this refers to the length of his life
-
-
+  * **God lays up one's guilt for his children to pay** - AT: "God keeps a record of a person's sins, then he punishes the person's children for his wicked deeds"
+  * **Let his eyes see** - AT: "Let him see" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **let him drink of the wrath of the Almighty** - Job wants the wicked person to experience God's punishment. Job compares "drink" to "feel" or "experience." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **For what does he care about his family after him when the number of his months is cut off?** - Job uses a question for emphasis. AT: "For the wicked man does not care about his family after he has died" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -83,6 +78,6 @@
   * [[:en:bible:questions:comprehension:job:21]]
 **[[:en:bible:notes:job:21:16|<<]] | [[:en:bible:notes:job:21:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

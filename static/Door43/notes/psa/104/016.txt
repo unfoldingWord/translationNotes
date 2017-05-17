@@ -26,7 +26,7 @@
 \q1
 \v 18 High up in the mountains the wild goats live,
 \q2 and hyraxes live in the rocks.
-
+\b
 
 
 \q1
@@ -36,8 +36,8 @@
 
 <usfm>
 \q
-\v 16 The trees of Yahweh get plenty of rain;
-\q the cedars of Lebanon which he planted.
+\v 16 The trees of Yahweh are well watered;
+\q he planted the cedars of Lebanon.
 \q
 \v 17 There the birds make their nests.
 \q The stork makes the cypress tree her home.
@@ -57,10 +57,10 @@
 
 ===== translationNotes: =====
 
-  * **The trees of Yahweh get plenty of rain** - This can be stated in active form. AT: "Yahweh provides plenty of rain for his trees" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The trees of Yahweh are well watered** - This can be stated in active form. AT: "Yahweh causes his trees to be well watered" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **There the birds make their nests** - They makes their nests in the cedars. This can be stated clearly. AT: "The birds make their nests in the cedars" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **stork** - This is a type of bird. AT: "bird"
-  * **hyraxes** - I hyrax is a small animal that looks like a large rodent. AT: "rock badger"
+  * **hyrax** - This is a small animal that looks like a large rodent. AT: "rock badger"
 
 ===== Links: =====
 
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:104]]
 **[[:en:bible:notes:psa:104:013|<<]] | [[:en:bible:notes:psa:104:019|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4 fir}}
+~~DISCUSSION~~{{tag>publish p2check book4 fir}}
 
 ~~NOCACHE~~

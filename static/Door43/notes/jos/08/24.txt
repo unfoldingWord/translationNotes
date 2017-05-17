@@ -23,7 +23,7 @@
 
 <usfm>
 \p
-\v 24 It came about when Israel had finished killing all the inhabitants of Ai in the field near the wilderness where they pursued them, and when all of them, to the very last one, had fallen by the edge of the sword, all Israel returned to Ai. They attacked it with the edge of the sword.
+\v 24 It came about when Israel had finished killing all the inhabitants of Ai in the field near the wilderness where they pursued them, and when all of them, to the very last one, had fallen by the edge of the sword, all Israel returned to Ai. They attacked it with the edge of the sword. 
 \v 25 All those who fell that day, both men and women, were twelve thousand, all the people of Ai.
 \v 26 Joshua did not draw back his hand with which he had reached out while holding his spear, until he had completely destroyed all the people of Ai.
 </usfm>
@@ -41,8 +41,8 @@
 ===== translationNotes: =====
 
   * **when Israel had finished killing all the inhabitants ... when all of them ... had fallen by the edge of the sword** - The writer uses both of these sentences, which mean almost the same thing, to strongly say that the Israelites had obeyed God's command to kill everyone in Ai. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **had fallen by the edge of the sword** - Here falling represents dying, and the edge of the sword represents either battle or the army of Israel. AT: "had died in battle" or "had died when the army of Israel attacked them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **twelve thousand** - "12,000" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **fallen by the edge of the sword** - This is a polite way to say "killed with a sword." Here the phrase "edge of the sword" represents the army of Israel. (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **twelve thousand** - "12,000." The number of men and women killed. (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 ===== Links: =====
 
@@ -57,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 23 Huram also made a very large round bronze tank that was made of metal and cast in a clay mold. It was two and one-third meters tall, four and three-fifth meters across, and thirteen and three-quarter meters around.
+\v 23 Huram also made a very large round bronze tank that was made of metal and cast in a clay mold. It was 2.3 meters tall, 4.6 meters across, and 13.7 meters around.
 \v 24 Around the outer edge of the rim of the tank were two rows of figures that resembled gourds that were made of bronze. But the gourds were not cast separately. They were cast in the same mold as the rest of the tank. For each meter of length around the rim of the tank there were about eighteen gourds.
 
 
@@ -32,11 +32,10 @@
 
 ===== translationNotes: =====
 
-  * **the round sea** - This refers to a bronze tank or basin that would hold water.
+  * **the round sea** - This refers to a bronze tank or basin which would hold water.
   * **cast metal** - Huram melted the bronze and formed it in a mold.
-  * **ten cubits ... five cubits ... thirty cubits** - A cubit is 46 centimeters. AT: "4.6 meters ... 2.3 meters ... 13.8 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **from brim to brim** - "from one edge to the other"
-  * **in circumference** - Circumference is the distance or measurement around a circular object or area.
+  * **ten cubits from brim to brim** - A cubit is about 46 centimeters. AT: "ten cubits from one edge to the other." (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **thirty cubits in circumference** - "Circumference" is the distance or measurement around a circular object or area.
   * **encircling the sea were gourds** - A gourd is a type of hard, round vegetable that grows on a vine on the ground.
   * **when the sea itself was cast** - This can be stated in active form. AT: "when Huram cast the sea itself" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
@@ -47,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:07]]
 **[[:en:bible:notes:1ki:07:20|<<]] | [[:en:bible:notes:1ki:07:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

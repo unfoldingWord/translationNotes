@@ -27,6 +27,7 @@
 \q1
 \v 7 Free me from my troubles
 \q2 so that I may thank you.
+\b
 \q1 If you do that, when I am with others who live rightly,
 \q2 I will praise you for having been very good to me.
 </usfm>
@@ -57,11 +58,11 @@
 
 ===== translationNotes: =====
 
-  * **Listen to my call** - This is a call for help. See how you translated this in [[:en:bible:notes:psa:005:001|5:1]]. AT: "Listen to me as I call to you now for help" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I have been brought very low** - Possible meanings are 1) "I am very needy" and 2) "I am very weak." See how "we are very low" is translated in [[:en:bible:notes:psa:078:007|78:8]].
+  * **Listen to my call** - This is a call for help. AT: "Listen to me as I call to you now for help." See how you translated this in [[:en:bible:notes:psa:005:001|5:1]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I have been brought very low** - Possible meanings are 1) "I am very needy" and 2) "I am very weak." See how "we are very low" is translated in [[:en:bible:notes:psa:078:008|78:8]].
   * **Bring my soul out of prison** - This is a request. AT: "bring me out of prison" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **give thanks to your name** - The word "name" is a metonym for the person. See how you translated this in [[:en:bible:notes:psa:005:011|5:11]]. AT: "give thanks to you" See: [[:en:ta:vol2:translate:figs_metonymy]])
- 
+  * **give thanks to your name** - The word "name" is a metonym for the person. AT: "give thanks to you" See how "your name" is translated in [[:en:bible:notes:psa:005:011|5:11]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:psa:142]]
 **[[:en:bible:notes:psa:142:003|<<]] | [[:en:bible:notes:psa:143:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

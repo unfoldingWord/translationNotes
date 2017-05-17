@@ -25,7 +25,7 @@
 <usfm>
 \v 4 On the twenty-fourth day of the first month, as I was beside the great river (that is, the Tigris),
 \v 5 I looked up and saw a man dressed in linen, with a belt around his waist made of pure gold from Uphaz.
-\v 6 His body was like topaz, and his face was like lightning. His eyes were like flaming torches, and his arms and his feet were like polished bronze. The sound of his words was like the sound of a great crowd.
+\v 6 His body was like topaz, his face was like lightning, his eyes were like flaming torches, his arms and his feet were like polished bronze, and the sound of his words was like the sound of a great crowd.
 </usfm>
 
 ===== translationWords: =====
@@ -40,12 +40,12 @@
   * **On the twenty-fourth day of the first month** - This is the first month of the Hebrew calendar. The twenty-fourth day is near the middle of April on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **with a belt around his waist** - "and he was wearing a belt"
   * **Uphaz** - Uphaz is a place. Its location is not known (See: [[:en:ta:vol1:translate:translate_names]])
-  * **His body was like topaz** - His body gleamed with blue or yellow light as if it were made of topaz. AT: "his body gleamed like topaz" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **His body was like topaz** - His body gleamed with blue or yellow light as if it was made of topaz. AT: "his body gleamed like topaz" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **topaz** - a blue or yellow gemstone, also known as beryl, peridot, or chrysolite
   * **his face was like lightning** - His face shone brightly as a bolt of lightning shines. AT: "his face shone with light as bright as the flash of lightning" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **His eyes were like flaming torches** - His eyes were bright with light as if they were flaming torches. AT: "his eyes were so bright that it seemed they had torches burning inside them" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **his arms and his feet were like polished bronze** - His arms and feet were as shiny as if they were made of polished bronze. AT: "his arms and feet shone like polished bronze that reflects the light around it" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **The sound of his words was like the sound of a great crowd** - His voice was so loud that it was as if a crowd of people were all talking loudly. AT: "his voice was as loud as a huge crowd all calling out together" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **his eyes were like flaming torches** - His eyes were bright with light as if they were flaming torches. AT: "his eyes were so bright that it seemed they had torches burning inside them" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **his arms and his feet were like polished bronze** - His arms and feet were as shiny as if they were made of polished brass. AT: "his arms and feet shone like polished bronze that reflects the light around it" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **the sound of his words was like the sound of a great crowd** - His voice was so loud that it was as if a crowd of people were all talking loudly. AT: "his voice was as loud as a huge crowd all calling out together" (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:dan:10]]
 **[[:en:bible:notes:dan:10:02|<<]] | [[:en:bible:notes:dan:10:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass biblicaltimeday}}
+~~DISCUSSION~~{{tag>publish p2edit biblicaltimeday}}
 
 ~~NOCACHE~~

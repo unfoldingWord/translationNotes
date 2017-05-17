@@ -43,13 +43,14 @@
 
 ===== translationNotes: =====
 
-  * **let themselves be defeated before them** - "let themselves be defeated before the people of Ai." The phrase "before them" represents what the people of Ai would see and think. AT: "let the people of Ai think that the Israelites were defeated" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **let themselves be defeated before them** - The phrase "be defeated" can be stated in active form. AT: "let the people of Ai think that they had defeated the Israelites" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **before them ... they went after ... they were drawn away** - The words "them" and "they" here refer to the army of Ai.
-  * **they fled ... go after them** - The words "they" and "them" here refer to the army of Isreal.
+  * **let themselves be defeated before them** - This can be stated in active form. AT: "acted as if the men of Ai were defeating them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **let themselves be defeated** - They were not actually defeated, but made it appear so to the Benjamites. AT: "acted like they were defeated" (See: [[:en:ta:vol2:translate:figs_rpronouns]])
+  * **before them ... they went after ... they were drawn away** - Refers to the army of Ai.
+  * **they fled ... go after them** - Refers to the army of Isreal.
   * **All the people who were in the city were called together** - This can be stated in active form. AT: "The city leaders called all the people in the city together" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **All the people who were in the city** - The writer speaks in a general way about all the people, but it was all the people who could fight. AT: "all the people in the city who could help chase the army of Israel" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **left it open** - "left the city gates open"
+  * **All the people who were in the city** - The speaker deliberately describes this event by making an extreme statement. AT: "all the people who could help chase the army of Israel" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **They abandoned the city** - "They left the city completely without protection" or "After they left, there was no one in the city to protect it"
+
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -60,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

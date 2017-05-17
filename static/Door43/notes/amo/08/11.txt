@@ -38,6 +38,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 11 Look, the days are coming
 \q —this is the declaration of the Lord Yahweh—
@@ -48,7 +49,7 @@
 \q
 \v 12 They will stagger from sea to sea;
 \q they will run from the north to the east
-\q to seek the word of Yahweh,
+\q to seek the word of Yahweh, 
 \q but they will not find it.
 </usfm>
 

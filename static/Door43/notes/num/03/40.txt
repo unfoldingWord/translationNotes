@@ -23,7 +23,7 @@
 <usfm>
 \p
 \v 40 Yahweh said to Moses, "Count all the firstborn males of the people of Israel who are aged one month old and older. List their names.
-\v 41 You must take the Levites for me—I am Yahweh—instead of all the firstborn of the people of Israel, and the livestock of the Levites instead of the firstborn of the livestock of the descendants of Israel."
+\v 41 You must take the Levites for me instead of all the firstborn of the people of Israel. I am Yahweh. And you must take the Levites' livestock instead of all the firstborn livestock of the descendants of Israel."
 </usfm>
 
 ===== translationWords: =====
@@ -34,7 +34,7 @@
 
 ===== translationNotes: =====
 
-  * **and the livestock of the Levites** - This refers to all the Levites' livestock. AT: "you must take all the Levites' livestock" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **you must take the Levites' livestock** - This refers to all the Levites' livestock. AT: "you must take all the Levites' livestock" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:num:03]]
 **[[:en:bible:notes:num:03:38|<<]] | [[:en:bible:notes:num:03:42|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass livestock}}
+~~DISCUSSION~~{{tag>publish p2check livestock}}
 
 ~~NOCACHE~~

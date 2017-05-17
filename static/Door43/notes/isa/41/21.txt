@@ -35,11 +35,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 21 Present your case," says Yahweh;
+\v 21 Present your case," says Yahweh; 
 \q1 "present your best arguments for your idols," says the King of Jacob.
 \q1
-\v 22 "Let them bring us their own arguments; have them come forward and declare to us what will happen,
+\v 22 Let them bring us their own arguments; have them come forward and declare to us what will happen, 
 \q1 so we may know these things well.
 \q1 Have them tell us of earlier predictive declarations, so we can reflect on them and know how they were fulfilled.
 </usfm>
@@ -55,7 +56,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - In these verses, Yahweh is mocking the people and their idols. He is challenging the idols to tell what will happen in the future, but he knows they cannot. (See: [[:en:ta:vol1:translate:figs_irony]])
+  * **Present your case," says Yahweh ... how they were fulfilled** - Here Yahweh is mocking the people and their idols. He is challenging the idols to tell what will happen in the future, but he knows they cannot. (See: [[:en:ta:vol1:translate:figs_irony]])
 
 ===== Links: =====
 
@@ -64,6 +65,6 @@
   * [[:en:bible:questions:comprehension:isa:41]]
 **[[:en:bible:notes:isa:41:19|<<]] | [[:en:bible:notes:isa:41:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

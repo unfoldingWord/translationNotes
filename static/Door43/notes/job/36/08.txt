@@ -36,7 +36,7 @@
 \v 8 If they are bound in chains
 \q and trapped in cords of suffering,
 \q
-\v 9 then he reveals to them what they have done,
+\v 9 then he reveals to them what they have done, 
 \q and their transgressions and their pride.
 </usfm>
 
@@ -50,9 +50,8 @@
 
 ===== translationNotes: =====
 
-  * **If they are bound in chains** - Here the word "they" refers righteous people whom God will discipline if they sin. This can be stated in active form. AT: "If someone binds them in chains" or "If someone makes them a prisoner" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **and trapped in cords of suffering** - Elihu speaks of a person being made to suffer as if that person were trapped in ropes that cause suffering. AT: "and someone causes them to suffer" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **their transgressions and their pride** - The verb may be supplied from the previous phrase. AT: "he reveals to them their transgressions and their pride" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **they are bound in chains** - Here the word "they" refers to people in general. AT: "someone binds them in chains" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **trapped in cords of suffering** - Elihu speaks of suffering as if it traps a person with ropes. AT: "if someone makes them suffer" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -61,6 +60,6 @@
   * [[:en:bible:questions:comprehension:job:36]]
 **[[:en:bible:notes:job:36:06|<<]] | [[:en:bible:notes:job:36:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

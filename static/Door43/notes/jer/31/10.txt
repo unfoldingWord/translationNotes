@@ -33,7 +33,7 @@
 <usfm>
 \q
 \v 10 "Hear the word of Yahweh, nations. Report along the coasts in the distance.
-\q You nations must say, 'The one who scattered Israel is gathering her up and keeping her as a shepherd keeps his sheep.'
+\q You nations must say, "The one who scattered Israel is gathering her up and keeping her as a shepherd keeps his sheep."
 \q
 \v 11 For Yahweh has ransomed Jacob and has redeemed him from the hand that was too strong for him.
 </usfm>
@@ -52,11 +52,8 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking about how he will bring the Israelite people back from being captives in Babylon.
-
-  * **Hear ... Report** - Yahweh is speaking to the nations, so these verbs are plural. (See: [[:en:ta:vol2:translate:figs_pronouns]])
-  * **The one who scattered Israel is gathering her up** - Yahweh speaks of himself as if he were someone else, and he speaks of the people of Israel as if they were a helpless woman. AT: "I caused my people Israel to be scattered among the nations, but now I am bringing them home." (See: [[:en:ta:vol2:translate:figs_pronouns]] and [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **and keeping her as a shepherd keeps his sheep** - Yahweh speaks of the people of Israel as if they were a helpless woman. A shepherd cares for and protects his sheep, and Yahweh is promising to care for and protect the Israelites. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **The one who scattered Israel is gathering her up** - AT: "I caused my people to be scattered among the nations, but now I am bringing them home." (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **as a shepherd keeps his sheep** - This means God cares for and protects his people as a shepherd does his sheep. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **For Yahweh has ransomed Jacob and has redeemed him from the hand that was too strong for him** - These two phrases mean basically the same thing and emphasize that it is Yahweh who has rescued the people of Israel. AT: "For Yahweh has rescued the people of Israel from their enemy who was too strong for them." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
@@ -65,6 +62,6 @@
   * [[:en:bible:questions:comprehension:jer:31]]
 **[[:en:bible:notes:jer:31:08|<<]] | [[:en:bible:notes:jer:31:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

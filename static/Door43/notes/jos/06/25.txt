@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 25 But Joshua allowed Rahab the prostitute, her father's household, and all that were with her to live. She lives in Israel to this day because she hid the men whom Joshua sent to spy on Jericho.
+\v 25 But Joshua allowed Rahab the prostitute, her father's household, and all that were with her to live. She lived in Israel to this day because she hid the men whom Joshua sent to spy on Jericho.
 </usfm>
 
 
@@ -37,8 +37,8 @@
 
 ===== translationNotes: =====
 
-  * **She lives in Israel** - The word "She" refers to Rahab and represents her descendants. AT: "Her descendants live in Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **to this day** - "now" or "even today." Rahab's descendants are still living in Israel as the original writer writes this story.
+
+  * **to this day** - Rahab was still alive at the time of this original writing.
 
  
 ===== Links: =====
@@ -54,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

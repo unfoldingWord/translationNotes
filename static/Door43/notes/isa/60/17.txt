@@ -34,6 +34,7 @@
 \q2 and people will no longer destroy your land and drive you out of it.
 \q1 The people in the city will be safe,
 \q2 and everyone there will praise me.
+\b
 
 
 \q1
@@ -46,7 +47,7 @@
 \v 17 Instead of bronze I will bring gold, instead of iron I will bring silver;
 \q1 instead of wood, bronze, and instead of stones, iron. I will appoint peace as your governors, and justice your rulers.
 \q1
-\v 18 Violence will no longer be heard in your land, or devastation nor shattering within your borders;
+\v 18 Violence will no longer be heard in your land, or devastation nor shattering within your borders; 
 \q1 but you will call your walls Salvation, and your gates Praise.
 </usfm>
 
@@ -67,10 +68,10 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **instead of wood, bronze, and instead of stones, iron** - Yahweh will give more valuable building materials to them now. AT: "instead of wood, I will bring bronze, and instead of stones, I will bring iron" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **instead of wood, bronze, and instead of stones, iron** - Yahweh will give them more valuable building materials to them now. AT: "instead of wood, I will bring bronze, and instead of stones, I will bring iron" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **I will appoint peace as your governors, and justice your rulers** - Yahweh describes "peace" and "justice" as human rulers. This means there will be complete peace and justice in the land of Israel. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **Violence will no longer be heard in your land** - This can be stated in active form. AT: "There will no longer be reports of violence in your land" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **but you will call your walls Salvation, and your gates Praise** - The physical objects have the names of spiritual qualities. The city of Jerusalem will be a safe place, and the people there will praise Yahweh. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Violence will no longer be heard in your land** - This can be stated in active form. AT: "There will no longer be violence in your land" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **but you will call your walls Salvation, and your gates Praise** - This means the city of Jerusalem will be a safe place, and the people there will praise Yahweh. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -79,6 +80,6 @@
   * [[:en:bible:questions:comprehension:isa:60]]
 **[[:en:bible:notes:isa:60:15|<<]] | [[:en:bible:notes:isa:60:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

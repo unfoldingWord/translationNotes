@@ -23,8 +23,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 10 The king of Israel sent a message to the place about which the man of God had spoken and warned him. More than once or twice, when the king went there, he was on his guard.
-\v 11 The king of Aram was enraged about these warnings, and he called his servants and said to them, "Will you not tell me who among us is for the king of Israel?"
+\v 10 Then the king of Israel sent men to the place about which the man of God had warned him. That warning saved him there several times.
+\v 11 The mind of the king of Aram was very troubled about this warning, and he called his servants and said to them, "Will you not tell me who among us is for the king of Israel?"
 </usfm>
 
 ===== translationWords: =====
@@ -33,10 +33,10 @@
   * [[:en:obe:other:mind]]
 ===== translationNotes: =====
 
-  * **to the place about which the man of God had spoken and warned him** - This refers to the place that Elisha had warned the king about in [[:en:bible:notes:2ki:06:08|6:9]].
-  * **More than once or twice, when the king went there, he was on his guard** - Elisha would warn the king of where the Aramean army would attack so that he could alert the people before the attack happened.  AT: "Elisha warned the king of Israel in this way several times and the Israelites were able to stay safe" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Will you not tell me who among us is for the king of Israel?** - The king of Aram assumes there is a traitor among his soldiers who is giving information to the Israelite king. He uses this rhetorical question to try to find out who that traitor is. This can be written as a statement. AT: "Tell me which of you is for the king of Israel!" or "Tell me which of you is revealing our plans to the king of Israel!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **is for the king of Israel** - "To be for someone" means to be loyal to that person. In this case, it means that they would give information to help the king of Israel. AT: "is helping the king of Israel" or "is loyal to the king of Israel" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to the place about which the man of God had warned him** - Elisha knew the places that were dangerous for the Israelites (because of the Aramean army) and warned the king of Israel about them.
+  * **That warning saved him there several times** - AT: "Because Elisha warned the Israelites, they were able to stay safe from the enemy more than once or twice."
+  * **The mind of the king of Aram** - "The king of Aram was angry" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Will you not tell me who among us is for the king of Israel** - AT: "Tell me which of you is a spy for the king of Israel!" or "Which one of you is telling the king of Israel my plans?" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 
 ===== Links: =====
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:2ki:06]]
 **[[:en:bible:notes:2ki:06:08|<<]] | [[:en:bible:notes:2ki:06:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

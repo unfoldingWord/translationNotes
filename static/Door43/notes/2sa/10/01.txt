@@ -41,19 +41,16 @@
   * [[:en:obe:other:david]]
   * [[:en:obe:other:send]]
   * [[:en:obe:other:servant]]
-  * [[:en:obe:other:comfort]]
   * [[:en:obe:kt:lord]]
   * [[:en:obe:other:honor]]
+  * [[:en:obe:other:comfort]]
  
 
 ===== translationNotes: =====
 
   * **Hanun ... Nahash** - These are the names of men. (See: [[ en:ta:vol1:translate:translate_names]])
-  * **Do you really think that ... you?** - The leaders use a question to suggest to the king that he should not trust David. AT: "You are wrong to think that ... you!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **to spy** - to secretly learn information about someone else
-  * **Has not David ... overthrow it?** - The leaders use a question to suggest to the king that he should not trust David. AT: "You need to know that David ... overthrow it." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **in order to overthrow it** - Here "it" refers to the city which represents the people who live there. AT: "in order to conquer us" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the city** - Here "the city" refers to Rabbah, the capital city of the Ammonites.
+  * **Do you really think that ... you?** - This rhetorical question can be translated as a statement. AT: "You are wrong to think that ... you!" (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **Has not David ... overthrow it?** - This rhetorical question can be translated as a statement. AT: "You need to know that David ... overthrow it." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -67,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass comfort}}
+{{tag>publish p2edit comfort}}
 
 ~~NOCACHE~~

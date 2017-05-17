@@ -21,7 +21,7 @@
 
 <usfm>
 \p
-\v 18 Therefore lay up these words of mine in your heart and soul, bind them as a sign on your hand, and let them be as frontlets between your eyes.
+\v 18 Therefore lay up these words of mine in your heart and soul; bind them as a sign on your hand, and let them be as frontlets between your eyes.
 \v 19 You will teach them to your children and talk about them when you sit in your house, when you walk on the road, when you lie down, and when you get up.
 </usfm>
 
@@ -36,8 +36,8 @@
 
 ===== translationNotes: =====
 
-  * **lay up these words of mine in your heart and soul** - A person always thinking about and considering what Moses commands is spoken of as if the heart and soul were a container and Moses's words were the content to fill the container. AT: "be very careful to remember these words that I am saying to you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **these words of mine** - Here "words" represents the commandments that Moses is speaking. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **lay up these words of mine in your heart and soul** - A person always thinking about and considering what Moses commands is spoken of as if the heart and soul were a container and Moses's words were the content to fill the container. AT: "be very careful to remember what I am saying to you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **these words of mine** - Here "words" represents what Moses says. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **your heart and soul** - Here "heart" and "soul" represent a person's mind or thoughts. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **bind them** - "tie these words." This is a metonymy that represents a person writing the words on a parchment, putting the parchment in a pouch, and tying the pouch. This metonymy in turn may be a metaphor meaning the people must be careful to obey Moses's commands. See how you translated similar phrases in [[:en:bible:notes:deu:06:08|6:8]]. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]]) 
   * **as a sign on your hand** - "as something to make you remember my laws"
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:deu:11]]
 **[[:en:bible:notes:deu:11:16|<<]] | [[:en:bible:notes:deu:11:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 \q1 and who do not join with people who ridicule God.
 \q1
 \v 2 Instead, those with whom Yahweh is pleased delight in understanding what he teaches us.
-\q2 They read and think every day and every night about what Yahweh teaches.
+\q2 They read and think every day and every night about what Yahweh teaches. 
 
 
 \q1
@@ -29,8 +29,9 @@
 ===== ULB: =====
 
 <usfm>
+\cl Psalm 
 \c 1
-\m
+\p
 \q
 \v 1 Blessed is the man who does not walk in the advice of the wicked,
 \q or stand in the pathway with sinners,
@@ -54,13 +55,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **who does not walk in the advice of the wicked** - The "advice of the wicked" is spoken of as if it were a path to follow. AT: "who does not follow the advice of the wicked" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **stand in the pathway with sinners** - Here the word "pathway" represents the way people live. The word "stand" is in parallel with "walk." AT: "imitate the behavior of sinful people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **or sit in the assembly of mockers** - Sitting with people who mock God represents joining the people who mock God. AT: "or join those who mock God" or "or mock God with others who mock him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **or sit in the assembly of mockers** - Sitting with people who mock God represents joining the people who mock God. AT: "or join those who mock God" or "or mock God with others who mock him. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **delight** - "contentment" or "joy"
-  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -68,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:001]]
 **| [[:en:bible:notes:psa:001:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1 delight meditate}}
+~~DISCUSSION~~{{tag>publish p2check book1 delight meditate}}
 
 ~~NOCACHE~~

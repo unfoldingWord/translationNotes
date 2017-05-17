@@ -37,10 +37,9 @@
 
 ===== translationNotes: =====
 
-  * **The seventh casting of lots** - Translate this phrase in the same way you did in [[:en:bible:notes:jos:19:01|19:1]].
-  * **The seventh** - number seven in a list (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **The territory of its inheritance** - The land that the tribe of Dan received is spoken of as if it was an inheritance that they received as a permanent possession. AT: "The territory of land that the tribe of Dan received as an inheritance" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Zorah, Eshtaol, Ir Shemesh, Shaalabbin, Aijalon, and Ithlah** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **The seventh** - number seven in a list (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **casting of lots** - A random method of choosing to remove the choice from the leader's will, often done with the idea that God will decide the outcome. See how you translated this in [[:en:bible:notes:jos:19:01|19:1]].
+  * **Zorah, Eshtaol, Ir Shemesh, Shaalabbin, Aijalon, and Ithlah** - names of places (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -55,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

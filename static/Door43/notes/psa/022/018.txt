@@ -18,6 +18,7 @@
 <usfm>
 \v 18 They looked at the clothes that I was wearing
 \q2 and gambled to determine which piece each of them would get.
+\b
 \q1
 \v 19 Yahweh, be concerned for me!
 \q2 You who are my source of strength,
@@ -55,6 +56,6 @@
   * [[:en:bible:questions:comprehension:psa:022]]
 **[[:en:bible:notes:psa:022:016|<<]] | [[:en:bible:notes:psa:022:020|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1 lots}}
+~~DISCUSSION~~{{tag>publish p2check book1 lots}}
 
 ~~NOCACHE~~

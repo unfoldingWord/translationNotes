@@ -25,7 +25,7 @@
 
 <usfm>
 \v 5 David's two wives were taken captive, Ahinoam the Jezreelitess, and Abigail the wife of Nabal the Carmelite.
-\v 6 David was greatly distressed, for the people were talking about stoning him, for all the people were bitter in spirit, each man for his sons and daughters; but David strengthened himself in Yahweh, his God.
+\v 6 David was greatly distressed, for the people were talking about stoning him, because the spirits of all the people were grieved, each man for his sons and daughters; but David strengthened himself in Yahweh, his God.
 </usfm>
 
 
@@ -42,14 +42,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - David finds strength in Yahweh after the raid.
+  * **General Information:** - David finds strength in Yahweh after raid.
 
   * **Ahinoam the Jezreelitess** - "Ahinoam from Jezreel"
   * **Nabal the Carmelite** - "Nabal the man from Carmel"
-  * **Ahinoam ... Abigail** - women's names (See: [[:en:ta:vol1:translate:translate_names]])
-  * **distressed** - suffering
-  * **all the people were bitter in spirit** - The word "bitter" is a metaphor for the desire to rebel. The word "spirit" is a synecdoche for the person. AT: "all the people were ready to rebel against David" or "all the people were very unhappy" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **David strengthened himself in Yahweh, his God** - Possible meanings are 1) "David took courage because he knew Yahweh his God would help him" or 2) "Yahweh his God made David strong."
+  * **Ahinoam ... Abigail ... Nabal** - various names of people (See: [[:en:ta:vol1:translate:translate_names]])
+  * **distressed** - greatly concerned.
+  * **David strengthened himself in Yahweh** - David took courage in Yahweh.
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -57,6 +56,6 @@
   * [[:en:bible:questions:comprehension:1sa:30]]
 **[[:en:bible:notes:1sa:30:03|<<]] | [[:en:bible:notes:1sa:30:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

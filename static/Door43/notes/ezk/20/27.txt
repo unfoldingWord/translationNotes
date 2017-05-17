@@ -25,7 +25,7 @@
 <usfm>
 \p
 \v 27 Therefore, son of man, announce this to the house of Israel; say to them, 'The Lord Yahweh says this: Your fathers blasphemed me by betraying me against me. They did it in this way:
-\v 28 when I brought them into the land that I lifted up my hand to give to swear to them, and when they saw all the high hills and leafy trees, then they offered their sacrifices there and provoked me by their offerings there. There they also burned fragrant incense and poured out drink offerings.
+\v 28 when I brought them into the land that I lifted my hand to give to them, and when they saw all the high hills and leafy trees, then they offered their sacrifices there and provoked me by their offerings there. There they also burned fragrant incense and poured out drink offerings.
 \v 29 Then I said to them, "What is this high place where you bring offerings there?" So the name is called Bamah to this day.'
 </usfm>
 
@@ -41,10 +41,10 @@
   * [[:en:obe:kt:name]]
 
 ===== translationNotes: =====
+  * **What is this high place where you bring offerings there** - AT: "This is not a high place where you are to bring offerings!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the name is called Bamah** - AT: "People have called that place Bamah" (See: [[:en:ta:vol2:translate:figs_activepassive]]) "Bamah" means "high place," a place for worshiping idols.
 
-  * **I lifted up my hand to swear to give** - Here "lifted up my hand" is a symbolic action that shows he will truly do what he has sworn to do. AT: "I solemnly swore to give" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **What is this high place where you bring offerings there** - Yahweh asks this question in order to rebuke the people. AT: "This is not a high place where you are to bring offerings!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the name is called Bamah** - The name "Bamah" means "high place," a place for worshiping idols. This can be stated in active form. AT: "People have called that place Bamah" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+
 
 ===== Links: =====
 
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:ezk:20]]
 **[[:en:bible:notes:ezk:20:25|<<]] | [[:en:bible:notes:ezk:20:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check provoke}}
+~~DISCUSSION~~{{tag>publish p2edit provoke}}
 
 ~~NOCACHE~~

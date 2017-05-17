@@ -15,15 +15,15 @@
 <usfm>
 \v 28 But after there was a time of peace again, our ancestors again did evil things that you hated. So you allowed their enemies to conquer them and ruled over them. But whenever they cried out to you again to help them, you heard them from heaven, and because you act mercifully you rescued them.
 \pi
-\v 29 You warned them that they should again obey your laws, but they became proud and stubborn, and they disobeyed your decrees—and it is by obeying them that a person lives. They purposely ignored what you commanded them to do and became stubborn and refused to obey.
+\v 29 You warned them that they should again obey your laws, but they became proud and stubborn, and they disobeyed your decrees. They disobeyed what you commanded them to do. They paid them no attention. And they stubbornly refused to listen to you.
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\v 28 But after they had rest, they did evil again before you, and you abandoned them to the hand of their enemies, so their enemies ruled over them. Yet when they returned and cried out to you, you heard from heaven, and many times because of your compassion you rescued them.
-\v 29 You warned them so they might turn back to your law. Yet they acted arrogantly and did not listen to your commands. They sinned against your decrees which give life to anyone who obeys them. They gave the stubborn shoulder-blade and stiffened their neck and refused to listen.
+\v 28 But after they had rest, they did evil again before you, and you abandoned them to the hand of their enemies, so their enemies ruled over them. Yet when they returned and cried out to you, you heard from heaven, and many times because of your compassion you rescued them. 
+\v 29 You warned them so they might turn back to your law. Yet they acted arrogantly and did not listen to your commands. They sinned against your decrees which give life to anyone who obeys them. They did not obey them, but they paid them no attention, and they refused even to listen to them.
 </usfm>
 
 
@@ -43,14 +43,16 @@
   * [[:en:obe:other:obey]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel. 
+  * **General Information:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel. 
 
-  * **they had rest, they did evil again before you** - Here "they" refers to the Israelites and "you" to Yahweh.
-  * **you abandoned them to the hand of their enemies** - Here "hand" represents power or control. AT: "you abandoned them and allow their enemies to defeat them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **did not listen to your commands** - If your language has a word for "listen" that also means "obey," use it here.
-  * **your decrees which give life to anyone who obeys them** - Yahweh himself is spoken of as if he were the decrees themselves. AT: "you even though you give life to everyone who obeys your decrees" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **They gave the stubborn shoulder-blade and stiffened their neck** - These are images of an ox refusing to allow its owner to put a yoke on its shoulders. Here they are a metaphor that represents the people being stubborn. AT: "They became stubborn" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **after they had rest, they did evil again before you** - Here "they" refers to the Israelites and "you" to Yahweh.
+  * **you abandoned them to the hand of their enemies** - Here the word "hand" (a part) signifies the "enemies" (as a whole). AT: "you abandoned them to their enemies" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **so their enemies ruled over them** - "so their enemies subdued them"
+  * **did not listen to your commands** - "did not obey your commands"
+  * **your decrees which give life** - The decrees do not give life but obeying the decrees causes God to bless the obedient person.
+  * **They did not obey them** - Here "them" refers to Yahweh's decrees.
+  * **but they paid them no attention** - The word "them" refers to Yahweh's decrees. "but they turned their backs and stiffened their necks" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **and they refused even to listen to them** - "and refused to obey." 
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -64,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

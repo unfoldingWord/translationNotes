@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 Then Delilah said to Samson, "Please, tell me how is it that you are so strong, and how could anyone bind you, so you might be controlled?"
+\v 6 And Delilah said to Samson, "Please, tell me how is it that you are so strong, and how could anyone bind you, so you might be controlled?"
 \v 7 Samson said to her, "If they tie me with seven fresh bowstrings that have not been dried, then I will become weak and be like any other man."
 </usfm>
 
@@ -37,7 +37,7 @@
 ===== translationNotes: =====
 
   * **bind you, so you might be controlled** - This can be stated in active form. AT: "bind you to control you" or "bind you to restrain you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **fresh bowstrings** - Bowstrings were often made from parts of an animal, often from the tendons. The words "fresh bowstrings" refer to those that come from a freshly slaughtered animal that have not yet dried. 
+  * **fresh bowstrings** - Bowstrings were often made from parts of an animal, often from the tendons. "Fresh bowstrings" refers to those that come from a freshly slaughter animal that have not yet dried. 
   * **that have not been dried** - This can be stated in active form. AT: "that have not yet dried" or "that are not dry yet" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:jdg:16]]
 **[[:en:bible:notes:jdg:16:04|<<]] | [[:en:bible:notes:jdg:16:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass delilah}}
+~~DISCUSSION~~{{tag>publish p2check delilah}}
 
 ~~NOCACHE~~

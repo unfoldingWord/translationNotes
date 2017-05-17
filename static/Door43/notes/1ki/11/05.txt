@@ -32,10 +32,8 @@
 
 ===== translationNotes: =====
 
-  * **Ashtoreth ... Milcom** - These are the names of false gods. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Sidonians** - This is the name of a people group. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **he followed Milcom** - "Milcom" is perhaps another name for the idol "Molech." (See: [[:en:ta:vol1:translate:translate_names]])
-  * **what was evil in the sight of Yahweh** - The phrase, "in the sight of" refers to someone's opinion. AT: "what Yahweh considered to be evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **what was evil in the sight of Yahweh** - AT: "what Yahweh considered to be evil" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **he followed Milcom** - "Milcom" is perhaps another name for the idol "Molech."
 
 ===== Links: =====
 
@@ -44,6 +42,6 @@
   * [[:en:bible:questions:comprehension:1ki:11]]
 **[[:en:bible:notes:1ki:11:03|<<]] | [[:en:bible:notes:1ki:11:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

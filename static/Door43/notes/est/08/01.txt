@@ -26,7 +26,7 @@
 <usfm>
 \c 8
 \p
-\v 1 On that day King Ahasuerus gave Queen Esther the property of Haman, the enemy of the Jews, and Mordecai began to serve before the king, for Esther told the king how Mordecai was related to her.
+\v 1 On that day King Ahasuerus gave Queen Esther the property of Haman, the enemy of the Jews. And Mordecai began to serve before the king, for Esther told the king how Mordecai was related to her.
 \v 2 The king took off his signet ring, which he had taken back from Haman, and gave it to Mordecai. Esther designated Mordecai to be in charge of Haman's estate.
 </usfm>
 
@@ -42,10 +42,9 @@
 
 ===== translationNotes: =====
 
-  * **Haman** - Translate this man's name as you did in [[:en:bible:notes:est:03:01|3:1]].
-  * **signet ring** - This ring had the king's name or mark on it. When he put a wax seal on important papers, he would press the mark onto the seal. If a paper had this mark on its seal, people would know that what was written on the paper was written with the king's authority and had to be obeyed. See how you translated this in [[:en:bible:notes:est:03:10]]. (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **gave it to Mordecai** - By giving his signet ring to Mordecai, the king gave Mordecai the authority to write important papers that people would have to obey.
-  * **Haman's estate** - This refers to the things that had belonged to Haman and that the king had given to Esther.
+  * **Haman** - Translate as in [[:en:bible:notes:est:03:01|Esther 3:1]].
+  * **signet ring** - a special ring that could be used to imprint the King's official seal on a proclamation.
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -59,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass esther mordecai}}
+{{tag>publish p2edit esther mordecai}}
 
 ~~NOCACHE~~

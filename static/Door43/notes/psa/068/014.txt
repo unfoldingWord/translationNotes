@@ -21,6 +21,7 @@
 <usfm>
 \v 14 When Almighty God scattered the enemy kings and their armies,
 \q2 it reminded me of a snowstorm on Mount Zalmon!
+\b
 \q1
 \v 15 There is a very high mountain in the Bashan hills,
 \q1 a mountain that has many peaks.
@@ -60,13 +61,12 @@
 
 ===== translationNotes: =====
 
-  * **scattered kings there ... snowed on Mount Zalmon** - There were so many dead kings and soldiers on the mountain that they are spoken of as if they were snow covering the mountain. AT: "defeated so many enemy kings and soldiers there that they were like snowflakes covering Mount Zalmon" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **scattered kings there ... snowed on Mount Zalmon** - There were so many dead kings and soldiers on the mountain that they are spoken of as if they were snow covering the mountain. AT: "There were so many defeated enemy kings and soldiers there that it was like snowflakes covering Mount Zalmon" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **scattered kings** - Here "kings" refers to their armies as well. AT: "scattered the enemy kings and their armies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Mount Zalmon** - This is the name of a mountain. (See: [[:en:ta:vol1:translate:translate_names]])
   * **A mighty mountain is the ... a high mountain is the** - These two phrase have similar meanings and are used together to strengthen each other. AT: "a mighty and high mountain is the hill country of Bashan" (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **Why do you look in envy ... for the place he will live?** - This question can be written as a statement. AT: "The high hill country of Bashan should not look in envy at the mountain which God desires for the place he will live." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
-
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -74,6 +74,6 @@
   * [[:en:bible:questions:comprehension:psa:068]]
 **[[:en:bible:notes:psa:068:011|<<]] | [[:en:bible:notes:psa:068:017|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

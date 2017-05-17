@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 22 Yahweh spoke to Moses and said,
+\v 22 Yahweh spoke to Moses and said, 
 \v 23 "Take these fine spices: five hundred shekels of flowing myrrh, 250 shekels of sweet-smelling cinnamon, 250 shekels of sweet-smelling cane,
 \v 24 five hundred shekels of cassia, measured by the weight of the shekel of the sanctuary, and one hin of olive oil.
 \v 25 You must make holy anointing oil with these ingredients, the work of a perfumer. It will be a holy anointing oil, reserved for me.
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:exo:30]]
 **[[:en:bible:notes:exo:30:19|<<]] | [[:en:bible:notes:exo:30:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass myrrh}}
+~~DISCUSSION~~{{tag>publish p2check myrrh}}
 
 ~~NOCACHE~~

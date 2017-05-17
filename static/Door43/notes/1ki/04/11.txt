@@ -47,12 +47,11 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - The list of Solomon's officials continues, and the list of the areas of which they were in charge begins.
+  * **Connecting Statement:** - Continuation of Solomon's Officials
 
-  * **Ben Abinadab ... Ben Geber ... Jair ... Manasseh ... Ahinadab ... Iddo** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
-  * **in all the district of Dor ... in Taanach ... in Ramoth Gilead ... in Mahanaim** - "who was the officer in charge of all the district of Dor ... who was the officer in charge of Taanach ... who was the officer in charge of Ramoth Gilead ... who was the officer in charge of Mahanaim"
-  * **Taphath** - woman's name (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **Dor ... Beth Shan ... Zarethan ... Jezreel ... Beth Shan to Abel Meholah ... Jokmeam ... Ramoth Gilead ... Argob ... Bashan ... Mahanaim** - place names (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ben Abinadab ... Ben Geber ... Jair ... Manasseh ... Ahinadab ... Iddo** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Taphath** - This is a woman's name. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **Dor ... Beth Shan ... Zarethan ... Jezreel ... Beth Shan to Abel Meholah ... Jokmeam ... Ramoth Gilead ... Argob ... Bashan ... Mahanaim** - These are place names. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -61,6 +60,6 @@
   * [[:en:bible:questions:comprehension:1ki:04]]
 **[[:en:bible:notes:1ki:04:07|<<]] | [[:en:bible:notes:1ki:04:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass bashan jezreel}}
+~~DISCUSSION~~{{tag>publish p2edit bashan jezreel}}
 
 ~~NOCACHE~~

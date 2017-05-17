@@ -34,10 +34,10 @@
 
 <usfm>
 \q1
-\v 4 Since you are precious and special in my sight, I love you;
+\v 4 Since you are precious and special in my sight, I love you; 
 \q1 therefore I will give people in exchange for you, and other peoples in exchange for your life.
 \q1
-\v 5 Do not be afraid, for I am with you;
+\v 5 Do not be afraid, for I am with you; 
 \q1 I will bring your offspring from the east, and gather you from the west.
 </usfm>
 
@@ -52,10 +52,8 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **Since you are precious and special in my sight** - The words "precious" and "special" mean basically the same thing and emphasize how much Yahweh values his people. AT: "Because you are very precious to me" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **precious and special in my sight** - "you are very precious to me" (UDB). The words "precious" and "special" mean basically the same thing and emphasize how much Yahweh values his people. (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **therefore I will give people in exchange for you, and other peoples in exchange for your life** - Both phrases mean the same thing. AT: "therefore I will let the enemy conquer other peoples instead of you" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **I will bring your offspring from the east, and gather you from the west** - The directions "east" and "west" form a merism and represent from every direction. AT: "I will bring you and your offspring from every direction" (See: [[:en:ta:vol2:translate:figs_merism]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -63,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:43]]
 **[[:en:bible:notes:isa:43:02|<<]] | [[:en:bible:notes:isa:43:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

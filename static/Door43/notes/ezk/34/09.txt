@@ -12,7 +12,7 @@
 
 <usfm>
 \v 9 Therefore, you who should be shepherds of my people, listen to me.
-\v 10 I am opposed to you leaders. I will punish you for mistreating my people. I will remove you from taking care of my people; you will no longer feed yourselves while ignoring them. I will rescue my people from you, and you will no longer be able to butcher them and eat them.
+\v 10 I am opposed to you leaders. I will punish you for mistreating my people. I will remove you from taking care of my people; you will no longer feed yourselves while ignoring them. I will rescue my people from you, and you will longer be able to butcher them and eat them.
 
 
 \p
@@ -32,16 +32,14 @@
 ===== translationNotes: =====
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to the leaders of Israel.
-  * **General Information:** - Yahweh continues speaking of the people of Israel as if they were a flock of sheep and the leaders of Israel were the shepherds that were supposed to care for the flock but have not. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
-  * **hear the declaration of Yahweh** - "listen to what Yahweh declares." This can be stated in first person. AT: "Listen to what I, Yahweh, say to you" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **The Lord Yahweh says this** - This can be stated in first person. AT: "I, Lord Yahweh, say this" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Therefore, shepherds, hear the declaration of Yahweh** - See how you translated this in [[:en:bible:notes:ezk:34:07|34:7]].
   * **Behold!** - The word "Behold" here adds emphasis to what follows. AT: "Indeed!"
-  * **I am against the shepherds** - "I am opposed to the shepherds"
-  * **I will require my flock from their hand** - The phrase "require ... from their hand" is an idiom that means to hold consider someone responsible for something. AT: "I will hold them responsible for all the bad things that happen to my flock" or "I will punish them for all the bad things they let happen to my flock" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **am against the shepherds** - AT: "will punish the shepherds."
+  * **I will require my flock from their hand** - AT: "I will hold them responsible for all the bad things that happen to my flock" or "I will punish them for all the bad things they let happen to my flock." (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **I will dismiss them from shepherding the flock** - "I will not let them shepherd the flock anymore" or "I will not let them be the shepherds of the flock anymore"
   * **shepherd themselves** - "feed and take care of themselves"
-  * **from their mouths** - Here "mouths" represent eating. AT: "so they will not be able to eat them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **from their mouths** - AT: "so they will not be able to eat them."
   * **my flock will no longer be food for them** - "the shepherds will no longer eat the sheep and the goats of my flock"
 ===== Links: =====
 
@@ -50,6 +48,6 @@
   * [[:en:bible:questions:comprehension:ezk:34]]
 **[[:en:bible:notes:ezk:34:07|<<]] | [[:en:bible:notes:ezk:34:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

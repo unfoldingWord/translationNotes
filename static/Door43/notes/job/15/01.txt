@@ -55,12 +55,11 @@
  
 ===== translationNotes: =====
 
-  * **Eliphaz the Temanite** - This is the name of a man. People from Teman are known as Temanites. Translate as in [[:en:bible:notes:job:02:11|2:11]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Should a wise man answer with useless knowledge and fill himself with the east wind?** - Eliphaz uses this rhetorical question to rebuke Job. This can be written as a statement. AT: "A wise man should not answer with useless knowledge nor fill himself with the east wind" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **fill himself with the east wind** - The wind represents emptiness. This phrase speaks of a person speaking empty and meaningless words as if that person we full of the wind. AT: "fill himself with empty words" or "only have meaningless words" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the east wind** - "hot air" (UDB) or "the desert wind"
-  * **Should he reason with unprofitable talk or with speeches with which he can do no good?** - Eliphaz uses this rhetorical question to rebuke Job. This can be written as a statement. AT: "He should not reason with unprofitable talk nor with speeches with which he can do no good" or "He should not argue using unprofitable talk or make speeches that accomplish nothing good" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **Eliphaz the Temanite** - See how you translated this in [[:en:bible:notes:job:02:11|2:11]].
+  * **Should a wise man answer with useless knowledge and fill himself with the east wind?** - AT: "A wise man should not answer with useless knowledge nor fill himself with the east wind" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the east wind** - AT: "hot air" (UDB) or "the desert wind"
+  * **Should he reason with unprofitable talk or with speeches with which he can do no good?** - AT: "He should not reason with unprofitable talk nor with speeches with which he can do no good" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **reason** - "quarrel" or "argue"
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -68,6 +67,6 @@
   * [[:en:bible:questions:comprehension:job:15]]
 **[[:en:bible:notes:job:14:20|<<]] | [[:en:bible:notes:job:15:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check unprofitable}}
+~~DISCUSSION~~{{tag>publish p2edit unprofitable}}
 
 ~~NOCACHE~~

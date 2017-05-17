@@ -37,7 +37,7 @@
 ===== translationNotes: =====
 
   * **called out to Yahweh** - This is an idiom. AT: "prayed to Yahweh for help" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **because of Midian** - Here "Midian" represents the people of Midian. AT: "because of the Midianites" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **because of Midian** - Here "Midian" represents the people of Midian. AT: "because of the Midianites" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **I brought you up from Egypt** - "I led you out of Egypt"
   * **the house of slavery** - Moses speaks of Egypt as if it were a house where people keep slaves. AT: "the place where you were slaves" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:jdg:06]]
 **[[:en:bible:notes:jdg:06:05|<<]] | [[:en:bible:notes:jdg:06:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

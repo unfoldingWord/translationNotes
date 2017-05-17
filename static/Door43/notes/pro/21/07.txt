@@ -16,8 +16,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 When wicked people act with violence, they are destroyed by their own violence,
-\q2 because they refuse to do what is right.
+\v 7 When wicked people act with violence, they are destroyed by their own violence, 
+\q2 because they refuse to do what is right. 
+\b
 \q1
 \v 8 A guilty person follows a path covered with lies,
 \q2 but the innocent chooses to do what is right.
@@ -30,7 +31,7 @@
 
 <usfm>
 \q
-\v 7 The violence of the wicked will drag them away,
+\v 7 The violence of the wicked will sweep them away,
 \q for they refuse to do what is just.
 \q
 \v 8 The way of a guilty person is crooked,
@@ -40,18 +41,16 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:evil]]
+  * [[:en:obe:other:sweep]]
   * [[:en:obe:kt:justice]]
   * [[:en:obe:kt:guilt]]
   * [[:en:obe:kt:purify]]
 
 ===== translationNotes: =====
 
-  * **The violence of the wicked will drag them away** - The writer speaks as though violence were a person who could drag other people away. God will punish wicked people who harm their innocent neighbors because of the violent deeds they have done. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **violence of the wicked** - The abstract noun "violence" refers to violent deeds or things people do to harm their innocent neighbors. The word "wicked" is a nominal adjective that can be translated as a noun phrase, "wicked people." AT: "The violent acts wicked people do to harm their innocent neighbors" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **drag them away** - "take hold of them and force them to appear before God so that God can judge them" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **The way of a guilty person is crooked** - This compares the way one lives to a crooked road one may travel. This is also an idiom. AT: "The way a guilty person lives is crooked" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **crooked** - Here "crooked" means bent or not straight. This is a metaphor for morally wrong. AT: "wrong" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **will sweep them away** - Violence is compared to a flood. "will drag them away" or "will ruin them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The way of a guilty person is crooked** - AT: "the way a guilty person lives is crooked" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **crooked** - "bent" or "not straight" AT: "wrong"
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -59,6 +58,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:05|<<]] | [[:en:bible:notes:pro:21:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit sweep}}
 
 ~~NOCACHE~~

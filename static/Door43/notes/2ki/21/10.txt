@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 These are some of the things that Yahweh said through his prophets. Many times Yahweh had given them these messages:
-\v 11 "Manasseh, the king of Judah, has done these abominable things, things that are much worse than the things that the Amor people group did in this land long ago. He has lead the people of Judah to sin against Yahweh by worshiping the idols that he worshiped.
-\v 12 Therefore, this is what I, Yahweh, the God whom you Israelite people worship, says to you: I am about to cause disaster to come to Jerusalem and the rest of Judah. It will be terrible, with the result that everyone who hears about it will be stunned.
+\v 10 These are some of the things that the prophets said many times, messages that Yahweh had given them:
+\v 11 "Manasseh, the king of Judah, has done these abominable things, things that are much worse than the things that the Amor people group did in this land long ago. He has persuaded the people of Judah to sin by worshiping idols.
+\v 12 Therefore, this is what I, Yahweh, the God whom you Israelite people worship, say: 'I will cause disaster to come to Jerusalem and the rest of Judah. It will be terrible, with the result that everyone who hears about it will be stunned.
 </usfm>
 
 
@@ -24,8 +24,8 @@
 <usfm>
 \p
 \v 10 So Yahweh spoke by his servants the prophets, saying,
-\v 11 "Because Manasseh king of Judah has done these disgusting things, and has acted wickedly more than all that the Amorites who were before him did, and has also made Judah sin with his idols,
-\v 12 therefore Yahweh, the God of Israel, says this: Look, I am about to bring such evil on Jerusalem and Judah that whoever hears of it, both his ears will tingle.
+\v 11 "Because Manasseh king of Judah has done these disgusting things, and has acted wickedly more than all that the Amorites who were before him did, and has also made Judah sin with his idols,"
+\v 12 therefore Yahweh, the God of Israel, says, "Look, I am about to bring such evil on Jerusalem and Judah that whoever hears of it, both his ears will tingle.
 </usfm>
 
 
@@ -43,8 +43,7 @@
   * [[:en:obe:other:jerusalem]]
 ===== translationNotes: =====
 
-  * **with his idols, therefore Yahweh, the God of Israel, says this: Look** - Possible meanings are 1) Yahweh is speaking about himself in the third person. This can be stated in first person. AT: "with his idols, therefore I, Yahweh, the God of Israel, say this: Look" or 2) the prophet is introducing what Yahweh says. AT: "with his idols.' Therefore, this is what Yahweh, the God of Israel, says: 'Look" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **whoever hears of it, both his ears will tingle** - The physical feeling is a metonym for the emotional feeling that causes it. AT: "those who hear what Yahweh does, will be shocked." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **whoever hears of it, both his ears will tingle** - AT: "those who hear what Yahweh will do, will be shocked." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
  
 ===== Links: =====
@@ -60,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -26,7 +26,7 @@
 
 <usfm>
 \v 7 Beerah's relatives by their clans are the following, listed in their genealogical records: Jeiel the oldest, Zechariah, and
-\v 8 Bela son of Azaz son of Shema son of Joel. They lived in Aroer, as far as Nebo and Baal Meon,
+\v 8 Bela son of Azaz son of Shema son of Joel. They lived in Aroer, as far as Nebo and Baal Meon, 
 \v 9 and eastward to the start of the wilderness that extends to the Euphrates River. This was because they had many cattle in the land of Gilead.
 </usfm>
 
@@ -39,7 +39,7 @@
 ===== translationNotes: =====
 
   * **listed in their genealogical records** - This can start a new sentence: "Their genealogical records list them as" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **genealogical records** - records that show how people in a family are related to each other
+  * **genealogical record** - a record that shows how people in a family are related to each other
   * **Jeiel ... Zechariah ... Bela ... Azaz ... Shema** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Aroer ... Nebo ... Baal Meon** - These are the names of cities. 
 

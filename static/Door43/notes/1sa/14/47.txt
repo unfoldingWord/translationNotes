@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 47 After Saul became the ruler, he fought against enemies on every side. He fought against Moab, the Ammonites, Edom, the kings of Zobah, and the Philistines. Wherever the Israelite army fought, they defeated their enemies.
+\v 47 After Saul became the ruler, he fought against enemies on every side. He fought against the people groups of the Ammonites, the Edomites, the kings of Zobah, and the Philistines. Wherever the Israelite army fought, they defeated their enemies.
 \v 48 Saul's army fought bravely and defeated the very tall descendants of Amalek. His army rescued the Israelites from those who had plundered them.
 
 
@@ -25,7 +25,7 @@
 
 <usfm>
 \p
-\v 47 When Saul began to rule over Israel, he fought against all his enemies on every side. He fought against Moab, the Ammonites, Edom, the kings of Zobah, and the Philistines. Wherever he turned, he inflicted punishment on them.
+\v 47 When Saul began to rule over Israel, he fought against all his enemies on every side. He fought against Moab, the people of Ammon, Edom, the kings of Zobah, and the Philistines. Wherever he turned, he inflicted punishment on them.
 \v 48 He acted with great courage and defeated the Amalekites. He rescued Israel out of the hands of those who plundered them.
 </usfm>
 
@@ -45,23 +45,22 @@
 
   * **General Information:** - For a brief period Saul served with great courage in defeating Israel's enemies.
 
-  * **Israel** - This is a metonymy that represents the people of Israel. AT: "the Israelites" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Moab** - This refers to the people of Moab. AT: "the Moabites" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Edom** - This refers to the people of Edom. AT: "the Edomites" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Wherever he turned** - "Wherever he sent his army"
-  * **out of the hands** - The word "hand" represents control. AT: "out of the control" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
-
+  * **Israel** - This is a metonymy that represents the people of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **out of the hands** - The word "hand" represents control. AT: "out of the control" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
   * [[:en:bible:notes:1sa:14:00]]
   * [[:en:bible:questions:comprehension:1sa:14]]
+
+ 
+
 **[[:en:bible:notes:1sa:14:45|<<]] | [[:en:bible:notes:1sa:14:49|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

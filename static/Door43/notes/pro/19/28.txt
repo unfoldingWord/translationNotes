@@ -19,7 +19,7 @@
 \v 28 A lying witness laughs at anyone who acts justly,
 \q2 and wicked people act sinfully as easily as they eat food.
 \q1
-\v 29 Yahweh is ready to punish those who make themselves out to be better than other people,
+\v 29 Yahweh is ready to punish those who make themselves out to be better than other people, 
 \q2 and he is ready to flog the backs of fools.
 </usfm>
 
@@ -48,11 +48,9 @@
  
 ===== translationNotes: =====
 
-  * **the mouth of the wicked swallows iniquity** - This speaks of how wicked people enjoy doing evil by saying that they swallow iniquity as easily as they swallow food. AT: "the wicked enjoy doing evil as much as they enjoy eating food" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the mouth of the wicked swallows** - Here wicked people are referred to by their "mouths." AT: "the wicked swallow" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the wicked** - This refers to wicked people. AT: "the wicked person" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **Condemnation is ready for mockers and flogging for** - The words "condemnation" and "flogging" may be expressed as verbs. AT: "Yahweh is ready to condemn mockers and to flog" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **flogging for the backs** - The missing words may be added. AT: "flogging is ready for the backs" or "he is ready to flog the backs" (UDB) (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **the mouth of the wicked swallows iniquity** - AT: "wicked people enjoy doing evil as they enjoy eating food" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Condemnation is ready for mockers** - AT: "God is ready to condemn mockers" or "people are ready to condemn mockers" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **flogging for the backs of fools** - AT: "flogging is ready for the backs of fools" or "fools will soon be flogged" or "people will soon punish fools" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_synecdoche]])
   * **flogging** - beating with a whip or stick
  
  
@@ -63,6 +61,6 @@
   * [[:en:bible:questions:comprehension:pro:19]]
 **[[:en:bible:notes:pro:19:26|<<]] | [[:en:bible:notes:pro:20:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

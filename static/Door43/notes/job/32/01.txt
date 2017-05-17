@@ -37,11 +37,10 @@
 
 ===== translationNotes: =====
 
-  * **in his own eyes** - The eyes represent seeing, and seeing represents thoughts or judgment. AT: "he considered himself righteous" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Then was kindled the anger of Elihu son of Barachel the Buzite, of the family of Ram; it was kindled against Job** - This compares Elihu's anger to someone starting a fire. Also, this can be stated in active form. AT: "Then Elihu son of Barachel the Buzite, of the family of Ram, became very angry with Job" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in his own eyes** - AT: "in his own understanding" or "in his own opinion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Then was kindled the anger of Elihu son of Barachel the Buzite, of the family of Ram; it was kindled against Job** - This compares Elihu's anger to someone starting a fire. AT: "Then Elihu son of Barachel the Buzite, of the family of Ram, became very angry with Job" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **Elihu ... Barachel ... Ram** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Buzite** - This is the name of a people-group. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **he justified himself rather than God** - This means that he considered himself innocent and believed God had been wrong to punish him. AT: "he justified himself and claimed that God had been wrong to punish him" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -50,6 +49,6 @@
   * [[:en:bible:questions:comprehension:job:32]]
 **[[:en:bible:notes:job:31:38|<<]] | [[:en:bible:notes:job:32:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

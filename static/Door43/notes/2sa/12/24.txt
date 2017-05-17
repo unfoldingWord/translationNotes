@@ -15,7 +15,7 @@
 
 <usfm>
 \v 24 Then David comforted his wife, Bathsheba. Then he slept with her, and she became pregnant again and gave birth to another son. David named that boy Solomon. Yahweh loved this little boy.
-\v 25 He told the prophet Nathan to tell David to name the baby boy Jedidiah, because Yahweh loved him.
+\v 25 He told the prophet Nathan to tell David to name the baby boy Jedediah, because Yahweh loved him.
 
 
 
@@ -27,8 +27,8 @@
 
 <usfm>
 \p
-\v 24 David comforted Bathsheba his wife, and went in to her, and slept with her. Later she gave birth to a son, and the child was named Solomon. Yahweh loved him
-\v 25 and he sent word through Nathan the prophet to name him Jedidiah, because Yahweh loved him.
+\v 24 David comforted Bathsheba his wife, and went in to her, and slept with her. So she bare a son, and the child was named Solomon. Yahweh loved him, 
+\v 25 so he sent word through Nathan the prophet to name him Jedidiah, because Yahweh loved him.
 </usfm>
 
 
@@ -46,9 +46,7 @@
  
 ===== translationNotes: =====
 
-  * **went in to her, and slept with her** - The phrase "went in to her" is a graphic description of David having sex with his wife. These two phrases have the same meaning and are used together to emphasize that they slept together. AT: "slept with her" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **he sent word through Nathan the prophet** - Here "word" refers to a message that Yahweh told Nathan to tell David. AT: "he sent Nathan to tell him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Jedidiah** - This is another name for David's son Solomon, which Yahweh chose for him. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Jedidiah** - This is another name for David's son Solomon, which Yahweh chose for him. The name means "loved by Yahweh." (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -63,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -22,9 +22,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 8 Then Jesse called Abinadab and made him pass before Samuel. Then Samuel said, "Neither has Yahweh chosen this one."
-\v 9 Jesse then made Shammah pass by, but Samuel said, "Neither has Yahweh chosen this one."
-\v 10 Jesse made seven of his sons pass before Samuel. Then Samuel said to Jesse, "Yahweh has not chosen any of these."
+\v 8 Then Jesse called Abinadab and made him pass before Samuel. And Samuel said, "Neither has Yahweh chosen this one."
+\v 9 Then Jesse made Shammah pass by. And Samuel said, "Neither has Yahweh chosen this one."
+\v 10 Jesse made seven of his sons pass before Samuel. And Samuel said to Jesse, "Yahweh has not chosen any of these."
 </usfm>
 
 
@@ -35,9 +35,7 @@
   * [[:en:obe:kt:yahweh]]
 
 ===== translationNotes: =====
-  * **Abinadab ... Shammah** - These are names of Jesse's sons. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **made him pass before Samuel** - "told him to go to Samuel"
-  * **Jesse then made Shammah pass by** - It is understood that Shammah passed by Samuel. AT: "Jesse then made Shammah pass before Samuel" or "Jesse then told Shammah to go to Samuel" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+
  
 ===== Links: =====
 
@@ -52,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

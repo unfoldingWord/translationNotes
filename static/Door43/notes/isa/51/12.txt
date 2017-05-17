@@ -28,8 +28,9 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 12 "I, I, am he who comforts you.
+\v 12 "I, I, am he who comforts you. 
 \q1 Why are you afraid of men, who will die, the sons of mankind, who are made like grass?
 </usfm>
 
@@ -44,10 +45,9 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **I, I, am he** - The word "I" is repeated for emphasis. If this is unnatural in your language, the repetition does not need to be used. AT: "I am he"
-  * **Why are you afraid of men ... like grass?** - This rhetorical question emphasizes that people who have the Lord's protection should not be afraid of human beings. This can be written as a statement. AT: "Do not be afraid of men ... like grass." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **who are made like grass** - This phrase compares men to grass to emphasize that their lives are short and that they die quickly. AT: "who live and die quickly like grass" or "who will wither and disappear like grass" (UDB) (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **who are made like** - This can be stated in active form. AT: "who are like" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I, I** - This word is repeated for emphasis.
+  * **Why are you afraid of men ... like grass?** - This emphasizes that people who have the Lord's protection should not be afraid of human beings. AT: "Do not be afraid of men ... like grass." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **who are made like grass** - This means humans live and quickly die like grass. (See: [[:en:ta:vol1:translate:figs_simile]])
 
  
 ===== Links: =====
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:isa:51]]
 **[[:en:bible:notes:isa:51:11|<<]] | [[:en:bible:notes:isa:51:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

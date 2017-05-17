@@ -18,7 +18,7 @@
 
 <usfm>
 \v 5 You must make the poles of acacia wood, and you must cover them with gold.
-\v 6 You must put the incense altar before the curtain that is by the ark of the testimony. It will be before the atonement lid that is over the ark of the testimony, where I will meet with you.
+\v 6 You must put the incense altar before the curtain that is by the ark of the covenant decrees. It will be before the atonement lid that is over the ark of the covenant decrees, where I will meet with you.
 </usfm>
 
 ===== translationWords: =====
@@ -33,7 +33,7 @@
 
   * **General Information:** - Yahweh continues to tell Moses what the people must do.
 
-  * **ark of the testimony** - The ark is the chest that contains the commandments. This can be stated clearly in the translation. See how you translated this in [[:en:bible:notes:exo:26:31|26:33]]. AT: "the chest containing the commandments" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **ark of the covenant decrees** - The ark is the chest that contains the commandments. This can be stated clearly in the translation. AT: "the chest containing the commandments." See how you translated this in [[:en:bible:notes:exo:26:31|26:33]]. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **atonement lid** - This is the lid that sits on top of the ark where the atonement offering was made. See how you translated this in [[:en:bible:notes:exo:25:15|25:17]].
   * **where I will meet with you** - Here "you" refers to Moses. (See: [[:en:ta:vol1:translate:figs_you]])
 ===== Links: =====
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:exo:30]]
 **[[:en:bible:notes:exo:30:03|<<]] | [[:en:bible:notes:exo:30:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass atonementlid ark}}
+~~DISCUSSION~~{{tag>publish p2check atonementlid ark}}
 
 ~~NOCACHE~~

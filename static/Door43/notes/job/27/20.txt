@@ -46,11 +46,10 @@
 
 ===== translationNotes: =====
 
-  * **Terrors overtake him** - Here "overtake him" represents suddenly happening to him. Possible meanings are that "terrors" 1) is a metonym for things that cause people to be afraid. AT: "Terrifying things suddenly happen to him" or 2) fear. AT: "He suddenly becomes terrified"
-  * **like waters** - The word "waters" refers to a flood. Floods can happen very suddenly when people do not expect them, and they are dangerous and frightening. AT: "like a flood" or "like waters that rise up suddenly"  (See:  and [[:en:ta:vol1:translate:figs_simile]])
-  * **a storm takes him away** - "a violent wind blows him away"
-  * **it sweeps him out of his place** - Job speaks of the wind blowing the wicked man out of his house as if the wind were a person sweeping dust out of a house with a broom. AT: "the wind sweeps him out of his place like a woman who sweeps dirt out of a house" or "the wind easily blows him out of his place" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **his place** - "his home"
+  * **Terrors overtake him like waters** - AT: "Terrors come over him like a flood of waters surrounds a person;" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **a storm takes** - "a violent wind blows"
+  * **it sweeps him** - This compares the wind blowing him out of his house to someone sweeping dust out of a house with a broom. AT: "the wind sweeps him out of his place like a woman sweeps dirt out of a house with a broom" or "the wind blows him out of his place" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **out of his place** - AT: "out of his home"
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -58,6 +57,6 @@
   * [[:en:bible:questions:comprehension:job:27]]
 **[[:en:bible:notes:job:27:18|<<]] | [[:en:bible:notes:job:27:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

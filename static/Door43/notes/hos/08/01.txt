@@ -43,7 +43,7 @@
 
 <usfm>
 \c 8
-\m
+\p
 \q
 \v 1 "Place a trumpet at your lips!
 \q An eagle is coming over the house of Yahweh
@@ -76,7 +76,7 @@
 
   * **An eagle is coming over the house of Yahweh** - The eagle, a bird of prey, is sometimes used to represent the enemies of Israel. AT: "As an eagle hunts another animal, the enemies of Israel are coming to capture my people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **broken my covenant** - Here "broken" represents "disobeyed," "violated." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **know you** - "are faithful to you"
+  * **know you** - That is, "are faithful to you."
 
 ===== Links: =====
 
@@ -85,6 +85,6 @@
   * [[:en:bible:questions:comprehension:hos:08]]
 **[[:en:bible:notes:hos:07:16|<<]] | [[:en:bible:notes:hos:08:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

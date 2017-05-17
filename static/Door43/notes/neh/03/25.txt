@@ -16,7 +16,8 @@
 <usfm>
 \v 25 Next to him, Palal son of Uzai repaired a section, from where the wall turns and from where the watchtower is taller than the upper palace. The watchtower is near the courtyard where the guards lived. Next to Palal, Pedaiah son of Parosh repaired the wall.
 \v 26 Next to him the temple servants repaired a section facing the Water Gate on the east side of the tall tower.
-\v 27 Next to him, the Tekoites repaired a second section that was in front of the tall tower as far as the wall of Ophel.
+\v 27 Next to him, the Tekoites repaired a second section that was in front of the tall tower as far as the wall of Ophel. 
+
 
 \p
 </usfm>
@@ -26,8 +27,8 @@
 
 <usfm>
 \v 25 Palal son of Uzai repaired over against the corner of the wall and the tower that extends upward from the upper house of the king at the court of the guard. After him Pedaiah son of Parosh repaired.
-\v 26 Now the temple servants living in Ophel repaired to the point opposite the Water Gate on the east and the projecting tower.
-\v 27 After him the Tekoites repaired another section that was opposite the great projecting tower as far as the wall of Ophel.
+\v 26 Now the temple servants living in Ophel repaired to the point opposite the Water Gate on the east of the projecting tower.
+\v 27 After him the Tekoites repaired another section, opposite the great tower that stands out, as far as the wall of Ophel.
 </usfm>
 
 
@@ -44,16 +45,15 @@
   * [[:en:obe:kt:gate]] 
 ===== translationNotes: =====
 
-  * **Palal ... repaired ... Parosh repaired ... servants ... repaired ... repaired another section** - These phrases refer to repairing the wall. AT: "Palal ... repaired the wall ... Parosh repaired the wall ... servants ... repaired the wall ... repaired another section of the wall"
+  * **Palal ... repaired** - The implied information here is that the wall was being repaired. AT: "Palal ... fixed the wall" (See [[:en:ta:vol1:translate:figs_explicit]])
   * **Palal ... Uzai ... Pedaiah ... Parosh** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **the tower that extends upward** - "the tower that rises up"
   * **upper house of the king** - "higher palace of the leader of Israel"
   * **the court of the guard** - This is the place where the guards stayed. 
-  * **After him** - "Next to him"
-  * **Ophel** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **opposite the Water Gate** - "in front of the Water Gate"
-  * **the projecting tower ... the great projecting tower** - "the tall tower ... the tall tower." The phrase "the projecting tower" means a tall tower that juts out from the wall. It is likely that both of these phrases refer to the same tower. 
-  * **the Tekoites** - These are people from the town of Tekoa. Translate this the same as you did in [[:en:bible:notes:neh:03:03|3:5]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ophel** - This is the name of an area or region. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Water Gate** - This is the name of an entranceway in the wall.
+  * **the Tekoites** - This is the name of people who came from the town of Tekoa. (See: [[:en:obe:other:peoplegroup]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -67,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

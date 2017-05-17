@@ -30,11 +30,10 @@
 
 <usfm>
 \c 2
-\m
+\p
 \q
-\v 1 I will stand at my guard post and station myself on the watchtower, and I will watch carefully
+\v 1 I will stand at my guard post and station myself on the watchtower, and I will watch carefully 
 \q to see what he will say to me and how I should turn from my complaint.
-\f + \ft Instead of \fqa how I should turn from my complaint \fqa* , which is what the Hebrew text has, some modern versions have \fqa how I should answer when he replies to my complaint \fqa* or \fqa how I should answer when he rebukes me \fqa* . \f*
 </usfm>
 
 
@@ -47,7 +46,7 @@
   * **I ... my ... me** - Habakkuk
   * **he** - Yahweh
   * **I will stand at my guard post and station myself on the watchtower** - These phrases say the same thing in two different ways. "I will stand at my post on the watchtower." Habakkuk uses these phrases to compare himself waiting to hear from God to a soldier standing guard on a watchtower. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I should turn from my complaint** - The word "turn" speaks of changing one's mind as if it were turning from one thing to another. AT: "I should stop complaining and agree with God." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I should turn from my complaint** - The word "turn" compares someone changing their mind to turning from one thing to another. "I should stop complaining and agree with God." (See: [[:en:ta:vol1:translate:figs_idiom]])
  
  
 ===== Links: =====

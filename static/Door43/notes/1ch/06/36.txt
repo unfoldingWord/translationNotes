@@ -38,6 +38,7 @@
 \li2 Izhar was the son of Kohath.
 \li2 Kohath was the son of Levi.
 \li2 Levi was the son of Jacob.
+\b
 
 
 \li1
@@ -46,9 +47,19 @@
 ===== ULB: =====
 
 <usfm>
-\v 36 Elkanah was the son of Joel. Joel was the son of Azariah. Azariah was the son of Zephaniah.
-\v 37 Zephaniah was the son of Tahath. Tahath was the son of Assir. Assir was the son of Ebiasaph. Ebiasaph was the son of Korah.
-\v 38 Korah was the son of Izhar. Izhar was the son of Kohath. Kohath was the son of Levi. Levi was the son of Israel.
+\v 36 Elkanah was the son of Joel.
+\q Joel was the son of Azariah.
+\q Azariah was the son of Zephaniah.
+\q 
+\v 37 Zephaniah was the son of Tahath.
+\q Tahath was the son of Assir.
+\q Assir was the son of Ebiasaph.
+\q Ebiasaph was the son of Korah.
+\q 
+\v 38 Korah was the son of Izhar.
+\q Izhar was the son of Kohath.
+\q Kohath was the son of Levi.
+\q Levi was the son of Israel.
 \p
 </usfm>
 

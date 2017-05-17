@@ -25,8 +25,10 @@
 
 <usfm>
 \v 1 Praise Yahweh!
+\b
 \q1 I will thank Yahweh with my entire inner being
 \q2 every time that those who do what is right come together.
+\b
 \q1
 \v 2 The things that Yahweh has done are wonderful!
 \q1 All those who are delighted with those things
@@ -45,7 +47,7 @@
 
 <usfm>
 \c 111
-\m
+\p
 \q
 \v 1 Praise Yahweh.
 \q I will give thanks to Yahweh with my whole heart
@@ -74,11 +76,11 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **with my whole heart** - Here the word "heart" represents the person's entire inner being and emotions. AT: "with all that I am" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in the assembly of the upright, in their gathering** - These two phrases mean that same thing and may be combined if necessary. AT: "in the gathering of upright people" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **eagerly awaited by all those who desire them** - The word "them" refers to the "works of Yahweh." This can be stated in active form. AT: "all those who desire the works of Yahweh eagerly await them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in the assembly of the upright, in their gathering** - These two phrases mean that same thing and may be combined if necessary. AT: "in the gathering of the upright" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **eagerly awaited by all those who desire them** - The word "them" refers to the "works of Yahweh." This can be stated in active form. AT: "all those who desire them eagerly await them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **eagerly awaited** - Possible meanings are 1) "sought after" or 2) "studied."
 
 ===== Links: =====
@@ -88,6 +90,6 @@
   * [[:en:bible:questions:comprehension:psa:111]]
 **[[:en:bible:notes:psa:110:007|<<]] | [[:en:bible:notes:psa:111:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

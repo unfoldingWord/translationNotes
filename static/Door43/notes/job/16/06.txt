@@ -64,13 +64,11 @@
 ===== translationNotes: =====
 
   * **grief** - Job has experienced great loss of family and health that is unexplained and therefore causes him "great sorrow and emotional pain".
-  * **how am I helped?** - Job uses this rhetorical question to express that keeping quiet does not lessen his grief. This question can be written as a statement. AT: "it does not help me at all." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **how am I helped?** - Job asks this question to emphasize that there is no help in keeping silent. AT: "keeping silent does not help me at all." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **But now, God, you** - Job now turns his complaining to God.
-  * **made all my family desolate** - "destroyed all my family" (UDB)
-  * **You have made me dry up** - This means that Job's body has shriveled and become wrinkled. AT: "You  have made my body shrivel up" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **which itself is a witness against me** - Job describes the shriveling of his body as if it were an accuser against him. AT: "and people think that shows me to be a sinner" (UDB) (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **the leanness of my body rises up against me, and it testifies against** - Job describes the thinness of his body as if it were accuser against him. AT: "They see how thin my body is, and they think that proves that I am guilty" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **against my face** - Here Job is referred to by his "face." AT: "against me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **You have made me dry up** - "Dry up" is another way to describe how everything Job had has now vanished. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the leanness of my body rises up against me, and it testifies against** - Job describes his body's difficulties as if they were accusers against him. (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **against my face** - "Face" represents Job's reputation. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -79,6 +77,6 @@
   * [[:en:bible:questions:comprehension:job:16]]
 **[[:en:bible:notes:job:16:04|<<]] | [[:en:bible:notes:job:16:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

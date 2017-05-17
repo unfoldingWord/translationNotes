@@ -23,7 +23,8 @@
 \q2 but my eyes are full of tears while I cry out to God.
 \q1
 \v 21 I pray that the one who knows what I have done would come to plead with God for me
-\q2 as a person pleads for his friend.
+\q2 as a person pleads for his friend. 
+\b
 \q1
 \v 22 I say this because within a few years I will die;
 \q2 I will walk along the road to a place from which I will never return."
@@ -54,12 +55,10 @@
 
 ===== translationNotes: =====
 
-  * **scoff** - "scorn" or "ridicule" 
-  * **my eye pours out tears** - Job describes how strongly he feels his sorrow. Here he exaggerates how he often cries by saying that tear pour from his eyes. AT: "my eyes are full of tears while I cry out" (UDB) (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **for this man** - Here Job refers to himself in the third person. "for me" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **as a man does with his neighbor!** - "as a man does for his neighbor." Job describes how he wants that one in heaven to plead for him. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **scoff** - "scorn" This word means to disrespect and to hate expressed in rudeness or crudeness.
+  * **my eye pours out tears** - Job describes how strongly he feels his sorrow. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **as a man does with his neighbor!** - Job describes how he wants that one in heaven to plead for him. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **this man** - Job refers to himself.
-  * **I will go to a place** - Here Job is referring to himself dying. AT: "I will die and go to a place" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -67,6 +66,6 @@
   * [[:en:bible:questions:comprehension:job:16]]
 **[[:en:bible:notes:job:16:18|<<]] | [[:en:bible:notes:job:17:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

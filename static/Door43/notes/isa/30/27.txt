@@ -26,7 +26,7 @@
 \q1
 \v 28 His breath is like a flood that covers his enemies up to their necks.
 \q2 He will separate the nations in order to destroy some of them;
-\q2 it is as though he will put horses' bridles on them so he can lead them away to destruction.
+\q2 it is as though he will put horses' bridles on them and take them away into exile.
 
 
 \q1
@@ -35,11 +35,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 27 Look, the name of Yahweh comes from a distant place, burning with his anger and in dense smoke.
+\v 27 Look, the name of Yahweh comes from a distant place, burning with his anger and in dense smoke. 
 \q1 His lips are full of fury, and his tongue is like a devouring fire.
 \q1
-\v 28 His breath is like an overflowing torrent that reaches up to the middle of the neck,
+\v 28 His breath is like an overflowing torrent that reaches up to the middle of the neck, 
 \q1 to sift the nations with the sieve of destruction. His breath is a bridle in the jaws of the peoples to cause them to wander away.
 </usfm>
 
@@ -58,13 +59,12 @@
 
 ===== translationNotes: =====
 
-  * **the name of Yahweh ... like a devouring fire** - Yahweh being extremely angry is spoken of as if he were a large fire. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the name of Yahweh comes** - Here "name" represents Yahweh. AT: "Yahweh comes" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **His lips are full of fury, and his tongue is like a devouring fire** - Here "lips" and "tongue" are metonyms that represent Yahweh speaking. And, Yahweh speaks with so much anger and power that it is spoken of as if his tongue were a fire. AT: "When he speaks his fury is like a fire that destroys everything" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **the name of Yahweh** - The word "name" here refers to his reputation or power. AT: "the reputation of Yahweh" or "the power of Yahweh" or "Yahweh is coming powerfully" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **burning with his anger and in dense smoke** - Yahweh's anger is compared to fire to emphasize its power to destroy. The "dense smoke" comes from the fire. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **His lips are full of fury, and his tongue is like a devouring fire** - Isaiah compares Yahweh's anger to fire. AT: "When he speaks his words are full of fury and they destroy like a fire" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **His breath is like an overflowing torrent** - This compares the air coming out of Yahweh's mouth to a flood to emphasize its power to destroy. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **to sift the nations with the sieve of destruction** - Yahweh separating the people of the nations and destroying the wicked people is spoken of as if Yahweh puts the nations in a sieve. This can be translated as a new sentence. AT: "Yahweh will separate and destroy the wicked people of the nations" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **His breath is a bridle in the jaws of the peoples to cause them to wander away** - Yahweh having the power to cause people's plans to fail or causing them to be destroyed is spoken of as if his breath were a bridle that steers people off the correct path. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a bridle in the jaws of the peoples** - A "bridle" is a device that people put over a horse's head to guide it. The bridle contains a small piece called a "bit" that goes in the horse's mouth. AT: "a bridle on the heads of the peoples" or "a bit in the jaws of the peoples" (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **to sift the nations with the sieve of destruction** - This can be translated as a new sentence. AT: "Yahweh will separate and destroy the nations" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **a bridle in the jaws of the peoples** - "a bridle on the heads of the peoples" or "a bit in the jaws of the peoples." A "bridle" is a device that people put over a horse's head to guide it. The bridle contains a small piece called a "bit" that goes in the horse's mouth.
 
 ===== Links: =====
 
@@ -73,6 +73,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:30:25|<<]] | [[:en:bible:notes:isa:30:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

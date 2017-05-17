@@ -20,6 +20,7 @@
 <usfm>
 \v 21 It is sinful to have contempt for your neighbors;
 \q2 but how fortunate are those who do kind things for the poor.
+\b
 \q1
 \v 22 Those who plot with evil plans, do they not go astray?
 \q2 But those who make plans for the good will receive love and faithfulness.
@@ -33,8 +34,8 @@
 
 <usfm>
 \q
-\v 21 The one who shows contempt for his neighbor is sinning,
-\q but the one who shows favor to the poor is blessed.
+\v 21 The one who shows contempt for his neighbor is sinning, 
+\q but the one who shows favor to the poor is happy. 
 \q
 \v 22 Do not those who plot evil go astray?
 \q But those who plan to do good will receive covenant faithfulness and trustworthiness.
@@ -54,10 +55,11 @@
 
 ===== translationNotes: =====
 
-  * **The one ... the one** - "The person ... the person"
+  * **The one ... the one** - AT: "The person ... the person"
   * **the poor** - "poor people"
-  * **Do not those who plot evil go astray?** - The assumed answer to this question is "yes". AT: "Those who plot evil will go astray." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **who plot evil** - "who make evil plans" or "who make plans to do evil things"
+  * **Do not those who plot evil go astray?** - The implicit answer to this question is "yes". AT: "Those who plot evil will go astray" (See: [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **who plot evil** - AT: "who make evil plans" or "who make plans to do evil things"
+  * **will receive covenant faithfulness and trustworthiness** - AT: "will receive God's covenant faithfulness and enjoy his trustworthiness"
 
 ===== Links: =====
 
@@ -66,6 +68,6 @@
   * [[:en:bible:questions:comprehension:pro:14]]
 **[[:en:bible:notes:pro:14:19|<<]] | [[:en:bible:notes:pro:14:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

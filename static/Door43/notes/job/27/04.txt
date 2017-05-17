@@ -31,9 +31,10 @@
 
 <usfm>
 \q
-\v 4 My lips will not speak wickedness,
-\q neither will my tongue speak deceit;
-\v 5 I will never admit that you three are right;
+\v 4 Surely my lips will not speak unrighteousness,
+\q neither will my tongue speak deceit.
+\q
+\v 5 I will never admit that you are right;
 \q until I die I will never deny my integrity.
 </usfm>
 
@@ -48,13 +49,10 @@
  
 ===== translationNotes: =====
 
-  * **My lips will not speak wickedness, neither will my tongue speak deceit** - These two phrases have basically the same meaning and are used together to emphasize that he will not speak in such ways. The phrases "My lips" and "my tongue" represent Job himself. AT: "I will not speak wickedness or deceit" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **speak wickedness ... speak deceit** - The abstract nouns "wickedness" and "deceit" can be expressed with "wickedly" and "deceitfully." AT: "speak wickedly ... speak deceitfully" 
-  * **I will never admit that you three are right** - "I will never agree with you and say that you three are right" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **that you three are right** - The word "you" here is plural. It refers to Job's friends. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **I will never deny my integrity** - "I will never say that I am not innocent" or "I will always say that I am innocent"
-
-
+  * **Surely my lips will not speak ... neither will my tongue speak** - These two phrases have basically the same meaning and are used together for emphasis. When it says "my lips" and "my tongue," Job is referring to himself. AT: "Surely I will not speak unrighteousness or deceit." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **unrighteousness ... deceit** - AT: "unrighteous words ... deceitful words"
+  * **that you are right** - The word "you" here is plural. It refers to Job's friends. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **deny** - AT: "give up"
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -62,6 +60,6 @@
   * [[:en:bible:questions:comprehension:job:27]]
 **[[:en:bible:notes:job:27:01|<<]] | [[:en:bible:notes:job:27:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

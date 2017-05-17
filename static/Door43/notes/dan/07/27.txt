@@ -22,11 +22,11 @@
 ===== ULB: =====
 
 <usfm>
-\v 27 The kingdom and the dominion,
-\q and the greatness of the kingdoms under the whole heaven,
+\v 27 The kingdom and the dominion, 
+\q and the greatness of the kingdoms under the whole heaven, 
 \q will be given to the people
-\q who belong to the holy people of the Most High.
-\q His kingdom is an everlasting kingdom,
+\q who belong to the holy people of the Most High. 
+\q His kingdom is an everlasting kingdom, 
 \q and all other kingdoms will serve and obey him.'
 \p
 \v 28 Here is the end of the matter. As for me, Daniel, my thoughts greatly alarmed me and my face changed in appearance. But I kept these things to myself."
@@ -47,18 +47,14 @@
 ===== translationNotes: =====
 
   * **General Information:** - The man in Daniel's vision continues talking to Daniel.
-  * **General Information:** - Most of the text of verses 23-27 is symbolic language. For this reason, the ULB presents them in poetic form. (See: [[:en:ta:vol2:translate:writing_symlanguage]])
 
-  * **The kingdom and the dominion ... will be given to the people** - This can be stated in active form. AT: "God will give the kingdom and the dominion ... to the people" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **The kingdom and the dominion** - These two terms mean basically the same thing and emphasize that this will concern all forms of official authority. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **the greatness of the kingdoms** - The abstract noun "greatness" can be translated with the adjective "great." AT: "everything that is great about the kingdoms" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **of the kingdoms under the whole heaven** - The idiom "under the whole heaven"  refers to the kingdoms on earth. AT: "of all the kingdoms on earth" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the greatness of the kingdoms** - "everything that is great about the kingdoms" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **of the kingdoms under the whole heaven** - AT: "of all the kingdoms on earth" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **will be given to the people** - AT: "God will give it all to the people" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **His kingdom** - "The kingdom of the Most High" 
-  * **an everlasting kingdom** - "a kingdom that will exist forever" or "a kingdom that will never end"
+  * **an everlasting kingdom** - AT: "a kingdom that will exist forever" or "a kingdom that will never end"
   * **Here is the end of the matter** - This means that Daniel has finished describing the vision. AT: "That is what I saw in my vision" (UDB) or "This is the end of the description of what I saw in my vision"
-  * **my face changed in appearance** - "my face became pale"
-
-
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -66,6 +62,6 @@
   * [[:en:bible:questions:comprehension:dan:07]]
 **[[:en:bible:notes:dan:07:25|<<]] | [[:en:bible:notes:dan:08:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass daniel}}
+~~DISCUSSION~~{{tag>publish p2edit daniel}}
 
 ~~NOCACHE~~

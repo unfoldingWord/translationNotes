@@ -28,6 +28,7 @@
 \q2 like a wild animal tears another animal apart and devours it.
 \q1 But even after that happened, Yahweh will still be very angry with them.
 \q2 He will be ready to strike them with his fist again.
+\b
 
 
 \q1
@@ -37,10 +38,11 @@
 
 <usfm>
 \q1
-\v 11 Therefore Yahweh will raise up against him Rezin, his adversary, and will stir up his enemies,
+\v 11 Therefore Yahweh will raise up against him, Rezin, his adversary, and will stir up his enemies,
 \q1
-\v 12 the Arameans on the east, and the Philistines on the west. They will devour Israel with open mouth.
-\q1 In all these things, his anger does not subside; instead, his hand is still stretched out.
+\v 12 the Arameans on the east, and the Philistines on the west. They will devour Israel with open mouth. 
+\q1 For in his anger Yahweh will 
+not stop, but his hand will still be raised to strike.
 </usfm>
 
 ===== translationWords: =====
@@ -56,13 +58,10 @@
 
 ===== translationNotes: =====
 
-  * **Therefore Yahweh will raise up against him Rezin, his adversary** - Here "Rezin" represents his army. AT: "Therefore, Yahweh will bring Rezin and his army against the people of Israel" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Rezin** - This is the name of a man. See how you translated Rezin in [[:en:bible:notes:isa:07:01|7:1]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **and will stir up his enemies** - The phrase "stir up" is an idiom that means to incite them to attack. AT: "and Yahweh will cause Israel's enemies to attack" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Therefore Yahweh will raise up against him, Rezin, his adversary** - See how you translated Rezin in [[:en:bible:notes:isa:07:01|7:1]]. AT: "Therefore, Yahweh will send the enemy of Rezin against the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and will stir up his enemies** - This means to push them into action. AT: "and Yahweh will make the enemy armies attack the people of Israel" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **They will devour Israel with open mouth** - "Devour" is how wild animals eat their prey. AT: "Like a wild beast eating its prey, the army of the enemy will destroy the people of Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **In all these things, his anger does not subside; instead, his hand** - "Even though all these things have happened, he is still angry, and his hand." Translate as in [[:en:bible:notes:isa:05:25|5:25]].
-  * **his hand is still stretched out** - Isaiah speaks as if Yahweh were a person about to hit another person with his fist. This is a metaphor for Yahweh punishing Israel. Translate as in [[:en:bible:notes:isa:05:25|5:25]]. AT: "he will still be ready to punish them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **his hand will still be raised to strike** - "Hand" refers to punishing people. AT: "he is ready to punish them more with his powerful hand" or "he will punish them again with his power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -70,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:09]]
 **[[:en:bible:notes:isa:09:08|<<]] | [[:en:bible:notes:isa:09:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example adversary}}
+~~DISCUSSION~~{{tag>publish adversary p2edit}}
 
 ~~NOCACHE~~

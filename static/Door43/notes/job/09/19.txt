@@ -24,6 +24,7 @@
 \q1
 \v 20 Even though I was innocent, anything I said would cause him to punish me;
 \q2 even though I had not done anything wrong, he would still prove that I was guilty.
+\b
 
 
 \q1
@@ -33,11 +34,11 @@
 
 <usfm>
 \q
-\v 19 If it is a matter of strength, behold!, he is mighty!
-\q If it is a matter of justice who can summon him?
+\v 19 If we speak of strength, why, he is mighty!
+\q And if we speak of justice? 'Who,' he says, 'will question me?'
 \q
-\v 20 Though I am in the right, my own mouth would condemn me;
-\q and thought I am blameless, my words would prove me to be guilty.
+\v 20 Even if I were righteous, my own mouth would condemn me;
+\q even if I were blameless, it would still prove me guilty.
 </usfm>
 
 ===== translationWords: =====
@@ -51,18 +52,16 @@
 
 ===== translationNotes: =====
 
-  * **If it is a matter of strength** - "If there is a contest of strength"
-  * **behold** - "look" or "pay attention to what I am about to tell you"
-  * **he is mighty** - "he is the strong one"
-  * **who can summon him?** - This question expects an answer of "No one" to make the point that no one is able to bring God to court. This can be reworded as a statement. AT: "no one can summon him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Though I am in the right** - Here "I am in the right" means I am the one who has done right things. AT: "Although I have done right things" or "Even though I am innocent" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **Though I am in the right, my own mouth would condemn me; and thought I am blameless, my words would prove me to be guilty** - This verse expresses the same idea twice for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **my own mouth would condemn me** - Here "mouth" represents Job's words. AT: "my own words would accuse me" or "what I say would condemn me" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **blameless** - "faultless"
-  * **my words would prove me to be guilty** - Here "my words" are spoken of as if they could take action. AT: "God would use what I say to prove me guilty" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **guilty** - The word here has the meaning of "twisted" or "crooked."
-
-
+  * **why, he is mighty** - "behold, he is powerful"
+  * **why** - This is used to introduce new information that follows with emphasis.
+  * **And if we speak of justice** - "and if we speak of acting fairly"
+  * **'Who,' he says, 'will question me?'** - Job uses this question to emphasize that he has nobody to stand up for him against God. AT: "Nobody will stand up for me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **'Who,' he says, 'will question me?'** - "Who shall call an assembly for me?" or "Who will appoint a time for me?"
+  * **Even if I were righteous** - "Even if I was innocent"
+  * **my own mouth would condemn me** - Job says that his own efforts to prove his innocence would be acting wrongly before God. AT: "my own words would accuse me" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **even if I were blameless** - "even if I was faultless"
+  * **it would still prove me guilty** - Possible meanings are 1) Job's mouth will declare that Job is wrong or 2) God will declare that Job is wrong AT: "my mouth will say that I am wrong" or "God will say that I am wrong"
+  * **guilty** - "dishonest"
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -70,6 +69,6 @@
   * [[:en:bible:questions:comprehension:job:09]]
 **[[:en:bible:notes:job:09:16|<<]] | [[:en:bible:notes:job:09:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

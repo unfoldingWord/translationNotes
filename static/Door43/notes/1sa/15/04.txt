@@ -33,10 +33,9 @@
  
 ===== translationNotes: =====
 
-  * **the people** - "the army"
   * **numbered them** - "counted them"
   * **city of Telem** - a city in southern Judah (See: [[:en:ta:vol1:translate:translate_names]])
-  * **two hundred thousand men on foot, and ten thousand men of Judah** - "200,000 men on foot, and 10,000 men of Judah" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **two hundred thousand men on foot, and ten thousand men of Judah** - 200,000 men on foot, 10,000 men of Judah. (See: [[:en:ta:vol2:translate:translate_numbers]])
  
 ===== Links: =====
 
@@ -48,6 +47,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

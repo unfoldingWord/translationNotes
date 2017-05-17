@@ -17,9 +17,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 These are sayings of King Lemuel—an oracle his mother taught him.
+\v 1 These are sayings of King Lemuel—an oracle his mother taught him. 
 \q1
-\v 2 She says: You are my son; I carried you in my womb;
+\v 2 She says: You are my son; I carried you in my womb; 
 \q2 you are the son, I made promises to Yahweh for you.
 \q1
 \v 3 Do not give your strength to women;
@@ -36,8 +36,8 @@
 \p
 \v 1 The words of King Lemuel—an oracle his mother taught him.
 \q
-\v 2 What, my son? What is it, son of my womb?
-\q What do you want, son of my vows?
+\v 2 What, my son? And what, son of my womb?
+\q And what, son of my vows?—
 \q
 \v 3 Do not give your strength to women,
 \q or your ways to those who destroy kings.
@@ -52,17 +52,8 @@
 ===== translationNotes: =====
 
   * **King Lemuel** - This is the name of a king. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **oracle** - message from God. Translate as in [[:en:bible:notes:pro:30:01|30:1]].
-  * **What, my son? What is it, son of my womb? What do you want, son of my vows?** - Possible meanings of the rhetorical question "What" are 1) "What are you doing?" or "You should not be doing what you are doing"  or 2) "What shall I tell you?" or "Listen to what I am telling you" or 3) "Do not do the things I am about to warn you against." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **my son ... son of my womb ... son of my vows** - The speaker wants the hearer to notice carefully and to respect the one who is talking to him.
-  * **son of my womb** - The womb is a synecdoche for the person. It is best to use a polite term for the body part in which babies grow before they are born.
-  * **son of my vows** - The "vows" could be 1) the mother's marriage vows or 2) a vow after she married that if God allowed her to have a child she would dedicate him to God.
-  * **Do not give your strength to women** - "Do not work hard trying to have sex with women," either outside of marriage or with concubines.
-  * **or your ways to those who destroy kings** - "or allow those who destroy kings to advise you"
-  * **your ways** - Possible meanings are 1) "the way you live your life" or 2) "the work you do"
-  * **those who destroy kings** - probably the immoral "women" to whom he is not to give his strength
-
-
+  * **oracle** - See how you translated this in [[:en:bible:notes:pro:30:01|30:1]].
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -70,6 +61,6 @@
   * [[:en:bible:questions:comprehension:pro:31]]
 **[[:en:bible:notes:pro:30:32|<<]] | [[:en:bible:notes:pro:31:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -17,11 +17,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 25 Do not let a disaster fill you with terror,
+\v 25 Do not let a disaster fill you with terror, 
 \q2 and do not let the wicked fill you with fear when they come for you.
 \q1
-\v 26 Yahweh takes your side to defend you,
-\q2 he will not allow any trap to catch and hold you.
+\v 26 Yahweh takes your side to defend you, 
+\q2 he will not allow any trap to catch and hold you. 
+
 
 \q1
 </usfm>
@@ -36,6 +37,7 @@
 \q
 \v 26 for Yahweh will be on your side
 \q and will keep your foot from being caught in a trap.
+\b
 </usfm>
 
 
@@ -49,9 +51,9 @@
 
 ===== translationNotes: =====
 
-  * **devastation caused by the wicked, when it comes** - This can be stated in active form. AT: "when the wicked cause devastation" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Yahweh will be on your side** - "Yahweh will be by your side." A person standing by another person's side is an idiom that means that the one person will help and support the other. AT: "Yahweh will support and defend you" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **will keep your foot from being caught in a trap** - The writer speaks of a person experiencing harm from "terror" and "devastation" as if the person were caught in a trap. The word "foot" represents the whole person. AT: "will protect you from those who want to harm you" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **will be on your side** - "will act to support and defend you" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **keep your foot from being caught in a trap** - "protect you from those who want to harm you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+ 
  
 ===== Links: =====
 
@@ -66,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

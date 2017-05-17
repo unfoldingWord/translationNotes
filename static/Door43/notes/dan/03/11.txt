@@ -22,7 +22,7 @@
 
 <usfm>
 \v 11 Whoever does not fall down and worship must be thrown into a blazing furnace.
-\v 12 Now there are certain Jews whom you have appointed over the affairs of the province of Babylon; their names are Shadrach, Meshach, and Abednego. These men, king, pay no attention to you. They will not worship or serve your gods, or prostrate themselves before the golden statue you have set up."
+\v 12 Now there are certain Jews whom you have appointed over the affairs of the province of Babylon; their names are Shadrach, Meshach, and Abednego. These men, king, pay no attention to you. They will not worship, serve your gods, or prostrate themselves to the golden statue that you have set up."
 </usfm>
 
 ===== translationWords: =====
@@ -38,15 +38,11 @@
 
 ===== translationNotes: =====
 
-  * **Whoever does not fall down and worship must be thrown into a blazing furnace** - This can be stated in active form. AT: "Soldiers must throw into a blazing furnace anyone who does not lie down on the ground and worship" (See: [[(en:ta:vol2:translate:figs_activepassive]])
-  * **fall down** - Here "fall down" means "quickly lie down"
-  * **blazing furnace** - This is a large room filled with a hot fire. Translate this as you did in [[:en:bible:notes:dan:03:06|3:6]].
+  * **Whoever does not fall down and worship must be thrown into a blazing furnace** - This can be stated in active form. AT: "Soldiers will throw into a blazing furnace anyone who does not lie down on the ground and worship" (See: [[(en:ta:vol2:translate:figs_activepassive]])
+  * **blazing furnace** - This is a large room where people burn things.
   * **affairs** - "matters" or "business" 
-  * **Shadrach ... Meshach ... Abednego** - These are the Babylonian names of the three Jewish friends of Daniel. See how you translated these names in [[:en:bible:notes:dan:01:06|1:7]].
+  * **Shadrach ... Meshach ... Abednego** - See how you translated these names in [[:en:bible:notes:dan:01:06|1:7]].
   * **pay no attention to you** - "do not pay attention to you"
-  * **prostrate themselves** - "stretch themselves out on the ground face down in worship" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **the golden statue you have set up** - That Nebuchadnezzar's men have set up the statue is spoken of as if Nebuchadnezzar has set it up. AT: "the golden statue your men have set up" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
 
 ===== Links: =====
 
@@ -55,6 +51,6 @@
   * [[:en:bible:questions:comprehension:dan:03]]
 **[[:en:bible:notes:dan:03:08|<<]] | [[:en:bible:notes:dan:03:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

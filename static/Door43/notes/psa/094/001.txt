@@ -19,6 +19,7 @@
 <usfm>
 \v 1 Yahweh, you are able to get revenge on your enemies.
 \q2 So show them that you are going to punish them!
+\b
 \q1
 \v 2 You are the one who judges all people on the earth;
 \q1 so arise and give them what they deserve.
@@ -32,7 +33,7 @@
 
 <usfm>
 \c 94
-\m
+\p
 \q
 \v 1 Yahweh, God who avenges,
 \q God who avenges, shine over us.
@@ -55,11 +56,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **shine over us** - "show yourself" or "reveal your justice" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Rise up, judge of the earth, give to the proud what they deserve** - "Come, judge of the earth, and punish the proud"
-  * **Rise up** - The psalmist speaks of starting to do something as getting up. If your language has a word for beginning to act, use it here.  AT: "Take action" or "Do something" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Rise up** - If your language has a word for beginning to act, use it here.
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -73,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book4}}
+{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

@@ -26,6 +26,7 @@
 \q2 are awed by the miracles that you perform;
 \q1 because of what you do,
 \q2 people who live far to the west and far to the east shout joyfully.
+\b
 \q1
 \v 9 You take care of the soil and send rain,
 \q2 causing many good things to grow;
@@ -63,7 +64,7 @@
 ===== translationNotes: =====
 
   * **evidence** - proof or something that shows that another thing is true
-  * **you make the east and the west rejoice** - The phrase "the east and the west" refers to the people who live all over the earth. AT: "you cause people everywhere to shout joyfully" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_merism]]) 
+  * **you make the east and the west rejoice** - The phrase "the east and the west" refers to the people who live all over the earth. AT: "you cause people everywhere to shout joyfully" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]]) 
   * **help the earth** - This refers to the soil of the earth. 
   * **you greatly enrich it** - "you make the soil very good so that good things will grow in it"
   * **the river of God is full of water** - This refers to the supply of water in the sky that God sends to water the earth and fill the streams. AT: "you fill the streams with water" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
@@ -81,6 +82,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book2}}
+{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

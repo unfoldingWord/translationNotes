@@ -38,10 +38,7 @@
 
 ===== translationNotes: =====
 
-  * **the king's face** - Here "the king's face" refers to the king himself. AT: "the king" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Absalom sent word for Joab** - Here "word" is a metonym for "a message." This means that he sent a messenger to Joab with a request. AT: "Absalom sent a messenger to Joab asking him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **to send him to the king** - It is implied that Absalom wanted Joab to come to him to see him and to intercede for him so that he would be allowed to see the king. The full meaning of this can be made clear. AT:  "to come to him and to intercede for him so that he could see the king" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **So Absalom sent word a second time** - Here "word" is a metonym for "a message." This means that he sent a messenger to Joab again with the same request. The full meaning of this can be made clear. AT: "So Absalom sent a messenger to Joab again with the same request" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **the king's face** - This phrase stands for the king. AT: "the king" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
  
 ===== Links: =====
@@ -57,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

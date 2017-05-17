@@ -24,9 +24,9 @@
 
 <usfm>
 \q
-\v 28 So you, Egypt, will be broken in the midst of the uncircumcised! You will lie alongside those who were pierced by the sword.
+\v 28 So you, Egypt, will be destroyed in the midst of the uncircumcised! And you will lie with those who were killed by the sword. 
 \p
-\v 29 Edom is there with her kings and all her leaders. They have been placed in their strength with those killed by the sword. With the uncircumcised they lie, with those who have gone down to the pit.
+\v 29 Edom is there with her kings and all her leaders. They were powerful, but now they lie with those killed by the sword, with the uncircumcised, those who have gone down to the pit.
 </usfm>
 
 ===== translationWords: =====
@@ -40,12 +40,11 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **you ... will be broken** - "Broken" here represents "destroyed." This can be put in active form. AT: "I will destroy you." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in the midst of** - "in the middle of"
-  * **those who were pierced** - This represents "those who were killed." See how you translated this in [[:en:bible:notes:ezk:32:24|32:25]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **by the sword** - This represents being in warfare. AT: "in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Edom is there with her kings and all her leaders** - Here "Edom" represents all the people of Edom. AT: "the people of Edom are in Sheol with their kings and all their leaders." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the pit** - "The pit" refers to the grave; because the grave was thought to be the entrance to the world of the dead, the pit also represents that world. See how you translated this in [[:en:bible:notes:ezk:32:24|32:25]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will be destroyed** - AT: "I will destroy you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in the midst of the uncircumcised** - AT: "along with uncircumcised people"
+  * **those killed by the sword** - See how you translated this in [[:en:bible:notes:ezk:32:24|32:25]].
+  * **Edom is there with her kings and all her leaders** - "Edom is in Sheol with her kings and all her leaders." AT: "the people of Edom are in Sheol with their kings and all their leaders."
+  * **They were powerful** - "They had a lot of power"
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -53,6 +52,6 @@
   * [[:en:bible:questions:comprehension:ezk:32]]
 **[[:en:bible:notes:ezk:32:26|<<]] | [[:en:bible:notes:ezk:32:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

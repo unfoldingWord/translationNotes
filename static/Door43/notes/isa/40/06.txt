@@ -32,6 +32,7 @@
 \q1
 \v 8 The grass withers and the flowers dry up,
 \q2 but what our God promises will last forever."
+\b
 
 
 \q1
@@ -40,6 +41,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 6 A voice says, "Cry." Another answers, "What should I cry?"
 \q1 "All flesh is grass, and all their covenant faithfulness is like the
@@ -61,13 +63,11 @@ flower of the field.
 
 ===== translationNotes: =====
 
-  * **All flesh is grass** - The word "flesh" refers to people. The speaker speaks of humans as if they are grass, because they both die quickly. AT: "All people are like grass" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **all their covenant faithfulness is like the flower of the field** - The speaker compares the covenant faithfulness of people to flowers that bloom and then die quickly. AT: "all their covenant faithfulness ends quickly, just like a flower of the field dies quickly" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **All flesh is grass** - The word "flesh" refers to people. This means that people are weak and will die. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **covenant faithfulness** - Possible meanings are 1) covenant faithfulness or 2) beauty. See how you translated "covenant faithfulness" in [[:en:bible:notes:isa:16:05|16:5]].
-  * **when the breath of Yahweh blows on it** - Possible meanings are 1) "when Yahweh blows his breath on it" or 2) "when Yahweh sends a wind to blow on it."
-  * **humanity is grass** - The speaker speaks of humans as if they are grass, because they both die quickly. AT: "people die as quickly as grass" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the word of our God will stand forever** - The speaker speaks of what God says lasting forever as if his word stands forever. AT: "the things that our God says will last forever" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **is like the flower of the field** - Flowers in Palestine tend to bloom and quickly wither in the heat. AT: "ends quickly like a flower of field" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **humanity is grass** - "people die as quickly as grass in the heat" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the word of our God will stand forever** - "Word" refers to what God says. AT: "what God says will stand forever" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -75,6 +75,6 @@ flower of the field.
   * [[:en:bible:questions:comprehension:isa:40]]
 **[[:en:bible:notes:isa:40:03|<<]] | [[:en:bible:notes:isa:40:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

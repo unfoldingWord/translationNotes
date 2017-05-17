@@ -20,6 +20,7 @@
 <usfm>
 \v 12 It is as though you sold us, your people, to our enemies for a very small price,
 \q2 although you did not gain any profit from selling us!
+\b
 \q1
 \v 13 People who live in nations near us make fun of us;
 \q2 they laugh at us and deride us.
@@ -71,6 +72,6 @@
 
 **[[:en:bible:notes:psa:044:009|<<]] | [[:en:bible:notes:psa:044:015|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

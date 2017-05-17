@@ -49,10 +49,11 @@
  
 ===== translationNotes: =====
 
-  * **the company of godless people** - "the group of godless people"
-  * **fire will consume their tents of bribery** - The phrase "tents of bribery" means that the wicked people bought these tents with the money they made by bribery. AT: "the tents they bought with their bribes will be burned by fire" (See: [[:en:ta:vol2:translate:figs_possession]])
-  * **They conceive mischief and give birth to iniquity; their womb conceives deceit** - The same thought is repeated three times to emphasize how much evil these people produce. This speaks of a person planning to do evil things and doing them as if the person were conceiving and giving birth to these things as a woman conceives and gives birth to a child. AT: "They plan to cause mischief and do evil things; they are always planning to deceive others" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **their womb conceives** - Here the "womb" is used to refer to the person to emphasize conception, as it is in the womb that conception takes place. AT: "they conceive" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **fire will consume their tents of bribery** - AT: "the tents they bought with their bribes will be burned by fire"
+  * **They conceive mischief and give birth to iniquity; their womb conceives deceit** - The same thought is repeated three times to emphasize how much evil these people produce. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **They conceive mischief** - AT: "Like a woman conceives a child, so they conceive mischief" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **give birth to iniquity** - AT: "like a woman gives birth to a child, so they produce iniquity" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **their womb conceives deceit** - AT: "they conceive deceit" or "like a woman conceives a child, so they conceive deceit" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -60,6 +61,6 @@
   * [[:en:bible:questions:comprehension:job:15]]
 **[[:en:bible:notes:job:15:31|<<]] | [[:en:bible:notes:job:16:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check conceive}}
+~~DISCUSSION~~{{tag>publish p2edit conceive}}
 
 ~~NOCACHE~~

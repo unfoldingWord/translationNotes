@@ -35,10 +35,10 @@
 
 <usfm>
 \q1
-\v 19 Though you were a waste and desolate, a land that was in ruins,
+\v 19 Though you were a waste and desolate, a land that was in ruins, 
 \q1 now you will be too small for the inhabitants, and those who devoured you will be far away.
 \q1
-\v 20 The children born during the time of your bereavement will say in your hearing,
+\v 20 The children born during the time of your bereavement will say in your hearing, 
 \q1 'The place is too cramped for us, make room for us, so we may live here.'
 </usfm>
 
@@ -52,12 +52,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking to Zion as if it were a woman. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **General Information:** - Yahweh continues speaking to Zion as if it were a person, a widow.
 
-  * **Though you were a waste and desolate** - The words "a waste" and "desolate" mean basically the same thing and emphasize that the enemy has destroyed Zion and left it empty. AT: "Though you were completely desolate" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **those who devoured you** - The enemy destroying Zion is spoken of as if they had devoured it. AT: "those who destroyed you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The children born during the time of your bereavement** - Yahweh speaks of the time when the people of Jerusalem were in exile as if the city was bereaved of her children. Those who were born while the people were in exile are spoken of as the city's children. AT: "Those who will inhabit you, who were born while the people were in exile" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The place is too cramped for us** - This means that there will be so many people that the city will be too small for them all to live in it.
+  * **Though you were a waste and desolate** - The words "a waste" and "desolate" mean basically the same thing and emphasize that the enemy has destroyed Zion and left it empty. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **The children born during the time of your bereavement** - This refers to the time when the Israelites were in exile in Babylon. It compares the sadness of exile to that of losing a family member. AT: "The children born during the exile" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -66,6 +64,6 @@
   * [[:en:bible:questions:comprehension:isa:49]]
 **[[:en:bible:notes:isa:49:16|<<]] | [[:en:bible:notes:isa:49:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

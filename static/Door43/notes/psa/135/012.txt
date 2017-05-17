@@ -23,13 +23,14 @@
 \q2 so that it would belong to us, his people Israel, forever.
 
 
+\b
 \q1
 \v 13 Yahweh, your name will endure forever,
 \q2 and people who are not yet born will remember the great things that you have done.
 \q1
 \v 14 Yahweh declares that we, his people, are innocent,
 \q2 and he acts mercifully toward us.
-
+\b
 
 
 \q1
@@ -40,13 +41,14 @@
 <usfm>
 \q
 \v 12 He gave us their land as an inheritance,
-\q an inheritance to Israel his people.
+\q an inheritance to Israel his people. 
 \q
 \v 13 Your name, Yahweh, endures forever;
 \q your renown, Yahweh, endures throughout all generations.
 \q
 \v 14 For Yahweh defends his people
 \q and has compassion on his servants.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -71,6 +73,6 @@
   * [[:en:bible:questions:comprehension:psa:135]]
 **[[:en:bible:notes:psa:135:010|<<]] | [[:en:bible:notes:psa:135:015|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5 renown}}
+~~DISCUSSION~~{{tag>publish p2check book5 renown}}
 
 ~~NOCACHE~~

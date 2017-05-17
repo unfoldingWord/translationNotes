@@ -23,8 +23,9 @@
 \q2 no one can criticize him.
 \q1 God controls all nations and all people.
 \q1
-\v 30 He does this so that those who rule over us may honor him,
+\v 30 He does this so that those who rule over us may honor him, 
 \q2 so that our rulers do not oppress us.
+\b
 
 
 \q1
@@ -41,6 +42,7 @@
 \q
 \v 30 so that a godless man may not rule,
 \q so that there may be no one to entrap people.
+\b
 </usfm>
 
 
@@ -56,11 +58,9 @@
 
   * **General Information:** - Elihu continues speaking.
 
-  * **When he stays silent, who can condemn him? ... If he hides his face, who can perceive him?** - These two questions speak of God not punishing wicked people as if he were being silent and hiding his face. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **When he stays silent, who can condemn him?** - Elihu uses this rhetorical question to teach Job. This question can be written as a statement. AT: "No one can criticize God if he decides to remain silent" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **If he hides his face, who can perceive him?** - Elihu uses this rhetorical question to teach Job. This question can be written as a statement. AT: "No one can go and see him if he decides to hide his face" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **his face** - Here God is represented by his "face." AT: "himself" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **no one to entrap people** - This compares a godless ruler harming people as if he were a hunter trapping his prey. AT: "no one to harm the people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **When he stays silent, who can condemn him?** - Elihu uses a question to teach Job. AT: "No one can criticize God if he decides to remain silent" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **If he hides his face, who can perceive him?** - Elihu uses another question for the same reason. AT: "No one can go and see him if he decides to hide himself" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **no one to entrap people** - This compares a godless ruler to a hunter who traps his prey. AT: "no one to harm the people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
  
 ===== Links: =====
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:34]]
 **[[:en:bible:notes:job:34:26|<<]] | [[:en:bible:notes:job:34:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

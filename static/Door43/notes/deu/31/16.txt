@@ -15,7 +15,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 16 Yahweh said to Moses, "Look, you will sleep with your fathers; this people will rise up and act like a prostitute going after the strange gods that are among them in the land where they are going. They will forsake me and break my covenant that I have made with them.
+\v 16 Yahweh said to Moses, "Look, you will sleep with your fathers; this people will rise up and act like a prostitute going after the strange gods in the land into the midst of which it is going. They will forsake me and break my covenant that I have made with them.
 </usfm>
 
 ===== translationWords: =====
@@ -32,7 +32,8 @@
 
   * **Look, you** - "Pay attention to what I am going to tell you. You"
   * **you will sleep with your fathers** - This is a polite way to say "you will die." AT: "you will die and join your ancestors who have died before you" (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **will rise up and act like a prostitute** - Being a prostitute is a metaphor for worshiping gods other than Yahweh. AT: "will start to be unfaithful to me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **this people will rise up and act like a prostitute going ... it is going. It will forsake ... break ... with it** - Yahweh is speaking of the Israelites as one people group, so all instances of "it" refer to the people as a group, not as many people. It is best to translate as plural throughout. "these people will rise up and act like prostitutes going ... they are going. They will forsake ... break ... with them" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **will rise up and act like a prostitute** - "will start to be unfaithful to me" (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -41,6 +42,6 @@
   * [[:en:bible:questions:comprehension:deu:31]]
 **[[:en:bible:notes:deu:31:14|<<]] | [[:en:bible:notes:deu:31:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

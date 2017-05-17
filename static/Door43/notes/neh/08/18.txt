@@ -18,7 +18,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 18 Also day by day, from the first day to the last, Ezra read from the book of the law of God. They kept the festival for seven days and on the eighth day was a solemn assembly, in obedience to the decree.
+\v 18 Also day by day, from the first day to the last, Ezra read from The Book of the Law of God. They kept the festival for seven days and on the eighth day was a solemn assembly, in obedience to the decree.
 </usfm>
 
 
@@ -33,12 +33,9 @@
  
 ===== translationNotes: =====
 
-  * **day by day** - "each day" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **from the first day to the last** - The implied information is that it was during the entire week of the festival. AT: "from the first day to the last day of the week" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **They kept the festival** - "They made a feast" or "They celebrated the festival" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **on the eighth day** - "on day 8" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **solemn assembly** - This was a special religious gathering.
-  * **in obedience to the decree** - The implied information is that "the decree" was the command of Yahweh about how the Festival of Shelters was to end. AT: "as God had commanded" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **on the eighth day was a solemn assembly** - "on the eighth day they called the people together"
+  * **the eighth day** - "the 8th day" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **in obedience to the decree** - "as God had commanded"
 
  
 ===== Links: =====
@@ -54,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

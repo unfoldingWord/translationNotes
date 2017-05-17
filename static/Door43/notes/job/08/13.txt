@@ -23,8 +23,8 @@
 \v 14 The things they confidently expect to happen do not happen;
 \q2 things they trust will help them are as weak as a spider's web.
 \q1
-\v 15 If they think they will be safe because they are wealthy, they will not be safe;
-\q2 the things they think will keep them safe—those things will disappear.
+\v 15 If they lean against a house, it falls on them;
+\q2 if they cling to things for safety, those things will not remain firm.
 
 
 \q1
@@ -40,7 +40,7 @@
 \v 14 His confidence will break apart,
 \q and his trust is as weak as a spider's web.
 \q
-\v 15 He leans on his house, but it will not support him;
+\v 15 he leans on his house, but it will not support him;
 \q he takes hold of it, but it does not stand.
 </usfm>
 
@@ -55,18 +55,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - It is unclear if verses 11-14 are the teaching of Bildad, or if Bildad is quoting the sayings of the ancestors of [[:en:bible:notes:job:08:08|8:8-10]].
-  * **General Information:** - In verses 14-18, the pronouns "he" and "his" refer to the godless person who represents godless people in general. It may be helpful to readers to use the plural pronouns "they" and "their." (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **General Information:** - These verses continue Bildad's speech. In verses 14-15, the writer uses parallelism, conveying a single idea with two different statements to emphasize the destruction of those who do not build their lives on the teachings of their ancestors. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **So also are the paths of all who forget God** - Here "the paths" lead to a person's future and the events that will happen to them. AT: "The same thing will happen to everyone who forgets God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the hope of the godless will perish** - "the things the godless person desires will not happen"
-  * **His confidence will break apart ... his trust is as weak as a spider's web** - These two phrases mean the same thing and emphasize that the godless person is trusting in something that cannot save him. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **his trust is as weak as a spider's web** - Here Bildad compares the trust of the godless person to a spider's web; the slightest force will break both. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **He leans on his house, but it will not support him; he takes hold of it, but it does not stand** - This statement probably refers to a man relying on his property and wealth for security. If so, then "house" here represents the owner's property and wealth. AT: "He thinks he will be safe because he is wealthy, but he will not be safe." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **it will not support him** - This negative statement emphasizes the opposite. It can be stated in positive form. AT: "he will fall down" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **it does not stand** - This negative statement emphasizes the opposite. It can be stated in positive form. AT: "it will fall down" (See: [[:en:ta:vol2:translate:figs_litotes]])
-
-
+  * **So also are the paths of all who forget God** - "Walking a path" is a common idiom that refers to a person's life and its direction. It often refers to whether people are following God's way or their own. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **his trust is as weak as a spider's web** - Here Bildad compares the lives of the godless to a spider's web; the slightest force will break both. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **he takes hold of it** - "he will try to support it"
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -74,6 +67,6 @@
   * [[:en:bible:questions:comprehension:job:08]]
 **[[:en:bible:notes:job:08:11|<<]] | [[:en:bible:notes:job:08:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

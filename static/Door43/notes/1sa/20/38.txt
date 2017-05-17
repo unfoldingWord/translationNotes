@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 38 Then Jonathan called after the young man, "Hurry, be quick, do not stay!" So Jonathan's young man gathered up the arrows and came to his master.
+\v 38 And Jonathan called after the young man, "Hurry, be quick, do not stay!" So Jonathan's young man gathered up the arrows and came to his master.
 \v 39 But the young man did not know anything. Only Jonathan and David knew the matter.
 \v 40 Jonathan gave his weapons to his young man and said to him, "Go, take them to the city."
 </usfm>
@@ -40,8 +40,7 @@
 
 ===== translationNotes: =====
 
-  * **called after the young man, "Hurry** - "called out to the young man, who was running away from him, 'Hurry"
-
+  * **called after the young man** - "called out to the young man"
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -49,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1sa:20]]
 **[[:en:bible:notes:1sa:20:35|<<]] | [[:en:bible:notes:1sa:20:41|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

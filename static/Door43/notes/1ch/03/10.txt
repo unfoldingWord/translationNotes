@@ -45,9 +45,18 @@
 
 <usfm>
 \p
-\v 10 Solomon's son was Rehoboam. Rehoboam's son was Abijah. Abijah's son was Asa. Asa's son was Jehoshaphat.
-\v 11 Jehoshaphat's son was Joram. Joram's son was Ahaziah. Ahaziah's son was Joash.
-\v 12 Joash's son was Amaziah. Amaziah's son was Azariah. Azariah's son was Jotham.
+\v 10 Solomon's son was Rehoboam. 
+\q Rehoboam's son was Abijah. 
+\q Abijah's son was Asa. 
+\q Asa's son was Jehoshaphat.
+\q 
+\v 11 Jehoshaphat's son was Joram. 
+\q Joram's son was Ahaziah. 
+\q Ahaziah's son was Joash.
+\q 
+\v 12 Joash's son was Amaziah. 
+\q Amaziah's son was Azariah. 
+\q Azariah's son was Jotham.
 </usfm>
 
 

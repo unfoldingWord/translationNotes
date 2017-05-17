@@ -18,7 +18,7 @@
 
 <usfm>
 \q
-\v 9 Yahweh, rescue the king;
+\v 9 Yahweh, rescue the king; 
 \q help us when we call.
 </usfm>
 
@@ -39,6 +39,6 @@
   * [[:en:bible:questions:comprehension:psa:020]]
 **[[:en:bible:notes:psa:020:007|<<]] | [[:en:bible:notes:psa:021:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

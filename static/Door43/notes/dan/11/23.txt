@@ -22,7 +22,7 @@
 
 <usfm>
 \v 23 From the time an alliance is made with him, he will act deceitfully; with only a small number of people he will become strong.
-\v 24 Without warning he will come into the richest part of the province, and he will do what neither his father nor his father's father did. He will spread among his followers the booty, the plunder, and the wealth. He will plan the overthrow of fortresses, but only for a time.
+\v 24 Without warning he will come into the richest part of the province, and he will do what neither his father nor his father's father did—spreading among his followers the booty, the plunder, and the wealth. He will plot the overthrow of fortresses, but only for a time.
 </usfm>
 
 ===== translationWords: =====
@@ -32,11 +32,10 @@
   * [[:en:obe:other:stronghold]]
 
 ===== translationNotes: =====
-  * **General Information:** The angel continues speaking to Daniel.
 
-  * **From the time an alliance is made with him** - This can also be stated in active form. AT: "When other rulers make a peace treaty with him" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
-  * **will spread among his followers** - "will distribute to his followers"
-  * **the booty, the plunder, and the wealth** - "the valuable things that he and his army take from the people they defeat"
+  * **From the time an alliance is made with him** - The word "him" refers to the king of the North. AT: "When he makes a peace treaty" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **spreading among his followers** - "giving to his followers"
+  * **the booty, the plunder, and the wealth** - This refers to valuable things that an army steals when it conquers a city or village. AT: "the valuable things that he and his army steal from the people they defeat"
 
  
 ===== Links: =====
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:20|<<]] | [[:en:bible:notes:dan:11:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

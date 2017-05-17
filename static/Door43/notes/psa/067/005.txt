@@ -19,6 +19,7 @@
 <usfm>
 \v 5 God, I desire that the people groups may praise you;
 \q1 I want them all to praise you!
+\b
 \q1
 \v 6 Good crops have grown on our land;
 \q1 God, our God, has blessed us.
@@ -63,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book2}}
+{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

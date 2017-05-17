@@ -26,6 +26,7 @@
 \q1
 \v 21 Praise Yahweh in the temple on Mount Zion in Jerusalem
 \q2 where he lives!
+\b
 \q1 Praise Yahweh!
 </usfm>
 
@@ -68,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:135]]
 **[[:en:bible:notes:psa:135:015|<<]] | [[:en:bible:notes:psa:136:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

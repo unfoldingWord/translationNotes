@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 It came about, when God commanded the man dressed in linen and said, "Take fire from between the wheels that are between the cherubim," the man went in and stood beside a wheel.
+\v 6 And it came about, when God commanded the man dressed in linen and said, "Take fire from between the wheels that are between the cherubim," the man went in and stood beside a wheel.
 \v 7 A cherub reached out his hand between the cherubim to the fire that was among the cherubim, and lifted it up and placed it into the hands of the one dressed in linen. The man took it and went back out.
 \v 8 I saw on the cherubim something like a man's hand under their wings.
 </usfm>
@@ -40,10 +40,10 @@
  
 ===== translationNotes: =====
 
-  * **It came about** - This phrase is used here to mark where the action starts. If your language has a way for doing this, you could consider using it here.
-  * **when God commanded the man dressed in linen and said** - This is a repeat of the information that was given in [[:en:bible:notes:ezk:10:01|10:2]]. After talking about the cherubim and God's glory in 10:3-5, Ezekiel returns to telling about the man who was wearing linen.
-  * **the man dressed in linen** - Translate "linen" as in [[:en:bible:notes:ezk:09:01|9:1]]. 
-  * **beside a wheel** - Translate "wheel" as in [[:en:bible:notes:ezk:01:15|1:15]].
+  * **it came about** - This phrase is used here to mark where the action starts. If your language has a way for doing this, you could consider using it here.
+  * **when God commanded the man dressed in linen and said** - This is a repeat of the information that was given in [[:en:bible:notes:ezk:10:01|10:2]]. After talking about the cherubim and God's glory in 10:3-5, Ezekiel returns to telling about the man that was wearing linen.
+  * **the man dressed in linen** - See how you translated the word "linen" in [[:en:bible:notes:ezk:09:01|9:1]]. 
+  * **beside a wheel** - See how you translated the word "wheel" in [[:en:bible:notes:ezk:01:15|1:15]].
   * **I saw on the cherubim something like a man's hand under their wings** - "I saw that the cherubim had something like a man's hand under their wings"
  
 ===== Links: =====
@@ -59,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

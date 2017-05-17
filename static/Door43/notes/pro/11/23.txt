@@ -19,7 +19,7 @@
 \v 23 Those who do what is right desire things that result in good,
 \q2 but the reward of the wicked is that they will experience Yahweh's wrath.
 \q1
-\v 24 If a person sows seed, he can expect to harvest a crop;
+\v 24 If a person sows seed, he can expect to harvest a crop; 
 \q1 his few seeds will give him much more;
 \q1 another person does not plant a crop, and he becomes poor.
 
@@ -31,7 +31,7 @@
 
 <usfm>
 \q
-\v 23 The desires of righteous people result in good,
+\v 23 The desires of those who do what is right result in good,
 \q but wicked people can only hope for wrath.
 \q
 \v 24 There is one who sows seed—he will accumulate even more;
@@ -47,9 +47,9 @@
 
 ===== translationNotes: =====
 
-  * **one who sows seed** - "Sowing seed" represents preparing for the future. AT: "a person who prepares for the future" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **will accumulate even more** - "will gain even more"
-  * **does not sow** - "Sow" represents preparing for a result. AT: "does not prepare" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **one who sows seed** - AT: "a person who gives generously" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **accumulate** - AT: "gain"
+  * **does not sow** - AT: "does not give" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:pro:11]]
 **[[:en:bible:notes:pro:11:21|<<]] | [[:en:bible:notes:pro:11:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

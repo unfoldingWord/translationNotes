@@ -21,6 +21,7 @@
 <usfm>
 \v 17 The sacrifice that you really want is for people to be truly humble and sorry for having sinned.
 \q2 O God, you will not refuse that kind of sacrifice.
+\b
 \q1
 \v 18 O God, be good to the people who live in Jerusalem;
 \q2 make them able to rebuild the city walls.
@@ -37,6 +38,7 @@
 \q
 \v 17 The sacrifices of God are a broken spirit.
 \q You, God, will not despise a broken and a contrite heart.
+\b
 \q
 \v 18 Do good in your good pleasure to Zion;
 \q rebuild the walls of Jerusalem.
@@ -63,7 +65,7 @@
 
   * **The sacrifices of God** - "The sacrifices that please God"
   * **a broken spirit** - A broken spirit represents a humble attitude. AT: "humility" or "a person who becomes humble" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **a broken and a contrite heart** - Being humble and sorry for one's sin is spoken of as having a broken and contrite heart. The heart represents the emotions and will. AT: "sorrow and humility" or "a person who is sorry for his sin and humble" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **a broken and a contrite heart** - Being humble and sorry for one's sin is spoken of as having a broken and contrite heart. The heart represents the emotions and will. AT: "sorrow and humility" or "a person who is sorry for his sin and humble" or (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **rebuild the walls of Jerusalem** - The walls of a city protect the city and the people in it. Possible meanings are 1) "enable us to rebuild the walls of Jerusalem" or 2) "protect Jerusalem and make it strong" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **our people will offer bulls on your altar** - A bull is an adult male cow. Bulls were often used as sacrificial animals, according to God's instruction.
 ===== Links: =====
@@ -73,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:051]]
 **[[:en:bible:notes:psa:051:014|<<]] | [[:en:bible:notes:psa:052:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

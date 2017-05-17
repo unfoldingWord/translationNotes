@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 4 After this, Samson came to love a woman who lived in the Valley of Sorek. Her name was Delilah.
+\v 4 After this, Samson came to love a woman who lived in the valley of Sorek. Her name was Delilah.
 \v 5 The rulers of the Philistines came up to her, and said to her, "Trick Samson to see where his great strength lies, and by what means we may overpower him, that we may bind him in order to humiliate him. Do this, and each one of us will give you 1,100 pieces of silver."
 </usfm>
 
@@ -37,10 +37,10 @@
 
 ===== translationNotes: =====
 
-  * **Valley of Sorek** - This is the name of a valley near Samson's home. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **valley of Sorek** - This is the name of a valley near Samson's home. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Trick** - to mislead or fool  someone into doing something they would not want to do
   * **to see** - This is an idiom that means to learn something. AT: "to understand" or "to learn" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **where his great strength lies** - This is an idiom that refers to where his strength comes from. AT: "what causes him to be very strong" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **where his great strength lies** - This is an idiom that refers to where his strength comes. AT: "what causes him to be very strong" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
   * **by what means we may overpower him** - "how we might overpower him"
 
 
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:jdg:16]]
 **[[:en:bible:notes:jdg:16:03|<<]] | [[:en:bible:notes:jdg:16:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass delilah}}
+~~DISCUSSION~~{{tag>publish p2check delilah}}
 
 ~~NOCACHE~~

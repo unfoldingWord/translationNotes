@@ -21,13 +21,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 Stupid and silly things are bound up within a child,
-\q2 and they come out in foolishness;
+\v 15 Stupid and silly things are bound up within a child, 
+\q2 and they come out in foolishness; 
 \q2 but correcting a child with discipline drives the folly far away.
 \q1
-\v 16 The one who makes his money by taking advantage of the poor,
-\q2 or by giving more money to the wealthy,
-\q2 Yahweh will bring him into poverty.
+\v 16 The one who makes his money by taking advantage of the poor, 
+\q2 or by giving more money to the wealthy, 
+\q2 Yahweh will bring him into poverty. 
+
 
 \q1
 </usfm>
@@ -56,12 +57,14 @@
 ===== translationNotes: =====
 
 
-  * **Foolishness is bound up in the heart of a child** - "The heart of a child is full of foolish things"
-  * **the rod of discipline** - The writer speaks of a parent using any form of discipline as if that parent were hitting the child with a wooden rod. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **drives it far away** - The writer speaks as if foolishness were a person that another person could use a physical rod to drive away. AT: "will make a child wise" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Foolishness is bound up in the heart of a child** - AT: "The heart of a child is full of foolish things"
+  * **the rod of discipline** - AT: "discipline" or "a strict upbringing" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **rod** - In the Bible, a wooden rod was used to discipline children.
+  * **drives it far away** - AT: "will take away the foolishness" or "will make a child wise"
   * **to increase his wealth** - "to become richer" or "to gain more money"
-  * **gives to rich people** - "gives money to rich people"
-  * **will come to poverty** - This is an idiom. AT: "will become poor" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **gives to rich people** - AT: "gives money to rich people"
+  * **will come to poverty** - "will become poor"
+ 
  
 ===== Links: =====
 
@@ -76,6 +79,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

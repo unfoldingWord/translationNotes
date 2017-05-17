@@ -28,8 +28,9 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 4 The Lord Yahweh has given me a tongue as one of those who are taught,
+\v 4 The Lord Yahweh has given me a tongue as one of those who are taught, 
 \q1 so that I speak a sustaining word to the weary one;
 \q1 he wakes me morning by morning; he awakens my ear to hear like those who are taught.
 </usfm>
@@ -43,11 +44,8 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh's servant begins to speak.
-
-  * **The Lord Yahweh has given me a tongue as one of those who are taught** - The word "tongue" represents what he says. Possible meanings are 1) Yahweh has enabled him to speak as one who has learned to speak skillfully. AT: "The Lord Yahweh has enabled me to be a skillful speaker" or 2) Yahweh has taught him what to say. AT: "The Lord Yahweh has enabled me to speak what he has taught me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **he awakens my ear to hear** - Here "my ear" refers to Yahweh's servant. Yahweh enabling him to hear and understand what Yahweh teaches him is spoken of as if Yahweh awakened his ear from sleep. AT: "he has enabled me to understand what he says" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **like those who are taught** - The servant compares himself with a student who learns from his teacher. Possible meanings are 1) "like one who learns from his teacher" or 2) "like one whom he has taught" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The Lord Yahweh has given me a tongue as one of those who are taught** - Here "me" refers to Yahweh's servant. The word "tongue" refers to speech. This can be stated in active form. AT: "The Lord Yahweh has enabled me to speak like a wise student" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he awakens my ear to hear like those who are taught** - Here "my ear" refers to Yahweh's servant. This means the servant listens to Yahweh the way a student listens to a teacher. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -56,6 +54,6 @@
   * [[:en:bible:questions:comprehension:isa:50]]
 **[[:en:bible:notes:isa:50:02|<<]] | [[:en:bible:notes:isa:50:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

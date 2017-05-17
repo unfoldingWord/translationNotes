@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 36 As I judged your fathers in the wilderness of the land of Egypt, so also I will judge you—this is the Lord Yahweh's declaration.
+\v 36 As I judged your fathers in the wilderness of the land of Egypt, so also I will judge you—this is the Lord Yahweh's declaration. 
 \v 37 I will cause you to pass under my rod, and I will make you obey the requirements of the covenant.
 \v 38 I will purge from among you the rebels and those who revolt against me. I will send them out from the land where they are staying as foreigners, but they will not enter the land of Israel. Then you will know that I am Yahweh.
 </usfm>
@@ -44,8 +44,6 @@
 ===== translationNotes: =====
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to the house of Israel.
-
-  * **I will cause you to pass under my rod** - This refers to the practice of a shepherd counting and inspecting his sheep as the sheep walked under his staff. Possible meanings are 1) Yahweh will count his people whom he gathers from the nations to ensure that they are all present. AT: "I will count you carefully as a shepherd counts his sheep" or 2) Yahweh will inspect each person as they pass under his staff in order to separate the faithful from the unfaithful. AT: "I will inspect you carefully as a shepherd inspects his sheep" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -54,6 +52,6 @@
   * [[:en:bible:questions:comprehension:ezk:20]]
 **[[:en:bible:notes:ezk:20:33|<<]] | [[:en:bible:notes:ezk:20:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

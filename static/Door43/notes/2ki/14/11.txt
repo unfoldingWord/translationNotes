@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 But Amaziah refused to pay attention to Jehoash's message. So Jehoash and Amaziah led their armies to Beth Shemesh in Judah, and it was there that their armies came together to fight each other.
+\v 11 But Amaziah refused to pay attention to Jehoash's message. So he marched with his army to fight against the Israelite army at the city of Beth Shemesh in Judah.
 \v 12 The Israelite army defeated the army of Judah, and all the soldiers of Judah fled and ran back home.
 </usfm>
 
@@ -18,7 +18,7 @@
 
 <usfm>
 \p
-\v 11 But Amaziah would not listen. So Jehoash king of Israel attacked and he and Amaziah king of Judah met each other face to face at Beth Shemesh, which belongs to Judah.
+\v 11 But Amaziah would not listen. So Jehoash king of Israel attacked; he and Amaziah king of Judah, met each other face to face at Beth Shemesh, which belongs to Judah.
 \v 12 Judah was defeated by Israel, and every man fled home.
 </usfm>
 
@@ -30,11 +30,10 @@
   * [[:en:obe:other:bethshemesh]]
 ===== translationNotes: =====
 
-  * **But Amaziah would not listen** - Here "listen" refers to obeying the warning. AT: "However, Amaziah would not obey Jehoash's warning" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **So Jehoash king of Israel attacked ... Amaziah king of Judah met each other** - The armies of these kings went to battle with them. AT: "So Jehoash and his army went to fight Amaziah and his army and they met each other" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Beth Shemesh** - This is a town in Judah near the border of Israel. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Judah was defeated by Israel** - This can be stated in active form. AT: "Israel defeated Judah" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **every man fled home** - "all the men in the army of Judah ran home"
+  * **But Amaziah would not listen** - AT: "However, Amaziah would not obey Jehoash's warning." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **So Jehoash king of Israel attacked** - "So Jehoash and his army went to fight Amaziah and his army" 
+  * **Beth Shemesh** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **and every man fled home** - "and all the men in the defeated army ran home."
 
 ===== Links: =====
 
@@ -43,6 +42,6 @@
   * [[:en:bible:questions:comprehension:2ki:14]]
 **[[:en:bible:notes:2ki:14:08|<<]] | [[:en:bible:notes:2ki:14:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

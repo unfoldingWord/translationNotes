@@ -15,7 +15,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 All of them certainly know that it is Yahweh who has done this.
+\v 9 All of them certainly know that it is Yahweh who has made them by his hands.
 \q1
 \v 10 He directs the lives of all living creatures;
 \q2 he gives breath to all us humans to enable us to live.
@@ -30,10 +30,10 @@
 <usfm>
 \q
 \v 9 Which animal among all these does not know
-\q that the hand of Yahweh has done this?
+\q that the hand of Yahweh has done this—given them life—
 \q
-\v 10 In his hand is the life of every living thing
-\q and the breath of all mankind.
+\v 10 Yahweh, in whose hand is the life of every living thing
+\q and the breath of all mankind?
 </usfm>
 
 
@@ -47,10 +47,8 @@
  
 ===== translationNotes: =====
 
-  * **Which animal among all these does not know ... this?** - This question emphasizes the point that all the animals know that Yahweh has done this. It means, "Every animal knows ... this." (See: [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
-  * **the hand of Yahweh has done this** - Yahweh's hand represents his power. AT: "Yahweh has done this by his power" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
-  * **In his hand is the life ... and the breath of all mankind** - Yahweh's hand represents his control or power. Things being in his hand represents his ability to control them. AT: "who controls the life of every living thing and gives breath to all mankind" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
-  * **the breath of all mankind** - "Breath" represents life or ability to live. (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **Which animal among all these does not know ... mankind?** - This is a figure of speech that does not expect an answer, but states the question to emphasize the point. It means, "Every animal knows that ... mankind." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Yahweh, in whose hand is the life of every living thing and the breath of all mankind?** - This figure of speech uses two similar statements to emphasize the idea. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 ===== Links: =====
 
@@ -65,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check yahweh}}
+{{tag>publish p2edit yahweh}}
 
 ~~NOCACHE~~

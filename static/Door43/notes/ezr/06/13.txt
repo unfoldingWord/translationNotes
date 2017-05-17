@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 Then because of the decree sent by Darius the king, Tattenai, the governor of the Province Beyond the River, and Shethar Bozenai and his associates, did everything that King Darius had ordered.
+\v 13 Then Tattenai, Shethar Bozenai, and their companions did everything that King Darius had ordered.
 \v 14 So the Jewish elders built in the way that Haggai and Zechariah had instructed by prophesying. They built it according to the decree of the God of Israel and Cyrus, Darius, and Artaxerxes, kings of Persia.
 \v 15 The house was completed on the third day of the month of Adar, in the sixth year of King Darius' reign.
 </usfm>
@@ -52,10 +52,10 @@
   * [[:en:obe:other:biblicaltimeyear]]
 ===== translationNotes: =====
 
-  * **Tattenai ... Shethar Bozenai** - Translate the names of these men as you did in [[:en:bible:notes:ezr:05:03|5:03]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **The house was completed** - This can be translated in active form. You may need to make explicit which house they completed. AT: "They completed God's house" or "They finished building the temple" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **the third day of the month of Adar** - "Adar" is the name of the twelfth and last month of the Hebrew calendar. It is during the cold season. The third day is near the middle of February on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **sixth year** - King Darius had been ruling for five years, so he was now in year number six of his reign. (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **Tattenai, Shethar Bozenai** - See how you translated this in [[:en:bible:notes:ezr:05:03|5:03]].
+  * **The house** - "God's house" or "The temple" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the third day of the month of Adar** - "Adar" is the name of the twelfth and last month of the Hebrew calendar. It is during the cold season. The third day is near the middle of February on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:translate_names]])
+  * **sixth year** - King Darius had been ruling for five years so he was now in year number six. (See: [[:en:ta:vol2:translate:translate_ordinal]])
  
 ===== Links: =====
 
@@ -70,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass biblicaltimeday haggai}}
+{{tag>publish p2edit biblicaltimeday haggai}}
 
 ~~NOCACHE~~

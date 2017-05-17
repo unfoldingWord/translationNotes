@@ -26,7 +26,7 @@
 
 <usfm>
 \v 11 When everyone who knew him before saw him prophesying with the prophets, the people said to each other, "What has happened to the son of Kish? Is Saul one of the prophets now?"
-\v 12 A man who was from that same place answered, "Then who is their father?" Because of this, it became a saying, "Is Saul also one of the prophets?"
+\v 12 A man from the same place answered, "And who is their father?" Because of this, it became a saying, "Is Saul also one of the prophets?"
 \v 13 When he finished prophesying, he came to the high place.
 </usfm>
 
@@ -38,10 +38,10 @@
 
 ===== translationNotes: =====
 
-  * **What has happened to the son of Kish?** - Possible meanings are 1) the people are asking for information or 2) this is a rhetorical question that means Saul is not important. AT: "Kish is not an important person, so it cannot be true that his son has become a prophet!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **What has happened to the son of Kish?** - Possible meanings are 1) the people are asking for information or 2) AT: "Kish is not an important person, so it cannot be true that his son has become a prophet!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **the son of Kish** - "Saul, the son of Kish"
-  * **Then who is their father?** - This man uses a rhetorical question to remind people that being a prophet has nothing to do with who one's parents are. The question can be translated as a statement. AT: "It does not matter who the parents of these other prophets are. What matters is that, amazingly, Saul is speaking messages from God." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Because of this, it became a saying, "Is Saul also one of the prophets?"** - This became a proverb among the Israelites. Apparently people said this to express surprise when a person unexpectedly did something that he had not done before. The implied meaning of the question can be stated explicitly. AT: "And that is why, when people cannot believe some report, they think about what happened to Saul and say, 'Is Saul really one of the prophets?'" (See UDB) (See: [[:en:ta:vol2:translate:writing_proverbs]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **And who is their father?** - This man uses a rhetorical question to remind people that being a prophet has nothing to do with who one's parents are. AT: "It does not matter who the parents of these other prophets are. What matters is that, amazingly, Saul is speaking messages from God." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Because of this, it became a saying, "Is Saul also one of the prophets?"** - "And that is why, when people cannot believe some report, they think about what happened to Saul and say, 'Is Saul really one of the prophets?'" (See UDB)
 
 ===== Links: =====
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1sa:10]]
 **[[:en:bible:notes:1sa:10:09|<<]] | [[:en:bible:notes:1sa:10:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

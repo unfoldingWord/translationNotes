@@ -28,7 +28,7 @@
 \q1
 \v 22 When they are still very wealthy,
 \q2 they will suddenly experience trouble.
-\q2 The full power of everyone who lives in misery will crush them.
+\q2 Misery will strike them and crush them.
 
 
 \q1
@@ -46,7 +46,7 @@
 \q therefore his prosperity will not be permanent.
 \q
 \v 22 In the abundance of his wealth he will fall into trouble;
-\q the hand of everyone who is in poverty will come against him.
+\q the hand of everyone who is in poverty will come on him.
 </usfm>
 
 
@@ -61,10 +61,8 @@
 ===== translationNotes: =====
 
 
-  * **There is nothing left that he did not devour** - This can be reworded with only one of the negatives. AT: "He devoured everything, and there is nothing left" or "There is nothing left because he devoured everything" (See: [[:en:ta:vol2:translate:figs_doublenegatives]]) 
-  * **There is nothing left that he did not devour** - Here "devour" represents taking things for himself. AT: "There is nothing left that he did not take for himself" or "He took everything for himself, and there is nothing left" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **he will fall into trouble** - "he will suddenly experience trouble"
-  * **the hand of everyone who is in poverty will come against him** - Here "hand" represents power, and "hand ... will come against him" represents people attacking him. The abstract noun "poverty" can be expressed with the adjective "poor." AT: "everyone who is in poverty will attack him" or "everyone who is poor will attack him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **There is nothing left that he did not devour** - AT: "He devoured everything and left nothing" (See: [[:en:ta:vol2:translate:figs_doublenegatives]]) 
+  * **the hand of everyone who is in poverty will come on him** - Here "hand" means power. AT: "every poor person will come against him." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -72,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:20]]
 **[[:en:bible:notes:job:20:17|<<]] | [[:en:bible:notes:job:20:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

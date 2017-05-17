@@ -17,7 +17,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 29 Do not make plans to harm anyone you know,
+\v 29 Do not make plans to harm anyone you know, 
 \q especially those who live close to you and trust you.
 \q1
 \v 30 If a person has done nothing to you,
@@ -33,7 +33,7 @@
 <usfm>
 \q
 \v 29 Do not make a plan to harm your neighbor—
-\q the one who lives close and trusts you.
+\q the one who lives close and trusts you. 
 \q
 \v 30 Do not argue with a person without a reason,
 \q when he has done nothing to harm you.
@@ -62,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

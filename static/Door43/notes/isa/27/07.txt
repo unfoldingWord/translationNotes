@@ -33,7 +33,7 @@
 ===== ULB: =====
 
 <usfm>
-\m
+\p
 \q1
 \v 7 Has Yahweh attacked Jacob and Israel as he attacked those nations who attacked them? Have Jacob and Israel been killed as in the slaughter of those nations that were killed by them?
 \q1
@@ -47,16 +47,14 @@
   * [[:en:obe:other:jacob]]
   * [[:en:obe:other:israel]]
   * [[:en:obe:other:nation]]
-  * [[:en:obe:other:castout]]
 
 ===== translationNotes: =====
 
-  * **Has Yahweh attacked Jacob and Israel as he attacked those nations who attacked them?** - The question is used to contrast the severity of God's punishment. AT: "Yahweh has certainly punished the enemy nations more severely than he punished the people of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Jacob ... Israel** - These represent the descendants of Jacob. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Has Yahweh attacked Jacob and Israel as he attacked those nations who attacked them?** - The question is used to contrast the severity of God's punishment. AT: "Yahweh has certainly punished the enemy nations more severely than he punished the people of Israel." (See [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
   * **Have Jacob and Israel been killed as in the slaughter of those nations that were killed by them?** - This question too is used to contrast the severity of God's punishment. This can be stated in active form. AT: "Yahweh has not killed the people of Israel like they killed their enemies from other nations." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **In exact measure you have contended** - Here "you" refers to God. Yahweh punishing his people as much as they needed is spoken of as if God's punishment were something that could be measured. AT: "But you did punish them as much as was needed" (See: [[:en:ta:vol1:translate:figs_you]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **sending Jacob and Israel away** - This represents the descendants of Jacob. AT: "sending the Israelites away" (See [[:en:ta:vol2:translate:figs_metonymy]])
-  * **he drove them away with his severe wind, on the day of the east wind** - Yahweh's power to send his people away to a foreign country is spoken of as if Yahweh used a wind to blow them to a foreign country. AT: "the power of Yahweh drove them out like a severe wind from the east" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **In exact measure you have contended** - "You" refers to God. AT: "But you did punish them as much as was needed" (See: [[:en:ta:vol1:translate:figs_you]])
+  * **sending Jacob and Israel away** - This refers to the people of Jacob and Israel. AT: "sending the people of Israel away" (See [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he drove them away with his severe wind, on the day of the east wind** - AT: "The power of Yahweh drove them out like a severe wind from the east" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -65,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:27]]
 **[[:en:bible:notes:isa:27:06|<<]] | [[:en:bible:notes:isa:27:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

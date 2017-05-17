@@ -19,8 +19,10 @@
 \v 23 This is what Yahweh, commander of the angel armies, the God whom Israel worships, says: "When I bring them back from the countries to which they have been exiled, all the people from the towns in Judah will again say, 'I hope that Yahweh will bless this my home, the holy place where righteous people will live!'
 \v 24 The people of Judah who live in the towns, including the farmers and the shepherds, will all live together peacefully.
 \v 25 I will enable weary people to be refreshed with drinks of water, and enable people who are very exhausted to become strong again."
+\b
 \p
 \v 26 I, Jeremiah, woke up after dreaming all those things, and I looked around. I had slept very delightfully!
+\b
 
 
 \p
@@ -30,8 +32,8 @@
 
 <usfm>
 \p
-\v 23 Yahweh of hosts, the God of Israel, says this, "When I bring back the people to their land, they will say this in the land of Judah and its cities, 'May Yahweh bless you, you righteous place where he lives, you holy mountain.'
-\v 24 For Judah and all his cities will live together there, as will farmers and shepherds with their flocks.
+\v 23 Yahweh of hosts, God of Israel, says this, "When I bring back the people to their land, they will say this in the land of Judah and her cities, 'May Yahweh bless you, you righteous place where he lives, you holy mountain.'
+\v 24 For Judah and all his cities will live together on her. Farmers and shepherds with their flocks be there.
 \v 25 For I will give the weary ones water to drink, and I will fill everyone suffering from thirst."
 \v 26 After this I awoke, and I realized that my sleep had been refreshing.
 </usfm>
@@ -48,12 +50,8 @@
 
 ===== translationNotes: =====
 
-  * **the people** - Here this refers to the people of Judah. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the people** - Here this refers to the people of Judah. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **May Yahweh bless you, you righteous place where he lives, you holy mountain.** - Jerusalem is on the top of a hill, and the temple was built at the highest point in Jerusalem. AT; "May Yahweh bless those who live in Jerusalem with Yahweh, where his temple is." (See: [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **you holy mountain** - Mount Zion, where the temple had stood
-  * **Judah and all his cities will live together there** - The name of the man Judah is a metonym for his descendants, the people of the tribe of Judah, and the cities of Judah are spoken of as if they were the family of the man Judah, all of them living "there," in the land of Judah. AT: "it will be as if the land were a house in which Judah lived with his family" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **as will farmers and shepherds with their flocks** - "and farmers and shepherds with their flocks will also live there"
-  * **had been refreshing** - "had refreshed me"
  
 ===== Links: =====
 
@@ -62,6 +60,6 @@
   * [[:en:bible:questions:comprehension:jer:31]]
 **[[:en:bible:notes:jer:31:21|<<]] | [[:en:bible:notes:jer:31:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -19,8 +19,9 @@
 \v 1 Listen, children, listen to what I am teaching you.
 \q2 If you pay attention, you will learn about what it means to understand.
 \q1
-\v 2 The lessons I give to you are good teaching, given in order.
-\q2 So do not refuse to learn the lessons I teach you.
+\v 2 The lessons I give to you are good teaching, given in order. 
+\q2 So do not refuse to learn the lessons I teach you. 
+
 
 \q1
 </usfm>
@@ -48,10 +49,10 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - The writer speaks as a father teaching his children.
+  * **General Information:** - These are teaching given from a father to his sons.
 
-  * **pay attention** - "listen carefully"
-  * **you will know what understanding is** - "you will know how to understand" or "you will gain understanding"
+  * **pay attention** - "listen carefully" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **know what understanding is** - "understand what is wise"
   * **I am giving you good instructions** - "What I am teaching you is good"
 
 ===== Links: =====
@@ -67,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

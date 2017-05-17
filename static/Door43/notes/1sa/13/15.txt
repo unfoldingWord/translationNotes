@@ -42,12 +42,12 @@
 
 ===== translationNotes: =====
 
-  * **Samuel arose and went up** - This is an idiom for "Samuel left and went up." (UDB). (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **went up from Gilgal** - Gilgal is a city. See how you translated this in [[:en:bible:notes:1sa:07:15|7:15]].
-  * **Gibeah of Benjamin** - Gibeah is a town. See how you translated this in [[:en:bible:notes:1sa:10:26|10:26]].
+  * **Samuel arose and went up** - This is an idiom for "Samuel left and went up to." (UDB). (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **went up from Gilgal** - See how you translated "Gilgal" in [[:en:bible:notes:1sa:07:15|7:15]].
+  * **Gibeah of Benjamin** - See how you translated "Gibeah" in [[:en:bible:notes:1sa:10:26|10:26]].
   * **six hundred men** - "600 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **Geba of Benjamin** - Geba is a town. See how you translated this in [[:en:bible:notes:1sa:13:03|13:03]].
-  * **Philistines camped at Michmash** - Michmash is the name of a place. See how you translated this in [[:en:bible:notes:1sa:13:01|13:02]].
+  * **Geba of Benjamin** - See how you translated "Geba" is in [[:en:bible:notes:1sa:13:03|13:03]].
+  * **Philistines camped at Michmash** - See how you translated "Michmash" in [[:en:bible:notes:1sa:13:01|13:02]].
  
 ===== Links: =====
 
@@ -59,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

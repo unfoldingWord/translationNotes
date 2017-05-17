@@ -29,7 +29,7 @@
 
 <usfm>
 \q1
-\v 12 'I made the earth and created man on it.
+\v 12 'I made the earth and created man on it. 
 \q1 It was my hands that stretched out the heavens, and I commanded all the stars to appear.
 </usfm>
 
@@ -45,9 +45,7 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **It was my hands that** - Here the word "hands" represents Yahweh. AT: "It was I who" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **stretched out the heavens** - Yahweh speaks of creating the heavens as if they were fabric that he stretched out. See how you translated a similar phrase in [[:en:bible:notes:isa:42:05|42:5]].
-
+  * **stretched out the heavens** - See how you translated a similar phrase in [[:en:bible:notes:isa:42:05|42:5]].
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -61,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

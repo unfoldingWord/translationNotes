@@ -15,7 +15,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 I, Paul, together with Timothy our brother, write this letter to you. Christ Jesus sent me to serve him and to obey God's will. We are sending this letter to those who come together as God's people in the city of Corinth; we are also sending it to the all Christians who live in the region of Achaia—people whom God has set apart for himself.
+\v 1 I, Paul, together with Timothy, our Christian brother, write this letter to you. Christ Jesus sent me to serve him and to obey God's will. We are sending this letter to those who come together as God's people in the city of Corinth; we are also sending it to the all Christians who live in the region of Achaia—people whom God has set apart for himself.
 \v 2 May God give you the free gifts of his love and peace—these things that come from God our Father and from the Lord Jesus Christ.
 
 
@@ -31,6 +31,7 @@
 \p
 \v 1 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, to the church of God that is in Corinth, and to all the believers in the entire region of Achaia.
 \v 2 May grace be to you and peace from God our Father and the Lord Jesus Christ.
+\b
 </usfm>
 
 
@@ -53,13 +54,14 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - After Paul's greeting to the church in Corinth, he writes about suffering and comfort through Jesus Christ. Timothy is with him as well.
+  * **Connecting Statement:** - After Paul's greeting to the church in Corinth, he writes about suffering and comfort through Jesus Christ. Timothy is with him as well.
   * **General Information:** - The word "you" throughout this letter refers to the people of the church in Corinth and to the rest of the Christians in that area. Possibly Timothy writes on parchment paper the words that Paul says.
 
   * **Paul ... to the church of God that is in Corinth** - Your language may have a particular way of introducing the author of a letter and its intended audience. AT: "I, Paul ... wrote this letter to you, the church of God that is in Corinth"
   * **Timothy our brother** - This indicates that both Paul and the Corinthians knew Timothy and considered him to be their spiritual brother.
   * **Achaia** - This is the name of a Roman province in the southern part of modern-day Greece. (See: [[:en:ta:vol1:translate:translate_names]])
   * **May grace be to you and peace** - This is a common greeting that Paul uses in his letters.
+
 ===== Links: =====
 
   * [[:en:bible:notes:2co:00:intro]]

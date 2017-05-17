@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 The water surrounded me and almost drowned me. Seaweed was wrapped around my head.
+\v 5 The water surrounded me, and threatened to drown me. Seaweed was wrapped around my head.
 \pi
 \v 6 I sank down to where the mountains start rising from the bottom of the sea. I thought that forever it would be as though my body would be in a prison inside the earth below me.
 \pi But you, Yahweh God, whom I worship, rescued me from going down to the place of the dead!
@@ -25,9 +25,9 @@
 
 <usfm>
 \q
-\v 5 The waters closed around me up to my neck;
+\v 5 The waters closed over me to take my life;
 \q the deep was all around me;
-\q seaweed wrapped around my head.
+\q seaweed was wrapped around my head.
 \q
 \v 6 I went down to the bases of the mountains;
 \q the earth with its bars closed upon me forever.
@@ -43,10 +43,10 @@
   * **General Information:** - This is a continuation of Jonah's prayer that started in [[:en:bible:notes:jon:02:01|2:2]].
 
   * **The waters** - "The waters" refers to the sea.
-  * **my neck** - Some versions understand the Hebrew word in this expression to mean "my life." In that interpretation, the waters were about to take away Jonah's life.
+  * **to take my life** - Jonah speaks as if the sea was trying to kill him. "and were about to kill me" (See: [[:en:ta:vol2:translate:figs_personification]])
   * **the deep was all around me** - "the deep water was all around me"
   * **seaweed** - "grass that grows in the sea"
-  * **the earth with its bars closed upon me forever** - Jonah used a metaphor to compare the earth to a prison. AT: "the earth was like a prison that was about to lock me in forever" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the earth with its bars closed upon me forever** - Jonah used a metaphor to compare the earth to a prison. AT: "The earth was like a prison that was about to lock me in forever" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Yet you brought up my life from the pit** - Jonah speaks of the place of the dead as if it were a pit. AT: "But you saved my life from the place of the dead" or "But you saved me from the place where the dead people are" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Yahweh, my God!** - In some languages, it may be more natural to put this at the beginning of the sentence or next to the word "you."
 ===== Links: =====
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:jon:02]]
 **[[:en:bible:notes:jon:02:03|<<]] | [[:en:bible:notes:jon:02:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

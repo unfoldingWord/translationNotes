@@ -24,7 +24,7 @@
 \v 48 I respect your commandments,
 \q2 and I love them;
 \q2 I will meditate on everything you require us to do.
-
+\b
 
 
 \q1
@@ -40,6 +40,7 @@
 \q
 \v 48 I will lift up my hands to your commandments, which I love;
 \q I will meditate on your statutes.
+\b
 </usfm>
 
 
@@ -52,8 +53,8 @@
 
 ===== translationNotes: =====
 
-  * **I delight in your commandments** - Possible meanings are 1) "I find delight in studying your commandments" or 2) "I am delighted that I have the opportunity to study your commandments."
-  * **lift up my hands to** - This is an idiom which means to honor, cherish or respect God's commandments. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **I delight in your commandments** - Possible meanings are 1) "I find delight in studying your commandments" or 2) I am delighted that I have the opportunity to study your commandments".
+  * **lift up my hands to** - to honor, cherish or respect God's commandments (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -61,6 +62,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:045|<<]] | [[:en:bible:notes:psa:119:049|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

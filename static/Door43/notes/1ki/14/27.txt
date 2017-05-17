@@ -35,11 +35,9 @@
 
 ===== translationNotes: =====
 
-  * **King Rehoboam made shields** - Here "King Rehoboam" represents the persons who worked for him to make the shields. AT: "King Rehoboam's workers made shields" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in their place** - "in place of the shields of gold"
-  * **entrusted them into the hands of the commanders** - Here "hands" represents care or responsibility. AT: "made them the responsibility of the commanders" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **who guarded the doors to the king's house** - Here "doors" represents the entrance. AT: "who guarded the entrance to the king's house" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the guards would carry them** - "the guards would carry the shields of bronze"
+  * **King Rehoboam made shields** - AT: "King Rehoboam's workers made shields" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **in their place** - AT: "in place of the shields of gold" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **entrusted them into the hands of the commanders** - AT: "made them the responsibility of the commanders" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -48,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:14]]
 **[[:en:bible:notes:1ki:14:25|<<]] | [[:en:bible:notes:1ki:14:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

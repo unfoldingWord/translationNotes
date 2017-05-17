@@ -24,9 +24,11 @@
 \q2 like a mother bird hovers over the baby birds in her nest.
 \q1 He will defend the city
 \q2 and rescue it from its enemies."
+\b
 \p
 \v 6 My people, even though you have greatly rebelled against Yahweh, return to him.
 \v 7 When you do that, each of you will throw away the idols that you have made in sin, idols that are covered with silver and gold.
+\b
 
 
 \q1
@@ -37,7 +39,7 @@
 
 <usfm>
 \q1
-\v 5 Like birds in flight, so Yahweh of hosts will protect Jerusalem;
+\v 5 Like birds in flight, so Yahweh of hosts will protect Jerusalem; 
 \q1 he will protect and rescue as he passes over it and preserves it.
 \p
 \v 6 Return to him from whom you have deeply turned away, people of Israel.
@@ -58,13 +60,11 @@
 ===== translationNotes: =====
 
   * **General Information:** - Yahweh continues speaking.
-  
-  * **Like birds in flight, so Yahweh of hosts will protect Jerusalem** - Here the way that Yahweh protects Jerusalem is compared to the way that a mother bird protects her baby birds in their nest. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **he will protect and rescue as he passes over it and preserves it** - This speaks of how Yahweh protects and rescues Jerusalem, describing him as a bird that flies over the city. AT: "he will protect and rescue the city from it's enemies" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Yahweh of hosts** - Translate this phrase the same as you did in [[:en:bible:notes:isa:01:09|1:9]].
-  * **Jerusalem** - This refers to the people who live there. AT: "the people of Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **Jerusalem** - This refers to the population of the city. AT: "the people of Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Return to him from whom you have deeply turned away** - "Return to the one against whom you have rebelled"
-  * **that your own hands have sinfully made** - Here the people are referred to by their "hands" the emphasize that they made something with their hands. AT: "that you have sinned by making with you own hands" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **that your own hands have sinfully made** - "Hands" refers to something a person has made by hand. AT: "that you have made with your own hands. Making them was a sin against God" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
  
 ===== Links: =====
@@ -80,6 +80,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,19 +20,17 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 Terrible things will happen to those who keep acquiring houses and fields \q1 without paying attention to the laws about who owns the land.
-\q1 You use your riches to gain more and more property,
-\q2 and soon there is no more property for others to buy,
-\q2 and you would be the only land owners there are in that place.
+\v 8 Terrible things will happen to those who continually illegally acquire houses and fields.
+\q1 You force one family after another to leave their homes
+\q2 until you are the only ones still living in the land.
 \p
 \v 9 But I heard Yahweh, commander of the angel armies, solemnly declare this:
-\q1 "Some day, many houses will have no one to live in them, 
-\q2 even the large and beautiful homes will be empty.
+\q1 "Some day, those huge houses will be empty;
+\q2 no one will be living in those beautiful mansions.
 \q1
-\v 10 The land that grows vines in this place should require ten pairs of oxen to work them, 
-\q1 but this land would not produce enough grapes to make even twenty liters of wine.
-\q2 When ten baskets of seed are sown on that land, 
-\q1 that land will only produce one basket of grain at harvest time."
+\v 10 The vines on ten acres of land will not produce enough grapes to make twenty-two liters of wine,
+\q2 and ten baskets of seed will produce only one basket of grain."
+\b
 
 
 \q1
@@ -41,13 +39,13 @@
 ===== ULB: =====
 
 <usfm>
-\m
+\p
 \q1
-\v 8 Woe to those who join house to house, who join field to field,
-\q1 until no room remains, and you alone remain in the land!
+\v 8 Woe to those who join house to house, who join field to field, 
+\q1 till no room remains, and you alone remain in the land!
 \q1
-\v 9 Yahweh of hosts told me,
-\q1 many houses will be empty, even great and impressive ones, without any inhabitant.
+\v 9 Yahweh of hosts told me, 
+\q1 many houses will be empty, even great and impressive ones, without inhabitant.
 \q1
 \v 10 For a ten-yoke vineyard will yield only one bath, and one homer of seed will yield only an ephah.
 </usfm>
@@ -62,12 +60,13 @@
 
   * **General Information:** - Isaiah announces God's judgment.
 
-  * **to those who join house to house, who join field to field** - "to those who take more and more houses, and who take more and more fields." Isaiah assumes that his audience knows that the law forbids someone from taking land from a family permanently. The full meaning of this statement can be made clear. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
-  * **without any inhabitant** - "without anyone living in it"
-  * **a ten-yoke vineyard** - The size of the vineyard is represented by the number of pairs of oxen that could plow it in one day. Each pair of oxen would be connected by a yoke. AT: "a vineyard that is large enough for ten pairs of oxen to plow it" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **one bath** - "one bath of wine" or "22 liters of wine" (UDB) (See: [[:en:ta:vol2:translate:translate_bvolume]])
+  * **to those who join house to house, who join field to field** - "to those who take more and more houses, and who take more and more fields"
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **without inhabitant** - "without anyone living in it"
+  * **ten-yoke vineyard** - This is the amount of land that ten yokes or teams of oxen could plow in one day for a vineyard. Each team would have two oxen. 
+  * **one bath** - "one bath of wine" or "22 liters of wine" (UDB). (See: [[:en:ta:vol2:translate:translate_bvolume]])
   * **one homer of seed will yield only an ephah** - "220 liters of seed will produce only 22 liters of grain." One homer equals ten ephahs. (See: [[:en:ta:vol2:translate:translate_bvolume]])
+
 
 ===== Links: =====
 
@@ -76,6 +75,6 @@
   * [[:en:bible:questions:comprehension:isa:05]]
 **[[:en:bible:notes:isa:05:07|<<]] | [[:en:bible:notes:isa:05:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

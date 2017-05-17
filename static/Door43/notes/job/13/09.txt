@@ -31,11 +31,11 @@
 
 <usfm>
 \q
-\v 9 Would it really be good for you when he searches you out? 
-\q Could you deceive him as you might deceive men?
+\v 9 Would it really be good for you if he as judge should turn on you and examine you instead? 
+\q Or like someone deceives someone else, would you really misrepresent him in court?
 \q
 \v 10 He would surely reprove you
-\q if in secret you showed partiality.
+\q if you secretly showed favoritism to him.
 </usfm>
 
 
@@ -46,10 +46,10 @@
 
 ===== translationNotes: =====
 
-  * **Would it really be good for you when he searches you out** - Here "searches you out" is a metaphor meaning "examine you." Job uses this question to warn his friends that if God were to examine them, he would say that what they are doing is wrong. AT: "If God were to examine you, it would not be good for you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Could you deceive him as you might deceive men?** - Job uses this question to warn his friends that God knows the truth about them. AT: "You might be able to deceive men, but you cannot deceive God." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **reprove you** - "rebuke you"
-  * **if in secret you showed partiality** - Showing partiality refers to saying only good things about someone so that the judge will say that the person is good. Doing this in secret means pretending to speak fairly, but really favoring one person over another. AT: "if you secretly show favor to another" 
+  * **he as judge** - "He" is God who is the judge.
+  * **Or like someone ... him in court?** - Job compares one person tricking another person to his friends giving a false account to God about God himself. He asks this as a question to give emphasis. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **secretly showed favoritism to him** - "God will surely scold you for your behavior if you try to show him secret favors"
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:job:13]]
 **[[:en:bible:notes:job:13:06|<<]] | [[:en:bible:notes:job:13:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

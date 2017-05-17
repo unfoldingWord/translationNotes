@@ -23,9 +23,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 23 The messengers whom you sent
+\v 23 The messengers whom you sent 
 \q2 made fun of me.
-\q You said, 'With my many chariots
+\q You said, 'With my many chariots 
 \q2 I have gone to the highest mountains,
 \q2 to the highest mountains in Lebanon.
 \q We have cut down its tallest cedar trees
@@ -33,10 +33,11 @@
 \q We have been to the most distant peaks
 \q2 and to its densest forests.
 \q
-\v 24 We have dug wells in other countries
+\v 24 We have dug wells in other countries 
 \q2 and drunk water from them.
 \q And by marching through the streams of Egypt,
 \q2 we dried them all up!'
+\b
 
 
 \q
@@ -46,21 +47,21 @@
 ===== ULB: =====
 
 <usfm>
-\q
-\v 23 By your messengers
-\q2 you have defied the Lord,
+\q 
+\v 23 By your messengers 
+\q2 you have defied the Lord, 
 \q and have said,
-\q2 'With the multitude of my chariots
-\q I have gone up to the heights of the mountains,
-\q2 to the highest elevations of Lebanon.
-\q I will cut down the tall cedars
-\q2 and the choice cypress trees there.
-\q I will enter into its farthest parts,
+\q2 'With the multitude of my chariots 
+\q I have gone up to the heights of the mountains, 
+\q2 to the highest elevations of Lebanon. 
+\q I will cut down the tall cedars 
+\q2 and the choice cypress trees there. 
+\q I will enter into its farthest parts, 
 \q2 its most fruitful forest.
-\q
-\v 24 I have dug wells
-\q2 and have drunk foreign waters.
-\q I dried up all the rivers of Egypt
+\q 
+\v 24 I have dug wells 
+\q2 and have drunk foreign waters. 
+\q I dried up all the rivers of Egypt 
 \q2 under the soles of my feet.'
 </usfm>
 
@@ -74,14 +75,13 @@
   * [[:en:obe:other:cedar]]
   * [[:en:obe:other:fir]]
   * [[:en:obe:other:egypt]]
-
 ===== translationNotes: =====
 
-  * **General Information:** - This continues the message from Yahweh given by Isaiah, the prophet, to King Hezekiah concerning King Sennacherib. It uses parallelism throughout. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - This continues the message from Yahweh given by Isaiah, the prophet, to King Hezekiah concerning King Sennacherib. 
 
-  * **you have defied the Lord** - To "defy" is to openly resist or mock.
-  * **I have gone up ... I will cut down ... I will enter** - These boasts made by Sennacherib could only be fulfilled by his army. The pronoun "I" represents by synecdoche all the forces under his control. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **I dried up all the rivers of Egypt under the soles of my feet** - This is a hyperbolic metaphor to say that he could cross any river. AT: "And by marching through the streams of Egypt, we dried them all up!" (UDB) (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you have defied the Lord** - To "defy" is to insult or mock.
+  * **I have gone up ... I will cut down ... I will enter** - These boasts made by Sennacherib could only be fulfilled by his army. 
+  * **I dried up all the rivers of Egypt under the soles of my feet** - "And by marching through the streams of Egypt, we dried them all up!" (UDB) (See: [[:en:ta:vol2:translate:figs_hyperbole]])
  
 ===== Links: =====
 
@@ -93,6 +93,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

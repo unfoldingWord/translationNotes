@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 Jehoash son of Jehoahaz, started to rule in Israel after King Joash had been ruling in Judah for thirty-seven years. Jehoash ruled in Samaria for sixteen years.
+\v 10 Jehoash son of Jehoahaz, started to rule in Israel after King Joash had been ruling in Judah for twenty-three years. Jehoash ruled in Samaria for sixteen years.
 \v 11 He did many things that Yahweh said were evil. He refused to turn away from worshiping idols, which was the sin that many years earlier King Jeroboam had led the Israelite people in committing.
 
 
@@ -39,17 +39,13 @@ by which he had made Israel to sin, but he walked in them.
   * [[:en:obe:other:reign]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:jeroboam]]
-
-
 ===== translationNotes: =====
 
-  * **In the thirty-seventh year of Joash king of Judah** - "After Joash had ruled Judah for almost 37 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **the reign of Jehoash son of Jehoahaz began over Israel in Samaria** - "Jehoash son of Jehoahaz began to rule over Israel in Samaria"
   * **Jehoash** - This was a king of Israel who was the son of Jehoahaz. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **He did what was evil in the sight of Yahweh** - Here "sight" represents God's thoughts or judgment. AT: "He did things that Yahweh considers to be evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **He did not leave behind any of the sins of Jeroboam** - To stop sinning is spoken of as if he left behind the sins. This can be stated in positive form. AT: "Jehoash did not stop committing the same sins as Jeroboam" or "Jehoash kept committing the same sins as Jeroboam" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He did what was evil in the sight of Yahweh** - AT: "He did things that Yahweh considers evil." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **He did not leave behind any of the sins of Jeroboam son of Nebat** - AT: "Jehoash kept committing the same sins as Jeroboam son of Nebat." 
   * **by which he had made Israel to sin** - "by which Jeroboam had caused Israel to sin" 
-  * **but he walked in them** - To sin is spoken of as if he was walking along a sinful path. AT: "but Jehoash continued to do these same sins"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **but he walked in them** - "but Jehoash continued to do these same sins." 
 
 
 ===== Links: =====
@@ -57,11 +53,14 @@ by which he had made Israel to sin, but he walked in them.
   * [[:en:bible:notes:2ki:00:intro]]
   * [[:en:bible:notes:2ki:13:00]]
   * [[:en:bible:questions:comprehension:2ki:13]]
+
+ 
+
 **[[:en:bible:notes:2ki:13:08|<<]] | [[:en:bible:notes:2ki:13:12|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

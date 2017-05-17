@@ -38,8 +38,7 @@
 \v 27 My heart is troubled and does not rest;
 \q days of affliction have come on me.
 \q
-\v 28 I have gone about like one who was living in the dark, 
-\q but not because of the sun;
+\v 28 I go about with darkened skin but not because of the sun;
 \q I stand up in the assembly and cry for help.
 \q
 \v 29 I am a brother to jackals,
@@ -54,11 +53,10 @@
 
 ===== translationNotes: =====
 
-  * **My heart is troubled and does not rest** - Job speaks of his heart as if it were a person. AT: "I am troubled in my heart and the feeling does not end" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **days of affliction have come on me** - Days of affliction coming on Job represents Job experiencing affliction for many days. AT: "I experience affliction many days" or "I suffer every day" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I have gone about** - Here "have gone about" represents living. AT: "I have lived" or "I live" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **like one who was living in the dark, but not because of the sun** - Here "living in the dark" is a metaphor that represents being extremely sad. The phrase "but not because of the sun" clarifies that "living in the dark" is a metaphor, that is, the darkness is not caused by the sun being hidden. AT: "like one who is terribly sad" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a brother to jackals, a companion of ostriches** - Being a brother to these animals is a metaphor for being like them. AT: "I am like jackals and ostriches that cry out in the wilderness" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **My heart is troubled and does not rest** - Job speaks of his heart as if it were a person. (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **I go about with darkened skin but not because of the sun** - Here Job refers to the darkness of his gloom and despair. AT: "I am always in gloom and darkness."
+  * **a brother to jackals, a companion of ostriches** - Job compares his calling out in misery to the cries of jackals and ostriches. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -66,6 +64,6 @@
   * [[:en:bible:questions:comprehension:job:30]]
 **[[:en:bible:notes:job:30:24|<<]] | [[:en:bible:notes:job:30:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -26,6 +26,7 @@
 \q2 Those men who counted our towers are gone!
 \q1
 \v 19 Those arrogant people who spoke a language that we could not understand are no longer here!"
+\b
 
 
 \q1
@@ -34,6 +35,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 17 Your eyes will see the king in his beauty; they will behold a vast land.
 \q1
@@ -51,13 +53,9 @@
   
 ===== translationNotes: =====
 
-  * **Your eyes will see ... they will behold** - This refers the audience by their "eyes." AT: "You will see ... you will behold" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the king in his beauty** - The king's royal robes are referred to as "his beauty." AT: "the king in his beautiful robes" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Your heart will recall the terror** - This refers to the audience by their "hearts." "The terror" refers to their war with the Assyrians. This can be stated clearly. AT: "You will remember the terror that the Assyrians caused you when they attacked." (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **where is the scribe, where is he who weighed the money? Where is he who counted the towers?** - These rhetorical question are asked to emphasize that the Assyrian officials are gone. These questions may be written as statements. AT: "The officers of Assyria who counted the tax money that we were forced to pay to them have disappeared! Those men who counted our towers are gone!" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **weighed the money** - Money was valuable metal; its value was determined by its weight. 
-  * **a people of a strange language** - "a people who spoke a strange language"
-  * **comprehend** - "understand"
+  * **they will behold** - "your eyes will see" or "you will see" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Your heart will recall the terror** - "Heart" refers to the whole person. AT: "You will remember the terror that the Assyrians caused you" when they attacked. (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **weighed the money** - Much "money" was lumps of metal that were weighed in markets and for taxes.
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -65,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:33]]
 **[[:en:bible:notes:isa:33:15|<<]] | [[:en:bible:notes:isa:33:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

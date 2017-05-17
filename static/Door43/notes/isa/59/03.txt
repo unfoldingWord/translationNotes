@@ -39,11 +39,11 @@
 
 <usfm>
 \q1
-\v 3 For your hands are stained with blood and your fingers with sin.
+\v 3 For your hands are stained with blood and your fingers with sin. 
 \q1 Your lips speak lies and your tongue speaks
 maliciously.
 \q1
-\v 4 No one calls in righteousness, and none pleads his case in truth.
+\v 4 No one calls in righteousness, and none pleads his case in truth. 
 \q1 They trust in empty words, and tell lies; they conceive trouble and give birth to sin.
 </usfm>
 
@@ -65,9 +65,11 @@ maliciously.
 
   * **General Information:** - Isaiah continues speaking to the people of Israel.
 
-  * **For your hands are stained with blood and your fingers with sin** - Here "hands" and "fingers" refers to their actions. This means they are guilty of doing violent and sinful things. "Your" is plural. AT: "For you have committed violent sins" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_you]])
-  * **Your lips speak lies and your tongue speaks maliciously** - The parts of the body that make speech represent what people say. AT: "You speak lies and malicious things" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **they conceive trouble and give birth to sin** - "Conceiving" and "giving birth" emphasize how carefully they plan to do sinful things. Here "they" still refers to the people of Israel. AT: "they work hard to do sinful things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **For your hands are stained with blood and your fingers with sin** - Here "hands" and "fingers" refers to their actions. This means they are guilty of doing violent and sinful things. "Your" is plural. AT: "For you have committed violent sins" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_youdual]])
+  * **they conceive trouble and give birth to sin** - This emphasizes how carefully they plan to do sinful things. Here "they" still refers to the people of Israel. AT: "they work hard to do sinful things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+
+ 
  
 ===== Links: =====
 
@@ -76,6 +78,6 @@ maliciously.
   * [[:en:bible:questions:comprehension:isa:59]]
 **[[:en:bible:notes:isa:59:01|<<]] | [[:en:bible:notes:isa:59:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 8 Yahweh gave the enemy into the hand of Israel, and they struck them with the sword and pursued them to Sidon, Misrephoth Maim, and to the Valley of Mizpah to the east. They struck them until not even one survivor of them was left.
+\v 8 Yahweh gave the enemy into the hand of Israel, and they struck them with the sword and pursued them to Sidon, Misrephoth Maim, and to the valley of Mizpah to the east. They struck them until not even one survivor of them was left.
 \v 9 Joshua did to them just as Yahweh told him. He hamstrung the horses and burned the chariots.
 </usfm>
 
@@ -41,7 +41,7 @@
 ===== translationNotes: =====
 
   * **Yahweh gave the enemy into the hand of Israel** - Here the word "hand" represents power. Yahweh enabling the army of Israel to conquer their enemy is spoken of as if Yahweh had put the enemy army into Israel's hand. AT: "Yahweh enabled Israel to conquer the enemy" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **struck them with the sword ... struck them** - Here the word "sword" represents all of the weapons that they used to attack their enemies. AT: "attacked them with their weapons ... attacked them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **struck them with the sword ... struck them** - "attacked them with their weapons ... attacked them"
   * **Misrephoth Maim** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
   * **hamstrung** - This is a practice where the tendons in the backs of the legs are cut so that the horses cannot run. Translate this word in the same way you did in [[:en:bible:notes:jos:11:06|11:6]].
 ===== Links: =====
@@ -54,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

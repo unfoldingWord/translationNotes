@@ -22,7 +22,7 @@
 \q1
 \v 22 I was stupid and ignorant,
 \q2 and I behaved like an animal toward you.
-
+\b
 
 
 \q1
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:073]]
 **[[:en:bible:notes:psa:073:018|<<]] | [[:en:bible:notes:psa:073:023|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

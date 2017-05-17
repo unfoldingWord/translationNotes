@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 36 The descendants of Merari must care for the framing of the tabernacle, the crossbars, posts, bases, all the hardware, and everything related to them, including
+\v 36 The descendants of Merari must care for the framing of the tabernacle, the crossbars, posts, bases, all the hardware, and everything related to them, including 
 \v 37 the pillars and posts of the courtyard that surround the tabernacle, with their sockets, pegs, and ropes.
 </usfm>
 
@@ -34,7 +34,7 @@
 ===== translationNotes: =====
 
   * **the framing** - This to the panels that they made by joining together smaller pieces of wood.
-  * **crossbars** - These are support beams that give stability to the structure.
+  * **crossbar** - These are support beams that give stability to the structure.
   * **posts** - A post is a strong piece of wood set upright and used as a support.
   * **bases** - The bases held the posts in place.
   * **hardware** - This means everything used to join the crossbars, posts, and bases together.
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:num:03]]
 **[[:en:bible:notes:num:03:33|<<]] | [[:en:bible:notes:num:03:38|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

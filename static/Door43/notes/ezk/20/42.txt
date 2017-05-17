@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 42 Then, when I bring you to the land of Israel, to the land that I have lifted up my hand to swear to give to your fathers, you will know that I am Yahweh.
+\v 42 Then, when I bring you to the land of Israel, to the land that I have lifted my hand up to give to your fathers, you will know that I am Yahweh.
 \v 43 Then you will call to mind there your evil ways, and all of your deeds by which you made yourselves unclean, and you will hate yourselves in your own eyes for all your evil actions that you have committed.
 \v 44 So you will know that I am Yahweh when I do this to you for my name's sake, not for your evil ways or your corrupt deeds, house of Israel—this is the Lord Yahweh's declaration.'"
 </usfm>
@@ -43,11 +43,9 @@
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to the house of Israel.
 
-  * **I have lifted up my hand to swear** - Here "lifted up my hand" is a symbolic action that shows he will truly do what he has sworn to do. AT: "I have solemnly sworn" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **you will call to mind** - This idiom means to remember. AT: "you will remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **you made yourselves unclean** - A person who is not acceptable for God's purposes is spoken of as if the person were physically unclean. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **you will hate yourselves in your own eyes** - Here the eyes represent seeing, and seeing represents thoughts or judgment. AT: "you will hate yourselves" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **for my name's sake** - Here the word "name" represents Yahweh's reputation. AT: "for the sake of my reputation" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **have lifted my hand** - This phrase means "have sworn" or "have promised." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **will know that I am Yahweh** - See how you translated this in [[:en:bible:notes:ezk:06:06|6:7]].
+  * **this is the Lord Yahweh's declaration** - See how you translated this in [[:en:bible:notes:ezk:05:11|5:11]].
 
 ===== Links: =====
 
@@ -56,6 +54,6 @@
   * [[:en:bible:questions:comprehension:ezk:20]]
 **[[:en:bible:notes:ezk:20:40|<<]] | [[:en:bible:notes:ezk:20:45|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check corrupt}}
+~~DISCUSSION~~{{tag>publish p2edit corrupt}}
 
 ~~NOCACHE~~

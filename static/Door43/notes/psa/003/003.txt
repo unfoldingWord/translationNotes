@@ -23,7 +23,8 @@
 \q1
 \v 4 I cry out to you, Yahweh,
 \q2 and you answer me from Zion, your sacred hill.
-
+\qr 
+\b
 
 
 \q1
@@ -38,7 +39,7 @@
 \q my glory, and the one who lifts up my head.
 \q
 \v 4 I lift up my voice to Yahweh,
-\q and he answers me from his holy hill.
+\q and he answers me from his holy hill. 
 \qs Selah\qs*
 </usfm>
 
@@ -56,10 +57,10 @@
 ===== translationNotes: =====
 
   * **you, Yahweh, are a shield around me** - A shield protects a soldier. David speaks as if God were a shield protecting him. AT: "you, Yahweh, protect me like a shield" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **my glory** - "you are my glory." By calling God his glory, David says that God is the one who gives him glory. Since David has just spoken about his enemies and God being his protector, he probably meant that God gives him glory by giving him victory over his enemies. AT: "you are the one who gives me glory" or "you are the one who gives me victory"  (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **my glory** - "you are my glory." By calling God his glory, David says that God is the one who gives him glory. Since David has just spoken about his enemies and God being his protector, he probably meant that God gives him glory by giving him victory over his enemies. AT: "you give me glory" or "you give me victory"  (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **the one who lifts up my head** - "you are the one who lifts up my head." Giving someone courage is spoken of as lifting up his head. AT: "the one who encourages me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **I lift up my voice** - Using one's voice to cry out is spoken as as lifting up his voice. AT: "I cry out" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Selah** - This may be a musical term that tells people how to sing or play their instruments here. Some translations write the Hebrew word, and some translations do not include it. See how you translated this in ([[:en:bible:notes:psa:003:001]]). (See: [[:en:ta:vol1:translate:translate_transliterate]])
+  * **Selah** - This may be a musical term that tells people how to sing or play their instruments here. Some translations write the Hebrew word, and some translations do not include it. (See: [[:en:ta:vol1:translate:translate_transliterate]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:003]]
 **[[:en:bible:notes:psa:003:001|<<]] | [[:en:bible:notes:psa:003:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1 selah}}
+~~DISCUSSION~~{{tag>publish p2check book1 selah}}
 
 ~~NOCACHE~~

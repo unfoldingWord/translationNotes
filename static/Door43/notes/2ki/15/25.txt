@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 25 Then one of Pekahiah's army commanders whose name was Pekah son of Remaliah, planned with fifty men, from the region of Gilead to kill Pekahiah and two of his assistants, Argob and Arieh. They assassinated the king in a fortified place in the king's palace in Samaria. Then Pekah became the king.
+\v 25 Then one of Pekahiah's army commanders whose name was Pekah son of Remaliah, planned with fifty men, from the region of Gilead to kill Pekahiah; Argob and Arieh were in this group of men. They assassinated the king in a fortified place in the king's palace in Samaria. Then Pekah became the king.
 \p
-\v 26 Everything else that Pekahiah did is written in the book of the events of the Kings of Israel.
+\v 26 Everything else that Pekahiah did is written in the Book of the Events of the Kings of Israel.
 
 
 
@@ -25,8 +25,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 25 Pekahiah had an officer named Pekah son of Remaliah, who conspired against him. Along with fifty men of Gilead, Pekah killed Pekahiah as well as Argob and Arieh in Samaria, in the citadel of the king's palace. Pekah killed Pekahiah and became king in his place.
-\v 26 As for the other matters concerning Pekahiah, all that he did, they are written in the book of the events of the kings of Israel.
+\v 25 Pekah son of Remaliah, a captain serving the Pekahiah, conspired against him and killed him in Samaria, in the citadel of the king's palace, with Argob and Arieh. With him were fifty men of the Gileadites. He killed him and became king in his place.
+\v 26 As for the other matters concerning Pekahiah, all that he did, they are written in The Book of the Events of the Kings of Israel.
 </usfm>
 
 ===== translationWords: =====
@@ -37,13 +37,10 @@
   * [[:en:obe:other:gilead]]
 ===== translationNotes: =====
 
-  * **Pekah ... Remaliah** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **conspired against him** - "secretly planned to kill Pekahiah"
+  * **Pekah ... Remaliah ... Argob ... Arieh** - Some versions regard Argob and Arieh as men who were killed along with the king. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **conspired** - To conspire is to make a secret plan to do harm to someone or something, in this case, King Pekahiah.
   * **fifty men** - "50 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **Argob ... Arieh** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the citadel of the king's palace** - "the fortified part of the king's palace" or "the safe place in the king's palace"
-  * **became king in his place** - The phrase "in his place" is a metaphor meaning "instead of him." AT: "became king instead of Pekahiah" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they are written in the book of the events of the kings of Israel** - This can be stated in active form. AT: "you can read about them in the book of the events of the kings of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **citadel of the king's palace** - "fortified place in the king's palace" (UDB)
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -51,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2ki:15]]
 **[[:en:bible:notes:2ki:15:23|<<]] | [[:en:bible:notes:2ki:15:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

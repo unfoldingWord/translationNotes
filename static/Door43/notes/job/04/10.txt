@@ -38,6 +38,7 @@
 \q
 \v 11 The old lion perishes for lack of victims;
 \q the cubs of the lioness are scattered everywhere.
+\b
 </usfm>
 
 
@@ -52,8 +53,8 @@
 
   * **General Information:** - The writer uses parallelism in these verses, conveying a single idea using different statements to emphasize God's destruction of wicked people. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **The roaring of the lion, the voice of the fierce lion, the teeth of the young lions—they are broken.** - Here a lion's roar, his voice, and his teeth being broken are used as pictures of the wicked being destroyed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they are broken** - This may be put into active form. AT: "something breaks them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The roaring of the lion, the voice of the fierce lion, the teeth of the young lions—they are broken.** - Eliphaz uses the picture of a lion's roaring, voice, and teeth being broken as an image of the wicked being destroyed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they are broken** - "something breaks the teeth of the young lions" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **The old lion perishes for lack of victims; the cubs of the lioness are scattered everywhere** - Eliphaz uses the picture of an old lion dying of hunger and of a lion's family being scattered as metaphors for the wicked being destroyed. 
   * **are scattered** - "something scatters the cubs of the lioness" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
@@ -69,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

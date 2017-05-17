@@ -35,12 +35,11 @@
   * [[:en:obe:other:david]]
   * [[:en:obe:other:heal]]
   * [[:en:obe:kt:houseofgod]]
-
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - "Word" is metonymy for the message Yahweh revealed to Isaiah. This is a common way of speaking, an idiom. AT: "Yahweh spoke his word" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **I have heard your prayer, and I have seen your tears** - The second part reinforces the first part to make one message by using parallelism. AT: "I have heard your prayers and seen your tears" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the word of Yahweh came** - "Yahweh spoke his word" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **on the third day** - "two days from now" (UDB) The day Isaiah said this was the first day, so "the third day" would be the same as "two days from now." 
+
  
 ===== Links: =====
 
@@ -48,11 +47,13 @@
   * [[:en:bible:notes:2ki:20:00]]
   * [[:en:bible:questions:comprehension:2ki:20]]
 
+ 
+
 **[[:en:bible:notes:2ki:20:01|<<]] | [[:en:bible:notes:2ki:20:06|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass courtyard}}
+{{tag>publish p2edit courtyard}}
 
 ~~NOCACHE~~

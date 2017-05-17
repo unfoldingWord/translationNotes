@@ -17,11 +17,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 30 Elegance can deceive
-\q2 and make you think more highly of a person than you should;
-\q2 and beauty has no lasting value.
+\v 30 Elegance can deceive 
+\q2 and make you think more highly of a person than you should; 
+\q2 and beauty has no lasting value. 
 \q2 But a woman who honors Yahweh will be praised for the person she is.
-\v 31 Give her what she has earned,
+\v 31 Give her what she has earned, 
 \q2 and her works will praise her among the leaders of the town.
 </usfm>
 
@@ -50,11 +50,10 @@
   * [[:en:obe:kt:gate]]
 ===== translationNotes: =====
 
-  * **Elegance is deceptive** - The abstract noun "elegance" can be translated as an adjective. AT: "A gracious woman can deceive people" or "A woman with good manners could really be evil" Translate this as in [[:en:bible:notes:pro:11:15|11:16]]. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **beauty is vain** - The abstract noun "beauty" can be translated as an adjective. AT: "a woman who is beautiful now will not always be beautiful" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **she will be praised** - This can be translated in active form. AT: "people will praise her" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the fruit of her hands** - The money she has earned from the work she did with wool and flax ([[:en:bible:notes:pro:31:13|31:13]]) is spoken of as if it were fruit growing off a tree. The hands are a synecdoche for the person. AT: "the money she has earned" Translate as in [[:en:bible:notes:pro:31:16|31:16]]. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **let her works praise her in the gates** - She will be praised for her works, not by her works. Those "in the gates" are the important people of the city who conduct business and legal affairs near the gates of the city. AT: "may the important people of the city praise her because of the works she has done" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Elegance** - being charming and attractive
+  * **she will be praised** - AT: "praise is her's" or "she deserves praise" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the fruit of her hands** - AT: "what she has worked for"
+  * **let her works praise her in the gates** - She will be praised for her works, not by her works. AT: "may the people in the gates praise her because of the works she has done" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
  
 ===== Links: =====
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:31]]
 **[[:en:bible:notes:pro:31:28|<<]] | **
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

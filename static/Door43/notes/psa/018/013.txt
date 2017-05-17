@@ -26,8 +26,12 @@
 
 <usfm>
 \q
-\v 13 Yahweh thundered in the heavens! The voice of the Most High shouted.
-\f + \ft Some modern versions add after shouted, \fqa hailstones and  coals of fire \fqa* this expression may be an accidental repetition from the previous verse. \f*
+\v 13 Yahweh thundered in the heavens! The Most High gave forth his voice, hailstones and lightning.
+<<<<<<< HEAD
+\f + \ft Many modern versions leave out \fqa hailstones and lightning \fqa*, believing this expression to be an accidental repetition from the previous verse. \f*
+=======
+\f + \ft Many modern versions leave out \fqa hailstones and lightning \fqa* , believing this expression to be an accidental repetition from the previous verse. \f*
+>>>>>>> 73646b849e0d28e6a4e508ae6292a8c6adc69837
 \q
 \v 14 He shot his arrows and scattered his enemies; many lightning bolts dispersed them.
 </usfm>
@@ -41,21 +45,21 @@
 
 ===== translationNotes: =====
 
-  * **Yahweh thundered in the heavens** - Yahweh's voice sounded like thunder. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **the Most High** - "the Most High" refers to Yahweh.
+  * **Yahweh thundered in the heavens** - Yahweh's voice sounded like thunder. (See: [[:en:ta:vol1:translate:figs_simile]]) 
+  * **The Most High gave forth his voice** - That is, the Most High shouted (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **The Most High** - "The Most High" refers to Yahweh. 
+  * **The Most High gave forth ... hailstones and lightning** - That is, the Most High caused hailstones to rain on the earth and lightning to flash. "Hailstones" refers to chunks of ice similar to stones falling from the sky. This is a picture of God's great power.
   * **He shot his arrows and scattered his enemies ... lightning bolts dispersed them** - Both of these clauses have similar meanings. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **He shot his arrows and scattered his enemies** - Here lighting strikes are being spoken of as if they were arrows (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **dispersed them** - "sent them in different directions"
-
 
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
   * [[:en:bible:notes:psa:018:000]]
   * [[:en:bible:questions:comprehension:psa:018]]
-
 **[[:en:bible:notes:psa:018:011|<<]] | [[:en:bible:notes:psa:018:015|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1 disperse}}
+~~DISCUSSION~~{{tag>publish p2check book1 disperse}}
 
 ~~NOCACHE~~

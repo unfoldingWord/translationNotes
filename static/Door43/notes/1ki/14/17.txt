@@ -36,10 +36,9 @@
 
 ===== translationNotes: =====
 
-  * **Tirzah** - This is the name of the city where king Jeroboam lived. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **All Israel buried him and mourned for him** - This is a generalization that means the people of Israel buried him and mourned for him. AT: "A great number of the people of Israel were present when people buried him, and the people of Israel mourned for him" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **just as it was told to them by the word of Yahweh** - This can be stated in active form. AT: "just as Yahweh told them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the word of Yahweh** - Here "word" represents a message. AT: "the message of Yahweh" or "Yahweh's message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **All Israel buried him** - AT: "A great number of the people of Israel were present when people buried him" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **just as it was told to them by the word of Yahweh** - This can be stated in active form. AT: "just as Yahweh told them" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -47,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:14]]
 **[[:en:bible:notes:1ki:14:14|<<]] | [[:en:bible:notes:1ki:14:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

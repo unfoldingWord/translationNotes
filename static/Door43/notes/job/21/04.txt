@@ -28,6 +28,7 @@
 \q1
 \v 6 When I think about what has happened to me,
 \q2 I am frightened and my entire body shakes.
+\b
 
 
 \q1
@@ -44,8 +45,8 @@
 \v 5 Look at me and be astonished,
 \q and lay your hand upon your mouth.
 \q
-\v 6 When I think about my sufferings, I am terrified,
-\q and trembling seizes my body.
+\v 6 When I think about my sufferings, I am troubled,
+\q and horror takes hold of my flesh.
 </usfm>
 
 
@@ -57,12 +58,12 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Job continues speaking to his friends.
+  * **General Information:** - Job continues speaking to his friends.
 
-  * **As for me, is my complaint to a person? Why should I not be impatient?** - Job uses questions to emphasize that he thinks it is fair for him to complain to God. AT: "I am not complaining to a person. I have the right to be impatient" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **lay your hand upon your mouth** - "cover your mouth with your hand."  Possible meanings are that 1) this is a response to being astonished. AT: "cover your mouth with your hand" or 2) this is a symbol that the person will not speak. AT: "do not say anything" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **trembling seizes my body** - "fear causes my body to tremble" or "I shake with fear" 
-
+  * **As for me, is my complaint to a person? Why should I not be impatient?** - Job uses questions to emphasize that he thinks it is fair for him to complain to God. AT: "I am not complaining to a person. I have the right to be annoyed." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **and be astonished** - AT: "and let what you see shock you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **lay your hand upon your mouth** - AT: "sit there too amazed to speak"
+  * **horror takes hold of my flesh** - AT: "I shake with fear" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -71,6 +72,6 @@
   * [[:en:bible:questions:comprehension:job:21]]
 **[[:en:bible:notes:job:21:01|<<]] | [[:en:bible:notes:job:21:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check horror}}
+~~DISCUSSION~~{{tag>publish p2edit horror}}
 
 ~~NOCACHE~~

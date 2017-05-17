@@ -16,7 +16,7 @@
 
 <usfm>
 \v 9 People of Israel, since the days of Gibeah you have been sinning;
-\q2 it is as if you have been living there ever since then, because you think as they did.
+\q2 it is as if you have been living there ever since then, because you think as they did. 
 \q1 Enemies will attack you evildoers at Gibeah.
 
 
@@ -47,8 +47,7 @@
 
   * **days of Gibeah** - This is probably a reference to the shocking actions of the tribe of Benjamin recounted in Judges 19-21. See how you translated this in [[:en:bible:notes:hos:09:08|9:9]].
   * **there you have remained** - This passage probably means that the people of the present time continue to act in the same ways that their ancestors did at Gibeah. AT: "and you think just as they did" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Will not war overtake the sons of wrong in Gibeah?** - Yahweh uses a question to emphasize that those in Gibeah who do wrong will certainly have to endure war. And this speaks of the people having to endure war when their enemies come as if war were a person that would catch up with them. AT: "War will certainly come on those who do wrong in Gibeah." or "Enemies will certainly attack those who do wrong in Gibeah." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the sons of wrong** - Here "son of" is an idiom that means "having the characteristic of." AT: "those who do wrong" or "the evildoers" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Will not war overtake the sons of wrong in Gibeah?** - "War will certainly come on those who do wrong in Gibeah" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:hos:00:intro]]
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:hos:10]]
 **[[:en:bible:notes:hos:10:07|<<]] | [[:en:bible:notes:hos:10:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

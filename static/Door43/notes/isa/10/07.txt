@@ -38,12 +38,12 @@
 
 <usfm>
 \q1
-\v 7 But this is not what he intends, nor does he think this way.
-\q1 It is in his heart to destroy and eliminate many nations.
-\q1
+ \v 7 But this is not what he intends, nor does he think this way.
+ \q1 It is in his heart to destroy and eliminate many nations. 
+ \q1
 \v 8 For he says, "Are not all my princes kings?
 \q1
-\v 9 Is not Calno like Carchemish?
+\v 9 Is not Calno like Carchemish? 
 \q1 Is not Hamath like Arpad? Is not Samaria like Damascus?
 </usfm>
 
@@ -61,7 +61,7 @@
   * **But this is not what he intends, nor does he think this way** - The meaning of "this" and "this way" can be made explicit. AT: "But the king of Assyria does not intend to do what I tell him, nor does he think that I am using him as my weapon" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **It is in his heart to destroy and eliminate many nations** - The words "destroy" and "eliminate" mean basically the same thing. They are used for emphasis. AT: "He wants to completely destroy many nations" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **Are not all my princes kings?** - The king of Assyria uses a question to emphasize what he believes everyone should already know. AT: "I have made captains of my army kings over lands I have conquered!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Is not Calno like Carchemish? Is not Hamath like Arpad? Is not Samaria like Damascus?** - The king of Assyria uses these questions for emphasis. AT: "Calno is no different from Carchemish. Hamath is no different from Arpad. Samaria is no different from Damascus. I have conquered them all!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Is not Calno like Carchemish? Is not Hamath like Arpad? Is not Samaria like Damascus?** - The king of Assyria uses these questions for emphasis. AT: "Calno is no different than Carchemish. Hamath is no different than Arpad. Samaria is no different than Damascus. I have conquered them all!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Calno ... Carchemish ... Hamath ... Arpad** - These are all names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:10]]
 **[[:en:bible:notes:isa:10:05|<<]] | [[:en:bible:notes:isa:10:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

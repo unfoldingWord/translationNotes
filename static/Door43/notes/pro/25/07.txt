@@ -17,13 +17,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 It is better if someone important invites you, saying, "Come up and sit closer to the king,"
-\q2 than to embarrass you in front of an important nobleman by making you move so that you now sit far away from the king. 
+\v 7 It is better if someone tells you to sit closer to the king,
+\q2 than for them to tell you, while one of the king's nobles is listening, that you should sit further away in order that someone who is more important may sit there.
 \q When you witness something that gives you concern,
 \q1
-\v 8 you should not quickly bring the matter to trial,
-\q2 unless you are very sure about it.
-\q2 because your neighbor may have a good explanation for what you saw.
+\v 8 you should not quickly bring the matter to trial, 
+\q2 unless you are very sure about it. 
+\q2 because your neighbor may have a good explanation for what you saw. 
+
 
 \q1
 </usfm>
@@ -33,11 +34,11 @@
 <usfm>
 \q
 \v 7 It is better for him to say to you, "Come up here,"
-\q than for him to humiliate you before a nobleman.
+\q than for you to be humiliated in the presence of a noble.
 \q What you have witnessed,
 \q
 \v 8 do not bring quickly to trial.
-\q For what will you do in the end
+\q For what will you do in the end, 
 \q when your neighbor puts you to shame?
 </usfm>
 
@@ -51,11 +52,10 @@
   * [[:en:obe:other:shame]]
 ===== translationNotes: =====
 
-  * **It is better for him to say to you, "Come up here"** - Here "up" means to move to a place at the table that is closer to the king. It is a great honor for a person to sit closer to the king. AT: "It is better for someone to invite you to sit closer to the king" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **before a nobleman** - "in front of a nobleman"
-  * **For what will you do in the end when your neighbor puts you to shame?** - This question is asked to make the reader consider the possibility that he may have misunderstood the situation. The way in which the neighbor might put the reader to shame can be stated plainly. AT: "For you will not know what to do in the end when your neighbor puts you to shame." or "For if your neighbor has an explanation, he will put you to shame, and you will have nothing to say to defend yourself." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
-
-
+  * **than for you to be humiliated** - "than for him to humiliate you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in the presence of a noble** - "in front of a nobleman"
+  * **For what will you do in the end, when your neighbor puts you to shame?** - This question is asked to make the reader consider the possibility that they may have misunderstood the situation. AT: "For you will not know what to do in the end, when your neighbor puts you to shame." Or "For if your neighbor has an explanation, you will be put to shame." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:25]]
 **[[:en:bible:notes:pro:25:06|<<]] | [[:en:bible:notes:pro:25:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass humiliate trial}}
+~~DISCUSSION~~{{tag>publish p2edit humiliate trial}}
 
 ~~NOCACHE~~

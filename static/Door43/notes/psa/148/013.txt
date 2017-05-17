@@ -18,13 +18,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 I want them all to praise Yahweh
+\v 13 I want them all to praise Yahweh 
 \q2 because he is greater than anyone else.
 \q2 His power controls everything on the earth and in the heavens.
 \q1
 \v 14 He caused us, his people, to be strong
 \q2 so that we Israelite people who are very precious to him
 \q2 should praise him,
+\b
 \q1 So praise Yahweh!
 </usfm>
 
@@ -66,6 +67,6 @@
   * [[:en:bible:questions:comprehension:psa:148]]
 **[[:en:bible:notes:psa:148:011|<<]] | [[:en:bible:notes:psa:149:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

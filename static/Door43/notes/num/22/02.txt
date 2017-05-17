@@ -32,7 +32,6 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:amorite]]
-  * [[:en:obe:other:moab]]
   * [[:en:obe:kt:fear]]
   * [[:en:obe:other:terror]]
   * [[:en:obe:other:king]]
@@ -43,10 +42,9 @@
 ===== translationNotes: =====
 
   * **Balak son of Zippor** - Balak was king of Moab. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Zippor** - Zippor is the father of Balak. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Moab was very afraid of the people ... Moab was in terror of the people of Israel** - These two phrases mean the same thing, and emphasize how afraid Moab was. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **Moab was very afraid** - Here "Moab" refers to the people of Moab. AT: "All of the Moabites were very afraid" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **because they were many** - "because there were many of them"
+  * **because they were many** - "because there were of many of them"
   * **The king of Moab said to the elders of Midian** - The Moabites and the Midianites were two different groups of people, but the Midianites were living in the land of Moab at that time.
   * **This multitude will eat up all that is around us as an ox eats up the grass in a field** - The way the Israelites will destroy their enemies is spoken of as if they were an ox eating up the grass in a field. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **Now Balak son of Zippor was king of Moab at that time** - This changes from the main story to background information about Balak. (See: [[:en:ta:vol2:translate:writing_background]])
@@ -57,6 +55,6 @@
   * [[:en:bible:questions:comprehension:num:22]]
 **[[:en:bible:notes:num:22:01|<<]] | [[:en:bible:notes:num:22:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

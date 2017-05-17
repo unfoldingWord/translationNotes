@@ -35,11 +35,11 @@
 
 <usfm>
 \q1
-\v 19 The sun will no longer be your light by day,
-\q1 nor will the brightness of the moon shine on you;
+\v 19 The sun will no longer be your light by day, 
+\q1 nor will the brightness of the moon shine on you; 
 \q1 but Yahweh will be your everlasting light, and your God your glory.
 \q1
-\v 20 Your sun will no longer set, nor will your moon withdraw and disappear;
+\v 20 Your sun will no longer set, nor will your moon withdraw and disappear; 
 \q1 for Yahweh will be your everlasting light, and
 the days of your mourning will be ended.
 </usfm>
@@ -56,8 +56,7 @@ the days of your mourning will be ended.
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **for Yahweh will be your everlasting light** - Both verses repeat this same idea for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Your sun will no longer set, nor will your moon withdraw and disappear** - The moon will not literally disappear. This is saying that in comparison to the light of Yahweh, the light of the sun and the moon will be nothing. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **Your sun will no longer set, nor will your moon withdraw and disappear** - This is not to be understood literally. The sun and moon will not disappear. This is saying that in comparison to the light of Yahweh, they will be nothing. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_hyperbole]])
 
 ===== Links: =====
 
@@ -66,6 +65,6 @@ the days of your mourning will be ended.
   * [[:en:bible:questions:comprehension:isa:60]]
 **[[:en:bible:notes:isa:60:17|<<]] | [[:en:bible:notes:isa:60:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

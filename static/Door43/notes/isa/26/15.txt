@@ -18,6 +18,7 @@
 \v 15 Yahweh, you have enabled our nation to become great;
 \q2 we are more people now, and we have more land,
 \q1 so we thank you.
+\b
 
 
 \q1
@@ -28,7 +29,7 @@
 
 <usfm>
 \q1
-\v 15 You have increased the nation, Yahweh, you have increased the nation; you are honored;
+\v 15 You have increased the nation, Yahweh, you have increased the nation; you are honored; 
 \q1 you have extended all the borders of the land.
 </usfm>
 
@@ -42,7 +43,7 @@
 ===== translationNotes: =====
 
 
-  * **You have increased the nation, Yahweh, you have increased the nation** - This clause is repeated for emphasis. Here "nation" represents the people. AT: "You have greatly increased the number of people in our nation" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **You have increased the nation** - This clause is repeated for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
  
 ===== Links: =====
 
@@ -57,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

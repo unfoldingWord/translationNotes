@@ -34,9 +34,9 @@
 
 ===== translationNotes: =====
 
-  * **Gaal** - This is the name of a man. See how you translated this in [[:en:bible:notes:jdg:09:26|9:26]].
-  * **Zebul** - This is the name of a man. See how you translated this in [[:en:bible:notes:jdg:09:28|9:28]].
-  * **You are seeing the shadows on the hills like they are men** - Zebul is trying to confuse Gaal and keep him from preparing for battle. AT: "That is not people, it is only shadows on the hills"
+  * **Gaal** - This is the name of a man. See how you translated this in [[:en:bible:notes:jdg:09:26|9:26]] 
+  * **Zebul** - This is the name of a man. See how you translated this in [[:en:bible:notes:jdg:09:26|9:26]]
+  * **You are seeing the shadows on the hills like they are men** - Zebul is speaking of the shadows on the hills as if they were men. Actually he is trying to confuse Gaal and keep him from preparing for battle. AT: "That is not people, it is only shadows on the hills" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **one unit** - "1 group" or "1 troop" (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 ===== Links: =====
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:jdg:09]]
 **[[:en:bible:notes:jdg:09:34|<<]] | [[:en:bible:notes:jdg:09:38|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 \q1
 \v 2 Only he is like a huge rock on which I can be safe;
 \q2 he is like a fortress high up that my enemies cannot climb.
-
+\b
 
 
 \q1
@@ -30,8 +30,9 @@
 
 <usfm>
 \c 62
-\m
+\p
 \d For the chief musician; after the manner of Jeduthun. A psalm of David.
+\b
 \q
 \v 1 I wait in silence for God alone;
 \q my salvation comes from him.
@@ -50,15 +51,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **General Information:** - This psalm is a song about God's faithfulness. 
+  * **General Information:** - This psalm is a song about God's faithfulness. See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **For the chief musician** - "This is for the director of music to use in worship"
   * **Jeduthun** - One of David's chief musicians had this same name. This may refer to him. See how you translated this in [[:en:bible:notes:psa:039:001|39:1]]. (See: [[:en:ta:vol1:translate:translate_names]])
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **my salvation comes from him** - "he is the one who rescues me" or "he is the one who saves me"
   * **He alone is my rock and my salvation** - The writer speaks of God's ability to protect him as if God were a rock. AT: "He is the only one who can protect and rescue me" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **he is my high tower** - The writer speaks of God's ability to protect him as if God were a high tower. AT: "he keeps me away from the grasp of my enemies" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **he is my high tower** - The writer speaks of God's ability to protect him as if God were a high tower. "he keeps me away from the grasp of my enemies" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
   * **I will not be greatly moved** - This can be stated in active form. AT: "nothing can ever move me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
@@ -67,6 +67,6 @@
   * [[:en:bible:questions:comprehension:psa:062]]
 **[[:en:bible:notes:psa:061:008|<<]] | [[:en:bible:notes:psa:062:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2 watchtower}}
+~~DISCUSSION~~{{tag>publish p2check book2 watchtower}}
 
 ~~NOCACHE~~

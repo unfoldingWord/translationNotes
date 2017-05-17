@@ -41,9 +41,9 @@
 
 <usfm>
 \c 12
-\m
+\p
 \q
-\v 1 You are righteous, Yahweh, whenever I bring disputes to you.
+\v 1 You are righteous, Yahweh, whenever I bring disputes to you. 
 \q I must certainly tell you of my reason to complain: Why do the ways of the wicked succeed? All the faithless people are successful.
 \q
 \v 2 You planted them and they took root. They continue to produce fruit.
@@ -64,11 +64,7 @@
 
   * **General Information:** - Jeremiah speaks to Yahweh.
 
-  * **the wicked** - This refers to wicked people. AT: "wicked people" or "those who are wicked" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **You planted them and they took root. They continue to produce fruit** - Here Jeremiah speaks of the wicked as if they were fruit trees. AT: "They are like fruit trees that you planted, that you allow to prosper and produce lots of fruit" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **You are near to them in their mouths** - This speaks of how the wicked says good things about Yahweh by referring to their "mouths." Here closeness is used represent loyalty. AT: "They always say good things about you" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **but far away from their hearts** - This speaks of how they do not love Yahweh by referring to their "hearts." Often closeness is used represent a loyal relationship, whereas here, being far way represents a lack of loyalty. AT: "they do not love or respect you" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **far away from their hearts** - "they do not love or respect you"
 
 ===== Links: =====
 
@@ -83,6 +79,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

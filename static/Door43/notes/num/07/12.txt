@@ -31,8 +31,8 @@
 
 <usfm>
 \v 12-13 On the first day, Nahshon son of Amminadab, from the tribe of Judah brought his gifts:
-\li a silver dish that weighed one and one-half kilograms and a silver bowl that weighed four-fifths of a kilogram, both of which were full of good flour and mixed with olive oil to be flour offerings. They both were weighed using the standard scales,
-\v 14 and a small gold dish that weighed 113 grams and was filled with incense.
+\li a silver dish that weighed almost 1.5 kilograms and a silver bowl that weighed about .8 kilograms, both of which were full of good flour and mixed with olive oil to be flour offerings. They both were weighed using the standard scales,
+\v 14 and a small gold dish that weighed 113 grams, filled with incense.
 
 
 \li
@@ -43,9 +43,9 @@
 
 <usfm>
 \p
-\v 12 On the first day, Nahshon son of Amminadab, of the tribe of Judah, offered his sacrifice.
+\v 12 On the first day, Nahshon son of Amminadab, of the tribe of Judah, offered his sacrifice. 
 \v 13 His sacrifice was one silver platter weighing 130 shekels and one silver bowl weighing seventy shekels, by the standard weight of the sanctuary shekel. Both of these objects were full of fine flour mixed with oil for a grain offering.
-\v 14 He gave one gold dish that weighed ten shekels and was full of incense.
+\v 14 He also gave one gold dish, that weighed ten shekels and was full of incense.
 </usfm>
 
 
@@ -63,12 +63,13 @@
 ===== translationNotes: =====
 
   * **the first day** - "the 1st day" or "day 1" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **Nahshon son of Amminadab** - These are the names of men. See how you translated these names in [[:en:bible:notes:num:01:07|1:7]]
+  * **Nahshon son of Amminadab** - See how you translated these names in [[:en:bible:notes:num:01:07|1:7]]
   * **one silver platter weighing 130 shekels** - If necessary, these weights can be written in modern measurements. AT: "one silver platter weighing nearly one and a half kilograms" or "one silver platter weighing one kilogram and 430 grams" (See: [[:en:ta:vol2:translate:translate_bweight]])
   * **one silver bowl weighing seventy shekels** - "one silver bowl weighing 70 shekels." If necessary, these weights can be written in modern measurements. AT: "one silver bowl weighing nearly eight tenths of a kilogram" or "one silver bowl weighting 770 grams" (See: [[:en:ta:vol2:translate:translate_bweight]] and [[:en:ta:vol2:translate:translate_numbers]])
   * **by the standard weight of the sanctuary shekel** - There were shekels of different weights. This is the one that people had to use in the sanctuary of the sacred tent. If you are converting the weights to modern measures, here is another way to translate this phrase. AT: "measured by the standard weights used in the sanctuary" (See: [[:en:ta:vol2:translate:translate_bweight]])
   * **fine flour mixed with oil** - This can be stated in active form. AT: "fine flour that he had mixed with oil" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **one gold dish that weighed ten shekels** - If necessary, this can be written in modern measurements. AT: "one gold dish that weighed one tenth of a kilogram" or "one gold dish that weighed 110 grams"  (See: [[:en:ta:vol2:translate:translate_bweight]])
+  * **one gold dish, that weighed ten shekels** - If necessary, this can be written in modern measurements. AT: "one gold dish that weighed one tenth of a kilogram" or "one gold dish that weighed 110 grams"  (See: [[:en:ta:vol2:translate:translate_bweight]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -76,6 +77,6 @@
   * [[:en:bible:questions:comprehension:num:07]]
 **[[:en:bible:notes:num:07:10|<<]] | [[:en:bible:notes:num:07:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

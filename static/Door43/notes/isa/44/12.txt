@@ -30,9 +30,10 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 12 The smith works with his tools, forming it, working over the coals.
-\q1 He shapes it with hammers and works it with his strong arm.
+\v 12 The smith works with his tools, forming it, working over the coals. 
+\q1 He shapes it with hammers and works it with his strong arm. 
 \q1 He is hungry, and his strength wanes; he drinks no water and becomes faint.
 </usfm>
 
@@ -45,7 +46,7 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **forming it** - "forming the idol" or "creating the idol" 
+  * **forming it** - "forming the idol"
 
 
 ===== Links: =====
@@ -61,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

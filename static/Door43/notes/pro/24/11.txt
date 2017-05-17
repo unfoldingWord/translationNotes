@@ -38,10 +38,10 @@
 \v 11 Rescue those who are being taken away to death
 \q and hold back those who are staggering to the slaughter.
 \q
-\v 12 If you say, "Behold, we knew nothing about this,"
-\q does not the one who weighs the heart understand what you are saying?
-\q The one who guards your life, does he not know it?
-\q Will God not give to each one what he deserves?
+\v 12 If you say, "There! We knew nothing about this."
+\q Does not the One who weighs the heart understand what you are saying?
+\q And the One who guards your life, does he not know it?
+\q And will God not give to each one what he deserves?
 </usfm>
 
 
@@ -55,19 +55,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
-
-  * **those who are being taken away** - These words can be translated in active form. AT: "those whom they are taking away," where "they" could be anyone, but are probably government officials. (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **taken away** - Another possible meaning is "dragged away."
-  * **staggering** - walking unsteadily and almost falling. This word would also describe the way a person walks when he is being dragged away.
-  * **the slaughter** - The abstract noun "slaughter" can be translated as a verb. The writer speaks as if those who take them away think of them as no better than animals. If your language has a word for killing animals that would fit here, you might want to use it. AT: "where people will kill them as they would kill animals" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **If you say, "Behold, ... this," does** - The writer is answering something that the reader may wrongly be thinking. AT: "You may say, 'Behold, ... this,' but does"
-  * **Behold, we** - "Listen to us! We" or "But we" or "We have done nothing wrong, because we"
-  * **does not the one who weighs the heart understand what you are saying?** - The writer assumes the readers know the answer and asks this for emphasis. AT: "the one who weighs the heart understands what you are saying." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the one who** - The writer expects the reader to know that "the one" is Yahweh. AT: "Yahweh, who" (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **weighs the heart** - The word "heart" is a metonym for what a person thinks and desires. The writer speaks as if what a person thinks and desires were a physical object that a person could weigh, and weighing an object is a metaphor for looking closely at something to see how good it is. AT: "knows how good what people really think and desire is" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The one who guards your life, does he not know it?** - The writer assumes the readers know the answer and asks this for emphasis. AT: "The one who guards your life knows it." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Will God not give to each one what he deserves?** - The writer assumes the readers know the answer and asks this for emphasis. AT: "God will give to each one what he deserves." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **staggering** - walking unsteadily and almost falling
+  * **slaughter** - violently killing
+  * **Does not the One who weighs the heart understand what you are saying?** - The writer assumes the readers know the answer and asks this for emphasis. AT: "The One who weighs the heart understands what you are saying." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the One who** - The writer uses this word to mean Yahweh. (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **weighs the heart** - "tests or evaluates motives and desires"
+  * **the One who guards your life, does he not know it?** - The writer assumes the readers know the answer and asks this for emphasis. AT: "the One who guards your life knows it." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **will God not give to each one what he deserves?** - The writer assumes the readers know the answer and asks this for emphasis. AT: "God will give to each one what he deserves." (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
  
 ===== Links: =====
@@ -75,11 +69,14 @@
   * [[:en:bible:notes:pro:00:intro]]
   * [[:en:bible:notes:pro:24:00]]
   * [[:en:bible:questions:comprehension:pro:24]]
+
+ 
+
 **[[:en:bible:notes:pro:24:10|<<]] | [[:en:bible:notes:pro:24:13|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example god}}
+{{tag>publish p2edit god}}
 
 ~~NOCACHE~~

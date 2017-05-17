@@ -21,7 +21,7 @@
 
 <usfm>
 \p
-\v 26 'May the man be cursed who does not confirm the words of this law, that he will obey them.' Then all the people must say, 'Amen.'
+\v 26 'May the man be cursed who does not confirm the words of this law, that he will obey them.' And all the people must say, 'Amen.'
 </usfm>
 
 
@@ -37,7 +37,7 @@
 
   * **General Information:** - Moses continues telling the Levites and the people what they must say.
 
-  * **May the man be cursed** - This may be stated in active form. See how you translated this in [[:en:bible:notes:deu:27:16|27:16]]. AT: "May Yahweh curse the man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **May the man be cursed** - This may be stated in active form. AT: "May Yahweh curse the man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -52,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

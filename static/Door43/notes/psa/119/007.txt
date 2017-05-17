@@ -33,6 +33,7 @@
 \q
 \v 8 I will observe your statutes;
 \q do not leave me alone.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -42,10 +43,9 @@
   * [[:en:obe:other:decree]]
 ===== translationNotes: =====
 
+
   * **an upright heart** - "a sincere heart." A person who is sincere will do what is right. The heart refers to the center of emotions in a person.  See how you translated "uprightness" in [[:en:bible:notes:psa:025:020|25:21]]. (See: [[:en:ta:vol1:translate:figs_idiom]] and (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **your statutes** - "Statutes" refers to God's laws or commands.
-
-
+  * **your statutes** - "Statutes" are a kind of law or command.
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:005|<<]] | [[:en:bible:notes:psa:119:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5 }}
 
 ~~NOCACHE~~

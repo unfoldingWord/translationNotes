@@ -29,9 +29,9 @@
 
 <usfm>
 \p
-\v 16 Now, no one, when he has lit a lamp, covers it with a bowl or puts it under a bed. Rather, he puts it on a lampstand, so that everyone who enters may see the light.
-\v 17 For nothing is hidden that will not be made known, nor is anything secret that will not be known and come into the light.
-\v 18 So listen carefully, for to the one who has, more will be given to him, but the one who does not have, even what he thinks he has will be taken away from him."
+\v 16 Now, no one, when he has lighted a lamp, covers it with a bowl or puts it under a bed. Rather, he puts it on a lampstand, so that everyone who enters may see the light.
+\v 17 For nothing is hidden, that will not be made known, nor anything secret, that will not be known and come into the light.
+\v 18 So be careful how you listen, because whoever has, to him will be given more, and whoever has not, from him will be taken away even what he thinks he has."
 </usfm>
 
 
@@ -46,10 +46,11 @@
   * **Connecting Statement:** - Jesus continues with another parable then he finishes speaking to his disciples as he emphasizes the role of his family in his work.
 
   * **Now, no one** - This marks the beginning of another parable. (See: [[:en:ta:vol1:translate:figs_parables]])
-  * **nothing is hidden that will not be made known** - This double-negative can be written as a positive statement. AT: "everything that is hidden will be made known" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **nor is anything secret that will not be known and come into the light** - This double-negative can be written as a positive statement. AT: "and everything that is secret will be made known and will come into the light" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **to the one who has, more will be given to him** - It is clear from the context that Jesus is talking about understanding and believing. This can be stated clearly and changed to active form. AT: "whoever has understanding will be given more understanding" or "God will enable those who believe the truth to understand even more"  (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the one who does not have ... will be taken away from him** - It is clear from the context that Jesus is talking about understanding and believing. This can be stated clearly and changed to active form. AT: "But whoever does not have understanding will lose even what understanding he thinks he has" or "But God will cause those who do not believe the truth not to understand even the little that they think they have understood" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **nothing is hidden, that will not be made known** - This double-negative can be written as a positive statement. AT: "everything that is hidden will be made known" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **nor anything secret, that will not be known and come into the light** - This double-negative can be written as a positive statement. AT: "and everything that is secret will be made known and will come into the light" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **how you listen** - "listen" here has the meaning of "obey." This can be stated clearly. AT: "that you do what I tell you" or "that you obey God's word" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **whoever has ... what he thinks he has** - It is clear from the context that Jesus is talking about understanding. This can be stated, and also changed to active form. AT: "whoever has understanding" or "God will enable those who believe his truth to understand even more. But God will cause those who do not believe his truth to not understand even the little that they think they have understood" (UDB) (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:luk:00:intro]]

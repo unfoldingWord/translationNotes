@@ -27,7 +27,7 @@
 <usfm>
 \v 10 Now Ahab the king of Israel and Jehoshaphat the king of Judah were sitting each on a throne, clothed in their robes, in an open place at the entrance of the gate of Samaria, and all the prophets were prophesying before them.
 \v 11 Zedekiah son of Kenaanah made himself horns of iron and said, "Yahweh says this: 'With these you will push the Arameans until they are consumed.'"
-\v 12 Then all the prophets prophesied the same, saying, "Attack Ramoth Gilead and win, for Yahweh has given it into the hand of the king."
+\v 12 And all the prophets prophesied the same, saying, "Attack Ramoth Gilead and win, for Yahweh has given it into the hand of the king."
 </usfm>
 
 ===== translationWords: =====
@@ -47,10 +47,10 @@
 
 ===== translationNotes: =====
 
-  * **made himself horns of iron** - "made iron horns for himself"
-  * **With these you will push the Arameans until they are consumed** - The prophet's actions are a symbolic metaphor that illustrates the way that Ahab would defeat the Arameans. Ahab's army will win with great strength, as a bull attacks another animal. (See: [[:en:ta:vol2:translate:translate_symaction]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **until they are consumed** - Destroying an enemy army is spoken of as if it were consuming them. This can be stated in active form. AT: "until you consume them" or "until you destroy them" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **given it into the hand of the king** - Here the word "hand" refers to power. AT: "allowed the king to capture it" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **made himself horns** - "made horns for himself"
+  * **With these you will push the Arameans until they are consumed** - The prophet says that Ahab's army will win with great strength, as a bull attacks another animal. "Consume" is here a metaphor for "destroy." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **until they are consumed** - This can be stated in active form. AT: "until you consume them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **given it into the hand of the king** - AT: "allowed the king to capture it" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -59,6 +59,6 @@
   * [[:en:bible:questions:comprehension:1ki:22]]
 **[[:en:bible:notes:1ki:22:07|<<]] | [[:en:bible:notes:1ki:22:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

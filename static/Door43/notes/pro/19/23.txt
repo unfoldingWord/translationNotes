@@ -19,11 +19,13 @@
 
 <usfm>
 \v 23 Anyone who has respect for Yahweh will live a long life;
-\q2 such a person who has this respect for Yahweh will be satisfied,
-\q2 and will come to no harm.
+\q2 such a person who has this respect for Yahweh will be satisfied, 
+\q2 and will come to no harm. 
+
 \q1
 \v 24 The lazy person puts his hand in the dish;
-\q2 he is not able to raise his hand up to his mouth to eat.
+\q2 he is not able to raise his hand up to his mouth to eat. 
+
 
 \q1
 </usfm>
@@ -34,7 +36,7 @@
 <usfm>
 \q
 \v 23 Honor for Yahweh leads people to life;
-\q anyone who has it will be satisfied
+\q anyone who has it will be satisfied 
 \q and not afflicted by harm.
 \q
 \v 24 The sluggard buries his hand in the dish;
@@ -51,12 +53,8 @@
 
 ===== translationNotes: =====
 
-  * **Honor for Yahweh leads people to life; anyone who has it will be satisfied** - This means that they will live a long time if they honor Yahweh. The full meaning of this statement can be made clear. AT: "Those who honor Yahweh will live a long time; anyone who honors Yahweh will be satisfied" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **anyone who has it** - Here the word "it" refers to "honor for Yahweh."
-  * **satisfied and not afflicted by harm** - This can be stated in active form. AT: "satisfied; nothing will harm him" or "satisfied; he will be safe" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **sluggard** - Translate this word the same as you did in [[:en:bible:notes:pro:10:26|10:26]].
-  * **buries his hand in the dish** - "dips his hand in the dish" or "puts his hand in his plate." In the Biblical culture people usually ate with their hands as people do in many cultures today. 
-  * **he will not even bring it back up to his mouth** - He does not bring his hand back to his mouth because he is too lazy. AT: "but he is too lazy to bring his hand up to his mouth to feed himself" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Honor** - Honor for Yahweh involves obeying him and living in a way that shows how great he is.
+  * **satisfied and not afflicted by harm** - AT: "satisfied; nothing will harm him" or "satisfied; he will be safe" (See: [[:en:ta:vol2:translate:figs_litotes]] and [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -64,6 +62,6 @@
   * [[:en:bible:questions:comprehension:pro:19]]
 **[[:en:bible:notes:pro:19:21|<<]] | [[:en:bible:notes:pro:19:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

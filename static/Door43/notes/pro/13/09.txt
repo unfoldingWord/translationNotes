@@ -33,10 +33,10 @@
 
 <usfm>
 \q
-\v 9 The light of righteous people rejoices,
-\q but the lamp of wicked people will be put out.
+\v 9 The light of one who does right rejoices, 
+\q but the lamp of the wicked will be put out.
 \q
-\v 10 Pride only breeds conflict,
+\v 10 Pride only breeds conflict, 
 \q but for those who listen to good advice there is wisdom.
 </usfm>
 
@@ -53,11 +53,12 @@
 ===== translationNotes: =====
 
 
-  * **The light of righteous people rejoices** - The light stands for the influence of righteous people and is described as experiencing the human emotion of joy. This can also be expressed as a simile as it is by the UDB. AT: "The influence of righteous people produces joy" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_personification]])
-  * **the lamp of wicked people will be put out** - The lamp of wicked people stands for the influence of those wicked people. The lamp being put out means their influence will stop. AT: "wicked people will lose their influence" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The light ... rejoices** - The light stands for the righteous person himself and is described as experiencing the human emotion of joy. This can also be expressed as a simile, as the UDB does. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **the lamp of the wicked will be put out** - The lamp of the wicked stands for the wicked person himself. The lamp being put out means that something bad will happen to him. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Pride only breeds conflict** - "Pride always causes conflict"
+  * **Pride** - "arrogance" or "self-importance"
   * **listen to** - "heed" or "follow"
-  * **good advice** - suggestions that are helpful and profitable
+  * **good advice** - suggestions that are helpful, profitable
 
  
 ===== Links: =====
@@ -73,6 +74,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

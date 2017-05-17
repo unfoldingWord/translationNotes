@@ -11,15 +11,15 @@
 
 <usfm>
 \v 24 Then he brought me through the south gateway into the inner courtyard, and he measured the entrance. It measured the same as the other gateways. Its alcoves, its walls between the alcoves, and its entry room measured the same as the ones on the other sides.
-\v 25 The gateway and its portico had narrow windows along the walls, as on the other sides. The gateway and its portico measured twenty-five meters long and thirteen and one-half wide.
+\v 25 The gateway and its portico had narrow windows along the walls, as on the other sides. The gateway and its portico measured about twenty-five meters long and about 13.5 meters wide.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
 \p
-\v 24 Next the man brought me to the gate of the southern entrance, and its walls and portico measured the same as the other outer gates.
-\v 25 There were closed windows in the gateway and its portico just as at that gate. The south gate and its portico measured fifty cubits in length and twenty-five cubits in width.
+\v 24 Next the man brought me to the gate of the southern entrance, and its walls and portico measured the same as the other outer gate.
+\v 25 There were narrow windows in the gateway and its portico just as at that gate. The south gate and its portico measured fifty cubits in length and twenty-five cubits in width.
 </usfm>
 
 ===== translationWords: =====
@@ -28,12 +28,10 @@
 
 ===== translationNotes: =====
 
-  * **measured the same as the other outer gates** - "had the same measurements as the northern and eastern gates"
-  * **cubits** - Translate these "long" cubits as in [[:en:bible:notes:ezk:40:05|40:05]].
-  * **fifty cubits** - about twenty-seven meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **twenty-five cubits** - about 13.5 meters
-
-
+  * **as the other outer gate** - AT: "as those of the northern and eastern gates"
+  * **cubits** - See how you translated these "long" cubits in [[:en:bible:notes:ezk:40:05|40:05]].
+  * **fifty cubits** - About twenty-seven meters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **twenty-five cubits** - About 13.5 meters.
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -41,6 +39,6 @@
   * [[:en:bible:questions:comprehension:ezk:40]]
 **[[:en:bible:notes:ezk:40:22|<<]] | [[:en:bible:notes:ezk:40:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

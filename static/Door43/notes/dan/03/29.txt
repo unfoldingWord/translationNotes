@@ -38,10 +38,9 @@
 ===== translationNotes: =====
 
   * **any people, nation, or language ... must be torn apart, and that their houses must be made into rubbish heaps** - This can be stated in active form. AT: "my servants will tear apart any people, nation, or language ... and make their houses into piles of garbage" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **any people, nation, and language that speaks** - Here "nations" and "language" represent people from different nations who speak different languages. See how you translated a similar phrase in [[:en:bible:notes:dan:03:03|3:4]]. AT: "any people from any nation, or those who speak any language that says" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **speaks anything against the God** - "speaks words that do not respect the God" 
-  * **must be torn apart** - "must have their bodies torn apart"
-  * **there is no other god who is able to save like this** - This can be stated in positive form. AT: "only their God is able to save like this"
+  * **must be torn apart** - "must have their bodies torn apart" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -49,6 +48,6 @@
   * [[:en:bible:questions:comprehension:dan:03]]
 **[[:en:bible:notes:dan:03:28|<<]] | [[:en:bible:notes:dan:04:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,8 +20,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 57 May Yahweh our God be with us, as he was with our ancestors. May he never leave us or forsake us,
-\v 58 that he may incline our hearts to him, to live in all his ways and keep his commandments and his regulations and his statutes, which he commanded our fathers.
+\v 57 May Yahweh our God be with us, as he was with our ancestors. May he never leave us or forsake us, 
+\v 58 that he may incline our hearts to him, to live in all his ways and keep his commandments and his regulations and his statues, which he commanded our fathers.
 </usfm>
 
 
@@ -38,9 +38,9 @@
 
 ===== translationNotes: =====
 
-  * **leave us or forsake us** - These two phrases mean basically the same thing and emphasize Solomon's desire for Yahweh to be present with the people. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **incline our hearts to him** - Desiring to please someone is spoken of as inclining the heart toward that person. AT: "make us want to please him" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **live in all his ways** - Here "in his ways" is an idiom that refers to the way he wants people to live. AT: "live as he requires us to live" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **leave us or forsake us** - The two phrases mean basically the same thing and emphasize the desire for Yahweh to be present with the people. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **incline our hearts to him** - AT: "make us devoted to him" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **live in all his ways** - AT: "live as he requires us to live" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:08]]
 **[[:en:bible:notes:1ki:08:54|<<]] | [[:en:bible:notes:1ki:08:59|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass decree}}
+~~DISCUSSION~~{{tag>publish p2edit decree}}
 
 ~~NOCACHE~~

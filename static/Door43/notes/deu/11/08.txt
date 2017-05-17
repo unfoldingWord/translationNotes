@@ -21,7 +21,7 @@
 
 <usfm>
 \p
-\v 8 Therefore keep all the commandments that I am commanding you today, that you may be strong, and go in and possess the land where you are going over to possess it,
+\v 8 Therefore keep all the commandments that I am commanding you today, that you may be strong, and go in and possess the land, where you go over to possess it;
 \v 9 and that you may prolong your days in the land that Yahweh swore to your fathers to give to them and to their descendants, a land flowing with milk and honey.
 </usfm>
 
@@ -41,9 +41,9 @@
   * **General Information:** - Moses continues speaking to the people of Israel.
 
   * **possess the land** - "take the land"
-  * **where you are going over to possess it** - The phrase "are going over" is used because the people of Israel will have to cross the Jordan River to enter into Canaan.
-  * **prolong your days** - Long days are a metaphor for a long life. Translate these words as they are in [[:en:bible:notes:deu:04:25|4:26]]. AT: "be able to live a long time" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a land flowing with milk and honey** - This is an idiom. See how you translated this in [[:en:bible:notes:deu:06:03|6:3]]. AT: "a land where plenty of milk and honey flow" or "a land that is excellent for cattle and farming" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **where you go over to possess it** - The phrase "go over" is used because the people of Israel will have to cross the Jordan river to enter into Canaan.
+  * **prolong your days** - Long days are a metaphor for a long life. AT: "be able to live a long time" Translate these words as they are in [[:en:bible:notes:deu:04:25|4:26]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **a land flowing with milk and honey** - This is an idiom. AT: "a land where plenty of milk and honey flow" or "a land that is excellent for cattle and farming" See how you translated this in [[:en:bible:notes:deu:06:03|6:3]].
 
 ===== Links: =====
 
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:deu:11]]
 **[[:en:bible:notes:deu:11:06|<<]] | [[:en:bible:notes:deu:11:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

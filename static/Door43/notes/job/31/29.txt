@@ -30,7 +30,7 @@
 <usfm>
 \q
 \v 29 If I have rejoiced at the destruction of anyone who hated me
-\q or congratulated myself when disaster overtook him,
+\q or congratulated myself when disaster overtook him, 
 \q then bring charges against me!
 \q
 \v 30 Indeed, I have not even allowed my mouth to sin
@@ -49,11 +49,8 @@
 
   * **General Information:** - Job continues describing situations in which he would deserve God's punishment, but he knows they are not true. (See: [[:en:ta:vol1:translate:figs_hypo]])
 
+  * **Indeed, I have not allowed my mouth to sin by asking for his life with a curse** - Job is describing how he truly treated those who hated him. AT: "Actually, I did not let myself sin by cursing his life" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
-  * **at the destruction of anyone who hated me** - The abstract noun "destruction" can be translated with the verb "destroy." AT: "when anyone who hated me was destroyed" or "when bad things happened to anyone who hated me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **when disaster overtook him** - "when he experienced disasters" 
-  * **Indeed, I have not even allowed my mouth to sin** - Here "my mouth" represents Job speaking. AT: "Truly I did not let myself sin" or "Truly, I did not sin" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **by asking for his life with a curse** - Here "asking for his life with a curse" represents cursing someone's life so that he will die. AT: "by cursing him so that he would die" or "by cursing his life" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -61,6 +58,6 @@
   * [[:en:bible:questions:comprehension:job:31]]
 **[[:en:bible:notes:job:31:26|<<]] | [[:en:bible:notes:job:31:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -21,7 +21,7 @@
 \v 13 An evil person is trapped by the wicked things he says,
 \q2 but those who do right stay away from much trouble.
 \q1
-\v 14 The good words spoken by a person fill his life with good things,
+\v 14 The good words spoken by a person fill his life with good things, 
 \q2 just as his hard work brings him a reward.
 
 
@@ -34,7 +34,7 @@
 <usfm>
 \q
 \v 13 An evil person is trapped by his wicked talk,
-\q but the righteous person escapes from trouble.
+\q but those who do right escape from trouble.
 \q
 \v 14 From the fruit of his words a person is filled with good things,
 \q just as the work of his hands rewards him.
@@ -53,8 +53,8 @@
 ===== translationNotes: =====
 
 
-  * **An evil person is trapped by his wicked talk** - "Trapped" represents being caught in a snare or being tricked. This can be stated in active form. AT: "The wicked things an evil person says will trap him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **just as the work of his hands rewards him** - The phrase, "the work of his hands" represents work done by physical labor. AT: "just as the good work he does rewards him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **An evil person is trapped by his wicked talk** - "The wicked things an evil person says will trap him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **just as the work of his hands rewards him** - "just as the good work he does rewards him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
  
 ===== Links: =====
@@ -69,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

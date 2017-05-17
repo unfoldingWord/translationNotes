@@ -24,13 +24,14 @@
 <usfm>
 \v 12 I will destroy all of Israel's grapevines and fig trees.
 \q2 This is because Israel is like a woman who says, 'These were the things that my lovers gave me in payment.'
-\q1 I, Yahweh, will turn those places into a forest, a thicket in which no vines can grow,
-\q2 and where wild animals will devour any fruit that grows there.'
+\q1 I, Yahweh, will turn those places into a forest, a thicket in which no vines can grow, 
+\q2 and where wild animals will devour any fruit that grows there.' 
 \q1
 \v 13 I will punish this woman named Israel for all the times that she burned incense to worship the Baal idols.
 \q1 She decorated herself with rings and jewelry, as a prostitute would adorn herself for her lovers.
 \q2 She used to follow her lovers—like Israel has gone after the Baals—those false gods that she worshiped.
 \q2 And she forgot about me." This is what Yahweh says.
+\b
 
 
 \q1
@@ -70,7 +71,7 @@
 
   * **General Information:** - Yahweh is speaking to Hosea about what he will do to Israel.
 
-  * **These are the wages that my lovers gave me** - This refers to payment that Israel received from the false gods or Baals. This direct quotation can be stated as an indirect quotation. AT: "that these were the wages that her lovers had given to her" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **wages that my lovers gave me** - This refers to payment that Israel received from the false gods or Baals. (See: [[:en:ta:vol2:translate:figs_quotations]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **make them a forest** - Yahweh will destroy the vineyards and fruit trees by allowing other trees and weeds to grow among them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **declaration of Yahweh** - "what Yahweh has declared" or "what Yahweh has solemnly said"
 
@@ -81,6 +82,6 @@
   * [[:en:bible:questions:comprehension:hos:02]]
 **[[:en:bible:notes:hos:02:10|<<]] | [[:en:bible:notes:hos:02:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

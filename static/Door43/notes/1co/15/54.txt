@@ -19,6 +19,7 @@
 \q1
 \v 55 "Death will never win again!
 \q The pain of dying has been taken away!"
+\m
 
 
 \p
@@ -28,10 +29,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 54 But when this perishable body has put on what is imperishable, and when this mortal body has put on immortality, then will come about the saying that is written,
+\v 54 But when this perishable body has put on what is imperishable, and when this mortal body has put on immortality, then will come about the saying that is written, 
 \q "Death is swallowed up in victory."
-\q1
-\v 55 "Death, where is your victory?
+\q1 
+\v 55 "Death, where is your victory? 
 \q Death, where is your sting?"
 \m
 </usfm>

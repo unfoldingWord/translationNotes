@@ -30,7 +30,7 @@
 \q1
 \v 21 Instead, they gave me food that tasted like poison,
 \q2 and when I was thirsty, they gave me sour wine to drink.
-
+\b
 
 
 \q1
@@ -62,7 +62,7 @@
   * **broken my heart** - This idiom means a person is extremely sad. AT: "offended me deeply" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **I am full of heaviness** - The writer's great sadness is spoken of as if he was full of a heavy weight. AT: "I am heavy with sorrow" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **to take pity** - to feel sorrow or sadness
-  * **They gave me poison for my food** - This is probably figurative. The   food that people gave to the writer was so bad that it tasted like poison. AT: "They gave me food that tasted like poison" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **They gave me poison for my food** - This is probably figurative. The   food that people gave to the writer was so bad that it tasted like poison. AT: "they gave me food that tasted like poison" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -73,6 +73,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book2}}
+{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

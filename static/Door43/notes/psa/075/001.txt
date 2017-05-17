@@ -28,6 +28,7 @@
 \q2 our God, we thank you.
 \q1 You are close to us,
 \q2 and we proclaim to others the wonderful things that you have done for us.
+\b
 \q1
 \v 2 You have said, "I have appointed a time when I will judge people,
 \q2 and I will judge everyone fairly.
@@ -46,8 +47,9 @@
 
 <usfm>
 \c 75
-\m
+\p
 \d For the chief musician; set to Al Tashheth. A psalm of Asaph, a song.
+\b
 \q
 \v 1 We give thanks to you, God;
 \q we give thanks, for you reveal your presence;
@@ -56,7 +58,7 @@
 \v 2 At the appointed time I will judge fairly.
 \q
 \v 3 Though the earth and all the inhabitants shake in fear,
-\q I make steady the earth's pillars.
+\q I make steady the earth's pillars. 
 \qs Selah\qs*
 </usfm>
 
@@ -76,10 +78,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **General Information:** - The people of God are speaking in 75:1, and God speaks in 75:2-3.
+  * **General Information:** - The people of God are speaking in 57:1, and God speaks in 57:2-3. See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
-  * **For the chief musician** - "This is for the director of music to use in worship"
+  * **For the chief musician** - "This is for the director of music to use in worship;"
   * **set to Al Tashheth** - This may refer to a style of music. See how you translated this in [[:en:bible:notes:psa:057:001|57:1]].
   * **A psalm of Asaph** - "This is a psalm that Asaph wrote." See how this is translated in [[:en:bible:notes:psa:053:001|Psalm 53]].
   * **all the inhabitants** - "all the people who live on it"
@@ -93,6 +94,6 @@
   * [[:en:bible:questions:comprehension:psa:075]]
 **[[:en:bible:notes:psa:074:022|<<]] | [[:en:bible:notes:psa:075:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

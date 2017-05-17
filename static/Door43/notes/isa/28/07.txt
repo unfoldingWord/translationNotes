@@ -20,8 +20,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 But now, our leaders stagger,
-\q1 and the priests and prophets also stagger
+\v 7 But now, our leaders stagger
+\q2 because they have drunk a lot of wine and other alcoholic drinks.
+\q1 The priests and prophets also stagger
 \q2 because of drinking a lot of wine and other alcoholic drinks.
 \q1 They are not able to think right;
 \q2 they see visions, but they cannot understand what they mean;
@@ -29,6 +30,7 @@
 \q1
 \v 8 All their tables are covered with their vomit;
 \q2 filth is everywhere.
+\b
 
 
 \q1
@@ -37,10 +39,10 @@
 ===== ULB: =====
 
 <usfm>
-\m
+\p
 \q1
-\v 7 But even these reel with wine, and stagger with strong drink.
-\q1 The priest and the prophet reel with strong drink, and they are swallowed up by wine.
+\v 7 But even these reel with wine, and stagger with strong drink. 
+\q1 The priest and the prophet reel with strong drink, and they are swallowed up by wine. 
 \q1 They stagger with strong drink, staggering in vision and reeling in decision.
 \q1
 \v 8 Truly, all tables are covered with vomit, so that there is no clean place.
@@ -56,11 +58,10 @@
 
 ===== translationNotes: =====
 
-  * **But even these** - "But even the leaders"
-  * **The priest and the prophet** - This does not mean a specific priest or prophet. It refers to priests and prophets in general. AT: "The priests and the prophets" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
-  * **reel with wine, and stagger with strong drink** - These two phrases mean basically the same thing and emphasize that the priests and the prophets cannot do their job because they are very drunk. AT: "stumble around because they are drunk" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **they are swallowed up by wine** - Their drinking so much that they can no longer think properly is spoken of as if the wine swallowed them. This can be stated in active form. AT: "the wine is causing them to be confused" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **staggering in vision and reeling in decision** - Just like they are too drunk to walk correctly, they are too drunk to understand the visions God gives them or to make good decisions. 
+  * **But even these** - "But even the priests and prophets"
+  * **reel with wine, and stagger with strong drink** - These two phrases mean basically the same thing and emphasize that the leaders cannot or will not do their jobs. AT: "stumble about as if they are drunk" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they are swallowed up by wine** - This can be stated in active form. AT: "they think they are swallowing the wine but it is like the wine is swallowing them" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **staggering in vision and reeling in decision** - "they see visions, but they cannot understand what they mean" (UDB)
 
 ===== Links: =====
 
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:28]]
 **[[:en:bible:notes:isa:28:05|<<]] | [[:en:bible:notes:isa:28:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

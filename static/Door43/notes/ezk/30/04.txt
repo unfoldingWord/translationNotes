@@ -32,7 +32,7 @@
 
 <usfm>
 \q
-\v 4 Then a sword will come against Egypt, and there will be anguish in Cush when the killed people fall in Egypt—
+\v 4 Then a sword will come against Egypt, and there will be anguish in Cush when the killed people fall in Egypt— 
 \q when they take her wealth, and when her foundations are ruined.
 \p
 \v 5 Cush, Libya, and Lydia, and all the foreigners, together with the people belonging to the covenant—they will all fall by the sword.
@@ -51,17 +51,15 @@
 
   * **General Information:** - These are Yahweh's words about Egypt.
 
-  * **Then a sword will come against Egypt** - The word "sword" here represents war or an army that attacks. AT: "There will be war against Egypt" or "An enemy army will attack Egypt" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **there will be anguish in Cush** - The abstract noun "anguish" can be expressed in terms of how the people feel. AT: "the people of Cush will be very sad" or "the people of Cush will suffer"
-  * **when the killed people fall in Egypt** - Possible meanings are that 1) "fall" is a metonym for dying. AT: "when people in Egypt are killed" or 2) "fall" refers to their bodies falling and lying on the ground. AT: "when people in Egypt are killed and lie fallen" 
-  * **when they take her wealth** - "when the attackers take away the wealth of Egypt"
-  * **when her foundations are ruined** - This can be translated in active form. AT: "when the attackers destroy the foundations of the buildings in Egypt" (See: [[:en:ta:vol2:translate:figs_activepassive]])\
-  * **Cush, Libya, and Lydia** - These names refer to the people of these countries. AT: "The people of Cush, Libya, and Lydia" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Libya** - Libya is a country west of Egypt. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Lydia** - This probably refers to the kingdom of Lydia which was in what is now Turkey. 
-  * **the people belonging to the covenant** - Possible meanings are 1) the "covenant" refers to the agreement that  Yahweh made with the Israelites. AT: "the Jews who live in Egypt" or 2) the "covenant" refers to an agreement that Egypt made with other nations. AT: "the people of the nations that had a covenant with Egypt" or "Egypt's allies"
-  * **will all fall by the sword** - Here the sword represents battle. AT: "will all die in battle" or "will all die in the war." This does not mean that every single person will die, but that many people from all of these countries will die.
-  * **will all fall by the sword** - The word "all" here is a generalization. It means that many people will die. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **Then a sword will come against Egypt** - The word "sword" here refers to war or an attack. Alternate translations: "There will be war against Egypt" or "An enemy army will attack Egypt." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **there will be anguish in Cush** - "Cush will be very sad" or "the people of Cush will be full of grief"
+  * **when the killed people fall in Egypt** - "when many people in Egypt are killed" or "when many people in Egypt die in the war."
+  * **when they take her wealth** - "The attackers will take away the wealth of Egypt"
+  * **when her foundations are ruined** - "The attackers will even ruin the foundations of the buildings in Egypt" 
+  * **Libya** - Libya is a country west of Egypt. Ezekiel called this region Put. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Lydia** - This probably refers to the kingdom of Lydia which was in what is now Turkey. Ezekiel called this region Lud. 
+  * **the people belonging to the covenant** - Possible meanings are 1) "the Jews who live in Egypt" or 2) "the other people in the lands of Egypt's allies." It is unclear whether "the covenant" refers to the agreement that Yahweh made with the Israelites or to an agreement that Egypt made with other people groups.
+  * **will all fall by the sword** - "will all die in battle" or "will all die in the war." This does not mean that every single person will die, but that many people from all of these countries will die.
  
 ===== Links: =====
 
@@ -70,6 +68,6 @@
   * [[:en:bible:questions:comprehension:ezk:30]]
 **[[:en:bible:notes:ezk:30:01|<<]] | [[:en:bible:notes:ezk:30:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

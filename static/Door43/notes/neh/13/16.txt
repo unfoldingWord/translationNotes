@@ -27,8 +27,8 @@
 
 <usfm>
 \v 16 Men from Tyre living in Jerusalem brought in fish and all kinds of goods, and they sold them on the Sabbath to the people of Judah and in the city!
-\v 17 Then I confronted the leaders of Judah, "What is this evil thing you are doing, profaning the Sabbath day?
-\v 18 Did not your fathers do this? Did not our God bring all this evil on us and on this city? Now you are bringing more wrath on Israel by profaning the Sabbath."
+\v 17 Then I confronted the leaders of Judah, "What is this evil thing you are doing, profaning the Sabbath day? 
+\v 18 Did not your fathers do this? And did not our God bring all this evil on us and on this city? Now you are bringing more wrath on Israel by profaning the Sabbath."
 </usfm>
 
 
@@ -47,9 +47,10 @@
   * [[:en:obe:other:israel]]
 ===== translationNotes: =====
 
-  * **Tyre** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **What is this evil thing you are doing, profaning the Sabbath day?** - Nehemiah is using a rhetorical question to scold the leaders of Judah. This can be translated as a statement. AT: "You are doing an evil thing by profaning the Sabbath day." or "God will punish you for doing this evil thing, for profaning the Sabbath day." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Did not your fathers do this? Did not our God bring all this evil on us and on this city?** - Nehemiah is using these rhetorical questions to scold the leaders of Judah. These questions can be combined and translated as a statement. AT: "You know that your fathers did this, and that is why God brought all this evil on us and on this city." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Men from Tyre** - Tyre was a city north of Israel. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **this evil thing** - "this thing against God's law"
+  * **profaning the Sabbath day** - "violating the Sabbath day" 
+  * **did not our God bring all this evil** - "did not our God bring all this punishment" 
  
  
 ===== Links: =====
@@ -65,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

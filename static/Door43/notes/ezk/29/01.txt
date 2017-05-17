@@ -18,11 +18,11 @@
 <usfm>
 \v 1 Almost ten years after the Babylonians had taken us Israelites to their land, on the twelfth day of the tenth month of that year, Yahweh gave me another message. He said to me,
 \v 2 "Son of man, turn toward Egypt and proclaim the terrible things that will happen to the king of Egypt and all his people.
-\v 3 Give the king this message from me, for I am Yahweh the Lord:
-\q1 'Know this, Pharaoh, king of Egypt that I, Yahweh, am your enemy.
-\q2 You are like a great monster that lies in the streams of the Nile River.
-\q1 You are so bold to say that the Nile River is yours,
-\q2 and that you made it for yourself.
+\v 3 Give the king this message from me, Yahweh the Lord:
+\q1 'Know this, Pharaoh, king of Egypt: I, Yahweh, am your enemy;
+\q2 you are like a great monster that lies in the streams of the Nile River.
+\q1 You say that the Nile River is yours,
+\q2 that you made it for yourself.
 
 
 \q1
@@ -37,7 +37,7 @@
 \v 2 "Son of man, set your face against Pharaoh, the king of Egypt; prophesy against him and against all of Egypt.
 \v 3 Declare and say, 'The Lord Yahweh says this:
 \q Behold! I am against you, Pharaoh, king of Egypt.
-\q You, the great sea monster that lurks in the midst of the river,
+\q You, the great sea creature that lurks in the midst of the river,
 \q that says, "My river is my own. I have made it for myself."
 </usfm>
 
@@ -48,21 +48,18 @@
   * [[:en:obe:other:pharaoh]]
   * [[:en:obe:other:king]]
   * [[:en:obe:other:egypt]]
-  * [[:en:obe:kt:prophet]]
   * [[:en:obe:other:declare]]
   * [[:en:obe:kt:lordyahweh]]
+  * [[:en:obe:other:creature]]
   * [[:en:obe:other:nileriver]]
 
 ===== translationNotes: =====
 
-  * **In the tenth year** - It can be stated clearly that this was the tenth year of Jehoiachin's exile. AT: "In the tenth year of the exile of King Jehoiachin" (See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **In the tenth year** - AT: "In the tenth year of the exile of King Jehoiachin" (See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **in the tenth month on the twelfth day of the month** - "on the twelfth day of the tenth month." This is the tenth month of the Hebrew calendar. The twelfth day is near the beginning of January on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Son of man** - "Son of a human being" or "Son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. Translate this as in [[:en:bible:notes:ezk:02:01|2:1]]. AT: "Mortal person" or "Human"
-  * **set your face against Pharaoh** - This is a command to stare at Pharaoh as a symbol of punishing him and his people. AT: "stare at Pharaoh" or "stare at Pharaoh so that he and his people will be harmed" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **set your face against Pharaoh** - Pharaoh was far away, so Ezekiel could not see  him, but staring in his direction would be a symbol of harming him and his people. See how you translated a similar phrase in [[:en:bible:notes:ezk:06:01|6:2]]. AT: "turn toward Pharaoh and stare" or "stare toward Pharaoh so that he and his people will be harmed" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **prophesy against him and against all of Egypt!** - "tell the terrible things that will happen to him and everyone in Egypt!"
-  * **the great sea monster** - "the huge creature that lives in the water." Yahweh calls Pharaoh a monster that lives in the water. The monster is probably a crocodile. (See: [[:en:ta:vol2:translate:writing_symlanguage]])
+  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the great sea creature** - "the huge monster that lives in the water." Yahweh begins to compare Pharaoh with a monster that lives in the water. The monster is probably a crocodile. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -70,6 +67,6 @@
   * [[:en:bible:questions:comprehension:ezk:29]]
 **[[:en:bible:notes:ezk:28:25|<<]] | [[:en:bible:notes:ezk:29:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

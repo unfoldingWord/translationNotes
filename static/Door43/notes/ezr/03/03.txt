@@ -15,7 +15,7 @@
 <usfm>
 \v 3 Even though they were afraid of the people who were already living in that area, they rebuilt the altar at the same place where the previous altar had been. They began to offer sacrifices
 every morning and every eventing.
-\v 4 Fifteen days after they started to offer these sacrifices, the people celebrated the Festival of Shelters, as Moses had commanded them to do in the decrees that God had given to him.
+\v 4 Fifteen days after they started to offer these sacrifices, the people celebrated the Festival of Shelters, as Moses had commanded them to do in the decrees that God had given to him. 
 Each day the priests offered the sacrifices that were required for that day.
 \v 5 In addition, they presented the regular burned offerings and the offerings that were required for the New Moon festivals and the other festivals that they celebrated as special times each year to honor Yahweh. They also brought other offerings only because they desired to bring them, not because they were required to bring them.
 
@@ -28,7 +28,7 @@ Each day the priests offered the sacrifices that were required for that day.
 
 <usfm>
 \v 3 Then they established the altar on its stand, for dread was on them because of the people of the land. They offered burnt offerings to Yahweh at dawn and evening.
-\v 4 They also observed the Festival of Shelters as it is written and offered burnt offerings day by day according to the decree, each day's duty on its day.
+\v 4 They also observed the Festival of Shelters as it is written and offered burnt offerings day by day according to the decree, each's day's duty on its day.
 \v 5 Accordingly, there were daily burnt offerings and monthly ones and offerings for all the fixed feasts of Yahweh, along with all the freewill offerings.
 </usfm>
 
@@ -44,11 +44,8 @@ Each day the priests offered the sacrifices that were required for that day.
   * [[:en:obe:other:freewilloffering]]
 ===== translationNotes: =====
 
-  * **established the altar on its stand** - "mounted the altar on its stand" or "placed the altar on its stand so it would stay there"
-  * **dread was on them** - This is an idiom. AT: "they were very afraid" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **because of the people of the land** - You may need to make explicit what it was about the people of the land that made the Jews afraid. AT: "because they thought the people of the land wanted to attack them" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **They offered burnt offerings to Yahweh at dawn and evening** - One of the first things the people did was to begin offering sacrifices. This was before the temple was rebuilt.
-  * **the Festival of Shelters** - This is a festival that was celebrated for eight days during the seventh month of the Hebrew calendar. It was associated with the time of the exodus when the Israelites lived in tents. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **dread was on them** - The people were living in fear of the people currently living in the land. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **They offered burnt offerings to Yahweh at dawn and evening** - One of the first things the people did was to re-institute the temple sacrifices. This was before the temple was rebuilt.
  
 ===== Links: =====
 
@@ -60,6 +57,6 @@ Each day the priests offered the sacrifices that were required for that day.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

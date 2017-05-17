@@ -52,7 +52,7 @@
 
 ===== translationNotes: =====
 
-  * **Then they called out to Yahweh in their trouble** - It is implied that they are praying to Yahweh so that he will help them. See how you translated this in [[:en:bible:notes:psa:107:004|107:6]]. AT: "Then they prayed to Yahweh to help them in their trouble" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Then they called out to Yahweh in their trouble** - It is implied that they are praying to Yahweh so that he will help them. AT: "Then they prayed to Yahweh to help them in their trouble." See how you translated this in [[:en:bible:notes:psa:107:004|107:6]]. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **Then they** - The word "they" refers to the sailors.
   * **He calmed the storm** - "He made the wind stop"
   * **the waves were stilled** - This can be stated in active form. AT: "he made the waves still" (See: [[:en:ta:vol2:translate:figs_activepassive]])
@@ -65,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:107]]
 **[[:en:bible:notes:psa:107:025|<<]] | [[:en:bible:notes:psa:107:031|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

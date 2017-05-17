@@ -19,7 +19,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 Do not be like wicked people who hide and wait to attack the home of those who do what is right.
+\v 15 Do not be like wicked people who hide and wait to attack the home of those who do what is right. 
 \q2 Do not commit a violent attack on the place where the good man rests!
 \q1
 \v 16 Even if good people fall down seven times,
@@ -36,12 +36,13 @@
 
 <usfm>
 \q
-\v 15 Do not lie in wait like the wicked person
-\q who attacks the house of the righteous person.
-\q Do not destroy his home!
+\v 15 Do not lie in wait like wicked people
+\q who attack the house of those who do right. 
+\q Do not destroy his home! 
 \q
-\v 16 For the righteous person falls down seven times and rises again,
-\q but wicked people are brought down by calamity.
+\v 16 For if a man who does right falls down seven times, 
+\q he will rise up again,
+\q but the wicked are overthrown by calamity.
 </usfm>
 
 
@@ -52,14 +53,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **Do not lie in wait** - The words "lie in wait" are an idiom. AT: "Do not hide and wait for the right time." Translate "lie in wait" as in [[:en:bible:notes:pro:01:10|1:11]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **his home** - the home of the righteous person
-  * **rises** - "gets back on his feet" or "stands up"
-  * **wicked people are brought down by calamity** - The writer speaks as if "calamity" were a person who could do bad things to other people. These words can be translated in active form. AT: "God will use calamity to bring down the wicked people" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **are brought down** - This is a metaphor of a person who was standing but someone has brought him down to the ground or made him fall. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **calamity** - times when bad things happen to people and their property
+  * **Do not lie in wait** - See how you translated "lie in wait" in [[:en:bible:notes:pro:01:10|1:11]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **his home** - The home of the righteous
+  * **the wicked are overthrown by calamity** - AT: "the wicked stumble in times of calamity" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -74,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

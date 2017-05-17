@@ -27,7 +27,7 @@
 \c 18
 \p
 \v 1 David counted the soldiers who were with him and appointed captains of thousands and captains of hundreds over them.
-\v 2 Then David sent out the army, one-third under the command of Joab, another third under the command of Abishai son of Zeruiah, Joab's brother, and still another third under the command of Ittai the Gittite. The king said to the army, "I will certainly go out with you myself, too."
+\v 2 Then David sent out the army, one third under the command of Joab, another third under the command of Abishai son of Zeruiah, Joab's brother, and still another third under the command of Ittai the Gittite. The king said to the army, "I will certainly go out with you myself, too."
 </usfm>
 
 
@@ -42,13 +42,10 @@
  
 ===== translationNotes: =====
 
-  * **David counted the soldiers who were with him and appointed** - David did not count all of the people himself, rather other men counted them. AT: "David commanded for the soldiers who were with him to be counted and he appointed" or "David arranged the soldiers who were with him and appointed" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **captains** - A captain is a person who is in authority over a group of soldiers.
-  * **one-third ... another third** - "one-third of the army ... another third of the army." A "third" is one part out of three equal parts. (See: [[:en:ta:vol2:translate:translate_fraction]])
-  * **Abishai ... Zeruiah** - Translate these mens' names the same as you did in [[:en:bible:notes:2sa:02:18|2:18]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Ittai** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:15:19|15:19]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Gittite** - This refers to a person from Gath, which is a Philistine city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **I will certainly go out with you myself, too** - This means that he will go out with them to battle. This can be stated clearly. AT: "I myself will go with you to battle" (UDB) or "I personally will go with you into battle" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **thousands and ... hundreds** - 1,000s and ... 100s (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **captain** - a person who is in authority over a group of soldiers
+  * **Abishai ... Zeruiah ... Ittai** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Gittite** - a person from Gath, a Philistine city (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -63,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

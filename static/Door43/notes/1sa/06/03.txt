@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 The priests and diviners said, "If you send back the ark of the God of Israel, do not send it without a gift; by all means send him a guilt offering. Then you will be healed, and you will know why his hand has not been lifted off of you until now."
+\v 3 The priests and diviners said, "If you send the ark of the God of Israel back, do not send it without a gift; by all means send him a guilt offering. Then you will be healed, and you will know why his hand has not been lifted off of you until now."
 \v 4 Then they said, "What should the guilt offering be that we are returning to him?" They replied, "Five golden tumors and five golden mice, five being the number that is the same as the number of the rulers of the Philistines. For the same plague afflicted you and your rulers.
 </usfm>
 
@@ -47,7 +47,7 @@
   * **you** - The pronoun "you" is plural, referring to all of the Philistines. (See: [[:en:ta:vol1:translate:figs_you]])
   * **why his hand has not been lifted off of you** - Here "hand" is a metonym used to represent God's power to afflict or discipline. AT: "why he has not relieved your suffering" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **tumors** - Possible meanings are 1) painful swelling under the skin or 2) hemorrhoids. Translate as in [[:en:bible:notes:1sa:05:06|5:6]].
-  * **mice** - "more than one mouse" 
+  * **mice** - More than one mouse. Another possible meaning is "rats."
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1sa:06]]
 **[[:en:bible:notes:1sa:06:01|<<]] | [[:en:bible:notes:1sa:06:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass guiltoffering}}
+~~DISCUSSION~~{{tag>publish p2check guiltoffering}}
 
 ~~NOCACHE~~

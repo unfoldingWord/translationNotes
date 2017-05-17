@@ -27,7 +27,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 Then I heard a holy one speaking and another holy one answering him, "How long will these things last, this vision about the burnt offering, the sin that brings destruction, the handing over of the sanctuary, and heaven's army being trampled on?"
+\v 13 Then I heard a holy one speaking and another holy one answering him, "How long will these things last, this vision about the burnt offering, the sin that brings destruction, the handing over of the sanctuary, and heaven's army being trampled on?" 
 \v 14 He said to me, "It will last for 2,300 evenings and mornings. After that the sanctuary will be put right."
 </usfm>
 
@@ -45,8 +45,7 @@
 
   * **holy one** - "angel"
   * **the handing over of the sanctuary** - "the surrender of the sanctuary"
-  * **heaven's army being trampled on** - This can be stated in active form. AT: "the horn trampling on heaven's army" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **2,300 evenings and mornings** - Here "evenings and mornings" is a  merism that refers to everything in between, which means full days. AT: "2,300 sunsets and sunrises" or "2,300 days" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:figs_merism]])
+  * **2,300 evenings and mornings** - AT: "2,300 sunsets and sunrises" or "2,300 days" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:figs_merism]])
   * **the sanctuary will be put right** - "the temple will be purified and set in order again" (UDB)
  
  
@@ -55,11 +54,14 @@
   * [[:en:bible:notes:dan:00:intro]]
   * [[:en:bible:notes:dan:08:00]]
   * [[:en:bible:questions:comprehension:dan:08]]
+
+ 
+
 **[[:en:bible:notes:dan:08:11|<<]] | [[:en:bible:notes:dan:08:15|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

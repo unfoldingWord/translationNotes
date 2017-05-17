@@ -21,7 +21,7 @@
 
 <usfm>
 \p
-\v 7 Yahweh said to Joshua, "This day I will make you a great man in the eyes of all Israel. They will know that as I was with Moses, I will be with you.
+\v 7 Yahweh said to Joshua, "This day I will make you a great man in the eyes of all Israel. They will know that as I was with Moses, I will be with you. 
 \v 8 You will command the priests who carry the ark of the covenant, 'When you have come to the edge of the waters of the Jordan, you must stand still in the Jordan River.'"
 </usfm>
 
@@ -42,8 +42,9 @@
 
   * **General Information:** - Yahweh tells Joshua what the priest are to do.
 
-  * **I will make you a great man in the eyes of all Israel** - Here "eyes" represents the people seeing and understanding. AT: "the people will see what I do and realize that I have made you a great man" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **edge of the waters of the Jordan** - Joshua is to approach the bank or edge of the Jordan River.
+  * **I will make you a great man** - Yahweh will honor Joshua in front of all of Israel.
+  * **eyes of all Israel** - This refers to all Israel will see this event. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **edge of the waters of the Jordan** - Joshua is to approach the bank or edge of the Jordan River. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -57,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

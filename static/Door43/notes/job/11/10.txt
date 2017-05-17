@@ -26,8 +26,9 @@
 \v 11 He knows which people are worthless;
 \q2 and when he sees people doing wicked things, he certainly does not ignore them.
 \q1
-\v 12 Stupid people like you will start to become wise
+\v 12 Stupid people like you will start to become wise 
 \q2 when wild donkeys start giving birth to people.
+\b
 
 
 \q1
@@ -46,6 +47,7 @@
 \q
 \v 12 But foolish people have no understanding;
 \q they will get it when a wild donkey gives birth to a man.
+\b
 </usfm>
 
 
@@ -60,12 +62,11 @@
 
 ===== translationNotes: =====
 
-  * **If he ... shuts anyone up** - "If God ... shuts anyone up in prison" 
-  * **if he calls anyone to judgment** - The abstract noun "judgment" can be translated with the verb "judge." AT: "if God calls anyone to go to him so that God might judge him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **who can stop him?** - This question emphasizes that no one can stop God. AT: "no one can stop him!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **does he not notice it?** - This emphasizes that God does notice sin. AT: "he surely notices it!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **But foolish people have no understanding** - The abstract noun "understanding" can be expressed with the verb "understand." AT: "But foolish people do not understand" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **they will get it when a wild donkey gives birth to a man** - Since a wild donkey can never give birth to a man, this means that foolish people will never get understanding. AT: "only if a wild donkey could give birth to a man could foolish people get understanding" or "it is as impossible for a foolish person to get understanding as it is for a donkey to give birth to a man" (See: [[:en:ta:vol1:translate:figs_irony]])
+  * **shuts anyone up** - AT: "puts anyone into prison," 
+  * **who can stop him** - AT: "No one can stop him!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **does he not notice it?** - AT: "He surely notices it!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **they will get it when a wild donkey gives birth to a man** - This is way of saying that the people will never understand. (See: [[:en:ta:vol1:translate:figs_idiom]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -73,6 +74,6 @@
   * [[:en:bible:questions:comprehension:job:11]]
 **[[:en:bible:notes:job:11:07|<<]] | [[:en:bible:notes:job:11:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,6 +20,7 @@
 <usfm>
 \v 13 God will not very easily stop being angry;
 \q2 he defeated the servants of Rahab, the great sea monster.
+\b
 \q1
 \v 14 If God took me to court,
 \q2 what could I say to answer him?
@@ -57,9 +58,8 @@
 
 ===== translationNotes: =====
 
-  * **the helpers of Rahab bow beneath him** - Here "bow beneath him" symbolizes submission or defeat. AT: "he crushes the helpers of Rahab" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **Rahab** - The word "Rahab" here refers to a monster of the sea. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **How much less could I answer him, could I choose words to reason with him?** - Job poses two similar questions to emphasize his reluctance to confront God. They can be reworded as a statement. AT: "So I certainly could not answer him or choose words to reason with him."  (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **the helpers of Rahab** - "Rahab" seems to be a powerful force of evil or a sea creature.
+  * **How much less could I answer him, could I choose words to reason with him?** - Job poses parallel questions to emphasize his reluctance to confront God. AT: "What could I say to answer or even question him?" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -67,6 +67,6 @@
   * [[:en:bible:questions:comprehension:job:09]]
 **[[:en:bible:notes:job:09:10|<<]] | [[:en:bible:notes:job:09:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -30,7 +30,7 @@
 \q2 proud men are wanting to kill me,
 \q2 men who have no respect for you.
 
-
+\b
 
 
 \q1
@@ -40,8 +40,9 @@
 
 <usfm>
 \c 54
-\m
+\p
 \d For the chief musician; on stringed instruments. A maschil of David; when the Ziphites came and said to Saul, "Does David not hide himself with us?"
+\b
 \q
 \v 1 Save me, God, by your name,
 \q and judge me in your might.
@@ -51,7 +52,7 @@
 \q
 \v 3 For strangers have risen up against me,
 \q and pitiless men have sought after my life;
-\q they have not set God before them.
+\q they have not set God before them. 
 \qs Selah\qs*
 </usfm>
 
@@ -71,8 +72,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **General Information:** - This psalm is a prayer for help. 
+  * **General Information:** - This psalm is a prayer for help. See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **For the chief musician** - "This is for the director of music to use in worship"
   * **on stringed instruments** - "people should play stringed instruments with this song"
@@ -94,6 +94,6 @@
   * [[:en:bible:questions:comprehension:psa:054]]
 **[[:en:bible:notes:psa:053:006|<<]] | [[:en:bible:notes:psa:054:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2 judge}}
+~~DISCUSSION~~{{tag>publish p2check book2 judge}}
 
 ~~NOCACHE~~

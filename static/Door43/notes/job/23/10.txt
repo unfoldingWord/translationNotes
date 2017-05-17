@@ -28,6 +28,7 @@
 \q1
 \v 12 I have always obeyed what he commanded;
 \q2 I have hidden away in my inner being the words that he has spoken.
+\b
 
 
 \q1
@@ -61,19 +62,16 @@
  
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Job continues speaking.
+  * **General Information:** - Job continues speaking.
 
-  * **he knows the way that I take** - Job's actions are spoken of as a path that he walks. AT: "God knows what I do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will come out like gold** - Job believes that the test will prove that he is as pure as refined gold. AT: "he will see that I am as pure as gold whose impurities have all been burned out" (UDB) (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **My foot has held fast to his steps** - Here "My foot" refer to Job AT: "I have followed the path he has shown me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **I have kept to his way** - Job's obedience is spoken of as if he was walking in a path that God showed him. AT: "I have done what he told me to do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **turned not aside** - This can be stated in positive form. AT: "followed it precisely" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **I have not gone back from** - This can be stated in positive form. AT: "obeyed what he commanded" (UDB) (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **of his lips** - This phrase refers to the message that God spoke. AT: "that he spoke" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I have treasured up in my heart** - Here "my heart" refers to Job's inner being. AT: I have stored in my inner being" or "I constantly think of" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the words of his mouth** - This refers to God's speech. AT: "what he said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
-
+  * **he knows the way that I take** - AT: "God knows what I do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will come out like gold** - Job believes that the test will prove that he is as valuable as gold. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **My foot has held fast to his steps** - AT: "I have followed closely behind him" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **I have kept to his way** - AT: "I have done what he told me to do" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **turned not aside** - AT: "followed it precisely" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **of his lips** - AT: "that he spoke" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I have treasured up in my heart** - AT: "I constantly think of" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the words of his mouth** - AT: "what he said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -81,6 +79,6 @@
   * [[:en:bible:questions:comprehension:job:23]]
 **[[:en:bible:notes:job:23:08|<<]] | [[:en:bible:notes:job:23:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

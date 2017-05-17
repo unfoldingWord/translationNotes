@@ -23,18 +23,18 @@
 
 <usfm>
 \p
-\v 57 The Levite clans, counted clan by clan, were these:
-\q1 By Gershon, the clan of the Gershonites,
-\q1 by Kohath, the clan of the Kohathites,
+\v 57 The Levite clans, counted clan by clan, were these: 
+\q1 By Gershon, the clan of the Gershonites, 
+\q1 by Kohath, the clan of the Kohathites, 
 \q1 by Merari, the clan of the Merarites.
 \m
 \v 58 The clans of Levi were these:
 \q1
-the clan of the Libnites,
-\q1 the clan of the Hebronites,
-\q1 the clan of the Mahlites,
-\q1 the clan of the Mushites,
-\q1 and the clan of the Korahites.
+the clan of the Libnites, 
+\q1 the clan of the Hebronites, 
+\q1 the clan of the Mahlites, 
+\q1 the clan of the Mushites, 
+\q1 and the clan of the Korahites. 
 \m Kohath was the Amram's ancestor.
 \v 59 The name of Amram's wife was Jochebed, a descendant of Levi, who was born to Levites in Egypt. She bore to Amram their children, who were Aaron, Moses, and Miriam their sister.
 </usfm>
@@ -63,6 +63,6 @@ the clan of the Libnites,
   * [[:en:bible:questions:comprehension:num:26]]
 **[[:en:bible:notes:num:26:54|<<]] | [[:en:bible:notes:num:26:60|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

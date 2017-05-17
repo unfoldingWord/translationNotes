@@ -16,7 +16,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 12 The one who treats his friend with contempt has no good judgment;
+\v 12 The one who treats his friend with contempt has no good judgment; 
 \q2 a person who has learned what is important says nothing.
 \q1
 \v 13 Those who spread gossip tell secrets to others,
@@ -46,8 +46,7 @@
 
 ===== translationNotes: =====
 
-  * **keeps a matter covered** - "Covered" represents keeping things concealed as much as possible. AT: "does not tell" or "does not speak about the matter" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **keeps a matter covered** - "does not tell" or "does not speak about the matter"
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -55,6 +54,6 @@
   * [[:en:bible:questions:comprehension:pro:11]]
 **[[:en:bible:notes:pro:11:09|<<]] | [[:en:bible:notes:pro:11:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass faithful}}
+~~DISCUSSION~~{{tag>publish p2edit faithful}}
 
 ~~NOCACHE~~

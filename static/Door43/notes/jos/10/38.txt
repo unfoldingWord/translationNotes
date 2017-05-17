@@ -41,8 +41,8 @@
 
 ===== translationNotes: =====
 
-  * **Debir ... Libnah** - These are the names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **They struck them with the sword** - The sword represents the army of Israel and striking expresses the idea of slaughter and destruction. AT: "They killed and destroyed them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Debir** - This is the names of a city. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **They struck them with the sword** - The sword represents the army of Israel and striking expresses the idea of slaughter and destruction. AT: "They killed and destroyed them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -56,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

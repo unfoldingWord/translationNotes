@@ -30,10 +30,10 @@
   * [[:en:obe:other:ramah]]
 ===== translationNotes: =====
 
-  * **Ahaziah went with Joram son of Ahab, to fight against Hazael, king of Aram** - The names of the three kings listed here are synecdoches and refer also to their armies that accompany them. AT: "Ahaziah's army joined the army of King Joram of Israel to fight against the army of King Hazael of Aram" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **to be healed** - This can be stated in active form. AT: "to heal" or "to recover" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **against Hazael king of Aram** - Here "Hazael" refers to himself and his army. AT: "the army of Hazael king of Aram" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Joram had been wounded** - This can be stated in active form. AT: "the Arameans had wounded Joram" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Ahaziah went with** - AT: "Ahaziah and his army went with" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Joram son of Ahab** - AT: "Joram son of Ahab, and his army" 
+  * **to fight against Hazael, king of Aram** - AT: "to fight against the army of Hazael, king of Aram." 
+  * **that the Arameans had given him at Ramah** - "he received during the battle with the Aramean soldiers at Ramah,"
 
 ===== Links: =====
 
@@ -42,6 +42,6 @@
   * [[:en:bible:questions:comprehension:2ki:08]]
 **[[:en:bible:notes:2ki:08:25|<<]] | [[:en:bible:notes:2ki:09:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass jezreel ramoth}}
+~~DISCUSSION~~{{tag>publish p2edit jezreel ramoth}}
 
 ~~NOCACHE~~

@@ -16,6 +16,7 @@
 
 <usfm>
 \v 20 Later Hadad's wife gave birth to a son named Genubath. The sister of Tahpenes raised him in the palace, where he lived with the king's sons.
+\b
 \p
 \v 21 While Hadad was in Egypt, he heard that David had died, and that Joab, the commander of David's army, was also dead. So he said to the king of Egypt, "Please allow me to return to my own country."
 \p
@@ -41,9 +42,7 @@
 
 ===== translationNotes: =====
 
-  * **Tahpenes** - This is the name of a woman. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Genubath ... Hadad** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **David laid down with his ancestors** - This is a polite way of saying David was dead. AT: "David died" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **David laid down with his ancestors** - This is a polite way of saying David was dead. AT: "David was dead" (See: [[:en:ta:vol2:translate:figs_euphemism]])
 
 ===== Links: =====
 
@@ -52,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1ki:11]]
 **[[:en:bible:notes:1ki:11:18|<<]] | [[:en:bible:notes:1ki:11:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

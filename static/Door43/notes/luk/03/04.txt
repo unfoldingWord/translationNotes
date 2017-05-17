@@ -26,10 +26,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 As it is written in the book of the words of Isaiah the prophet,
-\q1 "A voice of one calling out in the wilderness,
-\q1 'Make ready the way of the Lord,
-\q1 make his paths straight.
+\v 4 As it is written in the book of the words of Isaiah the prophet, 
+\q1 "A voice shouting in the wilderness,
+\q1 'You should make ready the way of the Lord,
+\q1 you should make his paths straight!
 </usfm>
 
 ===== translationWords: =====
@@ -46,9 +46,8 @@
   * **General Information:** - The author, Luke, quotes a passage from Isaiah the prophet concerning John the Baptist.
 
   * **As it is written ... prophet** - Verses 4-6 are a quotation from Isaiah. They can be stated in active form. AT: "This happened as Isaiah the prophet had written in his book" or "John fulfilled the words that the prophet Isaiah had written in his book" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
-  * **A voice of one calling out in the wilderness** - This can be expressed as a sentence. AT: "The voice of one calling out in the wilderness is heard" or "They hear the sound of someone calling out in the wilderness"
-  * **Make ready the way of the Lord ... make his paths straight** - These two phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Make ready the way of the Lord** - "Get the road ready for the Lord." Doing this represents being prepared to hear the Lord's message when he comes. People do this by repenting of their sins. AT: "Prepare to hear the Lord's message when he comes" or "Repent and be ready for the Lord to come" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **You should make ready ... make his paths straight** - This section is in the style of Hebrew poetry, which often repeats important phrases in similar words. "Make ready the way of the Lord" is therefore another way to say, "Make his paths straight." The main difference is the first indicates it happens once, while the second should continue to be done. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **You should make ready the way of the Lord** - This word picture of a road means, "Repent and be ready for when the Lord comes" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the way** - "the path" or "the road"
 ===== Links: =====
 

@@ -26,7 +26,7 @@
 \v 4 While they are lying on their beds, they plan to do things to harm others;
 \q2 they are determined to do things that are not good,
 \q2 and they never refuse to do what is evil.
-
+\b
 
 
 \q1
@@ -43,6 +43,7 @@
 \v 4 While he lies in bed, he plans ways to sin;
 \q he sets out on an evil way;
 \q he does not reject evil.
+\b
 </usfm>
 
 
@@ -59,9 +60,8 @@
 ===== translationNotes: =====
 
   * **His words are** - This refers to his statements. AT: "What he says is" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **do good** - "good" can be stated in another form. AT: "do things that are good" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **do good** - The abstract noun "good" can be stated in other forms. AT: "do things that are good" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **he sets out on an evil way** - The sinful actions of the man are spoken of as if he was walking along a path that was evil. AT: "he begins to do evil things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he does not reject evil** - "evil" can be stated in another form. AT: "he does not reject evil behavior." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 
 
  
@@ -76,6 +76,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book1}}
+{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

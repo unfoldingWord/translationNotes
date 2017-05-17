@@ -29,7 +29,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 9 This was their number: thirty gold basins, one thousand silver basins, twenty-nine other basins,
+\v 9 This was their number: Thirty gold basins, one thousand silver basins, twenty-nine other basins,
 \v 10 thirty gold bowls, 410 small silver bowls, and one thousand additional objects.
 \v 11 There were 5,400 gold and silver items in all. Sheshbazzar brought all of them when the exiles went from Babylon to Jerusalem.
 </usfm>
@@ -46,7 +46,7 @@
 
   * **General Information:** - This is a list of numbered items. 
 
-  * **Thirty ... one thousand ... twenty-nine** - "30 ... 1,000 ... 29" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Thirty ... one thousand ... twenty-nine** - 30 (thirty), 1,000 (one thousand), and 29 (twenty-nine) (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **basins ... bowls** - objects used to hold water for washing
   * **5,400 gold and silver items in all** - the total number of items returned to Jerusalem from Babylon, listed above individually (See: [[:en:ta:vol2:translate:translate_numbers]])
  
@@ -60,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

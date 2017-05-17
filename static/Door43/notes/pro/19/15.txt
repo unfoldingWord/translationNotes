@@ -19,10 +19,12 @@
 
 <usfm>
 \v 15 The one who is lazy finds that sleep comes easily to him,
-\q2 but anyone who refuses to work will go hungry.
+\q2 but anyone who refuses to work will go hungry. 
+\b
 \q1
 \v 16 The one who follows the command he was taught puts a guard over his life,
-\q2 but the one who does not think about how he lives his life will die.
+\q2 but the one who does not think about how he lives his life will die. 
+
 
 \q1
 </usfm>
@@ -50,11 +52,9 @@
 
 ===== translationNotes: =====
 
-  * **Laziness throws a person into a deep sleep** - This speaks of how laziness causes a person to sleep a lot as if laziness forcefully throws the person into sleep. AT: "Laziness makes a person sleep a lot" or "A lazy person sleeps a lot" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **go hungry** - This is an idiom which means to not eat. AT: "not eat" or "be hungry" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the command** - "the command that he was taught" (UDB)
+  * **throws a person into a deep sleep** - "throws you into a deep sleep" AT: "makes a person sleep a lot"
   * **guards his life** - "protects his life"
-  * **his ways** - This is an idiom which refers to how he lives. AT: "the way that he lives" or "how he lives" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **his ways** - AT: "how he lives"
 
 ===== Links: =====
 
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:19]]
 **[[:en:bible:notes:pro:19:13|<<]] | [[:en:bible:notes:pro:19:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

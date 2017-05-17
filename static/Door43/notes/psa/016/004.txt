@@ -16,7 +16,7 @@
 \v 4 Those who choose to worship other gods will have many things that cause them to be sad.
 \q I will not join them when they make sacrifices to their gods;
 \q1 I will not even join them in speaking the names of their gods.
-
+\b
 
 
 \q1
@@ -39,8 +39,7 @@
 
 ===== translationNotes: =====
 
-  * **Their troubles will be ... gods** - This can be stated in active form. AT: "The troubles of those who seek other gods will increase" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
-  * **pour out ... blood to their gods** - "make sacrifices to their gods" (UDB)
+  * **Their troubles will be increased** - This can be stated in active form. AT: "The troubles of those who seek other gods will increase" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
   * **lift up their names with my lips** - Lifting up "their names with my lips" represents praising the other gods or praying to them. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
 
 ===== Links: =====
@@ -50,6 +49,6 @@
   * [[:en:bible:questions:comprehension:psa:016]]
 **[[:en:bible:notes:psa:016:001|<<]] | [[:en:bible:notes:psa:016:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1 blood}}
+~~DISCUSSION~~{{tag>publish p2check book1 blood}}
 
 ~~NOCACHE~~

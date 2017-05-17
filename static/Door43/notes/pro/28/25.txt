@@ -20,8 +20,9 @@
 <usfm>
 \v 25 A greedy person stirs up arguments between people;
 \q2 but the one who trusts in Yahweh will do well.
+\b
 \q1
-\v 26 One who depends on himself is a fool,
+\v 26 One who depends on himself is a fool, 
 \q2 those who make wise decisions escape danger.
 
 
@@ -33,8 +34,8 @@
 
 <usfm>
 \q
-\v 25 A greedy man stirs up conflict,
-\q but the one who trusts in Yahweh will prosper.
+\v 25 A greedy man stirs up conflict, 
+\q but the one who trusts in Yahweh will prosper. 
 \q
 \v 26 One who trusts in his own heart is a fool,
 \q but whoever walks in wisdom will keep away from danger.
@@ -53,11 +54,8 @@
 
 ===== translationNotes: =====
 
-  * **A greedy man** - a person who selfishly wants more things, money or food than what he needs
-  * **stirs up conflict** - The action of the greedy man is spoken of as if he were stirring up or awakening conflict. AT: "causes conflict" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **One who trusts in his own heart** - Depending on one's self is spoken of as trusting in one's own heart. AT: "The person who relies on himself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **whoever** - "any person who"
-  * **walks in wisdom** - Possible meanings are 1) this is an idiom that means to live wisely. AT: "lives wisely" or 2) this is an idiom that means to follow the teachings of wise people. AT: "follows wise teachings" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **A greedy man** - a person who wants more than he needs of something
+  * **stirs up** - causes something bad or unpleasant to happen
 
 ===== Links: =====
 
@@ -66,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:28]]
 **[[:en:bible:notes:pro:28:23|<<]] | [[:en:bible:notes:pro:28:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -12,7 +12,7 @@
 
 <usfm>
 \v 24 He will become very powerful, but it will not be because of what he himself does. He will destroy things in many places, and he will succeed in everything he does. He will get rid of many brave soldiers and the people who are holy.
-\v 25 Because he is very cunning, he will succeed by deceiving others. He will become very arrogant, and he will destroy many people without warning. He will even rebel against God, the greatest king, who will destroy him without any human power.
+\v 25 Because he is very cunning, he will succeed by deceiving others. He will also rebel against the King of kings, who will destroy him without any human power.
 
 
 \p
@@ -21,8 +21,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 24 His power will be great—but not by his own power. He will be amazing in what he destroys; he will act and succeed. He will destroy powerful people, people among the holy ones.
-\v 25 By his craftiness he will make deceit prosper under his hand. He will become great in his own mind. He will unexpectedly destroy many people. He will even rise up against the King of kings, and he will be broken, but not by any human hand.
+\v 24 His power will be great—but not by his own power. He will cause widespread devastation, and he will succeed in whatever he does. He will destroy powerful people, people who are holy. 
+\v 25 By his craftiness he will make deceit prosper under his hand. He will even rise up against the King of kings, and he will be broken—but not by human power.
 </usfm>
 
 ===== translationWords: =====
@@ -36,15 +36,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - In these verses, the angel explains to Daniel the symbolic meaning of the things he saw in his vision. The animals and horns actually represented human rulers or kingdoms. (See: [[:en:ta:vol2:translate:writing_symlanguage]])
-
-  * **but not by his own power** - "but someone else will give him his power"
-  * **he will make deceit prosper** - Here "deceit" is spoken of as if it is a person who will prosper. AT: "the amount of deception will increase" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **under his hand** - Here "hand" refers to his rule. AT: "under his rule" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **King of kings** - This refers to God.
-  * **he will be broken** - Here "he" refers to his power. AT: "his rule will end" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **not by any human hand** - Here "hand" refers to power. This can be also stated in positive form. AT: "not by any human power" or "by divine power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **King of kings** - This refers to God. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -53,6 +45,6 @@
   * [[:en:bible:questions:comprehension:dan:08]]
 **[[:en:bible:notes:dan:08:22|<<]] | [[:en:bible:notes:dan:08:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass devastated}}
+~~DISCUSSION~~{{tag>publish p2edit devastated}}
 
 ~~NOCACHE~~

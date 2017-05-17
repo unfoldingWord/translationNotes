@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 As for you, if you walk before me as David your father walked in integrity of heart and in uprightness, obeying all that I have commanded you and keeping my statutes and my decrees,
+\v 4 As for you, if you walk before me as David your father walked in integrity of heart and in uprightness, obeying all that I have commanded you and keeping my statutes and my decrees, 
 \v 5 then I will establish the throne of your kingdom over Israel forever, as I promised David your father, saying, 'A descendant of yours will never fail to be on the throne of Israel.'
 </usfm>
 
@@ -43,10 +43,10 @@
 
 ===== translationNotes: =====
 
-  * **if you walk before me as David your father walked** - The way a person lives is spoken of as if that person were walking on a path. AT: "if you live the way I want you to live, just as David your father did" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **if you walk before me as David your father walked** - AT: "if you live the way I want you to live, just as David your father did" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **in integrity of heart and in uprightness** - These two phrases mean basically the same thing and emphasize how righteous David was. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **the throne of your kingdom** - Here "throne" refers to his reign. AT: "your dynasty" or "your reign" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will never fail to be on the throne of Israel** - The action of ruling a kingdom is spoken of as if it were a person sitting on a throne. This can be expressed positively. AT: "will always rule over Israel" (See:  [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_litotes]])
+  * **the throne of your kingdom** - AT: "your dynasty" or "your reign" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will never fail to be on the throne of Israel** - This can be expressed positively. AT: "will always rule over Israel" (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1ki:09]]
 **[[:en:bible:notes:1ki:09:03|<<]] | [[:en:bible:notes:1ki:09:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass descendant integrity}}
+~~DISCUSSION~~{{tag>publish p2edit descendant integrity}}
 
 ~~NOCACHE~~

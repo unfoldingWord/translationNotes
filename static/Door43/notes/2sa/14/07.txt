@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 7 Now the whole clan has risen against your servant, and they say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' So they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth."
+\v 7 And now the whole clan has risen against your servant, and they say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth."
 </usfm>
 
 
@@ -37,14 +37,8 @@
 
 ===== translationNotes: =====
 
-  * **the whole clan** - "my entire family"
-  * **your servant** - To show respect for the king the woman refers to herself as "your servant."
-  * **put him to death** - This is an idiom which means to kill. AT: "kill him" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **they would also destroy the heir** - If they put the guilty brother to death there would not be a son left to inherit the family's possessions. The full meaning of this statement can be made clear. AT: "if they did this, they would be destroying our family's heir" (See: [[:en:ta:vol1:translate:figs_explicit]])  
-  * **Thus they will put out the burning coal that I have left** - Here the woman refers to her only living son as if he were a burning piece of coal. She speaks of the men killing her son as stopping the coal's burning. AT: "In this way they will kill the only child I have left" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they will leave for my husband neither name nor descendant** - This can be stated in positive form. AT: "they will not leave for my husband name or descendant" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **neither name nor descendant** - This refers to a son to carry on the family's name into the next generation. AT: "no son to preserve our family's name" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **on the surface of the earth** - "on the earth." This descriptive phrase emphasizes that the family line would not continue on earth after the husband died. "The surface of the earth" refers to the ground on which people walk. 
+  * **the whole clan** - This metonym refers to the family of the woman's husband. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **Thus they will put out the burning coal that I have left** - Here "the burning coal" is a metaphor for the woman's one remaining child. AT: "In this way they will kill the only child I have left" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -58,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

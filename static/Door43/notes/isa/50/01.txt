@@ -34,11 +34,11 @@
 
 <usfm>
 \c 50
-\m
+\p
 \q1
-\v 1 This is what Yahweh says,
+\v 1 This is what Yahweh says, 
 \q1 "Where is the certificate of divorce with which I divorced your mother?
-\q1 To which of my creditors did I sell you?
+\q1 And to which of my creditors did I sell you?
 \q1 Look, you were sold because of your sins, and because of your rebellion, your mother was sent away.
 </usfm>
 
@@ -51,12 +51,9 @@
 
 ===== translationNotes: =====
 
-  * **Where is the certificate of divorce with which I divorced your mother?** - Yahweh speaks of Zion as if the city were the mother of the people who lived there and of sending the people into exile as if he were divorcing their mother. (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]])
-  * **Where is the certificate of divorce with which I divorced your mother?** - Yahweh asks this rhetorical question so that the people would produce "the certificate of divorce," which would provide the reason Yahweh sent them into exile. AT: "Show me the certificate of divorce with which I divorced your mother." (See: [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
-  * **To which of my creditors did I sell you?** - Yahweh speaks of sending the people into exile as if he were selling them. (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]])
-  * **To which of my creditors did I sell you?** - Yahweh asks this question to emphasize that he did not sell them because he owed a debt to a creditor. It is implied that this is what the people had thought. AT: "I did not sell you because I owed a debt to someone." (See: [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]] and [[:en:ta:vol1:translate:figs_explicit|Assumed Knowledge and Implicit Information]])
-  * **you were sold because of your sins, and because of your rebellion, your mother was sent away** - Yahweh gives the reason for sending the people into exile, which he speaks of as if he had sold them and divorced their mother. This can be stated in active form. AT: "I sold you because of your sins, and I divorced your mother because of your rebellion" (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]] and [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
-
+  * **Where is the certificate of divorce with which I divorced your mother?** - Yahweh uses a question for emphasis. Here "mother" refers to the city of Zion. This means that Yahweh did not send the people of Zion away like a man who decides to divorce his wife. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **And to which of my creditors did I sell you?** - Yahweh uses a question for emphasis. This means Yahweh did not send his people into slavery like a man who sells his children to pay for his debts. (See: UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **you were sold because of your sins, and because of your rebellion, your mother was sent away** - This can be stated in active form. AT: "I sent you away because you continually sinned and rebelled against me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -64,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:50]]
 **[[:en:bible:notes:isa:49:26|<<]] | [[:en:bible:notes:isa:50:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

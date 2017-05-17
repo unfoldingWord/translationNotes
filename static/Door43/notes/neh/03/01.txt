@@ -44,12 +44,8 @@
   * [[:en:obe:kt:son]]
 ===== translationNotes: =====
 
-  * **Then Eliashib the high priest rose up with his brother priests** - "Then Eliashib the high priest came forward with his brothers, the priests"
-  * **Eliashib ... Zaccur son of Imri** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Tower of the Hundred** - "Tower of the 100" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **Tower of Hananel** - This is the name of a tower. It is likely named after a man named "Hananel." (See: [[:en:ta:vol1:translate:translate_names]])
-  * **men of Jericho** - This means that the men were from Jericho. AT: "men from Jericho" (UDB) (See: [[:en:ta:vol2:translate:figs_possession]])
-
+  * **Then Eliashib the high priest rose up** - "Then Eliashib the high priest came forward"
+  * **with his brother priests** - "with his brothers, the priests"
 
  
 ===== Links: =====
@@ -59,6 +55,6 @@
   * [[:en:bible:questions:comprehension:neh:03]]
 **[[:en:bible:notes:neh:02:19|<<]] | [[:en:bible:notes:neh:03:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass brother}}
+~~DISCUSSION~~{{tag>publish p2edit brother}}
 
 ~~NOCACHE~~

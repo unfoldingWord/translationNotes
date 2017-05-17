@@ -25,9 +25,10 @@
 <usfm>
 \c 1
 \p
-\v 1 Paul, an apostle of Christ Jesus through the will of God, to God's holy people in Ephesus, who are faithful in Christ Jesus.
+\v 1 Paul, an apostle of Christ Jesus through the will of God, to those who are set apart for God in Ephesus and who are faithful in Christ Jesus.
 \f + \ft Some early versions omit, \fqa in Ephesus, \fqb but this expression is probably in Paul's original letter.\f*
-\v 2 Grace to you and peace from God our Father and the Lord Jesus Christ.
+\v 2 May grace be to you, and peace from God our Father and the Lord Jesus Christ.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -47,12 +48,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Paul names himself as the writer of this letter to the believers at the church at Ephesus.
+  * **Connecting Statement:** - Paul names himself as the writer of this letter to the believers at the church at Ephesus.
   * **General Information:** - Except where noted, all instances of "you" and "your" refers to the Ephesian believers as well as all believers and so are plural. (See: [[:en:ta:vol1:translate:figs_you]])
  
-  * **Paul, an apostle ... to God's holy people in Ephesus** - Your language may have a particular way of introducing the author of a letter and its intended audience. AT: "I, Paul, an apostle ... write this letter to you, God's holy people Ephesus" 
+  * **Paul, an apostle ... to those who are set apart for God in Ephesus** - Your language may have a particular way of introducing the author of a letter and its intended audience. AT: "I, Paul, an apostle ... wrote this letter to you, those who are set apart for God in Ephesus" 
   * **who are faithful in Christ Jesus** - "In Christ Jesus" and similar expressions are metaphors that frequently occur in the New Testament letters. They express the strongest kind of relationship possible between Christ and those who believe in him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Grace to you and peace** - This is a common greeting and blessing that Paul often uses in his letters. 
+  * **May grace be to you, and peace** - This is a common greeting and blessing Paul often uses in his letters. 
+
 ===== Links: =====
 
   * [[:en:bible:notes:eph:00:intro]]

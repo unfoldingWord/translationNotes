@@ -34,12 +34,12 @@
 
 <usfm>
 \c 65
-\m
+\p
 \q1
-\v 1 "I was ready to be sought out by those who did not ask; I was ready to be found by those who did not seek.
+\v 1 "I was ready to be sought out by those who did not ask; I was ready to be found by those who did not seek. 
 \q1 I said, 'Here I am! Here I am!' to a nation that did not call on my name.
 \q1
-\v 2 I have spread out my hands all day to a stubborn people,
+\v 2 I have spread out my hands all day to a stubborn people, 
 \q1 who walk in a way that is not good, who have walked after their own thoughts and plans!
 </usfm>
 
@@ -54,7 +54,8 @@
 ===== translationNotes: =====
 
   * **I was ready** - Here "I" refers to Yahweh.
-  * **I have spread out my hands all day to a stubborn people** - "Spreading out my hands" is a person's gesture to show imploring or a strong request. AT: "I have continually begged a stubborn people to receive my help." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **I have spread out my hands all day to a stubborn people** - AT: "I have continually plead to a stubborn people to receive my help" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:65]]
 **[[:en:bible:notes:isa:64:10|<<]] | [[:en:bible:notes:isa:65:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

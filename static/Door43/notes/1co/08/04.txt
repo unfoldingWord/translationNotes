@@ -21,7 +21,7 @@
 \v 6 Yet even so, we say,
 \q "There is one God, the Father,
 \q1 from him come all things, and for him we live.
-\q And there is only one Lord, Jesus Christ;
+\q And there is only one Lord, Jesus Christ; 
 \q1 he made everything there is, and he is the one who gives us life."
 
 
@@ -31,13 +31,13 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 So about eating food sacrificed to idols—we know that "an idol in this world is nothing" and "that there is no God but one."
+\v 4 So about eating food sacrificed to idols: We know that "an idol in this world is nothing" and "that there is no God but one."
 \v 5 For maybe so-called gods do exist, either in heaven or on earth, just as there are many "gods" and many "lords."
 \p
 \v 6 Yet for us,
-\q "There is only one God the Father,
-\q1 from him are all things, and for whom we live,
-\q and one Lord Jesus Christ,
+\q "There is only one God the Father, 
+\q1 from him are all things, and for whom we live, 
+\q and one Lord Jesus Christ, 
 \q1 through whom all things exist, and through whom we exist."
 \m
 </usfm>
@@ -57,7 +57,7 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - "We" and "us" here refers to all believers. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+  * **General Information:** - "We" and "us" here refers to all believers. (See: [[:en:ta:vol2:translate:figs_inclusive|Inclusive "We"]])
 
   * **We know that "an idol in this world is nothing" and "that there is no God but one."** - Paul is probably quoting phrases that some Corinthians used. "We all know, as you yourselves like to say, that 'an idol has no power or meaning for us' and that, as you say, 'there is not God but one.'"
   * **an idol in this world is nothing** - "an idol has no power in this world"

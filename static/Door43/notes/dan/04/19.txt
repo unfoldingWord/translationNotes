@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 Then Daniel, who was also named Belteshazzar, did not say anything for some time because he was very worried about the meaning of the dream. Then the king said to him, "Belteshazzar, do not be afraid about the dream or what it means." Daniel replied to the king, "Sir, I wish that the events that were predicted in your dream would happen to those who hate you, and that the meaning of your dream would happen only to your enemies and not to you.
+\v 19 Then Daniel, who was also named Belteshazzar, did not say anything for some time because he was very worried about the meaning of the dream. Finally, I said to him, 'Belteshazzar, do not be afraid about the dream or what it means.' Daniel replied to me, 'Sir, I wish that the events that were predicted in your dream would happen to those who hate you, and that the meaning of your dream would happen only to your enemies and not to you.
 
 
 \pi
@@ -34,12 +34,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Verses 19-33 use the third person to describe the punishment of Nebuchadnezzar. (See: [[:en:ta:vol2:translate:figs_123person]])
-
   * **who was also named Belteshazzar** - This can be stated in active form. AT: "who I also named Belteshazzar" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **was greatly upset for a while, and his thoughts alarmed him** - Daniel's understanding of the meaning of the vision is what alarmed him. This can be explicitly stated. AT: "did not say anything for some time because he was very worried about the meaning of the dream" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **may the dream be for those who hate you; may its interpretation be for your enemies** - Daniel is expressing his wish that the dream was not about Nebuchadnezzar, even though he knew that it really was about the king. 
-
 
 ===== Links: =====
 
@@ -48,6 +43,6 @@
   * [[:en:bible:questions:comprehension:dan:04]]
 **[[:en:bible:notes:dan:04:17|<<]] | [[:en:bible:notes:dan:04:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

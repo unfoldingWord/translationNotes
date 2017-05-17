@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 You must plant your field for six years, and for six years you must prune your vineyard and gather the produce.
+\v 3 You must plant your field for six years, and for six years you must prune your vineyard and gather the produce. 
 \v 4 But in the seventh year, a Sabbath of solemn rest for the land must be observed, a Sabbath for Yahweh. You must not plant your field or prune your vineyard.
 </usfm>
 
@@ -29,7 +29,7 @@
 ===== translationNotes: =====
 
   * **prune your vineyard** - To prune a vineyard is to cut the branches and vines to help the fruit grow better.
-  * **a Sabbath of solemn rest for the land must be observed** - Not farming the land is spoken of as letting the land rest. This can be stated in active form. AT: "you must observe a Sabbath of solemn rest for the land" or "you must obey the Sabbath law by not farming the land every seventh year"  (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **a Sabbath of solemn rest for the land must be observed** - This can be stated in active form. Not farming the land is spoken of as letting the land rest. AT: "you must observe a Sabbath of solemn rest for the land" or "you must obey the Sabbath law by not farming the land every seventh year"  (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:lev:00:intro]]
@@ -37,6 +37,6 @@
   * [[:en:bible:questions:comprehension:lev:25]]
 **[[:en:bible:notes:lev:25:01|<<]] | [[:en:bible:notes:lev:25:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

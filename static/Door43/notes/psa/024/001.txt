@@ -20,7 +20,7 @@
 \q1
 \v 2 he built the land on the water,
 \q2 above the water that is deep below.
-
+\b
 
 
 \q1
@@ -30,8 +30,9 @@
 
 <usfm>
 \c 24
-\m
+\p
 \d A psalm of David.
+\b
 \q
 \v 1 The earth is Yahweh's, and its fullness,
 \q the world, and all who live in it.
@@ -50,7 +51,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **and its fullness** - The abstract noun "fullness" can be stated with the verb "fills." AT: "and everything that fills it" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
@@ -64,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:024]]
 **[[:en:bible:notes:psa:023:006|<<]] | [[:en:bible:notes:psa:024:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

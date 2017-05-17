@@ -29,7 +29,7 @@
 
 <usfm>
 \q1
-\v 14 He will break it as a potter's vessel is broken; he will not spare it,
+\v 14 He will break it as a potter's vessel is broken; he will not spare it, 
 \q1 so that there will not be found among its pieces a shard
 \q1 with which to scrape fire from the hearth, or to scoop up water out of the cistern.
 </usfm>
@@ -42,11 +42,9 @@
 
   * **General Information:** - Isaiah describes how Yahweh will destroy the people of Judah. (See: [[:en:bible:notes:isa:30:12|30:12-13]])
 
-  * **He will break it** - Here "it" refers to the part in the wall that is about to fall. The part in the wall is a metaphor that represents the people of Judah and their sin mentioned in [[:en:bible:notes:isa:30:12|30:12-13]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **as a potter's vessel is broken** - This simile means that the piece of wall will break as quickly and completely as a clay jar that falls to the ground. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **potter** - A potter is a person who makes pots and jars out of clay.
-  * **there will not be found** - This can be stated in active form. AT: "no one will be able to find" or "there will not be" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **a shard with which to scrape** - "a shard big enough to scrape"
+  * **He will break it** - "He will break down that wall." Here the word "it" refers to their sin, mentioned in the previous verse, which is like a high wall that is ready to fall.
+  * **potter** - a person who makes pots and jars out of clay
+  * **there will not be found** - This can be stated in active form. AT: "no one will be able to find" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **fire from the hearth** - The word "fire" here refers here to ashes. AT: "ashes from the fireplace" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
@@ -62,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

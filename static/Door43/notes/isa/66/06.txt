@@ -29,7 +29,7 @@
 
 <usfm>
 \q1
-\v 6 A sound of battle tumult comes from the city, a sound from the temple,
+\v 6 A sound of battle tumult comes from the city, a sound from the temple, 
 \q1 the sound of Yahweh paying back his enemies.
 </usfm>
 
@@ -41,9 +41,10 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh describes the punishment for the hypocrisy of the worshipers.
+  * **General Information:** - Yahweh continues speaking.
 
-  * **A sound of battle tumult** - The sound represents the real fighting that is going on in the temple as Yahweh is carrying out the punishment. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **A sound of battle tumult comes from the city, a sound from the temple** - AT: "A loud uproar like the noise of a battle comes from the city and from the temple" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the sound of Yahweh paying back his enemies** - This refers to the sound of Yahweh punishing those who contaminated their worship with Canaanite practices.
 
 ===== Links: =====
 
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:isa:66]]
 **[[:en:bible:notes:isa:66:05|<<]] | [[:en:bible:notes:isa:66:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

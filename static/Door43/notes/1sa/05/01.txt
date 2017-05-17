@@ -28,27 +28,27 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:philistines|Philistines]]
-  * [[:en:obe:other:ashdod|Ashdod, Azotus]]
-  * [[:en:obe:other:house|house]]
-  * [[:en:obe:kt:face|face]]
-  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:other:philistines]]
+  * [[:en:obe:other:arkofthecovenant]]
+  * [[:en:obe:other:ashdod]]
+  * [[:en:obe:other:house]]
+  * [[:en:obe:kt:face]]
+  * [[:en:obe:kt:yahweh]]
 
 ===== translationNotes: =====
 
   * **Now** - This word marks the beginning of a new part of the story. If your language has a word or phrase that does the same, you could use it here.
-  * **ark of God** - Translate this as you did in [[:en:bible:notes:1sa:03:01|3:3]]. This is the a same as the "ark of the covenant of God" in [[:en:bible:notes:1sa:04:03|4:3-4]].
   * **house of Dagon** - This refers to the temple of Dagon, the god of the Philistines.
   * **behold, Dagon** - "they were very surprised to see that Dagon"
-  * **Dagon had fallen facedown on the ground** - The reader should understand that Yahweh had caused the statue to fall on its face during the night. (See: [[:en:ta:vol1:translate:figs_explicit|Assumed Knowledge and Implicit Information]])
+  * **Dagon had fallen face down on the ground** - The reader should understand that Yahweh had caused the statue to fall on its face during the night. (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
-  * [[:en:bible:notes:1sa:00:intro|Introduction to 1 Samuel]]
-  * [[:en:bible:notes:1sa:05:00|1 Samuel 05 General Notes]]
-  * [[:en:bible:questions:comprehension:1sa:05|1 Samuel 05 Translation Questions]]
-
+  * [[:en:bible:notes:1sa:00:intro]]
+  * [[:en:bible:notes:1sa:05:00]]
+  * [[:en:bible:questions:comprehension:1sa:05]]
 **[[:en:bible:notes:1sa:04:21|<<]] | [[:en:bible:notes:1sa:05:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass ashdod}}
+~~DISCUSSION~~{{tag>publish p2check ashdod}}
 
 ~~NOCACHE~~

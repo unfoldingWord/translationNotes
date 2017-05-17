@@ -16,8 +16,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 He walked down the street near the house on the corner of the road,
-\q2 and he walked toward the house of the adultress.
+\v 8 He walked down the street near the house on the corner of the road, 
+\q2 and he walked toward the house of the adultress. 
 \q1
 \v 9 It was the time of day when night and darkness were coming near.
 
@@ -30,11 +30,11 @@
 
 <usfm>
 \q
-\v 8 That young man passed down the street near her corner,
-\q and he went toward her house.
+\v 8 That young man passed through the street near her corner
+\q and he went toward her house—
 \q
-\v 9 It was twilight, in the evening of the day,
-\q at the time of night and darkness.
+\v 9 it was twilight, in the evening of the day,
+\q at the time of the night and darkness.
 </usfm>
 
 
@@ -42,8 +42,8 @@
 
 ===== translationNotes: =====
 
-  * **her corner** - Here "her" refers to any female stranger, as referred to in [[:en:bible:notes:pro:07:04|07:05]]. She was standing at a certain corner, waiting for a suitable man to pass by. AT: "the corner where a female stranger was standing"
-  * **corner** - This refers to where two roads meet. 
+  * **her corner ... her house** - The word "her" refers to the adulteress.
+  * **corner** - This refers to where two roads meet.
   * **twilight** - the time of day when it is getting darker and about to become night
  
 ===== Links: =====
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:pro:07]]
 **[[:en:bible:notes:pro:07:06|<<]] | [[:en:bible:notes:pro:07:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

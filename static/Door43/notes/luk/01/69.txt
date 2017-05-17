@@ -19,12 +19,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 69 He is sending us someone who will powerfully save us,
-\q someone who is descended from his servant, King David.
+\v 69 He is sending us someone who will powerfully save us, 
+\q someone who is descended from his servant, King David. 
 \q
-\v 70 Long ago God caused his prophets to say that he would do that.
+\v 70 Long ago God caused his prophets to say that he would do that. 
 \q
-\v 71 This powerful Savior will rescue us from our enemies,
+\v 71 This powerful Savior will rescue us from our enemies, 
 \q and he will save us from the power of all those who hate us.
 
 
@@ -35,13 +35,13 @@
 ===== ULB: =====
 
 <usfm>
-\q
-\v 69 He has raised up a horn of salvation for us 
-\q in the house of his servant David,
-\q
+\q 
+\v 69 He has raised up a horn of salvation for us in the house of his servant David, 
+\q from among the descendants of his servant David, 
+\q 
 \v 70 as he spoke by the mouth of his holy prophets who were in ancient times.
-\q
-\v 71 He will bring salvation from our enemies
+\q 
+\v 71 He will bring salvation from our enemies 
 \q and from the hand of all who hate us.
 </usfm>
 
@@ -60,16 +60,18 @@
 
 ===== translationNotes: =====
 
-  * **a horn of salvation for us** - The horn of an animal is a symbol of its power to defend itself. The Messiah is spoken of as if he were a horn with the power to save Israel. AT: "someone with the power to save us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **in the house of his servant David** - David's "house" here represents his family, specifically, his descendants. AT: "in the family of his servant David" or "who is a descendant of his servant David" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a horn of salvation for us** - The horn of an animal is a symbol for its power to defend itself. The Messiah is spoken of as if he were a horn with the power to save Israel. AT: "someone with the power to save us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in the house of ... from among the descendants of** - These two phrases refer to the same thing, and emphasize that one who will save them is a direct descendant from King David. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **in the house of** - "within the family of"
+  * **from among the descendants** - "one of the descendants"
   * **as he spoke** - "just as God said"
   * **spoke by the mouth of his holy prophets** - God enabled the prophets to speak the words he wanted them to speak. God's control can the stated. AT: "caused his holy prophets to say" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **by the mouth of** - This speaks of the prophets' messages as if they were only a mouth saying words. AT: "in the words of" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **by the mouth of** - This idiom means "by means of" or "through the voices of" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **were in ancient times** - "lived long ago"
   * **bring salvation** - This here refers to physical rescue, rather than to spiritual salvation.
   * **our enemies ... all who hate us** - These two phrases mean basically the same thing and are repeated to emphasize how strongly their enemies are against them. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **from the hand of** - It may be helpful to restate "salvation" here. AT: "salvation from the hand of" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **hand** - "power" or "control." The word "hand" represents the power that wicked persons use against God's people. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **hand** - "power" or "control." The word "hand" is associated with the power or control that is being used to harm God's people. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:luk:00:intro]]

@@ -31,14 +31,14 @@
 ===== ULB: =====
 
 <usfm>
-\c 15
+\c 15 
 \p
-\v 1 A declaration about Moab.
-\q1 Indeed, in one night Ar of Moab is laid waste and destroyed;
+\v 1 A declaration about Moab. 
+\q1 Indeed, in one night Ar of Moab is laid waste and destroyed; 
 \q1 indeed, in one night Kir of Moab is laid waste and destroyed.
 \q1
-\v 2 They have gone up to the temple, the people of Dibon went up to the heights to weep;
-\q1 Moab laments over Nebo and over Medeba.
+\v 2 They have gone up to the temple, the people of Dibon went up to the heights to weep; 
+\q1 Moab laments over Nebo and over Medeba. 
 \q1 All their heads are shaved bare and all their beards are cut off.
 </usfm>
 
@@ -54,14 +54,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Often in prophecy events that will happen in future are described as happening now or in the past. This emphasizes that the event will certainly happen. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **General Information:** - Often in prophecy events that will happen in future are described as happening now or in the past. This emphasizes that the event will certainly happen. 
 
-  * **A declaration** - "This is what Yahweh declares" or "This is a message from Yahweh"
-  * **Ar ... Kir ... Dibon ... Nebo ... Medeba** - These are names of cities and towns in Moab. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Ar of Moab is laid waste and destroyed** - The words "laid waste" and "destroyed" mean the same thing and emphasize that the city was completely ruined. This can be stated in active form. AT: "Enemy armies will completely destroy Ar of Moab" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **went up to the heights to weep** - Here "up to the heights" refers to a temple or altar that was built on high ground like a hill or mountain side. AT: "went up to the temple on the hilltop to weep" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Ar ... Kir ... Dibon ... Nebo ... Medeba** - These are names of cities and towns. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ar of Moab is laid waste and destroyed** - The words "laid waste" and "destroyed" mean basically the same thing and emphasize complete destruction. This can be stated in active form. AT: "God will completely destroy Ar of Moab" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **Moab laments over Nebo and over Medeba** - These place names refer to the people who live there. AT: "the people of Moab will weep because of what happened to the cities of Nebo and Medeba" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **All their heads are shaved bare and all their beards are cut off** - They do this to show their extreme sadness. AT" "They will all shave their heads and cut off their beards and grieve" (See: [[:en:ta:vol2:translate:translate_symaction]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -69,6 +67,6 @@
   * [[:en:bible:questions:comprehension:isa:15]]
 **[[:en:bible:notes:isa:14:31|<<]] | [[:en:bible:notes:isa:15:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

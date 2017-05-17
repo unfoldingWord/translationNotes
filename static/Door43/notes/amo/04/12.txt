@@ -23,6 +23,7 @@
 <usfm>
 \v 12 So now, you people of Israel, I am going to punish you.
 \q2 Prepare to stand in front of me, your God, when I judge you!
+\b
 \q1
 \v 13 I created the mountains,
 \q2 and the winds.
@@ -37,6 +38,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 12 "Therefore I will do something terrible to you, Israel;
 \q and because I will do something terrible to you,

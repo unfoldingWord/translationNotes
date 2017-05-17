@@ -26,7 +26,7 @@
 \v 2 It is also useless to arise very early and go to sleep late at night
 \q2 so that you can work hard all day to earn money to buy food
 \q1 because Yahweh gives food to those whom he loves even while they sleep.
-
+\b
 
 
 \q1
@@ -36,8 +36,9 @@
 
 <usfm>
 \c 127
-\m
+\p
 \d A song of ascents, of Solomon.
+\b
 \q
 \v 1 Unless Yahweh builds the house,
 \q they work uselessly, those who build it.
@@ -62,11 +63,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **song of ascents** - Possible meanings are 1) "song people sang while going up to Jerusalem for a celebration" or 2) "song people sang while going up the steps into the temple" or 3) "song whose words are like steps." See how you translated this in [[:en:bible:notes:psa:120:001|120:1]]
   * **to rise up early, to come home late** - A person who works hard often has to wake up earlier in the morning and return home late at night.
-  * **eat the bread of hard work** - This is an idiom. Bread often represents the food a person needs every day in order to live. AT: "work hard for your daily needs" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **eat the bread of hard work** - Bread often represents  the food a person needs every day in order to live. AT: "work hard for your daily needs" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -74,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:127]]
 **[[:en:bible:notes:psa:126:004|<<]] | [[:en:bible:notes:psa:127:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

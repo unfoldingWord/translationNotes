@@ -36,7 +36,7 @@
 
 <usfm>
 \c 11
-\m
+\p
 \q
 \v 1 "When Israel was a young man I loved him,
 \q and I called my son out of Egypt.
@@ -68,7 +68,7 @@
 
   * **When Israel was a young man** - Yahweh is speaking about the people of Israel as if they were a young man. Yahweh is referring to when he first started his relationship with the nation. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **I called my son out of Egypt** - "son" refers to the people of God the Father. AT: "I led my son out of Egypt" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The more they were called, the more they went away from me** - This can be stated in active form. AT: "The more I called them to be my people, the more they refused me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The more they were called, the more they turned away** - This can be stated in active form. AT: "The more I called them to be my people, the more they refused me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:hos:00:intro]]
@@ -76,6 +76,6 @@
   * [[:en:bible:questions:comprehension:hos:11]]
 **[[:en:bible:notes:hos:10:14|<<]] | [[:en:bible:notes:hos:11:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass son}}
+~~DISCUSSION~~{{tag>publish p2check son}}
 
 ~~NOCACHE~~

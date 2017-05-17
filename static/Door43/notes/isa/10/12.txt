@@ -32,10 +32,10 @@
 
 <usfm>
 \p
-\v 12 When the Lord has finished his work on Mount Zion and on Jerusalem, I will punish the speech of the arrogant heart of the king of Assyria and his prideful looks.
-\v 13 For he says,
+\v 12 When the Lord has finished his work on Mount Zion and on Jerusalem, he will speak: "I will punish the speech of the arrogant heart of the king of Assyria and his prideful looks."
+\v 13 For he says, 
 \q1 "By my strength and by my wisdom I acted. I have understanding,
-\q1 and I have removed the boundaries of the peoples. I have stolen their treasures,
+\q1 and I have removed the boundaries of the peoples. I have stolen their treasures, 
 \q1 and like a bull I have brought down the inhabitants.
 </usfm>
 
@@ -53,16 +53,13 @@
 
 ===== translationNotes: =====
 
-  * **When the Lord has finished his work on Mount Zion and on Jerusalem, I will punish** - Yahweh speaks of himself as if he were someone else. "When I, the Lord, have finished my work on Mount Zion and on Jerusalem, I will punish"
+  * **When the Lord has finished his work on Mount Zion and on Jerusalem, he will speak: "I will punish** - Another possible meaning is "When I, the Lord, have finished my work on Mount Zion and on Jerusalem, I will punish."
   * **his work on ... and on** - his work of punishing. "punishing ... and punishing"
   * **I will punish the speech of the arrogant heart of the king of Assyria and his prideful looks** - "I will punish the king of Assyria for the arrogant things he said and the look of pride on his face"
   * **For he says** - "For the king of Assyria says"
   * **I have removed the boundaries of the peoples** - Here the word "I" refers to the king of Assyria. He was the leader of the Assyrian army and took credit for what the army did at his command. AT: "my army has removed the boundaries of the peoples" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **like a bull** - "as strong as a bull". Some ancient texts read, "like a mighty man." (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **I have brought** - "I and my army have brought" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **I have brought down the inhabitants** - Possible meanings are 1) the king of Assyria has shamed the people of the countries he conquered (see UDB) or 2) he has removed the kings of the nations so they no longer rule. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  
-
+  * **like a bull** - Bulls were common symbols of strength and even divinity in the Ancient Near East. Some modern versions, however, interpret "like a bull" to mean "like a mighty man." (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **I have brought down the inhabitants** - This may mean that the king of Assyria has shamed the people of the countries he conquered (see UDB), or that he has destroyed them.) Some modern versions, however, interpret this passage to mean, "I have brought down those who sat on their thrones (that is, their kings)." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -70,6 +67,6 @@
   * [[:en:bible:questions:comprehension:isa:10]]
 **[[:en:bible:notes:isa:10:10|<<]] | [[:en:bible:notes:isa:10:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

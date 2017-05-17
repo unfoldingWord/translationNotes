@@ -25,10 +25,10 @@
 
 ===== translationNotes: =====
 
-  * **second in rank to King Ahasuerus** - "the most important person after King Ahasuerus" 
-  * **Jewish brothers** - The word brothers represents people who were like him. AT: "fellow Jews" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he sought the welfare of his people** - Seeking something is a metaphor for working hard for something. The abstract noun "welfare" can be translated as a phrase with the verb "prosper" or the adjective "secure"  AT: "He worked hard so his people would prosper" or "He worked hard so his people would be secure" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **he spoke for the peace of all his people** - "he represented his people so that they might have peace"
+  * **second** - "number 2" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **sought** - "wanted" or "needed"
+  * **welfare** - "well-being" or "progress"
+
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -36,6 +36,6 @@
   * [[:en:bible:questions:comprehension:est:10]]
 **[[:en:bible:notes:est:10:01|<<]] | **
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

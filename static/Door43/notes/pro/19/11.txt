@@ -18,11 +18,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 A person with good sense is slow to get angry,
-\q2 and it is to his honor that he overlooks it when someone does him wrong.
+\v 11 A person with good sense is slow to get angry, 
+\q2 and it is to his honor that he overlooks it when someone does him wrong. 
 \q1
 \v 12 What is the wrath of the king like? It is like the roaring of a young lion,
-\q2 but his kindness is like the dew on the grass.
+\q2 but his kindness is like the dew on the grass. 
+
 
 \q1
 </usfm>
@@ -50,12 +51,11 @@
 
 ===== translationNotes: =====
 
-  * **Discretion makes a person slow to anger** - "A person who has discretion is slow to become angry" 
-  * **Discretion** - This means to know what should be done in a particular situation. Translate this word the same as you did in [[:en:bible:notes:pro:01:04|1:4]].
-  * **it is his glory to overlook** - "it will bring him glory to overlook" or "others will consider it honorable if he overlooks"   
+  * **Discretion** - See how you translated in [[:en:bible:notes:pro:01:04|1:4]]
   * **to overlook** - to forget on purpose
-  * **The wrath of the king is like the roaring of a young lion** - Here the lion's roaring refers to attacking. The wrath of a king is compared to the unpredictable and dangerous attack of a young lion. AT: "The wrath of the king is as dangerous as the attack of a young lion" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **but his favor is like dew on the grass** - The favor of the king is compared to the refreshing water that appears on grass in the morning. AT: "but his favor is refreshing like dew on grass" or "but his favor is refreshing like the dew on the ground in the morning" (See: [[:en:ta:vol1:translate:figs_simile]]) 
+  * **The wrath of the king is like the roaring of a young lion** - The wrath of a king is compared to the unpredictable and dangerous attack of a young lion. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **the roaring of a young lion** - Roaring refers to attacking. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **but his favor is like dew on the grass** - The favor of the king is compared to the refreshing water that is on the grass in the morning. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -64,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:19]]
 **[[:en:bible:notes:pro:19:09|<<]] | [[:en:bible:notes:pro:19:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example lion}}
+~~DISCUSSION~~{{tag>publish p2edit lion}}
 
 ~~NOCACHE~~

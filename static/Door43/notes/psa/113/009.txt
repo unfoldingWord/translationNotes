@@ -14,6 +14,7 @@
 <usfm>
 \v 9 He also enables women who have no children to live in their houses
 \q2 as happy as mothers with children.
+\b
 \q1 Praise Yahweh!
 </usfm>
 
@@ -34,8 +35,7 @@
 
 ===== translationNotes: =====
 
-  * **He gives a home to the barren woman of the house** - Here "home" refers to the children that live in a home. AT: "He gives children to the woman who had none" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  
+  * **He gives a home to the barren woman** - Here "home" refers to the children that live in a home. AT: "He gives children to the woman who had none" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:psa:113]]
 **[[:en:bible:notes:psa:113:007|<<]] | [[:en:bible:notes:psa:114:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

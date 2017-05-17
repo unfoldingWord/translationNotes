@@ -22,7 +22,7 @@
 \v 6 I hope that I will not be able to sing again
 \q1 if I forget about Jerusalem,
 \q2 if I do not consider that Jerusalem causes me to be more joyful than anything else does.
-
+\b
 
 
 \q1
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:137]]
 **[[:en:bible:notes:psa:137:003|<<]] | [[:en:bible:notes:psa:137:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

@@ -25,7 +25,7 @@
 <usfm>
 \p
 \v 12 Then Moses called for Dathan and Abiram, the sons of Eliab, but they said, "We will not come up.
-\v 13 Is it a small thing that you have brought us up out of a land flowing with milk and honey, to kill us in the wilderness? Now you want to make yourself ruler over us!
+\v 13 Is it a small thing that you have brought us up out of a land flowing with milk and honey, to kill us in the wilderness? Now you want to make yourself ruler over us! 
 \v 14 In addition, you have not brought us into a land flowing with milk and honey, or given us the fields and vineyards as an inheritance. Now do you want to blind us with empty promises? We will not come to you."
 </usfm>
 
@@ -43,7 +43,7 @@
 
   * **Is it a small thing that you have brought us ... to kill us in the wilderness** - Dathan and Abiram use this question to rebuke Moses. It can be translated as a statement. AT: "You behave as though it was a small thing for you to bring us ... so that we can die in the wilderness." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **a small thing** - "not enough" or "unimportant"
-  * **a land flowing with milk and honey** - They spoke of the land being good for animals and plants as if the milk and honey from those animals and plants were flowing through the land. See how you translated this in [[:en:bible:notes:num:14:06|14:08]]. AT: "that is excellent for raising livestock and growing crops" or "a very fertile land" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a land flowing with milk and honey** - They spoke of the land being good for animals and plants as if the milk and honey from those animals and plants were flowing through the land. AT: "that is excellent for raising livestock and growing crops" or "a very fertile land." See how you translated this in [[:en:bible:notes:num:14:06|14:08]]. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **as an inheritance** - They spoke of what God would give them to be theirs forever as if it were an inheritance. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Now do you want to blind us with empty promises?** - The people used this question to accuse Moses. It can be translated as a statement. AT: "Now you want to blind us with empty promises." (See: [[:en:ta:vol1:translate:figs_rquestion]]
   * **to blind us** - Deceiving people is spoken of as making them blind. AT: "to deceive us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:num:16]]
 **[[:en:bible:notes:num:16:08|<<]] | [[:en:bible:notes:num:16:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -34,7 +34,7 @@
 
 <usfm>
 \q1
-\v 14 That day of Yahweh of hosts will be against all the high mountains, and against all the hills that are lifted up,
+\v 14 There will be a day of Yahweh of hosts against all the high mountains, and against all the hills that are lifted up,
 \q1
 \v 15 and against every high tower, and against every impregnable wall,
 \q1
@@ -47,15 +47,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. He continues to describe what will happen on the day of Yahweh of Hosts ([[:en:bible:notes:isa:02:12|2:12]]). (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Isaiah continues to describe what will happen on the day of Yahweh of Hosts. (See: [[:en:bible:notes:isa:02:12|2:12]])
 
-  * **and against** - In 2:14-16 Isaiah lists things that God will destroy. Possible meanings are 1) these refer to prideful people that God will humble or 2) God will actually destroy all these things in the list.
-  * **mountains ... hills** - These words are metaphors for the pride of the Israelites. They also appear in [[:en:bible:notes:isa:02:01|2:2]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **that are lifted up** - This is an idiom. AT: "that are very high" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **and against** - In 2:14-16 Isaiah lists things that God will destroy. Possible meanings are 1) These refer to prideful people that God will humble or 2) God will actually destroy all these things in the list.
+  * **the high mountains ... the hills** - People often built their cities on mountains or hills to help protect them from enemies. Also, people believed their false gods lived on mountains and large hills so they would go there to worship. These two phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **high tower ... impregnable wall** - These refer to things people would build around their cities so they could defend themselves against their enemies. They are a metaphor for the Israelites' pride and belief that they had no need for Yahweh and could stand against any punishment Yahweh would mete out to them for their sins. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **impregnable wall** - "wall that nothing can break down or go through"
-  * **ships of Tarshish ... beautiful sailing vessels** - These refer to large boats that people used to travel far on the sea and bring back goods to the cities.
-  * **ships of Tarshish** - "ships on which they go to Tarshish"
+  * **ships of Tarshish ... beautiful sailing vessels** - These refer to large boats that people used to travel far on the sea and bring back riches to the cities.
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -63,6 +60,6 @@
   * [[:en:bible:questions:comprehension:isa:02]]
 **[[:en:bible:notes:isa:02:12|<<]] | [[:en:bible:notes:isa:02:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example tarshish}}
+~~DISCUSSION~~{{tag>publish p2edit tarshish}}
 
 ~~NOCACHE~~

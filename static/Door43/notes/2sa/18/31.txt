@@ -40,9 +40,7 @@
  
 ===== translationNotes: =====
 
-  * **rose up against** - This means to oppose. AT: "opposed" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-  * **The enemies of my master the king, ... should be as that young man is** - The Cushite uses a comparison as a polite way to tell the king that Absalom is dead. This can be stated more directly. AT: "I would like all your enemies ... to die the way that young man died" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_euphemism]])
-  * **unnerved** - "upset" 
+  * **The enemies of my master the king, ... should be as that young man is** - This is a polite way of saying that Absalom had died.  It can be stated in active form. "I would like all your enemies ... to die the way that young man died" (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -56,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

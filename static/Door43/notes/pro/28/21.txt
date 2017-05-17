@@ -22,7 +22,8 @@
 \q2 some people will do what is wrong just to get a piece of bread.
 \q1
 \v 22 A man who hates to spend his money will run to more,
-\q2 but he does not know that poverty is coming to him.
+\q2 but he does not know that poverty is coming to him. 
+
 
 \q1
 </usfm>
@@ -32,10 +33,10 @@
 
 <usfm>
 \q
-\v 21 It is not good to show partiality,
-\q but for a piece of bread a man will do wrong.
+\v 21 It is not good to show partiality, 
+\q but for a piece of bread a man will do wrong. 
 \q
-\v 22 A stingy man hurries after riches,
+\v 22 A stingy man hurries after riches, 
 \q but he does not know that poverty will come upon him.
 </usfm>
 
@@ -48,11 +49,10 @@
 
 ===== translationNotes: =====
 
-  * **for a piece of bread a man will do wrong** - A small bribe is spoken of in an exaggerated way here as just a piece of bread. AT: "a man will sin for very little gain" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **do wrong** - "sin"
-  * **A stingy man** - "A selfish man." This is a person who does not like to share his possessions or spend money.
-  * **hurries after riches** - The stingy man is spoken of as if he was chasing after wealth. AT: "is greedy for riches" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **poverty will come upon him** - The result of being stingy is spoken of as if poverty was overtaking the stingy person. The abstract noun "poverty" can be translated as an adjective. AT: "he will suddenly become poor" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_abstractnouns]]) 
+  * **for a piece of bread a man will do wrong** - AT: "a man will sin for very little gain" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **A stingy man** - a person who does not like to share his possessions
+  * **hurries after riches** - is greedy for riches.
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -60,6 +60,6 @@
   * [[:en:bible:questions:comprehension:pro:28]]
 **[[:en:bible:notes:pro:28:19|<<]] | [[:en:bible:notes:pro:28:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -36,12 +36,12 @@
 ===== translationNotes: =====
 
 
-  * **Then the city was broken into** - This can be translated in active form. AT: "Then the Babylonian army broke into the city" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **all the fighting men** - "all the warriors"
-  * **by the way of the gate** - "by using the gate"
-  * **the Chaldeans** - Some translations use "Chaldeans" and others use "Babylonians." Both terms refer to the same people group.
-  * **The king went in the direction of** - "King Zedekiah also fled and he went toward"
-  * **All his army was scattered away from him** - This can be translated in active form. AT: "His whole army ran away from him" or "The Chaldeans chased away his whole army" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Then the city was broken into** - AT: "Then the Babylonian army broke into the city," (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **all the fighting men** - AT: "all the warriors"
+  * **by the way of the gate** - AT: "by using the gate"
+  * **the Chaldeans** - Some translations use "Chaldeans" and others use "Babylonians". Both terms mean the same group.
+  * **The king went in the direction of** - AT: "King Zedekiah also fled and he went toward" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **All his army was scattered away from him** - AT: "His whole army ran away from him." or "The Chaldeans chased away his whole army." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
  
 ===== Links: =====
@@ -54,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass arabah overtake}}
+{{tag>publish p2edit arabah overtake}}
 
 ~~NOCACHE~~

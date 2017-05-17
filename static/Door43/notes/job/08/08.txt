@@ -44,6 +44,7 @@
 \q
 \v 10 Will they not teach you and tell you?
 \q Will they not speak words from their hearts?
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -55,12 +56,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Bildad continues to use parallelism in each of these verses to emphasize that their ancestors agree with the things Bildad is telling Job. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - The writer continues to use parallelism in each of these verses, conveying a single idea using two different statements to emphasize the people's capacity to learn from their ancestors, given the brevity of life and the ancestors' willingness to impart teachings. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **give your attention to what our ancestors learned** - "study carefully what our ancestors discovered" or "consider the things our forefathers learned"
-  * **our days on earth are a shadow** - The shortness of life is spoken of as if it were a shadow which quickly disappears. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Will they not teach you and tell you? Will they not speak words from their hearts?** - Bildad uses these rhetorical questions to rebuke Job for not agreeing with Bildad and the ancestors. They can be translated as statements. AT: "They will teach you and tell you and speak what they sincerely believe." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **from their hearts** - Here the word "hearts" represents their inner beliefs. AT: "that they sincerely believe" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **give your attention to what our ancestors learned** - "study carefully what our ancestors discovered" or "consider what our forefathers learned"
+  * **our days on earth are a shadow** - In this simile, life is compared to a shadow; both pass by quickly. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Will they not teach you and tell you? Will they not speak words from their hearts?** - Bildad poses these questions to rebuke Job. AT: "They will teach you and tell you, and from their understanding bring forth words." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:job:08]]
 **[[:en:bible:notes:job:08:06|<<]] | [[:en:bible:notes:job:08:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

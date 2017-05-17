@@ -20,7 +20,7 @@
 <usfm>
 \v 23 A field owned by a poor person can produce much food,
 \q2 but the poor are victims of injustice more than the rich,
-\q2 and the crop is not planted.
+\q2 and the crop is not planted. 
 \q1
 \v 24 A parent who does not train his child in how he should live,
 \q2 does not show him any love,
@@ -35,11 +35,11 @@
 
 <usfm>
 \q
-\v 23 An unplowed field owned by the poor could produce much food,
+\v 23 An unplowed field owned by the poor could produce much food, 
 \q but it is swept away by injustice.
 \q
 \v 24 The one who does not discipline his son hates him,
-\q but one who loves his son is careful to instruct him.
+\q but one who loves his son is careful to discipline him.
 </usfm>
 
 
@@ -51,9 +51,10 @@
  
 ===== translationNotes: =====
 
-  * **An unplowed field** - "A field that is not prepared for food production" or "An empty field not ready for planting"
-  * **but it is swept away by injustice** - "Swept away" represents completely removing something. This can be stated in active from. AT: "but injustice takes away that food" or "but unjust people take the food away" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **is careful to instruct him** - "makes sure to instruct him"
+  * **An unplowed field** - AT: "A field that is not prepared for food production" or "An empty and un-worked field"
+  * **but it is swept away by injustice** - AT: "but injustice takes away that food" or "but unjust people take it away" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **is careful to discipline him** - "makes sure to discipline him" or "intents to discipline him"
+ 
 
  
 ===== Links: =====
@@ -69,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

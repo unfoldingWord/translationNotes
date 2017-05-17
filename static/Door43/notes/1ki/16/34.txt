@@ -15,7 +15,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 34 During Ahab's rule, Hiel of Bethel rebuilt Jericho. Hiel laid the foundation of the city at the cost of the life of Abiram, his firstborn son; and Segub, his youngest son, lost his life while he was building the gates of the city, in keeping with the word of Yahweh which he spoke by Joshua son of Nun.
+\v 34 In his days Hiel the Bethelite rebuilt Jericho. He laid the foundation of the city with the loss of Abiram his firstborn, and constructed the gates of the city with the loss of his youngest son Segub, and they did this because they obeyed the word of Yahweh, which he had spoken by Joshua son of Nun.
 </usfm>
 
 ===== translationWords: =====
@@ -25,17 +25,14 @@
   * [[:en:obe:other:foundation]]
   * [[:en:obe:kt:firstborn]]
   * [[:en:obe:kt:gate]]
+  * [[:en:obe:other:obey]]
   * [[:en:obe:kt:wordofgod]]
   * [[:en:obe:other:joshua]]
 
 ===== translationNotes: =====
 
-  * **at the cost of the life of Abiram, his firstborn son** - The consequence of building the city is spoken of as if it were a cost that Hiel paid. AT: "and the consequence of his sin was that Abiram, his firstborn son, died"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Segub, his youngest son, lost his life** - Dying is spoken of as if he lost his life. AT: "Segub, his youngest son, died" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **while he was building the gates of the city** - "while Hiel was building the gates of the city"
-  * **in keeping with the word of Yahweh** - "according to the word of Yahweh" 
-  * **the word of Yahweh** - Here the word "word" represents a message. AT: "the message of  Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **which he spoke by Joshua son of Nun** - Speaking "by" someone represents both telling someone to speak and the person doing it. AT: "which Yahweh caused Joshua son of Nun to speak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **In his days** - Here the word "his" refers to Ahab.
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -43,6 +40,6 @@
   * [[:en:bible:questions:comprehension:1ki:16]]
 **[[:en:bible:notes:1ki:16:31|<<]] | [[:en:bible:notes:1ki:17:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

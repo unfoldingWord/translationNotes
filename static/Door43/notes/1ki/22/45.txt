@@ -26,7 +26,7 @@
 
 <usfm>
 \p
-\v 45 As for the other matters concerning Jehoshaphat, and the might that he showed, and how he waged war, are they not written in the book of the events of the kings of Judah?
+\v 45 As for the other matters concerning Jehoshaphat, and the might that he showed, and how he waged war, are they not written in The Book of the Events of the Kings of Judah?
 \v 46 He removed from the land the rest of the cultic prostitutes who had remained in the days of his father Asa.
 \v 47 There was no king in Edom, but a deputy ruled there.
 </usfm>
@@ -40,7 +40,7 @@
 
 ===== translationNotes: =====
 
-  * **are they not written in the book of the events of the kings of Judah?** - This can be expressed in active form and assumes that the answer is positive. The question is rhetorical and is used for emphasis. See how you translated this in [[:en:bible:notes:1ki:14:29|14:29]]. AT: "they are written in the book of the events of the kings of Judah." or "you can read them in the book of the events of the kings of Judah." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **are they not written in The Book of the Events of the Kings of Judah?** - See how you translated this in [[:en:bible:notes:1ki:14:29|14:29]]. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:22]]
 **[[:en:bible:notes:1ki:22:43|<<]] | [[:en:bible:notes:1ki:22:48|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

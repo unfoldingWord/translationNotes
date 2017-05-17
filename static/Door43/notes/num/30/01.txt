@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 Moses spoke with the leaders of the Israelite tribes. He told them these commands that Yahweh had given to him:
+\v 1 Moses spoke with the leaders of the Israelite tribes. He told them these commands that Yahweh had given to him: 
 \p
 \v 2 "If a man solemnly promises Yahweh that he will do something, he must do what he promised.
 
@@ -46,10 +46,10 @@
 ===== translationNotes: =====
 
   * **When anyone makes a vow to Yahweh, or swears an oath** - These two sentences have similar meanings and are combined to emphasize making a vow or promise. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **to bind himself with a promise** - Here Moses speaks of a person promising to do something as if his promise were a physical object that he ties to himself. AT: "committing to fulfill a promise" or "promising to do something" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he must not break his word. He must keep his promise to do everything that comes out of his mouth** - These two sentences have similar meanings and are combined to emphasize that he must fulfill his promises. Here "word" is a metonym that refers to what he said. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **to bind himself with a promise** - Here Moses speaks of a person promising to do something as if his promise were a physical object the he ties to himself. AT: "committing to fulfill a promise" or "promising to do something" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he must not break his word. He must keep his promise to do everything that comes out of his mouth** - These two sentences have similar meanings and are combined for emphasize that he must fulfill his promises. Here "word" is a metonymy refers to what he said. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **he must not break his word** - The phrase "his word" refers to a man's oaths and vows. Here Moses speaks of not fulfilling these as if they were physical objects that the man could break. AT: "he must fulfill his promises" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **everything that comes out of his mouth** - Here the word "mouth" is a metonym for the things that the man says. AT: "to do everything that he says he will do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **everything that comes out of his mouth** - This phrase is an metonym for the things that the man says. AT: "to do everything that he says he will do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 
 ===== Links: =====
@@ -59,6 +59,6 @@
   * [[:en:bible:questions:comprehension:num:30]]
 **[[:en:bible:notes:num:29:39|<<]] | [[:en:bible:notes:num:30:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass promise}}
+~~DISCUSSION~~{{tag>publish p2check promise}}
 
 ~~NOCACHE~~

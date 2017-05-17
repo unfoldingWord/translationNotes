@@ -17,11 +17,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 31 The people of the tribe of Benjamin lived in Geba, Micmash, Aija, Bethel and its nearby villages,
+\v 31 The people of the tribe of Benjamin lived in Geba, Micmash, Aija which is also known as Ai, Bethel, and in nearby villages,
 \v 32 in Anathoth, in Nob, in Ananiah,
 \v 33 in Hazor, in Ramah, in Gittaim,
 \v 34 in Hadid, in Zeboim, in Neballat,
-\v 35 in Lod, in Ono, and in Craftsmen's Valley.
+\v 35 in Lod, in Ono, and in craftsmen's valley.
 \p
 \v 36 Some of the Levites who had lived in Judea were sent to live with the people of Benjamin.
 </usfm>
@@ -30,8 +30,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 31 The people of Benjamin also lived from Geba onward, at Michmash and Aija, at Bethel and its villages,
-\v 32 at Anathoth, Nob, Ananiah,
+\v 31 The people of Benjamin also lived from Geba onward, at Michmash and Aija, and at Bethel and its villages.
+\v 32 They also lived at Anathoth, Nob, Ananiah,
 \v 33 Hazor, Ramah, Gittaim,
 \v 34 Hadid, Zeboim, Neballat,
 \v 35 Lod, and Ono, the valley of craftsmen.
@@ -49,11 +49,11 @@
   * [[:en:obe:other:kingdomofjudah]]
 ===== translationNotes: =====
 
-  * **The people of Benjamin also lived from Geba onward, at Michmash and Aija** - "The people of Benjamin lived in Geba, Michmash and Aija"
-  * **Geba ... Michmash ... Aija ... Bethel ... Anathoth, Nob, Ananiah, Hazor, Ramah, Gittaim, Hadid, Zeboim, Neballat, Lod ... Ono ... Judah** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Geba ... Michmash ... Aija ... Bethel ... Anathoth, Nob, Ananiah, Hazor, Ramah, Gittaim, Hadid, Zeboim, Neballat, Lod ... Ono ... Judah** - These are names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **The people of Benjamin also lived from Geba onward, at Michmash and Aija** - "The people of Benjamin lived in Geba, Michmash and Aija.
   * **Aija** - This is possibly another name for the town of Ai.
-  * **the valley of craftsmen** - Possible meanings are 1) this is a description of Ono or 2) it is "Craftsmen's Valley" (see UDB) or "the Valley of Craftsmen," another name for Ono, or 3) it is a different place from Ono, "and the Valley of Craftsmen." (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Some of the Levites who lived in Judah were assigned to the people of Benjamin** - "Some of the Judean divisions of Levites were assigned to live with the people of Benjamin"
+  * **the valley of craftsmen** - This valley was called "Ge-harashim" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Some of the Levites who lived in Judah were assigned to the people of Benjamin** - "Some of the Judean divisions of Levites were assigned to live with the people of Benjamin."
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -67,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

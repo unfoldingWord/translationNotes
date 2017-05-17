@@ -21,15 +21,16 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 As often as I try to heal Israel,
+\v 1 As often as I try to heal Israel, 
 \q2 the people openly show that they are sinning,
 \q1 and the people in the city of Samaria show the same thing.
-\q2 They lie and cheat in their buying and selling;
-\q1 they are like lawless men who attack people who are walking in the streets.
+\q2 They lie and cheat in their buying and selling; 
+\q1 they are like lawless men who attack people who are walking in the streets. 
 \q1
-\v 2 But they do not take a moment to think that I, Yahweh, see everything they do.
+\v 2 But they do not take a moment to think that I, Yahweh, see everything they do. 
 \q2 Everywhere they go, they commit evil,
 \q1 and I see it all.
+\b
 
 
 \q1
@@ -40,9 +41,9 @@
 
 <usfm>
 \c 7
-\m
+\p
 \q
-\v 1 Whenever I want to heal Israel,
+\v 1 Whenever I want to heal Israel, 
 \q the sin of Ephraim is exposed,
 \q as well as the evil deeds of Samaria,
 \q for they practice deceit;
@@ -83,6 +84,6 @@
   * [[:en:bible:questions:comprehension:hos:07]]
 **[[:en:bible:notes:hos:06:10|<<]] | [[:en:bible:notes:hos:07:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

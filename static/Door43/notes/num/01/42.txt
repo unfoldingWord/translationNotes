@@ -10,6 +10,7 @@
 
 <usfm>
 \v 42-43 There were 53,400 men from the tribe of Naphtali who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.
+\b
 
 
 \p
@@ -40,6 +41,6 @@
   * [[:en:bible:questions:comprehension:num:01]]
 **[[:en:bible:notes:num:01:40|<<]] | [[:en:bible:notes:num:01:44|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

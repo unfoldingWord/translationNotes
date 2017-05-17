@@ -40,12 +40,11 @@
 
 ===== translationNotes: =====
 
-  * **Now look** - "Listen" or "Pay attention to what I am about to tell you"
-  * **the words of the prophets declare good things to the king with one mouth** - The prophets all saying the same thing is spoken of as if they all spoke with the same mouth. The phrase "the words of the prophets" represents the message that the prophets declare. AT: "the prophets all declare the same good things to the king" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **let your word be like one of them** - Here the word "them" refers to "the words of the prophets." AT: "let what you say agree with what they have said" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Now look** - AT: "Listen" or "Pay attention to what I am about to tell you"
+  * **the words of the prophets declare good things to the king with one mouth** - The phrase "with one mouth" means that they all say the same thing. AT: "the prophets all declare the same good things to the king" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **let your word be like one of them** - Here the word "them" refers to "the words of the prophets." AT: "let what you say agree with what they have said"
   * **should we go** - The word "we" refers to Ahab, Jehoshaphat, and their armies but not to Micaiah. (See: [[:en:ta:vol2:translate:figs_exclusive]])
-  * **will give it into the hand of the king** - Here the word "hand" refers to power. AT: "will allow the king to capture it" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **will hand it over to the king** - See how you translated this in [[:en:bible:notes:1ki:22:05|22:6]].
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -53,6 +52,6 @@
   * [[:en:bible:questions:comprehension:1ki:22]]
 **[[:en:bible:notes:1ki:22:10|<<]] | [[:en:bible:notes:1ki:22:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

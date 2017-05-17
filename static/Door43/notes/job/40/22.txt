@@ -37,7 +37,7 @@
 \q the willows of the brook are all around him.
 \q
 \v 23 See, if a river floods its banks, he does not tremble;
-\q he is confident, though the Jordan should surge up to his mouth.
+\q he is confident, though a Jordan River should surge up to his snout.
 \q
 \v 24 Can anyone capture him with a hook,
 \q or pierce his nose through with a snare?
@@ -50,11 +50,10 @@
 
 ===== translationNotes: =====
 
-  * **lotus plant** - a flowering plant that floats on top of the water in swampy areas. Translate as in [[:en:bible:notes:job:40:19|40:19]].
-  * **willows of the brook** - Willows are large trees that grow in damp ground. If they are unknown in your culture, you can use a general term for trees that grow near water.
+  * **lotus plant** - See how you translated this in [[:en:bible:notes:job:40:19|40:19]]
   * **banks** - sides of the river
-  * **though a Jordan River should surge up to his snout** - "even if the flood comes up to his nose" 
-  * **Can anyone capture him with a hook ... snare?** - This can be translated as a statement. AT: "You know that no one can capture him with a hook or pierce his nose through with a snare" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **though a Jordan River should surge up to his snout** - AT: " even if the flood comes up to his nose." 
+  * **Can anyone capture him with a hook ... snare?** - This is a rhetorical question to be answered in the negative. AT: "No one can capture him even with a hook or a snare." (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -63,6 +62,6 @@
   * [[:en:bible:questions:comprehension:job:40]]
 **[[:en:bible:notes:job:40:19|<<]] | [[:en:bible:notes:job:41:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

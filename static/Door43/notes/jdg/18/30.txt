@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 30 The people of Dan set up the carved figure for themselves. Jonathan son of Gershom, son of Moses, he and his sons were priests for the tribe of the Danites until the day of the land's captivity.
+\v 30 The people of Dan set up the carved figure for themselves. And Jonathan, son of Gershom, son of Moses, he and his sons were priests for the tribe of the Danites until the day of the land's captivity.
 \v 31 So they worshiped Micah's carved figure that he made as long as the house of God was at Shiloh.
 </usfm>
 
@@ -37,7 +37,7 @@
 
 ===== translationNotes: =====
 
-  * **And Jonathan son of Gershom, son of Moses** - This is the name of the young Levite who used to serve as priest for Micah. This can be made explicit. AT: "The young Levite's name was Jonathan the son of Gershom, son of Moses, and" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol1:translate:translate_names]])
+  * **And Jonathan, son of Gershom, son of Moses** - This is the name of the young Levite who used to serve as priest for Micah. This can be made explicit. AT: "The young Levite's name was Jonathan, the son of Gershom, son of Moses, and" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol1:translate:translate_names]])
   * **until the day of the land's captivity** - This refers to a time later on when the people of Dan would be captured by their enemies. Here the land being conquered is spoken of as if it were a prisoner taken captive by an enemy. AT:  "until the day that their enemies conquered their land" or "until the day that their enemies took them captive" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **that he had made** - Micah did not make his gods, rather the craftsman made them for him. AT: "that had been made for him" or "that his craftsman had made for him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:jdg:18]]
 **[[:en:bible:notes:jdg:18:27|<<]] | [[:en:bible:notes:jdg:19:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass houseofgod shiloh}}
+~~DISCUSSION~~{{tag>publish p2check houseofgod shiloh}}
 
 ~~NOCACHE~~

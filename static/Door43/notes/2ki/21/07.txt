@@ -46,12 +46,13 @@
   * [[:en:obe:other:moses]]
 ===== translationNotes: =====
 
-  * **General Information:** - The story of King Manasseh's reign continues.
+  * **General Information:** - The story of King Mannaseh's reign continues.
 
-  * **that he had made** - Manasseh probably did not do the work. His servants would have done the work. AT: "that Manasseh had ordered his servants to make" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **that I will put my name forever** - "where I want people to worship me forever" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the feet of Israel** - The feet are a synecdoche for the person, and the name of the people group is a synecdoche for the people themselves. AT: "the Israelites" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **even more than the nations that Yahweh had destroyed before the people of Israel** - Here "nations" refers to the people who had lived in the land of Canaan before the Israelites had arrived. AT: "even more than the people whom Yahweh had destroyed as the people of Israel advanced through the land" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **that he had made** - "that Manasseh had ordered to be made,"
+  * **I will put my name forever** - "where I want people to worship me forever." (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the feet of Israel** - AT: "the Israelites" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **destroyed before the people of Israel** - AT: "destroyed, the people who lived in the land before the Israelites arrived."
+
  
 ===== Links: =====
 
@@ -66,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

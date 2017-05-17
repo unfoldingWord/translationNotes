@@ -27,7 +27,7 @@
 <usfm>
 \p
 \v 14 So the steward agreed with him to do this, and he tested them for ten days.
-\v 15 At the end of ten days their appearance was more healthy, and they were better nourished, than all the young men who ate the king's delicacies.
+\v 15 At the end of ten days their appearance was more healthy, and they were better nourished, than all the young men who ate the king's delicacies. 
 \v 16 So the steward took away their delicacies and their wine and gave them only vegetables.
 </usfm>
 
@@ -40,8 +40,8 @@
 
 ===== translationNotes: =====
 
-  * **tested them ... their appearance ... they were ... their delicacies ... their wine** - All of these pronouns refer to Daniel, Hananiah, Mishael, and Azariah. 
   * **nourished** - This means to have been made healthy from what you have eaten.
+  * **their delicacies and their wine** - The word "their" refers to Daniel and his three friends.
 
 ===== Links: =====
 
@@ -50,4 +50,4 @@
   * [[:en:bible:questions:comprehension:dan:01]]
 **[[:en:bible:notes:dan:01:11|<<]] | [[:en:bible:notes:dan:01:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}

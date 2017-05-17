@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 24 Then Zedekiah walked over to Micaiah and slapped him on his face. He said, "Do you think that Yahweh's Spirit left me in order to speak to you?"
+\v 24 Then Zedekiah walked over to Micaiah and slapped him on his face. He said, "Do you think that Yahweh's Spirit left me in order to speak to you?" 
 \p
 \v 25 Micaiah replied, "You will find out for yourself to which of us Yahweh's Spirit has truly spoken on the day when you go into a room of some house to hide from the Aramean troops!"
 
@@ -39,9 +39,9 @@
 
 ===== translationNotes: =====
 
-  * **Which way did the Spirit of Yahweh take to go from me to speak to you?** - Zedekiah asks this sarcastic question to insult and rebuke Micaiah. AT: "Do not think that Yahweh's Spirit left me to speak to you!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Look** - "Listen" or "Pay attention to what I am about to tell you"
-  * **you will know that** - "you will know the answer to your question." If Zedekiah's rhetorical question is translated as a statement, this phrase may be translated to supply implicit information. AT: "you will know that the Spirit of Yahweh has spoken to me" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Which way did the Spirit of Yahweh take to go from me to speak to you?** - Zedekiah asks this sarcastic question to rebuke Micaiah. AT: "You should not think that Yahweh's Spirit left me to speak to you!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Look** - AT: "Listen" or "Pay attention to what I am about to tell you"
+  * **you will know that** - AT: "you will know who is prophesying the truth" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 
 ===== Links: =====
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1ki:22]]
 **[[:en:bible:notes:1ki:22:21|<<]] | [[:en:bible:notes:1ki:22:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

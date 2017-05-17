@@ -22,11 +22,13 @@
 <usfm>
 \v 47 Yahweh our God, rescue us
 \q1 and bring us back to Israel from among those people groups
-\q2 so that we may thank you
+\q2 so that we may thank you 
 \q2 and joyfully praise you.
+\b
 \q1
 \v 48 Praise Yahweh, the God whom we Israelites worship,
 \q1 praise him now and forever!
+\b
 \q1 All the people should agree!
 \q2 Praise Yahweh!
 </usfm>
@@ -39,8 +41,9 @@
 \q Gather us from among the nations
 \q so that we may give thanks to your holy name
 \q and glory in your praises.
+\b
 \q
-\v 48 May Yahweh, the God of Israel, be praised
+\v 48 May Yahweh, the God of Israel, be praised 
 \q from everlasting to everlasting.
 \q All the people said, "Amen."
 \q Praise Yahweh.
@@ -72,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:106]]
 **[[:en:bible:notes:psa:106:044|<<]] | [[:en:bible:notes:psa:107:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

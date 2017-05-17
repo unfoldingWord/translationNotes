@@ -41,10 +41,9 @@
 
 ===== translationNotes: =====
 
-  * **It is as you say** - This is an idiom to express agreement. AT: "I agree with you" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **It is as you say** - AT: "I agree with you" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **tomorrow about this time** - "tomorrow at the same time of day that it is now"
-  * **whatever pleases their eyes** - "Pleasing their eyes" is metonymy for looking at something and desiring it. AT: "whatever pleases them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **whatever pleases their eyes** - AT: "whatever pleases them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -52,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1ki:20]]
 **[[:en:bible:notes:1ki:20:01|<<]] | [[:en:bible:notes:1ki:20:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

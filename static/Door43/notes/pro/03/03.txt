@@ -17,11 +17,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 Treat others with tenderness and always speak the truth to them.
-\q2 Let tenderness and truth guide you in every relationship,
-\q2 as if they both were on a necklace you wear, a necklace that guides you in everything you say.
+\v 3 Treat others with tenderness and always speak the truth to them. 
+\q2 Let tenderness and truth guide you in every relationship, 
+\q2 as if they both were on a necklace you wear, a necklace that guides you in everything you say. 
 \q1
-\v 4 Then you will experience God's delight in you,
+\v 4 Then you will experience God's delight in you, 
 \q2 and people will also approve of you.
 
 
@@ -50,10 +50,11 @@
 
 ===== translationNotes: =====
 
-  * **Do not let covenant faithfulness and trustworthiness ever leave you** - The writer speaks of "covenant faithfulness" and "trustworthiness" as if they were people who could leave someone. The negative command can be stated positively. AT: "Make sure always to practice covenant faithfulness and to be trustworthy" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **tie them together about your neck** - The writer speaks of faithfulness and trustworthiness as if they were objects that a person could tie around the neck like a necklace. The image suggests that these are valuable things that the person displays outwardly. AT: "display them proudly like one would wear a necklace" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **write them on the tablet of your heart** - Here the heart represents a person's mind. The mind is spoken of as if it were a tablet upon which someone can write messages and commands. AT: "always remember them, as if you had written them permanently on a tablet" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **in the sight of God and man** - Here sight represents judgment or evaluation. AT: "in the judgment of God and man" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Do not let covenant faithfulness and trustworthiness ever leave you** - "Always be faithful and trustworthy" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **write them on the tablet of your heart** - "make them part of your inner being so you do not forget them as if they were words written on stone" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you will find favor ... in the sight of God** - "God will show you how happy he is with you"
+  * **find favor** - This means that someone is approved of by someone else.
+  * **you will find ... a good reputation ... in the sight of ... man** - "people ... will think that you are a good person"
  
 ===== Links: =====
 
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:03]]
 **[[:en:bible:notes:pro:03:01|<<]] | [[:en:bible:notes:pro:03:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

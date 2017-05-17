@@ -26,8 +26,9 @@
 
 <usfm>
 \c 100
-\m
+\p
 \d A psalm of thanksgiving.
+\b
 \q
 \v 1 Shout joyfully to Yahweh, all the earth.
 \q
@@ -45,10 +46,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **Shout joyfully to Yahweh** - "Raise a shout to Yahweh." See how "shout" is translated in [[:en:bible:notes:psa:047:001|47:1]].
-  * **all the earth** - This refers to all the people of the earth. AT: "everyone on the earth" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **all the earth** - "everyone on the earth" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **come before his presence** - The psalmist speaks as if he is telling the readers to go into the throne room of a king. AT: "go to where he is with joyful singing" or "he can hear you, so sing joyfully" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:psa:100]]
 **[[:en:bible:notes:psa:099:008|<<]] | [[:en:bible:notes:psa:100:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

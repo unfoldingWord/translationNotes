@@ -16,7 +16,7 @@
 
 <usfm>
 \p
-\v 9 If someone very suddenly dies beside him and defiles his consecrated head, then he must shave his head on the day of his purification—on the seventh day he must shave it.
+\v 9 If someone very suddenly dies beside him and defiles his separated person, then he must shave his head on the day of his cleansing which must be after seven days. That is when he must shave his head.
 </usfm>
 
 ===== translationWords: =====
@@ -26,10 +26,10 @@
 
 ===== translationNotes: =====
 
-  * **defiles his consecrated head** - Here "head" represents the Nazirite man's hair, which symbolizes his vow. AT: "defiles his long hair which shows everyone he is separated to God" or "he becomes defiled" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **on the day of his purification** - The abstract noun "purification" can be stated as the verbal phrase. AT: "on the day when he makes himself acceptable to God" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **the seventh day** - "the 7th day" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-
+  * **separated** - Here "separation" means "dedication." AT: "dedicated" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **his separated person** - This refers to Nazirite man, specifically his body, in regard to the vow he has taken. AT: "the Nazirite man" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **on the day of his cleansing** - The abstract noun "cleansing" can be stated as the verbal phrase. AT: "on the day when he makes himself acceptable to God" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **That is when he must shave his head** - He does not shave his head on the seventh day, he shaves it on the eighth day. AT: "Then on the eight day, he must shave his head" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -37,6 +37,6 @@
   * [[:en:bible:questions:comprehension:num:06]]
 **[[:en:bible:notes:num:06:06|<<]] | [[:en:bible:notes:num:06:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

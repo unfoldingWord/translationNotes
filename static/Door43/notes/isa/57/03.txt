@@ -38,12 +38,13 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 3 But come here, you sons of the sorceress,
+\v 3 But come here, you sons of the sorceress, 
 \q1 children of the adulterer and the woman who has prostituted herself.
 \q1
-\v 4 Whom are you merrily mocking?
-\q1 Against whom are you opening the mouth and sticking out the tongue?
+\v 4 Whom are you merrily mocking? 
+\q1 Against whom are you opening the mouth and sticking out the tongue? 
 \q1 Are you not children of rebellion, children of deceit?
 </usfm>
 
@@ -61,9 +62,9 @@
 
 ===== translationNotes: =====
 
-  * **But come here** - God is calling all of the unfaithful people to come before him so he can judge them in a strong contrast to the promises for the righteous that came before.
-  * **sons of the sorceress** - This is a strong insult against the people who practice sorcery because sorcery and magic includes idolatry. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **children of the adulterer and the woman who has prostituted herself** - This refers to actual and spiritual adultery. They have abandoned the worship of God and now worship other gods and idols along with actual prostitution in pagan Canaanite ceremonies.
+  * **But come here** - God is calling all of the unfaithful people to come before him so he can judge them.
+  * **sons of the sorceress** - Here, calling them people who practice sorcery is a way of saying that the people of Judah are idolaters. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **children of the adulterer and the woman who has prostituted herself** - This refers mainly to spiritual adultery. They have abandoned the worship of God and now worship other gods and idols. And yet, prostitution was involved in pagan Canaanite ceremonies.
   * **Whom are you merrily mocking? Against whom are you opening the mouth and sticking out the tongue?** - Yahweh uses questions to scold the people who are mocking him through false worship. AT: "You are mocking me and making fun of me by opening your mouth wide and sticking out the tongue!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Are you not children of rebellion, children of deceit?** - Yahweh uses another question to scold the people. This does not refer to their birth but to their spiritual state. AT: "You are children of rebellion, children of deceit!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
@@ -74,6 +75,6 @@
   * [[:en:bible:questions:comprehension:isa:57]]
 **[[:en:bible:notes:isa:57:01|<<]] | [[:en:bible:notes:isa:57:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

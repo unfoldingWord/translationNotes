@@ -17,8 +17,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 Then the king of the South will become very angry; he will go and fight against him, the king of the North. The king of the North will raise up a great army, but the army will be given into his hand.
-\v 12 The army will be carried off, and the heart of the king of the South will be lifted up, and he will make tens of thousands to fall, but he will not be victorious.
+\v 11 The king of the South will march out in a rage and will fight against the king of the North. The king of the North will raise up a great army, but it will delivered over into the hand of the king of the South.
+\v 12 When the army is carried off, the king of the South will be filled with pride, and will have many thousands of his enemies killed. But he will not succeed.
 </usfm>
 
 ===== translationWords: =====
@@ -31,12 +31,11 @@
 
   * **General Information:** - The angel continues speaking to Daniel.
 
-  * **will raise up a great army** - "will assemble a great army"
-  * **the army will be given into his hand** - Here "hand" represents the control of the king of the South. AT: "the king will surrender the army to the king of the South" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The army will be carried off** - This may be expressed in active form. AT: "The king of the South will capture the army of the North" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **will be lifted up** - Being lifted up represents the idea of becoming very proud. AT: "will become very proud" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **will make tens of thousands to fall** - Here falling represents dying in battle. AT: "will have his army kill many thousands of his enemies" or "will kill many thousands of his enemies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **tens of thousands** - "many thousands" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **it will be delivered over into the hand of the king of the South** - AT: "God will hand the army over to the king of the South" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **When the army is carried off** - AT: "When the king of the South captures the army of the North"
+  * **will be filled with pride** - "will become very proud"
+  * **will have many thousands of his enemies killed** - "will have his army kill many thousands of his enemies" or "will kill many thousands of his enemies" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **many thousands** - See [[:en:ta:vol2:translate:translate_numbers]].
  
 ===== Links: =====
 
@@ -45,6 +44,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:10|<<]] | [[:en:bible:notes:dan:11:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -31,11 +31,11 @@
 <usfm>
 \q1
 \v 12 Therefore the Holy One of Israel says,
-\q1 "Because you reject this word
+\q1 "Because you reject this word 
 \q1 and trust in oppression and deceit and lean on it,
 \q1
 \v 13 so this sin will be to you
-\q1 like a broken part ready to fall, like a bulge in a high wall
+\q1 like a broken part ready to fall, like a bulge in a high wall 
 \q1 whose fall will happen suddenly, in an instant."
 </usfm>
 
@@ -51,13 +51,10 @@
 
 ===== translationNotes: =====
 
-  * **Holy One of Israel** - Translate this the same way you did in [[:en:bible:notes:isa:01:04|1:4]].
-  * **you reject this word** - Here "word" represents a message. AT: "you reject this message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **trust in oppression and deceit and lean on it** - Possible meanings are 1) the leaders of Judah are trusting in the Egyptian leaders who rule by oppressing and deceiving others or 2) the leaders of Judah have oppressed and deceived their own people in order to take their money and send it to the Egyptians leaders as payment for protection. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **lean on it** - Here the word "it" refers to "oppression and deceit." AT: "lean on them" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **lean on** - This is an idiom that means to trust or rely on something. (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-  * **so this sin will be to you like a broken part ... in an instant** - This simile means that God will destroy the people of Judah suddenly because of their sin. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **like a broken part ready to fall** - It is understood that this is a broken part of a wall. AT: "like a broken part of a wall that is ready to fall" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Holy One of Israel** - See how you translated this in [[:en:bible:notes:isa:01:04|1:4]].
+  * **trust in oppression and deceit and lean on it** - Here the word "it" refers to "oppression and deceit." AT: "trust in oppression and deceit and lean on them" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **so this sin will be to you like a broken part ... in an instant** - This emphasizes that God will destroy the people of Judah suddenly because of their sin. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **like a broken part ready to fall** - "like a broken part of a wall that is ready to fall"
   * **whose fall will happen suddenly** - This can be reworded so that the abstract noun "fall" is expressed as the verb "fall." AT: "that will suddenly fall" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **suddenly, in an instant** - These mean the same thing and emphasize how quickly the wall will fall. (See: [[:en:ta:vol2:translate:figs_doublet]])
 ===== Links: =====
@@ -67,6 +64,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:30:10|<<]] | [[:en:bible:notes:isa:30:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 31 After him Malchijah, one of the goldsmiths, repaired to the house of the temple servants and the merchants that was opposite the Appointment Gate and the upper living chambers on the corner.
+\v 31 After him Malchijah, one of the goldsmiths, repaired to the house of the temple servants and the merchants that was opposite the Appointment Gate and the upper living chambers on the corner. 
 \v 32 The goldsmiths and the merchants repaired between the upper chamber of the corner and the Sheep Gate.
 </usfm>
 
@@ -37,12 +37,11 @@
  
 ===== translationNotes: =====
 
-  * **After him** - "Next to him"
-  * **Malchijah** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **goldsmiths** - A goldsmith is a person who makes gold jewelry and other gold objects.
-  * **repaired to the house ... merchants repaired** - These phrases refer to repairing the wall. AT: "repaired the wall to the house ... merchants repaired the wall" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **merchants** - "sellers" or "traders" 
-  * **upper living chambers** - the higher-level rooms where people stayed
+  * **Malchijah** - This is the name of a man (See: [[:en:ta:vol1:translate:translate_names]])
+  * **goldsmiths** - "people who worked with gold and made gold objects"
+  * **merchants** - "sellers" or "traders"
+  * **Appointment Gate** - This is the name of an entranceway in the wall. 
+  * **upper living chambers** - "the higher level rooms where people stayed"
   * **Sheep Gate** - This is the name of an entranceway in the wall.
 
 ===== Links: =====
@@ -58,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

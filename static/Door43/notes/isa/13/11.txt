@@ -22,7 +22,7 @@
 \v 11 Yahweh says, "I will punish everyone in the world for the evil things that they do;
 \q2 I will punish the wicked people for the sins that they have committed.
 \q1 I will stop arrogant people from being proud,
-\q2 and I will stop cruel people from being so arrogant.
+\q2 and I will stop ruthless people from acting cruelly.
 \q1
 \v 12 And because I will cause most people to die,
 \q2 people will be harder to find than gold,
@@ -37,7 +37,7 @@
 
 <usfm>
 \q1
-\v 11 I will punish the world for its evil and the wicked for their iniquity.
+\v 11 I will punish the world for its evil and the wicked for their iniquity. 
 \q1 I will put an end to the arrogance
 of the proud and will bring down the arrogance of the ruthless.
 \q1
@@ -56,16 +56,9 @@ of the proud and will bring down the arrogance of the ruthless.
   * [[:en:obe:other:gold]] 
 
 ===== translationNotes: =====
-
-  * **Connecting Statement:** - Yahweh continues to talk about what he will do on the day of Yahweh.
-
-  * **the world** - This refers to "the people of the world." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the wicked ... the proud ... the ruthless** - These phrases refer to people who have these qualities. AT: "wicked people ... proud people ... ruthless people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **the ruthless** - "cruel people"
-  * **and will bring down the arrogance of the ruthless** - Being low often represents being humble. Bringing down people's arrogance represents making them humble. AT: "and will humble the ruthless" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will make men more rare than fine gold** - Why there will be so few people can be stated clearly. AT: "I will cause so many people to die that living people will be more rare than fine gold"  (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **men more rare than fine gold ... mankind harder to find than the pure gold of Ophir** - These two phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **pure gold of Ophir** - Ophir was the name of a place where there was pure gold. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the ruthless** - "those who do not show mercy"
+  * **I will make men more rare than fine gold and mankind harder to find than the pure gold of Ophir** - These two phrases mean basically the same thing. AT: "I will make it harder to find a human being than it is to find fine gold" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **pure gold of Ophir** - Ophir was noted for its large amounts of high quality gold. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -80,6 +73,6 @@ of the proud and will bring down the arrogance of the ruthless.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

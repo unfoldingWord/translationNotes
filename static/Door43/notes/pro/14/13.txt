@@ -18,8 +18,9 @@
 <usfm>
 \v 13 A person can be in great pain and still be able to laugh;
 \q2 a time of great joy may end in grief.
+\b
 \q1
-\v 14 The faithless man will receive from Yahweh what he deserves;
+\v 14 The faithless man will receive from Yahweh what he deserves; 
 \q2 but Yahweh will give a good person what is his.
 
 
@@ -30,8 +31,8 @@
 
 <usfm>
 \q
-\v 13 A heart can laugh but still be in pain
-\q and joy may end up being grief.
+\v 13 A heart can laugh but still be in pain 
+\q and joy may end up being grief. 
 \q
 \v 14 The one who is not faithful will get what his ways deserve,
 \q but a good person will get what is his.
@@ -47,11 +48,11 @@
 
 ===== translationNotes: =====
 
-  * **A heart can laugh** - The word "heart" represents a person's feelings, attitudes and motivations. AT: "A person's feelings can show laughter" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **be in pain** - "experience pain" or "hurt"
-  * **The one who** - "The person who"
-  * **what his ways deserve** - The word "ways" represents a person's conduct of life. AT: "what he deserves, based on how he lived" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **what is his** - "what belongs to him" or "what he has a right to"
+  * **grief** - sorrow, sadness
+  * **The one who** - AT: "The person who"
+  * **what his ways deserve** - AT: "what he deserves, based on how he lived"
+  * **what is his** - AT: "what belongs to him" or "what he has a right to"
  
 ===== Links: =====
 
@@ -60,6 +61,6 @@
   * [[:en:bible:questions:comprehension:pro:14]]
 **[[:en:bible:notes:pro:14:11|<<]] | [[:en:bible:notes:pro:14:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

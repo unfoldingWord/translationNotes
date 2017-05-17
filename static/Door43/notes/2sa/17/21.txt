@@ -39,9 +39,10 @@
  
 ===== translationNotes: =====
 
-  * **It came about** - "It happened." This phrase marks the next event in the storyline. (See: [[:en:ta:vol2:translate:writing_newevent]])
-  * **cross quickly over the water** - Here "the water" refers to the Jordan River. AT: "cross quickly over the river" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **has given such and such advice** - The idiom "such and such" is used in the place of information that is already know by the reader. Here it refers to what Ahithophel advised Absalom in [[:en:bible:notes:2sa:17:01|17:1-3]]. This information can be stated clearly. AT: "has advised that Absalom send him with an army to attack you now" (See:  [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **It came about** - "It happened"
+  * **Jonathan and Ahimaaz** - See how you translated these men's names in [[:en:bible:notes:2sa:15:27|15:27]].
+  * **cross quickly over the water** - Here "the water" refers to the Jordan River. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **has given such and such advice** - The idiom "such and such" refers to what Ahithophel advised Absalom in [[:en:bible:notes:2sa:17:01|17:1-3]]. AT: "has advised that Absalom send him to attack you now" (See:  [[:en:ta:vol1:translate:figs_idiom]])
   * **By morning daylight not one of them had failed to cross over the Jordan** - This negative sentence is used to emphasize that they all crossed the river. It can be stated in a positive form. AT: "By morning daylight every one of them had crossed over the Jordan" (See: [[:en:ta:vol2:translate:figs_litotes]])
 
 ===== Links: =====
@@ -57,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

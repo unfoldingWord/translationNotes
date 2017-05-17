@@ -44,7 +44,7 @@
 \q because he has not been warmed with the wool of my sheep,
 \q
 \v 21 if I have lifted up my hand against fatherless people
-\q because I saw my support in the city gate,
+\q because I saw my support in the city gate, 
 \q then bring charges against me!
 </usfm>
 
@@ -59,14 +59,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues describing situations in which he would deserve God's punishment, but he knows they are not true. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **General Information:** - Job continues describing situations in which he would deserve God's punishment (described in [[:en:bible:notes:job:31:22|31:22]]), but he knows they are not true. (See: [[:en:ta:vol1:translate:figs_hypo]])
 
-  * **if his heart has not blessed me** - The phrase "his heart" represents the poor man who needs clothing. AT: "if he has not blessed me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **because he has not been warmed with the wool of my sheep** - Here "the wool of my sheep" represents blankets or clothing made from the wool of Job's sheep. This can be stated in active form. AT: "because the wool of my sheep has not warmed him" or "because I have not given him clothing made from the wool of my sheep"
-  * **the wool of my sheep** - Here "the wool of my sheep" represents blankets or clothing made from the wool of Job's sheep. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **if I have lifted up my hand against fatherless people** - Lifting up the hand against someone represents threatening to harm him. AT: "if I have threatened to harm fatherless people" See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I saw my support in the city gate** - Here "saw" is a metaphor for "knew," "support" is a metaphor for "approval," and  "the city gate" is a metonym for the leaders who sit at the city gate. AT: "I knew that the leaders at the city gate would approve of me" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **if his heart has not blessed me because he has not been warmed with the wool of my sheep,** - AT: "I have given such people woolen clothing that has kept them warm, and so they have blessed me; but if I had not done that," (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I have lifted up my hand against** - AT: "I have threatened to harm" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **in the city gate** - This is where the important men of the city would gather to make decisions.
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -74,6 +73,6 @@
   * [[:en:bible:questions:comprehension:job:31]]
 **[[:en:bible:notes:job:31:16|<<]] | [[:en:bible:notes:job:31:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

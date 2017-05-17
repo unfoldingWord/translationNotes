@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 21 The king and his noblemen were pleased with this advice, and the king did as Memucan proposed.
+\v 21 The king and his noblemen were pleased with this advice, and the king did as Memucan proposed. 
 \v 22 He sent out letters to all the royal provinces, to each province in its own writing, and to each people in their own language. He ordered that every man should be master of his own household. This decree was given in the language of each people in the empire.
 </usfm>
 
@@ -30,12 +30,9 @@
 
 ===== translationNotes: =====
 
-  * **Memucan** - Translate his name as in [[:en:bible:notes:est:01:13|1:14]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **province** - A "province" is a large area into which some countries are divided for the purposes of government. Translate this as in [[:en:bible:notes:est:01:01|1:1]].
-  * **every man should be master of his own household** - "all men should have complete authority over their wives and their children" (UDB)
-  * **This decree was given** - This can be stated in active form. AT: "They wrote this decree" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
-
+  * **Memucan** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **province** - Use the same word or phrase used in [[:en:bible:notes:est:01:01|Esther 1:1]].
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -43,6 +40,6 @@
   * [[:en:bible:questions:comprehension:est:01]]
 **[[:en:bible:notes:est:01:19|<<]] | [[:en:bible:notes:est:02:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass decree}}
+~~DISCUSSION~~{{tag>publish p2edit decree}}
 
 ~~NOCACHE~~

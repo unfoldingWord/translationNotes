@@ -32,10 +32,10 @@
 
 <usfm>
 \q
-\v 32 The one who commits adultery has no sense;
+\v 32 The one who commits adultery has no sense; 
 \q the one who does it destroys himself.
 \q
-\v 33 Wounds and shame are what he deserves
+\v 33 Wounds and shame are what he deserves 
 \q and his disgrace will not be wiped away.
 </usfm>
 
@@ -47,10 +47,10 @@
 ===== translationNotes: =====
 
 
-  * **The one** - "The person" or "The man"
-  * **what he deserves** - "the appropriate punishment for what he has done"
-  * **his disgrace** - This figure of speech is using the term "disgrace" to refer to the feeling of him acting shamefully. AT: "the memory of his shameful act" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will not be wiped away** - This figure of speech is using the negative "will not be wiped away" to refer to it always being there. AT: "will always remain" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **The one** - AT: "The person" or "The man"
+  * **what he deserves** - AT: "the appropriate punishment for what he has done"
+  * **his disgrace** - AT: "the memory of his shameful act" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will not be wiped away** - AT: "will not be forgotten" or "will always remain" (See: [[:en:ta:vol2:translate:figs_litotes]])
  
  
 ===== Links: =====
@@ -60,6 +60,6 @@
   * [[:en:bible:questions:comprehension:pro:06]]
 **[[:en:bible:notes:pro:06:30|<<]] | [[:en:bible:notes:pro:06:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

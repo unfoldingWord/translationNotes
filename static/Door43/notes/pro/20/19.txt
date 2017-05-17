@@ -20,9 +20,11 @@
 <usfm>
 \v 19 A gossip tells secrets,
 \q2 so stay away from people who talk too much.
+\b
 \q1
 \v 20 If a person curses his father or his mother,
-\q2 his life will be put out as a light that is snuffed out.
+\q2 his life will be put out as a light that is snuffed out. 
+
 
 \q1
 </usfm>
@@ -51,12 +53,9 @@
 ===== translationNotes: =====
 
   * **A gossip** - This means someone who gossips a lot.
-  * **you should not associate with** - "you should not be friends with"
-  * **If a person curses** - This means if a someone express a desire that bad things will happen to someone else.
-  * **his lamp will be snuffed out in the middle of darkness** - This speaks of a person dying suddenly and unexpectedly as if his life were a lamp snuffed out in the dark. AT: "his life will end as suddenly as the light of a lamp that is snuffed out in the dark" or "he will die suddenly" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **his lamp will be snuffed out** - This can be stated in active form. AT: "his lamp will go out" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **his lamp** - This refers to a lamp with a burning flame. Here the lamp's flame is referred to as the lamp itself. AT: "the flame of his lamp" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **snuffed out** - to cause a flame to go out
+  * **you should not associate with** - AT: "you should not be friends with"
+  * **curses** - This means to express a desire that bad things will happen to someone.
+  * **his lamp will be snuffed out in the middle of darkness** - AT: "his life will end like when someone snuffs out a lamp and is left in the dark" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -70,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

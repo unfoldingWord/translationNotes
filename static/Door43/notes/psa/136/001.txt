@@ -26,7 +26,7 @@
 \q1
 \v 3 Thank the Lord who is greater than all other lords;
 \q2 he will love us forever as he has promised.
-
+\b
 
 
 \q1
@@ -35,9 +35,9 @@
 ===== ULB: =====
 
 <usfm>
-\c 136
-\m
-\q
+\c 136 
+\p 
+\q 
 \v 1 Oh, give thanks to Yahweh; for he is good,
 \q for his covenant faithfulness endures forever.
 \q
@@ -50,6 +50,8 @@
 
 ===== translationWords: =====
 
+See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:good]]
   * [[:en:obe:kt:covenantfaith]]
@@ -61,8 +63,6 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
-
   * **Oh** - This is an exclamation that should be translated with whatever exclamation of emphasis you have in your language to make it sound natural. (See: [[:en:ta:vol2:translate:figs_exclamations]])
   * **the God of gods** - the God who is greater than the gods that other people worship (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
@@ -72,7 +72,7 @@
   * [[:en:bible:questions:comprehension:psa:136]]
 **[[:en:bible:notes:psa:135:019|<<]] | [[:en:bible:notes:psa:136:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 
 

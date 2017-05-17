@@ -39,12 +39,12 @@
 ===== translationNotes: =====
   * **Connecting Statement:** - God continues speaking to Aaron.
 
-  * **Everything that opens the womb, all the firstborn** - These two phrases mean basically the same thing. AT: "Every firstborn male" (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **Everything that opens the womb** - The idiom "opens the womb" means to be the first male that a mother gives birth to. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Everything that opens the womb, all the firstborn** - These two phrases mean basically the same thing. AT: "Every firstborn male" (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **the people must certainly buy back every firstborn son** - Instead of sacrificing their firstborn sons, people had to pay the priests for their sons.
-  * **Those that are to be bought back by the people must be bought back after becoming one month old** - This can be stated in active form. AT: "The people must buy them back when they become one month old" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Those that are to be bought back** - Most likely this refers only to firstborn humans that must be bought back and not to firstborn unclean animals.
-  * **five shekels ... which equals twenty gerahs** - If it is necessary to use modern weight units, here are two ways of doing it. AT: "five pieces of silver ... each of which equals ten grams" or "fifty grams of silver, using the standard weights that are used in the sanctuary"  (See: [[:en:ta:vol2:translate:translate_bweight]])
+  * **Those that are to be bought back by the people** - This can be stated in active form. AT: "Those that the people are to buy back" or "those that the people must buy back" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **must be bought back after becoming one month old** - This can be stated in active form. AT: "the people must buy them back after the firstborns become one month old" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **five shekels ... which equals twenty gerahs** - If it is necessary to use modern weight units, here are two way of doing it. AT: "five pieces of silver ... each of which equals ten grams" or "fifty grams of silver, using the standard weights that are used in the sanctuary"  (See: [[:en:ta:vol2:translate:translate_bweight]])
   * **five shekels** - A shekel is a unit of weight. What was weighed can be stated clearly. AT: "five shekels of silver" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **sanctuary shekel** - There were shekels of different weights. This is the one that people had to use in the sanctuary of the sacred tent. It weighed twenty gerahs, which was about 11 grams. (See: [[:en:ta:vol2:translate:translate_bweight]])
 ===== Links: =====
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:num:18]]
 **[[:en:bible:notes:num:18:12|<<]] | [[:en:bible:notes:num:18:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -23,7 +23,7 @@
 <usfm>
 \v 5 That huge tree grew very tall,
 \q2 higher than all the other trees around it.
-\q1 Its branches grew very thick and long
+\q1 Its branches grew very thick and long 
 \q2 because of the abundant water at the base of the tree.
 \q1
 \v 6 Birds built their nests in the branches,
@@ -42,10 +42,10 @@
 
 <usfm>
 \q
-\v 5 Its great height was more than any of the other trees in the field, and its branches became very many;
+\v 5 Its great height was more than any of the other trees in the field, and its branches became very many; 
 \q its branches grew long because of many waters as they grew.
 \q
-\v 6 Every bird of the heavens nested in its branches, while every living thing of the field gave birth to its young under its foliage.
+\v 6 Every bird of the heavens nested in its branches, while every living thing of the field gave birth to its young under its foliage. 
 \q All of the many nations lived under its shade.
 \q
 \v 7 For it was beautiful in its greatness and the length of its branches, for its roots were in many waters.
@@ -65,7 +65,7 @@
   * **because of many waters as they grew** - "because it had a lot of water"
   * **Every bird of the heavens nested in its branches** - "All kinds of birds that fly in the sky made nests in its branches"
   * **while every living thing of the field gave birth to its young under its foliage** - "and all of the creatures that live in the field gave birth under the cedar's branches"
-  * **All of the many nations lived under its shade** - "All of the great nations lived in the shade of that tree" (UDB). Here "nations" represents the people who live there. AT: "The people from all the nations lived in the shade of that tree" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **All of the many nations lived under its shade** - "all of the powerful nations lived in its shade" or "all of the great nations lived in the shade of that tree" (UDB)
   * **it was beautiful in its greatness and the length of its branches** - "It was beautiful because it was very big and its branches were very long"
 
 ===== Links: =====
@@ -75,6 +75,6 @@
   * [[:en:bible:questions:comprehension:ezk:31]]
 **[[:en:bible:notes:ezk:31:03|<<]] | [[:en:bible:notes:ezk:31:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

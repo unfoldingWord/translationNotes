@@ -18,8 +18,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 17 One who is kind to the poor, it is as if he were lending to Yahweh;
-\q2 and Yahweh will pay him for what he did.
+\v 17 One who is kind to the poor, it is as if he were lending to Yahweh; 
+\q2 and Yahweh will pay him for what he did. 
+\b
 \q1
 \v 18 Train your children and give them discipline while it is still possible to rescue them;
 \q2 but do not allow them to offend you so much that you consider taking their lives.
@@ -34,7 +35,7 @@
 <usfm>
 \q
 \v 17 Whoever is kind to the poor lends to Yahweh
-\q and he will repay him for what he has done.
+\q and he will repay him for what he has done. 
 \q
 \v 18 Discipline your son while there is hope
 \q and do not set your desire on putting him to death.
@@ -52,11 +53,10 @@
 
 ===== translationNotes: =====
 
-  * **Whoever is kind to the poor lends to Yahweh** - Yahweh considers kindness shown to the poor to be kindness shown to him. One of the ways people are kind to the poor is by giving. AT: "The person who gives to the poor is giving to Yahweh" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the poor** - This refers to poor people. AT: "those who are poor" or "poor people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **while there is hope** - This refers to while the child is young and will still accept discipline and instruction. The full meaning of this can be made clear. AT: "while he is young" or "while he can still be taught" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **and do not set your desire on putting him to death** - Possible meanings are 1) this phrase describes punishing your child. AT: "but do not punish him so severely that he might die" or 2) this phrase describes what it is like if you do not punish your child. AT: "for if you do not punish him you are helping him destroy himself" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **set your desire on putting him** - This idiom means to be determined to cause something to happen. AT: "be determined to put him" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
+  * **while there is hope** - AT: "while he is young" or "while he can still be taught"
+  * **do not set your desire on putting him to death** - AT: "do not punish him so that he might die" or "you should always want your child to live" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **set your desire on** - AT: "be determined to" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -71,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example discipline}}
+{{tag>publish p2edit discipline}}
 
 ~~NOCACHE~~

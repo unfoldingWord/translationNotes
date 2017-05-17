@@ -20,7 +20,7 @@
 \c 8
 \p
 \v 1 So it came about in the sixth year and the sixth month, in the fifth day of the month, as I sat in my house and the elders of Judah sat before me, that the hand of the Lord Yahweh again fell upon me there.
-\v 2 So I looked, and behold, there was a likeness with the appearance of a man. From the appearance of his hips downward there was fire. And from his hips upward there was the appearance of something shining, like glowing metal.
+\v 2 So I looked, and behold, there was a figure like a man, with what looked like fire from his hips downward. And from his hips upward there was a shining appearance like glowing metal.
 </usfm>
 
 ===== translationWords: =====
@@ -38,14 +38,12 @@
   * **General Information:** - Ezekiel tells about another vision he saw.
 
   * **So it came about** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **in the sixth year** - "in the sixth year of the exile of King Jehoiachin" (See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **in the sixth year** - AT: "in the sixth year of the exile of King Jehoiachin" (See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **the sixth month, in the fifth day of the month** - "the fifth day of the sixth month." This is the sixth month of the Hebrew calendar. The fifth day is near the beginning of September on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **the hand of the Lord Yahweh again fell upon me** - This should be translated literally, as Ezekiel later sees something like a hand. Others may choose to consider the hand a metaphor for Yahweh's presence or power. (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Lord Yahweh** - Translate as in [[:en:bible:notes:ezk:02:04|2:4]]. 
   * **fell upon** - "took hold of"
-  * **a likeness with the appearance of a man** - The abstract noun "likeness" can be translated as an adjective. The abstract noun "appearance" can be translated as a verb. AT: "something similar to a man, something that appeared to be a man" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **glowing metal** - When metal is very hot, it glows with a yellow or orange light. 
-  * **the appearance of his hips ... the appearance of something shining** - The abstract noun "appearance" can be translated as a verb. AT: "what appeared to be his hips ... what appeared to be something shining" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+
 
 ===== Links: =====
 
@@ -54,6 +52,6 @@
   * [[:en:bible:questions:comprehension:ezk:08]]
 **[[:en:bible:notes:ezk:07:26|<<]] | [[:en:bible:notes:ezk:08:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

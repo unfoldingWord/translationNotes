@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 27 Those who do what is right detest a person who treats others in an unfair way;
+\v 27 Those who do what is right detest a person who treats others in an unfair way; 
 \q2 just as the wicked hate those who live good lives.
 </usfm>
 
@@ -21,8 +21,8 @@
 
 <usfm>
 \q
-\v 27 An unjust man is an abomination to righteous people,
-\q but the one whose way is upright is detestable to the wicked person.
+\v 27 An unjust man is an abomination to those who do right,
+\q but the one whose way is upright is detestable to wicked people.
 </usfm>
 
 
@@ -35,7 +35,7 @@
 ===== translationNotes: =====
 
 
-  * **detestable** - a person who should be hated. Translate this as you did in [[:en:bible:notes:pro:03:31|3:32]].
+  * **detestable** - See as you translated this in [[:en:bible:notes:pro:03:31|3:32]].
 
  
 ===== Links: =====
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:pro:29]]
 **[[:en:bible:notes:pro:29:25|<<]] | [[:en:bible:notes:pro:30:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

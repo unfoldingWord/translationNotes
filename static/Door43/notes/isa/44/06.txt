@@ -23,6 +23,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 6 This is what Yahweh says—the King of Israel and his Redeemer, Yahweh of hosts:
 \q1 "I am the first, and I am the last; and there is no God but me.
@@ -38,9 +39,9 @@
 
 ===== translationNotes: =====
 
-  * **his Redeemer** - "Israel's Redeemer"
-  * **Yahweh of hosts** - Translate this phrase in the same way you did in [[:en:bible:notes:isa:01:09|1:9]].
-  * **I am the first, and I am the last** - This phrase emphasizes Yahweh's eternal nature. Possible meanings are 1) "I am the one who began all things, and I am the one who ends all things" or 2) "I am the one who has always lived, and I am the one who always will live." (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **his Redeemer** - "the one who saves the people of Israel"
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **I am the first, and I am the last** - This means God has no beginning or ending. He is eternal.
 
 ===== Links: =====
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:isa:44]]
 **[[:en:bible:notes:isa:44:05|<<]] | [[:en:bible:notes:isa:44:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

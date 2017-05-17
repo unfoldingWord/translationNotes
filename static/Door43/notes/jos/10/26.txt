@@ -14,7 +14,8 @@
 
 <usfm>
 \v 26 Then Joshua killed each of the five kings with his sword and hung their bodies from five trees. He left their bodies to hang on the trees until sunset.
-\v 27 At sunset, Joshua told them to take the bodies down from the trees and throw them into the cave where they were hiding. So the soldiers did that, and then they put those large rocks at the entrance of the cave again. And the bones of the kings are in that cave even to this day.
+\v 27 At sunset, Joshua told them to take the bodies down from the trees and throw them into the cave where they were hiding. So the soldiers did that, and then they put those large rocks at the entrance of the cave again. And the bones of the kings are in that cave even to this day. 
+
 
 \p
 </usfm>
@@ -23,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 26 Then Joshua attacked and killed the kings. He hung them on five trees. They hung on the trees until evening.
+\v 26 Then Joshua attacked and killed the kings. He hung them on five trees. They hung on the trees until evening. 
 \v 27 When it was sunset, Joshua gave orders, and they took them down from the trees and threw them into the cave where they had hidden themselves. They put large stones over the mouth of the cave. Those stones remain there to this very day.
 </usfm>
 
@@ -35,7 +36,7 @@
 
 ===== translationNotes: =====
 
-  * **to this very day** - "until the author wrote this story"
+  * **to this very day** - until the author wrote this story
  
 ===== Links: =====
 
@@ -50,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

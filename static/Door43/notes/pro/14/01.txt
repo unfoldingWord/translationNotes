@@ -18,8 +18,9 @@
 \v 1 A wise woman holds her family together,
 \q2 but a foolish woman tears it apart by the foolish things she does.
 \q1
-\v 2 The one who honors Yahweh in the way he lives, gives to Yahweh the respect he deserves;
-\q2 the dishonest person shows his disrespect, and he despises Yahweh.
+\v 2 The one who honors Yahweh in the way he lives, gives to Yahweh the respect he deserves; 
+\q2 the dishonest person shows his disrespect, and he despises Yahweh. 
+
 
 \q1
 </usfm>
@@ -48,14 +49,17 @@
 
 ===== translationNotes: =====
 
-  * **builds her house** - "builds up her house" or "makes her house better"
-  * **house** - Possible meanings are 1) this may refer to her actual house, that is the building she lives in or 2) this may refer to her family. (UDB)
-  * **with her own hands** - "Hands" represent the actions she does. AT: "by herself" or "by the way she behaves" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **The one who ... the one who** - "The person who ... the person who"
-  * **walks uprightly** - "Walks" represents the conduct of life. AT: "conducts his life in a just and honest way" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **despises** - "grossly disrespects" or "indicates he hates"
+  * **builds her house** - "builds up her house" AT: "keeps her house safe" or "makes her house better"
+  * **house** - Possible meanings are that 1) this may refer to her actual house, that is the building she lives in or 2) this may refer to her family (UDB).
+  * **tears it down with her own hands** - AT: "destroys her own house with her own hands"
+  * **with her own hands** - AT: "by herself" or "by the way she behaves" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **The one who ... the one who** - AT: "The person who ... the person who"
+  * **fears Yahweh** - This means to deeply respect God and show that respect by obeying him.
+  * **walks uprightly** - AT: "walks in a just and honest way"
+  * **dishonest** - saying things that are not true, often with the intent to deceive
+  * **despises** - AT: "grossly disrespects" or "indicates he hates"
   * **in his ways despises him** - The word "his" refers to the dishonest man and "him" refers to Yahweh.
-
+  * **his ways** - AT: "his way of living"
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -63,6 +67,6 @@
   * [[:en:bible:questions:comprehension:pro:14]]
 **[[:en:bible:notes:pro:13:25|<<]] | [[:en:bible:notes:pro:14:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

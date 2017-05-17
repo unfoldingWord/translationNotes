@@ -25,6 +25,8 @@
 \q1
 \v 22 Your silver is no longer pure,
 \q2 and your wine has become mixed with water.
+\q1 
+\q2 
 
 
 \q1
@@ -33,9 +35,10 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 21 How the faithful city has become a prostitute!
-\q1 She who was full of justice—she was full of righteousness,
+\v 21 How the faithful city has become a prostitute! 
+\q1 She who was full of justice—she was full of righteousness, 
 \q1 but now she is full of murderers.
 \q1
 \v 22 Your silver has become impure, your wine mixed with water.
@@ -51,16 +54,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Isaiah quoted God in [[:en:bible:notes:isa:01:10|1:11-20]]. Isaiah is the speaker in 1:21-23.
 
   * **How the faithful city** - This exclamation shows Isaiah's anger and sadness about the people of Jerusalem. AT: "See how the people of Jerusalem, who had been faithful to God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **has become a prostitute** - Isaiah compared the people to a woman who is not loyal to her husband but who sleeps with other men for money. The people were no longer loyal to God but were worshiping false gods. AT: "acts like a prostitute" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **She who was full of justice** - The word "she" refers to Jerusalem and its people. Those who wrote the Bible often refer to cities as women. AT: "The people of Jerusalem were fair and did what was right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **but now she is full of murderers** - The word "she" refers to Jerusalem and its people. Those who wrote the Bible often refer to cities as women. AT: "but now the people of Jerusalem are murderers" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Your silver has become impure, your wine mixed with water** - Possible meanings are that Isaiah uses silver and wine as metaphors for 1) the people of Jerusalem. AT: "You are like silver that is no longer pure, and like wine that is mixed with water," or 2) the good deeds that the people formerly did. AT: "You used to do good deeds, but now your bad deeds make your good deeds worthless." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **silver ... impure** - Someone needs to clean silver often or it will no longer shine brightly.
-  * **wine ... water** - Wine with water in it has little taste and so is no better than water.
-
+  * **has become a prostitute** - Isaiah compared the people to a woman who is not loyal to her husband but who sleeps with other men for money. The people were no longer loyal to God but were worshiping false gods. AT: "acted like a prostitute" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **She who was full of justice** - The word "She" refers to Jerusalem and its people. In the Bible, cities are often referred to as women. AT: "The people of Jerusalem were fair and did what was right" 
+  * **but now she is full of murderers** - "but now they are murderers"
+  * **Your silver has become impure, your wine mixed with water** - Isaiah compared the sinful people of Jerusalem to two things that were good but were now ruined. AT: "You are like silver that is no longer pure, and like wine that is mixed with water" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -68,6 +68,6 @@
   * [[:en:bible:questions:comprehension:isa:01]]
 **[[:en:bible:notes:isa:01:19|<<]] | [[:en:bible:notes:isa:01:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -23,6 +23,7 @@
 \q1 There will be only two or three olives in the top branches,
 \q2 or four or five olives on the other branches."
 \q1 That is what Yahweh, commander of the angel armies, says.
+\b
 \q1
 \v 7 Then at that time, you people of Israel will trust in God, your creator,
 \q2 the Holy One of Israel.
@@ -35,10 +36,11 @@
 
 <usfm>
 \q1
-\v 6 Gleanings will be left, however, as when the olive tree is shaken:
+\v 6 Gleanings will be left, however, as when the olive tree is shaken: 
 \q1 two or three olives in the top of the
 uppermost bough, four or five in the highest branches of a fruitful tree—this is the declaration of Yahweh, the God of Israel.
-\q1
+\m
+
 \v 7 On that day men will look toward their Maker, and their eyes will look to the Holy One of Israel.
 </usfm>
 
@@ -54,16 +56,13 @@ uppermost bough, four or five in the highest branches of a fruitful tree—this 
 
 ===== translationNotes: =====
 
-  * **General Information:** - This continues to compare the nation of Israel with a field after it is harvested. (See: [[:en:bible:notes:isa:17:04|17:4-5]])
+  * **General Information:** - This continues to compare the people of Israel with a field after it is harvested. (See: [[:en:bible:notes:isa:17:04|17:4-5]])
 
-  * **Gleanings will be left** - The word "Gleanings" here represents the people who will still live in Israel. AT: "But there will be a few people left in Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **as when the olive tree is shaken** - People harvested olive trees by shaking them so that the olives would fall out. AT: "like the few olives that remain on the olive trees after people harvest them" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **four or five** - The word "olives" is understood from the phrase before this. AT: "four or five olives" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **this is the declaration of Yahweh** - Translate this as you did in [[:en:bible:notes:isa:14:21|14:22]].
-  * **men will look toward their Maker ... will look to the Holy One of Israel** - Looking toward God here represents hoping that he will help them. AT: "men will hope that their Maker, the Holy One of Israel, will help them" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **men will look** - The word "men" represents people in general. AT: "people will look" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **their eyes will look** - Here "eyes" represents the people who look. AT: "they will look" or "the people will look" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Holy One of Israel** - Translate this as you did in [[:en:bible:notes:isa:01:04|1:4]].
+  * **Gleanings will be left, however, as when the olive tree is shaken** - This compares farm produce to the people of Israel. AT: "But, there will be a few people left in Israel, like the few olives left behind after the harvest" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **declaration of Yahweh** - See how you translated this in [[:en:bible:notes:isa:14:21|14:22]].
+  * **their eyes will look** - Here "eyes" refers to the people who are looking. AT: "they will look" or "the people will look" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Holy One of Israel** - See how you translated this in [[:en:bible:notes:isa:01:04|1:4]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -71,6 +70,6 @@ uppermost bough, four or five in the highest branches of a fruitful tree—this 
   * [[:en:bible:questions:comprehension:isa:17]]
 **[[:en:bible:notes:isa:17:04|<<]] | [[:en:bible:notes:isa:17:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

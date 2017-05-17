@@ -25,7 +25,7 @@
 <usfm>
 \p
 \v 6 I was very angry when I heard their outcry and these words.
-\v 7 Then I thought about this, and brought charges against the nobles and officials. I said to them, "You are exacting interest, each from his own brother." I held a great assembly against them
+\v 7 Then I thought about this, and brought charges against the nobles and officials. I said to them, "You are exacting interest, each from his own brother." I held a great assembly against them 
 \v 8 and said to them, "We, as much as we are able, have bought back from slavery our Jewish brothers who had been sold to the nations, but you even sell your brothers and sisters that they may be sold back to us!" They were silent and never found a word to say.
 </usfm>
 
@@ -41,12 +41,10 @@
   * [[:en:obe:other:sister]]
 ===== translationNotes: =====
 
-  * **when I heard their outcry** - The word "outcry" can be expressed as a verb. AT: "when I heard them cry out" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **You are exacting interest, each from his own brother** - Every Jew would have known that it is wrong under the Law to charge interest to another Jew. The full meaning of this can be made clear. AT: "Each of you is charging interest to your own brother, and that is wrong under the Law" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **I held a great assembly against them** - This means that he brought together a large group of people and brought these charges against them. The meaning of statement this can be made clear. AT: "I held a great assembly and brought these charges against them" or "I held them on trial in front of the assembly" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **but you even sell your brothers and sisters that they may be sold back to us** - This means that they are selling their family members as slaves to their fellow Jews. The full meaning of this statement can be made clear. AT: "Now you are selling your own people to be slaves of your fellow Jews, so that they might later sell them back to us" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **who had been sold to the nations** - This can be stated in active form. AT: "who people had sold as slaves to the nations" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **when I heard their outcry** - The word "their" refers to the poor Jews described in [[:en:bible:notes:neh:05:04|05:4-5]].
+  * **You are exacting interest, each from his own brother** - Every Jew would have known that it is wrong under the Law to charge interest to another Jew. AT: "Each of you is charging interest to your own brother, and that is wrong under the Law." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **I held a great assembly against them** - AT: "I held a formal trial in which I charged them."
+  * **We, as much as we are able, have bought back from slavery our Jewish brothers who had been sold to the nations, but you even sell your brothers and sisters that they may be sold back to us!** - AT: "As far as possible, we have bought back our fellow Jews who were sold to the pagan foreigners. Now you are selling your own people, only for them to be sold back to us!"
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -54,6 +52,6 @@
   * [[:en:bible:questions:comprehension:neh:05]]
 **[[:en:bible:notes:neh:05:04|<<]] | [[:en:bible:notes:neh:05:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

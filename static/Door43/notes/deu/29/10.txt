@@ -36,10 +36,8 @@
 ===== translationNotes: =====
 
   * **General Information:** - Moses continues speaking to the people of Israel.
-
   * **among you in your camp ... your wood ... your water** - Moses speaks to the Israelites as if they were one man, so the words "you" and "your" here are singular. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **the foreigner who is among you in your camp, from him who cuts your wood to him who draws** - There were many foreigners among the Israelites. AT: "the foreigners who are among you in your camp, from those who cut your wood to those who get your water" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
-
+  * **the foreigner who is among you in your camp, from him who cuts your wood to him who draws** - There were many foreigners among the Israelites. "the foreigners who are among you in your camp, from those who cut your wood to those who draw"
 
 ===== Links: =====
 
@@ -48,6 +46,6 @@
   * [[:en:bible:questions:comprehension:deu:29]]
 **[[:en:bible:notes:deu:29:07|<<]] | [[:en:bible:notes:deu:29:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

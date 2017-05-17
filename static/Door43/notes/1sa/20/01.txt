@@ -46,11 +46,11 @@
 
 ===== translationNotes: =====
 
-  * **What have I done? What is my iniquity? What is my sin before your father, that he seeks to take my life?** - These three questions mean basically the same thing. David uses them to emphasize that he has done nothing wrong to Saul. This rhetorical question can be translated as a statement. AT: "I have done nothing wrong. I have not committed any iniquity. I have not sinned against your father. He has no reason to take my life." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **that he seeks to take my life?** - Here "take my life" is an idiom for "kill me." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **What have I done? What is my iniquity? What is my sin before your father, that he seeks to take my life?** - These three questions mean basically the same thing. David uses them to emphasize that he has done nothing wrong to Saul. This rhetorical question can be translated as a statement. AT: "I have done nothing wrong. I have not committed any iniquity. I have not sinned against your father, that he seeks to take my life." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **that he seeks to take my life?** - Here "take my life" is an idiom to kill someone. AT: "that he is trying to kill me?" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **Far from it** - Here "far from it" is an idiom that refers to that it is not true. AT: "This is certainly not true" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **nothing either great or small** - The words "great or small" include everything in between. AT: "nothing at all" (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **Why should my father hide this thing from me?** - Jonathan uses this question to emphasize that Saul would have told him if he planned to kill David. This rhetorical question can be translated as a statement. AT: "My father has no reason to hide this thing from me" or "If this thing were true, my father would certainly let me know " (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **nothing either great or small** - AT: "nothing at all" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **Why should my father hide this thing from me?** - Jonathan uses this question to emphasize that Saul would have told him if he planned to kill David. This rhetorical question can be translated as a statement. AT: "My father has no reason to hide this thing from me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **It is not so** - "It is not true"
 
 ===== Links: =====
@@ -60,6 +60,6 @@
   * [[:en:bible:questions:comprehension:1sa:20]]
 **[[:en:bible:notes:1sa:19:23|<<]] | [[:en:bible:notes:1sa:20:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example jonathan}}
+~~DISCUSSION~~{{tag>publish p2edit jonathan}}
 
 ~~NOCACHE~~

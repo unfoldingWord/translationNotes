@@ -20,10 +20,11 @@
 
 <usfm>
 \v 18 These men make plans that turn around and kill them.
-\q2 They set a trap and the trap catches them.
+\q2 They set a trap and the trap catches them. 
 \q1
-\v 19 These are the ways of all who gain their riches through theft and deceit;
-\q2 the things they stole destroy the lives of the thieves who cling to them.
+\v 19 These are the ways of all who gain their riches through theft and deceit; 
+\q2 the things they stole destroy the lives of the thieves who cling to them. 
+
 
 \q1
 </usfm>
@@ -43,7 +44,6 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:snare]]
   * [[:en:obe:kt:unjust]]
   * [[:en:obe:kt:life]]
  
@@ -52,9 +52,9 @@
 ===== translationNotes: =====
 
 
-  * **These men lie in wait to kill themselves—they set a trap for themselves** - This finishes the comparison started in [[:en:bible:notes:pro:01:15|1:17]]. The men destroying themselves by doing sinful things is spoken of as if they set a trap and kill themselves. AT: "But these men are more foolish than the birds. They kill themselves with their own traps" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **So are the ways of everyone** - A person's fate or destiny is spoken of as if it were a road a person walks on. AT: "This is what happens to everyone" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **unjust gain takes away the lives of those who hold on to it** - A person destroying themselves by trying to gain wealth through violence, theft, and deceit is spoken of as if the unjust gains will kill those who take it. AT: "it is like the unjust gains will destroy those who hold on to it" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **These men** - the "sinners" of [[:en:bible:notes:pro:01:10|1:10]]
+  * **lie in wait** - Translate as you did in [[:en:bible:notes:pro:01:10|1:11]].
+  * **they set a trap for themselves** - "they make plans to ruin the innocent, but they end up being ruined themselves"
 
 ===== Links: =====
 
@@ -69,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

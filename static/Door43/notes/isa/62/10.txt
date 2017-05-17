@@ -22,6 +22,7 @@
 \q1 Cause the road to become smooth;
 \q2 clear off all the stones;
 \q1 set up signal flags to help the people groups to see the road to Jerusalem.
+\b
 
 
 \q1
@@ -31,8 +32,9 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 10 Come through, come through the gates! Prepare the way for the people!
+\v 10 Come through, come through the gates! Prepare the way for the people! 
 \q1 Build it, build the highway! Gather out the stones!
 \q1 Raise up a signal flag for the nations!
 </usfm>
@@ -46,10 +48,9 @@
 
 ===== translationNotes: =====
 
-  * **Come through, come through the gates** - The phrase "come through" is repeated to show urgency.
-  * **Build it, build the highway** - The word "build" is repeated to emphasize that Yahweh urgently wants the road prepared. The "highway" represents the way the people can return. This is similar to [[:en:bible:notes:isa:40:03|40:3]] and [[:en:bible:notes:isa:57:14|57:14]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Gather out the stones** - "Take the stones out of the road to make it smooth." Stones represent all the obstacles to quick travel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Raise up a signal flag for the nations** - A signal flag represents something to draw the attention of others. This means Yahweh is calling the people of the other nations to take notice of the land of Israel and to see what Yahweh has accomplished as he said he would. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Come through, come through the gates!** - The phrase "come through" is repeated to show urgency that the people of Jerusalem must go outside the gates of the city to welcome foreigners or exiles coming back to the land of Israel. This is the most likely of several interpretations.
+  * **Build it, build the highway** - The word "build" is repeated to emphasize that God wants the road prepared well and level, perhaps quickly, so the people can come to him easily. See [[:en:bible:notes:isa:57:14|Isaiah 57:14-15]].
+  * **Raise up a signal flag for the nations** - This means God is calling the people of the other nations to come to the land of Israel, to bring the exiles back, and to see what God has accomplished as he said he would.
 
 ===== Links: =====
 
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:isa:62]]
 **[[:en:bible:notes:isa:62:08|<<]] | [[:en:bible:notes:isa:62:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

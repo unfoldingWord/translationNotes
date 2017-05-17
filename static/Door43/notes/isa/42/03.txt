@@ -24,6 +24,7 @@
 \q2
 \v 4 He will not become exhausted or discouraged all during the time that he is causing things to be done justly throughout the earth.
 \q1 Even people living on the islands in the oceans will confidently wait for him to teach them his laws."
+\b
 
 
 \q1
@@ -37,8 +38,8 @@
 \v 3 A crushed reed he will not break, and a dimly burning wick he will not quench:
 \q1 he will faithfully execute justice.
 \q1
-\v 4 He will not grow faint nor be discouraged
-\q1 until he has established justice on the earth;
+\v 4 He will not grow faint nor be discouraged 
+\q1 until he has established justice on the earth; 
 \q1 and the coastlands wait for his law.
 </usfm>
 
@@ -55,10 +56,10 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **A crushed reed he will not break, and a dimly burning wick he will not quench** - Yahweh speaks of weak and helpless people as if they were crushed reeds and dimly burning wicks. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **A crushed reed he will not break, and a dimly burning wick he will not quench** - The "crushed reed" and "dimly burning wick" refers to weak and helpless people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **crushed reed** - A reed is the long, thin stem of a plant like tall grass. If it is crushed, it cannot carry any weight. See how you translated this in [[:en:bible:notes:isa:36:06|36:6]].
   * **he will not break** - "My servant will not break"
-  * **the coastlands** - This refers to the people who live on the islands and in the lands bordering or beyond the Mediterranean Sea. See how you translated this in [[:en:bible:notes:isa:41:01|41:1]]. AT: "the people who live on the coastlands" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **coastlands** - See how you translated this in [[:en:bible:notes:isa:41:01|41:1]].
 
  
 ===== Links: =====
@@ -74,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -41,7 +41,7 @@
 
 <usfm>
 \q1
-\v 6 The wolf will live with the lamb, and the leopard will lie down with the young goat,
+\v 6 The wolf will live with the lamb, and the leopard will lie down with the young goat, 
 \q1 the calf, the young lion and
 the fattened calf, together. A little child will lead them.
 \q1
@@ -61,16 +61,11 @@ the fattened calf, together. A little child will lead them.
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah describes what the world will be like when the king rules. There  will be complete peace in the world. This is shown by the peace that there will be even among animals. Animals that normally kill other animals will not kill them, and they will all be safe together.
+  * **General Information:** - Isaiah describes what the world will be like when the Messiah comes. The references to the animals here, natural enemies of each other but who are now living in peace, are to all such animals. For example, the expression "the wolf" means all wolves, not only a certain one. The picture of these animals living together is a very powerful image of complete peace that the Messiah will bring when he comes to rule. (See: [[:en:ta:vol2:translate:figs_genericnoun]])
 
-  * **The wolf ... the leopard ... the young lion ... the bear ...  The lion** - These phrases refer to these animals in general, not to a specific wolf or leopard. These are all strong animals that attack and eat other animals. AT: "Wolves ... leopards ... young lions ... bears ... Lions" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
-  * **the lamb ... the young goat ... the calf ...  the fattened calf ... The cow ... the ox** - The phrases refer to these animals in general, not to a specific lamb or goat. These are all animals that eat grass and straw. Other animals sometimes attack and eat them. AT: "lambs ... young goats ... calves ... fattened calves ... Cows ... oxen" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
-  * **leopard** - a large cat with yellow fur and black spots that kills and eats other animals (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **the calf, the young lion and the fattened calf, together** - The phrase "will be" is understood. AT: "the calf, the lion, and the fattened calf will be together" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **bear** - a very large animal with thick hair and sharp claws that kills and eats other animals (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **A little child will lead them** - A child will take care of them and lead them to good places to drink water and eat grass or hay.
-  * **will graze together** - "will eat grass together"
-  * **their young** - This refers to the animals' offspring shortly after they are born.
+  * **leopard** - a large cat with yellow fur and black spots that kills and eats other animals
+  * **the calf, the young lion and the fattened calf, together** - The context makes it clear that these animals will be together. (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **bear** - a very large animal with thick hair and sharp claws that kills and eats other animals
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -84,6 +79,6 @@ the fattened calf, together. A little child will lead them.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass wolf}}
+{{tag>publish p2edit wolf}}
 
 ~~NOCACHE~~

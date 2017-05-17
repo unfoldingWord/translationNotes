@@ -18,14 +18,15 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 When I kill you,
+\v 7 When I get rid of you and your descendants,
 \q2 I will cover the sky and not allow the stars to shine.
 \q1 I will put a dark cloud in front of the sun,
 \q2 and the moon will not shine.
 \q1
 \v 8 I will cause the stars in the sky to be dark,
 \q2 and there will be darkness over your entire land;
-\q2 this will surely happen because I, Yahweh the Lord, have said it.
+\q2 that will surely happen because I, Yahweh the Lord, have said it.
+\b
 
 
 \q1
@@ -35,15 +36,16 @@
 
 <usfm>
 \q
-\v 7 Then when I extinguish you, I will cover the heavens and darken their stars;
-\q I will cover the sun with clouds, and the moon will not shine its light.
+\v 7 Then when I put out your lamp, I will cover the heavens and darken its stars;
+\q I will cover the sun with clouds, and the moon will not shine.
 \q
-\v 8 All the shining lights in the heavens I will darken over you,
+\v 8 I will darken all the glowing lights in the heavens over you,
 \q and I will put darkness over your land—this is the Lord Yahweh's declaration.
 </usfm>
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:lamp]]
   * [[:en:obe:kt:heaven]]
   * [[:en:obe:kt:light]]
   * [[:en:obe:kt:darkness]]
@@ -54,10 +56,11 @@
 
   * **General Information:** - Yahweh continues telling Pharaoh what he will do to Egypt.
 
-  * **when I extinguish you** - It was common to speak of a person's life as if it were a lamp that could be put out. AT: "When I destroy you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will cover the heavens** - Yahweh speaks of making the stars dark as if he were putting a cover over the sky. AT: "I will make everything in the sky go dark" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will put darkness over your land** - Darkness is spoken of as if it were something that someone could spread over everything. AT: "I will make it dark in your land" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **this is the Lord Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:ezk:05:11|5:11]]. AT: "this is what the Lord Yahweh has declared" or "this is what I, the Lord Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Then when I put out your lamp** - "when I snuff out your flame." Yahweh compares the way he will destroy Pharaoh to the way he would put out the flame of a lamp. AT: "When I destroy you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will cover the heavens** - Yahweh will cover the sky so that people on earth cannot see the light of the stars, sun and moon.
+  * **darken its stars** - "I will make the stars dark." They will have no light.
+  * **I will put darkness over your land** - "I will make it dark in your land"
+  * **this is the Lord Yahweh's declaration** - See how you translated this in [[:en:bible:notes:ezk:05:11|5:11]].
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -65,6 +68,6 @@
   * [[:en:bible:questions:comprehension:ezk:32]]
 **[[:en:bible:notes:ezk:32:05|<<]] | [[:en:bible:notes:ezk:32:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,13 +20,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 26 My son, take what I say and put it deep within you,
-\q2 and pay attention to the way that I live.
+\v 26 My son, take what I say and put it deep within you, 
+\q2 and pay attention to the way that I live. 
 \q1
-\v 27 A prostitute is like a very deep pit, that is easy to fall into, but difficult to get out;
-\q2 another man's wife is a narrow pit; just as dangerous as a deep pit, but of a different kind.
+\v 27 A prostitute is like a very deep pit, that is easy to fall into, but difficult to get out; 
+\q2 another man's wife is a narrow pit; just as dangerous as a deep pit, but of a different kind. 
 \q1
-\v 28 The immoral woman is waiting for you, waiting like a robber waits for his victim;
+\v 28 The immoral woman is waiting for you, waiting like a robber waits for his victim; 
 \q2 and they cause many men to become liars and traitors to those who love them.
 
 
@@ -41,11 +41,11 @@
 \v 26 My son, give me your heart
 \q and let your eyes observe my ways.
 \q
-\v 27 For a prostitute is a deep pit,
-\q and an immoral woman is a narrow well.
+\v 27 For a prostitute is a deep pit, 
+\q and another man's wife is a narrow pit.
 \q
 \v 28 She lies in wait like a robber
-\q and she increases the number of the treacherous among humanity.
+\q and she increases the number of traitors among humanity.
 </usfm>
 
 
@@ -58,18 +58,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
-
-  * **give me your heart** - The word "heart" is a metonym for what a person thinks and decides to do. Possible meanings are 1) "pay careful attention" or 2) "trust me completely." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **let your eyes observe** - The eyes are a synecdoche for the whole person. AT: "observe" or "look carefully at" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **prostitute ... immoral woman** - There are two types of sexually immoral women. The "prostitute" is unmarried, "another man's wife" is married. Together they form a merism for any kind of sexually immoral woman. (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **a prostitute is a deep pit** - The word "pit" is a metaphor for what happens to men who sleep with prostitutes. AT: "sleeping with a prostitute is like falling into a deep pit" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **prostitute** - Here the word refers to any unmarried woman who engages in sexual activity, not only those who do so for money.
-  * **deep pit ... narrow well** - These are two places easy to fall into and hard to get out of, the "pit" because it is "deep" and the "well" because it is "narrow."
-  * **an immoral woman is a narrow well** - Doing evil for which one will be punished is spoken of as falling into a narrow place from which one cannot escape. AT: "Sleeping with another man's wife is like falling into a narrow well" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **well** - a hole in the ground that people have dug to get to water
-  * **lies in wait** - stays hidden, ready to attack when a victim approaches
-  * **the treacherous** - This nominal adjective can be translated as an adjective or verb. AT: "treacherous people" or "those who harm others by deceiving them" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **For a prostitute is a deep pit** - AT: "Sleeping with a prostitute is like falling into a dangerous trap" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **another man's wife is a narrow pit** - AT: "Sleeping with another man's wife is like falling into another kind of dangerous trap" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **She lies in wait** - AT: "she stays hidden while ready to attack" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **traitor** - a person who deceives or harms someone who was trusting him 
  
  
 ===== Links: =====
@@ -85,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

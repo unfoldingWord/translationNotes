@@ -32,9 +32,10 @@
 
 ===== translationNotes: =====
 
+
   * **Harbona** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **a gallows fifty cubits tall** - You may convert "fifty cubits" to a modern measure. Translate this as you did a similar phrase in [[:en:bible:notes:est:05:14|5:14]]. AT: "twenty-three meters high" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_bdistance]]) 
-  * **Then the king's rage died down** - The king's rage is a spoken of as if it were a large fire that became smaller. AT: "Then the king's rage lessened" or "Then the king was not so angry" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **gallows** - See how you translated this in [[:en:bible:notes:est:02:22|2:23]].
+  * **fifty cubits** - "50 cubits" (See: [[:en:ta:vol2:translate:translate_bdistance]] and [[:en:ta:vol2:translate:translate_numbers]]) 
 
 
  
@@ -51,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

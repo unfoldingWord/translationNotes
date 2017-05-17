@@ -25,7 +25,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 14 The word of Yahweh came to me and said,
+\v 14 The word of Yahweh came to me and said, 
 \v 15 "Son of man, your brothers! Your brothers! The men of your clan and all the house of Israel! All of them are those of whom it is said by those living in Jerusalem, 'They are far away from Yahweh! This land was given to us as our possession.'
 </usfm>
 
@@ -43,12 +43,11 @@
 
 ===== translationNotes: =====
 
-  * **The word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **your brothers! Your brothers!** - This is stated twice for emphasis. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **the house of Israel** - The word "house" is a metonym for the family, in this case the Israelites who are the descendants of Jacob. See how you translated this in [[:en:bible:notes:ezk:03:01|3:1]]. AT: "people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **your brothers! Your brothers!** - This is stated twice for emphasis.
+  * **the house of Israel** - See how you translated this in [[:en:bible:notes:ezk:03:01|3:1]].
   * **All of them are those of whom it is said by those living in Jerusalem** - This can be stated in active form. AT: "All of them are those about whom the people living in Jerusalem are saying" or "The people living in Jerusalem say about all of them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **All of them are those of whom** - Some versions have "All of them are those to whom."
-  * **This land was given to us as our possession** - This can be stated in active form. AT: "Yahweh has given this land to us as our possession" or "This land has become our possession" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **All of them are those of whom it is said** - Some modern versions have "All of them are those to whom it was said."
 
 ===== Links: =====
 
@@ -63,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

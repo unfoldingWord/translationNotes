@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 That day there were four men who had leprosy who were sitting outside the gate of the city of Samaria. They said to each other, "Why should we wait here until we die?
+\v 3 That day there were four men who had leprosy who were sitting outside the gate of the city of Samaria.They said to each other, "Why should we wait here until we die?
 \v 4 If we go into the city, we will die there, because there is no food there. If we remain sitting here, we will die here. So let us go to where the army of Aram has set up their tents. If they kill us, we will die. But if they allow us to remain alive, we will not die."
 </usfm>
 
@@ -29,12 +29,13 @@
   * [[:en:obe:other:famine]]
   * [[:en:obe:other:aram]]
   * [[:en:obe:kt:life]]
-
 ===== translationNotes: =====
 
-  * **Now** - This word is used here to mark a break in the main storyline. Here the writer starts to tell a new part of the story.
-  * **Why should we sit here until we die?** - Although there were four men, probably only one of them asks this question. The question is rhetorical and emphasizes that they should not do this. It can be translated as a statement. AT: "Certainly we should not sit here until we die" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **If they keep us alive, we will live, and if they kill us, we will only die** - The four men with leprosy are saying that the Arameans might feed them so that they can live, or they might kill them, which would be no worse since they would die anyway.
+  * **Now** - AT: "At that same time" (as Elisha was telling the king and his assistant there would be plenty of food for Samaria)
+  * **right outside the city gate** - AT: "who were just outside the entrance to the city."
+  * **Why should we sit here until we die?** - AT: "Certainly we should not sit here until we die" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **let us go to the army of the Arameans** - AT: "let us go to the place where the army of the Arameans has their camp."
+  * **If they keep us alive, we will live, and if they kill us, we will only die** - The four men with leprosy are saying that going to the Aramean camp is their only chance to stay alive. AT: "If the Arameans give us food, we will live, and we are going to die if we stay here, so if they kill us, it will be no worse for us" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -43,6 +44,6 @@
   * [[:en:bible:questions:comprehension:2ki:07]]
 **[[:en:bible:notes:2ki:07:01|<<]] | [[:en:bible:notes:2ki:07:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

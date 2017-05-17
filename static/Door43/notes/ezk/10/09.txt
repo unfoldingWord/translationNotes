@@ -21,7 +21,7 @@
 <usfm>
 \p
 \v 9 So I looked, and behold! Four wheels were beside the cherubim—one wheel beside each cherub—and the appearance of the wheels was like a beryl stone.
-\v 10 Their appearance was the same likeness for all four of them, like a wheel intersecting another wheel.
+\v 10 They appeared in the same likeness for all four of them, like a wheel intersecting another wheel.
 \v 11 When they moved, they went in any of the four directions without turning in any other direction. Instead, wherever the head was facing, they followed it. They did not turn in any other direction as they went.
 </usfm>
 
@@ -31,13 +31,12 @@
 
 ===== translationNotes: =====
 
-  * **behold** - Ezekiel was surprised by what he saw
-  * **wheels** - Translate this as in [[:en:bible:notes:ezk:01:15|1:15]].
-  * **cherubim** - Translate this as in [[:en:bible:notes:ezk:10:01|10:1]].
-  * **the appearance of the wheels was like a beryl** - The abstract noun "appearance" can be translated as a verb. AT: "the wheels appeared to be like a beryl" or "what appeared to be wheels were like a beryl" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **beryl stone** - "Beryl" is a very hard, valuable stone. This beryl was probably green or blue. (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **Their appearance was the same likeness for all four of them** - The abstract noun "appearance" can be translated as a verb. The abstract noun "likeness" can be translated as an adjective. AT: "All four of them appeared to be similar" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **behold!** - The word "behold" here shows that Ezekiel was surprised by what he saw.
+  * **wheels** - See how you translated this in [[:en:bible:notes:ezk:01:15|1:15]].
+  * **cherubim** - See how you translated this in [[:en:bible:notes:ezk:10:01|10:1]].
+  * **like a beryl stone** - "Beryl" is a very hard, valuable stone. This beryl was probably green or blue. Emerald is the green type of beryl and aquamarine is the blue type of beryl. (See: [[:en:ta:vol1:translate:translate_unknown]])
   * **a wheel intersecting another wheel** - The word "intersecting" means "crossing" or "meeting" or "touching." 
+  * **wherever the head was facing** - "wherever the cherub was facing" or "wherever the cherub was going"
   * **the head** - This refers to the head of any cherub. 
 ===== Links: =====
 
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:ezk:10]]
 **[[:en:bible:notes:ezk:10:06|<<]] | [[:en:bible:notes:ezk:10:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

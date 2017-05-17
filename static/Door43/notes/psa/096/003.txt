@@ -19,6 +19,7 @@
 <usfm>
 \v 3 Tell about his glory to all people groups;
 \q2 tell all people groups the marvelous things that he has done.
+\b
 \q1
 \v 4 Yahweh is great, and he deserves to be praised very much;
 \q1 he should be revered more than all the gods.
@@ -71,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book4}}
+{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

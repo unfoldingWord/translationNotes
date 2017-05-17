@@ -16,10 +16,11 @@
 
 <usfm>
 \v 1 A wise child pays attention to the teaching his father gives him;
-\q2 but a stubborn child refuses to listen to correction.
+\q2 but a stubborn child refuses to listen to correction. 
 \q1
-\v 2 Good things come as the fruit of what one says,
-\q2 but the desire of the deceitful is to consume more and more violence.
+\v 2 Good things come as the fruit of what one says, 
+\q2 but the desire of the deceitful is to consume more and more violence. 
+
 
 \q1
 </usfm>
@@ -32,7 +33,7 @@
 \v 1 A wise son hears his father's instruction,
 \q but a mocker will not listen to rebuke.
 \q
-\v 2 From the fruit of his mouth a person enjoys good things,
+\v 2 From the fruit of his mouth a person enjoys good things, 
 \q but the appetite of the treacherous is for violence.
 </usfm>
 
@@ -46,11 +47,11 @@
  
 ===== translationNotes: =====
 
-  * **A wise son hears** - Here "hears" represents listening in order to do it. AT: "A wise son obeys" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will not listen to rebuke** - Here "listen" represents paying attention in order to do it. AT: "will not learn from rebuke" or "will not obey, despite rebuke" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **From the fruit of his mouth** - Here "fruit" represents what a person says. AT: "From the words of his mouth" or "From what he says" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the appetite** - the desire or liking for something
-  * **the treacherous** - those who are willing to betray or deceive others (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **hears** - AT: "obeys"
+  * **will not listen to rebuke** - AT: "will not learn from rebuke" or "will not obey, despite rebuke"
+  * **fruit of his mouth** - AT: "words from his mouth" or "what he says" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **appetite** - a desire or liking for something
+  * **treacherous** - willing to betray or deceive you
 
 ===== Links: =====
 
@@ -59,6 +60,6 @@
   * [[:en:bible:questions:comprehension:pro:13]]
 **[[:en:bible:notes:pro:12:27|<<]] | [[:en:bible:notes:pro:13:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

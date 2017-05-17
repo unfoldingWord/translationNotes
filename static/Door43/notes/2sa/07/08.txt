@@ -21,9 +21,7 @@
 
 <usfm>
 \v 8 Now then, tell my servant David, "This is what Yahweh of hosts says: 'I took you from the pasture, from following the sheep, so that you would be ruler over my people Israel.
-\v 9 I have been with you wherever you went. I have cut off all your enemies 
-from before you. Now I will make your name great, like the names of the 
-great ones of the earth.
+\v 9 I have been with you wherever you went and have cut off all your enemies from before you. And I will make a great name for you, like the name of the great ones who are on the earth.
 </usfm>
 
 
@@ -42,15 +40,10 @@ great ones of the earth.
 
   * **General Information:** - Yahweh describes his promises to King David through the prophet Nathan.
 
-  * **Now** - This does not mean "at this moment," but is used to draw attention to the important point that follows.
-  * **tell my servant David, "This is what Yahweh of hosts says: 'I took you ... your name great, like the names of the great ones of the earth.** - This has quotations within quotations. It may be necessary to translate the direct quotations as indirect quotations as in the UDB. AT: "tell my servant David that I took him ... his name great, like the names of the great ones of the earth" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
-  * **tell my servant David** - Yahweh is still telling the prophet Nathan what he should tell David.
-  * **I have been with you** - Here "with you" means that Yahweh has helped and blessed David. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **I have cut off all your enemies** - Yahweh destroying David's enemies is spoken of as if Yahweh cut them off, as one would cut a piece of cloth or cut a branch from a tree. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **make your name great** - Here "name" represents a person's reputation. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the great ones** - The phrase "great ones" means famous persons. 
-
-
+  * **my people Israel** - This metonym refers to the nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and have cut off all your enemies** - Here the phrase "cut off" is a polite way of saying "have killed." AT: "I have killed your enemies" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **like the name of the great ones who are on the earth** - The phrase "great ones" means famous persons. 
+  
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -58,6 +51,6 @@ great ones of the earth.
   * [[:en:bible:questions:comprehension:2sa:07]]
 **[[:en:bible:notes:2sa:07:06|<<]] | [[:en:bible:notes:2sa:07:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

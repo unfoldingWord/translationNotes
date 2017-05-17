@@ -22,7 +22,7 @@
 <usfm>
 \p
 \v 20 Therefore the Lord Yahweh says this: I am against the magic charms that you have used to ensnare the people's lives as if they were birds. Indeed, I will tear them from your arms; and the people whom you have trapped like birds—I will let them go free.
-\v 21 I will tear away your veils and rescue my people from your hand, so they will no longer be trapped in your hands. You will know that I am Yahweh.
+\v 21 I will tear away your veils and rescue my people from your hand, so they will no longer be trapped in your hands. And you will know that I am Yahweh.
 </usfm>
 
 
@@ -38,12 +38,13 @@
 
 ===== translationNotes: =====
 
-  * **the magic charms that you have used to ensnare the people's lives as if they were birds** - Yahweh speaks of these women using their magic charms to deceive people as if the people were birds that the women trapped with those charms. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **charms** - objects believed to have magical powers
-  * **to ensnare** - "to trap" "to catch in a snare"
-  * **tear them from your arms** - "tear the charms from your arms"
-  * **rescue my people from your hand** - Here the word "hand" represents power or control. AT: "rescue my people from your power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **they will no longer be trapped in your hands** - Here the word "hand" represents power or control. Yahweh speaks of the people being in the control of these women as if the women had trapped them with their hands. This can be stated in active form. AT: "you will no longer trap them like prey in your hands" or "you will no longer control them with your power" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the Lord Yahweh says this** - See how you translated this in [[:en:bible:notes:ezk:05:05|5:5]].
+  * **charms** - objects that are believed to have magic powers
+  * **ensnare** - "to trap." A snare is a small looped rope that catches something by the foot.
+  * **ensnare the people's lives as if they were birds ... people whom you have trapped like birds** - Yahweh is comparing the prophetesses' decorations to traps for a bird. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **tear them from your arms** - The word "arms" refers to the control by the prophetesses. The lies they use to control the people of Israel are like arms that hold them back from escaping. AT: "take them away from your control" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **they will no longer be trapped in your hands** - To say they will not be trapped is the same as saying they will be free. The phrase "trapped in your hand" refers to the people of Israel being in the control of the false prophetesses. AT: "they will be free from you control" (See: [[:en:ta:vol2:translate:figs_litotes]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **know that I am Yahweh** - Possible meanings are 1) "understand who I, Yahweh, am" or 2) "understand that I am Yahweh, the one true God" or 3) "know that I, Yahweh, have the power to do what I say that I will do" (UDB)
 
 
 ===== Links: =====
@@ -53,6 +54,6 @@
   * [[:en:bible:questions:comprehension:ezk:13]]
 **[[:en:bible:notes:ezk:13:19|<<]] | [[:en:bible:notes:ezk:13:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

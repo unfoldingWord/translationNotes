@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 26 If a man has no relative to redeem his property, but if he has prospered and has the ability to redeem it,
+\v 26 If a man has no relative to redeem his property, but if he has prospered and has the ability to redeem it, 
 \v 27 then he may calculate the years since the land was sold and repay the balance to the man to whom he sold it. Then he may return to his own property.
 \v 28 But if he is not able to get the land back for himself, then the land he has sold will remain in the ownership of the one who bought it until the year of Jubilee. At the year of Jubilee, the land will be returned to the man who sold it, and the original owner will return to his property.
 </usfm>
@@ -35,7 +35,7 @@
 ===== translationNotes: =====
 
   * **the land was sold** - This can be stated in active form. AT: "he sold the land" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **repay the balance to the man to whom he sold it** - This can be made explicit. AT: "repay to the purchaser who bought it the money the purchaser would have made" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **repay the balance to the man to whom he sold it** - 
   * **the year of Jubilee** - "the year of restoration" or "the year to return land." See how you translated it in [[:en:bible:notes:lev:25:10|25:10]].
   * **the land will be returned** - This can be stated in active form. AT: "the one who had bought it will return the land" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **will return to his property** - "will go back to his land"
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:lev:25]]
 **[[:en:bible:notes:lev:25:23|<<]] | [[:en:bible:notes:lev:25:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass prosper}}
+~~DISCUSSION~~{{tag>publish p2check prosper}}
 
 ~~NOCACHE~~

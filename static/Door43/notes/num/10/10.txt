@@ -36,8 +36,8 @@
 ===== translationNotes: =====
 
   * **of celebration** - The noun "celebration" can be expressed with the verb "celebrate." AT: "when you celebrate" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **you must blow the trumpets** - Here Yahweh again speaks to Moses using the word "you," but actually wants him to have the priests blow the trumpets. AT: "you must command the priests to blow the trumpets" (See: [[:en:ta:vol2:translate:figs_metonymy]]),
-  * **at the beginnings of the months** - There are 12 months on the Hebrew calendar. The beginning phase of the moon with its sliver of light marked the beginning of each month in the lunar calendar. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]]
+  * **you must blow the trumpets** - Moses does not blow the trumpets; rather the priest blow them. AT: "you must command the priests to blow the trumpets" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **at the beginnings of the months** - There are 12 months on the Hebrew calendar. The beginning phase of the moon with its sliver of light marked the beginning of each month in the lunar calendar. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]])
   * **your burnt offerings ... your fellowship offerings ... you to me** - In these phrases the words "your" and "you" are plural and refer to the people of Israel. (See: [[:en:ta:vol1:translate:figs_you]])
   * **over the sacrifices** - "in honor of the sacrifices" 
   * **will act as a reminder of you to me** - "will act as a memorial for you of me." The word "reminder" can be expressed with the verb "remind." AT: "will always remind you of me." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:num:10]]
 **[[:en:bible:notes:num:10:09|<<]] | [[:en:bible:notes:num:10:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass biblicaltimemonth}}
+~~DISCUSSION~~{{tag>publish p2check biblicaltimemonth}}
 
 ~~NOCACHE~~

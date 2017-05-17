@@ -24,9 +24,15 @@
 
 <usfm>
 \v 1 You people of Lebanon must open your gates and allow the fire to burn your cedar trees!
-\v 2 Your cypress trees must be like people who are wailing, because enemies have cut down the cedar trees. Those glorious trees are all gone. The oak trees in the region of Bashan should also be like people who are wailing, because enemies have cut down the oak trees in the dense forest.
-\v 3 And listen to the shepherds crying because the fertile pastures have been ruined.
-Listen to the lions roar; they roar because the thick forest where they live near the Jordan River has been ruined.
+\v 2 Your cypress trees must be like people who are wailing, 
+because enemies have cut down the cedar trees.
+Those glorious trees are all gone.
+ The oak trees in the region of Bashan should also be like people who are wailing,
+because enemies have cut down the oak trees in the dense forest.
+\v 3 And listen to the shepherds crying
+because the fertile pastures have been ruined.
+Listen to the lions roar;
+they roar because the thick forest where they live near the Jordan River has been ruined.
 
 
 
@@ -37,14 +43,14 @@ Listen to the lions roar; they roar because the thick forest where they live nea
 
 <usfm>
 \c 11
-\m
+\p
 \q
 \v 1 Open your doors, Lebanon, that fire may devour your cedars!
-\q
-\v 2 Lament, cypress trees, for the cedar trees have fallen! What was majestic has been devastated!
+\q 
+\v 2 Lament, cypress trees, for the cedar trees have fallen! What was majestic has been devastated! 
 \q Lament, you oaks of Bashan, for the strong forest has gone down.
 \q
-\v 3 The shepherds howl, for their glory has been destroyed!
+\v 3 The shepherds howl, for their glory has been destroyed! 
 \q The voice of the young lions' roar, for the pride of the Jordan River has been devastated!
 </usfm>
 

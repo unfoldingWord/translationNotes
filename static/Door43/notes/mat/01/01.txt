@@ -22,7 +22,7 @@
 \c 1
 \p
 \v 1 The book of the genealogy of Jesus Christ son of David son of Abraham.
-\v 2 Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers.
+\v 2 Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers. 
 \v 3 Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram.
 </usfm>
 
@@ -37,7 +37,7 @@
   * [[:en:obe:other:judah]]
   * [[:en:obe:other:tamar]]
 
-===== translationNotes: ===== 
+===== translationNotes: =====
 
   * **General Information:** - The author begins with Jesus' genealogy in order to show that he is a descendant of King David and of Abraham. The genealogy continues through [[:en:bible:notes:mat:01:15|1:17]].
 
@@ -45,9 +45,9 @@
   * **son of David son of Abraham** - There were many generations between Jesus, David, and Abraham. Here "son" means "descendant." AT: "a descendant of David, who was a descendant of Abraham" 
   * **son of David** - Sometimes the phrase "son of David" is used as a title, but here it seems to be used only to identify Jesus' ancestry.
   * **Abraham was the father of Isaac** - "Abraham became the father of Isaac" or "Abraham had a son Isaac" or "Abraham had a son named Isaac." There are different ways you could translate this. Whichever way you translate it here, it would be best to translate it the same way throughout the list of Jesus' ancestors. 
-  * **Isaac the father ... Jacob the father** - Here the word "was" is understood. AT: "Isaac was the father ... Jacob was the father" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **Perez and Zerah ... Hezron ... Ram** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Perez the father ... Hezron the father** - Here the word "was" is understood. AT: "Perez was the father ... Hezron was the father" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]

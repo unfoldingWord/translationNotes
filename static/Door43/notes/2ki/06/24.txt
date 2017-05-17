@@ -46,15 +46,12 @@
 ===== translationNotes: =====
 
   * **Ben Hadad** - The name of the king of Aram. His name means "son of Hadad." (See: [[:en:ta:vol1:translate:translate_names]])
-  * **attacked Samaria** - The king and his army attacked Samaria. AT: "they attacked Samaria" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Behold** - The word "behold" here alerts us to pay attention to the surprising information that follows.
-  * **a donkey's head was sold for** - This can be stated in active form. AT: "a donkey's head cost" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **eighty pieces of silver** - "80 pieces of silver" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **the fourth part of a kab** - This can be written in modern measurements. AT: "a fourth part of a liter" or "a quarter of a liter" (See: [[:en:ta:vol2:translate:translate_bvolume]])
-  * **the fourth part** - "the 4th part." This is one part out of four equal parts. (See: [[:en:ta:vol2:translate:translate_fraction]])
-  * **dove's dung for** - The missing words may be added. AT: "dove's dung was sold for" or "dove's dung cost" (See: [[:en:ta:vol2:translate:figs_ellipsis]]) 
-  * **was passing by on the wall** - "walking on top of the city wall" 
-  * **my master** - The woman referred to the king by this name to show him respect. 
+  * **pieces of silver** - (See: [[:en:ta:vol2:translate:translate_bmoney]])
+  * **kab** - (See: [[:en:ta:vol2:translate:translate_bvolume]])
+  * **besieged it** - AT: "did not let anyone or anything go in or out of the city." or "blockaded the city."
+  * **So there was a great famine in Samaria** - AT: "Because of the siege or blockage, there was very little food left in Samaria."
+  * **Behold, they besieged it until a donkey's head was sold for eighty pieces of silver** - The Aramean army surrounded the city for a long time, to the point where things that were normally not considered good food (such as a donkey's head or dove's dung) were the only food left and worth a high price. 
+
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -62,6 +59,6 @@
   * [[:en:bible:questions:comprehension:2ki:06]]
 **[[:en:bible:notes:2ki:06:22|<<]] | [[:en:bible:notes:2ki:06:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass dung}}
+~~DISCUSSION~~{{tag>publish p2edit dung}}
 
 ~~NOCACHE~~

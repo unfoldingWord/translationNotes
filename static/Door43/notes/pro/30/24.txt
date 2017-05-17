@@ -35,13 +35,13 @@
 
 <usfm>
 \q
-\v 24 Four things on earth are small
+\v 24 Four things on earth are small 
 \q and yet they are very wise:
 \q
 \v 25 the ants are creatures that are not strong,
 \q but they prepare their food in the summer;
 \q
-\v 26 the rock badgers are not mighty creatures,
+\v 26 the rock badgers are not mighty creatures, 
 \q but they make their homes in the rocks.
 </usfm>
 
@@ -56,7 +56,8 @@
  
 ===== translationNotes: =====
 
-  * **rock badgers** - an animal with small, rounded ears, short legs, and no tail
+
+  * **rock badger** - This is an animal that resembles a large rabbit but has small, rounded ears, short legs, and no tail.
  
 ===== Links: =====
 
@@ -71,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

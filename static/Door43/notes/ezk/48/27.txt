@@ -28,7 +28,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 27 To the south of Zebulun's boundary, running from the east side to the west side, will be the land of Gad—one portion.
+\v 27 To the south of Zebulon's boundary, running from the east side to the west side, will be the land of Gad—one portion.
 \v 28 The southern boundary of Gad will extend from Tamar to the waters of Meribah Kadesh, and farther to the brook of Egypt, and then to the Great Sea.
 \v 29 This is the land for which you will cast lots; it will be the inheritance of the tribes of Israel. These will be their portions. This is the Lord Yahweh's declaration.
 </usfm>
@@ -50,11 +50,10 @@
 
   * **General Information:** - Yahweh continues giving Ezekiel his message to the people of Israel.
 
-  * **Tamar ... Meribah Kadesh** - names of towns. Translate as in [[:en:bible:notes:ezk:47:18|47:19]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the brook of Egypt** - Translate as in [[:en:bible:notes:ezk:47:18|47:19]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **you** - This is plural and refers to the people of Israel. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **cast lots** - Translate as in [[:en:bible:notes:ezk:45:01|45:1]].
-  * **This is the Lord Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:ezk:05:11|5:11]]. AT: "This is what the Lord Yahweh has declared" or "This is what I, the Lord Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Tamar ... Meribah Kadesh ... the brook of Egypt** - See how you translated these in [[:en:bible:notes:ezk:47:18|47:19]].
+  * **you** - This is plural and refers to the people of Israel. (See: [[:en:ta:vol1:translate:figs_you|Forms of You]])
+  * **cast lots** - See how you translated this in [[:en:bible:notes:ezk:45:01|45:1]].
+  * **This is the Lord Yahweh's declaration** - See how you translated this in [[:en:bible:notes:ezk:05:11|5:11]].
 
 ===== Links: =====
 
@@ -63,6 +62,6 @@
   * [[:en:bible:questions:comprehension:ezk:48]]
 **[[:en:bible:notes:ezk:48:23|<<]] | [[:en:bible:notes:ezk:48:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check kadesh}}
+~~DISCUSSION~~{{tag>publish p2edit kadesh}}
 
 ~~NOCACHE~~

@@ -24,9 +24,9 @@
 \q1 They are men from foreign countries
 \q1
 \v 8 who always tell lies.
-\q1 Even when they swear to tell the truth,
+\q1 Even when they swear to tell the truth, 
 \q2 they tell lies.
-
+\b
 
 
 \q1
@@ -64,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:144]]
 **[[:en:bible:notes:psa:144:005|<<]] | [[:en:bible:notes:psa:144:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

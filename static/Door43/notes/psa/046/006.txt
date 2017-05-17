@@ -25,11 +25,12 @@
 \q2 kingdoms are overthrown;
 \q1 God speaks loudly like thunder,
 \q2 and the earth melts.
+\b
 \q1
 \v 7 But Yahweh, commander of the angel armies, is with us;
 \q2 the God whom Jacob worshiped is our refuge.
 
-
+\b
 
 
 \q1
@@ -44,8 +45,9 @@
 \q he lifted up his voice, and the earth melted.
 \q
 \v 7 Yahweh of hosts is with us;
-\q the God of Jacob is our refuge.
+\q the God of Jacob is our refuge. 
 \qs Selah\qs*
+\b
 </usfm>
 
 
@@ -77,6 +79,6 @@
   * [[:en:bible:questions:comprehension:psa:046]]
 **[[:en:bible:notes:psa:046:004|<<]] | [[:en:bible:notes:psa:046:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2 selah}}
+~~DISCUSSION~~{{tag>publish p2check book2 selah}}
 
 ~~NOCACHE~~

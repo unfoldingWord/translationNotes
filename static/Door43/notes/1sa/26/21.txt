@@ -23,7 +23,7 @@
 
 <usfm>
 \p
-\v 21 Then Saul said, "I have sinned. Return, David, my son; for I will harm you no more, because my life was precious in your eyes today. See, I have played the fool and have made a very bad mistake."
+\v 21 Then Saul said, "I have sinned. Return, David, my son; for I will harm you no more, because my life was precious in your eyes today. See, I have played the fool and have greatly erred."
 </usfm>
 
 
@@ -38,10 +38,7 @@
 
 ===== translationNotes: =====
 
-  * **Return** - Possible meanings are 1) "Return to serve me in my palace" or "Return to your home."
   * **my son** - Saul was not David's true father. Saul speaks as if he were David's father to show David that he wants David to trust and respect him as David would trust and respect his own father. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **my life was precious in your eyes today** - Here the eyes represent seeing, and seeing represents thoughts or judgment. AT: "today you have considered my life to be very valuable" (UDB) or "today you showed me that you really do respect me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **played the fool** - "been very foolish"
 
 ===== Links: =====
 
@@ -50,6 +47,6 @@
   * [[:en:bible:questions:comprehension:1sa:26]]
 **[[:en:bible:notes:1sa:26:19|<<]] | [[:en:bible:notes:1sa:26:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -25,10 +25,10 @@
 
 <usfm>
 \q
-\v 8 Now before long I will pour out my fury against you and fill up my wrath upon you
+\v 8 Now before long I will pour out my fury against you and fill up my wrath upon you 
 \q when I judge you according to your ways and bring all your abominations upon you.
 \q
-\v 9 For my eye will not look compassionately, and I will not spare you. As you have done, I will do to you;
+\v 9 For my eye will not look compassionately, and I will not spare you. As you have done, I will do to you; 
 \q and your abominations will be in your midst so you will know that I am Yahweh, the one punishing you.
 </usfm>
 
@@ -45,11 +45,11 @@
   * **General Information:** - These are Yahweh's words to the people of Israel.
 
   * **Now before long** - "Very soon now"
-  * **I will pour out my fury against you and fill up my wrath upon you** - Yahweh uses the terms "pour out" and "fill up" to compare his acting in anger with pouring out water and filling a jar. Together they emphasize that Yahweh will punish the people severely. AT: "I will punish you severely because I am very angry." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **I will pour out my fury against you and fill up my wrath upon you** - Yahweh uses the terms "pour out" and "fill up" to compare his acting in anger with pouring out water and filling a jar. The two phrases mean basically the same thing and emphasize the severity of Yahweh's punishment. AT: "I will punish you severely because I am very angry." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
   * **fury** - "wrath" or "great anger"
-  * **For my eye will not look compassionately** - The eye is a metonym for what the person thinks. AT: "For I will not have compassion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **For my eye will not look compassionately** - The phrase "my eye" means God himself. "For I will not look with compassion" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **I will not spare you** - "I will not leave you without punishment" or "I will punish you"
-  * **your abominations will be in your midst so you will know that I am Yahweh** - Translate this as in [[:en:bible:notes:ezk:07:03|7:4]].
+  * **your abominations will be in your midst so you will know that I am Yahweh** - See how you translated this in [[:en:bible:notes:ezk:07:03|7:4]].
 
 ===== Links: =====
 
@@ -64,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

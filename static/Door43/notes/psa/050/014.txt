@@ -36,6 +36,7 @@
 \q
 \v 15 Call on me in the day of trouble;
 \q I will rescue you, and you will glorify me."
+\b
 </usfm>
 
 
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:050]]
 **[[:en:bible:notes:psa:050:012|<<]] | [[:en:bible:notes:psa:050:016|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

@@ -15,7 +15,8 @@
 <usfm>
 \v 5 Then Sanballat sent one of his servants to me, bringing a fifth message. This one was written, but it was not sealed and he held it in his hand.
 \v 6 This is what was written in the message:
-\pi "Some people in the nearby countries have heard a report that you and the other Jews are rebuilding the wall in order to be able start a rebellion against the king of Babylon, and that you are planning to become the king of the Israel. Geshem has told us that this is the truth.
+\pi "Some people in the nearby countries have heard a report that you and the other Jews are rebuilding the wall in order to be able start a rebellion against the king of Babylon, and that you are planning to become the king of the Israel. Geshem has told us that this is the truth. 
+
 
 \pi
 </usfm>
@@ -25,7 +26,7 @@
 
 <usfm>
 \v 5 Sanballat sent his servant to me in the same way the fifth time, with an open letter in his hand.
-\v 6 In it was written,
+\v 6 In it was written, 
 \pi "It is reported among the nations, and Geshem also says it, that you and the Jews are planning to rebel, for that is why you are rebuilding the wall. From what these reports say, you are about to become their king.
 </usfm>
 
@@ -42,14 +43,12 @@
   * [[:en:obe:other:king]]
 ===== translationNotes: =====
 
-  * **Sanballat sent his servant to me in the same way the fifth time** - Identifying this message separately means it is distinct in some way from the previous four messages and, therefore, should be noted. 
-  * **the fifth time** - "the 5th time" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **Sanballat sent his servant to me in the same way the fifth time** - Identifying this message separately means it is distinct in some way from the previous four messages and, therefore, should be noted. AT: "Sanballat sent his servant to me the fifth time"
   * **an open letter** - The letter was an unsealed diplomatic communication. This was an insult to the recipient because the courier was free to read it and spread its contents among the people of the region.
-  * **in his hand** - This means he had the letter in his possession, but he did not necessarily carry it in his hand at all times. AT: "in his possession" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **It is reported among the nations** - This can be stated in active form. AT: "The rumor in the region is." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **are planning to rebel** - This means that they are planning to rebel against Artaxerxes, the Persian king, who was currently ruling the Jews. AT: "are planning to rebel against Artaxerxes" (See: [[:en:ta:vol1:translate:figs_explicit]])
-
-
+  * **in his hand** - AT: "in his possession"
+  * **It is reported among the nations** - AT: "The rumor in the region is." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **you and the Jews are planning to rebel, for that is why you are rebuilding the wall. From what these reports say, you are about to become their king** - Nehemiah is accused of plotting treachery against his benefactor, Artaxerxes, the Persian king whom Nehemiah served as cupbearer. (See: [[:en:bible:notes:neh:02:01|02:1]]) 
+  * **for that is why you are rebuilding** - AT: "and that is why you are rebuilding" 
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -63,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

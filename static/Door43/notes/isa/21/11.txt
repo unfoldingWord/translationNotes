@@ -24,8 +24,8 @@
 \q1
 \v 12 The watchman, replied,
 \q2 "It will soon be morning, but after that, it will soon be night again.
-\q1 If you want to ask your question, then ask it now,
-\q2 and then come back again."
+\q1 If you want to inquire again about what will happen in our country,
+\q2 come back and inquire again."
 
 
 
@@ -38,22 +38,24 @@
 \p
 \v 11 A declaration about Dumah.
 \p One calls to me from Seir, "Watchman, what is left of the night? Watchman, what is left of the night?"
-\v 12 The watchman said, "The morning comes and also the night. If you want to ask, then ask; and come back again."
+\v 12 The watchman said, "The morning comes, and also the night: if you will ask, ask, and then come back again."
+\b
 </usfm>
 
 ===== translationWords: =====
 
   * [[:en:obe:other:declare]]
-  * [[:en:obe:other:watch]]
+  * [[:en:obe:other:edom]]
 
 ===== translationNotes: =====
 
   * **A declaration** - "This is what Yahweh declares" or "This is a message from Yahweh"
-  * **about Dumah** - This is another name for Edom. Here "Dumah" represents the people who live there. AT: "about the people of Dumah" or "about the people of Edom" (See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **about Dumah** - This is another name for Edom. AT: "about the people of Dumah" or "about the people of Edom" (See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **One calls to me** - Here "me" refers to Isaiah.
-  * **Seir** - This is the name of mountains west of Edom. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Watchman, what is left of the night? Watchman, what is left of the night?** - This is repeated to emphasize that the person asking the question is worried and nervous. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **If you want to ask, then ask; and come back again** - "Ask me now what you want to know, but also come back later and ask again"
+  * **Watchman, what is left of the night? Watchman, what is left of the night?** - This is repeated for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Watchman** - See how you translated this in [[:en:bible:notes:isa:21:06|21:6]].
+  * **if you will ask, ask, and then come back again** - "if you want to ask, then come back later and ask"
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -61,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:21]]
 **[[:en:bible:notes:isa:21:10|<<]] | [[:en:bible:notes:isa:21:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

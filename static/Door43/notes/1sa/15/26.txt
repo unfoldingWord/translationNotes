@@ -15,7 +15,7 @@
 <usfm>
 \v 26 But Samuel replied, "No, I will not go back with you. You have rejected what Yahweh commanded you to do. So he has rejected you, and declared that you will no longer be the king of Israel. So I do not want to talk anymore with you, either."
 \p
-\v 27 As Samuel turned to leave, Saul tried to stop him by grabbing the edge of Samuel's robe, and it tore.
+\v 27 As Samuel turned to leave, Saul tried to stop him by grabbing the edge of Saul's robe, and it tore.
 </usfm>
 
 
@@ -37,9 +37,7 @@
 
 ===== translationNotes: =====
 
-  * **for you have rejected the word of Yahweh** - Samuel made it clear that Saul understood that he was disobeying God at the time when he spared the best animals and did not kill Agag.
-  * **rejected the word of Yahweh** - Here "word" refers to the command that Yahweh spoke. AT: "refused to do what Yahweh commanded" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Saul took hold of the hem of his robe** - Saul did this to try to stop Samuel from leaving. This can be stated explicitly. AT: "Saul tried to stop him by grabbing the edge of Samuel's robe" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **for you have rejected the word of Yahweh** - Samuel made it clear that Saul understood that he was disobeying God at the time he did not kill Agag and kept the best animals.
   * **the hem of his robe** - "the edge of his robe" or "the fringe of his robe"
 
  
@@ -53,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

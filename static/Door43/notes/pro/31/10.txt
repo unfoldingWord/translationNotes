@@ -38,7 +38,7 @@
 <usfm>
 \q
 \v 10 Who can find a capable wife?
-\q Her value is far more than jewels.
+\q Her value is far more than jewels. 
 \q
 \v 11 The heart of her husband trusts in her,
 \q and he will never be poor.
@@ -58,9 +58,9 @@
 ===== translationNotes: =====
 
 
-  * **Who can find a capable wife?** - The writer asks a question to show that he is beginning a new section. AT: "Not many men can find a capable wife." or "Not many men can find a wife who is able to do many things well." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who can find a capable wife?** - AT: "Not many men can find a capable wife" or "Not many men can find a wife who is good at many things" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Her value is far more than jewels** - "She is more precious than jewels"
-  * **he will never be poor** - This litotes can be stated positively. AT: "he will always have what he needs" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **he will never be poor** - AT: "he will always have what he needs" (See: [[:en:ta:vol2:translate:figs_litotes]])
  
 ===== Links: =====
 
@@ -75,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

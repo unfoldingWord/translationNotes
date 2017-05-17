@@ -39,10 +39,12 @@
 
   * [[:en:obe:other:ekron]]
   * [[:en:obe:other:joppa]]
+ 
 
 ===== translationNotes: =====
 
-  * **Elon, Timnah, Ekron, Eltekeh, Gibbethon, Baalath, Jehud, Bene Berak, Gath Rimmon, Me Jarkon, and Rakkon** - These are the names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
+
+  * **Elon, Timnah, Ekron, Eltekeh, Gibbethon, Baalath, Jehud, Bene Berak, Gath Rimmon, Me Jarkon, and Rakkon** - names of places (See: [[:en:ta:vol1:translate:translate_names]])
   * **across from Joppa** - "opposite Joppa" or "beside Joppa"
  
 ===== Links: =====
@@ -58,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

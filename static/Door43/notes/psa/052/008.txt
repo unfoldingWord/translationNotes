@@ -20,9 +20,10 @@
 \v 8 But I am secure because I worship in God's temple;
 \q2 I am like a strong green olive tree.
 \q1 I trust in God, who faithfully loves us forever.
+\b
 \q
 \v 9 God, I will always thank you for everything you have done.
-\q2 I will wait patiently because you are so good,
+\q2 I will wait patiently because you are so good, 
 \q2 especially when I stand before your faithful people.
 </usfm>
 
@@ -63,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:052]]
 **[[:en:bible:notes:psa:052:006|<<]] | [[:en:bible:notes:psa:053:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2 olive}}
+~~DISCUSSION~~{{tag>publish p2check book2 olive}}
 
 ~~NOCACHE~~

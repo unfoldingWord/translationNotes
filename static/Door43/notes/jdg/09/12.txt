@@ -16,7 +16,7 @@
 <usfm>
 \v 12 Then the trees said to the grapevine, 'Come and be our king!'
 \p
-\v 13 But the grapevine replied, 'No! I will not be your king! The new wine that is made from my grapes causes people and gods who drink it to become very happy. I do not want to stop producing grapes and go and rule over you other trees!'
+\v 13 But the grapevine replied, 'No! I will not be your king! The new wine that is made from my grapes causes people and gods who drink it to become very happy. I do not want to stop producing grapes and go and rule over you other trees!' 
 \p
 \v 14 Then all the trees said to the thornbush, 'Come and be our king!'
 
@@ -44,7 +44,8 @@
 
   * **General Information:** - Jotham continues telling his parable, where trees represent various people groups.
 
-  * **The trees said to the vine** - In this parable, Jotham describes the trees and the vine as doing things that humans do. (See: [[:en:ta:vol1:translate:figs_parables]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **The trees said** - This speaks of trees as if they were people and could hear and speak. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **to the vine** - This speaks of a grapevine as if it were a person and could hear and speak. (See: [[:en:ta:vol2:translate:figs_personification]])
   * **Should I give up my new wine ... over the other trees?** - The vine is asking this question to refuse to be king. This question can be expressed as a statement. AT: "I will not give up my new wine ... over the other trees." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **thornbush** - Thorns are sharp spikes or spurs that hurt. This bush has many sharp spikes along its branches.
 ===== Links: =====
@@ -54,6 +55,6 @@
   * [[:en:bible:questions:comprehension:jdg:09]]
 **[[:en:bible:notes:jdg:09:09|<<]] | [[:en:bible:notes:jdg:09:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

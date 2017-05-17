@@ -21,13 +21,14 @@
 <usfm>
 \v 3 Yahweh, I am greatly troubled in my inner being.
 \q2 How long must I endure this?
+\b
 \q1
 \v 4 Yahweh, please come and rescue me.
 \q2 Save me because you always keep the promises of your covenant.
 \q1
 \v 5 I will not be able to praise you after I die;
 \q2 no one in the place where the dead are praise you.
-
+\b
 
 
 \q1
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:psa:006]]
 **[[:en:bible:notes:psa:006:001|<<]] | [[:en:bible:notes:psa:006:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

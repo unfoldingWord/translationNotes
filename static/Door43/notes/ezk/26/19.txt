@@ -23,7 +23,7 @@
 \v 19 For the Lord Yahweh says this: When I make you a desolate city, like the other cities that are not inhabited, when I raise up the deeps against you, and when the great waters cover you,
 \v 20 then I will bring you down to the people of ancient times, like the others who have gone down into the pit; for I will make you live in the lowest realms of the earth as in ruins of ancient times. Because of this you will not come back and stand in the land of the living.
 \f + \ft The expression \fqa and stand in the land of the living \fqa* is supplied by an ancient version. The Hebrew has \fqa I will place glory in the land of the living \fqa* , which does not seem to fit the context here. \f*
-\v 21 I will place disaster on you, and you will exist no more. Then you will be sought, but you will never be found ever again—this is the Lord Yahweh's declaration."
+\v 21 I will place disaster on you, and you will exist no more. Then you will be sought, but you will never be found ever again—this is the Lord Yahweh's declaration.'"
 </usfm>
 
 ===== translationWords: =====
@@ -35,17 +35,9 @@
   
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues giving Ezekiel his message to Tyre.
+  * **General Information:** - Yahweh continues giving Ezekiel his message to Tyre.
 
-  * **make you** - The word "you" here refers to the city of Tyre. In the original language "you" here is feminine singular.
-  * **When I make you a desolate city, like the other cities that are not inhabited** - Here Tyre is compared to other cities that no longer had people living in them. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **the deeps** - Here "the deeps" means the deep waters of the sea. AT: "the deep waters" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **then I will bring you down to the people of ancient times, like the others who have gone down into the pit; for I will make you live in the lowest realms of the earth as in ruins of ancient times** - What Yahweh would do to Tyre is compared to people going to the grave and cities falling into ruin. (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **the pit** - This refers to the grave; because the grave was thought to be the entrance to the world of the dead, the pit also represents that world.  (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **stand in the land of the living** - This represents being restored to the city's former existence. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will place disaster on you** - The abstract noun "disaster" can be translated using the adjective "terrible" or the verb "destroy." AT: "I will bring you to a terrible end" or "I will destroy you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Then you will be sought, but you will never be found ever again** - This can be stated in active form. AT: "Then people will seek you but not be able to find you ever again" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **make you** - The word "you" refers to the city of Tyre. In the original language it is feminine singular, because nations were often thought of as a woman. (See: [[:en:ta:vol2:translate:figs_gendernotations]] and [[:en:ta:vol2:translate:figs_personification]])
  
 ===== Links: =====
 
@@ -55,6 +47,6 @@
 
 **[[:en:bible:notes:ezk:26:17|<<]] | [[:en:bible:notes:ezk:27:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

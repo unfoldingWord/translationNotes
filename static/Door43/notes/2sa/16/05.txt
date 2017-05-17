@@ -38,9 +38,8 @@
 
 ===== translationNotes: =====
 
-  * **Bahurim** - Translate the name of this city the same as you did in [[:en:bible:notes:2sa:03:14|3:16]].
+  * **Bahurim** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Shimei ... Gera** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **in spite of** - "even though there was"
   * **bodyguards** - These are men who protect an important person.
  
 ===== Links: =====
@@ -56,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

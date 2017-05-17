@@ -45,8 +45,7 @@
 
 ===== translationNotes: =====
 
-  * **all the assembly of Israel** - This is a generalization. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **sheep and oxen that could not be counted** - This can be stated in active form. AT: "more sheep and oxen than anyone would ever be able to count" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **that could not be counted** - This can be stated in active form. AT: "that no one was able to count" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -55,6 +54,6 @@
   * [[:en:bible:questions:comprehension:1ki:08]]
 **[[:en:bible:notes:1ki:08:01|<<]] | [[:en:bible:notes:1ki:08:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass levite}}
+~~DISCUSSION~~{{tag>publish p2edit levite}}
 
 ~~NOCACHE~~

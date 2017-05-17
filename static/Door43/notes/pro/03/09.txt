@@ -19,10 +19,10 @@
 
 <usfm>
 \v 9 When you gain money, honor Yahweh by giving him the tithe;
-\q2 give him the first portion of what you received, to remember it all came from him.
+\q2 give him the first portion of what you received, to remember it all came from him. 
 \q1
 \v 10 If you honor Yahweh,
-your storerooms will be so full that they will overflow,
+your storerooms will be so full that they will overflow, 
 \q2 and your barrels will be bursting with all the wine you have made.
 
 
@@ -47,13 +47,13 @@ your storerooms will be so full that they will overflow,
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:firstfruit]]
   * [[:en:obe:other:wine]]
+ 
 
 ===== translationNotes: =====
 
   * **produce** - "harvest"
-  * **your storehouses will be filled up** - This can be stated in active form. AT: "your storehouses will be full" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **storehouses** - buildings or rooms where food is stored
-  * **your vats will be bursting** - your storage containers will be extremely full, as if ready to break open.
+  * **storehouses** - houses where food is stored
+  * **bursting** - extremely full, as if ready to break open.
  
 ===== Links: =====
 
@@ -68,6 +68,6 @@ your storerooms will be so full that they will overflow,
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

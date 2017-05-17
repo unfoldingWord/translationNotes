@@ -43,10 +43,10 @@
 
 <usfm>
 \q1
-\v 12 For our many transgressions are before you, and our sins testify against us;
+\v 12 For our many transgressions are before you, and our sins testify against us; 
 \q1 for our transgressions are with us, and we know our sins.
 \q1
-\v 13 We have rebelled, denying Yahweh and turning away from following our God.
+\v 13 We have rebelled, denying Yahweh and turning away from following our God. 
 \q1 We have spoken extortion and turning aside, conceived complaining from the heart and words of lying.
 </usfm>
 
@@ -69,7 +69,7 @@
   * **our many transgressions** - Here "our" refers to Isaiah and the people of Israel. (See: [[:en:ta:vol2:translate:figs_inclusive]])
   * **before you** - Here "you" refers to Yahweh. (See: [[:en:ta:vol1:translate:figs_yousingular]])
   * **our sins testify against us** - Isaiah describes the sins as a person who goes before God to declare that the people are guilty. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **for our transgressions are with us** - "With us" represents being aware of them. AT: "for we are aware of our transgressions" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for our transgressions are with us** - "for we are aware of our transgressions"
 
 ===== Links: =====
 
@@ -78,6 +78,6 @@
   * [[:en:bible:questions:comprehension:isa:59]]
 **[[:en:bible:notes:isa:59:11|<<]] | [[:en:bible:notes:isa:59:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

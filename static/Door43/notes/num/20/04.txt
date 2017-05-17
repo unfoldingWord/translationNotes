@@ -22,7 +22,7 @@
 
 <usfm>
 \v 4 Why have you brought Yahweh's community into this wilderness to die here, we and our animals?
-\v 5 Why did you make us come up out of Egypt to bring us to this horrible place? Here there is no seed, figs, vines, or pomegranates, and there is no water to drink."
+\v 5 And why did you make us come up out of Egypt to bring us to this horrible place? Here there is no seed, figs, vines, or pomegranates. And there is no water to drink."
 </usfm>
 
 ===== translationWords: =====
@@ -39,7 +39,7 @@
   * **Connecting Statement:** - The people of Israel continue to complain to Moses and Aaron. 
 
   * **Why have you brought Yahweh's community into this wilderness to die here, we and our animals?** - The people use this question in order to complain against Moses and Aaron. It can be translated as a statement. AT: "You should not have brought Yahweh's community into this wilderness to die here, we and our animals." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why did you make us come up out of Egypt to bring us to this horrible place?** - The people use this question in order to complain against Moses and Aaron. It can be translated as a statement. AT: "You should not have made us leave Egypt to bring us to this horrible place." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **And why did you make us come up out of Egypt to bring us to this horrible place?** - The people use this question in order to complain against Moses and Aaron. It can be translated as a statement. AT: "You should not have made us leave Egypt to bring us to this horrible place." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:num:20]]
 **[[:en:bible:notes:num:20:02|<<]] | [[:en:bible:notes:num:20:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -40,12 +40,10 @@
   * [[:en:obe:kt:call]]
 ===== translationNotes: =====
 
-  * **the kings of Israel, Judah, and Edom** - This refers to the kings accompanied by their armies. AT: "the kings of Israel, Judah, and Edom and their armies" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+
   * **marched in a semicircle** - This describes the indirect way they traveled as mentioned in [[:en:bible:notes:2ki:03:07|3:08]].
-  * **semicircle** - An arc that is shaped like half a circle.
-  * **There was no water found** - This can be stated in active form. AT: "They found no water" or "They did not find any water" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **What is this? Has Yahweh called three kings to give them into the hand of Moab?** - The king uses a rhetorical question to emphasize how ridiculous and terrible their situation is. This can be written as a statement. AT: "It looks like Yahweh will allow all three of us to be captured by Moab!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **to give them into the hand of Moab** - Here "Moab" refers to his army. Also, "the hand of Moab" refers to Moab's "control." AT: "to give us over to Moab's control" or "so the army of Moab will defeat us" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_metonymy]]))
+  * **What is this? Has Yahweh called three kings together so Moab will defeat us?** - The kings remarks here are put into the form of a question to add emphasis. AT: "It looks like Yahweh will allow all three of us to be captured by Moab!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **so Moab will defeat us** - AT: "so the army of Moab will defeat us"; (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
  
 ===== Links: =====
@@ -58,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -36,9 +36,10 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 10 I will greatly rejoice in Yahweh; in my God I will be very glad.
-\q1 For he has clothed me with the garments of salvation; he has clothed me with the robe of righteousness,
+\v 10 I will greatly rejoice in Yahweh; in my God I will be very glad. 
+\q1 For he has clothed me with the garments of salvation; he has clothed me with the robe of righteousness, 
 \q1 as a bridegroom adorns himself with a turban, and as a bride adorns herself with her jewels.
 \q1
 \v 11 For as the earth produces its sprouting plants, and as the garden makes its planting grow,
@@ -61,12 +62,11 @@
 
 ===== translationNotes: =====
 
-  * **I will greatly rejoice in Yahweh** - "I" refers to the people of God speaking as one person whom Yahweh has restored.
-  * **clothed me with the garments of salvation; he has clothed me with the robe of righteousness** - The people of God speaking as one person now have salvation and righteousness as their distinct appearance visible to all. "Garments" and "robe" are clothing that everyone can see. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **as a bridegroom adorns himself with a turban, and as a bride adorns herself with her jewels** - This comparison emphasizes that the speaker is extremely happy, joyful, celebrating. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **turban** - Translate this as in [[:en:bible:notes:isa:61:03|61:3]].
-  * **For as the earth produces its sprouting plants, and as the garden makes its planting grow** - This is saying the same thing in two ways. The fact that whatever God says he will do is certainly going to happen is compared to the fact that seeds sprout after planting. AT: "Just as seeds sown in a garden sprout from the soil and grow" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **righteousness and praise to sprout up** - This expression describes these virtues as growing from seed like plants do. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will greatly rejoice in Yahweh** - Possible meanings are 1) "I" refers to the people of God speaking as one person, or 2) "I" refers to on of the people who mourned.
+  * **in my God I will be very glad** - AT: This points to the close relationship of the person with God. "I will be very happy because of my God" or "I will delight in my God" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **as a bridegroom adorns himself with a turban, and as a bride adorns herself with her jewels** - This emphasizes that the speaker is extremely happy, joyful, celebrating. The turban reminds one of the headdress of the priest. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **turban** - See how you translated this in [[:en:bible:notes:isa:61:03|61:3]].
+  * **For as the earth produces its sprouting plants, and as the garden makes its planting grow** - This is saying the same thing in two ways and emphasizes that whatever God says he will do is certainly going to happen, just as seeds always sprout. AT: "Just as seeds sown in a garden sprout from the soil and grow" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -75,6 +75,6 @@
   * [[:en:bible:questions:comprehension:isa:61]]
 **[[:en:bible:notes:isa:61:08|<<]] | [[:en:bible:notes:isa:62:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

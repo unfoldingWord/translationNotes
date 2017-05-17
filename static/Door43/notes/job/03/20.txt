@@ -35,14 +35,14 @@
 
 <usfm>
 \q
-\v 20 Why is light given to him who is in misery?
-\q Why is life given to the one who is bitter in soul,
+\v 20 Why is light given to him who is in misery;
+\q why is life given to the one who is bitter in soul;
 \q
-\v 21 to one who longs for death without it coming;
-\q to one who digs for death more than for hidden treasure?
+\v 21 to one who longs for death, but it does not come;
+\q to one who searches for death more than those who search for hidden treasure?
 \q
 \v 22 Why is light given to one who rejoices very much
-\q and is glad when he finds the grave?
+\q and is glad when he can find the grave?
 </usfm>
 
 
@@ -56,28 +56,28 @@
  
 ===== translationNotes: =====
 
-  * **Why is light given to him who is in misery? Why is life given to the one who is bitter in soul** - Job's two questions mean basically the same thing. He is wondering why those who face hardship continue to live. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Why is light given to him who is in misery?** - Here Job is wondering why people must stay alive and suffer. AT: "I do not understand why God gives life to a person who is suffering" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **light** - Here light represents life (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Why is life given to the one who is bitter in soul ... hidden treasure?** - "why does God give life to a miserable person?" AT: "I do not understand why God gives life to a person who is very unhappy ... hidden treasure" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **to one who longs for death without it coming** - Here death is spoken of as if it were an object coming toward someone. AT: "to a person who no longer wants to be alive, but is still alive" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **to one who digs for death more than for hidden treasure** - A person hoping to die is spoken of as if he were digging for buried treasure. AT: "to a person who wants to stop living more than he wants to look for hidden riches" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Why is light given to one who rejoices very much and is glad when he finds the grave** - Here Job uses a question to make a statement. AT: "I do not understand why God allows a person to keep living when the person would be very happy to be buried in the ground" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **one who rejoices very much and is glad** - The phrase "rejoices very much" means basically the same thing as "is glad." Together, the two phrases emphasize the intensity of gladness. AT: "one who is extremely happy" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **when he finds the grave** - This is a polite way of referring to dying. AT: "when he is dead and can be buried" (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **the grave** - Here the grave represents death. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
-
+  * **Why is light given to him who is in misery; why is life given to the one who is bitter in soul** - Job's two questions mean basically the same thing. He is wondering why those who face hardship continue to live. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Why is light given to him who is in misery** - He is wondering why people must stay alive and suffer. AT: "I do not understand why God gives life to a person who is suffering." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **why is life given to the one who is bitter in soul** - "why does God give life to a miserable person?" AT: "I do not understand why God gives life to a person who is very unhappy" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **to one who longs for death, but it does not come** - AT: "to a person who no longer wants to be alive, but is still alive"
+  * **to one who searches for death more than those who search for hidden treasure** - AT: "to a person who wants to stop living more than he wants to look for hidden riches"
+  * **Why is light given to one who rejoices very much and is glad when he can find the grave** - AT: "I do not understand why God allows a person to keep living when the person would be very happy to be buried in the ground" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **one who rejoices very much and is glad** - The phrase "rejoices very much" means basically the same thing as "is glad." Together, the two phrases emphasize the intensity of gladness. AT: "one who is extremely happy." (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **when he can find the grave** - A polite way of expressing death. AT: "when he is dead and can be buried." (See: [[:en:ta:vol2:translate:figs_euphemism]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
   * [[:en:bible:notes:job:03:00]]
   * [[:en:bible:questions:comprehension:job:03]]
+
+ 
+
 **[[:en:bible:notes:job:03:17|<<]] | [[:en:bible:notes:job:03:23|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

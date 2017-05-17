@@ -32,7 +32,7 @@
 \q1
 \v 20 For the ruthless will cease, and the scoffer will vanish. All those who love to do evil will be eliminated,
 \q1
-\v 21 who by a word make a man out to be an offender. They lay a snare for him
+\v 21 who by a word make a man out to be an offender. They lay a snare for him 
 \q1 who seeks justice at the gate and put the righteous down with empty lies.
 </usfm>
 
@@ -40,19 +40,17 @@
 
   * [[:en:obe:kt:evil]]
   * [[:en:obe:kt:word]]
-  * [[:en:obe:other:snare]]
   * [[:en:obe:kt:justice]]
   * [[:en:obe:kt:gate]]
   * [[:en:obe:kt:righteous]]
 
 ===== translationNotes: =====
 
-  * **For the ruthless will cease** - The nominal adjective "the ruthless" can be stated as an adjective. AT: "For the ruthless people will cease" or "For there will no longer be cruel people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **and the scoffer will vanish** - The nominal adjective "the scoffer" can be stated as a verb. AT: "and those who scoff will vanish" or "and the people who mock will disappear" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **All those who love to do evil will be eliminated** - This can be stated in active form. AT: "Yahweh will eliminate all those who love to do evil" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **who by a word make a man out to be an offender** - Here "word" represents a testimony in court. AT: "who say in court that an innocent man is guilty of doing something wrong" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **They lay a snare for him who seeks justice at the gate and put the righteous down with empty lies** - The evil people doing anything they can to stop a good person is spoken of as if the evil people set a trap like a hunter catching his prey. AT: "They lie and try to stop those who want to do what is fair and right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **who seeks justice at the gate** - The city gate was often the place where the city leaders made official decisions.
+  * **For the ruthless will cease** - "For there will no longer be cruel people"
+  * **and the scoffer will vanish** - "and the people who mock will disappear"
+  * **All those who love to do evil will be eliminated** - This can be stated in active form. AT: "Yahweh will remove all those who love to do evil" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **who by a word make a man out to be an offender** - "who say that an innocent man is guilty of doing something wrong"
+  * **They lay a snare for him who seeks justice at the gate and put the righteous down with empty lies** - This symbolizes trying to trap people as one would trap animals. AT: "They lie and try to stop those who want to do what is fair and right" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -61,6 +59,6 @@
   * [[:en:bible:questions:comprehension:isa:29]]
 **[[:en:bible:notes:isa:29:17|<<]] | [[:en:bible:notes:isa:29:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 20 As for you, my master the king, the eyes of all Israel are on you, waiting for you to tell them who will sit on the throne after you, my master.
+\v 20 My master the king, the eyes of all Israel are on you, waiting for you to tell them who will sit on the throne after you, my master.
 \v 21 Otherwise it will happen, when my master the king sleeps with his fathers, that I and my son Solomon will be regarded as criminals."
 </usfm>
 
@@ -36,11 +36,8 @@
 
   * **General Information:** - Bathsheba continues to speak to King David.
 
-  * **the eyes of all Israel are on you** - Here "eyes" refers to the people. This is a generalization. AT: "all the people of Israel are watching you" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **will sit on the throne** - Sitting on the throne is a metonym for being king. Similar words appear in [[:en:bible:notes:1ki:01:13|1:13]]. AT: "will be king"
-  * **when my master the king sleeps with his fathers** - Bathsheba speaks to King David as if she were speaking about him to show that she respects him. AT: "when you sleep with your fathers" (See: [[:en:ta:vol2:translate:figs_pronouns]])
-  * **sleeps with his fathers** - This is a polite way of saying "dies." (See [[:en:ta:vol2:translate:figs_euphemism]])
-  * **I and my son Solomon will be regarded as criminals** - This can be translated in active form. AT: "the new king will regard my son Solomon and me as criminals" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the eyes of all Israel are on you** - AT: "all the people of Israel are watching you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **sleeps with his fathers** - This is a polite way of referring to his death. AT: "dies" (See [[:en:ta:vol2:translate:figs_euphemism]])
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -48,6 +45,6 @@
   * [[:en:bible:questions:comprehension:1ki:01]]
 **[[:en:bible:notes:1ki:01:18|<<]] | [[:en:bible:notes:1ki:01:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

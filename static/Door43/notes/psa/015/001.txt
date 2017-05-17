@@ -29,8 +29,9 @@
 
 <usfm>
 \c 15
-\m
+\p
 \d A psalm of David.
+\b
 \q
 \v 1 Yahweh, who may stay in your tabernacle?
 \q Who may live on your holy hill?
@@ -53,11 +54,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **Who may live on your holy hill?** - "Holy hill" here represents God's temple, which was on Mount Zion. AT: "Who may live in your holy place?" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **speaks truth from his heart** - "speaks honestly"
 
 ===== Links: =====
 
@@ -66,6 +66,6 @@
   * [[:en:bible:questions:comprehension:psa:015]]
 **[[:en:bible:notes:psa:014:007|<<]] | [[:en:bible:notes:psa:015:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

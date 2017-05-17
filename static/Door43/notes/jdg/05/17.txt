@@ -26,6 +26,7 @@
 \q1
 \v 18 But men from the tribe descended from Zebulun risked their lives on the battlefield,
 \q2 and men descended from Naphtali were ready to do that, also.
+\b
 
 
 \q1
@@ -41,7 +42,8 @@
 \q and lived close to his harbors.
 \q
 \v 18 Zebulun was a tribe who would risk their lives to the point of death,
-\q and Naphtali, also, on the field of battle.
+\q and Naphtali, also, on the field of battle. 
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -62,7 +64,7 @@
   * **and Dan, why did he wander about on ships?** - This question is asked to express anger because the people of the tribe of Dan would not fight for Israel. AT: "and the men of Dan should not have remained on their ships" or "and the people of the tribe of Dan did not help us in the battle. Instead they were wandering around on the sea in ships." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **Dan, why did he** - Here "Dan" represents the men from Dan who should have gone to fight in battle. AT: "the men of Dan, why did they" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **wander about on ships** - The tribe of Dan was located near the Mediterranean sea. They sailed on the sea to make money through trade and fishing. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Asher remained on the coast and lived close to his harbors** - The full meaning of this statement can be made explicit. AT: "The people of the tribe of Asher also failed to help us, they just remained on the coast near their harbors" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Asher remained on the coast and lived close to his harbors** - The full meaning of this statement can be made explicit. AT: "The people of the tribe of Asher also failed to help us. They just remained on the coast near their harbors." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **Asher remained** - Here "Asher" represents the men who should have gone to fight in battle. AT: "The men of Asher remained" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **harbors** - places at the seacoast with deeper water where ships were kept
   * **Naphtali, also** - You can make clear the understood information. AT: "Naphtali was a tribe who would also risk their lives to the point of death" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
@@ -73,6 +75,6 @@
   * [[:en:bible:questions:comprehension:jdg:05]]
 **[[:en:bible:notes:jdg:05:16|<<]] | [[:en:bible:notes:jdg:05:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

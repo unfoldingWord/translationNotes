@@ -22,7 +22,7 @@
 \v 2 If you do not do that, they will tear me into pieces
 \q2 like a lion does when it attacks the animals it wants to kill;
 \q2 no one will save me from them.
-
+\b
 
 
 \q1
@@ -32,8 +32,9 @@
 
 <usfm>
 \c 7
-\m
+\p
 \d A musical composition of David, which he sang to Yahweh concerning the words of Cush the Benjamite.
+\b
 \q
 \v 1 Yahweh my God, I take refuge in you!
 \q Save me from all who chase me, and rescue me.
@@ -55,7 +56,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A musical composition of David** - "This is a song that David wrote"
   * **concerning the words of Cush the Benjamite** - The phrase "words of Cush" represents what he said. AT: "about what Cush, a man from the tribe of Benjamin, said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:psa:007]]
 **[[:en:bible:notes:psa:006:008|<<]] | [[:en:bible:notes:psa:007:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

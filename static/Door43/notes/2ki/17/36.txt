@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 36 But Yahweh, who brought you up from the land of Egypt with great power and a raised arm, is the one you must honor; it is to him that you will prostrate yourselves, and it is to him that you will sacrifice.
+\v 36 But Yahweh, who brought you up from the land of Egypt with great power and a raised arm, is the one you must honor; it is to him that you will prostrate yourselves, and it is to him that will you sacrifice.
 \v 37 The statutes and the decrees, the law and the commandments that he wrote for you, you will keep them forever. So you must not fear other gods,
 \v 38 and the covenant that I have made with you, you will not forget; neither will you honor other gods.
 </usfm>
@@ -31,12 +31,11 @@
   * [[:en:obe:kt:raise]]
   * [[:en:obe:other:prostrate]]
   * [[:en:obe:kt:forever]]
-
 ===== translationNotes: =====
 
-  * **General Information:** - The summary comes toward the end with an appeal to worship only Yahweh.
+  * **General Information:** - Yahweh is the one true God. Worship and obey him and no other god.
 
-  * **with great power and a raised arm** - The phrase "raised arm" is metonymy for displaying power and means basically the same thing as "great power." AT: "with very great power" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_doublet]])
+  * **with great power and a raised arm** - Here the words "raised arm" refer to a display of power and mean basically the same thing as "great power." AT: "with very great power" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_doublet]])
   * **keep them** - "obey them"
 
 ===== Links: =====
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:2ki:17]]
 **[[:en:bible:notes:2ki:17:34|<<]] | [[:en:bible:notes:2ki:17:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass prostrate}}
+~~DISCUSSION~~{{tag>publish p2edit prostrate}}
 
 ~~NOCACHE~~

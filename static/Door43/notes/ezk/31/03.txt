@@ -25,7 +25,7 @@
 \q1 it had big beautiful branches
 \q2 that provided shade for other trees in the forest.
 \q1 It was very tall;
-\q2 and the branches of the tallest trees made a treetop that was a roof over the forest.
+\q2 its top reached up into the clouds.
 \q1
 \v 4 Water came to it from deep springs,
 \q2 and as a result that cedar tree grew tall and very green.
@@ -40,8 +40,8 @@
 
 <usfm>
 \q
-\v 3 Behold! Assyria was a cedar in Lebanon with beautiful branches, giving shade to the forest, 
-\q and the tallest in height, and the branches formed its treetop. 
+\v 3 Behold! Assyria was a cedar in Lebanon with beautiful branches, a forested canopy, and great height.
+\q And its tree top was among the clouds.
 \q
 \v 4 Many waters made it tall; the deep waters made it huge. Rivers flowed all around its area,
 \q for their channels stretched out to all the trees in the field.
@@ -58,12 +58,13 @@
 
   * **General Information:** - These are God's words to Pharaoh about Assyria. God gives his message in the form of a parable about a great cedar tree. (See: [[:en:ta:vol1:translate:figs_parables]])
 
-  * **Behold!** - "Look!" or "Listen!" or "Pay attention to what I am about to tell you!"
-  * **Assyria was a cedar** - In this parable, God speaks about Assyria as if it were a great tree to emphasize how great and powerful the Assyrians were. This parable continues until 31:9. AT: "Assyria was like a cedar" (See: [[:en:ta:vol1:translate:figs_parables]])
-  * **the branches formed its treetop** - "its top was above the branches of the other trees." Some versions of the Bible translate this as "the top of the tree was in the clouds."
+  * **Behold!** - AT: "Look!" or "Listen!" or "Pay attention to what I am about to tell you!"
+  * **a forested canopy** - Possible meanings are: 1) "with so many branches that it provided good shade" or 2) "that provided shade for the other trees in the forest."
+  * **and great height** - "and very tall"
+  * **And its tree top was among the clouds** - Possible meanings are 1) "The top of the tree was in the clouds" or 2) "Its top was above the branches of the other trees."
   * **Many waters made it tall** - "Because the cedar had a lot of water, it grew very tall"
   * **the deep waters made it huge** - "the water deep in the ground made the cedar grow very big"
-  * **for their channels stretched out to all the trees in the field** - "and streams flowed from the rivers to all the trees of the field"
+  * **for their channels stretched out to all the trees in the field** - "and streams flowed from the rivers to all the trees of the field."
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -71,6 +72,6 @@
   * [[:en:bible:questions:comprehension:ezk:31]]
 **[[:en:bible:notes:ezk:31:01|<<]] | [[:en:bible:notes:ezk:31:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -24,7 +24,7 @@
 
 <usfm>
 \v 1 Yahweh gave me another message
-\v 2 to proclaim to everyone in Jerusalem. He said that I should tell them this,
+\v 2 to proclaim to everyone in Jerusalem. He said that I should tell them this, 
 \q1 "I, Yahweh, remember in your favor that you followed me and trusted in our covenant long ago.
 \q2 You tried to please me like a bride tries to please her husband;
 \q1 You loved me,
@@ -47,12 +47,12 @@
 \p
 \v 1 The word of Yahweh came to me and said,
 \q
-\v 2 "Go and proclaim in the hearing of Jerusalem. Say, 'Yahweh says this:
+\v 2 "Go and proclaim in the ears of Jerusalem. Say, 'Yahweh says this:
 \q I have called to mind on your behalf the covenant faithfulness in your youthfulness, your love at the time when we were engaged,
 \q when you went after me in the wilderness, the land that was not sown.
 \q
 \v 3 Israel was set apart to Yahweh, the firstfruits of his harvest!
-\q All who ate from the firstfruits were held guilty; disaster came upon them—this is Yahweh's declaration.'"
+\q All who ate from the firstfruits were held quilty; disaster came upon them—this is Yahweh's declaration.'"
 </usfm>
 
 ===== translationWords: =====
@@ -67,7 +67,7 @@
   * [[:en:obe:other:time]]
   * [[:en:obe:other:desert]]
   * [[:en:obe:other:sow]]
-  * [[:en:obe:other:israel]]
+  * [[:en:obe:other:israel|]]
   * [[:en:obe:kt:setapart]]
   * [[:en:obe:kt:firstfruit]]
   * [[:en:obe:kt:harvest]]
@@ -77,16 +77,14 @@
 
 ===== translationNotes: =====
 
-  * **The word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:jer:01:01|1:2]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Go and proclaim in the ears of Jerusalem** - The word "ears" represents the people. AT: "Go and speak to the people in Jerusalem" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **I have called to mind on your behalf** - "I remember about you"
-  * **the covenant faithfulness in your youthfulness, your love** - The abstract nouns "faithfulness," "youthfulness" and "love" can be expressed with the adjectives "faithful" and "young," and the verb "love." AT: "how, when you were young, you were faithfulness to our covenant, and how you loved me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **when we were engaged** - God speaks of his relationship with the people of Israel as though they had been engaged to be married. AT: "when we first agreed that we would marry each other" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the land that was not sown** - This can be expressed in active form. AT: "the land where no one had sown seed" or "the land where no food was growing" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the firstfruits of his harvest** - God speaks of Israel as if they were an offering dedicated to God. AT: "like the firstfruits of his harvest" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **All who ate from the firstfruits were held guilty** - God speaks of those who attacked Israel as if they were eating the offering that was set apart for God. AT: "All who attacked Israel were held guilty like people who ate from the first fruits of his harvest" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **disaster came upon them** - The phrase "came upon them" is a metaphor for happened to them. AT: "Disasters happened to them" or "I made terrible things happen to them"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **The word of Yahweh came to** - See how you translated this in [[:en:bible:notes:jer:01:01|1:2]].
+  * **to me** - to Jeremiah
+  * **Go and proclaim in the ears of Jerusalem** - AT: "Go and speak to the people in Jerusalem" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **on your behalf** - "for your benefit" or "in your interest"
+  * **when we were engaged** - "when we first agreed that we would marry each other," when the Israelites loved him and were loyal to him (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the land that was not sown** - AT: "the land where no one has sown seed" or "the land where no food was growing"
+  * **Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|1:8]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -94,6 +92,6 @@
   * [[:en:bible:questions:comprehension:jer:02]]
 **[[:en:bible:notes:jer:01:17|<<]] | [[:en:bible:notes:jer:02:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check firstfruit love}}
+~~DISCUSSION~~{{tag>publish p2edit firstfruit love}}
 
 ~~NOCACHE~~

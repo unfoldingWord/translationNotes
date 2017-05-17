@@ -17,21 +17,22 @@
 <usfm>
 \v 18 But Yahweh wants to act kindly toward you;
 \q2 he is great because he desires to act mercifully.
-\q1 Do not forget he is a God who acts justly;
-\q2 Yahweh is pleased with those who patiently trust in him.
+\q1 Do not forget that Yahweh is a God who acts justly;
+\q2 he is pleased with those who patiently trust in him.
 
 \p
-\v 19 You people who live in Jerusalem, some day you will not cry anymore. Yahweh will be kind to you when you call out to him for help. He will answer you as soon as he hears you call.
+\v 19 You people who live in Jerusalem, some day you will not cry anyore. Yahweh will be kind to you when you call out to him for help. He will answer you as soon as he hears you call.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 18 Yet Yahweh is waiting to be gracious to you, therefore he is ready to show you mercy. 
-\q1 For Yahweh is a God of justice; blessed are all those who wait for him. 
+\v 18 Yet Yahweh waits to be gracious to you. Therefore he will be exalted, ready to have mercy on you.
+\q1 For Yahweh is a God of justice; blessed are all those who wait for him.
 \q1
-\v 19 For a people will live in Zion, in Jerusalem, and you will weep no more.
+\v 19 For a people will live in Zion, in Jerusalem, and you will weep no more. 
 \q1 He will surely be gracious to you at the sound of your cry. When he hears it, he will answer you.
 </usfm>
 
@@ -51,9 +52,7 @@
 
   * **General Information:** - Isaiah continues speaking to the people of Judah.
 
-  * **you will ... to you ... answer you** - Here "you" refers to the people who will live in Zion.
-  * **he will answer you** - "he will help you"
-
+  * **he will be exalted, ready** - Possible meanings are 1) "he is great because he is ready" or 2) "he will rise and be ready." This can be stated in active form. (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -61,6 +60,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:30:17|<<]] | [[:en:bible:notes:isa:30:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

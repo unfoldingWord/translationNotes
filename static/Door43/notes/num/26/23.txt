@@ -30,9 +30,9 @@
 \p
 \v 23 The clans of Issachar's descendants were these:
 \q1
-By Tola, the clan of the Tolaites,
+By Tola, the clan of the Tolaites, 
 \q1 by Puvah, the clan of the Punites,
-\v 24 by Jashub, the clan of the Jashubites,
+\v 24 by Jashub, the clan of the Jashubites, 
 \q1 by Shimron, the clan of the Shimronites.
 \v 25 These were the clans of Issachar, who numbered 64,300 men.
 </usfm>
@@ -56,6 +56,6 @@ By Tola, the clan of the Tolaites,
   * [[:en:bible:questions:comprehension:num:26]]
 **[[:en:bible:notes:num:26:19|<<]] | [[:en:bible:notes:num:26:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

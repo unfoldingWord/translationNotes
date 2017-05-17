@@ -41,9 +41,9 @@
 \v 14 Who can open the doors of his face—
 \q ringed with his teeth, which are a terror?
 \q
-\v 15 his back is made up of rows of shields,
+\v 15 His back is made up of rows of shields,
 \q tight together as with a close seal.
-\m
+\b
 </usfm>
 
 
@@ -56,13 +56,10 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues to rebuke Job by asking him questions.
-
-  * **Who can strip off his outer covering?** - This can be translated as a statement. AT: "No one can strip off his outer clothing." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Who can penetrate his double armor?** - The word "armor" is a metaphor for the hard scales or hide on his back. This can be translated as a statement. AT: "No one can penetrate his very thick hide." (See:  and [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Who can open the doors of his face ... terror?** - This can be translated as a statement. AT: "No one can pry his jaws apart ... terror." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **shields** - Both shields and Leviathan's hide protect well and keep arrows and other weapons away. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **tight together as with a close seal.** - This means the "shields" are very close to one another and nothing can get between them.
+  * **Who can strip off his outer covering?** - "No one can strip off his outer clothing." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who can penetrate his double armor?** - "No one can penetrate his very thick hide." (See: [[:en:ta:vol2:translate:figs_metonymy]] [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who can open the doors of his face ... terror?** - "No one can pry his jaws apart ... terror." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **tight together as with a close seal.** - This means the scales are very close to one another and tightly bound together.
  
 ===== Links: =====
 
@@ -71,6 +68,6 @@
   * [[:en:bible:questions:comprehension:job:41]]
 **[[:en:bible:notes:job:41:10|<<]] | [[:en:bible:notes:job:41:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

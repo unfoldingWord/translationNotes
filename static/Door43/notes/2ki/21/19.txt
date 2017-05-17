@@ -33,10 +33,8 @@
   * [[:en:obe:other:manasseh]]
 ===== translationNotes: =====
 
-  * **Amon ... Haruz** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Meshullemeth** - This is the name of a woman. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Jotbah** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **what was evil in the sight of Yahweh** - The nominal adjective "evil" can be translated as a relative clause "things that ... evil." Here Yahweh's "sight" refers to how he judges or decides on the value of something. Translate this as you did in [[:en:bible:notes:2ki:03:01|3:2]]. AT: "things that Yahweh said were evil" or "the things that Yahweh considers evil" (See: [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Amon ... Meshullemeth ... Haruz ... Jotbah** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **evil in the sight of Yahweh** - See how you translated this in [[:en:bible:notes:2ki:03:01|3:2]]
 
 ===== Links: =====
 
@@ -51,6 +49,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

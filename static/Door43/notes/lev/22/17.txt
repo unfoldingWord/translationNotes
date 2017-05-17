@@ -21,7 +21,7 @@
 <usfm>
 \p
 \v 17 Yahweh spoke to Moses, saying,
-\v 18 "Speak to Aaron and his sons, and to all the people of Israel. Say to them, 'Any Israelite, or an alien living in Israel, when they present a sacrifice—whether it is to fulfill a vow, or whether it is a freewill offering, or they present to Yahweh a burnt offering,
+\v 18 "Speak to Aaron and his sons, and to all the people of Israel. Say to them, 'Any Israelite, or an alien living in Israel, when they present a sacrifice—whether it is to fulfill a vow, or whether it is a freewill offering, or they present to Yahweh a burnt offering, 
 \v 19 if it is to be accepted, they must offer a male animal without blemish from the cattle, sheep, or goats.
 </usfm>
 
@@ -43,7 +43,7 @@
 ===== translationNotes: =====
 
   * **an alien** - "a foreigner"
-  * **if it is to be accepted** - This can be stated in active form. AT: "if Yahweh is to accept it" or "if I, Yahweh, am to accept it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **if it is to be accepted** - This can be stated in active form. AT: "if Yahweh is to accept it" or "if I am to accept it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:lev:00:intro]]
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:lev:22]]
 **[[:en:bible:notes:lev:22:14|<<]] | [[:en:bible:notes:lev:22:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass fulfill}}
+~~DISCUSSION~~{{tag>publish p2check fulfill}}
 
 ~~NOCACHE~~

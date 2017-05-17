@@ -40,8 +40,8 @@
 \v 8 I am Yahweh, that is my name;
 \q1 and my glory I will not share with another nor my praise with carved idols.
 \q1
-\v 9 See, the previous things came to pass,
-\q1 now I am about to declare new events.
+\v 9 See, the previous things came to pass, 
+\q1 now I am about to declare new events. 
 \q1 Before they begin to occur I will tell you about them."
 </usfm>
 
@@ -57,10 +57,7 @@
 
 ===== translationNotes: =====
 
-  * **nor my praise with carved idols** - The verb may be supplied from the previous phrase. AT: "nor will I share my praise with carved idols" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **my praise** - This refers to the praise that Yahweh receives from people.
   * **I will tell you** - Here "you" is plural and refers to the people of Israel. (See: [[:en:ta:vol1:translate:figs_youdual]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -74,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

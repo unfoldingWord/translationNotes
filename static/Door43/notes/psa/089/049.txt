@@ -30,7 +30,7 @@
 \q1
 \v 51 Yahweh, your enemies insult your chosen king!
 \q2 They insult him wherever he goes.
-
+\b
 
 
 \q1
@@ -48,6 +48,7 @@
 \q
 \v 51 Your enemies hurl insults, Yahweh;
 \q they mock the footsteps of your anointed one.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -82,6 +83,6 @@
   * [[:en:bible:questions:comprehension:psa:089]]
 **[[:en:bible:notes:psa:089:046|<<]] | [[:en:bible:notes:psa:089:052|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

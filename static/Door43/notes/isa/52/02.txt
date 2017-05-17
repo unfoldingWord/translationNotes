@@ -32,6 +32,7 @@
 \q2 no one paid to make that happen.
 \q1 So now you will be brought back,
 \q2 and no money will be paid to anyone for your release."
+\b
 
 
 \p
@@ -42,8 +43,9 @@
 
 <usfm>
 \q1
-\v 2 Shake yourself off from the dust; arise and sit, Jerusalem;
+\v 2 Shake yourself off from the dust; arise and sit, Jerusalem; 
 \q1 take off the chain from your neck, captive, daughter of Zion.
+\p
 \q1
 \v 3 For this is what Yahweh says, "You were sold for nothing, and you will be redeemed without money."
 </usfm>
@@ -61,10 +63,10 @@
 
   * **General Information:** - Isaiah continues speaking to the people of Israel.
 
-  * **Shake yourself off from the dust; arise and sit, Jerusalem** - Here "Jerusalem" represents the people who live there. AT: "People of Jerusalem, sit up and shake the dirt off of yourself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **take off the chain from your neck, captive** - It is implied that the people of Jerusalem were wearing chains because they were slaves while exiled in Babylon. The full meaning of this statement can be made clear. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **daughter of Zion** - This is an idiom. The "daughter" of a city means the people of the city. See how you translated this in [[:en:bible:notes:isa:01:07|1:8]]. AT: "people of Zion" or "people who live in Zion" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **You were sold for nothing, and you will be redeemed without money** - This speaks about Yahweh as if he were the owner of the people of Israel. Since he is the rightful owner he can give them away or take them back whenever he wants. This can be stated in active form. AT: "I sold you for nothing, and I will redeem you without money" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Shake yourself off from the dust** - "Shake the dust off of you"
+  * **take off the chain from your neck, captive** - The people of Jerusalem have been captives in Babylon. Now Yahweh is going to bring them home. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **daughter of Zion** - See how you translated this in [[:en:bible:notes:isa:01:07|1:8]].
+  * **You were sold for nothing, and you will be redeemed without money** - This can be stated in active form. AT: "I sold you for nothing, and I will redeem you without money" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
  
@@ -76,6 +78,6 @@
   * [[:en:bible:questions:comprehension:isa:52]]
 **[[:en:bible:notes:isa:52:01|<<]] | [[:en:bible:notes:isa:52:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

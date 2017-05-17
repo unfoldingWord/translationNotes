@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 If the disease breaks out widely in the skin and covers all the skin of the person with the disease from his head to his feet, as far as it appears to the priest,
+\v 12 If the disease breaks out widely in the skin and covers all the skin of the person with the disease from his head to his feet, as far as it appears to the priest, 
 \v 13 then the priest must examine him to see if the disease has covered all his body. If it has, then the priest must pronounce the person who has the disease as clean. If it has all turned white, then he is clean.
 \v 14 But if raw flesh appears on him, he will be unclean.
 </usfm>
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:lev:13]]
 **[[:en:bible:notes:lev:13:09|<<]] | [[:en:bible:notes:lev:13:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 \q1
 \v 6 Some of you should blow trumpets and other horns
 \q2 while others shout joyfully to Yahweh, our king.
-
+\b
 
 
 \q1
@@ -48,7 +48,7 @@
 
   * **melodious** - delightful or pleasing musical sound
   * **the horn** - an animal horn used as a musical instrument
-  * **make a joyful noise** - "raise a shout." See how "shout" is translated in [[:en:bible:notes:psa:047:001|47:1]].
+  * **make a joyful noise** - "raise a shout" See how "shout" is translated in [[:en:bible:notes:psa:047:001|47:1]].
  
 ===== Links: =====
 
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:098]]
 **[[:en:bible:notes:psa:098:003|<<]] | [[:en:bible:notes:psa:098:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

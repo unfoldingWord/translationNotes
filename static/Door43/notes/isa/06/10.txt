@@ -15,13 +15,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 I will cause you people to be unable to care;
-\q2 and I will cause you people to not be able to hear,
-\q2 and I will cause you people to not be able to see.  
-\q1 Otherwise you would see with your eyes and you would recognize what it is you are looking at,
-\q2 and you would hear with your ears and be able to understand what you have heard,  
-\q2 and you would care deeply and with understanding,
-\q2 and you would turn to me so I might save you and not punish you."
+\v 10 What you say will cause these people to become stubborn;
+\q2 it will cause them not to be able to hear and see.
+\q1 As a result, they will not see what I want them to see or hear what I want them to hear,
+\q2 and they will not understand it with their inner beings,
+\q1 and they will not turn to me
+\q2 so I could save them and not punish them."
 
 
 \p
@@ -31,8 +30,8 @@
 
 <usfm>
 \q1
-\v 10 Make the heart of this people insensitive, and their ears dull, and blind their eyes.
-\q1 Otherwise they might see with their eyes, hear with their ears, and understand with their heart, and then turn and be healed."
+\v 10 Make the heart of this people calloused, and make their ears deaf, and blind their eyes, 
+\q1 so that they will not see with their eyes or hear with their ears, and understand with their heart, and then turn again and be healed."
 </usfm>
 
 ===== translationWords: =====
@@ -44,16 +43,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to tell Isaiah what he must do when Yahweh sends him to preach to the people.
+  * **General Information:** - The Lord continues to speak to Isaiah. It is best to understand these verses as saying that although God wants the people to repent, he knows that they will not. Also, he knows that Isaiah's preaching will only make the people more stubborn in their sin. Even so, Isaiah must preach the message.
 
-  * **Make the heart of this people insensitive** - Here "heart" represents a person's mind. A person who does not think clearly and is unable to understand and care about what is happening is spoken of as if his heart were insensitive. AT: "Make these people unable to understand" or "Make the minds of these people dull" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Make the heart of this people** - It may be more natural to translate "heart" and "this" as plurals. AT: "Make the hearts of these people"
-  * **Make the heart ... insensitive** - This command means that Yahweh will use Isaiah's message to cause the people to understand even less and to make them less sensitive to what Yahweh is doing.
-  * **their ears dull, and blind their eyes** - "make it so that they cannot hear, and make it so that they cannot see." Isaiah making people to not understand Yahweh's message or what he is doing is spoken of as if Isaiah were making them deaf and blind. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they might see with their eyes, hear with their ears** - People being able to understand Yahweh's message and what he is doing is spoken of as if the people were able physically to see and hear. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **understand with their heart** - Here "heart" represents as person's mind. Truly understanding something and caring about what is happening is spoken of as if the people were to understand with their hearts. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **then turn** - Repenting and starting to obey Yahweh is spoken of as if the people were physically to turn towards him. AT: "follow me again" or "then start trusting in me again" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **be healed** - This can be stated in active form. AT: "I would heal them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Make the heart of this people calloused** - "Make their minds dull" 
+  * **and make their ears deaf, and blind their eyes** - "and make it so that they cannot hear, and make it so that they cannot see"
+  * **and then turn again** - "and follow me again" or "and then start trusting in me again"
+  * **and be healed** - This can be stated in active form. AT: "and I would heal them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -62,6 +57,6 @@
   * [[:en:bible:questions:comprehension:isa:06]]
 **[[:en:bible:notes:isa:06:08|<<]] | [[:en:bible:notes:isa:06:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -24,8 +24,9 @@
 
 <usfm>
 \c 126
-\m
+\p
 \d A song of ascents.
+\b
 \q
 \v 1 When Yahweh restored the fortunes of Zion,
 \q we were like those who dream.
@@ -39,7 +40,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **song of ascents** - Possible meanings are 1) "song people sang while going up to Jerusalem for a celebration" or 2) "song people sang while going up the steps into the temple" or 3) "song whose words are like steps." See how you translated this in [[:en:bible:notes:psa:120:001|120:1]]
   * **restored the fortunes of Zion** - "made Zion prosperous again"
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:psa:126]]
 **[[:en:bible:notes:psa:125:004|<<]] | [[:en:bible:notes:psa:126:002|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

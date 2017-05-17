@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 24 All the gold that was used to make the sacred tent weighed 1,000 kilograms. They used the official standard when they weighed the gold.
+\v 24 All the gold that was used to make the sacred tent weighed about 995 kilograms. They used the official standard when they weighed the gold.
 \v 25 All the silver that the people contributed when the leaders took the census weighed about 3,400 kilograms. They also used the official standard when they weighed the silver.
 \v 26 All the men who were at least twenty years old were counted, and they each paid the required amount. That was a total of 603,550 men.
 </usfm>
@@ -21,7 +21,7 @@
 <usfm>
 \p
 \v 24 All the gold that was used for the project, in all the work connected with the holy place—the gold from the wave offering—was twenty-nine talents and 730 shekels, measured by the standard of the sanctuary shekel.
-\v 25 The silver given by the community weighed one hundred talents and 1,775 shekels, according to the sanctuary shekel,
+\v 25 The silver given by the community weighed one hundred talents and 1,775 shekels, according to the sanctuary shekel, 
 \v 26 or one beka per man, which is half a shekel, measured by the sanctuary shekel. This figure was reached on the basis of every person who was counted in the census, those twenty years old and older—603,550 men in all.
 </usfm>
 
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:exo:38]]
 **[[:en:bible:notes:exo:38:21|<<]] | [[:en:bible:notes:exo:38:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass census}}
+~~DISCUSSION~~{{tag>publish p2check census}}
 
 ~~NOCACHE~~

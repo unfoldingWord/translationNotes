@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 But when David saw that his servants were whispering together, David perceived that the child was dead. He said to his servants, "Is the child dead?" They answered, "He is dead."
+\v 19 But when David saw that his servants were whispering together, David perceived that the child was dead. He said to his servants, "Is the child dead?" They answered, "He is dead." 
 \v 20 Then David arose from the floor and washed himself, anointed himself, and changed his clothes. He went to the tabernacle of Yahweh and worshiped there, and then he came back to his own palace. When he asked for it, they set food before him, and he ate.
 </usfm>
 
@@ -42,10 +42,8 @@
   * [[:en:obe:other:palace]]
  
 ===== translationNotes: =====
-
   * **whispering** - "speaking very quietly" 
   * **perceived** - "understood" 
-  * **arose** - "got up"
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -59,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -21,6 +21,7 @@
 
 <usfm>
 \v 18 Can you stretch out the skies like God does and make them as hard as a metal mirror?
+\b
 \q1
 \v 19 Job, you know so much! So tell us what we should say to God;
 \q2 we do not know anything about how we should defend ourselves.
@@ -40,12 +41,12 @@
 \v 18 Can you spread out the sky as he can—
 \q the sky, which is as strong as a mirror of cast metal?
 \q
-\v 19 Teach us what we should say to him,
+\v 19 Teach us what we should say to him, 
 \q for we cannot lay out our arguments in order because of the darkness of our minds.
 \q
 \v 20 Should he be told that I wish to speak with him?
 \q Would a person wish to be swallowed up?
-\m
+\b
 </usfm>
 
 
@@ -57,16 +58,15 @@
 
 ===== translationNotes: =====
 
-  * **Can you spread out the sky ... a mirror of cast metal?** - Elihu asks this question to emphasize that Job cannot do this. AT: "You cannot spread out the sky ... a mirror of cast metal." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **as strong as a mirror of cast metal** - In biblical days, mirrors were made of metal. Elihu speaks of the sky giving no rain as if it were as hard as solid metal. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **cast metal** - This refers to metal that is melted, poured into a mold, and then hardens as it cools.
+  * **Can you spread out the sky as he can—the sky, which is as strong as a mirror of cast metal?** - AT: "You cannot spread out the sky as he can the sky, which is as strong as a mirror of cast metal" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **as strong as a mirror of cast metal** - In biblical days, mirrors were made of metal. Elihu speaks of the sky as looking like solid metal when it gives no rain. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **cast metal** - This refers to metal that is melted, poured into a mold that is in the shape of an object, and then hardens as it cools.
   * **Teach us what we should say to him** - Here the words "us" and "we" refer to Elihu, Eliphaz, Bildad, and Zophar, but not to Job. Elihu uses this phrase sarcastically. (See: [[:en:ta:vol2:translate:figs_exclusive]])
-  * **because of the darkness of our minds** - Elihu speaks of the inability to understand as if it were having darkness in one's mind. AT: "because we do not understand" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Should he be told that I wish to speak with him?** - Elihu asks this rhetorical question to emphasize that no one can do this. AT: "I cannot have someone tell him that I wish to speak with him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Should he be told** - This can be stated in active form. AT: "Should I have someone tell him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Would a person wish to be swallowed up?** - Elihu asks this rhetorical question to emphasize that no one would want this to happen. AT: "No person would want to be swallowed up." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **to be swallowed up** - Elihu speaks of a person being destroyed as if the person were swallowed up. This can be stated in active form. AT: "for God to destroy him" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **because of the darkness of our minds** - AT: "because we do not understand" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Should he be told that I wish to speak with him?** - AT: "I will not have someone tell him that I wish to speak with him" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Should he be told** - AT: "Should I have someone tell him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Would a person wish to be swallowed up?** - AT: "No person would want to be swallowed up" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **to be swallowed up** - AT: "for God to kill him" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_euphemism]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -74,6 +74,6 @@
   * [[:en:bible:questions:comprehension:job:37]]
 **[[:en:bible:notes:job:37:16|<<]] | [[:en:bible:notes:job:37:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

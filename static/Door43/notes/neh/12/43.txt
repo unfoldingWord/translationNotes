@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 43 They offered great sacrifices that day, and rejoiced, for God had made them rejoice with great joy. Also the women and the children rejoiced. So the joy of Jerusalem could be heard far away.
+\v 43 And they offered great sacrifices that day, and rejoiced, for God had made them rejoice with great joy. Also the women and the children rejoiced. So the joy of Jerusalem could be heard far away.
 </usfm>
 
 
@@ -35,8 +35,8 @@
   * [[:en:obe:other:jerusalem]]
 ===== translationNotes: =====
 
-  * **rejoice with great joy** - "rejoice greatly"
-  * **So the joy of Jerusalem could be heard far away** - "Jerusalem" is a metonym for "the sound that the people of Jerusalem made." This can be translated in active form. AT: "people far away from Jerusalem could hear the sound that the people of Jerusalem made as they celebrated" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **for God had made them rejoice with great joy** - "for God had made them celebrate with great joy"
+  * **So the joy of Jerusalem could be heard far away** - "Jerusalem" means "the people of Jerusalem." AT: "the joy of the people of Jerusalem could be heard far away." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
  
 ===== Links: =====
@@ -52,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 46 So Moses, Aaron, and the leaders of Israel counted all the Levites by their clans in their ancestral families
+\v 46 So Moses, Aaron, and the leaders of Israel counted all the Levites by their clans in their ancestral families 
 \v 47 from thirty to fifty years old. They counted everyone who would do work in the tabernacle, and who would carry and care for the items in the tent of meeting.
 \v 48 They counted 8,580 men.
 </usfm>
@@ -35,7 +35,7 @@
 
 ===== translationNotes: =====
 
-  * **from thirty to fifty** - This refers to men. AT: "men from thirty to fifty" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **all the Levites ... from thirty to fifty** - This refers to men. AT: "all the Levites ... men from thirty to fifty" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **from thirty to fifty** - "from 30 to 50" (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 ===== Links: =====
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:num:04]]
 **[[:en:bible:notes:num:04:45|<<]] | [[:en:bible:notes:num:04:49|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

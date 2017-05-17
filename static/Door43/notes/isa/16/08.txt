@@ -34,9 +34,9 @@
 
 <usfm>
 \q1
-\v 8 The fields of Heshbon have dried up as well as the vines of Sibmah.
-\q1 The rulers of the nations have trampled the choice vines
-\q1 that reached to Jazer and spread into the desert.
+\v 8 The fields of Heshbon have dried up as well as the vines of Sibmah. 
+\q1 The rulers of the nations have trampled the choice vines 
+\q1 that reached to Jazer and spread into the desert. 
 \q1 Its shoots spread abroad; they went over to the sea.
 </usfm>
 
@@ -50,7 +50,7 @@
 
   * **General Information:** - This continues the prophecy about the people of Moab. God describes events that will happen in the future as if it happened in the past. (See: [[:en:bible:notes:isa:15:01|15:1-2]])
 
-  * **Heshbon** - Translate the name of this city as you did in [[:en:bible:notes:isa:15:03|15:4]].
+  * **Heshbon** - See how you translated the name of this city in [[:en:bible:notes:isa:15:03|15:4]].
   * **Sibmah ... Jazer** - These are names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
   * **The rulers of the nations have trampled the choice vines** - The land of Moab was known for its vineyards. Here God describes the land of Moab as one large vineyard. This emphasizes that the rulers, which refers to the armies, completely destroyed everything in Moab. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
 
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:16]]
 **[[:en:bible:notes:isa:16:06|<<]] | [[:en:bible:notes:isa:16:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

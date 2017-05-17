@@ -34,7 +34,7 @@
 
 <usfm>
 \v 5 For if you actually make your ways and practices good; if you completely execute justice between a man and his neighbor—
-\v 6 if you do not exploit the one staying in the land, the orphan, or the widow and do not pour out innocent blood in this place, and do not walk after other gods to your own harm—
+\v 6 if you do not exploit the one staying in the land, the orphan, or the widow and do not pour out innocent blood in this place, and do not walk after other gods to your own harm— 
 \v 7 then I will let you stay in this place, in the land that I gave to your ancestors from ancient times and forever.
 </usfm>
 
@@ -52,18 +52,19 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues giving Jeremiah his message to the people of Judah. 
+  * **General Information:** - These are Yahweh's words to the people of Judah. 
 
-  * **make your ways and practices good** - "improve your ways and practices." Translate this as you did in [[:en:bible:notes:jer:07:03|7:3]].
-  * **completely execute justice** - The abstract noun "justice" can be translated using the verb "judge." AT: "judge rightly" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **do not exploit the one** - "treat fairly the foreigner"
-  * **orphan** - child whose parents have died
-  * **pour out innocent blood** - Here pouring out innocent blood represents killing those not deserving death. AT: "kill innocent people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **walk after other gods** - Here walking after is a metonym for following after with the intent to serve and obey. AT: "serve other gods" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **to your own harm** - This is an idiom. AT: "for that will ruin you" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **in this place** - Here "this place" refers to the land of Judah.
-  * **will let you stay** - "will let you continue to live"
-  * **from ancient times and forever** - "from ancient times and continually." This means Yahweh gave the land to the people of Judah to be their permanent possession.
+  * **if you completely** - "if you actually"
+  * **make your ways and practices good** - See how you translated this in [[:en:bible:notes:jer:07:03|7:3]].
+  * **if you completely execute justice** - "if you treat people fairly"
+  * **if you do not exploit the one staying** - "treat fairly the foreigners who are staying"
+  * **orphan** - children whose fathers has died
+  * **do not pour out innocent blood** - AT: "do not kill innocent people." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **do not walk after** - AT: "do not worship." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to your own harm** - "so that bad things happen to you"
+  * **this place** - This refers to the land of Israel, which has the temple as its center.
+  * **will let you stay** - "will let you live"
+  * **and forever** - "and forever into the future"
  
 ===== Links: =====
 
@@ -75,6 +76,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

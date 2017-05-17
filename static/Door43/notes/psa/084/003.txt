@@ -24,7 +24,7 @@
 \v 4 How fortunate are those who are always in your temple,
 \q2 constantly singing to praise you.
 
-
+\b
 
 
 \q1
@@ -40,7 +40,7 @@
 \q my King, and my God.
 \q
 \v 4 Blessed are they who live in your house;
-\q they praise you continually.
+\q they praise you continually. 
 \qs Selah\qs*
 </usfm>
 
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:psa:084]]
 **[[:en:bible:notes:psa:084:001|<<]] | [[:en:bible:notes:psa:084:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

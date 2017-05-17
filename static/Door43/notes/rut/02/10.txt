@@ -14,7 +14,7 @@
 <usfm>
 \v 10 When he said that, she knelt before him, with her face touching the ground. She exclaimed, "Why are you being so kind to me? I did not think you would pay any attention to me since I am a foreigner!"
 \v 11 Boaz replied, "People have told me about everything you have done for your mother-in-law since your husband died. They told me that you left your parents and your homeland, and you came here to live among people whom you did not know.
-\v 12 I pray that Yahweh will repay you for what you have done. May you receive full payment for your actions from the God of Israel, because he is the one you have come to and he will protect you!"
+\v 12 I pray that Yahweh will repay you for what you have done. May you receive full payment for your actions from the God of Israel, because he is the one you have come to and he will protect you!" 
 \p
 </usfm>
 
@@ -42,12 +42,12 @@
   * **she bowed down before Boaz, touching her head to the ground** - These are acts of respect and reverence. She was showing honor to Boaz out of gratefulness for what he had done for her. It was also a posture of humility.
   * **Why have I found favor** - Ruth is asking a real question.
   * **foreigner** - Ruth had pledged her loyalty to the God of Israel in private, but she was known publicly as "the Moabitess."
-  * **It has been reported to me** - This can be stated in active form. AT: "People have reported to me" or "People have told me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **to come to a people** - Boaz is referring to Ruth coming to dwell with Naomi in a village and community, a country, and religion she did not know. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **It has been reported to me** - This can be stated as active. AT: "People have reported to me" or "People have told me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **to come to a people** Boaz is referring to Ruth coming to dwell with Naomi in a village and community, a country, and religion she did not know. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **reward you** - "repay you" or "pay you back"
-  * **for your deed** - This is an act of faith, choosing to live with Naomi in Bethlehem and trusting Naomi's God.
+  * **for your deed** - The act of faith, choosing to live with Naomi in Bethlehem and trusting Naomi's God.
   * **May you receive full payment from Yahweh** - This is a poetic expression that is very similar to the previous sentence. AT: "May Yahweh give back to you even more than you have given" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **under whose wings you have found refuge** - Boaz uses the picture of a mother bird gathering her chicks under her wings to protect them, in order to describe God's protection for those who trust in him. AT: "in whose safe care you have placed yourself" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **under whose wings you have found refuge** - Boaz uses the picture of a mother bird gathering her chicks under her wings to protect them to describe God's protection for those who trust in him. AT: "in whose safe care you have placed yourself" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 
 ===== Links: =====
@@ -57,4 +57,4 @@
   * [[:en:bible:questions:comprehension:rut:02]]
 **[[:en:bible:notes:rut:02:08|<<]] | [[:en:bible:notes:rut:02:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}

@@ -34,10 +34,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 Adjoining the border of Naphtali from the east side to the west, Manasseh will have one portion. 
-\v 5 Adjoining the border of Manasseh from the east side to the west, Ephraim will have one portion.
-\v 6 Adjoining the border of Ephraim from the east side to the west, Reuben will have one portion.
-\v 7 Adjoining the border of Reuben from the east side to the west, Judah will have one portion.
+\v 4 South of the border with Naphtali will be the one portion of Manasseh, extending from the east side to the west side.
+\v 5 South of the border of Manasseh from the eastern side to the west side will be Ephraim—one portion.
+\v 6 South of the border of Ephraim from the eastern side to the west side will be Reuben—one portion.
+\v 7 Beside the border with Reuben from the eastern side to the west side will be Judah—one portion.
 </usfm>
 
 
@@ -51,8 +51,8 @@
 
 ===== translationNotes: =====
 
-  * **one portion** - Translate as you translated "one portion of land" in [[:en:bible:notes:ezk:48:01|48:1]].
-  * **from the east side to the west side** - Translate as in [[:en:bible:notes:ezk:48:01|48:3]].
+  * **one portion** - See how you translated "one portion of land" in [[:en:bible:notes:ezk:48:01|48:1]].
+  * **extending from the east side to the west side** - See how you translated this in [[:en:bible:notes:ezk:48:01|48:3]].
 
 ===== Links: =====
 
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:ezk:48]]
 **[[:en:bible:notes:ezk:48:01|<<]] | [[:en:bible:notes:ezk:48:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -16,9 +16,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 The spirits of dead people tremble with fear,
-\q2 those who are under the waters 
-\q1 and everyone who dwells with them. 
+\v 5 Bildad replied, "Because the spirits of dead people are afraid,
+\q2 they tremble in the waters that are deep under the earth.
 \q1
 \v 6 God knows all about those who are in the place of the dead;
 \q2 there is nothing down there that prevents God from seeing what is there.
@@ -32,9 +31,8 @@
 
 <usfm>
 \q
-\v 5 The dead are made to tremble,
-\q those who are beneath the waters
-\q and all who dwell in them.
+\v 5 The dead tremble under the waters,
+\q and those who dwell in them.
 \q
 \v 6 Sheol is naked before God;
 \q destruction itself has no covering against him.
@@ -49,12 +47,10 @@
 
 ===== translationNotes: =====
 
-  * **The dead** - This refers to dead people. AT: "Those who are dead" or "The spirits of the dead" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **tremble** - They tremble because they are afraid of God. This can be stated clearly. AT: "tremble in fear" or "tremble in fear of God" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **those who are beneath the waters** - This tells about the dead people who tremble.
-  * **all who dwell in them** - This tells about the the dead people who tremble. The word "them" refers to the waters.
-  * **Sheol is naked before God; destruction itself has no covering** - Sheol is spoken  of as if it were a person. These two phrases have the same meaning. To be "naked" or have "no covering" is to be completely exposed and not able to hide anything. AT: "It is like Sheol is naked before God, for nothing in Sheol, the place of destruction, is hidden from God" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Sheol is naked before God; destruction itself has no covering** - These two phrases have the same meaning and are used together for emphasis. To be "naked" or have "no covering" is to be completely exposed and not able to hide anything. AT: "It is like Sheol is naked before God, for nothing in Sheol, the place of destruction, is hidden from God" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
   * **destruction** - This is another name for Sheol. AT: "the place of destruction"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -62,6 +58,6 @@
   * [[:en:bible:questions:comprehension:job:26]]
 **[[:en:bible:notes:job:26:01|<<]] | [[:en:bible:notes:job:26:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

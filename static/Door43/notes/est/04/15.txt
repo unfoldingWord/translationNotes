@@ -20,7 +20,7 @@
 
 <usfm>
 \v 15 Then Esther sent this message to Mordecai,
-\v 16 "Go, gather together all the Jews who live in Susa, and fast for me. Do not eat nor drink for three days, night or day. My young girls and I will fast in the same way. Then I will go to the king, even though it is against the law, and if I perish, I perish."
+\v 16 "Go, gather together all the Jews who live in Susa, and fast for me. Do not eat nor drink for three days, night or day. My young girls and I will fast in the same way. Then I will go to the king, even though it is against the law. And if I perish, I perish."
 \v 17 Mordecai went and did all that Esther told him to do.
 </usfm>
 
@@ -36,10 +36,8 @@
 
 ===== translationNotes: =====
 
-  * **Susa** - Translate as in [[:en:bible:notes:est:01:01|1:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **fast for me ... will fast** - Fasting was a symbolic act that the Jews did when they were praying intensely. This can be made explicit. AT: "fast and pray for me ... will fast and pray" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **three days** - "3 days" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol1:translate:figs_explicit]])
-
+  * **Susa** - Translate as in [[:en:bible:notes:est:01:01|Esther 1:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **three days** - "3 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 ===== Links: =====
 
@@ -48,6 +46,6 @@
   * [[:en:bible:questions:comprehension:est:04]]
 **[[:en:bible:notes:est:04:13|<<]] | [[:en:bible:notes:est:05:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

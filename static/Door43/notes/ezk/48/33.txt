@@ -14,20 +14,20 @@
 ===== UDB: =====
 
 <usfm>
-\v 33 On the south side, also two-fifths of a kilometer long, will be gates named for Simeon, Issachar, and Zebulun.
+\v 33 On the south side, also about 2.4 kilometers long, will be gates named for Simeon, Issachar, and Zebulun.
 \p
-\v 34 On the west side, also two-fifths of a kilometer long, will be gates named for Gad, Asher, and Naphtali.
+\v 34 On the west side, also about 2.4 kilometers long, will be gates named for Gad, Asher, and Naphtali.
 \p
-\v 35 The distance around the city would be nine and three-quarter kilometers.
+\v 35 The distance around the city will thus be about 9.7 kilometers.
 \p From that time on, the name of the city will be "Yahweh is there."
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
-\v 33 On the east side, which will measure 4,500 cubits in length, will be three gates: one gate for Simeon, one gate for Issachar, and one gate for Zebulun.
+\v 33 On the east side, which will measure 4,500 cubits in length, will be three gates: one gate for Simeon, one gate for Issachar, and one gate for Zebulon.
 \v 34 On the west side, which will measure 4,500 cubits, will be three gates: one gate for Gad, one gate for Asher, and one gate for Naphtali.
-\v 35 The distance around the city will be eighteen thousand cubits; from that day on, the city's name will be "Yahweh Is There."
+\v 35 The distance around the city will be eighteen thousand cubits; from that day on, the city's name will be "Yahweh is There."
 </usfm>
 
 ===== translationWords: =====
@@ -42,7 +42,8 @@
  
 ===== translationNotes: =====
 
-  * **4,500 cubits** - about 2.4 kilometers (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **cubits** - See how you translated these "long" cubits in [[:en:bible:notes:ezk:40:05|40:05]].
+  * **4,500 cubits** - about 2.4 kilometers. (See: [[:en:ta:vol2:translate:translate_bdistance]])
 
 ===== Links: =====
 
@@ -51,6 +52,6 @@
   * [[:en:bible:questions:comprehension:ezk:48]]
 **[[:en:bible:notes:ezk:48:30|<<]] | **
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -19,10 +19,11 @@
 
 <usfm>
 \v 9 The ones who lie when they give testimony will be punished,
-\q2 but the one whose every word is a lie, he will die.
+\q2 but the one whose every word is a lie, he will die. 
 \q1
 \v 10 When a fool lives in luxury—it is not right,
-\q2 and it is even worse for a slave to rule over princes.
+\q2 and it is even worse for a slave to rule over princes. 
+
 
 \q1
 </usfm>
@@ -52,12 +53,10 @@
 ===== translationNotes: =====
 
 
-  * **A false witness will not go unpunished** - This can be written in positive and active form. Translate this phrase the same as you did in [[:en:bible:notes:pro:19:05|19:5]]. AT: "They will certainly punish a false witness" (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **breathes out lies** - This figure of speech uses "breathes" to refer to lying constantly. See how you translated this phrase in [[:en:bible:notes:pro:06:17|6:19]]. AT: "constantly lies" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-  * **It is not fitting** - "It is not right"
+  * **A false witness ... breathes out lies** - See how you translated this whole phrase in [[:en:bible:notes:pro:19:05|19:5]].
   * **luxury** - condition of wealth and pleasure
-  * **much less for a slave** - The missing words may be added. AT: "it is much less fitting for a slave" or "it is even worse for a slave" (UDB) (See: [[:en:ta:vol2:translate:figs_ellipsis]]) 
-
+  * **much less for a slave** - "it is much less fitting for a slave" (See: [[:en:ta:vol2:translate:figs_ellipsis]]) 
+  * **rule** - This means to "lead" or to "have authority over."
  
 ===== Links: =====
 
@@ -72,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

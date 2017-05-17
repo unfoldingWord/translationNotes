@@ -34,6 +34,7 @@
 \q1
 \v 17 Is this the man who tried to cause the world to become a desert,
 \q2 who conquered its cities and did not allow the people whom he captured to return to their homes?'
+\b
 
 
 \q1
@@ -46,10 +47,10 @@
 \q1
 \v 15 Yet you are now brought down to Sheol, to the depths of the pit.
 \q1
-\v 16 Those who see you will gaze at you and they will pay attention to you. 
-\q1 They will say, 'Is this the man who made the earth tremble, who shook kingdoms,
+\v 16 Those who see you will gaze at you; they will consider you. 
+\q1 They will say ,'Is this the man who made the earth tremble, who shook kingdoms,
 \q1
-\v 17 who made the world like a wilderness, who overthrew its cities and did not let his prisoners go home?'
+\v 17 who made the world a wilderness, who overthrew its cities and did not let his prisoners go to their homes?'
 </usfm>
 
 
@@ -63,13 +64,12 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - This is part of the taunt song that the Israelites will sing to the king of Babylon. 
 
-  * **Yet you are now brought down to Sheol** - This can be stated in active form. AT: "But now God has sent you down to Sheol" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Is this the man** - The people will use this question either to mock the king of Babylon, or to express their shock at what has happened to  him. AT: "Surely, this is not the man" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **who made the earth tremble** - Possible meanings are 1) the earth trembled as the king's army marched to conquer people, or 2) this refers to the people of the earth trembling in fear of him. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **shook kingdoms** - Possible meanings are 1) this is a metaphor for "conquered kingdoms" or 2) this is metonymy for "terrified the people of kingdoms." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **who made the world like a wilderness** - "who made the places where people lived into a wilderness"
+  * **Yet you are now brought down to Sheol** - Here "you" refers to the king of Babylon. This can be stated in active form. AT: "But now God has sent you down to Sheol" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Is this the man** - The people use a question to mock the king of Babylon. AT: "Surely, this is not the man." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **who made the earth tremble** - "The earth" refers to the people of the world. AT: "who made the people of the earth tremble" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who shook kingdoms** - AT: "who terrified the people in all the kingdoms"
+  * **who made the world a wilderness** - "who made the lands of the world where people lived into a wilderness"
  
  
 ===== Links: =====
@@ -79,4 +79,4 @@
   * [[:en:bible:questions:comprehension:isa:14]]
 **[[:en:bible:notes:isa:14:12|<<]] | [[:en:bible:notes:isa:14:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}

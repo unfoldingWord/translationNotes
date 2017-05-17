@@ -18,13 +18,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 I desire that his rule may be enjoyed by the people
+\v 6 I desire that his rule may be enjoyed by the people 
 \q2 as they enjoy rain on the growing crops,
 \q2 as they enjoy the showers that fall on the land.
 \q1
 \v 7 I hope that people may live righteously during the years that he rules
 \q2 and that the people may live peacefully and prosperously as long as the moon shines.
-
+\b
 
 
 \q1
@@ -71,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book2}}
+{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

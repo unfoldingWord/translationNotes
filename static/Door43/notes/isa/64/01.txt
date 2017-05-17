@@ -32,11 +32,11 @@
 
 <usfm>
 \c 64
-\m
+\p
 \q1
-\v 1 "Oh, if you had split open the heavens and come down! The mountains would have shaken at your presence,
+\v 1 "Oh, if you had split open the heavens and come down! The mountains would have shook at your presence,
 \q1
-\v 2 as when fire kindles the brushwood, or the fire makes water boil.
+\v 2 as when fire kindles the brushwood, or the fire makes water boil. 
 \q1 Oh, that your name would be known by your
 adversaries, that the nations would tremble at your presence!
 </usfm>
@@ -54,10 +54,7 @@ adversaries, that the nations would tremble at your presence!
 
   * **General Information:** - The people of Israel continue speaking to Yahweh. (See: [[:en:bible:notes:isa:63:11|63:11]])
 
-  * **Oh, if you had** - Isaiah introduces this desire for Yahweh's presence in their past history with a strong exclamation. (See: [[:en:ta:vol1:translate:figs_hypo]])
-  * **if you had split open the heavens** - If Yahweh had shown himself very dramatically by tearing open the sky. The words "split open" refer to ripping a piece of cloth apart. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **mountains would have shaken** - The mountains would have trembled as in an earthquake. (See: [[:en:ta:vol1:translate:figs_hypo]])
-  * **as when fire kindles the brushwood, or the fire makes water boil** - This possibly emphasizes how easily God's presence would have caused the mountains and the people to tremble. (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_hypo]])
+  * **as when fire kindles the brushwood, or the fire makes water boil** - This possibly emphasizes how easily God's presence would have caused the mountains and the people to tremble. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -66,6 +63,6 @@ adversaries, that the nations would tremble at your presence!
   * [[:en:bible:questions:comprehension:isa:64]]
 **[[:en:bible:notes:isa:63:18|<<]] | [[:en:bible:notes:isa:64:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

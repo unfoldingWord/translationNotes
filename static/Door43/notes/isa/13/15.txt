@@ -22,6 +22,7 @@
 \q1
 \v 16 Their little children will be dashed to pieces on the rocks while their parents watch;
 \q2 their enemies will steal everything valuable from their houses and will force their wives to sleep with them.
+\b
 
 
 \q1
@@ -34,7 +35,7 @@
 \q1
 \v 15 Every one who is found will be killed, and every one who is captured will die by the sword.
 \q1
-\v 16 Their infants also will be dashed in pieces before their eyes.
+\v 16 Their infants also will be dashed in pieces before their eyes. 
 \q1 Their houses will be plundered and their wives raped.
 </usfm>
 
@@ -42,14 +43,16 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:sword]]
+  * [[:en:obe:other:seize]] 
+  * [[:en:obe:other:sex]] 
 
 ===== translationNotes: =====
 
-  * **Every one who is found will be killed ... every one who is captured will die by the sword** - These two phrases mean basically the same thing. This can be stated in active form. AT: "The enemy will kill with the sword everyone they find" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Their infants also will be dashed in pieces** - This can be stated in active form. AT: "The enemy will also dash their infants to pieces" or "The enemy will beat their infants until they die" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **before their eyes** - "Before their eyes" means "in their presence" or "while they watch." It can be stated clearly that the parents are unable to help their infants.  AT: "while their parents helplessly watch" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Their houses will be plundered** - This means that everything valuable will be stolen from their houses. This can be stated in active form. AT: "The enemy will plunder the people's houses" or "The enemy will steal everything valuable from the people's houses" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **their wives raped** - This means that the enemies will attack the women and force them to have sex with them. The words "will be" are understood. This can also be expressed with an active form. AT: "their wives will be raped" or "their enemies will rape their wives." (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **General Information:** - This may be Yahweh or Isaiah speaking.
+
+  * **Every one who is found will be killed, and every one who is captured will die by the sword** - These two phrases mean basically the same thing. This can be stated in active form. AT: "The enemy will kill everyone they find" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Their infants also will be dashed in pieces before their eyes** - "Before their eyes" means "in their presence." This can be stated in active form. AT: "The enemy will throw babies to the ground and kill them while their parents helplessly watch" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Their houses will be plundered** - This can be stated in active form. AT: "The enemy will rob the people's houses" ([[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -64,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

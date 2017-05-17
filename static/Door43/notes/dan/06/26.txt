@@ -37,14 +37,15 @@
 ===== ULB: =====
 
 <usfm>
-\v 26 I hereby make a decree that in all the dominion of my kingdom men tremble and fear before the God of Daniel,
-\q for he is the living God and lives forever,
-\q and his kingdom shall not be destroyed;
-\q his dominion shall be to the end. 
+\v 26 I hereby make a decree that in all the dominion of my kingdom men tremble and fear before the God of Daniel, 
+\q for he is the living God and lives forever, 
+\q and his kingdom shall not be destroyed; 
+\q his dominion shall be to the end.
 \q
-\v 27 He makes us safe and rescues us,
+\v 27 
+He makes us safe and rescues us, 
 \q and he does signs and wonders
-\q in heaven and in earth;
+\q in heaven and in earth; 
 \q he has kept Daniel safe from the strength of the lions."
 </usfm>
 
@@ -63,16 +64,10 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - This continues to state the message that Darius sent to everyone in his kingdom.
-
-  * **tremble and fear** - These two words are similar and can be combined. AT: "shake with fear" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **the God of Daniel** - "the God that Daniel worships" (UDB)
+  * **tremble** - shake with fear
   * **he is the living God and lives forever** - The two phrases "the living God" and "lives forever" express the same concept, that God lives forever. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **his kingdom shall ... his dominion shall** - These two phrases are parallel, emphasizing how God's kingdom will never end. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **his kingdom shall not be destroyed** - This can be stated in active form. AT: "no one will destroy his kingdom" or "his kingdom will last forever" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **his dominion shall be to the end** - "he will rule forever"
-  * **he has kept Daniel safe from the strength of the lions** - "he has not allowed the strong lions to hurt Daniel"
-
 
 ===== Links: =====
 
@@ -81,6 +76,6 @@
   * [[:en:bible:questions:comprehension:dan:06]]
 **[[:en:bible:notes:dan:06:24|<<]] | [[:en:bible:notes:dan:06:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

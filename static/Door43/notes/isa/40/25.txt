@@ -30,6 +30,7 @@
 \q2 he calls each one by its name.
 \q1 Because he is extremely powerful,
 \q2 all of the stars are there when he calls out their names.
+\b
 
 
 \q1
@@ -42,9 +43,9 @@
 \v 25 "To whom then will you compare me, whom do I resemble?"
  says the Holy One.
  \q1
-\v 26 Look up at the sky! Who has created all these stars?
+\v 26 Look up at the sky! Who has created all these stars? 
 \q1 He leads out their formations and calls them all by
-name.
+name. 
 \q1 By the greatness of his might and by the strength of his power, not one is missing.
 </usfm>
 
@@ -60,11 +61,9 @@ name.
 
 ===== translationNotes: =====
 
-  * **To whom then will you compare me, whom do I resemble?** - Yahweh uses two similar rhetorical questions to emphasize that there is no one like him. AT: "There is no one to whom you can compare me. There is no one whom I resemble." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Who has created all these stars?** - This is a leading question that anticipates the answer, Yahweh. AT: "Yahweh has created all these stars!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **He leads out their formations** - Here the word "formations" refers to military formations. The prophet speaks of the stars as if they were soldiers whom Yahweh commands to appear. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **By the greatness of his might and by the strength of his power** - The phrases "the greatness of his might" and "the strength of his power" form a doublet that emphasizes Yahweh's power. AT: "By his great might and powerful strength" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **not one is missing** - This negative statement emphasizes the positive. AT: "every one is present" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **To whom then will you compare me, whom do I resemble?** - Here "you" is plural and refers to God's people. Yahweh uses a question for emphasis. The two phrases mean basically the same thing. AT: "There is no one who is like me!" (See: [[:en:ta:vol1:translate:figs_youdual]] and [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Who has created all these stars?** - This question emphasizes that it is Yahweh who has created the stars. AT: "Yahweh has created all the stars!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **By the greatness of his might and by the strength of his power** - These two phrases mean basically the same thing and emphasize how extremely great Yahweh's power is. (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
 
@@ -73,6 +72,6 @@ name.
   * [[:en:bible:questions:comprehension:isa:40]]
 **[[:en:bible:notes:isa:40:23|<<]] | [[:en:bible:notes:isa:40:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -23,8 +23,8 @@
 
 <usfm>
 \p
-\v 28 The priests repaired above the Horse Gate, each opposite his own house.
-\v 29 After them Zadok son of Immer repaired the section opposite his own house. Then after him Shemaiah son of Shecaniah, the keeper of the east gate, repaired.
+\v 28 The priests repaired above the Horse Gate, each opposite his own house. 
+\v 29 After them Zadok son of Immer repaired the section opposite his own house. And after him Shemaiah son of Shecaniah, the keeper of the east gate, repaired.
 \v 30 After him Hananiah son of Shelemiah, and Hanun the sixth son of Zalaph, repaired another section. After him Meshullam son of Berechiah repaired opposite his living chambers.
 </usfm>
 
@@ -40,15 +40,12 @@
   * [[:en:obe:kt:life]]
 ===== translationNotes: =====
 
-  * **priests repaired ... repaired the section ... east gate, repaired ... repaired another section ... repaired opposite** - These phrases refer to repairing the wall. AT: "priests repaired the wall ... repaired the section of the wall ... east gate, repaired the wall ... repaired another section of the wall ... repaired the wall opposite" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **above the Horse Gate** - The word "above" is used here because the priests' houses were likely located at a higher elevation than the Horse Gate.
-  * **opposite his own house** - "in front of his own house" 
-  * **After them ... After him** - "Next to them ... Next to him" 
+  * **Horse Gate** - This is an entranceway in the wall. 
   * **Zadok ... Immer ... Shemaiah ... Shecaniah ... Hananiah ... Shelemiah ... Hanun ... Zalaph ... Meshullam ... Berechiah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Shemaiah son of Shecaniah, the keeper of the east gate** - Shemaiah was the keeper of the east gate, not Shecaniah.
+  * **Shemaiah son of Shecaniah, the keeper of the east gate** - Shemaiah was the keeper of the east gate, not Shecaniah
   * **the keeper of the east gate** - "the person who looked after the east gate" or "the person who opened and closed the east gate"
-  * **the sixth son** - "the 6th son" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **opposite his living chambers** - "in front of the rooms where he stayed." The word "his" refers to Meshullam. 
+  * **east gate** - This is an entranceway in the wall.
+  * **his living chambers** - "the rooms where Meshullam stayed"
  
 ===== Links: =====
 
@@ -63,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

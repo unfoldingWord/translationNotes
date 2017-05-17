@@ -18,9 +18,11 @@
 <usfm>
 \v 19 If you are wise, you will be more powerful
 \q2 than the ten most powerful men in your city.
+\b
 \q1
 \v 20 There is no one in this world who always does what is right,
 \q2 who never sins.
+\b
 
 
 \q1
@@ -29,10 +31,10 @@
 ===== ULB: =====
 
 <usfm>
-\q1
-\v 19 Wisdom is powerful in the wise man,
+\q1 
+\v 19 Wisdom is powerful in the wise man, 
 \q2 more than ten rulers in a city.
-\q1
+\q1 
 \v 20 There is not a righteous man on earth
 \q2 who does good and never sins.
 </usfm>

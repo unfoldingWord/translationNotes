@@ -38,8 +38,7 @@
 ===== translationNotes: =====
 
   * **behold** - The writer uses the word "behold" to direct attention to what follows. If you have a way of doing this in your language, you can use it here.
-  * **the captains of the army were sitting** - Jehu was sitting among the captains. You may introduce Jehu to the storyline here if this is necessary in your language. AT: "Jehu and some other army officers were sitting together" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **To which of us** - The word "us" refers to Jehu and the other army captains.
+  * **the captains of the army were sitting** - AT: "Jehu and some other army officers were sitting together."
 
 ===== Links: =====
 
@@ -48,6 +47,6 @@
   * [[:en:bible:questions:comprehension:2ki:09]]
 **[[:en:bible:notes:2ki:09:01|<<]] | [[:en:bible:notes:2ki:09:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

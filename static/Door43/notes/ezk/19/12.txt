@@ -32,7 +32,7 @@
 
 <usfm>
 \q
-\v 12 But the vine was uprooted in fury and thrown down to the earth, and an eastern wind dried out her fruit.
+\v 12 But the vine was uprooted in fury and thrown down to the earth, and an eastern wind dried out her fruit. 
 \q her strong branches were broken off and withered; fire consumed them.
 \q
 \v 13 So now she is planted in the wilderness, in a land of drought and thirst.
@@ -47,11 +47,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to tell a story in which the nation of Israel is a vine. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **General Information:** - Yahweh continues to compare Israel with a vine and her leaders with the strong branches of the vine.
 
-  * **the vine was uprooted in fury and thrown down** - This can be stated in active form. AT: "Yahweh uprooted the vine in fury and threw it down" or "people uprooted the vine in fury and threw it down" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **her strong branches were broken off and withered** - This can be stated in active form. AT: "Yahweh broke off her strong branches and they withered" or "People broke off her strong branches and they withered" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **in a land of drought and thirst** - The very dry land is spoken of as if it were thirsty. AT: "in a very dry land of drought" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **were broken off** - "he broke off"
  
 ===== Links: =====
 
@@ -60,6 +58,6 @@
   * [[:en:bible:questions:comprehension:ezk:19]]
 **[[:en:bible:notes:ezk:19:10|<<]] | [[:en:bible:notes:ezk:19:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

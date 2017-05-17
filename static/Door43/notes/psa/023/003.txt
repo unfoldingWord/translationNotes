@@ -16,7 +16,7 @@
 \v 3 You renew my strength.
 \q1 You show me how to live in the right way,
 \q2 in order that I can honor you.
-
+\b
 
 
 \q1
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:psa:023]]
 **[[:en:bible:notes:psa:023:001|<<]] | [[:en:bible:notes:psa:023:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

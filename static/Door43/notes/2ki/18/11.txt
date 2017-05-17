@@ -42,13 +42,10 @@
   * [[:en:obe:other:moses]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:other:command]]
-
 ===== translationNotes: =====
 
-  * **Halah ... Habor River ... Gozan** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Medes** - This is the name of a people group. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Halah ... Gozan** - place names (See: [[:en:ta:vol1:translate:translate_names]])
   * **So the king of Assyria carried Israel away to Assyria** - "So the king of Assyria commanded his army to take the Israelites away from their homes, and he made them live in Assyria"
-  * **the voice of Yahweh** - "Voice" is metonymy for the message about the command of Yahweh. AT: "the command of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -56,12 +53,13 @@
   * [[:en:bible:notes:2ki:18:00]]
   * [[:en:bible:questions:comprehension:2ki:18]]
 
+ 
 
 **[[:en:bible:notes:2ki:18:09|<<]] | [[:en:bible:notes:2ki:18:13|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass covenant}}
+{{tag>publish p2edit covenant}}
 
 ~~NOCACHE~~

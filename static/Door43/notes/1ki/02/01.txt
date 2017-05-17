@@ -56,16 +56,10 @@
 
 ===== translationNotes: =====
 
-  * **I am going the way of all the earth** - This is a polite way of saying "I am going to die." (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **show yourself a man** - The ellipsis can be filled in. AT: "show everyone that you are a man" or "live so that everyone can see you are a good man" (See: [[:en:ta:vol2:translate:figs_ellipsis]]) 
-  * **walk in his ways** - Walking on a path is a metonym for the way a person lives. AT: "live the way he commands" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **walk in his ways** - "live the way he commands" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **prosper** - "succeed" or "do well"
-  * **may fulfill his word** - "do everything he promised he would do" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **If your sons ... you will never cease** - Yahweh is talking to David, so the words "you" and "your" refer to David.
-  * **to walk before me faithfully** - Yahweh is talking to David, so the word "me" refers to Yahweh.
-  * **with all their heart and with all their soul** - The idiom "with all ... heart" means "completely" and "with all ... soul" means "with all ... being." These two phrases have similar meanings. AT: "with all their being" or "with all their energy" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_doublet]])
-  * **you will never cease to have a man on the throne of Israel** - The word "throne" is a metonym for the king who sits on the throne. AT: "your descendants will never cease to be kings of Israel" The litotes "will never cease to have" can be stated positively. AT: "one of your descendants will always be the king of Israel." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_litotes]])
-
+  * **with all their heart and with all their soul** - These phrases mean the same thing and are used for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **you will never cease to have a man on the throne of Israel** - AT: "one of your descendants will always be the king of Israel." (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -73,6 +67,6 @@
   * [[:en:bible:questions:comprehension:1ki:02]]
 **[[:en:bible:notes:1ki:01:52|<<]] | [[:en:bible:notes:1ki:02:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example walk}}
+~~DISCUSSION~~{{tag>publish p2edit walk}}
 
 ~~NOCACHE~~

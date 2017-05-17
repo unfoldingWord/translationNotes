@@ -22,7 +22,7 @@
 
 <usfm>
 \v 5 The Gileadites captured the fords of the Jordan leading to Ephraim. When any of the survivors of Ephraim said, "Let me go over the river," the men of Gilead would say to him, "Are you an Ephraimite?" If he said, "No,"
-\v 6 then they would say to him, "Say: Shibboleth," and if he said "Sibboleth" (for he could not pronounce the word correctly), the Gileadites would seize him and kill him at the fords of the Jordan. Forty-two thousand Ephraimites were killed at that time.
+\v 6 then they would say to him, "Say: Shibboleth." And if he said "Sibboleth" (for he could not pronounce the word correctly), the Gileadites would seize him and kill him at the fords of the Jordan. Forty-two thousand Ephraimites were killed at that time.
 </usfm>
 
 ===== translationWords: =====
@@ -35,7 +35,7 @@
 
   * **to Ephraim** - "to the land of Ephraim"
   * **The Gileadites captured** - "The Gileadites controlled" or "The Gileadites occupied"
-  * **fords** - These are places where you can cross the river on foot because the water is shallow.
+  * **fords** - Places where you can cross the river on foot because the water is shallow
   * **Ephraimite** - "person from the tribe of Ephraim"
   * **Shibboleth ... Sibboleth** - These words have no meaning. Copy these words into your language, and make sure that the beginning of the words, that is the letters "Sh" and "S" are translated differently. (See: [[:en:ta:vol1:translate:translate_transliterate]])
   * **pronounce** - "say"
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:jdg:12]]
 **[[:en:bible:notes:jdg:12:03|<<]] | [[:en:bible:notes:jdg:12:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

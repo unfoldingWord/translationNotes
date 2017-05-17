@@ -25,7 +25,7 @@
 <usfm>
 \p
 \v 35 A certain man, one of the sons of the prophets, said to one of his fellow prophets by the word of Yahweh, "Please hit me." But the man refused to hit him.
-\v 36 Then the prophet said to his fellow prophet, "Because you have not obeyed the voice of Yahweh, as soon as you leave me, a lion will kill you." As soon as that man had left him, a lion came upon him and killed him.
+\v 36 Then the prophet said to his fellow prophet, "Because you have not obeyed the voice of Yahweh, as soon as you leave me, a lion will kill you." And as soon as that man had left him, a lion found him and killed him.
 </usfm>
 
 ===== translationWords: =====
@@ -40,9 +40,9 @@
 
 ===== translationNotes: =====
 
-  * **one of the sons of the prophets** - "a member of the group of prophets"
-  * **by the word of Yahweh** - "the word" is metonymy for the message. AT: "as Yahweh had told him to do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **you have not obeyed the voice of Yahweh** - "The voice" is metonymy for what Yahweh commanded. AT: "you have not obeyed Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **one of the sons of the prophets** - AT: "a member of the group of prophets"
+  * **by the word of Yahweh** - AT: "as Yahweh had told him to do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you have not obeyed the voice of Yahweh** - AT: "you have not obeyed Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1ki:20]]
 **[[:en:bible:notes:1ki:20:33|<<]] | [[:en:bible:notes:1ki:20:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

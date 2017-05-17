@@ -16,12 +16,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 When I was my father's boy,
+\v 3 When I was my father's boy, 
 \q1 and the only child of my mother,
 \q1
 \v 4 my father told me, "Put my words deep within you,
 \q1 obey my orders to you,
-\q2 and you will have life.
+\q2 and you will have life. 
+
 
 \q1
 </usfm>
@@ -48,12 +49,13 @@
   * [[:en:obe:kt:word]]
   * [[:en:obe:other:command]]
   * [[:en:obe:kt:life]]
+ 
 
 ===== translationNotes: =====
 
-  * **When I was a son of my father** - This refers to the time when the writer was a child still living under his father's care. AT: "When I was still a boy learning from my father" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the tender and only child** - Here the word "tender" refers to a young age at which the child is still weak. It forms a hendiadys with the word "only." AT: "the tender only child" (See: [[:en:ta:vol2:translate:figs_hendiadys]])
-  * **Let your heart hold fast to my words** - Here the word "heart" represents the person's mind. The writer speaks of remembering words as if the heart were holding on tightly to them. AT: "Always remember what I am teaching you" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **tender** - weak, loving, easily damaged
+  * **Let your heart hold fast to my words** - "Keep my teaching deep inside you"
+  * **hold fast** - "hold tightly"
  
 ===== Links: =====
 
@@ -68,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

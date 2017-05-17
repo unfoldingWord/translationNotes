@@ -22,6 +22,7 @@
 \q1
 \v 23 I always feared that God would cause me to experience a great disaster if I did any of those evil things,
 \q2 and I would not have been able to endure the powerful things that he would do to punish me.
+\b
 
 
 \q1
@@ -32,12 +33,13 @@
 
 <usfm>
 \q
-\v 22 If I have done these things, then let my shoulder fall from the shoulder blade,
-\q and let my arm be broken from its joint.
+\v 22 If I am guilty, then let my shoulder fall from the shoulder blade,
+\q and let my arm be broken from its joint
 \q
 \v 23 For I dreaded destruction from God;
-\q because of his majesty, I was not able to do those things.
-\m
+\q because of the thought of his majesty, 
+\q I could do have done those things.
+\b
 </usfm>
 
 
@@ -48,8 +50,9 @@
 
 ===== translationNotes: =====
 
-  * **then let my shoulder fall from the shoulder blade, and let my arm be broken from its joint** - This can be stated in active form. AT: "then let someone tear off my shoulder from the shoulder blade and break my arm from its joint" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **For I dreaded ... his majesty** - This is the reason that Job did not do any of the wicked things he spoke of in verses 7 through 21.
+  * **General Information:** - Job continues describing situations in which he would deserve God's punishment, but he knows they are not true. (See: [[:en:ta:vol1:translate:figs_hypo]])
+
+  * **then let my shoulder fall from the shoulder blade, and let my arm be broken from its joint** - AT: "then let someone tear off my shoulder and break my arm" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
@@ -59,6 +62,6 @@
   * [[:en:bible:questions:comprehension:job:31]]
 **[[:en:bible:notes:job:31:19|<<]] | [[:en:bible:notes:job:31:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

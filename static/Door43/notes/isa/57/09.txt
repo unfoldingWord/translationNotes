@@ -28,6 +28,7 @@
 \q2 but you never said, 'It is useless for us to do that.'
 \q1 You found new strength for worshiping idols,
 \q2 so you continued to do so.
+\b
 
 
 \q1
@@ -42,7 +43,7 @@
 \f + \ft Instead of \fqa to Molech \fqb , some versions have \fqa to the king \fqb . \f*
 \q1 You send your ambassadors far away; you went down to Sheol.
 \q1
-\v 10 You were tired from your long journey, but you never said, "It is hopeless."
+\v 10 You were tired from your long journey, but you never said, "It is hopeless." 
 \q1 You found life in your hand; therefore you did not weaken.
 </usfm>
 
@@ -61,7 +62,6 @@
   * **General Information:** - Yahweh continues speaking to the unfaithful people of Israel.
 
   * **you went down to Sheol** - The people did not literally go to Sheol, the world of the dead. Instead, Yahweh is indicating that the people were willing to go anywhere to find new gods to worship. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **You found life in your hand** - After trying so hard, the idolators found they still had strength to keep going. Here "hand" equals "strength" or "capacity."  (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:57]]
 **[[:en:bible:notes:isa:57:07|<<]] | [[:en:bible:notes:isa:57:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

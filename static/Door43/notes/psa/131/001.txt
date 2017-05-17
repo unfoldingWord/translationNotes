@@ -24,8 +24,9 @@
 
 <usfm>
 \c 131
-\m
+\p
 \d A song of ascents; of David.
+\b
 \q
 \v 1 Yahweh, my heart is not proud or my eyes haughty.
 \q I do not have great hopes for myself
@@ -43,7 +44,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **song of ascents** - Possible meanings are 1) "song people sang while going up to Jerusalem for a celebration" or 2) "song people sang while going up the steps into the temple" or 3) "song whose words are like steps." See how you translated this in [[:en:bible:notes:psa:120:001|120:1]]
   * **my heart is not proud or my eyes haughty** - The heart and the eyes represent the person. AT: "I am not proud or haughty" (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -56,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:131]]
 **[[:en:bible:notes:psa:130:007|<<]] | [[:en:bible:notes:psa:131:002|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5 haughty}}
+~~DISCUSSION~~{{tag>publish p2check book5 haughty}}
 
 ~~NOCACHE~~

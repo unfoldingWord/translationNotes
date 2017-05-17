@@ -20,13 +20,13 @@
 
 <usfm>
 \v 10 That was where the woman who was seeking an affair met the young man, and she greeted him.
-\q2 She was dressed as prostitutes dress, with seductive and enticing clothes, and she had secret plans.
+\q2 She was dressed as prostitutes dress, with seductive and enticing clothes, and she knew why she was there. 
 \q1
-\v 11 She was loud and wayward, attracting attention.
-\q2 She did not stay in her own home.
+\v 11 She was loud and wayward, attracting attention. 
+\q2 She does not stay in her own home—
 \q1
-\v 12 She searched for a man as she walked along the streets one day; on another day she stood in the market place to find a man.
-\q2 At any street corner she waited for someone who would commit sin with her.
+\v 12 she searches for a man as she walks along the streets one day, and another day she stands to find a man in the market;
+\q2 at every street corner she waits to trap a man.
 
 
 \q1
@@ -37,14 +37,14 @@
 
 <usfm>
 \q
-\v 10 There a woman met him,
-\q dressed like a prostitute, with a false heart.
+\v 10 And there a woman met him, 
+\q dressed like a prostitute, and she knew why she was there.
 \q
-\v 11 She was loud and wayward;
-\q her feet did not stay at home.
+\v 11 She is loud and wayward,
+\q her feet do not stay at home—
 \q
-\v 12 Now in the streets, then in the market place,
-\q and at every corner she waited in ambush.
+\v 12 now in the streets, now in the market,
+\q at every corner she lies in wait.
 </usfm>
 
 
@@ -56,10 +56,10 @@
 ===== translationNotes: =====
 
 
-  * **with a false heart** - Here "heart" represents intentions or plans. AT: "she planned to deceive someone" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **She was loud and wayward** - "She talked loudly and acted in the ways she wished to" 
-  * **her feet did not stay at home** - The phrase "her feet" represent the woman. AT: "she did not stay at home" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **she waited in ambush** - Here the woman is spoken of as if she were preparing to physically trap a person or an animal. Also, the idea of trapping someone here represents persuading someone to commit sin. AT: "she waited to trap someone" or "she waited to find someone she could persuade to sin" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **she knew why she was there** - "she went there with a definite purpose"
+  * **She is loud and wayward** - AT: "She is loud and has turned away from what is right" or "She spoke loudly and did not want to do what was right"
+  * **her feet do not stay at home** - The phrase "her feet" refers to her. AT: "she does not stay at home" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **she lies in wait** - "She waits to trap a man"
  
  
 ===== Links: =====
@@ -67,11 +67,14 @@
   * [[:en:bible:notes:pro:00:intro]]
   * [[:en:bible:notes:pro:07:00]]
   * [[:en:bible:questions:comprehension:pro:07]]
+
+ 
+
 **[[:en:bible:notes:pro:07:08|<<]] | [[:en:bible:notes:pro:07:13|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit }}
 
 ~~NOCACHE~~

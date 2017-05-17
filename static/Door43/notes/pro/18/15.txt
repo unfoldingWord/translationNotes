@@ -48,14 +48,12 @@
 
 ===== translationNotes: =====
 
-  * **The heart of the intelligent acquires** - Here the intelligent person is referred to by his heart to emphasize his desires. AT: "The intelligent desire to acquire" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the intelligent** - This refers to people who are intelligent. AT: "those who are intelligent" or "intelligent people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **The heart of the intelligent ... the hearing of the wise** - These two phrases are repeated for emphasis, because it is an important concept. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **The heart of the intelligent** - AT: "The intelligent person" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **acquires** - "gains" or "obtains"
-  * **the hearing of the wise seeks it out** - Here the wise person is referred to by his hearing to emphasize what he desires to listen to. AT: "the wise seeks to learn about it" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the wise** - This refers to people who are wise. AT: "those who are wise" or "wise people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **seeks it out** - Here the word "it" refers to "knowledge" 
-  * **may open the way** - Here to "open the way" means to create an opportunity. AT: "may create an opportunity for him" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **bring him before** - This means to be allowed to see someone. AT: "let him meet" or "let him be introduced to" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the hearing of the wise** - "the ear of the wise" AT: "the wise person" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **may open the way** - AT: "may create opportunities" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **bring him before** - AT: "let him meet" or "let him be introduced to" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -64,6 +62,6 @@
   * [[:en:bible:questions:comprehension:pro:18]]
 **[[:en:bible:notes:pro:18:13|<<]] | [[:en:bible:notes:pro:18:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

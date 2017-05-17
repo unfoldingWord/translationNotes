@@ -21,13 +21,14 @@
 <usfm>
 \v 2 Everyone tells lies to other people;
 \q2 they deceive others by flattering them, but they tell lies.
+\b
 \q1
 \v 3 Yahweh, we wish that you would cut off their tongues
 \q2 so that they cannot continue to boast.
 \q1
 \v 4 They say, "By telling lies we will get what we want;
 \q2 we control what we say, so no one can tell us what we should do!"
-
+\b
 
 
 \q1
@@ -64,9 +65,8 @@
   * **a double heart** - "words that deceive"
   * **cut off all flattering lips** - "stop them from speaking false praise"
   * **every tongue declaring great things** - Here the "tongue" represents boastful speech. AT: "every person who is boasting" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **With our tongues will we prevail** - Here the words "our tongues" represent the many words that they speak. AT: "Speaking many words will make us victorious" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will we prevail** - "we will succeed" or "we will win"
-  * **who can be master over us?** - This rhetorical question is asked to emphasize that they believed no one could rule over them. It can be translated as a statement. AT: "no one can rule over us!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **With our tongues will we prevail** - Here "our tongues" represent the many words that they speak. AT: "Speaking many words will make us victorious" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who can be master over us?** - This question is asked to provide emphasis. AT: "no one can rule over us!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -75,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:012]]
 **[[:en:bible:notes:psa:012:001|<<]] | [[:en:bible:notes:psa:012:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

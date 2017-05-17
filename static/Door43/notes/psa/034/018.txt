@@ -22,6 +22,7 @@
 <usfm>
 \v 18 Yahweh is always ready to help those who are discouraged;
 \q2 he rescues those who have no hope for anything good.
+\b
 \q1
 \v 19 Righteous people may have many troubles,
 \q2 but Yahweh rescues them from all those troubles.
@@ -29,7 +30,7 @@
 \v 20 Yahweh protects them from being harmed;
 \q2 when their enemies attack them,
 \q3 they will not break any bones of those righteous people.
-
+\b
 
 
 \q1
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:psa:034]]
 **[[:en:bible:notes:psa:034:015|<<]] | [[:en:bible:notes:psa:034:021|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

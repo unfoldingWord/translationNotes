@@ -15,7 +15,7 @@
 <usfm>
 \v 6 Ezra was a man who knew the laws that Moses wrote very well. Those were the laws that Yahweh, the God of Israel, had given to the Israelite people. He left Babylon after the king had told people
 to give him anything he requested. Indeed, Yahweh helped Ezra very much in all these matters.
-\v 7 Some of the priests, some descendants of Levi, some singers, some gatekeepers, and some men who worked in the temple, and some other Israelite people went up with Ezra to
+\v 7 Some of the priests, some descendants of Levi, some singers, some gatekeepers, and some men who worked in the temple, and some other Israelite people went up with Ezra to 
 Jerusalem. That was during the seventh year that Artaxerxes was the king of Persia.
 
 
@@ -47,9 +47,8 @@ Jerusalem. That was during the seventh year that Artaxerxes was the king of Pers
   * [[:en:obe:other:artaxerxes]]
 ===== translationNotes: =====
 
-  * **The king gave him anything he asked** - "The king gave Ezra anything he asked for"
-  * **the hand of Yahweh was with him** - The "hand" of Yahweh represents Yahweh's blessing or help. AT: "the blessing of Yahweh was with Ezra" or "Yahweh was blessing Ezra" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in the seventh year of King Artaxerxes** - This refers to the seventh year of his reign. AT: "in the seventh year that Artaxerxes was king" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **hand of Yahweh was with him** - Yahweh's blessing was with him. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in the seventh year of King Artaxerxes** - In the seventh year that Artaxerxes was made king.
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -57,6 +56,6 @@ Jerusalem. That was during the seventh year that Artaxerxes was the king of Pers
   * [[:en:bible:questions:comprehension:ezr:07]]
 **[[:en:bible:notes:ezr:07:01|<<]] | [[:en:bible:notes:ezr:07:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass ezra}}
+~~DISCUSSION~~{{tag>publish p2edit ezra}}
 
 ~~NOCACHE~~

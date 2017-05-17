@@ -45,11 +45,11 @@
 ===== translationNotes: =====
 
 
-  * **in the fifth month, on the seventh day of the month** - This is the fifth month of the Hebrew calendar. The seventh day is near the end of July on Western calendars. (See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol2:translate:translate_hebrewmonths]])
-  * **the nineteenth year** - This is the ordinal form of the number 19. (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the fifth month, on the seventh day of the month** - This is the fifth month of the Hebrew calendar. The seventh day is near the end of July on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the nineteenth year** - (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **Nebuzaradan** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **As for all the walls around Jerusalem, all** - "This is what happened to all the walls around Jerusalem: all"
-  * **who were under** - "who were following the orders of"
+  * **who were under** - AT: "that were following the orders of"
+  * **As for all the walls** - AT: "Concerning the whole wall"
  
  
 ===== Links: =====
@@ -65,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

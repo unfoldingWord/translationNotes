@@ -55,10 +55,9 @@
 
 ===== translationNotes: =====
 
-  * **Hold your peace** - This is an idiom meaning "Be quiet" or "Stop talking." (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **let me alone** - This is an idiom that means "stop bothering me" or "stop hindering me" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **let come what may on me** - Things coming on a person represents things happening to a person. This expression starting with "Let" means that he does not care what might happen to him. AT: "let whatever may happen to me happen" or "I do not care what may happen to me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will take my own flesh ... in my hands** - "Flesh" is a metonym for life. "Teeth" and "hands" are metonym for his own control. These two phrases together emphasize that Job is willing to risk his life by arguing his case with God. AT: "I am ready to risk my life" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **let come what may on me.** - Job puts his life in Gods hands. AT: "whatever happens to me I will accept."
+  * **I will take my own flesh ... my life in my hands.** - Job is willing to risk his life by arguing his case with God. "Flesh" and "life" refer to his body. "Teeth" and "hands" refer to his ability to take it under his own control. Both lines mean the same for emphasis. (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_parallelism]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:job:13]]
 **[[:en:bible:notes:job:13:11|<<]] | [[:en:bible:notes:job:13:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

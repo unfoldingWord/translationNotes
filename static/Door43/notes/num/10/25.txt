@@ -28,7 +28,7 @@
 \p
 \v 25 The armies that camped under the banner of Dan's descendants set out last. Ahiezer son of Ammishaddai led Dan's army.
 \v 26 Pagiel son of Ochran led the army of the tribe of Asher's descendants.
-\v 27 Ahira son of Enan led the army of the tribe of Naphtali's descendants.
+\v 27 Ahira son of Enan led the army of the tribe of Naphtali's descendants. 
 \v 28 This is the way that the armies of the people of Israel set out on their journey.
 </usfm>
 
@@ -45,9 +45,9 @@
 ===== translationNotes: =====
 
   * **The armies that camped under the banner of Dan's descendants** - This refers to the armies of the tribes under the division of Dan: Dan, Asher, and Naphtali. 
-  * **Ahiezer son of Ammishaddai** - Translate this man's name the same way that you did in [[:en:bible:notes:num:01:12|1:12]].
-  * **Pagiel son of Ochran** - Translate this man's name the same way that you did in [[:en:bible:notes:num:01:12|1:13]].
-  * **Ahira son of Enan** - Translate this man's name the same way that you did in [[:en:bible:notes:num:01:12|1:15]].
+  * **Ahiezer son of Ammishaddai** - Translate this man's name the say way that you did in [[:en:bible:notes:num:01:12|1:12]].
+  * **Pagiel son of Ochran** - Translate this man's name the say way that you did in [[:en:bible:notes:num:01:12|1:13]].
+  * **Ahira son of Enan** - Translate this man's name the say way that you did in [[:en:bible:notes:num:01:12|1:15]].
 
 
 ===== Links: =====
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:num:10]]
 **[[:en:bible:notes:num:10:21|<<]] | [[:en:bible:notes:num:10:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

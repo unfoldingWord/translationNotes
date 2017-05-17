@@ -29,14 +29,12 @@
 
 ===== translationNotes: =====
 
-  * **sixty-two sevens of** - This is not the normal way the Israelites counted. If possible, try to translate in a way that preserves this use of the number seven. See how you translated this number in [[:en:bible:notes:dan:09:24|9:25]]. AT: "sixty-two times seven"
-  * **the anointed one will be destroyed and will have nothing** - This can be stated in active form. AT: "people will destroy the anointed one and he will have nothing" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the anointed one** - Anointing is a symbolic act to show that someone is chosen. See how you translated this title in [[:en:bible:notes:dan:09:24|9:25]]. AT: "the person that God anoints" or "the person that God chooses"
+  * **sixty-two sevens** - See how you translated this number in [[:en:bible:notes:dan:09:24|9:25]].
+  * **the anointed one will be destroyed** - AT: "people will destroy the anointed one" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the anointed one** - See how you translated this title in [[:en:bible:notes:dan:09:24|9:25]].
   * **a coming ruler** - This is a foreign ruler, not "the anointed one." AT: "a foreign ruler who will come" or "a powerful ruler who will come"
-  * **Its end will come with a flood** - The army will destroy the city and the holy place just as a flood destroys things. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Desolations have been decreed** - This can be stated in active form. AT: "God has decreed ruin for the city and sanctuary" or "God has declared that the enemy army will destroy everything" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
-
+  * **Its end will come with a flood** - The army will destroy it just as a flood destroys things. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Desolations have been decreed** - AT: "God has decreed ruin for the city and sanctuary" or "God has declared that the enemy army will destroy everything" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -44,6 +42,6 @@
   * [[:en:bible:questions:comprehension:dan:09]]
 **[[:en:bible:notes:dan:09:24|<<]] | [[:en:bible:notes:dan:09:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

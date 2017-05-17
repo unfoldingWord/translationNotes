@@ -24,6 +24,7 @@
 \q2 but then he gets rid of them
 \q2 as though they withered when he blew on them,
 \q1 like chaff that is blown away by the wind.
+\b
 
 
 \q1
@@ -35,7 +36,7 @@
 \q1
 \v 23 He reduces rulers to nothing and makes the rulers of the earth insignificant.
 \q1
-\v 24 See, they are barely planted; see, they are barely sown; see, they have barely taken root in the earth,
+\v 24 See, they are barely planted; see, they are barely sown; see, they have barely taken root in the earth, 
 \q1 before he blows upon them, and they wither, and the wind blows them away like straw.
 </usfm>
 
@@ -47,13 +48,9 @@
 
 ===== translationNotes: =====
 
-  * **He reduces** - "Yahweh reduces"
-  * **See ... see ... see** - These words add emphasis to what follows.
-  * **they are barely planted ... and they wither** - The prophet speaks of rulers being helpless before Yahweh as if they were new plants that wither away when a hot wind blows on them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they are barely planted ... they are barely sown** - These two phrases mean basically the same thing and refer to the point at which the plants or seeds are placed into the ground. They can be stated in active form. AT: "as soon as someone plants them ... as soon as someone sows them" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **he blows upon them** - The prophet speaks of Yahweh removing the rulers from power as if Yahweh were a scorching wind that blows upon the plants and causes them to wither. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the wind blows them away like straw** - This simile extends the metaphor of the rulers as plants and Yahweh as the wind that causes them to wither. The wind of Yahweh's judgement will remove the withered plants as easily as wind blows away straw. (See: [[:en:ta:vol1:translate:figs_simile]])
-
+  * **He reduces** - "God reduces"
+  * **they are barely planted ... they have barely taken root in the earth** - Isaiah compares the rulers to a seed that is not planted firmly in the ground. This emphasizes they are insignificant before God. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the wind blows them away like straw** - This emphasizes that God can easily defeat human rulers. (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -61,6 +58,6 @@
   * [[:en:bible:questions:comprehension:isa:40]]
 **[[:en:bible:notes:isa:40:21|<<]] | [[:en:bible:notes:isa:40:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

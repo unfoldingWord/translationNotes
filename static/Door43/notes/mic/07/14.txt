@@ -29,10 +29,12 @@
 \q2 give them the fertile pastureland
 \q1 in the regions of Bashan and Gilead,
 \q2 which they possessed long ago.
+\b
 \p
 \v 15 Yahweh says,
 \q1 "Yes, I will perform miracles for you
 \q2 like the miracles that I performed when I rescued your ancestors from being slaves in Egypt."
+\b
 
 
 \q1
@@ -42,10 +44,11 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 14 Shepherd your people with your rod,
 \q the flock of your inheritance.
-\q They live alone in a forest,
+\q They live alone in a forest, 
 \q in the midst of a plantation.
 \q Let them graze in Bashan and Gilead
 \q like in the old days.

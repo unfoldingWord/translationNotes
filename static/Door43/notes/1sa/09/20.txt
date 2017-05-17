@@ -23,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 20 As for your donkeys that were lost three days ago, do not worry about them, for they have been found. Then on whom are all the desires of Israel set? Is it not on you and all your father's house?"
+\v 20 As for your donkeys that were lost three days ago, do not worry about them, for they have been found. And on whom are all the desires of Israel set? Is it not on you and all your father's house?"
 \v 21 Saul answered and said, "Am not I a Benjamite, from the smallest of the tribes of Israel? Is not my clan the least of all the clans of the tribe of Benjamin? Why then have you spoken to me in this manner?"
 </usfm>
 
@@ -36,8 +36,8 @@
 
 ===== translationNotes: =====
 
-  * **Then on whom are all the desires of Israel set? Is it not on you and all your father's house?** - These questions are an expression of deep conviction that Saul is the one whom Yahweh wants to be the king that the Israelites are looking for. The questions can be translated as statements. AT: "You should know that it is on you that all the desires of Israel are set. They are set on you and your father's family." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Am not I a Benjamite ... of Israel? Is not my clan ... Benjamin? Why then have you spoken to me in this manner?** - Saul is expressing surprise because Benjamin was the smallest tribe in Israel, and other Israelites considered the tribe unimportant. Also, Benjamites considered the clan of which Saul was a member as unimportant. These questions can be translated as statements. AT: "I am from the tribe of Benjamin, the least important of all tribes. And my clan is the least important clan in our tribe. I do not understand why you are saying that the Israelite people want me and my family to do something important." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **And on whom are all the desires of Israel set? Is it not on you and all your father's house?** - These questions are an expression of deep conviction that Saul is the one whom Yahweh wants to be the king that the Israelites are looking for. The questions can be translated as statements. AT: "You should know that it is on you that all the desires of Israel are set. They are set on you and your father's family." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Am not I a Benjamite ... of Israel? Is not my clan ... Benjamin? Why then have you spoken to me in this manner?** - Saul is expressing surprise because other Israelites considered the tribe of Benjamin as evil, and the Benjamites considered the clan of which Saul was a member as unimportant. These questions can be translated as statements. AT: "I am from the tribe of Benjamin, the least imortant of all tribes. And my clan is the least important clan in our tribe. I do not understand why you are saying that the Israelite people want me and my family to do something important." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1sa:09]]
 **[[:en:bible:notes:1sa:09:17|<<]] | [[:en:bible:notes:1sa:09:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -24,7 +24,7 @@
 
 <usfm>
 \v 8 It came about that when the sun rose the next morning, God prepared a hot east wind. Also, the sun beat down on Jonah's head and he became faint. Then Jonah wished that he might die. He said to himself, "It is better for me to die than to live."
-\v 9 Then God said to Jonah, "Is it good that you are so angry about the plant?" Then Jonah said, "It is good that I am angry, even to death."
+\v 9 Then God said to Jonah, "Is it good that you are so angry about the plant?" And Jonah said, "It is good that I am angry, even to death."
 </usfm>
 
 ===== translationWords: =====
@@ -34,14 +34,14 @@
 
 ===== translationNotes: =====
 
-  * **God prepared a hot east wind** - God caused a hot wind from the east to blow on Jonah. If wind can only mean a cool or cold wind then you can try this. AT: "God sent a very hot warmth from the east to Jonah" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the sun beat down** - "the sun was very hot"
-  * **on Jonah's head** - Jonah may have felt the heat most on his head. AT: "on Jonah" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **he became faint** - "he became very weak" or "he lost his strength"
-  * **It is better for me to die than to live** - "I would prefer to die than live" or "Because I want to die. I do not want to live." See how you translated this in [[:en:bible:notes:jon:04:01|4:3]].
-  * **Is it good that you are so angry about the plant?** - God challenges Jonah for being angry that the plant died and yet wanted God to kill the people of Nineveh. AT: "Your anger about the plant dying is not good." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
-  * **Is it good that you are so angry about the plant?** - implicit information can be made explicit. AT: "You should be more concerned about the people in Nineveh dying than about the plant dying." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **It is good that I am angry, even to death.** - "It is good that I am angry. Now I am angry enough to die!" (UDB)
+  * **God prepared a hot east wind** - "God caused a hot wind from the east to blow on Jonah." If wind can only mean a cool or cold wind then you can try this. AT: "God sent a very hot warmth from the east to Jonah."
+  * **the sun beat down** - the sun was very hot"
+  * **on Jonah's head** - Jonah may have felt the heat most on his head. AT: "on Jonah" (See: [[:en:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **he became faint** - "he became very weak" or "he lost his strength."
+  * **It is better for me to die than to live** - "I would prefer to die than live" or "because I want to die. I do not want to live." See how you translated this in [[:en:bible:notes:jon:04:01|4:3]].
+  * **Is it good that you are so angry about the plant?** - God challenges Jonah for being angry that the plant died and yet wanted God to kill the people of Nineveh. AT: "Your anger about the plant dying is not good." (See: [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]]) 
+  * **Is it good that you are so angry about the plant?** - implicit information can be made explicit. AT: "You should be more concerned about the people in Nineveh dying than about the plant dying" (See: [[:en:ta:vol1:translate:figs_explicit|Assumed Knowledge and Implicit Information]])
+  * **It is good that I am angry, even to death** - "It is good that I am angry. Now I am angry enough to die!" (UDB)
 ===== Links: =====
 
   * [[:en:bible:notes:jon:00:intro]]
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:jon:04]]
 **[[:en:bible:notes:jon:04:06|<<]] | [[:en:bible:notes:jon:04:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

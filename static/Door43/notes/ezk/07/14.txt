@@ -21,14 +21,15 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
-\v 14 They have blown the trumpet and made everything ready, but there is no one marching to battle;
+\v 14 They have blown the trumpet and made everything ready, but there is no one marching to battle; 
 \q since my anger is on the entire multitude.
 \q
-\v 15 The sword is on the outside, and plague and famine are inside the building.
+\v 15 The sword is on the outside, and plague and famine are inside the building. 
 \q Those who are in the field will die by the sword, while famine and plague will consume those in the city.
 \q
-\v 16 But some survivors will escape from among them, and they will go to the mountains.
+\v 16 But some survivors will escape from among them, and they will go to the mountains. 
 \q Like doves of the valleys, all of them will moan—each man for his iniquity.
 </usfm>
 
@@ -46,12 +47,10 @@
   * **General Information:** - These are Yahweh's words about Israel.
 
   * **They have blown the trumpet** - "They have blown the trumpet to call people to fight against the enemy"
-  * **my anger is on the entire multitude** - "I am angry with the whole multitude"  Translate this as in [[:en:bible:notes:ezk:07:12|7:12]].
-  * **The sword is on the outside** - The sword represents battle or war. AT: "There is fighting outside." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the building** - the city
-  * **while famine and plague will consume those in the city** - The word "consume" is a metaphor for "totally destroy." AT: "and most of the people in the city will die from hunger and sickness." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The sword is on the outside** - The sword represents battle or war. Alternate translation: "There is fighting outside." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **plague and famine are inside the building** - The building probably refers to the city.
+  * **while famine and plague will consume those in the city** - Here the word "consume" means "totally destroy." Alternate translation: "and most of the people in the city will die from hunger and sickness." (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **Like doves of the valleys, all of them will moan** - Doves make a low-pitched noise that sounds like the sound a person makes when he is in constant pain or deep sadness. AT: "They will all be so sad that they will moan, and the sound will be as if they were a flock of doves" (See: [[:en:ta:vol1:translate:figs_simile]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -59,6 +58,6 @@
   * [[:en:bible:questions:comprehension:ezk:07]]
 **[[:en:bible:notes:ezk:07:12|<<]] | [[:en:bible:notes:ezk:07:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

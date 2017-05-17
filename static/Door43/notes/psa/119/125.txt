@@ -48,7 +48,8 @@
 ===== translationNotes: =====
   * **give me understanding** - The abstract noun "understanding" can be stated as a verb. AT: "enable me to understand what you want me to know" (UDB) (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **It is time for Yahweh to act** - The writer is speaking to Yahweh in the third person. This can be stated in second person. AT: "It is time for you to act, Yahweh" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **people have broken your law** - This is an idiom. Here "have broken" means "disobeyed." This is a way of saying the people have disobeyed God's law. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **people have broken your law** - Here "have broken" is a way of saying the people have disobeyed God's law. (See: [[:en:ta:vol1:translate:figs_idiom]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -56,6 +57,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:123|<<]] | [[:en:bible:notes:psa:119:127|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

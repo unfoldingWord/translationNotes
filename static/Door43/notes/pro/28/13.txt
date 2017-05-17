@@ -18,10 +18,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 The one who tries to cover up his sins will be found out,
-\q2 but Yahweh will forgive those who tell their sins to him, and they turn away from doing them.
+\v 13 The one who tries to cover up his sins will be found out, 
+\q2 but Yahweh will forgive those who tell their sins to him, and they turn away from doing them. 
 \q1
-\v 14 How fortunate are those who always honor Yahweh;
+\v 14 How fortunate are those who always honor Yahweh; 
 \q2 but those who refuse to listen to him, who do not want to learn from him, will fall into trouble.
 
 
@@ -36,7 +36,7 @@
 \v 13 The one who hides his sins will not prosper,
 \q but the one who confesses them and forsakes them will be shown mercy.
 \q
-\v 14 The one who always lives with reverence is blessed,
+\v 14 Happy is the one who always lives with reverence,
 \q but whoever hardens his heart will fall into trouble.
 </usfm>
 
@@ -56,15 +56,9 @@
 ===== translationNotes: =====
 
 
-  * **hides his sins** - "covers his sins." This is the opposite of confessing and forsaking sins, and is spoken of as covering sins rather than bringing them into the open (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **prosper** - "succeed" or "advance"
-  * **the one who confesses them and forsakes them will be shown mercy** - This can be stated in active form. AT: "God will show mercy to the one who confesses and forsakes them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **The one who always lives with reverence is blessed** - This can be expressed in active form. AT: "God will bless the one who always lives with reverence" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **lives with reverence** - The abstract noun "reverence" can be expressed as an adjective. AT: "lives a reverent life" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **reverence** - This refers to deeply respecting Yahweh and showing that respect by obeying him. 
-  * **whoever hardens his heart** - "the one who hardens his heart"
-  * **hardens his heart** - This is an idiom that means to be stubborn or unwilling to obey God. AT: "refuses to obey God" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **will fall into trouble** - This represents ending up in misery and distress. AT: "will end up in trouble" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **prosper** - become very successful
+  * **will be shown mercy** - AT: "God will show him mercy" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **reverence** - This refers to giving reverence to Yahweh. 
  
 ===== Links: =====
 
@@ -73,6 +67,6 @@
   * [[:en:bible:questions:comprehension:pro:28]]
 **[[:en:bible:notes:pro:28:11|<<]] | [[:en:bible:notes:pro:28:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -24,6 +24,7 @@
 \q2 because our God is going to come to get revenge on his enemies;
 \q1 he will pay them back for what they have done,
 \q2 and he will rescue you."
+\b
 
 
 \q1
@@ -32,12 +33,13 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 3 Strengthen the weak hands, and steady the knees that shake.
 \q1
-\v 4 Say to those with a fearful heart, "Be strong, do not fear!
+\v 4 Say to those with a fearful heart, "Be strong, do not fear! 
 \q1 Look, your God will come
-with vengeance,
+with vengeance, 
 \q1 with the recompense of God. He will come and save you."
 </usfm>
 
@@ -54,9 +56,7 @@ with vengeance,
 
   * **General Information:** - Isaiah is speaking to the people of Judah.
 
-  * **Strengthen the weak hands, and steady the knees that shake.** - The words "weak hands" and "knees that shake" represent a person who is fearful. AT: "Strengthen those whose hands are weak and whose knees shake from fear" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **those with a fearful heart** - Here people are referred to by their hearts, which emphasize their inner feelings. AT: "to those who are fearful" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Look** - This is an idiom. This word is used here to draw the listeners' attention to what is said next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **Strengthen the weak hands, and steady the knees that shake.** - This represents a person who is fearful and despondent. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **your God will come with vengeance, with the recompense of God** - This can be reworded so that the abstract nouns "vengeance" and "recompense" are expressed as the verb "punish." The words "vengeance" and "recompense" mean the same thing and emphasize that God will punish Judah's enemies. AT: "your God will punish your enemies for what they have done" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_doublet]])
 ===== Links: =====
 
@@ -65,6 +65,6 @@ with vengeance,
   * [[:en:bible:questions:comprehension:isa:35]]
 **[[:en:bible:notes:isa:35:01|<<]] | [[:en:bible:notes:isa:35:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -25,7 +25,7 @@
 <usfm>
 \v 19 Therefore the Lord Yahweh says this: As I live, was it not my oath that he despised and my covenant that he broke? So I will bring his punishment on his head!
 \v 20 I will spread my net out over him, and he will be caught in my hunting net. Then I will bring him to Babylon and execute judgment on him there for his treason that he committed when he betrayed me!
-\v 21 All of his refugees in his armies will fall by the sword, and the ones who remain will be scattered in every direction. Then you will know that I am Yahweh; I have declared this would happen."
+\v 21 And all of his refugees in his armies will fall by the sword, and the ones who remain will be scattered in every direction. Then you will know that I am Yahweh; I have declared this would happen."
 </usfm>
 
 ===== translationWords: =====
@@ -43,13 +43,9 @@
 
 ===== translationNotes: =====
 
-  * **was it not my oath that he despised and my covenant that he broke?** - Yahweh asks this leading question to emphasize the affirmative answer. AT: "it was my oath that the king of Jerusalem despised and my covenant that he broke." (See: [[:en:ta:vol1:translate:figs_rquestion]]).
-  * **I will bring his punishment on his head** - The idiom "bring ... on his head" means that he will experience this punishment. See how you translated this idiom in [[:en:bible:notes:ezk:11:19|11:21]]. AT: "I will cause him to suffer his punishment" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **I will spread my net out over him, and he will be caught in my hunting net** - Yahweh speaks of enabling the enemy army to capture the king as if he were trapping the king in a net. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **fall by the sword** - Here the word "sword" represents the enemy soldiers who fight with swords. To "fall by the sword" is an idiom that means to die in battle. AT: "be killed by enemy soldiers" or "die in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **the ones who remain will be scattered in every direction** - This can be stated in active form. AT: "the ones who remain alive will flee in every direction" or "the enemy soldiers will scatter in every directions the ones who remain alive" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **know that I am Yahweh** - When Yahweh says that people will know that he is Yahweh, he is implying that they will know that he is the one true God who has supreme authority and power. Translate as in [[:en:bible:notes:ezk:06:06|6:7]]. AT: "understand that I am Yahweh, the one true God" or "realize that I, Yahweh, have supreme power and authority" (See: [[:en:ta:vol1:translate:figs_explicit]])
-
+  * **was it not my oath that he despised and my covenant that he broke?** - "it was my oath that the king of Jerusalem despised and my covenant that he broke." (See: [[:en:ta:vol1:translate:figs_rquestion]]).
+  * **I will bring his punishment on his head** - AT: "I will punish him." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **fall by the sword** - AT: "be killed by Babylon's army" (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -57,6 +53,6 @@
   * [[:en:bible:questions:comprehension:ezk:17]]
 **[[:en:bible:notes:ezk:17:17|<<]] | [[:en:bible:notes:ezk:17:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

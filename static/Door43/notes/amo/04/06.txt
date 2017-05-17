@@ -25,6 +25,7 @@
 <usfm>
 \v 6 I am the one who caused there to be no food in any of your cities and towns,
 \q2 but you rejected me in spite of that.
+\b
 \q1
 \v 7 When it was still three months before the time of harvesting crops,
 \q2 at the time when your crops needed rain the most,
@@ -43,6 +44,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 6 "I gave you cleanness of teeth in all your cities
 \q and lack of bread in all your places.

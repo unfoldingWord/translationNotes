@@ -42,10 +42,9 @@
 
 ===== translationNotes: =====
 
-  * **You will not die by the sword.** - The word "sword" is a metonym for dying in war. AT: "You will not die in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the funeral burning of your ancestors** - The people would burn spices in honor of people who had recently died. They did not burn the dead people's bodies.
-  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
-
+  * **You will not die by the sword. You will die in peace** - AT: "You will not die in battle, but will die peacefully. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **this is Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|1:8]].
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -56,6 +55,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

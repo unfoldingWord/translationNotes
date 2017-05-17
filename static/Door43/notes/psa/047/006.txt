@@ -19,6 +19,7 @@
 \v 6 Sing songs to praise our God!
 \q2 Sing to praise him !
 \q2 Sing to God, our king!
+\b
 \q1
 \v 7 God is the one who rules over everything in the world;
 \q2 sing a psalm to him!
@@ -54,6 +55,6 @@
   * [[:en:bible:questions:comprehension:psa:047]]
 **[[:en:bible:notes:psa:047:003|<<]] | [[:en:bible:notes:psa:047:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

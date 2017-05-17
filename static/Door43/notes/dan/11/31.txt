@@ -19,8 +19,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 31 His forces will rise up and profane the fortress sanctuary. They will take away the regular burnt offering, and they will set up the abomination that causes desolation.
-\v 32 As for those who acted wickedly against the covenant, he will deceive them and corrupt them. But the people who know their God will be strong and will take action.
+\v 31 His forces will rise up and profane the sanctuary and the fortress; they will take away the regular burnt offering, and they will set up the abomination that causes complete desolation.
+\v 32 He will flatter those who broke the covenant and will seduce them, but the people who know their God will be strong and will take action.
 </usfm>
 
 ===== translationWords: =====
@@ -35,13 +35,10 @@
 
 ===== translationNotes: =====
 
-  * **His forces will rise up** - "His army will appear" or "His army will come." The word "His" refers to the king of the North. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the fortress sanctuary** - "the sanctuary that the people use as a fortress"
-  * **They will take away the regular burnt offering** - Taking away the offering represents preventing people from offering it. AT: "They will stop the priests from presenting the regular burnt offering"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the abomination that causes desolation** - This refers to an idol that will make the temple desolate, that is, that will cause God to leave his temple. AT: "the disgusting idol that will cause God to abandon the temple" or "the disgusting thing that will make the temple unclean" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **acted wickedly against the covenant** - "wickedly disobeyed the covenant"
-  * **corrupt them** - "persuade them to do evil"
-  * **who know their God** - Here "know" means "be faithful." AT: "who are faithful to their God"  (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **His forces will rise up** - AT: "His army will appear" or "His army will come." The word "His" refers to the king of the North. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the abomination that causes complete desolation** - AT: "the disgusting thing that makes the temple unclean" or "the disgusting thing that causes God to abandon the temple"
+  * **seduce them** - "pull them to himself" or "turn them from God"
+  * **who know their God** - AT: "who are faithful to God"
   * **will be strong and will take action** - "will be firm and resist them"
 
 ===== Links: =====
@@ -51,6 +48,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:29|<<]] | [[:en:bible:notes:dan:11:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -26,6 +26,7 @@
 \q1
 \v 10 Then all the land from the Plain of Sharon near the Mediterranean Sea and as far east as the Valley of Achor near Jericho will become pastureland,
 \q2 where their cattle and sheep will rest.
+\b
 
 
 \q1
@@ -39,7 +40,7 @@
 \v 9 I will bring descendants from Jacob, and from Judah ones who will possess my mountains.
 \q1 My chosen ones will possess the land, and my servants will live there.
 \q1
-\v 10 Sharon will become a pasture for the flocks, and the Valley of Achor a resting place for herds,
+\v 10 Sharon will become a pasture for the flocks, and the valley of Achor a resting place for herds,
 \q1 for my people who seek me.
 </usfm>
 
@@ -61,9 +62,9 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **my mountains** - This refers to the highest locations of Jerusalem and all of Judea.
-  * **Sharon** - This was a fertile grazing area. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Valley of Achor** - This is the name of a valley that possibly ran from Jerusalem to south of Jericho. This was also a fertile grazing area. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **my mountains** - This refers to Jerusalem and all of Judea.
+  * **Sharon** - This was a fertile grazing area.
+  * **valley of Achor** - This is the name of a valley that possibly ran from Jerusalem to south of Jericho. This was also a fertile grazing area. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -72,6 +73,6 @@
   * [[:en:bible:questions:comprehension:isa:65]]
 **[[:en:bible:notes:isa:65:08|<<]] | [[:en:bible:notes:isa:65:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

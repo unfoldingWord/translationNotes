@@ -23,15 +23,16 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 When Zimri began to reign and was seated on his throne, he killed all the family of Baasha. He did not leave alive a single male belonging to Baasha's relatives or friends.
-\v 12 So Zimri destroyed all the family of Baasha, according to the word of Yahweh which he spoke against Baasha by Jehu the prophet,
-\v 13 for all the sins of Baasha and the sins of Elah his son that they committed, and by which they had led Israel to sin, so that they provoked Yahweh, the God of Israel, to anger with their idols.
+\v 11 When Zimri began to reign, as soon as he had sat on his throne, he killed all the family of Baasha. He left alive not a single male child, neither of his relatives nor of his friends.
+\v 12 So Zimri destroyed all the family of Baasha, as was told them by the word of Yahweh, which he had spoken against Baasha by Jehu the prophet,
+\v 13 for all the sins of Baasha and the sins of Elah his son that they committed, and by which they had led Israel to sin, so as to provoke Yahweh, the God of Israel, to anger with their idols.
 </usfm>
 
 ===== translationWords: =====
 
   * [[:en:obe:other:throne]]
   * [[:en:obe:kt:life]]
+  * [[:en:obe:kt:children]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:other:israel]]
@@ -39,13 +40,11 @@
 
 ===== translationNotes: =====
 
-  * **He did not leave alive a single male** - This means that he killed all the men and boys. AT: "He did not leave even one male alive"
-  * **the word of Yahweh** - "the message of Yahweh" or "Yahweh's message"
-  * **which he spoke against Baasha by Jehu the prophet** - Speaking "by" a prophet represents telling a prophet to speak and the prophet speaking. AT: "that Yahweh told Jehu the prophet to speak against Baasha" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **they had led Israel to sin** - Leading people to do something represents influencing them to do it. AT: "they had influenced Israel to sin" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they had led Israel to sin** - Here the word "Israel" refers to the ten northern tribes of Israel. Baasha and Elah had been their king.
-  * **they provoked Yahweh, the God of Israel, to anger with their idols** - God became angry with the people because they worshiped idols. The meaning of this can be made clear. AT: "they made Yahweh, the God of Israel, angry because they worshiped idols" (See: [[:en:ta:vol1:translate:figs_explicit]])
+ 
+ 
+  * **as was told them by the word of Yahweh** - This can be stated in active form. AT: "as Yahweh had told them" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **the God of Israel** - Here the word "Israel" refers to all of the twelve tribes descended from Jacob.
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -53,6 +52,6 @@
   * [[:en:bible:questions:comprehension:1ki:16]]
 **[[:en:bible:notes:1ki:16:08|<<]] | [[:en:bible:notes:1ki:16:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -18,7 +18,7 @@
 <usfm>
 \v 13 You will never stop being king;
 \q2 you will rule throughout all generations.
-
+\b
 
 
 \q1
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:psa:145]]
 **[[:en:bible:notes:psa:145:010|<<]] | [[:en:bible:notes:psa:145:014|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

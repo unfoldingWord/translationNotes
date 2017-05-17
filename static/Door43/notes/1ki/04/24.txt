@@ -12,7 +12,8 @@
 
 <usfm>
 \v 24 Solomon ruled over all the area west of the Euphrates River, from the city of Tiphsah in the northeast to the city of Gaza in the southwest. He ruled over all the kings in that area. There was peace between his government and the governments of nearby countries.
-\v 25 All during the years that Solomon ruled, the people of Judah and Israel lived safely.
+\v 25 All during the years that Solomon ruled, the people of Judah and Israel lived safely. 
+
 
 \p
 </usfm>
@@ -36,9 +37,9 @@
 
 ===== translationNotes: =====
 
-  * **Tiphsah** - name of a piece of land
-  * **Judah and Israel** - The words "Judah" and "Israel" are metonyms for the people of Judah and Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **every man under his vine and under his fig tree** - "each family had their own garden with grapevines and fig trees," This showed that the people lived in safety and peace, since they were not at war and had time to grow their gardens.
+  * **Tiphsah** - This is present day northeastern Syria.
+  * **Judah and Israel** - The names Judah and Israel are used to represent the people of Judah and Israel. (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **every man under his vine and under his fig tree** - AT: "each family had their own garden with grapevines and fig trees," This showed that the people lived in safety and peace since they were not at war and had time to grow their gardens.
   * **from Dan to Beersheba** - This represents the whole land of Israel from Dan in the north to Beersheba in the south. (See: [[:en:ta:vol2:translate:figs_merism]])
 
 ===== Links: =====
@@ -48,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:04]]
 **[[:en:bible:notes:1ki:04:20|<<]] | [[:en:bible:notes:1ki:04:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass dan gaza}}
+~~DISCUSSION~~{{tag>publish p2edit dan gaza}}
 
 ~~NOCACHE~~

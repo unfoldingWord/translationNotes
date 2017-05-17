@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 Moses said to the people, "Do not be afraid. Stand still and see the rescue that Yahweh will provide for you today. For you will never see again the Egyptians whom you see today.
+\v 13 Moses said to the people, "Do not be afraid. Stand still and see the rescue that Yahweh will provide for you today. For you will never see again the Egyptians whom you see today. 
 \v 14 Yahweh will fight for you, and you will only have to stand still."
 </usfm>
 
@@ -48,11 +48,14 @@
   * [[:en:bible:notes:exo:00:intro]]
   * [[:en:bible:notes:exo:14:00]]
   * [[:en:bible:questions:comprehension:exo:14]]
+
+ 
+
 **[[:en:bible:notes:exo:14:10|<<]] | [[:en:bible:notes:exo:14:15|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 \v 21 If your enemies are hungry, give them something to eat;
 \q2 if they are thirsty, give them something to drink;
 \q1
-\v 22 that will be the equal to pouring coals of fire on his head, without doing him any harm,
+\v 22 that will be the equal to pouring coals of fire on his head, without doing him any harm, 
 \q2 and Yahweh will reward you for doing that.
 
 
@@ -32,7 +32,7 @@
 
 <usfm>
 \q
-\v 21 If your enemy is hungry, give him food to eat,
+\v 21 If your enemy is hungry, give him food to eat
 \q and if he is thirsty, give him water to drink,
 \q
 \v 22 for you will shovel coals of fire on his head
@@ -47,7 +47,8 @@
   * [[:en:obe:kt:yahweh]] 
 ===== translationNotes: =====
 
-  * **shovel coals of fire on his head** - This is an idiom. AT: "cause him to have a guilty conscience and be ashamed of what he has done" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
+  * **shovel coals of fire on his head** - This means to cause shame or regret from a guilty conscience. (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -62,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

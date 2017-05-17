@@ -27,7 +27,7 @@
 \p
 \v 1 It came about in the fourth year of Jehoiakim son of Josiah king of Judah, that this word came to Jeremiah from Yahweh, and he said,
 \v 2 "Take a scroll for yourself and write on it all the words that I have told you concerning Israel and Judah, and every nation. Do this for everything I have told from the days of Josiah until this very day.
-\v 3 Perhaps the people of Judah will listen to all the disasters that I intend to bring on them. Perhaps everyone will turn away from his wicked way, so I can forgive their iniquity and their sin."
+\v 3 Perhaps the people of Judah will listen to all the disasters that I intend to bring on them. Perhaps everyone will turn away from his wicked path, so I can forgive their iniquity and their sin."
 </usfm>
 
 ===== translationWords: =====
@@ -57,17 +57,15 @@
   * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **It came about** - "It happened." This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **in the fourth year of Jehoiakim ... king of Judah** - Translate as in [[:en:bible:notes:jer:25:01|25:1]]. AT: "after Jehoiakim ... had been king of Judah for three years" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **to Jeremiah** - It is not clear why Jeremiah is referring to himself by name here. You may translate using first person, as the UDB does. (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **in the fourth year of Jehoiakim son of Josiah king of Judah** - See how you translated this in [[:en:bible:notes:jer:25:01|25:1]]. (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **that this word** - The phrase "this word" refers to the message that follows.
-  * **and he said** - "and Yahweh said"
   * **every nation** - "all of the nations"
   * **I have told from** - "I have told you from"
-  * **from the days of Josiah until this very day** - "from the time Josiah was king until today"
-  * **Perhaps** - "It is possible that"
-  * **to bring on them** - "to cause to happen to them"
-  * **from his wicked path** - The word "path" is a metaphor for the way a person lives. Translate as in [[:en:bible:notes:jer:18:11|18:11]]. AT: "his wicked way of living" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **forgive their iniquity and their sin** - The words "iniquity" and "sin" are metonyms for the persons who commit iniquity and sin. AT: "forgive them for their iniquity and their sin" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **from the days of Josiah until this very day** - AT: "from the time of Josiah until today" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Perhaps the people of Judah** - "Maybe the people of Judah"
+  * **I intend to bring on them** - "I am planning to do to them"
+  * **Perhaps everyone** - "So that each person"
+  * **from his wicked path** - See how you translated this in [[:en:bible:notes:jer:18:11|18:11]].
 
 ===== Links: =====
 
@@ -76,6 +74,6 @@
   * [[:en:bible:questions:comprehension:jer:36]]
 **[[:en:bible:notes:jer:35:18|<<]] | [[:en:bible:notes:jer:36:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check turn wordofgod}}
+~~DISCUSSION~~{{tag>publish p2edit turn wordofgod}}
 
 ~~NOCACHE~~

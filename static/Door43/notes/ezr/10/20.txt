@@ -25,7 +25,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \v 20 Among the descendants of Immer: Hanani and Zebadiah.
 \v 21 Among the descendants of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.
 \v 22 Among the descendants of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.
@@ -39,13 +38,13 @@
 
   * **General Information:** - Ezra continues to list the men who married non-Jewish women.
 
-  * **Immer ... Pashhur** - names of men. Translate as in [[:en:bible:notes:ezr:02:36|2:37]].
+  * **Immer ... Pashhur** - Translate the same way you did in [[:en:bible:notes:ezr:02:36|2:37 & 38]].
   * **Hanani ... Elioenai ... Nethanel ... Elasah** - names of men (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Zebadiah** - name of a man. Translate as in [[:en:bible:notes:ezr:08:08|8:08]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Harim** - name of a man. Translate as in [[:en:bible:notes:ezr:02:31|2:32]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Maaseiah** - name of a man. Translate as in [[:en:bible:notes:ezr:10:18|10:18]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Shemaiah ... Jehiel** - names of men. Translate as in [[:en:bible:notes:ezr:08:12|8:13]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Jozabad** - name of a man. Translate as in [[:en:bible:notes:ezr:08:33|8:33]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Zebadiah** - See how you translated this in [[:en:bible:notes:ezr:08:08|8:08]].
+  * **Harim** - See how you translated this in [[:en:bible:notes:ezr:02:31|2:32]].
+  * **Maaseiah** - See how you translated this in [[:en:bible:notes:ezr:10:18|10:18]].
+  * **Shemaiah ... Jehiel** - See how you translated these in [[:en:bible:notes:ezr:08:12|8:13]].
+  * **Jozabad** - See how you translated this in [[:en:bible:notes:ezr:08:33|8:33]].
 
 
 ===== Links: =====
@@ -61,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

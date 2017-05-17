@@ -14,7 +14,8 @@
 
 <usfm>
 \v 15 We finished rebuilding the wall in the month of Elul, on the twenty-fifth day of the month. We did all the work in fifty-two days.
-\v 16 When our enemies in the nearby countries heard about that, they became very afraid and they were humiliated, because they knew it was God who helped us complete this work.
+\v 16 When our enemies in the nearby countries heard about that, they became very afraid and they were humiliated, because they knew it was God who helped us complete this work. 
+
 
 \p
 </usfm>
@@ -24,8 +25,8 @@
 
 <usfm>
 \p
-\v 15 So the wall was finished on the twenty-fifth day of the month of Elul, after fifty-two days.
-\v 16 When all our enemies heard of it, all the nations around us, they became afraid and they fell greatly in their own eyes. For they knew the work was done with the help of our God.
+\v 15 So the wall was finished on the twenty-fifth day of the month of Elul, after fifty-two days. 
+\v 16 When all our enemies heard of it, all the nations around us, they became afraid and they fell greatly in their own esteem. For they knew the work was done with the help of our God.
 </usfm>
 
 
@@ -40,11 +41,10 @@
 ===== translationNotes: =====
 
 
-  * **So the wall was finished** - This can be stated in active form. AT: "We finished the wall" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the twenty-fifth day of the month of Elul** - "the 25th day of the month of Elul." Elul is the sixth month of the Hebrew calendar. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **So the wall was finished** - This can be stated in active form. AT: "We finished the wall." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the twenty-fifth day of the month of Elul** - "Elul" is the sixth month of the Hebrew calendar. The twenty-fifth day is near the middle of September on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:translate_names]])
   * **fifty-two days** - "52 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **they fell greatly in their own eyes** - "they thought much less of themselves" or "they lost confidence in themselves"
-  * **the work was done with the help of our God** - This can be stated in active form. AT: "it was our God who helped us complete this work" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they fell greatly in their own esteem** - "they thought much less of themselves" or "they lost confidence"
 
  
 ===== Links: =====
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:neh:06]]
 **[[:en:bible:notes:neh:06:12|<<]] | [[:en:bible:notes:neh:06:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

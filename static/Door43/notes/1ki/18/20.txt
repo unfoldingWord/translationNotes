@@ -37,7 +37,7 @@
 
 ===== translationNotes: =====
 
-  * **sent word** - "Word" is metonymy for what a person says. This is a common statement used with the meaning understood. AT: "sent a message" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **sent word** - "sent a message" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **How long will you keep changing your mind?** - Elijah asks this question to urge the people to make a decision. AT: "You have been indecisive for long enough." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **did not answer him a word** - "did not say anything" or "were silent"
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1ki:18]]
 **[[:en:bible:notes:1ki:18:18|<<]] | [[:en:bible:notes:1ki:18:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

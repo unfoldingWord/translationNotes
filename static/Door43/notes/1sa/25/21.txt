@@ -41,7 +41,7 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - The writer gives background information before he continues with the story. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **General Information:** - The writer gives background information before he continues with the story. (See: [[:en:ta:vol2:translate:writing_background]])
 
   * **Now David had said, "Surely ... to him."** - The reader needs to understand that David had said these things before he said, "Every man strap on his sword" in [[:en:bible:notes:1sa:25:12|25:13]].
   * **Now David** - The word "Now" shows that the writer has stopped writing about Abigail and started writing about David. 
@@ -62,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass vain}}
+{{tag>publish p2check vain}}
 
 ~~NOCACHE~~

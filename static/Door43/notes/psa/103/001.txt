@@ -28,13 +28,14 @@
 
 <usfm>
 \c 103
-\m
+\p
 \d A psalm of David.
+\b
 \q
 \v 1 I give praise to Yahweh with all my life,
 \q and with all that is within me, I give praise to his holy name.
 \q
-\v 2 I give praise to Yahweh with all my life,
+\v 2 I give praise to Yahweh with all my life, 
 \q and I remember all of his good deeds.
 </usfm>
 
@@ -48,11 +49,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **I give praise to Yahweh with all my life, and with all that is within me, I give praise to his holy name** - These two phrases mean basically the same thing and emphasize how much he will praise Yahweh. AT: "I will praise Yahweh with all that I am" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **give praise to his holy name** - This refers to praising Yahweh's name as Yahweh. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **all that is within me** - "all of me" or "all that I am." David uses this phrase to refer to himself and to emphasize his devotion to Yahweh. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:103]]
 **[[:en:bible:notes:psa:102:028|<<]] | [[:en:bible:notes:psa:103:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

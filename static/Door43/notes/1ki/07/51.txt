@@ -37,7 +37,7 @@
 
 ===== translationNotes: =====
 
-  * **the work that King Solomon did for the house of Yahweh was finished** - This can be stated in active form. AT: "the workers finished the work that King Solomon had them do for the house of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the work that King Solomon did for the house of Yahweh was finished** - This can be stated in active form. AT: "the workers finished the work that King Solomon had them do for the house of Yahweh" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:07]]
 **[[:en:bible:notes:1ki:07:50|<<]] | [[:en:bible:notes:1ki:08:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass setapart}}
+~~DISCUSSION~~{{tag>publish p2edit setapart}}
 
 ~~NOCACHE~~

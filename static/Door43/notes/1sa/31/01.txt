@@ -41,12 +41,12 @@
 
 ===== translationNotes: =====
 
-  * **Now the Philistines fought against Israel** - This battle was the result of the conflict between David and the Philistines in [[:en:bible:notes:1sa:29:10|29:11]]. The writer has finished telling the story of David in [[:en:bible:notes:1sa:30:01|30:1-30]], and now he tells about the battle between the Israelites and the Philistines.
-  * **the Philistines fought against Israel** - "the Philistines fought against the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Now the Philistines fought against Israel** - This battle was the result of the conflict between David and the Philistines in [[:en:bible:notes:1sa:29:10|29:11]]. Chapter 30 went onto a different story, and now the writer is coming back to the battle between the Israelites and Philistines.
+  * **the Philistines fought against Israel** - "the Philistines fought against the people of Israel" (See [[:en:ta:vol2:translate:figs_synecdoche]])
   * **Mount Gilboa** - This is the name of a mountain (See: [[:en:ta:vol1:translate:translate_names]]).
   * **closely pursued Saul and his sons** - "chased Saul and three of his sons"
   * **Abinadab, and Malchishua** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]]).
-  * **The battle went heavily against Saul** - This is an idiom.  "Saul's army began to lose the battle" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **The battle went heavily against Saul** - "Saul's army began to lose the battle"
 
 ===== Links: =====
 
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1sa:31]]
 **[[:en:bible:notes:1sa:30:29|<<]] | [[:en:bible:notes:1sa:31:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example archer}}
+~~DISCUSSION~~{{tag>publish p2edit archer}}
 
 ~~NOCACHE~~

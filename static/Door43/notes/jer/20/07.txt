@@ -49,12 +49,14 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 7 "You deceived me, Yahweh. I was indeed deceived. You seized me and defeated me.
-\q I have become a laughingstock. The people mock me every day, all the day.
+\q I have become a laughingstock. The people mock me every day, all the day. 
+
 \q
 \v 8 For whenever I have spoken, I have called out and proclaimed, 'Violence and destruction.'
-\q Then Yahweh's word has become for me reproach and mocking every day.
+\q And Yahweh's word has turned into reproach and mocking for me every day.
 \q
 \v 9 If I say, 'I will not think about Yahweh anymore. I will no longer proclaim his name.'
 \q Then it is like a fire in my heart, held within my bones. So I struggle to contain it but I cannot.
@@ -79,8 +81,8 @@
   * **laughingstock** - This is a person whom others laugh at and make fun of.
   * **The people mock me every day, all the day** - This phrase means basically the same thing as the previous phrase. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **called out and proclaimed** - These two phrases mean basically the same thing and emphasize that he proclaimed Yahweh's message boldly. AT: "openly proclaimed" or "proclaimed loudly" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **Yahweh's word has become for me reproach and mocking every day** - Here "word" refers to the message of Yahweh. AT: "People reproach and mock me every day because I proclaim Yahweh's message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **for me reproach and mocking** - The words "reproach" and "mocking" mean basically the same thing and emphasize that people have ridiculed Jeremiah for proclaiming Yahweh's message. AT: "a reason for people to ridicule me" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **Yahweh's word has turned into reproach and mocking for me every day** - Here "word" refers to the message of Yahweh. AT: "People reproach and mock me every day because I proclaim Yahweh's message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **reproach and mocking for me** - The words "reproach" and "mocking" mean basically the same thing and emphasize that people have ridiculed Jeremiah for proclaiming Yahweh's message. AT: "a reason for people to ridicule me" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **I will no longer proclaim his name** - Possible meanings are 1) "I will no longer say anything about him" (UDB) or 2) "I will no longer speak as his messenger" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **it is like a fire in my heart, held within my bones** - Jeremiah speaks of Yahweh's message as if it were an uncontrollable fire. AT: "Yahweh's word is like a fire that burns deep within me" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
@@ -90,6 +92,6 @@
   * [[:en:bible:questions:comprehension:jer:20]]
 **[[:en:bible:notes:jer:20:05|<<]] | [[:en:bible:notes:jer:20:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check edq}}
 
 ~~NOCACHE~~

@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 From there they traveled on and camped in the Valley of Zered.
+\v 12 From there they traveled on and camped in the valley of Zered.
 \v 13 From there they traveled on and camped on the other side of the Arnon River, which is in the wilderness that extends from the border of the Amorites. The Arnon River forms the border of Moab, between Moab and the Amorites.
 </usfm>
 
@@ -27,7 +27,8 @@
 
 ===== translationNotes: =====
 
-  * **forms the border of Moab, between Moab and the Amorites** - This means that the two peoples lived on different sides of the river, which was a boundary between them. The Moabite people lived south of the river and the Amorites lived on the north.
+  * **forms the border of Moab, between Moab and the Amorites** - This means that the two peoples lived on different sides of the river. The Moabite people lived south of the rivier and the Amorites lived on the north.
+
 
 ===== Links: =====
 
@@ -36,6 +37,6 @@
   * [[:en:bible:questions:comprehension:num:21]]
 **[[:en:bible:notes:num:21:10|<<]] | [[:en:bible:notes:num:21:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

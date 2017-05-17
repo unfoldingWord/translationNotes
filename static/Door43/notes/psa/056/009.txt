@@ -26,7 +26,7 @@
 \q2
 \v 11 I trust in you, and as a result, I will not be afraid.
 \q2 I know that humans cannot really harm me!
-
+\b
 
 
 \q1
@@ -62,7 +62,7 @@
 
   * **will turn back** - "will retreat" or "will turn and run away"
   * **God is for me** - This means that God favors him. In this context it implies that God fights against the psalmist's enemies in order to protect him. AT: "God is fighting for me" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **What can anyone do to me?** - Here a question is used to show that the psalmist is not afraid of people, because they cannot seriously harm him. This rhetorical question can be translated as a statement. AT: "People can do nothing to me!" or "People cannot harm me badly!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **What can anyone do to me?** - This question is used to show that the psalmist is not afraid of people, because they cannot seriously harm him. AT: "People can do nothing to me!" or "People cannot harm me badly!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:psa:056]]
 **[[:en:bible:notes:psa:056:007|<<]] | [[:en:bible:notes:psa:056:012|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

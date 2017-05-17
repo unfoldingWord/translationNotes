@@ -27,8 +27,8 @@
 <usfm>
 \c 15
 \p
-\v 1 Some men came down from Judea to Antioch and taught the brothers, saying, "Unless you are circumcised according to the custom of Moses, you cannot be saved."
-\v 2 This brought Paul and Barnabas into a sharp dispute and debate with them. So Paul and Barnabas along with some others from among them were appointed to go up to Jerusalem to meet with the apostles and elders about this question.
+\v 1 Certain men came down from Judea and taught the brothers, saying, "Unless you are circumcised after the custom of Moses, you cannot be saved."
+\v 2 When Paul and Barnabas had a confrontation and debate with them, the brothers decided that Paul, Barnabas, and certain others should go up to Jerusalem to the apostles and elders about this question.
 </usfm>
 
 
@@ -49,11 +49,12 @@
 
   * **Connecting Statement:** - Paul and Barnabas are still in Antioch when there is a dispute about the Gentiles and circumcision.
 
-  * **Some men** - "Some men." You can make explicit that these men were Jews who believed in Christ. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Certain men** - "Some men." You can make explicit that these men were Jews who believed in Christ. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **came down from Judea** - The phrase "came down" is used here because Judea is higher in elevation than Antioch.
   * **taught the brothers** - Here "brothers" stands for believers in Christ. It is implied that they were in Antioch. AT: "taught the believers at Antioch" or "were teaching the believers at Antioch" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Unless you are circumcised according to the custom of Moses, you cannot be saved** - This can be stated in active form. AT: "Unless someone circumcises you according to the custom of Moses, God cannot save you" or "God will not save you from your sins unless you receive circumcision according to the law of Moses" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **a sharp dispute and debate with them** - The abstract nouns "sharp dispute" and "debate" can be stated as verbs and where the men came from can be made explicit. AT: "had confronted and debated with the men from Judea" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **Unless you are circumcised after the custom of Moses, you cannot be saved** - This can be stated in active form. AT: "Unless someone circumcises you after the custom of Moses, God cannot save you" or "God will not save you from your sins unless you receive circumcision according to the law of Moses" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **after the custom** - "according to the custom" or "following the teaching"
+  * **had a confrontation and debate with them** - The abstract nouns "confrontation" and "debate" can be stated as verbs and where the men came from can be made explicit. AT: "had confronted and debated with the men from Judea" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **go up to Jerusalem** - Jerusalem was higher than almost any other place in Israel, so it was normal for Israelites to speak of going up to Jerusalem. 
   * **this question** - "this issue"
 

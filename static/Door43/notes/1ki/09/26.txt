@@ -13,7 +13,7 @@
 <usfm>
 \v 26 King Solomon's workers also built a fleet of ships at the city of Ezion Geber, which is near the city of Elath, on the shore of the Sea of Reeds, in the land belonging to the Edom people group.
 \v 27 King Hiram sent some expert sailors to go on the ships with Solomon's workers.
-\v 28 They sailed to the region of Ophir and brought back to Solomon about 14 and one-halfmetric tons of gold.
+\v 28 They sailed to the region of Ophir and brought back to Solomon about 14.5 metric tons of gold.
 </usfm>
 
 ===== ULB: =====
@@ -34,7 +34,7 @@
 
 ===== translationNotes: =====
 
-  * **King Solomon built** - It might be best to translate so that the reader understands that other people helped Solomon do this. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **King Solomon built** - AT: "King Solomon's workers built" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **a fleet of ships** - "a large group of ships"
   * **420 talents of gold** - A talent is a unit of weight equal to about 34 kilograms. AT: "about 14,000 kilograms of gold" (See: [[:en:ta:vol2:translate:translate_bweight]])
 
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:1ki:09]]
 **[[:en:bible:notes:1ki:09:25|<<]] | [[:en:bible:notes:1ki:10:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

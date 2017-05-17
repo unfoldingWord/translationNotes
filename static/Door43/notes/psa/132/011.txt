@@ -26,7 +26,7 @@
 \v 12 If they obey my covenant with them
 \q2 and obey all the commands that I will give them,
 \q1 the line of kings descended from you will never end."
-
+\b
 
 
 \q1
@@ -49,6 +49,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:trust]]
   * [[:en:obe:other:oath]]
   * [[:en:obe:other:descendant]]
   * [[:en:obe:other:throne]]
@@ -57,6 +58,7 @@
   * [[:en:obe:kt:lawofmoses]]
   * [[:en:obe:kt:children]]
   * [[:en:obe:kt:forever]]
+ 
 
 ===== translationNotes: =====
 
@@ -75,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book5}}
+{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

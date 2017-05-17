@@ -33,8 +33,8 @@
 
 <usfm>
 \q1
-\v 13 When you cry out, let your collection of idols rescue you.
-\q1 Instead the wind will carry them all away, a breath will carry them all away.
+\v 13 When you cry out, let your collection of idols rescue you. 
+\q1 Instead the wind will carry them all away, a breath will carry them all away. 
 \q1 Yet he who takes refuge in me will inherit the land and will take possession of my holy mountain.
 </usfm>
 
@@ -52,7 +52,7 @@
 
   * **let your collection of idols rescue you** - Yahweh is mocking the people and their idols. He tells the idols to save the people though he knows they cannot. (See: [[:en:ta:vol1:translate:figs_irony]])
   * **the wind will carry them all away, a breath will carry them all away** - This is saying the same thing in two ways to emphasize that idols are helpless and worthless. AT: "the wind, or even a breath, will blow them away" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **holy mountain** - The "holy mountain" is Mount Zion, in Jerusalem. See how you translated this in [[:en:bible:notes:isa:11:08|11:9]].
+  * **holy mountain** - See how you translated this in [[:en:bible:notes:isa:11:08|11:9]].
 
 ===== Links: =====
 
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:57]]
 **[[:en:bible:notes:isa:57:11|<<]] | [[:en:bible:notes:isa:57:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

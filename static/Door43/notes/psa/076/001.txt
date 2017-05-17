@@ -30,7 +30,7 @@
 \v 3 There he broke the flaming arrows that his enemies shot,
 \q2 and he also broke their shields and swords and other weapons that they used in battles.
 
-
+\b
 
 
 \q1
@@ -41,8 +41,9 @@
 
 <usfm>
 \c 76
-\m
+\p
 \d For the chief musician, on stringed instruments. A psalm of Asaph, a song.
+\b
 \q
 \v 1 God has made himself known in Judah;
 \q his name is great in Israel.
@@ -51,7 +52,7 @@
 \q his dwelling place is in Zion.
 \q
 \v 3 There he broke the arrows of the bow,
-\q the shield, the sword, and the other weapons of war.
+\q the shield, the sword, and the other weapons of war. 
 \qs Selah\qs*
 </usfm>
 
@@ -74,16 +75,15 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **For the chief musician** - "This is for the director of music to use in worship"
   * **on stringed instruments** - "people should play stringed instruments with this song."
-  * **A psalm of Asaph** - "This is a psalm that Asaph wrote" See how this is translated in [[:en:bible:notes:psa:053:001|53:1]].
+  * **A psalm of Asaph** - "This is a psalm that Asaph wrote." See how this is translated in [[:en:bible:notes:psa:053:001|53:1]].
   * **made himself known in Judah** - "caused the people of Judah to know who he is" or "made himself famous in Judah"
   * **his name is great in Israel** - The words "his name" are a metonym for his reputation. AT: "the people of Israel consider him good and powerful"  (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **his dwelling place** - "the place where he has chosen to live"
-  * **There he broke the arrows of the bow, the shield, the sword, and the other weapons of war** - These words are probably a metaphor for God causing the people of Judah to live in peace without being afraid of enemies making war on them, but the words should be translated literally. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Selah** - This may be a musical term that tells people how to sing or play their instruments here. Some translations write the Hebrew word, and some translations do not include it. See how you translated this in ([[:en:bible:notes:psa:003:001]]). (See: [[:en:ta:vol1:translate:translate_transliterate]])
+  * **his dwelling place** - "where he has chosen to live"
+  * **There he broke the arrows of the bow, the shield, the sword, and the other weapons of war** - These words are probably a metaphor for God causing the people of Judah to live in peace without being afraid of enemies making war on them, but the words should be translated literally if possible. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -92,6 +92,6 @@
   * [[:en:bible:questions:comprehension:psa:076]]
 **[[:en:bible:notes:psa:075:009|<<]] | [[:en:bible:notes:psa:076:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3 zion}}
+~~DISCUSSION~~{{tag>publish p2check book3 zion}}
 
 ~~NOCACHE~~

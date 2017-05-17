@@ -46,7 +46,6 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:lordyahweh]]
-  * [[:en:obe:kt:lament]]
   * [[:en:obe:kt:perfect]]
   * [[:en:obe:other:eden]]
   * [[:en:obe:other:gold]]
@@ -54,16 +53,12 @@
 
 ===== translationNotes: =====
 
-  * **The word of Yahweh came to me** - The phrase "the word of Yahweh came" is an idiom that is used to introduce something that God told his prophets or his people. Translate this as in [[:en:bible:notes:ezk:18:01|18:1]]. AT: "Yahweh spoke to me" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Son of man** - "Son of a human being" or "Son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. AT: "Mortal person" or "Human"
-  * **lift up** - "sing"
-  * **You were the model of perfection** - The abstract nouns "model" and "perfection" can be translated using the words "completely" and "perfect." AT: "You were completely perfect" (UDB) (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **full of wisdom and perfect in beauty** - The abstract nouns "wisdom" and "beauty" can be translated using the adjectives "wise" and "beautiful." AT: "fully wise and perfectly beautiful" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Every precious stone covered you** - "You wore every kind of precious stone"
+  * **The word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **lift up a lament** - "sing a funeral song" or "sing a song of mourning" or "sing a sad song" (UDB)
+  * **You were the model of perfection** - Alternate translation: "You were perfect."
+  * **full of wisdom and perfect in beauty** - "very wise and very handsome"
+  * **Every precious stone covered you** - "you wore every kind of precious stone." This shows that the king was very wealthy.
   * **ruby, topaz, emerald, chrysolite, onyx, jasper, sapphire, turquoise, and beryl** - These are all precious stones of different colors. (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **settings and mountings** - pieces of metal that hold the precious stones
-  * **It was on the day you were created that they were prepared** - This can be stated in active form. AT: "I prepared them on the day that I created you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **prepared** - "made ready"
 
 
 ===== Links: =====
@@ -73,6 +68,6 @@
   * [[:en:bible:questions:comprehension:ezk:28]]
 **[[:en:bible:notes:ezk:28:08|<<]] | [[:en:bible:notes:ezk:28:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check eden}}
+~~DISCUSSION~~{{tag>publish p2edit eden}}
 
 ~~NOCACHE~~

@@ -23,7 +23,7 @@
 
 <usfm>
 \v 12 Mordecai returned to the king's gate. But Haman hurried to his house, mourning, with his head covered.
-\v 13 Haman told Zeresh his wife and all his friends everything that happened to him. Then his men who were known for their wisdom, and Zeresh his wife, said to him, "If Mordecai, before whom you have begun to fall, is Jewish, you will not overcome him, but you will certainly fall before him."
+\v 13 Haman told Zeresh his wife and all his friends everything that happened to him. Then his men who were known for their wisdom, and Zeresh his wife, said to him, "If Mordecai, before whom you have begun to fall, is Jewish, you will not overcome him, but you will certainly fall before him.
 \v 14 While they were talking with him, the king's officials arrived. They hurried to bring Haman to the feast that Esther had prepared.
 </usfm>
 
@@ -37,10 +37,9 @@
 
 ===== translationNotes: =====
 
-  * **with his head covered** - People often covered their head to show that they were either extremely sad or ashamed. (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **Zeresh** - Translate this woman's name as you did in [[:en:bible:notes:est:06:12|6:13]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **before whom you have begun to fall ... you will certainly fall before him** - They spoke as if Haman and Mordecai were in a battle, and Haman was beginning to lose the battle. Here "to fall" represents being dishonored and defeated. AT: "who has already humiliated you ... he will certainly defeat you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **you will not overcome him** - "you will not win against him." They spoke as if Haman and Mordecai were in a battle. Here overcoming a person represents having greater honor than that person. AT: "you will not have greater honor than he has" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+  * **Zeresh** - (See: [[:en:ta:vol1:translate:translate_names]])
+
 
  
 ===== Links: =====
@@ -56,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -51,13 +51,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - It appears that Yahweh is here speaking to the people of Jerusalem, telling them that they will be destroyed.
-
-  * **Lift your voice** - This idiom refers to shouting. In this case, they are crying out in grief. AT: "Cry out" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Abarim mountains** - a mountain range that was southeast of Jerusalem (See: [[:en:ta:vol1:translate:translate_names]])
-  * **I spoke to you when you were safe** - "I spoke to you when you were doing well"
-  * **This was your custom** - "This was your way of life"
-  * **you have not listened to my voice** - Listening is a metonym for obeying. AT: "you have not obeyed me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Lift your voice** - AT: "Shout in Bashan"
+  * **Abarim mountains** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **I spoke to you when you were safe** - AT: "I spoke to you when you were doing well"
+  * **This was your custom** - AT: "This was your way of life"
+  * **you have not listened to my voice** - AT: "you have not obeyed me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 
 ===== Links: =====
@@ -67,6 +65,6 @@
   * [[:en:bible:questions:comprehension:jer:22]]
 **[[:en:bible:notes:jer:22:17|<<]] | [[:en:bible:notes:jer:22:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check bashan}}
+~~DISCUSSION~~{{tag>publish p2edit bashan}}
 
 ~~NOCACHE~~

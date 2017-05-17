@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 2 He has sent me to tell those who mourn
+\v 2 He has sent me to tell those who mourn 
 \q2 that now is the time when Yahweh will act kindly toward his people;
 \q1 now is the time when our God will get revenge on their enemies.
 
@@ -27,7 +27,7 @@
 
 <usfm>
 \q1
-\v 2 He has sent me to proclaim the year of Yahweh's favor,
+\v 2 He has sent me to proclaim the year of Yahweh's favor, 
 \q1 the day of vengeance of our God,
 \q1 and to comfort all who mourn.
 </usfm>
@@ -47,7 +47,6 @@
 
   * **General Information:** - Isaiah continues speaking.
 
-  * **the year of Yahweh's favor, the day of vengeance** - Both of these phrases refer to the same span of time. "Year" and "day" are both specific examples that represent the greater whole. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_parallelism]])
   * **year of Yahweh's favor** - "time when Yahweh will act kindly toward his people" (UDB)
 
 ===== Links: =====
@@ -57,6 +56,6 @@
   * [[:en:bible:questions:comprehension:isa:61]]
 **[[:en:bible:notes:isa:61:01|<<]] | [[:en:bible:notes:isa:61:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

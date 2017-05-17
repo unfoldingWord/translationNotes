@@ -31,13 +31,11 @@
   * [[:en:obe:kt:word]]
 ===== translationNotes: =====
 
-  * **No** - The servant is saying that none of the king's soldiers are giving information to the king of Israel. AT: "It is none of us" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **No** - "It is none of us" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **my master, king** - This refers to the king of Aram.
-  * **the words that you speak in your own bedroom** - "what you say in the privacy of your own bedroom"
-  * **I may send men and capture him** - The king plans to send the men to capture Elisha for him. The king does not plan to capture him himself. AT: "I may send men to capture him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **See** - This word is used here to draw the king's attention to what is said next. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-  * **he is in Dothan** - "Elisha is in Dothan"
-  * **Dothan** - This is the name of a city. ([[:en:ta:vol1:translate:translate_names]])
+  * **the words that you speak in your own bedroom** - AT: "what you say in the privacy of your own bedroom"
+  * **See, he is in Dothan** - AT: "Elisha is in the city of Dothan." 
+  * **Dothan** - ([[:en:ta:vol1:translate:translate_names]])
 
 
 ===== Links: =====
@@ -47,6 +45,6 @@
   * [[:en:bible:questions:comprehension:2ki:06]]
 **[[:en:bible:notes:2ki:06:10|<<]] | [[:en:bible:notes:2ki:06:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

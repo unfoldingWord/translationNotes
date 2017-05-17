@@ -14,7 +14,7 @@
 
 <usfm>
 \v 38 Then Saul summoned all the leaders of his army. He said to them, "I am sure that God has not answered me because someone has sinned. We must find out what sin someone has committed.
-\v 39 Yahweh has rescued us from the Philistine army. Just as surely as Yahweh is alive, whoever has sinned must be executed. Even if it is my son Jonathan who has sinned, he must be executed."
+\v 39 Yahweh has rescued us from the Philistine army. Just as certain as Yahweh lives, whoever has sinned must be executed. Even if it is my son Jonathan who has sinned, he must be executed."
 \p His men knew who was guilty, but none of them said anything to Saul.
 </usfm>
 
@@ -35,10 +35,9 @@
  
 ===== translationNotes: =====
 
-  * **the people** - This refers to the Israelites. 
   * **learn and see how this sin has happened** - "find who sinned"
-  * **even if it is in Jonathan my son, he will surely die** - Saul stated this as a hypothetical situation because he did not believe that Jonathan was guilty. (See: [[:en:ta:vol1:translate:figs_hypo]])
-  * **But none of the men among all the people answered him** - The people remained silent because most of them knew that Jonathan had broken Saul's oath. This can be stated explicitly. AT: "His men knew who was guilty, but none of them said anything to Saul" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the people** - This refers to the nation of Israel. 
+  * **But none of the men among all the people answered him** - most people except the King knew that it was Jonathan who caused the army to sin
 
  
 ===== Links: =====
@@ -51,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

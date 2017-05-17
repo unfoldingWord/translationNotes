@@ -37,14 +37,10 @@
 
 ===== translationNotes: =====
 
-  * **Baasha killed all the family of Jeroboam. He left none of Jeroboam's descendants breathing.** - These two sentences mean the same thing and are combined to emphasize his descendents were all killed. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **all the family of Jeroboam** - Jeroboam was King Nadab's father.
-  * **He left none of Jeroboam's descendants breathing** - Breathing represents being alive. AT: "He left none of Jeroboam's descendants living" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **his royal line** - "Jeroboam's royal line"
-  * **just as Yahweh had spoken by his servant Ahijah the Shilonite** - In [[:en:bible:notes:1ki:14:09|14:10-11]] Yahweh spoke through his prophet Ahijah and told Jeroboam that he would destroy his family.
-  * **Ahijah the Shilonite** - "Ahijah, who was from Shiloh"
-  * **for the sins of Jeroboam which he committed and by which he led Israel to sin** - The abstract noun "sins" can be expressed with the verb "sin." AT: "because Jeroboam sinned and led Israel to sin in the same ways" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **by which he led Israel to sin** - Leading people to do something represents influencing them to do something. AT: "by which he influenced Israel to sin" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Baasha killed all the family of Jeroboam. He left none of Jeroboam's descendants breathing.** - These two sentences mean the same thing and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **his royal line** - Here the word "his" refers to Jeroboam.
+  * **Ahijah the Shilonite** - Ahijah was from Shiloh. 
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -52,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1ki:15]]
 **[[:en:bible:notes:1ki:15:27|<<]] | [[:en:bible:notes:1ki:15:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

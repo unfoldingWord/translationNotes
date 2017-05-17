@@ -46,14 +46,11 @@
   * [[:en:obe:other:assyria]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:other:tribute]]
-
 ===== translationNotes: =====
 
   * **Hoshea son of Elah** - Hoshea became the king of the northern kingdom of Israel.
-  * **Elah** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **He ruled in Samaria** - Samaria was the capital city of Israel. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **evil in the sight of Yahweh** - He did not obey Yahweh's laws as given to Moses. "In the sight of" is metaphor for judgment or opinion. AT: "evil to Yahweh" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Shalmaneser** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **He ruled in Samaria** - Samaria was the capital of Israel.
+  * **evil in the sight of Yahweh** - He did not obey Yahweh's laws as given to Moses. AT: "evil to Yahweh" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **Hoshea became his servant and brought him tribute** - Hoshea did as the King of Assyria commanded and brought money to him so that the King would not destroy Israel.
 
 ===== Links: =====
@@ -69,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass hoshea tribute}}
+{{tag>publish p2edit hoshea tribute}}
 
 ~~NOCACHE~~

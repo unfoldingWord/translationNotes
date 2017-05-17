@@ -38,7 +38,7 @@
 
 ===== translationNotes: =====
 
-  * **Count all the community** - They were only to count the men, not the women. The full meaning of this statement can be made clear. AT: "Count all the men of the community" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Count all the community** - They were only to count the men, not the women. AT: "Count all the men of the community" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **twenty years old and up** - "20 years old and older" (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 ===== Links: =====
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:num:26]]
 **[[:en:bible:notes:num:25:16|<<]] | [[:en:bible:notes:num:26:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass eleazar}}
+~~DISCUSSION~~{{tag>publish p2check eleazar}}
 
 ~~NOCACHE~~

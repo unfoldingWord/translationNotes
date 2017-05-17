@@ -16,7 +16,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 16 Evil people cannot rest until they have done something that Yahweh said they must not do.
+\v 16 Evil people cannot rest until they have done something that Yahweh said they must not do. 
 \q2 They will not rest until they force someone to fall, someone who was doing well until they came along.
 \q1
 \v 17 They get their strength, and they are fed by doing what is wrong;
@@ -45,13 +45,14 @@
   * [[:en:obe:other:stumble]]
   * [[:en:obe:other:bread]]
   * [[:en:obe:other:wine]]
+ 
 
 ===== translationNotes: =====
 
-  * **they cannot sleep until they do evil** - The writer uses an exaggeration to express wicked people's desire to commit evil actions. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **they are robbed of sleep** - The writer speaks of people being unable to sleep as if sleep were an object that someone stole from them. AT: "they are unable to sleep" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **until they cause someone to stumble** - The writer speaks of causing harm to another person as if it were causing that person to stumble. AT: "until they harm someone" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they eat the bread of wickedness and drink the wine of violence** - Possible meanings are 1) this is a metaphor in which the writer speaks of these people constantly committing wickedness and violence as if they ate and drank them like one would drink bread and wine. AT: "wickedness is like the bread that they eat and violence is like the wine that they drink" or 2) these people get their food and drink by committing wickedness and violence. AT: "they eat bread that they obtain by doing wicked things and drink wine that they obtain through violence"  (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+
+  * **they cannot sleep until they do evil and they are robbed of sleep until they cause someone to stumble** - Both parts of the verse mean "the wicked are compelled by something inside them to do evil." (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **they eat the bread of wickedness** - The wicked live by wickedness. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+ 
  
 ===== Links: =====
 
@@ -66,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

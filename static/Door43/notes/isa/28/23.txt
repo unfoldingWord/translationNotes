@@ -27,7 +27,7 @@
 ===== ULB: =====
 
 <usfm>
-\m
+\p
 \q1
 \v 23 Pay attention and listen to my voice; be attentive and listen to my words.
 \q1
@@ -42,12 +42,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This begins a parable that ends in 28:29. (See: [[:en:ta:vol1:translate:figs_parables]])
+  * **General Information:** - Isaiah continues to speak to the people of Jerusalem.
 
-  * **Pay attention and listen to my voice; be attentive and listen to my words** - These two phrases mean basically the same thing. The second phrase is used to strengthen the first. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **to my voice** - Here "voice" represents what Isaiah says. AT: "to what I say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **to my words** - Here "words" represents a message. AT: "to my message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Does a farmer who plows all day to sow, only plow the ground? Does he continually break up and harrow the field?** - Isaiah uses rhetorical questions to make the people think deeply. AT: "A farmer does not plow the ground over and over and continually work the soil without ever sowing seed." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Pay attention and listen to my voice; be attentive and listen to my words** - These two phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Does a farmer who plows all day to sow, only plow the ground? Does he continually break up and harrow the field?** - In this parable Isaiah uses questions to make them think deeply. AT: "A farmer does not plow the ground over and over. He does not only continue to work on the soil." (See: [[:en:ta:vol1:translate:figs_parables]] and [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -56,6 +54,6 @@
   * [[:en:bible:questions:comprehension:isa:28]]
 **[[:en:bible:notes:isa:28:22|<<]] | [[:en:bible:notes:isa:28:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,8 +20,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 23 Saul went to Naioth in Ramah. Then the Spirit of God came upon him, and as he went he prophesied until he came to Naioth in Ramah.
-\v 24 He stripped off his clothes and also prophesied before Samuel. He lay naked all that day and all that night. This is why they ask, "Is Saul also among the prophets?"
+\v 23 Saul went to Naioth in Ramah. And the Spirit of God came upon him also, and as he went he prophesied, until he came to Naioth in Ramah.
+\v 24 And he, too, stripped off his clothes, and he also prophesied before Samuel and lay naked all that day and all that night. Because of this they say, "Is Saul also among the prophets?"
 </usfm>
 
 
@@ -31,8 +31,9 @@
 
 ===== translationNotes: =====
 
-  * **Because of this, they say, "Is Saul also one of the prophets?"** - This became a proverb among the Israelites. Apparently people said this to express surprise when a person unexpectedly did something that he had not done before. The implied meaning of the question can be stated explicitly. See how you translated this in [[:en:bible:notes:1sa:10:11|10:12]]. AT: "That is the reason that when people see someone doing something that is very unexpected, they say, 'Is Saul also a prophet?'" (See UDB) (See: [[:en:ta:vol2:translate:writing_proverbs]] and [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **they ask** - Here "they" refers to people in general. The question became a proverb among the people.
+  * **they say** - Here "they" refers to people in general. The question became a proverb among the people.
+  * **Is Saul also among the prophets?** - See how you translated this in [[:en:bible:notes:1sa:10:11|10:12]]. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -40,6 +41,6 @@
   * [[:en:bible:questions:comprehension:1sa:19]]
 **[[:en:bible:notes:1sa:19:21|<<]] | [[:en:bible:notes:1sa:20:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

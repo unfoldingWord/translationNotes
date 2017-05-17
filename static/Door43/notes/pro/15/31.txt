@@ -19,10 +19,11 @@
 
 <usfm>
 \v 31 If you pay attention when someone corrects you,
-\q2 you will stay among those who are wise.
+\q2 you will stay among those who are wise. 
 \q1
 \v 32 The one who refuses to follow discipline, despises himself;
 \q2 the one who receives correction gains understanding as well.
+\b
 
 
 \q1
@@ -36,7 +37,7 @@
 \v 31 If you pay attention when someone corrects how you live,
 \q you will remain among wise people.
 \q
-\v 32 The one who rejects discipline despises himself,
+\v 32 The one who rejects discipline despises himself, 
 \q but he who listens to correction gains understanding.
 </usfm>
 
@@ -50,8 +51,11 @@
 
 ===== translationNotes: =====
 
-  * **you will remain among wise people** - Possible meanings are 1) people will continue to consider you to be a wise person or 2) you will continue to enjoy the company of wise people.
-  * **listens to correction** - The word "correction" can be translated with a verbal phrase. AT: "listens when others correct him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **pay attention** - AT: "listen carefully"
+  * **you will remain among wise people** - Possible meanings are 1) wise people will want you to stay with them or 2) people will continue to see you as a wise person.
+  * **The one who** - "The person who"
+  * **despises** - See how you translated it in [[:en:bible:notes:pro:01:07|1:7]].
+  * **listens to correction** - AT: "receives correction" (UDB) or "follows correcting instructions"
 
 ===== Links: =====
 
@@ -60,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:15]]
 **[[:en:bible:notes:pro:15:29|<<]] | [[:en:bible:notes:pro:15:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

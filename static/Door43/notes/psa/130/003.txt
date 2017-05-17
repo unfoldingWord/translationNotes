@@ -20,7 +20,7 @@
 \q1
 \v 4 But you forgive us,
 \q2 with the result that we have an awesome respect for you.
-
+\b
 
 
 \q1
@@ -45,8 +45,8 @@
 
 ===== translationNotes: =====
 
-  * **who could stand?** - The speaker uses this question to express the futility of thinking that anyone could stand in this situation. This rhetorical question can be translated as a statement. AT: "no one could stand." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **who could stand** - "Stand" often represents escaping or surviving when someone attacks. In this case, it would be to escape from being being punished. AT: "no one could escape from your punishment" or "no one could survive your punishment" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who could stand?** - The speaker uses this question to express the futility of thinking that anyone could stand in this situation. AT: "no one could stand." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **who could stand** - "Stand" often represents escaping or surviving when someone attacks. In this case, it would be to escape from being being punished. AT: "No one could escape from your punishment" or "no one could survive your punishment" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 
 ===== Links: =====
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:psa:130]]
 **[[:en:bible:notes:psa:130:001|<<]] | [[:en:bible:notes:psa:130:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

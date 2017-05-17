@@ -25,9 +25,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 Then they said, "We will return what we took from them, and will require nothing from them. We will do as you say." Then I called the priests, and made them swear to do as they had promised.
-\v 13 I shook out the fold of my robe and said, "So may God shake out of his house and possessions every man who does not keep his promise. So may he be shaken out and emptied."
-\p All the assembly said, "Amen," and they praised Yahweh and the people did as they had promised.
+\v 12 Then they said, "We will return what we took from them, and will require nothing from them. We will do as you say." Then I called the priests, and made them swear to do as they had promised. 
+\v 13 I shook out the fold of my robe and said, "So may God shake out of his house and possessions every man who does not keep his promise. So may he be shaken out and emptied." 
+\p All the assembly said, "Amen," and they praised Yahweh. And the people did as they had promised.
 </usfm>
 
 ===== translationWords: =====
@@ -46,13 +46,14 @@
 
 ===== translationNotes: =====
 
-  * **Then they said** - Here "they" refers to the Jewish leaders.
-  * **We will return what we took from them** - The Jewish leaders are saying they will return the money which the poorer Jews paid in interest charges. 
-  * **made them swear** - Here the word "them" refers to the Jewish leaders. 
+  * **Then they said** - Here "they" refers to the Jewish nobles.
+  * **We will return what we took from them** - The nobles are saying they will return the money which the poorer Jews paid in interest charges. 
+  * **We will do as you say** - "We" refers to the nobles who are speaking to Nehemiah. 
   * **Then I called** - "I" refers to Nehemiah.
-  * **I shook out the fold of my robe** - "I shook out the pockets of my robe." Many times in the Old Testament, oaths were physically demonstrated as a witness to what was promised. Nehemiah is demonstrating to the Jewish leaders what will happen if they break the promise they had made. (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **So may God shake out of his house ... So may he be shaken out and emptied** - Here Nehemiah speaks of God taking away all of a man's possessions as if God were shaking him out of his home and possessions like Nehemiah shook out his robe. AT: "So may God take away from every man who does not keep his promise all of his possessions and his home like I have taken everything out of the fold of my robe" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **and made them swear** - "and made the Jewish nobles take an oath"
+  * **I shook out the fold of my robe** - Many times in the Old Testament, oaths were physically demonstrated as a witness to what was promised. Nehemiah is demonstrating to the nobles what will happen if they break the promise they had made.
+  * **and they praised Yahweh** - AT: "and they worshiped Yahweh"
+  * **And the people did as they had promised** - AT: "and all the person kept their promises."
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -60,6 +61,6 @@
   * [[:en:bible:questions:comprehension:neh:05]]
 **[[:en:bible:notes:neh:05:09|<<]] | [[:en:bible:notes:neh:05:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

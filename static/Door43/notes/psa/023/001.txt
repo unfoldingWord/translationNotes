@@ -31,8 +31,9 @@
 
 <usfm>
 \c 23
-\m
+\p
 \d A psalm of David.
+\b
 \q
 \v 1 Yahweh is my shepherd; I will lack nothing.
 \q
@@ -50,7 +51,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **Yahweh is my shepherd** - The writer speaks about Yahweh as if he were a shepherd. This emphasizes how God cares for people as a shepherd cares for his sheep. AT: "Yahweh is like a shepherd to me" or "Yahweh cares for me as a shepherd cares for his sheep" (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -65,6 +66,6 @@
   * [[:en:bible:questions:comprehension:psa:023]]
 **[[:en:bible:notes:psa:022:030|<<]] | [[:en:bible:notes:psa:023:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

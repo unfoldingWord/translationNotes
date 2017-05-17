@@ -40,11 +40,11 @@
 
 <usfm>
 \c 24
-\m
+\p
 \q1
 \v 1 Look, Yahweh is about to empty the earth, to devastate it, mar its surface, and scatter its inhabitants.
 \q1
-\v 2 It will come about that, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress;
+\v 2 It will come about that, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; 
 \q1 as with the buyer, so with the seller; as with the creditor, so with the debtor; as with the receiver of interest, so with the giver of interest.
 </usfm>
 
@@ -57,10 +57,8 @@
   * [[:en:obe:kt:lord]]
 
 ===== translationNotes: =====
-  * **to empty the earth** - "to make the earth desolate" or "to destroy everything on the earth"
-  * **It will come about that** - This phrase marks an important event. If your language has a way for doing this, you could consider using it here.
-  * **as with ... so with** - What Yahweh will do is not stated here, but it is understood. This shows that God will treat all people the same way. AT: "as Yahweh scatters ... so he will scatter"(See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **the priest ... the giver of interest** - In 24:2 Isaiah lists several classes of people. They can be stated as plural nouns as in the UDB. AT: "the priests ... those who give interest" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+  * **It will come about that** - This is an "important event" marker. If your language has a way for doing this, you could consider using it here.
+  * **as with ... so with** - What Yahweh will do is not stated here, but it is understood. AT: "as Yahweh scatters ... so he will scatter." This show that God will treat all people the same way. (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **the receiver of interest** - "the one who owes money." The word "interest" means the extra money someone has to pay so that he may borrow money.
   * **the giver of interest** - "the one who is owed money"
 ===== Links: =====
@@ -70,6 +68,6 @@
   * [[:en:bible:questions:comprehension:isa:24]]
 **[[:en:bible:notes:isa:23:17|<<]] | [[:en:bible:notes:isa:24:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

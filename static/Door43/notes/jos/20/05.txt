@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 5 If one of them comes to try to avenge the blood of the person who was killed, then the people of the city must not hand the one who killed him over to the authorities. They must not do this because he killed his neighbor unintentionally, and he had no hatred toward him in the past.
+\v 5 And if one comes to try to avenge the blood of the person who was killed, then the people of the city must not hand over to the authorities the one who killed him. They must not do this, because he killed his neighbor unintentionally and had no hatred toward him beforehand.
 \v 6 He must stay in that city until he has stood before the assembly for judgment, until the death of the one who was serving as high priest in those days. Then the one who had accidentally killed the person may return to his own town and his own home, to the town from which he fled.'"
 </usfm>
 
@@ -41,7 +41,8 @@
 
 ===== translationNotes: =====
 
-  * **avenge the blood of the person who was killed** - This can be stated in active form. See how you translated this in [[:en:bible:notes:jos:20:01|20:3]]. AT: "avenge a person's death" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **avenge the blood of the person who was killed** - This can be stated in active form. AT: "avenge a person's death." See how you translated this in [[:en:bible:notes:jos:20:01|20:3]]. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **hand over** - This expression means to give into someone else's authority. (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **killed his neighbor unintentionally ... accidentally killed the person** - These phrases mean the same thing.
   * **stood before the assembly** - This is a phrase that describes standing to seek justice from a court of the assembly of his fellow citizens.
 ===== Links: =====
@@ -51,6 +52,6 @@
   * [[:en:bible:questions:comprehension:jos:20]]
 **[[:en:bible:notes:jos:20:04|<<]] | [[:en:bible:notes:jos:20:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

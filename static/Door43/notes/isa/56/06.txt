@@ -40,14 +40,15 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 6 Also foreigners who join themselves to Yahweh—
+\v 6 Also foreigners who join themselves to Yahweh— 
 \q1 to serve him, and who love the name of Yahweh, to worship him,
 \q1 every one who observes the Sabbath and who keeps from defiling it, and who holds fast my covenant
 \q1
-\v 7 —I will bring to my holy mountain and make them joyful in my house of prayer;
+\v 7 —I will bring to my holy mountain and make them joyful in my house of prayer; 
 \q1 their burnt offerings and their sacrifices will be accepted on my altar.
-\q1 For my house will be called a house of prayer for all nations,
+\q1 For my house will be called a house of prayer for all nations.
 </usfm>
 
 
@@ -73,10 +74,10 @@
 
 ===== translationNotes: =====
 
-  * **who join themselves to Yahweh** - This refers to foreigners who have joined Yahweh's people.
-  * **who love the name of Yahweh** - "name" represents the reputation and person of Yahweh. AT: "who love Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **holy mountain** - Translate this as in [[:en:bible:notes:isa:11:08|11:9]].
-  * **will be accepted on my altar** - This can be stated in active form. AT: "I will accept on my altar" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **who join themselves to Yahweh** - This refers to non-Hebrews who have joined Yahweh's people.
+  * **who love the name of Yahweh** - "name" represents the person of Yahweh. AT: "who love Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **holy mountain** - See how you translated this in [[:en:bible:notes:isa:11:08|11:9]].
+  * **will be accepted on my altar** - This can be stated in acive form. AT: "I will accept on my altar" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **my house will be called a house of prayer** - This can be stated in active form. AT: "my house will be a house of prayer" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
@@ -86,6 +87,6 @@
   * [[:en:bible:questions:comprehension:isa:56]]
 **[[:en:bible:notes:isa:56:04|<<]] | [[:en:bible:notes:isa:56:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass joy love sabbath}}
+~~DISCUSSION~~{{tag>publish p2edit joy love sabbath}}
 
 ~~NOCACHE~~

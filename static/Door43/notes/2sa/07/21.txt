@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 21 You have done all these great things to teach me, and you have done them just because you wanted to do them and because you decided to do them.
+\v 21 You have done all these great things to teach me, and you have done them just because you wanted to do them and because you decided to do them. 
 \pi
 \v 22 O Yahweh my God, you are great. There is no one like you. Only you are God, just as we have always heard.
 \v 23 And there is no other nation in the world like Israel. Israel is the only nation on the earth whose people you went out to rescue, as you rescued them from Egypt. Then you made them belong to you yourself. And for doing all these things, you are now well known throughout the world. As your people advanced through this land, you drove out other people groups who were in Canaan, along with their gods.
@@ -25,8 +25,8 @@
 
 <usfm>
 \v 21 For your word's sake, and to fulfill your own purpose, you have done this great thing and revealed it to your servant.
-\v 22 Therefore you are great, Lord Yahweh, for there is no one like you, and there is no God besides you, as we have heard with our own ears.
-\v 23 What nation is like your people Israel, the one nation on earth whom you, God, went and rescued for yourself? You did this so that they would become a people for yourself, to make a name for yourself, and to do great and fearful deeds for your land. You drove out nations and their gods from before your people, whom you rescued from Egypt.
+\v 22 Therefore you are great, Lord Yahweh. For there is none like you, and there is no God besides you, just as we have heard with our own ears. 
+\v 23 And what nation is like your people Israel, the one nation on earth whom you, God, went and rescued for yourself? You did this so that they would become a people for yourself, to make a name for yourself, and to do great and fearful deeds for your land. You drove out nations and their gods from before your people, whom you rescued from Egypt.
 </usfm>
 
 
@@ -38,27 +38,17 @@
   * [[:en:obe:kt:lordyahweh]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:other:nation]]
-  * [[:en:obe:kt:peopleofgod]]
+  * [[:en:obe:other:peoplegroup]]
   * [[:en:obe:other:earth]]
-  * [[:en:obe:kt:name]]
   * [[:en:obe:kt:fear]]
   * [[:en:obe:kt:works]]
-  * [[:en:obe:other:castout]]
   * [[:en:obe:kt:falsegod]]
 
 ===== translationNotes: =====
 
-  * **For your word's sake** - Here "word" represents what God promised to do. AT: "Because of what you promised to do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **to fulfill your own purpose** - "to accomplish what you planned to do"
-  * **to your servant** - David refers to himself as "your servant." It can be stated in first person. AT: "to me" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **as we have heard with our own ears** - The phrase "with our own ears" is used for emphasis. AT: "as we ourselves have heard" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **as we have heard** - Here  "we" refers to David and the nation of Israel. (See: [[:en:ta:vol2:translate:figs_exclusive]])
-  * **What nation is like your people Israel, the one nation on earth whom you, God, went and rescued for yourself?** - David uses a question emphasize that there is no other nation like Israel. AT: "There is no nation like your people Israel, the one nation on earth whom you, God, went and rescued for yourself." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **to make a name for yourself** - Here "name" represents Yahweh's reputation. AT: "to make all people know who you are" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **for your land** - Here "land" represents the people. AT: "for your people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **You drove out nations** - Here "nations" represents the people groups that were living in Canaan. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
-
+  * **just as we have heard** - Here  "we" refers to David and the nation of Israel. 
+  * **And what nation is like your people Israel, the one nation on earth whom you, God, went and rescued for yourself?** - This rhetorical question can be translated as a statement. AT: "There is no nation like your people Israel, the one nation on earth whom you, God, went and rescued for yourself." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -66,6 +56,6 @@
   * [[:en:bible:questions:comprehension:2sa:07]]
 **[[:en:bible:notes:2sa:07:18|<<]] | [[:en:bible:notes:2sa:07:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass lordyahweh}}
+~~DISCUSSION~~{{tag>publish p2edit lordyahweh}}
 
 ~~NOCACHE~~

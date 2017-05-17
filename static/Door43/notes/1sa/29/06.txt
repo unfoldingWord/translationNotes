@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 So Achish summoned David, and said to him, "Just as surely as Yahweh is alive, you have been loyal to me. I would like very much for you to fight along with my army. Since the day that you came to me, I have not found that you have any faults. But the other kings do not trust you.
+\v 6 So Achish summoned David, and said to him, "Just as surely as Yahweh lives, you have been loyal to me. I would like very much for you to fight along with my army. Since the day that you came to me, I have not found that you have any faults. But the other kings do not trust you.
 \v 7 So all of you go back home, and I hope to do anything that the other kings of Philistia will not be pleased with."
 
 
@@ -39,8 +39,7 @@
 
 ===== translationNotes: =====
 
-  * **As Yahweh lives** - This is an idiom.  "As certainly as Yahweh lives" or "This is a true statement" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **your going out and your coming in with me in the army is good** - "I am happy to have you go out and come in with me and my army" or "It is good that you go everywhere with me and my army"
+  * **As Yahweh lives** - This is an idiom for this is a true statement. AT: "As certainly as Yahweh lives" or "This is a true statement" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
 
 ===== Links: =====
 
@@ -49,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1sa:29]]
 **[[:en:bible:notes:1sa:29:05|<<]] | [[:en:bible:notes:1sa:29:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

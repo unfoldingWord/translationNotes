@@ -32,12 +32,11 @@
 
 <usfm>
 \q
-\v 5 Every word of God is tested;
+\v 5 Every word of God is tested, 
 \q he is a shield to those who take refuge in him.
 \q
 \v 6 Do not add to his words,
-\q or he will discipline you, 
-\q and you will be proved to be a liar.
+\q or he will rebuke you, and you will be proved to be a liar.
 </usfm>
 
 
@@ -52,11 +51,7 @@
 
 ===== translationNotes: =====
 
-  * **is tested** - Words are spoken of as if they were metals that need someone to clean the bad parts out of them. AT: "is like a precious metal from which someone has removed all the useless material" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **he is a shield to those who take refuge in him** - The word "shield" is a metaphor for something that protects a person. AT: "he protects those who come and ask him to protect them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **add to his words** - say more than he has said
-  * **you will be proved to be** - This can be translated in active form. AT: "he will prove that you are" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **tested** - This means to be proven true and trustworthy.
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -70,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

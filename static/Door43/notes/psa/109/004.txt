@@ -22,7 +22,7 @@
 \q1
 \v 5 In return for my doing good things for them and loving them,
 \q2 they do evil things to me and hate me.
-
+\b
 
 
 \q1
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:109]]
 **[[:en:bible:notes:psa:109:001|<<]] | [[:en:bible:notes:psa:109:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

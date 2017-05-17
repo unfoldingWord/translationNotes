@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 21 And I, King Artaxerxes, command this to all the treasurers in the province west of the Euphrates River: Give to Ezra, the priest who has studied very well the laws of the God who is in
+\v 21 And I, King Artaxerxes, command this to all the treasurers in the province west of the Euphrates River: Give to Ezra, the priest who has studied very well the laws of the God who is in 
 heaven, everything that he requests, and give it to him quickly.
-\v 22 Give him up to 3 and one-half metric tons of silver, five hundred bushels of wheat, two and one-fifth kiloliters of wine, the same of olive oil, and all the salt that they need.
+\v 22 Give him up to 3.5 metric tons of silver, five hundred bushels of wheat, 2.2 kiloliters of wine, the same of olive oil, and all the salt that they need.
 \v 23 Be sure that you provide whatever their God requires for his temple, because we certainly do not want him to be angry with me or with my descendants who will later be kings.
 </usfm>
 
@@ -23,7 +23,7 @@ heaven, everything that he requests, and give it to him quickly.
 ===== ULB: =====
 
 <usfm>
-\v 21 I, King Artaxerxes, make a decree to all the treasurers in the Province Beyond the River, that anything that Ezra asks from you should be given in full,
+\v 21 I, King Artaxerxes, make a decree to all the treasurers beyond the River, that anything that Ezra asks from you should be given in full,
 \v 22 up to one hundred silver talents, one hundred cors of grain, one hundred baths of wine, and one hundred baths of oil, also salt without limit.
 \v 23 Anything that comes from the decree of the God of Heaven, do it with devotion for his house. For why should his wrath come upon the kingdom of me and my sons?
 </usfm>
@@ -42,29 +42,25 @@ heaven, everything that he requests, and give it to him quickly.
  
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - This continues the decree that King Artaxerxes gave to Ezra.
-
-  * **the Province Beyond the River** - This is the name of the province that was west of the Euphrates River. It was across the river from the city of Susa. See how you translated it in [[:en:bible:notes:ezr:04:09|4:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **that anything that Ezra asks from you should be given in full** - This can be expressed in active form. "Give Ezra in full anything he asks of you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **should be given in full** - The phrase "in full" here represents whatever quantity necessary to do the work. AT: "should be given as much as he needs" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **one hundred silver talents** - "100 talents of silver." You may convert this to a modern measure. AT: "3,400 talents of silver" or "three and one-half metric tons"  (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_bweight]])
-  * **one hundred cors of grain** - You may convert this to a modern measure. AT: "22,000 liters of grain" or "twenty thousand liters of grain" (See: [[:en:ta:vol2:translate:translate_bvolume]] and [[:en:ta:vol2:translate:translate_numbers]])
-  * **one hundred baths of oil** - You may convert this to a modern measure. AT: 2,200 liters of oil" or "two thousand liters of oil" (See: [[:en:ta:vol2:translate:translate_bvolume]] and [[:en:ta:vol2:translate:translate_numbers]])
-  * **his house** - This refers to God's temple.
-  * **For why should his wrath come upon the kingdom of me and my sons?** - The king uses this question to say that he does not want God's wrath to come upon them. The implied information is that if they do not do give Ezra what he needs, then God will punish the kingdom. AT: "For we do not want God's wrath to come upon the the kingdom of me and my sons" or "For if you do not do these things, God's wrath will come upon the kingdom of me and my sons." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **For why should his wrath come upon the kingdom of me and my sons** - God's wrath represents God punishing them. AT: "For why should God punish the kingdom of me and my sons" or "For if you do not do these things, God will punish the kingdom of me and my sons" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
-
+  * **anything that Ezra asks from you** - Ezra had the full support of the king in rebuilding the temple.
+  * **one hundred** - 100 (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **talent** - A talent is 34 kilograms. (See: [[:en:ta:vol2:translate:translate_bweight]])
+  * **cors** - A cor or kor is 220 liters. (See: [[:en:ta:vol2:translate:translate_bvolume]])
+  * **baths** - A bath is 22 liters. (See: [[:en:ta:vol2:translate:translate_bvolume]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
   * [[:en:bible:notes:ezr:07:00]]
   * [[:en:bible:questions:comprehension:ezr:07]]
+
+ 
+
 **[[:en:bible:notes:ezr:07:19|<<]] | [[:en:bible:notes:ezr:07:24|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -21,7 +21,7 @@
 
 <usfm>
 \p
-\v 16 When the Egyptian had brought David down, the raiders were spread out over all the ground, eating and drinking and dancing because of all the booty they had taken out of the land of the Philistines and from the land of Judah.
+\v 16 When the Egyptian had brought David down, the raiders were spread out over all the ground, eating and drinking, and dancing, because of all the booty they had taken out of the land of the Philistines and from the land of Judah.
 \v 17 David attacked them from the twilight to the evening of the next day. Not a man escaped except for four hundred young men, who rode on camels and fled.
 </usfm>
 
@@ -38,8 +38,8 @@
 
 ===== translationNotes: =====
 
-  * **booty** - the goods they had stolen in the raid
-  * **twilight** - the time just after the sun goes down until the sky is dark
+  * **booty** - the money and goods stolen in the raid.
+  * **twilight** - the time just after the sun goes down until the sky is dark.
   * **four hundred** - 400 (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1sa:30]]
 **[[:en:bible:notes:1sa:30:15|<<]] | [[:en:bible:notes:1sa:30:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

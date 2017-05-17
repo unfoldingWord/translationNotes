@@ -41,14 +41,14 @@
 
 <usfm>
 \c 17
-\m
+\b
 \q
 \v 1 My spirit is consumed, and my days are over;
 \q the grave is ready for me.
 \q
 \v 2 Surely there are mockers with me;
 \q my eye must always see their provocation.
-\m
+\b
 \q
 \v 3 Give now a pledge, be a guarantee for me with yourself;
 \q who else is there who will help me?
@@ -67,15 +67,14 @@
 
   * **General Information:** - Job continues to speak.
 
-  * **My spirit is consumed** - Job refers to himself by his "spirit" to emphasize his inner emotions. He speaks of not having any strength left as if he were something that has been used up. AT: "I am consumed" or "I have lost all of my strength" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **my days are over** - Job refers to his life as his "days." AT: "my time is over" or "I am going to die soon" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the grave is ready for me** - This phrase describes "the grave" as if it is a person who will receive Job as a guest. AT: "soon I will be dead and buried" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **Surely there are mockers with me** - "Those who are around me are mocking me" 
-  * **Surely** - "Indeed" 
-  * **my eye must always see** - Job refers to himself by his "eyes" to emphasize what he sees. AT: "I must always see" or "I must always hear" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **their provocation** - "their insults." The word "provocation" can be expressed as a verb. AT: "them provoking me" or "them, trying to make me angry" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Give now a pledge, be a guarantee for me with yourself** - Job begins to speak to God. Here he speaks of his situation as if he were in prison. He is asking God to provide a pledge so that he may be released. AT: "God, give now a pledge so that I may be released from this prison" or "pay for my release from prison" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **who else is there who will help me?** - Job uses this rhetorical question to emphasize that there is no one else to help him. This question can be written as a statement. AT: "there is no one else who will help me" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **My spirit is consumed** - AT: "I am consumed" or "I have lost all of my strength" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **my days are over** - AT: "my time is over" or "I am going to die soon" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the grave is ready for me** - This phrase describes the grave, which refers to death, as if it is a person who will receive Job as a guest. AT: "death is ready to receive me" or "soon I will be dead and buried" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Surely** - "Indeed" AT: "I am sure of this"
+  * **my eye must always see** - AT: "I must always see" or "I must always hear" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **their provocation** - AT: "them provoking me" or "their insults" or "them, trying to make me angry" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Give now a pledge, be a guarantee for me with yourself** - Job begins to speak to God. AT: "please provide my bail money" or "pay for my release from prison"
+  * **who else is there who will help me?** - The implicit answer is: "no one." AT: "there is no one else who can help me" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -83,6 +82,6 @@
   * [[:en:bible:questions:comprehension:job:17]]
 **[[:en:bible:notes:job:16:20|<<]] | [[:en:bible:notes:job:17:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

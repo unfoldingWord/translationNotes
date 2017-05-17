@@ -50,12 +50,12 @@ palace.
 
 ===== translationNotes: =====
 
-  * **Sennacherib** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Lachish** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **fortified cities** - Cities with walls around them for protection. See how you translated "fortified city" in [[:en:bible:notes:2ki:18:06|18:8]].
-  * **Withdraw from me** - This expression assumes that "me" represents the kingdom of Hezekiah. AT: "Take your army out of my territory" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Whatever you put on me I will bear** - "I will pay you whatever you demand of me"
-  * **talents** - This is the name of type of weight that was used for money. (See: [[:en:ta:vol2:translate:translate_bmoney]])
+  * **Sennacherib** - man's name (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Lachish** - place name (See: [[:en:ta:vol1:translate:translate_names]])
+  * **fortified cities** - See how you translated "fortified city" in [[:en:bible:notes:2ki:18:06|18:8]].
+  * **Withdraw from me** - AT: "Take your army out of my cities" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Whatever you put on me I will bear** - AT: "I will pay you whatever you demand of me"
+  * **talents** - (See: [[:en:ta:vol2:translate:translate_bmoney]])
   * **treasuries** - This was the place in the palace where money and valuable things were stored.
 
 ===== Links: =====
@@ -65,6 +65,6 @@ palace.
   * [[:en:bible:questions:comprehension:2ki:18]]
 **[[:en:bible:notes:2ki:18:11|<<]] | [[:en:bible:notes:2ki:18:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass sennacherib}}
+~~DISCUSSION~~{{tag>publish p2edit sennacherib}}
 
 ~~NOCACHE~~

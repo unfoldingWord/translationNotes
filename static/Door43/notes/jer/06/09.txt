@@ -25,6 +25,7 @@
 \q2 "Your enemies will cause your country to become as desolate as a vineyard from which all the grapes have been completely stripped from the vines.
 \q1 Their soldiers will seize the possessions of those who remain in Israel after the others have been exiled
 \q2 like farmers go to the vines again to pick any grapes that were left.
+\b
 \q1
 \v 10 If I command you, Jeremiah, to speak to the Israelite people to warn them,
 \q2 who will listen to me?
@@ -40,12 +41,12 @@
 ===== ULB: =====
 
 <usfm>
-\q
+\q 
 \v 9 Yahweh of hosts says this, "They will certainly glean those who are left in Israel like a vineyard.
 \q Reach out again with your hand to pick grapes from the vines.
 \q
-\v 10 To whom should I declare and warn so they will listen?
-\q Look! Their ears are uncircumcised; they are not able to pay attention!
+\v 10 To whom should I declare and warn so they will listen? 
+\q Look! Their ears are uncircumcised; they are not able to pay attention! 
 \q Look! The word of Yahweh has come to them to correct them, but they do not want it."
 </usfm>
 

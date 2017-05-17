@@ -26,10 +26,16 @@
 ===== ULB: =====
 
 <usfm>
-\v 14 Beriah had these sons: Ahio, Shashak, Jeremoth,
+\v 14 Beriah had these sons: 
+\q Ahio, Shashak, Jeremoth,
+\q 
 \v 15 Zebadiah, Arad, Eder,
+\q 
 \v 16 Michael, Ishpah, and Joha.
-\v 17-18 Elpaal had these sons: Zebadiah, Meshullam, Hizki, Heber, Ishmerai, Izliah, and Jobab.
+\m
+\v 17-18 Elpaal had these sons: 
+\q Zebadiah, Meshullam, Hizki, Heber,
+\q Ishmerai, Izliah, and Jobab.
 </usfm>
 
 

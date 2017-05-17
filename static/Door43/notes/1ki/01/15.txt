@@ -23,35 +23,31 @@
 <usfm>
 \p
 \v 15 So Bathsheba went into the king's room. The king was very old, and Abishag the Shunammite was serving the king.
-\v 16 Bathsheba bowed and prostrated herself before the king. Then the king said, "What do you desire?"
+\v 16 Bathsheba bowed and prostrated herself before the king. And the king said, "What do you desire?"
 \v 17 She said to him, "My master, you swore to your servant by Yahweh your God, saying, 'Surely Solomon your son shall reign after me, and he shall sit on my throne.'
 </usfm>
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:bow|bow, bow down]]
-  * [[:en:obe:kt:yahweh|Yahweh]]
-  * [[:en:obe:kt:god|God]]
-  * [[:en:obe:other:throne|throne]]
+  * [[:en:obe:kt:bow]]
+  * [[:en:obe:kt:yahweh]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:throne]]
 
 ===== translationNotes: =====
 
-  * **the king's room** - "the room in which the king slept"
-  * **Abishag the Shunammite** - This is the young virgin that King David's servants had brought to care for him. Translate as in [[:en:bible:notes:1ki:01:03|1:3]].
+  * **Abishag the Shunammite** - This is the young virgin that King David's servants had brought to care for him. See how you translated this in [[:en:bible:notes:1ki:01:03|1:3]].
   * **bowed and prostrated herself before the king** - "bowed close to the ground in front of the king"
   * **What do you desire?** - "What can I do for you?"
   * **you swore to** - The form of "you" here is emphatic. AT: "you yourself swore to"
-  * **your servant** - Bathsheba speaks as if she were another person to show David that she respects him. Translate as in [[:en:bible:notes:1ki:01:13|1:13]]. AT: "me, your servant"
-  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
-  * **he shall sit on my throne** - Sitting on the throne is a metonym for being king. Translate as in [[:en:bible:notes:1ki:01:13|1:13]]. AT: "he will be king just as I was" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he shall sit on my throne** - "he will be the king"
 ===== Links: =====
 
-  * [[:en:bible:notes:1ki:00:intro|Introduction to 1 Kings]]
-  * [[:en:bible:notes:1ki:01:00|1 Kings 01 General Notes]]
-  * [[:en:bible:questions:comprehension:1ki:01|1 Kings 01 Translation Questions]]
-
+  * [[:en:bible:notes:1ki:00:intro]]
+  * [[:en:bible:notes:1ki:01:00]]
+  * [[:en:bible:questions:comprehension:1ki:01]]
 **[[:en:bible:notes:1ki:01:13|<<]] | [[:en:bible:notes:1ki:01:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

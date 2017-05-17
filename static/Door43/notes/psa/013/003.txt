@@ -17,12 +17,12 @@
 
 <usfm>
 \v 3 Yahweh my God, look at me and answer me.
-\q2 Restore my strength, or I will die.
+\q2 Give me strength, or I will die.
 \q1
 \v 4 Do not allow my enemies to boast and to say, "We have defeated him!"
 \q2 Do not allow them to defeat me,
 \q2 with the result that they will rejoice about it!
-
+\b
 
 
 \q1
@@ -33,7 +33,7 @@
 <usfm>
 \q
 \v 3 Look at me and answer me, Yahweh my God!
-\q Give light to my eyes, or I will sleep in death.
+\q Enlighten my eyes, or I will sleep in death.
 \q
 \v 4 Do not let my enemy say, "I have defeated him,"
 \q so that my enemy may not say, "I have prevailed over my adversary"; otherwise, my enemies will rejoice when I am brought down.
@@ -49,7 +49,7 @@
 ===== translationNotes: =====
 
   * **Look at me and answer me** - "Give me your attention and listen to me"
-  * **Give light to my eyes** - This is a way of asking for strength. AT: "Make me strong again" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Enlighten my eyes** - This is a way of asking for strength. AT: "Make me strong again" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **or I will sleep in death** - To "sleep in death" means to die. (See: [[:en:ta:vol2:translate:figs_euphemism]])
   * **Do not let my enemy say ... so that my enemy may not say** - "Do not let my enemy say about me ... so that my enemy may not say about me"
   * **when I am brought down** - "when I fall" or "when they defeat me" 
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:013]]
 **[[:en:bible:notes:psa:013:001|<<]] | [[:en:bible:notes:psa:013:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

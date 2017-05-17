@@ -41,8 +41,8 @@
  
 ===== translationNotes: =====
 
-  * **Lo Ruhamah** - This name means "no mercy." The translator may choose to represent this meaning as the name. AT: "No Mercy" See how you translated this in [[:en:bible:notes:hos:01:06|1:6]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Lo Ammi** - This name means "not my people." The translator may choose to represent this meaning as the name. AT: "Not My People" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Lo Ruhamah** - This name means "no mercy." The translator may choose to represent this meaning as the name. AT: "Call his name No Mercy." See how you translated this in [[:en:bible:notes:hos:01:06|1:6]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Lo Ammi** - This name means "not my people." The translator may choose to represent this meaning as the name. AT: "Call his name Not My People" (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:hos:00:intro]]
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:hos:01]]
 **[[:en:bible:notes:hos:01:06|<<]] | [[:en:bible:notes:hos:01:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

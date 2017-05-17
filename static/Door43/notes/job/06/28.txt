@@ -52,14 +52,15 @@
 
   * **Now** - This word is used by Job to introduce new information.
   * **please look** - The verb "to look" is in second person plural form. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **I would not lie to your face** - The word "your" refers to Job's friends. Here his friends are represented by their faces to emphasize that they are looking at him. AT: "I would not lie to you while I am looking at you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Relent, I beg you** - "Please be merciful to me" or "Stop speaking like this, I beg yo." 
+  * **your face** - "Your" is in second person plural form. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **Relent, I beg you** - "Please be merciful to me" or "Please turn back"
+  * **Relent** - This verb is in second person plural form. (See: [[:en:ta:vol1:translate:figs_you]])
   * **let there be no injustice with you** - "treat me fairly" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **Indeed, relent, for my cause is just** - "Indeed, change the way you are treating me, for I am right in this" 
-  * **Is there evil on my tongue?** - "Do I say wicked things?" Job uses this question to rebuke his friends and to emphasize that he is not wicked. This question can be written as a statement. AT: "I do not say wicked things." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
-  * **on my tongue** - Here Job's speech is represented by his "tongue." AT: "in my speech" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Cannot my mouth detect malicious things?** - Job uses this question to rebuke his friends and to emphasize that he can tell the difference between right and wrong. Here Job refers to himself by his "mouth" to emphasize his speech. This question can be written as a statement. AT: "I know what is right to say and what is wrong to say." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **Indeed, relent, for my cause is just** - "Change the way you are treating me again; I am right in this" or "Change the way you are treating me; I am still right in this"
+  * **relent** - This verb is in second person plural form. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **Is there evil on my tongue?** - "Do I say wicked things?" Job uses this question to rebuke his friends and to emphasize that he is not wicked. AT: "I do not say wicked things." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **Is there evil on my tongue?** - A tongue cannot physically have evil on it, so this is a metonym used to describe wicked speech. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Cannot my mouth detect malicious things?** - Job uses this question to rebuke his friends and to emphasize that he can tell the difference between right and wrong. AT: "I can tell the difference between good and bad." (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -74,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

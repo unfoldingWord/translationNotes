@@ -53,18 +53,11 @@
 
 ===== translationNotes: =====
 
-  * **Ahithophel** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:15:11|15:12]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ahithophel** - See how you translated this man's name in [[:en:bible:notes:2sa:15:11|15:12]].
   * **twelve thousand men** - "12,000 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **arise and** - "begin to"
-  * **come on** - "come to"
-  * **weary and weak** - These words mean basically the same thing and are used together to emphasize how weak David was. AT: "weak" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **will surprise him with fear** - Here the word "fear" can be expressed with the adjective "afraid." AT: "will surprise him and make him afraid" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **I will attack only the king** - It is implied that he intends to kill the king. This can be stated clearly. AT: "I will kill only the king" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **bring back all the people** - This refers to all of the people who were with David. AT: "bring back all of the people who were with him" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **like a bride coming to her husband** - Here Ahithophel speaks of the peoples' happiness by comparing it to a bride's happiness. AT: "and they will come happily, like a bride is happy when she comes to her husband" or "and they will come happily" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **be at peace** - This means to have peace or to live peacefully. AT: "live peacefully" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **under you** - This refers to being under the king's authority. AT: "under your authority" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **pursue** - "chase"
+  * **all the people** - This refers to the nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **What Ahithophel said pleased Absalom** - "What Ahithophel advised pleased Absalom"
  
 ===== Links: =====
 
@@ -79,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example absalom}}
+{{tag>publish p2edit absalom}}
 
 ~~NOCACHE~~

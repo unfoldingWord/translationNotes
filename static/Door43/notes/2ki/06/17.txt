@@ -29,7 +29,7 @@
 <usfm>
 \v 17 Elisha prayed and said, "Yahweh, I beg that you will open his eyes that he may see." Then Yahweh opened the servant's eyes, and he saw. Behold, the mountain was full of horses and chariots of fire around Elisha!
 \v 18 When the Arameans came down to him, Elisha prayed to Yahweh and said, "Strike these people blind, I ask you." So Yahweh made them blind, just as Elisha had asked.
-\v 19 Then Elisha told the Arameans, "This is not the way, neither is this the city. Follow me, and I will bring you to the man whom you are looking for." Then he led them to Samaria.
+\v 19 Then Elisha told the Arameans, "This is not the way, neither is this the city. Follow me, and I will bring you to the man whom you are looking for." And he led them to Samaria.
 </usfm>
 
 ===== translationWords: =====
@@ -41,14 +41,11 @@
   * [[:en:obe:other:samaria]]
 ===== translationNotes: =====
 
-  * **open his eyes that he may see** - Elisha is asking that his servant may be able to see things that other people cannot see, namely the horses and chariots of fire that are around them. AT: "make him able to see"  (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **open his eyes that he may see** - AT: "make him able to see." Elisha is asking that his servant may be able to see things that other people cannot see, namely the horses and chariots of fire that are around them. (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **and he saw. Behold** - "and he could see. What he saw was that"
-  * **Behold** - The word "Behold" here shows that the servant was surprised by what he saw.
-  * **the mountain was full of horses** - "the mountainside was covered with horses"
-  * **around Elisha** - This refers to the city where Elisha is. AT: "around the city where Elisha was" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **around Elisha** - "around the city where Elisha was"
   * **these people** - This refers to the Aramean soldiers.
-  * **Strike these people blind** - "Cause these people to be blind!" This refers to Yahweh causing them to be unable to see clearly.
-  * **This is not the way, neither is this the city** - Elisha confuses the Arameans by telling them that they are not at the city they are searching for. AT: "This is not the way, neither is this the city you are looking for" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **This is not the way, neither is this the city** - AT: "You are not going in the right direction, and are not in the city where you want to be. 
  
 
 ===== Links: =====
@@ -58,6 +55,6 @@
   * [[:en:bible:questions:comprehension:2ki:06]]
 **[[:en:bible:notes:2ki:06:14|<<]] | [[:en:bible:notes:2ki:06:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

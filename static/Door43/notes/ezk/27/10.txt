@@ -17,9 +17,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 Men who came from the far away lands of Persia, Lud, and Put were soldiers in your army.
+\v 10 Men who came from far the away lands of Persia, Lud, and Put, were soldiers in your army.
 \q1 They hung their shields and helmets on the walls of your city;
-\q2 this caused many people to admire your city.
+\q2 this made many people to admire your city.
 \q1
 \v 11 Men from the cities of Arvad and Helech were watchmen on your city walls;
 \q2 men from the city of Gammad were in your towers.
@@ -34,9 +34,8 @@
 
 <usfm>
 \q
-\v 10 Persia, Lydia, and Libya were in your army, your men of war.
+\v 10 Persia, Lydia, and Libya were in your army, your men of war. 
 \q they hung shield and helmet within you; they showed your splendor.
-\q
 \v 11 The men of Arvad and Helech in your army were on your walls surrounding you, and the people of Gammad were in your towers. They hung up their shields on your walls all around you! They completed your beauty.
 </usfm>
 
@@ -50,13 +49,10 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues giving Ezekiel his message to Tyre.
-  * **General Information:** - The words "you" and "your" in these verses refer to Tyre.
+  * **General Information:** - Yahweh continues giving Ezekiel his message to Tyre.
 
-  * **Persia, Lydia ... Libya ... Arvad ... Helech ... Gammad** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
   * **your men of war** - "men who fought in your wars" or "serving as your warriors"
-  * **your splendor** - The abstract noun "splendor" can be translated using the adjective "splendid." AT: "how splendid you were" or "how majestic you were" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **They completed your beauty** - The abstract noun "beauty" can be translated using the adjective "beautiful." AT: "They finished making you beautiful" or "They made you perfectly beautiful" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **they showed your splendor!** - "they gave you your splendor!"
  
 ===== Links: =====
 
@@ -65,6 +61,6 @@
   * [[:en:bible:questions:comprehension:ezk:27]]
 **[[:en:bible:notes:ezk:27:08|<<]] | [[:en:bible:notes:ezk:27:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check persia}}
+~~DISCUSSION~~{{tag>publish p2edit persia}}
 
 ~~NOCACHE~~

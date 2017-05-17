@@ -42,8 +42,7 @@
  
 ===== translationNotes: =====
 
-  * **Makkedah** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **It was told to Joshua** - Messengers came and told Joshua. AT: "Someone told Joshua" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Makkedah** - This the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
 
  
 ===== Links: =====
@@ -59,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

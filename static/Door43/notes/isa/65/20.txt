@@ -35,10 +35,10 @@
 
 <usfm>
 \q1
-\v 20 Never again will an infant live there only a few days;
-\q1 nor will an old man die before his time.
-\q1 One who dies at one hundred years old will be considered a young person.
-\q1 Anyone who fails to reach the age of one hundred years old will be considered cursed.
+\v 20 Never again will an infant live there only a few days; 
+\q1 nor will an old man die before his time. 
+\q1 One who dies at one hundred years old will be considered a young person. 
+\q1 Anyone who does not reach one hundred years old will be considered cursed.
 \q1
 \v 21 They will build houses and inhabit them, and they will plant vineyards and eat their fruit.
 </usfm>
@@ -47,6 +47,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:death]]
+  * [[:en:obe:kt:sin]]
   * [[:en:obe:kt:curse]]
   * [[:en:obe:other:vineyard]]
   * [[:en:obe:kt:fruit]] 
@@ -56,9 +57,8 @@
   * **General Information:** - Yahweh continues speaking about his faithful people.
 
   * **one hundred years** - "100 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **will be considered a young person** - This can be stated in active form. AT: "people will consider him a young person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **will be considered cursed** - This can be stated this in active form. AT: "people will consider this person as cursed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **Anyone who does not reach one hundred years old** - Some modern versions have "A sinner of one hundred years."
+  * **one hundred years old will be considered a young person** - This can be stated in active form. AT: "one hundred years old, people will consider him a young person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -66,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:65]]
 **[[:en:bible:notes:isa:65:17|<<]] | [[:en:bible:notes:isa:65:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -30,12 +30,13 @@
 
 <usfm>
 \c 1
-\m
+\p
 \q
 \v 1 The message that Habakkuk the prophet received,
+\p
 \q
-\v 2 "Yahweh, how long shall I cry for help, and you will not hear?
-\q I have cried out to you in horror, 'Violence!' but you will not save me.
+\v 2 "Yahweh, how long shall I cry for help, and you will not hear? 
+\q I have cried out to you in horror, 'Violence!' but you will not save me!
 </usfm>
 
 ===== translationWords: =====
@@ -48,7 +49,6 @@
 ===== translationNotes: =====
 
   * **The message that Habakkuk the prophet received** - These words introduce the first two chapters of the book. If your language requires a complete sentence here, "This is the message that Habakkuk the prophet received from God."
-  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
   * **how long shall I cry for help, and you will not hear?** - AT: "I have been crying for help for a long time, but you act as though you do not hear me!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====

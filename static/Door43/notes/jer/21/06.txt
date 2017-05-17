@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 For I will attack the inhabitants of this city, both man and beast. They will die in a severe plague.
+\v 6 For I will attack the inhabitants of this city, both man and beast They will die in a severe plague.
 \v 7 After this—this is Yahweh's declaration—Zedekiah king of Judah, his servants, the people, and whoever remains in this city after the plague, the sword, and the famine, I will give them all into the hand of Nebuchadnezzar king of Babylon, and into the hand of their enemies, and into the hand of those seeking their life. Then he will kill them with the edge of the sword. He will not pity them, spare them, or have compassion.'
 </usfm>
 
@@ -44,15 +44,7 @@
 
   * **General Information:** - See: [[:en:ta:vol2:translate:figs_parallelism]]
 
-  * **inhabitants of this city** - "those who live in Jerusalem"
-  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **the sword** - Here this refers to the battle in which swords are used. AT: "the war" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **into the hand** - Here "hand" refers to the power of their enemies over them. AT: "into the power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Nebuchadnezzar king of Babylon ... their enemies ... those seeking their life** - All of these phrases refer to Nebuchadnezzar and his army.
-  * **seeking their life** - "wanting to kill them"
-  * **with the edge of the sword** - Possible meanings are 1) this is a metonym for death in battle. AT: "in battle" or 2) they will be killed by literal swords. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **He will not pity them, spare them, or have compassion** - These three phrases have the same meaning and emphasize that Yahweh will deal severely with them. AT: "He will not show them any mercy or compassion at all" (See: [[:en:ta:vol2:translate:figs_doublet]])
-
+  * **inhabitants of this city** - AT: "those who live in Jerusalem"
 
 ===== Links: =====
 
@@ -61,6 +53,6 @@
   * [[:en:bible:questions:comprehension:jer:21]]
 **[[:en:bible:notes:jer:21:03|<<]] | [[:en:bible:notes:jer:21:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

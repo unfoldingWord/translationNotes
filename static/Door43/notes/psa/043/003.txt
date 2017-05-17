@@ -18,14 +18,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 Speak true words that help me to live.
+\v 3 Speak true words that help me to live. 
 \q1 Give a command that will allow me to go back to Zion, your sacred hill in Jerusalem,
 \q1 and to your temple where you live.
 \q1
 \v 4 When you do that, I will go to your altar
 \q2 to worship you, my God, who causes me to be very joyful.
 \q2 There I will praise you, the God whom I worship, and I will play my harp.
-
+\b
 
 
 \q1
@@ -58,7 +58,7 @@
 
 ===== translationNotes: =====
 
-  * **send out your light and your truth** - The writer speaks of God's deliverance as if it were a light that shows him the way and truth that teaches him how to live. AT: "guide me with your light and truth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **send out your light and your truth** - The writer speaks of God's deliverance as if it were a light that shows him the way and truth that teaches him how to live. AT: "guide me with your truth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **holy hill** - This refers to the hill in Jerusalem where the temple is located and thus to the temple itself. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **to your dwelling** - "to the place where you live"
   * **God my exceeding joy** - "God who is my very great joy" or "God who gives me very great joy"
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:psa:043]]
 **[[:en:bible:notes:psa:043:001|<<]] | [[:en:bible:notes:psa:043:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

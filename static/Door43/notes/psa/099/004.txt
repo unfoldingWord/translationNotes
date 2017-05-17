@@ -24,7 +24,7 @@
 \q2 Worship him in front of his footstool, the sacred chest in his temple,
 \q2 where he rules people.
 \q2 He is holy!
-
+\b
 
 
 \q1
@@ -41,6 +41,7 @@
 \v 5 Praise Yahweh our God
 \q and worship at his footstool.
 \q He is holy.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:099]]
 **[[:en:bible:notes:psa:099:001|<<]] | [[:en:bible:notes:psa:099:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

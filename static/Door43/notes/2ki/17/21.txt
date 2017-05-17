@@ -26,7 +26,7 @@
 
 <usfm>
 \v 21 He tore Israel from the royal line of David, and they made Jeroboam son of Nebat king. Jeroboam drove Israel away from following Yahweh and made them commit a great sin.
-\v 22 The people of Israel followed all the sins of Jeroboam and they did not depart from them,
+\v 22 The people of Israel followed all the sins of Jeroboam and they did not depart from them, 
 \v 23 so Yahweh removed Israel from his sight, as he had said through all his servants the prophets that he would. So Israel was carried away out of their own land to Assyria, and it is this way to this present day.
 </usfm>
 
@@ -40,17 +40,15 @@
   * [[:en:obe:other:servant]]
   * [[:en:obe:kt:prophet]]
   * [[:en:obe:other:assyria]]
-
 ===== translationNotes: =====
 
-  * **General Information:** - The reason for Yahweh's judgment on Israel continues by relating the history behind it.
+  * **General Information:** - The summary of Yahweh's judgment on Israel continues.
 
-  * **He tore Israel** - "He tore" is a metaphor for violent removal. AT: "Yahweh removed the people of Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He tore Israel** - AT: "Yahweh removed the people of Israel"
   * **from the royal line of David** - "from the rule of David's descendants" (UDB)
-  * **drove Israel away from following Yahweh** - "turned the people of Israel away from following Yahweh"
-  * **they did not depart from them** - "the Israelites did not stop committing these sins" or "they did not turn away from those sins" (UDB)
-  * **so Yahweh removed Israel from his sight** - "Sight" is a metaphor for attention and care. AT: "so Yahweh removed the people of Israel from his attention and care" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **drove Israel away from following Yahweh** - AT: "turned the people of Israel away from following Yahweh"
+  * **they did not depart from them** - AT: "The Israelites did not stop committing these sins" or "They did not turn away from those sins" (UDB)
+  * **so Yahweh removed Israel from his sight** - AT: "So Yahweh removed the people of Israel from his presence" 
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -58,6 +56,6 @@
   * [[:en:bible:questions:comprehension:2ki:17]]
 **[[:en:bible:notes:2ki:17:19|<<]] | [[:en:bible:notes:2ki:17:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

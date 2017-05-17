@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 21 Then a spirit came forward, stood before Yahweh, and said, 'I will entice him.' Yahweh said to him, 'How?'
+\v 21 Then a spirit came forward, stood before Yahweh, and said, 'I will entice him.' Yahweh said to him, 'How?' 
 \v 22 The spirit replied, 'I will go out and be a lying spirit in the mouth of all his prophets.' Yahweh replied, 'You will entice him, and you will also be successful. Go now and do so.'
 \v 23 Now see, Yahweh has put a lying spirit in the mouth of all these prophets of yours, and Yahweh has decreed disaster for you."
 </usfm>
@@ -38,9 +38,9 @@
 
 ===== translationNotes: =====
 
-  * **be a lying spirit in the mouth of all his prophets** - Here the word "spirit" refers to the attitudes of the prophets and the words "the mouth" represents what they will say. AT: "cause all his prophets to speak lies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Now see** - "Indeed." The word "see" here adds emphasis to what follows. 
-  * **has put a lying spirit in the mouth of all these prophets of yours** - Here the word "spirit" refers to the attitudes of the prophets and the words "the mouth" represents what they will say. AT: "has caused all of your prophets to speak lies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Now see** - The word "see" here adds emphasis to what follows. AT: "Indeed"
+  * **be a lying spirit in the mouth of all his prophets** - Here the word "spirit" refers to the attitudes of the prophets; "the mouth" refers to what they will say. AT: "cause all his prophets to speak lies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **has put a lying spirit in the mouth of all these prophets of yours** - AT: "caused all of your prophets to speak lies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:22]]
 **[[:en:bible:notes:1ki:22:18|<<]] | [[:en:bible:notes:1ki:22:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

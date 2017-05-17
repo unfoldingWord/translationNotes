@@ -49,13 +49,10 @@
 ===== translationNotes: =====
 
   * **He said** - Here the word "He" refers to Ahijah.
-  * **tear the kingdom out** - Here "tear ... out" is a metaphor that refers to the action of forcefully removing. This is like a person tears apart a piece of cloth. AT: "forcefully take the kingdom out" See how you translated this phrase in [[:en:bible:notes:1ki:11:11|11:11]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the hand of Solomon** - Here "hand" is a metonym that refers to a person's authority, control and power. AT: "Solomon's control" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Solomon will have** - The name "Solomon" here is a metonym referring to his descendants. AT: "Solomon's sons will have" or "Solomon's descendants will have" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Ashtoreth ... Chemosh ... Milcom** - These are the names of false gods. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Sidonians ... Moab ... Ammon** - These are the names of locations and the people groups that live there. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **what is right in my eyes** - "Eyes" here is a metonym for someone's opinion or idea. This is a commonly used idiom. AT: "what I consider to be right" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
-
+  * **tear the kingdom** - See how you translated this phrase in [[:en:bible:notes:1ki:11:11|11:11]].
+  * **the hand of Solomon** - AT: "Solomon's power" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Solomon will have** - AT: "Solomon's son will have" or "Solomon's descendants will have" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **what is right in my eyes** - AT: "what I consider to be right" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -64,6 +61,6 @@
   * [[:en:bible:questions:comprehension:1ki:11]]
 **[[:en:bible:notes:1ki:11:28|<<]] | [[:en:bible:notes:1ki:11:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -23,8 +23,8 @@
 <usfm>
 \p
 \v 9 But as for a widow or a divorced woman, everything by which she has bound herself will remain in force against her.
-\v 10 If a woman made a vow in her husband's house or obligates herself by taking an oath,
-\v 11 and her husband hears of it, but he says nothing to her and he does oppose her, then all her vows must stand and the obligations she made must remain in force.
+\v 10 And if a woman made a vow in her husband's house or obligates herself by taking an oath,
+\v 11 and her husband hears of it but he says nothing to her and he does oppose her, then all her vows must stand and the obligations she made must remain in force.
 </usfm>
 
 ===== translationWords: =====
@@ -38,10 +38,10 @@
 
   * **a divorced woman** - This can be stated in active form. AT: "a woman who has been divorced by a man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **by which she has bound herself** - Here Moses speaks of how a woman has committed herself to fulfilling a promise as if her promise were a physical object that she had bound to her body. AT: "which she has committed herself to fulfill" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **will remain in force against her** - This is an idiom. It means that her vows will remain in effect and she will be required to fulfill them. See how you translated a similar phrase in [[:en:bible:notes:num:30:03|30:4]]. AT: "she will be obligated to fulfill" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **If a woman made a vow in her husband's house** - This refers to a married woman. You can make the meaning of this statement clear. AT: "If a married woman makes a vow" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **then all her vows must stand ... remain in force** - This is an idiom. The phrase "remain in force" means that her vows will remain in effect and she will be required to fulfill them. See how you translated a similar phrase in [[:en:bible:notes:num:30:03|30:4]]. AT: "then she must fulfill all her vows ... she must fulfill" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **all her vows must stand ... the obligations she made must remain in force** - These two statements say basically the same thing twice for emphasis and can be combined. AT: "then all of her vows and promises with which she has made must remain in force" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **will remain in force against her** - This phrase means that her vows will remain in effect, that is, she will be required to fulfill them. See how you translated a similar phrase in [[:en:bible:notes:num:30:03|30:4]]. AT: "she will be obligated to fulfill" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **if a woman made a vow in her husband's house** - This refers to a married woman. AT: "if a married woman makes a vow" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **then all her vows must stand ... remain in force** - This phrase "remain in force" means that her vows will remain in effect, that is, she will be required to fulfill them. See how you translated a similar phrase in [[:en:bible:notes:num:30:03|30:4]]. AT: "then she must fulfill all her vows ... she must fulfill" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **all her vows must stand ... the obligations she made must remain in force** - These two statements said basically the same thing twice for emphasis and can be combined. AT: "then all of her vows and promises with which she has made must remain in force" (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 
 ===== Links: =====
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:num:30]]
 **[[:en:bible:notes:num:30:08|<<]] | [[:en:bible:notes:num:30:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

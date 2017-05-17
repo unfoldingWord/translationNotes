@@ -39,12 +39,12 @@
 
 <usfm>
 \q1
-\v 22 Turn to me and be saved, all the ends of the earth;
-\q1 for I am God, and there is no other.
+\v 22 Turn to me and be saved, all the ends of the earth; 
+\q1 for I am God, and there is no other god.
 \q1
-\v 23 By myself I swear,
-\q1 speaking my just decree, and it will not turn back:
-\q1 'To me every knee will bend, every tongue will swear.
+\v 23 'By myself I swear, 
+\q1 speaking my just decree, and it will not turn back: 
+\q1 To me every knee will bend, every tongue will swear.
 </usfm>
 
 
@@ -63,11 +63,8 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **Turn to me and be saved** - This can be stated in active form. AT: "Turn to me and I will save you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **all the ends of the earth** - The places on the earth that are very far away are spoken of as if they were the places where the earth ends. This phrase also forms a merism and refers to everywhere in between the ends. AT "all the farthest places of the earth" or "the entire earth" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_merism]])
-  * **all the ends of the earth** - Here this phrase represents the people who live at "the ends of the earth." AT: "you who live at the farthest places of the earth" or "all of you who live on the earth" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **To me every knee will bend, every tongue will swear** - The words "knee" and "tongue" represent the people. AT: "Every person will kneel before me, and everyone will swear" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
+  * **Turn to me and be saved** - This can be stated in active form. AT: "Worship me and I will save you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **To me every knee will bend, every tongue will swear** - The bowed knee and the tongue represent that a person is swearing loyalty to the Lord. AT: "Every person will kneel before me, and everyone will swear" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -81,6 +78,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

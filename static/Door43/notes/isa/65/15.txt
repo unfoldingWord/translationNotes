@@ -42,9 +42,9 @@
 \v 15 You will leave behind your name as a curse for my chosen ones to speak; I, the Lord Yahweh, will kill you;
 \q1 I will call my servants by another name.
 \q1
-\v 16 Whoever pronounces a blessing on the earth will be blessed by me, the God of truth.
+\v 16 Whoever pronounces a blessing on the earth will be blessed by me, the God of truth. 
 \q1 Whoever takes an oath on the earth
-will swear by me, the God of truth,
+will swear by me, the God of truth, 
 \q1 because the former troubles will be forgotten, for they will be hidden from my eyes.
 </usfm>
 
@@ -67,8 +67,7 @@ will swear by me, the God of truth,
   * **General Information:** - Yahweh continues speaking to those in Israel who worship idols.
 
   * **will be blessed by me, the God of truth** - This can be stated in active form. AT: "I, the God who always speaks the truth, will bless him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the former troubles will be forgotten ... will be hidden** These clauses can be stated in active form. AT: "they will forget the former troubles, for these troubles will be out of my memory" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **they will be hidden from my eyes** - "hidden from my eyes" represents the attention and memory of Yahweh. AT: "I will not even think about them again" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **because the former troubles will be forgotten, for they will be hidden from my eyes** - AT: "because their troubles will be gone, and I will not even think about them again" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -77,6 +76,6 @@ will swear by me, the God of truth,
   * [[:en:bible:questions:comprehension:isa:65]]
 **[[:en:bible:notes:isa:65:13|<<]] | [[:en:bible:notes:isa:65:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

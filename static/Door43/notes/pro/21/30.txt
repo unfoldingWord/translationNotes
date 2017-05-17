@@ -16,7 +16,7 @@
 <usfm>
 \v 30 Can there be any wisdom, any understanding, or any advice, that is wiser than Yahweh?
 \q1
-\v 31 The groomsman prepares the horse for the day of battle,
+\v 31 The groomsman prepares the horse for the day of battle, 
 \q2 but the outcome of the battle, the winner or the loser, is determined by Yahweh.
 </usfm>
 
@@ -24,8 +24,8 @@
 
 <usfm>
 \q
-\v 30 There is no wisdom, there is no understanding, and there is no advice
-\q that can stand against Yahweh.
+\v 30 There is no wisdom, understanding, 
+\q or advice that can stand against Yahweh.
 \q
 \v 31 The horse is prepared for the day of battle,
 \q but the victory belongs to Yahweh.
@@ -40,10 +40,9 @@
 
 ===== translationNotes: =====
 
-  * **There is no wisdom, there is no understanding, and there is no advice that** - The words "there is" are repeated to emphasize the abstract nouns "wisdom," "understanding," and "advice." Yahweh is greater than anything that anyone can know or think or say. Your language may require that you not repeat "there is no." The abstract nouns can be translated as adjectives or verbs. AT: "There is no wise person, there is no one who understands anything, and there is no one who tells others what to do who" or "There is no wisdom, understanding, or advice that" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **stand against Yahweh** - "defeat Yahweh" or "work against what Yahweh wants to do" or "show that he is right and Yahweh is wrong"
-  * **The horse is prepared for the day of battle** - These words can be translated in active form. AT: "Soldiers prepare horses for the day of battle" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the day of battle** - The word "day" refers to time that may be longer or shorter than a day. AT: "when there is a battle" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **There is no wisdom, understanding, or advice** - These three words refer to the same thing. AT: "Absolutely no human knowledge" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **The horse is prepared for the day of battle** - AT: "Soldiers prepare horses for the day of battle" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the day of battle** - AT: "when there is a battle" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -51,6 +50,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:29|<<]] | [[:en:bible:notes:pro:22:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

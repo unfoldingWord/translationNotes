@@ -25,7 +25,7 @@
 
 <usfm>
 \v 14 The anger of Yahweh burned against Israel, and he gave them  to the raiders who stole their possessions from them. He sold them as slaves who were held by the strength of their enemies around them, so they could no longer defend themselves against their enemies.
-\v 15 Wherever Israel went out to fight, Yahweh's hand was against them to defeat them, just as he had sworn to them and they were in terrible distress.
+\v 15 Wherever Israel went out to fight, Yahweh's hand was against them to defeat them, just as he had sworn to them. And they were in terrible distress.
 </usfm>
 
 
@@ -44,7 +44,7 @@
 
 
   * **The anger of Yahweh burned against Israel** - The anger of Yahweh is described as burning like a fire. AT: "Yahweh became very angry with the people of Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he gave them to the raiders who stole their possessions from them** - "he let raiders steal their possessions" 
+  * **he gave them over to the raiders who stole their possessions from them** - "he let raiders steal their possessions" 
   * **He sold them as slaves who were held by the strength of their enemies around them, so they could no longer defend themselves against their enemies** - Yahweh allowing the enemies to take the Israelites as slaves is spoken of as if he sold them into slavery. The phrase "who were held by" can be stated in active form. AT: "He allowed their enemies to conquer them and take them as slaves, and they could no longer resist their powerful enemies" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **Yahweh's hand was against them to defeat them** - Here "hand" represents Yahweh's power. AT: "Yahweh helped their enemies defeat them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **they were in terrible distress** - "they were suffering terribly"
@@ -63,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

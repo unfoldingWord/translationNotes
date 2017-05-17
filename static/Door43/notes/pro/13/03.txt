@@ -44,11 +44,11 @@
 
 ===== translationNotes: =====
 
-  * **his mouth** - Here "mouth" represents what a person says. AT: "what he says" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **opens wide his lips** - Opening the lips represents speaking, and opening them wide represents speaking too often or too much. AT: "speaks a lot" or "talks too much" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The appetite ... the appetite** - Translate as you did in [[:en:bible:notes:pro:13:01|13:2]].
-  * **craves but gets nothing** - "strongly desires but gets nothing"
-  * **the appetite of diligent people will be richly satisfied** - Here "appetite" represents desire. AT: "diligent people will have a richly satisfied life" or "being diligent will make people richly satisfied" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **his mouth** - AT: "what he says" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **opens wide his lips** - AT: "speaks a lot" or "talks too much" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **appetite** - See how you translated this in [[:en:bible:notes:pro:13:01|13:2]].
+  * **craves** - "strongly desires"
+  * **the appetite of diligent people will be richly satisfied** - AT: "diligent people will have a richly satisfied life" or "being diligent will make people richly satisfied" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **diligent people** - people who work with careful and continued effort
 ===== Links: =====
 
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:pro:13]]
 **[[:en:bible:notes:pro:13:01|<<]] | [[:en:bible:notes:pro:13:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

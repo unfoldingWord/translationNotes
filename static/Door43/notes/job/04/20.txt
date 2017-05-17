@@ -16,8 +16,8 @@
 \v 20 People are sometimes in good health in the morning, but by the evening they are dead.
 \q2 They are gone forever and no one even pays attention.
 \q1
-\v 21 Their families and possessions are like tents that collapse suddenly when you pull up their stakes;
-\q2 they perish suddenly without anyone ever knowing why.'"
+\v 21 They are like tents that collapse suddenly when you pull up their stakes;
+\q2 they die suddenly without ever knowing why.'"
 </usfm>
 
 ===== ULB: =====
@@ -42,10 +42,8 @@
 
   * **General Information:** - These verses continue the earlier use of parallelism, here emphasizing in different ways the idea that people die suddenly without having achieved wisdom and without concern from others. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **Between morning and evening they are destroyed** - This refers to the idea of something happening quickly. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they are destroyed** - This may also be put into active form. AT: "they die" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Are not their tent cords plucked up among them?** - This may be put into active form. AT: "Have not their enemies plucked up their tent cords from among them?" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **their tent cords** - Here tent cords represent a tent. Sometimes a person's home and family are pictured as his tent, which can also represent all his possessions.  (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Between morning and evening they are destroyed** - This is a figurative way of saying that humans die quickly, that life is short, just at the time between morning and evening is short. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they are destroyed** - "something destroys them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
@@ -55,6 +53,6 @@
   * [[:en:bible:questions:comprehension:job:04]]
 **[[:en:bible:notes:job:04:18|<<]] | [[:en:bible:notes:job:05:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass forever}}
+~~DISCUSSION~~{{tag>publish p2edit forever}}
 
 ~~NOCACHE~~

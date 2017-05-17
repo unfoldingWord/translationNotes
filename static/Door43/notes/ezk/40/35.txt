@@ -16,7 +16,7 @@
 
 <usfm>
 \v 35 Then he led me to the entrance on the north side and measured it. It measured the same as the other entrances.
-\v 36 And its alcoves and walls between them and the entry room all had small windows in the walls. It all measured the same as the other gates. The gate and its portico measured twenty-seven meters long and thirteen and one-half meters wide.
+\v 36 And its alcoves and walls between them and the entry room all had small windows in the walls. It all measured the same as the other gates. The gate and its portico measured about twenty-seven meters long and about 13.5 meters wide.
 \v 37 Its portico faced the outer courtyard. It also had carvings of palm trees decorating the walls, and it had eight steps leading up to it.
 
 
@@ -29,7 +29,7 @@
 <usfm>
 \p
 \v 35 Next the man brought me to the northern gate and measured it; it measured the same as the other gates.
-\v 36 Its chambers, walls, and portico measured the same as the other gates, and there were windows all around. The gateway and its portico measured fifty cubits in length and twenty-five cubits in width.
+\v 36 Its chambers, walls, and portico measured the same as the other gates, and there were windows all around. The gateway and its portico measured fifty cubits long and twenty-five cubits wide.
 \v 37 Its portico faced the outer courtyard; it had palm trees on either side of it and eight steps going up it.
 </usfm>
 
@@ -38,13 +38,9 @@
 
 ===== translationNotes: =====
 
-  * **measured the same** - "had the same measurements"
-  * **cubits** - Translate these "long" cubits as in [[:en:bible:notes:ezk:40:05|40:05]].
-  * **fifty cubits** - about twenty-seven meters (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **cubits** - See how you translated these "long" cubits in [[:en:bible:notes:ezk:40:05|40:05]].
+  * **fifty cubits** - about twenty-seven meters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **twenty-five cubits** - about 13.5 meters
-  * **Its portico faced the outer courtyard** - Here "faced" is an idiom that means it was oriented in that direction. AT: "Its portico opened toward the outer courtyard" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **on either side of it** - "on both sides of it"
-
 
 ===== Links: =====
 
@@ -53,6 +49,6 @@
   * [[:en:bible:questions:comprehension:ezk:40]]
 **[[:en:bible:notes:ezk:40:32|<<]] | [[:en:bible:notes:ezk:40:38|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

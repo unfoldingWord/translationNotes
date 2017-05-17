@@ -39,8 +39,9 @@
 
 <usfm>
 \c 44
-\m
+\p
 \d For the chief musician. A psalm of the sons of Korah. A maschil.
+\b
 \q
 \v 1 We have heard with our ears, God,
 \q our fathers have told us
@@ -70,7 +71,7 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **For the chief musician** - "This is for the director of music to use in worship."
   * **A psalm of the sons of Korah** - "This is a psalm that the sons of Korah wrote."
@@ -88,6 +89,6 @@
   * [[:en:bible:questions:comprehension:psa:044]]
 **[[:en:bible:notes:psa:043:005|<<]] | [[:en:bible:notes:psa:044:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

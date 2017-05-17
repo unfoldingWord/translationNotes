@@ -29,6 +29,7 @@
 \q1
 \v 20 No one can make their own gods;
 \q2 the gods that they make are only idols; they are not real gods.'"
+\b
 \q1
 \v 21 Then Yahweh said, "Now I will show my power to the people of Judah;
 \q2 I will show them that I am truly very powerful .
@@ -38,6 +39,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 19 Yahweh, you are my stronghold and my refuge, my place of safety in the day of distress.
 \q The nations will go to you from the ends of the earth and say, "Surely our ancestors inherited deceit.
@@ -68,12 +70,11 @@
 
   * **Yahweh, you are my stronghold** - Here Jeremiah begins speaking to Yahweh.
   * **my stronghold and my refuge, my place of safety** - Jeremiah speaks of Yahweh as a place where enemies cannot attack him. He repeats the same idea three times. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_doublet]])
-  * **The nations will go to you** - Here "nations" represents the people from the nations. AT: "The people from the nations will go to you" or "The people of the nations will come to you" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_go]])
-  * **the ends of the earth** - This is an idiom that means the farthest places on the earth. By referencing both ends, it refers to everywhere in between. AT: "the farthest places on the earth" or "everywhere on earth" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_merism]])
-  * **our ancestors inherited deceit** - Here the word "deceit" refers to false gods. AT: "our ancestors inherited nothing by false gods" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the ends of the earth** - AT: "everywhere on earth" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **our ancestors inherited deceit** - Here the word "deceit" refers to false gods. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **They are empty; there is no profit in them** - Here the words "They" and "them" refer to the false gods that the ancestors taught them to believe in. The two phrases mean basically the same thing, with the second explaining how they "are empty." (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Do people make gods for themselves? But they are not gods** - The people ask this question to emphasize that people cannot make gods for themselves. AT: "People cannot make gods for themselves. The things that they make are not gods" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Therefore see!** - "Therefore, indeed." Here Yahweh begins speaking. The word "see" adds emphasis to what follows.
+  * **Do people make gods for themselves?** - Jeremiah asks this question to emphasize that people cannot make gods for themselves. AT: "People can not make gods for themselves." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Therefore see!** - Here Yahweh begins speaking. The word "see" adds emphasis to what follows. AT: "Therefore, indeed,"
   * **I will cause them to know** - Here the word "them" refers to the people from the nations. Yahweh repeats this phrase for emphasis.
   * **my hand and my power** - Here the word "hand" refers to power and authority. The two phrases mean basically the same thing and emphasize Yahweh's great power. AT: "my great power." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_doublet]])
   * **they will know that Yahweh is my name** - Here the word "name" refers to Yahweh's entire person. AT: "they will know that I am Yahweh, the true God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -85,6 +86,6 @@
   * [[:en:bible:questions:comprehension:jer:16]]
 **[[:en:bible:notes:jer:16:16|<<]] | [[:en:bible:notes:jer:17:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check refuge save}}
+~~DISCUSSION~~{{tag>publish p2edit refuge save}}
 
 ~~NOCACHE~~

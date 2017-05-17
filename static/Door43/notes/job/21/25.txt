@@ -24,6 +24,7 @@
 \v 26 They die and are buried,
 \q2 and maggots cover their bodies.
 \q1 Everyone dies, so it is clear that dying is not always the punishment for being wicked.
+\b
 
 
 \q1
@@ -39,6 +40,7 @@
 \q
 \v 26 They lie down alike in the dust;
 \q the worms cover them both.
+\b
 </usfm>
 
 
@@ -48,15 +50,12 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Job continues speaking to his friends.
+  * **General Information:** - Job continues speaking to his friends.
 
-  * **Another man dies** - Job contrasts this man to the man who dies in peace in [[:en:bible:notes:job:21:22|21:23]].
-  * **in bitterness of soul** - Here sorrow is spoken of as if it tasted bitter, and "soul" refers to the whole man. AT: "with anger and resentment" or "after living a sad life" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **has never experienced anything good** - This can be stated in positive form. AT: "has experienced only bad things"
-  * **They lie down alike in the dust** - This is a polite way to say that they died. AT: "They both die and people bury them" (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **the worms cover them both** - Worms are associated with decay of dead bodies. AT: "the worms in the dirt eat their dead bodies"
-
-
+  * **in bitterness of soul** - AT: "with anger and resentment" or "after living a sad life" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **They lie down alike in the dust** - AT: "They both die and people bury them" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **the worms cover them both** - "and the worms in the dirt eat their dead bodies" 
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -64,6 +63,6 @@
   * [[:en:bible:questions:comprehension:job:21]]
 **[[:en:bible:notes:job:21:22|<<]] | [[:en:bible:notes:job:21:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

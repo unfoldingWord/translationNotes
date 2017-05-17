@@ -15,7 +15,8 @@
 
 <usfm>
 \v 7 Wisdom is something that a fool cannot understand;
-\q2 at the gate where the elders gather, the fool has nothing to say.
+\q2 at the gate where the elders gather, the fool has nothing to say. 
+
 
 \q1
 </usfm>
@@ -38,10 +39,9 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **too high for a fool** - This is an idiom. "too difficult for a fool to understand" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **open his mouth** - The mouth is a metonym for the words that come from the mouth. AT: "speak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **too high for a fool** - "too difficult for a fool to understand"
+  * **open his mouth** - AT: "speak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -55,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

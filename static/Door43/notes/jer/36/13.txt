@@ -23,8 +23,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 Then Micaiah reported to them all the words that he had heard that Baruch read aloud in the hearing of the people.
-\v 14 So all the officials sent Jehudi son of Nethaniah son of Shelemiah son of Cushi, to Baruch. Jehudi said to Baruch, "Take the scroll in your hand, the scroll from which you were reading in the hearing of the people, and come." So Baruch son of Neriah took the scroll in his hand and went to the officials.
+\v 13 Then Micaiah reported to them all the words that he had heard that Baruch read aloud in the people's hearing.
+\v 14 So all the officials sent Jehudi son of Nethaniah son of Shelemiah son of Cushi, to Baruch. Jehudi said to Baruch, "Take the scroll in your hand, the scroll from which you were reading in the people's hearing and come." So Baruch son of Neriah took the scroll in his hand and went to the officials.
 \v 15 Then they said to him, "Sit down and read this in our hearing." So Baruch read the scroll.
 </usfm>
 
@@ -38,10 +38,10 @@
 
 ===== translationNotes: =====
 
-  * **Micaiah** - Translate this man's name as in [[:en:bible:notes:jer:36:11|36:11]].
+  * **Micaiah** - See how you translated this name in [[:en:bible:notes:jer:36:11|36:11]].
   * **reported to them** - The word "them" refers to officials in [[:en:bible:notes:jer:36:11|36:12]].
   * **in the people's hearing** - "so that the people could hear"
-  * **Jehudi ... Nethaniah ... Shelemiah ... Cushi** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Jehudi ... Nethaniah ... Shelemiah ... Cushi** - These are the names of people. (See: [[:en:ta:vol1:translate:translate_names]])
   * **read the scroll** - "read the scroll aloud"
 
 ===== Links: =====
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:jer:36]]
 **[[:en:bible:notes:jer:36:11|<<]] | [[:en:bible:notes:jer:36:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

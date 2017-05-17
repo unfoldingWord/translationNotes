@@ -18,13 +18,15 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 If you offend your brother, finding a way to have peace with him again
+\v 19 If you offend your brother, finding a way to have peace with him again 
 \q2 may be harder than waging a battle to win a city.
-\q2 and having an argument is more difficult to overcome
+\q2 and having an argument is more difficult to overcome 
 \q2 than breaking down the bars of a castle.
+\b
 \q1
 \v 20 The words a person speaks can bring satisfaction to himself,
-\q2 like the food he eats satisfies his stomach.
+\q2 like the food he eats satisfies his stomach. 
+
 
 \q1
 </usfm>
@@ -50,14 +52,12 @@
 
 ===== translationNotes: =====
 
-  * **An offended brother is harder to be won than a strong city** - This speaks of the difficulty of making peace with a brother you have offended by comparing it to the difficulty of winning a war against a strong city. AT: "If you offend your brother, finding a way to have peace with him again may be harder than waging a battle to win a city" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **quarreling is like the bars of a castle** - This speaks of the difficulty of resolving quarreling by comparing it to the difficulty of breaking down the bars of a castle. AT: "resolving quarreling is as difficult as breaking down the bars of a castle" (See: [[:en:ta:vol1:translate:figs_simile]])
+
   * **castle** - a fortified palace
-  * **From the fruit of his mouth one's stomach is filled; with the harvest of his lips he is satisfied** - These two lines have the same meaning and are used together to emphasize what is said. They can be combined. AT: "A person is satisfied by the results of the good things that he says" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **the fruit of his mouth** - This speaks of the good things that a person says as if they were fruit that came from his mouth. AT: "his wise speech" or "his good words" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **one's stomach is filled** - This speaks of a person being satisfied or content by the result of what they have said as if they had eaten and become satisfied" AT: "a person is satisfied" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the harvest of his lips** - This speaks of the good things that a person says as if they were fruit that is harvested. AT: "his wise speech" or "his good words" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **he is satisfied** - "he is pleased" 
+  * **the fruit of his mouth** - AT: "his wise speech" or "his good words" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **one's stomach is filled** - AT: "a person is satisfied" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the harvest of his lips** - AT: "his wise speech" or "his good words" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he is satisfied** - AT: "he is pleased" or "will make him happy"
 
  
 ===== Links: =====
@@ -70,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

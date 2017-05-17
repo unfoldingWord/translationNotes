@@ -45,7 +45,7 @@
 \q
 \v 22 Destruction and Death say,
 \q 'We have heard just a rumor about it with our ears.'
-\m
+\b
 </usfm>
 
 
@@ -56,12 +56,9 @@
  
 ===== translationNotes: =====
 
-  * **From where, then, comes wisdom? Where is the place of understanding?** - Job uses these questions to introduce how people get wisdom and understanding. AT: "I will tell you where wisdom comes from and where understanding is." or "I will tell you how to become wise and how to learn to understand things" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **From where, then, comes wisdom** - Wisdom is spoken of as if it were in a place and comes to people. Its coming represents people becoming wise. AT: "Then where do people get wisdom" or "Then how can people become wise" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Where is the place of understanding** - Understanding is spoken of as if it were in a place. AT: "Where do people get understanding" or "How to people learn to understand things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Wisdom is hidden from the eyes of all living things** - This represents living things being unable to see wisdom. It can be expressed in active form. AT: "No living thing can see wisdom" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **and is kept hidden from the birds of the heavens** - This represents the birds being unable to see wisdom. This can be expressed in active form. AT: "and even the birds that fly in the skies cannot see wisdom" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Destruction and Death say** - Here "Destruction" and "Death" are metonyms for the place people go to when the die. They are spoken of as if they were people who could speak. (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **hidden from the eyes of all living things** - AT: "Wisdom is not a thing that can be observed by man or beast. For example, a bird cannot watch it as it flies over the ground. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Destruction and Death** - Both "Death" and "Destruction" are represented as saying that they have only "heard" about wisdom. (See: [[:en:ta:vol2:translate:figs_personification]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -69,6 +66,6 @@
   * [[:en:bible:questions:comprehension:job:28]]
 **[[:en:bible:notes:job:28:18|<<]] | [[:en:bible:notes:job:28:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

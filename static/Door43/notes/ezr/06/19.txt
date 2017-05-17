@@ -37,7 +37,7 @@
 ===== translationNotes: =====
 
   * **fourteenth day of the first month** - This is the first month of the Hebrew calendar. The fourteenth day is near the beginning of April on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **purified themselves** - "made themselves pure." Being pure represents being acceptable to God. AT: "made themselves acceptable to God" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **purified themselves** - "purified themselves according to the law of Moses." Before priests can make sacrifices for others, they first must make sure they are pure before God. (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -52,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass biblicaltimeday}}
+{{tag>publish p2edit biblicaltimeday}}
 
 ~~NOCACHE~~

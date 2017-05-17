@@ -21,17 +21,16 @@
 ===== UDB: =====
 
 <usfm>
-\v 12 But this is what Yahweh says to you Israelites: 
-\q1 "Although the people of Assyria have very many people 
-\q2 and their army is very powerful,
-\q2 they will be destroyed and they will disappear.
-\q1 I say to my people in Judah,
-\q2 I have already punished you,
-\q2 but I will not punish you again.
-\q1
+\v 12 But this is what Yahweh says to you Israelites:
+\pi "Although the people of Assyria have very many people and their army is very powerful,
+ they will be destroyed and will disappear.
+ I say to my people in Judah,
+ I have already punished you,
+ but I will not punish you again.
 \v 13 Now I will cause the people of Assyria to no longer enslave you;
  it will be as though I will tear off the shackles on your hands and feet."
-
+\b
+ 
 
 \m
 </usfm>
@@ -42,7 +41,7 @@
 <usfm>
 \q
 \v 12 This is what Yahweh says,
-\q "Even if they are at their full strength and full numbers, they will nevertheless be sheared;
+\q "Even if they are at their full strength and full numbers, they will nevertheless be sheared; 
 \q their people will be no more. But you, Judah: Though I have afflicted you, I will afflict you no more.
 \q
 \v 13 Now will I break that people's yoke from off you; I will break your chains."

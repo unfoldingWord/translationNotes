@@ -27,7 +27,7 @@
 
 <usfm>
 \p
-\v 6 Then the people descended from Gershon were given, by the casting of lots, thirteen cities from the clans of the tribes of Issachar, Asher, Naphtali, and the half tribe of Manasseh in Bashan.
+\v 6 And the people descended from Gershon were given by the casting of lots thirteen cities from the clans of the tribes of Issachar, Asher, Naphtali, and the half tribe of Manasseh in Bashan.
 \p
 \v 7 The people who were descendants of Merari received twelve cities from the tribes of Reuben, Gad, and Zebulun.
 </usfm>
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2check p2example}}
 
 ~~NOCACHE~~

@@ -41,12 +41,10 @@
 ===== translationNotes: =====
 
 
-  * **Barzillai** - Translate this man's name the same as you did in  [[:en:bible:notes:2sa:17:27|17:27]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Gileadite** - Translate the name of this people group the same as you did in [[:en:bible:notes:2sa:17:27|17:27]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Rogelim ... Mahanaim** - Translate the names of these places the same as you did in [[:en:bible:notes:2sa:17:27|17:27]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Barzillai** - See how you translated this man's name in [[:en:bible:notes:2sa:17:27|17:27]]. 
+  * **Rogelim ... Mahanaim** - See how you translated these places in [[:en:bible:notes:2sa:17:27|17:27]].
+  * **Gileadite** - See how you translated this people group in [[:en:bible:notes:2sa:17:27|17:27]].
   * **the Jordan** - the Jordan River
-  * **eighty years old** - "80 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **furnished** - "provided"
  
  
 ===== Links: =====
@@ -62,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

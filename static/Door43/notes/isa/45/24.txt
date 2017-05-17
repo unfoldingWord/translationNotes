@@ -31,8 +31,8 @@
 
 <usfm>
 \q1
-\v 24 They will say of me, "In Yahweh alone are salvation and strength."'"
-\q1 They will all be ashamed who are angry at him.
+\v 24 They will swear saying, "In Yahweh alone are salvation and strength."'"
+\q1 All who are angry with him will cringe before him in shame.
 \q1
 \v 25 In Yahweh all the descendants of Israel will be justified; they will take pride in him.
 </usfm>
@@ -50,10 +50,8 @@
   * [[:en:obe:other:proud]]
 
 ===== translationNotes: =====
-
   * **Saying** - All the people on the earth are speaking.
-  * **In Yahweh all the descendants of Israel will be justified** - Here the word "justified" does not refer to Yahweh forgiving their sins, but to proving to the nations that Israel was right to worship him. This can be stated in active form. AT: "Yahweh will justify all the descendants of Israel" or "Yahweh will vindicate all the descendants of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **In Yahweh all the descendants of Israel will be justified** - This can be stated in active form. AT: "Yahweh will justify all the descendants of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -67,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

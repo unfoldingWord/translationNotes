@@ -41,6 +41,7 @@
 \q
 \v 21 For God's eyes are upon a person's ways;
 \q he sees all his steps.
+\b
 \q
 \v 22 There is no darkness, no thick gloom
 \q where the doers of iniquity may hide themselves.
@@ -58,10 +59,9 @@
 
 ===== translationNotes: =====
 
-  * **For God's eyes are upon a person's ways** - God's "eyes" represent his sight. The phrase "a person's ways" is an idiom for what he does and how he lives. AT: "For God watches everything a person does" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **he sees all his steps** - This means that he always knows where the person is and where he is going. AT: "he sees him wherever he goes" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **For God's eyes are upon a person's ways** - "For God watches everything a person does" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he sees all his steps** - "he sees him wherever he goes"
   * **no darkness, no thick gloom** - The words "thick gloom" mean basically the same thing as, and intensify the word "darkness." (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **in judgment** - "so he may judge him" or "to be judged"
 
 ===== Links: =====
 
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:34]]
 **[[:en:bible:notes:job:34:18|<<]] | [[:en:bible:notes:job:34:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

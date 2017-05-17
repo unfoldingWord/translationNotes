@@ -18,6 +18,7 @@
 <usfm>
 \v 8 There is the right time when we should love things that people do, and there is the right time when we should hate things that people do.
 \q2 There is the right time for war, and there is the right time for peace.
+\b
 \p
 \v 9 What do people gain from all the work that they do?
 \v 10 I have seen the work that God has given people to do.
@@ -28,7 +29,7 @@
 
 <usfm>
 \q1
-\v 8 There is a time to love and a time to hate,
+\v 8 There is a time to love and a time to hate, 
 \q1 a time for war and a time for peace.
 \v 9 What profit does the worker gain in his labor?
 \v 10 I have seen the work that God has given to human beings to complete.

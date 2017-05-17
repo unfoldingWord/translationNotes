@@ -37,12 +37,13 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 17 The oppressed and needy look for water, but there is none, and their tongues are parched for thirst;
+\v 17 The oppressed and needy look for water, but there is none, and their tongues are parched for thirst; 
 \q1 I, Yahweh, will respond to their prayers; I,
 the God of Israel, will not forsake them.
 \q1
-\v 18 I will make streams to flow down the slopes, and springs in the middle of the valleys;
+\v 18 I will make streams to flow down the slopes, and springs in the middle of the valleys; 
 \q1 I will make the desert into a pool of
 water, and the dry land into springs of water.
 </usfm>
@@ -60,7 +61,7 @@ water, and the dry land into springs of water.
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh speaks of people who are in extreme need as if they are extremely thirsty, and of his provision for them as if he caused water to appear in places where it normally would not appear. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **General Information:** - Yahweh continues speaking.
 
 ===== Links: =====
 
@@ -69,6 +70,6 @@ water, and the dry land into springs of water.
   * [[:en:bible:questions:comprehension:isa:41]]
 **[[:en:bible:notes:isa:41:16|<<]] | [[:en:bible:notes:isa:41:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

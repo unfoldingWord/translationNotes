@@ -16,7 +16,7 @@
 <usfm>
 \v 10 When you punish those with whom you are angry, your people will praise you,
 \q2 and your enemies who survive will worship you on your festival days.
-
+\b
 
 
 \q1
@@ -27,8 +27,8 @@
 
 <usfm>
 \q
-\v 10 Surely your angry judgment against humanity will bring you praise;
-\q you gird yourself with what is left of your anger.
+\v 10 Surely your angry judgment of those people will bring you praise.
+\q You fully reveal your wrath.
 </usfm>
 
 
@@ -43,10 +43,8 @@
 
 ===== translationNotes: =====
 
-  * **Surely** - "Surely" is expressing an expectation that what follows will certainly come to pass.
-  * **your angry judgment against humanity will bring you praise** - Possible meanings are 1) "people will praise you because you are angry at the wicked and judge them" or 2) "people who are angry with you will do things that cause people to praise you."
-  * **you gird yourself with what is left of your anger** - Yahweh's anger is spoken of as something that he can tie around himself like a belt. AT: "you tie your remaining anger around you like a belt" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **your angry judgment of those people will bring you praise** - Possible meanings are 1) "people will praise you because you are angry at the wicked and judge them" or 2) "people who are angry with you will do things that cause people to praise you."
+  * **You fully reveal your wrath** - Possible meanings are 1) even Yahweh's judgment that does not cause people to praise him will show that he is angry or 2) those people whom Yahweh does not punish will stop wanting to sin and will want to become his people.
 
 ===== Links: =====
 
@@ -55,6 +53,6 @@
   * [[:en:bible:questions:comprehension:psa:076]]
 **[[:en:bible:notes:psa:076:008|<<]] | [[:en:bible:notes:psa:076:011|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

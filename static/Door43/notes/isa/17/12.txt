@@ -35,17 +35,18 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 12 Woe! The uproar of many peoples, that roar like the roaring of the seas,
+\v 12 Woe! The uproar of many peoples, that roar like the roaring of the seas, 
 \q1 and the rushing of nations, that rush like the
 rushing of mighty waters!
 \q1
-\v 13 The nations will roar like the rushing of many waters,
+\v 13 The nations will roar like the rushing of many waters, 
 \q1 but God will rebuke them. They will flee far away
 \q1 and will be chased as the dead weeds on the mountains before the wind, and like weeds whirling before a storm.
 \q1
-\v 14 In the evening, see, terror! Before the morning they will be gone!
-\q1 This is the portion of those who loot us, the lot of those who rob us.
+\v 14 In the evening, see, terror! And before the morning they will be gone; 
+\q1 this is the portion of those who loot us, the lot of those who rob us.
 </usfm>
 
 ===== translationWords: =====
@@ -60,12 +61,10 @@ rushing of mighty waters!
 
 ===== translationNotes: =====
 
-  * **The uproar of many peoples, that roar like the roaring of the seas** - An uproar is a very loud noise. AT: "The sound of many people, that is very loud like the seas" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **the rushing of nations, that rush like the rushing of mighty waters** - The enemy armies appear to be a powerful force that no one can stop. AT: "the nations come rushing in like the mighty waters" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **the rushing of nations** - The word "nations" refers to the armies of those nations. AT: "the rushing of the enemy armies" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **as the dead weeds on the mountains before the wind ... like weeds whirling before a storm** - These two phrases mean the same thing. The enemy armies seem powerful but God will easily stop them and send them away. AT: "like dead weeds on the mountains that the wind blows away ... like weeds that whirl and blow away as a storm approaches" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **This is the portion of those** - What happens to them is spoken of as if it is a portion that they inherit. AT: "This is what happens to those" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **loot us ... rob us** - The word "us" refers to Isaiah and the people of Judah.
+  * **The uproar of many peoples, that roar like the roaring of the seas, and the rushing of nations, that rush like the rushing of mighty waters** - the enemy armies appear to be a powerful force that no one can stop. AT: "The armies from the nations will roar and come rushing in like the mighty waters" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **as the dead weeds on the mountains before the wind, and like weeds whirling before a storm** - the armies seemed powerful but God will easily stop them. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **loot us ... rob us** - The word "us" refers to Isaiah and includes the people of Judah. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -73,6 +72,6 @@ rushing of mighty waters!
   * [[:en:bible:questions:comprehension:isa:17]]
 **[[:en:bible:notes:isa:17:10|<<]] | [[:en:bible:notes:isa:18:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

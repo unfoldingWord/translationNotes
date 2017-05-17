@@ -50,14 +50,12 @@
 
 ===== translationNotes: =====
 
-  * **The wealth of the rich is his fortified city** - This speaks of a rich person depending on his wealth as if his wealth were a fortified wall that protects him. AT: "The wealthy person depends on his wealth as a city depends on its fortified wall" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the rich** - This refers to people who are rich. AT: "the rich person" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **fortified city** - a city with strong defenses like walls and towers
-  * **in his imagination it is like a high wall** - This speaks of the rich person believing his wealth will keep him safe like a high wall keeps those inside a city safe. AT: "he thinks it protects him as well as a high wall" (UDB) (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Before his downfall a person's heart is proud** - "First a person's heart is proud, but then comes his downfall"
-  * **downfall** - This refers to a significant decline in a person's reputation or health.
-  * **a person's heart** - Here a person is referred to by his heart to emphasize his thoughts and feelings. AT: "a person" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **humility comes before honor** - The word "humility" may be expressed as an adjective and the word "honor" may be expressed as a verb. AT: "a person must be humble before he can be honored" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **The wealth of the rich is his fortified city** - AT: "A rich person will try to protect himself with his wealth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **fortified city** - city with strong defences like walls and towers
+  * **in his imagination it is like a high wall** - The protection provided by wealth is not real but only imagined. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Before his downfall a person's heart is proud** - AT: "First a person is proud, but then comes his downfall"
+  * **his downfall** - AT: "he falls down" or "he is humiliated" or "his life and reputation are destroyed" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **humility comes before honor** - AT: "humility leads to honor"
 
 ===== Links: =====
 
@@ -66,6 +64,6 @@
   * [[:en:bible:questions:comprehension:pro:18]]
 **[[:en:bible:notes:pro:18:09|<<]] | [[:en:bible:notes:pro:18:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

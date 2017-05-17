@@ -30,10 +30,10 @@
 
 <usfm>
 \q
-\v 30 I went by the field of a lazy man,
+\v 30 I went by the field of a lazy man, 
 \q past the vineyard of the man having no sense.
 \q
-\v 31 Thorns had grown up everywhere,
+\v 31 Thorns had grown up everywhere, 
 \q the ground was covered with nettles,
 \q and its stone wall was broken down.
 </usfm>
@@ -45,9 +45,9 @@
 
 ===== translationNotes: =====
 
-  * **Thorns** - useless plants with sharp spines
+  * **Thorns** - plants with sharp spines
   * **nettles** - plants that are covered with stinging leaves and hairs
-  * **was broken down** - "had fallen down"
+ 
  
 ===== Links: =====
 
@@ -62,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

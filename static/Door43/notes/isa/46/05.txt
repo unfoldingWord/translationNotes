@@ -32,7 +32,7 @@
 
 <usfm>
 \q1
-\v 5 To whom will you compare me? Who do you think I resemble, so that we may be compared?
+\v 5 To whom will you compare me? And whom do I resemble, so that we may be compared? 
 \q1
 \v 6 People pour out gold from the bag and weigh silver on the scale.
 \q1 They hire a metalsmith, and he makes it into a god; they bow down and worship it.
@@ -40,26 +40,25 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:gold|gold]]
-  * [[:en:obe:other:silver|silver]]
-  * [[:en:obe:kt:falsegod|false god, foreign god, god, goddess]]
-  * [[:en:obe:kt:bow|bow, bow down]]
-  * [[:en:obe:kt:worship|worship]]
+  * [[:en:obe:other:gold]]
+  * [[:en:obe:other:silver]]
+  * [[:en:obe:kt:falsegod]]
+  * [[:en:obe:kt:bow]]
+  * [[:en:obe:kt:worship]]
 
 ===== translationNotes: =====
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **To whom will you compare me? Who do you think I resemble, so that we may be compared?** - Yahweh uses questions to emphasize that there is no one like him. AT: "There is no one to whom you can compare me. I resemble no one, so that we might be compared." (See: [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
-  * **so that we may be compared** - This can be stated in active form. AT: "so that you may compare us" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **To whom will you compare me? And whom do I resemble, so that we may be compared?** - Yahweh uses questions to emphasize that there is no one like him. AT: "There is certainly no one to whom I can be compared. There is no one who is equal to me." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **so that we may be compared** - This can be stated in active form. AT: "so that you may compare us" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * [[:en:bible:notes:isa:00:intro|Introduction to Isaiah]]
-  * [[:en:bible:notes:isa:46:00|Isaiah 46 General Notes]]
-  * [[:en:bible:questions:comprehension:isa:46|Isaiah 46 Translation Questions]]
-
+  * [[:en:bible:notes:isa:00:intro]]
+  * [[:en:bible:notes:isa:46:00]]
+  * [[:en:bible:questions:comprehension:isa:46]]
 **[[:en:bible:notes:isa:46:03|<<]] | [[:en:bible:notes:isa:46:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

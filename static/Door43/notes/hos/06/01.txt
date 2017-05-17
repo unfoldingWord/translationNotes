@@ -28,7 +28,7 @@
 <usfm>
 \v 1 The people say, "Come, let us return to Yahweh.
 \q1 He has torn our flesh to pieces as a lion tears up his victim.
-\q2 He did this, but he will heal our wounds.
+\q2 He did this, but he will heal our wounds. 
 \q1 He has hurt us and made us fall down,
 \q2 but he will treat our wounds and bind them up so they will heal.
 \q1
@@ -51,7 +51,7 @@
 
 <usfm>
 \c 6
-\m
+\p
 \q
 \v 1 "Come, let us return to Yahweh.
 \q For he has torn us to pieces, but he will heal us;
@@ -82,10 +82,10 @@
   * **Connecting Statement:** - The people of Israel confess their need to repent.
 
   * **he has torn us to pieces ... he has injured us** - God has punished the people of Israel because they disobeyed him and worshiped idols. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **he will heal us ... he will bandage our wounds** - Israel believes that God will be merciful to them when they repent and he will deliver them from their troubles. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **he will heal us ... he will bandage our wounds** - Israel believes that God will be merciful to them when they repent, and he will deliver them from their troubles. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **After two days he will revive us; he will raise us up on the third day** - This represents a short period of time. Israel believes God will quickly come to rescue them from their enemies. (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **two days ... third day** - "2 days ... 3rd day" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **Let us know Yahweh** - Here "know" means not only to learn God's character and laws, but also to become faithful to him. (See UDB)
+  * **Let us know Yahweh** - Here "know" means not only learn God's character and laws, but also to become faithful to him. (See UDB)
   * **His coming out is as sure as the dawn** - Yahweh will come to help his people just as surely as the sun rises each morning. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
@@ -95,6 +95,6 @@
   * [[:en:bible:questions:comprehension:hos:06]]
 **[[:en:bible:notes:hos:05:14|<<]] | [[:en:bible:notes:hos:06:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

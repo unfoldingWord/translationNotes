@@ -41,12 +41,10 @@
 ===== translationNotes: =====
 
   * **that person I will blot out of my book** - The phrase "that person" represents "that person's name." AT: "I will erase that person's name from my book" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **my book** - This refers to the book of Yahweh that Moses spoke of in [[:en:bible:notes:exo:32:30|32:32]].
+  * **my book** - This refers to the book that Moses spoke of in [[:en:bible:notes:exo:32:30|32:32]].
   * **But on the day that I punish them, I will punish them** - On the day that God decides to punish them, it will be clear that it is God who is judging them.
   * **Yahweh sent a plague on the people** - This plague may have been a serious illness. AT: "Yahweh made the people very sick"
-  * **they had made the calf, the one that Aaron made** - Even though Aaron made the calf, the people were also guilty because they told Aaron to do it. AT: "they told Aaron to make the calf"
-
-
+  * **they had made the calf, the one that Aaron made** - It is said that they made the calf because they told Aaron to make it for them. AT: "they had told Aaron to make the calf" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:exo:00:intro]]
@@ -56,6 +54,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

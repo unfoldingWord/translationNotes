@@ -22,6 +22,7 @@
 <usfm>
 \v 10 Listen to what Yahweh has to say to you, you rulers of Sodom!
 \q2 Listen to the law of our God, you people of Gomorrah!
+\q1 
 \q1
 \v 11 "What do your many sacrifices mean to me?" says Yahweh;
 \q2 "I do not want any more burnt offerings of rams, or the fat of bulls.
@@ -34,12 +35,14 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 10 Hear the word of Yahweh, you rulers of Sodom;
 \q1 listen to the law of our God, you people of Gomorrah:
 \q1
-\v 11 "What is the multitude of your sacrifices to me?" says Yahweh.
-\q1 "I have had enough of the burnt offerings of rams, and the fat of fatted beasts;
+\v 11 "What is the multitude of your sacrifices to me?" says Yahweh. 
+\q1 "I have had enough of the burnt offerings of rams, and
+the fat of fatted beasts; 
 \q1 and in the blood of bulls, lambs, or goats I do not delight.
 </usfm>
 
@@ -58,10 +61,8 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-
   * **you rulers of Sodom ... you people of Gomorrah** - Isaiah is comparing the people of Judah to Sodom and Gomorrah to emphasize how sinful they have become. AT: "you rulers who are as sinful as the people of Sodom ... you people who are as wicked as those who lived in Gomorrah" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **What is the multitude of your sacrifices to me?** - God is using a question to scold the people. This rhetorical question can be translated as a statement. AT: "Your many sacrifices mean nothing to me!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **What is the multitude of your sacrifices to me?** - God is using a question to scold the people. AT: "Your many sacrifices mean nothing to me!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 
 ===== Links: =====
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:isa:01]]
 **[[:en:bible:notes:isa:01:09|<<]] | [[:en:bible:notes:isa:01:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

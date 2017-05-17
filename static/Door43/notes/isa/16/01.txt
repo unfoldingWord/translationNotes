@@ -30,13 +30,13 @@
 
 <usfm>
 \c 16
-\m
+\p
 \q1
 \v 1 Send rams to the ruler of the land
 \q1 from Selah in the wilderness, to the mount of the daughter of Zion.
 
 \q1
-\v 2 As wandering birds, as a scattered nest,
+\v 2 As wandering birds, as a scattered nest, 
 \q1 so the women of Moab are at the fords of the Arnon River.
 </usfm>
 
@@ -50,11 +50,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This continues the prophecy about the people of Moab. God describes events that will happen in the future as if it is happening in the present. Verse one is probably what God says the rulers of Moab will say to each other. (See: [[:en:bible:notes:isa:15:01|15:1-2]])
+  * **General Information:** - This continues the prophecy about the people of Moab. God describes events that will happen in the future as if it is happening in the present. (See: [[:en:bible:notes:isa:15:01|15:1-2]])
 
-  * **Send rams to the ruler of the land** - The Moabites will send rams to the king of Judah so that he might protect them from the enemy army. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **Send rams to the ruler of the land** - The Moabites will send rams to the king of Judah so that he might protect them from the enemy army.
   * **Selah** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the daughter of Zion** - The "daughter" of a city means the people of the city. See how you translated this in [[:en:bible:notes:isa:01:07|1:8]]. AT: "the people of Zion" or "the people who live in Zion" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the daughter of Zion** - See how you translated this in [[:en:bible:notes:isa:01:07|1:8]].
   * **As wandering birds, as a scattered nest, so the women of Moab are at the fords of the Arnon River** - All the people of Moab, which includes the women, are forced to flee from their homes. AT: "Like birds without a home, the women of Moab will flee across the river to another land" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **As wandering birds, as a scattered nest** - These two phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_doublet]])
  
@@ -65,6 +65,6 @@
   * [[:en:bible:questions:comprehension:isa:16]]
 **[[:en:bible:notes:isa:15:08|<<]] | [[:en:bible:notes:isa:16:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

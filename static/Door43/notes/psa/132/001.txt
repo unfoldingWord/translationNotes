@@ -17,6 +17,7 @@
 <usfm>
 \v 1 Yahweh, do not forget King David
 \q2 and all the hardships he endured!
+\b
 \q1
 \v 2 He made a solemn promise to you,
 \q2 the mighty God whom our ancestor Jacob worshiped.
@@ -29,10 +30,11 @@
 
 <usfm>
 \c 132
-\m
+\p
 \d A song of ascents.
+\b
 \q
-\v 1 Yahweh, for David's sake call to mind
+\v 1 Yahweh, for David's sake call to mind 
 \q all his afflictions.
 \q
 \v 2 Call to mind how he swore to Yahweh,
@@ -53,12 +55,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **song of ascents** - Possible meanings are 1) "song people sang while going up to Jerusalem for a celebration" or 2) "song people sang while going up the steps into the temple" or 3) "song whose words are like steps." See how you translated this in [[:en:bible:notes:psa:120:001|120:1]]
   * **for David's sake** - "because of what happened to David" 
   * **call to mind** - "remember" or "think about"
-  * **the Mighty One of Jacob** - This refers to God.
 
 ===== Links: =====
 
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:132]]
 **[[:en:bible:notes:psa:131:002|<<]] | [[:en:bible:notes:psa:132:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

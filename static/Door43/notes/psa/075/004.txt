@@ -23,6 +23,7 @@
 \q
 \v 5 Do not be arrogant,
 \q2 and do not speak so boastfully!
+\b
 \q1
 \v 6 The one who judges people does not come from the east or from the west,
 \q1 and he does not come from the desert.
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:psa:075]]
 **[[:en:bible:notes:psa:075:001|<<]] | [[:en:bible:notes:psa:075:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

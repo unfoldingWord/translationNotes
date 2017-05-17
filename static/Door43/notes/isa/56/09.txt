@@ -40,11 +40,13 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 9 All you wild beasts of the field, come and devour, all you beasts in the forest!
+\v 9 All you wild beasts of the field, come and devour,
+\q1 all you beasts in the forest!
 \q1
-\v 10 All their watchmen are blind, they do not understand.
-\q1 They are all silent dogs who cannot bark.
+\v 10 All their watchmen are blind, they do not understand. 
+\q1 They are all silent dogs who cannot bark. 
 \q1 They dream, and lying down they love to sleep.
 </usfm>
 
@@ -55,10 +57,10 @@
 
 ===== translationNotes: =====
 
-  * **All you wild beasts of the field, come and devour, all you beasts in the forest** - God is calling armies of other nations by comparing them to animals to come and attack the people of Israel. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **All you wild beasts of the field, come and devour, all you beasts in the forest** - God is calling armies of other nations to come and attack the people of Israel. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **All their watchmen are blind** - This means Israel's leaders cannot or perhaps do not want to see what is going on in society.
-  * **They are all silent dogs** - The leaders are supposed to open their mouths and warn the people, but they do not. Comparing someone to a dog in this society is a great insult. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **They dream, and lying down they love to sleep** - This means the leaders are not bringing God's word of warning to Israel but prefer their own comfort.
+  * **They are all silent dogs** - The leaders are supposed to open their mouths and warn the people, but they do not. Calling someone a dog in this society is a great insult. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **They dream, and lying down they love to sleep** - This means the leaders are not bringing God's word of warning to Israel.
 
 ===== Links: =====
 
@@ -67,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:56]]
 **[[:en:bible:notes:isa:56:08|<<]] | [[:en:bible:notes:isa:56:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

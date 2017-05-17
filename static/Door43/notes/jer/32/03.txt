@@ -24,8 +24,8 @@
 
 <usfm>
 \v 3 Zedekiah king of Judah had imprisoned him and said, "Why do you prophesy and say, 'Yahweh says this: Look, I am about to give over this city into the hand of the king of Babylon, and he will capture it.
-\v 4 Zedekiah king of Judah will not escape from the hand of the Chaldeans, for he will certainly be been given into the hand of the king of Babylon. His mouth will speak to the king's mouth, and his eyes will see the king's eyes.
-\v 5 He will take Zekediah to Babylon, and he will remain there until I have dealt with him—this is Yahweh's declaration. Though you fight against the Chaldeans, you will not succeed.'"
+\v 4 Zedekiah king of Judah will not escape from the hand of the Chaldeans, for he has indeed been given into the hand of the king of Babylon. His mouth will speak to the king's mouth, and his eyes will see the king's eyes.
+\v 5 For Zekediah will go to Babylon and he will be there until I do something with him—this is Yahweh's declaration—since you fought the Chaldeans. You will not be successful.'"
 </usfm>
 
 ===== translationWords: =====
@@ -36,16 +36,13 @@
 
 ===== translationNotes: =====
 
-  * **Zedekiah king of Judah had imprisoned him** - It might be best to translate so that the reader understands that other people helped Zedekiah do this. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **had imprisoned him** - It is not clear why Jeremiah is referring to himself by name here. You may translate using first person, as the UDB does. (See: [[:en:ta:vol2:translate:figs_123person]])
   * **Why do you prophesy and say** - Zekekiah uses a question to rebuke Jeremiah. AT: "It is wrong for you to continue prophesying and saying" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **into the hand of the king of Babylon, and he will capture it** - Here "hand" refers to power or control. AT: "to the king of Babylon, and his army will capture it" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **for he will certainly be given** - This can be stated in active form. AT: "for I will indeed give him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **for he has indeed been given** - AT: "for I have indeed given him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **His mouth will speak to the king's mouth, and his eyes will see the king's eyes** - AT: "Zedekiah himself will see and directly speak with Nebuchadnezzar" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **you fight** - Here "you" is plural and refers to the people in Jerusalem. (See: [[:en:ta:vol1:translate:figs_you]])
-
-
+  * **this is Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|1:8]].
+  * **you fought** - Here "you" is plural and refers to the people in Jerusalem. (See: [[:en:ta:vol1:translate:figs_you]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -53,6 +50,6 @@
   * [[:en:bible:questions:comprehension:jer:32]]
 **[[:en:bible:notes:jer:32:01|<<]] | [[:en:bible:notes:jer:32:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

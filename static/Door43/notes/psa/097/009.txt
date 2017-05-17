@@ -21,6 +21,7 @@
 <usfm>
 \v 9 Yahweh is the supreme King over all the earth;
 \q2 he has very great power, and none of the other gods has any power.
+\b
 \q1
 \v 10 Yahweh loves those who hate what people do that is evil;
 \q2 he protects the lives of his people,
@@ -64,13 +65,13 @@
 
 ===== translationNotes: =====
 
-  * **are most high above all** - The psalmist speaks as if those who were strong enough to rule were the physically higher than others. AT: "rule over all the people who live on" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **are most high above all** - The psalmist speaks as if those who were strong enough to rule were the physically higher than others. AT: "rule over all the people who live on" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **You are exalted far** - The psalmist speaks as if those who were strong enough to rule were the physically higher than others. AT: "You are high, far" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **hand of the wicked** - "control of the wicked" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
   * **Light is sown for ... and gladness for** - These two phrases have similar meanings and are used together for emphasis. AT: "Yahweh sows light for those who do right, and he sows gladness for those with honest hearts" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_ellipsis]])
   * **Light is sown for the righteous** - The word "sown" is a metaphor for actions with future results. "Light" is a metaphor for good things. AT: "Yahweh plans for good things to happen to the righteous in the future" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the righteous** - The adjective "righteous" can be translated as a noun phrase. AT: "righteous people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **and gladness for those with honest hearts** - "and gladness is sown for those with honest hearts." The word "sown" is a metaphor for actions with future results. AT: "Yahweh plans for people with honest hearts to be happy in the future" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **and gladness for those with honest hearts** - "and gladness is sown for those with honest hearts" The word "sown" is a metaphor for actions with future results. AT: "Yahweh plans for people with honest hearts to be happy in the future" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **those with honest hearts** - The heart is a synecdoche for the whole person. AT: "honest people" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
@@ -80,6 +81,6 @@
   * [[:en:bible:questions:comprehension:psa:097]]
 **[[:en:bible:notes:psa:097:006|<<]] | [[:en:bible:notes:psa:097:012|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~

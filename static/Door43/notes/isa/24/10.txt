@@ -33,7 +33,7 @@
 \q1
 \v 10 The city of chaos has been broken down; every house is closed up and empty.
 \q1
-\v 11 There is a crying in the streets because of the wine;
+\v 11 There is a crying in the streets because of the wine; 
 \q1 all joy is darkened, the gladness of the land has disappeared.
 </usfm>
 
@@ -45,14 +45,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe a time in the future when God will judge the earth. Prophets sometimes describe a future event as something in the past or in the present. This emphasizes the event certainly will happen. (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **General Information:** - Isaiah continues to describe a time in the future when God will judge the earth. Prophets sometimes describe a future event as something in the past or in the present. This emphasizes the event certainly will happen.
 
   * **The city of chaos has been broken down** - This can be stated in active form. AT: "Yahweh will break down the city of chaos" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **The city of chaos** - Possible meanings are 1) the city was in chaos before the Lord breaks it down; the people did not obey God, the government was corrupt, and the city was full of drinking and parties, or 2)the city will be in chaos after God breaks it down. The walls and buildings that were once built strong and tall are now in ruins on the ground. With either meaning it does not mean one city. It refers to cities in general. 
+  * **The city of chaos** - Possible meanings are 1) the city was in chaos before the Lord breaks it down. The people did not obey God, the government was corrupt, and the city was full of drinking and parties, or 2) The city will be in chaos after God breaks it down. The walls and buildings that were once built strong and tall are now in ruins on the ground. With either meaning it does not mean one city. It refers to many cities. 
   * **every house is closed up and empty** - This can be stated in active form. AT: "the people will close up their houses and leave them empty" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **because of the wine** - "because there is no wine"
   * **all joy is darkened, the gladness of the land has disappeared** - These two phrases mean basically the same thing. AT: "all joy will be gone from the earth" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **gladness of the land** - Here "land" represents the people of the earth. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -67,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

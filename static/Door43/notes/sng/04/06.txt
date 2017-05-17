@@ -19,11 +19,12 @@
 <usfm>
 \v 6 Until dawn tomorrow morning,
 \q2 when the nighttime shadows disappear,
-\q1 I will lie close to your breasts,
+\q1 I will lie close to your breasts, 
 \q2 because they are like two hills that smell like sweet spices.
 \q1
 \v 7 My darling, you are completely beautiful;
 \q2 your body is perfectly formed!
+\b
 
 
 \q1
@@ -32,10 +33,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 6 Until the dawn arrives and the shadows flee away,
 \q I will go to the mountain of myrrh
 \q and to the hill of frankincense.
+\b
 \q
 \v 7 You are beautiful in every way, my love
 \q and there is no blemish in you.

@@ -21,6 +21,7 @@
 \v 7 I do not want to eat food like that,
 \q2 because it disgusts me,
 \q1 and I do not like what you have said to me.
+\b
 \q1
 \v 8 I wish that God would do for me what I have asked of him:
 \q1
@@ -37,6 +38,7 @@
 \q
 \v 7 I refuse to touch them;
 \q they are like disgusting food to me.
+\b
 \q
 \v 8 Oh, that I might have my request;
 \q oh, that God would grant me the thing I long for:
@@ -53,11 +55,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues to use parallelisms in these verses as he speaks about his sufferings and his desire for death. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - The writer continues to use parallelism in each of these verses, conveying a single idea using two different statements to emphasize Job's intense suffering and his desire for death. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **I refuse to touch them** - "Them" refers to bad tasting foods. 
-  * **to crush me once** - This means for God to cause him to die. AT: "would crush me and let me die" (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **that he would let loose his hand and cut me off from this life** - The phrases "let loose his hand" is an idiom that means to act quickly. Also, the phrase "cut me off from this life" is a euphemism for killing him. AT: "that he would act quickly and cut short my life" or "that he would act quickly and end my life" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_euphemism]])
+  * **I refuse to touch them** - "Them" refers to bad tasting foods. Here Job continues to use the image of bad food as a metaphor for his unpalatable circumstances. (See: [[:en:ta:vol1:translate:figs_metaphor]]). 
+  * **Oh, that I might have my request; oh, that God would grant me the thing I long for** - AT: "Oh that God would do what I have been asking him to do"
+  * **that it would please God to crush me once** - AT: "That God would go ahead and crush me"
+  * **that he would let loose his hand and cut me off from this life** - AT: "that he would act quickly and cut short my life"
+  * **let loose his hand** - "act quickly" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -65,6 +69,6 @@
   * [[:en:bible:questions:comprehension:job:06]]
 **[[:en:bible:notes:job:06:04|<<]] | [[:en:bible:notes:job:06:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2review}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

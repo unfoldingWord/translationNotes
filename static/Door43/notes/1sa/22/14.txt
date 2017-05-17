@@ -42,14 +42,13 @@
 
 ===== translationNotes: =====
 
+
   * **Who among all your servants is so faithful as David ... house?** - This rhetorical question can be translated as a statement. AT: "None of your servants is as faithful as David ... house." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **bodyguard** - a person or group of people who protect someone
+  * **bodyguard** - a person of group of people who protect someone
   * **is honored in your house** - The word "house" is a metonym for the family that lives in the house. This can be translated in active form. AT: "whom your family honors" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **Is today the first time I have prayed to God to help him?** - Ahimelech asks himself this question before Saul can ask it, then immediately answers it. This rhetorical question can be translated as a statement. AT: "This is not the first time I have prayed to God to help David." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
   * **Far be it from me!** - This idiom means "Absolutely not!" [[:en:ta:vol1:translate:figs_idiom]])
-  * **Do not let the king impute anything to his servant or to all the house of my father. For your servant knows nothing** - Ahimelech speaks of himself in the third person as the "servant." Ahimelech also refers to Saul in the third person as "the king." Ahimelech speaks this way to show respect to Saul. AT: "Please, King Saul, do not consider me, your servant, or anyone in the house of my father to be guilty. For I know nothing" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **impute** - to consider someone guilty
-  * **to all the house of my father** - Here "house" represents "family." AT: "to all my father's family" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Do not let the king impute anything to his servant ... your servant knows** - Ahimelech speaks of Saul and himself as if they are two different people to show Saul that Ahimelech wants to respect Saul. AT: "Do not impute anything to me ... I know" (See: [[:en:ta:vol2:translate:figs_pronouns]]) 
  
 ===== Links: =====
 
@@ -64,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -29,8 +29,8 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:envy]]
   * [[:en:obe:kt:son]]
+  * [[:en:obe:other:envy]]
   * [[:en:obe:kt:children]]
   * [[:en:obe:other:siege]]
   * [[:en:obe:other:adversary]]
@@ -40,7 +40,7 @@
 
   * **General Information:** - Moses speaks to the Israelites as if they were one man, so the words "you" and "your" here are singular. (See: [[:en:ta:vol1:translate:figs_you]])
 
-  * **The tender and delicate woman among you ... tenderness—she** - "The tender and delicate woman among you ... tenderness—even she." Moses is saying that not only those one would expect to eat their children, but even women of noble birth and normally very gentle, whom one would never expect to eat their children, will eat their children. The word "you" here is singular. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **The tender and delicate woman among you ... tenderness—she** - Moses is saying that not only those one would expect to eat their children, but even women of noble birth and normally very gentle, whom one would never expect to eat their children, will eat their children. The word "you" here is singular. "The tender and delicate woman among you ... tenderness—even she" (See: [[:en:ta:vol1:translate:figs_you]])
   * **who would not venture to put the bottom of her foot on the ground for delicateness and tenderness** - Moses is exaggerating. He is emphasizing that this noble woman is so rich and lives in such luxury that she would not allow herself to get dirty. (See: [[:en:ta:vol2:translate:figs_hyperbole]]) 
   * **for delicateness and tenderness** - The abstract nouns "delicateness" and "tenderness" can be stated as clauses. AT: "because she is so delicate and tender" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **within your city gates** - Here "city gates" represents the cities themselves. AT: "within your cities" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:deu:28]]
 **[[:en:bible:notes:deu:28:54|<<]] | [[:en:bible:notes:deu:28:58|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

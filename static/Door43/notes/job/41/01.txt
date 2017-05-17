@@ -39,7 +39,7 @@
 
 <usfm>
 \c 41
-\m
+\p
 \q
 \v 1 Can you draw out Leviathan with a fishhook?
 \q Or tie up his jaws with a cord?
@@ -60,14 +60,12 @@
 
   * **General Information:** - God continues speaking. He is using many rhetorical questions to challenge Jonah. 
 
-  * **Can you draw out Leviathan with a fishhook?** - This can be translated as a statement. AT: "You know that you cannot draw out Leviathan with a fishhook". (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **draw out** - pull out of the water
+  * **Can you draw out Leviathan with a fishhook?** - AT: "You cannot draw out Leviathan with a fishhook". (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Or tie up his jaws with a cord?** - This is not a full sentence, but its meaning can be understood from the context as "Or can you tie up his jaws with a cord?" AT: "Or you cannot tie up his jaws with a cord" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Can you put a rope into his nose ... with a hook?** - AT: "You cannot put a rope into his nose, or pierce his jaw through with a hook." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Will he make many pleas to you?** - AT: "He will not make pleas to you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Will he speak soft words to you?** - AT: "He will not speak soft words to you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **his ... he** - The word "his" and "he" refer to Leviathan. 
-  * **Or tie up his jaws with a cord?** - This is not a full sentence, but its meaning can be understood from the context as "Or can you tie up his jaws with a cord?" This can be translated as a statement. AT: "And you know that you cannot tie up his jaws with a cord." (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Can you put a rope into his nose ... with a hook?** - This can be translated as a statement. AT: "You know that you cannot put a rope into his nose ... with a hook." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Will he make many pleas to you?** - This can be translated as a statement. AT: "You know that he will not make pleas to you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Will he speak soft words to you?** - This can be translated as a statement. AT: "You know that he will not speak soft words to you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -75,6 +73,6 @@
   * [[:en:bible:questions:comprehension:job:41]]
 **[[:en:bible:notes:job:40:22|<<]] | [[:en:bible:notes:job:41:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

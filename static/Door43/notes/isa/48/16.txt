@@ -19,6 +19,7 @@
 \v 16 Come close to me and listen to what I say.
 \q1 Long ago I told you plainly what would happen,
 \q2 and when those things occurred, I was causing them to happen."
+\b
 \q1 And now Yahweh the Lord and his Spirit have sent me, the prophet Isaiah, to give you a message.
 
 
@@ -30,9 +31,9 @@
 
 <usfm>
 \q1
-\v 16 Come near to me, listen to this:
-\q1 From the beginning I have not spoken in secret; when it happens, I am there."
-\q1 Now the Lord Yahweh has sent me, and his Spirit.
+\v 16 Come near to me, listen to this; 
+\q1 from the beginning I have not spoken in secret; when it happens, I am there;
+\q1 and now the Lord Yahweh has sent me, and his Spirit."
 </usfm>
 
 
@@ -62,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

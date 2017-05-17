@@ -24,8 +24,9 @@
 \v 30 Lions, which are the strongest among wild animals
 \q2 and are not afraid of any of them.
 \q1
-\v 31 Strutting roosters, and male goats,
-\q1 and kings who stand with their soldiers beside them.
+\v 31 Strutting roosters, and male goats, 
+\q1 and kings who stand with their soldiers beside them. 
+
 
 \q1
 </usfm>
@@ -38,10 +39,10 @@
 \v 29 There are three things that are stately in their stride
 \q and four that are stately in how they walk:
 \q
-\v 30 a lion, strongest among wild animals—
+\v 30 a lion, strongest among wild animals— 
 \q it does not turn away from anything;
 \q
-\v 31 a strutting rooster; a goat;
+\v 31 a strutting rooster; a goat; 
 \q and a king whose soldiers are beside him.
 </usfm>
 
@@ -55,7 +56,7 @@
 ===== translationNotes: =====
 
   * **There are three things that are ... four that are stately in how they walk** - The use of the numbers "three" and "four" here is likely a poetic device. AT: "There are some things that walk stately. Four of these are:" 
-  * **stately** - majestic or dignified, like a king
+  * **stately** - majestic or dignified
   * **strutting rooster** - an adult male chicken that walks proudly
 
  
@@ -72,6 +73,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

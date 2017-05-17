@@ -36,12 +36,13 @@
 ===== translationNotes: =====
 
   * **Connecting Statement:** - The Israelite spies clarify the condition they expressed in [[:en:bible:notes:jos:02:15|2:15]].
-  * **General Information:** - The Israelite spies continue talking to Rahab.
+  * **General Information:** - The Israelite spies continue talking to Rahab
 
   * **Whoever goes out of the doors of your house** - This phrase expresses a condition, creating a hypothetical situation. (See: [[:en:ta:vol1:translate:figs_hypo]])
-  * **blood will be upon their own heads** - Here "blood" represents a person's death. To be responsible for their own death is spoken of as if their blood would be on their heads. AT: "their death will be their own fault" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **blood will be upon their own heads** - This means "their death will be their own fault." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **their own heads** - The word "heads" represents personal responsibility. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **we will be guiltless** - "we will be innocent"
-  * **if a hand is laid upon any** - Here "a hand is laid upon" is a polite way of referring to causing someone injury. AT: "if we cause injury to any" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **if a hand is laid upon** - "if we cause injury" (See: [[:en:ta:vol2:translate:figs_euphemism]])
 
  
 ===== Links: =====
@@ -57,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

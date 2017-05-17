@@ -33,7 +33,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 12 Suppose that he oppresses the poor and needy, and that he seizes and robs and does not return a pledge. Suppose that he lifts up his eyes to the idols or commits disgusting actions.
+\v 12 Suppose that he oppresses the poor and needy, and that he seizes and robs and does not return a pledge. Suppose that he lifts up his eyes to the idols or commits disgusting actions. 
 \v 13 Suppose that he lends charging interest or gains too much profit. Should he live? He will not live! He has done all these disgusting actions. He will surely die, and his blood will be on him.
 </usfm>
 
@@ -53,11 +53,12 @@
 
   * **General Information:** - Yahweh continues to speak about the violent son.
 
-  * **the poor and needy** - The words "poor" and "needy" share similar meanings and emphasize that these are people who cannot help themselves. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **he lifts up his eyes to the idols** - The idiom "lifts up his eyes" refers to looking toward something. With reference to idols, this gesture represents worshiping or praying to idols. See how you translated a similar phrase in [[:en:bible:notes:ezk:18:05|18:6]]. AT: "he worships the idols" or "he prays to the idols" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **the poor and needy** - The words "poor" and "needy" emphasize that these are people who cannot help themselves. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **charging interest** - The word 'interest' refers to money added to a debt.
   * **interest** - This word refers to the money paid by a person to use borrowed money. However, some modern versions interpret "any interest" in this passage as "too much interest."
-  * **Should he live? He will not live!** - Yahweh asks this as a leading question in order to emphasize the negative answer. AT: "He will certainly not live!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **his blood will be on him** - Here the word "blood" represents death. For blood to be on a person is an idiom that means the person is responsible for that death. AT: "he will be responsible for his own death" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **Should he live?** - "He should not live!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **his blood will be on him** - This phrase means he is responsible for his own death. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 
 ===== Links: =====
 
@@ -66,6 +67,6 @@
   * [[:en:bible:questions:comprehension:ezk:18]]
 **[[:en:bible:notes:ezk:18:10|<<]] | [[:en:bible:notes:ezk:18:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check profit}}
+~~DISCUSSION~~{{tag>publish p2edit profit}}
 
 ~~NOCACHE~~

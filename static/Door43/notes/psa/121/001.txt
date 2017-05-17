@@ -20,7 +20,7 @@
 \q1
 \v 2 My answer is that Yahweh is the one who helps me;
 \q2 he is the one who made heaven and the earth.
-
+\b
 
 
 \q1
@@ -30,14 +30,16 @@
 
 <usfm>
 \c 121
-\m
+\p
 \d A song of ascents.
+\b
 \q
 \v 1 I will lift up my eyes to the mountains.
 \q From where will my help come?
 \q
 \v 2 My help comes from Yahweh,
 \q who made heaven and earth.
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -48,11 +50,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A song of ascents** - Possible meanings are 1) "song people sang while going up to Jerusalem for a celebration" or 2) "song people sang while going up the steps into the temple" or 3) "song whose words are like steps." See how you translated this in [[:en:bible:notes:psa:120:001|120:1]].
   * **lift up my eyes** - This expression means "look at" or "focus my attention on." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **From where will my help come?** - The writer uses this question to focus attention on the source of his help. This rhetorical question can be translated as a statement. AT: "I will tell you from where my help comes." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **From where will my help come?** - The writer uses this question to focus attention on the source of his help. AT: "I will tell you from where my help comes." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **My help comes from Yahweh** - This is the answer to the previous question.
 
 ===== Links: =====
@@ -62,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:121]]
 **[[:en:bible:notes:psa:120:005|<<]] | [[:en:bible:notes:psa:121:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

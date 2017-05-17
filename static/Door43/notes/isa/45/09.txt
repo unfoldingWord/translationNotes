@@ -17,13 +17,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 Terrible things will happen to those who argue with me, because I am  the one who created them.
-\q2 They are like clay pots who are arguing with the Potter who made them;
-\q2 they are just like every other clay pot that is made, and yet they argue with the One who made them and formed them out of the clay.
-\q1 Can a lump of clay say to the potter who made him,
+\v 9 Terrible things will happen to those who argue with me, the one who created them.
+\q2 They are like a clay pot and I am like the one who made it;
+\q2 so they certainly cannot criticize me.
+\q1 A lump of clay certainly cannot argue with the one who shapes it to form a pot, saying,
 \q2 'Why are you making me like this?'
-\q1 The clay pot cannot say 'What do you think you are doing, making me this way?" or "You have no skill and your clay pots are not worth anything!"
-
+\q1 The pot cannot say 'You have no skill; what you make is so awful that it makes people think you have no hands!'
 
 
 \q1
@@ -34,8 +33,8 @@
 
 <usfm>
 \q1
-\v 9 Woe to anyone who argues with the one who formed him, to him who is like any other earthen pot among all the earthen pots in the ground!
-\q1 Does the clay say to the potter, 'What are you making?' or 'Your work has no handles on it'?
+\v 9 Woe to anyone that argues with his maker! An earthen potshard among all the earthen potshards in the ground!
+\q1 Should the clay say to the potter, 'What are you doing?' or, 'What you were making—did you have no hands when you did it?'
 </usfm>
 
 
@@ -48,20 +47,22 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **any other earthen pot among all the earthen pots in the ground** - Yahweh speaks of himself as if he were a potter, and of the one who would argue with him as if that person and the rest of humanity were all clay pots. AT: "like one piece of pottery among many other pieces of pottery scattered on the ground" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **earthen pot** - Possible meanings are 1) "clay pot" or 2)  "piece of broken clay pottery."
-  * **Does the clay say to the potter ... on it'?** - Yahweh asks this question to rebuke those who argue with him about what he does. AT: "The clay should not say to the potter ... on it!'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **An earthen potshard among all the earthen potshards in the ground** - In 45:9 God compares himself to a potter and the people as the clay. This emphasizes that he is the creator. AT: "You are like broken pieces of pottery on the ground" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Should the clay say to the potter ... did it?'** - God uses a question to rebuke those who argue with him about what he does. (See: UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
   * [[:en:bible:notes:isa:45:00]]
   * [[:en:bible:questions:comprehension:isa:45]]
+
+ 
+
 **[[:en:bible:notes:isa:45:07|<<]] | [[:en:bible:notes:isa:45:10|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

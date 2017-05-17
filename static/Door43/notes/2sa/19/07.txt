@@ -30,8 +30,8 @@
 
 <usfm>
 \v 7 Now therefore get up and go out and speak kindly to your soldiers, for I swear by Yahweh, if you do not go, not one man will remain with you tonight. That would be worse for you than all the disasters that have ever happened to you from your youth until now."
-\v 8 So the king got up and sat in the city gate, and all the people were told, "Look, the king is sitting in the gate," and all the people came before the king.
-\p So Israel fled, every man to his home.
+\v 8 So the king got up and sat in the city gate, and it was told to all the men, "Look, the king is sitting in the gate." Then all the people came before the king.
+\p Meanwhile, in Israel, every man had fled to his home.
 </usfm>
 
 
@@ -46,25 +46,24 @@
 
 ===== translationNotes: =====
 
-  * **I swear by Yahweh** - Joab is making a very strong oath. AT: "I swear, as surely as Yahweh is alive" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **if you do not go, not one man will remain with you** - This means that only if David went would his soldiers remain with him. AT: "only if you go will any of your men remain with you" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **not one man will remain with you** - This refers to them remaining loyal to him. AT: "not one man will remain loyal to you" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **all the people were told** - This is an exaggeration, it means most of the men. It can be stated in active form. AT: "many of the men who were there heard others saying" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Look, the king is sitting** - This word is used here to draw someone's attention to what is said next. AT: "Listen, the king is sitting" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **all the people** - Here "the people" refer to the people who followed David. This is an exaggeration, it means a large number came and gathered around him. AT: "many of the people" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **So Israel fled, every man to his home** - Here "Israel" refers to the Israelite soldiers who followed Absalom. AT: "And every Israelite soldier fled to his own home" or "And all of the Israelite soldiers fled to their homes" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
+  * **I swear by Yahweh** - Joab is making a very strong oath.
+  * **if you do not go, not one man will remain** - This means that only if David went would his soldiers remain with him. AT: "only if you go will any of your men remain" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **all the people** - Here "the people" refers to the nation of Israel. This is an exaggeration because the entire nation was not told. It means a large number were told and many came and gathered around him. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **Meanwhile** - This describes the what was happening while the events of [[:en:bible:notes:2sa:19:01|19:1-8]] were taking place.
 
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
   * [[:en:bible:notes:2sa:19:00]]
   * [[:en:bible:questions:comprehension:2sa:19]]
+
+ 
+
 **[[:en:bible:notes:2sa:19:05|<<]] | [[:en:bible:notes:2sa:19:09|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

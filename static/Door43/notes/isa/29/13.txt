@@ -37,12 +37,13 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 13 The Lord said, "This people comes close to me with their mouths
-\q1 and honors me with their lips, but their heart is far from me.
+\v 13 The Lord said, "This people comes close to me with their mouths 
+\q1 and honors me with their lips, but their heart is far from me. 
 \q1 Their honor for me is only a commandment of men that has been taught.
 \q1
-\v 14 Therefore, see, I will proceed to do a marvelous thing among this people, wonder after wonder.
+\v 14 Therefore, see, I will proceed to do a marvelous thing among this people, wonder after wonder. 
 \q1 The wisdom of their wise men will perish, and the understanding of their prudent men will disappear."
 </usfm>
 
@@ -59,11 +60,12 @@
 
 ===== translationNotes: =====
 
-  * **This people comes close to me with their mouths and honors me with their lips** - The words "mouths" and "lips" represent what people say. Here it also represents saying something but not truly meaning it. AT: "The people of Jerusalem pretend to worship me and honor me with what they say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **but their heart is far from me** - Here "heart" is a metonym that represents a person's thoughts and emotions. The people not being truly devoted to Yahweh is spoken of as if their hearts were far away from him. AT: "but they do not honor me in their thoughts" or "but they are not truly devoted to me" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **This people comes close to me with their mouths and honors me with their lips, but their heart is far from me** - The words "mouths" and "lips" refer to what people say. AT: "The people of Jerusalem honor me with what they say, but they do not honor me in their thoughts" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Their honor for me is only a commandment of men that has been taught** - This can be stated in active form. AT: "They honor me only because that is what people tell them to do" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Therefore, see, I will proceed to do a marvelous thing among this people, wonder after wonder** - "Therefore, look and see! I am going to do wonderful and marvelous things among you that you will not be able to explain"
-  * **The wisdom of their wise men will perish, and the understanding of their prudent men will disappear** - Both of these statements mean the same thing. Yahweh showing that the wise people cannot understand or explain what Yahweh does is spoken of as if their wisdom and understanding will vanish. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Therefore, see, I will proceed to do a marvelous thing among this people, wonder after wonder** - "Therefore, look and see! I am going to do something among you that you cannot explain"
+  * **The wisdom of their wise men will perish, and the understanding of their prudent men will disappear** - These two phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **The wisdom of their wise men will perish** - "What the wise men say will no longer be wise"
+  * **the understanding of their prudent men will disappear** - "the intelligence of the smart men no one will understand"
 
 ===== Links: =====
 
@@ -72,6 +74,6 @@
   * [[:en:bible:questions:comprehension:isa:29]]
 **[[:en:bible:notes:isa:29:11|<<]] | [[:en:bible:notes:isa:29:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

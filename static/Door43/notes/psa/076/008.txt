@@ -24,7 +24,7 @@
 \v 9 when you arose to declare that you would punish wicked people
 \q2 and rescue all those whom they had oppressed.
 
-
+\b
 
 
 \q1
@@ -39,7 +39,7 @@
 \q the earth was afraid and silent
 \q
 \v 9 when you, God, arose to execute judgment
-\q and to save all the oppressed of the earth.
+\q and to save all the oppressed of the earth. 
 \qs Selah\qs*
 </usfm>
 
@@ -58,9 +58,8 @@
 ===== translationNotes: =====
 
   * **you made your judgment heard** - "you pronounced judgment" or "you announced how you were going to punish wicked people"
-  * **the earth was** - Here "the earth" is a metonym for the people living on the earth. AT: "the people of the earth were" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **execute judgment** - "carry out judgment" or "punish wicked people"
-  * **Selah** - This may be a musical term that tells people how to sing or play their instruments here. Some translations write the Hebrew word, and some translations do not include it. See how you translated this in ([[:en:bible:notes:psa:003:001]]). (See: [[:en:ta:vol1:translate:translate_transliterate]])
+  * **the earth was** - "the people of the earth were" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **execute judgment** - punish bad people and reward good people
 
 ===== Links: =====
 
@@ -69,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:076]]
 **[[:en:bible:notes:psa:076:006|<<]] | [[:en:bible:notes:psa:076:010|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

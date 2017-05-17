@@ -19,12 +19,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 "Israel joins with other people groups,
+\v 8 "Israel joins with other people groups, 
 \q2 but all the people are like a flat cake that is only cooked on one side; they are weak.
 \q1
-\v 9 People who come from far away have taken away Israel's strength.
+\v 9 People who come from far away have taken away Israel's strength. 
 \q2 The nation is gorwing very weak, like an old man whose hair is turning gray.
 \q1 But the nation does not know it is weak.
+\b
 
 
 \q1
@@ -34,6 +35,7 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 8 Ephraim mixes himself among the peoples.
 \q Ephraim is a flat cake that has not been turned over.
@@ -71,6 +73,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

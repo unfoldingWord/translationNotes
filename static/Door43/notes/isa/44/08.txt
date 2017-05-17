@@ -33,7 +33,7 @@
 
 <usfm>
 \q1
-\v 8 Do not fear or be afraid. Have I not declared to you long ago, and announced it?
+\v 8 Do not fear or be afraid. Have I not declared to you long ago, and announced it? 
 \q1 You are my witnesses: Is there any God besides me? There is no other Rock; I know of none."
 </usfm>
 
@@ -48,10 +48,9 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **Do not fear or be afraid** - Yahweh uses two similar expressions in order to strengthen his encouragement. AT: "Do not be afraid" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **Have I not declared to you long ago, and announced it?** - Yahweh uses this question to emphasize that he is the one who predicted the events that have now happened. This can be translated as a statement. The word "announced" means basically the same thing as "declared." AT: "I declared these things to you long ago." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_doublet]])
-  * **Is there any God besides me?** - Yahweh uses a question again to emphasize that there is no other God. This rhetorical question can be translated as a statement. AT: "There is no God besides me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **There is no other Rock** - Yahweh speaks of himself as if he were a large rock under which people can find shelter. This means he has the power to protect his people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Have I not declared to you long ago, and announced it?** - Yahweh uses this question to emphasize that he is the one who predicted the events that have now happened. AT: "Long ago I told you things that would happen." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Is there any God besides me?** - Yahweh uses a question again to emphasize the that there is no other God. AT: "There is no other God besides me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **There is no other Rock** - Here Yahweh compares himself to a rock. This means he has the power to protect his people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -66,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -38,15 +38,15 @@
 
 <usfm>
 \c 48
-\m
+\p
 \q1
-\v 1 Hear this, house of Jacob,
-\q1 who are called by the name Israel, and have come from the sperm of Judah;
-\q1 you who swear by the name of Yahweh and invoke the God of Israel,
+\v 1 Hear this, house of Jacob, 
+\q1 who are called by the name Israel, and have come from the sperm of Judah; 
+\q1 you who swear by the name of Yahweh and invoke the God of Israel, 
 \q1 but not sincerely nor in a righteous manner.
 \q1
-\v 2 For they call themselves people of the holy city
-\q1 and trust in the God of Israel. Yahweh of hosts is his name.
+\v 2 For they call themselves people of the holy city 
+\q1 and trust in the God of Israel; Yahweh of hosts is his name.
 </usfm>
 
 ===== translationWords: =====
@@ -68,14 +68,14 @@
 
 ===== translationNotes: =====
 
-  * **Hear this** - "Listen to my message." Yahweh is speaking. 
-  * **house of Jacob** - Here "house" refers to the descendants of Jacob. AT: "descendants of Jacob" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **Hear this** - Yahweh is speaking. "Listen to my message"
+  * **house of Jacob** - Here "house" refers to the descendants of Jacob. AT: "the descendants of Jacob" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
   * **who are called by the name Israel** - This can be stated in active form. AT: "whom everyone calls the people of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **have come from the sperm of Judah** - This phrase emphasizes that they are the direct, physical descendants of Judah. AT: "are the descendants of Judah" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **invoke the God of Israel** - "call on the God of Israel"
-  * **they call themselves** - This refers to the people of Israel. AT: "you call yourselves" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **they call themselves** - This refers to the people of Israel. AT: "you call yourselves"
   * **the holy city** - This refers to Jerusalem.
-  * **Yahweh of hosts** - Translate this phrase the same way you did in [[:en:bible:notes:isa:01:09|1:9]].
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
 
 ===== Links: =====
 
@@ -84,6 +84,6 @@
   * [[:en:bible:questions:comprehension:isa:48]]
 **[[:en:bible:notes:isa:47:14|<<]] | [[:en:bible:notes:isa:48:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass righteous}}
+~~DISCUSSION~~{{tag>publish p2edit righteous}}
 
 ~~NOCACHE~~

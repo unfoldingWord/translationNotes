@@ -28,13 +28,11 @@
 
 ===== translationNotes: =====
 
-  * **seven days** - "7 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **100,000** - "one hundred thousand" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **seven days** - AT: "7 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **100,000** - AT: "one hundred thousand" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **footmen** - A "footman" is a soldier who marches on foot.
-  * **The rest fled to Aphek** - The expression "the rest" assumes the words "of the Aramean soldiers." AT: "The rest of the Aramean soldiers" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **Aphek** - This is the name of a town. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **The rest fled to Aphek** - AT: "The rest of the Aramean soldiers" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **twenty-seven thousand** - "27,000" (See: [[:en:ta:vol2:translate:translate_numbers]]) 
-
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -42,6 +40,6 @@
   * [[:en:bible:questions:comprehension:1ki:20]]
 **[[:en:bible:notes:1ki:20:28|<<]] | [[:en:bible:notes:1ki:20:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

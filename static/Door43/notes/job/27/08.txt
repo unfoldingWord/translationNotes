@@ -28,6 +28,7 @@
 \v 10 Will they be happy about what Almighty God does?
 \q2 Will they begin to pray to him frequently?
 \q2 Certainly not!
+\b
 
 
 \q1
@@ -62,13 +63,11 @@
  
 ===== translationNotes: =====
 
-  * **For what is the hope of a godless man when ... when God takes away his life?** - Job uses this question to say that such a man has no hope. AT: "There is no hope for the godless when God ... takes away his soul." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **when God cuts him off, when God takes away his life** - These two phrases have the same meaning. AT: "when God cuts him off and takes away his life" or "when God causes him to die" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **cuts him off** - This is a metaphor meaning "kill him" or "cause him to die" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **takes away his life** - This is a metaphor meaning "kill him" or "makes him stop living" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Will God hear his cry when trouble comes upon him?** - Job uses this question to say that God will not help that person. AT: "God will not hear his cry when trouble comes upon him." or "When trouble comes upon him and he cries out for help, God will not hear him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Will God hear his cry** - Here "hear his cry" represents responding to the godless man's cry and helping him. AT: "Will God respond to his cry" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Will he delight himself in the Almighty and call upon God at all times?** - Job uses this question to say that the godless man will not do these things. AT: "He will not delight himself in the Almighty and call upon God at all times." or "He will not be happy about what the Almighty does and he will not pray to God often." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **For what is the hope of a godless man when God cuts him off, when God takes away his life?** - AT: "There is no hope for the godless when God cuts off his life, when God takes away his soul." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **when God cuts him off, when God takes away his life** - These two phrases have the same meaning and are used together for emphasis. AT: "when God causes him to die" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_euphemism]])
+  * **Will God hear his cry when trouble comes upon him?** - AT: "God will not hear his cry when trouble comes upon him." or "When trouble comes upon him, God will not hear his cry for help." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Will he delight himself in the Almighty and call upon God at all times?** - AT: "He will not delight himself in the Almighty and call upon God at all times." or "He will not be happy about what the Almighty does and he will not pray to God often." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -76,6 +75,6 @@
   * [[:en:bible:questions:comprehension:job:27]]
 **[[:en:bible:notes:job:27:06|<<]] | [[:en:bible:notes:job:27:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check ungodly cry}}
+~~DISCUSSION~~{{tag>publish p2edit ungodly cry}}
 
 ~~NOCACHE~~

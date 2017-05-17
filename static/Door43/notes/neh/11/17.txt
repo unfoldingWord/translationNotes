@@ -22,8 +22,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 There was Mattaniah son of Mica son of Zabdi, a descendant of Asaph, who was the director who began the thanksgiving in prayer, and Bakbukiah, the second among his brothers, and Abda son of Shammua son of Galal son of Jeduthun.
-\v 18 All the Levites in the holy city numbered 284.
+\v 17 There was Mattaniah son of Mica son of Zabdi, a descendant of Asaph, who was the director who began the thanksgiving in prayer, and Bakbukiah, the second among his associates, and Abda son of Shammua son of Galal son of Jeduthun.
+\v 18 In all the holy city were 284 Levites.
 </usfm>
 
 ===== translationWords: =====
@@ -35,10 +35,10 @@
   * [[:en:obe:other:levite]]
 ===== translationNotes: =====
 
-  * **Mattaniah ... Mica ... Zabdi ... Asaph ... Bakbukiah ... Abda ... Shammua ... Galal ... Jeduthun** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Mattaniah ... Mica ... Zabdi ... Asaph ... Bakbukiah ... Abda ... Shammua ... Galal ... Jeduthun** - These are male names. (See: [[:en:ta:vol1:translate:translate_names]])
   * **who began the thanksgiving in prayer** - That is, who directed the singers (see UDB).
-  * **Bakbukiah, the second among his brothers** - Possible meanings are 1) Bakbukiah was Mattaniah's kinsman and second in authority to Mattaniah (see UDB) or 2) "Bakbukiah, who led a second group of singers."
-  * **brothers** - Another possible meaning is "associates" or "fellow workers."
+  * **his associates** - "his brothers"
+  * **In all the holy city were 284 Levites** - "All the Levites in the holy city were 284" or "There were, in all, 284 Levites in the holy city." See how you translated numbers in [[:en:bible:notes:neh:07:11|07:11-14]].
   * **the holy city** - This expression refers to the city of Jerusalem.
 ===== Links: =====
 
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:neh:11]]
 **[[:en:bible:notes:neh:11:15|<<]] | [[:en:bible:notes:neh:11:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

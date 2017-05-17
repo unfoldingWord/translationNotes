@@ -23,9 +23,9 @@
 
 <usfm>
 \p
-\v 2 If there is found among you, within any of your city gates that Yahweh your God is giving you, any man or woman who does what is evil in the sight of Yahweh your God and transgresses his covenant,
-\v 3 anyone who has gone and worshiped other gods and bowed down to them, either the sun, the moon, or any of the host of heaven—nothing that I have commanded—
-\v 4 and if you are told about this, or if you have heard of it, then you must make a careful investigation. If it is true and certain that such an abomination has been done in Israel, this is what you should do.
+\v 2 If there is found among you, within any of your city gates that Yahweh your God is giving you, any man or woman who does what is evil in the sight of Yahweh your God and transgresses his covenant—
+\v 3 anyone who has gone and worshiped other gods and bowed down to them, either the sun, the moon, or any of the host of heaven—nothing that I have commanded,
+\v 4 and if you are told about this, or if you have heard of it—then you must make a careful investigation. If it is true and certain that such an abomination has been done in Israel—
 </usfm>
 
 
@@ -46,14 +46,15 @@
 ===== translationNotes: =====
 
 
-  * **If there is found** - This may be stated in active form. AT: "If you find someone" or "If there is anyone" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **within any of your city gates** - Here "city gates" represents cities or towns. AT: "living in one of your cities" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **If there is found among you** - This may be stated in active form. AT: "If you find someone" or "If there is anyone among you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **within any of your city gates** - Here "gates" represents cities or towns. AT: "living in one of your cities" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **what is evil in the sight of Yahweh your God** - Here, "in the sight of Yahweh" means what Yahweh considers or thinks about something. AT: "something that Yahweh your God thinks is evil" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **transgresses his covenant** - "disobeys his covenant"
+  * **anyone who has gone** - "if you find anyone who has gone"
   * **any of the host of heaven** - "any of the stars"
   * **nothing that I have commanded** - "which I have not commanded anyone to do"
   * **if you are told about this** - This can be stated in active form. AT: "if someone tells you about this disobedient act" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **you must make a careful investigation** - The abstract noun "investigation" can be stated as a verb. AT: "you must carefully investigate what happened" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **make a careful investigation** - The abstract noun "investigation" can be stated as a verb. AT: "you must carefully investigate what happened" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **such an abomination has been done in Israel** - This can be stated in active form. AT: "someone has done such a horrible thing in Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
  
@@ -70,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

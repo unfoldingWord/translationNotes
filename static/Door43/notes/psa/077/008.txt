@@ -34,7 +34,7 @@
 \q Had his promise failed forever?
 \q
 \v 9 Had God forgotten to be gracious?
-\q Had his anger shut off his compassion?
+\q Had his anger shut off his compassion? 
 \qs Selah\qs*
 </usfm>
 
@@ -48,11 +48,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Because Asaph was not sure of the answer to these questions, they are probably literal questions and should be translated literally. 
+  * **General Information:** - Because Asaph was not sure of the answer to these questions, they are probably literal questions and should be translated lierally. 
 
-  * **covenant faithfulness** - In speaking of Yahweh's "covenant faithfulness" David is trusting that Yahweh will always love him. See how you translated this in [[:en:bible:notes:psa:013:005|13:5]]. AT: "faithful love" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Had God forgotten to be gracious?
-Had his anger shut off his compassion?** - These are two expressions stating similar concept of God not showing compassion. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **covenant faithfulness** - In speaking of Yahweh's "covenant faithfulness" David is trusting that Yahweh will always love him. AT: "faithful love." See how you translated this in [[:en:bible:notes:psa:013:005|13:5]]. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **Had his anger shut off his compassion** - Asaph speaks of anger as if it were a person shutting a door to keep another person, compassion, from coming out, AT: "Had God stopped showing us compassion because he was angry with us" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
@@ -61,6 +59,6 @@ Had his anger shut off his compassion?** - These are two expressions stating sim
   * [[:en:bible:questions:comprehension:psa:077]]
 **[[:en:bible:notes:psa:077:006|<<]] | [[:en:bible:notes:psa:077:010|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

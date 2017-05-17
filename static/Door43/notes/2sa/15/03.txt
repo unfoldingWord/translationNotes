@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 So Absalom would say to him, "Look, your case is good and right, but there is no one empowered by the king to hear your case."
+\v 3 So Absalom would say to him, "Look, your case is good and right, but there is no one empowered by the king to hear your case." 
 \v 4 Absalom added, "I wish that I were made judge in the land, so that every man who had any dispute or cause might come to me, and I would bring him justice!"
 </usfm>
 
@@ -38,9 +38,8 @@
 
 ===== translationNotes: =====
 
-  * **So Absalom would say to him** - It is implied that the person told his case to Absalom. This can be stated clearly. AT: "Absalom would ask him what his problem was, and the man would then explain to Absalom why he sought justice. Absalom would then say to him" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **good and right** - These words have basically the same meaning and are used together to emphasize that his case is good. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **to hear your case** - "Hearing" a case mean to listen to it and to make a judgement decision over it. AT: "to judge your case" or "to oversee your case" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **So Absalom would say to him, "Look, your case is good and right"** - This can be made more explicit. "Absalom would ask him what his problem was, and the man would then explain to Absalom why he sought justice. Absalom would then say to him 'Look, your case is good and right'" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -54,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

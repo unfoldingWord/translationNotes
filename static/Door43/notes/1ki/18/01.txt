@@ -36,8 +36,8 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - "Word" is metonymy for what a person says. See how you translated this in [[:en:bible:notes:1ki:06:11|6:11]]. AT: "Yahweh spoke his word" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **send rain on the land** - "cause rain to fall on the land"
+  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:1ki:06:11|6:11]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **send rain on the land** - AT: "cause rain to fall on the land" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **now the famine was severe** - The word "now" is used here to mark a break in the main storyline. Here the writer tells background information about how the famine had affected Samaria. (See: [[:en:ta:vol2:translate:writing_background]]) 
  
 ===== Links: =====
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:1ki:18]]
 **[[:en:bible:notes:1ki:17:22|<<]] | [[:en:bible:notes:1ki:18:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass ahab}}
+~~DISCUSSION~~{{tag>publish p2edit ahab}}
 
 ~~NOCACHE~~

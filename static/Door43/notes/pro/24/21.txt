@@ -18,7 +18,7 @@
 
 <usfm>
 \v 21 My son, give to Yahweh and give to the king the respect each of them deserves,
-\q2 and do not associate with anyone who rebels against either Yahweh or the king;
+\q2 and do not associate with anyone who rebels against either Yahweh or the king; 
 \q1
 \v 22 because disasters will suddenly come upon those rebels,
 \q2 and no one knows how terrible the disasters will be that will come from both Yahweh and from the king.
@@ -30,7 +30,7 @@
 <usfm>
 \q
 \v 21 Fear Yahweh, and fear the king, my son;
-\q do not associate with those who rebel against them,
+\q do not associate with those who rebel against them, 
 \q
 \v 22 for suddenly their disaster will come
 \q and who knows the extent of the destruction that will come from both of them?
@@ -45,11 +45,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **Fear** - a deep respect and awe for a person in authority 
+  * **Fear** - This refers to a deep respect and awe for a person in authority. 
   * **who knows the extent of the destruction that will come from both of them?** - The writer asks this question to emphasize the disaster. AT: "no one knows the extent of the destruction that will come from both of them." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **both of them** - these words refer to Yahweh and the king
+  * **both of them** - "Them" refers to both Yahweh and the king.
  
 ===== Links: =====
 
@@ -64,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

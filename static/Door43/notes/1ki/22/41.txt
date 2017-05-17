@@ -33,8 +33,8 @@
 
 ===== translationNotes: =====
 
-  * **thirty-five years old** - "35 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **twenty-five years** - "25 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **thirty-five years old** - AT: "35 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **twenty-five years** - AT: "25 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 ===== Links: =====
 
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:1ki:22]]
 **[[:en:bible:notes:1ki:22:39|<<]] | [[:en:bible:notes:1ki:22:43|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

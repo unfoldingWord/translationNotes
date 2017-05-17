@@ -20,8 +20,9 @@
 \v 24 Do not become a friend with one whose life is controlled by his anger,
 \q2 and do not associate with a person who rages in his terrible wrath,
 \q1
-\v 25 or you will learn to be like him,
-\q2 and your anger will become like a trap, a trap that will take charge of your life.
+\v 25 or you will learn to be like him, 
+\q2 and your anger will become like a trap, a trap that will take charge of your life. 
+
 
 \q1
 </usfm>
@@ -35,7 +36,7 @@
 \q and you must not go with one who rages,
 \q
 \v 25 or you will learn his ways
-\q and you will take bait for your soul.
+\q and you will entangle yourself in a snare.
 </usfm>
 
 
@@ -45,12 +46,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
-
-  * **someone who is ruled by anger** - someone who is unable to control his anger (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **rages** - shows violent anger
-  * **you will take bait for your soul** - A person who wants to be like an angry person is like an animal taking the bait in a trap. AT: "you will be like an animal that eats the bait that closes a trap and is unable to escape" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **bait for your soul** - The soul is a metonym for the person's life. AT: "bait that someone has put out so he can kill you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **entangle** - become involved or twisted up in a difficult situation
+  * **snare** - a type of trap used to catch animals. See how you translated in [[:en:bible:notes:pro:22:05]] 
  
  
 ===== Links: =====
@@ -66,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

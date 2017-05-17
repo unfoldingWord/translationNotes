@@ -13,7 +13,7 @@
 
 <usfm>
 \v 17 There will be an open area around the city, within the special area, that will be about 135 meters deep in each direction.
-\v 18 Outside the city there will be a farming area that will extend five and two-fifth kilometers on the east side and five and two-fifth kilometers on the west side. Men who work there will produce food for the people who work in the city.
+\v 18 Outside the city there will be a farming area that will extend about 5.4 kilometers on the east side and about 5.4 kilometers on the west side. Men who work there will produce food for the people who work in the city.
 </usfm>
 
 
@@ -32,8 +32,7 @@
 ===== translationNotes: =====
 
  
-  * **250 cubits ... ten thousand cubits** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "about 135 meters ... about 5.4 kilometers" (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **its produce** - "the food that grows there"
+  * **its produce** - "the things grown there"
 
 ===== Links: =====
 
@@ -42,6 +41,6 @@
   * [[:en:bible:questions:comprehension:ezk:48]]
 **[[:en:bible:notes:ezk:48:15|<<]] | [[:en:bible:notes:ezk:48:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

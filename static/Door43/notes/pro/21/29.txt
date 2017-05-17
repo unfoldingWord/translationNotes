@@ -12,8 +12,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 29 The wicked man acts as if he were strong,
-\q2 but an honest man has thought about what to do and is certain about it.
+\v 29 The wicked man acts as if he were strong, 
+\q2 but an honest man has thought about what to do and is certain about it. 
+
 
 \q1
 </usfm>
@@ -22,7 +23,7 @@
 
 <usfm>
 \q
-\v 29 A wicked man makes his face hard,
+\v 29 A wicked man makes his face hard, 
 \q but an upright person is certain about his ways.
 \f + \ft Some modern versions have \fqa but an upright person thinks about his way \fqb . \f*
 </usfm>
@@ -34,8 +35,8 @@
 
 ===== translationNotes: =====
 
-  * **makes his face hard** - Possible meanings are 1) "pretends to be courageous" or 2) "will not listen to correction." (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **is certain about his ways** - "is certain that what he does is right because he makes sure it is right before he acts" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **makes his face hard** - pretends to be courageous (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **is certain about his ways** - AT: "is certain about his conduct because he acts with understanding." Other translations may read "acts only after planning" or "is deliberate in his actions."
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -43,6 +44,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:27|<<]] | [[:en:bible:notes:pro:21:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -14,7 +14,8 @@
 <usfm>
 \v 14 Arioch, the commander of the king's guards, came with soldiers to kill everyone in Babylon who was considered to be wise. So Daniel spoke to him very wisely and tactfully.
 \v 15 Daniel asked the captain Arioch, "Why has the king made a decree that must be carried out so quickly?" So Arioch told Daniel all that had happened.
-\v 16 Daniel went to talk with the king and requested an appointment with the king so that he could tell the king what the dream was and what it meant.
+\v 16 Daniel went to talk with the king and requested an appointment with the king so that he could tell the king what the dream was and what it meant. 
+
 
 \p
 </usfm>
@@ -44,7 +45,6 @@
   * **Arioch** - This is the name of the king's commander. (See: [[:en:ta:vol1:translate:translate_names]])
   * **bodyguard** - This is a group of men whose job is to protect the king.
   * **who had come to kill** - "who the king had sent out to kill"
-  * **Daniel went in** - Daniel probably went to the palace. AT: "Daniel went to the palace" or "Daniel went to talk with the king" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **requested an appointment with the king** - "asked for a set time to meet with the king"
 
 ===== Links: =====
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:dan:02]]
 **[[:en:bible:notes:dan:02:12|<<]] | [[:en:bible:notes:dan:02:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass commander}}
+~~DISCUSSION~~{{tag>publish p2edit commander}}
 
 ~~NOCACHE~~

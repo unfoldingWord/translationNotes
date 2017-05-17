@@ -29,7 +29,7 @@
 <usfm>
 \p
 \v 19 Bathsheba therefore went to King Solomon to speak to him for Adonijah. The king rose to meet her and bowed down to her. Then he sat down on his throne and had a throne brought for the king's mother. She sat at his right hand.
-\v 20 Then she said, "I wish to ask one small request of you, for you will not turn away from my face." The king answered her, "Ask, my mother, for I will not turn away from your face."
+\v 20 Then she said, "I wish to ask one small request of you. Do not turn away from my face." The king answered her, "Ask, my mother, for I will not refuse you."
 \v 21 She said, "Let Abishag the Shunammite be given to Adonijah your brother as his wife."
 </usfm>
 
@@ -44,12 +44,8 @@
 
   * **General Information:** - Bathsheba goes to King Solomon with Adonijah's request.
 
-  * **The king rose** - "The king stood up" from where he was sitting on his throne.
-  * **had a throne brought** - This can be stated in active form. AT: "told someone to bring a throne" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the king's mother** - Bathsheba
-  * **you will not turn away from my face ... I will not turn away from your face** - Turning from the face of someone is a metonym for refusing to look at someone, which in turn is a metonym for refusing to do what that person requests. AT: "you will not refuse to do what I request ... I will not refuse to do what you request" Similar words are found in [[:en:bible:notes:1ki:02:16|2:16-17]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Let Abishag the Shunammite be given to Adonijah ... as his wife** - This can be translated in active form. AT: "Allow Adonijah ... to marry Abishag the Shunammite" or "Give Abishag the Shunammite to Adonijah ... as his wife" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **had a throne brought** - This can be stated in active form. AT: "told someone to bring a throne" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **I will not refuse you** - This can be expressed positively. AT: "I will give you what you ask for" or "I will do what you ask" (See: [[:en:ta:vol2:translate:figs_doublenegatives]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -57,6 +53,6 @@
   * [[:en:bible:questions:comprehension:1ki:02]]
 **[[:en:bible:notes:1ki:02:16|<<]] | [[:en:bible:notes:1ki:02:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

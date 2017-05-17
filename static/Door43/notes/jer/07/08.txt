@@ -39,8 +39,8 @@
 <usfm>
 \p
 \v 8 Behold! You are trusting in deceitful words that do not help you.
-\v 9 Do you steal, kill, and commit adultery? Do you swear deceitfully and offer incense to Baal and walk after other gods whom you have not known?
-\v 10 Then do you come and stand before me in this house that is called by my name and say, "We are saved," so you can do all of these abominations?
+\v 9 Do you steal, kill, and commit adultery? And do you swear deceitfully and offer incense to Baal and walk after other gods whom you have not known?
+\v 10 Then do you come and stand before me in this house where my name is proclaimed and say, "We are saved," so you can do all of these abominations?
 \v 11 Is this house, which carries my name, a den of bandits in your eyes? But behold, I have seen it—this is Yahweh's declaration.'
 </usfm>
 
@@ -64,20 +64,16 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues giving Jeremiah his message to the people of Judah.
-  * **General Information:** - The word "you" in these verses refers to the people of Judah.
+  * **General Information:** - Yahweh continues to speak to the people of Judah through the prophet Jeremiah.
 
-  * **Behold!** - The word "Behold" here alerts us to pay attention to the information that follows. 
-  * **Do you steal, kill, and commit adultery? Do you swear ... and walk after other gods whom you have not known?** - These questions expect a positive answer to make the point that God knows the sins they are committing. This can be translated as a statement. AT: "You steal, kill, and commit adultery. You swear ... and walk after other gods whom you have not known." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
-  * **swear deceitfully** - "lie even in your oaths"
-  * **walk after other gods** - Here walking after is a metonym for following after with the intent to serve and obey. Translate this as you did in [[:en:bible:notes:jer:07:05|7:6]]. AT: "serve other gods" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Then do you come and stand ... so you can do all of these abominations?** - This question expects a positive answer to make the point that God knows the hypocrisy of their words and actions. This can be translated as a statement. AT: "Then you come and stand ... so you can do all of these abominations." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **this house that is called by my name** - This is a metonym for Yahweh's temple. It can be expressed in active form. AT: "this house that belongs to me" or "this temple where you worship me" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Is this house, which carries my name, a den of bandits in your eyes?** - This question expects a positive answer to make the point that God knows what they think about Yahweh's temple. This can be translated as a statement. AT: "This house, which carries my name, is a den of bandits in your eyes!" or "You act as though you think this house, which is called by my name, should be a place where bandits can go to hide!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **this house, which carries my name** - Yahweh's temple is spoken of as if it was carrying the name of Yahweh. This has a similar meaning to "this house that is called by my name" in the previous verse. (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-  * **bandits** - "robbers." This word refers to violent men who steal and destroy.
-  * **But behold, I have seen it** - "But I certainly have seen what you are doing"
-  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Behold!** - The word "Behold" shows that the following questions are very important.
+  * **You are trusting in deceitful words that do not help you.** - "You think that I will save Jerusalem because I will protect my temple. But that is a lie!" 
+  * **Do you steal, kill, and commit adultery?** - "You steal, kill, and commit adultery" (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **And do you swear deceitfully and offer incense to Baal and walk after other gods whom you have not known?** - "You lie even in your oaths and worship Baal and other new gods." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **Then do you come and stand before me in this house where my name is proclaimed and say, "We are saved," so you can do all of these abominations?** - "Then you come to my house and say 'Yahweh will save us" so that you can continue to sin greatly." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Is this house, which carries my name, a den of bandits in your eyes?** - "This house is ... a den of bandits in your eyes!" or "You act as though you think my house ... should be a place where bandits can go to hide!" (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **bandits** - "robbers" or "people who steal things from others"
+  * **Yahweh's declaration** - See how you translated this in [:en:bible:notes:jer:01:07|1:8]].
 
 ===== Links: =====
 
@@ -86,6 +82,6 @@
   * [[:en:bible:questions:comprehension:jer:07]]
 **[[:en:bible:notes:jer:07:05|<<]] | [[:en:bible:notes:jer:07:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

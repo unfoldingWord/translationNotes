@@ -23,8 +23,10 @@
 \q2 I will sing to Yahweh. With this song I will praise Yahweh, the God of Israel.
 \q1
 \v 4 O Yahweh, when you came from Seir, when you marched from that land, also known as Edom,
+\b
 \q2 the earth shook,
 \q2 and rain poured down from the skies.
+\b
 
 
 \q1
@@ -71,6 +73,6 @@
   * [[:en:bible:questions:comprehension:jdg:05]]
 **[[:en:bible:notes:jdg:05:01|<<]] | [[:en:bible:notes:jdg:05:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

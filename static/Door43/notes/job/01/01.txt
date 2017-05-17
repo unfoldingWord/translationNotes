@@ -14,7 +14,7 @@
 <usfm>
 \v 1 In the land named Uz, there was a man named Job. He obeyed God and always avoided doing evil things.
 \v 2 He had seven sons and three daughters.
-\v 3 He owned seven thousand sheep, three thousand camels, one thousand oxen, and five hundred donkeys. He also had many servants. This was the man who was the richest in all the area east of the Jordan River.
+\v 3 He owned seven thousand sheep, three thousand camels, one thousand oxen, and five hundred donkeys. He also had many servants. He was the richest man in all the area east of the Jordan River.
 
 
 \p
@@ -27,7 +27,7 @@
 \p
 \v 1 There was a man in the land of Uz whose name was Job; and Job was blameless and upright, one who feared God and turned from evil.
 \v 2 There were born to him seven sons and three daughters.
-\v 3 He possessed seven thousand sheep, three thousand camels, five hundred pairs of oxen, and five hundred donkeys and a great many servants. He was the man who was the greatest of all the people of the East.
+\v 3 He possessed seven thousand sheep, three thousand camels, five hundred pairs of oxen, and five hundred donkeys and a great many servants. This man was the greatest of all the people of the East.
 </usfm>
 
 ===== translationWords: =====
@@ -44,16 +44,15 @@
 
 ===== translationNotes: =====
 
-  * **land of Uz** - Possible locations are 1) a place in ancient Edom east of the Jordan River in modern western Jordan or 2) a place east of the Euphrates River in modern Iran. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **blameless and upright** - The words "blameless" and "upright" share similar meanings and emphasize that Job was a righteous man. AT: "one who did what was right before God" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **one who feared God** - "one who honored God"
-  * **turned from evil** - Here evil is spoken of as if it were a place that a person could avoid going to, instead of the doing of evil actions. AT: "refused to do evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **land of Uz** - Possible locations are 1) a place in Edom east of the Jordan river somewhere in modern western Jordan or 2) a place east of the Euphrates River in modern Iran. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **blameless and upright** - The words "blameless" and "upright" share similar meanings and emphasize that Job was a righteous man. AT: "He did what was right before God." (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **one who feared God and turned from evil** - AT: "He honored God and did not do what was evil."
   * **seven sons and three daughters** - "7 sons and 3 daughters" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **He possessed seven thousand sheep** - "He had 7,000 sheep" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **three thousand camels** - "3,000 camels" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **five hundred pairs of oxen** - "500 pairs of oxen" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **greatest** - "the richest"
-  * **all the people of the East** - The refers to places that were east of Canaan. AT: "all the people who live in lands that were east of Canaan" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **He possessed seven thousand sheep** - "He had 7,000 sheep"
+  * **three thousand camel** - "3,000 camels"
+  * **five hundred pairs of oxen** - "500 pairs of oxen"
+  * **all the people of the East** - AT: "all the people who live in lands that were east of Canaan." (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 
 ===== Links: =====
 
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:job:01]]
 **| [[:en:bible:notes:job:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check evil job}}
+~~DISCUSSION~~{{tag>publish p2edit evil job}}
 
 ~~NOCACHE~~

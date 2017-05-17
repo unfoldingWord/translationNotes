@@ -34,7 +34,7 @@
 <usfm>
 \q1
 \v 11 His people thought about the ancient times of Moses.
-\q1 They said, "Where is God, who brought them up out of the sea with the shepherds of his flock?
+\q1 They said, "Where is God, who brought them up out of the sea with the shepherds of his flock? 
 \q1 Where is God, who put his Holy Spirit among them?
 </usfm>
 
@@ -49,9 +49,8 @@
 
 ===== translationNotes: =====
 
-  * **They said** - "we said." Here "they" refers to the people of Israel. Isaiah included himself as a member of the people. 
-  * **who brought them up out of the sea** - The story of Yahweh miraculously splitting the waters of the Sea of Reeds so that the Israelites could cross and escape the Egyptians is assumed knowledge. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the shepherds of his flock** - Leaders are sometimes referred to as "shepherds." AT: "the leaders of his people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **They said** - Here "they" refers to the people of Israel. Isaiah included himself as a member of the people. AT: "we said"
+  * **the shepherds of his flock** - Leaders are sometimes referred to as "shepherd." AT: "the leaders of his people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
  
 ===== Links: =====
@@ -61,6 +60,6 @@
   * [[:en:bible:questions:comprehension:isa:63]]
 **[[:en:bible:notes:isa:63:10|<<]] | [[:en:bible:notes:isa:63:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

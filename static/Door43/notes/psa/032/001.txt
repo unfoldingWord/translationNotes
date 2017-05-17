@@ -24,7 +24,7 @@
 \v 2 Those whose record of sins Yahweh has erased
 \q2 and those who no longer do deceitful things,
 \q2 these are the ones who are truly fortunate!
-
+\b
 
 
 \q1
@@ -34,8 +34,9 @@
 
 <usfm>
 \c 32
-\m
+\p
 \d A psalm of David. A maschil.
+\b
 \q
 \v 1 Blessed is the person whose transgression is forgiven,
 \q whose sin is covered.
@@ -59,13 +60,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **A maschil** - This may refer to a style of music.
-  * **whose transgression is forgiven, whose sin is covered** - These phrases have similar meanings. They can be stated in active form. AT: "who God forgives his transgression and covers his sin" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **whose transgression is forgiven, whose sin is covered** - These phrases have similar meaning. They can be stated in active form. AT: "who God forgives his transgression and covers his sin" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **whose sin is covered** - Here sin that is forgiven is spoken of as if it were covered so that it can not be seen. AT: "whose sin is ignored" or "whose sin is deliberately forgotten" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **to whom Yahweh reckons no guilt** - This can be stated in active form. AT: "whom Yahweh sees as innocent" or "who is not guilty according to Yahweh" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **to whom Yahweh reckons no guilt** - This can be stated in active form. AT: "whom Yahwey sees as innocent" or "who is not guilty according to Yahweh" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **in whose spirit there is no deceit** - Here "spirit" refers to the person. AT: "in whom there is not deceit" or "who is completely honest" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
@@ -74,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:032]]
 **[[:en:bible:notes:psa:031:023|<<]] | [[:en:bible:notes:psa:032:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1 transgression}}
+~~DISCUSSION~~{{tag>publish p2check book1 transgression}}
 
 ~~NOCACHE~~

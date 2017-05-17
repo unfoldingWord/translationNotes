@@ -20,7 +20,7 @@
 \q1
 \v 6 He protects those who are helpless;
 \q2 when I thought that I would die, he saved me.
-
+\b
 
 
 \q1
@@ -48,8 +48,8 @@
 
   * **General Information:** - The person who made this song continues to speak.
 
-  * **the naive** - This refers to people who are inexperienced or who cannot care for themselves. The adjective can be translated as a noun phrase. AT: "those who are naive" or "those who are helpless" (UDB) (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **I was brought low** - The writer speaks of being humbled as in being in a lower position. AT: "I was helpless" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the naive** - This refers to people who are inexperienced or who cannot care for themselves. The adjective can be translated as a noun phrase. AT: "those who are naive" or "those who are helpless" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **I was brought low** - The writer speaks of being in dangerous circumstances as if it were being moved to a lower position. AT: "I was in danger" or "I was helpless" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:116]]
 **[[:en:bible:notes:psa:116:003|<<]] | [[:en:bible:notes:psa:116:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

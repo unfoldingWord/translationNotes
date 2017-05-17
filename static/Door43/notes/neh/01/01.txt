@@ -26,7 +26,7 @@
 \c 1
 \p
 \v 1 The words of Nehemiah son of Hacaliah:
-\p Now it happened in the month of Kislev, in the twentieth year, as I was in the fortress of Susa,
+\p Now it happened in the month of Kislev, in the twentieth year, as I was in the fortress city of Susa,
 \v 2 that one of my brothers, Hanani, came with some people from Judah, and I asked them about the Jews who had escaped, the remnant of the Jews who were there, and about Jerusalem.
 </usfm>
 
@@ -41,16 +41,15 @@
   * [[:en:obe:other:jew]]
   * [[:en:obe:kt:remnant]]
   * [[:en:obe:other:jerusalem]]
-
 ===== translationNotes: =====
 
   * **Nehemiah ... Hacaliah ... Hanani** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **in the month of Kislev** - "Kislev" is the ninth month of the Hebrew calendar. It is during the last part of November and the first part of December on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol1:translate:translate_names]])
-  * **in the twentieth year** - Nehemiah is referring to the number of years that Artaxerxes had been reigning as king. AT: "in the twentieth year of the reign of Artaxerxes, King of Persia" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **fortress of Susa** - This was one of the royal cities of Persian kings, located in the country of Elam. It was a large, fortified city with high walls surrounding it.
-  * **one of my brothers, Hanani** - Hanani was Nehemiah's biological brother.
-  * **Hanani, came with some people from Judah** - "Hanani came from Judah with some other people"
-  * **the Jews who had escaped, the remnant of the Jews who were there** - These two phrases refer to the same group of people. Possible meanings are 1) the few Jews who were taken as exiles to Babylon but escaped and returned to live in Jerusalem or 2) the few Jews who had escaped from those who were trying to take them into exile in Babylon and so remained in Jerusalem. Since it is unclear from where they escaped, it may be best not to specify in the translation. AT: "the Jews who had escaped the exile and who remained in Jerusalem" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **in the month of Kislev** - "Kislev" is the ninth month of the Hebrew calendar. It is during the last part November and the first part December on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]]and [[:en:ta:vol1:translate:translate_names]])
+  * **in the twentieth year** - "in the twentieth year of the reign of Artaxerxes, King of Persia" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **fortress city of Susa** - This was a royal city of Persian kings, located in the country of Elam, far away from Judah. It was a large city with walls.
+  * **one of my brothers** - "one of my fellow Jews"
+  * **the Jews who had escaped** - "the Jews who had returned to Jerusalem from the captivity"
+  * **the remnant of the Jews** - "the Jews who had survived the Babylonian captivity"
  
 ===== Links: =====
 
@@ -59,6 +58,6 @@
   * [[:en:bible:questions:comprehension:neh:01]]
 **| [[:en:bible:notes:neh:01:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass nehemiah}}
+~~DISCUSSION~~{{tag>publish p2edit nehemiah}}
 
 ~~NOCACHE~~

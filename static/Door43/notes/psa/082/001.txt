@@ -30,15 +30,17 @@
 
 <usfm>
 \c 82
-\m
+\p
 \d A psalm of Asaph.
+\b
 \q
 \v 1 God stands in the divine assembly;
 \q in the midst of the gods he renders judgment.
 \q
 \v 2 How long will you judge unjustly
-\q and show favoritism to the wicked?
+\q and show favoritism to the wicked? 
 \qs Selah\qs*
+\b
 </usfm>
 
 ===== translationWords: =====
@@ -57,14 +59,15 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of Asaph** - "This is a psalm that Asaph wrote"
   * **the divine assembly** - "the heavenly council" or "the meeting in heaven"
   * **he renders judgment** - "he gives judgment." The abstract noun "judgment" can be stated as a verb. AT: "he judges" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **the gods** - Possible meanings are 1) these are other spiritual beings who dwell in heaven. AT: "the divine beings" or "the heavenly judges" or 2) these are human judges that God has appointed. Either way, it does not mean they are gods like Yahweh is god. It means God has given them great power and authority. AT: "the rulers"
+  * **the gods** - Possible meanings are 1) these are other spiritual beings who dwell in heaven, or 2) these are human judges that God has appointed. Either way, it does not mean they are gods like Yahweh is god. It means God has given them great power and authority. AT: 1) "the divine beings" or "the heavenly judges" or 2) "the rulers"
   * **How long will you judge unjustly and show favoritism to the wicked?** - Yahweh uses a question to rebuke the gods for not judging people fairly. (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Selah** - This may be a musical term that tells people how to sing or play their instruments here. Some translations write the Hebrew word, and some translations do not include it. See how you translated this in [[:en:bible:notes:psa:003:001|3:2]]. (See: [[:en:ta:vol1:translate:translate_transliterate]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -73,6 +76,6 @@
 
 **[[:en:bible:notes:psa:081:015|<<]] | [[:en:bible:notes:psa:082:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~

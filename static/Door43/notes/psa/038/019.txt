@@ -20,7 +20,7 @@
 \q1
 \v 20 Those who do evil things to me in return for my doing good things to them
 \q2 oppose me because I try to do what is right.
-
+\b
 
 
 \q1
@@ -45,7 +45,7 @@
 
 ===== translationNotes: =====
 
-  * **But my enemies are numerous ... are many** - These two phrases mean basically the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **But my enemies are numerous ... are many** - These phrases mean the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **They repay me evil for good** - The actions of the writer's enemies are spoken of as a financial transaction where they gave him evil things in exchange for good things. The abstract nouns "evil" and "good" can be stated as actions. AT: They give me bad actions in exchange for my good actions for them" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **hurl accusations at me** - The way the writer's enemies accuse him is spoken of as if they were throwing accusations at him like rocks. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **pursued what is good** - The writers desire for what is good is spoken of as if he were running after good things. (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:psa:038]]
 **[[:en:bible:notes:psa:038:017|<<]] | [[:en:bible:notes:psa:038:021|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

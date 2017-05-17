@@ -34,7 +34,7 @@
 
 <usfm>
 \q
-\v 33 You will be filled with drunkenness and sorrow,
+\v 33 You will be filled with drunkenness and sorrow, 
 \q the cup of horror and devastation;
 \q the cup of your sister Samaria.
 \q
@@ -51,13 +51,9 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues his metaphor in which he speaks of the cities of Jerusalem and Samaria as if they were two prostitutes. This metaphor continues through [[:en:bible:notes:ezk:23:33|23:34]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
-  * **You will be filled with drunkenness and sorrow** - This speaks of being very drunk and sorrowful as if drunkenness and sorrow were things that filled his body. AT: "You will become very drunk and very sad" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the cup of horror and devastation** - "the cup that causes horror and devastation" The words "horror" and "devastation" share similar meanings here and emphasize how terrible her punishment will be. AT: "for what is in that cup causes horror and devastation" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **the cup of your sister Samaria** - Oholibah's sister Oholah represents Samaria. Samaria is called by it's name but still referred to as a sister. The cup is a symbol for the punishment that she received. AT: "for this is the same cup of punishment that you sister drank, who represents Samaria"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **tear your breasts** - "cut your beasts" (UDB)
-  * **this is the Lord Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:ezk:05:11|5:11]]. AT: "this is what the Lord Yahweh has declared" or "this is what I, the Lord Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **the cup of horror and devastation!** - "the cup that causes horror and devastation." The words "horror" and "devastation" share similar meanings here and emphasize how terrible her punishment will be. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **the cup of your sister Samaria** - Oholibah's sister Oholah has represented Samaria. Samaria is called by it's name but still referred to as a sister. The cup is a symbol for the punishment that she received. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **this is the Lord Yahweh's declaration** - See how you translated this in [[:en:bible:notes:ezk:05:11|5:11]].
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -65,6 +61,6 @@
   * [[:en:bible:questions:comprehension:ezk:23]]
 **[[:en:bible:notes:ezk:23:32|<<]] | [[:en:bible:notes:ezk:23:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check horror}}
+~~DISCUSSION~~{{tag>publish p2edit horror}}
 
 ~~NOCACHE~~

@@ -20,9 +20,11 @@
 <usfm>
 \v 32 The wicked person is brought down by his evil actions,
 \q2 but those who do what is right have a safe home, even in death.
+\b
 \q1
 \v 33 Wisdom finds a place to rest in someone who has discernment,
-\q2 but wisdom lets herself be known even among fools.
+\q2 but wisdom lets herself be known even among fools. 
+
 
 \q1
 </usfm>
@@ -35,7 +37,7 @@
 \v 32 The wicked person is brought down by his evil actions,
 \q but the righteous person has a refuge even in death.
 \q
-\v 33 Wisdom rests in the heart of the discerning,
+\v 33 Wisdom rests in the heart of the discerning, 
 \q but even among fools she lets herself be known.
 </usfm>
 
@@ -50,13 +52,13 @@
   * [[:en:obe:other:discernment]]
   * [[:en:obe:kt:foolish]]
   * [[:en:obe:other:know]]
-
 ===== translationNotes: =====
 
-  * **is brought down by his evil actions** - This can be stated in active form. AT: "evil actions push over" or "evil actions destroy" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Wisdom rests in the heart** - The word "heart" represents the feelings, attitudes and motivations of a person. AT: "Wisdom is in the attitude" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **brought down** - "pushed over" AT: "destroyed"
+  * **Wisdom rests in the heart** - AT: "Wisdom is found in the heart" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in the heart** - AT: "with" or "by" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **the discerning** - "a discerning person"
-  * **she lets herself be known** - This can be stated in active form. AT: "she makes sure people know her" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **she lets herself be known** - AT: "she makes sure people know her" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **she** - The word "she" refers to wisdom. (See: [[:en:ta:vol2:translate:figs_personification]])
 
  
@@ -67,6 +69,6 @@
   * [[:en:bible:questions:comprehension:pro:14]]
 **[[:en:bible:notes:pro:14:30|<<]] | [[:en:bible:notes:pro:14:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

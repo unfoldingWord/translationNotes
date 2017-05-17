@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 During the first year that Cyrus ruled the Persian Empire, he did something that fulfilled the prophecy that Jeremiah had spoken. Yahweh motivated Cyrus to write this message, and then
+\v 1 During the first year that Cyrus ruled the Persian Empire, he did something that fulfilled the prophecy that Jeremiah had spoken. Yahweh motivated Cyrus to write this message, and then 
 Cyrus caused this message to be proclaimed throughout his empire:
 \v 2 "I, King Cyrus, rule the Persian Empire, and I say this: Yahweh, the God who is in heaven, has made me ruler of all the kingdoms on earth. And he has assigned me to make sure that his people build a temple for him in Jerusalem, in Judah.
 </usfm>
@@ -49,14 +49,9 @@ Cyrus caused this message to be proclaimed throughout his empire:
 
 ===== translationNotes: =====
 
-  * **first year** - This refers to the beginning of the reign of King Cyrus. (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **Yahweh fulfilled his word that came from the mouth of Jeremiah** - Here "mouth" represents speaking. AT: "Yahweh did what Jeremiah prophesied that Yahweh would do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
-  * **Yahweh ... stirred Cyrus's spirit** - Stirring the spirit is a metonym for making someone want to act. "Yahweh ... made Cyrus want to act" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Cyrus' voice went out over his entire kingdom** - The voice is a metonym for the message the voice speaks, and the kingdom is a metonym for the people whom a king rules. AT: "Cyrus sent a message to everyone over whom he ruled" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **what was written and spoken** - This can be translated in active form. It might be best to translate so the reader understands that other people might have helped Cyrus get the message to the people over whom he ruled. AT: "what Cyrus wrote and what his messengers read so people could hear them" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **all the kingdoms of the earth** - This is an exaggeration, as there were kingdoms over which Cyrus did not rule. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **for him a house in ... Judea** - You may need to make explicit that the house was for people to worship Yahweh. AT: "a house in ... Judea where people can worship him" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **first year** - referring to the beginning of the reign of King Cyrus (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **came from the mouth of Jeremiah** - That Jeremiah wrote or spoke about.
+  * **This is what was written** - This refers to the following text that contains King Cyrus' proclamation.
  
 ===== Links: =====
 
@@ -71,7 +66,7 @@ Cyrus caused this message to be proclaimed throughout his empire:
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~
 

@@ -20,6 +20,7 @@
 \li1
 \v 6 Ahishar supervised the servants who worked in the palace.
 \li1 Abda's son Adoniram supervised the men who were forced to do work for the king.
+\b
 
 
 \p
@@ -28,9 +29,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 5 Azariah son of Nathan was over the officers.
+\v 5 Azariah son of Nathan was over the officers. 
 Zabud son of Nathan was a priest and the king's friend.
-\v 6 Ahishar was over the household.
+\v 6 Ahishar was over the household. 
 Adoniram son of Abda was over the men who were subjected to forced labor.
 </usfm>
 
@@ -43,10 +44,9 @@ Adoniram son of Abda was over the men who were subjected to forced labor.
 
 ===== translationNotes: =====
 
-  * **General Information:** - The list of Solomon's officials continues.
+  * **General Information:** - More of Solomon's Officials:
 
-  * **Azariah ... Nathan ... Zabud ... Ahishar ... Adoniram ... Abda** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the men who were subjected to forced labor** - This can be translated in active form. AT: "the men whom Solomon forced to work for him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Azariah ... Nathan ... Zabud ... Ahishar ... Adoniram ... Abda** - These are all men's names. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -55,6 +55,6 @@ Adoniram son of Abda was over the men who were subjected to forced labor.
   * [[:en:bible:questions:comprehension:1ki:04]]
 **[[:en:bible:notes:1ki:04:01|<<]] | [[:en:bible:notes:1ki:04:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass subject}}
+~~DISCUSSION~~{{tag>publish p2edit subject}}
 
 ~~NOCACHE~~

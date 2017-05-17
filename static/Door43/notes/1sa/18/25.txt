@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 25 Then Saul said, "Say this to David, 'The king does not desire any dowry, only one hundred foreskins of the Philistines, to be avenged from the king's enemies.'" Now Saul thought to make David fall by the hand of the Philistines.
+\v 25 And Saul said, "Thus you will say to David, 'The king does not desire any dowry, only one hundred foreskins of the Philistines, to be avenged from the king's enemies.'" Now Saul thought to make David fall by the hand of the Philistines.
 \v 26 When his servants told David these words, it pleased David to be the king's son-in-law.
 </usfm>
 
@@ -36,11 +36,10 @@
 
 ===== translationNotes: =====
 
-  * **The king does not desire any dowry, only one hundred foreskins** - The verb for the second phrase may be supplied from the first. AT: "The king does not desire any dowry; he desires only that you bring to him 100 foreskins" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:translate_numbers]])
-  * **dowry** - "bride price." In this culture, the man was required to give a gift to the bride's father.
+  * **The king does not desire any dowry, only one hundred foreskins** - Here "dowry" refers to bride price. AT: "The king does not desire any bride price; he desires only that you bring to him 100 foreskins" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:translate_numbers]])
   * **foreskins** - The word "foreskin" refers to the fold of skin on a man's private parts that is removed during circumcision.
   * **to be avenged from the king's enemies** - This can be stated in active form. AT: "to get revenge on the king's enemies" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **to make David fall by the hand of the Philistines** - Here "fall" means to die. The word "hand" represents the Philistines. This can be stated in active form. AT: "to have the Philistines kill David" (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **to make David fall by the hand of the Philistines** - Here "fall" means to die. This can be stated in active form. AT: "to have the Philistines kill David" (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -55,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

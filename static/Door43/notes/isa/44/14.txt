@@ -31,7 +31,7 @@
 
 <usfm>
 \q1
-\v 14 He cuts down cedars, or chooses a cypress tree or an oak tree.
+\v 14 He cuts down cedars, or chooses a cypress tree or an oak tree. 
 \q1 He picks for himself trees in the forest. He plants a fir tree and the rain makes it grow.
 </usfm>
 
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass cypress fir}}
+{{tag>publish p2edit cypress fir}}
 
 ~~NOCACHE~~

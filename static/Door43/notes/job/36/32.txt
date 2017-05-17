@@ -27,7 +27,7 @@
 
 <usfm>
 \q
-\v 32 He fills his hands with the lightning
+\v 32 He fills his hands with the lightning 
 \q until he commands it to strike its mark.
 \q
 \v 33 Its thunder warns of the storm,
@@ -42,9 +42,8 @@
 
 ===== translationNotes: =====
 
-  * **He fills his hands with the lightning** - Elihu speaks of the lightening that storms cause as if God were holding the lightening in his hand and directing it to strike where he wills. Possible meanings are 1) that God holds the lightning bolts in his hands in order to throw them, or 2) that God hides the lightning bolts in his hands until he is ready to use them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Its thunder** - "The thunder caused by the lightening" or "The thunder"
-  * **hear it is coming** - "hear that the storm is coming"
+  * **He fills his hands with the lightning** - Possible meanings are 1) that God holds the lightning bolts in his hands in order to throw them, or 2) that God hides the lightning bolts in his hands until he is ready to use them.
+  * **Its thunder** - "The noise of the lightning bolts"
 
 ===== Links: =====
 
@@ -53,6 +52,6 @@
   * [[:en:bible:questions:comprehension:job:36]]
 **[[:en:bible:notes:job:36:30|<<]] | [[:en:bible:notes:job:37:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 \q1
 \v 22 I hate them completely,
 \q2 and I consider that they are my enemies.
-
+\b
 
 
 \q1
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:psa:139]]
 **[[:en:bible:notes:psa:139:019|<<]] | [[:en:bible:notes:psa:139:023|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

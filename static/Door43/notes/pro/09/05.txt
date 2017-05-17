@@ -17,11 +17,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 "Come and eat the food that I have prepared," she says,
+\v 5 "Come and eat the food that I have prepared," she says, 
 \q2 "and drink the good wine that I have mixed.
 \q1
-\v 6 Leave your untrained ways behind you, and live,
+\v 6 Leave your untrained ways behind you, and live, 
 \q2 and I will show you how to walk on the road that will give you understanding.
+\b
 
 
 \q1
@@ -32,11 +33,11 @@
 
 <usfm>
 \q
-\v 5 "Come, eat my food,
+\v 5 "Come, eat my food, 
 \q and drink the wine I have mixed.
 \q
-\v 6 Leave your naive actions and live;
-\q walk in the path of understanding.
+\v 6 Leave your untaught ways behind, and live; 
+\q walk in the way of understanding.
 </usfm>
 
 
@@ -47,13 +48,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the message of Wisdom.
-
-  * **Come ... eat ... drink ... Leave ... live ... walk** - All of these commands are plural; Wisdom is addressing many people at the same time. 
-  * **the wine I have mixed** - In ancient Israel, people often mixed wine with water. AT: "prepared her wine by mixing it with water" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **Leave your naive actions** - Here naive actions are spoken of as if they were a place that a person could leave. AT: "Stop your naive behavior" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **naive actions** - "inexperienced, immature actions"
-  * **the path of understanding** - Here the process of understanding wisdom is spoken of as if it were a path that a person could follow. AT: "the manner of living that a wise person has" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my food ... I have mixed** - This is still wisdom speaking like a person. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **the wine I have mixed** - In ancient Israel, people often mixed wine with water. "the drinks that I have prepared".
+  * **your untaught ways** - "your naive ways" or "your young and naive way of living"
+  * **the way of understanding** - "the way of living that is full of understanding" or "the manner of living that shows you have understanding"
  
  
 ===== Links: =====
@@ -61,11 +59,14 @@
   * [[:en:bible:notes:pro:00:intro]]
   * [[:en:bible:notes:pro:09:00]]
   * [[:en:bible:questions:comprehension:pro:09]]
+
+ 
+
 **[[:en:bible:notes:pro:09:03|<<]] | [[:en:bible:notes:pro:09:07|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

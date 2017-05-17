@@ -28,7 +28,7 @@
 \q1
 \v 16 You give food to all living creatures generously,
 \q2 and you cause them to be satisfied.
-
+\b
 
 
 \q1
@@ -39,7 +39,7 @@
 
 <usfm>
 \q
-\v 14 Yahweh supports all who are falling
+\v 14 Yahweh supports all who are falling 
 \q and raises up all those who are bent over.
 \q
 \v 15 The eyes of all wait for you;
@@ -71,6 +71,6 @@
   * [[:en:bible:questions:comprehension:psa:145]]
 **[[:en:bible:notes:psa:145:013|<<]] | [[:en:bible:notes:psa:145:017|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

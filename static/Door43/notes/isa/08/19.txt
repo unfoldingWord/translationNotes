@@ -18,8 +18,10 @@
 
 <usfm>
 \p
-\v 19 They will say to you, "Consult with the mediums and magicians," those who chirp and mutter incantations. But should a people not consult their God? Should they consult the dead on behalf of the living?
-\v 20 To the law and to the testimony! If they do not say such things, it is because they have no light of dawn.
+\v 19 They will say to you, "Consult with the mediums and magicians," those who chirp and 
+mutter incantations. But should a people not consult their God? 
+Should they consult the dead on behalf of the living?
+\v 20 So you must pay attention to the law and the testimony! If they do not say such things, it is because they have no light of dawn.
 </usfm>
 
 ===== translationWords: =====
@@ -36,18 +38,13 @@
 
   * **General Information:** - Isaiah is speaking.
 
-  * **They will say to you, "Consult with the mediums and magicians," those who chirp and mutter incantations. But should a people not consult their God? Should they consult the dead on behalf of the living? To the law and to the testimony!** - Other possible meanings are 1) "They will say to you, 'Consult with the mediums and magicians, those who chirp and mutter incantations. Should a people not consult their gods? They should consult the dead on behalf of the living for teaching and for testimony.'" or 2) "When they say to you, 'Consult with the mediums and magicians, those who chirp and mutter incantations,' should a people not consult their God? Should they consult the dead on behalf of the living? To the law and to the testimony!"
-  * **They will say to you** - The word "they" refers to those who do not trust Yahweh. The word "you" is plural and refers to those who trust Yahweh. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **Consult with the mediums and magicians** - "Ask the mediums and magicians what you should do"
-  * **mediums and magicians** - those who claim to speak with those who have died
+  * **They will say to you** - The word "they" refers to those who do not trust Yahweh. The word "you" is plural and refers to those who trust Yahweh. (See: [[:en:ta:vol1:translate:figs_youdual]])
+  * **Consult with** - "Talk with"
+  * **mediums and magicians** - "witches and wizards." This refers to those who said they could speak with those who had died.
   * **those who chirp and mutter incantations** - The words "chirp" and "mutter" refer to the sounds mediums and magicians made when trying to speak to dead people. AT: "those who whisper and mutter their magic words to try and speak to dead people"
-  * **chirp** - make sounds like birds
-  * **But should a people not consult their God? Should they consult the dead on behalf of the living?** - These questions are to show that people could consult God instead of the foolish activity of trying to talk to dead people. AT: "But people should ask Yahweh to guide them. They should not seek answers from those who have died." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **To the law and to the testimony** - Possible meanings are 1) "Pay attention to God's instructions and teaching" (UDB) or 2) "Then you must remember the teaching and testimony I gave." ([[:en:bible:notes:isa:08:16|8:16]]).
-  * **the law** - This is the same word translated "official record" in [[:en:bible:notes:isa:08:16|8:16]].
-  * **the testimony** - Translate as in [[:en:bible:notes:isa:08:16|8:16]].
-  * **If they do not say such things** - "If they do not speak of the law and the testimony"
-  * **it is because they have no light of dawn** - Isaiah speaks of people who do not know God as if they were people walking in darkness without any light. AT: "it is because they are like a person lost in the dark" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **But should a people not consult their God? Should they consult the dead on behalf of the living?** - These questions are to show that people could consult God instead of the foolish activity of trying to talk to dead people. AT: "But people should ask Yahweh to guide them. They should not seek answers from those who have died" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **If they do not say such things** - "if they do not speak of the law and the testimony"
+  * **it is because they have no light of dawn** - This refers to people who live in spiritual darkness. AT: "it is because they are like a person lost in the dark" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -55,6 +52,6 @@
   * [[:en:bible:questions:comprehension:isa:08]]
 **[[:en:bible:notes:isa:08:16|<<]] | [[:en:bible:notes:isa:08:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

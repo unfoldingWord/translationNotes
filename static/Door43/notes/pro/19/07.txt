@@ -19,12 +19,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 All the brothers of one who is poor hate him;
-\q2 and even more do his friends hate him, and they go far away from him;
-\q2 he calls out to them, but they have left.
+\v 7 All the brothers of one who is poor hate him; 
+\q2 and even more do his friends hate him, and they go far away from him; 
+\q2 he calls out to them, but they have left. 
 \q1
-\v 8 The one who makes every effort to learn about wisdom, loves himself;
-\q2 having understanding helps you know what is good and what is not.
+\v 8 The one who makes every effort to learn about wisdom, loves himself; 
+\q2 having understanding helps you know what is good and what is not. 
+
 
 \q1
 </usfm>
@@ -52,9 +53,8 @@
 
 ===== translationNotes: =====
 
-  * **how much more do his friends who go far away from him!** - This phrase is an exclamation to show that this is more likely than the previous phrase. AT: "therefore his friends will certainly hate him and go far away from him!" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **loves his own life** - Here the person is referred to by his "life" to emphasize himself being alive. AT: "loves himself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **keeps understanding** - "has understanding" 
+  * **how much more do his friends who go far away from him!** - This phrase is an exclamation to show that this is more likely than the previous phrase. AT: "therefore his friends will certainly go far away from him"
+  * **loves his own life** - AT: "loves himself" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:pro:19]]
 **[[:en:bible:notes:pro:19:05|<<]] | [[:en:bible:notes:pro:19:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

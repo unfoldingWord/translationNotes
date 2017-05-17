@@ -37,8 +37,9 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 14 He will say,
+\v 14 He will say, 
 \q1 'Build, build! Clear a way! Remove all the stumbling blocks from the path of my people!'"
 \q1
 \v 15 For this is what the high and elevated One says, who lives eternally, whose name is holy,
@@ -63,8 +64,8 @@ with him also that is of a crushed and humble spirit,
 
 ===== translationNotes: =====
 
-  * **Build, build! Clear a way! Remove all the stumbling blocks from the path of my people** - Yahweh is emphatic and urgent that a clear and level road be available for the people to return to him and free of obstacles to worshiping Yahweh. This echoes [[:en:bible:notes:isa:40:03|40:3]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **For this is what the high and elevated One says** - The words "high" and "elevated" have basically the same meaning here and emphasize Yahweh being exalted. See how you translated this in [[:en:bible:notes:isa:06:01|6:1]] and [[:en:bible:notes:isa:33:10|33:10]]. See how you translated a similar phrase in [[:en:bible:notes:isa:52:13|52:13]].
+  * **Build, build! Clear a way! Remove all the stumbling blocks from the path of my people** - Yahweh is emphatic and urgent that a clear and level road be available for the people to return to him. Basically he is referring to their lives being rid of idols. This echoes [[:en:bible:notes:isa:40:03|40:3]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **For this is what the high and elevated One says, who lives eternally, whose name is holy** - See the way you translated something similar in [[:en:bible:notes:isa:06:01|6:1]] and [[:en:bible:notes:isa:33:10|33:10]] and [[:en:bible:notes:isa:52:13|52:13]].
   * **to revive the spirit of the humble ones, and to revive the heart of the contrite ones** - These two phrases mean basically the same thing and emphasize that Yahweh will strengthen and encourage those who humble themselves before him. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **spirit ... heart** - Here these refer to a person's thoughts and emotions, not the spirit and heart literally. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
@@ -74,6 +75,6 @@ with him also that is of a crushed and humble spirit,
   * [[:en:bible:questions:comprehension:isa:57]]
 **[[:en:bible:notes:isa:57:13|<<]] | [[:en:bible:notes:isa:57:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -30,6 +30,7 @@
 \q1 There are open wounds, cuts, and sores
 \q2 that have not been cleaned or bandaged,
 \q1 and no one has put oil on them to heal them.
+\b
 
 
 \q1
@@ -43,7 +44,7 @@
 \q1 The whole head is sick, the whole heart is weak.
 \q1
 \v 6 From the sole of the foot to the head there is no part unharmed;
-\q only wounds, and bruises, and fresh open wounds;
+\q only wounds, and bruises, and fresh open wounds; 
 \q1 they have not been closed, cleansed, bandaged, nor treated with oil.
 </usfm>
 
@@ -55,13 +56,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-
-  * **Why are you still being beaten? Why do you rebel more and more?** - Isaiah uses these questions to scold the people of Judah. The questions can be translated as statements. This can also be stated in active form. AT: "You keep doing things that Yahweh has to punish you for. You continue to rebel against him." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **you** - Here the word "you" refers to the people who live in Judah and so is plural. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **The whole head is sick, the whole heart is weak** - This metaphor compares the nation of Israel to a person who has been beaten. AT: "You are like someone whose head is wounded and whose heart is weak" or "You are like someone whose whole mind and heart are sick" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **there is no part unharmed** - This can be stated positively. It can also be stated in active form. AT: "every part of you has been harmed" or "someone has harmed every part of you" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **they have not been closed, cleansed, bandaged, nor treated with oil** - This metaphor compares the punishment God has given Israel to physical wounds. It can be stated in active form. AT: "no one has closed, cleansed, bandaged, or treated them with oil" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Why are you still being beaten? Why do you rebel more and more?** - Isaiah uses these questions to scold the people of Judah. This can be stated in active form. AT: "You keep doing things that Yahweh has to punish you for. You continue to rebel against him." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **you** - Here the word "you" refers to the people who live in Judah. (See: [[:en:ta:vol1:translate:figs_youdual]])
+  * **The whole head is sick, the whole heart is weak** - This compares the nation of Israel to a person who has been beaten. AT: "You are like someone whose head is wounded and whose heart is weak" or "You are like someone whose whole mind and heart are sick" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they have not been closed, cleansed, bandaged, nor treated with oil** - This compares the punishment God has given Israel to physical wounds. This can be stated in active form. AT: "no one has closed, cleansed, bandaged, or treated them with oil" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -70,6 +68,6 @@
 
 **[[:en:bible:notes:isa:01:04|<<]] | [[:en:bible:notes:isa:01:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

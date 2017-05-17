@@ -11,7 +11,7 @@
 
 <usfm>
 \v 1 King Ahasuerus made the people living on land and along the sea pay a tax.
-\v 2 And all the great things that Ahasuerus did because of his power have been written in the book of the chronicles of the kings of Media and Persia. Also written there is a history of the great things done by Mordecai, and of the honor that the king gave him.
+\v 2 And all the great things that Ahasuerus did because of his power have been written in the Book of the Chronicles of the Kings of Media and Persia. Also written there is a history of the great things done by Mordecai, and of the honor that the king gave him.
 </usfm>
 
 ===== ULB: =====
@@ -20,7 +20,7 @@
 \c 10
 \p
 \v 1 Then King Ahasuerus imposed a tax on the land and on the coastlands along the sea.
-\v 2 All the achievements of his power and might, together with the full account of the greatness of Mordecai to which the king had raised him, they are written in the book of the chronicles of the kings of Media and Persia.
+\v 2 All the achievements of his power and might, together with the full account of the greatness of Mordecai to which the king had raised him, they are written in The Book of the Chronicles of the Kings of Media and Persia.
 </usfm>
 
 ===== translationWords: =====
@@ -36,9 +36,9 @@
 
 ===== translationNotes: =====
 
-  * **imposed a tax on the land and on the coastlands along the sea** - To impose a tax means to make people pay a tax. The land and coastlands represent the people living there. AT: "made the people living in the land and on the coastlands along the sea pay a tax" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **All the achievements of his power and might** - The abstract noun "achievements" can be expressed with the verb "achieve" or the phrase "do great things. AT: "All that he achieved because of his power and might" or "All the great things that he did because of his power and might" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **the full account of the greatness of Mordecai to which the king had raised him** - The king honoring Mordecai is spoken of as if the king physically raised him up. AT: "the full account of how the King had made it known that Mordecai was great" or "the full account of how the king had honored Mordecai for the great things he had done" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **imposed** - "levied" or "charged"
+  * **achievements** - "accomplishments" or "deeds"
+
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:est:10]]
 **[[:en:bible:notes:est:09:30|<<]] | [[:en:bible:notes:est:10:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass ahasuerus chronicles mordecai}}
+~~DISCUSSION~~{{tag>publish p2edit ahasuerus chronicles mordecai}}
 
 ~~NOCACHE~~

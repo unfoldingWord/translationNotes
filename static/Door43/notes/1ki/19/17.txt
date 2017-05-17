@@ -36,11 +36,11 @@
 
 ===== translationNotes: =====
 
-  * **It will happen** - This phrase is used to introduce what will happen when Elijah does what Yahweh has told him to do. "What will happen is"
-  * **whoever escapes from the sword of Hazael** - "Sword" is metonymy for for killing as in battle. AT: "whomever Hazael does not kill with the sword" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I will leave for myself** - Here the words "I" and "myself" refer to Yahweh. AT: "I will save from death" (See: [[:en:ta:vol2:translate:figs_rpronouns]])
-  * **seven thousand people** - "7,000 people" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **whose knees have not bent down to Baal, and whose mouths have not kissed him** - "Bending down" and "kissing" are metonymies for actions people did to worship idols. They are combined for emphasis. AT: "who have not bowed down and kissed Baal" or "who have not worshiped Baal" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **It will happen** - This phrase is used to introduce what will happen when Elijah does what Yahweh has told him to do. AT: "What will happen is"
+  * **whoever escapes from the sword of Hazael** - AT: "whomever Hazael does not kill with the sword" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will leave for myself** - Here the words "I" and "myself" refer to Yahweh. AT: "I will save from death" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_rpronouns]])
+  * **seven thousand people** - AT: "7,000 people" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **whose knees have not bent down to Baal, and whose mouths have not kissed him** - This refers to things people did to worship idols. They are combined for emphasis. AT: "who have not bowed down and kissed Baal" or "who have not worshiped Baal" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
 ===== Links: =====
 
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ki:19]]
 **[[:en:bible:notes:1ki:19:15|<<]] | [[:en:bible:notes:1ki:19:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

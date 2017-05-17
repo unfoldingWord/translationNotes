@@ -31,9 +31,9 @@
 
 <usfm>
 \p
-\v 16 'May the man be cursed who dishonors his father or his mother.' Then all the people must say, 'Amen.'
+\v 16 'May the man be cursed who dishonors his father or his mother.' And all the people must say, 'Amen.'
 \p
-\v 17 'May the man be cursed who removes his neighbor's landmark.' Then all the people must say, 'Amen.'
+\v 17 'May the man be cursed who removes his neighbor's landmark.' And all the people must say, 'Amen.'
 </usfm>
 
 
@@ -64,6 +64,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

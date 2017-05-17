@@ -40,10 +40,11 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 6 Seek Yahweh while he may be found; call on him while he is nearby.
 \q1
-\v 7 Let the wicked leave his path, and the man of sin his thoughts.
+\v 7 Let the wicked leave his path, and the man of sin his thoughts. 
 \q1 Let him return to Yahweh, and he will pity him, and to our God, who will abundantly forgive him.
 </usfm>
 
@@ -58,12 +59,10 @@
 
 ===== translationNotes: =====
 
-  * **Seek Yahweh while he may be found** - This can be stated in active form. AT: "Seek Yahweh while you can still find him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Let the wicked leave his path** - The word "wicked" refers to wicked people. Yahweh speaks of wicked people no longer sinning as if they were to stop walking along a path that they had been traveling. AT: "Let wicked people change the way they live" (See: [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and the man of sin his thoughts** - The verb may be supplied from the previous phrase. AT: "and let the sinful man leave his thoughts" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **his thoughts** - Possible meanings are 1) "the way he thinks" or 2) "his plans"
+  * **Seek Yahweh while he may be found; call on him while he is nearby** - These two clauses mean basically the same thing and are combined for emphasis. It means the people need to repent and start obeying God while he is willing to forgive them and bless them. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Seek Yahweh while he may be found** - This can be stated in active form. AT: "Seek Yahweh while you may still find him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Let the wicked leave his path** - Here "path" refers to a person's behavior.
   * **and he will pity him** - "and Yahweh will pity him"
-  * **and to our God** - The verb may be supplied from the first phrase in this sentence. AT: "and let him return to our God" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 
 ===== Links: =====
 
@@ -72,6 +71,6 @@
   * [[:en:bible:questions:comprehension:isa:55]]
 **[[:en:bible:notes:isa:55:05|<<]] | [[:en:bible:notes:isa:55:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass forgive}}
+~~DISCUSSION~~{{tag>publish p2edit forgive}}
 
 ~~NOCACHE~~

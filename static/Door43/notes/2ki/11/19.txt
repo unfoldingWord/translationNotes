@@ -21,8 +21,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 Jehoida took with him the commanders of hundreds, the Carites, the guard, and all the people of the land, and together they brought down the king from the house of Yahweh and they went into the king's house, entering by way of the gate of the guards. Joash took his place on the royal throne. 
-\v 20 So all the people of the land rejoiced, and the city was quiet after Athaliah had been killed with the sword at the king's house.
+\v 19 Jehoida took the commanders of hundreds, the Carites, the guard, and all the people of the land. They brought down the king from the house of Yahweh and came by the way of the guard's gate to the king's house. So Joash sat on the throne of the kings.
+\v 20 So all the people of the land rejoiced, and the city was quiet. As for Athaliah, they had killed her with the sword at the king's palace.
 </usfm>
 
 ===== translationWords: =====
@@ -32,13 +32,10 @@
   * [[:en:obe:other:rejoice]]
 ===== translationNotes: =====
 
-  * **General Information:** - They take the new king, Joash, from the temple to the palace.
+  * **General Information:** - The new king, Joash, is taken from the temple to the palace.
 
-  * **the commanders of hundreds** - This refers to the officers who supervised the royal bodyguards and the palace guards. Translate this as you did in [[:en:bible:notes:2ki:11:04|11:4]].
   * **Carites** - This is the name of a particular group of the royal guards.
-  * **brought down the king from the house of Yahweh and they went into the king's house** - "brought the king from the temple to the palace"
-  * **all the people of the land rejoiced** - This is a generalization. It is possible that some did not rejoice. AT: "many people in the land rejoiced" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **the city was quiet** - "the city was calm" or "the city was peaceful" 
+  * **the city was quiet** - "calm" or "peaceful" 
 
 ===== Links: =====
 
@@ -47,6 +44,6 @@
   * [[:en:bible:questions:comprehension:2ki:11]]
 **[[:en:bible:notes:2ki:11:17|<<]] | [[:en:bible:notes:2ki:11:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

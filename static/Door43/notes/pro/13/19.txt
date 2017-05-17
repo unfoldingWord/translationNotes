@@ -35,7 +35,7 @@
 <usfm>
 \q
 \v 19 A longing realized is sweet to the appetite,
-\q but fools hate to turn away from evil.
+\q but fools hate to turn away from evil. 
 \q
 \v 20 Walk with wise people and you will be wise,
 \q but the companion of fools will suffer harm.
@@ -52,9 +52,8 @@
   * [[:en:obe:other:companion]] 
 ===== translationNotes: =====
 
-  * **is sweet** - "is a delight" or "brings joy"
-  * **the appetite** - the desire or liking for something
-  * **will suffer harm** - "will experience harm" or "will be ruined"
+  * **is sweet** - AT: "is a delight" or "brings joy"
+  * **will suffer harm** - AT: "will experience harm" or "will be ruined"
 
 
  
@@ -71,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -22,7 +22,7 @@
 \c 22
 \p
 \v 1 This is what Yahweh says, "Go down to the house of the king of Judah and proclaim this word there.
-\v 2 Say, 'King of Judah, listen to the word of Yahweh—you who sit on David's throne—you, and your servants, and your people who come through these gates.
+\v 2 Say, 'King of Judah, you who sit on David's throne, listen to the word of Yahweh. And listen, you servants of his, and you, his people who come through these gates.
 \v 3 Yahweh says this, "Perform justice and righteousness, and anyone who has been robbed—rescue him from the hand of the oppressor. Do not mistreat any foreigner in your land, or any orphan or widow. Do not commit violence or pour out innocent blood in this place.
 </usfm>
 
@@ -46,20 +46,15 @@
 
 ===== translationNotes: =====
 
-  * **the house of the king of Judah** - The word "house" has a range of possible meanings. In this case it refers to the royal palace there the king lived. AT: "the palace of the king of Judah" 
-  * **proclaim this word** - "proclaim this message"
-  * **listen to the word of Yahweh** - "pay attention to the word of Yahweh"
-  * **you who sit on David's throne** - This refers to the king of Judah.
-  * **sit on David's throne** - This refers to having authority as king, like David had. AT: "rule as king, like David before you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **your people who come through these gates** - These gates are the gates of the king's palace. AT: "your people who come to visit the king" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Perform justice and righteousness** - The abstract nouns "justice" and "righteousness can be stated as actions. AT: "Act fairly and justly" (UDB) (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **anyone who has been robbed—rescue him from the hand of the oppressor** - "rescue anyone who has been robbed from the hand of the oppressor"
-  * **the hand of the oppressor** - Here "the hand" refers to power or control. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Do not mistreat** - "Do not treat someone badly"
+  * **sit on David's throne** - This refers to having kingly authority, like David had. AT: "rule as king, like David before you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **listen to the word of Yahweh** - AT: "pay attention to the word of Yahweh"
+  * **you servants of his, and you, his people** - AT: "you servants of the king, and you people who live in his country"
+  * **who come through these gates** - These are the gates of the palace of the king. AT: "who come to visit the king"
+  * **the hand of the oppressor** - The word "hand" refers to the power or control of a person. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Do not mistreat** - Do not treat someone badly
   * **orphan** - a child who does not have parents
-  * **Do not ... pour out innocent blood** - Here "pour out ... blood" is associated with murder, and "blood" refers to the people from whom it poured. AT: "Do not ... murder innocent people" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **in this place** - Possible meanings are 1) Jerusalem or 2) the whole country of Judah. This does not imply that it is good to murder people in other places.
-
+  * **Do not ... pour out innocent blood** - AT: "Do not ... murder innocent people" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **in this place** - "This place" refers to Jerusalem, or even the whole country of Judah. This does not imply that it is good to murder people in other places.
 
 ===== Links: =====
 
@@ -68,6 +63,6 @@
   * [[:en:bible:questions:comprehension:jer:22]]
 **[[:en:bible:notes:jer:21:13|<<]] | [[:en:bible:notes:jer:22:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check justice}}
+~~DISCUSSION~~{{tag>publish p2edit justice}}
 
 ~~NOCACHE~~

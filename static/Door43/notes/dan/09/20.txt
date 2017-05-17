@@ -18,7 +18,7 @@
 
 <usfm>
 \p
-\v 20 While I was speaking—praying and confessing my sin and the sin of my people Israel, and presenting my requests before Yahweh my God on behalf of God's holy mountain—
+\v 20 While I was speaking—praying and confessing my sin and the sin of my people Israel, and presenting my requests before Yahweh my God on behalf of God's holy mountain— 
 \v 21 while I was praying, the man Gabriel, whom I had seen in the vision at the first, flew down to me in rapid flight, at the time of the evening sacrifice.
 </usfm>
 
@@ -39,12 +39,8 @@
 
   * **my people Israel** - "the people of Israel to whom I belong"
   * **God's holy mountain** - The mountain may be holy because of the temple. AT: "the mountain where God's holy temple is" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the man Gabriel** - This is the same angel Gabriel who appeared in the form of a man in [[:en:bible:notes:dan:08:15|8:16]]. AT: "Gabriel, who appeared as a man" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **in the vision at the first** - This may refer to the first vision that Daniel had while he was awake. AT: "in the previous vision" or "in the vision I saw before" or "in a vision before"
-  * **flew down to me in rapid flight** - "flew down to me quickly"
-  * **at the time of the evening sacrifice** - The Jewish people sacrificed to God each evening just before the sun went down.
-
-
+  * **at the time of the evening sacrifice** - The Jewish people sacrificed to God each evening just before the sun goes down.
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -52,6 +48,6 @@
   * [[:en:bible:questions:comprehension:dan:09]]
 **[[:en:bible:notes:dan:09:17|<<]] | [[:en:bible:notes:dan:09:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass gabriel}}
+~~DISCUSSION~~{{tag>publish p2edit gabriel}}
 
 ~~NOCACHE~~

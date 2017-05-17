@@ -15,7 +15,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 12 The Jews who were living near our enemies came and told us many times, to warn us about the wicked plans our enemies were planning to carry out against us.
+\v 12 The Jews who were living near our enemies came and told us many times, to warn us about the wicked plans our enemies were planning to carry out against us. 
 \p
 \v 13 So I put people from each of the families to stand guard at the wall. They were put at the lowest points of the wall, at the places where the wall would be most easily crossed over. They would protect it with their swords, their spears, and their bows and arrows.
 \v 14 Then after I inspected everything, I summoned the leaders and other officials and many of the other people, and I said to them, "Do not be afraid of our enemies! Keep in mind God is great and glorious! And fight to protect your families, your sons and daughters, your wives, and your homes!"
@@ -30,7 +30,7 @@
 <usfm>
 \v 12 At that time the Jews who lived near them came from all directions and spoke to us ten times, warning us about the schemes they were making against us.
 \v 13 So I positioned people in the lowest parts of the wall in the exposed areas. I positioned each family with their swords, spears, and bows.
-\v 14 Then I looked, and stood up, and I said to the nobles, and to the rulers, and to the rest of the people, "Do not be afraid of them. Call to mind the Lord, who is great and awesome. Fight for your families, your sons and your daughters, your wives, and your homes."
+\v 14 And I looked, and stood up, and said to the nobles, and to the rulers, and to the rest of the people, "Do not be afraid of them. Call to mind the Lord, who is great and awesome. Fight for your families, your sons and your daughters, your wives, and your homes."
 </usfm>
 
 
@@ -49,12 +49,11 @@
   * [[:en:obe:other:awe]]
 ===== translationNotes: =====
 
-  * **from all directions** - This represents many directions. The word "all" represents "many." AT: "from many directions" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **spoke to us ten times** - Here the number 10 is used to represent "many." AT: "spoke to us many times" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the Jews ... came from all directions and spoke to us ten times** - This is a figure of speech that exaggerates to make a point. It means, "the Jews came from many different directions and spoke to us many times" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
   * **in the exposed areas** - "in the vulnerable areas"
-  * **I positioned each family** - This refers to several people from each family, this likely does not include the women and children. AT: "I positioned people from each family" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Call to mind the Lord** - the phrase "call to mind" means to remember. AT: "Remember the Lord" (See: [[:en:ta:vol1:translate:figs_idiom]])
-
+  * **Call to mind the Lord, who is great and awesome** - "Remember the great and awesome Lord" or "Remember the Lord, who is great and awesome."
+  * **Fight for your families** - "Fight for your kinsmen"
+  * **and your homes** - "and your households"
 
 ===== Links: =====
 
@@ -66,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass spear}}
+{{tag>publish p2edit spear}}
 
 ~~NOCACHE~~

@@ -24,9 +24,9 @@
 
 <usfm>
 \p
-\v 10 Along the wall of the outer courtyard on the eastern side of the outer courtyard, in front of the sanctuary's inner courtyard, there were also rooms
+\v 10 Along the wall of the outer courtyard on the eastern side of the outer courtyard, in front of the sanctuary's inner courtyard, there were also rooms.
 \f + \ft Hebrew and some modern versions read \fqa on the eastern side \fqa* . However, some ancient copies and most modern versions read \fqa on the southern side \fqa* . \f*
-\v 11 with a walkway in front of them. They were as the appearance of the rooms on the northern side. They had the same length and breadth and the same exits and arrangements and doors.
+\v 11 The walkway in front of them was the same in length and width as the rooms along the northern side. They also had the same number of entrances.
 \v 12 On the south side were doors into rooms that were just the same as on the north side. A passage on the inside had a door at its head, and the passage opened into the various rooms. On the east side there was a doorway into the passage at one end.
 </usfm>
 
@@ -36,7 +36,6 @@
 
 ===== translationNotes: =====
 
-  * **They were as the appearance of the rooms on the northern side** - The abstract noun "appearance" can be translated as a verb. AT: "The way the rooms on the northern side appeared was the way these rooms appeared" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **at its head** - "at its beginning"
 
 ===== Links: =====
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:ezk:42]]
 **[[:en:bible:notes:ezk:42:07|<<]] | [[:en:bible:notes:ezk:42:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

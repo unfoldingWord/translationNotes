@@ -29,13 +29,13 @@
 <usfm>
 \v 30 Gilead's descendants were these:
 \q1
-By Iezer, the clan of the Iezerites,
+By Iezer, the clan of the Iezerites, 
 \q1 by Helek, the clan of the Helekites,
 \q1
-\v 31 by Asriel, the clan of the Asrielites,
+\v 31 by Asriel, the clan of the Asrielites, 
 \q1 by Shechem, the clan of the Shechemites,
 \q1
-\v 32 by Shemida, the clan of the Shemidaites,
+\v 32 by Shemida, the clan of the Shemidaites, 
 \q1 by Hepher, the clan of the Hepherites.
 </usfm>
 
@@ -56,6 +56,6 @@ By Iezer, the clan of the Iezerites,
   * [[:en:bible:questions:comprehension:num:26]]
 **[[:en:bible:notes:num:26:28|<<]] | [[:en:bible:notes:num:26:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

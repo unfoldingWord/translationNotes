@@ -27,7 +27,7 @@
 
 <usfm>
 \q1
-\v 4 For this is what the Lord Yahweh says, "In the beginning my people went down into Egypt to live temporarily;
+\v 4 For this is what the Lord Yahweh says, "In the beginning my people went down into Egypt to live temporarily; 
 \q1 Assyria has oppressed them recently.
 </usfm>
 
@@ -42,9 +42,7 @@
 
 ===== translationNotes: =====
 
-  * **In the beginning** - Here "beginning" refers to the start of Israel's history as they were first becoming a people.
-  * **went down into Egypt** - "went to Egypt." It was common to use the phrase "went down" when speaking of traveling from Canaan to Egypt.
-  * **Assyria has oppressed them** - Assyria refers to the people of Assyria. AT: "the people of Assyria have treated them badly" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Assyria has oppressed them** - Assyria refers to the people of Assyria. AT: "the people of Assyria have treated them badly through cruelty and force" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -53,6 +51,6 @@
   * [[:en:bible:questions:comprehension:isa:52]]
 **[[:en:bible:notes:isa:52:02|<<]] | [[:en:bible:notes:isa:52:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

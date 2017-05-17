@@ -21,8 +21,8 @@
 <usfm>
 \p
 \v 21 Again the word of Yahweh came to me and said,
-\v 22 "Son of man, what is this proverb that you have in the land of Israel that says, 'The days are prolonged, and every vision fails'?
-\v 23 Therefore, say to them, 'The Lord Yahweh says this: I will put an end to this proverb, and the people of Israel will no longer use it.' Say to them, 'The days have drawn near when every vision will be fulfilled.
+\v 22 "Son of man, what is this proverb that you have in the land of Israel that says, 'The days are prolonged, and every vision fails?'
+\v 23 Therefore, say to them, 'The Lord Yahweh says this: I will put an end to this proverb so the people of Israel will no longer use it.' Then declare to them, 'The days are approaching, and every vision will speak.'
 </usfm>
 
 ===== translationWords: =====
@@ -37,13 +37,10 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **what is this proverb that you have in the land of Israel that says, 'The days are prolonged, and every vision fails'?** - Yahweh asks this rhetorical question to remind Ezekiel something he already knows. The question is a mild rebuke for the people who use the proverb. AT: "the people in the land of Israel have this proverb that says, 'The days are prolonged, and every vision fails.' (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **The days are prolonged** - This idiom means that many days have passed. AT: "Many days pass" or "Time goes by" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **every vision fails** - This means that the visions that the prophets receive and communicate to the people fail to happen. AT: "every prophetic vision fails to happen" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **The days have drawn near** - This phrase refers to the days in which Israel will be judged. AT: "The days of judgment are coming soon" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **every vision will be fulfilled** - This can be stated in active form. AT: "I will fulfill every vision" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **The days are prolonged, and every vision fails** - This was a saying of the people of Israel who did not believe that God would judge them. AT: "Many days have passed without God's judgment, the prophet's warnings are false" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **The days are approaching** - This phrase refers to the days in which Israel will be judged. AT: "The days of judgment are coming soon" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **every vision will speak** - The visions God gives to the prophets will come true. AT: "every prophecy will happen" (See: [[:en:ta:vol2:translate:figs_personification]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -51,6 +48,6 @@
   * [[:en:bible:questions:comprehension:ezk:12]]
 **[[:en:bible:notes:ezk:12:19|<<]] | [[:en:bible:notes:ezk:12:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

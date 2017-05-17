@@ -32,12 +32,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q
 \v 4 The word of Yahweh came to me, saying,
 \q
 \v 5 "Before I formed you in the womb, I chose you;
 \q before you came out from the womb I set you apart; I made you a prophet to the nations."
-\p
 \v 6 "Ah, Lord Yahweh!" I said, "I do not know how to speak, for I am too young."
 </usfm>
 
@@ -51,11 +51,10 @@
 
 ===== translationNotes: =====
 
-  * **The word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:jer:01:01|1:2]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **The word of Yahweh came to** - See how you translated this in [[:en:bible:notes:jer:01:01|1:2]].
+  * **came to me** - "came to Jeremiah"
   * **formed** - "developed" or "shaped"
-  * **before you came out from the womb** - This can also be expressed without referring to the womb. AT: "before you were born"
-  * **Ah, Lord Yahweh** - Here "Ah" shows Jeremiah's fear of doing what God has said.
-  * **I do not know how to speak** - Jeremiah may have been exaggerating to show his fear of speaking in public. AT: "I do not know how to speak in public" or "I do not know how to make announcements to people" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -63,6 +62,6 @@
   * [[:en:bible:questions:comprehension:jer:01]]
 **[[:en:bible:notes:jer:01:01|<<]] | [[:en:bible:notes:jer:01:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

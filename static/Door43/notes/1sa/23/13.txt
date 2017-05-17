@@ -43,11 +43,10 @@
 
 ===== translationNotes: =====
 
-  * **six hundred** - "600" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **six hundred** - 600 (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **It was told Saul** - This can be translated in active form. AT: "Someone told Saul" or "They told Saul" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **had escaped** - "had run away from"
-  * **wilderness of Ziph** - This is the name of a deserted area near the city of Ziph. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **did not give him into his hand** - The word "hand" is a metonymy for power. AT: "did not allow Saul to have power over David" or "did not allow Saul to do as he desired with David" or "did not allow Saul to capture David" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **did not give him into his hand** - The word "hand" is a metonym for power. AT: "did not allow Saul to have power over David" or "did not allow Saul to do as he desired with David" or "did not allow Saul to capture David"
  
 ===== Links: =====
 
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1sa:23]]
 **[[:en:bible:notes:1sa:23:12|<<]] | [[:en:bible:notes:1sa:23:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

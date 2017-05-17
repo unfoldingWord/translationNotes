@@ -47,9 +47,9 @@
 \q but they shut themselves up in the daytime;
 \q they do not care for the light.
 \q
-\v 17 For all of them, thick darkness is like the morning;
-\q for they are friends with the terrors of thick darkness.
-\m
+\v 17 For the morning is to all of them like thick darkness;
+\q they are comfortable with the terrors of thick darkness.
+\b
 </usfm>
 
 
@@ -62,17 +62,14 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Job continues speaking.
+  * **General Information:** - Job continues speaking.
 
-  * **the eye of the adulterer** - Here "eye" refers to the whole person. AT: "the adulterer" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the eye of the adulterer** - AT: "the adulterer" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **for the twilight** - "for the sunset"
-  * **No eye will see me** - Here "eye" refers to the whole person. AT: "No one will see me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **wicked people dig into houses** - They dig into the houses in order to steal from them. This can be stated explicitly. AT: "wicked people dig into houses to steal from them" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **they shut themselves up** - "they hide inside"
-  * **For all of them, thick darkness is like the morning** - The thick darkness is as comfortable for the wicked as light of the morning is for normal people. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **the terrors of thick darkness** - "the scary things that happen at night"
-
-
+  * **No eye will see me** - AT: "No one will see me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **For the morning is to all of them like thick darkness** - For the wicked, the light of the morning means the same thing as thick darkness means for normal people. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **with the terrors of thick darkness** - AT: "with the scary things that happen at night"
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -80,6 +77,6 @@
   * [[:en:bible:questions:comprehension:job:24]]
 **[[:en:bible:notes:job:24:13|<<]] | [[:en:bible:notes:job:24:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

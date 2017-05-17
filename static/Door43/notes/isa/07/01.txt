@@ -25,8 +25,10 @@
 <usfm>
 \c 7
 \p
-\v 1 During the days of Ahaz son of Jotham son of Uzziah, king of Judah, Rezin the king of Aram, and Pekah son of Remaliah, king of Israel, went up to Jerusalem to war against it, but they could not prevail against it.
-\v 2 It was reported to the house of David that Aram was allied with Ephraim. His heart trembled, and the heart of his people, as the trees of the forest shake in the wind.
+\v 1 During the days of Ahaz son of Jotham son of Uzziah, king of Judah, Rezin the king of Aram,
+and Pekah son of Remaliah, king of Israel, went up to Jerusalem to war against it, but they could not prevail against it.
+\v 2 It was reported to the house of David that Aram was allied with Ephraim. His heart trembled, and the heart of
+his people, as the trees of the forest shake in the wind.
 \f + \ft Instead of \fqa ... that Aram was allied with Ephraim \fqb , some versions have \fqa ... that Aram had camped in Ephraim. \fqb \f*
 </usfm>
 
@@ -48,14 +50,11 @@
 
 ===== translationNotes: =====
 
-  * **During the days of Ahaz ... king of Judah** - "When Ahaz ... was king of Judah" This was when the events happened. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Rezin ... Pekah ... Remaliah** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Rezin ... and Pekah ... went up** - The author speaks as if the kings were the armies they led. AT: "Rezin ... and Pekah ... led their armies up" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **to war against it** - The author speaks as if the city itself were the people who live in it. AT: "to war against the people of Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **It was reported to the house of David** - This can be stated in active form. AT: "the house of David heard the report" or "someone reported to the house of David" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the house of David** - The word "house" is a metonym for the family living in the house. AT: "King Ahaz and his counselors" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **that Aram was allied with Ephraim** - Here "Aram" and "Ephraim" refer to their kings. Ephraim is used here to refer to the whole northern kingdom of Israel. AT: "that Rezin, the king of Aram was helping Pekah, the king of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **His heart trembled, and the heart of his people, as the trees of the forest shake in the wind** - The trembling of their hearts at this news is compared to the way trees shake when the wind blows through them. AT: "Ahaz and his people were very afraid" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **During the days of Ahaz ... king of Judah** - "When Ahaz ... was king of Judah" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Rezin ... Pekah ... Remaliah** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **It was reported to the house of David** - This refers to King Ahaz, who was a descendant of David, and his counselors. This can be stated in active form. AT: "King Ahaz and his counselors heard the report" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **that Aram was allied with Ephraim** - Here "Aram" and "Ephraim" refer to their kings. Ephraim is used here to refer to the whole northern kingdom of Israel. AT: "that Rezin, the king of Aram joined with Pekah, the king of Israel"
+  * **His heart trembled, and the heart of his people, as the trees of the forest shake in the wind** - AT: "Ahaz and his people were very afraid" (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -63,6 +62,6 @@
   * [[:en:bible:questions:comprehension:isa:07]]
 **[[:en:bible:notes:isa:06:13|<<]] | [[:en:bible:notes:isa:07:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

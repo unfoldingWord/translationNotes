@@ -21,11 +21,12 @@
 <usfm>
 \v 21 There are four things that make the earth tremble:
 \q1
-\v 22 the earth trembles with a slave becomes a king;
-\q1 the earth trembles when fool has eaten his food and is filled;
+\v 22 the earth trembles with a slave becomes a king; 
+\q1 the earth trembles when fool has eaten his food and is filled; 
 \q1
 \v 23 the earth trembles when a woman who is hated by all, gets married,
-\q1 and the earth trembles, when the maid becomes the wife of her master.
+\q1 and the earth trembles, when the maid becomes the wife of her master. 
+
 
 \q1
 </usfm>
@@ -35,8 +36,8 @@
 
 <usfm>
 \q
-\v 21 Under three things the earth trembles,
-\q and under four it cannot bear up:
+\v 21 Under three things the earth trembles
+\q and the fourth it cannot endure:
 \q
 \v 22 a slave when he becomes king;
 \q a fool when he is filled with food;
@@ -57,10 +58,8 @@
 
 ===== translationNotes: =====
 
-  * **Under three things the earth trembles, and under four it cannot bear up** - The use of the numbers "three" and "four" here is likely a poetic device. "There are some things that make the earth tremble, that it cannot endure. Four of these are:" 
-  * **a fool when he is filled with food** - This can be translated in active form. AT: "a fool who has had enough to eat" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **a hated woman when she marries** - That is, people rightly hated her before she married; once she marries, she will be worse than she was before she married. This can be translated in active form. AT: "a woman whom good people have hated when she marries" or "an outcast woman when she marries" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **takes the place of her mistress** - rules the household
+  * **Under three things the earth trembles and the fourth it cannot endure** - The use of the numbers "three" and "four" here is likely a poetic device. AT: "There are some things that make the earth tremble, that it cannot endure. Four of these are" 
+  * **a fool when he is filled with food** - AT: "a fool when he fills himself with food" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -75,6 +74,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

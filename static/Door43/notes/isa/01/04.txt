@@ -18,11 +18,13 @@
 
 <usfm>
 \v 4 Terrible things will happen to this sinful nation, this people group weighted down by their sin,
-\q2 these children of people who do evil things,
+\q2 these children of people who do evil things, 
 \q1 these sons who are unjust.
+\q2 
 \q1 They have left Yahweh,
 \q2 the Holy One of Israel.
 \q2 They have turned away from him.
+\b
 
 
 \q1
@@ -32,9 +34,9 @@
 
 <usfm>
 \q1
-\v 4 Woe! Nation, sinners, a people weighed down with iniquity,
-\q1 offspring of evildoers, sons who act corruptly!
-\q1 They have abandoned Yahweh, they have despised the Holy One of Israel,
+\v 4 Woe! Nation, sinners, a people weighed down with iniquity, 
+\q1 offspring of evildoers, sons that act corruptly! 
+\q1 They have abandoned Yahweh, they have despised the Holy One of Israel, 
 \q1 they have estranged themselves from him.
 </usfm>
 
@@ -52,17 +54,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah speaks to the people of Judah in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - The words in 1:4-10 were probably spoken by Isaiah.
 
-  * **Nation, sinners** - Possible meanings are 1) Isaiah is saying two different things about them. AT: "Nation of Israel, you sinners" or 2) he is saying only one thing about them. AT: "Nation of sinners"
-  * **a people weighed down with iniquity** - Something very heavy that a person might carry is a metaphor for their many sins. AT: "their sin is like a heavy bag on their shoulders that makes it hard for them to walk" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **offspring of evildoers** - The word "offspring" is a metaphor for people who do what others have done. AT: "people who do the same evil they see others doing" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **act corruptly** - do evil deeds
-  * **They have abandoned Yahweh** - "They have gone away from Yahweh" 
-  * **have despised** - "have refused to obey" or "have refused to respect"
-  * **Israel** - Judah is part of what had been the nation of Israel. 
-  * **they have estranged themselves from him** - Though at one time they were friends, they now treat him as though they do not know him.
-
+  * **Nation, sinners** - Possible meanings are 1) Isaiah is saying two different things about them or 2) he is saying only one thing about them, "Nation of sinners" (UDB).
+  * **a people weighed down with iniquity** - This compares their many sins to something very heavy that a person might carry. AT: "their sin is like a heavy bag on their shoulders that makes it hard for them to walk" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **They have abandoned Yahweh** - "They have turned away from Yahweh" 
+  * **they have despised the Holy One of Israel** - "they have rejected the Holy One of Israel" or "they have been disrespectful to the Holy One of Israel" 
+  * **they have estranged themselves from him** - "they have separated themselves from him." AT: "they have treated him as a stranger"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -71,6 +69,6 @@
 
 **[[:en:bible:notes:isa:01:02|<<]] | [[:en:bible:notes:isa:01:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

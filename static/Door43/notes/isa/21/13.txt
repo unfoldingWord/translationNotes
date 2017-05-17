@@ -28,6 +28,7 @@
 \q1
 \v 15 They are fleeing in order not to be killed by their enemies' swords
 \q2 and not to be shot in battles by arrows.
+\b
 
 
 \p
@@ -36,15 +37,16 @@
 ===== ULB: =====
 
 <usfm>
-\q1
-\v 13 A declaration about Arabia.
 \p
+\q1
+\v 13 A declaration about Arabia. 
+\p 
 \q1 In the wilderness of Arabia you spend the night, you caravans of Dedanites.
 \q1
-\v 14 Bring water for the thirsty;
+\v 14 Bring water for the thirsty; 
 \q1 inhabitants of the land of Tema, meet the fugitives with bread.
 \q1
-\v 15 For they have fled from the sword, from the drawn sword,
+\v 15 For they have fled from the sword, from the drawn sword, 
 \q1 from the bent bow, and from the weight of war.
 </usfm>
 
@@ -60,15 +62,13 @@
 ===== translationNotes: =====
 
   * **A declaration** - "This is what Yahweh declares" or "This is the message of Yahweh"
-  * **about Arabia** - Arabia refers to the population of Arabia. AT: "about the people of Arabia" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **In the wilderness of Arabia** - Arabia does not have a forest. AT: "Far off from the road in Arabia" or "Out in the bushes of Arabia" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **about Arabia** - Arabia refers to the population of Arabia. AT: "the people of Arabia" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **In the wilderness** - Arabia does not have a forest. AT: "Far off from the road" or "Out in the bushes"
   * **caravans** - a group of people traveling together
   * **Dedanites** - This is a people group that lived in Arabia. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **land of Tema** - This is the name of a city in Arabia. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **fugitives** - A fugitive is a person who runs away so that his enemy will not capture him. See how you translated this in [[:en:bible:notes:isa:15:05|15:5]].
-  * **with bread** - Here "bread" represents food in general. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **from the sword, from the drawn sword, from the bent bow** - Here "sword" and "bow" represents the soldiers who attack the inhabitants of Tema. AT: "from their enemies who attack them with swords and bows" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **from the weight of war** - The terror and suffering that is experienced during war is spoken of as if war were a heavy weight on people. AT: "from the horrors of war" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **land of Tema** - This is the name of a city in Arabia.
+  * **fugitives** - See how you translated this in [[:en:bible:notes:isa:15:05|15:5]].
+  * **For they have fled from the sword, from the drawn sword, from the bent bow, and from the weight of war** - "For they are fleeing from the war and from those who want to kill them"
 
 
 ===== Links: =====
@@ -78,6 +78,6 @@
   * [[:en:bible:questions:comprehension:isa:21]]
 **[[:en:bible:notes:isa:21:11|<<]] | [[:en:bible:notes:isa:21:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

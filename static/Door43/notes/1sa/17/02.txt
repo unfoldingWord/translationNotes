@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 2 Saul and the men of Israel gathered and encamped in the Valley of Elah, and drew up their battle line to meet the Philistines.
+\v 2 Saul and the men of Israel gathered and encamped in the valley of Elah, and drew up their battle line to meet the Philistines.
 \v 3 The Philistines stood on a mountain on one side, and Israel stood on a mountain on the other side with a valley between them.
 </usfm>
 
@@ -33,7 +33,7 @@
 
 ===== translationNotes: =====
 
-  * **the Valley of Elah** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Elah** - See: [[:en:ta:vol1:translate:translate_names]]
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -41,6 +41,6 @@
   * [[:en:bible:questions:comprehension:1sa:17]]
 **[[:en:bible:notes:1sa:17:01|<<]] | [[:en:bible:notes:1sa:17:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -25,10 +25,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 22 For the back side of the tabernacle on the west side, you must make six frames.
-\v 23 You must make two frames for the back corners of the tabernacle.
-\v 24 These frames must be separate at the bottom, but joined at the top to the same ring. It must be this way for both of the back corners.
-\v 25 There must be eight frames, together with their silver bases. There must be sixteen bases in all, two bases under the first frame, two bases under the next frame, and so on.
+\v 22 For the back side of the tabernacle on the west side, you must make six boards.
+\v 23 You must make two boards for the back corners of the tabernacle.
+\v 24 These boards must be separate at the bottom, but joined at the top to the same ring. It must be this way for both of the back corners.
+\v 25 There must be eight boards, together with their silver bases. There must be sixteen bases in all, two bases under the first board, two bases under the next board, and so on.
 </usfm>
 
 ===== translationWords: =====
@@ -40,10 +40,10 @@
 
   * **General Information:** - Yahweh continues to tell Moses what the people must do.
 
-  * **These frames must be separate at the bottom, but joined at the top** - This can be stated in active form. AT: "Separate these frames at the bottom, but join them at the top" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
-  * **silver bases** - These were silver blocks that had a slot in them to keep the frame in place. See how you translated this in [[:en:bible:notes:exo:26:19|26:19]].
+  * **These boards must be separate at the bottom, but joined at the top** - This can be stated in active form. AT: "Separate these boards at the bottom, but join them at the top" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **silver bases** - These were silver blocks that had a slot in them to keep the board in place. See how you translated this in [[:en:bible:notes:exo:26:19|26:19]].
   * **in all** - "total"
-  * **and so on** - This means that what was said about the first two frames should be done for the rest of the frames. See how you translated this in [[:en:bible:notes:exo:26:19|26:21]]. AT: "and two bases for each of the rest of the frames" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **and so on** - This means that what was said about the first two boards should be done for the rest of the boards. This can be stated clearly in the translation. AT: "and two bases for each of the rest of the boards." See how you translated this in [[:en:bible:notes:exo:26:19|26:21]]. (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:exo:00:intro]]
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:exo:26]]
 **[[:en:bible:notes:exo:26:19|<<]] | [[:en:bible:notes:exo:26:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

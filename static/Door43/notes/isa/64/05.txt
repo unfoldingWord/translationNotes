@@ -33,7 +33,7 @@
 
 <usfm>
 \q1
-\v 5 You come to help those who rejoice in doing what is right, those who call to mind your ways and obey them.
+\v 5 You come to help those who rejoice in doing what is right, those who call to mind your ways and obey them. 
 \q1 You were angry when we sinned. In your ways we will always be rescued.
 </usfm>
 
@@ -50,7 +50,7 @@
 
   * **General Information:** - The people of Israel continue speaking to Yahweh.
 
-  * **call to mind** - This is an idiom that means "remember." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **call to mind** - AT: "remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:isa:64]]
 **[[:en:bible:notes:isa:64:03|<<]] | [[:en:bible:notes:isa:64:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

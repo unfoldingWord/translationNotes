@@ -18,7 +18,7 @@
 <usfm>
 \v 61 The descendants of the priests in this group included people belonging to Habaiah's clan, Hakkoz's clan, and Barzillai's clan. Barzillai had married a woman who was a descendant of Barzillai from the region of Gilead, and he had taken for himself the name of his father-in-law's clan.
 \p
-\v 62 The people in that group searched in the documents that had the names of the ancestors of all the clans, but these men's names were not found. So they were not permitted do the
+\v 62 The people in that group searched in the documents that had the names of the ancestors of all the clans, but these men's names were not found. So they were not permitted do the 
 work that priests did.
 \v 63 The governor told them that they would need to ask a priest to consult Yahweh by casting the sacred lots, to determine whether those men were truly Israelites. If the stones showed that those men were Israelites, they would be permitted to eat the shares of the sacrifices that were given to the priests.
 
@@ -30,8 +30,9 @@ work that priests did.
 ===== ULB: =====
 
 <usfm>
-\v 61 Also, from the priest's descendants: the descendants of Habaiah, Hakkoz, and Barzillai (who took his wife from the daughters of Barzillai of Gilead and was called by their name).
-\v 62 They searched for their genealogical records, but could not find them, so they were excluded from the priesthood as unclean. 
+\v 61 And of the priest's descendants: 
+The descendants of Habaiah, Hakkoz, and Barzillai (who took his wife from the daughters of Barzillai of Gilead and was called by their name).
+\v 62 They tried to find their genealogy in the register, but could not be found since they had defiled their priesthood.
 \v 63 So the governor told them they must not eat any of the holy sacrifices until a priest with Urim and Thummim approved.
 </usfm>
 
@@ -49,12 +50,8 @@ work that priests did.
 ===== translationNotes: =====
 
   * **Habaiah ... Hakkoz ... Barzillai** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **their genealogical records** - the records that told who their ancestors were
-  * **could not find them** - "could not find their names in the records of the priests"
-  * **they were excluded from the priesthood as unclean** - This can be translated in active form. The abstract noun "priesthood" can be translated as the verb "work as priests." AT: "the other priests treated them as if they were unclean and did not allow them to work as priests" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **unclean** - not fit to be priests
-  * **Urim and Thummim** - two items like dice that the priests used to decide what God wanted them to do
-
+  * **They tried to find their genealogy in the register** - Only true descendants of Aaron were allowed to serve as priests before God in His temple.
+  * **Urim and Thummim** - A form of divination approved by God to discern issues that require God's intervention.
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -65,6 +62,6 @@ work that priests did.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

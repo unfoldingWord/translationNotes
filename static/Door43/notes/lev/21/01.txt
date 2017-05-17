@@ -22,8 +22,8 @@
 \c 21
 \p
 \v 1 Yahweh said to Moses: "Speak to the priests, the sons of Aaron, and say to them, 'No one among you shall make himself unclean for those who die among his people,
-\v 2 except for his closest relatives—his mother, his father, his son, his daughter, his brother,
-\v 3 or his virgin sister who is dependent on him, since she has no husband—for her he may make himself unclean.
+\v 2 except for his closest relatives—his mother, his father, his son, his daughter, his brother, 
+\v 3 or his virgin sister who has no husband—he may make himself unclean for her.
 </usfm>
 
 ===== translationWords: =====
@@ -41,9 +41,10 @@
 
 ===== translationNotes: =====
 
-  * **make himself unclean** - A person who is not acceptable for God's purposes is spoken of as if the person were physically unclean. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **among his people** - "among the Israelites"
   * **virgin** - This can also be translated as "young woman"
+  * **his virgin sister who has had no husband** - "an unmarried sister who still lives with her father" or "an unmarried sister who is still under her father's authority" 
+
 
 ===== Links: =====
 
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:lev:21]]
 **[[:en:bible:notes:lev:20:27|<<]] | [[:en:bible:notes:lev:21:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -31,9 +31,7 @@
 
 ===== translationNotes: =====
 
-  * **it was a turn of events brought about by Yahweh** - This is an idiom and can be stated in active form. AT: "Yahweh caused things to happen like this" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Ahijah ... Jeroboam ... Nebat** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Shilonite** - This is the name of a people group from the town of Shiloh. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **it was a turn of events brought about by Yahweh** - This can be stated in active form. AT: "Yahweh caused things to happen like this" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -42,6 +40,6 @@
   * [[:en:bible:questions:comprehension:1ki:12]]
 **[[:en:bible:notes:1ki:12:12|<<]] | [[:en:bible:notes:1ki:12:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

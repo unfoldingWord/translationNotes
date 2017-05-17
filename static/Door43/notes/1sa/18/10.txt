@@ -25,7 +25,7 @@
 
 <usfm>
 \p
-\v 10 The next day a harmful spirit from God rushed upon Saul and he raved within the house. So David played his instrument, as he did each day. Saul had a spear in his hand.
+\v 10 The next day a harmful spirit from God rushed upon Saul. And he raved within the house. So David played his instrument, as he did each day. Saul had his spear in his hand.
 \v 11 Saul threw the spear, for he thought, "I will pin David to the wall." But David escaped from Saul's presence twice in this way.
 \v 12 Saul was afraid of David, because Yahweh was with him, but was no longer with Saul.
 </usfm>
@@ -41,10 +41,8 @@
 
 ===== translationNotes: =====
 
-  * **a harmful spirit from God** - Here "harmful spirit" may refer to either "a spirit that causes trouble" or "an evil spirit." See how you translated this in [[:en:bible:notes:1sa:16:14|16:15]].
-  * **a harmful spirit from God rushed upon Saul** - The phrase "rushed upon" means the harmful spirit influenced Saul. In this case it means it caused Saul to be troubled and act crazy. See how you translated a similar phrase in [[:en:bible:notes:1sa:10:05|10:6]].
-  * **and he raved** - "And he acted crazy"
-  * **Yahweh was with him** - "Yahweh was with David"
+  * **a harmful spirit from God** - See how you translated this in [[:en:bible:notes:1sa:16:14|16:15]].
+  * **And he raved** - "And he acted crazy"
 
 ===== Links: =====
 
@@ -59,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

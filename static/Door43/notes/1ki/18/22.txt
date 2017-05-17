@@ -46,12 +46,11 @@
   * [[:en:obe:kt:falsegod]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:good]]
-
 ===== translationNotes: =====
 
-  * **I, I alone, am left** - The word "I" is repeated for emphasis.
-  * **call on the name of your god ... call on the name of Yahweh** - "Name" is metonymy for the reputation and honor of someone and "calling on" him represents an appeal. AT: "call to your god ... call to Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **all the people answered and said, "This is good."** - "all the people said, 'This is a good thing to do.'"
+  * **I, I alone, am left** - The word "I" is repeated for emphasis. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **call on the name of your god ... call on the name of Yahweh** - "call to your god ... call to Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **all the people answered and said, "This is good."** - AT: all the people said, "This is a good thing to do."
  
 ===== Links: =====
 
@@ -60,6 +59,6 @@
   * [[:en:bible:questions:comprehension:1ki:18]]
 **[[:en:bible:notes:1ki:18:20|<<]] | [[:en:bible:notes:1ki:18:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass call}}
+~~DISCUSSION~~{{tag>publish p2edit call}}
 
 ~~NOCACHE~~

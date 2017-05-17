@@ -22,6 +22,7 @@
 \q1
 \v 14 Job was replying to you, not to me,
 \q2 so I will not reply to him by saying what you three have said.
+\b
 
 
 \q1
@@ -37,6 +38,7 @@
 \q
 \v 14 For Job has not directed his words against me,
 \q so I will not answer him with your words.
+\b
 </usfm>
 
 
@@ -50,9 +52,8 @@
 
   * **General Information:** - Elihu continues speaking to Job's friends.
 
-  * **We have found wisdom** - "We have discovered what is wise." This means that they believe that they have figured out what is wise.  
-  * **to defeat Job** - This speaks of God responding to Job and correcting him as if he were defeating him in battle. AT: "to refute Job" or "to answer Job" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **with your words** - "by saying what you have said"
+  * **We have found wisdom** - "we are the wise ones"
+  * **to defeat Job** - "to convince Job" or "to answer Job"
 
  
 ===== Links: =====
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:job:32]]
 **[[:en:bible:notes:job:32:11|<<]] | [[:en:bible:notes:job:32:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -11,7 +11,8 @@
 
 <usfm>
 \v 11 So I came to Jerusalem and stayed there three days.
-\v 12 I went out of the city in the evening, and I took a few men with me. We only had one animal, the one that I was riding on. I said nothing to anyone about what God had inspired me to do in Jerusalem.
+\v 12 I went out of the city in the evening, and I took a few men with me. We only had one animal, the one that I was riding on. I said nothing to anyone about what God had inspired me to do in Jerusalem. 
+
 
 \p
 </usfm>
@@ -31,7 +32,7 @@
   * [[:en:obe:other:heart]]
 ===== translationNotes: =====
 
-  * **had put into my heart** - Here Nehemiah's "heart" refers to his thoughts and will. AT: "had inspired me" or "had led me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **what my God had put into my heart to do for Jerusalem** - "what my God had told me to do for Jerusalem" or "what my God had inspired me to do for Jerusalem"
   * **There was no animal with me** - "There were no animals with me"
 ===== Links: =====
 
@@ -40,6 +41,6 @@
   * [[:en:bible:questions:comprehension:neh:02]]
 **[[:en:bible:notes:neh:02:09|<<]] | [[:en:bible:notes:neh:02:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

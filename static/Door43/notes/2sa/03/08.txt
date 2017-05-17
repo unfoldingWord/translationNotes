@@ -15,7 +15,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 8 Then Abner was very angry at the words of Ishbosheth and said, "Am I a dog's head that belongs to Judah? Today I am showing faithfulness to the house of Saul, your father, to his brothers, and to his friends, by not delivering you into the hand of David. But now you accuse me of an offense concerning this woman?
+\v 8 Then Abner was very angry at the words of Ishbosheth and said, "Am I a dog's head that belongs to Judah? Today I am showing faithfulness to the house of Saul, your father, to his brothers, and to his friends, by not delivering you into the hand of David. And yet you accuse me about this woman today?
 </usfm>
 
 ===== translationWords: =====
@@ -27,10 +27,9 @@
 
 ===== translationNotes: =====
 
-  * **Am I a dog's head that belongs to Judah?** - This question is used by Abner as an angry denial of Ishbosheth's accusation. It can be translated as a statement. AT: "I am not a traitor working for David!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Am I a dog's head that belongs to Judah?** - Abner speaks of himself as the head of a dog, which the Israelites considered to be loyal to anyone who fed them. Here "belongs to Judah" implies that Abner's loyalty is to Judah, to which David belonged, and not to Saul's house. AT: "Am I a traitor for Judah?" or "I am not a traitor working for David!" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **into the hand of David** - Here "hand" represents the power to defeat. AT: "to be defeated by David" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **But now you accuse me of an offense concerning this woman?** - Abner asks this question to rebuke Ishbosheth. It is unclear if Abner actually slept with Rizpah, or if he was falsely accused. Possible meanings are 1) Abner was guilty. AT: "You should not be upset that I slept with this woman!" or 2) Abner was not guilty. AT: "You should not think that I have slept with this woman!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Am I a dog's head that belongs to Judah?** - This is an insult. Here a dog is considered a dirty animal that wanders around eating garbage and carrion. AT: "Am I like a worthless person from Judah?" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **And yet you accuse me about this woman today?** - Abner asks this question to rebuke Ishbosheth, which can also be translated as a statement. AT: "And you criticize me for what I have done with this woman?" or, "You should not be criticizing me about what I have done with this woman" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -38,6 +37,6 @@
   * [[:en:bible:questions:comprehension:2sa:03]]
 **[[:en:bible:notes:2sa:03:06|<<]] | [[:en:bible:notes:2sa:03:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -34,12 +34,8 @@
 
 ===== translationNotes: =====
 
-  * **filled with anger and rage** - Nebuchadnezzar's anger and rage were so intense that they are spoken of as if they had filled him up. Here "anger" and "rage" mean about the same thing and are used to emphasize how upset the king was. AT: "extremely angry" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_doublet]])
-  * **Shadrach, Meshach, and Abednego** - These are the Babylonian names of the three Jewish friends of Daniel. See how you translated these names in [[:en:bible:notes:dan:01:06|1:7]].
-  * **Have you made your minds up** - Here "mind" refers to deciding. To "make up your mind" is an idiom that means to firmly decide. AT: "Have you firmly decided" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **prostrate yourselves to** - "stretch yourselves out on the ground face down in worship of" (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **the golden statue that I have set up** - That Nebuchadnezzar's men have set up the statue is spoken of as if Nebuchadnezzar has set it up. AT: "the golden statue that my men have set up" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **Have you made your minds up** - This phrase refers to deciding surely. AT: "Have you firmly decided" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Shadrach, Meshach, and Abednego** - See how you translated these names in [[:en:bible:notes:dan:01:06|1:7]].
 
 ===== Links: =====
 
@@ -48,6 +44,6 @@
   * [[:en:bible:questions:comprehension:dan:03]]
 **[[:en:bible:notes:dan:03:11|<<]] | [[:en:bible:notes:dan:03:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass rage}}
+~~DISCUSSION~~{{tag>publish p2edit rage}}
 
 ~~NOCACHE~~

@@ -16,11 +16,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 When it snows in the summer, or when it rains in the harvest,
-\q2 that is what it is like when a fool gets honor—
-\q2 honor for him comes at the wrong time, and the wrong place.
+\v 1 When it snows in the summer, or when it rains in the harvest, 
+\q2 that is what is it like when a fool gets honor—
+\q2 honor for him comes at the wrong time, and the wrong place. 
 \q1
-\v 2 A sparrow flies here and there flittering around, and a swallow darts back and forth when it flies,
+\v 2 A sparrow flies here and there flittering around, and a swallow darts back and forth when it flies, 
 \q2 that is like someone speaking a curse against you—but it cannot land on you.
 
 
@@ -48,10 +48,8 @@
 
 ===== translationNotes: =====
 
-  * **Like snow in summer or rain in harvest** - Normally snow does not fall during the summer and rain does not fall during  the harvest. This can be stated clearly. AT: "Just as it would be very strange to have snow in summer or rain during the harvest" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **so an undeserved curse does not alight** - A curse that does not harm a person is spoken of as if it were a bird that does not land. AT: "so an undeserved curse does not land on its mark" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **an undeserved curse** - This can be stated with an active form. AT: "a curse on a person who does not deserve it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **alight** - land on someone or something
+  * **Like snow in summer or rain in harvest, so a fool does not deserve honor** - AT: "so honor is not fitting for a fool" Honor is out of place for a fool, like the untimely arrival of snow and rain are out of place. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **so an undeserved curse does not alight** - AT: "so a causeless curse does not have power" (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -59,6 +57,6 @@
   * [[:en:bible:questions:comprehension:pro:26]]
 **[[:en:bible:notes:pro:25:27|<<]] | [[:en:bible:notes:pro:26:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

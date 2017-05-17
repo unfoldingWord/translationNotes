@@ -21,7 +21,7 @@
 <usfm>
 \p
 \v 33 Yahweh spoke to Moses and to Aaron, saying,
-\v 34 "When you have come into the land of Canaan which I gave to you as a possession, and if I put mildew that spreads in a house in the land of your possession,
+\v 34 "When you have come into the land of Canaan which I gave to you as a possession, and if I put mildew that spreads in a house in the land of your possession, 
 \v 35 then he who owns the house must come and tell the priest. He must say, 'There seems to me to be something like mildew in my house.'
 </usfm>
 
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:lev:14]]
 **[[:en:bible:notes:lev:14:30|<<]] | [[:en:bible:notes:lev:14:36|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

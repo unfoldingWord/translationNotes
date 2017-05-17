@@ -20,7 +20,7 @@
 
 <usfm>
 \q1
-\v 29 This too comes from Yahweh of hosts,
+\v 29 This too comes from Yahweh of hosts, 
 \q1 who is wonderful in instruction and excellent in wisdom.
 </usfm>
 
@@ -32,8 +32,7 @@
 
 ===== translationNotes: =====
 
-  * **This too comes ... excellent in wisdom** - This concludes the parable started in [[:en:bible:notes:isa:28:23|28:23]]. The implied lesson of the parable is that farmers are wise enough to listen to Yahweh's instructions about planting and threshing. But the leaders of Jerusalem are foolish for not listening to Yahweh's instructions that he is speaking through Isaiah. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
 
 ===== Links: =====
 
@@ -42,6 +41,6 @@
   * [[:en:bible:questions:comprehension:isa:28]]
 **[[:en:bible:notes:isa:28:27|<<]] | [[:en:bible:notes:isa:29:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

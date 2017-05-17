@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 I sent out to you all my servants, the prophets. I was persistent in sending them to say, 'Let each person turn from his wicked way and do good deeds; let no one walk any longer after other gods and worship them. Instead, come back to the land that I gave to you and your ancestors.' Yet you will not listen to me or pay attention to me.
+\v 15 I sent out to you all my servants, the prophets. I was persistent in sending them to say, 'Let each person turn from his wicked way and do good deeds; let no one walk any longer walk after other gods and worship them. Instead, come back to the land that I gave to you and your ancestors.' Yet you will not listen to me or pay attention to me.
 \v 16 For the descendants of Jonadab son of Rechab have observed the commands of their ancestor that he gave them, but this people refuses to listen to me."'
 </usfm>
 
@@ -43,7 +43,10 @@
 
 ===== translationNotes: =====
 
-  * **let no one walk any longer after other gods ** - Walking after a god is a metaphor for obeying the laws of that god. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **turn from his wicked way and do good deeds** - These two phrases are saying similar things and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **walk after other gods and worship them** - These two phrases are saying similar things and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **you will not listen to me or pay attention to me** - These two phrases are saying similar things and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -57,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

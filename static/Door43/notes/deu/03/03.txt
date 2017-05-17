@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 So Yahweh our God also gave us victory over Og the king of Bashan, and all his people were put under our control. We struck them down until not one of his people remained.
+\v 3 So Yahweh our God also gave us victory over Og the king of Bashan, and all his people were put under our control. And we struck him dead until not one of his people remained.
 \v 4 We took all his cities at that time; there was not one city that we did not take from them: sixty cities—all the region of Argob, the kingdom of Og in Bashan.
 </usfm>
 
@@ -36,8 +36,9 @@
 ===== translationNotes: =====
 
   * **and all his people were put under our control** - This can be stated in active form. AT: "and Yahweh put all of Og's people under our control" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **not one of his people remained** - This is a litotes that is used to emphasize that the Israelites did not let anyone live. AT: "all of his people were dead" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **there was not one city that we did not take** - This is a double negative that emphasizes that they took all of the 60 cities. AT: "we took every one of the cities" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **we struck him dead** - The word "him" is a metonym for all of his people. AT: "we killed all of his people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **not one of his people remained** - "all of his people were dead" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **there was not one city that we did not take** - "we took every one of the cities" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
   * **sixty cities** - "60 cities" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **the region of Argob** - This is the name of a region within Bashan. (See: [[:en:ta:vol1:translate:translate_names]])
  
@@ -52,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

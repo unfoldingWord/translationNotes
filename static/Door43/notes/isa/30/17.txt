@@ -20,6 +20,7 @@
 \q2 all of you will flee.
 \q1 Only a few of you will be left, like a single flagpole on top of a mountain,
 \q2 or like one single signal flag on a hilltop."
+\b
 
 
 \q1
@@ -29,8 +30,8 @@
 
 <usfm>
 \q1
-\v 17 One thousand will flee at the threat of one;
-\q1 at the threat of five you will flee
+\v 17 One thousand will flee at the threat of one; 
+\q1 at the threat of five you will flee 
 \q1 until your remnant will be like a flagstaff on the top of a mountain, or like a flag on a hill."
 </usfm>
 
@@ -40,9 +41,8 @@
 
 ===== translationNotes: =====
 
-  * **One thousand will flee at the threat of one; at the threat of five you will flee** - The word "solider" is understood. AT: "One thousand soldiers will flee at the threat of one enemy soldier; at the threat of five enemy soldiers all of your soldiers will flee" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **One thousand** - "1,000" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **until your remnant will be like a flagstaff on the top of a mountain, or like a flag on a hill** - This simile means there will be so few people left that they will be like a single flag on top of a hill. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **until your remnant will be like a flagstaff on the top of a mountain, or like a flag on a hill** - This emphasizes that very few people will remain in Jerusalem. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:isa:30]]
 **[[:en:bible:notes:isa:30:15|<<]] | [[:en:bible:notes:isa:30:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

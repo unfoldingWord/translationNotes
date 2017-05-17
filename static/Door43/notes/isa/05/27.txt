@@ -41,10 +41,10 @@
 
 <usfm>
 \q1
-\v 27 None tire or stumble among them; none slumbers or sleeps.
-\q1 Nor are their belts loose, or the thongs of their sandals broken.
+\v 27 None tire or stumble among them; none slumbers or sleeps; 
+\q1 nor will their belt be loose, nor the thong of their sandals broken;
 \q1
-\v 28 Their arrows are sharp and all their bows are bent;
+\v 28 their arrows are sharp and all their bows are bent; 
 \q1 their horses' hooves are like flint, and their chariot wheels like storms.
 </usfm>
 
@@ -58,14 +58,16 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to describe the army that will attack Judah. He describes it as if it were already existing. (See: [[:en:bible:notes:isa:05:26]])
+  * **General Information:** - Isaiah continues to describe the army that will attack Judah. (See: [[:en:bible:notes:isa:05:26]])
 
-  * **tire ... stumble ... slumbers ... sleeps** - These four words progress from being tired from work to being unable to walk well, to being unable to stay awake, to full sleep, so all four should appear in the translation.
-  * **Nor are their belts loose** - The soldiers kept their clothes tight so it would easier to move and fight.
-  * **the thongs of their sandals** - "the straps of their sandals"
-  * **their horses' hooves are like flint** - "their hooves are like hard stone." Isaiah compares the hard part of a horse's foot to flint, which is a hard stone that can cause sparks when struck. Possible meanings are 1) Isaiah compares their hooves to flint so to describe the frightening image of their feet causing sparks as they run or 2) Isaiah compares their hooves to flint to emphasize how strong their hooves are which enables the horse to do whatever their master want them to do. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **and their chariot wheels like storms** - Isaiah compares the chariot wheels to storms in order to imply that they will destroy everything in their path. AT: "and the wheels of the chariots will spin like a windstorm" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **chariot wheels** - These wheels often had sharp blades attached to them that would cut to pieces anyone the chariot passed close to.
+  * **tire ... stumble ... slumbers ... sleeps** - These four words progress from being tired from work to being unable to walk well to being unable to stay awake to full sleep, so all four should appear in the translation.
+  * **None tire or stumble among them** - "None of their soldiers get tired or fall"
+  * **none slumbers or sleeps** - "none of them sleeps or even slumbers"
+  * **nor will their belt be loose** - The soldiers kept their robes tight so it would easier to move and fight.
+  * **the thong of their sandals** - "the strap of their sandals"
+  * **their horses' hooves are like flint** - Isaiah compares the hard part of a horse's foot to a hard stone which can cause a spark when struck. AT: "their horses' hooves are hard as stone" This is a metonym for the horses being strong enough to do whatever their masters want them to do. AT: "their horses are healthy and strong" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and their chariot wheels like storms** - Isaiah compares the chariot wheels to a whirlwind to emphasize that they destroy everything in their path. AT: "and the wheels of the chariots will spin like a windstorm" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **chariot wheels** - These had sharp blades attached to them that would cut to pieces anyone the chariot passed close to.
 
 
 ===== Links: =====
@@ -78,6 +80,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

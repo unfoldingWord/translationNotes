@@ -50,13 +50,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
-
-  * **Who has woe? Who has sorrow? Who has fights? Who has complaining? Who has wounds for no reason? Who has bloodshot eyes?** - The writer uses these questions to prepare the reader for the point he is about to make about a particular type of person. He does not expect an answer to each question. Your language may have a different way of introducing a lesson. AT: "Listen to me while I tell you what kind of person has woe, sorrow, fights, complaining, wounds for no reason, and bloodshot eyes." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who has woe? Who has sorrow? Who has fights? Who has complaining? Who has wounds for no reason? Who has bloodshot eyes?** - The writer uses these questions to prepare the reader for the point he is about to make about a particular type of person. He does not expect an answer to each question (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **bloodshot eyes** - "eyes red, like the color of blood"
-  * **Those who linger over wine, those who try the mixed wine** - These words answer the questions in verse 29 and describe people who drink too much wine.
-  * **linger over wine** - spend much time drinking wine and so drink much wine (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **the mixed wine** - Possible meanings are 1) different wines mixed together or 2) other drinks that are stronger than wine.
+  * **Those who linger over wine, those who try the mixed wine** - This describe people who drink too much wine and answer the questions in verse 29. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the mixed wine** - Possible meanings are 1) different wines mixed together or 2) other drinks which are stronger than wine.
  
 ===== Links: =====
 
@@ -71,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass p2example}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

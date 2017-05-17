@@ -17,10 +17,11 @@
 
 <usfm>
 \v 25 The things that the lazy person chooses to do will kill him;
-\q2 he refuses to work.
+\q2 he refuses to work. 
 \q1
 \v 26 All day long he desires things—he could not desire for more things—
-\q2 but whoever does right gives gifts to others, and he never holds back anything that is good.
+\q2 but whoever does right gives gifts to others, and he never holds back anything that is good. 
+
 
 \q1
 </usfm>
@@ -32,8 +33,8 @@
 \v 25 The desire of the lazy kills him,
 \q for his hands refuse to work.
 \q
-\v 26 All day long he craves and craves more,
-\q but the righteous person gives and does not hold back.
+\v 26 All day long he craves and craves more, 
+\q but the one who does right gives and does not hold back.
 </usfm>
 
 ===== translationWords: =====
@@ -42,11 +43,10 @@
 
 ===== translationNotes: =====
 
-  * **The desire of the lazy kills him** - The writer speaks of what a person wants as if it were a person who could kill a lazy person. Here the lazy person wants to be idle and not work. AT: "A lazy person only wants to be idle, and because of that he will die" or "A lazy person will die because he does not want to work" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **his hands refuse** - The hand is a synecdoche for the person. AT: "he refuses" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **The desire of the lazy** - AT: "What a lazy person wants to do"
+  * **his hands** - AT: "he" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **craves** - "wants greatly" or "desires strongly"
-  * **gives and does not hold back** - The phrase "does not hold back" can be stated positively, and what he gives can be made explicit. AT: "gives everything he should" or "gives generously" (See: [[:en:ta:vol2:translate:figs_litotes]])
-
+  * **does not hold back** - AT: "gives generously" (See: [[:en:ta:vol2:translate:figs_litotes]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:23|<<]] | [[:en:bible:notes:pro:21:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

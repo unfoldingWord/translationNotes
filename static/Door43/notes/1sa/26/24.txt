@@ -24,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 24 See, as your life was precious in my eyes today, so may my life be much valued in the eyes of Yahweh, and may he rescue me out of all trouble."
-\v 25 Then Saul said to David, "May you be blessed, David my son! You will certainly do great things and you will succeed in them." So David went his way, and Saul returned to his place.
+\v 24 And see, as your life was precious in my eyes today, so may my life be much valued in the eyes of Yahweh, and may he rescue me out of all trouble."
+\v 25 Then Saul said to David, "May you be blessed, David my son, so that you may do great things, and that you may surely succeed." So David went his way, and Saul returned to his place.
 </usfm>
 
 
@@ -42,9 +42,8 @@
 
 ===== translationNotes: =====
 
-  * **your life was precious in my eyes today** - Here the eyes represent seeing, and seeing represents thoughts or judgment. Similar words appear in [[:en:bible:notes:1sa:26:21|26:21]]. AT: "I have considered your life to be very valuable" or "I showed you today that I really do respect you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **so may my life be much valued in the eyes of Yahweh** - Here the eyes represent seeing, and seeing represents thoughts or judgment. AT: "so may Yahweh consider my life very valuable as well" or "so may Yahweh value my life as much as I have valued your life" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **May you be blessed** - This can be translated in active form. AT: "May Yahweh bless you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **precious in my eyes** - Here "eyes" is a metonymy refers to me. AT: "precious to me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **valued in the eyes of Yahweh** - Here "eyes of Yahweh" is a metonymy that refers to Yahweh. AT: "valuable to Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **my son** - Saul was not David's true father. Saul speaks as if he were David's father to show David that he wants David to trust and respect him as David would trust and respect his own father. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
@@ -54,6 +53,6 @@
   * [[:en:bible:questions:comprehension:1sa:26]]
 **[[:en:bible:notes:1sa:26:22|<<]] | [[:en:bible:notes:1sa:27:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -36,11 +36,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 10 Sons of foreigners will rebuild your walls, and their kings will serve you;
+\v 10 Sons of foreigners will rebuild your walls, and their kings will serve you; 
 \q1 though in my wrath I punished you, yet in my favor I will have compassion on you.
 \q1
-\v 11 Your gates also will remain open continually; they will not be shut day or night,
+\v 11 Your gates also will remain open continually; they will not be shut day or night, 
 \q1 so that the wealth
 of the nations may be brought, with their kings being led.
 </usfm>
@@ -62,7 +63,7 @@ of the nations may be brought, with their kings being led.
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **they will not be shut day or night** - Here "day" and "night" together mean "all the time." This can be stated in active form.  AT: "no one will ever shut them" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_merism]])
+  * **they will not be shut day or night** - "day" and "night" together mean "all the time." This can be stated in active form.  AT: "no one will ever shut them" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_merism]])
   * **so that the wealth of the nations may be brought, with their kings being led** - This can be stated in active form. AT: "so that the people of the nations may bring their wealth, along with their kings" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
@@ -72,6 +73,6 @@ of the nations may be brought, with their kings being led.
   * [[:en:bible:questions:comprehension:isa:60]]
 **[[:en:bible:notes:isa:60:08|<<]] | [[:en:bible:notes:isa:60:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -16,7 +16,7 @@
 
 <usfm>
 \v 10 Then Shallum son of Jabesh, made plans to assassinate Zechariah. He killed him in the city of Ibleam, and then he became the king.
-\v 11 Everything else that Zechariah did is written in the book of the events of the Kings of Israel.
+\v 11 Everything else that Zechariah did is written in the Book of the Events of the Kings of Israel.
 \v 12 When Zechariah died, the dynasty of King Jehu was finished. This fulfilled what Yahweh said to King Jehu would happen, "Your son and grandson and great-grandson and great-great-grandson will all be kings of Israel."
 
 
@@ -28,9 +28,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 10 Shallum son of Jabesh conspired against Zechariah, attacked him in Ibleam, and killed him. Then he became king in his place.
-\v 11 As for the other matters concerning Zechariah, they are written in the book of the events of the kings of Israel.
-\v 12 This was the word of Yahweh that he spoke to Jehu, saying, "Your descendants will sit on the throne of Israel to the fourth generation." That is what happened.
+\v 10 Shallum son of Jabesh conspired against Zechariah, attacked him in front of the people, and killed him. Then he became king in his place.
+\v 11 As for the other matters concerning Zechariah, they are written in The Book of the Events of the Kings of Israel.
+\v 12 This was the word of Yahweh that he spoke to Jehu, saying, "Your descendants will sit on the throne of Israel to the fourth generation." And so it happened.
 </usfm>
 
 
@@ -43,13 +43,9 @@
   * [[:en:obe:other:generation]]
 ===== translationNotes: =====
 
-  * **Shallum ... Jabesh** - These are the names of two men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Zechariah** - "King Zechariah"
-  * **Ibleam** - This was the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Then he became king in his place** - "Then Shallum became king in Zechariah's place" 
-  * **they are written in the book of the events of the kings of Israel** - This can be stated in active form. AT: "you can read about them in the book of the events of the kings of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **This was the word of Yahweh** - It can be stated clearly that the events described in verse 10 fulfilled the word of Yahweh. AT: "What happened to Zechariah was according to the word of Yahweh" or "What happened to Zechariah fulfilled the word of Yahweh" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Your descendants will sit on the throne of Israel to the fourth generation** - Sitting on the throne represents being the king. AT: "Your descendants will be the kings of Israel for four generations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and killed him** - some very old Greek versions add the place name, "at Ibleam" - some translations place that information in the text
+  * **Then he became king in his place** - "Then Shallum became king in Zechariah's place." 
+  * **This was the word of Yahweh that he spoke to Jehu, saying, "Your descendants will sit on the throne of Israel to the fourth generation."** - AT: "This is what Yahweh said to Jehu: 'Your descendants will be the kings of Israel for four generations.'" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
 
 
 ===== Links: =====
@@ -63,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

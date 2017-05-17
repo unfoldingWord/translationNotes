@@ -26,7 +26,7 @@
 
 <usfm>
 \p
-\v 14 Now Elisha became sick with an illness by which he later died, so Jehoash the king of Israel came down to him and wept over him. He said, "My father, my father, the chariots of Israel and the horsemen are taking you away!"
+\v 14 Now Elisha became sick with an illness by which he later died, so Joash the king of Israel came down to him and wept over him. He said, "My father, my father, the chariots of Israel and the horsemen are taking you away!"
 \v 15 Elisha said to him, "Pick up a bow and some arrows," so Joash picked up a bow and some arrows.
 \v 16 Elisha said to the king of Israel, "Put your hand on the bow," so he put his hand on it. Then Elisha laid his hands on the king's hands.
 </usfm>
@@ -40,11 +40,8 @@
   * [[:en:obe:other:bowweapon]]
 ===== translationNotes: =====
 
-  * **wept over him** - "wept because Elisha was sick"
   * **My father, my father** - Elisha was not the king's literal father. King Joash used this term as a sign of respect.
-  * **the chariots of Israel and the horsemen are taking you away** - This is a reference to Elijah going to heaven in [[:en:bible:notes:2ki:02:11|2:11-12]]. Joash uses this phrase to say that Elisha was going to die. AT: "the chariots of Israel and the horsemen are taking you to heaven" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **the horsemen** - This refers to the men who drove the chariots. This can be made explicit. AT: "the drivers of the chariots" (See: [[:en:ta:vol1:translate:figs_explicit]])
-
+  * **and the horsemen** - AT: "and the drivers of the chariots" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -53,6 +50,6 @@
   * [[:en:bible:questions:comprehension:2ki:13]]
 **[[:en:bible:notes:2ki:13:12|<<]] | [[:en:bible:notes:2ki:13:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

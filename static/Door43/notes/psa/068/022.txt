@@ -22,7 +22,7 @@
 \q2
 \v 23 I will do that so that you may wash your feet in their blood,
 \q2 and your dogs can also lap up some of your enemies' blood."
-
+\b
 
 
 \q1
@@ -37,7 +37,7 @@
 \q I will bring them back from the depths of the sea
 \q
 \v 23 so that you may crush your enemies, dipping your foot in blood,
-\q and so that the tongues of your dogs may have their share from your
+\q and so that the tongues of your dogs may have their share from your 
 enemies."
 </usfm>
 
@@ -61,6 +61,6 @@ enemies."
   * [[:en:bible:questions:comprehension:psa:068]]
 **[[:en:bible:notes:psa:068:019|<<]] | [[:en:bible:notes:psa:068:024|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~

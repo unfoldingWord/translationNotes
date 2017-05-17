@@ -19,8 +19,9 @@
 \v 1 My son, do not forget the lessons I have taught you.
 \q1 Keep my commands inside of you, as important guidance for how you will live,
 \q1
-\v 2 because they will help you live a long life, measured in either days or years,
-\q1 and they will bring you peace in addition to all the lessons they teach you.
+\v 2 because they will help you live a long life, measured in either days or years, 
+\q1 and they will bring you peace in addition to all the lessons they teach you. 
+
 
 \q1
 </usfm>
@@ -45,14 +46,14 @@
   * [[:en:obe:other:heart]]
   * [[:en:obe:kt:life]]
   * [[:en:obe:other:peace]]
+ 
 
 ===== translationNotes: =====
 
-  * **General Information:** - The writer speaks as a father teaching his child using poetry. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - The writer uses again the form of a father teaching his child using poetry. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **do not forget my commands** - The word "commands" can be translated as a verb. AT: "do not forget what I command you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **keep my teachings in your heart** - This phrase says in positive terms what the previous phrase says in negative terms. Here the word "heart" represents the mind. The word "teachings" can be translated as a verb. AT: "always remember what I teach you" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **length of days and years of life** - These two phrases share similar meanings and refer to living a long life. AT: "a long life" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **do not forget my commands** - "remember my commands" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **length of days and years of life and peace they will add to you** - AT: "they will give you a long, peaceful life." 
  
 ===== Links: =====
 
@@ -67,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

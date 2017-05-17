@@ -14,7 +14,8 @@
 
 <usfm>
 \v 4 So about three thousand Israelite men went to attack Ai. But they did not defeat them. Instead, they had to run for their lives.
-\v 5 The enemy killed about thirty-six Israelites and chased the rest from the city gate to the bottom of the hill, and then to a place where people had cut stone out from a hill. When the people of Israel saw this, they were very afraid and lost all their courage.
+\v 5 The enemy killed about thirty-six Israelites and chased the rest from the city gate to the bottom of the hill, and then to a place where people had cut stone out from a hill. When the people of Israel saw this, they were very afraid and lost all their courage. 
+
 
 \p
 </usfm>
@@ -24,7 +25,7 @@
 
 <usfm>
 \v 4 So only about three thousand men went up from the army, but these ran away from the men of Ai.
-\v 5 The men of Ai killed about thirty-six men as they pursued them from the city gate as far as to the stone quarries, and they killed them as they were going down a hill. The hearts of the people were afraid and their courage left them.
+\v 5 The men of Ai killed about thirty-six men as they pursued them from the city gate as far as to the stone quarries, and they killed them as they were going down a hill. And the hearts of the people were afraid and their courage left them.
 </usfm>
 
 
@@ -37,24 +38,25 @@
 
 ===== translationNotes: =====
 
-  * **three thousand men went up from the army** - These men were part of the army. AT: "three thousand men belonging to the army went up"  
-  * **three thousand men ... thirty-six men** - "3,000 men ... 36 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **The hearts of the people were afraid ... their courage left them** - These two phrases share similar meanings and are combined to emphasize that the people were extremely afraid. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **The hearts of the people were afraid** - The people being afraid is spoken of as if their hearts were afraid. AT: "The people were very afraid" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **The hearts of the people** - The phrase "the people" refers to the Israelite soldiers. 
-  * **their courage left them** - "they were no longer courageous"
+  * **General Information:** - Joshua sends soldiers to Ai and is defeated.
 
+  * **three thousand men** - The word "men" here refers to "soldiers." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **three thousand men ... thirty-six men** - These refer to the number of men (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **the hearts of the people were afraid and their courage left them** - The word "people" refers to Israel. These two phrases share similar meanings and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
   * [[:en:bible:notes:jos:07:00]]
   * [[:en:bible:questions:comprehension:jos:07]]
+
+ 
+
 **[[:en:bible:notes:jos:07:02|<<]] | [[:en:bible:notes:jos:07:06|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

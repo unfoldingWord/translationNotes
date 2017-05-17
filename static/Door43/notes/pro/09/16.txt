@@ -22,11 +22,11 @@
 \v 16 "Any of you who have no experience, come here,"
 \q2 she says to those who have no good judgment.
 \q1
-\v 17 "If you sleep with me, it will as sweet as drinking water that you have stolen, 
-\q2 or eating delicious food all by yourself."
+\v 17 "Water that you have stolen is sweet,
+\q2 and food that you eat by yourself is delicious,
 \q1
-\v 18 Any man who accepts her invitation does not know that the dead are in her home,
-\q2 that those who accepted her invitation and went into her house are now in the world of the dead.
+\v 18 The man does not know that the dead are in her home;
+\q2 that those who went in to her are now in the grave."
 </usfm>
 
 
@@ -34,14 +34,14 @@
 
 <usfm>
 \q
-\v 16 "Let anyone who is naive turn aside here,"
-\q she says to those who have no sense.
+\v 16 "Let those who are untaught come in here!" 
+\q she says to those who have no sense. 
 \q
-\v 17 "Stolen waters are sweet,
-\q and bread of secrecy is delicious."
+\v 17 "Stolen waters are sweet
+\q and bread eaten in secret is pleasant."
 \q
 \v 18 But he does not know that the dead are there,
-\q that her invited guests are in the depths of Sheol.
+\q that her guests are in the depths of Sheol.
 </usfm>
 
 
@@ -52,13 +52,12 @@
 
 ===== translationNotes: =====
 
-  * **is naive** - "is inexperienced or immature"
-  * **turn aside here** - "leave his path and come here"
+  * **those who are untaught** - AT: "those who lack experience" or "those who have not learned"
   * **she says** - This is the foolish woman who was introduced in [[:en:bible:notes:pro:09:13|9:13]].
-  * **those who have no sense** - "those who do not have wisdom" or "those who are not wise"
-  * **Stolen waters are sweet, and bread of secrecy is delicious** - The foolish woman speaks of the pleasure of stolen waters and bread of secrecy to tell men that if they sleep with her, they will have pleasure. This can be stated clearly in a simile: "You can enjoy me just as you enjoy water that you have stolen or bread that is secret" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **those who have no sense** - AT: "those who do not have wisdom" or "those who are not wise"
+  * **Stolen waters are sweet and bread eaten in secret is pleasant** - The foolish woman speaks of the pleasure of stolen bread and water to tell men that sleeping with her is pleasurable. This can be stated clearly in a simile: "You can enjoy me just like you enjoy bread or water that you have stolen." (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **that the dead are there** - "that the men who have gone to her are now dead"
-  * **in the depths of Sheol** - "Sheol" refers to the world of the dead.  (See UDB). 
+  * **in the depths of Sheol** - This here refers to the grave (UDB). (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -67,6 +66,6 @@
   * [[:en:bible:questions:comprehension:pro:09]]
 **[[:en:bible:notes:pro:09:13|<<]] | [[:en:bible:notes:pro:10:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

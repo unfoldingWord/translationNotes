@@ -20,6 +20,7 @@
 \q2 even if they do not have much food to eat.
 \q1 But rich people do not sleep well
 \q2 because they worry about their money.
+\b
 
 
 \p
@@ -29,9 +30,9 @@
 ===== ULB: =====
 
 <usfm>
-\q1
-\v 12 The sleep of a working man is sweet,
-\q2 whether he eats little or a lot,
+\q1 
+\v 12 The sleep of a working man is sweet, 
+\q2 whether he eats little or a lot, 
 \q1 but the wealth of a rich person does not allow him to sleep well.
 </usfm>
 

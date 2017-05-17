@@ -30,13 +30,10 @@
   * [[:en:obe:other:peoplegroup]]
   * [[:en:obe:other:babylon]]
   * [[:en:obe:other:hamath]]
-
 ===== translationNotes: =====
 
-  * **Succoth Benoth ... Nergal ... Ashima ... Nibhaz ... Tartak ... Adrammelech ... Anammelech** - These are the names of gods, both male and female. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Cuthah ... Hamath** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Avvites ... Sepharvites** - These are the names of people groups. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **burned their children in the fire** - "sacrificed their own children" (UDB) or "burned their children in fire as an offering"
+  * **Succoth Benoth ... Cuthah ... Nergal ... Ashima ... Avvites ... Nibhaz ... Tartak ... Sepharvites ... Adrammelech ... Anammelech** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **burned their children in the fire** - "sacrificed their own children" (UDB) or AT: "burned their children in fire as an offering"
 
 ===== Links: =====
 
@@ -45,6 +42,6 @@
   * [[:en:bible:questions:comprehension:2ki:17]]
 **[[:en:bible:notes:2ki:17:27|<<]] | [[:en:bible:notes:2ki:17:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

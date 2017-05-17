@@ -26,6 +26,7 @@
 \q1
 \v 22 All you things that Yahweh has created, praise him;
 \q2 praise him in every place where he rules, everywhere!
+\b
 \q1 I also will praise Yahweh!
 </usfm>
 
@@ -33,7 +34,7 @@
 
 <usfm>
 \q
-\v 20 Give praise to Yahweh, you his angels,
+\v 20 Give praise to Yahweh, you his angels, 
 \q you mighty ones who are strong and do his word,
 \q and obey the sound of his word.
 \q
@@ -66,6 +67,6 @@
   * [[:en:bible:questions:comprehension:psa:103]]
 **[[:en:bible:notes:psa:103:017|<<]] | [[:en:bible:notes:psa:104:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book4 willofgod}}
+~~DISCUSSION~~{{tag>publish p2check book4 willofgod}}
 
 ~~NOCACHE~~

@@ -21,8 +21,8 @@
 
 <usfm>
 \p
-\v 6 Joiada son of Paseah and Meshullam son of Besodeiah repaired the Old Gate. They made beams for it, and set its doors, its bolts, and its bars.
-\v 7 Next to them Melatiah the Gibeonite and Jadon the Meronothite, who were men from Gibeon and Mizpah, made repairs on the portion where the governor of the Province Beyond the River lived.
+\v 6 Joiada son of Paseah and Meshullam son of Besodeiah repaired the Old Gate. They set the beams, and set its doors and its bolts and its bars.
+\v 7 Next to them Melatiah the Gibeonite and Jadon the Meronothite, who were men from Gibeon and Mizpah, made repairs on the portion where the governor of the province beyond the River lived.
 </usfm>
 
 
@@ -35,13 +35,13 @@
   * [[:en:obe:kt:life]]
 ===== translationNotes: =====
 
-  * **Joiada ... Paseah and Meshullam ... Besodeiah ... Melatiah ... Jadon** - These are all names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Joiada ... Paseah and Meshullam ... Besodeia ... Melatiah ... Jadon** - These are all names of males. (See: [[:en:ta:vol1:translate:translate_names]])
   * **set its doors** - "installed its doors" or "put its doors in place"
-  * **its bolts, and its bars** - "its locks and bars." These locked the gates securely. 
-  * **Gibeonite ... Meronothite** - Gibeonites and Meronothites are people groups. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **its bolts ... its bars** - "the locking mechanisms" or "its locks" 
+  * **Melatiah the Gibeonite ... Jadon the Meronothite** - Gibeonites and Meronothites are people groups.
   * **Gibeon and Mizpah** - These are names of places. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the Province Beyond the River** - This is the name of the province that was west of the Euphrates River. It was across the river from the city of Susa. Translate as in [[:en:bible:notes:neh:02:07|2:7]]. (See: [[:en:ta:vol1:translate:translate_names]])
-
+  * **the province beyond the River** - "the province near the Euphrates River" or "the near province at the Euphrates River"
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -52,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

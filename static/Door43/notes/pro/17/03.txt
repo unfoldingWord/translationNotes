@@ -18,11 +18,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 Silver is put into the crucible to be refined, and gold is put into the furnace to be made pure,
-\q2 but it is Yahweh who makes people pure.
+\v 3 Silver is put into the crucible to be refined, and gold is put into the furnace to be made pure, 
+\q2 but it is Yahweh who makes people pure. 
+\b
 \q1
 \v 4 Those who do what is evil pay attention to the person who talks in wicked ways,
 \q2 and those who tell lies listen to those who speak in order to make trouble.
+\b
 
 
 \q1
@@ -36,8 +38,8 @@
 \v 3 The crucible is for silver and the furnace is for gold,
 \q but Yahweh refines hearts.
 \q
-\v 4 The evildoer pays attention to wicked lips;
-\q a liar gives ear to a destructive tongue.
+\v 4 A person who does evil listens to those who speak wickedly;
+\q a liar pays attention to those who say evil things.
 </usfm>
 
 
@@ -53,13 +55,8 @@
 
 ===== translationNotes: =====
 
-  * **The crucible is for silver and the furnace is for gold** - This refers to how gold and silver are refined. A metal is refined by heating it to a high temperature so that it melts and the impurities may be removed. AT: "The crucible is used to refine silver and the furnace is used to refine gold" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **crucible** - a pot in which metals are melted at a very high temperature
-  * **Yahweh refines hearts** - This speaks of Yahweh testing people to help them stop being evil and foolish as if their hearts were a metal that Yahweh was refining to remove everything that is impure. AT: "Yahweh tests peoples' hearts" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **hearts** - Here people are referred to by their hearts to emphasize their thoughts and desires. AT: "people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **wicked lips** - The word "lips" can be translated as either 1) a synecdoche for the person or 2) a metonym for the words that come out from those lips. AT:  "a wicked person" or "wicked talk" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **gives ear** - "listens" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **destructive tongue** - The word "tongue" can be translated as either 1) a synecdoche for the person or 2) a metonym for the words that the tongue produces. AT: "a destructive person" or "destructive talk" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Yahweh refines hearts** - AT: "Yahweh tests hearts" Just as heating gold and silver removes whatever is impure, so testing by Yahweh removes evil and foolishness from hearts.
 
 ===== Links: =====
 
@@ -68,6 +65,6 @@
   * [[:en:bible:questions:comprehension:pro:17]]
 **[[:en:bible:notes:pro:17:01|<<]] | [[:en:bible:notes:pro:17:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example furnace}}
+~~DISCUSSION~~{{tag>publish p2edit furnace}}
 
 ~~NOCACHE~~

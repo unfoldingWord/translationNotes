@@ -40,17 +40,14 @@
   * [[:en:obe:other:hilkiah]]
   * [[:en:obe:other:household]]
   * [[:en:obe:other:scribe]]
-
 ===== translationNotes: =====
 
   * **the king of Assyria mobilized his great army, sending Tartan and Rabsaris and the chief commander** - Sennacherib sent a group of men from his army to Jerusalem to meet with King Hezekiah, including officials named Tartan and Rabsaris.
-  * **Tartan ... Rabsaris** - Some Bibles translate these as proper names. Other versions of the Bible translate them as titles. AT: "the Tartan ... the Rabsaris" or "the leader of the soldier ... a court official" (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Lachish** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the conduit of the upper pool** - the channel where the water stored in the "upper pool" flows into the city of Jerusalem
-  * **stood by it** - "and waited there for King Hezekiah to meet with them"
-  * **Eliakim ... Hilkiah ... Shebna ... Joah ... Asaph** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-
-
+  * **Tartan ... Rabsaris ... Eliakim ... Hilkiah ... Shebna ... Joah ... Asaph** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Tartan ... Rabsaris** - Some understand these to be titles: "the tartan ... the rabsaris or "the leader of the soldiers .., another important official"
+  * **Lachish** - place name (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the conduit of the upper pool** - the place where the water stored in the "upper pool" flows into the city of Jerusalem
+  * **stood by it** - AT: "and waited there for King Hezekiah to meet with them"
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -58,6 +55,6 @@
   * [[:en:bible:questions:comprehension:2ki:18]]
 **[[:en:bible:notes:2ki:18:13|<<]] | [[:en:bible:notes:2ki:18:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass hilkiah eliakim}}
+~~DISCUSSION~~{{tag>publish p2edit hilkiah eliakim}}
 
 ~~NOCACHE~~

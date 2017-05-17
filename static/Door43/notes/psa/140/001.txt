@@ -27,7 +27,7 @@
 \q1
 \v 3 By what they say, they injure people as poisonous snakes do.
 
-
+\b
 
 
 \q1
@@ -37,8 +37,9 @@
 
 <usfm>
 \c 140
-\m
+\p
 \d For the chief musician. A psalm of David.
+\p
 \q
 \v 1 Yahweh, rescue me from the wicked;
 \q preserve me from violent men.
@@ -64,7 +65,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **For the chief musician** - This is for the director of music to use in worship." 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
@@ -78,6 +79,6 @@
   * [[:en:bible:questions:comprehension:psa:140]]
 **[[:en:bible:notes:psa:139:023|<<]] | [[:en:bible:notes:psa:140:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

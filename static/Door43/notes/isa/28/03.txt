@@ -39,7 +39,7 @@
 \q1
 \v 3 The proud garland of the drunkards of Ephraim will be trodden underfoot.
 \q1
-\v 4 The fading flower of his glorious beauty, that is on the head of the rich valley,
+\v 4 The fading flower of his glorious beauty, that is on the head of the rich valley, 
 \q1 will be as the first ripe fig before the summer, that, when someone sees it,
 \q1 while it is yet in his hand, he gulps it down.
 </usfm>
@@ -56,11 +56,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Isaiah continues to speak about the people and the city of Samaria as if they were a garland. (See: [[:en:bible:notes:isa:28:01|28:1-2]])
+  * **General Information:** - Isaiah continues to compare the people of Ephraim and Samaria to a dying flower. (See: [[:en:bible:notes:isa:28:01|28:1-2]])
 
-  * **The proud garland of the drunkards of Ephraim will be trodden underfoot** - This can be stated in active form. AT: "The enemy army will crush the proud drunkards of Samaria as if they were crushing flowers under their feet" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **proud garland ... of Ephraim ... that is on the head of the rich valley** - A "garland" is a crown made of flowers. Here it represents the city of Samaria, the capital of Israel, which sits above a fertile valley. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **will be as the first ripe fig ... gulps it down** - This speaks of the enemy soldiers seeing the beauty of Samaria and quickly plundering it as if they were a person who sees the first fig of the season and quickly eats it. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **The proud garland of the drunkards of Ephraim will be trodden underfoot** - This can be stated in active form. "Like stepping on a flower the enemy army will crush the proud drunkards of Ephraim" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **The fading flower of his glorious beauty, that is on the head of the rich valley** - This refers to the city of Samaria. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will be as the first ripe fig ... gulps it down** - This emphasizes that when the enemies of Israel see all the beauty of Samaria they will quickly plunder it and take away all its good things. (See: [[:en:ta:vol1:translate:figs_simile]])
 
  
  
@@ -69,11 +69,14 @@
   * [[:en:bible:notes:isa:00:intro]]
   * [[:en:bible:notes:isa:28:00]]
   * [[:en:bible:questions:comprehension:isa:28]]
+
+ 
+
 **[[:en:bible:notes:isa:28:01|<<]] | [[:en:bible:notes:isa:28:05|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

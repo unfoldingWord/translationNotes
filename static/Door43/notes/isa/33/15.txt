@@ -32,6 +32,7 @@
 \q2 they will find places to be safe in the caves in the mountains.
 \q1 They will have plenty of food
 \q2 and water.
+\b
 
 
 \q1
@@ -42,11 +43,11 @@
 
 <usfm>
 \q1
-\v 15 He who walks righteously and speaks honestly; he who despises the gain of oppression,
-\q1 who refuses to take a bribe, who does not plot violent crime,
-\q1 and does not look on evil—
+\v 15 He who walks righteously and speaks honestly; he who despises the gain of oppression, 
+\q1 who refuses to take a bribe, who does not plot violent crime, 
+\q1 and does not look on evil.
 \q1
-\v 16 he will make his home on the heights;
+\v 16 He will make his home on the heights; 
 \q1 his place of defense will be the fortresses of rocks; his food and water will be in steady supply.
 </usfm>
 
@@ -61,14 +62,11 @@
 
 ===== translationNotes: =====
 
-  * **He who walks** - Here walking refers to living. AT: "He who lives" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **he who despises the gain of oppression** - The noun phrase "the gain of oppression" can be expressed as a verb phrase. AT: "he who hates the riches that come from harming other people" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **and does not look on evil** - "Look on" here means to approve of something. AT: "and who do not approve of doing evil" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **He will make his home on the heights;
-his place of defense will be the fortresses of rocks** - This speaks of the man being safe as if he lived in a home on a high hill. These two phrase are parallel and the second phrase describes the place where the man lives. AT: "He will be safe, like a man who home is built on a high hill, in a rocky place that is easy to defend" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **the heights** - This refers to a high hill or mountainside. AT: "the high hill" or "the mountainside" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the fortresses of rocks** - This speaks of rocky areas that are easy to defend as if they were actually fortresses. AT: "the large piles of rocks" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **will be in steady supply** - "will always be available" 
+  * **He who walks righteously and speaks honestly** - "Whoever does what is right and speaks what is true"
+  * **he who despises the gain of oppression** - "whoever hates the riches that come from harming other people"
+  * **and does not look on evil** - "Look on" here means to approve of something. AT: "and does not join those who do what is evil" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **He will make his home on the heights** - A home on a high hill or mountain is relatively safe. AT: "He will make his home high in the mountains where it is safe" or "He will make his home in safe places" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -82,6 +80,6 @@ his place of defense will be the fortresses of rocks** - This speaks of the man 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -28,6 +28,7 @@
 \v 19 Moreover, Yahweh will hand over Israel and you into the hand of the Philistines. Tomorrow you and your sons will be with me. Yahweh will also hand over the army of Israel into the hand of the Philistines."
 </usfm>
 
+
 ===== translationWords: =====
 
   * [[:en:obe:other:obey]]
@@ -38,13 +39,14 @@
   * [[:en:obe:other:hand]]
   * [[:en:obe:other:israel]]
   * [[:en:obe:other:philistines]]
-  * [[:en:obe:kt:son]] 
+  * [[:en:obe:kt:son]]
+ 
 
 ===== translationNotes: =====
 
-  * **Yahweh will hand over Israel and you into the hand of the Philistines** - Samuel speaks as if the people of Israel were a small object that Yahweh would give to the Philistines, whom he speaks of as if they were one person. AT: "Yahweh will allow the Philistines to do whatever they want to do to you and the people of Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **will be with me** - This is a polite way to say that Saul will die. AT: "will be dead" (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **Yahweh will also hand over the army of Israel into the hand of the Philistines** - Samuel speaks as if the army of Israel were a small object that Yahweh would give to the Philistines, whom he speaks of as if they were one person. AT: "Yahweh will allow the Philistines to do whatever they want to do to the army of Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **will be with me** - This is a polite way to so that Saul will die. AT: "will be dead" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **Yahweh will hand over Israel** - "Yahweh will give Israel"
+  * **into the hand of the Philistines** - "into the power of the Philistines"
 
 ===== Links: =====
 
@@ -53,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1sa:28]]
 **[[:en:bible:notes:1sa:28:16|<<]] | [[:en:bible:notes:1sa:28:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

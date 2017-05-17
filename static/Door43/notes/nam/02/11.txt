@@ -20,12 +20,14 @@
 
 <usfm>
 \v 11 After that happens, people will say,
-\q2 "What happened to that great city of Nineveh?
-\q2 It was like a den full of young lions,
-\q2 where the male and female lions lived and fed the young ones, where they were afraid of nothing.
-\q1
-\v 12 The soldiers in Nineveh were like lions that killed or strangled other animals
+\pi "What happened to that great city of Nineveh?
+ It was like a den full of young lions,
+ where the male and female lions lived and fed the young ones, where they were afraid of nothing
+\v 12 The soldiers in Nineveh were like lions that killed or strangled other animals 
  and brought the meat to their dens."
+ 
+
+\m
 </usfm>
 
 
@@ -33,10 +35,10 @@
 
 <usfm>
 \q
-\v 11 Where now is the lions' den, the place where the young lion cubs feed,
+\v 11 Where now is the lions' den, the place where the young lion cubs feed, 
 \q the place where the lion and lioness walked, with the cubs, where they were afraid of nothing?
 \q
-\v 12 The lion tore his victims to pieces for his cubs; he strangled victims for his lionesses,
+\v 12 The lion tore his victims to pieces for his cubs; he strangled victims for his lionesses, 
 \q and filled his cave with victims, his dens with torn carcasses.
 </usfm>
 

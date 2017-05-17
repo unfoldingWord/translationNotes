@@ -25,7 +25,7 @@
 \q2 just like Mount Sinai shook when you appeared there,
 \q2 because you are Yahweh,
 \q2 the God of Israel.
-\m
+\b
 \v 6 When Shamgar was our leader and in the days of Jael,
 \q2 we were afraid to walk on the main roads;
 \q2 instead, caravans of travelers walked on winding, less traveled roads
@@ -42,6 +42,7 @@
 \q
 \v 5 The mountains quaked before the face of Yahweh;
 \q even Mount Sinai quaked before the face of Yahweh, the God of Israel.
+\b
 \q
 \v 6 In the days of Shamgar (son of Anath),
 \q in the days of Jael, the main roads were abandoned,
@@ -74,6 +75,6 @@
   * [[:en:bible:questions:comprehension:jdg:05]]
 **[[:en:bible:notes:jdg:05:03|<<]] | [[:en:bible:notes:jdg:05:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

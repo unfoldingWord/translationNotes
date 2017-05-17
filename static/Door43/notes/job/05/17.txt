@@ -34,7 +34,7 @@
 
 <usfm>
 \q
-\v 17 See, blessed is the man whom God corrects;
+\v 17 See, happy is the man whom God corrects;
 \q therefore, do not despise the chastening of the Almighty.
 \q
 \v 18 For he wounds and then binds up;
@@ -56,13 +56,13 @@
 
   * **General Information:** - The writer continues to use parallelism in verses 18 and 19, conveying a single idea using two different statements to emphasize God's acts of chastening and healing. (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
 
+  * **See, happy is the man whom God corrects** - "See how happy is the man whom God corrects"
   * **God corrects ... chastening of the Almighty** - God is pictured as a parent correcting or instructing a child.
-  * **blessed** - "favored"
+  * **happy** - "blessed" or "favored"
   * **do not despise** - "do not reject" or "do not consider worthless"
   * **chastening** - "instruction" or "correction" or "discipline" (UDB)
   * **For he wounds and then binds up; he wounds and then his hands heal** - "For he wounds but binds up; he crushes but his hands heal" 
-  * **his hands heal** - Here "his hands" represents God. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **He will rescue you out of six troubles; indeed, in seven troubles, no evil will touch you** - The use of increasing numbers such as "six" and "seven" represents the idea of many, many times. AT: "He will rescue you out of trouble over and over again; indeed, time after time, no evil will touch you" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **He will rescue you out of six troubles; indeed, in seven troubles, no evil will touch you** - Here the pronoun shifts from "he" to "you." "Six times he will deliver you from trouble; seven times no evil will touch you."
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:05]]
 **[[:en:bible:notes:job:05:14|<<]] | [[:en:bible:notes:job:05:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

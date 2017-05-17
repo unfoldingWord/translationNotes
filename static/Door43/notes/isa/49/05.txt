@@ -30,6 +30,7 @@
 \q2 by bringing the descendants of Jacob back to worship me again;
 \q1 I also want you to be like a light for the non-Israelites;
 \q2 I want you to take my message about how to be saved to people all over the world."
+\b
 
 
 \q1
@@ -38,13 +39,14 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
-\v 5 Now Yahweh has spoken—he who formed me from birth to be his servant,
-\q1 to restore Jacob again to himself, so that Israel would be gathered to him,
-\q1 for I am honored in the eyes of Yahweh, and my God has become my strength—
+\v 5 And now Yahweh has spoken, he who formed me from birth to be his servant, 
+\q1 to restore Jacob again to himself, and that Israel be gathered to him. 
+\q1 I am honored in the eyes of Yahweh, and my God has become my strength.
 \q1
-\v 6 and he says, "It is too small a thing for you to be my servant to reestablish the tribes of Jacob,
-\q1 and to restore the survivors of Israel. I will make you a light to the Gentiles,
+\v 6 He says, "It is too small a thing for you to be my servant to reestablish the tribes of Jacob, 
+\q1 and to restore the survivors of Israel. I will make you a light to the Gentiles, 
 \q1 that you may be my salvation to the ends of the earth."
 </usfm>
 
@@ -67,12 +69,9 @@
 
   * **General Information:** - Yahweh's servant continues speaking.
 
-  * **that Israel would be gathered to him** - This part of the sentence means the same as the part before it. This can be stated in active form. AT: "to bring the people of Israel back to himself" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **I am honored in the eyes of Yahweh** - Here "eyes" represents Yahweh's thoughts or opinion. This can be stated in active form. AT: "Yahweh has honored me" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **my God has become my strength** - God giving the servant strength is spoken of as if God himself were his strength. AT: "my God has given me strength" or "my God has strengthened me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will make you a light to the Gentiles** - The servant bringing Yahweh's message to the Gentiles and helping them to understand it is spoken of as if Yahweh made the servant a light that shines among the Gentiles. See how you translated a similar phrase in [[:en:bible:notes:isa:42:05|42:6]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **to the ends of the earth** - The places on the earth that are very far away are spoken of as if they were the places where the earth ends. This phrase also forms a merism and refers to everywhere in between the ends. AT "to all the farthest places of the earth" or "to the entire earth" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_merism]])
-
+  * **that Israel be gathered to him** - This part of the sentence means the same as the part before it. This can be stated in active form. AT: "to bring the people of Israel back to himself" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **I am honored in the eyes of Yahweh** - This can be stated in active form. Here "eyes" means God's thoughts or opinion. AT: "Yahweh considers me honored" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I will make you a light to the Gentiles** - This means he will cause even those who are not Israelites to understand and to worship Yahweh. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -80,6 +79,6 @@
   * [[:en:bible:questions:comprehension:isa:49]]
 **[[:en:bible:notes:isa:49:03|<<]] | [[:en:bible:notes:isa:49:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass restore}}
+~~DISCUSSION~~{{tag>publish p2edit restore}}
 
 ~~NOCACHE~~

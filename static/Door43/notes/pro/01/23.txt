@@ -22,12 +22,12 @@
 
 <usfm>
 \v 23 If you pay attention to me when I correct you,
-\q2 I will tell you all I am thinking.
+\q2 I will tell you all I am thinking. 
 \q2 I will help you understand what I am saying to you.
 \q1
 \v 24 But when I called to you, you refused to listen.
 \q2 I beckoned you and stretched out my hands to you,
-\q but no one paid any attention.
+\q but no one paid any attention. 
 \q1
 \v 25 You refused to listen to my advice
 \q and you did not listen when I corrected you.
@@ -40,15 +40,15 @@
 
 <usfm>
 \q
-\v 23 Pay attention to my correction;
+\v 23 Pay attention to my rebuke;
 \q I will pour out my thoughts to you;
 \q I will make my words known to you.
 \q
 \v 24 I have called, and you have refused to listen;
-\q I reached out with my hand, but there was no one who paid attention.
+\q I reached out with my hand, but no one paid attention.
 \q
 \v 25 But you have ignored all my instruction
-\q and paid no attention to my correction.
+\q and paid no attention to my reproof.
 </usfm>
 
 ===== translationWords: =====
@@ -61,12 +61,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Wisdom continues to speak. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **General Information:** - The wise woman wisdom continues to speak. (See: [[:en:ta:vol2:translate:figs_personification]])
  
-  * **Pay attention** - "Listen carefully"
-  * **I will pour out my thoughts to you** - Wisdom telling the people everything she thinks about them is spoken of as if her thoughts were a liquid that she would pour out. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will make my words known to you** - Here "words" represents thoughts. AT: "I will tell you what I think" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I reached out with my hand** - This phrase is an idiom that means to beckon someone or to invite a person to come. AT: "I invited you to come to me" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Pay attention** - This is an idiom. AT: "Listen carefully" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **I will pour out my thoughts to you** - The thoughts of wisdom are like liquid being poured out. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I reached out with my hand** - To "reach out" is a metaphor for offering help to someone. AT: "I offered my help" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -75,6 +74,6 @@
   * [[:en:bible:questions:comprehension:pro:01]]
 **[[:en:bible:notes:pro:01:20|<<]] | [[:en:bible:notes:pro:01:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

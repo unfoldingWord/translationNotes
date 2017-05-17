@@ -31,11 +31,11 @@
 
 <usfm>
 \q
-\v 11 When the mocker is punished, the naive become wise,
-\q and when the wise person is instructed, he lays hold of knowledge.
+\v 11 When the mocker is punished, the untaught become wise,
+\q and when the wise person is instructed, he increases in knowledge.
 \q
-\v 12 The righteous person watches the house of the wicked person;
-\q he brings wicked people to disaster.
+\v 12 The one who does right watches the house of the wicked;
+\q he brings down the wicked to ruin.
 </usfm>
 
 ===== translationWords: =====
@@ -50,14 +50,10 @@
 
 ===== translationNotes: =====
 
-  * **When the mocker is punished** - This can be translated in active form. AT: "When someone punishes the mocker" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **naive** - "inexperienced, immature"
-  * **the mocker** - "the person who mocks others"
-  * **when the wise person is instructed** - This can be translated in active form. AT: "when someone instructs the wise person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **lays hold of knowledge** - Here knowledge is spoken of as if it were an object that someone could grasp and keep for himself. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **The righteous** - Possible meanings are 1) any righteous person or 2) "Yahweh the one who is righteous."
-  * **watches** - "pays careful attention to"
-  * **he brings wicked people to disaster** - Here disaster is spoken of as if it were a place that someone could be brought to. AT: "he destroys them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **When the mocker is punished** - AT: "When someone punishes the mocker" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **when the wise person is instructed** - AT: "when someone instructs the wise person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **watches** - AT: "carefully considers" or "pays attention to"
+  * **he brings down the wicked to ruin** - "he ruins them" or "he destroys them"
 
 ===== Links: =====
 
@@ -66,6 +62,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:09|<<]] | [[:en:bible:notes:pro:21:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

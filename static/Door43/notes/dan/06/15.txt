@@ -10,7 +10,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 In the evening, many of those who formed the plot against Daniel spoke to the king, "You know, O king, that the law of the Medes and Persians is that no change can be made to the king's commands, and no one can change it."
+\v 15 In the evening, many of those who formed the plot against Daniel spoke to the king, "You know, O king, that the law of the Medes and Persians is that no change can be made to the king's commands, and no one can change it." 
+
 
 \p
 </usfm>
@@ -31,7 +32,7 @@
 
 ===== translationNotes: =====
 
-  * **no decree ... can be changed** - An additional sentence may be added here to aid in understanding. AT: "no decree ... can be changed. They must throw Daniel into the pit of lions" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **no decree ... can be changed** - An additional sentence may be added here to aid in understanding. AT: "no decree ... can be changed. They must throw Daniel into the pit of lions." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -39,6 +40,6 @@
   * [[:en:bible:questions:comprehension:dan:06]]
 **[[:en:bible:notes:dan:06:13|<<]] | [[:en:bible:notes:dan:06:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

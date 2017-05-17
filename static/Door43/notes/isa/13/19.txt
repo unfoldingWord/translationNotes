@@ -39,11 +39,11 @@
 
 <usfm>
 \q1
-\v 19 Then Babylon, the most admired of kingdoms, the splendor of Chaldean pride,
+\v 19 And Babylon, the most admired of kingdoms, the splendor of Chaldean pride, 
 \q1 will be overthrown by God like Sodom and
 Gomorrah.
 \q1
-\v 20 It will not be inhabited or lived in from generation to generation.
+\v 20 It will not be inhabited or lived in from generation to generation. 
 \q1 The Arab will not pitch his
 tent there, nor will shepherds have their flocks rest there.
 </usfm>
@@ -66,15 +66,11 @@ tent there, nor will shepherds have their flocks rest there.
  
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues speaking.
+  * **General Information:** - This may be Isaiah or Yahweh speaking.
 
-  * **the most admired of kingdoms** - This can be stated in active form. AT: "the kingdom that people most admire" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the splendor of Chaldean pride** - The noun "pride" can be expressed with the adjective "proud." AT: "the beautiful city that the Chaldeans are so proud of" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **will be overthrown** - "will be destroyed"
-  * **like Sodom and Gomorrah** - "as Sodom and Gomorrah were overthrown." See how you translated these city names in [[:en:bible:notes:isa:01:09|1:9]]. (See: [[:en:ta:vol1:translate:figs_simile]] and  [[:en:ta:vol1:translate:translate_names]])
+  * **Sodom and Gomorrah** - See how you translated these city names in [[:en:bible:notes:isa:01:09|1:9]]. 
   * **It will not be inhabited or lived in** - The two verbs mean basically the same thing. This can be stated in active form. AT: "No one will live in it" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **from generation to generation** - The phrase "generation to generation" refers to all generations of people who will live in the future. AT: "for ever" "ever again" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **The Arab** - This refers to Arab people in general, not one person. AT: "Arabs" or "Arab people" (See: [[:en:ta:vol2:translate:figs_genericnoun]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -88,6 +84,6 @@ tent there, nor will shepherds have their flocks rest there.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass chaldeans proud}}
+{{tag>publish p2edit chaldeans proud}}
 
 ~~NOCACHE~~

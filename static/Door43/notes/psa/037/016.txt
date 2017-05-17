@@ -22,7 +22,7 @@
 \q1
 \v 17 because Yahweh will completely remove the strength of wicked people,
 \q2 but he will sustain people who live righteously.
-
+\b
 
 
 \q1
@@ -48,10 +48,10 @@
 
 ===== translationNotes: =====
 
-  * **Better is the little that the righteous has than the abundance of many wicked people** - Here, the second line contrasts with the first. AT: "It is better to be righteous, even if it means that you are poor, than to be wicked with great wealth." (See: Parallelism)
   * **Better is the little that the righteous has** - "It is better to be righteous, even if it means that you are poor"
   * **the little** - This refers to having few possessions. (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **the righteous has** - This refers to the person who is righteous. AT: "the righteous person has" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **the righteous** - This refers to the people who are righteous. AT: "the righteous people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **than the abundance of many wicked people** - "than to be wicked with great wealth" (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **the abundance** - This refers to the wealth of the wicked people. (See: [[:en:ta:vol2:translate:figs_nominaladj]])
   * **For the arms of the wicked people will be broken** - Here "arms" represent the strength of the wicked people. Breaking their arms represents taking away their power. This could be stated in active form. AT: "For Yahweh will remove the strength of the wicked people" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
  
@@ -66,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass book1}}
+{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

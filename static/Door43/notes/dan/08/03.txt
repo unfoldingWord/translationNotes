@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 I looked up and saw before me a ram with two horns, standing beside the canal. One horn was longer than the other, but the longer one grew more slowly than the shorter and was passed up in length by it.
+\v 3 I looked up and saw before me a ram with two horns, standing beside the canal. One horn was longer than the other, but the longer one grew more slowly than the shorter and was passed up in length by it. 
 \v 4 I saw the ram charging west, then north, and then south; no other animal could stand before him. None of them was able to rescue anyone out of his hand. He did whatever he wanted, and he became great.
 </usfm>
 
@@ -36,22 +36,25 @@
 
 ===== translationNotes: =====
 
-  * **a ram with two horns** It is normal for rams to have two horns. These horns, however, have symbolic meaning. (See: [[:en:ta:vol2:translate:writing_symlanguage]])
-  * **but the longer ... passed up in length by it** - "but the longer one grew more slowly than the shorter one, and the shorter one grew to be even longer than it" 
+  * **but the longer ... in length by it** - "but the longer one grew more slowly than the shorter one, and the shorter one grew to be even longer than it" 
   * **I saw the ram charging** - "I saw the ram rushing" or "I saw the ram running very quickly"
-  * **to rescue anyone out of his hand** - Rams do not have hands. Here "hand" refers to the ram's power. AT: "to rescue anyone from him" or "to rescue anyone from his power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to rescue anyone out of his hand** - "to rescue anyone from him" or "to rescue anyone from his power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
-
+ 
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
   * [[:en:bible:notes:dan:08:00]]
   * [[:en:bible:questions:comprehension:dan:08]]
+
+ 
+
 **[[:en:bible:notes:dan:08:01|<<]] | [[:en:bible:notes:dan:08:05|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

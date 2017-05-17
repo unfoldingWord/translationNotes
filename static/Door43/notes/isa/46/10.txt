@@ -38,10 +38,10 @@
 
 <usfm>
 \q1
-\v 10 I announce the end from the beginning, and beforehand what has not yet happened;
+\v 10 I announce the end from the beginning, and beforehand what has not yet happened; 
 \q1 I say, "My plan will happen, and I will do as I desire."
 \q1
-\v 11 I call a bird of prey from the east, the man of my choice from a distant land;
+\v 11 I call a bird of prey from the east, the man of my choice from a distant land; 
 \q1 yes, I have spoken; I will also accomplish
 it; I have purposed, I will also do it.
 </usfm>
@@ -52,8 +52,8 @@ it; I have purposed, I will also do it.
 
   * **General Information:** - Yahweh continues speaking to his people.
 
-  * **I announce the end from the beginning, and beforehand what has not yet happened** - This basically repeats the same idea for emphasis. The verb from the first phrase may be supplied for the second. AT: "I announce the end from the beginning, and I announce beforehand what has not yet happened" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **I call a bird of prey from the east** - Yahweh speaks of Cyrus as if he were "a bird of prey." As a bird swiftly captures its prey, so Cyrus will swiftly accomplish Yahweh's purpose to conquer the nations. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I announce the end from the beginning, and beforehand what has not yet happened** - This basically repeats the same idea for emphasis. AT: "I know all things before they happen" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **I call a bird of prey from the east** - The "bird of prey" is a reference to Cyrus, King of Persia who is strong and powerful like an eagle. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **I have spoken; I will also accomplish it; I have purposed, I will also do it.** - This repeats the same idea for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
 ===== Links: =====
@@ -63,6 +63,6 @@ it; I have purposed, I will also do it.
   * [[:en:bible:questions:comprehension:isa:46]]
 **[[:en:bible:notes:isa:46:08|<<]] | [[:en:bible:notes:isa:46:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

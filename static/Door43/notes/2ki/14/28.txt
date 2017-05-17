@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 28 If you want to know more about everything else that Jeroboam did, about how he courageously fought in battle, and about how he enabled the Israelites to capture again the cities of Damascus and Hamath, they are written in the book of the events of the Kings of Israel.
+\v 28 If you want to know more about everything else that Jeroboam did, about how he courageously fought in battle, and about how he enabled the Israelites to capture again the cities of Damascus and Hamath, they are written in the Book of the Events of the Kings of Israel.
 \v 29 Jeroboam died, and was buried where the other kings of Israel were buried, and his son Zechariah became the king.
 </usfm>
 
@@ -18,7 +18,7 @@
 
 <usfm>
 \p
-\v 28 As for the other matters concerning Jeroboam, all that he did, his power, how he waged war and recovered Damascus and Hamath, which had belonged to Judah, for Israel, are they not written in the book of the events of the kings of Israel?
+\v 28 As for the other matters concerning Jeroboam, all that he did, his power, how he waged war and recovered Damascus and Hamath, which had belonged to Judah, for Israel, are they not written in The Book of the Events of the Kings of Israel?
 \v 29 Jeroboam slept with his ancestors, with the kings of Israel, and Zechariah his son became king in his place.
 </usfm>
 
@@ -29,8 +29,8 @@
   * [[:en:obe:other:zechariahot]]
 ===== translationNotes: =====
 
-  * **are they not written in The Book of the Events of the Kings of Israel?** - This question is used to remind the reader that the acts of Jehoahaz are recorded in another book. See how this phrase is translated in [[:en:bible:notes:2ki:01:17|1:18]]. AT: "they are written in The Book of the Events of the Kings of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Jeroboam slept with his ancestors, with the kings of Israel** - This is a polite way to say that he died and was buried. AT: "Jeroboam died, and was buried where the other kings of Israel were buried" (UDB) (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **are they not written ... Israel?** - "they are written ... Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Jeroboam slept with his ancestors, with the kings of Israel** - "Jeroboam died, and was buried where the other kings of Israel were buried" (UDB) (See: [[:en:ta:vol2:translate:figs_euphemism]])
 
 ===== Links: =====
 
@@ -39,6 +39,6 @@
   * [[:en:bible:questions:comprehension:2ki:14]]
 **[[:en:bible:notes:2ki:14:26|<<]] | [[:en:bible:notes:2ki:15:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -20,6 +20,7 @@
 \v 5 When you defeat your enemies, we will shout joyfully.
 \q2 We will lift up a banner proclaiming that it is God who has helped you.
 \q1 May Yahweh do for you all that you request him to do.
+\b
 \q1
 \v 6 I know now that Yahweh rescues me, the one whom he has chosen to be king.
 \q1 From his holy place in heaven he will answer me,
@@ -60,7 +61,7 @@
   * **Now** - This word is used here to mark a break in the psalm. It transitions from the people speaking to the king speaking.
   * **I know** - The word "I" probably refers to the king who is speaking in this section.
   * **his anointed one ... answer him ... rescue him** - The king is speaking about himself in the third person. This can be stated in first person. AT: "me, his anointed one ... answer me ... rescue me" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **from his holy heaven** - God dwells in heaven as well as in the temple in Jerusalem. (See: [[:en:bible:notes:psa:020:001|20:2]])
+  * **from his holy heaven** - God dwells in heaven as well as in the temple in Jerusalem (See: [[:en:bible:notes:psa:020:001|20:2]].
   * **with the strength of his right hand that can rescue him** - God's right hand represents his power to rescue the king. AT: "with his great strength he will rescue him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
@@ -70,6 +71,6 @@
 
 **[[:en:bible:notes:psa:020:003|<<]] | [[:en:bible:notes:psa:020:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

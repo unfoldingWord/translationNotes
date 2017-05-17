@@ -41,7 +41,7 @@
 \p
 \v 1 "At that time—this is Yahweh's declaration—I will be the God of all the clans of Israel, and they will be my people."
 \v 2 Yahweh says this,
-\q "The people who have survived the sword have found favor in the wilderness; I will go out to give rest to Israel."
+\q "The people who have survived the sword that came to slaughter Israel have found favor in the wilderness."
 \q
 \v 3 Yahweh appeared to me in the past and said, "I have loved you, Israel, with everlasting love.
 \q So I have drawn you toward myself with covenant faithfulness.
@@ -65,16 +65,10 @@
 
 ===== translationNotes: =====
 
-**General Information**: Jeremiah often wrote prophecy in the form of poetry. Hebrew poetry uses different kinds of parallelism. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
-
   * **At that time** - This refers to the time when God punishes the wicked.
-  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
-  * **who have survived the sword** - The word "sword" is a metonym for war. AT: "who have survived the war" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **The people who have survived the sword have found favor in the wilderness** - The phrase "found favor" is an idiom. AT: "While the people who have survived the sword have been in the wilderness, I have had grace on them" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **wilderness; I will go out to give rest to Israel** - Another possible meaning is "wilderness when Israel went out to find rest."
-  * **Yahweh appeared to me** - Jeremiah speaks of himself as if he were the people of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
-
+  * **this is Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|1:8]].
+  * **Yahweh appeared to me** - Here "me" refers to the people of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -82,6 +76,6 @@
   * [[:en:bible:questions:comprehension:jer:31]]
 **[[:en:bible:notes:jer:30:23|<<]] | [[:en:bible:notes:jer:31:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

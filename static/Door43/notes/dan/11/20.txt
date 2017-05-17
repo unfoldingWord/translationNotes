@@ -22,9 +22,9 @@
 
 <usfm>
 \p
-\v 20 Then someone will rise up in his place who will make a tax collector pass through for the sake of the splendor of the kingdom. But in the next days he will be broken, but not in anger or in battle.
-\v 21 In his place will rise up a despised person to whom the people will not have given the honor of royal power; he will come unexpectedly and will take over the kingdom by trickery.
-\v 22 An army will be swept away like a flood from before him. Both that army and the leader of the covenant will be destroyed.
+\v 20 Then one will rise up in his place who will force taxes to be paid to provide for the splendor of the kingdom. But in only a few days he will be destroyed, but not in anger or in battle. 
+\v 21 In his place will rise up a despised person to whom the people will not have given the honor of royalty; he will come in quietly and will take over the kingdom by flattery.
+\v 22 A great army will be swept away like a flood before him. Both that army and the leader established by the covenant will be destroyed.
 </usfm>
 
 ===== translationWords: =====
@@ -38,16 +38,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The angel continues speaking to Daniel.
-
-  * **someone will rise up in his place** - Rising up in a king's place represents becoming king in place of the previous king. AT: "another man will become king of the North instead of that king" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **will make a tax collector pass through** - The tax collector will go through the land forcing people to pay taxes. AT: "will send someone to make the people pay taxes" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
-  * **he will be broken** - Here "he" refers to the new king. Being broken represents dying. AT: "the new king will die" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **but not in anger** - Possible meanings are 1) no one was angry at the king, or 2) that the occasion and cause of the king's death were kept secret. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **a despised person to whom the people will not have given the honor of royal power** - The people will refuse to acknowledge him as king because he is not a descendant of kings. AT: "a person whom the people will despise and will not honor as king" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
-  * **An army will be swept away like a flood from before him** - Being swept away represents being destroyed. This can be stated in active form. AT: "His army will completely destroy a great army as a flood destroys everything in its path" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_simile]]).
-  * **Both that army and the leader of the covenant will be destroyed** - This can be stated in active form. AT: "He will destroy that army and the leader of the covenant" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the leader of the covenant** - This phrase refers to the person who filled the most important religious position that God required in his covenant, that of the high priest. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Then one will rise up in his place** - AT: "Then another man will succeed the king of the North" or "Then another man will become king of the North"
+  * **will force taxes to be paid** - AT: "will force people to pay taxes" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a despised person to whom the people will not have given the honor of royalty** - "a person whom the people will despise and will not honor as king." They will refuse to honor him because he does not have royal ancestors so he does not have the right to become king.
+  * **A great army will be swept away like a flood before him** - AT: "He will sweep away a great army like a flood" or "His army will completely destroy a great army as a flood destroys anything in its path." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_simile]]).
+  * **that army and the leader established by the covenant will be destroyed** - AT: "he will destroy that army and the leader established by the covenant" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the leader established by the covenant** - This covenant is probably God's covenant with Israel. AT: "the one whom God made to be the leader of his covenant with Israel" or "the leader of Israel's priests"
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -55,6 +51,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:17|<<]] | [[:en:bible:notes:dan:11:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

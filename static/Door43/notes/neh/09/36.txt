@@ -25,7 +25,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 36 Now we are slaves in the land you gave our ancestors to enjoy its fruit and its good gifts, and behold, we are slaves in it!
+\v 36 Now we are slaves in the land you gave our ancestors to enjoy, its fruit and its good gifts, and behold, we are slaves! 
 \v 37 The rich yield from our land goes to the kings you have set over us because of our sins. They rule over our bodies and over our livestock as they please. We are in great distress.
 </usfm>
 
@@ -42,11 +42,11 @@
   * [[:en:obe:other:livestock]]
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel. 
+  * **General Information:** - In these verses, the Levites continue to praise Yahweh in the presence of the people of Israel. 
 
-  * **its good gifts** - "all the good things in it" or "all the good things we can get from it"
-  * **The rich yield from our land goes to the kings** - "We pay tribute to kings for working our own land"
-  * **They rule** - The kings rule. 
+  * **to enjoy, its fruit and its good gifts** - "to enjoy its fruit and its goodness"
+  * **The rich yield from our land goes to the kings** - AT: "We pay tribute to kings for working our own land"
+  * **They rule over our bodies and over our livestock as they please** - "They" refers to the kings. 
  
 ===== Links: =====
 
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass livestock}}
+{{tag>publish p2edit livestock}}
 
 ~~NOCACHE~~

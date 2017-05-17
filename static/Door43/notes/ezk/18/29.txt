@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 29 But the house of Israel says, 'The way of the Lord is not fair!' How is my way not fair, house of Israel? How is your way not unfair?
+\v 29 But the house of Israel says, 'The way of the Lord is not fair!' How is my way not fair, house of Israel? And how is your way not unfair?
 \v 30 Therefore I will judge each man among you according to his ways, house of Israel!—this is the Lord Yahweh's declaration. Repent and turn away from all your transgressions so that they will not be stumbling blocks of iniquity against you.
 </usfm>
 
@@ -39,13 +39,10 @@
 
   * **General Information:** - Yahweh continues to teach the people of Israel why his way is fair.
 
-  * **house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate as in [[:en:bible:notes:ezk:03:16|3:1]]. AT: "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **How is my way not fair, house of Israel?** - Yahweh asks this rhetorical question to rebuke the people of Israel. AT: "My way is certainly fair, people of Israel." (See [[:en:ta:vol1:translate:figs_rquestion]]).
-  * **How is your way not unfair?** - Yahweh asks this rhetorical question to rebuke the people of Israel. AT: "It is your way that is not fair." (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **according to his ways** - Yahweh speaks of a person's actions as if the person were walking along a path. AT: "according to his actions" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **turn away from all your transgressions so that they will not be stumbling blocks of iniquity against you** - Yahweh speaks of "transgressions" causing people to rebel against him as if they were blocks over which the people stumble. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **stumbling blocks of iniquity against you** - Possible meanings are 1) the stumbling blocks cause the person to commit more iniquity. AT: "stumbling blocks that cause you to commit more iniquity" or 2) The word "iniquity" is a metonym for the punishment that a person receives for his iniquity. AT: "stumbling blocks that lead to your punishment" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **How is my way not fair, house of Israel?** - "My way is certainly fair, people of Israel." (See [[:en:ta:vol1:translate:figs_rquestion]]).
+  * **how is your way not unfair?** - "how is your way fair?" or "it is your way that is not fair." (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **each man among you according to his ways** - "the actions of each man."
+  * **so that they will not** - "they" refers to all the transgressions of the people of Israel.
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -53,6 +50,6 @@
   * [[:en:bible:questions:comprehension:ezk:18]]
 **[[:en:bible:notes:ezk:18:27|<<]] | [[:en:bible:notes:ezk:18:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check lordgod}}
+~~DISCUSSION~~{{tag>publish p2edit lordgod}}
 
 ~~NOCACHE~~

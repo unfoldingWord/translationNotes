@@ -21,7 +21,7 @@
 
 <usfm>
 \p
-\v 16 Then Yahweh raised up judges, who saved them out of the hand of those who were stealing their possessions.
+\v 16 Then Yahweh raised up judges, who saved them out of the hand of those who were stealing their possessions. 
 \v 17 Yet they would not listen to their judges. They were unfaithful to Yahweh and gave themselves like prostitutes to other gods and worshiped them. They soon turned aside from the way their fathers had lived— those who had obeyed the commandments of Yahweh—but they themselves did not do so.
 </usfm>
 
@@ -47,7 +47,7 @@
 ===== translationNotes: =====
 
   * **Then Yahweh raised up judges** - Yahweh appointing persons to be judges is spoken of as if he were raising or lifting the persons up. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **out of the hand of those** - Here "hand" refers to power. AT: "from the power of the enemies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **from the hand of those** - Here "hand" refers to power. AT: "from the power of the enemies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **they would not listen to their judges** - "they would not obey their judges" 
   * **gave themselves like prostitutes to other gods and worshiped them** - The people betraying Yahweh and worshiping other gods is spoken of as if the people were prostitutes. AT: "betrayed him by worshiping false gods" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **They soon turned aside from the way their fathers had lived** - The people not acting like their ancestors who worshiped Yahweh is spoken of as if the people turned and went in a different direction than their ancestors. (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -67,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass unfaithful}}
+{{tag>publish p2check unfaithful}}
 
 ~~NOCACHE~~

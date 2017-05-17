@@ -49,13 +49,9 @@
 
 ===== translationNotes: =====
 
-  * **Anyone who belongs to your family who dies in the city will be eaten by dogs** - This can be stated in active form. AT: "Dogs will eat anyone who belongs to your family and who dies in the city" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **anyone who dies in the field will be eaten by the birds of the heavens** - This can be stated in active form. AT: "the birds of the heavens will eat anyone who dies in the field" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **when your feet enter the city** - The word "feet" here is a synecdoche for the whole person. AT: "when you enter the city" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **All Israel** - This is a generalization that means the people of the northern kingdom of Israel. AT: "The Israelite people" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **go into a grave** - "be buried in a grave"
-  * **out of Jeroboam's house** - The word "house" here is a metonymy for "family." AT: "in all of Jeroboam's family" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **was anything good found in the sight of Yahweh, the God of Israel** - The sight of Yahweh represents Yahweh's judgment or evaluation. This can be stated in active form. AT: "did Yahweh, the God of Israel, find anything he judged to be good" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Anyone who belongs ... eaten by dogs** - This can be stated in active form. "Dogs will eat anyone who belongs to your family and who dies in the city" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **anyone who dies ... the birds of the heavens** - "the birds of the heavens will eat anyone who dies in the field"
+  * **was anything good found in the sight of Yahweh, the God of Israel** - This can be stated in active form. AT: "did Yahweh, the God of Israel, find anything good" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -64,6 +60,6 @@
   * [[:en:bible:questions:comprehension:1ki:14]]
 **[[:en:bible:notes:1ki:14:09|<<]] | [[:en:bible:notes:1ki:14:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

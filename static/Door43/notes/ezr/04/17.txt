@@ -18,7 +18,7 @@
 \v 17 After the king read this letter, he sent this reply to them:
 "To you Rehum, the high commissioner, and Shimshai, the provincial secretary, and their colleagues in Samaria and in other parts of the province that is west of the Euphrates River, I send my greetings.
 \v 18 The letter that you sent to me was translated and read to me.
-\v 19 So then, I ordered my officials to search the records. I have found out that it is true that the people of that city have always revolted against their rulers, and that the city is full of people
+\v 19 So then, I ordered my officials to search the records. I have found out that it is true that the people of that city have always revolted against their rulers, and that the city is full of people 
 who have rebelled and caused trouble.
 </usfm>
 
@@ -27,7 +27,7 @@ who have rebelled and caused trouble.
 
 <usfm>
 \p
-\v 17 So the king sent out a reply to Rehum and Shimshai and their companions in Samaria and the rest who were in the Province Beyond the River: "May peace be yours.
+\v 17 So the king sent out a reply to Rehum and Shimshai and their companions in Samaria and the rest who were beyond the River: "May peace be yours.
 \v 18 The letter that you sent me has been translated and read to me.
 \v 19 So I ordered an investigation and discovered that in previous days they had rebelled and revolted against kings.
 </usfm>
@@ -42,11 +42,10 @@ who have rebelled and caused trouble.
 
 ===== translationNotes: =====
 
-  * **the Province Beyond the River** - This is the name of the province that was west of the Euphrates River. It was across the river from the city of Susa. Translate as in [[:en:bible:notes:ezr:04:09|4:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **The letter that you sent me has been translated and read** - This can be translated in active form, in which case you will need to make explicit who translated and read the letter to the king. AT: "I have had my servants translate and read the letter that you sent to me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Rehum** - man's name. Translate as in [[:en:bible:notes:ezr:02:01|2:2]].
-  * **Shimshai** - man's name. Translate as in [[:en:bible:notes:ezr:04:07|4:8]].
-  * **the River** - the Euphrates River
+  * **has been translated** - The officials made the letter clear in the king's own language. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Rehum** - Translate the same way you did in [[:en:bible:notes:ezr:02:01|Ezra 2:2]].
+  * **Shimshai** - Translate the same way you did in [[:en:bible:notes:ezr:04:07|Ezra 4:8]].
+  * **the River** - This means the Euphrates River.
 
 ===== Links: =====
 
@@ -58,6 +57,6 @@ who have rebelled and caused trouble.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

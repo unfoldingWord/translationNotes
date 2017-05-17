@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 But now bring me a musician." Then it came to pass when the harpist played, the hand of Yahweh came upon Elisha.
+\v 15 But now bring me a musician." And it came to pass when the harpist played, the hand of Yahweh came upon Elisha.
 \v 16 He said, "Yahweh says this, 'Make this dry river valley full of trenches.'
 \v 17 For Yahweh says this, 'You will not see wind, neither will you see rain, but this river valley will be filled with water, and you will drink, you and your livestock and all your animals.'
 </usfm>
@@ -39,12 +39,10 @@
   * [[:en:obe:other:livestock]]
 ===== translationNotes: =====
 
-  * **Then it came to pass** - "And it happened that" 
-  * **harpist** - someone who plays the harp
-  * **the hand of Yahweh came upon Elisha** - Here Yahweh's "hand" refers to his "power." AT: "the power of Yahweh came upon Elisha" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **trenches** - A trench is a long ditch that workers dig in the ground to collect water.
-  * **this river valley will be filled with water** - This can be stated in active form. AT: "I will fill this river valley with water" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **you will drink** - This refers to drinking the water that Yahweh provides. AT: "you will drink the water" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
+  * **harpist** - A harpist is someone who plays the harp.
+  * **hand of Yahweh** - Here "hand" is used to represent power. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **full of trenches** - A trench is a long ditch that workers dig in the ground, where water can collect. 
  
 
  
@@ -61,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass elisha livestock}}
+{{tag>publish p2edit elisha livestock}}
 
 ~~NOCACHE~~

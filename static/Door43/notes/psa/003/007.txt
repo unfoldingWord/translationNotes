@@ -23,9 +23,11 @@
 \q1 You will insult my enemies by slapping them on their cheeks;
 \q2 when you strike them, you will destroy their power,
 \q2 with the result that they cannot hurt anyone.
+\b
 \q1
 \v 8 Yahweh, you are the one who saves your people from their enemies.
 \q2 Yahweh, bless your people!
+\qr
 </usfm>
 
 ===== ULB: =====
@@ -37,7 +39,7 @@
 \q you will break the teeth of the wicked.
 \q
 \v 8 Salvation comes from Yahweh.
-\q May your blessings be on your people.
+\q May your blessings be on your people. 
 \qs Selah\qs*
 </usfm>
 
@@ -66,6 +68,6 @@
   * [[:en:bible:questions:comprehension:psa:003]]
 **[[:en:bible:notes:psa:003:005|<<]] | [[:en:bible:notes:psa:004:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~

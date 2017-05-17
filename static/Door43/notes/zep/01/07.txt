@@ -34,6 +34,7 @@
 \q1
 \v 9 including those who show that they revere their god Dagan by avoiding stepping on the threshold of his temple,
 \q2 and those who do violent things and tell lies in the temples of their gods."
+\b
 
 
 \q1
@@ -42,15 +43,16 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q2
-\v 7 Be silent before the Lord Yahweh! For the day of Yahweh is near;
+\v 7 Be silent before the Lord Yahweh! For the day of Yahweh is near; 
 \q2 Yahweh has prepared the sacrifice and set apart his guests.
 \q
-\v 8 "It will come about on the day of Yahweh's sacrifice,
-\q that I will punish the princes and the king's sons,
+\v 8 "It will come about on the day of Yahweh's sacrifice, 
+\q that I will punish the princes and the king's sons, 
 \q and everyone dressed in foreign clothes.
 \q
-\v 9 On that day I will punish all those who leap over the threshold,
+\v 9 On that day I will punish all those who leap over the threshold, 
 \q those who fill their master's house with violence and deceit.
 </usfm>
 

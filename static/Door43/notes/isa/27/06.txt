@@ -16,6 +16,7 @@
 \v 6 There will be a time when the descendants of Jacob will prosper like a plant that has good roots;
 \q2 they will be like trees that bud and blossom and bear a lot of fruit;
 \q2 what they do will bless all the people in the world.
+\b
 
 
 \q1
@@ -25,7 +26,7 @@
 
 <usfm>
 \q1
-\v 6 In the coming day, Jacob will take root; Israel will blossom and bud;
+\v 6 In the coming day, Jacob will take root; Israel will blossom and bud; 
 \q1 and they will fill the surface of the ground with fruit."
 </usfm>
 
@@ -39,10 +40,9 @@
 
   * **General Information:** - Isaiah is speaking. He continues to describe the people of Israel as a vineyard. (See: [[:en:bible:notes:isa:27:01|27:2]])
 
-  * **In the coming day** - This speaks about a day as if it travels and arrives somewhere. AT: "In the future" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Jacob will take root; Israel will blossom and bud** - Yahweh blessing the people of Israel and causing them to prosper is spoken of as if they were a vine that grows roots and blossoms. AT: "the descendants of Israel will prosper like a vine that has taken root and blossomed" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Jacob ... Israel** - Here "Jacob" and "Israel" are metonyms that represent the descendants of Jacob. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **they will fill the surface of the ground with fruit** - Yahweh causing the people of Israel to prosper greatly so that they can help other people is spoken of as if they were a vine that grows so much fruit that it would cover the earth. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **In the coming day** - "In the future" or "In a time that is coming"
+  * **Jacob will take root; Israel will blossom and bud** - "Jacob" and "Israel" here refer to the descendants of Jacob. In the time when God is no longer angry with them he will bless them and cause them to prosper. AT: "the descendants of Israel will prosper like a vine that has taken root and blossomed" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they will fill the surface of the ground with fruit** - AT: "and they will fill the earth with their fruit" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:isa:27]]
 **[[:en:bible:notes:isa:27:04|<<]] | [[:en:bible:notes:isa:27:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

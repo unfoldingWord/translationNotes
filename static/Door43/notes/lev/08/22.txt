@@ -40,7 +40,7 @@
 ===== translationNotes: =====
   * **the ram of consecration** - The word "consecration" is an abstract noun. AT: "the ram for setting Aaron and his sons apart for service to God" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **laid their hands on the head** - This is a symbolic action that identifies Aaron and his sons with the animal they are offering. In this way the they are offering themselves to Yahweh through the animal. See how you translated this in [[:en:bible:notes:lev:01:03|1:4]]. (See: [[:en:ta:vol2:translate:translate_symaction]])
-  * **Moses took some of its blood** - It is implied that Moses caught the blood in a bowl as the blood drained out from the animal. The full meaning of this statement can be made explicit. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Moses took some of its blood** - It is implied that Moses caught the blood in a bowl as the blood drained out from the animal. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:lev:08]]
 **[[:en:bible:notes:lev:08:20|<<]] | [[:en:bible:notes:lev:08:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

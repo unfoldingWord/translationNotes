@@ -22,6 +22,7 @@
 \q1
 \v 18 But we who are alive will thank him,
 \q2 now and forever.
+\b
 \q1 Praise Yahweh!
 </usfm>
 
@@ -47,7 +48,7 @@
 ===== translationNotes: =====
 
   * **The dead** - The adjective "dead" may be translated with a noun phrase. AT: "People who are dead" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **nor do any who go down into silence** - This parallel phrase has a similar meaning to phrase before it. The verb may be supplied from that previous phrase to make the meaning clear. AT: "nor do any who go down into silence praise Yahweh" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **nor do any who go down into silence** - The verb may be supplied from the previous phrase, with which this line is parallel. AT: "nor do any who go down into silence praise Yahweh" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_parallelism]])
   * **nor do any who go down into silence** - The writer speaks of the grave or the place of the dead as a place of silence where no one can speak. This is a euphemism for death. AT: "nor do any who go to the place of the dead" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_euphemism]])
   * **But we** - The word "we" refers to the people of Israel who are still alive.
 
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:psa:115]]
 **[[:en:bible:notes:psa:115:015|<<]] | [[:en:bible:notes:psa:116:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~

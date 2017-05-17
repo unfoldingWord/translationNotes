@@ -16,7 +16,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 "I am calling out to everyone;
+\v 4 "I am calling out to everyone; 
 \q2 I am shouting to all people!
 \q1
 \v 5 You people who have no training, you must be taught how to live;
@@ -31,28 +31,25 @@
 
 <usfm>
 \q
-\v 4 "It is to you, people, that I call;
-\q my voice is for the sons of mankind.
+\v 4 "People, I call to you
+\q and I raise my voice to the sons of mankind. 
 \q
-\v 5 You who are naive, learn wisdom;
-\q and you who are foolish, you must get an understanding mind.
+\v 5 You who have not been taught, you must understand prudence,
+\q and you who hate knowledge, you must have an understanding heart.
 </usfm>
 
 
 ===== translationWords: =====
 
   * [[:en:obe:kt:son]]
+  * [[:en:obe:other:prudent]]
   * [[:en:obe:other:know]]
-
+  * [[:en:obe:other:heart]]
 ===== translationNotes: =====
 
   * **General Information:** - Wisdom speaks to the people in verses 4-36.
 
-  * **my voice is for the sons of mankind** - Here "voice" represents the words that are spoken. AT: "my words are for the sons of mankind" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the sons of mankind** - This is metonymy representing all human beings. AT: "all people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **naive** - "inexperienced, immature"
-  * **learn wisdom** - The abstract word "wisdom' refers to what a wise person believes and to the way in which he acts. AT: "learn how a wise person acts" or "learn what it means to be wise" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **you must get an understanding mind** - To understand things is spoken of as if it were obtaining a mind that could understand. AT: "you must begin to understand things with your mind" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **sons of mankind** - This is a metonym for all human beings. AT: "all of you people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 
  
@@ -69,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass prudent}}
+{{tag>publish p2edit prudent}}
 
 ~~NOCACHE~~

@@ -24,7 +24,7 @@
 <usfm>
 \p
 \v 17 Then Saul said to David, "Here is my oldest daughter Merab. I will give her to you as a wife. Only be courageous for me and fight Yahweh's battles." For Saul thought, "Let not my hand be on him, but let the hand of the Philistines be on him."
-\v 18 David said to Saul, "Who am I, and who are my relatives, or my father's family in Israel, that I should be son-in-law to the king?"
+\v 18 David said to Saul, "Who am I, and what is my life, or my father's family in Israel, that I should be son-in-law to the king?"
 </usfm>
 
 
@@ -39,9 +39,9 @@
 
 ===== translationNotes: =====
 
-  * **Let not my hand be on him, but let the hand of the Philistines be on him** - Harming someone is spoken of as if it were placing one's hand on that person. Here, Saul is referring to killing David. AT: "I will not be the one to kill him; I will let the Philistines kill him" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_euphemism]])
-  * **Who am I, and who are my relatives, or my father's family in Israel ... to the king?** - David uses this rhetorical question to emphasize that he is not worthy of being Saul's son-in-law. AT: "I am nobody and neither my relatives nor my father's family are important enough in Israel ... to the king." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **son-in-law to the king** - "husband of the king's daughter"
+  * **Let not my hand be on him, but let the hand of the Philistines be on him** - Here "hand" is a metonymy refers to not to harm him. "I will not harm him, but I will let the Philistines harm him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **Who am I, and what is my life, or my father's family in Israel ... to the king?** - This rhetorical question can be translated as a statement. AT: "I am nobody and neither my life nor my father's family is important enough in Israel ... to the king." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **be son-in-law to the king** - "be husband of the king's daughter"
  
 ===== Links: =====
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1sa:18]]
 **[[:en:bible:notes:1sa:18:15|<<]] | [[:en:bible:notes:1sa:18:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass family}}
+~~DISCUSSION~~{{tag>publish p2edit family}}
 
 ~~NOCACHE~~

@@ -16,11 +16,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 23 Be careful, if you could put a guard to watch over the words that come out of your mouth and tongue,
-\q2 you would keep away from a lot of trouble.
+\v 23 Be careful, if you could put a guard to watch over the words that come out of your mouth and tongue, 
+\q2 you would keep away from a lot of trouble. 
 \q1
 \v 24 The mocker thinks he is better than other people,
-\q2 and his actions come from his pride and his arrogance.
+\q2 and his actions come from his pride and his arrogance. 
+
 
 \q1
 </usfm>
@@ -30,9 +31,9 @@
 <usfm>
 \q
 \v 23 Whoever guards his mouth and tongue
-\q keeps himself out of trouble.
+\q keeps himself out of trouble. 
 \q
-\v 24 The proud and haughty person—"Mocker" is his name—
+\v 24 The proud and haughty person—"mocker" is his name—
 \q acts with arrogant pride.
 </usfm>
 
@@ -48,10 +49,9 @@
 ===== translationNotes: =====
 
   * **Whoever guards his mouth and tongue** - Both "mouth" and "tongue" refer to what a person says. AT: "Whoever is careful in what he says" (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **The proud and haughty person ... acts with arrogant pride** - "You can expect a proud and haughty people to act with arrogant pride"
   * **proud and haughty** - These two words mean basically the same thing and emphasize how prideful the person is. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **"Mocker" is his name** - The word "name" is a metonym for what people would call him. AT: "a mocker is what you should call him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
+  * **"mocker" is his name** - This phrase refers to the proud and haughty person and is spoken as if speaking to someone else. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
+  * **is his name** - AT: "is his character" or "is what you should call him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -59,6 +59,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:21|<<]] | [[:en:bible:notes:pro:21:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass p2example haughty}}
+~~DISCUSSION~~{{tag>publish p2edit haughty}}
 
 ~~NOCACHE~~

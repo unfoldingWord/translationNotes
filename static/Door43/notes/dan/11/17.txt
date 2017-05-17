@@ -23,9 +23,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 The king of the North will set his face to come with the strength of his entire kingdom, and with him will be an agreement that he will make with the king of the South. He will give him a daughter of women in marriage to ruin the kingdom of the South. But the plan will not succeed or help him.
-\v 18 After this, the king of the North will pay attention to the coastlands and will capture many of them. But a commander will end his arrogance and will cause his arrogance to turn back upon him.
-\v 19 Then he will pay attention to the fortresses of his own land, but he will stumble and fall; he will not be found.
+\v 17 The king of the North will decide to come with the strength of his entire kingdom, and with him a just agreement that he will put into effect with the king of the South. He will give the king of the South a daughter in marriage to destroy the kingdom of the South. But the plan will not succeed or help him. 
+\v 18 After this, the king of the North will give attention to the coastlands and will capture many of them. But a commander will put an end to his insolence and will cause his insolence to turn back upon him. 
+\v 19 Then he will give attention to the fortresses of his own land, but he will stumble and fall; he will not be found.
 </usfm>
 
 ===== translationWords: =====
@@ -40,16 +40,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The angel continues speaking to Daniel.
+  * **General Information:** - He continues speaking to Daniel.
 
-  * **set his face** - "decide" (See: [[:en:ta:vol1:translate:figs_idiom|Idiom]])
-  * **come with the strength of his entire kingdom** - This probably refers to military power. AT: "come with the force of all his army" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
-  * **a daughter of women** - This is an elegant way of saying "a woman." (See: [[:en:ta:vol1:translate:figs_idiom|Idiom]])
-  * **will end his arrogance** - "will make the king of the North stop being arrogant"
-  * **will cause his arrogance to turn back upon him** - "will cause the king of the North to suffer because he was arrogant toward others"
-  * **he will pay attention** - "the king of the North will pay attention"
-  * **he will not be found** - This is a way of saying that he will die. This idea can be stated in active form. AT: "he will disappear" or "he will die" (See: [[:en:ta:vol1:translate:figs_idiom|Idiom]] and [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
-
+  * **come with the strength** - AT: "come with the force of the army" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will put an end to his insolence** - "will make the king of the North stop being arrogant toward others" 
+  * **will cause his insolence to turn back upon him** - AT: "will cause the king of the North to experience the arrogant behavior that he treated others with" or "will cause the king of the North to receive the shameful treatment that he gave to other people"
+  * **he will not be found** - AT: "he will disappear" or "he will die" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -57,6 +53,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:15|<<]] | [[:en:bible:notes:dan:11:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

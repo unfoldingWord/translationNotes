@@ -24,7 +24,7 @@
 
 <usfm>
 \p
-\v 6 Now Tattenai, the governor of the Province Beyond the River, Shethar Bozenai, and associates who are in the Province Beyond the River, keep away!
+\v 6 Now Tattenai, Shethar Bozenai, and your fellow officials who are beyond the River, keep away.
 \v 7 Leave the work of this house of God alone. The governor and Jewish elders will build this house of God at that place.
 </usfm>
 
@@ -34,14 +34,9 @@
   * [[:en:obe:other:governor]]
   * [[:en:obe:other:jew]]
   * [[:en:obe:other:elder]]
-
 ===== translationNotes: =====
 
-  * **General Information:** - This continues the record of King Cyrus's command that the Jews rebuild God's temple in Jerusalem, which began in [[:en:bible:notes:ezr:06:03|6:3]].
-
-  * **Tattenai ... Shethar Bozenai** - Darius writes directly to these men. Translate their names as in [[:en:bible:notes:ezr:05:03|5:3]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the Province Beyond the River** - This is the name of the province that was west of the Euphrates River. It was across the river from the city of Susa. See how you translated it in [[:en:bible:notes:ezr:04:09|4:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
-
+  * **Tattenai ... Shethar Bozenai** - Translate the same way you did in [[:en:bible:notes:ezr:05:03|5:3]]. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezr:00:intro]]
@@ -52,6 +47,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

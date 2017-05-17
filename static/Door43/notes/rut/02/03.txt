@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 Ruth went and gleaned what remained in the fields after they had harvested it. She happened to come to the portion of the fields belonging to Boaz, who was related to Elimelech.
+\v 3 Ruth went and gleaned in the fields after the reapers. She happened to come to the portion of the fields belonging to Boaz, who was related to Elimelech.
 \v 4 Behold, Boaz came from Bethlehem and said to the reapers, "May Yahweh be with you." They answered him, "May Yahweh bless you."
 </usfm>
 
@@ -49,4 +49,4 @@
   * [[:en:bible:questions:comprehension:rut:02]]
 **[[:en:bible:notes:rut:02:01|<<]] | [[:en:bible:notes:rut:02:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass boaz}}
+~~DISCUSSION~~{{tag>publish p2check boaz}}

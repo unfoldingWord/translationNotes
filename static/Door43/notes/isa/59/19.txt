@@ -19,6 +19,7 @@
 <usfm>
 \v 19 When that happens, people everywhere, from the east to the west, will respect and honor Yahweh,
 \q2 because he will come like a rushing river that is pushed along by the strong wind that Yahweh sent.
+\b
 \q1
 \v 20 And Yahweh says that he will come to Jerusalem to free his people;
 \q2 he will come to rescue those in Judah who have stopped doing sinful things.
@@ -60,16 +61,15 @@ rushing stream, driven by the breath of Yahweh.
   * **fear the name of Yahweh** - Here "name" refers to Yahweh's reputation and character. AT: "fear Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **from the west ... from the sun's rising** - Isaiah combines these words to mean people in all places of the world. (See: [[:en:ta:vol2:translate:figs_merism]])
   * **for he will come as a rushing stream** - Narrow valleys in Judah were dry most of the year until a sudden, heavy rain turned them into fast-moving water. When that happened there was a lot of noise and wind. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **for he will come as a rushing stream** - A few modern versions interpret this passage as referring to Yahweh's glory: "it will come as a rushing stream."
   * **driven by the breath of Yahweh** - This can be stated in active form. AT: "which the breath of Yahweh drives" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Yahweh's declaration** - This can be reworded so that the abstract noun "declaration" is expressed as the verb "declared" or "solemnly said." Translate this the same way you translated a similar phrase in [[:en:bible:notes:isa:14:21|14:22]]. AT: "this is what Yahweh has declared" or "this is what Yahweh has solemnly said" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-
-
+  * **Yahweh's declaration** - See how you translated this in [[:en:bible:notes:isa:14:21|14:22]].
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
   * [[:en:bible:notes:isa:59:00]]
   * [[:en:bible:questions:comprehension:isa:59]]
 **[[:en:bible:notes:isa:59:17|<<]] | [[:en:bible:notes:isa:59:21|>>]]**
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

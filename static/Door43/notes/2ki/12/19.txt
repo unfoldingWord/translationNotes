@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 If you want to read more of what Joash did, it is all written in Book of the Events of the Kings of Judah.
+\v 19 If you want to read more of what Joash did, it is all written in Book of the Events of the Kings of Israel.
 \v 20-21 Joash's officials plotted against him, and two of them killed Joash on the road that goes down to the district of Silla. The two men who did that were Jozabad son of Shimeath, and Jehozabad son of Shomer. Joash was buried in the place where his ancestors were buried, in the part of Jerusalem called the city of David. Then Joash's son Amaziah became the king of Judah.
 </usfm>
 
@@ -18,8 +18,8 @@
 
 <usfm>
 \p
-\v 19 As for the other matters concerning Joash, all that he did, are they not written in the book of the events of the kings of Judah?
-\v 20 His servants arose and plotted together; they attacked Joash in Beth Millo, on the way that goes down to Silla.
+\v 19 As for the other matters concerning Joash, all that he did, are they not written in The Book of the Events of the Kings of Judah?
+\v 20 His servants arose and plotted together; they attacked Joash in the house of Millo, on the way that goes down to Silla.
 \v 21 Jozacar son of Shimeath, and Jehozabad son of Shomer, his servants, attacked him, and he died. They buried Joash with his ancestors in the city of David, and Amaziah, his son, became king in his place.
 </usfm>
 
@@ -33,11 +33,10 @@
   * [[:en:obe:other:amaziah]]
 ===== translationNotes: =====
 
-  * **are they not written in The Book of the Events of the Kings of Judah?** - This question is used to remind the reader that these things are recorded. See how this phrase is translated in [[:en:bible:notes:2ki:08:22|8:23]]. AT: "they are written in the book of the History of the Kings of Judah." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Silla** - The location of this place is unknown. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Jozacar ... Shimeath ... Jehozabad ... Shomer ... Amaziah** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **with his ancestors** - "in the place where his ancestors were buried" (UDB)
-  * **became king in his place** - "became the next king of Judah"
+  * **are they not written in The Book of the Events of the Kings of Judah?** - AT: "They are written in the book of the History of the Kings of Judah." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Silla** - The location of this place is unknown. 
+  * **Jozacar ... Shimeath ... Jehozabad ... Shomer ... Amaziah** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **became king in his place** - "became the next king of Judah."
 
 ===== Links: =====
 
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:2ki:12]]
 **[[:en:bible:notes:2ki:12:17|<<]] | [[:en:bible:notes:2ki:13:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

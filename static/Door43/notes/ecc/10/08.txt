@@ -30,6 +30,7 @@
 \q2 it is possible that a stone will fall on you and injure you.
 \q1 It is possible that men who split logs
 \q2 will be injured by one of those logs.
+\b
 
 
 \q1
@@ -39,15 +40,15 @@
 ===== ULB: =====
 
 <usfm>
-\q1
-\v 8 Anyone who digs a pit
-\q2 can fall into it,
-and whenever someone breaks down a wall,
+\q1 
+\v 8 Anyone who digs a pit 
+\q2 can fall into it, 
+and whenever someone breaks down a wall, 
 \q2 a snake can bite him.
-\q1
-\v 9 Whoever cuts out stones
-\q2 can be hurt by them,
-\q1 and the man who chops wood
+\q1 
+\v 9 Whoever cuts out stones 
+\q2 can be hurt by them, 
+\q1 and the man who chops wood 
 \q2 is endangered by it.
 </usfm>
 

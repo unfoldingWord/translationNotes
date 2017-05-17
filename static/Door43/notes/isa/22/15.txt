@@ -16,7 +16,7 @@
 <usfm>
 \v 15 Yahweh, commander of the angel armies, said this to me: "Go to Shebna, the official who supervises the workers in the palace, and give this message to him:
 \q1
-\v 16 'Who do you think you are?
+\v 16 'Who do you think you are? 
 \q2 Who gave you the authority to build a beautiful tomb where you will be buried,
 \q2 chiseling it out of the rocky cliff high above this valley?'"
 
@@ -27,11 +27,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \q1
 \v 15 The Lord, Yahweh of hosts, says this, "Go to this administrator, to Shebna, who is over the house, and say,
 \q1
-\v 16 'What are you doing here and who gave you permission to cut out a tomb for yourself,
-\q1 hewing out a grave on the heights and carving out a resting place in the rock?'"
+\v 16 'What do you have here, and who are you, that you have hewn out a grave?
+\q1 Hewing out a grave on the heights, carving out a resting place for yourself in the rock!'"
 </usfm>
 
 ===== translationWords: =====
@@ -43,12 +44,9 @@
 
 ===== translationNotes: =====
 
+  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
   * **Shebna** - This is the name of the manager of the king's palace in Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **who is over the house** - Here "house" represents those in the king's palace. AT: "who is in charge of all those who work in the palace" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **What are you doing here and who gave you permission ... in the rock?** - Yahweh uses this question to scold Shebna. AT: "You have no right ... in the rock!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **cut out a tomb ... hewing out a grave ... carving out a resting place** - These three phrases all refer to making a burial tomb. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **on the heights** - The most important people in Israel had tombs in the highest places. (See: [[:en:ta:vol1:translate:figs_explicit]])
-
+  * **What do you have here, and who are you, that you have hewn out a grave** - Yahweh uses this question to scold Shebna. AT: "You have no right to make for yourself a grave here!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -57,6 +55,6 @@
   * [[:en:bible:questions:comprehension:isa:22]]
 **[[:en:bible:notes:isa:22:12|<<]] | [[:en:bible:notes:isa:22:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

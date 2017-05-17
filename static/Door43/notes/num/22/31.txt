@@ -43,7 +43,7 @@
 ===== translationNotes: =====
 
   * **Then Yahweh opened Balaam's eyes, and he saw the angel of Yahweh** - To "open one's eyes" is associated with being able to see. AT: "Then Yahweh gave Balaam the ability to see the angel of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **with his drawn sword** - A sword is drawn from its sheath in order to be ready to use. See how you translated this in [[:en:bible:notes:num:22:21|22:23]]. AT: "with his sword ready to attack" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **with his drawn sword** - A sword is drawn from its sheath in order to be ready to use. AT: "with his sword ready to attack." See how you translated this in [[:en:bible:notes:num:22:21|22:23]]. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **Balaam lowered his head and lay facedown** - This indicates that Balaam is humbling himself before the angel. (See: [[:en:ta:vol2:translate:translate_symaction]])
   * **Why have you struck your donkey these three times?** - This rhetorical question is used to accuse Balaam of doing wrong. This can be translated as a statement. AT: "You should not have struck your donkey these three times." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **as someone hostile to you** - "as an enemy to you" or "to oppose you"
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:num:22]]
 **[[:en:bible:notes:num:22:28|<<]] | [[:en:bible:notes:num:22:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

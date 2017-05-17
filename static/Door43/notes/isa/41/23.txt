@@ -36,10 +36,10 @@
 
 <usfm>
 \q1
-\v 23 Tell things about the future, that we may know if you are gods;
+\v 23 Tell things about the future, that we may know if you are gods; 
 \q1 do something good or evil, that we may be frightened and impressed.
 \q1
-\v 24 See, you idols are nothing and your deeds are nothing; the one who chooses you is detestable.
+\v 24 See, your idols are of nothing, and your deeds are nothing; he who chooses you is abominable.
 </usfm>
 
 ===== translationWords: =====
@@ -53,10 +53,11 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Yahweh continues to mock the idols and the people who worship them. (See: [[:en:bible:notes:isa:41:21|41:21-22]])
+  * **General Information:** - Yahweh continues mocking the idols and the people who worship them. (See: [[:en:bible:notes:isa:41:21|41:21-22]])
 
-  * **do something good or evil** - The words "good" and "evil" form a merism and represent anything. AT: "do anything at all" (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **the one who chooses you** - Here "you" is plural and refers to the idols. AT: "the person who chooses you idols" (See: [[:en:ta:vol1:translate:figs_youdual]])
+  * **do something good or evil** - AT: "do anything at all" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **he who chooses you** - Here "you" is plural and refers to the idols. (See: [[:en:ta:vol1:translate:figs_youdual]])
+
 
 ===== Links: =====
 
@@ -65,6 +66,6 @@
   * [[:en:bible:questions:comprehension:isa:41]]
 **[[:en:bible:notes:isa:41:21|<<]] | [[:en:bible:notes:isa:41:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2pass}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

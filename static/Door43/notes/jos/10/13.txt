@@ -14,7 +14,7 @@
 
 <usfm>
 \v 13 And the sun stood still and the moon did not move, until the Israelite army killed their enemies. Was this not written in the Book of Jashar?
-\q "The sun stopped while it was in the middle of the sky,
+\q "The sun stopped while it was in the middle of the sky, 
 \q and did not set for about a whole day."
 \p
 \v 14 On that day, Yahweh performed a great miracle. There was never a day like that previously, and there has never been a day like that since, when Yahweh did this kind of thing because a human being asked him to. On that day, Yahweh truly went to war for Israel.
@@ -26,10 +26,10 @@
 
 <usfm>
 \q
-\v 13 The sun stood still, and the moon stopped moving
+\v 13 The sun stood still, and the moon stopped moving 
 \q until the nation took vengeance on their enemies.
-\p Is this not written in The Book of Jashar?
-\q The sun stayed in the middle of the sky;
+\p Is this not written in The Book of Jashar? 
+\q The sun stayed in the middle of the sky; 
 \q it did not go down for about a whole day.
 \p
 \v 14 There has been no other day like it before or after it, when Yahweh obeyed the voice of a human being. For Yahweh was waging war on behalf of Israel.
@@ -45,7 +45,7 @@
 ===== translationNotes: =====
 
   * **the nation** - This refers to the people of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Is this not written in The Book of Jashar?** - The writer uses this question as background information to remind the reader that the incident is well-documented. AT: "This is written in The Book of Jashar." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:writing_background]])
+  * **Is this not written in The Book of Jashar?** - The writer uses this question as background information to remind the reader that the incident is well-documented. AT: "This is written in The Book of Jashar" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:writing_background]])
 
  
 ===== Links: =====
@@ -58,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
