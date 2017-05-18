@@ -28,7 +28,6 @@
 \q1
 \v 6 My herds provided me with plenty of milk,
 \q2 and streams of oil flowed from the rock where my servants pressed the olives.
-\b
 
 
 \q1
@@ -45,8 +44,8 @@
 \v 5 when the Almighty was yet with me,
 \q and my children were around me,
 \q
-\v 6 when my way was awash in cream,
-\q and the rock poured me out streams of oil!
+\v 6 when my way was covered with cream,
+\q and the rock poured out for me streams of oil!
 </usfm>
 
 
@@ -59,6 +58,12 @@
 
 ===== translationNotes: =====
 
+  * **in the ripeness of my days** - Job speaks of when he was young and strong as if his days were the time when the harvest is ripe. AT: "when I was young and strong" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **when the friendship of God was on my tent** - The abstract noun "friendship" can be expressed with the noun "friend." The word "tent" represents Job's home.  AT: "when God was my friend and protected my home" (See:  [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **when my way was covered with cream** - "when my path was flowing with cream." Job uses this hyperbole to express that he had many cows and they produced much more cream than he and his family needed. AT: "when my cows provided an abundance of cream" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **and the rock poured out for me streams of oil** - "and the rock poured out streams of oil for me." Job uses this hyperbole to express that he had many olive vines and great amounts of olive oil. The rock is where his servants pressed the oil out of the olives. AT: "when my servants pressed out a great amount of olive oil" or "when oil flowed like streams from the pressing rock" (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol1:translate:figs_metaphor]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -66,6 +71,6 @@
   * [[:en:bible:questions:comprehension:job:29]]
 **[[:en:bible:notes:job:29:01|<<]] | [[:en:bible:notes:job:29:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -35,8 +35,8 @@
 
 <usfm>
 \q1
-\v 3 Turn your ears and come to me! Listen, that you may live! 
-\q1 I will make an everlasting covenant with you; my reliable, faithful love promised to David.
+\v 3 Turn your ears and come to me! Listen, that you may live!
+\q1 I will make an everlasting covenant with you: my reliable, faithful love promised to David.
 \q1
 \v 4 Look, I have placed him as a witness to the nations, as a leader and commander to the peoples.
 </usfm>
@@ -53,9 +53,10 @@
   * [[:en:obe:other:peoplegroup]]
 
 ===== translationNotes: =====
-  * **covenant faithfulness** - See how you translated this in [[:en:bible:notes:isa:16:05|16:5]].
-  * **given to David** - This can be stated in active form. AT: "that I gave to David" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **I have placed him** - Possible meanings are 1) this refers to what King David did in the past, or 2) it refers to what God will do through one of David's descendants.
+
+  * **Turn your ears** - Listening to or paying attention to someone is spoken of as if it were turning one's ears to someone. AT: "Pay attention" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **faithful love promised to David** - This can be stated in active form. AT: "faithful love that I promised to David" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I have placed him** - Possible meanings are 1) this refers to what Yahweh did for King David in the past or 2) it refers to what God will do through one of David's descendants.
 
 ===== Links: =====
 
@@ -64,6 +65,6 @@
   * [[:en:bible:questions:comprehension:isa:55]]
 **[[:en:bible:notes:isa:55:02|<<]] | [[:en:bible:notes:isa:55:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

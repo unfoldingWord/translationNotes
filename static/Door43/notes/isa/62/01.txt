@@ -26,7 +26,6 @@
 \q2 until they are rescued from their oppressors,
 \q1 until that becomes as apparent to everyone as the dawn every morning,
 \q2 until people can see it as clearly as they see a torch shining brightly at night.
-\b
 \q1
 \v 2 Some day the people of many nations will know that Yahweh has rescued you, his people.
 \q2 Their kings will see that your city is very great.
@@ -40,13 +39,13 @@
 
 <usfm>
 \c 62
-\p
+\m
 \q1
-\v 1 For Zion's sake I will not be silent, and for Jerusalem's sake I will not be quiet, 
-\q1 until her righteousness proceeds 
+\v 1 For Zion's sake I will not be silent, and for Jerusalem's sake I will not be quiet,
+\q1 until her righteousness proceeds
 brightly, and her salvation as a burning torch.
 \q1
-\v 2 The nations will see your righteousness, and all kings your glory. 
+\v 2 The nations will see your righteousness, and all kings your glory.
 \q1 You will be called by a new name that Yahweh will choose.
 </usfm>
 
@@ -64,8 +63,9 @@ brightly, and her salvation as a burning torch.
 
 ===== translationNotes: =====
 
+  * **For Zion's sake I will not be silent, and for Jerusalem's sake I will not be quiet** - Both of these statements mean the same thing. Here "Zion" and "Jerusalem" both represent the people who live in Jerusalem. AT: "For the sake of the people of Jerusalem I will not be silent" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **I will not be silent** - It is most likely that "I" refers to Isaiah.
-  * **until her righteousness proceeds brightly, and her salvation as a burning torch** - This reassures the people that God will eventually come and save the people of Israel and that it will be as apparent as light is. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **until her righteousness proceeds brightly, and her salvation as a burning torch** - Both clauses reassure the people that God will eventually come and save the people of Israel and that it will be as apparent as light is. (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
 ===== Links: =====
 
@@ -74,6 +74,6 @@ brightly, and her salvation as a burning torch.
   * [[:en:bible:questions:comprehension:isa:62]]
 **[[:en:bible:notes:isa:61:10|<<]] | [[:en:bible:notes:isa:62:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -21,7 +21,7 @@
 <usfm>
 \v 37 So all the people and all Israel understood that day that it was not the king's desire to kill Abner son of Ner.
 \v 38 The king said to his servants, "Do you not know that a prince and a great man has fallen this day in Israel?
-\v 39 And I am weak today, though I am an anointed king. These men, the sons of Zeruiah, are too brutal for me. May Yahweh repay the evildoer by punishing him for his wickedness, as he deserves."
+\v 39 Now I am weak today, though I am an anointed king. These men, the sons of Zeruiah, are too brutal for me. May Yahweh repay the evildoer by punishing him for his wickedness, as he deserves."
 </usfm>
 
 ===== translationWords: =====
@@ -37,9 +37,9 @@
 
 ===== translationNotes: =====
 
-  * **Do you not know that a prince and a great man has fallen this day in Israel?** - This rhetorical question is used for emphasis and can be translated as a statement. AT: "I am very grieved because a great prince has died today in Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_euphemism]])
+  * **Do you not know that a prince and a great man has fallen this day in Israel?** - This rhetorical question is used to show how much David respected Abner. Here "fallen" is a euphemism that means "died." It can be translated as a statement. AT: "It is certainly true that a great prince has died today in Israel!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_euphemism]])
   * **a prince and a great man** - These two phrases both refer to Abner. AT: "a great prince" (See: [[:en:ta:vol2:translate:figs_hendiadys]])
-  * **Ner ... Zeruiah** - These are a male names. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ner ... Zeruiah** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **brutal** - "without mercy"
 ===== Links: =====
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2sa:03]]
 **[[:en:bible:notes:2sa:03:35|<<]] | [[:en:bible:notes:2sa:04:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

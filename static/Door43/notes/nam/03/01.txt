@@ -30,12 +30,12 @@
 
 <usfm>
 \c 3
-\p
+\m
 \q
 \v 1 Woe to the city full of blood!
 \q It is all full of lies and stolen property; victims are always in her.
 \q
-\v 2 But now there is the noise of whips and the sound of rattling wheels, 
+\v 2 But now there is the noise of whips and the sound of rattling wheels,
 \q prancing horses, and bounding chariots.
 </usfm>
 
@@ -51,7 +51,7 @@
 
   * **General Information:** - Nahum continues describing the destruction of Nineveh in poetry that began in [[:en:bible:notes:nam:01:01|1:1]]. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **the city full of blood** - Nineveh's soldiers killed many people. Alternate translation: "the city responsible for many people's deaths" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the city full of blood** - Nineveh's soldiers killed many people. AT: "the city responsible for many people's deaths" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 

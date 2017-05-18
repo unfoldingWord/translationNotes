@@ -45,7 +45,6 @@
 \q
 \v 24 What is the path to where the lightning bolts are distributed
 \q or to where the winds are scattered from the east over the earth?
-\b
 </usfm>
 
 
@@ -57,10 +56,15 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to challenge Job.
+  * **Connecting Statement:** - Yahweh continues to challenge Job.
+  * **General Information:** - Yahweh uses a question to emphasize that he rules over the natural world and Job does not. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
-  * **Have you ... over the earth?** - Yahweh uses theses questions to emphasize that Job does not know how Yahweh send snow, hail, lightning and the east wind onto the earth. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **hail** - round pieces of ice that fall down from the sky
+  * **Have you entered the storehouses for the snow, or have you seen the storehouses for the hail, ... and war?** - These questions expect a negative answer. They can be translated as a statement. AT: "You have never entered the storehouses for the snow, or seen the storehouses for the hail, ... and war." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Have you entered the storehouses for the snow, or have you seen the storehouses for the hail** - These two phrases are similar in meaning. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **storehouses for the snow ... storehouses for the hail** - Snow and hail are pictured as being stored by Yahweh to do his will. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **hail** - balls of ice (usually small) that sometimes fall down from the sky during a storm
+  * **What is the path to where the lightning bolts are distributed or to where the winds are scattered from the east over the earth?** - These can be stated in active form. AT: "What is the path to where I distribute the lightning bolts or to where I scatter the winds from the east over the earth?" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the winds are scattered** - "the winds are blown"
 
 ===== Links: =====
 
@@ -75,6 +79,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

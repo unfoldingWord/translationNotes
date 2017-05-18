@@ -39,13 +39,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - David continues speaking to Jonathan.
+  * **Connecting Statement:** - David continues speaking to Jonathan.
 
-  * **you have brought your servant into a covenant of Yahweh with you** - AT: "you have made a covenant with me, your servant, with Yahweh as witness"
+  * **with your servant ... have brought your servant** - David speak of himself in the third person as a form of humility. AT: "with me, your servant ... have brought me, your servant" or "with me ... have brought me" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **you have brought your servant into a covenant of Yahweh with you** - What it was that the two men agreed on can be made explicit. AT: "Yahweh heard you when you made a solemn agreement with me that you and I will always be good friends" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **for why then should you bring me to your father?** - This rhetorical question can be translated as a statement. AT: "then there would be no reason for you to bring me to your father" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Far be it from you!** - This is an idiom that it will never happen to you. AT: "This will never happen to you!" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **would I not tell you?** - Jonathan uses this question to emphasize that he would tell David if Saul wanted to harm him. This rhetorical question can be translated as a statement. AT: "I would certainly tell you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **Far be it from you!** - This is an idiom that means it will never happen to you. AT: "This will never happen to you!" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **would I not tell you?** - This rhetorical question can be translated as a statement. AT: "I would certainly tell you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:1sa:00:intro]]
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:1sa:20]]
 **[[:en:bible:notes:1sa:20:06|<<]] | [[:en:bible:notes:1sa:20:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

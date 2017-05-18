@@ -47,11 +47,15 @@
 
 ===== translationNotes: =====
 
-  * **fill with drunkenness every inhabitant of this land** - AT: "cause all the people of this land to be drunk"
-  * **the kings who sit on David's throne** - "the kings of the nation of Judah"
-  * **smash each man against the other, fathers and children together** - AT: "each person will fight the other; even parents and children will fight against each other"
+  * **Every jar will be filled with wine ... every jar will be filled with wine** - This can be stated in active form. AT: "Wineskins should be full of wine ... every wineskin should be full of wine" or "Wine jars should contain wine ... every wine jar should be full of wine" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **See** - This word is used here to draw someone's attention to what is said next. AT: "Listen" or "Pay attention to what I am about to tell you" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **fill with drunkenness every inhabitant of this land** - "cause all the people of this land to be drunk"
+  * **the kings who sit on David's throne** - Here the throne that the king of Judah sits on is represented as "David's throne." AT: "the kings who sit on Judah's throne" or "the kings of the nation of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **smash each man against the other, fathers and children together** - Here the words "each man" refers to both men and women. AT: "Then I will cause the people to fight with each other, even parents and children will fight one another" (See: [[:en:ta:vol2:translate:figs_gendernotations]])
+  * **fathers and children together** - The missing words may be added. AT: "I will smash fathers and children together" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **this is Yahweh's declaration** - Yahweh speaks of himself as if he were another person so that Jeremiah and the people of Judah will listen carefully to what he says. Translate as in [[:en:bible:notes:jer:01:07|01:8]]. AT: "this is what Yahweh has declared" or "this is what Yahweh has said" (See: [[:en:ta:vol2:translate:figs_pronouns]])
   * **I will not pity** - "I will not feel sorry for"
-  * **will not spare them from destruction** - AT: "will not withhold punishment" or "will allow them to be destroyed" or "will allow them to face destruction"
+  * **will not spare them from destruction** - "will not withhold punishment from them." This can be stated in positive form. AT: "will allow them to be destroyed"
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -59,6 +63,6 @@
   * [[:en:bible:questions:comprehension:jer:13]]
 **[[:en:bible:notes:jer:13:08|<<]] | [[:en:bible:notes:jer:13:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit drunk}}
+~~DISCUSSION~~{{tag>publish p2check drunk}}
 
 ~~NOCACHE~~

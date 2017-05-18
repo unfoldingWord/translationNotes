@@ -24,7 +24,6 @@
 <usfm>
 \v 4 But what they declare about God goes throughout the world,
 \q2 and even people who live in the most distant places on earth can know it.
-\b
 \q1 The sun is in the skies where God placed it;
 \q1
 \v 5 it rises each morning like a bridegroom who is happy as he comes out of his bedroom after his wedding.
@@ -32,7 +31,7 @@
 \q1
 \v 6 The sun rises at one side of the sky and goes across the sky and sets on the other side;
 \q2 nothing can hide from its heat.
-\b
+
 
 
 \q1
@@ -53,7 +52,6 @@
 \v 6 The sun rises from the one horizon
 \q and crosses the sky to the other;
 \q nothing escapes its heat.
-\b
 </usfm>
 
 
@@ -75,7 +73,7 @@
   * **their speech to the end of the world** - The implied words can be included in the translation. AT: "their speech goes out to the end of the world" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **He has pitched a tent for the sun** - Here the writer speaks of the place that Yahweh created for the sun as if it were a tent. AT: "He created a place for the sun" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **among them** - The word "them" probably refers to the heavens.
-  * **The sun is like a bridegroom coming out of his chamber** - The writer speaks of the sun's coming out as if it were a bridegroom. AT: "walking joyfully toward his bride" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **The sun is like a bridegroom coming out of his chamber** - The writer speaks of the sun's coming out as if it were a bridegroom. AT: "The sun is like a bridegroom walking joyfully toward his bride" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **like a strong man who rejoices when he runs his race** - This compares the sun to an athlete to emphasize the strength and brightness of the sun. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **a strong man** - "a fast runner"
   * **horizon** - the line where the earth and the sky meet
@@ -95,6 +93,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book1}}
+{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

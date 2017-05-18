@@ -40,8 +40,8 @@
 
 <usfm>
 \q1
-\v 6 Is not this the fast that I choose: 
-\q1 To release wicked bonds, to undo the ropes of the yoke, 
+\v 6 Is not this the fast that I choose:
+\q1 To release wicked bonds, to undo the ropes of the yoke,
 \q1 to set the crushed ones free, and to break every yoke?
 \q1
 \v 7 Is it not to break your bread with the hungry and to bring the poor and homeless into your house?"
@@ -65,6 +65,7 @@
   * **Is not this the fast that I choose ... break every yoke?** - Yahweh uses a question to teach the people about the kind of fast that pleases him. AT: "This is the fast that I choose ... break every yoke." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **To release wicked bonds, to undo the ropes of the yoke, to set the crushed ones free, and to break every yoke** - All of these phrases mean they should help those people whom the wicked are hurting and oppressing. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_parallelism]])
   * **Is it not to ... your house?** - Yahweh uses another question to teach the people. AT: "It is to ... your house." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **break your bread** - This phrase represents starting the meal by the host tearing the loaf of bread apart. (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -73,6 +74,6 @@
   * [[:en:bible:questions:comprehension:isa:58]]
 **[[:en:bible:notes:isa:58:04|<<]] | [[:en:bible:notes:isa:58:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

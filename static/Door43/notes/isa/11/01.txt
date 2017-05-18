@@ -33,9 +33,9 @@
 <usfm>
 \c 11
 \p
-\v 1 A shoot will sprout from the root of Jesse, and a branch out of his root will bear fruit.
+\v 1 A shoot will sprout from the stump of Jesse, and a branch out of his roots will bear fruit.
 \q1
-\v 2 The Spirit of Yahweh will rest upon him, the spirit of wisdom and understanding, 
+\v 2 The Spirit of Yahweh will rest upon him, the spirit of wisdom and understanding,
 \q1 the spirit of instruction and might,
 the spirit of knowledge and of the fear of Yahweh.
 </usfm>
@@ -52,6 +52,12 @@ the spirit of knowledge and of the fear of Yahweh.
 
 ===== translationNotes: =====
 
+  * **A shoot will sprout from the stump of Jesse ... a branch out of his roots will bear fruit** - Isaiah speaks of Jesse and his descendants as if they were a tree that had been cut down. Both of these phrases tell about a descendant of Jesse who would be king. AT: "As a shoot sprouts out of a tree stump, so a descendant of Jesse will become king over what remains of Israel" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the stump of Jesse** - A stump is what remains of a tree after it is chopped down. The "stump of Jesse" represents what was left of the kingdom that Jesse's son David was once king of. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The Spirit of Yahweh will rest upon him** - Resting upon him represents being with him and helping him. The word "him" refers to the one who would become king. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the spirit of wisdom ... the spirit of instruction ... the spirit of knowledge ... the fear of Yahweh** - Here the word "spirit" refers to an ability or quality that the Spirit of Yahweh would give him. AT: "and he will cause him to have wisdom and understanding, instruction and might, knowledge and the fear of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -59,6 +65,6 @@ the spirit of knowledge and of the fear of Yahweh.
   * [[:en:bible:questions:comprehension:isa:11]]
 **[[:en:bible:notes:isa:10:33|<<]] | [[:en:bible:notes:isa:11:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -14,8 +14,7 @@
 <usfm>
 \v 15 Then Moses said this to Yahweh,
 \v 16 "Yahweh, you are the God who directs the spirits of all people. So please appoint a new leader for the Israelite people.
-\v 17 Appoint someone who will lead your people when they go to fight a battle, so that they will not just wander around like sheep that do not have a shepherd." 
-
+\v 17 Appoint someone who will lead your people when they go to fight a battle, so that they will not just wander around like sheep that do not have a shepherd."
 
 \p
 </usfm>
@@ -38,7 +37,7 @@
 
 ===== translationNotes: =====
 
-  * **the God of the spirits of all humanity** - Possible meaning are 1) Here "spirits" refers to all people" AT: "the God over all of humanity" or 2) the reference to "spirits" refers to God having given life and breath to all people. AT: "the God who gives breath to all people" or "the God who give life to all humanity" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the God of the spirits of all humanity** - Possible meaning are 1) here "spirits" refers to all people." AT: "the God over all of humanity" or 2) the reference to "spirits" refers to God having given life and breath to all people. AT: "the God who gives breath to all people" or "the God who give life to all humanity" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **a man over the community** - To be "over" a group of people means to have authority to lead them. AT: "a man to lead the community" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **a man who may go out and come in before them and lead them out and bring them in** - This is an idiom that means a person who will lead all the people and also lead the army into battle. (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **so that your community is not like sheep that have no shepherd** - This is a simile that means without a leader the people will wander and be helpless. (See: [[:en:ta:vol1:translate:figs_simile]])
@@ -49,6 +48,6 @@
   * [[:en:bible:questions:comprehension:num:27]]
 **[[:en:bible:notes:num:27:12|<<]] | [[:en:bible:notes:num:27:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

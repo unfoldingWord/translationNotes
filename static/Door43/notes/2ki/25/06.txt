@@ -37,9 +37,9 @@
 
 
   * **Riblah** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **they passed sentence on him** - AT: "pronounced his judgment." or "pronounced his sentence."
-  * **they slaughtered them before his eyes** - AT: "they killed them before him." or "they killed them while king Zedekiah was forced to watch." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **he put out his eyes** - The word "he" refers to king Nebuchadnezzar, but he probably did not do it himself. AT: "Then the Babylonian soldiers cut out Zedekiah's eyes." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **passed sentence on him** - "decided what they would do to punish him" (UDB)
+  * **they slaughtered them before his eyes** - The eyes are synecdoche for the whole person. AT: "they forced king Zedekiah to watch them kill his sons" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **he put out his eyes** - "Nebuchadnezzar put out Zedekiah's eyes." It might be best to translate so that the reader understands that other people might have helped Nebuchadnezzar do this. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -54,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

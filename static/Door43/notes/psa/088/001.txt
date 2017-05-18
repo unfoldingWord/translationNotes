@@ -20,7 +20,7 @@
 \q1
 \v 2 Listen to my prayer
 \q2 while I cry out to you for help!
-\b
+
 
 
 \q1
@@ -30,9 +30,8 @@
 
 <usfm>
 \c 88
-\p
+\m
 \d A song, a psalm of the sons of Korah; for the chief musician; set to the Mahalath Leannoth style. A maschil of Heman the Ezrahite.
-\b
 \q
 \v 1 Yahweh, God of my salvation,
 \q I cry out day and night before you.
@@ -54,7 +53,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A song, a psalm of the sons of Korah** - "This is a psalm that the sons of Korah wrote"
   * **for the chief musician** - "this is for the director of music to use in worship"
@@ -72,6 +71,6 @@
   * [[:en:bible:questions:comprehension:psa:088]]
 **[[:en:bible:notes:psa:087:007|<<]] | [[:en:bible:notes:psa:088:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

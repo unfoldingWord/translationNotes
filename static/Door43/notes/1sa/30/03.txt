@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 When David and his men came to the city, it was burned— and their wives, their sons, and their daughters were taken captive.
+\v 3 When David and his men came to the city, it was burned, and their wives, their sons, and their daughters were taken captive.
 \v 4 Then David and the people that were with him raised their voices and wept until they had no more power to weep.
 </usfm>
 
@@ -36,8 +36,8 @@
 
 ===== translationNotes: =====
 
-  * **their** - refers to David and his men
-  * **burned** - to set on fire to destroy the town
+  * **their wives ... sons ... daughters** - belonging to David and his men
+  * **it was burned, and their wives ... daughters were taken captive** - This can be translated in active form. AT: "they saw that someone had burned it and taken their wives ... captive" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the people that were with him** - These were mainly his army of men.
 
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1sa:30]]
 **[[:en:bible:notes:1sa:30:01|<<]] | [[:en:bible:notes:1sa:30:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

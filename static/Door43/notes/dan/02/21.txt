@@ -19,16 +19,16 @@
 ===== UDB: =====
 
 <usfm>
-\v 21 He makes the time move forward, 
-and he owns the seasons. 
-\q2 He removes every king when he chooses 
-and gives new kings their kingdom. 
+\v 21 He makes the time move forward,
+and he owns the seasons.
+\q2 He removes every king when he chooses
+and gives new kings their kingdom.
 \q1 He gives wisdom to some,
 and people become wise.
-\q2 He teaches knowledge 
+\q2 He teaches knowledge
 to those who understand.
 \q1
-\v 22 He reveals to us things that are deep and hidden. 
+\v 22 He reveals to us things that are deep and hidden.
 \q2 He can do this because he knows everything that the darkness hides from us,
 \q2 and because the light comes from where he lives.
 
@@ -41,15 +41,15 @@ to those who understand.
 
 <usfm>
 \q
-\v 21 He changes the times 
-\q and seasons; 
-\q he removes kings 
+\v 21 He changes the times
+\q and seasons;
+\q he removes kings
 \q and places kings on their thrones.
-\q He gives wisdom to the wise 
+\q He gives wisdom to the wise
 \q and knowledge to those who have understanding.
 \q
-\v 22 He reveals the deep and hidden things 
-\q because he knows what is in the darkness, 
+\v 22 He reveals the deep and hidden things
+\q because he knows what is in the darkness,
 \q and the light lives with him.
 </usfm>
 
@@ -67,7 +67,7 @@ to those who understand.
   * **General Information:** - These verses are also part of Daniel's prayer.
 
   * **he removes kings** - "he takes away kings' authority to rule"
-  * **and places kings on their thrones** - The idea of kings being on their thrones refers to them ruling. AT: "and makes new kings rule over their kingdoms" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **places kings on their thrones** - Here being on the "throne" refers to ruling over a kingdom. AT: "makes new kings rule over their kingdoms" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **the light lives with him** - "the light comes from where God is" 
 ===== Links: =====
 
@@ -76,6 +76,6 @@ to those who understand.
   * [[:en:bible:questions:comprehension:dan:02]]
 **[[:en:bible:notes:dan:02:19|<<]] | [[:en:bible:notes:dan:02:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

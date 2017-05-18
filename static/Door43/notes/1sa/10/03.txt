@@ -37,7 +37,7 @@
 ===== translationNotes: =====
 
   * **Tabor** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **take from their hands** - "take from them" or "accept" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **take from their hands** - The hands are a metonym for the person. "take from them" or "accept" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1sa:10]]
 **[[:en:bible:notes:1sa:10:01|<<]] | [[:en:bible:notes:1sa:10:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check oak}}
+~~DISCUSSION~~{{tag>publish p2pass oak}}
 
 ~~NOCACHE~~

@@ -17,7 +17,7 @@
 
 <usfm>
 \v 11 There are many people who curse their fathers
-\q2 and they do not praise their mothers or thank them; 
+\q2 and they do not praise their mothers or thank them;
 \q1
 \v 12 those people think everything they do should not be criticized,
 \q2 but really they have never been cleansed from their filth.
@@ -31,11 +31,11 @@
 
 <usfm>
 \q
-\v 11 A generation that curses their father 
-\q and does not bless their mother,
+\v 11 There is a generation that curses their father
+\q and does not bless their mother.
 \q
-\v 12 that is a generation that is pure in their own eyes,
-\q but they are not washed of their filth.
+\v 12 There is a generation that is pure in their own eyes,
+\q and yet they are not washed of their filth.
 </usfm>
 
 
@@ -48,10 +48,11 @@
 
 ===== translationNotes: =====
 
-
-  * **A generation that curses their father and does not bless their mother** - "A generation of people who curse their fathers and do not bless their mothers"
-  * **is pure in their own eyes** - AT: "believes they are pure" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **they are not washed of their filth** - AT: "they are not cleansed from their sins" or "they are still dirty with their sins" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a generation that curses ... and does not bless ... a generation that is** - "a generation of people who curse ... and do not bless ... a generation of people that are"
+  * **generation** - type or class or group
+  * **is pure in their own eyes** - The phrase "in their own eyes" is a metonym for their opinion. AT: "believes they are pure" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they are not washed of their filth** - The words "washed" and "filth" speak of God forgiving people who sin as if he were washing physical filth off of the people. This can be translated in active form. AT: "God has not forgiven them of their sins" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **filth** - This should be translated with a polite term that includes human or animal vomit and waste.
  
 ===== Links: =====
 
@@ -66,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

@@ -49,10 +49,13 @@
 
 ===== translationNotes: =====
 
-  * **Bread gained by deceit** - AT: "Food that someone gained by deceiving others" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Bread gained by deceit** - This can be stated in active form. AT: "Bread that someone gained by deceit" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **by deceit** - The word "deceit" can be expressed as a verb. AT: "by deceiving others" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Bread** - Here "bread" refers to food in general. AT: "Food" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **tastes sweet** - "tastes good"
+  * **but afterward his mouth will be full of gravel** - This speaks of the food tasting unpleasant as if his mouth were actually full of gravel instead of food. AT: "but afterwards it tastes like gravel in his mouth" or "but soon it tastes like sand in his mouth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **gravel** - small pieces of rock
-  * **Plans are established by advice** - AT: "People establish plans by advice" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Plans are established by advice** - This can be stated in active form. AT: "People establish plans based on advice" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -66,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

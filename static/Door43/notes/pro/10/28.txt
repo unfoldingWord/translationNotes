@@ -22,8 +22,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 28 Those who do right have hope in their joy, 
-\q2 but the wicked can expect their lives to be short. 
+\v 28 Those who do right have hope in their joy,
+\q2 but the wicked can expect their lives to be short.
 \q1
 \v 29 Following Yahweh brings protection to those who keep their promises;
 \q2 but those who do not follow him find out he destroys those who do what is evil.
@@ -40,13 +40,13 @@
 
 <usfm>
 \q
-\v 28 The hope of those who do right is their joy,
-\q but the years of the wicked will be short. 
+\v 28 The hope of righteous people is their joy,
+\q but the years of wicked people will be short.
 \q
-\v 29 The way of Yahweh protects those who have integrity, 
+\v 29 The way of Yahweh protects those who have integrity,
 \q but it is destruction for the wicked.
 \q
-\v 30 Those who do right will never be overthrown,
+\v 30 The righteous person will never be overthrown,
 \q but the wicked will not remain in the land.
 </usfm>
 
@@ -61,8 +61,9 @@
 
 ===== translationNotes: =====
 
-  * **the years of the wicked** - Translate as in [[:en:bible:notes:pro:10:26|10:27]].
-  * **will never be overthrown** - "will be secure" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **the years of wicked people** - Here "years" represent the time a person lives. AT: "the lifetime of the evil person" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **will never be overthrown** - This can be stated as active and positive: AT: "will be secure" (See: [[:en:ta:vol2:translate:figs_litotes]] and [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
   * [[:en:bible:notes:pro:00:intro]]
   * [[:en:bible:notes:pro:10:00]]
@@ -75,6 +76,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

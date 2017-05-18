@@ -22,7 +22,6 @@
 \q2 and the corrosion cannot be removed.
 \q1 Take the pieces of meat out of the pot,
 \q2 but do not choose which pieces to take out.
-\b
 
 
 \q1
@@ -43,9 +42,12 @@
 
 ===== translationNotes: =====
 
-  * **a cooking pot** - Yahweh compares Jerusalem to a cooking pot. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **General Information:** - Yahweh continues telling a parable to Ezekiel about a cooking pot that represents Jerusalem. This parable continues through [[:en:bible:notes:ezk:24:14|24:14]]. (See: [[:en:ta:vol1:translate:figs_parables]])
+
+  * **the city of blood** - Here "blood" is a reference to "murder." AT: "the city of murderers" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a cooking pot** - Yahweh continues to compare Jerusalem to a cooking pot. AT: "it is like a cooking pot" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
   * **rust** - the red material that forms on metal. Rust eats away at metal and eventually destroys it
-  * **Take** - Yahweh does not give this command to a specific person, instead he is commanding some imaginary person who is part of the metaphor.
+  * **Take piece after piece** - Yahweh does not give this command to a specific person. This is a general command given to an unspecified person within this metaphor.
   * **but do not cast lots for it** - Casting lots was a way of choosing which pieces of meat to take out, but because Yahweh wants to take out all of the pieces of meat, there is no need to cast lots. 
  
 ===== Links: =====
@@ -55,6 +57,6 @@
   * [[:en:bible:questions:comprehension:ezk:24]]
 **[[:en:bible:notes:ezk:24:03|<<]] | [[:en:bible:notes:ezk:24:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

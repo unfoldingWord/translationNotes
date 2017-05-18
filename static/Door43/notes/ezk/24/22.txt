@@ -37,9 +37,11 @@
 
 ===== translationNotes: =====
 
-  * **you will melt away** - Here wasting away and dying is spoken of as melting. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **in your iniquities** - This implies that God will not forgive the sins of these people. However, some modern versions translate "because of your iniquities."
-  * **groan** - the sound a person makes who wants help, but pain or sorrow is so strong that they are not capable of speaking.
+  * **you will melt away** - Here wasting away and dying is spoken of as melting. AT: "you will become very thin and slowly die" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in your iniquities** - This implies that God will not forgive the sins of these people. AT: "and I will not forgive your sins" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **groan** - This is the sound a person makes who wants help, but who has too much pain or sorrow to speak.
+  * **So Ezekiel will be a sign for you** - Here the word "sign" refers to something that communicates a special warning to those who see it. Yahweh speaks of Ezekiel and his actions as being this warning. See how you translated this metaphor in [[:en:bible:notes:ezk:12:04|12:6]]. AT: "So Ezekiel will be a warning for you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -47,6 +49,6 @@
   * [[:en:bible:questions:comprehension:ezk:24]]
 **[[:en:bible:notes:ezk:24:19|<<]] | [[:en:bible:notes:ezk:24:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit ezekiel}}
+~~DISCUSSION~~{{tag>publish p2check ezekiel}}
 
 ~~NOCACHE~~

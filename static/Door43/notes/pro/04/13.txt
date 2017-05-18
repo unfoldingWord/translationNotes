@@ -27,11 +27,10 @@
 \q1 Guard them; for you live your life by them.
 \q1
 \v 14 Do not do what wicked people do, nor be with them;
-\q1 do not be with people who do evil things. 
+\q1 do not be with people who do evil things.
 \q1
 \v 15 Stay far from those ways;
-\q2 turn another way and go on another road. 
-
+\q2 turn another way and go on another road.
 
 \q1
 </usfm>
@@ -41,7 +40,7 @@
 
 <usfm>
 \q
-\v 13 Hold on to discipline, do not let it go;
+\v 13 Hold on to instruction, do not let it go;
 \q guard it, for it is your life.
 \q
 \v 14 Do not follow the path of the wicked
@@ -61,12 +60,10 @@
 
 ===== translationNotes: =====
 
-
-  * **Hold on to discipline, do not let it go** - AT: Continue to obey what you have been taught." (See [[:en:ta:vol1:translate:figs_metaphor]])
-  * **for it is your life** - This phrase emphasizes the importance of discipline by equating it to a person's life.
-  * **Avoid it, do not go on it; turn away from it and go another way** - AT: "Be careful not to do evil. Instead do good." (See [[:en:ta:vol1:translate:figs_metaphor]])
-
- 
+  * **Hold on to instruction, do not let it go** - The writer speaks of a person remembering what he has learned as if "instruction" were an object that the person can hold tightly. AT: "Continue to obey what I have taught you and never forget it" (See [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for it is your life** - The writer speaks of discipline preserving a person's life as if it were that person's life. AT: "for it will preserve your life" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Do not follow the path of the wicked and do not go along the way of those who do evil** - The writer speaks of a person's actions as if that person were walking along a path. AT: "Do not do what wicked people do and do not join in the actions of people who do evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Avoid it** - "Avoid the path of the wicked"
  
 ===== Links: =====
 
@@ -81,6 +78,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit discipline}}
+{{tag>publish p2pass discipline}}
 
 ~~NOCACHE~~

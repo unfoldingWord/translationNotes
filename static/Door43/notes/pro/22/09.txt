@@ -18,8 +18,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 The one who looks for people to help, Yahweh will give many good gifts, 
-\q2 because he considered it important to share his food with the poor. 
+\v 9 The one who looks for people to help, Yahweh will give many good gifts,
+\q2 because he considered it important to share his food with the poor.
 \q1
 \v 10 If you throw out the conceited person, out will go all kinds of conflict with him.
 \q2 No one will quarrel or insult anyone else when he is gone.
@@ -53,11 +53,11 @@
 ===== translationNotes: =====
 
 
-  * **The one who has a generous eye will be blessed** - AT: "God will bless the one who has a generous eye" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **bread** - Since bread was the main food for many people in biblical times, it is often used to refer to food in general.
-  * **mocker** - This mean someone who mocks people a lot.
-  * **has a generous eye** - AT: "has a generous attitude" or "is generous" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **generous** - giving, unselfish 
+  * **The one who has a generous eye will be blessed** - These words can be translated in active form. AT: "God will bless the one who has a generous eye" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **one who has a generous eye** - The eye is a metonym for seeing what other people need, and the "generous eye" not only sees but gives what the other people need. The eye is also a synecdoche for the whole person. AT: "generous person" or "person who is willing to give things to other people" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **bread** - Since bread was the main food for many people in biblical times, it is often used to refer to food in general. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **disputes and insults will cease** - The abstract nouns "disputes" and "insults" can be translated as verbs. AT: "people will no longer argue with each other or say things to hurt each other" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -71,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

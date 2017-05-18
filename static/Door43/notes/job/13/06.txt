@@ -56,9 +56,13 @@
 
 ===== translationNotes: =====
 
-  * **my own lips** - "Lips" represent the whole person who is speaking. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Will you speak unrighteously ... deceitfully for him?** - Job asks these questions for emphasis and then twice for more emphasis. He also mocks them by these questions. (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_irony]])
-  * **Would you really ... as attorneys for God?** - Job asks these questions for emphasis and then twice for more emphasis. He also mocks them by these questions. (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_irony]])
+  * **Connecting Statement:** - Job continues to speak to his friends.
+
+  * **listen to the pleading of my own lips** - Here "lips" represent the person who is speaking. AT: "listen to what I myself plead for" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Will you speak unrighteously ... deceitfully for him?** - Job uses these two questions to rebuke his friends for speaking unrighteously.  AT: "You think that you are speaking for God, but you are speaking unrighteously. You are speaking deceitfully" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_irony]])
+  * **talk deceitfully** - "lie" or "tell lies"
+  * **Would you really ... as attorneys for God?** - Showing kindness to God represents helping God or defending God against Job's complaints. Job uses these questions to rebuke his friends for thinking that they can defend God.  AT: "You think that you can defend God. You think that you can argue for God like attorneys in court" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_irony]])
+
 
 ===== Links: =====
 
@@ -67,6 +71,6 @@
   * [[:en:bible:questions:comprehension:job:13]]
 **[[:en:bible:notes:job:13:03|<<]] | [[:en:bible:notes:job:13:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

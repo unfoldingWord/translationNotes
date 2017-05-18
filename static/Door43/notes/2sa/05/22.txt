@@ -21,7 +21,7 @@
 
 <usfm>
 \p
-\v 22 Then the Philistines came up again and spread out once more in the valley of Rephaim.
+\v 22 Then the Philistines came up again and spread out once more in the Valley of Rephaim.
 \v 23 So David sought help from Yahweh again, and Yahweh said to him, "You must not attack their front, but rather circle around behind them and come on them through the balsam woods.
 </usfm>
 
@@ -34,9 +34,9 @@
  
 ===== translationNotes: =====
 
-  * **valley of Rephaim** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the Philistines came up again** - They "came up" because the Philistines lived at a lower elevation than David's stronghold.
+  * **Valley of Rephaim** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
   * **balsam woods** - "Balsam" is a type of tree, and the "woods" describe many balsam trees growing together. (See: [[:en:ta:vol1:translate:translate_names]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:2sa:05]]
 **[[:en:bible:notes:2sa:05:19|<<]] | [[:en:bible:notes:2sa:05:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -20,14 +20,14 @@
 
 <usfm>
 \v 14 Store up water now to use when your enemies surround the city!
- Repair the forts!
- Dig up clay and trample it to make it soft,
- and put it into molds to make bricks to repair the walls!
+\q2 Repair the forts!
+\q2 Dig up clay and trample it to make it soft,
+\q2 and put it into molds to make bricks to repair the walls!
+\q1
 \v 15 Nevertheless, your enemies will burn your city;
- they will kill you with their swords;
- they will kill you as locusts destroy crops.
-\p
- Go ahead and increase your population like swarms of locusts and grasshoppers.
+\q2 they will kill you with their swords;
+\q2 they will kill you as locusts destroy crops.
+\q1 Go ahead and increase your population like swarms of locusts and grasshoppers.
 </usfm>
 
 
@@ -35,11 +35,11 @@
 
 <usfm>
 \q
-\v 14 Go draw water for the siege; strengthen your fortresses; 
-\q go into the clay and tread the mortar; 
+\v 14 Go draw water for the siege; strengthen your fortresses;
+\q go into the clay and tread the mortar;
 \q pick up the molds for the bricks.
 \q
-\v 15 Fire will devour you there, and the sword will destroy you. It will devour you as young locusts devour everything. 
+\v 15 Fire will devour you there, and the sword will destroy you. It will devour you as young locusts devour everything.
 \p
 \q Make yourselves as many as the young locusts, as many as the full-grown locusts.
 </usfm>

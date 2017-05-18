@@ -10,16 +10,16 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 These are the measurements of the altar, using the same kind of measuring stick that was used for the temple area: There is a gutter around the altar that is about one half meter deep and one half meter wide. There is a rim around it that is about 23 centimeters wide. This will compose the base for the rest of the altar.
-\v 14 The lower part of the gutter is about one meter high to the lower ledge that surrounds the altar. The lower ledge is about one half meter wide. From that ledge to the upper ledge, it is about 2.1 meters. That ledge is also one half meter wide.
+\v 13 These are the measurements of the altar, using the same kind of measuring stick that was used for the temple area: There is a gutter around the altar that is one-half meter deep and one-half meter wide. There is a rim around it that is twenty-three centimeters wide. This will compose the base for the rest of the altar.
+\v 14 The lower part of the gutter is one meter high to the lower ledge that surrounds the altar. The lower ledge is one-half meter wide. From that ledge to the upper ledge, it is two meters. That ledge is also one-half meter wide.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
 \p
-\v 13 These will be the measurements of the altar in long cubits—each long cubit being a regular cubit and a handbreadth long. So the gutter around the altar will be a cubit deep, and its width will also be a cubit. And the border around its surrounding edge will be one span. This will be the base of the altar.
-\v 14 From the gutter at the ground level up to the lower ledge of the altar is two cubits, and that ledge itself is one cubit wide. Then from the small ledge up to the large edge of the altar, it is four cubits, and the large edge is a cubit wide.
+\v 13 These will be the measurements of the altar in in length cubits—each in length cubit being a regular cubit and a handbreadth in length. So the gutter around the altar will be a cubit deep, and its width will also be a cubit. The border around its surrounding edge will be one span. This will be the base of the altar.
+\v 14 From the gutter at the ground level up to the lower ledge of the altar is two cubits, and that ledge itself is one cubit in width. Then from the small ledge up to the large edge of the altar, it is four cubits, and the large edge is a cubit in width.
 </usfm>
 
 ===== translationWords: =====
@@ -28,7 +28,8 @@
  
 ===== translationNotes: =====
 
-  * **the border around its surrounding edge** - "the border going around its edge"
+  * **The border around its surrounding edge** - "The border going around its edge"
+  * **a cubit ... one span ... two cubits ... four cubits** - Each long cubit was about 54 centimeters. A span was 23 centimeters. Translate "cubit" as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "about 54 centimeters ... about 23 centimeters ... about 1.1 meters ... about 2.2 meters"
   * **This will be the base of the altar** - "These will be the measurements of the base of the altar."
   * **the base of the altar** - "the bottom supporting the altar" or "the foundation of the altar"
   * **ledge** - a narrow and flat surface that sticks out from a wall
@@ -40,6 +41,6 @@
   * [[:en:bible:questions:comprehension:ezk:43]]
 **[[:en:bible:notes:ezk:43:12|<<]] | [[:en:bible:notes:ezk:43:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -38,11 +38,11 @@
 
 ===== translationNotes: =====
 
-
   * **On the seventh day** - "After 6 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **when the king's heart was feeling happy because of the wine** - "after the king was drunk with wine"
-  * **Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carcas** - (See: [[:en:ta:vol1:translate:translate_names]])
-  * **seven** - "7" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **the king's heart was feeling happy because of the wine** - Here "heart" refers to the king, and "feeling happy" is an idiom that means he was drunk. AT: "the king was drunk with wine" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carcas** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the seven officials who served before him** - This is background information to explain who these men were. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **her features were stunning** - "she was very beautiful"
  
 
 ===== Links: =====
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:est:01]]
 **[[:en:bible:notes:est:01:07|<<]] | [[:en:bible:notes:est:01:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit vashti}}
+~~DISCUSSION~~{{tag>publish p2pass vashti}}
 
 ~~NOCACHE~~

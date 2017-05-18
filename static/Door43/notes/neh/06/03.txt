@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 I sent messengers to them, saying, "I am doing a great work and I cannot come down. Why should the work stop while I leave it and come down to you?"
+\v 3 I sent messengers to them, saying, "I am doing a great work, and I cannot come down. Why should the work stop while I leave it and come down to you?"
 \v 4 They sent me the same message four times, and I answered them the same way each time.
 </usfm>
 
@@ -36,9 +36,9 @@
   * [[:en:obe:kt:works]]
 ===== translationNotes: =====
 
-  * **I sent messengers to them** - Here "them" refers to Sanballat, Tobiah, and Geshem.
-  * **and I cannot** - "and I am unable to" or "and I am not able to"
-  * **Why should the work stop while I leave it and come down to you?** - This is a statement posed as a question. The purpose of the question is to challenge Sanballat. AT: "I will not let the work stop while I leave it and come down to you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **I am doing a great work** - Nehemiah was supervising the rebuilding of the wall. He was not building it himself. AT: "I am supervising a great work" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Why should the work stop while I leave it and come down to you?** - This rhetorical question is used to challenge Sanballat's request. This can be written as a statement. AT: "I cannot let the work stop and come down to you" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **down to you** - The word "down" is used here because the plain of Ono where they were requesting Nehemiah to come is at a lower elevation than Jerusalem. 
 
 ===== Links: =====
 
@@ -47,6 +47,6 @@
   * [[:en:bible:questions:comprehension:neh:06]]
 **[[:en:bible:notes:neh:06:01|<<]] | [[:en:bible:notes:neh:06:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

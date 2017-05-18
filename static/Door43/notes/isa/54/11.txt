@@ -36,12 +36,11 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 11 Afflicted one, storm-driven and uncomforted one, 
+\v 11 Afflicted one, storm-driven and uncomforted one,
 \q1 look, I will set your pavement in turquoise, and lay your foundations with sapphires.
 \q1
-\v 12 I will make your pinnacles of rubies and your gates of sparkling stones, 
+\v 12 I will make your pinnacles of rubies and your gates of sparkling stones,
 \q1 and your outer wall of beautiful stones.
 </usfm>
 
@@ -57,8 +56,10 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Jerusalem.
 
+  * **Afflicted one** - Here Yahweh speaks to the city of Jerusalem as if it were listening to him. Here Jerusalem represents the people who live there. AT: "You afflicted people of Jerusalem" (See: [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **storm-driven** - Yahweh speaks of the people as if they were blown around and damaged by the winds and storms. This means the people were hurt and without stability. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **uncomforted one** - "without comfort"
+  * **I will set your pavement in turquoise ... wall of beautiful stone** - Yahweh describes in ideal terms how he will restore Jerusalem and cause it to be beautiful again. Although the language may be exaggerated, you should translate this just as Yahweh described it.
   * **turquoise ... sapphires ... rubies** - These are precious gemstones. Turquoise is light blue-to-green, sapphires are typically dark blue, and rubies are red-to-pink. (See: [[:en:ta:vol1:translate:translate_unknown]])
 
 ===== Links: =====
@@ -68,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:54]]
 **[[:en:bible:notes:isa:54:09|<<]] | [[:en:bible:notes:isa:54:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

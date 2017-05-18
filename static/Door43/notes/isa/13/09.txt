@@ -28,8 +28,7 @@
 \v 10 When that happens, none of the stars will shine.
 \q2 When the sun rises, it will be dark,
 \q1 and there will be no light from the moon at night.
-\b
-
+ 
 
 \q1
 </usfm>
@@ -39,11 +38,11 @@
 
 <usfm>
 \q1
-\v 9 See, the day of Yahweh comes with cruel wrath and overflowing anger, 
+\v 9 See, the day of Yahweh comes with cruel wrath and overflowing anger,
 \q1 to make the land a desolation and to destroy the
 sinners from it.
 \q1
-\v 10 The stars of heaven and the constellations will not give their light. 
+\v 10 The stars of heaven and the constellations will not give their light.
 \q1 The sun will be darkened even from dawn, and the moon will not shine.
 </usfm>
 
@@ -59,12 +58,12 @@ sinners from it.
 
 ===== translationNotes: =====
 
-  * **General Information:** - This continues the prophecy about the people of Babylon. Isaiah is speaking.
-
-  * **to make the land a desolation** - This can be reworded so that the abstract noun "desolation" is expressed as the verb "to ruin." AT: "to ruin the land" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the day of Yahweh comes with cruel wrath and overflowing anger** - The day coming with wrath and anger means that there will be wrath and anger on that day. The abstract nouns "wrath" and "anger" can be expressed with the adjectives "furious" and "angry". AT: "on the day of Yahweh, he will be furious and extremely angry" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **overflowing anger** - Anger here is spoken of as if the one who is angry is a container filled with anger. Overflowing anger means that he is extremely angry. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **to make the land a desolation** - This can be reworded so that the abstract noun "desolation" is expressed with the verb "ruin." AT: "to ruin the land" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **The stars of heaven and the constellations** - "The stars in the sky"
-  * **The sun will be darkened** - This can be stated in active form. AT: "Yahweh will darken the sun" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **will not give their light** - Giving light represents "shining." AT: "will not shine" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **The sun will be darkened** - This can be stated in active form. AT: "Yahweh will darken the sun" or "The sun will be dark" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -78,6 +77,6 @@ sinners from it.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

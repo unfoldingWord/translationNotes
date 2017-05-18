@@ -51,10 +51,14 @@
 
 
 
+===== translationWords: =====
+
 ===== translationNotes: =====
 
-  * **can anyone understand the extensive spread of the clouds and the thunder from his hut?** - The implicit answer to this question is "no." AT: "no one can understand the extensive spread of the clouds and the thunder from his hut." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **his hut** - Here "his hut" probably represents, in an extremely understated way, the vast sky, above which God was apparently thought to live. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **that he distills as rain from his vapor** - The word "distills" can also mean "refine" or "filter." Elihu describes how God turns the drops of water, or vapor, that he draws up into rain. AT: "that he turns into rain" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **can anyone understand the extensive spread of the clouds and the thunder from his hut?** - Elihu asks this rhetorical question to emphasize that no one can do these things. AT: "no one can understand the extensive spread of the clouds and the thunder from his hut." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the extensive spread of the clouds** - The phrase "the extensive spread" can be translated with a verbal phrase. AT: "how the clouds spread across the sky" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **from his hut** - Elihu speaks of the sky as if it were a "hut" in which God lives. AT: "from the sky, where God lives" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -63,6 +67,6 @@
   * [[:en:bible:questions:comprehension:job:36]]
 **[[:en:bible:notes:job:36:25|<<]] | [[:en:bible:notes:job:36:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

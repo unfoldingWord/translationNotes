@@ -24,7 +24,6 @@
 <usfm>
 \v 12 I will destroy Ephraim as a moth destroys wool;
 \q2 I will destroy Judah as rot destroys wood.
-\b
 \q1
 \v 13 When the people of Ephraim realized how weak they were,
 \q2 then they asked the people of Assyria for help.
@@ -68,7 +67,7 @@
   * **General Information:** - Yahweh is talking about Judah and Israel.
 
   * **I will be like a moth to Ephraim, and like rot to the house of Judah** - A moth on a piece of wool and rot in a piece of wood are both destructive. Yahweh will destroy both nations. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **moth ... rot** - These two terms are translated in various ways, because the meaning of the Hebrew words is either very broad, it is uncertain.
+  * **moth ... rot** - These two terms are translated in various ways because the meaning of the Hebrew word is either very broad or it is uncertain.
   * **When Ephraim saw his sickness, and Judah saw his wound** - Both Ephraim (the northern kingdom of Israel) and Judah (the southern kingdom of Israel) realized that they were in danger. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **then Ephraim went to Assyria, and Judah sent messengers to the great king** - Ephraim and Judah asked Assyria for help instead of asking Yahweh for help. "Great king" was a title for the king of Assyria.
   * **But he was not able** - Here "he" refers to the king of Assyria.
@@ -80,6 +79,6 @@
   * [[:en:bible:questions:comprehension:hos:05]]
 **[[:en:bible:notes:hos:05:10|<<]] | [[:en:bible:notes:hos:05:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

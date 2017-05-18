@@ -17,10 +17,10 @@
 
 <usfm>
 \v 1 Listen to Wisdom calling; her voice sounds like that of a woman who shouting in the public square.
-\q1 Understanding raises her voice; she sounds like a woman who calls out to be heard. 
+\q1 Understanding raises her voice; she sounds like a woman who calls out to be heard.
 \q1
-\v 2 On the top of the hills and where the roads come together, 
-\q1 there Wisdom stands. 
+\v 2 On the top of the hills and where the roads come together,
+\q1 there Wisdom stands.
 \q1
 \v 3 Wisdom also stands at the gates at the entrance to the city, and she calls out with a loud voice. Wisdom says:
 
@@ -38,10 +38,10 @@
 \q Does not Understanding raise her voice?
 \q
 \v 2 On the hilltops beside the road,
-\q at the crossroads, Wisdom takes her stand.
+\q at the crossroads, Wisdom has taken her stand.
 \q
-\v 3 Beside the entrance to the city,
-\q near the city gates, she calls out.
+\v 3 Before the gates at the entrance into the city,
+\q at the entrances into the city, she calls out.
 </usfm>
 
 
@@ -58,10 +58,10 @@
   * **General Information:** - Many verses in chapter 8 have parallelisms. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **Does not Wisdom call out?** - This question is used to remind the readers of something they should already know. AT: "Wisdom calls out" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Does not Understanding raise her voice?** - AT: "Understanding shouts loudly" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the city gate** - This is where people go in and out of a city that has a wall around it.
-  * **she calls out** - "Wisdom calls out for the people to listen to her" (See: [[:en:ta:vol2:translate:figs_personification]]) 
-
+  * **Does not Wisdom call out?** - Here wisdom is imagined as a woman. If a language does not allow this kind of metaphor, other possible translations are: 1) "Is not wisdom like a woman who calls out?" 2) "Does not a woman named Wisdom call out?" (See: [[:en:ta:vol2:translate:figs_personification]]) 
+  * **Does not Understanding raise her voice?** - Here "Understanding" means the same as "Wisdom." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the gates at the entrance into the city** - In ancient times, cities usually had outer walls with gates in them. 
+  * **she calls out** - This continues to refer to Wisdom, personified as a woman. (See: [[:en:ta:vol2:translate:figs_personification]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -72,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

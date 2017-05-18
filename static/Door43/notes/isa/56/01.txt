@@ -26,7 +26,6 @@
 \q1 I will bless those who keep sacred my Sabbath days,
 \q2 and who do not do any work on those days,
 \q2 and who refrain from doing anything that is evil.
-\b
 
 
 \q1
@@ -36,14 +35,14 @@
 
 <usfm>
 \c 56
-\p
+\m
 \q1
 \v 1 This is what Yahweh says, "Observe what is right, do what is just;
 \q1 for my salvation is near, and my righteousness is about to be revealed.
 
 
  \q1
-\v 2 Blessed is the man that does this, and whoever who holds it tightly. 
+\v 2 Blessed is the man that does this, and who holds it tightly.
 \q1 He observes the Sabbath, not defiling it, and keeps his hand from doing any evil."
 </usfm>
 
@@ -62,7 +61,7 @@
 ===== translationNotes: =====
 
   * **for my salvation is near, and my righteousness is about to be revealed.** - This can be stated in active form. AT: "I will soon save you and show you that I am righteous" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **whoever who holds it tightly** - AT: "whoever is careful to always do this" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **who holds it tightly** - Here "holds it tightly" is an idiom that means to continue to observe something. AT: "who is careful to always do this" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **keeps his hand from doing any evil** - Here "hand" refers to the person's actions or behaviors. AT: "does not do evil things" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
@@ -72,6 +71,6 @@
   * [[:en:bible:questions:comprehension:isa:56]]
 **[[:en:bible:notes:isa:55:12|<<]] | [[:en:bible:notes:isa:56:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

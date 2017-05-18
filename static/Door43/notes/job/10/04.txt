@@ -28,7 +28,6 @@
 \q1
 \v 7 You know that I am not guilty,
 \q2 and that no one can rescue me from your power.
-\b
 
 
 \q1
@@ -49,7 +48,7 @@
 \q
 \v 7 although you know I am not guilty
 \q and there is no one who can rescue me from your hand?
-\b
+\m
 </usfm>
 
 ===== translationWords: =====
@@ -62,12 +61,14 @@
   
 ===== translationNotes: =====
 
-  * **Do you have eyes of flesh? Do you see like a man sees?** - Job says the same thing twice for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Do you have eyes of flesh?** - "You do not have eyes like a man." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Do you see like a man sees?** - "Your understanding is greater than our own." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Are your days like the days of mankind ... your years like the years of people** - Both of these lines have the same meaning. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **that you inquire after my iniquity ... search after my sin** - Both of these lines have the same meaning. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **from your hand** - "from your power." (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Do you have eyes of flesh? Do you see like a man sees?** - These two questions have nearly the same meaning. These questions expect a negative answer to emphasize that God does not see or understand things the same way a man does. They can be expressed as statements. AT: "You do not have eyes of flesh, and you do not see like a man sees." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Are your days like the days of mankind or your years like the years of people ... and there is no one who can rescue me from your hand?** - This question expects a negative answer to emphasize that God is eternal and man's days are limited. It can be expressed as a statement. AT: "Your days are not like the days of mankind and your years are not like the years of people ... and there is no one who can rescue me from your hand." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **your days like the days of mankind ... your years like the years of people** - These two phrases have nearly the same meaning. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **your days** - "the number of your days"
+  * **your years** - "the number of your years" 
+  * **inquire after my iniquity ... search after my sin** - These two phrases have nearly the same meaning. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **inquire after** - "seek after"
+  * **from your hand** - Here "your hand" represents God's power. AT: "from your power" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -76,6 +77,6 @@
   * [[:en:bible:questions:comprehension:job:10]]
 **[[:en:bible:notes:job:10:01|<<]] | [[:en:bible:notes:job:10:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit inquire}}
+~~DISCUSSION~~{{tag>publish p2pass inquire}}
 
 ~~NOCACHE~~

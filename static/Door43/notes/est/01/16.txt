@@ -35,9 +35,12 @@
 
 ===== translationNotes: =====
 
-  * **Memucan** - (See: [[:en:ta:vol1:translate:translate_names]])
-  * **provinces** - Use the same word or phrase used in [[:en:bible:notes:est:01:01|Esther 1:1]].
- 
+  * **Memucan** - Translate his name as in [[:en:bible:notes:est:01:13|1:14]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **all the officials and all the people ... all the provinces ... all women** - These are exaggerations to emphasize the damage that the queen's refusal caused. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **provinces** - A "province" is a large area into which some countries are divided for the purposes of government. Translate this as in [[:en:bible:notes:est:01:01|1:1]].
+  * **There will be much contempt and anger** - "They will be angry with their husbands and treat them with contempt"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -45,6 +48,6 @@
   * [[:en:bible:questions:comprehension:est:01]]
 **[[:en:bible:notes:est:01:13|<<]] | [[:en:bible:notes:est:01:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit queen}}
+~~DISCUSSION~~{{tag>publish p2pass queen}}
 
 ~~NOCACHE~~

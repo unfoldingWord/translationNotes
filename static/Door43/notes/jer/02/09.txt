@@ -28,7 +28,6 @@
 \v 9 So I, Yahweh, will accuse you in court.
 \q1 In future years, I will also bring your children and your grandchildren to trial!
 \q1 That will happen because I, Yahweh, have said that it will happen.
-\b
 \q1
 \v 10 If you go west to the island of Cyprus,
 \q2 or if you go east to Kedar land,
@@ -51,7 +50,7 @@
 \q
 \v 9 So I will still accuse you—this is Yahweh's declaration—and I will accuse your sons' sons.
 \q
-\v 10 For cross over to the coasts of Kittim and look. Send messengers out to Kedar and find out 
+\v 10 For cross over to the coasts of Kittim and look. Send messengers out to Kedar and find out
 \q and see if there has ever before been anything like this.
 \q
 \v 11 Has a nation exchanged gods, even though they were not gods?
@@ -73,15 +72,16 @@
 
 ===== translationNotes: =====
 
-  * **So I will still accuse you** - "Therefore, I will still accuse the house of Israel" ((See: [[:en:ta:vol1:translate:figs_you]]) 
-  * **Yahweh's declaration** - See how this is translated in [[:en:bible:notes:jer:01:07|1:8]]
+  * **So I will still accuse you** - Yahweh is speaking to the people of Israel.
+  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
   * **your sons' sons** - "your future generations"
-  * **cross over to the coasts of Kittim** - "travel across the ocean and to the island of Kittim" (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Kittim** - Cyprus (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Kedar** - a land far to the east of Israel (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Has a nation exchanged gods ... gods?** - "You will see that no nation has ever exchanged ... gods." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **their glory** - This expression refers to God himself, who was the "glory" of the people of Israel. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **what cannot help them** - "gods who cannot help them"
+  * **cross over to the coasts of Kittim** - Kittim was an island west of Israel. Today it is called Cyprus. It represented all the lands far to the west of Israel. AT: "Go west across the ocean to Kittim" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Send messengers out to Kedar** - Kedar is the name of a land far to the east of Israel. AT: "Send messengers far east to the land of Kedar" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Has a nation exchanged gods ... gods?** - God uses this question to tell the people of Israel that other nations continue to worship their own gods. They do not change and worship other gods. AT: "You will see that no nation has ever exchanged ... gods." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **But my people have exchanged their glory for what cannot help them** - Here God speaks as though he were not speaking directly to his people. AT: "But you, my people, have exchanged me, your glorious God, for what cannot help you" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **their glory** - This expression refers to God himself, who is glorious. AT: "their glorious God" or "me, your glorious God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **for what cannot help** - Here false gods are spoken of in terms of what they cannot do. AT: "for false gods, which cannot help" or "gods who cannot help" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
  
 ===== Links: =====
 
@@ -96,6 +96,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish accuse p2edit}}
+{{tag>publish accuse p2check}}
 
 ~~NOCACHE~~

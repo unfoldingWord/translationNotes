@@ -19,12 +19,12 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 Choose what I teach you, 
-\q2 instead of trying to get much silver; 
+\v 10 Choose what I teach you,
+\q2 instead of trying to get much silver;
 \q1 and choose the knowledge I will show you, for it is more valuable than gold.
 \q2
 \v 11 For I, Wisdom, am more precious than jewels;
-\q2 nothing you desire is as valuable as I am.
+\q2 nothing is as valuable for you as I am.
 
 
 \q1
@@ -35,11 +35,11 @@
 
 <usfm>
 \q
-\v 10 Choose my instruction over silver
-\q and knowledge rather than pure gold.
+\v 10 Acquire my instruction rather than silver;
+\q acquire knowledge rather than pure gold.
 \q
-\v 11 For I, Wisdom, am better than jewels;
-\q nothing that you desire can compare with me.
+\v 11 For Wisdom is better than jewels;
+\q no treasure is equal to her.
 </usfm>
 
 
@@ -54,21 +54,19 @@
 
 ===== translationNotes: =====
 
-  * **Choose my instruction over silver** - AT: "Desire what I teach more than silver"
+  * **Acquire my instruction rather than silver** - "You should try much harder to understand my instructions than to get silver"
+  * **For Wisdom is better than jewels; no treasure is equal to her** - Here Wisdom, personified as a woman, is not speaking. However, it is possible to make Wisdom the speaker here as well. AT: "For I, Wisdom, am better than jewels; no treasure is equal to me" (See: [[:en:ta:vol2:translate:figs_quotations]])
 
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
   * [[:en:bible:notes:pro:08:00]]
   * [[:en:bible:questions:comprehension:pro:08]]
-
- 
-
 **[[:en:bible:notes:pro:08:08|<<]] | [[:en:bible:notes:pro:08:12|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit }}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

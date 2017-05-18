@@ -27,7 +27,7 @@
 
 <usfm>
 \q1
-\v 11 See, they will be ashamed and disgraced, all who have been angry with you; 
+\v 11 See, they will be ashamed and disgraced, all who have been angry with you;
 \q1 they will be as nothing and will perish, those who oppose you.
 </usfm>
 
@@ -42,8 +42,10 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **they will** - "the people of the nations will"
+  * **they will be ashamed and disgraced, all who have been angry with you** - "all who have been angry with you will be ashamed and disgraced"
   * **ashamed and disgraced** - These two words mean basically the same thing and emphasize the greatness of their shame. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **they will be as nothing and will perish, those who oppose you** - "those who oppose you will be as nothing and will perish"
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -57,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

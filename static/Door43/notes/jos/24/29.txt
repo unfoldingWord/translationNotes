@@ -37,8 +37,9 @@
 
 ===== translationNotes: =====
 
-  * **Timnath Serah ... Mount Gaash** - names of places (See: [[:en:ta:vol1:translate:translate_names]])
   * **110 years old** - "one hundred and ten years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Timnath Serah ... Mount Gaash** - names of places (See: [[:en:ta:vol1:translate:translate_names]])
+
  
  
 ===== Links: =====
@@ -51,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

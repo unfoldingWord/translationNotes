@@ -31,8 +31,11 @@
 
 ===== translationNotes: =====
 
- 
+  * **house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate as in [[:en:bible:notes:ezk:03:16|3:1]]. AT: "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **Are my ways unfair?** - Yahweh asks this rhetorical question to emphasize the negative answer. AT: "My ways are not unfair." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Is it not your ways that are unfair?** - Yahweh asks this rhetorical question to emphasize the positive answer. AT: "It is your ways that are unfair." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **dies because of them ... die in the iniquity that he has done** - These phrases repeat the thought of a man dying because of his sin to express that it was his fault and the fault of no one else. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -40,6 +43,6 @@
   * [[:en:bible:questions:comprehension:ezk:18]]
 **[[:en:bible:notes:ezk:18:24|<<]] | [[:en:bible:notes:ezk:18:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

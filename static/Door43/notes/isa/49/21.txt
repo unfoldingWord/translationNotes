@@ -26,7 +26,6 @@
 \q2 We were left here alone;
 \q1 so we do not know where all these children have come from!
 \q2 Who raised them?'"
-\b
 
 
 \p
@@ -37,9 +36,9 @@
 
 <usfm>
 \q1
-\v 21 Then you will ask yourself, 'Who has borne these children for me? 
-\q1 I was bereaved and barren, exiled and divorced. 
-Who has raised these children? 
+\v 21 Then you will ask yourself, 'Who has borne these children for me?
+\q1 I was bereaved and barren, exiled and divorced.
+Who has raised these children?
 \q1 Look, I was left all alone; where did these come from?'"
 </usfm>
 
@@ -54,12 +53,13 @@ Who has raised these children?
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking to Zion as if it were a person.
+  * **General Information:** - Yahweh continues speaking to Zion as if it were a woman. (See: [[:en:ta:vol2:translate:figs_personification]])
 
-  * **Who has borne these children for me?** - Zion uses a question to emphasize that she is surprised that so many children now belong to her. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who has borne these children for me?** - Zion speaks of the people who are returning to inhabit the city as if those people were her children. Zion's question expresses her surprise that so many children now belong to her. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **I was bereaved and barren, exiled and divorced** - Zion describes herself as a woman incapable of having more children. She indicates the reasons for her great surprise. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **I was bereaved and barren** - "I was mourning over my dead children and unable to have more"
   * **exiled and divorced** - "I was sent away, without a husband"
-  * **Who has raised these children? Look, I was left all alone; where did these come from?** - Again, Zion uses questions to emphasize her surprise. AT: "Look, I was left all alone; now all of these children that I did not raise have come to me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who has raised these children? Look, I was left all alone; where did these come from?** - Again, Zion uses questions to expresses her surprise. AT: "Look, I was left all alone; now all of these children that I did not raise have come to me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -68,6 +68,6 @@ Who has raised these children?
   * [[:en:bible:questions:comprehension:isa:49]]
 **[[:en:bible:notes:isa:49:19|<<]] | [[:en:bible:notes:isa:49:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

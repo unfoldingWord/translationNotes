@@ -20,7 +20,7 @@
 
 <usfm>
 \v 11 Then Daniel spoke to the steward whom the chief official had assigned over Daniel, Hananiah, Mishael, and Azariah.
-\v 12 He said, "Please test us, your servants, for ten days. Give us only some vegetables to eat and water to drink. 
+\v 12 He said, "Please test us, your servants, for ten days. Give us only some vegetables to eat and water to drink.
 \v 13 Then compare our appearance with the appearance of the young men who eat the king's delicacies, and treat us, your servants, based on what you see."
 </usfm>
 
@@ -33,8 +33,7 @@
 
 ===== translationNotes: =====
 
-  * **compare our appearance with the appearance of** - Daniel was asking the steward to compare what he and his friends looked like with the other young men. AT:"compare what we look like with"
-
+  * **compare our appearance with the appearance** - Daniel asked the steward to see if he and his friends looked worse than the other young men. AT:"compare our appearance to see if it is worse than the appearance"
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -42,6 +41,6 @@
   * [[:en:bible:questions:comprehension:dan:01]]
 **[[:en:bible:notes:dan:01:08|<<]] | [[:en:bible:notes:dan:01:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit chief}}
+~~DISCUSSION~~{{tag>publish p2pass chief}}
 
 ~~NOCACHE~~

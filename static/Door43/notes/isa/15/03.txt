@@ -26,7 +26,6 @@
 \q2 people as far away as the town of Jahaz in the south will hear them wailing.
 \q1 Therefore the soldiers of Moab will tremble and cry out,
 \q2 and they will be very afraid.
-\b
 
 
 \q1
@@ -36,10 +35,10 @@
 
 <usfm>
 \q1
-\v 3 In their streets they wear sackcloth; on their housetops 
+\v 3 In their streets they wear sackcloth; on their housetops
 \q1 and in the square everyone wails, melting in tears.
 \q1
-\v 4 Heshbon and Elealeh call out for help; their sound is heard as far as Jahaz. 
+\v 4 Heshbon and Elealeh call out for help; their sound is heard as far as Jahaz.
 \q1 So the armed men of Moab call out for help; they tremble within themselves.
 </usfm>
 
@@ -51,10 +50,10 @@
 
   * **General Information:** - This continues the prophecy about the people of Moab. God describes events that will happen in the future as if it is happening in the present. (See: [[:en:bible:notes:isa:15:01|15:1-2]])
 
-  * **Heshbon and Elealeh** - This refers to "The people of Heshbon and Elealeh." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they wear sackcloth** - They do this to show their extreme sadness. AT: "they wear sackcloth and mourn" (See: [[:en:ta:vol2:translate:translate_symaction]])
   * **Heshbon ... Elealeh ... Jahaz** - These are names of cities and towns. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Heshbon and Elealeh call out** - These city names represent the people of these cities. "The people of Heshbon and Elealeh call out" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **they tremble within themselves** - Physical trembling is a symptom of fear. AT: "they will be completely filled with fear" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:15]]
 **[[:en:bible:notes:isa:15:01|<<]] | [[:en:bible:notes:isa:15:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

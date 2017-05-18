@@ -37,8 +37,9 @@
 ===== translationNotes: =====
 
   * **these same three men** - Noah, Daniel, and Job
-  * **as I live, declares the Lord Yahweh** - This can be reordered: "the Lord Yahweh declares. "as I live"
-  * **only their own lives would be rescued** - "Yahweh would only rescue their lives" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **as I live** - "as surely as I am alive." Yahweh uses this expression to show that what he says next is certainly true. This is a way of making a solemn promise. Translate as in [[:en:bible:notes:ezk:05:11|5:11]]. AT: "I solemnly swear" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **only their own lives would be rescued** - This can be stated in active form. AT: "they could only rescue their own lives" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:ezk:14]]
 **[[:en:bible:notes:ezk:14:12|<<]] | [[:en:bible:notes:ezk:14:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

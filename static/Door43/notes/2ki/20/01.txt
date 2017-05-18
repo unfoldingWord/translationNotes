@@ -32,7 +32,7 @@
 \p
 \v 1 In those days Hezekiah was sick to the point of dying. So Isaiah son of Amoz, the prophet came to him, and said to him, "Yahweh says, 'Set your house in order; for you will die, and not live.'"
 \v 2 Then Hezekiah turned his face to the wall and prayed to Yahweh, saying,
-\v 3 "Please, Yahweh, call to mind how I have faithfully walked before you with my whole heart, and how I have done what was good in your sight." And Hezekiah wept loudly.
+\v 3 "Please, Yahweh, call to mind how I have faithfully walked before you with my whole heart, and how I have done what was good in your sight." Then Hezekiah wept loudly.
 </usfm>
 
 
@@ -53,29 +53,24 @@
   * [[:en:obe:kt:walk]]
   * [[:en:obe:other:heart]]
  
-
 ===== translationNotes: =====
 
+  * **Set your house in order** - "House" is metonymy for what was under Hezekiah's control. AT: "Give final instructions to your household and government" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **call to mind** - This is a common way of speaking, an idiom, urging Yahweh to remember. AT: "remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **walked** - To "walk" is metonymy for the conduct of life. AT: "lived my life" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **good in your sight** - Here sight represents judgment or evaluation. AT: "in your judgment" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
-  * **Set your house in order** - "Give final instructions to your household"
-  * **call to mind** - "remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **walked** - "lived my life" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **good in your sight** - "pleasing to you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
- 
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
   * [[:en:bible:notes:2ki:20:00]]
   * [[:en:bible:questions:comprehension:2ki:20]]
 
- 
-
 **[[:en:bible:notes:2ki:19:35|<<]] | [[:en:bible:notes:2ki:20:04|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit isaiah}}
+{{tag>publish p2pass isaiah}}
 
 ~~NOCACHE~~

@@ -14,8 +14,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 16 Inside the back part of the temple they built an inner room, called the very holy place. It was about nine meters long. All the walls of this room were lined with cedar boards.
-\v 17 In front of the very holy place was a room that was about eighteen meters long.
+\v 16 Inside the back part of the temple they built an inner room, called the very holy place. It was nine meters long. All the walls of this room were lined with cedar boards.
+\v 17 In front of the very holy place was a room that was eighteen meters long.
 \v 18 The cedar boards on the walls inside the temple were decorated with carvings of gourds and flowers. The walls were completely covered with cedar boards, with the result that the stones of the walls behind them could not be seen.
 
 
@@ -38,7 +38,8 @@
 
 ===== translationNotes: =====
 
-  * **cubit** - (See: [[:en:ta:vol2:translate:translate_bdistance]])
+  * **He built twenty cubits** - "He built a room twenty cubits long"
+  * **twenty cubits ... forty cubits** - A cubit is 46 centimeters. AT: "9.2 meters ...  18.4 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **main hall** - "main room" 
   * **gourds** - a type of hard, round vegetable that grows on a vine on the ground
   * **open flowers** - "blooming flowers" or "flowers that were open"
@@ -50,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1ki:06]]
 **[[:en:bible:notes:1ki:06:14|<<]] | [[:en:bible:notes:1ki:06:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit holyplace}}
+~~DISCUSSION~~{{tag>publish p2pass holyplace}}
 
 ~~NOCACHE~~

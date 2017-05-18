@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 2 In the town of Maon there was a man who owned land in Carmel, a nearby village. He was very rich; he owned three thousand sheep and thousand goats.
+\v 2 In the town of Maon there was a very rich man. This man kept his property and livestock in a town nearby that is called Carmel. He had much property and livestock and he owned three thousand sheep and one thousand goats. Carmel is where he sheared his sheep.
 \v 3 His name was Nabal; he was a descendant of Caleb. His wife Abigail was a wise and beautiful woman, but Nabal was very cruel and treated people very unkindly.
 
 
@@ -45,12 +45,15 @@
 
 ===== translationNotes: =====
 
-  * **There was a man in Maon, whose possessions were in Carmel. The man was very wealthy. He had three thousand sheep and one thousand goats. He was shearing his sheep in Carmel. The man's name was Nabal, and the name of his wife was Abigail. The woman was intelligent and beautiful in appearance. But the man was harsh and evil in his dealings. He was a descendant of the house of Caleb.** - Some translators may need to put these ideas in a different order. AT: "There was a man whose name was Nabal, a descendant of the house of Caleb, who was very wealthy. He lived in Maon, but his possessions were in Carmel: he had three thousand sheep and one thousand goats. The man was harsh and evil in his dealings. The name of his wife was Abigail. The woman was intelligent and beautiful in appearance. Now he was shearing his sheep in Carmel."
-  * **Maon** - town name (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Carmel** - town name. This is different from Mount Carmel. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **There was a man in Maon, whose possessions were in Carmel. The man was very wealthy. He had three thousand sheep and one thousand goats. He was shearing his sheep in Carmel. The man's name was Nabal, and the name of his wife was Abigail. The woman was intelligent and beautiful in appearance. But the man was harsh and evil in his dealings. He was a descendant of the house of Caleb.** - Some translators may need to put the ideas in these verses in a different order. AT: "There was a man whose name was Nabal, a descendant of the house of Caleb, who was very wealthy. He lived in Maon, but his possessions were in Carmel. He had three thousand sheep and one thousand goats. The man was harsh and evil in his dealings. The name of his wife was Abigail. The woman was intelligent and beautiful in appearance. Now he was shearing his sheep in Carmel." (See: [[:en:ta:vol2:translate:translate_versebridge]])
+  * **Maon** - This is the name of a town. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Carmel** - This is the name of a town. This is different from Mount Carmel. (See: [[:en:ta:vol1:translate:translate_names]])
   * **three thousand** - 3,000 (See [[:en:ta:vol2:translate:translate_numbers]])
   * **one thousand** - 1,000 (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **shearing his sheep** - "shaving the wool off his sheep"
+  * **Nabal** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Abigail** - This is the name of a woman. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **He was a descendant of the house of Caleb** - Here "house" represents family. AT: "He was a descendant of the family of Caleb" or "He was a descendant of Caleb" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -62,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

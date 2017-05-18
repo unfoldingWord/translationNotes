@@ -42,11 +42,11 @@
 <usfm>
 \q1
 \v 14 Instead they will swoop down on the Philistine hills on the west, and together they will plunder the people of the
-east. 
+east.
 \q1 They will attack Edom and Moab, and the people of Ammon will obey them.
 \q1
 \v 15 Yahweh will completely destroy the gulf of the Sea of Egypt. With his scorching wind he will wave his hand over
-the Euphrates River 
+the Euphrates River
 \q1 and will divide it into seven streams, so it can be crossed over in sandals.
 </usfm>
 
@@ -66,7 +66,11 @@ the Euphrates River
 
 ===== translationNotes: =====
 
-  * **the gulf of the Sea of Egypt** - A "gulf" is a large area of water that land partly surrounds. AT: "where the Sea of Egypt meets the land"
+  * **they will swoop down on the Philistine hills** - The people of Israel and Judah are  pictured as if they were birds that fly down quickly to attack a person or animal. AT: "they will go quickly to the Philistine hills to attack the people there" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **the gulf of the Sea of Egypt** - A "gulf" is a large area of water that land partly surrounds.
+  * **With his scorching wind he will wave his hand over the Euphrates River** - Waving his hand over something represents his power to change it. AT: "By his power he will cause a scorching wind to blow on the Euphrates River" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **his scorching wind** - This is a strong or hot wind that causes some of the water in rivers to dry up.
+  * **so it can be crossed over in sandals** - "so that people can cross over it even while wearing their sandals"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -80,6 +84,6 @@ the Euphrates River
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit edom}}
+{{tag>publish p2pass edom}}
 
 ~~NOCACHE~~

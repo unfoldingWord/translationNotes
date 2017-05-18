@@ -27,10 +27,9 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 12 Who has measured the waters in the hollow of his hand, measured the span of the sky,
-\q1 held the dust of the earth in a basket, weighed the mountains in scales, 
+\v 12 Who has measured the waters in the hollow of his hand, measured the sky with the span of his hand,
+\q1 held the dust of the earth in a basket, weighed the mountains in scales,
 \q1 or the hills in a balance?
 </usfm>
 
@@ -42,8 +41,13 @@
 
 ===== translationNotes: =====
 
-  * **Who has measured ... or the hills in a balance?** - These questions emphasize Yahweh's endless power and wisdom. AT: "No one but Yahweh has measured ... and the hills in a balance." (See: [[ en:ta:vol1:translate:figs_rquestion]])
-  * **the span of the sky** - "the width of the sky"
+  * **Who has measured ... or the hills in a balance?** - These rhetorical questions anticipate a negative answer and emphasize that only Yahweh is able to do these things. AT: "No one but Yahweh has measured ... and the hills in a balance." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **measured the waters in the hollow of his hand** - Yahweh knowing how much water is in the oceans is spoken of as if Yahweh held the water in his hand. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **measured the sky with the span of his hand** - A "span" is the measure of length between the thumb and little finger when the hand is outstretched. Yahweh knowing the length of the sky is spoken of as if he measured it with his hand. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **held the dust of the earth in a basket** - Yahweh knowing how much dust there is on the earth is spoken of as if he carried it in a basket. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **weighed the mountains in scales, or the hills in a balance?** - Yahweh knowing how heavy the mountains are is spoken of as if he weighed them in scales and balances. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -51,6 +55,6 @@
   * [[:en:bible:questions:comprehension:isa:40]]
 **[[:en:bible:notes:isa:40:11|<<]] | [[:en:bible:notes:isa:40:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

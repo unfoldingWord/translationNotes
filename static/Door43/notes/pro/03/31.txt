@@ -17,10 +17,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 31 Do not envy a person who does violence to others, 
+\v 31 Do not envy a person who does violence to others,
 \q2 and do not imitate anything he does.
 \q1
-\v 32 A lying person is hated by Yahweh for what he does, 
+\v 32 A lying person is hated by Yahweh for what he does,
 \q2 but Yahweh is a close friend to anyone who lives rightly.
 
 
@@ -44,16 +44,15 @@
 
   * [[:en:obe:other:envy]]
   * [[:en:obe:kt:yahweh]]
+  * [[:en:obe:kt:upright]]
   * [[:en:obe:kt:confidence]] 
 
 ===== translationNotes: =====
 
-
-  * **devious** - going away from the proper way; lying
-  * **detestable** - a person who should be hated
-  * **he brings the upright person into his confidence** - Yahweh shares his thoughts with the those who do right as with a close, trusted friend.
-  * **the upright person** - "the righteous person" or "the honest person" or "the just person" 
- 
+  * **Do not ... choose any of his ways** - It is implied that he is not to choose to imitate the actions of the violent person. AT: "Do not ... choose to imitate any of his ways" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the devious person is detestable to Yahweh** - "Yahweh detests the devious person"
+  * **the devious person** - the person who is dishonest or deceitful
+  * **he brings the upright person into his confidence** - Yahweh shares his thoughts with the those who do right as with a close, trusted friend. AT: "Yahweh is a close friend to the upright" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -68,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit envy}}
+{{tag>publish p2pass envy upright}}
 
 ~~NOCACHE~~

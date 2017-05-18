@@ -22,7 +22,7 @@
 \p
 \v 9 Haman went out that day joyful and glad at heart. But when Haman saw Mordecai at the king's gate, that Mordecai neither rose up nor trembled before him with any fear, he was filled with rage against Mordecai.
 \v 10 Nevertheless, Haman restrained himself and went to his own house. He sent for his friends and gathered them together, with Zeresh his wife.
-\v 11 Haman recounted to them the splendor of his riches and the number of his many sons, how he had advanced above all the officials and the servants of the king.
+\v 11 Haman recounted to them the splendor of his riches, the number of his many sons, all the promotions by which the king honored him, and how he had advanced above all the officials and the servants of the king.
 </usfm>
 
 ===== translationWords: =====
@@ -36,9 +36,14 @@
 
 ===== translationNotes: =====
 
-  * **rage** - "great anger"
-  * **Zeresh** - (See: [[:en:ta:vol1:translate:translate_names]])
-
+  * **Mordecai neither rose up** - Rising was a sign of respect. Mordecai did not give Haman special respect. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **he was filled with rage** - Being "filled with rage" represents being very angry. AT: he was extremely angry" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Nevertheless** - This can be translated with a phrase. "Even though he was so angry"
+  * **Haman restrained himself** - Restraining himself represents refusing to do something that he wanted very much to do. Haman wanted to show Mordecai that he was very angry. AT: "Haman refused to show how angry he was" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Zeresh** - This is a woman's name. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Haman recounted to them the splendor of his riches** - "Splendor" and "riches" are both abstract nouns. AT: "Haman told them about how great his wealth was" or "Haman told them about the many great things he owned" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **all the promotions by which the king honored him** - The abstract noun "promotion" can be expressed with the verb "promote." It means that the king gave him more important work. AT: "How the king had promoted him many times and honored him" or "how the king had honored him many times by giving him more important work" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **how he had advanced above all the officials and the servants of the king** - Advancing above people represents becoming more important than them. AT: "how he had become more important than all the officials and the servants of the king" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -46,6 +51,6 @@
   * [[:en:bible:questions:comprehension:est:05]]
 **[[:en:bible:notes:est:05:07|<<]] | [[:en:bible:notes:est:05:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

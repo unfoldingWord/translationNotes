@@ -24,9 +24,9 @@
 
 <usfm>
 \p
-\v 43 Then I said about the one worn out by acts of adultery, 'Now they will be sexually immoral with her, and she will be sexually immoral with them.'
-\v 44 Then they went and slept her as they would any prostitute; in the same way they slept with Oholah and Oholibah, women guilty of prostitution.
-\v 45 But righteous men will condemn them to punishment for adultery and to punishment for one who pours out blood, since they have committed adultery and have blood on their hands.
+\v 43 Then I said of her who was worn out by adultery, 'Now they will be sexually immoral with her, and she with them.'
+\v 44 They went in to her and slept with her as men go in to be with a prostitute. In this way they slept with Oholah and Oholibah, who were immoral women.
+\v 45 But righteous men will pass judgment and punish them as adulteresses, and they will punish them with the sentence for those who shed blood, because they are adulteresses and blood is on their hands.
 </usfm>
 
 ===== translationWords: =====
@@ -42,9 +42,16 @@
 
 ===== translationNotes: =====
 
-  * **the one worn out by acts of adultery** - Ezekiel refers to Oholah and Ohobilah with a description. 
-  * **as they would any prostitute** - AT: "as they would penetrate any prostitute"
-  * **have blood on their hands** - This phrase uses evidence of violence to say they are guilty of violence. 
+  * **General Information:** - Yahweh continues to refer to the cities of Jerusalem and Samaria as if they were two prostitutes. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+  * **her who was worn out ... with her, and she with them** - This refers to one of the sisters but the situation is probably the same for both sisters. If one sister must be specified in your language, refer to Oholibah here.
+  * **They went in to her and slept with her as men go in to be with a prostitute** - This compares the way men slept with her to the way men sleep with a prostitute. AT: "They slept with her in the same way that men sleep with a prostitute" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **They went in to her** - "They went in to where she was" or "They went to her" 
+  * **In this way they slept with Oholah and Oholibah** - "This is how they slept with Oholah and Oholibah" 
+  * **pass judgment** - This is an idiom. AT: "will condemn them" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **who shed blood ... blood is on their hands** - This is an idiom. AT: "who murder people ... murderers" (See: [[:en:ta:vol1:translate:figs_idiom]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -52,6 +59,6 @@
   * [[:en:bible:questions:comprehension:ezk:23]]
 **[[:en:bible:notes:ezk:23:42|<<]] | [[:en:bible:notes:ezk:23:46|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

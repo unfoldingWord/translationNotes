@@ -23,7 +23,6 @@
 <usfm>
 \v 16 Wicked people think that they have become prosperous because of what they have done,
 \q2 but I do not want to have anything to do with their thinking.
-\b
 \q1
 \v 17 How often does it happen that wicked people die,
 \q2 without experiencing disasters?
@@ -43,7 +42,6 @@
 \q
 \v 16 See, is not their prosperity in their own hands?
 \q I have nothing to do with the advice of wicked people.
-\b
 \q
 \v 17 How often is it that the lamp of wicked people is put out,
 \q or that their calamity comes upon them?
@@ -66,11 +64,15 @@
 
 ===== translationNotes: =====
 
-  * **See, is not their prosperity in their own hands?** - Here "hand" refers to power or control. Job uses a question for emphasis. AT: "Look, these wicked people claim that they make themselves prosper" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **How often is it ... How often does it happen** - Job uses three questions to emphasize that it seems to him that God does not punish the wicked very often. AT: "It is not often ... It is not often"
-  * **that the lamp of wicked people** - Job compares the life of the wicked to a lamp that is burning. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the lamp of wicked people is put out** - Job compares extinguishing the lamp to a person dying. AT: "that God causes them to die suddenly" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **they become like stubble before the wind or like chaff that the storm carries away** - AT: "God takes them away like the wind blows away the chaff" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Connecting Statement:** - Job continues speaking to his friends.
+
+  * **See, is not their prosperity in their own hands?** - Here "hands" refers to their power or control. Job uses this question to challenge his friends. AT: "Look, these wicked people claim that they make themselves prosper!" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **How often is it ... their calamity comes upon them?** - Job uses this question to emphasize that it seems to him that God does not punish the wicked very often. AT: "It is not often ... their calamity comes upon them." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the lamp of wicked people is put out** - Job compares extinguishing the lamp to a person dying. This can be stated in active form. AT: "that God causes them to die suddenly" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the lamp of wicked people** - Job compares the life of the wicked to a lamp that is burning. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **How often does it happen ... in his anger?** - Job uses this second question to emphasize that it seems to him that God does not punish the wicked very often. AT: "It is not often ... in his anger." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **How often is it ... the storm carries away?** - Job uses this third question to emphasize that it seems to him that God does not punish the wicked very often. AT: "It is not often ... the storm carries away?" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **they become like stubble before the wind or like chaff that the storm carries away** - The death of the wicked is spoken of as if they were worthless less chaff and stubble that blows away. This can be stated in active form. AT: "God takes them away like the wind blows away the chaff" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
@@ -80,6 +82,6 @@
   * [[:en:bible:questions:comprehension:job:21]]
 **[[:en:bible:notes:job:21:13|<<]] | [[:en:bible:notes:job:21:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit chaff}}
+~~DISCUSSION~~{{tag>publish p2check chaff}}
 
 ~~NOCACHE~~

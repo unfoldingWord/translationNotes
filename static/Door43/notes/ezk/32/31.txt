@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 31 The king of Egypt and all his army will see them, and they will be comforted about the death of their servants, because they know that there were other huge groups of people whom their enemies killed.
+\v 31 The king of Egypt and all his army will see them, and they will be comforted about the death of their many people, because they know that there were other huge groups of people whom their enemies killed.
 \v 32 While that king was living, I allowed him to terrify others in many countries, but he and his huge army will be there among other godless people whom their enemies have killed." This will certainly surely happen because the Lord Yahweh has said that it would happen.
 </usfm>
 
@@ -18,8 +18,8 @@
 
 <usfm>
 \p
-\v 31 Pharaoh will look and be comforted about all his servants who were killed by the sword—this is the Lord Yahweh's declaration.
-\v 32 I made him cause terror in the land of the living, but he will lie down in the midst of the uncircumcised, among those killed by the sword—this is the Lord Yahweh's declaration."
+\v 31 Pharaoh will look and be comforted about all his multitudes who were pierced by the sword—Pharaoh and all his army—this is the Lord Yahweh's declaration.
+\v 32 I put him as my terrifying one in the land of the living, but he will be laid down in the midst of the uncircumcised, among those pierced by the sword, Pharaoh and all his multitudes—this is the Lord Yahweh's declaration."
 </usfm>
 
 ===== translationWords: =====
@@ -32,12 +32,13 @@
 
 ===== translationNotes: =====
 
-  * **Pharaoh will look** - AT: "Pharaoh will see all the dead people from other nations." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Pharaoh will look** - It can be made explicit who Pharaoh will see. AT: "Pharaoh will see all the dead people from other nations." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **and be comforted about all his servants** - It is implied that Pharaoh will be comforted because the armies of other great kings also died. AT "and will comfort himself that he was not the only king whose entire army died." (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **who were killed by the sword** - See how you translated "who had been killed by the sword" in [[:en:bible:notes:ezk:31:17|31:17]].
-  * **this is the Lord Yahweh's declaration** - See how you translated this in [[:en:bible:notes:ezk:05:11|5:11]].
-  * **I made him cause terror in the land of the living** - AT: "While Pharaoh was still alive, I allowed him to terrify people"
-  * **he will lie down in the midst of the uncircumcised** - Here "lie down" refers to his body being place in the grave when he dies. AT: "his dead body will be buried with those who are not circumcised"
+  * **who were killed by the sword** - Translate "who had been killed by the sword" as in [[:en:bible:notes:ezk:31:17|31:17]].
+  * **I made him cause terror in the land of the living** - "While Pharaoh was still alive, I made him to terrify people"
+  * **he will be laid down in the midst of the uncircumcised** - This can be put in active form. AT: "Others will lay him in the midst of the uncircumcised" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:ezk:32]]
 **[[:en:bible:notes:ezk:32:30|<<]] | [[:en:bible:notes:ezk:33:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

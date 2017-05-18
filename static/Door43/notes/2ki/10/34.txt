@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 34 As for the other matters concerning Jehu, and all that he did, and all his power, are they not written in The Book of the Events of the Kings of Israel?
+\v 34 As for the other matters concerning Jehu, and all that he did, and all his power, are they not written in the book of the events of the kings of Israel?
 \v 35 Jehu slept with his ancestors, and they buried him in Samaria. Then Jehoahaz his son became king in his place.
 \v 36 The time that Jehu reigned over Israel in Samaria was twenty-eight years.
 </usfm>
@@ -35,10 +35,11 @@
   * [[:en:obe:other:reign]]
 ===== translationNotes: =====
 
-  * **are they not written in The Book of the Events of the Kings of Israel?** - "They are written in The Book of the Events of the Kings of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Jehu slept with his ancestors, and they buried him in Samaria** - AT: "Jehu died and they buried him in Samaria, where they had also buried his ancestors." (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **Jehoahaz** - (See: [[:en:ta:vol1:translate:translate_names]])
-
+  * **are they not written in The Book of the Events of the Kings of Israel?** - This rhetorical question can be written as a statement. See how this phrase is translated in [[:en:bible:notes:2ki:01:17|1:18]]. AT: "they are written in The Book of the Events of the Kings of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Jehu slept with his ancestors, and they buried him in Samaria** - This means that Jehu died. This speaks of him being buried where his ancestors were buried as if he were sleeping with them. AT: "Jehu died and they buried him in Samaria, where they had also buried his ancestors." (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Jehoahaz** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **The time that Jehu reigned over Israel in Samaria was twenty-eight years** - "Jehu reigned over Israel in Samaria for twenty-eight years" 
+  * **twenty-eight years** - "28 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
 ===== Links: =====
 
   * [[:en:bible:notes:2ki:00:intro]]
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:2ki:10]]
 **[[:en:bible:notes:2ki:10:32|<<]] | [[:en:bible:notes:2ki:11:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

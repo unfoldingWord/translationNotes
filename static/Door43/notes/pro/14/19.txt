@@ -17,12 +17,10 @@
 
 <usfm>
 \v 19 Evil people will bow down before those who are good,
-\q2 and the wicked people will bow down at the gates of those who do right. 
-\b
+\q2 and the wicked people will bow down at the gates of those who do right.
 \q1
 \v 20 The poor are hated even by their own companions,
-\q2 but the rich have many friends. 
-
+\q2 but the rich have many friends.
 
 \q1
 </usfm>
@@ -31,8 +29,8 @@
 
 <usfm>
 \q
-\v 19 Those who are evil will bow down before those who are good
-\q and those who are wicked will bow down at the gates of the righteous.
+\v 19 Evil people will bow down before those who are good
+\q and those who are wicked will bow down at the gates of the righteous person.
 \q
 \v 20 The poor person is hated even by his own companions,
 \q but the rich people have many friends.
@@ -49,9 +47,10 @@
 
 ===== translationNotes: =====
 
-  * **bow down** - This means to bend over to humbly express respect and honor toward someone.
-  * **at the gates of the righteous** - "at the door of the righteous person." This means the wicked will have to wait outside of the righteous person's house and beg to enter.
-  * **The poor person is hated even by his own companions** - AT: "Everyone hates the poor person even his own neighbors" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **bow down** - This means to bend over to humbly express respect and honor toward someone. Here this one action represents all yielding to the more influential person. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **at the gates of the righteous** - The word "gates" represents an entrance to meet with another. This means the wicked will have to wait for the righteous person and beg to enter his presence. AT: "to meet with the righteous person." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **The poor person is hated even by his own companions** - This can be stated in active form. AT: "Everyone hates the poor person even his own neighbors" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -59,6 +58,6 @@
   * [[:en:bible:questions:comprehension:pro:14]]
 **[[:en:bible:notes:pro:14:17|<<]] | [[:en:bible:notes:pro:14:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

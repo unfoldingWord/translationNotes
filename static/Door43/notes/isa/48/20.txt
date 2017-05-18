@@ -32,9 +32,8 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 20 Come out from Babylon! Flee from the Chaldeans! 
+\v 20 Come out from Babylon! Flee from the Chaldeans!
 \q1 With the sound of a ringing cry announce it! Make this known, make it go out to the ends of the earth!
 \q1 Say, 'Yahweh has redeemed his servant Jacob.'
 </usfm>
@@ -53,8 +52,8 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
+  * **to the ends of the earth** - The places on the earth that are very far away are spoken of as if they were the places where the earth ends. This phrase also forms a merism and refers to everywhere in between the ends. AT: "to all the farthest places of the earth" or "to the entire earth" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_merism]])
   * **his servant Jacob** - This refers to the descendants of Jacob. AT: "the people of Israel, his servants" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **to the ends of the earth** - This means to the farthest places. AT: "to the farthest parts of the whole world" (See: [[:en:ta:vol1:translate:figs_idiom]])
  
  
 ===== Links: =====
@@ -70,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

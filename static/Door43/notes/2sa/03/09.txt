@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 9 May God do so to me, Abner, and more also, if I do not do for David as Yahweh has sworn to him, 
+\v 9 May God do so to me, Abner, and more also, if I do not do for David as Yahweh has sworn to him,
 \v 10 to transfer the kingdom from the house of Saul and set up the throne of David over Israel and over Judah, from Dan to Beersheba."
 \v 11 Ishbosheth could not answer Abner another word, because he feared him.
 </usfm>
@@ -40,7 +40,9 @@
 
 ===== translationNotes: =====
 
-  * **throne of David** - This phrase represents the authority of David as king. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **May God do so to me ... and more also, if I do not** - This is the form of a solemn vow in that time. Abner is asking God to judge him severely if he does not keep his vow. Your language may have a way of expressing vows. AT: "I am asking God to punish me if I do not" 
+  * **the house of Saul** - Here "house" refers to Saul's family and supporters who survived Saul's death. AT: "the family and supporters of Saul"
+  * **throne of David** - This phrase refers to the authority of David as king. (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -49,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2sa:03]]
 **[[:en:bible:notes:2sa:03:08|<<]] | [[:en:bible:notes:2sa:03:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

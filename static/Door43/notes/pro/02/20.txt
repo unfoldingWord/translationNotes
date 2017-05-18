@@ -17,12 +17,12 @@
 
 <usfm>
 \v 20 You must live your life in the same way that good men are living.
-\q2 You should do the same things as those who do what is right. 
+\q2 You should do the same things as those who do what is right.
 \q1
-\v 21 Those who do what is right will receive the land as a gift from Yahweh, 
-\q2 and only those who do what they have promised will stay in the land for a long time. 
+\v 21 Those who do what is right will receive the land as a gift from Yahweh,
+\q2 and only those who do what they have promised will stay in the land for a long time.
 \q1
-\v 22 Those who do bad things will have no claim to this land, 
+\v 22 Those who do bad things will have no claim to this land,
 \q2 and people who take advantage of others and do not keep their word, they will never have even a small part of the land.
 </usfm>
 
@@ -31,7 +31,7 @@
 <usfm>
 \q
 \v 20 So you will walk in the way of good people
-\q and follow the paths of those who do right.
+\q and follow the paths of righteous people.
 \q
 \v 21 For those doing right will make a home in the land,
 \q and those with integrity will remain in it.
@@ -46,13 +46,17 @@
   * [[:en:obe:kt:good]]
   * [[:en:obe:other:integrity]]
   * [[:en:obe:kt:evil]]
-  * [[:en:obe:kt:faithless]]
   * [[:en:obe:kt:cutoff]]
+  * [[:en:obe:kt:faithless]]
+ 
 
 ===== translationNotes: =====
 
-  * **So** - because of being watched over and guarded by discretion and understanding ([[:en:bible:notes:pro:02:11|2:12]]) and so having been rescued from evil ways ([[:en:bible:notes:pro:02:16|2:16]]) and kept from the adulterous woman ([[:en:bible:notes:pro:02:20|2:20]])
-  * **the faithless** - "people who do not keep promises"
+  * **So** - The writer tells the result of getting understanding and discretion.
+  * **you will walk in the way ... follow the paths** - A person's conduct is spoken of as if it were walking on a path. AT: "you will live in the way ... follow the example" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the wicked will be cut off from the land** - The writer speaks of Yahweh removing people from the land as if he were cutting the people off, like a person might cut a branch from a tree. This can be stated in active form. AT: "Yahweh will remove the wicked from the land" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the wicked ... the faithless** - These are nominal adjectives that can be stated as adjectives. AT: "those who are wicked ... those who are faithless" or "wicked people ... faithless people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **the faithless will be cut off from it** - The writer speaks of Yahweh removing people from the land as if he were cutting the people off, like a person might cut a branch from a tree. This can be stated in active form. AT: "he will remove the faithless from it" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -61,6 +65,6 @@
   * [[:en:bible:questions:comprehension:pro:02]]
 **[[:en:bible:notes:pro:02:18|<<]] | [[:en:bible:notes:pro:03:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit faithless}}
+~~DISCUSSION~~{{tag>publish p2pass faithless}}
 
 ~~NOCACHE~~

@@ -34,8 +34,9 @@
 ===== translationNotes: =====
 
   * **loyalty** - a strong feeling of support and love
-  * **Is this your loyalty to your friend? Why did you not go with him?** - These rhetorical questions are asked to criticize Hushai. They can be translated as a statement. AT: "You have been loyal to David, so you should be with him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the one whom Yahweh** - Here "the one" is a metony and stands for Absalom. This can be translated "Absalom, whom Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Is this your loyalty to your friend? Why did you not go with him?** - These rhetorical questions are asked to criticize Hushai. They can be translated as a statement. AT: "You have been a loyal friend to David; you should have gone with him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the one whom Yahweh** - Hushai is referring to Absalom.
+  * **the one whom ... that is the man ... with him** - Here Hushai is referring to Absalom in the third person to take emphasize off of him and place it on Yahweh and the people who chose him. This can be written in second person. AT: "you are the one whom ... you are the man ... with you" (See: [[:en:ta:vol2:translate:figs_123person]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -49,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

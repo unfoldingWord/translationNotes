@@ -26,7 +26,7 @@
 \q2 "There is no one like Yahweh!
 \q1 No one else can rescue helpless people from powerful people.
 \q2 No one else can rescue weak and needy people from those who want to rob them."
-\b
+
 
 
 \q1
@@ -57,8 +57,8 @@
  
 ===== translationNotes: =====
 
-  * **in his salvation** - The abstract noun "salvation" can be stated in other forms. AT: "in the salvation that he brings" or "because you save me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **All my bones** - Here "bones" refers to the deepest inner being of a person. AT: "With my whole inner being" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in his salvation** - The abstract noun "salvation" can be stated as a verb. AT: "because you save me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **All my bones** - Here "bones" refers to the deepest inner being of a person. AT: "My whole inner being" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Yahweh, who is like you ... those who try to rob them?** - The implicit answer to this question is that no one is like Yahweh. AT: "Yahweh, there is no one like you ... those who try to rob them." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **the poor and needy** - The words "poor" and "needy" mean basically the same thing and emphasize that Yahweh saves many who need his help. (See: [[:en:ta:vol2:translate:figs_doublet]])
  
@@ -73,6 +73,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book1}}
+{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

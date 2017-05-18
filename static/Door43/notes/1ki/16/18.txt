@@ -27,9 +27,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 18 So when Zimri saw that the city had been taken, he went into the fortress attached to the king's palace and set fire to the building over him; in this way he died in the flames. 
+\v 18 So when Zimri saw that the city had been taken, he went into the fortress attached to the king's palace and set fire to the building over him; in this way he died in the flames.
 \v 19 This was for the sins that he had committed in doing what was evil in the sight of Yahweh, by walking in the way of Jeroboam and in the sin that he had committed, so as to lead Israel to sin.
-\v 20 As for the other matters concerning Zimri, and the treason that he carried out, are they not written in The Book of the Events of the Kings of Israel?
+\v 20 As for the other matters concerning Zimri, and the treason that he carried out, are they not written in the book of the events of the Kings of Israel?
 </usfm>
 
 ===== translationWords: =====
@@ -45,10 +45,13 @@
 
 ===== translationNotes: =====
 
-  * **what was evil in the sight of Yahweh** - AT: "what Yahweh considered to be evil" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **walking in the way of Jeroboam** - AT: "doing the same things that Jeroboam had done" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **are they not written in The Book of the Events of the Kings of Israel?** - See how you translated this in [[:en:bible:notes:1ki:15:31|15:31]]. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **that the city had been taken** - This can be stated in active form. AT: "that Omri and the army had taken the city" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **what was evil in the sight of Yahweh** - The sight of Yahweh represents Yahweh's judgment. AT: "what was evil in Yahweh's judgment" or "what Yahweh considers to be evil" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **walking in the way of Jeroboam** - Here walking represents behaving. AT: "doing the same things that Jeroboam had done" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **so as to lead Israel to sin** - Leading people to do something represents influencing them to do it. AT: "so as to influence Israel to sin" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the treason that he carried out** - This treason refers to Zimri's plot to kill Elah, the king of Israel. The full meaning of this statement can be made clear. AT: "how he plotted against King Elah" or "how he killed the king of Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **are they not written in the book of the events of the kings of Israel?** - This question is used to either inform or remind the readers that the information about Zimri is in this other book. This rhetorical question can be translated as a statement. See how you translated a similar phrase concerning Judah in [[:en:bible:notes:1ki:14:29|14:29]]. AT: "they are written in the book of the events of the kings of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **are they not written ... Israel?** - This can be stated in active form. AT: "someone has written about them in the book of the events of the kings of Israel." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -56,6 +59,6 @@
   * [[:en:bible:questions:comprehension:1ki:16]]
 **[[:en:bible:notes:1ki:16:15|<<]] | [[:en:bible:notes:1ki:16:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit fire}}
+~~DISCUSSION~~{{tag>publish p2pass fire}}
 
 ~~NOCACHE~~

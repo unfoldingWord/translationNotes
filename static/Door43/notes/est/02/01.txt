@@ -22,7 +22,7 @@
 <usfm>
 \c 2
 \p
-\v 1 After these things, when the anger of King Ahasuerus subsided, he thought about Vashti and what she had done. He also thought about the decree that he had made against her. 
+\v 1 After these things, when the anger of King Ahasuerus subsided, he thought about Vashti and what she had done. He also thought about the decree that he had made against her.
 \v 2 Then the king's young men who served him said, "Let a search be made on the king's behalf for beautiful young virgins.
 </usfm>
 
@@ -39,23 +39,23 @@
 ===== translationNotes: =====
 
 
-  * **the decree** - This is referring to the decree in [[:en:bible:notes:est:01:19|1:19-20]].
+  * **After these things** - This introduces a new event that happened a while later. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **the anger of King Ahasuerus subsided** - "the king became less angry"
+  * **the decree** - This is refers to the decree in [[:en:bible:notes:est:01:19|1:19-20]].
+  * **Let a search be made** - This can be stated in active form. AT: "Tell your servants to search" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **on the king's behalf** - The men speak to the king in the third person as a sign of respect. AT: "on your behalf" (See: [[:en:ta:vol2:translate:figs_123person]])
 
 
- 
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
   * [[:en:bible:notes:est:02:00]]
   * [[:en:bible:questions:comprehension:est:02]]
-
- 
-
 **[[:en:bible:notes:est:01:21|<<]] | [[:en:bible:notes:est:02:03|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit vashti}}
+{{tag>publish p2pass vashti}}
 
 ~~NOCACHE~~

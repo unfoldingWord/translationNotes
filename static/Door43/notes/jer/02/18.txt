@@ -26,7 +26,6 @@
 \q1 When I do that, you will realize that bitter and evil things will happen to you because you have forsaken me, Yahweh, your God,
 \q2 and you no longer have an awesome respect for me.
 \q1 That will certainly happen because I, the Lord, Yahweh, commander of the angel armies in heaven, have said it.
-\b
 
 
 \q1
@@ -57,11 +56,13 @@
 
 ===== translationNotes: =====
 
-  * **So now, why take the road to Egypt and drink the waters of Shihor? Why take the road to Assyria and drink the waters of the Euphrates River?** - AT: "You should not travel to Shihor to make an alliance with the rulers of Egypt. You should not travel to the Euphrates River to make an alliance with Assyria! (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Shihor** - the southwestern boundary of Canaan, a dry river bed
-  * **Your wickedness rebukes you, and your faithlessness punishes you.** - Both of these phrases mean that their punishment is the result of their wicked behavior. AT: "Because you have been wicked and unfaithful, I will punish you." (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_parallelism]])
-  * **it is wicked and bitter** - Here the word "bitter" describes "wicked." AT: "it is bitterly wicked" or "it is extremely wicked." (See: [[:en:ta:vol2:translate:figs_hendiadys]])
-  * **dread** - great fear
+  * **So now, why take the road to Egypt and drink the waters of Shihor? Why take the road to Assyria and drink the waters of the Euphrates River?** - Yahweh uses this question to remind his people that it does not do any good to ask Egypt and Assyria to help them. AT: "It does not help you  to go to Egypt and drink from the waters of the Shihor River, or to go to Assyria and drink from the waters of the Euphrates River." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **why take the road to Egypt ... Why take the road to Assyria** - Here "take the road" to Egypt and Assyria is a metaphor for asking the armies of those places to help them. AT: "why ask Egypt to help you ... Why ask Assyria to help you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and drink the waters of Shihor ... and drink the waters of the Euphrates River** - Here "drink the waters" of these two rivers is a metaphor for relying on the armies of Egypt and Assyria to help them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Shihor** - This is the name of a stream associated with Egypt. It may have been a branch of the Nile River. Some versions call it the Nile. AT: "the Shihor Stream" or "the Shihor River" or "the Nile River" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Your wickedness rebukes you, and your faithlessness punishes you** - Both of these phrases mean that their punishment is the result of their wicked behavior. AT: "Because you have been wicked and unfaithful, I will punish you" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **it is wicked and bitter** - Here the word "bitter" describes "wicked." AT: "it is bitterly wicked" or "it is extremely wicked" (See: [[:en:ta:vol2:translate:figs_hendiadys]])
+  * **to dread me no more** - "to be afraid of me no more" or "to stop being afraid of me"
  
 ===== Links: =====
 
@@ -70,6 +71,6 @@
   * [[:en:bible:questions:comprehension:jer:02]]
 **[[:en:bible:notes:jer:02:14|<<]] | [[:en:bible:notes:jer:02:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit faithless}}
+~~DISCUSSION~~{{tag>publish p2check faithless}}
 
 ~~NOCACHE~~

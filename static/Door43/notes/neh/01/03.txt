@@ -32,10 +32,9 @@
 
 ===== translationNotes: =====
 
-  * **They said to me** - Here "they" refers to Hanani and the other people who had come from Judah. (See [[:en:bible:notes:neh:01:01|01:2]]).
-  * **the province** - This is an area of land controlled by a king or greater ruler. AT: "Judah" or "the land of Judah"
-  * **the captivity** - This refers specifically to the Babylonian captivity.
-  * **disgrace** - "dishonor" or "humiliation from enemies"
+  * **They said to me** - Here "They" refers to Hanani and the other people who had come from Judah.
+  * **the province** - Here "province" refers to Judah as an administrative district under the Persian Empire. AT: "the province of Judah" or "Judah" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the wall of Jerusalem has been broken open, and its gates have been set on fire** - This can be stated in active form. AT: "armies have broken open the wall of Jerusalem and have set its gates on fire" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -44,6 +43,6 @@
   * [[:en:bible:questions:comprehension:neh:01]]
 **[[:en:bible:notes:neh:01:01|<<]] | [[:en:bible:notes:neh:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit fire}}
+~~DISCUSSION~~{{tag>publish p2pass fire}}
 
 ~~NOCACHE~~

@@ -32,10 +32,10 @@
 ===== translationNotes: =====
 
   * **of the king's sons** - "of Ahab's descendants" (UDB) 
-  * **Jehu went out and stood** - AT: "Jehu went to the city gate and stood before the people"
-  * **You are innocent** - What he was innocent of can be stated clearly. AT: "You did not kill king Joram" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **See, I plotted against my master and killed him** - "See" is to bring attention to what Jehu is about to say. AT: "Hear my words, I was the one who planned to harm king Joram and killed him,"
-  * **but who killed all these?** - AT: "but it was Yahweh who commanded the deaths of all Ahab's descendants." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Jehu went out and stood** - "Jehu went to the city gate and stood before the people"
+  * **You are innocent** - It can be stated clearly what they were innocent of. Possible meanings are 1) AT: "You are innocent of what happened to Joram" or  2) this means that they are not held responsible for the deaths of Joram's family. AT: "You are innocent of what happened to Joram and his family" or "You are innocent of this matter" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **See** - Jehu uses this word here to draw the peoples' attention to what he says next. AT: "Listen" or "Hear my words" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **but who killed all these?** - Jehu uses a rhetorical question to cause the people to think deeply about the situation. This can be written as a statement. Possible meanings are 1) AT: "but the men of Samaria are responsible for killing Ahab's 70 descendants" or 2) AT: "but it was Yahweh's will for these men to die" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 
 ===== Links: =====
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:2ki:10]]
 **[[:en:bible:notes:2ki:10:06|<<]] | [[:en:bible:notes:2ki:10:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit jehu}}
+~~DISCUSSION~~{{tag>publish p2pass jehu}}
 
 ~~NOCACHE~~

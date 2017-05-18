@@ -28,7 +28,7 @@
 <usfm>
 \v 10 So Hiram gave Solomon all the timber of cedar and fir that he desired.
 \v 11 Solomon gave Hiram twenty thousand measures of wheat for food to his household and twenty measures of pure oil. Solomon gave this to Hiram year by year.
-\v 12 Yahweh gave Solomon wisdom, as he promised him. There was peace between Hiram and Solomon and the two of them made a covenant.
+\v 12 Yahweh gave Solomon wisdom, as he promised him. There was peace between Hiram and Solomon, and the two of them made a covenant.
 </usfm>
 
 
@@ -44,7 +44,7 @@
 ===== translationNotes: =====
 
 
-  * **fir** - The word "fir" refers to many kinds of trees including Cypress trees.
+  * **fir** - The word "fir" refers to many kinds of trees, including cypress trees.
   * **measures of wheat** - This was a dry measurement whereas the oil was a liquid measurement. It was not clear which measure was intended. The UDB takes an educated guess. (See: [[:en:ta:vol2:translate:translate_bvolume]])
   * **year by year** - "every year"
 
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:1ki:05]]
 **[[:en:bible:notes:1ki:05:09|<<]] | [[:en:bible:notes:1ki:05:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -24,7 +24,6 @@
 \v 11 I pointed to the shore and said to the water,
 \q2 'I permit you to come up to here, but I do not permit you to come any farther.
 \q2 Your powerful waves must stop here!'
-\b
 
 
 \q1
@@ -40,7 +39,6 @@
 \q
 \v 11 and when I said to it, 'You may come this far, but no farther;
 \q here is where I will put a boundary to the pride of your waves.'
-\b
 </usfm>
 
 
@@ -50,14 +48,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to challenge Job.
-
   * **I marked out for the sea my boundary** - "I made a boundary for the sea"
-  * **boundary** - Yahweh created a border around the sea that the seas was not allowed to cross.
-  * **I placed its bars and doors** - Yahweh compares the way that he made a boundary for the sea to containing the sea with bars and doors. AT: "I put barriers so that the water would not come over the land." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **bars** - a long piece of wood or metal that is used to lock a door shut
-  * **to it** - "to the sea." Yahweh speaks to the sea as though it were a person." (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **to the pride of your waves** - Yahweh speaks about the waves as though they were people. It is implied that the waves are proud because they are powerful. AT: "for you waves that are proud because they are so powerful." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **boundary** - Yahweh set a limit beyond which the sea was not allowed to cross.
+  * **I placed its bars and doors** - Yahweh compares the way that he made a boundary for the sea to containing the sea with bars and doors. AT: "I set up its barriers" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **bars** - Long pieces of wood or metal that are used to keep a door shut
+  * **and when I said to it** - "and when I said to the sea." Yahweh speaks to the sea as though it were a person. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **You may come this far, but no farther** - The words "this far" mean only as far as the boundary that Yahweh set up. AT: "You may come as far as this boundary, but no farther" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **to the pride of your waves** - "to the power of your waves." The waves are spoken of as if they could have pride. The abstract noun "pride" can be translated as the adjective "proud." AT: "to your proud waves" or "to your powerful waves" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -72,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

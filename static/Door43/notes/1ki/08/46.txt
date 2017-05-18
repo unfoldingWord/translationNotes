@@ -37,8 +37,9 @@
 
 ===== translationNotes: =====
 
-  * **where they have been exiled** - This can be stated in active form. AT: "where their enemies have exiled them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the land of their captors** - The word "captors" refers to people who keep others as prisoners.
+  * **Suppose that they sin ... suppose that you are ... suppose that they realize ... suppose that they repent ... Suppose that they say** - When Solomon was speaking, these hypothetical situations had not happened, but Solomon knew that they might happen in the future. Use the form in your language for talking about events that have not happened but might happen in the future. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **where they have been exiled** - This can be stated in active form. AT: "where their enemies have taken them as exiles" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **captors** - people who keep others as prisoners
   * **We have acted perversely and sinned. We have behaved wickedly** - These two sentences mean the same thing. Together they emphasize how bad the people's actions were. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **acted perversely and sinned** - The words mean basically the same thing and emphasize how badly the people sinned. (See: [[:en:ta:vol2:translate:figs_doublet]])
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1ki:08]]
 **[[:en:bible:notes:1ki:08:44|<<]] | [[:en:bible:notes:1ki:08:48|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit perverse}}
+~~DISCUSSION~~{{tag>publish p2pass perverse}}
 
 ~~NOCACHE~~

@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 16 Then the word of Yahweh came to me and said, 
+\v 16 Then the word of Yahweh came to me and said,
 \v 17 "Son of man, when the house of Israel inhabited their land, they defiled it with their ways and their deeds. Their ways were like the unclean menstruation of a woman before me.
 \v 18 So I poured out my fury against them for the blood that they poured out on the land and for their pollution of it by their idols.
 </usfm>
@@ -38,15 +38,15 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]].
-  * **the house of Israel** - See how you translated this in [[:en:bible:notes:ezk:03:01|3:1]].
+  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Son of man** - "Son of a human being" or "Son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. Translate this as in [[:en:bible:notes:ezk:02:01|2:1]]. AT: "Mortal person" or "Human"
+  * **the house of Israel** - Here "house" represents people. AT: "the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **with their ways and their deeds** - "by the way they lived and the things they did"
-  * **Their ways were like the unclean menstruation of a woman before me** - "Their ways were as disgusting to me as the unclean menstruation of a woman" 
+  * **Their ways were like the unclean menstruation of a woman before me** - This compares how the people behaved to a woman's unclean menstruation rags. This emphasizes disgusting their behaviors were to Yahweh. AT: "Their ways were as disgusting to me as the unclean menstruation of a woman" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **menstruation of a woman** - the blood that comes out of a woman every month when she is not pregnant
-  * **I poured out my fury against them** - "I did things to them that showed how angry I was."
-  * **for the blood that they poured out on the land** - AT: "because they made the blood of many people spill onto the land" or "because they murdered many people." (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **and for their pollution of it by their idols** - "and because they defiled the land with their idols"
+  * **I poured out my fury against them** - Yahweh punishing people because he is angry is spoken of as if his fury were a liquid that he poured out. AT: "I did things to them that showed how angry I was" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for the blood that they poured out on the land** - This is an idiom that refers to killing someone. AT: "because they made the blood of many people spill onto the land" or "because they murdered many people" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **and for their pollution of it by their idols** - The people worshiping idols is spoken of as if the idols made the land physically dirty. AT: "and because they defiled the land with their idols" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -54,6 +54,6 @@
   * [[:en:bible:questions:comprehension:ezk:36]]
 **[[:en:bible:notes:ezk:36:13|<<]] | [[:en:bible:notes:ezk:36:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

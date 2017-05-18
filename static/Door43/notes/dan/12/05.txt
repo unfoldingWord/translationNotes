@@ -33,11 +33,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The angel has finished speaking, and Daniel goes on to tell what he saw next in this vision that began in [[:en:bible:notes:dan:10:04|10:4]].
+  * **General Information:** - Daniel goes on to tell what he saw next in this vision that began in [[:en:bible:notes:dan:10:01|10:1]].
 
-  * **How long will it be to the end of these amazing events?** - This refers to the time from the beginning to the end of the events. AT: "How long will these amazing events last?"
+  * **there were two others standing** - "there were two other angels standing" 
+  * **the man clothed in linen** - This refers to the angel who appeared to Daniel in [[:en:bible:notes:dan:10:04|10:5]], not to one of the angels who is standing beside the river. This can be stated in active form. AT: "the man who was wearing linen clothes" or "the angel who was wearing linen clothes" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **upstream along the river** - Possible meanings are 1) the angel clothed in linen was above the river or 2) the angel was further upstream along the river.
+  * **How long will it be to the end of these amazing events?** - "How long will these amazing events last?" This refers to the time from the beginning to the end of the events.
   * **these amazing events** - At the time when the angel spoke to Daniel, none of the events in this vision had happened. This definitely refers to the the events in [[:en:bible:notes:dan:12:01|12:1-4]], and may possibly also include the events in the vision from chapter 11.
-  * **the man clothed in linen** - This refers to the man who has been speaking to Daniel, not to one of the men who was standing beside the river.
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -45,6 +47,6 @@
   * [[:en:bible:questions:comprehension:dan:12]]
 **[[:en:bible:notes:dan:12:03|<<]] | [[:en:bible:notes:dan:12:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

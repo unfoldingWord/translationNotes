@@ -18,7 +18,6 @@
 \q1 So do not ridicule what I say anymore,
 \q2 because if you do that,
 \q2 he will punish you even more severely.
-\b
 
 
 \q1
@@ -28,7 +27,7 @@
 
 <usfm>
 \q1
-\v 22 Now therefore do not mock, or your bonds will be tightened. 
+\v 22 Now therefore do not mock, or your bonds will be tightened.
 \q1 I have heard from the Lord, Yahweh of hosts, a decree of destruction on the earth.
 </usfm>
 
@@ -42,9 +41,9 @@
 
 ===== translationNotes: =====
 
-  * **Now therefore** - Isaiah uses these words to emphasize what he is about to say.
-  * **your bonds will be tightened** - This can be stated in active form. AT: "Yahweh will tighten your bonds" or "Yahweh will punish you even more severely" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **Now** - This does not mean "at this moment," but is used to draw attention to the important point that follows. 
+  * **your bonds will be tightened** - Yahweh punishing the people even more severely is spoken of as if he would tighten their bonds. This can be stated in active form. AT: "Yahweh will tighten your bonds" or "Yahweh will punish you even more severely" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
   * **a decree of destruction on the earth** - This can be reworded so that the abstract noun "destruction" is expressed as the verb "destroy." AT: "that he is going to destroy people throughout the land" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 
 ===== Links: =====
@@ -54,6 +53,6 @@
   * [[:en:bible:questions:comprehension:isa:28]]
 **[[:en:bible:notes:isa:28:20|<<]] | [[:en:bible:notes:isa:28:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

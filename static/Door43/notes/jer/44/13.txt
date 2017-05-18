@@ -37,7 +37,8 @@
 
 ===== translationNotes: =====
 
-  * **sword, famine, and plague** - The word "sword" is used to refer to war. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **I punished Jerusalem** - Here "Jerusalem" represents the people. AT: "I punished the people of Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **with sword, famine, and plague** - Here "sword" represents enemies carrying weapons. AT: "by causing enemies to kill some of them, others starved to death, and others died because of disease" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **fugitive or survivor** - Both of these words refer to the same people. A fugitive is someone who escapes from someone who wants to kill them or take them captive. (See: [[:en:ta:vol2:translate:figs_doublet]])
 ===== Links: =====
 
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:jer:44]]
 **[[:en:bible:notes:jer:44:11|<<]] | [[:en:bible:notes:jer:44:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

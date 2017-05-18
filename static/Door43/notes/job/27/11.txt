@@ -22,7 +22,6 @@
 \q1
 \v 12 You three have seen for yourselves powerful things that God has done;
 \q2 so I do not understand why you have been saying such nonsense to me.
-\b
 
 
 \q1
@@ -38,7 +37,6 @@
 \q
 \v 12 See, all of you have seen this yourselves;
 \q why then have you spoken all this nonsense?
-\b
 </usfm>
 
 
@@ -49,12 +47,10 @@
 
 ===== translationNotes: =====
 
-  * **I will teach you concerning the hand ... I will not conceal the thoughts** - These two clauses have basically the same meaning and are used together for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **I will teach you** - Each occurrence of "you" in these verses is plural and refers to Job's three friends (See: [[:en:ta:vol1:translate:figs_you]])
-  * **hand of God** - AT: "power of God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **conceal** - "hide"
-  * **why then have you spoken all this nonsense** - This is written as a question in order to provide emphasis. AT: "You should not have spoken so foolishly!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **the hand of God** - God's "hand" represents his power. AT: "the power of God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will not conceal the thoughts of the Almighty** - The abstract noun "thoughts" can be expressed with the verb "think." AT: I will not hide from you what the Almighty thinks" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **why then have you spoken all this nonsense?** - Job uses this question to rebuke his friends for saying such foolish things.  AT: "yet you have spoken all this nonsense." or "You should not have spoken so foolishly!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -62,6 +58,6 @@
   * [[:en:bible:questions:comprehension:job:27]]
 **[[:en:bible:notes:job:27:08|<<]] | [[:en:bible:notes:job:27:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

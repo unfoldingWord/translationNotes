@@ -19,10 +19,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 Tell me, why do you think you know so much? You do not think that you were the first person who was ever born, do you? 
+\v 7 Tell me, why do you think you know so much? You do not think that you were the first person who was ever born, do you?
 \q2 You do not think that you were born before God created the mountains, do you?
 \q1
-\v 8 Were you listening when God made all his plans? 
+\v 8 Were you listening when God made all his plans?
 \q2 Do you think that you are the only person who is wise?
 \q1
 \v 9 What do you know that we others do not know?
@@ -59,12 +59,13 @@
 
   * **General Information:** - Each verse is a parallelism that contains two rhetorical questions. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
 
-  * **Are you the first man that was born?** - AT: "You are not the first man that was born"
-  * **Were you brought into existence before the hills?** - AT: "You were not brought into existence before the hills" or "Did God bring you into existence before the hills?" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Have you heard the secret knowledge of God?** - AT: "You have not heard the secret knowledge of God"
-  * **Do you limit wisdom to yourself?** - AT: "You cannot limit wisdom to yourself" or "You are not the only wise person"
-  * **What do you know that we do not know?** - AT: "Everything you know, we also know" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **What do you understand that is not also in us?** - AT: "Everything you understand is also with us" or "Everything you understand, we also understand" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Are you the first man that was born?** - The implicit answer here is "no." This rhetorical question can be written as a statement. AT: "You are not the first man that was born" [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Were you brought into existence before the hills?** - The implicit answer here is "no." This rhetorical question can be written as a statement. AT: "You were not brought into existence before the hills" or "God did not bring you into existence before he brought he hills into existence" [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Were you brought** - This can be stated in active form. AT: "Did God bring you" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **Have you heard the secret knowledge of God?** - The implicit answer here is "no." This rhetorical question can be written as a statement. AT: "You have not heard the secret knowledge of God" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Do you limit wisdom to yourself?** - This rhetorical question emphasizes that he cannot limit wisdom to himself. This can be written as a statement. AT: "You cannot limit wisdom to yourself" or "You are not the only wise person" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **What do you know that we do not know?** - The implicit answer here is "nothing." This question can be written as a statement. AT: "There is nothing that you know that we do not know" or "Everything you know, we also know" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **What do you understand that is not also in us?** - This speaks of the men having understanding as if it were something "inside" them. AT: "Everything you understand, we also understand" or "We understand everything that you understand" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -72,6 +73,6 @@
   * [[:en:bible:questions:comprehension:job:15]]
 **[[:en:bible:notes:job:15:04|<<]] | [[:en:bible:notes:job:15:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

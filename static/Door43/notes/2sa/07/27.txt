@@ -23,7 +23,7 @@
 
 <usfm>
 \v 27 For you, Yahweh of hosts, the God of Israel, have revealed to your servant that you will build him a house. That is why I, your servant, have found courage to pray to you.
-\v 28 Now, Lord Yahweh, you are God, and your words are trustworthy, and you have made this good promise to your servant. 
+\v 28 Now, Lord Yahweh, you are God, and your words are trustworthy, and you have made this good promise to your servant.
 \v 29 Now then, let it please you to bless the house of your servant, so that it may continue forever before you. For you, Lord Yahweh, have said these things, and with your blessing your servant's house will be blessed forever ."
 </usfm>
 
@@ -33,8 +33,10 @@
   * [[:en:obe:kt:yahwehofhosts]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:other:israel]]
+  * [[:en:obe:kt:reveal]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:other:house]]
+  * [[:en:obe:other:courage]]
   * [[:en:obe:other:pray]]
   * [[:en:obe:kt:wordofgod]]
   * [[:en:obe:kt:trust]]
@@ -43,8 +45,13 @@
  
 ===== translationNotes: =====
 
-  * **that you will build him a house** - The metonym "a house" refers to the "house of David" and "you will build him a house" means God would establish David's descendants as the rulers of the nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will be blessed forever** - This means that David's descendants will be always be blessed. 
+  * **to your servant that you will build him a house** - David is refers to himself as "your servant." AT: "to me that you will build me a house" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **that you will build him a house** - Here the metonym "house" refers to David's ancestors continuing on as the rulers of Israel. In [[:en:bible:notes:2sa:07:03|7:4]] Yahweh asked David if he would be the one to build a house for Yahweh. There "house" represented a temple. If your language has a word that can express both ideas, use it here and in 7:4. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Now** - This does not mean "at this moment," but is used to draw attention to the important point that follows.
+  * **your words are trustworthy** - Here "words" represents what Yahweh says. AT: "I trust what you say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and with your blessing your servant's house will be blessed forever** - This can be stated in active form. AT: "and you will continue to bless my family forever" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your servant's house** - Here David refers to himself as "your servant." AT: "my house" or "my family" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **house** - Here "house" represents David's family. (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -53,6 +60,6 @@
   * [[:en:bible:questions:comprehension:2sa:07]]
 **[[:en:bible:notes:2sa:07:24|<<]] | [[:en:bible:notes:2sa:08:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

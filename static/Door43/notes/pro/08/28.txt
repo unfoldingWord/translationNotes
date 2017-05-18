@@ -18,11 +18,11 @@
 
 <usfm>
 \v 28 I was there when Yahweh put the clouds above the earth,
-\q2 and when he held back the water that is inside the earth.
+\q2 and when he made the springs at the bottom of the sea to give water to the oceans.
 \q1
 \v 29 I was there when he fixed a boundary for the seas,
 \q2 so that the water in the seas would not go past those boundaries,
-\q1 and when he marked where the foundation of the earth should be laid.
+\q1 and when he marked out the limits of the dry land.
 
 
 \q2
@@ -33,12 +33,12 @@
 
 <usfm>
 \q
-\v 28 I was there when he established the skies above and
-\q when he made the fountains of the deep.
+\v 28 I was there when he established the clouds above and
+\q when the springs in the deep became fixed.
 \q
-\v 29 I was there when he made limits for the sea,
-\q so the waters should not spread beyond where he commanded them,
-\q and when he ordered where the foundations of the earth should be placed.
+\v 29 I was there when he made his limit for the sea,
+\q so the waters should not spread beyond his command,
+\q and when there was set the limit for the foundations of the dry land.
 </usfm>
 
 
@@ -54,11 +54,12 @@
 
   * **General Information:** - Wisdom continues to speak. (See: [[:en:ta:vol2:translate:figs_personification]])
 
-  * **established** - brought into being on a stable basis
-  * **the skies above** - As the UDB shows, this can be translated as either "skies above" or "clouds above."
-  * **when he made the fountains of the deep** - "when he made the water from the springs under the deep oceans to flow up strongly"
-  * **when he made limits for the sea** - "when he created the shorelines for the oceans"
-  * **when he ordered where the foundations of the earth should be placed** - The "foundations of the earth" and the "limits for the sea" divided the oceans from "the land." The Hebrew word for "earth" also often means "land."
+  * **established** - brought into permanent being
+  * **when the springs in the deep became fixed** - This can be put into active form. AT: "when God fixed the springs in the deep" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the springs in the deep** - The ancient Hebrews thought that the ocean got its water from springs at the bottom of the sea. 
+  * **when he made his limit for the sea** - "when he created the shorelines for the oceans. The "limit for the sea" divided the oceans from the dry land.  
+  * **when there was set the limit for the foundations of the dry land** - The Hebrew word for "earth" also often means "land."
+  * **when there was set the limit for the foundations of the dry land** - This can be put into active form. AT: "when God set the limit for the foundations of the earth" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -67,6 +68,6 @@
   * [[:en:bible:questions:comprehension:pro:08]]
 **[[:en:bible:notes:pro:08:26|<<]] | [[:en:bible:notes:pro:08:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

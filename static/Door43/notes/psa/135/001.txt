@@ -30,7 +30,7 @@
 
 <usfm>
 \c 135
-\p
+\m
 \q
 \v 1 Praise Yahweh.
 \q Praise the name of Yahweh.
@@ -52,7 +52,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **Praise the name of Yahweh** - Yahweh's name represents him. "Praise Yahweh" or "Praise him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **stand in Yahweh's house** - This represents serving Yahweh in his temple.  (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -64,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:135]]
 **[[:en:bible:notes:psa:134:003|<<]] | [[:en:bible:notes:psa:135:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

@@ -24,7 +24,7 @@
 \q1
 \v 4 All my sins are like a flood that covers my head;
 \q2 they are like a load that is very heavy; I cannot carry them.
-\b
+
 
 
 \q1
@@ -49,7 +49,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - David continues describing what his guilt and shame does to his body. He uses hyperbole to emphasize his lesson.
+  * **General Information:** - David continues describing what his guilt and shame does to his body. He uses hyperbole to emphasize the effects of this lesson.
 
   * **there is no health in my bones because of my sin** - Here "my bones" represents the body of the writer. AT: " my whole body is diseased because of my sin" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **my iniquities overwhelm me** - The writer's iniquities are spoken of as if they are a flood of water that covers him. AT: "my iniquities cover me like a flood" (See: [[:en:ta:vol1:translate:figs_metaphor]])
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:038]]
 **[[:en:bible:notes:psa:038:001|<<]] | [[:en:bible:notes:psa:038:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

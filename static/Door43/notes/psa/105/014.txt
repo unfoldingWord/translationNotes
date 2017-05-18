@@ -22,7 +22,7 @@
 \q1
 \v 15 "Do not do harm to the people whom I have chosen!
 \q2 Do not harm my prophets!"
-\b
+
 
 
 \q1
@@ -52,9 +52,10 @@
 
 ===== translationNotes: =====
 
+  * **Connecting Statement:** - The psalmist is writing about Israel.
 
-  * **for their sakes** - "for their own well-being"
-  * **Do not touch my anointed ones** - Here "touch" means to harm, it's an exaggeration Yahweh used to strengthen his warning to not harm is people. AT: "Do not harm the people I have anointed" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **for their sakes** - "for their own well-being." This is referring to Israel. 
+  * **Do not touch my anointed ones** - Here "touch" means to harm, it's an exaggeration Yahweh used to strengthen his warning to not harm his people. AT: "Do not harm the people I have anointed" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
  
  
 ===== Links: =====
@@ -64,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:105]]
 **[[:en:bible:notes:psa:105:012|<<]] | [[:en:bible:notes:psa:105:016|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 To one side of the rooms was a walkway that was about 5.4 meters wide and about fifty-four meters long. All the doors of the rooms were on their north side.
+\v 4 To one side of the rooms was a walkway that was five and two-fifth meters wide and fifty-four meters long. All the doors of the rooms were on their north side.
 \v 5 Each set of rooms was narrower than the set of rooms below them, because each upper sets had a walkway in front .
 \v 6 The rooms on the upper levels had no pillars to support them as there were in the courtyard, because those rooms were supported by the walls of the rooms below.
 </usfm>
@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 A passage ten cubits wide and one hundred cubits long ran in front of the rooms. The rooms' doors were toward the north.
+\v 4 A passage ten cubits in width and one hundred cubits in length ran in front of the rooms. The rooms' doors were toward the north.
 \f + \ft Some ancient versions and many modern versions read \fqa one hundred cubits \fqa* . Ancient Hebrew copies and some modern versions read read \fqa one cubit \fqa* . \f*
 \v 5 But the upper halls were smaller, for the walkways took away from them more space than they did in the lowest and middle levels of the building.
 \v 6 For the halls on the third story had no columns, unlike the courtyards, which did have columns. So the highest level's rooms were  smaller in size compared to the rooms in the lowest and middle levels.
@@ -31,6 +31,7 @@
 
 ===== translationNotes: =====
 
+  * **ten cubits ... one hundred cubits** - Each long cubit was about 54 centimeters. Translate as in [[:en:bible:notes:ezk:40:05|40:5]]. AT: "10 cubits ... 100 cubits" or "about 5.4 meters ... about 54 meters" (See: [[:en:ta:vol2:translate:translate_bdistance]])
   * **smaller in size compared to the rooms** - "smaller than the rooms"
  
 ===== Links: =====
@@ -40,6 +41,6 @@
   * [[:en:bible:questions:comprehension:ezk:42]]
 **[[:en:bible:notes:ezk:42:01|<<]] | [[:en:bible:notes:ezk:42:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

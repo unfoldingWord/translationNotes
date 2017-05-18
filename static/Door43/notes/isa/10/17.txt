@@ -40,7 +40,7 @@
 
 <usfm>
 \q1
-\v 17 The light of Israel will become a fire, and her Holy One a flame; 
+\v 17 The light of Israel will become a fire, and his Holy One a flame;
 \q1 it will burn and devour his thorns and briers in one day.
 \q1
 \v 18 Yahweh will consume the glory of his forest and of his fruitful land, both soul and body;
@@ -64,13 +64,13 @@
 
   * **The light of Israel will become a fire** - The phrase "light of Israel" refers to Yahweh. It is unclear whether Yahweh or Isaiah is speaking. AT: "I, Yahweh, the light of Israel, will become like a fire" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **fire** - "Fire" emphasizes Yahweh's power to destroy everything that does not honor him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **her Holy One a flame** - "I, Yahweh, the Holy one of Israel, will become like a flame." See how you translated "Holy One" in [[:en:bible:notes:isa:01:04|1:4]].
+  * **his Holy One a flame** - "I, Yahweh, the Holy one of Israel, will become like a flame." See how you translated "Holy One" in [[:en:bible:notes:isa:01:04|1:4]].
   * **it will burn and devour his thorns and briers** - "The fire will burn and devour the king of Assyria's thorns and briars." The speaker compares the king of Assyria's army to thorns and briers. This emphasizes how easily God will destroy them. AT: "I will destroy the Assyrians like a fire burning thorns and briers" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **thorns and briers** - See how you translated this in [[:en:bible:notes:isa:05:05|5:6]].
+  * **thorns ... briers** - The words "briers" and "thorns" both refer to useless, thorny plants; they can be translated using one expression. See how you translated these words in [[:en:bible:notes:isa:07:23|7:23]]. AT: "thorn bushes" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **Yahweh will consume the glory of his forest and of his fruitful land** - Possible meaning are 1) "Yahweh will destroy the great forests and farmlands in the nation of Assyria" or 2) "Yahweh will destroy the army of Assyria as a fire burns up great forests and farmlands." (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **both soul and body** - Possible meanings are 1) this emphasizes that God will completely destroy the forests and farmlands. AT: "completely" or 2) this means God will completely destroy the people of Assyria. The phrase "soul and body" refers to the spiritual part and the physical part of a person. (See: [[:en:ta:vol2:translate:figs_merism]])
   * **it will be like when a sick man's life wastes away** - This compares either the forests and farmlands of Assyria or the army of Assyria to a sick man as he lies in bed dying. This emphasizes how something so great can become weak and dying. AT: "they will be like a sick man who grows weak and dies" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **The remnant of the trees of his forest will be so few** - "what remains of the trees in the king's forest will be so few"
+  * **The remnant of the trees of his forest will be so few** - "What remains of the trees in the king's forest will be so few"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -78,6 +78,6 @@
   * [[:en:bible:questions:comprehension:isa:10]]
 **[[:en:bible:notes:isa:10:15|<<]] | [[:en:bible:notes:isa:10:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

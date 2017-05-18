@@ -21,7 +21,7 @@
 <usfm>
 \p
 \v 32 King David said, "Call to me Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada." So they came before the king.
-\v 33 The king said to them, "Take with you the servants of me, your master, and have Solomon my son ride on my own mule and take him down to Gihon.
+\v 33 The king said to them, "Take with you the servants of your master, and have Solomon my son ride on my own mule and take him down to Gihon.
 \v 34 Let Zadok the priest and Nathan the prophet anoint him king over Israel and blow the trumpet and say, 'Long live King Solomon!'
 </usfm>
 
@@ -38,8 +38,9 @@
 
   * **General Information:** - King David anoints Solomon king.
 
-  * **the servants of me** - "my servants"
+  * **the servants of your master** - David speaks of himself as if he were speaking of someone else so Zadok, Nathan, and Benaiah would remember that David is still king. AT: "my servants" (See: [[:en:ta:vol2:translate:figs_pronouns]])
   * **Gihon** - This is the name of a water spring. (See: [[:en:ta:vol1:translate:translate_names]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -47,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1ki:01]]
 **[[:en:bible:notes:1ki:01:28|<<]] | [[:en:bible:notes:1ki:01:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit donkey}}
+~~DISCUSSION~~{{tag>publish p2pass p2example donkey}}
 
 ~~NOCACHE~~

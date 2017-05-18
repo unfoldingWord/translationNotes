@@ -22,7 +22,6 @@
 \q1 His light will be like dew that falls on you, his people who have died,
 \q2 you who are now in the place where the dead people are;
 \q2 he will cause you to live again.
-\b
 
 
 \q1
@@ -32,8 +31,8 @@
 
 <usfm>
 \q1
-\v 19 Your dead will live; our dead bodies will arise. Awake and sing for joy, those who settle down in the dust; 
-\q1 for your dew is the dew of herbs, and the earth will drop the dead, its prey.
+\v 19 Your dead will live; their dead bodies will arise. Awake and sing for joy, you who live in the dust;
+\q1 for your dew is the dew of light, and the earth will bring forth its dead.
 </usfm>
 
 ===== translationWords: =====
@@ -44,11 +43,14 @@
 
 ===== translationNotes: =====
 
-  * **Your dead will live** - Here "your" refers to Yahweh. This can be reworded so that the abstract noun "dead" is expressed as the verb "have died." AT: "Your people who have died will live again." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **our dead bodies** - Here "our" refers to Isaiah and all the righteous people. (See: [[:en:ta:vol2:translate:figs_inclusive]])
-  * **for your dew is the dew of herbs** - Yahweh's grace will fall on the people like spring dew that revives plants after the "death" of winter. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and the earth will drop the dead, its prey** - "and the earth will release the dead to live again"
-
+  * **Your dead will live** - This can be reworded so that the nominal adjective "dead" is expressed as the verb "have died." AT: "Your people who have died will live again" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **Your dead** - Possible meanings are 1) "Your" refers to Yahweh or 2) "Your" refers to the people of Israel. If you choose option two you could translate it as "Our dead."
+  * **Awake** - This speaks of dead people coming back to life as if they were waking up from sleep. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you who live in the dust** - This is a polite way of referring to those who have died. AT: "those who are dead and buried" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **for your dew is the dew of light** - Yahweh acting kindly towards his people and bringing them back to life is spoken of as if it were the dew that causes the plants to live. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for your dew** - Possible meanings are 1) "your" refers to Yahweh and this is the dew that Yahweh gives or 2) "your" refers to the people of Israel and this is the dew they receive from Yahweh.
+  * **dew of light** - Possible meanings are 1) "light" refers to Yahweh's power to make dead people alive again. AT: "dew from Yahweh" or 2) "light" refers to the morning time when dew is on the plants. AT: "dew in the morning"
+  * **the earth will bring forth its dead** - "the earth will give birth to those who died." Yahweh causing dead people to come back to life is spoken of as if the earth would give birth to those who have died. AT: "and Yahweh will cause those who have died to rise from the earth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -56,6 +58,6 @@
   * [[:en:bible:questions:comprehension:isa:26]]
 **[[:en:bible:notes:isa:26:18|<<]] | [[:en:bible:notes:isa:26:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

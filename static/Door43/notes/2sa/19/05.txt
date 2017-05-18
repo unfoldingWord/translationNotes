@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 5 Then Joab entered into the house to the king and said to him, "You have shamed the faces of all your soldiers today, who have saved your life today, and the lives of your sons and of your daughters, and the lives of your wives, and the lives of your slave wives, 
+\v 5 Then Joab entered into the house to the king and said to him, "You have shamed the faces of all your soldiers today, who have saved your life today, and the lives of your sons and of your daughters, and the lives of your wives, and the lives of your slave wives,
 \v 6 because you love those who hate you, and you hate those who love you. For today you have shown that commanders and soldiers are nothing to you. Today I believe that if Absalom had lived, and we all had died, then that would have pleased you.
 </usfm>
 
@@ -43,9 +43,9 @@
 
 ===== translationNotes: =====
 
-  * **You have shamed the faces of all your soldiers today** - Here "faces" refers to the soldier's pride. AT: "You have caused the soldiers to hide their faces in shame instead of return in victory" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **nothing to you** - This phrase is an exaggeration, but it expresses the very low value that David has for the army. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **if Absalom had lived, and we all had died, then that would have pleased you** - The speaker is introducing a hypothetical situation. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **You have shamed the faces of all your soldiers today** - Here the soldiers are referred to by their face to emphasize how they would have hid their faces because of their shame" AT: "You have caused all your soldiers to hide their faces in shame today" or "You have caused all of your soldiers to be ashamed today" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **nothing to you** - This phrase is an exaggeration, but it expresses the very low value that David showed for the army. AT: "are worth very little to you" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **if Absalom had lived, and we all had died, then that would have pleased you** - The speaker is giving a hypothetical situation. (See: [[:en:ta:vol1:translate:figs_hypo]])
  
 ===== Links: =====
 
@@ -60,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

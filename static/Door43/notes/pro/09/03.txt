@@ -17,8 +17,8 @@
 <usfm>
 \v 3 Like a woman who sends out her maids to give the invitations to her guests, Wisdom calls out from the highest place in the city for all to hear, and she says:
 \q1
-\v 4 "If you have not been instructed, come here!"
-\q1 and she gives the invitation to come to those who have no good judgment.
+\v 4 "If you are still immature, come here,"
+\q1 and she gives the invitation to those who have no good judgment.
 
 
 \q1
@@ -29,11 +29,11 @@
 
 <usfm>
 \q
-\v 3 She has sent out invitations with her maids and she calls out
-\q from the highest point of the city:
+\v 3 She has sent out her maids; she calls out
+\q from the highest points of the city,
 \q
-\v 4 "Let those who are untaught come in here!" 
-\q she says to those who have no sense.
+\v 4 "Who is naive? Let him turn aside here!"
+\q To the one lacking good sense she speaks.
 </usfm>
 
 
@@ -43,14 +43,16 @@
 
 ===== translationNotes: =====
 
-  * **She has sent out** - The word "she" refers to Wisdom, which is compared to a woman from [[:en:bible:notes:pro:09:01|9:1]]. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **invitations** - These invitations were either verbal messages that the maids were supposed to recite, or they were written letters addressed to the people wisdom wanted to invite.
-  * **her maids** - Young women or girls, in the service of a respectable, adult woman, like wisdom.
+  * **General Information:** - These verses begin to give the message of Wisdom, who is personified as a woman. (See: [[:en:ta:vol2:translate:figs_personification]]) 
+
+  * **She has sent out her maids** - These maids went out and invited people to come to the feast that Wisdom had prepared.
+  * **her maids** - Young women or girls who are in the service of a respectable, adult woman, such as Wisdom.
   * **she calls out** - "she proclaims" or "she summons" AT: "she loudly recites her invitation"
-  * **those who are untaught ... those who have no sense** - These two phrases describe the same group of people, namely people who need more wisdom in their lives.
-  * **who are untaught** - This does not mean people who did not go to school, but people who do not yet know how to live. "who are young and naïve"
-  * **come in here** - AT: "come into my house" or "are welcome in my house"
-  * **those who have no sense** - AT: "lack wisdom" or "do not have common sense" (UDB)
+  * **the highest points of the city** - The invitation is shouted from the highest points so that it will be best heard by all the people.
+  * **Who is naive? Let ... the one lacking good sense** - These two phrases describe the same group of people, those who need more wisdom in their lives. Here the question is addressed to all such people. AT: "Anyone who is naive, let ... anyone lacking good sense"
+  * **is naive** - "is inexperienced or immature"
+  * **turn aside here** - "leave his path and come into my house"
+
 
 ===== Links: =====
 
@@ -59,6 +61,6 @@
   * [[:en:bible:questions:comprehension:pro:09]]
 **[[:en:bible:notes:pro:09:01|<<]] | [[:en:bible:notes:pro:09:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

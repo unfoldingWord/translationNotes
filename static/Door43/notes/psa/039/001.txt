@@ -24,9 +24,8 @@
 
 <usfm>
 \c 39
-\p
+\m
 \d For the chief musician, for Jeduthun. A psalm of David.
-\b
 \q
 \v 1 I decided, "I will watch what I say
 \q so that I do not sin with my tongue.
@@ -44,7 +43,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **For the chief musician** - "This is for the director of music to use in worship,"
   * **Jeduthun** - One of David's chief musicians had this same name. This may refer to him. (See: [[:en:ta:vol1:translate:translate_names]])
@@ -59,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:039]]
 **[[:en:bible:notes:psa:038:021|<<]] | [[:en:bible:notes:psa:039:002|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

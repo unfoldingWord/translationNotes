@@ -35,7 +35,7 @@
 ===== translationNotes: =====
 
   * **tambourine** - This is a musical instrument with a head like a drum that can be hit and with pieces of metal around the side that sound when the instrument is shaken. (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **The Spirit of Yahweh will rush upon you** - Samuel speaks as if the Spirit of Yahweh were a person running up to Saul and taking complete control of him. AT: "The Spirit of Yahweh will take complete control of you" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **The Spirit of Yahweh will rush upon you** - The phrase "rush upon" means that Yahweh's Spirit will influence Saul. In this case it means it means he will make Saul prophesy and act like a different person. (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:1sa:10]]
 **[[:en:bible:notes:1sa:10:03|<<]] | [[:en:bible:notes:1sa:10:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check lute}}
+~~DISCUSSION~~{{tag>publish p2pass lute}}
 
 ~~NOCACHE~~

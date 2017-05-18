@@ -19,12 +19,10 @@
 
 <usfm>
 \v 5 A person who lies in order to become a friend will be punished for taking advantage,
-\q2 just as the one whose every word he speaks is a lie, he will not escape. 
-\b
+\q2 just as the one whose every word he speaks is a lie, he will not escape.
 \q1
-\v 6 When a person is generous with their gifts, many people will ask for favors, 
-\q2 it seems that everyone is a friend of the one who gives many gifts. 
-
+\v 6 When a person is generous with their gifts, many people will ask for favors,
+\q2 it seems that everyone is a friend of the one who gives many gifts.
 
 \q1
 </usfm>
@@ -54,10 +52,11 @@
 ===== translationNotes: =====
 
 
-  * **A false witness will not go unpunished** - "A false witness will certainly be punished" or "They will certainly punish a false witness" (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **breathes out lies** - See how you translated this phrase in [[:en:bible:notes:pro:06:17|6:19]].
-  * **will not escape** - AT: "will be captured" or "they will capture him" (See: [[:en:ta:vol2:translate:figs_litotes]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **A false witness will not go unpunished** - This can be written in positive and active form. AT: "They will certainly punish a false witness" (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he who breathes out lies will not escape** - This means that he will be captured. AT: "they will capture the one who breathes out lies" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **breathes out lies** - This is an idiom. Here "breathes" refers to lying constantly. See how you translated this phrase in [[:en:bible:notes:pro:06:17|6:19]]. AT: "constantly lies" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
   * **a generous person** - someone who often gives away things
+  * **everyone is a friend** - This is a slight exaggeration. AT: "it seems that everyone is a friend" or "almost everyone is a friend" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
  
  
 ===== Links: =====
@@ -73,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

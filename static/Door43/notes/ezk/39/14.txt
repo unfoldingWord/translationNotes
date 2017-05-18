@@ -23,9 +23,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 14 Then they will designate some men for the task of passing through the land to bury those who remain on the face of the land, in order to purify it. They will start this task after the seventh month.
-\v 15 As these men pass through the land, when they see any human bone, they will put a marker by it, until gravediggers come and bury it in the valley of Hamon Gog.
-\v 16 There will be a city there by the name of Hamonah. In this way they will purify the land.'
+\v 14 Then they will designate men to continually go through the land, to find those who were traveling through, but who died and their bodies remained on the surface of the land, so that they may bury them, in order to cleanse the land. At the end of the seventh month they will begin their search. 
+\v 15 As these men pass through the land, when they see any human bone, they will put a marker by it, until gravediggers come and bury it in the Valley of Hamon Gog.
+\v 16 There will be a city there by the name of Hamonah. In this way they will purify the land.
 </usfm>
 
 ===== translationWords: =====
@@ -37,12 +37,15 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues giving Ezekiel his message about Gog.
+  * **Connecting Statement:** - Yahweh continues to tell Ezekiel what will happen to Gog.
 
-  * **Then they** - "Then the house of Israel"
+  * **those who were traveling through, but who died and their bodies remained on the surface of the land** - This refers to the dead bodies of Gog's soldiers whom Yahweh killed at they entered to land.
+  * **so that they may bury them** - "so that they designated men may bury the dead bodies"
+  * **to cleanse the land ... purify the land** - In Jewish law, a dead body defiled anything it touched and made it "unclean." Burying these bodies is spoken of as cleansing or purifying the land. (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **seventh month** - (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **will designate some men for** - "will assign some men"
   * **through the land** - "through the land of Israel"
+  * **any human bone** - bones would be all that remained of the corpses after a period of time
+  * **they will put a marker by it, until gravediggers come and bury it** - There are apparently two groups of men. The first will mark the location of corpses, and the second group will bury them.
   * **Hamonah** - This name means "Great Army." (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
@@ -52,6 +55,6 @@
   * [[:en:bible:questions:comprehension:ezk:39]]
 **[[:en:bible:notes:ezk:39:12|<<]] | [[:en:bible:notes:ezk:39:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

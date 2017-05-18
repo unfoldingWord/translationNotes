@@ -16,12 +16,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 The woman who desires to commit adultery speaks with words that are sweet, 
+\v 3 The woman who desires to commit adultery speaks with words that are sweet,
 \q2 and her kisses are smoother than oil,
 \q1
 \v 4 but in the end, she is so bitter you can taste it,
-\q2 and she cuts you like a sharp sword. 
-
+\q2 and she cuts you like a sharp sword.
 
 \q1
 </usfm>
@@ -45,16 +44,14 @@
   * [[:en:obe:other:honey]]
   * [[:en:obe:other:oil]]
   * [[:en:obe:other:sword]]
- 
 
 ===== translationNotes: =====
 
-  * **the lips of an adulteress drip with honey ... her mouth is smoother than oil** - These two phrases express the same idea to emphasize the danger. Possible meanings are 1) she will say what you want to hear 2) kissing her feels good in the beginning. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **an adulteress** - This is not one particular woman in history, but she stands for any kind of sexual temptation. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **but in the end she is as bitter as wormwood** - AT: "but in the end she will taste really bad" or "but later she will say very mean things" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **wormwood** - A plant that tastes bitter.
-  * **cutting like a sharp sword** - AT: "speaking very hurtful words" or "causing a lot of pain" (See: [[:en:ta:vol1:translate:figs_metaphor]])
- 
+  * **the lips of an adulteress drip with honey** - Possible meanings are 1) the word "lips" represents the words of the adulteress and the writer speaks of the attractiveness of her words as if her lips dripped with honey. AT: "the words of an adulteress are sweet, as if dripping with honey" or 2) the writer speaks of the allure of kissing the adulteress as if her lips dripped with honey. AT: "the kisses of an adulteress are sweet, as if her lips dripped with honey" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **her mouth is smoother than oil** - Possible meanings are 1) the word "mouth" represents the speech of the adulteress and the writer speaks of the persuasiveness of her speech as if her mouth were smoother than olive oil. AT: "her speech is persuasive and smoother than olive oil" or 2) the writer speaks of the pleasure of kissing the adulteress as if her mouth were smoother than oil. AT: "her kisses are smoother than olive oil" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **but in the end she is as bitter as wormwood** - The writer speaks of the harm that comes from having a relationship with an adulteress as if she tasted as bitter as wormwood. AT: "but in the end, she is like bitter-tasting wormwood and will cause you harm" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **wormwood** - a plant that tastes bitter
+  * **cutting like a sharp sword** - The writer speaks of the pain that the adulteress will cause to the one who has a relationship with her as if she were a sharp weapon that cuts the person. AT: "she wounds a person, as if she were a sharp sword" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -63,6 +60,6 @@
   * [[:en:bible:questions:comprehension:pro:05]]
 **[[:en:bible:notes:pro:05:01|<<]] | [[:en:bible:notes:pro:05:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit honey}}
+~~DISCUSSION~~{{tag>publish p2pass honey}}
 
 ~~NOCACHE~~

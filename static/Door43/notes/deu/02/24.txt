@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 24 "'Now rise up, go on your journey, and pass over the valley of the Arnon; look, I have given into your hand Sihon the Amorite, king of Heshbon, and his land. Begin to possess it, and fight with him in battle.
+\v 24 "'Now rise up, go on your journey, and pass over the Valley of the Arnon; look, I have given into your hand Sihon the Amorite, king of Heshbon, and his land. Begin to possess it, and fight with him in battle.
 \v 25 Today I will begin to put the fear and terror of you on the peoples that are under the whole sky; they will hear news about you and will tremble and be in anguish because of you.'
 </usfm>
 
@@ -44,16 +44,18 @@
 
   * **General Information:** - The writer has finished giving background information and is now again telling what Moses said to the Israelites.
 
-  * **Now rise up** - Yahweh is telling Moses what the people should do. "Now get up" or " Now go."
-  * **rise up, go on your journey** - "continue your journey"
-  * **valley of the Arnon** - This is the name of the valley of the Arnon River. It creates the border between Moab and the Amorites. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Now rise up** - Yahweh is telling Moses what the people should do. "Now get up" or "Now go."
+  * **go on your journey** - "continue your journey"
+  * **Valley of the Arnon** - This is the name of the valley of the Arnon River. It creates the border between Moab and the Amorites. (See: [[:en:ta:vol1:translate:translate_names]])
   * **I have given into your hand** - The metonym "into your hand" means "into your control or power." AT: "I have given you the power to defeat" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **your hand ... Begin to possess it ... fight ... terror of you ... news about you ... because of you** - Moses speaks to the Israelites as if they were one man, so all instances of "you" and "your" and the commands "begin to possess" and "fight" are singular. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **Sihon ... Amorite ... Heshbon** - These are the names of a man, a people group, and a place. See how you translated them in [[:en:bible:notes:deu:01:03|1:4]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Sihon** - This is the name of a king. See how you translated this in [[:en:bible:notes:deu:01:03|1:4]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Heshbon** - This is the name of a city. See how you translated this in [[:en:bible:notes:deu:01:03|1:4]]. (See: [[:en:ta:vol1:translate:translate_names]])
   * **fight with him** - "fight against him and his army"
   * **put the fear and terror** - The words "fear" and "terror" mean basically the same thing and emphasize that the fear is intense. AT: "put a terrible fear" (See: [[:en:ta:vol2:translate:figs_doublet]])
   * **peoples that are under the whole sky** - This is an idiom. AT: "peoples in every land" ([[:en:ta:vol1:translate:figs_idiom]])
-  * **tremble and be in anguish** - This is hendiadys emphasizes that the people will "tremble in anguish." (See: [[:en:ta:vol2:translate:figs_hendiadys]])
+  * **tremble and be in anguish** - This is hendiadys and emphasizes that the people will "tremble in anguish." (See: [[:en:ta:vol2:translate:figs_hendiadys]])
+
 
 ===== Links: =====
 
@@ -68,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check terror}}
+{{tag>publish p2pass terror}}
 
 ~~NOCACHE~~

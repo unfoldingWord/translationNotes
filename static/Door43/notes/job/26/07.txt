@@ -16,8 +16,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 God stretches out the earth over the huge empty space
-\q2 and causes the earth to have nothing to support it.
+\v 7 God stretches out heaven 
+\q1 over the empty spaces, 
+\q2 and he places the earth in that huge empty space, but it is not resting on anything.
 \q1
 \v 8 He fills the thick clouds with water
 \q2 and prevents that water from bursting the clouds.
@@ -31,8 +32,9 @@
 
 <usfm>
 \q
-\v 7 He stretches out the north over empty space
-\q and hangs the earth upon nothing.
+\v 7 He stretches out the northern skies 
+\q over the empty space,
+\q and he hangs the earth over nothing.
 \q
 \v 8 He binds up the waters in his thick clouds,
 \q but the clouds are not torn under them.
@@ -46,9 +48,9 @@
 
 ===== translationNotes: =====
 
-  * **He stretches out the north** - AT: "He stretches out the north side of the earth" What is in the north can be stated clearly. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **binds up** - To "bind up" means to gather something and tie it together.
-  * **but the clouds are not torn under them.** - The word "them" refers to the "waters". AT: "but the weight of the waters does not burst the clouds" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **He stretches out the northern skies over the empty space** - The northern skies represent heaven, the place where God dwells with the beings he created to dwell there. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He binds up the waters in his thick clouds** - The clouds are spoken of as if they were a large blanket in which God wraps the rainwater. AT: "He wraps up the water in his thick clouds. 
+  * **but the clouds are not torn under them** - This can be stated actively. The word "them" refers to the waters. AT: "but the weight of the waters does not tear the clouds" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -57,6 +59,6 @@
   * [[:en:bible:questions:comprehension:job:26]]
 **[[:en:bible:notes:job:26:05|<<]] | [[:en:bible:notes:job:26:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

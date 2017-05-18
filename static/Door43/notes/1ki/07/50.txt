@@ -16,7 +16,6 @@
 <usfm>
 \v 50 the cups, the gold lamp wick snuffers, the small lamp bowls, the dishes for incense, the pans for carrying the hot coals, and the sockets for the doors at the entrance to the very holy place and for the doors at the entrance to the main room of the temple.
 \li1 Those things were all made of gold.
-\b
 
 
 \p
@@ -40,7 +39,7 @@
 
   * **The cups ... were all made of pure gold** - This can be stated in active form. AT: "The workers made the cups ... out of pure gold" (See [[:en:ta:vol2:translate:figs_activepassive]])
   * **Also the sockets ... were all made of gold** - This can be stated in active form. AT: "They also made the sockets ... out of gold" (See [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the sockets of the doors** - Here "socket" may refer to either 1) the sockets in which the door pegs turned, or 2) the hinges on which the doors hung.
+  * **the sockets of the doors** - Here "sockets" may refer to either 1) the sockets in which the door pegs turned, or 2) the hinges on which the doors hung.
  
 ===== Links: =====
 
@@ -49,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1ki:07]]
 **[[:en:bible:notes:1ki:07:48|<<]] | [[:en:bible:notes:1ki:07:51|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

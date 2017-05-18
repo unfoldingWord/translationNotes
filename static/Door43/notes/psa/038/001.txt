@@ -31,9 +31,8 @@
 
 <usfm>
 \c 38
-\p
+\m
 \d A psalm of David, to bring to remembrance.
-\b
 \q
 \v 1 Yahweh, do not rebuke me in your anger;
 \q do not punish me in your wrath.
@@ -57,10 +56,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
-  * **do not rebuke me in your anger ... do not punish me in your wrath** - These phrases mean the same thing. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **do not rebuke me in your anger ... do not punish me in your wrath** - These phrases mean basically the same thing and the idea is repeated for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **your arrows pierce me** - The severity of Yahweh's punishment of the writer is spoken of as if Yahweh had shot arrows into the writer. AT: "Your punishment is as painful as if you had shot arrows into me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **your hand presses me down** - Yahweh's punishment of the writer is spoken of as if Yahweh was smashing the writer with his hand. Here, "hand" refers to Yahweh's power. AT: "your power knocks me down" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
@@ -70,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:038]]
 **[[:en:bible:notes:psa:037:039|<<]] | [[:en:bible:notes:psa:038:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

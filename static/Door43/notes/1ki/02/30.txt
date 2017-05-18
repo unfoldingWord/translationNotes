@@ -20,7 +20,7 @@
 
 <usfm>
 \v 30 So Benaiah came to the tent of Yahweh and said to him, "The king says, 'Come out.'" Joab replied, "No, I will die here." So Benaiah returned to the king, saying, "Joab said he wanted to die at the altar."
-\v 31 The king said to him, "Do as he has said. Kill him and bury him, so that you may take away from me and from my father's house the blood which Joab shed without cause.
+\v 31 The king said to him, "Do as he has said. Kill him and bury him so that you may take away from me and from my father's house the blood that Joab shed without cause.
 </usfm>
 
 ===== translationWords: =====
@@ -37,7 +37,7 @@
 
   * **General Information:** - Benaiah goes to execute Joab.
 
-  * **take away from me and from my father's house the blood which Joab shed without cause** - Here "house" stands for the descendants of David while "blood" represents guilt. AT: "remove the guilt for the murders Joab committed from me and my family" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **bury him so that you may take away from me and from my father's house the blood that Joab shed without cause** - Here "house" stands for the descendants of David while "blood" represents guilt. AT: "bury him and so remove from me and my family the guilt for the murders Joab committed without cause" or "bury him. Do that so Yahweh will not hold me and my father's house guilty because Joab murdered people for no reason" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1ki:02]]
 **[[:en:bible:notes:1ki:02:28|<<]] | [[:en:bible:notes:1ki:02:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

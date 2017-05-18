@@ -22,13 +22,13 @@
 
 <usfm>
 \v 4 They give wise teaching to those who have no experience and to instruct those who do not know how to live a moral life,
-\q and to give the young the knowledge they need and to teach them the understanding they do not have— 
+\q and to give the young the knowledge they need and to teach them the understanding they do not have—
 \q1
 \v 5 so the wise may listen to these sayings and increase in their learning,
-\q2 and those who already have insight will gain more ways to teach people how they should live—
+\q2 and those who already have insight will gain more ways to live according to the lessons of wisdom.
 \q1
-\v 6 they understand the lessons of the proverbs and meaning of the parables,
-\q2 they hear words spoken by the wise, and the difficult riddles will teach them a lesson.
+\v 6 They seek to understand the lessons of the proverbs and the meaning of the parables.
+\q2 These are the words of the wise and their difficult riddles.
 
 
 \q1
@@ -39,7 +39,7 @@
 
 <usfm>
 \q
-\v 4 These proverbs are also to give wisdom to those who have not been taught,
+\v 4 These proverbs are also to give wisdom to the naive,
 \q and to give knowledge and discretion to young people.
 \q
 \v 5 Let wise people listen and increase their learning,
@@ -47,7 +47,6 @@
 \q
 \v 6 to understand proverbs, sayings,
 \q and words of wise people and their riddles.
-\b
 </usfm>
 
 
@@ -62,10 +61,12 @@
 
 ===== translationNotes: =====
 
-  * **those who have not been taught** - "people who are lacking in understanding" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **are also to give wisdom to the naive** - This can be reworded so that the abstract noun "wisdom" can be stated as the adjective "wise." This can also be stated in active form. AT: "also teach to those who are naive how to be wise" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **naive** - "inexperienced, immature"
+  * **to give knowledge and discretion to young people** - The abstract nouns "knowledge" and "discretion" can be stated as verbs. AT: "and to teach to young people what they need to know and how to discern the right thing to do" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **discretion** - knowing what should be done in a particular situation
-  * **Let wise people listen** - "People who are already wise should also pay attention" 
-  * **let discerning people get guidance** - "people who have understanding should let these words guide them"
+  * **Let wise people listen and increase their learning** - "Let those who are wise pay attention and learn even more" 
+  * **let discerning people get guidance** - "let people who have understanding learn from these proverbs how to make good decisions"
   * **riddles** - sayings that one can understand only after thinking about them
  
 ===== Links: =====
@@ -81,6 +82,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit discernment}}
+{{tag>publish p2pass discernment}}
 
 ~~NOCACHE~~

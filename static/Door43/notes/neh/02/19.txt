@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 But Sanballat, Tobiah the Ammonite servant, and Geshem the Arabian, heard about what we planned to do. They mocked and made fun of us. They said, "What is this work that you are doing? Are you rebelling against the king?" 
+\v 19 But Sanballat, Tobiah the Ammonite servant, and Geshem the Arabian, heard about what we planned to do. They mocked and made fun of us. They said, "What is this work that you are doing? Are you rebelling against the king?"
 \p
 \v 20 But I replied, "The God who is in heaven will give us success. But you have no right to this city, you have no deed, you have no lawful claim to it, and you have no historic connection to the city of Jerusalem."
 </usfm>
@@ -41,11 +41,12 @@
   * [[:en:obe:other:jerusalem]] 
 ===== translationNotes: =====
 
-  * **Sanballat ... Tobiah ... and Geshem** - These are the names of men who resisted the effort to rebuild the walls and the gates. See [[:en:bible:notes:neh:02:09|02:9-10]]. (See [[:en:ta:vol1:translate:translate_names]])
-  * **Sanballat the Horonite** - The Horonites were a people group. (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **Are you rebelling against the king?** - The word "king" refers to Artaxerses, the King of Persia.
-  * **We are his servants and we will arise and build** - "We his servants will begin rebuilding."
-  * **But you have no share, no right, and no historic claim in Jerusalem** - "But you have no share, right, or religious claim in Jerusalem." 
+  * **Sanballat ... Tobiah** - These are the names of men. Translate as in [[:en:bible:notes:neh:02:09|02:9-10]]. (See [[:en:ta:vol1:translate:translate_names]])
+  * **Geshem** - This is the name of a man. (See [[:en:ta:vol1:translate:translate_names]])
+  * **What are you doing? Are you rebelling against the king?** - These rhetorical questions are used to mock Nehemiah. These can be written as statements. AT: "You are acting foolishly! You should not be rebelling against the king!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the king** - This refers to Artaxerses, the king of Persia.
+  * **will arise and build** - This is an idiom. AT: "will begin rebuilding" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **But you have no share, no right, and no historic claim in Jerusalem** - "But you have no share, legal right, or religious claim to Jerusalem" 
 ===== Links: =====
 
   * [[:en:bible:notes:neh:00:intro]]
@@ -53,6 +54,6 @@
   * [[:en:bible:questions:comprehension:neh:02]]
 **[[:en:bible:notes:neh:02:17|<<]] | [[:en:bible:notes:neh:03:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit arabia}}
+~~DISCUSSION~~{{tag>publish p2pass arabia}}
 
 ~~NOCACHE~~

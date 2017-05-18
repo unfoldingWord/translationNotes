@@ -33,9 +33,8 @@
 <usfm>
 \ms Book Two
 \c 42
-\p
+\m
 \d For the chief musician. A maschil of the sons of Korah.
-\b
 \q
 \v 1 As the deer pants after streams of water,
 \q so I thirst for you, God.
@@ -54,7 +53,7 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **For the chief musician** - "This is for the director of music to use in worship."
   * **A maschil** - This may refer to a style of music. See how you translated this in [[:en:bible:notes:psa:032:001|32:1]].
@@ -70,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:042]]
 **[[:en:bible:notes:psa:041:013|<<]] | [[:en:bible:notes:psa:042:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2 korah}}
+~~DISCUSSION~~{{tag>publish p2pass book2 korah}}
 
 ~~NOCACHE~~

@@ -44,7 +44,9 @@
 
 ===== translationNotes: =====
 
-  * **How can I go?** - This rhetorical question can be translated as a statement. AT: "I can not go!" or "I am afraid to go." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **How can I go?** - Samuel uses a question to emphasize that he is worried about going to Bethlehem. AT: "I cannot go!" or "I am afraid to go." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **with you and say** - You can state the understood information. AT: "with you to Bethlehem and say to the people there" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **and say, 'I have come to sacrifice to Yahweh.'** - This has a quotation within a quotation. The direct quotation can be stated as an indirect quotation. AT: "and say to the people there that you have come to sacrifice to Yahweh." (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
 
 ===== Links: =====
 
@@ -53,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1sa:16]]
 **[[:en:bible:notes:1sa:16:01|<<]] | [[:en:bible:notes:1sa:16:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit anoint heifer}}
+~~DISCUSSION~~{{tag>publish p2pass anoint heifer}}
 
 ~~NOCACHE~~

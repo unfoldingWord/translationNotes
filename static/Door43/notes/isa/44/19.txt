@@ -35,9 +35,9 @@
 
 <usfm>
 \q1
-\v 19 No one thinks, nor do they comprehend and say, 
+\v 19 No one thinks, nor do they comprehend and say,
 \q1 "I have burned part of the wood in the fire; yes,
-I have also baked bread upon its coals. I have roasted meat over its coals and eaten. 
+I have also baked bread upon its coals. I have roasted meat over its coals and eaten.
 \q1 Now should I make the other part of the wood into something disgusting to worship? Should I bow down to a block of wood?"
 </usfm>
 
@@ -50,7 +50,7 @@ I have also baked bread upon its coals. I have roasted meat over its coals and e
 ===== translationNotes: =====
 
 
-  * **Now should I make the other part of the wood into something disgusting to worship? Should I bow down to a block of wood?** - Yahweh uses these question to emphasize that the people are ignorant for making idols from the same wood they also use for burning. (See: UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Now should I make ... something disgusting to worship? Should I bow down to a block of wood?** - Yahweh says that these people should be asking themselves these rhetorical questions. The questions anticipate negative answers and emphasize how foolish it would be for a person to do these things. These questions can be translated as statements. AT: "I should not now make ... something disgusting to worship. I should not bow down to a block of wood." (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -65,6 +65,6 @@ I have also baked bread upon its coals. I have roasted meat over its coals and e
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit bow}}
+{{tag>publish p2pass bow}}
 
 ~~NOCACHE~~

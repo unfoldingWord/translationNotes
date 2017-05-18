@@ -19,11 +19,10 @@
 \v 7 A lame man cannot use his legs; they hang down and are useless,
 \q2 as useless as when fools are reciting proverbs to one another that they do not understand..
 \q1
-\v 8 When you tie a stone into a sling so it cannot be thrown, 
-\q2 that is like one who gives honor to a fool, 
-\q2 for no matter how much you praise him, 
-\q2 it will never do him any good. 
-
+\v 8 When you tie a stone into a sling so it cannot be thrown,
+\q2 that is like one who gives honor to a fool,
+\q2 for no matter how much you praise him,
+\q2 it will never do him any good.
 
 \q1
 </usfm>
@@ -32,11 +31,11 @@
 
 <usfm>
 \q
-\v 7 The legs of a paralytic hanging down 
-\q are like a proverb in the mouth of fools.
+\v 7 Like the legs of a paralytic which hang down
+\q is a proverb in the mouth of fools.
 \q
-\v 8 Tying a stone in a sling
-\q is the same as giving honor to a fool.
+\v 8 Like tying a stone in a sling
+\q is giving honor to a fool.
 </usfm>
 
 ===== translationWords: =====
@@ -47,8 +46,11 @@
 
 ===== translationNotes: =====
 
-  * **paralytic** - a person who is unable to move or feel all or part of his body
-  * **Tying a stone in a sling is the same as giving honor to a fool** - Tying a stone in a sling so that it cannot be thrown at a target is as foolish as honoring a foolish person. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Like the legs ... is a proverb in the mouth of fools** - The phrases can be reordered. AT: "A proverb in the mouth of fools is like the legs of a paralytic which hang down" or " A proverb in the mouth of fools is as useless as the legs of a paralytic which hang down" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **a paralytic** - a person who is unable to move or feel all or part of his body
+  * **in the mouth of fools** - "in the speech of fools" or "that fools say" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **tying a stone in a sling** - In order to throw a stone very far, people put it into a sling and swing the sling so that the stone will fly from it very quickly. The result of tying a stone in a sling can be stated clearly. AT: "tying a stone in a sling so that it cannot be thrown" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **giving honor to a fool** - "honoring a fool"
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -56,6 +58,6 @@
   * [[:en:bible:questions:comprehension:pro:26]]
 **[[:en:bible:notes:pro:26:05|<<]] | [[:en:bible:notes:pro:26:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

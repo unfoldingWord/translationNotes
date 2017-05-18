@@ -26,7 +26,7 @@
 \p
 \v 13 Then Adonijah son of Haggith came to Bathsheba the mother of Solomon. She said, "Do you come peacefully?" He replied, "Peacefully."
 \v 14 Then he said, "I have something to say to you." So she replied, "Speak."
-\v 15 Adonijah said, "You know that the kingdom was mine, and that all Israel expected me to be king. However, the kingdom has been turned about and has become my brother's, for it was his from Yahweh.
+\v 15 Adonijah said, "You know that the kingdom was mine, and that all Israel expected me to be king. But things changed, and the kingdom was given to my brother, for it was his from Yahweh.
 </usfm>
 
 ===== translationWords: =====
@@ -42,7 +42,10 @@
 
   * **General Information:** - Adonijah comes to speak to Bathsheba.
 
-  * **peacefully** - AT: "with no desire to cause harm"
+  * **peacefully** - "with no desire to cause harm"
+  * **all Israel** - This is a generalization. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **things changed** - "what we expected to happen did not happen"
+  * **the kingdom was given to my brother** - This can be translated in active form. AT: "Yahweh gave the kingdom to my brother" or "my brother became king" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -51,6 +54,6 @@
   * [[:en:bible:questions:comprehension:1ki:02]]
 **[[:en:bible:notes:1ki:02:10|<<]] | [[:en:bible:notes:1ki:02:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

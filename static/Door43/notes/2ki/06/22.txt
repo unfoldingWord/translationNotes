@@ -35,13 +35,14 @@
 ===== translationNotes: =====
 
   * **Elisha answered** - Elisha was replying to the king of Israel's question.
-  * **Would you kill those whom you had taken captive with your sword and bow?** - AT: "You would not kill men that were captured as prisoners of war." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Put bread and water before them, that they may eat and drink** - AT: "Give them food to eat and water to drink," (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **go to their master** - "return to the king of Aram"
-  * **So the king prepared much food for them** - "Then the king ordered his servants to prepare a lot of food for them," (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **he sent them away** - The king of Israel sent the Aramean soldiers back to their homeland. 
-  * **they went back to their master** - They returned to the king of Aram. 
-  * **did not return for a long time into the land of Israel** - "stopped attacking the land of Israel for a long time." 
+  * **Would you kill those whom you had taken captive with your sword and bow?** - Elisha uses this rhetorical question to emphasize to the king that he should not kill these men. This can be written as a statement. AT: "You would not kill men that were captured as prisoners of war." or "You would not kill men taken captive in war, therefore you should not kill these men" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **you had taken captive with your sword and bow** - This speaks of the king's soldiers taking men captive as if the king himself was the one who captured them. AT: "your soldiers had taken captive with their swords and bows" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **with your sword and bow** - These are the weapons that were used in war. AT: "in war with your sword and bow" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Put bread and water before them, that they may eat and drink** - Here "bread" refers to food in general. AT: "Give them food to eat and water to drink," (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **go to their master** - This refers to the king of Aram.
+  * **So the king prepared much food for them** - The king ordered his servants to prepare the food. He did not prepare the food himself. AT: "Then the king ordered his servants to prepare a lot of food for them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Those bands** - "Those groups" 
+  * **did not return for a long time into the land of Israel** - This means that they did not attack Israel for a long time. AT: "stopped attacking the land of Israel for a long time" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
  
 ===== Links: =====
 
@@ -50,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2ki:06]]
 **[[:en:bible:notes:2ki:06:20|<<]] | [[:en:bible:notes:2ki:06:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

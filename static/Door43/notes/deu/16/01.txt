@@ -41,9 +41,9 @@
 
   * **General Information:** - Moses continues speaking to the people of Israel.
 
-  * **month of Abib** - This is the first month of the Hebrew calendar. It marks when God brought the people of Israel out of Egypt. It is at the beginning of the spring season when the late rains come and people begin to harvest their crops. It is during the last part of March and the first part April on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol1:translate:translate_names]])
-  * **keep the Passover** - You may make clear the understood meaning. AT: "celebrate the Passover meal" or "eat the Passover meal" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **sacrifice the Passover** - Here "Passover" represents the animal that is sacrificed for the Passover celebration. AT: For the Passover you will sacrifice" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **month of Abib** - This is the first month of the Hebrew calendar. It marks when God brought the people of Israel out of Egypt. It is during the last part of March and the first part April on Western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol1:translate:translate_names]])
+  * **keep the Passover** - It is implied by "keep the Passover" that they would celebrate and eat the Passover meal. AT: "celebrate the Passover meal" or "eat the Passover meal" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **You will sacrifice the Passover** - Here "Passover" represents the animal that is sacrificed for the Passover celebration. AT: For the Passover you will offer a sacrifice" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:deu:16]]
 **[[:en:bible:notes:deu:15:22|<<]] | [[:en:bible:notes:deu:16:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check passover}}
+~~DISCUSSION~~{{tag>publish p2pass passover}}
 
 ~~NOCACHE~~

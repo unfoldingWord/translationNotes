@@ -48,13 +48,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Hannah continues to recite a song to Yahweh. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Connecting Statement:** - Hannah continues to recite a song to Yahweh. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **Those who oppose Yahweh will be broken** - This can be stated in active form. AT: "Yahweh will break those who oppose him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **broken to pieces** - This idiom means "defeated." (See: [[:en:ta:vol1:translate:figs_idiom]]) 
   * **the ends of the earth** - This is an idiom that means everywhere. AT: "the whole earth" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **exalt the horn of his anointed** - A horn is a symbol of strength. AT: "he will make the leader he has chosen stronger than his enemies" Similar words appear in [[:en:bible:notes:1sa:02:01|2:1]].
-  * **his anointed** - This can be translated in active form. AT: "the one he has anointed" or "the one on whom he has poured oil" The oil was a symbol that showed that Yahweh had chosen the person on whom they poured the oil to lead and rule over the people. AT: "the leader he has chosen"
+  * **exalt the horn of his anointed** - A horn is a symbol of strength. See how you translated similar words in [[:en:bible:notes:1sa:02:01|2:1]]. AT: "he will make the leader he has chosen stronger than his enemies" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **his anointed** - This speaks of the person that Yahweh chose and empowered for his purposes as if Yahweh had anointed the person with oil. This can be stated in active form. AT: "the one he has anointed" or "the one he has chosen" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]]) 
 
 ===== Links: =====
 
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:1sa:02]]
 **[[:en:bible:notes:1sa:02:09|<<]] | [[:en:bible:notes:1sa:02:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check p2example}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

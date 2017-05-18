@@ -17,8 +17,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 And he who kills another man must certainly be put to death.
-\v 18 He who kills someone's animal must pay it back, life for life.
+\v 17 If anyone strikes down another human being, he must certainly be put to death.
+\v 18 If anyone strikes down someone's animal, he must pay it back, life for life.
 </usfm>
 
 ===== translationWords: =====
@@ -29,7 +29,7 @@
 
   * **Connecting Statement:** - God continues telling Moses what the people must do when someone does something bad.
 
-  * **And he who kills another man must certainly be put to death** - This can be stated in active form. AT: "You must certainly put to death anyone who kills another person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he must certainly be put to death.** - This can be stated in active form. AT: "You must certainly put to death anyone who kills another person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **must pay it back** - How he would pay it back can be stated clearly. AT: "must pay it back by giving him a live animal" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **life for life** - This is an idiom that means that one life would replace the other. AT: "one life to replace the other life" or "to replace the one that he killed" (UDB) (See: [[:en:ta:vol1:translate:figs_idiom]]) 
 ===== Links: =====
@@ -39,6 +39,6 @@
   * [[:en:bible:questions:comprehension:lev:24]]
 **[[:en:bible:notes:lev:24:15|<<]] | [[:en:bible:notes:lev:24:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

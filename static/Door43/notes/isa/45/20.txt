@@ -28,10 +28,9 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
-\v 20 Assemble yourselves and come! Gather together, you refugees from among the nations! 
-\q1 They have no knowledge, those who carry carved images and pray to gods who cannot save.
+\v 20 Assemble yourselves and come! Gather together, you refugees from among the nations!
+\q1 They have no knowledge, those who carry carved images and pray to gods that cannot save.
 </usfm>
 
 
@@ -48,7 +47,8 @@
 
   * **General Information:** - Yahweh continues speaking
 
-  * **refugees** - people who have fled from their homes so the enemy will not capture or kill them 
+  * **refugees** - people who have fled from their homes so the enemy will not capture or kill them
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -62,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

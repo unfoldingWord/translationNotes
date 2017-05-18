@@ -18,7 +18,7 @@
 \li the Jachinites descended from his son Jachin,
 \li the Zerahites descended from his son Zerah,
 \li the Shaulites descended from his son Shaul.
-\pi The Israelite leaders counted 22,200 men from the tribe of Simeon. 
+\pi The Israelite leaders counted 22,200 men from the tribe of Simeon.
 
 
 \pi
@@ -29,15 +29,15 @@
 
 <usfm>
 \p
-\v 12 The clans of Simeon's descendants were these: 
+\v 12 The clans of Simeon's descendants were these:
 \q1
-By Nemuel, the clan of the Nemuelites, 
-\q1 by Jamin, the clan of the Jaminites, 
+By Nemuel, the clan of the Nemuelites,
+\q1 by Jamin, the clan of the Jaminites,
 \q1 by Jachin, the clan of the Jachinites,
 \q1
-\v 13 by Zerah, the clan of the Zerahites, 
+\v 13 by Zerah, the clan of the Zerahites,
 \q1 by Shaul, the clan of the Shaulites.
- 
+
 \v 14 These were the clans of Simeon's descendants, who numbered 22,200 men.
 </usfm>
 
@@ -60,6 +60,6 @@ By Nemuel, the clan of the Nemuelites,
   * [[:en:bible:questions:comprehension:num:26]]
 **[[:en:bible:notes:num:26:10|<<]] | [[:en:bible:notes:num:26:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

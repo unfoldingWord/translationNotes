@@ -36,8 +36,8 @@
 
 <usfm>
 \q1
-\v 7 This is what Yahweh says, the Redeemer of Israel, their Holy One, 
-\q1 to the one whose life is despised, hated by the nations, and a slave of rulers, 
+\v 7 This is what Yahweh says, the Redeemer of Israel, their Holy One,
+\q1 to the one whose life is despised, hated by the nations, and a slave of rulers,
 \q1 "Kings will see you and arise, and princes will see you and bow down,
 \q1 because of Yahweh who is faithful, even the Holy One of Israel, who has chosen you."
 </usfm>
@@ -59,9 +59,9 @@
 
 ===== translationNotes: =====
 
-  * **Redeemer** - See how you translated this in [[:en:bible:notes:isa:41:14|41:14]].
-  * **to the one whose life is despised, hated by the nations, and a slave of rulers** - This can be stated in active form. This refers to Yahweh's servant. AT: "to the one whom the people of the nations hate and reject" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Holy One of Israel** - See how you translated this in [[:en:bible:notes:isa:01:04|1:4]].
+  * **Redeemer** - Translate this word the same way you did in [[:en:bible:notes:isa:41:14|41:14]].
+  * **to the one whose life is despised, hated by the nations, and a slave of rulers** - Here the word "life" represents the person. This can be stated in active form. AT: "to the one whom people despised, whom the nations hated and held as slaves" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Holy One of Israel** - Translate this phrase the same way you did in [[:en:bible:notes:isa:01:04|1:4]].
 
 ===== Links: =====
 
@@ -70,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:49]]
 **[[:en:bible:notes:isa:49:05|<<]] | [[:en:bible:notes:isa:49:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

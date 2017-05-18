@@ -44,9 +44,8 @@
 \q1
 \v 17 I will wait for Yahweh, who hides his face from the house of Jacob; I will wait for him.
 \q1
-\v 18 See, I and the sons whom Yahweh has given me are for signs and for wonders in Israel 
-\q1 from Yahweh of hosts, who
-lives on Mount Zion.
+\v 18 See, I and the sons whom Yahweh has given me are for signs and for wonders in Israel
+\q1 from Yahweh of hosts, who lives on Mount Zion.
 </usfm>
 
 ===== translationWords: =====
@@ -65,8 +64,9 @@ lives on Mount Zion.
   * **Bind up my testimony, seal the official record** - These two phrases mean basically the same thing. AT: "Close up tightly the scroll with this message written on it" (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **my testimony ... my disciples** - It is unclear to whom the word "my" refers. It could be Isaiah or Yahweh. It is best to leave the pronouns ambiguous if your language will allow it. 
   * **I will wait for Yahweh** - Here "I" refers to Isaiah.
-  * **who hides his face from the house of Jacob** - "Hide his face" refers to God turning away from his people and removing his blessing from them. AT: "who has taken away his blessing from the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I and the sons whom Yahweh has given me are for signs and for wonders in Israel** - "I and the sons Yahweh has given me are like signs to warn the people of Israel." The sons are Shear-Jashub and Maher-shalal-hash-baz whose names are a message to the people of Israel. (See: [[:en:bible:notes:isa:07:03|7:3]] and [[:en:bible:notes:isa:08:01|8:1]])
+  * **who hides his face from the house of Jacob** - Yahweh's "face" is a metonym for his blessing or favor. AT: "who has taken away his blessing from the house of Jacob" or "who no longer looks with favor on the house of Jacob" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **house of Jacob** - people of Israel
+  * **I and the sons whom Yahweh has given me are for signs and for wonders in Israel** - "I and the sons Yahweh has given me are like signs to warn the people of Israel." The sons are Shear-Jashub and Maher-shalal-hash-baz, whose names are a message to the people of Israel. (See: [[:en:bible:notes:isa:07:03|7:3]] and [[:en:bible:notes:isa:08:01|8:1]])
 
 ===== Links: =====
 
@@ -75,6 +75,6 @@ lives on Mount Zion.
   * [[:en:bible:questions:comprehension:isa:08]]
 **[[:en:bible:notes:isa:08:14|<<]] | [[:en:bible:notes:isa:08:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

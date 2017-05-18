@@ -17,8 +17,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 Hold on to what is wise and whatever helps you understand, 
-\q1 and do not forget the lessons I taught you and do not throw away the insights I spoke to you. 
+\v 5 Hold on to what is wise and whatever helps you understand,
+\q1 and do not forget the lessons I taught you and do not throw away the insights I spoke to you.
 \q1
 \v 6 Do not run away from the lessons which the wise teach you,
 \q2 because if you become wise, wisdom will keep you safe.
@@ -51,14 +51,15 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The father continues teaching his children.
+  * **General Information:** - The father continues to teach his children what his father taught him.
 
-  * **Acquire** - "Work hard to gain for yourself" or "Get"
+  * **Acquire wisdom** - "Work hard to gain for yourself wisdom" or "Get wisdom"
   * **do not forget** - "remember"
   * **do not reject** - "accept"
-  * **do not abandon wisdom** - "hold tightly to wisdom" or "work hard to become wise" 
-  * **she will watch ... love her ... she will keep** - Being wise is having a mother or loving woman to guard and protect you. (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
- 
+  * **the words of my mouth** - Here the word "mouth" represents the person who speaks. AT: "what I am saying" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **do not abandon wisdom and she will watch over you; love her and she will keep you safe** - The writer speaks of wisdom as if it were a woman who protects the person who is faithful to her. (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **do not abandon wisdom** - This can be stated in positive form. AT: "hold tightly to wisdom" or "be faithful to wisdom"
+  * **love her** - "love wisdom" 
  
 ===== Links: =====
 
@@ -73,6 +74,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

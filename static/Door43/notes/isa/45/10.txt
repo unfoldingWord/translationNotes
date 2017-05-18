@@ -20,7 +20,6 @@
 \q2 'Why are you causing me to be born?'
 \q1 or if it said to its mother,
 \q2 'The result of your labor pains will be useless.'"
-\b
 
 
 \q1
@@ -42,9 +41,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to scold those who argue with him about what he does. (See: [[:en:bible:notes:isa:45:09|45:9]])
+  * **General Information:** - Yahweh continues to scold those who argue with him about what he does.
 
-  * **What are you fathering ... What are you giving birth to?** - A person is using questions to scold the parents for what they are doing by making a child. This refers to the people arguing with Yahweh for what he does. AT: "You should not be a father ... You should not be a mother." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Woe to him who says to a father, ... 'What are you giving birth to?'** - Yahweh speaks of those who would argue him as if they were unborn children who argue with their own parents. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **What are you fathering? ... What are you giving birth to?** - The unborn child asks these rhetorical questions to scold his parents for giving birth to him. These can be translated as statements. AT: "You should not be my father ... You should give birth to me." or "You are not fathering me correctly ... You are not giving birth to me correctly." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -55,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

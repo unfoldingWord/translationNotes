@@ -29,8 +29,8 @@
 
 <usfm>
 \q1
-\v 11 Look, all you who light fires, who equip yourselves with torches: 
-\q1 walk in the light of your fire and in the flames that you have ignited. 
+\v 11 Look, all you who light fires, who equip yourselves with torches:
+\q1 walk in the light of your fire and in the flames that you have ignited.
 \q1 This is what you have received from me: you will lie down in a place of pain.
 </usfm>
 
@@ -42,8 +42,8 @@
  
 ===== translationNotes: =====
 
-  * **all you who light fires ... flames that you have ignited** - Isaiah continues to speak here for God. This refers to the people in darkness who try to live according to their own "light," that is, by their own wisdom, instead of obeying God. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **you will lie down in a place of pain** - Here to "lie down" refers to dying. AT: "You will die with great suffering" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **all you who light fires ... flames that you have ignited** - This continues the metaphor from the previous verse of people who walk in darkness. Here people who try to live according to their own wisdom instead of trusting in Yahweh are spoken of as if they lit their own fires and carried about torches in order to see in the dark. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you will lie down in a place of pain** - Here to "lie down" refers to dying. Dying painfully is spoken of as if it were lying down in a place where they will experience pain. AT: "you will die with great suffering" (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:isa:50]]
 **[[:en:bible:notes:isa:50:10|<<]] | [[:en:bible:notes:isa:51:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -28,7 +28,6 @@
 \q2 You were very dear to me.
 \q1 You loved me in a wonderful manner.
 \q2 It was even better than the way that a woman loves her husband and her children.
-\b
 \q1
 \v 27 It is very sad that these mighty men have died,
 \q2 and that their weapons are now no more!
@@ -62,14 +61,14 @@
 
 ===== translationNotes: =====
 
-  * **How the mighty have fallen** - This phrase is repeated in verses 25 and 27 to emphasize that Israel's best warriors are dead. AT: "The mighty men have died in battle!
+  * **How the mighty have fallen in the midst of the battle** - This phrase is repeated in verse 27 to emphasize that Israel's best warriors are dead. AT: "The mighty men have died in battle"
   * **the mighty** - Here "mighty" is plural and may refer to only Saul and Jonathan, or to all of the soldiers of Israel. AT: "the mighty warriors" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **have fallen** - This is a polite way to say "have died in battle." (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **have fallen** - This is a polite way to say "have died." (See: [[:en:ta:vol2:translate:figs_euphemism]])
   * **Jonathan is killed** - This can be stated in active form. AT: "Jonathan has died in battle" or "The enemy has killed Jonathan" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **on your high places** - David continues to address this part of the song to the mountains of Gilboa as he started in [[:en:bible:notes:2sa:01:21|1:21]]. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
   * **my brother Jonathan** - Here "brother" is used in the sense of a very close friend. 
   * **Your love to me was wonderful, exceeding the love of women** - Here "love" is used in the sense of friendship and loyalty. Jonathan's loyalty to David was even greater than the loyalty a woman has for her husband and children. 
-  * **the weapons of war perished** - "their weapons have been destroyed"
+
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -77,6 +76,6 @@
   * [[:en:bible:questions:comprehension:2sa:01]]
 **[[:en:bible:notes:2sa:01:23|<<]] | [[:en:bible:notes:2sa:02:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

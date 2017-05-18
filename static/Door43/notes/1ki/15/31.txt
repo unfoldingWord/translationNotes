@@ -24,7 +24,7 @@
 
 <usfm>
 \p
-\v 31 As for the other matters concerning Nadab, and all that he did, are they not written in The Book of the Events of the Kings of Israel?
+\v 31 As for the other matters concerning Nadab, and all that he did, are they not written in the book of the events of the kings of Israel?
 \v 32 There was war between Asa and Baasha king of Israel all their days.
 </usfm>
 
@@ -37,8 +37,9 @@
 
 ===== translationNotes: =====
 
-  * **are they not written in The Book of the Events of the Kings of Israel?** - AT: "they are written in The Book of the Events of the Kings of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-
+  * **are they not written in the book of the events of the kings of Israel?** - This question is used to either inform or remind the readers that the information about Nadab is in this other book. See how you translated a similar phrase concerning Judah in [[:en:bible:notes:1ki:14:29|14:29]]. This rhetorical question can be written as a statement. AT: "they are written in the book of the events of the kings of Israel." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **are they not written in the book of the events of the kings of Israel?** - This can be stated in active form. AT: "someone has written about this in the book of the events of the kings of Israel." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **all their days** - The word "days" represents a period of time, and "all their days" refers to the whole period of time that Asa and Baasha were kings. See how you translated this in [[:en:bible:notes:1ki:15:16|15:16]] AT: "the whole time that they reigned over Judah and Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:1ki:15]]
 **[[:en:bible:notes:1ki:15:29|<<]] | [[:en:bible:notes:1ki:15:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

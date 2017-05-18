@@ -55,11 +55,12 @@
  
 ===== translationNotes: =====
 
-  * **Bildad the Shuhite** - See how you translated this in [[:en:bible:notes:job:02:11|2:11]].
-  * **Dominion and fear are with him** - AT: "Dominion and fear are with God" or "God rules over all, and people should fear only him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **in his high places of heaven** - AT: "in heaven" or "in the high heaven"
-  * **Is there any end to the number of his armies?** - The implicit answer is "no." This also refers to the armies of God's angels. AT: "There is no end to the number of angels in his army" or "His armies are so big that no one can count them" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Upon whom does his light not shine?** - "Who can hide from his attention?" or AT: "Nor is there anyone upon whom his light does not shine." or "God makes his light shine over everyone." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Bildad the Shuhite** - Translate this man's name as in [[:en:bible:notes:job:02:11|2:11]].
+  * **Dominion and fear are with him** - Here "him" refers to God. The abstract nouns "dominion" and "fear" can be stated as verbs. AT: "Dominion and fear are with God" or "God rules over all, and people should fear only him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **in his high places of heaven** - "in heaven" or "in the high heaven"
+  * **Is there any end to the number of his armies?** - Bildad uses this question to express how great God is. The implicit answer is "no." This refers to the armies of God's angels. AT: "There is no end to the number of angels in his army." or "His armies are so big that no one can count them." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Upon whom does his light not shine?** - Bildad uses this question to express that God gives light to every person. AT: "Nor is there anyone upon whom his light does not shine." or "God makes his light shine over everyone." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
 
 ===== Links: =====
 
@@ -68,6 +69,6 @@
   * [[:en:bible:questions:comprehension:job:25]]
 **[[:en:bible:notes:job:24:24|<<]] | [[:en:bible:notes:job:25:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -19,12 +19,10 @@
 
 <usfm>
 \v 23 If you work hard, you will make some money,
-\q2 but where there is only talk, it leads to poverty. 
-\b
+\q2 but where there is only talk, it leads to poverty.
 \q1
 \v 24 The reward of the wise is the wealth they have,
-\q2 but the folly of fools only brings them more foolishness. 
-
+\q2 but the folly of fools only brings them more foolishness.
 
 \q1
 </usfm>
@@ -52,9 +50,9 @@
 
 ===== translationNotes: =====
 
-  * **but when there is only talk** - AT: "but if you only talk" or "but when all you do is talking"
-  * **The crown of wise people** - AT: "The reward of wise people" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the folly of fools** - See how you translated this phrase in [[:en:bible:notes:pro:14:07|14:8]].
+  * **but when there is only talk** - "but if you only talk" or "but when all a person does is talking"
+  * **The crown of wise people** - The word "crown" represents the highest achievement possible and visible to all. AT: "The reward of wise people" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the folly of fools** - Translate this phrase as in [[:en:bible:notes:pro:14:07|14:8]].
  
 ===== Links: =====
 
@@ -68,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

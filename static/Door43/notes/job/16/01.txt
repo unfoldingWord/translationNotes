@@ -23,7 +23,7 @@
 \v 2 "I have heard things like that before;
 \q2 all of you, instead of helping me, are only causing me to feel more miserable.
 \q1
-\v 3 Will your speeches, which are only wind, never end ?
+\v 3 Will your speeches, which are only wind, never end?
 \q2 Eliphaz, what bothers you that makes you continue replying like this to me?
 
 
@@ -54,8 +54,9 @@
   
 ===== translationNotes: =====
 
-  * **Will useless words ever have an end?** - This means "stop this foolish talk". (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **What is wrong with you** - This expression means "stop treating me with such disrespect". (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **you are all miserable comforters** - "instead of comforting me, you all make me more miserable" 
+  * **Will useless words ever have an end?** - Job uses this rhetorical question to express that he wishes that they would stop speaking useless words. This question can be written as a statement. AT: "How I wish your useless words would end!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **What is wrong with you that you answer like this?** - Job uses this rhetorical question to rebuke Eliphaz. Here the word "you" is singular and refers to Eliphaz who just finished speaking to Job. This question can be written as a statement. AT: "Eliphaz, you should stop answering me like this!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -64,6 +65,6 @@
   * [[:en:bible:questions:comprehension:job:16]]
 **[[:en:bible:notes:job:15:34|<<]] | [[:en:bible:notes:job:16:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

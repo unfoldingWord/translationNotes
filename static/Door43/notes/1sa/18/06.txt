@@ -30,9 +30,9 @@
 <usfm>
 \p
 \v 6 As they came home from defeating the Philistines, the women came from all the cities of Israel, singing and dancing, to meet King Saul, with tambourines, with joy, and with musical instruments.
-\v 7 The women sang one to another as they played; they sang:
+\v 7 The women sang one to another as they played. They sang:
 \q "Saul has killed his thousands,
-\q And David his ten thousands."
+\q and David his ten thousands."
 </usfm>
 
 
@@ -47,9 +47,10 @@
 
 ===== translationNotes: =====
 
-  * **from all the cities of Israel** - This is a hyperbole and it does not mean all, but many. AT: "from many of the cities of Israel" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **from all the cities of Israel** - This is hyperbole to emphasize the great number of women who came. AT: "from many of the cities throughout Israel" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **with tambourines, with joy, and with musical instruments** - "joyfully playing tambourines and other musical instruments"
   * **with tambourines** - A "tambourine" is a small handheld drum.
-  * **And David his ten thousands** - This is an ellipsis that means David killed many people. AT: "And David has killed his ten thousands" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **and David his ten thousands** - The verb may be supplied from the previous line. AT: "and David has killed his ten thousands" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
  
 ===== Links: =====
 
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:1sa:18]]
 **[[:en:bible:notes:1sa:18:05|<<]] | [[:en:bible:notes:1sa:18:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

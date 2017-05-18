@@ -22,8 +22,7 @@
 \p
 \v 38 "Look, the days are coming—this is Yahweh's declaration—when the city will be rebuilt for me, from the Tower of Hananel to the Corner Gate.
 \v 39 Then the measuring line will go out again farther, to the hill of Gareb and around Goah.
-\v 40 The entire valley of burial and ashes, and all the fields to the Kidron Valley and to the corner of the Horse Gate in the east, will be set apart for me, Yahweh. It will not be pulled up 
-or overthrown ever again."
+\v 40 The whole valley of the dead bodies and the ashes, and all the terraced fields going out to the Kidron Valley as far as the corner of the Horse Gate on the east, will be set apart for me, Yahweh. The city will not be pulled up or overthrown again, forever."
 </usfm>
 
 ===== translationWords: =====
@@ -35,8 +34,12 @@ or overthrown ever again."
 ===== translationNotes: =====
 
   * **Look, the days are coming** - "Pay attention! What I am about to talk about will happen soon."
+  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **the city will be rebuilt for me** - This can be translated in active form. AT: "they will rebuild the city for me" or "I will have them rebuild the city" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Tower of Hananel ... Corner Gate ... hill of Gareb ... Goah ... Kidron Valley ... Horse Gate** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **The whole valley ... will be set apart for me** - This can be translated in active form. AT: "They will set apart the whole valley ... for me" or "I will have them make the whole valley ... holy for me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **set apart** - "made holy"
+  * **The city will not be pulled up or overthrown again** - The city is spoken of as if it were a plant that someone could pull out of the ground or a building that someone could break down. This can be translated in active form. AT: "I will not allow anyone to pull up or overthrow the city again" or "No one will ever tear the city down or destroy it again" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -45,6 +48,6 @@ or overthrown ever again."
   * [[:en:bible:questions:comprehension:jer:31]]
 **[[:en:bible:notes:jer:31:37|<<]] | [[:en:bible:notes:jer:32:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

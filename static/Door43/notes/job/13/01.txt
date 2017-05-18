@@ -31,14 +31,13 @@
 
 <usfm>
 \c 13
-\p
+\m
 \q
 \v 1 See, my eye has seen all this;
 \q my ear has heard and understood it.
 \q
 \v 2 What you know, the same I also know;
 \q I am not inferior to you.
-\b
 </usfm>
 
 
@@ -48,12 +47,12 @@
 
 ===== translationNotes: =====
 
+  * **Connecting Statement:** Job continues to speak to his friends.
 
-  * **See** - "Behold," "Pay special attention." This word marks where Job wants the three friends to listen carefully.
-  * **my eye has seen all this** - "I have seen everything that you have seen." Job referred to himself by his eye since it is with his eyes that he saw what the others had seen. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **my ear has heard and understood it** - "I have heard and understood all that you have said." Job referred to himself by his ear since it is with his ears that he heard what the others had heard. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **See** - "Pay attention" or "Listen." This word marks where Job wants the three friends to listen carefully.
+  * **my eye has seen all this** - Job referred to himself as his eye since it is with his eyes that he saw these things.  AT: "I have seen all this  (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **my ear has heard and understood it** - Job referred to himself as his ear since it is with his ears that he heard these things. AT: "I have heard and understood it" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **What you know, the same I also know** - "What you know, I also know" (UDB) or "I know as much as you"
-
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -67,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

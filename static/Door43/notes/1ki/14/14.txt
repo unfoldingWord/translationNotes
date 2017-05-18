@@ -40,8 +40,11 @@
 
 ===== translationNotes: =====
 
-  * **as a reed is shaken in the water** - This can be stated in active form. AT: "like a river of water shakes a reed" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **he will root up Israel out of this good land** - Yahweh compares Israel with a plant that he will tear out of the ground by its roots. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **cut off the family of Jeroboam** - The writer speaks of the new king of Israel destroying Jeroboam's family and preventing him from having any descendants like one would cut a branch from a tree. AT: "destroy the descendants of Jeroboam" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Yahweh will attack Israel as a reed is shaken in the water** - The writer here uses a simile to express how Yahweh will bring judgment on the people of Israel. AT: "Yahweh will attack the people of Israel as a reed is shaken in the water" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **as a reed is shaken in the water** - This can be stated in active form. AT: "like a river of water shakes a reed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he will root up Israel out of this good land** - Yahweh compares Israel with a plant that he will tear out of the ground by its roots. AT: "he will remove the people of Israel from this good land" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **scatter them** - "disperse them"
 
 ===== Links: =====
 
@@ -50,6 +53,6 @@
   * [[:en:bible:questions:comprehension:1ki:14]]
 **[[:en:bible:notes:1ki:14:11|<<]] | [[:en:bible:notes:1ki:14:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit reed}}
+~~DISCUSSION~~{{tag>publish p2pass reed}}
 
 ~~NOCACHE~~

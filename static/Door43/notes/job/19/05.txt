@@ -22,7 +22,6 @@
 \q1
 \v 6 you should realize that it is God who has caused me to suffer.
 \q2 It is as though he has a net and that he has caught me in it.
-\b
 
 
 \q1
@@ -33,12 +32,11 @@
 
 <usfm>
 \q
-\v 5 If indeed you will boast against me
-\q and convince everyone that I am disgraced,
+\v 5 If indeed you will exalt yourselves above me
+\q and use my humiliation against me, 
 \q
 \v 6 then you should know that God has done wrong to me
 \q and has caught me in his net.
-\b
 </usfm>
 
 
@@ -52,10 +50,10 @@
 
   * **General Information:** - Job continues to speak to his three friends.
 
-  * **If indeed you will boast against me** - "Since indeed you act as though you are better than me"
-  * **am disgraced** - AT: "have done something disgraceful." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **has caught me in his net** - Job compares God with a hunter that has violently caught an innocent animal in his net. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-
+  * **If indeed you will exalt yourselves above me** - "If you think you are better than I am" or "Since you act as though you are better than I am" 
+  * **and use my humiliation against me** - How they would do this can be stated clearly. AT: "and claim that my humiliation is proof against me" or "and use my humiliation as evidence that I am guilty" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **use my humiliation against me** - The abstract noun "humiliation" can be expressed with the verb humiliate. AT: "claim that what has happened to humiliate me proves that I am guilty" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **has caught me in his net** - Job speaks as if God were a hunter that has trapped Job in his net. This metaphor represents God taking control of Job and Job's feeling of helplessness. AT: "has trapped me" or "has taken control of me" or "has control of what happens to me, so that I am helpless" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -63,6 +61,6 @@
   * [[:en:bible:questions:comprehension:job:19]]
 **[[:en:bible:notes:job:19:03|<<]] | [[:en:bible:notes:job:19:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -18,8 +18,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 20 I have written thirty of these sayings for you to learn; 
-\q2 sayings to give you advice and to teach you what you do not know. 
+\v 20 I have written thirty of these sayings for you to learn;
+\q2 sayings to give you advice and to teach you what you do not know.
 \q1
 \v 21 These lessons show you what is true and they teach you with faithful lessons,
 \q2 so you may give reliable and true answers to those who sent you.
@@ -50,10 +50,11 @@
   * [[:en:obe:kt:word]]
 ===== translationNotes: =====
 
+  * **General Information:** - These verses continue and end the introduction that began in [[:en:bible:notes:pro:22:17|22:17]].
 
-  * **Have I not written for you** - The answer to this question is "yes." AT: "I have written for you" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **instruction and knowledge** - These two words mean basically the same thing and emphasize the content of the thirty sayings. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **to those who sent you** - This implies that the person listening is or will be a messenger, a function similar to a diplomat or a negociator.
+  * **Have I not written for you ... you?** - This rhetorical question can be translated as a statement. AT: "You need to know that I have written for you ... you." (See:  [[:en:ta:vol1:translate:figs_rquestion]])
+  * **thirty sayings** - Some translations read, "excellent sayings." (See: [[:en:ta:vol2:translate:translate_textvariants]])
+  * **to those who sent you** - This implies that the hearer is or will be one whom others send to gain and bring back information.
  
 ===== Links: =====
 
@@ -68,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

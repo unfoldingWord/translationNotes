@@ -34,14 +34,15 @@
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:other:hand]]
   * [[:en:obe:other:assyria]]
+
 ===== translationNotes: =====
 
   * **General Information:** - This is the message that King Sennacharib of Assyria sent to King Hezekiah.
 
-  * **Do not let your God in whom you trust deceive you, saying** - AT: "Do not believe your God in whom you trust. He is lying when he says"
-  * **the hand of the king of Assyria** - AT: "the control of Assyria" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **See, you have heard** - AT: "Listen, you have heard" or "You have certainly heard" (UDB). Here "see" was used to draw attention to what he was about to say next.
-  * **So will you be rescued?** - Sennacharib used this question to emphasize that God will not be able to rescue them. AT: "Your God will not rescue you" or "You will not be able to escape either" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Do not let your God in whom you trust deceive you, saying** - "Do not believe your God in whom you trust. He is lying when he says"
+  * **the hand of the king of Assyria** - "Hand" is metonymy for control, authority or power. AT: "the control of the government of Assyria" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **See, you have heard** - "Notice, you have heard" or "You have certainly heard" (UDB). Here "see" was used to draw attention to what he was about to say next.
+  * **So will you be rescued?** - Sennacharib used this question to emphasize that God will not be able to rescue them. AT: "Your God will not rescue you" or "You will not be able to escape either." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -49,13 +50,11 @@
   * [[:en:bible:notes:2ki:19:00]]
   * [[:en:bible:questions:comprehension:2ki:19]]
 
- 
-
 **[[:en:bible:notes:2ki:19:08|<<]] | [[:en:bible:notes:2ki:19:12|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

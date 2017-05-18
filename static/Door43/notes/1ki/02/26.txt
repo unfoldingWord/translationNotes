@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 26 Then to Abiathar the priest the king said, "Go to Anathoth, to your own fields. You are worthy of death, but I will not at this time put you to death, because you carried the ark of the Lord Yahweh before David my father and suffered in every way my father suffered."
+\v 26 Then to Abiathar the priest the king said, "Go to Anathoth, to your own fields. You are worthy of death, but I will not at this time put you to death, because you carried the ark of the Lord Yahweh before David my father and suffered in every way my father suffered." 
 \f + \ft Some versions have, \fqa ... the ark of Yahweh ... \fqb \f*
 \v 27 So Solomon dismissed Abiathar from being priest to Yahweh, that he might fulfill the word of Yahweh, which he had spoken concerning the house of Eli at Shiloh.
 </usfm>
@@ -38,7 +38,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Abiathar is dismissed from the priesthood by Solomon.
+  * **General Information:** - Solomon dismisses Abiathar from being priest.
 
   * **suffered in every way my father suffered** - Abiathar had suffered alongside King David before David became king.
   * **that he might fulfill** - The word "he" refers to King Solomon.
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1ki:02]]
 **[[:en:bible:notes:1ki:02:24|<<]] | [[:en:bible:notes:1ki:02:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit fulfill shiloh}}
+~~DISCUSSION~~{{tag>publish p2pass fulfill shiloh}}
 
 ~~NOCACHE~~

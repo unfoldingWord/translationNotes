@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 These are the names of the sons of Aaron, the priests who were anointed and who were ordained to serve as priests. 
+\v 3 These are the names of the sons of Aaron, the priests who were anointed and who were ordained to serve as priests.
 \v 4 But Nadab and Abihu fell dead before Yahweh when they offered to him unacceptable fire in the wilderness of Sinai. Nadab and Abihu had no children, so just Eleazar and Ithamar served as priests with Aaron their father.
 </usfm>
 
@@ -37,7 +37,7 @@
 
 ===== translationNotes: =====
 
-  * **the priests who were anointed and who were ordained** - This can be stated in active form AT: "the priests whom Moses anointed and ordained" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **the priests who were anointed and who were ordained** - This can be stated in active form AT: "the priests whom Moses anointed and ordained" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Nadab ... Abihu ... Ithamar** - Translate these men's names the say way that you did in [[:en:bible:notes:num:03:01|3:2]].
   * **fell dead before Yahweh** - The phrase "fell dead" means to suddenly die.   AT: "suddenly died before Yahweh" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **before Yahweh** - This refers to Yahweh's presence, meaning that Yahweh saw everything that happened. AT: "in Yahweh's presence" (See: [[:en:ta:vol2:translate:figs_metonymy]])
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:num:03]]
 **[[:en:bible:notes:num:03:01|<<]] | [[:en:bible:notes:num:03:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check ordain}}
+~~DISCUSSION~~{{tag>publish p2pass ordain}}
 
 ~~NOCACHE~~

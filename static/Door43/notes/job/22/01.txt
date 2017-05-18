@@ -26,7 +26,6 @@
 \q1
 \v 3 If you were righteous, that would not please Almighty God, would it?
 \q2 If you lived a perfect life, that would not help him, would it?
-\b
 
 
 \q1
@@ -58,9 +57,10 @@
 
 ===== translationNotes: =====
 
-  * **Eliphaz the Temanite** - See how you translated this in [[:en:bible:notes:job:02:11|2:11]].
-  * **Can a man be useful to God? Can a wise man be useful to him?** - Eliphaz uses questions to emphasize that a person's actions or wisdom do not benefit God. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Is it any pleasure to the Almighty if you are righteous? Is it gain to him if you make your ways blameless?** - Both of these statements mean the same thing. Eliphaz uses questions again for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Eliphaz the Temanite** - Translate this man's name as in [[:en:bible:notes:job:02:11|2:11]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Can a man be useful to God? Can a wise man be useful to him?** - Eliphaz uses questions to emphasize that a person's actions or wisdom do not benefit God. AT: "A man cannot be useful to God. A wise man cannot be useful to him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Is it any pleasure to the Almighty if you are righteous? Is it gain to him if you make your ways blameless?** - Both of these statements mean the same thing. Eliphaz uses questions to emphasize that Job's actions do not help God. AT: "The Almighty does not receive any pleasure if you are righteous. He does not gain anything if you make your ways blameless." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
+
 
 ===== Links: =====
 
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:job:22]]
 **[[:en:bible:notes:job:21:34|<<]] | [[:en:bible:notes:job:22:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

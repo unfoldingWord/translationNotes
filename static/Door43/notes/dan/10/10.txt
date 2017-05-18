@@ -23,7 +23,7 @@
 <usfm>
 \p
 \v 10 A hand touched me, and it made me tremble in my knees and the palms of my hands.
-\v 11 The angel said to me, "Daniel, man who is greatly loved, understand the words that I am speaking to you, and stand upright, for I have been sent to you." When he had said this word to me, I stood up trembling.
+\v 11 The angel said to me, "Daniel, man greatly treasured, understand the words that I am speaking to you. Stand upright, for I have been sent to you." When he had spoken this message to me, I stood up trembling.
 </usfm>
 
 ===== translationWords: =====
@@ -35,7 +35,9 @@
 
 ===== translationNotes: =====
  
-  * **A hand touched me** - AT: "Someone touched me with his hand." This was probably the man that Daniel saw in [[:en:bible:notes:dan:10:04|10:5-6]].
+  * **A hand touched me** - This implies metonymy, where a person's hand represents that person, probably the man whom Daniel saw in [[:en:bible:notes:dan:10:04|10:5-6]]. AT: "Someone touched me with his hand" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Daniel, man greatly treasured** - This can also be stated in active form. AT: "Daniel, you whom God greatly treasures" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **greatly treasured** - much valued and loved
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -43,6 +45,6 @@
   * [[:en:bible:questions:comprehension:dan:10]]
 **[[:en:bible:notes:dan:10:07|<<]] | [[:en:bible:notes:dan:10:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -46,9 +46,9 @@
 
 ===== translationNotes: =====
 
-  * **I will show you** - AT: "I will explain to you" or "I will make it clear to you" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **I will announce to you** - AT: "I will tell you"
-  * **their ancestors did not hide** - AT: "their ancestors taught openly" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **I will show you** - This is an idiom. AT: "I will explain to you" or "I will make it clear to you" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **I will announce** - "I will declare" 
+  * **their ancestors did not hide** - Eliphaz emphasizes that their ancestors purposefully taught them these things. AT: "their ancestors taught openly" (See: [[:en:ta:vol2:translate:figs_litotes]])
  
 ===== Links: =====
 
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:job:15]]
 **[[:en:bible:notes:job:15:15|<<]] | [[:en:bible:notes:job:15:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

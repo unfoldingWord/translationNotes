@@ -21,7 +21,7 @@
 \v 24 What the wicked fear will happen to them;
 \q1 those who do what is right will get what they hoped for.
 \q1
-\v 25 Wicked people are like the storm that comes and then it is gone. 
+\v 25 Wicked people are like the storm that comes and then it is gone.
 \q2 but those who do right are like a foundation that lasts forever.
 
 
@@ -33,11 +33,11 @@
 
 <usfm>
 \q
-\v 24 The fear of the wicked will overtake him, 
-\q but the desire of the righteous will be granted.
+\v 24 The fear of the wicked person will overtake him,
+\q but the desire of righteous people will be granted.
 \q
 \v 25 The wicked are like the storm that passes by, and they are no more,
-\q but those who do right are a foundation that lasts forever.
+\q but the righteous person is a foundation that lasts forever.
 </usfm>
 
 
@@ -52,8 +52,9 @@
 
 ===== translationNotes: =====
 
-  * **overtake** - affect or happen to someone in a quick and unexpected way.
-  * **The wicked are like the storm** - Like a storm that comes and sweeps everything away, wicked people are not safe or secure. They will be swept away. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **overtake** - overcome someone
+  * **The wicked are like the storm** - Just as storm comes and sweeps everything away so wicked people will disappear. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **is a foundation that lasts forever** - "Foundation" represents the base or a beginning of something that people build over. AT: "is a start for something that lasts forever" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -61,13 +62,11 @@
   * [[:en:bible:notes:pro:10:00]]
   * [[:en:bible:questions:comprehension:pro:10]]
 
- 
-
 **[[:en:bible:notes:pro:10:22|<<]] | [[:en:bible:notes:pro:10:26|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit fear}}
+{{tag>publish p2pass fear}}
 
 ~~NOCACHE~~

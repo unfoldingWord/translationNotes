@@ -23,7 +23,7 @@
 
 <usfm>
 \p
-\v 10 Joshua got up early in the morning and got his soldiers ready, Joshua and the elders of Israel, and they attacked the people of Ai. 
+\v 10 Joshua got up early in the morning and got his soldiers ready, Joshua and the elders of Israel, and they attacked the people of Ai.
 \v 11 All the fighting men who were with him went up and approached the city. They came near the city and camped on the north side of Ai. Now there was a valley between them and Ai.
 \v 12 He took about five thousand men and set them in ambush on the west side of the city between Bethel and Ai.
 </usfm>
@@ -40,8 +40,7 @@
 
 ===== translationNotes: =====
 
-  * **five thousand men** - 5,000 (See: [[:en:ta:vol2:translate:translate_numbers]]). This group seems to be a portion of the "thirty thousand men" ([[:en:bible:notes:jos:08:08|8:9]]). This smaller group remained in the ambush while the other 25,000 attacked the city.
-
+  * **five thousand men** - "5,000 men." This group seems to be a portion of the "thirty thousand men" ([[:en:bible:notes:jos:08:08|8:9]]). This smaller group remained in the ambush while the other 25,000 men attacked the city. (See: [[:en:ta:vol2:translate:translate_numbers]])
 ===== Links: =====
 
   * [[:en:bible:notes:jos:00:intro]]
@@ -55,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check ai}}
+{{tag>publish p2pass ai}}
 
 ~~NOCACHE~~

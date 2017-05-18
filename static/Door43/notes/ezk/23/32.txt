@@ -14,11 +14,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 32 This is what I,Yahweh the Lord, say: You will suffer as people suffer when they drink from a cup that has very strong alcoholic drink.
-\q1 It will be as though you will drink from the cup that the people of Samaria drank from;
-\q2 a big cup, a tall cup.
-\q1 Because you will drink what it is in that cup, many people will scorn you and make fun of you,
-\q2 because there is so much drink in that cup.
+\v 32 This is what I,Yahweh the Lord, say: You will suffer when you drink from a cup that is deep and large.
+\q1 It will be as though you will drink from the same cup that the people of Samaria drank from.
+\q1 And it is because you will drink what it is in that cup, many people will scorn you and make fun of you,
+\q2 because when you drink from the cup it will make you drunk and then you will be overcome with sadness.
 
 
 \q1
@@ -38,9 +37,11 @@
 
 ===== translationNotes: =====
 
-  * **You will drink your sister's cup** - Drinking the from the same cup is another way to say they will experience the same thing. AT: "You will experience the same punishment as your sister" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **that is deep and large** - This refers to the amount of punishment received. AT: "that is severe" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **a laughingstock ... a subject for derision** - Both of these phrases refer to a person who is laughed at and criticized because of their foolish behavior. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Yahweh continues his metaphor in which he speaks of the cities of Jerusalem and Samaria as if they were two prostitutes. This metaphor continues through [[:en:bible:notes:ezk:23:33|23:34]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+  * **You will drink your sister's cup** - Here Yahweh speaks of punishment as if it were a cup of wine the woman drank. AT: "You will drink the same cup of punishment as your sister"  (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **your sister's cup that is** - Here the "cup" represents what is in the cup. AT: "from your sister's cup that is" or "what is in your sister's cup, her cup is" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a laughingstock ... a subject for derision** - Both of these phrases refer to a person who is laughed at and criticized because of their foolish behavior. A derision is something or someone that is mocked or ridiculed.(See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **this cup contains a great amount** - This sentence does not say what is in the cup because it is understood by reading [[:en:bible:notes:ezk:23:30|23:31]]. AT: "this cup contains a great amount of punishment" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:ezk:23]]
 **[[:en:bible:notes:ezk:23:30|<<]] | [[:en:bible:notes:ezk:23:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

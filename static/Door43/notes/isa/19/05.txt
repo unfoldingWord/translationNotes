@@ -29,11 +29,10 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 5 The waters of the sea will dry up, and the river will dry up and become empty.
 \q1
-\v 6 The rivers will become foul; the streams of Egypt will dwindle and dry up; 
+\v 6 The rivers will become foul; the streams of Egypt will dwindle and dry up;
 \q1 the reeds and flags will wither away.
 </usfm>
 
@@ -46,7 +45,9 @@
 ===== translationNotes: =====
 
   * **The waters of the sea will dry up, and the river will dry up and become empty** - Egyptians referred to the Nile River as "the sea." These two phrases mean basically the same thing. AT: "The Nile River will completely dry up" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **the reeds and flags will wither away** - "the plants along the river will die"
+  * **become foul** - "become foul-smelling" or "stink"
+  * **dwindle** - "be low"
+  * **the reeds and flags will wither away** - "Reeds" and "flags" refer to two similar kinds of water plants. AT: "the plants along the river will die and decay"
 
 ===== Links: =====
 
@@ -55,6 +56,6 @@
   * [[:en:bible:questions:comprehension:isa:19]]
 **[[:en:bible:notes:isa:19:03|<<]] | [[:en:bible:notes:isa:19:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

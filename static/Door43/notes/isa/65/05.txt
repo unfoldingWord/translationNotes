@@ -33,7 +33,7 @@
 
 <usfm>
 \q1
-\v 5 They say, 'Stand away, do not come near to me, for I am holier than you.' 
+\v 5 They say, 'Stand away, do not come near to me, for I am holier than you.'
 \q1 These things are smoke in my nose, a fire that
 burns all day long.
 </usfm>
@@ -46,9 +46,10 @@ burns all day long.
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues speaking about the people of Israel.
+  * **General Information:** - Yahweh continues speaking to and about the people of Israel.
 
-  * **These things are smoke in my nose, a fire that burns all day long** - This means these people continually irritate Yahweh and make him angry. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **These things are smoke in my nose** - Yahweh compares these people who are continually annoying him to smoke that irritates a person's breathing. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **a fire that burns all day long** - Yahweh compares the people of Israel to a slow-burning fire that sends out smoke without stopping as it irritates. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -57,6 +58,6 @@ burns all day long.
   * [[:en:bible:questions:comprehension:isa:65]]
 **[[:en:bible:notes:isa:65:03|<<]] | [[:en:bible:notes:isa:65:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

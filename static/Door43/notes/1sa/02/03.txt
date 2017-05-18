@@ -23,7 +23,6 @@
 \q2 Yahweh is a God who knows everything,
 \q1 and he will evaluate everyone's actions.
 \q2 So do not speak so arrogantly!
-\b
 \q1
 \v 4 Yahweh, you break the bows of mighty soldiers,
 \q2 but you give strength to those who stumble because they are weak.
@@ -58,13 +57,13 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Hannah continues to recite a song to Yahweh. She speaks as if other people were listening to her. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Connecting Statement:** - Hannah continues to recite a song to Yahweh. She speaks as if other people were listening to her. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **no arrogance** - "no arrogant words"
-  * **by him actions are weighed** - This can be stated in the active voice. AT: "he weighs people's actions" or "he understands why people act as they do" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **by him actions are weighed** - This can be stated in active form. AT: "he weighs people's actions" or "he understands why people act as they do" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **The bow of the mighty men are broken** - Possible meanings are 1) the bows themselves are broken or 2) the men who carry the bows are prevented from acting. AT: "Mighty bowmen are kept from acting"
-  * **The bow of the mighty men are broken** - This can be translated in active form. AT: "Yahweh breaks the bows of the mighty men" or "Yahweh can make even the strongest of people weak" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **those who stumble put on strength like a belt** - This metaphor means they will no longer stumble, but their strength will remain with them as tightly as a belt. AT: "but he will make those who stumble strong" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The bow of the mighty men are broken** - This can be stated in active form. AT: "Yahweh breaks the bows of the mighty men" or "Yahweh can make even the strongest of people weak" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **those who stumble put on strength like a belt** - This metaphor means they will no longer stumble, but their strength will remain with them as tightly as a belt. AT: "he will make those who stumble strong" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **put on ... a belt** - This is the general term for putting something around one's waist to prepare for work.
  
 ===== Links: =====
@@ -74,6 +73,6 @@
   * [[:en:bible:questions:comprehension:1sa:02]]
 **[[:en:bible:notes:1sa:02:02|<<]] | [[:en:bible:notes:1sa:02:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check p2example}}
+~~DISCUSSION~~{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

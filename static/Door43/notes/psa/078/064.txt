@@ -21,13 +21,12 @@
 <usfm>
 \v 64 Many priests were killed by their enemies' swords,
 \q2 and the people did not allow the priests' widows to mourn.
-\b
 \q1
 \v 65 Later, it was as though the Lord awoke from sleeping;
 \q1 he was like a strong man who became angry because he drank a lot of wine.
 \q1
 \v 66 He pushed his enemies back
-\q1 and caused them to be very ashamed for a long time 
+\q1 and caused them to be very ashamed for a long time
 \q2 because they had been defeated.
 
 
@@ -74,6 +73,6 @@
   * [[:en:bible:questions:comprehension:psa:078]]
 **[[:en:bible:notes:psa:078:062|<<]] | [[:en:bible:notes:psa:078:067|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 20 Mighty kings have ruled over Jerusalem and had power over everything beyond the River. Tribute and taxes were paid to them.
+\v 20 Mighty kings have ruled over Jerusalem and had power over everything in the Province Beyond the River. Tribute and taxes were paid to them.
 \v 21 Now, make a decree for these men to stop and not build this city until I make a decree.
 \v 22 Be careful not to neglect this. Why allow this threat to grow and cause more loss for the royal interests?
 </usfm>
@@ -40,9 +40,13 @@
 
 ===== translationNotes: =====
 
+  * **the Province Beyond the River** - This is the name of the province that was west of the Euphrates River. It was across the river from the city of Susa. Translate as in [[:en:bible:notes:ezr:04:09|4:10]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Tribute and taxes were paid to them** - This can be translated in active form. AT: "The people in Jerusalem paid tribute and taxes to those kings" or "Those kings were able to collect tribute and taxes" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **make a decree** - "make a law"
   * **Be careful not to neglect this** - "Be careful to do this" (See: [[:en:ta:vol2:translate:figs_litotes]])
-  * **Why allow this threat to grow and cause more loss for the royal interests?** - The enemies of the Jews are asking this question of King Artaxerxes to make him believe the Jews will rebel after the work is done. AT: "You must make sure these people continue to pay their taxes." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Why allow this threat to grow and cause more loss for the royal interests?** - Artaxerxes uses a question to tell them that he understands that he will lose taxes and honor if the city is built. AT: "You must make sure that this threat does not grow and cause more loss for the royal interests." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **threat to grow** - Danger is spoken of as if it were a plant that could increase in size. AT: "danger to become worse" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **cause more loss for the royal interests** - The words "the royal interests" are a metonym for the king himself. AT: "cause more bad things to happen to the kings" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -54,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

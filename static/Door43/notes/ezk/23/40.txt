@@ -22,7 +22,7 @@
 
 <usfm>
 \v 40 You sent out for men who came from far away, to whom messengers had been sent—now behold. They indeed came, those for whom you bathed, painted your eyes, and adorned yourself with jewelry.
-\v 41 And you sat on a beautiful bed and at a table arranged before it. Then you placed my incense and my oil on it.
+\v 41 There you sat on a beautiful bed and at a table arranged before it where you placed my incense and my oil.
 </usfm>
 
 ===== translationWords: =====
@@ -32,11 +32,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Ezekiel speaks to Oholah and Oholibah.
+  * **General Information:** - Yahweh again refers to the cities of Jerusalem and Samaria as if they were two prostitutes. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
-  * **behold!** - AT: "look!" or "listen!" or "pay attention to what I am about to tell you!"
+  * **You sent out for men who came from far away ... to whom messengers had been sent** - These two phrases have the same meaning. This means that they sent messengers to men far away requesting for them to come to them. AT: "You sent messengers to men who came to you from far away" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **you bathed ... you sat** - Here the word "you" switches to singular and refers to only one sister, but the situation is probably the same for both sisters. If one sister must be specified in your language, refer to Oholibah here. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **behold** - "listen." The word "behold" here alerts us to pay attention to the surprising information that follows.
   * **you bathed, painted your eyes, and adorned yourself with jewelry** - These are things done by a woman to make her appear more beautiful to a man.
-  * **my incense and my oil** - items used in worship to Yahweh.
+  * **my incense and my oil** - These are items used in worship to Yahweh.
 
 ===== Links: =====
 
@@ -45,6 +47,6 @@
   * [[:en:bible:questions:comprehension:ezk:23]]
 **[[:en:bible:notes:ezk:23:38|<<]] | [[:en:bible:notes:ezk:23:42|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

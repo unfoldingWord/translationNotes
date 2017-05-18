@@ -19,7 +19,7 @@
 
 <usfm>
 \v 11 An evil person is only interested in disobeying the rules;
-\q2 he deserves a messenger who will be cruel to him. 
+\q2 he deserves a messenger who will be cruel to him.
 \q1
 \v 12 You would be better off meeting a mother bear who had been robbed of her cubs
 \q2 than to meet a fool who is being foolish.
@@ -36,7 +36,7 @@
 \v 11 An evil person only seeks rebellion,
 \q so a cruel messenger will be sent against him.
 \q
-\v 12 It is better to meet a bear robbed of her cubs 
+\v 12 It is better to meet a bear robbed of her cubs
 \q than to meet a fool in his foolishness.
 </usfm>
 
@@ -49,8 +49,11 @@
 
 ===== translationNotes: =====
 
-
-  * **a cruel messenger will be sent against him** - AT: "a cruel messenger will come against him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **seeks rebellion** - The word "rebellion" can be expressed as a verb. AT: "seeks to rebel" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **a cruel messenger will be sent against him** - This can be stated in active form. AT: "a cruel messenger will come against him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **will be sent against him** - To be "sent against" someone means to be sent to harm them. AT: "will be sent to harm him" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **a bear robbed of her cubs** - This can be stated in active form. AT: "a bear who has just lost her cubs" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in his foolishness** - The word "foolishness" can be expressed as an adjective. AT: "who is acting foolish" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
  
 ===== Links: =====
 
@@ -59,6 +62,6 @@
   * [[:en:bible:questions:comprehension:pro:17]]
 **[[:en:bible:notes:pro:17:09|<<]] | [[:en:bible:notes:pro:17:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

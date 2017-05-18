@@ -46,11 +46,11 @@
   * [[:en:obe:other:rebel]]
 ===== translationNotes: =====
 
-  * **twenty-one ... eleven** - (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **twenty-one ... eleven** - "21 ... 11" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **Hamutal** - This is a woman's name. (See: [[:en:ta:vol1:translate:translate_names]]
   * **Jeremiah** - This is a man's name. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Libnah** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **evil in the sight of Yahweh** - "evil to Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **He did what was evil in the sight of Yahweh** - The nominal adjective "evil" can be translated as a relative clause "things that ... evil." Here Yahweh's "sight" refers to how he judges or decides on the value of something. See how you translated this in [[:en:bible:notes:2ki:03:01|3:2]]. AT: "He did things that Yahweh said were evil" or "He did the things that Yahweh considers evil" (See: [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol1:translate:figs_metaphor]]) 
  
  
 ===== Links: =====
@@ -63,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

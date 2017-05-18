@@ -26,8 +26,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 24 And their shooters shot at your soldiers from off the wall, and some of the king's servants were killed, and your servant Uriah the Hittite was killed too."
-\v 25 Then David said to the messenger, "Say this to Joab, 'Do not let this displease you, for the sword devours one as well as another. Make your battle even stronger against the city, and overthrow it.' And encourage Joab."
+\v 24 Then their shooters shot at your soldiers from off the wall, and some of the king's servants were killed, and your servant Uriah the Hittite was killed too."
+\v 25 Then David said to the messenger, "Say this to Joab, 'Do not let this displease you, for the sword devours one as well as another. Make your battle even stronger against the city, and overthrow it,' and encourage him."
 </usfm>
 
 
@@ -42,8 +42,8 @@
 
   * **their shooters shot** - "their shooters shot arrows"
   * **some of the king's servants were killed** - This can be stated in active form. AT: "they killed some of the king's servants" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **your servant Uriah the Hittite was killed** - This can be stated in active form. AT: "they killed your servant Uriah the Hittite" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **king's servants** - Here "servants" refers to soldiers, not slaves, because soldiers were servants of the king.
+  * **your servant Uriah the Hittite was killed** - This can be stated in active form. AT: "they killed your servant Uriah the Hittite" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **for the sword devours one as well as another** - Here "the sword" refers to a person who kills someone with sword. Also, killing someone with a sword is spoken of as if the sword were "eating" the people. AT: "for one man can be killed by a sword the same as another man" or "for any man can die in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **Make your battle even stronger** - "Fight even stronger"
 
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

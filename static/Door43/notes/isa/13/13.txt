@@ -25,7 +25,6 @@
 \q2 and the earth will also move out of its place.
 \q1 That will happen when I, Yahweh, commander of the angel armies, punish wicked people,
 \q2 when I show them that I am extremely angry with them.
-\b
 \q1
 \v 14 All the foreigners in Babylon will run around like deer that are being hunted,
 \q2 like sheep that do not have a shepherd.
@@ -41,9 +40,9 @@
 
 <usfm>
 \q1
-\v 13 Therefore I will make the heavens tremble, and the earth will be shaken out of its place, 
+\v 13 Therefore I will make the heavens tremble, and the earth will be shaken out of its place,
 \q1 by the fury of Yahweh of hosts, and on the day of his fierce anger.
-\v 14 Like a hunted gazelle or like a sheep with no shepherd, 
+\v 14 Like a hunted gazelle or like a sheep with no shepherd,
 \q1 every man will turn toward his own people and will flee to his own land.
 </usfm>
 
@@ -62,8 +61,9 @@
 
   * **General Information:** - Yahweh continues speaking.
 
-  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
-  * **Like a hunted gazelle or like a sheep with no shepherd** - Gazelles (a type of deer) and sheep are prey to other wild animals - the people of the world will run away like scared animals. (See: [[:en:ta:vol1:translate:translate_unknown]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **Like a hunted gazelle or like a sheep with no shepherd** - "Like gazelles that run away swiftly when people hunt them, and like sheep that have no shepherd run away from wild animals" (See: [[:en:ta:vol1:translate:translate_unknown]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **gazelle** - an animal that is similar to a deer. People hunt them, and wild animals sometimes attack and kill them. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **like a sheep with no shepherd** - Sheep that have no shepherd have no one to protect them from wild animals that attack and kill them.
  
 ===== Links: =====
 
@@ -74,6 +74,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

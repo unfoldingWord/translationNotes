@@ -41,8 +41,8 @@
 
 ===== translationNotes: =====
 
-  * **my hand shall not be against you.** - "I will not harm you in any way" Similar words appear in [[:en:bible:notes:1sa:24:05|24:6]]. (See: [[:en:ta:vol1:translate:figs_idiom]]) 
-  * **ancients** - This nominalized adjective can be translated as a noun phrase. AT: "people who lived long ago"
+  * **my hand shall not be against you** - The hand is a metonym for the ability to cause harm. See how you translated a similar phrase in [[:en:bible:notes:1sa:24:05|24:6]]. AT: "I will not harm you in any way"  (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **ancients** - This nominal adjective can be translated as a noun phrase. AT: "people who lived long ago" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
  
 ===== Links: =====
 
@@ -57,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check avenge proverb}}
+{{tag>publish p2pass avenge proverb}}
 
 ~~NOCACHE~~

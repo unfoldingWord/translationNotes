@@ -36,9 +36,8 @@
    
 ===== translationNotes: =====
 
-
-  * **the eyes of wicked people** - Zophar compares one part (eyes) to the understanding a person has. AT: "the understanding of the wicked" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **a last gasp of life** - AT: "their final breath of life" "stop trying and die" This phrase means to resign and give up, especially the "spirit" or breath of life. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the eyes of wicked people will fail** - Their eyes represent their understanding. AT: "the understanding of the wicked people will fail" or "the wicked people will not be able to understand" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Their only hope will be a last gasp of life** - The abstract noun "hope" can be expressed with the verb "hope." The last gasp of life represents dying. AT: "Their only hope will be to breathe their final breath" or "They will only hope to die" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -52,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit hope}}
+{{tag>publish p2pass hope}}
 
 ~~NOCACHE~~

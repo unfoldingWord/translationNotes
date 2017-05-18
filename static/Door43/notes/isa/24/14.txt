@@ -27,12 +27,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
+\m
 \q1
-\v 14 They will lift up their voices and shout the majesty of Yahweh, 
+\v 14 They will lift up their voices and shout the majesty of Yahweh,
 \q1 and will joyfully shout from the sea.
 \q1
-\v 15 Therefore in the east glorify Yahweh, 
+\v 15 Therefore in the east glorify Yahweh,
 \q1 and in the isles of the sea give glory to the name of Yahweh, the God of Israel.
 </usfm>
 
@@ -49,11 +49,12 @@
 
 ===== translationNotes: =====
 
-  * **They will lift up their voices and shout the majesty of Yahweh** - "Voices" refers to how the people will shout. AT: "Those who are left on the earth will shout praises to the majesty of Yahweh" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **and will joyfully shout from the sea** - "and those near the Mediterranean Sea will shout with joy"
-  * **Therefore in the east glorify Yahweh** - The phrase "in the east" refers to the people leaving east of Israel. Isaiah is commanding these people as if they were there with him. But, he is talking to the people in the future after God judges the world. AT: "Therefore everyone from distant lands in the east will glorify Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_apostrophe]])
-  * **and in the isles of the sea give glory** - "and everyone in the islands will give glory"
-  * **to the name of Yahweh** - Here "name" refers to Yahweh. AT: "to Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They will lift up their voices and shout the majesty of Yahweh** - The phrase "lift up their voices" is an idiom that means to speak loudly. AT: "They will sing and shout about the majesty of Yahweh" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **They will** - Here "They" refers to those who are still alive after Yahweh devastates the earth.
+  * **and will joyfully shout from the sea** - Here "the sea" refers to the Mediterranean Sea which is west of Israel. AT: "and those in the west towards the sea will shout with joy" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Therefore in the east glorify Yahweh** - The phrase "in the east" represents the people living east of Israel. Isaiah is commanding these people as if they were there with him. But, he is talking to the people in the future after God devastates the earth. AT: "Therefore everyone from distant lands in the east will glorify Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **and in the isles of the sea give glory** - Isaiah is commanding the people who live on the islands in the Mediterranean sea as if they were there with him. But, he is talking to the people in the future after God devastates the earth. AT: "and everyone in the islands will give glory" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_pastforfuture]])
+  * **to the name of Yahweh** - Here "name" represents Yahweh. AT: "to Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:isa:24]]
 **[[:en:bible:notes:isa:24:12|<<]] | [[:en:bible:notes:isa:24:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

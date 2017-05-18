@@ -23,7 +23,6 @@
 \v 7 He is our God,
 \q2 and we are the people whom he protects,
 \q2 like sheep that a shepherd takes care of.
-\b
 \q1 I desire that today you may hear what Yahweh is saying to you.
 
 
@@ -53,13 +52,12 @@
 
 ===== translationNotes: =====
 
-  * **kneel** - put both knees on the ground
+  * **kneel** - put both knees on the ground, often to show submission (See: [[:en:ta:vol2:translate:translate_symaction]])
   * **the people of his pasture** - The word "pasture" is a metonym for the food that animals eat in the pasture, which in turn is a synecdoche for everything that Yahweh provides for his people. AT: "we are the people whose needs he meets" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]])
   * **pasture** - an area where animals find grass to eat
-  * **the sheep of his hand** - The word "hand" here is a metaphor for how Yahweh protects his people the way a shepherd protects his sheep. AT: "the people whom he protects like a shepherd protects his sheep" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Today—oh, that you would hear his voice!** - The psalmist purposely interrupts what he is saying. "Oh, that you would hear his voice today!"
-  * **hear his voice** - "listen carefully to him" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
+  * **the sheep of his hand** - The word "hand" here refers to how Yahweh protects his people the way a shepherd protects his sheep. AT: "the people whom he protects like a shepherd protects his sheep" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Today—oh, that you would hear his voice!** - "Oh, that you would hear his voice today!" The psalmist purposely interrupts what he is saying. 
+  * **hear his voice** - Here "his voice" refers to paying attention to God's words. AT: "listen carefully to him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -67,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:095]]
 **[[:en:bible:notes:psa:095:004|<<]] | [[:en:bible:notes:psa:095:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

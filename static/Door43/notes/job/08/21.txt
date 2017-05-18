@@ -14,7 +14,7 @@
 
 <usfm>
 \v 21 He will always enable you to laugh
-\q2 and to 
+\q2 and to
 shout joyfully.
 \q1
 \v 22 But those who hate you will be very ashamed,
@@ -41,11 +41,14 @@ shout joyfully.
 
 ===== translationNotes: =====
 
-  * **He will yet fill your mouth with laughter, your lips with shouting** - Bildad continues speaking to Job. The word "he" refers to God, and "your" refers to Job. The writer conveys a single idea using two different statements to convey the joy that Job will experience. "God will make you happy again." (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
-  * **your lips with shouting** - The complete meaning of this phrase can be understood from the beginning of the sentence. "God will fill your lips with shouts of joy." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **Those who hate you will be clothed with shame; the tent of the wicked will be no more** - "The godless will be filled with shame; the wicked will cease to exist."
-  * **will be no more** - "will not last" or "will come to nothing" 
- 
+  * **He will yet fill your mouth with laughter, your lips with shouting** - These two phrases mean the same thing and emphasize how happy Job would be if he were innocent. The word "he" refers to God and "your" refers to Job. AT: "God will make you very happy again if you are innocent" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **fill your mouth with laughter** - God causing Job to laugh is spoken of as if God had poured laughter into Job's mouth. AT: "cause you to continually laugh" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **your lips with shouting** - The verb "fill" is understood from the previous clause. God causing him to shout for joy is spoken of as if God had poured joy into Job's mouth. AT: "God will cause you to shout for joy" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Those who hate you will be clothed with shame** - Here "shame" is spoken of as if it were clothing that God will cause Job's enemies to wear. This means they will be very ashamed. AT: "God will cause those who hate you to be very ashamed" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the tent of the wicked will be no more** - Here "tent" refers to the homes of the wicked. AT: "the houses of the wicked will be destroyed" 
+  * **will be no more** - "will not last" or "will be destroyed" 
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -53,6 +56,6 @@ shout joyfully.
   * [[:en:bible:questions:comprehension:job:08]]
 **[[:en:bible:notes:job:08:19|<<]] | [[:en:bible:notes:job:09:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check p2pass}}
 
 ~~NOCACHE~~

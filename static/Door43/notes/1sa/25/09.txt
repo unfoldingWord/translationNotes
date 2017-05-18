@@ -28,7 +28,7 @@
 <usfm>
 \p
 \v 9 When David's young men arrived, they said all of this to Nabal on David's behalf and then waited.
-\v 10 Nabal answered David's servants, "Who is David? And who is the son of Jesse? There are many servants these days who are breaking away from their masters.
+\v 10 Nabal answered David's servants, "Who is David, and who is the son of Jesse? There are many servants these days who are breaking away from their masters.
 \v 11 Should I take my bread and my water and my meat that I have killed for my shearers, and give it to men who come from I do not know where?"
 </usfm>
 
@@ -47,7 +47,7 @@
 
   * **David's young men** - "David's army"
   * **said all of this to Nabal on David's behalf** - "gave Nabal David's complete message"
-  * **Who is David? And who is the son of Jesse?** - Nabal probably knew who David was, but he did not want to help David. (See [[:en:bible:notes:1sa:18:06|18:6-7]]; the words "servants ... breaking away from their masters" in verse 10 probably refer to David breaking away from Saul.) These rhetorical questions can be translated as statements. AT: "This David son of Jesse you speak of—I do not know him." or "I do not know who this David is, so I will not do as he says. I do not know who Jesse is, so I do not care what happens to his son." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Who is David, and who is the son of Jesse?** - Nabal probably knew who David was, but he did not want to help David. (See [[:en:bible:notes:1sa:18:06|18:6-7]]). The words "servants ... breaking away from their masters" in verse 10 probably refer to David breaking away from Saul. These two rhetorical questions can be translated as statements. AT: "This David son of Jesse you speak of—I do not know him." or "I do not know who this David is, so I will not do as he says. I do not know who Jesse is, so I do not care what happens to his son." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
   * **breaking away from** - "running away from" or "rebelling against"
   * **my bread** - Here "bread" is an idiom for any kind of food. (See: [[:en:ta:vol1:translate:figs_idiom]]) 
   * **men who come from I do not know where** - "men when I do not know where they have come from" or "men whom I do not know"
@@ -59,6 +59,6 @@
   * [[:en:bible:questions:comprehension:1sa:25]]
 **[[:en:bible:notes:1sa:25:07|<<]] | [[:en:bible:notes:1sa:25:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

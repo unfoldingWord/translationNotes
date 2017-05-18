@@ -36,7 +36,6 @@
 \q2 like a woman has when she is giving birth to a baby.
 \q1 You will look at each other helplessly,
 \q2 and it will show on your faces that you feel horror.
-\b
 
 
 \q1
@@ -51,8 +50,7 @@
 \q1
 \v 7 Therefore all hands hang limp, and every heart melts.
 \q1
-\v 8 They will be terrified; pangs and sorrows will seize
- them, like a woman in labor. 
+\v 8 They will be terrified; pain and agony will seize them, like a woman in labor.
 \q1 They will look in astonishment at one another; their faces will be aflame.
 </usfm>
 
@@ -69,11 +67,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This continues the prophecy about the people of Babylon. Isaiah is speaking.
-
   * **Howl** - "Cry out loud"
-  * **it comes with destruction from the Almighty** - "the Almighty God will come to destroy you"
-  * **their faces will be aflame** - "They will have the look of terror on their faces"
+  * **the day of Yahweh is near** - Something that is about to happen soon is spoken of as if it is coming near. AT: "the day of Yahweh will happen soon" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **it comes with destruction from the Almighty** - The word "it" refers to the day of Yahweh. "It comes with destruction" means that destruction will happen on that day. "Destruction from the Almighty" means that the Almighty will destroy them. AT: "on that day, the Almighty God will destroy them" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **all hands hang limp** - This shows that all the people are very weak and unable to do anything.
+  * **every heart melts** - People being terribly afraid is spoken of as if their hearts melt. AT: "everyone is terribly afraid" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **pain and agony will seize them** - People suddenly feeling terrible pain and sorrow is spoken of as if the pains and sorrows were people who grab them. AT: "they will suddenly feel terrible pain and agony" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **like a woman in labor** - Being in labor represents giving birth to a baby. AT: "like a woman giving birth to a baby" or "like the pain of a woman who is giving birth to a baby" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **their faces will be aflame** - Their faces being hot and red is spoken of as if they were burning. Possible reasons for their faces being hot are 1) the people are very afraid or 2) the people feel ashamed or 3) the people cry. AT: "their faces will be hot and red" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -88,6 +89,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit laborpains}}
+{{tag>publish p2pass laborpains}}
 
 ~~NOCACHE~~

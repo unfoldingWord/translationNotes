@@ -22,7 +22,7 @@
 \q1
 \v 8 Some will stumble and fall down,
 \q2 but we will be strong and not be moved.
-\b
+
 
 
 \q1
@@ -62,6 +62,6 @@
   * [[:en:bible:questions:comprehension:psa:020]]
 **[[:en:bible:notes:psa:020:005|<<]] | [[:en:bible:notes:psa:020:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

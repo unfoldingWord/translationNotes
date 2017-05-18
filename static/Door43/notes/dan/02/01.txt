@@ -25,32 +25,34 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:reign]]
-  * [[:en:obe:other:nebuchadnezzar]]
-  * [[:en:obe:other:dream]]
-  * [[:en:obe:other:mind]]
-  * [[:en:obe:other:trouble]]
-  * [[:en:obe:other:king]]
-  * [[:en:obe:other:magic]]
-  * [[:en:obe:other:sorcery]]
-  * [[:en:obe:other:wisemen]]
+  * [[:en:obe:other:reign|reign]]
+  * [[:en:obe:other:nebuchadnezzar|Nebuchadnezzar]]
+  * [[:en:obe:other:dream|dream]]
+  * [[:en:obe:other:mind|mind]]
+  * [[:en:obe:other:trouble|trouble, troubles, troubled]]
+  * [[:en:obe:other:king|king]]
+  * [[:en:obe:other:magic|magic, magician]]
+  * [[:en:obe:other:sorcery|sorcery, sorcerer, witchcraft]]
+  * [[:en:obe:other:wisemen|wise men]]
 
 ===== translationNotes: =====
 
-  * **In the second year** - "In year two" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **In the second year** - "In year two" (See: [[:en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]])
   * **he had dreams** - "Nebuchadnezzar had dreams"
+  * **His mind was troubled** - Here "mind" refers to his thoughts. AT: "His thoughts disturbed him" (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **and he could not sleep** - His troubled thoughts prevented him from sleeping. AT: "so that he could not sleep"
   * **Then the king summoned the magicians** - "Then the king called the magicians"
   * **the dead** - "people who had died"
   * **they came in** - "they came into the palace"
   * **stood before** - "stood in front of"
- 
 ===== Links: =====
 
-  * [[:en:bible:notes:dan:00:intro]]
-  * [[:en:bible:notes:dan:02:00]]
-  * [[:en:bible:questions:comprehension:dan:02]]
+  * [[:en:bible:notes:dan:00:intro|Introduction to Daniel]]
+  * [[:en:bible:notes:dan:02:00|Daniel 02 General Notes]]
+  * [[:en:bible:questions:comprehension:dan:02|Daniel 02 Translation Questions]]
+
 **[[:en:bible:notes:dan:01:19|<<]] | [[:en:bible:notes:dan:02:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit wisemen dream}}
+~~DISCUSSION~~{{tag>publish p2pass wisemen dream}}
 
 ~~NOCACHE~~

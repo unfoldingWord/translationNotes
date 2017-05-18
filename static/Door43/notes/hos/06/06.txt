@@ -23,10 +23,9 @@
 \q1 I want you to know me—that is much more important to me
 \q2 than when you give me offerings that the priests burn on the altar.
 \q1
-\v 7 But like Adam, the first man, 
-\q2 the covenant that they made with me and that I, Yahweh, made with them—they broke it. 
-\q2 When they did that, they were not faithful to me. 
-
+\v 7 But like Adam, the first man,
+\q2 the covenant that they made with me and that I, Yahweh, made with them—they broke it.
+\q2 When they did that, they were not faithful to me.
 
 \q1
 </usfm>
@@ -59,7 +58,7 @@
   * **General Information:** - Yahweh is speaking.
 
   * **For I desire faithfulness and not sacrifice** - This grammatical construction in Hebrew signals here the idea of "more than," as the next line shows ("and the knowledge of God more than burnt offerings"). AT: "For I desire faithfulness more than sacrifice"
-  * **Like Adam** - Some modern versions translate "As at Adam." "Adam" was the name of a city in Israel.
+  * **Like Adam** - Possible meanings are 1) this refers to Adam, the first man or 2) this is a metonym that represents the people who live in a city in Israel called Adam. AT: "Like the people in the city of Adam" or 3) this refers to people in general. The word "Adam" means "man" or "humankind." AT: "Like all of humankind" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -68,6 +67,6 @@
   * [[:en:bible:questions:comprehension:hos:06]]
 **[[:en:bible:notes:hos:06:04|<<]] | [[:en:bible:notes:hos:06:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

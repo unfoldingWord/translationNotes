@@ -43,13 +43,16 @@
 
   * **General Information:** - Yahweh continues speaking to Ezekiel about Israel.
 
-  * **I scattered them among the nations; they were dispersed through the lands.** - See how you translated a similar phrase in [[:en:bible:notes:ezk:12:14|12:15]]. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **they were dispersed through the lands** - AT: "I dispersed them through the lands" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **their ways and their deeds** - AT: "the things that they have done" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **I scattered them among the nations; they were dispersed through the lands** - These two phrases mean basically the same thing. See how you translated a similar phrase in [[:en:bible:notes:ezk:12:14|12:15]]. AT: "I caused them to separate and live in separate lands" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **they were dispersed through the lands** - This can be stated in active form. AT: "I dispersed them through the lands" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **their ways and their deeds** - Here "ways" and "deeds" mean basically the same thing. AT: "the things that they have done" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **they profaned my holy name** - Here "name" represents Yahweh and his reputation. AT: "they mocked me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **when people** - "because other people said"
+  * **Are these really the people of Yahweh?** - The people use a question to express their surprise at what they saw. AT: "I cannot believe these are really the people of Yahweh!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **For they have been thrown out of his land** - This can be stated in active form. AT: "For Yahweh has forced them out of his land" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **his land** - This refers to the land of Israel.
-  * **I had compassion for my holy name** - "I cared about my holy name." AT: "I wanted people to know that I am holy."
-  * **the house of Israel** - See how you translated this in [[:en:bible:notes:ezk:03:01|3:1]].
+  * **I had compassion for my holy name** - "I cared about my holy name." Here "name" represents Yahweh and his reputation. AT: "I wanted people to know that I am holy" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the house of Israel** - Here "house" represents people. AT: "the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -58,6 +61,6 @@
   * [[:en:bible:questions:comprehension:ezk:36]]
 **[[:en:bible:notes:ezk:36:16|<<]] | [[:en:bible:notes:ezk:36:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

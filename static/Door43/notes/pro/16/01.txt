@@ -18,13 +18,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 People make plans out of their longings deep within them, 
+\v 1 People make plans out of their longings deep within them,
 \q2 but it is Yahweh who tells him what will happen.
-\b
 \q1
 \v 2 A person sees nothing wrong with what he does,
-\q2 but Yahweh measures every part of what a person does according to his purposes. 
-\b
+\q2 but Yahweh measures every part of what a person does according to his purposes.
 
 
 \q1
@@ -54,10 +52,11 @@
  
 ===== translationNotes: =====
 
-  * **the answer from his tongue** - what Yahweh says will happen (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in his own eyes** - "in his opinion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **weighs** - judges, evaluates
-  * **spirits** - "motives" or "intentions"
+  * **The plans of the heart belong to a person** - Here the word "heart" represents the person's mind and thoughts. AT: "A person makes plans in his mind" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **from Yahweh comes the answer from his tongue** - Possible meanings are 1) Yahweh speaks his answer to a person's plans, which is a metaphor meaning that Yahweh determines the outcome of that person's plans or 2) Yahweh enables a person to speak words about the plans that he has made. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the answer from his tongue** - This phrase is a metonym for the words that one speaks. AT: "the answer that he speaks" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **All of a person's ways are pure in his own eyes** - The word "eyes" is a metonym for the way a person thinks about right and wrong. The writer speaks of what a person does as if that person were walking down a path. AT: "A person thinks that everything he does is pure" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Yahweh weighs the spirits** - Here the word "spirits" represents people's desires and motives. The writer speaks of Yahweh discerning and judging a person's desires and motives as if he were weighing that person's spirit. AT: "Yahweh judges the person's motives" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:pro:16]]
 **[[:en:bible:notes:pro:15:33|<<]] | [[:en:bible:notes:pro:16:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

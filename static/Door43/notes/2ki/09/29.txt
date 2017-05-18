@@ -31,7 +31,9 @@
   * [[:en:obe:other:kingdomofjudah]]
 ===== translationNotes: =====
 
-  * **Now it was in the eleventh year of Joram son of Ahab that Ahaziah had begun to reign over Judah** - AT: "Now Ahab had become king of Judah in year 11 of Joram's reign over Israel."
+  * **in the eleventh year of Joram son of Ahab** - This describes the time that Ahaziah began to reign by stating how long the current king of Israel had reigned. AT: "in the eleventh year that Joram son of Ahab was king of Israel" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **eleventh year** - "11th year" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+
 
 ===== Links: =====
 
@@ -40,6 +42,6 @@
   * [[:en:bible:questions:comprehension:2ki:09]]
 **[[:en:bible:notes:2ki:09:27|<<]] | [[:en:bible:notes:2ki:09:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

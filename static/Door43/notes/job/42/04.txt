@@ -58,8 +58,10 @@
 
 ===== translationNotes: =====
 
-  * **but now my eye sees you** - AT: "but now I really understand you." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **repent in dust and ashes** - This was a cultural way of showing remorse and repentance.
+  * **but now my eye sees you** - The reader should not understand this to mean that Job literally saw Yahweh. Seeing with the eye is a metonym for understanding. AT: "but now I really understand you." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **despise myself** - Job's self is a metonym for what he said. AT: "I despise the things I said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **despise** - "intensely dislike" or "am unhappy with"
+  * **I repent in dust and ashes** - It is not clear that Job actually did sit in or cover himself with dust and ashes. This may be a metaphor for being sorry for his sins. AT: "I am so sorry for my sins that I should sit in dust and ashes" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -68,6 +70,6 @@
   * [[:en:bible:questions:comprehension:job:42]]
 **[[:en:bible:notes:job:42:01|<<]] | [[:en:bible:notes:job:42:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -28,7 +28,7 @@
 \p
 \v 5 When you offer a sacrifice of fellowship offerings to Yahweh, you must offer it that you may be accepted.
 \v 6 It must be eaten the same day you offer it, or on the next day. If anything remains until the third day, it must be burned.
-\v 7 If it is eaten at all on the third day, it is defiled. It must not be accepted, 
+\v 7 If it is eaten at all on the third day, it is defiled. It must not be accepted,
 \v 8 but everyone who eats it must carry his own guilt because he has dishonored what was holy to Yahweh. That person must be cut off from his people.
 </usfm>
 
@@ -45,14 +45,13 @@
 
   * **General Information:** - Yahweh continues telling Moses what the people must do.
 
-  * **you must offer it that you may be accepted** - Possible meanings are 1) that Yahweh will accept the person offering the sacrifice or 2) that Yahweh will accept the sacrifice from the person. This can be translated in active form. AT: "you must offer it properly so that I will accept you" or "you must offer it properly so that I will accept your sacrifice" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **you must offer it that you may be accepted** - This can be translated in active form. Possible meanings are 1) Yahweh will accept the person offering the sacrifice. AT: "you must offer it properly so that I will accept you" or 2) Yahweh will accept the sacrifice from the person. AT: "you must offer it properly so that I will accept your sacrifice" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **It must be eaten** - This can be translated in active form. AT: "You must eat it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **it must be burned** - This can be translated in active form. AT: "you must burn it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **If it is eaten at all** - This can be translated in active form. AT: "If you eat any of it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **It must not be accepted** - This can be translated in active form. AT: "You may not accept it for eating" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **It must not be accepted** - To eat the offering after the designated time is against God and increases the guilt the offering was to cover. This can be translated in active form. AT: "You may not accept it for eating" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **everyone ... must carry his own guilt** - A person's guilt is spoken of as if it were a physical object that the person carries. Here the word "guilt" represents the punishment for that guilt. AT: "everyone ... is responsible for his own guilt" or "Yahweh will punish everyone ... for his sin" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
   * **That person must be cut off from his people** - A person being excluded from his community is spoken of as if he had been cut off from his people, as one would cut a piece of cloth or cut a branch from a tree. This can be translated in active form. See how you translated this in [[:en:bible:notes:lev:07:19|7:20]]. AT: "that person may no longer live among his people" or "you must separate that person from his people" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-
 ===== Links: =====
 
   * [[:en:bible:notes:lev:00:intro]]
@@ -60,6 +59,6 @@
   * [[:en:bible:questions:comprehension:lev:19]]
 **[[:en:bible:notes:lev:19:01|<<]] | [[:en:bible:notes:lev:19:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

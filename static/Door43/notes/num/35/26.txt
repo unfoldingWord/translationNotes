@@ -24,7 +24,7 @@
 
 <usfm>
 \v 26 But if the accused man at any time goes beyond the border of the city of refuge to which he fled,
-\v 27 and if the blood avenger finds him outside the border of his city of refuge, and if he kills the accused man, the blood avenger will not be guilty of murder.
+\v 27 and if the avenger of blood finds him outside the border of his city of refuge, and if he kills the accused man, the avenger of blood will not be guilty of murder.
 \v 28 This is because the accused man should have remained in his city of refuge until the death of the high priest. After the death of the high priest, the accused may return to the land where he has his own property.
 </usfm>
 
@@ -36,7 +36,7 @@
 
 ===== translationNotes: =====
 
-  * **the blood avenger** - Here the word "blood" is a metonym for the murder. Translate these words in the same way you did in [[:en:bible:notes:num:35:19|35:19]]. AT: "The one who avenges the murder" or "The relative seeking vengeance" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the avenger of blood** - Here the word "blood" is a metonym for the murder. Translate these words in the same way you did in [[:en:bible:notes:num:35:19|35:19]]. AT: "the one who avenges the murder" or "the relative seeking vengeance" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:num:35]]
 **[[:en:bible:notes:num:35:24|<<]] | [[:en:bible:notes:num:35:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

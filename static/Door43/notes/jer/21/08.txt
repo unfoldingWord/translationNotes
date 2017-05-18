@@ -39,13 +39,17 @@
 
 ===== translationNotes: =====
 
-  * **this people** - AT: "the people of Jerusalem"
+  * **this people** - "the people of Jerusalem"
   * **I am about to place before you the way of life and the way of death** - Yahweh is offering the people of Jerusalem a choice that will determine whether they live or die.
-  * **falling on his knees before** - AT: "surrendering to"
-  * **closed in against** - AT: "attacked from all sides"
-  * **I have set my face against** - AT: "I have determined to oppose" or "I have turned against"
+  * **by the sword** - This refers to death in battle. AT: "in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **falling on his knees before** - This symbolic act represents surrender. AT: "surrendering to" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **closed in against** - "attacked from all sides"
   * **He will escape with his life** - The one who surrenders to the Babylonians will escape with his life, even though he will lose all his possessions.
-  * **this is Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|1:8]].
+  * **I have set my face against** - Yahweh speaks of being opposed to a person as if he were to set his face against that person. AT: "I am against you" or "I oppose you" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **set my face** - Here "face" is a metonym for attention or gaze, and "set my face" refers to staring. AT: "stare" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **It has been given** - This can be stated in active form. AT: "I have given" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **into the hand of the king** - Here "hand" represents the power of the king to destroy the city. AT: "into the power of the king" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -54,6 +58,6 @@
   * [[:en:bible:questions:comprehension:jer:21]]
 **[[:en:bible:notes:jer:21:06|<<]] | [[:en:bible:notes:jer:21:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

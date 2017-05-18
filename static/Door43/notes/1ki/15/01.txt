@@ -24,7 +24,7 @@
 \c 15
 \p
 \v 1 In the eighteenth year of King Jeroboam son of Nebat, Abijah began to reign over Judah.
-\v 2 He ruled for three years in Jerusalem. His mother's name was Maacah. she was the daughter of Abishalom.
+\v 2 He ruled for three years in Jerusalem. His mother's name was Maacah. She was the daughter of Abishalom.
 \v 3 He walked in all the sins that his father had committed before his time; his heart was not devoted to Yahweh his God as the heart of David, his ancestor, had been.
 </usfm>
 
@@ -45,11 +45,12 @@
 
 ===== translationNotes: =====
 
-  * **In the eighteenth year** - AT: "In year 18" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **three years** - AT: "3 years"
-  * **He walked in all the sins** - AT: "He continued to practice all the sins" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **his heart was not devoted** - AT: "he was not devoted" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
+  * **In the eighteenth year of King Jeroboam son of Nebat** - This refers to the eighteenth year of Jeroboam's reign. AT: "After Jeroboam had been the king of Israel for almost eighteen years" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **In the eighteenth year** - "In year 18" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **He walked in all the sins** - Walking represents living, and walking in sins represents committing those sins. AT: "Abijah continued to practice all the sins" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **that his father had committed before his time** - Since these verses refer to several kings, it may help to include the name of Abijah's father. This information can be made clear. AT "that his father, Rehoboam, had committed before Abijah's time" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **his time** - This phrase represents the time that he was king. The meaning of this can be made clear. AT: "before Abijah was king" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **his heart was not devoted ... as the heart of David** - The heart represents the whole person. AT: "Abijah was not devoted ... as David" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
   * [[:en:bible:notes:1ki:00:intro]]
@@ -57,6 +58,6 @@
   * [[:en:bible:questions:comprehension:1ki:15]]
 **[[:en:bible:notes:1ki:14:29|<<]] | [[:en:bible:notes:1ki:15:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit abijah}}
+~~DISCUSSION~~{{tag>publish p2pass abijah}}
 
 ~~NOCACHE~~

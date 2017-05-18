@@ -34,7 +34,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q1
 \v 13 Suppose that you turn back your feet from traveling on the Sabbath day, and from doing your own pleasure on my holy day.
 \q1 Suppose that you call the Sabbath a delight, and that you call the matters of Yahweh holy and honored.
@@ -53,7 +52,8 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **you turn back your feet from traveling on the Sabbath day, and from doing your own pleasure on my holy day** - Here "feet" refers to the kinds of work and traveling that the people did on all other days. God did not allow work on the Sabbath day. AT: "you stop traveling and doing what you want to do on the Sabbath, my holy day" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you turn back your feet from traveling on the Sabbath day, and from doing your own pleasure on my holy day** - Here "feet" refers to the traveling and work that the people did on all other days. God did not allow long travels or work on the day of rest. AT: "you stop traveling and doing what you want to do on the Sabbath, my holy day" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:isa:58]]
 **[[:en:bible:notes:isa:58:12|<<]] | [[:en:bible:notes:isa:58:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

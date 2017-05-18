@@ -55,7 +55,9 @@
   * **now** - Elihu uses this word to bring attention to something important he is about to say.
   * **you have** - Here "you" is singular and refers to Job. (See: [[:en:ta:vol1:translate:figs_you]])
   * **listen to the sound of my words** - This means the same as the previous part of the sentence. AT: "listen to what I say" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Can one who hates justice govern? Will you condemn God, who is righteous and mighty?** - AT: "One who hates justice cannot be expected to rule over people. So you really cannot criticize God, who is righteous and powerful, and you cannot say that what he has done is wrong. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Can one who hates justice govern? Will you condemn God, who is righteous and mighty?** - Elihu uses this question to rebuke Job for implying that God hates justice. AT: "One who hates justice cannot be expected to rule over people. So you really cannot criticize God, who is righteous and powerful, and you cannot say that what he has done is wrong. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Can one who hates justice govern?** - The implicit answer to this rhetorical question is "no." This question implies that God could not rule the world if he hated justice. This can be written as a statement. AT: "One who hate justice cannot govern the world." or "God could certainly never hate was is right and still rule the world." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **Will you condemn God, who is righteous and mighty?** - This rhetorical question is used to emphasize that Job does not have the authority or a reason to condemn God. AT: "You cannot condemn God, who is righteous and mighty!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 
 ===== Links: =====
@@ -65,6 +67,6 @@
   * [[:en:bible:questions:comprehension:job:34]]
 **[[:en:bible:notes:job:34:13|<<]] | [[:en:bible:notes:job:34:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit understand}}
+~~DISCUSSION~~{{tag>publish p2check understand}}
 
 ~~NOCACHE~~

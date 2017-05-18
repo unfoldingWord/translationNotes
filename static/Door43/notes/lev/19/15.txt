@@ -44,7 +44,7 @@
 
 ===== translationNotes: =====
 
-  * **Do not cause judgment to be false** - This double negative can be expressed in a positive way. AT: "Always judge rightly" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **Do not cause judgment to be false** - This double negative is used for emphasis. It can be expressed in a positive way. AT: "Always judge rightly" (See: [[:en:ta:vol2:translate:figs_litotes]])
   * **You must not show favoritism to someone because he is poor, and you must not show favoritism to someone because he is important** - The words "poor" and "important" are two extremes, which together mean "anyone." You can translate this to clarify the terms. AT: "You must not show favoritism to anyone based on how much money they have" (See: [[:en:ta:vol2:translate:figs_merism]])
   * **judge your neighbor righteously** - "judge everyone according to what is right"
   * **Do not walk around spreading false gossip** - "Do not go around gossiping to other people"
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:lev:19]]
 **[[:en:bible:notes:lev:19:13|<<]] | [[:en:bible:notes:lev:19:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check gossip}}
+~~DISCUSSION~~{{tag>publish p2pass gossip}}
 
 ~~NOCACHE~~

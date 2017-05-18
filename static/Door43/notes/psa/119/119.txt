@@ -20,7 +20,7 @@
 \q1
 \v 120 I tremble because I am afraid of you;
 \q2 I am afraid because you punish those who do not obey your regulations.
-\b
+
 
 
 \q1
@@ -35,7 +35,6 @@
 \q
 \v 120 My body trembles in fear of you,
 \q and I am afraid of your righteous decrees.
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -52,11 +51,11 @@
 
 ===== translationNotes: =====
 
-  * **You remove all the wicked of the earth like slag** - Slag is the waste or undesired leftovers in the process of refining gold or other metals. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **You remove all the wicked of the earth like slag** - Slag is the waste or undesired leftovers in the process of refining gold or other metals. Yahweh removes the wicked people as if they were trash. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **the wicked** - This nominal adjective can be stated as an adjective. AT: "the wicked people" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
   * **like slag** - "like trash" or "like waste"
   * **My body trembles in fear of you** - Here "body" represents the whole person. AT: "I shake because I fear you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **I am afraid of your righteous decrees** - It is implied that the writer is afraid of God's righteous decrees because the writer knows that God punishes those who disobey his decrees. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **I am afraid of your righteous decrees** - It is implied that the writer is afraid of God's righteous decrees because the writer knows that God punishes those who disobey his decrees. You can make the full meaning of this statement explicit. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -65,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:117|<<]] | [[:en:bible:notes:psa:119:121|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

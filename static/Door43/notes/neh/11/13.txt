@@ -16,7 +16,6 @@
 \v 13 Altogether, there were 242 members of that clan who were leaders of the clan who settled in Jerusalem.
 \p Another priest who settled in Jerusalem was Amashsai the son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer.
 \v 14 There were 128 members of that clan who were valiant soldiers who settled in Jerusalem. Their leader was Zabdiel the son of Haggedolim.
-\b
 
 
 \m
@@ -25,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 And there were his associates who were heads of families, 242 men, and Amashsai son of Azarel son of Ahzai son of Meshillemoth son of Immer,
-\v 14 and their brothers, courageous fighting men, 128 in number; their leading officer was Zabdiel son of Haggedolim.
+\v 13 His brothers were heads of clans, 242 men; and Amashsai son of Azarel son of Ahzai son of Meshillemoth son of Immer,
+\v 14 and their brothers, 128 courageous fighting men; their overseer was Zabdiel son of Haggedolim.
 </usfm>
 
 ===== translationWords: =====
@@ -36,12 +35,10 @@
   * [[:en:obe:kt:son]]
 ===== translationNotes: =====
 
-  * **And there were his associates who were heads of families** - "And his brothers were heads of clans" or "And his kinsmen were heads of clans"
-  * **his associates** - Here "his" refers to Adaiah, the son of Jeroham. (See [[:en:bible:notes:neh:11:10|11:12]])
-  * **242 men** - See how you translated numbers in [[:en:bible:notes:neh:07:11|07:11-14]].
-  * **Amashsai ... Azarel ... Ahzai ... Meshillemoth ... Immer ... Zabdiel ... Haggedolim** - These are male names (See: [[:en:ta:vol1:translate:translate_names]])
+  * **His brothers** - the brothers of Adaiah, the son of Jeroham ([[:en:bible:notes:neh:11:10|11:12]]).
+  * **brothers** - This word is a metaphor for 1) fellow Israelites or 2) people who did the same work. AT: "associates" or "fellow workers" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Amashsai ... Azarel ... Ahzai ... Meshillemoth ... Immer ... Zabdiel ... Haggedolim** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **courageous fighting men** - "valiant warriors" or "courageous warriors"
-  * **128** - See how you translated numbers in [[:en:bible:notes:neh:07:11|07:11-14]].
 
 ===== Links: =====
 
@@ -50,6 +47,6 @@
   * [[:en:bible:questions:comprehension:neh:11]]
 **[[:en:bible:notes:neh:11:10|<<]] | [[:en:bible:notes:neh:11:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

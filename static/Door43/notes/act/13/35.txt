@@ -28,10 +28,12 @@
 ===== ULB: =====
 
 <usfm>
-\v 35 This is why he also says in another Psalm, 
+\m
+\v 35 This is why he also says in another Psalm,
 \q 'You will not allow your Holy One to see decay.'
-\v 36 For after David had in his own generation served the desires of God, he fell asleep, was laid with his fathers, and saw decay,
-\v 37 but he whom God raised up saw no decay.
+\m
+\v 36 For when David had served the desires of God in his own generation, he fell asleep; he was laid with his fathers and his body experienced decay.
+\v 37 But he whom God raised up experienced no decay.
 </usfm>
 
 
@@ -53,9 +55,9 @@
   * **served the desires of God** - "did what God wanted him to do" or "did what pleased God"
   * **he fell asleep** - This was a polite way to refer to death. AT: "he died" (See: [[:en:ta:vol2:translate:figs_euphemism]])
   * **was laid with his fathers** - "was buried with his ancestors who had died"
-  * **saw decay** - The phrase "saw decay" is a metonym for "his body decayed." AT: "his body rotted" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **but he whom** - "but Jesus whom"
-  * **saw no decay** - The phrase "saw no decay" is a way to say "did not decay." AT: "did not rot" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **experienced decay** - The phrase "experienced decay" is a metonym for "his body decayed." AT: "his body rotted" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **But he whom** - "but Jesus whom"
+  * **experienced no decay** - The phrase "experienced no decay" is a way to say "his body did not decay." AT: "did not rot" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 
 ===== Links: =====

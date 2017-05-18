@@ -23,9 +23,8 @@
 \q1
 \v 32 But, in the last, it bites you like a poisonous snake .
 \q1
-\v 33 It makes you see strange things, 
-\q2 and within you, you say perverse things when you are drunk. 
-
+\v 33 It makes you see strange things,
+\q2 and within you, you say perverse things when you are drunk.
 
 \q
 </usfm>
@@ -35,7 +34,7 @@
 
 <usfm>
 \q
-\v 31 Do not look at the wine when it is red, 
+\v 31 Do not look at the wine when it is red,
 \q when it sparkles in the cup
 \q and goes down smoothly.
 \q
@@ -53,12 +52,15 @@
   * [[:en:obe:other:serpent]]
   * [[:en:obe:other:heart]] 
 
-
 ===== translationNotes: =====
 
-  * **it bites like a serpent ... it stings like an adder** - The word "it" refers to "he wine when it is red." These two phrases describe the unpleasant effects of drinking wine; it feels like the bite or sting of a dangerous snake. The comparison is repeated twice to make it emphatic. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]]) 
+  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
+
+  * **In the last** - "After you drink it"
+  * **it bites like a serpent ... it stings like an adder** - The word "it" refers to "the wine when it is red." "Bites" and "stings" are metaphors for the way too much wine makes people feel. AT: "it makes you feel as bad as if a serpent had bitten you or an adder had stung you" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_simile]]) 
   * **adder** - a type of poisonous snake
-  * **your heart will utter perverse things** - This means that the person who is drunk will say unusual and strange things because he is not able to think clearly. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **your heart will utter perverse things** - The heart is a metonym for what a person thinks and decides to do. AT: "you will think about and decide to do perverse things" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **perverse things** - things that God says are morally wrong and bad; things that are wicked
  
 ===== Links: =====
 
@@ -73,6 +75,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

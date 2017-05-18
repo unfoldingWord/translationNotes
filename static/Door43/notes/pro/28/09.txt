@@ -20,10 +20,10 @@
 
 <usfm>
 \v 9 If you refuse to hear what the law says to you about how you should live;
-\q2 then Yahweh is offended by your prayers. 
+\q2 then Yahweh is offended by your prayers.
 \q1
-\v 10 If someone tricks an honest person into doing that is bad, 
-\q2 the one who did that will fall into his own trap, 
+\v 10 If someone tricks an honest person into doing that is bad,
+\q2 the one who did that will fall into his own trap,
 \q2 but those who have tried to right will received many good things.
 
 
@@ -48,6 +48,7 @@
 
   * [[:en:obe:other:law]]
   * [[:en:obe:other:pray]]
+  * [[:en:obe:kt:upright]]
   * [[:en:obe:kt:evil]]
   * [[:en:obe:other:pit]]
   * [[:en:obe:kt:blameless]] 
@@ -55,12 +56,16 @@
 
 ===== translationNotes: =====
 
-
-  * **turns away his ear from hearing** - AT: "does not listen" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **his prayer is detestable** - "his prayer is offensive to God"
-  * **detestable** - See how you translated this word in [[:en:bible:notes:pro:03:31|3:32]].
-  * **Whoever misleads the upright into an evil way** - "Any person who causes the upright to do what is evil"
-  * **the upright** - See how you translated this word in [[:en:bible:notes:pro:03:31|3:32]].
+  * **If one** - "If a person"
+  * **turns away his ear from hearing the law** - This represents the whole person turning away from and rejecting God's law. AT: "turns away from hearing and obeying the law" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **even his prayer is detestable** - "even his prayer is offensive to God." This can be written in active form. AT: "God detests even his prayer" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **detestable** - Translate this as you did in [[:en:bible:notes:pro:03:31|3:32]].
+  * **Whoever misleads the upright into an evil way** - This is a metaphor for leading upright people in an evil direction. AT: "Whoever causes the upright to go in an evil direction" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Whoever misleads ... evil way will fall** - "If anyone misleads ... evil way, he will fall"
+  * **the upright** - This refers to upright persons in general. AT: "upright persons" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **will fall into his own pit** - "will fall into the trap that he has dug." This is a metaphor for ending up in the same bad place as others had been led toward. AT: "will end up in the same evil place toward which he guided other people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the blameless** - This refers to blameless persons in general. AT: "blameless persons" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **will have a good inheritance** - "will inherit what is good"
  
 ===== Links: =====
 
@@ -69,6 +74,6 @@
   * [[:en:bible:questions:comprehension:pro:28]]
 **[[:en:bible:notes:pro:28:07|<<]] | [[:en:bible:notes:pro:28:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass upright}}
 
 ~~NOCACHE~~

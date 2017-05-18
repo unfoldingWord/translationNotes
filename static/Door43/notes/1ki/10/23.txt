@@ -42,9 +42,9 @@
 
 ===== translationNotes: =====
 
-  * **All the earth** - AT: "People from everywhere" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **sought the presence of Solomon** - AT: "sought an audience with Solomon" or "wanted to visit Solomon" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **which God had put in his heart** - AT: "which God had put in his mind" or "which God had given him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **All the earth** - This is a generalization. AT: "People from everywhere" or "People from many different places" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **sought the presence of Solomon** - The presence of the person is a metonym for being able to speak and listen to the person. AT: "sought an audience with Solomon" or "wanted to visit Solomon" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to hear his wisdom, which God had put in his heart** - The heart is a metonym for what a person thinks and is spoken of as if it were a container. The abstract noun "wisdom" is spoken of as if it were an object that could be put in a container and can be translated as an adjective. It can be a metonym for either the person or the words the person speaks. AT: "to hear his wisdom, which God had given him" or "to hear how wise God had enabled him to be" or "to hear him speak the wise words that God had enabled him to speak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:1ki:10]]
 **[[:en:bible:notes:1ki:10:21|<<]] | [[:en:bible:notes:1ki:10:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

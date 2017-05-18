@@ -34,7 +34,6 @@
 \v 18 However, when they get up and begin to run,
 \q2 they scornfully laugh at horses with their riders
 \q2 because the horses cannot run as fast as the ostriches!
-\b
 
 
 \q1
@@ -53,7 +52,7 @@
 \q
 \v 18 When she runs swiftly,
 \q she laughs in scorn at the horse and its rider.
-\b
+\m
 </usfm>
 
 
@@ -68,26 +67,27 @@
 
 ===== translationNotes: =====
 
-  * **She deals roughly** - The word "she" refers to the female ostrich.
-  * **her labor** - the work that she does when she lays the eggs and takes care of the chicks
-  * **might have been in vain** - If the chicks die, all of her work was a useless. AT: "might have been useless if the chicks die." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **deprived her of wisdom** - "made her forget wisdom"
-  * **understanding** - See how you translated this in [[:en:bible:notes:job:11:04|11:6]].
-  * **she laughs ... its rider** - It is implied that she laughs because she is faster than the horse. AT: "she laughs ... its rider, because the horse cannot run as fast as she can."
- 
+  * **Connecting Statement:** - Yahweh continues to challenge Job.
+
+  * **She deals roughly** - The word "She" refers to the female ostrich.
+  * **her labor** - the work that she does when she lays the eggs
+  * **might have been in vain** - If the chicks die, all of her work was a useless. AT: "might have been useless if the chicks die" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **deprived her of wisdom** - "made her forget wisdom" or "not given her wisdom"
+  * **understanding** - Translate this as in [[:en:bible:notes:job:11:04|11:6]].
+  * **When she runs** - This verse is in contrast to her weakness in caring for her chicks. AT: "However, when she runs"
+  * **she laughs ... its rider** - It is implied that she laughs because she is faster than the horse. AT: "she laughs ... its rider because she can run faster than the horse" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
   * [[:en:bible:notes:job:39:00]]
   * [[:en:bible:questions:comprehension:job:39]]
-
- 
-
 **[[:en:bible:notes:job:39:13|<<]] | [[:en:bible:notes:job:39:19|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -38,7 +38,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:humble]]
-  * [[:en:obe:other:proud|proud]]
+  * [[:en:obe:other:proud]]
   * [[:en:obe:kt:save]]
   * [[:en:obe:kt:innocent]]
   * [[:en:obe:kt:clean]]
@@ -46,13 +46,14 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - This concludes Eliphaz's speech to Job.
+  * **Connecting Statement:** - This concludes Eliphaz's speech to Job.
 
-  * **the one with lowered eyes** - AT: "the humble person" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **through the cleanness of your hands** - Here "cleanness" refers to innocence and "hands" refers to what a person does. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **a man who is innocent** - Some versions read, "Even a man who is not innocent."
-  * **you will be rescued through the cleanness of your hands** - Some versions read, "He will be rescued through the cleanness of your hands."
- 
+  * **the one with lowered eyes** - Here "lowered eyes" refers to humility. AT: "the humble person" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **a man who is innocent** - Some versions read, "even a man who is not innocent."
+  * **you will be rescued through the cleanness of your hands** - Some versions read, "he will be rescued through the cleanness of your hands." This can be stated in active form. AT: "God will rescue you because of the cleanest of your hands" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **through the cleanness of your hands** - Here "cleanness" refers to innocence and "hands" refers to what a person does. AT: "because you do what is right" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -60,6 +61,6 @@
   * [[:en:bible:questions:comprehension:job:22]]
 **[[:en:bible:notes:job:22:26|<<]] | [[:en:bible:notes:job:23:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

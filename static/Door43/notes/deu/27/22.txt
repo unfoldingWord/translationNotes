@@ -31,9 +31,9 @@
 
 <usfm>
 \p
-\v 22 'May the man be cursed who sleeps with his sister, the daughter of his father, or with the daughter of his mother.' And all the people must say, 'Amen.'
+\v 22 'May the man be cursed who sleeps with his sister, the daughter of his father, or with the daughter of his mother.' Then all the people must say, 'Amen.'
 \p
-\v 23 'May the man be cursed who sleeps with his mother-in-law.' And all the people must say, 'Amen.'
+\v 23 'May the man be cursed who sleeps with his mother-in-law.' Then all the people must say, 'Amen.'
 </usfm>
 
 
@@ -47,7 +47,7 @@
 
   * **General Information:** - Moses continues telling the Levites and the people what they must say. 
 
-  * **May the man be cursed** - This may be stated in active form. AT: "May Yahweh curse the man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **May the man be cursed** - This may be stated in active form. See how you translated this in [[:en:bible:notes:deu:27:16|27:16]]. AT: "May Yahweh curse the man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the daughter of his father, or with the daughter of his mother** - This means a man cannot sleep with his sister, even if she has a different mother or father.
 
  
@@ -64,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check sister}}
+{{tag>publish p2pass sister}}
 
 ~~NOCACHE~~

@@ -36,7 +36,8 @@
 ===== translationNotes: =====
 
   * **The second casting of lots fell to Simeon** - "The second time Joshua cast lots, the lot indicated the tribe of Simeon"
-  * **it was assigned to each of their clans** - This can be stated in active form. AT: "and Joshua assigned the land to each of their clans" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The second** - number two in a list (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **it was assigned to each of their clans** - This can be stated in active form. AT: "Joshua assigned the land to each of their clans" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Their inheritance was in the middle of the inheritance that belonged to the tribe of Judah** - The land is spoken of as if it were an inheritance that the tribes received as a permanent possession. AT: "The land that they received as an inheritance was in the middle of the land that the tribe of Judah received as an inheritance" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
@@ -52,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

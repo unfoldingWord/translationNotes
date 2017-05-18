@@ -36,8 +36,12 @@
 
 ===== translationNotes: =====
 
-  * **those known for their wisdom in Babylon** - This refers to those who speak with the dead, the wise men, and the astrologers.
- 
+  * **those known for their wisdom in Babylon** - This refers back to those who claimed to speak with the dead, the wise men, and the astrologers.
+  * **Whoever explains this writing and its meaning will be clothed with purple and will have a gold chain around his neck** - This can be stated in active form. AT: "I will give purple clothes and a gold neck chain to whoever explains this writing and its meaning" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **clothed with purple** - Purple cloth was rare and reserved for royal officials. AT: "dressed in royal clothing" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the third highest ruler** - "the number three ruler" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -45,6 +49,6 @@
   * [[:en:bible:questions:comprehension:dan:05]]
 **[[:en:bible:notes:dan:05:05|<<]] | [[:en:bible:notes:dan:05:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit purple learnedmen}}
+~~DISCUSSION~~{{tag>publish p2pass purple learnedmen}}
 
 ~~NOCACHE~~

@@ -18,7 +18,7 @@
 
 <usfm>
 \p
-\v 13 Three of the thirty soldiers went down to David at harvest time, to the cave of Adullam. The army of the Philistines was camped in the valley of Rephaim.
+\v 13 Three of the thirty soldiers went down to David at harvest time, to the cave of Adullam. The army of the Philistines was camped in the Valley of Rephaim.
 \v 14 At that time David was in his stronghold, a cave, while the Philistines had established at Bethlehem.
 </usfm>
 
@@ -30,10 +30,10 @@
 
 ===== translationNotes: =====
 
-  * **Three of the thirty** - This is not the same three soldiers mentioned in [[:en:bible:notes:2sa:23:08|23:8-12]].
-  * **the thirty** - "the 30" or "the thirty bravest Israelite soldiers" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **Three of the thirty** - These are not the same three soldiers mentioned in [[:en:bible:notes:2sa:23:08|23:8-12]].
+  * **the thirty** - "the 30" or "the thirty bravest Israelite soldiers." The full meaning of this statement can be made clear. (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **cave of Adullam** - "cave near the town of Adullam." Adullam is near Bethlehem. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **valley of Rephaim** - See how you translated this in [[:en:bible:notes:2sa:05:17|5:18]].
+  * **Valley of Rephaim** - This is the name of a place. Translate this as in [[:en:bible:notes:2sa:05:17|5:18]].
   * **in his stronghold** - "in his protected place"
   * **the Philistines had established at Bethlehem** - "some Philistines soldiers were controlling the village of Bethlehem" 
 ===== Links: =====
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:2sa:23]]
 **[[:en:bible:notes:2sa:23:11|<<]] | [[:en:bible:notes:2sa:23:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -31,10 +31,11 @@
 
 ===== translationNotes: =====
 
-
-  * **I will strike Edom with my hand** - See how you translated the similar phrase "I will strike you with my hand" in [[:en:bible:notes:ezk:25:06|25:07]].
-  * **from Teman to Dedan** - These are two cities at opposite ends of Edom. This means that God will destroy all of Edom. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **They will fall by the sword** - The word "fall" represents being killed and "sword" refers to battle. AT: "Their enemies will kill them with their swords" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Edom has taken** - Here "Edom" refers to the people who live there. AT: "The people of Edom" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the house of Judah** - The word "house" is a metonym for the family that lives in the house, in this case the descendants of Judah over many years. Similar words appear in [[:en:bible:notes:ezk:03:01|3:1]]. AT: "the Judah people group" or "the people of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I will strike Edom with my hand** - Here Yahweh speaks of punishing the people as if he were literally hitting them with his hand. See how you translated a similar phrase in [[:en:bible:notes:ezk:25:06|25:7]]. AT: "I will punish Edom" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will make them ... from Teman to Dedan** - "I will make all of Edom ... from Teman to Dedan." These are two cities at opposite ends of Edom. This means that Yahweh will destroy all of Edom. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **They will fall by the sword** - The word "fall" represents being killed and the word "sword" refers to their enemies who will kill them in battle. AT: "Their enemies will kill them with their swords" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -42,6 +43,6 @@
   * [[:en:bible:questions:comprehension:ezk:25]]
 **[[:en:bible:notes:ezk:25:08|<<]] | [[:en:bible:notes:ezk:25:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

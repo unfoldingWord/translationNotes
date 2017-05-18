@@ -28,8 +28,7 @@
 \q2 You people of Judah, do not go to Gilgal. Do not go up to Beth Aven to worship idols there.
 \q1 Do not make solemn oaths, calling on me to make good on your promises, adding to your vows the words, 'As Yahweh lives!"
 \v 16 Israel is as stubborn as a young cow.
-\q2 Can I now feed them as if they were little lambs in a meadow? 
-
+\q2 Can I now feed them as if they were little lambs in a meadow?
 
 \q1
 </usfm>
@@ -38,13 +37,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q
 \v 15 Though you, Israel, have committed adultery,
 \q may Judah not become guilty.
 \q Do not go to Gilgal, you people;
-\q do not go up to Beth Aven.
-\q And do not swear, "As Yahweh lives."
+\q do not go up to Beth Aven,
+\q and do not swear, saying, "As Yahweh lives."
 \q
 \v 16 For Israel has behaved stubbornly, like a stubborn heifer.
 \q How can Yahweh bring them to pasture like lambs in a meadow?
@@ -74,7 +72,8 @@
   * **Do not go to Gilgal, you people; do not go up to Beth Aven** - The people of Judah are being warned not to go to the cities of Gilgal or Beth Aven to worship idols in those places. Gilgal was once a place where Yahweh had been worshiped, but it had become a place of idol worship. 
   * **Beth Aven** - This was a city on the border between the northern kingdom of Israel and the tribe of Benjamin in the southern kingdom. (See: [[:en:ta:vol1:translate:translate_names]])
   * **like a stubborn heifer** - Israel is compared to a young cow that will not obey its master. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **How can Yahweh bring them to pasture like lambs in a meadow?** - This is a rhetorical statement. Yahweh is not able to shepherd people like young sheep when people are rebellious. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **How can Yahweh bring them to pasture like lambs in a meadow?** - Yahweh uses a question to emphasize that he cannot continue to take care of the people because they are stubborn. Yahweh no longer taking care of his people is spoken of as if he were a shepherd that could not take his lambs into the field to eat because they are stubborn. AT: "Yahweh will not shepherd a rebellious people." or "Therefore Yahweh will not continue to take care of them." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **How can Yahweh** - Here Yahweh is speaking of himself in the third person. It can be stated in the first person. AT: "How can I" (See: [[:en:ta:vol2:translate:figs_123person]])
 ===== Links: =====
 
   * [[:en:bible:notes:hos:00:intro]]
@@ -82,6 +81,6 @@
   * [[:en:bible:questions:comprehension:hos:04]]
 **[[:en:bible:notes:hos:04:13|<<]] | [[:en:bible:notes:hos:04:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check gilgal}}
+~~DISCUSSION~~{{tag>publish p2pass gilgal}}
 
 ~~NOCACHE~~

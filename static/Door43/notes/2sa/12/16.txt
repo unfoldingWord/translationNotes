@@ -47,8 +47,13 @@
 ===== translationNotes: =====
 
   * **implored** - to beg or pray with strong desire
+  * **went inside** - David went into his room when he was alone. AT: "went inside his room" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **to raise him up from the floor** - "and urged him to get up from the floor"
   * **It came about** - "It happened"
-  * **seventh day** - This refers to the number of days that passed before the child died, beginning when the child first became ill. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **he did not listen to our voice** - The servants are referred to here by their voices to emphasize that they were speaking. AT: "he did not listen to us" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the seventh day** - "the 7th day." This refers to the seventh day after the baby was born. AT: "the seventh day after he was born" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:translate_numbers]])
+  * **Look** - This is an idiom used to get people's attention. AT: "Listen" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **What might he do to himself if we tell him that the boy is dead?!** - The servants ask this rhetorical question to express their fear. This can be written as a statement. AT: "We are afraid that he may harm himself if we tell him that the boy is dead!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
  
 ===== Links: =====
@@ -64,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

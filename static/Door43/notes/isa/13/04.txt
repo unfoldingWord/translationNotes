@@ -30,7 +30,6 @@
 \q2 from the most remote places on the earth.
 \q1 They are like weapons that Yahweh will use to punish the people with whom he is very angry,
 \q2 and to destroy the entire country of Babylonia.
-\b
 
 
 \q1
@@ -41,11 +40,11 @@
 
 <usfm>
 \q1
-\v 4 The noise of a multitude in the mountains, as of many people! 
-\q1 The noise of a tumult of the kingdoms like many nations gathered together! 
+\v 4 The noise of a multitude in the mountains, as of many people!
+\q1 The noise of a tumult of the kingdoms like many nations gathered together!
 \q1 Yahweh of hosts is mustering the army for the battle.
-\q1 
-\v 5 They come from a far country, from way over the horizon. 
+\q1
+\v 5 They come from a far country, from way over the horizon.
 \q1 It is Yahweh with his instruments of judgment, to
 destroy the whole land.
 </usfm>
@@ -61,11 +60,11 @@ destroy the whole land.
 
 ===== translationNotes: =====
 
-  * **General Information:** - This continues the prophecy about the people of Babylon. Isaiah is speaking.
-
-  * **The noise of a multitude in the mountains, as of many people!** - The words "there is" is left out of the phrase. AT: "There is a sound of many people in the mountains!" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **Yahweh of hosts** - See how you translated this in [[:en:bible:notes:isa:01:09|1:9]].
+  * **The noise of a multitude in the mountains, as of many people** - The words "there is" are understood. The phrases "multitude" and "many people" mean the same thing. AT: "There is the noise of many people in the mountains" or "There is the noise of a great crowd of people in the mountains" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **The noise of a tumult of the kingdoms like many nations gathered together** - The words "there is" are understood. The words "kingdoms" and "nations" here refer to the same thing. AT: "There is the noisy commotion of many kingdoms gathered together" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **is mustering** - "is gathering"
+  * **from way over the horizon** - "from places far beyond the horizon" or "from very distant places"
+  * **his instruments of judgment** - The soldiers that God is sending to  attack Babylon are spoken of as if they were weapons. "Judgment" represents punishment because God has judged Babylon. AT: "the army that he will use to punish Babylon" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
  
 ===== Links: =====
 
@@ -80,6 +79,6 @@ destroy the whole land.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 Later, when Ahasuerus' son Artaxerxes became king of Persia, Bishlam, Mithredath, Tabeel and their colleagues wrote a letter to him. They wrote the letter in the Aramaic language, 
+\v 7 Later, when Ahasuerus' son Artaxerxes became king of Persia, Bishlam, Mithredath, Tabeel and their colleagues wrote a letter to him. They wrote the letter in the Aramaic language,
 and it was translated into the language of the Persians.
 \p
 \v 8 Rehum, the high commissioner, and Shimshai, the provincial secretary, wrote the letter to King Artaxerxes concerning what was happening in Jerusalem.
@@ -41,9 +41,11 @@ and it was translated into the language of the Persians.
  
 ===== translationNotes: =====
 
-  * **Bishlam ... Mithredath ... Tabeel ... Shimshai** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Rehum** - Translate the same way you did in [[:en:bible:notes:ezr:02:01]].
-  * **Aramaic** - This was the language used in that area at the time for official business.
+  * **Bishlam ... Mithredath ... Tabeel ... Shimshai** - names of men (See: [[:en:ta:vol1:translate:translate_names]])
+  * **The letter** - This is the letter spoken of in [[:en:bible:notes:ezr:04:04|4:6]].
+  * **Aramaic** - the language used in that area at the time for official business
+  * **and translated** - into Persian
+  * **Rehum** - man's name. Translate as in [[:en:bible:notes:ezr:02:01]].
  
 ===== Links: =====
 
@@ -55,6 +57,6 @@ and it was translated into the language of the Persians.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit ahasuerus artaxerxes}}
+{{tag>publish p2pass ahasuerus artaxerxes}}
 
 ~~NOCACHE~~

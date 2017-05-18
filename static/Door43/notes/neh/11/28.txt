@@ -23,9 +23,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 28 And they lived in Ziklag, Meconah and its villages,
+\v 28 Some of the people of Judah lived in Ziklag, Meconah and its villages,
 \v 29 Enrimmon, Zorah, Jarmuth,
-\v 30 Zanoah, Adullam, and their villages, and in Lachish its fields and Azekah and its villages. So they lived from Beersheba to the valley of Hinnom.
+\v 30 Zanoah, Adullam, and their villages, and in Lachish its fields and Azekah and its villages. So they lived from Beersheba to the Valley of Hinnom.
 </usfm>
 
 ===== translationWords: =====
@@ -34,8 +34,8 @@
   * [[:en:obe:other:beersheba]]
 ===== translationNotes: =====
 
+  * **Ziklag ... Meconah ... Enrimmon ... Zorah ... Jarmuth ... Zanoah ... Adullam ... Lachish ... Azekah ... Beersheba ... Valley of Hinnom** - These are the names of places. ([[:en:ta:vol1:translate:translate_names]])  * 
   * **they lived** - Here "they" refers to the people of Judah.
-  * **Ziklag ... Meconah ... Enrimmon ... Zorah ... Jarmuth ... Zanoah ... Adullam ... Lachish ... Azekah ... Beersheba ... valley of Hinnom** - These are names of places. ([[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:neh:11]]
 **[[:en:bible:notes:neh:11:25|<<]] | [[:en:bible:notes:neh:11:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit beersheba}}
+~~DISCUSSION~~{{tag>publish p2pass beersheba}}
 
 ~~NOCACHE~~

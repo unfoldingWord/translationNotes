@@ -37,7 +37,11 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - In verses 1-18, Nebuchadnezzar describes in the first person his vision from God. (See: [[:en:ta:vol2:translate:figs_123person]])
+
   * **sights** - things that you see
+  * **its height was very great** - "it was very tall"
+  * **Its top reached to the heavens ... it could be seen to the ends of the whole earth** - This is symbolic language that exaggerates how tall and how well-known the tree was. AT: "It seemed that its top reached up to the sky and that everyone in the world could see it" (UDB) (See: [[:en:ta:vol2:translate:writing_symlanguage]] and [[:en:ta:vol2:translate:figs_hyperbole]])
   * **its fruit was abundant** - "there was a lot of fruit on the tree"
   * **was food for all** - "was food for all people and animals"
 
@@ -49,6 +53,6 @@
   * [[:en:bible:questions:comprehension:dan:04]]
 **[[:en:bible:notes:dan:04:07|<<]] | [[:en:bible:notes:dan:04:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit creature}}
+~~DISCUSSION~~{{tag>publish p2pass creature}}
 
 ~~NOCACHE~~

@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 Then the king said to her, "What do you want, Queen Esther? What is your request? Up to half of my kingdom, it will be given to you." 
+\v 3 Then the king said to her, "What do you want, Queen Esther? What is your request? Up to half of my kingdom, it will be given to you."
 \v 4 Esther said, "If it pleases the king, let the king and Haman come today to a feast that I have prepared for him."
 </usfm>
 
@@ -27,8 +27,9 @@
 
 ===== translationNotes: =====
 
-  * **Haman** - Translate as in [[:en:bible:notes:est:03:01|Esther 3:1]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **for him** - "for the king"
+  * **Up to half of my kingdom, it will be given to you** - This can be stated in active form. AT: "If you ask for up to half of my kingdom, I will give it to you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **If it pleases the king, let the king and Haman come ... for him** - In order to show respect to a king, people sometimes did not call him "you." This can be translated with the word "you" along with other words that show respect. AT: "O King, if it pleases you, come and bring Haman ... for you" or "If you are willing to do this, Sir, come, and let Haman come with you .. for you" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Haman** - Translate this man's name as you did in [[:en:bible:notes:est:03:01|3:1]]. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:est:00:intro]]
@@ -36,6 +37,6 @@
   * [[:en:bible:questions:comprehension:est:05]]
 **[[:en:bible:notes:est:05:01|<<]] | [[:en:bible:notes:est:05:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

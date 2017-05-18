@@ -34,9 +34,10 @@
 
 ===== translationNotes: =====
 
-  * **the house of Israel** - See how you translated this in [[:en:bible:notes:ezk:03:01|3:1]].
+  * **the house of Israel** - The word "house" is a metonym for the family that lives in the house, in this case the Israelites, the descendants of Jacob over many years. Translate as in [[:en:bible:notes:ezk:03:16|3:1]]. AT: "the Israelite people group" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Repent and turn away from your idols! Turn back your faces from all your abominations** - Both of these phrases are ways to tell the people of Israel to stop worshiping idols. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **Repent and turn away** - The words "Repent" and "turn way" mean basically the same thing. Together they strengthen the command to stop worshiping idols. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **Turn back your faces** - Here the word "faces" represents the people. AT: "Turn back" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:ezk:14]]
 **[[:en:bible:notes:ezk:14:04|<<]] | [[:en:bible:notes:ezk:14:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

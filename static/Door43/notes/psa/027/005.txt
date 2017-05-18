@@ -24,7 +24,7 @@
 \v 6 Then I will triumph over my enemies.
 \q1 I will shout joyfully as I offer sacrifices in his sacred tent,
 \q2 and I will praise Yahweh as I sing.
-\b
+
 
 
 \q1
@@ -41,7 +41,6 @@
 \v 6 Then my head will be lifted up above my enemies all around me,
 \q and I will offer sacrifices of joy in his tent!
 \q I will sing and make songs to Yahweh!
-\b
 </usfm>
 
 ===== translationWords: =====
@@ -58,7 +57,7 @@
   * **his shelter ... his tent** - Both of these refer to the tabernacle where the writer is worshiping God. (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **in the cover of his tent** - The word "cover" represents something that hides and protects.
   * **He will lift me high on a rock** - God keeping the writer safe from his enemies is spoken of as if God were placing him on a high rock where his enemies cannot reach him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **my head will be lifted up above my enemies** - This represents the writer receiving pride or honor when he defeats his enemies. It can be stated in active form. AT: "People will honor me when I win the fight against my enemies" or "God will honor me by enabling me to defeat my enemies" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **my head will be lifted up above my enemies** - This represents the writer receiving pride or honor when he defeats his enemies. It can be stated in active form. AT: "people will honor me when I win the fight against my enemies" or "God will honor me by enabling me to defeat my enemies" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -66,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:027]]
 **[[:en:bible:notes:psa:027:004|<<]] | [[:en:bible:notes:psa:027:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

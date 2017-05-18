@@ -59,10 +59,12 @@
  
 ===== translationNotes: =====
 
-  * **to whom alone the land was given** - AT: "to whom alone God gave the land" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **among whom no stranger ever passed** - AT: "whose knowledge no stranger ever corrupted"
-  * **twists in pain** - This is either physical or emotional pain. AT: "suffers a lot." Other translations may read: "is overcome by fear"
-  * **the number of years that are laid up** - AT: "all the years that God has prepared" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **to whom alone the land was given** - This can be stated in active form. AT: "to whom alone God gave the land" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **among whom no stranger ever passed** - This means that no foreigner lived among them, specifically so that they would not be influenced by pagan religions. AT: "no one from another country came and caused them to think wrongly about God" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **twists in pain** - "suffers a lot of pain." This is either physical or emotional pain. 
+  * **the number of years that are laid up** - This can be stated in active form. AT: "all the years that God has laid up" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **that are laid up** - This is an idiom. AT: "that are prepared" or "that are set aside" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **A sound of terrors is in his ears** - "He constantly hears sounds that terrify him" 
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -70,6 +72,6 @@
   * [[:en:bible:questions:comprehension:job:15]]
 **[[:en:bible:notes:job:15:17|<<]] | [[:en:bible:notes:job:15:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

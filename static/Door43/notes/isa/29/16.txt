@@ -24,7 +24,6 @@
 \q2 'You did not make me!'
 \q1 A jar should never say,
 \q2 'The potter who made me did not know what he was doing!'"
-\b
 
 
 \q1
@@ -35,9 +34,9 @@
 
 <usfm>
 \q1
-\v 16 You turn things upside down! Should the potter be considered like clay, 
-\q1 so that the thing that is made should say about him who made it, "He did not make me," 
-\q1 or the thing formed say about him who formed it, "He does not understand?"
+\v 16 You turn things upside down! Should the potter be considered like clay,
+\q1 so that the thing that is made should say about him who made it, "He did not make me,"
+\q1 or the thing formed say about him who formed it, "He does not understand"?
 </usfm>
 
 
@@ -46,9 +45,9 @@
 
 ===== translationNotes: =====
 
-  * **You turn things upside down** - Turning things upside down means to distort them. AT: "You make things opposite of the way they should be" or "You distort the truth" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Should the potter be considered like clay ... say about him who formed it, "He does not understand?"** - This question challenges the arrogance of God's people. (See UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **potter ... clay** - This symbolizes that God has the ability to shape the lives of his people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **You turn things upside down** - This is an idiom that means to distort what is true. AT: "You make things opposite of the way they should be" or "You distort the truth" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Should the potter be considered like clay, so that the thing that is made should say about him who made it ... "He does not understand"?** - Yahweh who created humans is spoken of as if he were a potter and humans were the clay. This metaphor emphasizes that it is foolish for humans to reject or criticize the one who created them. AT: "Should you consider me, your maker, to be like the clay rather than the potter? It is as if a potter created something, and that thing said about the potter, 'He did not make me,' or 'He does not understand.'" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Should the potter be considered like clay ... "He does not understand"?** - This question is used to scold the people of Jerusalem. AT: "Obviously, the potter should not be considered like clay ... 'He does not understand.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -63,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

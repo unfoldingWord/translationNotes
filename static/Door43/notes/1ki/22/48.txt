@@ -47,7 +47,8 @@
 ===== translationNotes: =====
 
   * **the ships were wrecked** - This can be stated in active form. AT: "the ships wrecked" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **slept with his ancestors and was buried with them** - See how you translated this in [[:en:bible:notes:1ki:14:29|14:31]]. (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **slept with his ancestors** - Jehoshaphat dying is spoken of as if he had fallen asleep. See how you translated this in [[:en:bible:notes:1ki:02:10|2:10]]. AT: "died" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_euphemism]]) 
+  * **was buried with them** - This can be stated in active form. AT: "people buried him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -56,6 +57,6 @@
   * [[:en:bible:questions:comprehension:1ki:22]]
 **[[:en:bible:notes:1ki:22:45|<<]] | [[:en:bible:notes:1ki:22:51|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit jehoram}}
+~~DISCUSSION~~{{tag>publish p2pass jehoram}}
 
 ~~NOCACHE~~

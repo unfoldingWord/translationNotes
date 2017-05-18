@@ -34,11 +34,11 @@
 
 <usfm>
 \q
-\v 7 Think about this, I beg you: who has ever perished when innocent?
-\q Or when was the upright person ever cut off?
+\v 7 Think about this, please: who has ever perished when innocent?
+\q Or when were the upright people ever cut off?
 \q
-\v 8 Based on what I have observed, those who plow iniquity
-\q and sow trouble reap the same.
+\v 8 According to what I have seen, those who plow iniquity
+\q and sow trouble reap it.
 \q
 \v 9 By the breath of God they perish;
 \q by the blast of his anger they are consumed.
@@ -60,13 +60,16 @@
 
 ===== translationNotes: =====
 
-  * **Think about this, I beg you** - "Please recall"
   * **who has ever perished when innocent?** - Eliphaz uses this question to prompt Job to search his life for sin (and God's righteous judgment) as the cause of his loss. AT: "No one has ever perished when innocent." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **when was the upright person ever cut off?** - This question has the same purpose as the previous question. AT: "Who has ever perished when innocent?" or "No one has ever cut off an upright person." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **plow iniquity ... sow trouble ... reap** - The words "plow," "sow," and "reap" are agricultural terms used figuratively here to suggest that people sometimes bring trouble upon themselves through their choices and actions. 
+  * **when were the upright people ever cut off** - This question also means to make a statement, and may be put into active form. AT: "No one has ever cut off an upright person." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **cut off** - Here being cut off represents being destroyed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **plow iniquity ... sow trouble ... reap** - Here the actions of plowing and sowing represent causing trouble for other people. The action of reaping represents suffering the trouble that one has himself caused. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **By the breath of God they perish; by the blast of his anger they are consumed** - The writer explains a single idea using two different statements. This is a form of Hebrew poetry used for emphasis, clarity, teaching, or all three. (See: [[:en:ta:vol2:translate:figs_parallelism]]) 
-  * **breath ... blast** - The second builds on the first. They make one point by using meanings that increase the result. "By the puff of God's mouth they die, the rushing wind of his anger devastates them."
-  * **perish ... are consumed** - The second builds on the first. They make one point by using meanings that increase the result. "By the puff of God's breath they die, the rushing wind of his anger devastates them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the breath of God** - This may represent the action of God giving a command. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the blast of his anger** - This expression suggests the heavy breathing that a person sometimes does through his nose when he is very angry. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **breath ... blast** - The second builds on the first. They make the same point by using meanings that increase the result. "By the puff of God's mouth they die; the rushing wind of his anger devastates them." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **perish ... are consumed** - The second phrase builds on the first. They make the same point. "By the puff of God's breath they die, the rushing wind of his anger devastates them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they are consumed** - Here being consumed or eaten represents being killed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -74,6 +77,6 @@
   * [[:en:bible:questions:comprehension:job:04]]
 **[[:en:bible:notes:job:04:04|<<]] | [[:en:bible:notes:job:04:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit breath}}
+~~DISCUSSION~~{{tag>publish p2pass breath}}
 
 ~~NOCACHE~~

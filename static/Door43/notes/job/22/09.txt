@@ -28,7 +28,6 @@
 \q1
 \v 11 It is as though it had become very dark, with the result that you cannot see anything,
 \q2 and it is as though a flood covered you.
-\b
 
 
 \q1
@@ -47,7 +46,6 @@
 \q
 \v 11 There is darkness, so that you cannot see;
 \q an abundance of waters covers you.
-\b
 </usfm>
 
 
@@ -60,12 +58,14 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Eliphaz continues speaking to Job.
+  * **Connecting Statement:** - Eliphaz continues speaking to Job.
 
   * **You have sent widows away empty** - "You made widows go away with nothing"
   * **widows** - women whose husbands have died
-  * **the arms of the fatherless have been broken** - Here "arms" refer to power. AT: "You even oppressed orphans" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **snares are all around you ... There is darkness ... an abundance of water** - All of these mean that there are troubles and dangers all around Job because of his sin. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the arms of the fatherless have been broken** - Here "arms" refer to power. This can be stated in active form. AT: "you even oppressed orphans" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **snares are all around you ... There is darkness ... an abundance of water** - Each of these metaphors mean that there are troubles and dangers all around Job because of his sin. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **an abundance of waters** - "a flood"
+
 
 ===== Links: =====
 
@@ -74,6 +74,6 @@
   * [[:en:bible:questions:comprehension:job:22]]
 **[[:en:bible:notes:job:22:06|<<]] | [[:en:bible:notes:job:22:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

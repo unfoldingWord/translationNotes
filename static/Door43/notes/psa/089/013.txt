@@ -17,7 +17,6 @@
 <usfm>
 \v 13 You are very powerful;
 \q2 you are extremely strong.
-\b
 \q1
 \v 14 You rule over people fairly and justly;
 \q2 you are always faithfully loving us and doing what you promised.
@@ -62,6 +61,6 @@
   * [[:en:bible:questions:comprehension:psa:089]]
 **[[:en:bible:notes:psa:089:011|<<]] | [[:en:bible:notes:psa:089:015|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

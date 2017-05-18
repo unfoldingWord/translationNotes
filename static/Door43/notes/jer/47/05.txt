@@ -26,7 +26,6 @@
 \q1 The people of the city of Ashkelon will all be silent because they will be mourning.
 \q1 All you people who live along the coast of the Mediterranean Sea who are still alive,
 \q2 how long will you gash yourselves because you are mourning?"
-\b
 \q1
 \v 6 The people of Philistia say, "Yahweh, when will you tell our enemies to stop killing us with their swords?
 \q2 Tell them to put them back into their sheaths and allow them to stay there!"
@@ -40,7 +39,8 @@
 
 <usfm>
 \v 5 Baldness will come upon Gaza. As for Ashkelon, the people who are left in their valley will be made silent.
-How long will you cut yourself in mourning?
+\q How long will you cut yourself in mourning?
+\q
 \v 6 Woe, sword of Yahweh! How long will it be until you become silent?
 \q Go back to your scabbard! Stop and be silent.
 \q

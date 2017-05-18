@@ -36,7 +36,11 @@
  
 ===== translationNotes: =====
 
-  * **brought up the ark of God** - "moved the ark of God" 
+  * **Now** - This word starts a new part of the story.
+  * **King David was told** - This can be stated in active form. AT: "people told King David" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Obed Edom's house** - Here "house" represents a family. AT: "Obed Edom and his family" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **brought up the ark of God** - Jerusalem was higher than almost any other place in Israel, so it was normal for Israelites to speak of going up to Jerusalem and going down from it. AT: "moved the ark of God" or "took the ark of God." 
+  * **brought up** - The word "brought" can be translated as "took." (See: [[:en:ta:vol2:translate:figs_go]])
 
 ===== Links: =====
 
@@ -45,6 +49,6 @@
   * [[:en:bible:questions:comprehension:2sa:06]]
 **[[:en:bible:notes:2sa:06:10|<<]] | [[:en:bible:notes:2sa:06:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

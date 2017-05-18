@@ -41,8 +41,11 @@
 
 ===== translationNotes: =====
 
-  * **said with your mouths and carried out with your hands what you said** - AT: "said and done what you promised you would say and do"
-  * **Queen of Heaven** - Refer to background information in [[:en:bible:notes:jer:44:15]]. 
+  * **all of Judah** - Here "Judah" represents the people. AT: "all the people of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **have said with your mouths and carried out with your hands what you said** - Here "mouths" and "hands" represent the whole person. AT: "have done what you promised to do when you said" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **carry out the vows** - "fulfill the vows" or "complete the vows"
+  * **Now fulfill your vows; carry them out** - This is an ironic statement. Yahweh does not really want them to fulfill their vow to a false goddess. Yahweh knows they will not listen to him so he tells them to go ahead and do what they want. AT: "Very well! If that is what you want to do, then go fulfill your vows and do what you promised to do" (See: [[:en:ta:vol1:translate:figs_irony]])
+  * **Now** - The word "now" does not mean "at this moment," but is used to draw attention to the important point that follows.
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -50,6 +53,6 @@
   * [[:en:bible:questions:comprehension:jer:44]]
 **[[:en:bible:notes:jer:44:22|<<]] | [[:en:bible:notes:jer:44:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

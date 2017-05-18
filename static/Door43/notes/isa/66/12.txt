@@ -26,7 +26,6 @@
 \q2 like women care for the babies that they nurse.
 \q1
 \v 13 I will comfort you people in Jerusalem like mothers comfort their children."
-\b
 
 
 \q1
@@ -38,9 +37,9 @@
 <usfm>
 \q1
 \v 12 This is what Yahweh says,
-\q1 "I am about to spread prosperity over her like a river, 
+\q1 "I am about to spread prosperity over her like a river,
 \q1 and the riches of the nations like an overflowing
-stream. 
+stream.
 \q1 You will nurse at her side, be carried in her arms, and be dandled on her knees.
 \q1
 \v 13 As a mother comforts her child, so I will comfort you, and you will be comforted in Jerusalem."
@@ -71,6 +70,6 @@ stream.
   * [[:en:bible:questions:comprehension:isa:66]]
 **[[:en:bible:notes:isa:66:10|<<]] | [[:en:bible:notes:isa:66:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

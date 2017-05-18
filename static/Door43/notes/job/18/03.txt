@@ -17,12 +17,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 Why do you think that we are as stupid as cattle and as unrighteous? 
+\v 3 Why do you think that we are as stupid as cattle and as unrighteous?
 \q1
 \v 4 By being very angry, you are only hurting yourself.
 \q2 Do you think that everyone on the earth must leave to prove that you are right,
 \q2 or do you think that God must move the rocks in the mountains to please you?
-\b
 
 
 \q1
@@ -39,7 +38,6 @@
 \v 4 You who tear at yourself in your anger,
 \q should the earth be forsaken for you
 \q or should the rocks be removed out of their places?
-\b
 </usfm>
 
 
@@ -54,14 +52,14 @@
 
   * **General Information:** - Bildad continues speaking to Job.
 
-  * **Why are we regarded as beasts** - "You should not think that we are like animals." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **Why are we regarded as beasts** - Bildad uses this rhetorical question to emphasize to Job that he should not consider to be dumb. He speaks of them being consider dumb by calling them "beasts." This question can be written as a statement. AT: "You should not think that we are like beasts." or "You should not think that we are dumb like animals." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
   * **Why are we** - The word "we" probably refers to Bildad and Job's other friends.
-  * **why have we become stupid in your sight** - "We are not stupid like you think we are." 
-  * **stupid** - Possible meanings are 1) dumb or 2) unclean.
-  * **You who tear at yourself in your anger** - See how you translated a similar phrase in [[:en:bible:notes:job:16:09|16:9]]. Here, Bildad says that it is not God who tore Job in his wrath, but rather it is Job who tore himself in his own wrath.
-  * **should the earth be forsaken for you ... out of their places** - This phrase suggests that letting a guilty man go free would be like changing the laws of nature. "Asking God to let a guilty man go free is as silly as asking him to change the entire order of the world." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **should the earth be forsaken** - "should everyone leave the earth?" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **should the rocks be removed out of their places** - "should God move mountains around?" 
+  * **why have we become stupid in your sight** - Bildad uses this rhetorical question that he should not consider them to be stupid. AT: "We are not stupid like you think we are." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **in your sight** - Here sight represents judgment or evaluation. AT: "in your judgment" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **You who tear at yourself in your anger** - Here Bildad is stating that it is because of Job's anger and disobedience that his have been injured, not because of God's anger as Job has previously claimed. The word "tear" here means to "injure." AT: "You who have caused your own injures because of your anger" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **should the earth be forsaken for you or should the rocks be removed out of their places?** - This rhetorical question suggests that letting Job, whom they consider a guilty man, go free would be like changing the whole world. Bildad uses these huge exaggerations here to emphasize how outrageous he thinks this is. This can be written as a statement. AT: "Asking God to let you, a guilty man, go free is as silly as asking for the earth to be forsaken for your sake or for God to move the rocks out of their places to please you!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **should the earth be forsaken** - This can be stated in active form. AT: "should everyone leave the earth" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **should the rocks be removed out of their places** - This can be stated in active form. The word "rocks" here refers to large rocks, such as those in the mountains. AT: "should God remove the rocks from their places" or "should God move mountains around" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -70,6 +68,6 @@
   * [[:en:bible:questions:comprehension:job:18]]
 **[[:en:bible:notes:job:18:01|<<]] | [[:en:bible:notes:job:18:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

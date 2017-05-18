@@ -23,7 +23,7 @@
 
 <usfm>
 \p
-\v 21 But the people remained silent and did not respond, for the king's order was,"Do not answer him."
+\v 21 But the people remained silent and did not respond, for the king's order was, "Do not answer him."
 \v 22 Then Eliakim son of Hilkiah, who was over the household, Shebna the scribe, and Joah son of Asaph, the recorder, came to Hezekiah with their clothes torn, and reported to him the words of the chief commander.
 </usfm>
 
@@ -38,8 +38,9 @@
 
 ===== translationNotes: =====
 
-  * **Eliakim ... Hilkiah ... Shebna ... Joah ... Asaph** - See how you translated these names in [[:en:bible:notes:isa:36:01|36:03]].
-  * **with their clothes torn** - Hezekiah's officials tore their clothes as a sign of mourning and distress.
+  * **Eliakim ... Hilkiah ... Shebna ... Joah ... Asaph** - Translate the names of these men the same as you did in [[:en:bible:notes:isa:36:01|36:03]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **over the household** - This idiom means that he was in charge of the affairs of the palace household. AT: "in charge of the palace" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **with their clothes torn** - Hezekiah's officials tore their clothes as a sign of mourning and distress. The meaning of this can be made clear.  AT: "with their clothes torn because they were extremely distressed" (UDB) (See: [[:en:ta:vol2:translate:translate_symaction]])
 
  
 ===== Links: =====
@@ -55,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -25,20 +25,25 @@
 
 <usfm>
 \p
-\v 9 Then the king called to Ziba, Saul's servant, and said to him, "I have given to your master's son all the possessions of Saul and his family.
-\v 10 You are to plow the land for him, you and your sons and your servants, and you must harvest the crops so that your master's grandson may have food to eat. But Mephibosheth your master's grandson will always eat at my table." Now Ziba had fifteen sons and twenty servants.
+\v 9 Then the king called to Ziba, Saul's servant, and said to him, "All that belonged to Saul and his family I have given to your master's grandson.
+\v 10 You, your sons, and your servants must till the land for him and you must harvest the crops so that your master's grandson will have food to eat. For Mephibosheth, your master's grandson, must always eat at my table." Now Ziba had fifteen sons and twenty servants.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:lord]]
   * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:possess]]
+  * [[:en:obe:other:plow]]
+  * [[:en:obe:kt:harvest]]
  
 
 ===== translationNotes: =====
 
-  * **will always eat at my table** - The metonym "my table" refers to remaining in David's household as his guest. AT: "will continue to remain with me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **must always eat at my table** - Here "my table" represents being together with David or in his presence. Eating with the king at his table was a great honor. AT: "must always eat with me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Now Ziba ... servants** - Here "now" makes a break in the main storyline. The narrator gives background information about Ziba. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **fifteen sons and twenty servants** - "15 sons and 20 servants" (See: [[:en:ta:vol2:translate:translate_numbers]])
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -46,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2sa:09]]
 **[[:en:bible:notes:2sa:09:07|<<]] | [[:en:bible:notes:2sa:09:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

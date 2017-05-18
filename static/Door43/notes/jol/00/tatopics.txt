@@ -1,31 +1,31 @@
-====== List of translationAcademy Topics in Joel ======
+===== List of translationAcademy Topics in Joel =====
+
+* [[:en:ta:vol2:translate:figs_activepassive]] is found in:
+ [[:en:bible:notes:jol:03:20|03:20]]
 
 * [[:en:ta:vol2:translate:figs_apostrophe]] is found in:
  [[:en:bible:notes:jol:02:21|02:21]], [[:en:bible:notes:jol:03:11|03:11]]
 
 * [[:en:ta:vol2:translate:figs_doublet]] is found in:
- [[:en:bible:notes:jol:01:15|01:15]], [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:02:30|02:30]], [[:en:bible:notes:jol:02:32|02:32]], [[:en:bible:notes:jol:03:01|03:01]]
+ [[:en:bible:notes:jol:01:15|01:15]], [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:02:32|02:32]], [[:en:bible:notes:jol:03:01|03:01]]
 
 * [[:en:ta:vol2:translate:figs_ellipsis]] is found in:
  [[:en:bible:notes:jol:01:15|01:15]]
 
 * [[:en:ta:vol1:translate:figs_explicit]] is found in:
- [[:en:bible:notes:jol:03:07|03:07]], [[:en:bible:notes:jol:03:11|03:11]]
+ [[:en:bible:notes:jol:03:01|03:01]], [[:en:bible:notes:jol:03:07|03:07]], [[:en:bible:notes:jol:03:11|03:11]]
 
 * [[:en:ta:vol2:translate:figs_hendiadys]] is found in:
- [[:en:bible:notes:jol:02:10|02:10]]
+ [[:en:bible:notes:jol:02:10|02:10]], [[:en:bible:notes:jol:02:30|02:30]]
 
 * [[:en:ta:vol2:translate:figs_hyperbole]] is found in:
  [[:en:bible:notes:jol:02:10|02:10]], [[:en:bible:notes:jol:03:18|03:18]]
 
 * [[:en:ta:vol1:translate:figs_idiom]] is found in:
- [[:en:bible:notes:jol:02:12|02:12]], [[:en:bible:notes:jol:03:04|03:04]]
-
-* [[:en:ta:vol2:translate:figs_merism]] is found in:
- [[:en:bible:notes:jol:03:16|03:16]]
+ [[:en:bible:notes:jol:01:01|01:01]], [[:en:bible:notes:jol:02:12|02:12]]
 
 * [[:en:ta:vol1:translate:figs_metaphor]] is found in:
- [[:en:bible:notes:jol:01:05|01:05]], [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:02:17|02:17]], [[:en:bible:notes:jol:02:28|02:28]], [[:en:bible:notes:jol:03:12|03:12]], [[:en:bible:notes:jol:03:16|03:16]]
+ [[:en:bible:notes:jol:01:05|01:05]], [[:en:bible:notes:jol:01:08|01:08]], [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:02:17|02:17]], [[:en:bible:notes:jol:02:28|02:28]], [[:en:bible:notes:jol:03:12|03:12]], [[:en:bible:notes:jol:03:16|03:16]]
 
 * [[:en:ta:vol2:translate:figs_metonymy]] is found in:
  [[:en:bible:notes:jol:02:12|02:12]], [[:en:bible:notes:jol:02:30|02:30]], [[:en:bible:notes:jol:03:18|03:18]]
@@ -40,13 +40,13 @@
  [[:en:bible:notes:jol:01:01|01:01]], [[:en:bible:notes:jol:02:10|02:10]], [[:en:bible:notes:jol:02:14|02:14]], [[:en:bible:notes:jol:02:17|02:17]], [[:en:bible:notes:jol:03:04|03:04]]
 
 * [[:en:ta:vol1:translate:figs_simile]] is found in:
- [[:en:bible:notes:jol:02:03|02:03]], [[:en:bible:notes:jol:02:04|02:04]]
+ [[:en:bible:notes:jol:02:01|02:01]], [[:en:bible:notes:jol:02:03|02:03]], [[:en:bible:notes:jol:02:04|02:04]]
 
 * [[:en:ta:vol2:translate:figs_synecdoche]] is found in:
- [[:en:bible:notes:jol:01:15|01:15]], [[:en:bible:notes:jol:02:10|02:10]]
+ [[:en:bible:notes:jol:01:15|01:15]], [[:en:bible:notes:jol:02:10|02:10]], [[:en:bible:notes:jol:03:04|03:04]]
 
 * [[:en:ta:vol1:translate:translate_names]] is found in:
- [[:en:bible:notes:jol:01:01|01:01]], [[:en:bible:notes:jol:03:07|03:07]]
+ [[:en:bible:notes:jol:01:01|01:01]], [[:en:bible:notes:jol:03:07|03:07]], [[:en:bible:notes:jol:03:18|03:18]]
 
 * [[:en:ta:vol1:translate:translate_unknown]] is found in:
  [[:en:bible:notes:jol:01:04|01:04]], [[:en:bible:notes:jol:01:11|01:11]], [[:en:bible:notes:jol:02:04|02:04]]

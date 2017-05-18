@@ -25,7 +25,7 @@
 
 <usfm>
 \c 24
-\p
+\m
 \q
 \v 1 Why are times for judging wicked people not set by the Almighty?
 \q Why do not those who are faithful to God see his days of judgment come?
@@ -41,10 +41,11 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues speaking.
+  * **Connecting Statement:** - Job continues speaking.
 
-  * **Why are times for judging wicked people not set by the Almighty?** - AT: "I do not understand why God does not set a time when he will judge wicked people." or "The Almighty should set a time when he will judge wicked people." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why do not those who are faithful to God see his days of judgment come?** - AT: "It seems that those who obey him never get to see when him judge the wicked." or "God should show the day he will judge the wicked to those who know him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Why are times for judging wicked people not set by the Almighty?** - Job uses this question to express his frustration that God has not judged evil. This can be stated in active form. AT: "I do not understand why God does not set a time when he will judge wicked people." or "The Almighty should set a time when he will judge wicked people." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Why do not those who are faithful to God see his days of judgment come?** - Job uses this question to express his frustration that the righteous have not seen God judge evil. AT: "It seems that those who obey him never get to see him judge the wicked." or "God should show the day he will judge the wicked to those who know him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
 
 ===== Links: =====
 
@@ -53,6 +54,6 @@
   * [[:en:bible:questions:comprehension:job:24]]
 **[[:en:bible:notes:job:23:15|<<]] | [[:en:bible:notes:job:24:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -22,8 +22,7 @@
 \q2 even more is it wrong to lie to someone with a royal title.
 \q1
 \v 8 A bribe works like magic for the one who is giving the bribe;
-\q2 everything he tries to do by giving bribes succeeds. 
-\b
+\q2 everything he tries to do by giving bribes succeeds.
 
 
 \q1
@@ -48,10 +47,12 @@
   * [[:en:obe:other:bribe]]
  
 
-===== translationNotes: =====
+===== translationNotes =====
 
   * **Eloquent speech** - "Fine speech" or "Excellent speech"
-  * **much less are lying lips suitable for royalty** - It is not appropriate for honorable people to lie.
+  * **much less are lying lips suitable for royalty** - This describes people lying as if it were actually their "lips" that were lying. AT: "even more it is not suitable for royalty to lie" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **A bribe is like a magic stone to the one who gives it** - This speaks of a person's bribe working by comparing it to a magical stone or amulet. AT: "A bribe works like a magical stone for the one who gives it" or "A bribe works like magic for the one who is giving the bribe" (UDB) (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **wherever he turns** - Here "turning" refers to the various things the person does. Specifically, this refers to the different things the person does by bribery. AT: "in whatever he does" or "in everything he tries to do by giving bribes" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -60,6 +61,6 @@
   * [[:en:bible:questions:comprehension:pro:17]]
 **[[:en:bible:notes:pro:17:05|<<]] | [[:en:bible:notes:pro:17:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -23,7 +23,6 @@
 
 <usfm>
 \v 19 Merari's sons were Mahli and Mushi.
-\b
 \m Here is a list of the descendants of Levi, who became leaders of their clans.
 \li1
 \v 20 Gershon's oldest son was Libni.
@@ -34,7 +33,6 @@
 \li2 Joah's son was Iddo.
 \li2 Iddo's son was Zerah.
 \li2 Zerah's son was Jeatherai.
-\b
 
 
 \li1
@@ -44,14 +42,8 @@
 
 <usfm>
 \v 19 The sons of Merari were Mahli and Mushi. These became the Levites' clans by their fathers' families.
-\v 20 Gershom's descendants began with his son Libni.
-\q Libni's son was Jahath.
-\q His son was Zimmah.
-\q
-\v 21 His son was Joah. 
-\q His son was Iddo.
-\q His son was Zerah.
-\q His son was Jeatherai.
+\v 20 Gershom's descendants began with his son Libni. Libni's son was Jahath. His son was Zimmah.
+\v 21 His son was Joah. His son was Iddo. His son was Zerah. His son was Jeatherai.
 </usfm>
 
 ===== translationWords: =====

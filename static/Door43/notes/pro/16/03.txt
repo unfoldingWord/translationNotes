@@ -20,7 +20,6 @@
 <usfm>
 \v 3 When you work, give all your ideas and your labor to Yahweh,
 \q2 and your plans will be successful.
-\b
 \q1
 \v 4 When Yahweh made everything, he made them so they would all accomplish something for him.
 \q2 He has even made the wicked for the day when there is great trouble.
@@ -33,10 +32,10 @@
 
 <usfm>
 \q
-\v 3 Commit your works to Yahweh 
+\v 3 Commit your works to Yahweh
 \q and your plans will succeed.
 \q
-\v 4 Yahweh has made everything for its purpose, 
+\v 4 Yahweh has made everything for its purpose,
 \q even the wicked for the day of trouble.
 </usfm>
 
@@ -46,12 +45,11 @@
   * [[:en:obe:kt:works]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:evil]]
-  * [[:en:obe:other:trouble]] 
+  * [[:en:obe:other:trouble]]
+
 ===== translationNotes: =====
 
-
- 
- 
+  * **even the wicked for the day of trouble** - The verbal phrase may be supplied from the previous phrase. AT: "he has made even the wicked for the day of trouble" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
  
 ===== Links: =====
 
@@ -66,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

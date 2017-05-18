@@ -41,9 +41,11 @@ sackcloth, to Isaiah son of Amoz, the prophet.
 
 ===== translationNotes: =====
 
-  * **It came about that** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
-  * **he tore his clothes** - This is a sign of mourning and distress.
-  * **Eliakim ... Shebna** - See how you translated these names in [[:en:bible:notes:isa:36:01|36:03]].
+  * **It came about that** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **he tore his clothes, covered himself with sackcloth** - This is a sign of mourning and distress. AT: "he tore his clothes and covered himself with sackcloth because he was very distressed" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **Eliakim ... Shebna** - Translate the names of these men the same as you did in [[:en:bible:notes:isa:36:01|36:03]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **over the household** - This is an idiom that means that he was in charge of the affairs of the palace household. AT: "in charge of the palace" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **all covered with sackcloth** - This is a sign of mourning and distress. (See: [[:en:ta:vol2:translate:translate_symaction]])
 
 ===== Links: =====
 
@@ -52,6 +54,6 @@ sackcloth, to Isaiah son of Amoz, the prophet.
   * [[:en:bible:questions:comprehension:isa:37]]
 **[[:en:bible:notes:isa:36:21|<<]] | [[:en:bible:notes:isa:37:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit amoz}}
+~~DISCUSSION~~{{tag>publish p2pass amoz}}
 
 ~~NOCACHE~~

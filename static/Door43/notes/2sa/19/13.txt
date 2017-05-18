@@ -28,9 +28,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 And say to Amasa, 'Are you not my flesh and my bone? God do so to me, and more also, if you are not captain of my army from now on in the place of Joab.'"
-\v 14 And he won the hearts of all the men of Judah as one man, so that they sent to the king saying, "Return, you and all your men."
-\v 15 So the king returned and came to the Jordan. And the men of Judah came to Gilgal to go to meet the king, to escort the king over the Jordan.
+\v 13 Then say to Amasa, 'Are you not my flesh and my bone? God do so to me, and more also, if you are not captain of my army from now on in the place of Joab.'"
+\v 14 So he won the hearts of all the men of Judah as one man. They sent to the king saying, "Return, you and all your men."
+\v 15 So the king returned and came to the Jordan. Now the men of Judah came to Gilgal to go to meet the king and then to bring the king across the Jordan.
 </usfm>
 
 
@@ -42,10 +42,16 @@
 
 ===== translationNotes: =====
 
+  * **Amasa** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:17:24|17:25]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Are you not my flesh and my bone?** - David uses this rhetorical question to emphasize that they are related. This can be written as a statement. AT: "You are my flesh and my bones." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **my flesh and my bone** - Here David speaks of them being related by saying that they have the same flesh and bones. See how you translated a similar phrase in [[:en:bible:notes:2sa:19:11|19:12]]. AT: "my relative" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **God do so to me** - This is an idiom that means for God to kill him. AT: "May God kill me" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **he won the hearts** - Here the mens' loyalty is referred to as their "hearts." AT: "he won the loyalty" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **as one man** - This speaks of the men being united in their loyalty to the king as if they were one man with the same mind. AT: "and they were united together" or "they were united in their loyalty to the king" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **They sent to the king** - This means that they sent a messenger to the king. AT: "They sent a messenger to the king" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
-  * **Amasa** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **he won the hearts** - Hear "hearts" means affection or loyalty. AT: "he won the loyalty" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the Jordan** - the Jordan River 
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -59,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

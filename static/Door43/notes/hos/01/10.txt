@@ -20,7 +20,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q
 \v 10 Yet the number of the people of Israel
 \q will be like the sand of the seashore,
@@ -55,11 +54,11 @@
   * **like the sand of the seashore** - This emphasizes the great number of Israelites. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **which cannot be measured or counted** - This can be stated in active form. AT: "which no one can measure or count" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **It will be that where it was said to them** - This can be stated in active form. AT: "Where God said to them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **where it was said to them** - This expression probably refers to Jezreel, where crimes had been committed by kings of Israel, and which was a symbol of God's punishment of them.
+  * **where it was said to them** - This expression probably refers to Jezreel, the city where crimes had been committed by kings of Israel, and which was a symbol of God's punishment of them.
   * **it will be said to them** - This can be stated in active form. AT: "God will say to them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **will be gathered together** - This can be stated in active form. AT: "God will gather them together" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **go up from the land** - This expression might refer to the land where the people of Israel were in captivity (see UDB).
-  * **the day of Jezreel** - This refers to the time when God will put his people back in the land of Israel. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the day of Jezreel** - This refers to the time when God will put his people back in the land of Israel. The full meaning of this statement can be made explicit. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -68,6 +67,6 @@
   * [[:en:bible:questions:comprehension:hos:01]]
 **[[:en:bible:notes:hos:01:08|<<]] | [[:en:bible:notes:hos:02:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

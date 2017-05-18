@@ -33,9 +33,8 @@
 
 ===== translationNotes: =====
 
-
-  * **Johanan ... Kareah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **They found him** - "They found Ishmael and his men"
+  * **Johanan ... Kareah** - Translate these men's names as in [[:en:bible:notes:jer:40:13|40:13]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ishmael son of Nethaniah ... found him** - Here "Ishmael" represents all of his men. AT: "Ishmael and his men ... found them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
  
 ===== Links: =====
@@ -51,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

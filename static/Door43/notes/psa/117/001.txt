@@ -20,7 +20,6 @@
 \q2
 \v 2 because he faithfully loves us as he promised to do,
 \q2 and he will forever do for us what he promised that he would do.
-\b
 \q1 Praise Yahweh!
 </usfm>
 
@@ -28,7 +27,7 @@
 
 <usfm>
 \c 117
-\p
+\m
 \q
 \v 1 Praise Yahweh, all you nations;
 \q exalt him, all you peoples.
@@ -52,7 +51,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **For his** - "Because his"
   * **his covenant faithfulness is great toward us** - "his covenant faithfulness toward us is great"
@@ -65,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:117]]
 **[[:en:bible:notes:psa:116:018|<<]] | [[:en:bible:notes:psa:118:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

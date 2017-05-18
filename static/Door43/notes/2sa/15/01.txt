@@ -20,7 +20,7 @@
 \c 15
 \p
 \v 1 It came about after this that Absalom prepared a chariot and horses for himself, with fifty men to run before him.
-\v 2 Absalom would get up early and stand beside the road leading to the city gate. When any man had a dispute to come to the king for judgment, then Absalom called to him and said, "From what city have you come?" And the man would answer, "Your servant is from one of the tribes of Israel."
+\v 2 Absalom would get up early and stand beside the road leading to the city gate. When any man had a dispute to come to the king for judgment, Absalom called to him and said, "From what city have you come?" Then the man would answer, "Your servant is from one of the tribes of Israel."
 </usfm>
 
 ===== translationWords: =====
@@ -38,7 +38,9 @@
 
 ===== translationNotes: =====
 
-
+  * **It came about** - This phrase is used to introduce the next event in the storyline. (See: [[:en:ta:vol2:translate:writing_newevent]]) 
+  * **with fifty men to run before him** - These men would run in front of the chariot to honor Absalom. AT: "with fifty men to run before him to honor him" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **Your servant** - When a man would respond to Absalom's question he would refer to himself as "your servant" to honor Absalom. 
 ===== Links: =====
 
   * [[:en:bible:notes:2sa:00:intro]]
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2sa:15]]
 **[[:en:bible:notes:2sa:14:32|<<]] | [[:en:bible:notes:2sa:15:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit absalom}}
+~~DISCUSSION~~{{tag>publish p2pass absalom}}
 
 ~~NOCACHE~~

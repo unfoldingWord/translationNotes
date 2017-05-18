@@ -37,10 +37,10 @@
 <usfm>
 \q1
 \v 12 I have declared, saved, and proclaimed, and there is no other
-god among you. 
+god among you.
 \q1 You are my witnesses," declares Yahweh, "I am God.
 \q1
-\v 13 From this day on I am he, 
+\v 13 From this day on I am he,
 \q1 and no one can rescue anyone from my hand. I act, and who can turn it back?"
 </usfm>
 
@@ -58,8 +58,9 @@ god among you.
 
   * **General Information:** - Yahweh continues speaking to the people of Israel.
 
-  * **no one can rescue anyone from my hand** - "no one can save someone from my powerful hand"
-  * **who can turn it back?** - Yahweh uses a question to emphasize his power. AT: "no one can stop me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **no one can rescue anyone from my hand** - Here the word "hand" represents Yahweh's power. AT: "no one can rescue anyone from my power" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who can turn it back?** - Yahweh uses this question to say that no one can turn back his hand. It can be translated as a statement. Turning back his hand represents stopping him from doing something. See how you translated a similar phrase in [[:en:bible:notes:isa:14:26|14:27]].  AT: "no one can turn it back." or "no one can stop me." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -67,6 +68,6 @@ god among you.
   * [[:en:bible:questions:comprehension:isa:43]]
 **[[:en:bible:notes:isa:43:10|<<]] | [[:en:bible:notes:isa:43:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

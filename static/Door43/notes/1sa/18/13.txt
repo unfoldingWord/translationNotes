@@ -35,8 +35,8 @@
 ===== translationNotes: =====
 
   * **So Saul removed him from his presence** - "So Saul removed David from his presence"
-  * **a thousand** - AT: "1,000" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **David went out and came in before the people** - Here "the people" refers to the soldiers under David's command. Here "went out" is an idiom refers to leading the people into battle. Here "came in" is an idiom that refers to leading them home from battle. AT: "David led his soldiers into battle and led them home from battle" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **a thousand** - This can be represented numerically. AT: "1,000 men" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **David went out and came in before the people** - Here "the people" refers to the soldiers under David's command. The phrases "went out" and "came in" are idioms that refer to leading the people into battle and leading them home from battle. AT: "David led his soldiers into battle and led them home from battle" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -51,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

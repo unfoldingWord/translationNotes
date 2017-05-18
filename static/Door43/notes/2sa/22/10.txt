@@ -37,14 +37,14 @@
 
 <usfm>
 \q
-\v 10 He opened the heavens and came down, 
+\v 10 He opened the heavens and came down,
 \q and thick darkness was under his feet.
 \q
 \v 11 He rode on a cherub and flew.
 \q He was seen on the wings of the wind.
 \f + \ft Some versions have, \fqa He flew on the wings of the wind. \fqb \f*
 \q
-\v 12 And he made darkness a tent around him,
+\v 12 He made darkness a tent around him,
 \q gathering heavy rain clouds in the skies.
 </usfm>
 
@@ -60,9 +60,10 @@
   * **General Information:** - David's song to Yahweh continues. He uses parallelism to emphasize what he is saying. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **He opened the heavens ... rain clouds in the skies** - David describes Yahweh's way of saving David from his enemies as a storm cloud gathering over a place. This emphasizes God's power and his anger. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **under his feet** - David speaks of God as having feet like humans. (See: [[:en:ta:vol2:translate:figs_personification]])
   * **He was seen on the wings of the wind** - This can be translated in active form. AT: "He appeared on the wings of the wind" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the wings of the wind** - This expression speaks of the wind as if it were a bird. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **And he made darkness a tent around him** - Here the darkness Yahweh creates is compared to a tent which hides him completely. AT:"And he hid himself in the darkness" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He made darkness a tent around him** - Here the darkness Yahweh creates is compared to a tent which hides him completely. AT:"He hid himself in the darkness" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -77,6 +78,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit darkness}}
+{{tag>publish p2pass darkness}}
 
 ~~NOCACHE~~

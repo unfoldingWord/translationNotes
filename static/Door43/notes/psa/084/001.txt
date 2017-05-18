@@ -22,7 +22,7 @@
 \v 2 I would like to be there;
 \q2 Yahweh, I desire that very much.
 \q2 With all my inner being I sing joyfully to you, the all-powerful God.
-\b
+
 
 
 \q1
@@ -32,9 +32,8 @@
 
 <usfm>
 \c 84
-\p
+\m
 \d For the chief musician; set to the Gittith style. A psalm of the sons of Korah.
-\b
 \q
 \v 1 How lovely is the place where you live,
 \q Yahweh of hosts!
@@ -56,7 +55,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **For the chief musician** - "This is for the director of music to use in worship"
   * **set to the Gittith** - This may refer to a style of music. See how you translated this in [[:en:bible:notes:psa:008:001|8:1]].
@@ -74,6 +73,6 @@
   * [[:en:bible:questions:comprehension:psa:084]]
 **[[:en:bible:notes:psa:083:018|<<]] | [[:en:bible:notes:psa:084:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

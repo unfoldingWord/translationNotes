@@ -25,7 +25,7 @@
 \p
 \v 12 So the word of Yahweh came to Jeremiah and said,
 \v 13 "Yahweh, God of Israel, says this, 'I myself made a covenant with your ancestors on the day that I brought them out from the land of Egypt, out from the house of slavery. That was when I said,
-\v 14 "At the end of every seven years, each man must send away his brother, his fellow Hebrew who had sold himself to you and served you for six years. Send him away in freedom." But your ancestors did not listen to me and or pay attention.
+\v 14 "At the end of every seven years, each man must send away his brother, his fellow Hebrew who had sold himself to you and served you for six years. Send him away in freedom." But your ancestors did not listen to me or incline their ears to me.
 </usfm>
 
 
@@ -39,10 +39,13 @@
  
 ===== translationNotes: =====
 
-  * **the word of Yahweh came to** - See how you translated this in [[:en:bible:notes:jer:01:01|1:2]].
+  * **Connecting Statement:** - Jeremiah resumes the story from [[:en:bible:notes:jer:34:08|34:8]] after the background information of [[:en:bible:notes:jer:34:08|34:8]]-[[:en:bible:notes:jer:34:10|11]].
+
+  * **the word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:jer:01:01|1:2]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **house of slavery** - This is an idiom. "place where you were slaves" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **each man must send away his brother, his fellow Hebrew who had sold himself to you and served you** - AT: "each of you must free any fellow Hebrews who sold themselves to you and have been your slaves"
   * **Send him away in freedom** - AT: "You must let them be free from serving you"
-  * **did not listen to me and or pay attention** - Both these phrase are saying basically the same thing and are combined for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **did not ... incline their ears to me** - To incline the ear, to lean the head toward the speaker so as to hear better, is a metonym for paying attention to what the speaker is saying. AT: "did not ... pay attention to what I said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -51,6 +54,6 @@
   * [[:en:bible:questions:comprehension:jer:34]]
 **[[:en:bible:notes:jer:34:10|<<]] | [[:en:bible:notes:jer:34:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

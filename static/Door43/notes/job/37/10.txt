@@ -47,8 +47,9 @@
 
 ===== translationNotes: =====
 
-  * **By the breath of God ice is given** - Elihu speaks of the cold north wind as God's breath. AT: "God's breath makes ice" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **frozen like metal** - When water freezes, it becomes hard like metal. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **By the breath of God ice is given** - Elihu speaks of the cold north wind as if it were God's breath. This can be stated in active form. AT: "God's breath makes ice" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **frozen like metal** - Elihu compares the hardness of ice to the hardness of metal. AT: "frozen, as hard as metal" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **he weighs down the thick cloud with moisture** - Elihu speaks of God causing the storm clouds to be full of water as if the moisture weighed heavily on the clouds. AT: "he causes the thick clouds to be full of moisture" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -57,6 +58,6 @@
   * [[:en:bible:questions:comprehension:job:37]]
 **[[:en:bible:notes:job:37:07|<<]] | [[:en:bible:notes:job:37:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

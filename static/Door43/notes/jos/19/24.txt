@@ -35,12 +35,13 @@
 
   * [[:en:obe:other:asher]]
   * [[:en:obe:other:carmel]]
- 
 
 ===== translationNotes: =====
 
-  * **casting of lots** - A random method of choosing to remove the choice from the leader's will, often done with the idea that God will decide the outcome. See how you translated this in [[:en:bible:notes:jos:19:01|19:1]].
-  * **Helkath ... Hali ... Beten ... Achshaph ... Allammelech ... Amad ... Mishall ... Shihor Libnath** - names of cities (See: [[:en:ta:vol1:translate:translate_names]])
+  * **The fifth casting of lots** - Translate this phrase in the same way you did in [[:en:bible:notes:jos:19:01|19:1]].
+  * **The fifth** - number five in a list (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **it was given to their clans** - This can be stated in active form. AT: "Joshua gave it to their clans" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Helkath, Hali, Beten, Achshaph, Allammelech, Amad, and Mishall ... Shihor Libnath** - These are the names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -55,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

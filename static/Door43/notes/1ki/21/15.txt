@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 And so when Jezebel heard that Naboth had been stoned and was dead, she said to Ahab, "Get up and take possession of the vineyard of Naboth the Jezreelite, which he refused to give you for money, because Naboth is not alive, but dead."
+\v 15 So when Jezebel heard that Naboth had been stoned and was dead, she said to Ahab, "Get up and take possession of the vineyard of Naboth the Jezreelite, which he refused to give you for money, because Naboth is not alive, but dead."
 \v 16 When Ahab heard that Naboth was dead, he rose up to go down to the vineyard of Naboth the Jezreelite and take possession of it.
 </usfm>
 
@@ -36,7 +36,7 @@
 ===== translationNotes: =====
 
   * **that Naboth had been stoned and was dead** - This can be stated in active form. AT: "that the people had stoned Naboth and he was dead" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Naboth is not alive, but dead** - These two phrases mean the same thing and emphasize that Naboth is dead. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **Naboth is not alive, but dead** - These two phrases mean the same thing and emphasize Jezebel's statement. AT: "Naboth is dead!" (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
 
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:1ki:21]]
 **[[:en:bible:notes:1ki:21:11|<<]] | [[:en:bible:notes:1ki:21:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

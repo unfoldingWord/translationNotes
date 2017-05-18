@@ -23,7 +23,7 @@
 
 <usfm>
 \p
-\v 35 When the skies are shut up and there is no rain because the people have sinned against you—if they pray toward this place, confess your name, and turn from their sin when you have afflicted them— 
+\v 35 When the skies are shut up and there is no rain because the people have sinned against you—if they pray toward this place, confess your name, and turn from their sin when you have afflicted them—
 \v 36 then listen in heaven and forgive the sin of your servants and of your people Israel, when you teach them the good way in which they should walk. Send rain on your land, which you have given to your people as an inheritance.
 </usfm>
 
@@ -39,8 +39,9 @@
 
 ===== translationNotes: =====
 
-  * **the skies are shut up and there is no rain** - The two phrases mean basically the same thing and are used together for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **in which they should walk** - AT: "that they should live" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the skies are shut up and there is no rain** - The sky is spoken of as if it were a building in which God stores the rain. AT: "you do not allow rain to fall" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **confess your name** - Possible meanings are 1) "confess that they have sinned against you" or 2) "praise you" or 3) "say that they will obey you from now on." Translate as in [[:en:bible:notes:1ki:08:33|8:33]].
+  * **in which they should walk** - The way a person lives is spoken of as if that person were walking on a path. AT: "that they should live" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1ki:08]]
 **[[:en:bible:notes:1ki:08:33|<<]] | [[:en:bible:notes:1ki:08:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

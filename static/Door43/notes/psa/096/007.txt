@@ -47,8 +47,8 @@
 ===== translationNotes: =====
 
   * **Give praise to Yahweh ... give praise to Yahweh for his glory and strength** - The abstract nouns "glory" and "strength" can be stated as adjectives. AT: "Praise Yahweh ... praise Yahweh because he is glorious and strong." See how these words are translated in [[:en:bible:notes:psa:029:001|29:1]].
-  * **Give to Yahweh the glory that his name deserves** The abstract noun "glory" can be stated as a verb or adjective. AT: "Honor Yahweh just as his name deserves" or "Proclaim that Yahweh is glorious just as his name deserves" See how these words are translated in [[:en:bible:notes:psa:029:001|29:2]]. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **his name** - "him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Give to Yahweh the glory that his name deserves** The abstract noun "glory" can be stated as a verb or adjective. AT: "Honor Yahweh just as his name deserves" or "Proclaim that Yahweh is glorious just as his name deserves." See how these words are translated in [[:en:bible:notes:psa:029:001|29:2]]. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **his name** - "name" refers here to the person of God. AT: "him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **his courts** - the temple courtyard where the priests sacrificed animals to Yahweh
 
 ===== Links: =====
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:psa:096]]
 **[[:en:bible:notes:psa:096:005|<<]] | [[:en:bible:notes:psa:096:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

@@ -13,15 +13,15 @@
 <usfm>
 \v 25 The king of the North will gather a large and powerful army to attack the army of the king of the South. The king of the South will meet him in battle with a huge and powerful army. However, he will fail, and his plan will not succeed because of all the plots that are devised against him.
 \v 26 Even the most trusted advisors of the king of the South will plan to get rid of him. His army will be defeated and many of his soldiers will be killed.
-\v 27 Then the two kings who both want to rule that area will sit down at the same table and eat together, but they will both lie to each other. Neither of them will get what he wants because it will not be the time that God has determined for an alliance to be made.
+\v 27 Then the two kings who both want to rule that area will sit down at the same table and talk together, but they will both lie to each other. Neither of them will get what he wants because only God will cause the result of their actions to happen, at the future time that he has determined.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
-\v 25 He will stir up his power and his courage against the king of the South with a great army. The king of the South will wage war with a powerful army, but he will not be able to stand because of all the plots devised against him. 
-\v 26 Even those who eat food from the king's table will try to destroy him. His army will be swept away like a flood, and many of them will be killed.
-\v 27 Both these kings, with their hearts set on evil against each other, will sit at the same table and lie to each other, but for no purpose. For the end will come at the time that has been fixed.
+\v 25 He will wake up his power and his heart against the king of the South with a great army. The king of the South will wage war with a large, very powerful army, but he will not stand because others will make plots against him.
+\v 26 Even those who eat his fine food will try to destroy him. His army will be swept away like a flood, and many of them will fall killed.
+\v 27 Both these kings, with their hearts set on evil against each other, will sit at the same table and lie to each other, but it will be of no use. For the end will come at the time that has been fixed.
 </usfm>
 
 ===== translationWords: =====
@@ -33,17 +33,20 @@
   * [[:en:obe:kt:evil]]
 
 ===== translationNotes: =====
+  * **General Information:** The angel continues speaking to Daniel.
 
-  * **He will stir up his power and his courage ... with a great army** - "With a great army, he will become powerful and bold to attack the king of the South" or "He will gather a powerful army so he can boldly attack the king of the South"
+  * **He will wake up his power and his heart** - Power and heart (that is, courage) are spoken of as if they were people whom someone could wake up in order to make them act. AT: "He will make himself powerful and will become courageous" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **heart** - Here this represents courage. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **with a great army** - "with a great army that he will assemble"
   * **will wage war** - "will fight against him"
-  * **because of all the plots devised against him** - "because the people plot against him" or "because people plan many ways to hurt him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **those who eat food from the king's table** - This refers to the king's advisors.
-  * **His army will be swept away like a flood** - "His enemy will defeat his army." See how you translated a similar phrase in [[:en:bible:notes:dan:11:20|11:22]].
-  * **many of them will be killed** - "the enemy will kill many of his soldiers" or "many of his soldiers will die in the battle" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **will sit at the same table** - They will meet together and try to make an agreement with each other. 
-  * **with their hearts set on evil against each other** - This means that they want to harm each other.
-  * **but for no purpose** - This means that they will not succeed in making an alliance with each other.
-  * **For the end will come at the time that has been fixed** - This tells why their meetings will not be successful. AT: The end of their fighting will only come at the time that God has fixed. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he will not stand** - Not standing represents being defeated. AT: "the king of the South will be defeated" or "his army will be defeated"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **those who eat his fine food** - This refers to the king's advisers. It was usual for a king's most trusted advisers to eat meals with him. AT: "the king's best advisers" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **His army will be swept away like a flood** - Here the severe defeat of an army is spoken of as a flood of water that completely sweeps it away. AT: "The enemy will completely defeat his army" or "His enemy will completely destroy his army as a flood destroys everything in its path" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **many of them will fall killed** - Here "fall" is an idiom that refers to dying in battle, so "fall" and "killed" mean basically the same thing. AT: "many of his soldiers will die in battle" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_doublet]])
+  * **with their hearts set on evil against each other** - Here "heart" represents a person's desires. Desires are spoken of here as if they were an object that someone could set or place in a certain position. AT: "each determined to do evil to the other" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **will sit at the same table** - Sitting at the same table represents the act of talking to each other. (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **but it will be of no use** - "but their talking will not help them"
+  * **For the end will come at the time that has been fixed** - This tells why their meetings will not be successful. AT: "The result of their actions will only come at the time that God has fixed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -52,6 +55,6 @@
   * [[:en:bible:questions:comprehension:dan:11]]
 **[[:en:bible:notes:dan:11:23|<<]] | [[:en:bible:notes:dan:11:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

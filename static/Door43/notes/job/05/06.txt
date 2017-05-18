@@ -22,7 +22,6 @@
 \q1
 \v 7 People make trouble for themselves from the time that they are born;
 \q2 this is as certain as the fact that sparks shoot up from a fire.
-\b
 
 
 \q1
@@ -34,11 +33,10 @@
 <usfm>
 \q
 \v 6 For difficulties do not come out from the soil;
-\q neither does trouble spring out of the ground;
+\q neither does trouble sprout from the ground.
 \q
-\v 7 but mankind makes his own trouble,
+\v 7 Instead, mankind is born for trouble,
 \q just as sparks fly upward.
-\b
 </usfm>
 
 
@@ -48,8 +46,8 @@
 
 ===== translationNotes: =====
 
-  * **For difficulties do not come out from the soil** - "For difficulties do not come from the dust"
-  * **but mankind makes his own trouble, just as sparks fly upward** - The writer compares the trouble in people's lives to sparks shooting up from a fire. Both are inevitable. "but people have troubles from the time they are born just as surely as sparks shoot up from a fire" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **For difficulties do not come out from the soil; neither does trouble sprout from the ground** - Here difficulties and trouble are spoken of as if they were plants. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **mankind is born for trouble, just as sparks fly upward** - It is as natural for people, once they are born, to have trouble as it is for sparks to fly up from a fire. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -58,6 +56,6 @@
   * [[:en:bible:questions:comprehension:job:05]]
 **[[:en:bible:notes:job:05:04|<<]] | [[:en:bible:notes:job:05:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

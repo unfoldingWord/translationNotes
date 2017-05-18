@@ -13,8 +13,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 They must give that money to the carpenters, the builders, and the masons, and they should also buy the timber and the stones that they will use to repair the temple.
-\v 7 But the men who supervise the work will not be required to make a report on the money that is given to them, saying what they spent it for, because those men are completely honest."
+\v 6 They must give that money to the carpenters, the builders, and the masons, and they should also buy the timber and the stones that they will use to repair the temple."
+\v 7 But the men who supervise the work will not be required to make a report on the money that is given to them, saying what they spent it for, because those men are completely honest.
 
 
 \p
@@ -37,10 +37,12 @@
 
   * **General Information:** - The message from King Josiah to Hilkiah, the high priest, continues.
 
+  * **Let them give money ... was given to them ... because they handled** - Here "them" and "they" refer to the workmen who are in charge of the house of Yahweh in [[:en:bible:notes:2ki:22:03|22:5]].
+  * **the carpenters, the builders, and the masons** - These are the same as the workmen who are in the house of Yahweh in [[:en:bible:notes:2ki:22:03|22:5]]. Here the workers are described in more detail.
   * **carpenters** - workers who build with wood
   * **masons** - workers who build with stone
-  * **no accounting was required for the money that was given to them** - "the workers did not have to report how they used the money that the temple guards gave to them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **because they handled it faithfully** - AT: "because they used the money honestly"
+  * **no accounting was required for the money that was given to them** - This can be stated in active form. AT: "the workmen who were in charge did not have to report how they used the money that the temple guards gave them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **because they handled it faithfully** - "because they used the money honestly"
 
  
 ===== Links: =====
@@ -56,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

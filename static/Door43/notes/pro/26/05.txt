@@ -17,10 +17,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 Give a fool an answer that will be just as foolish as his question, 
-\q2 and that may open his eyes so he can see that he is not as wise as he thinks. 
+\v 5 Give a fool an answer that will be just as foolish as his question,
+\q2 and that may open his eyes so he can see that he is not as wise as he thinks.
 \q1
-\v 6 If you entrust an important message to be delivered by a fool, 
+\v 6 If you entrust an important message to be delivered by a fool,
 \q2 that would as foolish as cutting of your own feet, and then taking a drink of poison.
 
 
@@ -32,7 +32,7 @@
 <usfm>
 \q
 \v 5 Answer a fool and join in on his folly,
-\q so he will not become wise in his own eyes. 
+\q so he will not become wise in his own eyes.
 \q
 \v 6 Whoever sends a message by the hand of a fool
 \q cuts off his own feet and drinks violence.
@@ -45,11 +45,12 @@
 
 ===== translationNotes: =====
 
-  * **Answer a fool and join in on his folly** - AT: "Answer a fool according to his folly"
-  * **so he will not become wise in his own eyes** - AT: "so he will not think he is wise" 
-  * **Whoever sends a message by the hand of a fool cuts off his own feet and drinks violence** - AT: "a person who sends a fool to deliver a message for him will cause harm to himself" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **cuts off his own feet** - Trusting a fool with a message is as ridiculous as cutting off his own feet. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **drinks violence** - Sending a message by a fool is compared to taking in what will damage. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Answer a fool and join in on his folly** - Joining in on a fool's folly when answering him represents answering him in a foolish way. AT: "Answer a fool according to his folly" or "Answer a fool foolishly"
+  * **so he will not become wise in his own eyes** - The eyes represent seeing, and seeing represents thoughts or judgment. AT: "so that he will not become wise according to his judgement" or "so that he does not consider himself to be wise" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Whoever sends a message by the hand of a fool** - Here the hand represents the fool's responsibility to deliver the message. AT: "Whoever sends a fool to deliver a message" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **cuts off his own feet and drinks violence** - Cutting off one's own feet and drinking violence represents harming one's self. AT: "harms himself like a person who cuts off his own feet and drinks violence" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **drinks violence** - Violence is spoken of as if it were a liquid that someone might drink. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
  
 ===== Links: =====
 
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:pro:26]]
 **[[:en:bible:notes:pro:26:03|<<]] | [[:en:bible:notes:pro:26:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

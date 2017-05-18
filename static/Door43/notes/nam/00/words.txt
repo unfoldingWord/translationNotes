@@ -1,25 +1,4 @@
-======= List of translationWords in Nahum =======
-
-* [[:en:obe:kt:god]] is found in:
- [[:en:bible:notes:nam:01:02|01:02]]
-
-* [[:en:obe:other:israel]] is found in:
- [[:en:bible:notes:nam:02:01|02:01]]
-
-* [[:en:obe:other:jacob]] is found in:
- [[:en:bible:notes:nam:02:01|02:01]]
-
-* [[:en:obe:other:judah]] is found in:
- [[:en:bible:notes:nam:01:15|01:15]]
-
-* [[:en:obe:other:nineveh]] is found in:
- [[:en:bible:notes:nam:02:08|02:08]]
-
-* [[:en:obe:kt:yahweh]] is found in:
- [[:en:bible:notes:nam:01:12|01:12]], [[:en:bible:notes:nam:01:14|01:14]], [[:en:bible:notes:nam:02:01|02:01]]
-
-* [[:en:obe:kt:yahwehofhosts]] is found in:
- [[:en:bible:notes:nam:02:13|02:13]]
+===== List of translationWords in Nahum =====
 
 * [[:en:obe:other:adversary]] is found in:
  [[:en:bible:notes:nam:01:02|01:02]], [[:en:bible:notes:nam:01:07|01:07]], [[:en:bible:notes:nam:03:10|03:10]]
@@ -45,6 +24,9 @@
 * [[:en:obe:other:captive]] is found in:
  [[:en:bible:notes:nam:03:10|03:10]]
 
+* [[:en:obe:other:carmel]] is found in:
+ [[:en:bible:notes:nam:01:04|01:04]]
+
 * [[:en:obe:other:chariot]] is found in:
  [[:en:bible:notes:nam:02:03|02:03]], [[:en:bible:notes:nam:02:13|02:13]], [[:en:bible:notes:nam:03:01|03:01]]
 
@@ -55,16 +37,13 @@
  [[:en:bible:notes:nam:01:14|01:14]]
 
 * [[:en:obe:kt:cutoff]] is found in:
- [[:en:bible:notes:nam:01:15|01:15]]
+ [[:en:bible:notes:nam:01:14|01:14]], [[:en:bible:notes:nam:01:15|01:15]]
 
 * [[:en:obe:kt:darkness]] is found in:
  [[:en:bible:notes:nam:01:07|01:07]]
 
 * [[:en:obe:other:declare]] is found in:
  [[:en:bible:notes:nam:01:01|01:01]], [[:en:bible:notes:nam:01:02|01:02]]
-
-* [[:en:obe:other:decree]] is found in:
- [[:en:bible:notes:nam:02:06|02:06]]
 
 * [[:en:obe:other:descendant]] is found in:
  [[:en:bible:notes:nam:01:14|01:14]]
@@ -102,14 +81,17 @@
 * [[:en:obe:kt:gate]] is found in:
  [[:en:bible:notes:nam:02:06|02:06]], [[:en:bible:notes:nam:03:12|03:12]]
 
-* [[:en:obe:kt:glory]] is found in:
- [[:en:bible:notes:nam:02:08|02:08]]
+* [[:en:obe:kt:god]] is found in:
+ [[:en:bible:notes:nam:01:02|01:02]]
 
 * [[:en:obe:other:gold]] is found in:
  [[:en:bible:notes:nam:02:08|02:08]]
 
 * [[:en:obe:kt:goodnews]] is found in:
  [[:en:bible:notes:nam:01:15|01:15]]
+
+* [[:en:obe:other:heal]] is found in:
+ [[:en:bible:notes:nam:03:18|03:18]]
 
 * [[:en:obe:other:heart]] is found in:
  [[:en:bible:notes:nam:02:08|02:08]]
@@ -118,16 +100,31 @@
  [[:en:bible:notes:nam:03:16|03:16]]
 
 * [[:en:obe:other:horse]] is found in:
- [[:en:bible:notes:nam:03:01|03:01]], [[:en:bible:notes:nam:03:03|03:03]]
+ [[:en:bible:notes:nam:03:01|03:01]]
+
+* [[:en:obe:other:horsemen]] is found in:
+ [[:en:bible:notes:nam:03:03|03:03]]
+
+* [[:en:obe:other:image]] is found in:
+ [[:en:bible:notes:nam:01:14|01:14]]
 
 * [[:en:obe:kt:innocent]] is found in:
  [[:en:bible:notes:nam:01:02|01:02]]
+
+* [[:en:obe:other:israel]] is found in:
+ [[:en:bible:notes:nam:02:01|02:01]]
+
+* [[:en:obe:other:jacob]] is found in:
+ [[:en:bible:notes:nam:02:01|02:01]]
 
 * [[:en:obe:kt:jealous]] is found in:
  [[:en:bible:notes:nam:01:02|01:02]]
 
 * [[:en:obe:kt:joy]] is found in:
  [[:en:bible:notes:nam:03:18|03:18]]
+
+* [[:en:obe:other:judah]] is found in:
+ [[:en:bible:notes:nam:01:12|01:12]], [[:en:bible:notes:nam:01:15|01:15]]
 
 * [[:en:obe:other:king]] is found in:
  [[:en:bible:notes:nam:03:18|03:18]]
@@ -166,7 +163,7 @@
  [[:en:bible:notes:nam:03:08|03:08]]
 
 * [[:en:obe:other:nineveh]] is found in:
- [[:en:bible:notes:nam:01:01|01:01]], [[:en:bible:notes:nam:01:09|01:09]], [[:en:bible:notes:nam:03:05|03:05]], [[:en:bible:notes:nam:03:08|03:08]]
+ [[:en:bible:notes:nam:01:01|01:01]], [[:en:bible:notes:nam:01:09|01:09]], [[:en:bible:notes:nam:01:14|01:14]], [[:en:bible:notes:nam:02:08|02:08]], [[:en:bible:notes:nam:03:05|03:05]], [[:en:bible:notes:nam:03:08|03:08]]
 
 * [[:en:obe:other:peace]] is found in:
  [[:en:bible:notes:nam:01:15|01:15]]
@@ -250,10 +247,10 @@
  [[:en:bible:notes:nam:01:02|01:02]], [[:en:bible:notes:nam:01:06|01:06]]
 
 * [[:en:obe:kt:yahweh]] is found in:
- [[:en:bible:notes:nam:01:02|01:02]], [[:en:bible:notes:nam:01:07|01:07]], [[:en:bible:notes:nam:01:09|01:09]]
+ [[:en:bible:notes:nam:01:02|01:02]], [[:en:bible:notes:nam:01:07|01:07]], [[:en:bible:notes:nam:01:09|01:09]], [[:en:bible:notes:nam:01:12|01:12]], [[:en:bible:notes:nam:01:14|01:14]], [[:en:bible:notes:nam:02:01|02:01]]
 
 * [[:en:obe:kt:yahwehofhosts]] is found in:
- [[:en:bible:notes:nam:03:05|03:05]]
+ [[:en:bible:notes:nam:02:13|02:13]], [[:en:bible:notes:nam:03:05|03:05]]
 
 * [[:en:obe:other:yoke]] is found in:
  [[:en:bible:notes:nam:01:12|01:12]]

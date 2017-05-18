@@ -43,9 +43,10 @@
 ===== translationNotes: =====
 
   * **which you are saying** - Here "you" is plural. Possible meanings are 1) this refers to Jeremiah and those with him, or 2) it refers to all the people. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **It is given into the hand of the king of Babylon** - Here "hand" means power or control. AT: "Yahweh has given it to the king of Babylon" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **It is given into the hand of the king of Babylon** - Here "hand" means power or control. This can be translated in active form. AT: "Yahweh has given it to the king of Babylon" or "Yahweh has given the king of Babylon the power to rule it" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **to gather them** - "to gather my people"
-  * **wrath, fury, and great anger** - All three words mean the same thing and emphasize the intensity of his anger. AT: "extreme anger" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **wrath, fury, and great anger** - All three words mean the same thing and emphasize how very angry he is. AT: "extreme anger" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **in security** - "where they are safe"
 
 ===== Links: =====
 
@@ -54,6 +55,6 @@
   * [[:en:bible:questions:comprehension:jer:32]]
 **[[:en:bible:notes:jer:32:33|<<]] | [[:en:bible:notes:jer:32:38|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

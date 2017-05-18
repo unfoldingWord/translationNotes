@@ -24,11 +24,11 @@
 
 <usfm>
 \v 1 These are the proverbs of Solomon:
-\q A child who lives according to wisdom makes his father happy; 
-\q2 but if a child does foolish things, he causes his mother to be very sad. 
+\q A child who lives according to wisdom makes his father happy;
+\q2 but if a child does foolish things, he causes his mother to be very sad.
 \q1
 \v 2 Riches that you got by being dishonest will not have any value;
-\q2 but when you do what is right, you will be protected from death. 
+\q2 but when you do what is right, you will be protected from death.
 \q1
 \v 3 Yahweh does not allow people who do right to starve,
 \q2 but he will makes it impossible for wicked people to get what they want.
@@ -50,7 +50,7 @@
 \v 2 Treasures accumulated by wickedness have no value,
 \q but doing what is right keeps you from death.
 \q
-\v 3 Yahweh does not let those who do what is right go hungry, 
+\v 3 Yahweh does not let the soul of the righteous person go hungry,
 \q but he frustrates the cravings of the wicked.
 </usfm>
 
@@ -72,7 +72,7 @@
 
   * **The proverbs of Solomon** - After the introduction of Chapters 1-9, Chapter 10 begins the collection of the proverbs; short sayings that teach wisdom.
   * **accumulated** - acquired over time
-  * **Yahweh does not let those who do what is right go hungry** - "Yahweh makes sure those who do what is right have food to eat" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **Yahweh does not let the soul of the righteous person go hungry** - Here "soul" refers to the person. This can be stated in positive form. AT: "Yahweh makes sure those who do what is right have food to eat" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_litotes]])
  
 ===== Links: =====
 
@@ -87,6 +87,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

@@ -42,9 +42,9 @@
 
 ===== translationNotes: =====
 
-  * **who constantly stand before you** - AT: "who are always in your presence waiting to serve you" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **who constantly stand before you** - This is an idiom. AT: "who are always in your presence waiting to serve you" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **May Yahweh your God be praised** - This can be stated in active form. AT: "May people praise Yahweh your God" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **who placed you on the throne of Israel** - AT: "who made you king of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who placed you on the throne of Israel** - The throne is a metonym for the king who sits on it. AT: "who made you king of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:1ki:10]]
 **[[:en:bible:notes:1ki:10:06|<<]] | [[:en:bible:notes:1ki:10:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

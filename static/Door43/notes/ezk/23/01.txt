@@ -30,7 +30,7 @@
 <usfm>
 \c 23
 \p
-\v 1 The word of Yahweh came to me and said, 
+\v 1 The word of Yahweh came to me and said,
 \v 2 "Son of man, there were two women, daughters of the same mother.
 \v 3 They acted as prostitutes in Egypt in the time of their youth. They acted as prostitutes there. Their breasts were squeezed and their virgin nipples were fondled there.
 \v 4 Their names were Oholah—the older sister—and Oholibah—her younger sister. Then they became mine and bore sons and daughters. Their names mean this: Oholah means Samaria, and Oholibah means Jerusalem.
@@ -49,14 +49,17 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh tells Ezekiel a story about two young women in Egypt to express how he views the behavior of the people of Israel.
+  * **General Information:** - Yahweh speaks of how the cities of Jerusalem and Samaria have been unfaithful to him in a metaphor in which he refers to them as two prostitutes. This metaphor continues through [[:en:bible:notes:ezk:23:33|23:34]]. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
-  * **The word of Yahweh came** - "Yahweh spoke his word." See how you translated this in [[:en:bible:notes:ezk:01:01|1:1]]. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Their breasts were squeezed** - AT. "Men squeezed their breasts." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **their virgin nipples were fondled there** - This phrase means basically the same thing as the previous phrase and emphasizes the immoral behavior of the two young women. AT: "there men fondled their virgin nipples." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The word of Yahweh came** - This is an idiom that is used to introduce something that God told his prophets or his people. See how you translated this in [[:en:bible:notes:ezk:03:16|3:16]]. AT: "Yahweh spoke this message" or "Yahweh spoke these words" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Son of man** - "Son of a human being" or "Son of humanity." God calls Ezekiel this to emphasize that Ezekiel is only a human being. God is eternal and powerful, but humans are not. AT: "Mortal person" or "Human"
+  * **Their breasts were squeezed** - This can be stated in active form. AT: "Men squeezed their breasts." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **their virgin nipples were fondled there** - This phrase means basically the same thing as the previous phrase and emphasizes the immoral behavior of the two young women. This can be stated in active form. AT: "there men fondled their virgin nipples." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **fondled** - to be touched lovingly or softly
-  * **Oholah** - This is a female name that means "her tent." (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Oholibah** - This is a female name that means "my tent is in her." (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Their names mean this: Oholah means Samaria, and Oholibah means Jerusalem** - "Oholah represents Samaria, and Oholibah represents Jerusalem." In this metaphor Samaria is spoken of as if it were Oholah and Jerusalem is spoken of as if it were Oholibah. This speaks of how these cities were unfaithful to Yahweh as if they were unfaithful wives. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Oholah** - This is the name of a woman that means "her tent." (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Oholibah** - This is the name of a woman that means "my tent is in her." (See: [[:en:ta:vol1:translate:translate_names]])
+  * **they became mine** - This means that he married then and they became his wives. AT: "they became my wives" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -64,6 +67,6 @@
   * [[:en:bible:questions:comprehension:ezk:23]]
 **[[:en:bible:notes:ezk:22:30|<<]] | [[:en:bible:notes:ezk:23:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -20,7 +20,6 @@
 <usfm>
 \v 13 Those who despise good advice bring the punishment for disobeying upon themselves;
 \q2 the one who pays attention to the instruction will receive honor.
-\b
 \q1
 \v 14 The lesson taught by the wise are like a fountain that gives life to all who drink from it,
 \q2 and they inform you about all the deadly dangers around you.
@@ -57,9 +56,9 @@
 ===== translationNotes: =====
 
 
-  * **the one who honors the command will be rewarded** - AT: "They will reward the one who honors the command" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **fountain of life** - See how you translated this in [[:en:bible:notes:pro:10:10|10:11]].
-  * **snares of death** - "traps that lead to death"
+  * **the one who honors the command will be rewarded** - This can be stated in active form. AT: "they will reward the one who honors the command" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **fountain of life** - A fountain is a good source of water and here represents a source of life. AT: "a bountiful source of life" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **snares of death** - Here "snares" represent dangers that will kill. AT: "traps that lead to death" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
  
 ===== Links: =====
@@ -75,6 +74,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

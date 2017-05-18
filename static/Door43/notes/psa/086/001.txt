@@ -28,9 +28,8 @@
 
 <usfm>
 \c 86
-\p
+\m
 \d A prayer of David.
-\b
 \q
 \v 1 Listen, Yahweh, and answer me,
 \q for I am poor and oppressed.
@@ -52,7 +51,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **poor and oppressed** - "weak and needy" (UDB)
   * **save your servant** - David refers to himself as "your servant," that is, God's servant. AT: "save me, your servant" (See: [[:en:ta:vol2:translate:figs_123person]])
@@ -63,6 +62,6 @@
   * [[:en:bible:questions:comprehension:psa:086]]
 **[[:en:bible:notes:psa:085:012|<<]] | [[:en:bible:notes:psa:086:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3}}
+~~DISCUSSION~~{{tag>publish p2pass book3}}
 
 ~~NOCACHE~~

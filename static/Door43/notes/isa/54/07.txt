@@ -28,7 +28,6 @@
 \q1 But I will act mercifully toward you
 \q2 and I will faithfully love you forever.
 \q2 That is what I, Yahweh, your rescuer, say to you.
-\b
 
 
 \q1
@@ -41,7 +40,7 @@
 \q1
 \v 7 "For a short time I abandoned you, but with great compassion I will gather you.
 \q1
-\v 8 In a flood of anger I hid my face from you momentarily; 
+\v 8 In a flood of anger I hid my face from you momentarily;
 \q1 but with everlasting covenant faithfulness I will have mercy on you—
 \q1 says Yahweh, the one who rescues you.
 </usfm>
@@ -61,8 +60,10 @@
 
   * **General Information:** - Yahweh continues speaking to the people of Jerusalem.
 
-  * **I hid my face from you** - God abandoned his people and let them suffer. AT: "I abandoned you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **covenant faithfulness** - See how you translated this in [[:en:bible:notes:isa:16:05|16:5]].
+  * **In a flood of anger** - Yahweh being very angry is spoken of as if his anger were a flood that overwhelms people. AT: "When I was very angry" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I hid my face from you** - Here "hid my face" is an idiom that means God abandoned his people and let them suffer. AT: "I abandoned you" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **but with everlasting covenant faithfulness** - The abstract noun "faithfulness" can be stated as "faithful." AT: "but because I always am faithful to my covenant with you" or "but because I am always faithful to do what I promise to do" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **says Yahweh, the one who rescues you** - Here Yahweh speaks about himself in the third person. It can be stated in first person. AT: "that is what I, Yahweh, your rescuer, say to you" (UDB) (See: [[:en:ta:vol2:translate:figs_123person]])
 
 ===== Links: =====
 
@@ -71,6 +72,6 @@
   * [[:en:bible:questions:comprehension:isa:54]]
 **[[:en:bible:notes:isa:54:05|<<]] | [[:en:bible:notes:isa:54:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

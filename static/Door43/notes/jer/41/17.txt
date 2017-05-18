@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 Then they went and stayed for a while in Geruth Chimham, which is near Bethlehem. They were going to go to Egypt
+\v 17 Then they went and stayed for a while in Geruth Kimham, which is near Bethlehem. They were going to go to Egypt
 \v 18 because of the Chaldeans. They were afraid of them since Ishmael son of Nethaniah had killed Gedaliah son of Ahikam, whom the king of Babylon had put in charge of the land.
 </usfm>
 
@@ -37,9 +37,10 @@
 ===== translationNotes: =====
 
 
+  * **they went** - "Johanan, his companions, and all the people they rescued went"
   * **Geruth Chimham** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **because of the Chaldeans** - AT: "because they thought the Chaldeans may attack them" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **in charge of the land** - AT: "in charge of the land of Judah"
+  * **because of the Chaldeans** - It is implied that they were afraid that the Chaldeans would attack them. AT: "because they thought the Chaldeans may attack them" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **in charge of the land** - Here "land" represents the people. AT: "in charge of the people of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
  
  
 ===== Links: =====
@@ -55,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

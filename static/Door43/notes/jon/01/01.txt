@@ -14,7 +14,7 @@
 <usfm>
 \v 1 One day Yahweh said to the prophet Jonah son of Amittai,
 \v 2 "I have seen how wicked the people are who live in the great city of Nineveh. Therefore go there and warn the people that I am planning to destroy their city because of their sins."
-\v 3 But instead of going to Nineveh, Jonah went in the direction of the city of Tarshish, to get away from Yahweh. He went down to the city of Joppa. There he paid the money to travel on a ship that was going to the city of Tarshish, and he got on. 
+\v 3 But instead of going to Nineveh, Jonah went in the direction of the city of Tarshish, to get away from Yahweh. He went down to the city of Joppa. There he paid the money to travel on a ship that was going to the city of Tarshish, and he got on.
 
 \p
 </usfm>
@@ -32,6 +32,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:wordofgod]]
+  * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:jonah]]
   * [[:en:obe:other:nineveh]]
   * [[:en:obe:kt:evil]]
@@ -40,15 +41,16 @@
 
 ===== translationNotes: =====
 
-  * **the word of Yahweh came** - "Yahweh spoke his word" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the note on the translationWords page concerning how to translate this.
+  * **the word of Yahweh came** - This is an idiom that means Yahweh spoke. "Yahweh spoke his message" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the word of Yahweh** - Here "word" represents Yahweh's message. AT: "the message of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the translationWord page about Yahweh concerning how to translate this.
   * **Amittai** - This is the name of Jonah's father. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Get up and go to Nineveh, that great city** - "Go to the important city of Nineveh"
   * **Get up and go** - This is a common expression for traveling to distant places. (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **speak out against it** - "warn the people" (UDB). God is  referring to the people of the city. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **their wickedness has risen up before me** - "I know they have been continually sinning"
-  * **got up to run away from the presence of Yahweh** - "ran away from Yahweh". "got up" is referring to Jonah leaving where he was. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **the presence of Yahweh** - Jonah was trying to flee from Yahweh. (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **got up to run away from the presence of Yahweh** - "ran away from Yahweh." "got up" is referring to Jonah leaving where he was. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the presence of Yahweh** - Jonah was trying to flee from Yahweh. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **and go to Tarshish** - "and went to Tarshish." Tarshish was in the opposite direction to Nineveh. This can be made explicit. AT: "and went in the opposite direction, toward Tarshish" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **He went down to Joppa** - "Jonah went to Joppa"
   * **ship** - A "ship" is a very large type of boat that can travel on the sea and carry many passengers or heavy cargo.
@@ -63,4 +65,4 @@
   * [[:en:bible:questions:comprehension:jon:01]]
 **| [[:en:bible:notes:jon:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check jonah nineveh tarshish joppa}}
+~~DISCUSSION~~{{tag>publish p2pass jonah nineveh tarshish joppa}}

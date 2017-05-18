@@ -21,7 +21,7 @@
 \v 9 If a wise person has any conflict with a foolish person,
 \q2 the foolish person screams at him and then laughs at him, and it never ends.
 \q1
-\v 10 A murderer hates him who does everything right; 
+\v 10 A murderer hates him who does everything right;
 \q2 and they seek to kill the one who has a good reputation.
 
 
@@ -33,10 +33,10 @@
 
 <usfm>
 \q
-\v 9 When a wise person has an argument with a fool, 
+\v 9 When a wise person has an argument with a fool,
 \q he rages and laughs, and there will be no rest.
 \q
-\v 10 The bloodthirsty hate the one who is blameless 
+\v 10 The bloodthirsty hate the one who is blameless
 \q and seek the life of the upright.
 </usfm>
 
@@ -48,12 +48,15 @@
   * [[:en:obe:kt:rest]]
   * [[:en:obe:kt:blameless]] 
   * [[:en:obe:kt:life]] 
+  * [[:en:obe:kt:upright]]
 
 ===== translationNotes: =====
 
+  * **has an argument with** - Another possible meaning is "goes to court against."
+  * **he rages and laughs** - The fool becomes very angry and tries to keep the wise person from speaking or the court judge from judging.
   * **rages** - This means to be loud and excited and to move with powerful movements like a strong storm. This is a negative word.
-  * **there will be no rest** - AT: "the disagreement will not be resolved"
-  * **the upright** - See how you translated this in [[:en:bible:notes:pro:03:31|3:32]].
+  * **there will be no rest** - "they will not be able to settle the problem"
+  * **seek the life of** - This idiom means to "want to kill." (See: [[:en:ta:vol1:translate:figs_idiom]])
  
 ===== Links: =====
 
@@ -62,6 +65,6 @@
   * [[:en:bible:questions:comprehension:pro:29]]
 **[[:en:bible:notes:pro:29:07|<<]] | [[:en:bible:notes:pro:29:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass p2example upright}}
 
 ~~NOCACHE~~

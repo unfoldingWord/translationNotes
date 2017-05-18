@@ -19,7 +19,6 @@
 <usfm>
 \v 4 Help your king to defend the poor people
 \q2 and to rescue needy people and to defeat those who oppress them.
-\b
 \q1
 \v 5 I desire that your king may live as long as the sun shines,
 \q2 as long as the moon shines, forever.
@@ -44,6 +43,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:judge]]
   * [[:en:obe:kt:save]]
   * [[:en:obe:kt:children]]
   * [[:en:obe:kt:oppress]]
@@ -54,9 +54,9 @@
 ===== translationNotes: =====
 
 
-  * **he ... he** - The one who will "judge" ([[:en:bible:notes:psa:072:001|72:2]]).
+  * **he ... he** - These refer to the one who will "judge" ([[:en:bible:notes:psa:072:001|72:2]]).
   * **break in pieces the oppressor** - "destroy completely the one who oppresses them"  (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **while the sun endures, and as long as the moon lasts** - The sun and the moon are metonyms for the day and the night, which together are a merism for all time. "forever, and without ending" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_merism]])
+  * **while the sun endures, and as long as the moon lasts** - The sun and the moon are metonyms for the day and the night, which together are a merism for all time. AT: "forever, and without ending" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_merism]])
  
 ===== Links: =====
 
@@ -71,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book2}}
+{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

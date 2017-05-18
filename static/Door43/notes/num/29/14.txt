@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 With each of the thirteen bulls, bring a flour offering of 5.7 liters of finely-ground flour mixed with olive oil. With each of the male sheep, bring 3.8 liters.
+\v 14 With each of the thirteen bulls, bring a flour offering of five and three-quarter liters of finely-ground flour mixed with olive oil. With each of the male sheep, bring three and four-fifth liters.
 \v 15 With each of the fourteen lambs, bring two liters.
 \v 16 Also bring one male goat to be sacrificed to remove the guilt of your sins, in addition to the offerings of animals and flour and wine that are completely burned on the altar each day.
 
@@ -37,13 +37,12 @@
 
 ===== translationNotes: =====
 
-  * **mixed with oil** - This can be stated in active form. "which you have mixed with oil" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **mixed with oil** - This can be stated in active form. AT: "which you have mixed with oil" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **three tenths of an ephah** - "Three tenths" means three parts out of ten equal parts. This can be written in modern measurements. AT:  "six liters" or "three tenths of an ephah (which is about six liters)" (See: [[:en:ta:vol2:translate:translate_fraction]] and [[:en:ta:vol2:translate:translate_bvolume]])
   * **thirteen bulls ... fourteen lambs** - "13 bulls ... 14 lambs" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **two tenths** - The words "of an ephah" are missing and may be added. "Two tenths" means two parts out of ten equal parts. This can be written in modern measurements. AT:  "four and a half liters" or "two tenths of an ephah (which is about 4.5 liters)" (See: [[:en:ta:vol2:translate:figs_ellipsis]], [[:en:ta:vol2:translate:translate_fraction]], and [[:en:ta:vol2:translate:translate_bvolume]])
+  * **two tenths** - The words "of an ephah" are missing and may be added. "Two tenths" means two parts out of ten equal parts. This can be written in modern measurements. AT:  "four and a half liters" or "two tenths of an ephah (which is about 4.5 liters)" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:translate_fraction]] and [[:en:ta:vol2:translate:translate_bvolume]])
   * **a tenth of an ephah** - "A tenth" means one part out of ten equal parts. This can be written in modern measurements. AT:  "2 liters" or "a tenth of an ephah (which is about 2 liters)" (See: [[:en:ta:vol2:translate:translate_fraction]] and [[:en:ta:vol2:translate:translate_bvolume]])
   * **its grain offering, and the drink offering with it** - The grain offering and drink offering accompany the regular burnt offering.
-
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -51,6 +50,6 @@
   * [[:en:bible:questions:comprehension:num:29]]
 **[[:en:bible:notes:num:29:12|<<]] | [[:en:bible:notes:num:29:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

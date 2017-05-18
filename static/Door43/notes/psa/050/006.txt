@@ -18,7 +18,7 @@
 \q2 "God is righteous,
 \q2 and he is the supreme judge."
 
-\b
+
 
 
 \q1
@@ -29,7 +29,7 @@
 <usfm>
 \q
 \v 6 The heavens will declare his righteousness,
-\q for God himself is judge. 
+\q for God himself is judge.
 \qs Selah\qs*
 </usfm>
 
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:psa:050]]
 **[[:en:bible:notes:psa:050:003|<<]] | [[:en:bible:notes:psa:050:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book2}}
+~~DISCUSSION~~{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 Those who are wise will shine like the brightness of the sky above, and those who turn many to righteousness, are like the stars forever and ever. 
+\v 3 Those who are wise will shine like the brightness of the sky above, and those who turn many to righteousness, are like the stars forever and ever.
 \v 4 But you, Daniel, close up these words; keep the book sealed until the time of the end. Many will run here and there, and knowledge will increase."
 </usfm>
 
@@ -40,11 +40,12 @@
 
 ===== translationNotes: =====
 
-  * **will shine like the brightness of the sky above** - AT: "will be bright like the sky is when the sun is shining" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **who turn many to righteousness** - AT: "who teach others to live righteously"
-  * **are like the stars forever and ever** - AT: "will shine brightly like the stars forever and ever" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Those who are wise will shine like the brightness of the sky above** - This refers to God's people who will share their wisdom with those around them. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **those who turn many to righteousness** - This refers to those who help others understand that they are separated from God, as if they were changing the direction in which they were going. AT: "those who teach others to live righteously" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **those who turn ... are like the stars forever and ever** - These people are compared to the stars that shine. AT: "those who turn ... will shine brightly like the stars forever and ever" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **close up these words; keep the book sealed** - Here "words" represents the book. AT: "close this book and keep it sealed" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **time of the end** - "the final days" or "the end of the world." See how you translated this in [[:en:bible:notes:dan:08:15|8:17]].
-  * **Many will run here and there, and knowledge will increase** - This appears to happen during the time the book is sealed. This can be made explicit. AT: "Before that happens, many people will travel here and there, learning more and more about many things" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Many will run here and there, and knowledge will increase** - This seems to happen before "the time of the end" during which time the book is sealed. This can be made explicit. AT: "Before that happens, many people will travel here and there, learning more and more about many things" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:dan:00:intro]]
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:dan:12]]
 **[[:en:bible:notes:dan:12:01|<<]] | [[:en:bible:notes:dan:12:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

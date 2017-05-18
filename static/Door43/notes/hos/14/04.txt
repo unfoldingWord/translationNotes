@@ -44,7 +44,6 @@
 ===== ULB: =====
 
 <usfm>
-\p
 \q
 \v 4 "I will heal their turning away;
 \q I will love them freely,
@@ -86,6 +85,6 @@
   * [[:en:bible:questions:comprehension:hos:14]]
 **[[:en:bible:notes:hos:14:03|<<]] | [[:en:bible:notes:hos:14:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

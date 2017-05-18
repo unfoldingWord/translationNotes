@@ -25,6 +25,7 @@
 \v 7 Some day all the people in Moab will weep.
 \q2 They will all mourn,
 \q1 because there will be no more raisin cakes in the city of Kir Hareseth.
+\q2 But more than the cakes, they mourn for the people who lived there, who were all killed.
 
 
 \q1
@@ -33,13 +34,12 @@
 ===== ULB: =====
 
 <usfm>
-\p
+\m
 \q1
 \v 6 We have heard of Moab's pride, his arrogance,
 \q1 his boasting, and his anger. But his boastings are empty words.
 \q1
-\v 7 So Moab wails for Moab, everyone wails. 
-\q1 You mourn for the raisin cakes of Kir Hareseth that was completely devastated.
+\v 7 So Moab wails for Moab—they all wail! Mourn, you who are utterly destroyed, for the raisin cakes of Kir Hareseth.
 </usfm>
 
 ===== translationWords: =====
@@ -54,11 +54,14 @@
 
   * **General Information:** - This continues the prophecy about the people of Moab. God describes events that will happen in the future as if it is happening in the present. (See: [[:en:bible:notes:isa:15:01|15:1-2]])
 
-  * **We have heard of Moab's pride, his arrogance, his boasting, and his anger** - "We" refers to Isaiah and includes the people of Judah. And the words "Moab's" and "his" refer to the people of Moab. AT: "We have heard that the people of Moab are proud and arrogant, and they boast and are full of rage" (See: [[:en:ta:vol2:translate:figs_inclusive]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **his boastings are empty words** - "but what they say about themselves means nothing"
-  * **So Moab wails for Moab, everyone wails** - "Moab" stands for the people of Moab. "So all the people of Moab will cry out loud over what has happened to their cities" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **You mourn for the raisin cakes of Kir Hareseth that was completely devastated** - "You will mourn because Kir Hareseth is ruined and you can no longer go there to buy cakes made from raisins." Here "you" refers to the people of Moab. And, "Kir Hareseth" is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **raisin cakes** - This rare word in Hebrew is translated in different ways by some modern versions, as "men" or "farmers."
+  * **We have heard of Moab's pride, his arrogance, his boasting, and his anger** - The words "Moab's" and "his" refer to the people of Moab. AT: "We have heard that the people of Moab are proud and arrogant, boastful and angry" (See:  [[:en:ta:vol2:translate:figs_metonymy]])
+  * **We have heard** - Possible meanings are that 1) Isaiah is speaking and "We" refers to him and the people of Judah, or 2) God is speaking and "We" refers to God.
+  * **But his boastings are empty words** - "But what they say about themselves means nothing" or "But what they boast about is not true"
+  * **So Moab wails for Moab—they all wail** - "Moab" represents the people of Moab. "So all the people of Moab will cry out loud over what has happened to their cities" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **for the raisin cakes of Kir Hareseth** - "because there are no raisin cakes in Kir Hareseth" 
+  * **raisin cakes** - The Hebrew word used here means either "raisin cakes" or "men." 
+  * **Kir Hareseth** - "Kir Hareseth" is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
+
 
 ===== Links: =====
 
@@ -67,6 +70,6 @@
   * [[:en:bible:questions:comprehension:isa:16]]
 **[[:en:bible:notes:isa:16:05|<<]] | [[:en:bible:notes:isa:16:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

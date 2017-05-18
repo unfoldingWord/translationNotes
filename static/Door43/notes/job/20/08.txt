@@ -51,12 +51,10 @@
   * **General Information:** - Zophar continues speaking to Job.
 
   * **He will** - "The wicked person will"
-  * **fly away like a dream ... like a vision of the night** - Both statements mean the same thing. Zophar is explaining that the wicked person will completely disappear and people will not remember him. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **and will not be found** - "and no one will be able to find him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **he will be chased away** - "he will disappear"
-  * **The eye that saw** - "The people who saw" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **his place** - "his family" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-
+  * **He will fly away like a dream ... he will be chased away like a vision of the night** - Here "fly away" and "be chased away" represent disappearing. They may also imply being forgotten, since dreams and visions disappear when people forget them. AT: "He will disappear like a dream ... he will be forgotten like a vision of the night" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **and will not be found** - This can be stated in active form. AT: "and no one will find him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The eye that saw him** - The eye represents a person. AT: "Anyone who had seen him" or "The people who has seen him" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **his place** - The phrase "his place" represents those who lived in his place. AT: "the people who live in his place" or "his family" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
 ===== Links: =====
 
   * [[:en:bible:notes:job:00:intro]]
@@ -64,6 +62,6 @@
   * [[:en:bible:questions:comprehension:job:20]]
 **[[:en:bible:notes:job:20:06|<<]] | [[:en:bible:notes:job:20:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

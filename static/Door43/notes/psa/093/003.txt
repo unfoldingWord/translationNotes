@@ -22,7 +22,7 @@
 \v 4 but you are greater than the roar of those oceans,
 \q2 more powerful than the ocean waves!
 \q2 You are Yahweh, the one who is greater than any other god!
-\b
+
 
 
 \q1
@@ -49,7 +49,7 @@
 
 ===== translationNotes: =====
 
-  * **oceans ... oceans'** - Some versions read "floods ... floods'." The word often refer to a river (see "the River," [[:en:bible:notes:psa:072:008|72:8]]), but "oceans ... oceans'" has been chosen here because oceans, not rivers, have "waves" that "crash and roar."
+  * **oceans ... oceans'** - Some versions read "floods ... floods'." The word often refers to a river (see "the River," [[:en:bible:notes:psa:072:008|72:8]]), but "oceans ... oceans'" has been chosen here because oceans, not rivers, have "waves" that "crash and roar."
   * **have lifted up their voice; the oceans' waves crash and roar** - The psalmist speaks of the ocean as if it were a person who could speak. AT: "have made a mighty noise because their waves crash and roar" (See: [[:en:ta:vol2:translate:figs_personification]])
   * **roar** - make a long, loud sound.
   * **Above the crashing of many waves, the mighty breakers of the sea** - The phrase "the mighty breakers of the sea" means basically the same thing as "many waves" and emphasizes how great these waves are. AT: "Above the crashing of all of the very great waves of the sea" (See: [[:en:ta:vol2:translate:figs_doublet]])
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:093]]
 **[[:en:bible:notes:psa:093:001|<<]] | [[:en:bible:notes:psa:093:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

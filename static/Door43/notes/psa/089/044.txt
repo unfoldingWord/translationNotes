@@ -16,13 +16,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 44 You have caused his splendor to end 
+\v 44 You have caused his splendor to end
 \q2 and knocked his throne to the ground.
 \q1
 \v 45 You have caused him to become old when he is still young
 \q2 and caused him to be very shamed.
 
-\b
+
 
 
 \q1
@@ -36,7 +36,7 @@
 \q you have brought down his throne to the ground.
 \q
 \v 45 You have shortened the days of his youth.
-\q You have covered him with shame. 
+\q You have covered him with shame.
 \qs Selah\qs*
 </usfm>
 
@@ -60,6 +60,6 @@
   * [[:en:bible:questions:comprehension:psa:089]]
 **[[:en:bible:notes:psa:089:041|<<]] | [[:en:bible:notes:psa:089:046|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book3 splendor}}
+~~DISCUSSION~~{{tag>publish p2pass book3 splendor}}
 
 ~~NOCACHE~~

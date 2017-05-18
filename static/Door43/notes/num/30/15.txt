@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 And if her husband tries to cancel his wife's vow a long time after he has heard about it, then he will be responsible for her sin."
+\v 15 If her husband tries to cancel his wife's vow a long time after he has heard about it, then he will be responsible for her sin."
 \v 16 These are the statutes that Yahweh commanded Moses to announce—statutes for what is between a man and his wife and between a father and his daughter when she is in her youth in her father's family.
 </usfm>
 
@@ -32,7 +32,7 @@
 
 ===== translationNotes: =====
 
-  * **then he will be responsible for her sin** - This means that he will be guilty of her sin instead of her if she does not fulfill her vow. AT: "if she does not fulfill her vow, she will not be guilty of her sin, rather he will be guilty instead of her" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **then he will be responsible for her sin** - This means that he will be guilty of her sin instead of her if she does not fulfill her vow. The full meaning of this statement can be made clear. AT: "if she does not fulfill her vow, she will not be guilty of her sin, and he will be guilty instead of her" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:num:00:intro]]
@@ -40,6 +40,6 @@
   * [[:en:bible:questions:comprehension:num:30]]
 **[[:en:bible:notes:num:30:13|<<]] | [[:en:bible:notes:num:31:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

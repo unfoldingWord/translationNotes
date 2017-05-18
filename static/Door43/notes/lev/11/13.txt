@@ -22,7 +22,7 @@
 
 <usfm>
 \p
-\v 13 The birds you must detest and that you must not eat are these: the eagle, the vulture, 
+\v 13 The birds you must detest and that you must not eat are these: the eagle, the vulture,
 \v 14 the kite, any kind of falcon,
 \v 15 every kind of raven,
 \v 16 the horned owl and the screech owl, the seagull, and any kind of hawk.
@@ -44,6 +44,6 @@
   * [[:en:bible:questions:comprehension:lev:11]]
 **[[:en:bible:notes:lev:11:11|<<]] | [[:en:bible:notes:lev:11:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check eagle}}
+~~DISCUSSION~~{{tag>publish p2pass eagle}}
 
 ~~NOCACHE~~

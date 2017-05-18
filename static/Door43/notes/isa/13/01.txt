@@ -30,7 +30,6 @@
 \v 3 Yahweh says, "I have commanded those who are set apart to do this work for me—
 \q2 I have summoned the warriors whom I have chosen to punish the people of Babylon because I am very angry with them,
 \q2 and those soldiers will be very proud when they do that."
-\b
 
 
 \q1
@@ -43,11 +42,11 @@
 \p
 \v 1 A declaration about Babylon, that Isaiah son of Amoz received:
 \q1
-\v 2 On the bare mountain set up a signal flag, cry aloud to them, 
+\v 2 On the bare mountain set up a signal flag, cry aloud to them,
 \q1 wave your hand for them to go into the gates of
 the nobles.
 \q1
-\v 3 I have commanded my holy ones, 
+\v 3 I have commanded my holy ones,
 \q1 yes, I have called my mighty men to execute my anger, even my proudly exulting ones.
 </usfm>
 
@@ -68,12 +67,13 @@ the nobles.
 ===== translationNotes: =====
 
   * **about Babylon** - The name of the city stands for the people of Babylon. AT: "about the people of Babylon" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **son of Amoz** - See how you translated this in [[:en:bible:notes:isa:01:01|1:1]].
-  * **signal flag** - See how you translated this in [[:en:bible:notes:isa:05:26|5:26]].
-  * **into the gates of the nobles** - "into the gates of Babylon where the noble people live"
-  * **my holy ones** - AT: "the army that I have set apart for myself"
-  * **I have called my mighty men to execute my anger, even my proudly exulting ones** - "I have called my mighty soldiers, who rejoice when I am honored, to punish the people of Babylon because they have made me angry"
-
+  * **Amoz** - Amoz was the father of Isaiah. See how you translated this in [[:en:bible:notes:isa:01:01|1:1]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **cry aloud to them** - The word "them" refers to soldiers from another country. 
+  * **the gates of the nobles** - Possible meanings are 1) "the gates of Babylon where the nobles live" or 2) "the gates of the nobles' large houses" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the nobles** - "the respected people" or "the rulers"
+  * **my holy ones** - "the ones I have set apart for myself" or "the army that I have set apart for myself"
+  * **I have called my mighty men to execute my anger** - Executing God's anger represents punishing people because of God's anger. AT: "I have called my mighty soldiers to punish the people of Babylon because they have made me angry" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **even my proudly exulting ones** - "even those who proudly exult." Why they proudly exult can be stated clearly. AT: "even my people who proudly exult because of the great things I do" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -81,6 +81,6 @@ the nobles.
   * [[:en:bible:questions:comprehension:isa:13]]
 **[[:en:bible:notes:isa:12:05|<<]] | [[:en:bible:notes:isa:13:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit exult}}
+~~DISCUSSION~~{{tag>publish p2pass exult}}
 
 ~~NOCACHE~~

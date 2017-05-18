@@ -22,7 +22,6 @@
 \q1
 \v 7 I am an honest man, so I would be able to discuss things with him fairly,
 \q2 and then he would declare that I am innocent, and he would not trouble me again.
-\b
 
 
 \q1
@@ -51,11 +50,11 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Job continues speaking.
+  * **Connecting Statement:** - Job continues speaking.
 
-  * **Would he** - AT: "Would God"
+  * **Would he** - "Would God"
   * **There** - This refers to the place where God is.
-  * **I would be acquitted forever by my judge** - AT: "my judge would acquit me forever" or "God, who is my judge, would say that I am innocent once and for all" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I would be acquitted forever by my judge** - This can be stated in active form. AT: "my judge would acquit me forever" or "God, who is my judge, would say that I am innocent once and for all" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
  
 ===== Links: =====
@@ -65,6 +64,6 @@
   * [[:en:bible:questions:comprehension:job:23]]
 **[[:en:bible:notes:job:23:03|<<]] | [[:en:bible:notes:job:23:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

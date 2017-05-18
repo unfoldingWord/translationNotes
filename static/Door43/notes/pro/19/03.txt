@@ -19,12 +19,10 @@
 
 <usfm>
 \v 3 The folly of a fool destroys his life,
-\q2 but he becomes furious with Yahweh for his troubles. 
+\q2 but he becomes furious with Yahweh for his troubles.
 \q1
-\v 4 Those who are wealthy easily find many friends, 
-but a poor person will find that his poverty separates him from the one friend he had. 
-
-\b
+\v 4 Those who are wealthy easily find many friends,
+but a poor person will find that his poverty separates him from the one friend he had.
 
 
 \q1
@@ -53,9 +51,10 @@ but a poor person will find that his poverty separates him from the one friend h
   * [[:en:obe:kt:yahweh]] 
 ===== translationNotes: =====
  
- 
-  * **his heart rages** - "he rages" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
- 
+  * **his heart rages** - Here a person is referred to by his "heart" to emphasize his emotions. AT: "he rages" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Wealth adds many friends** - This means that a person who is wealthy will have many friends because wealth attracts people. The full meaning of this can be made clear. AT: "Those who are wealthy easily find many friends" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **a poor person is separated from his friends** - A poor person is separated from many of his friends because of his poverty. The meaning of this can be made explicit. AT: "poverty causes a person to lose his friends" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -66,6 +65,6 @@ but a poor person will find that his poverty separates him from the one friend h
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit rage}}
+{{tag>publish p2pass rage}}
 
 ~~NOCACHE~~

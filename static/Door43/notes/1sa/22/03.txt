@@ -31,7 +31,7 @@
 
 <usfm>
 \p
-\v 3 Then David went from there to Mizpeh in Moab. He said to the king of Moab, "Please let my father and my mother go out with you until I know what God will do for me."
+\v 3 Then David went from there to Mizpah in Moab. He said to the king of Moab, "Please let my father and my mother go out with you until I know what God will do for me."
 \f + \ft Some ancient versions have, \fqa Please let my father and my mother stay with you, \fqb and some modern versions read this way. \f*
 \v 4 He left them with the king of Moab. His father and mother stayed with him the whole time that David was in his stronghold.
 \v 5 Then the prophet Gad said to David, "Do not stay in your stronghold. Leave and go into the land of Judah." So David left there and went into the forest of Hereth.
@@ -52,7 +52,8 @@
 
 ===== translationNotes: =====
 
-  * **Then David went from there** - "David went from the cave at Adullam"
+  * **Then David went from there** - "Then David went from the cave at Adullam"
+  * **Mizpah** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
   * **go out with you** - David wanted his parents to live with the king of Moab so that King Saul would not be able to harm them. Translators can express his basic meaning by using the ideas of "come to stay with you," "stay with you," or "live here with you," as in the UDB.
   * **go into the land of Judah** - "go to your home land of Judah"
   * **Hereth** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]]) 
@@ -71,6 +72,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

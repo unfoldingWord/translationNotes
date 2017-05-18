@@ -26,7 +26,7 @@
 \q2
 \v 3 accompanied by musicians playing harps that have ten strings
 \q2 and by the sounds made by a lyre.
-\b
+
 
 
 \q1
@@ -36,9 +36,8 @@
 
 <usfm>
 \c 92
-\p
+\m
 \d A psalm, a song for the Sabbath day.
-\b
 \q
 \v 1 It is a good thing to give thanks to Yahweh
 \q and to sing praises to your name, Most High,
@@ -46,7 +45,7 @@
 \v 2 to proclaim your covenant faithfulness in the morning
 \q and your truthfulness every night,
 \q
-\v 3 with a harp of ten strings 
+\v 3 with a harp of ten strings
 \q and with the melody of the lyre.
 </usfm>
 
@@ -66,7 +65,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **to sing praises to your name** - The words "your name" are a metonym for "you." AT: "to sing praises to you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **proclaim your covenant faithfulness** - The abstract noun "faithfulness" can be translated with the adjective "faithful." AT: "tell people that you are faithful to keep your covenant"  (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
@@ -79,6 +78,6 @@
   * [[:en:bible:questions:comprehension:psa:092]]
 **[[:en:bible:notes:psa:091:014|<<]] | [[:en:bible:notes:psa:092:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book4}}
+~~DISCUSSION~~{{tag>publish p2pass book4}}
 
 ~~NOCACHE~~

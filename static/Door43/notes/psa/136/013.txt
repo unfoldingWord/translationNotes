@@ -26,7 +26,7 @@
 \q1
 \v 15 But he caused the king of Egypt and his army to drown in it;
 \q2 he will love us forever as he has promised.
-\b
+
 
 
 \q1
@@ -54,9 +54,10 @@
 
 ===== translationNotes: =====
 
+  * **the Sea of Reeds** - The soldiers of Pharaoh drowned in the Sea of Reeds.
   * **overthrew Pharaoh** - Here defeat is spoken of as if it were tipping someone over. AT: "defeated Pharaoh" or "defeated the king of Egypt" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Pharaoh** - That is, the army of Pharaoh (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **in the Sea of Reeds** - The soldiers of Pharaoh drowned in the Sea of Reeds.
+  * **Pharaoh** - That is, the army of Pharaoh. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -64,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:136]]
 **[[:en:bible:notes:psa:136:010|<<]] | [[:en:bible:notes:psa:136:016|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book5}}
+~~DISCUSSION~~{{tag>publish p2pass book5}}
 
 ~~NOCACHE~~

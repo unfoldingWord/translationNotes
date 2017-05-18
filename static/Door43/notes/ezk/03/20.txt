@@ -24,7 +24,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 20 And if a righteous man turns from his righteousness and acts unjustly, and I set a stumbling block before him, he will die. Because you did not warn him, he will die in his sin, and I will not call to mind the righteous deeds that he performed, but I will require his blood from your hand.
+\v 20 If a righteous man turns from his righteousness and acts unjustly, and I set a stumbling block before him, he will die. Because you did not warn him, he will die in his sin, and I will not call to mind the righteous deeds that he performed, but I will require his blood from your hand.
 \v 21 But if you warn the righteous man to stop sinning so that he no longer sins, he will surely live since he was warned; and you will have rescued your own life."
 </usfm>
 
@@ -40,9 +40,10 @@
 ===== translationNotes: =====
 
   * **set a stumbling block before him** - Possible meanings are 1) "make something bad happen to him" (UDB) or 2) "cause him to sin openly." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **he will die in his sin** - "he will die as a sinner" or "he will die as someone guilty of disobedience"
-  * **I will require his blood from your hand** - See how you translated this in [[:en:bible:notes:ezk:03:16|3:18]].
-  * **since he was warned** - "since you warned him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he will die in his sin** - "he will die as a sinner" or "he will die as a guilty person because he has disobeyed me"
+  * **I will require his blood from your hand** - This is an idiom for holding someone responsible or guilty of murder. Translate as in [[:en:bible:notes:ezk:03:16|3:18]]. AT: "I will treat you as if you had murdered him" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **since he was warned** - This can be translated in active form. AT: "since you warned him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:ezk:00:intro]]
@@ -50,6 +51,6 @@
   * [[:en:bible:questions:comprehension:ezk:03]]
 **[[:en:bible:notes:ezk:03:16|<<]] | [[:en:bible:notes:ezk:03:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

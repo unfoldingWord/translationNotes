@@ -14,8 +14,7 @@
 
 <usfm>
 \v 6 Because he accidentally killed someone, and because the man was not his enemy, he can try to run to one of those cities. If there were only one city, it may be a long distance to that city. Then if the relative of the man who was killed to get revenge, is very angry, he may be able to catch the other person before he arrives at that city.
-\v 7 Therefore, I give you this command, that you select three cities for this purpose. 
-
+\v 7 Therefore, I give you this command, that you select three cities for this purpose.
 
 \p
 </usfm>
@@ -24,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 Otherwise the blood avenger might go after the one who took a life, and in hot anger he overtakes him because it was a long journey. And he strikes him and kills him, though that man did not deserve to die; and so he does not deserve the death penalty since he did not hate his neighbor before this happened.
+\v 6 Otherwise the avenger of blood might go after the one who took a life, and in the heat of his anger overtake him, if the distance is too great, strike him and kill him, even though that man did not deserve to die, since he had not hated his neighbor in the past.
 \v 7 Therefore I command you to select three cities for yourself.
 </usfm>
 
@@ -39,11 +38,11 @@
 
   * **General Information:** - Moses is still speaking to the people of Israel.
 
-  * **the blood avenger** - Here "blood" represents the person who was killed. A "blood avenger" is a close relative of the person who was killed. This relative is responsible for punishing the murderer. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the avenger of blood** - Here "blood" represents the person who was killed. An "avenger of blood" is a close relative of the person who was killed. This relative is responsible for punishing the murderer. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **the one who took a life** - This is an idiom. AT: "the one who killed the other person" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **in hot anger** - Someone being very angry is spoken of as if anger were something that could become hot. AT: "and being very angry" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **And he strikes him** - "And the blood avenger strikes the one who killed the other person"
-  * **though that man did not deserve to die; and so he does not deserve the death penalty since he did not hate his neighbor before this happened** - though that man did not deserve to die since he accidentally killed the other person and was not his enemy"
+  * **in the heat of his anger** - Someone being very angry is spoken of as if anger were something that could become hot. AT: "and being very angry" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **strike him and kill him** - "And the blood avenger strikes and kills the one who had killed the other person"
+  * **though that man did not deserve to die, since he had not hated his neighbor in the past** - "though that man did not deserve to die since he accidentally killed the other person and was not his enemy, and he had not planned to hurt the man"
 ===== Links: =====
 
   * [[:en:bible:notes:deu:00:intro]]
@@ -51,6 +50,6 @@
   * [[:en:bible:questions:comprehension:deu:19]]
 **[[:en:bible:notes:deu:19:04|<<]] | [[:en:bible:notes:deu:19:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

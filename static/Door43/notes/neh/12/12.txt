@@ -20,7 +20,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 12 Joiakim was the leader of all the priests. There were the leaders of the families of priests:
+\v 12 When Joiakim was the leader of all the priests, these were the leaders of the families of priests:
 \li1 Meraiah, of the family of Seraiah,
 \li1 Hananiah, of the family of Jeremiah,
 \li1
@@ -29,7 +29,7 @@
 \li1
 \v 14 Jonathan, of the family of Malluch,
 \li1 Joseph, of the family of Shecaniah.
-
+ 
 
 \li1
 </usfm>
@@ -50,10 +50,11 @@
 
   * [[:en:obe:kt:priest]]
   * [[:en:obe:other:ezra]]
+
 ===== translationNotes: =====
 
-  * **In the days of Joiakim these were the priests, the leaders of the families: Meraiah was the leader of Seraiah ... Joseph was the leader of Shebaniah** - This means there was a representative relative for each family.
-  * **Joiakim ... Meraiah ... Seraiah, Hananiah ... Jeremiah, Meshullam ... Ezra, Jehohanan ... Amariah ... Jonathan ... Malluch ... Joseph ... Shebaniah** - These are male names. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **Joiakim ... Meraiah ... Hananiah ... Meshullam ... Jehohanan ... Jonathan ... Joseph** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Seraiah ... Jeremiah ... Ezra ... Amariah ... Malluch ... Shebaniah** - These are names of families named after men. (See: [[:en:ta:vol1:translate:translate_names]]) 
 
 ===== Links: =====
 
@@ -65,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

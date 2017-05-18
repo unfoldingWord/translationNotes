@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 But seventy men from Bethshemesh looked into Yahweh's sacred chest, and because of that, Yahweh caused them to die. Then the people mourned very much because Yahweh punished those men like that.
+\v 19 But some men from Bethshemesh looked into Yahweh's sacred chest, and because of that, Yahweh caused 50,070 of them to die. Then the people mourned very much because Yahweh punished those men like that.
 \v 20 They said, "Who can stand before Yahweh, our holy God? Where can we send away this sacred chest?"
 
 
@@ -25,8 +25,10 @@
 
 <usfm>
 \p
-\v 19 Yahweh attacked some of the men of Beth Shemesh because they had looked into his ark. He killed seventy men. The people mourned, because Yahweh had given the people a great blow.
-\v 20 The men of Beth Shemesh said, "Who is able to stand before Yahweh, this holy God? And to whom will he go up from us?"
+\v 19 Yahweh attacked some of the men of Beth Shemesh because they had looked into the ark of Yahweh. He killed 50,070 men. The people mourned, because Yahweh had given the people a great blow.
+\f + \ft Instead of \fqa 50,070 men \fqa* , some later copies and modern versions have, \fqa seventy men. \fqa* \f*   
+
+\v 20 The men of Beth Shemesh said, "Who is able to stand before Yahweh, this holy God? To whom will the ark go up from us?"
 </usfm>
 
 
@@ -38,10 +40,10 @@
  
 ===== translationNotes: =====
 
-  * **they had looked into his ark** - Only the priests, who were descendants of Aaron, were permitted to look into the ark and only at certain times of the year.
-  * **He killed seventy men** - "He killed 70 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **Who is able to stand before Yahweh, this holy God?** - Possible meanings are 1) This is a rhetorical question, "There is no one who can resist Yahweh because he is so holy" or "Because Yahweh is holy, no one is good enough to stand in his presence," or 2) this is an information question to which they were seeking an answer, "We need to find someone to serve as a priest to Yahweh; who among us is qualified?" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **to whom will he go up from us?** - This is an information question to which the people were seeking an answer. Possible meanings are 1) "to whom will Yahweh go up from us?" or 2) "to whom will the ark go up from us?"
+  * **they had looked into the ark** - The ark was so holy that no one was permitted to look inside it. Only the priests were allowed to even see the ark.
+  * **50,070 men** - "fifty thousand seventy men" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Who is able to stand before Yahweh, this holy God?** - Possible meanings are 1) this is a rhetorical question that expresses the people's fear of Yahweh. AT: "There is no one who can resist Yahweh because he is so holy!" or 2) this is a question asking for information. The phrase "stand before Yahweh" may refer to priests who serve Yahweh. It is implied that the people were looking for a priest whom Yahweh would permit to handle the ark. AT: "Is there a priest among us who serves this holy God, Yahweh, and is able to handle this ark?" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **To whom will the ark go up from us?** - This is a question asking for information. It is implied that the people want Yahweh and the ark to go somewhere else so he will not punish them again. AT: "Where can we send this ark so that Yahweh will not punish us again?" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -56,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check p2example}}
+{{tag>publish p2pass p2example}}
 
 ~~NOCACHE~~

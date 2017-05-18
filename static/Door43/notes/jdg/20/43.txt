@@ -17,7 +17,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 43 They surrounded the Benjaminites and went after them. And they trampled them down at Nohah and killed them all the way to the east side of Gibeah.
+\v 43 They surrounded the Benjamites, chased them and trampled them down at Nohah, all the way to the east side of Gibeah.
 \v 44 From the tribe of Benjamin, eighteen thousand people died, all of them men who were distinguished in battle.
 </usfm>
 
@@ -29,8 +29,7 @@
 ===== translationNotes: =====
 
   * **Nohah** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **they trampled them down** - The completed destruction of the Benjamites is spoken of as if the Israelites stomped on their bodies. AT: "they completely destroyed them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **killed them** - "were killing them while they were running"
+  * **and trampled them down** - The completed destruction of the Benjamites is spoken of as if the Israelites stomped on their bodies. AT: "they completely destroyed them" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **eighteen thousand** - "18,000" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **were distinguished in battle** - "had fought bravely in the battle"
 ===== Links: =====
@@ -40,6 +39,6 @@
   * [[:en:bible:questions:comprehension:jdg:20]]
 **[[:en:bible:notes:jdg:20:42|<<]] | [[:en:bible:notes:jdg:20:45|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

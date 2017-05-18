@@ -24,9 +24,11 @@
 ===== ULB: =====
 
 <usfm>
+\p
+\v 25 As for you, profane and wicked ruler of Israel, whose day of punishment has come, and whose time of committing iniquity has ended,
 \q
-\v 25 And you, profane and wicked ruler of Israel whose day of punishment has come, whose time of committing iniquity has ended,
-\v 26 The Lord Yahweh says this: Remove the turban and take off the crown! Things will no longer be the same! Exalt the lowly and humble the exalted!
+\v 26 the Lord Yahweh says this to you: Remove the turban and take off the crown! Things will no longer be the same! Exalt the lowly and humble the exalted!
+\q
 \v 27 I will make everything a ruin! A ruin! A ruin! The crown will exist no longer, not until the one comes who has a right to it. Then I will give it to him.
 </usfm>
 
@@ -48,10 +50,12 @@
 
   * **General Information:** - Yahweh gives Ezekiel his message to the ruler of Israel.
  
-  * **whose day of punishment has come** - This phrase means "whom Yahweh will now punish." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **whose day of punishment has come** - This is an idiom.  AT: "whom Yahweh will now punish" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **whose time of committing iniquity has ended** - "at the time when Yahweh ends iniquity"
-  * **turban** - a beautiful piece of cloth that kings wore on their heads as a symbol of their authority
-  * **humble the exalted** - "and make the exalted lowly"
+  * **the turban** - "the king's turban." A turban is a beautiful piece of cloth that kings wore wrapped on their heads as a symbol of their authority.
+  * **the lowly ... the exalted** - This refers to people with low status and people who are exalted. AT: "those who are lowly ... those who are exalted" or "those with low status ... those with high status" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **The crown will exist no longer ... Then I will give it to him** - Here the "crown" represents the position of king. AT: "There will no longer be a king ... Then I will make him the king" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 
 ===== Links: =====
 
@@ -60,4 +64,4 @@
   * [[:en:bible:questions:comprehension:ezk:21]]
 **[[:en:bible:notes:ezk:21:24|<<]] | [[:en:bible:notes:ezk:21:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}

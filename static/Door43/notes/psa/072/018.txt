@@ -26,7 +26,6 @@
 \v 19 Praise him forever!
 \q2 I desire that his glory may fill the whole world!
 \q2 Amen! May it be so!
-\b
 \q1
 \v 20 This is the end of the prayers written by David, son of Jesse.
 </usfm>
@@ -42,7 +41,6 @@
 \v 19 May his glorious name be blessed forever,
 \q and may the whole earth be filled with his glory.
 \q Amen and Amen.
-\b
 \q
 \v 20 The prayers of David son of Jesse are finished.
 </usfm>
@@ -67,9 +65,9 @@
 
   * **May Yahweh God, the God of Israel, be blessed** - This can be stated in active form. AT: "May people bless Yahweh God, the God of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
   * **May his glorious name be blessed forever** - This can be stated in active form. AT: "May people bless his glorious name forever" or, treating "name" as a metonym for Yahweh himself, "May people forever know how glorious he is" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **his glorious name be** - "he, who is glorious, be"
+  * **his glorious name be blessed** - "he, who is glorious, be blessed"
   * **may the whole earth be filled with his glory** - This can be stated in active form. AT: "may his glory fill the whole earth" or "may he fill the whole earth with his glory" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Amen and Amen** - The word "Amen" is repeated to emphasize approval of what has been said. AT: "May it certainly be so." See how you translated this in [[:en:bible:notes:psa:041:013|41:13]].
+  * **Amen and Amen** - The word "Amen" is repeated to emphasize approval of what has been said. See how you translated this in [[:en:bible:notes:psa:041:013|41:13]]. AT: "May it certainly be so"
   * **The prayers of David son of Jesse are finished** - This can be stated in active form. AT: "David, the son of Jesse has finished his prayers" or "This is the last prayer of the David the son of Jesse" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
@@ -85,6 +83,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2check book2}}
+{{tag>publish p2pass book2}}
 
 ~~NOCACHE~~

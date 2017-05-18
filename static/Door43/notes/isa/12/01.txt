@@ -32,7 +32,6 @@
 \q1 Yahweh our God, you enable us to be strong;
 \q2 you are the one about whom we sing;
 \q2 you have rescued us from our enemies."
-\b
 
 
 \q1
@@ -43,11 +42,11 @@
 <usfm>
 \c 12
 \p
-\v 1 On that day you will say, 
-\q1 "I will give thanks to you, Yahweh. For though you were angry with me, your wrath  
+\v 1 On that day you will say,
+\q1 "I will give thanks to you, Yahweh. For though you were angry with me, your wrath 
 has turned away, and you have comforted me.
 \q1
-\v 2 See, God is my salvation; I will trust and will not fear, 
+\v 2 See, God is my salvation; I will trust and will not fear,
 \q1 for Yahweh, yes, Yahweh is my strength and song. He has become my salvation."
 </usfm>
 
@@ -64,12 +63,14 @@ has turned away, and you have comforted me.
 
 ===== translationNotes: =====
 
-  * **General Information:** - Here Isaiah continues to describe what it will be like when the Branch of Jesse comes. (See: [[:en:bible:notes:isa:11:01|11:1-2]])
+  * **General Information:** - Here Isaiah continues to describe what it will be like when the king that God has chosen rules. (See: [[:en:bible:notes:isa:11:01|11:1-2]])
 
-  * **On that day** - "On the day when God saves his people and brings them home" 
-  * **you will say** - The word "you" refers to the people of Israel, but Isaiah includes himself as part of Israel. AT: "we will say"
-  * **I will give thanks to you, Yahweh. For though you were angry with me, your wrath has turned away, and you have comforted me** - The word "I" refers to the people of Israel, including Isaiah. AT: "We praise and thank you, Yahweh. Now your anger is gone and you comfort us" 
- 
+  * **On that day** - It can be stated clearly what time is being referred to. AT: "At that time" or "When the king rules" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **your wrath has turned away** - God's wrath is spoken of as if it were a person that could turn away and leave. It means that God has stopped being angry. AT: "You are no longer angry with me" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **God is my salvation** - God causing someone's salvation is spoken of as if God were that salvation. The abstract noun "salvation" can be expressed with the noun "savior" or the verb "save". AT: "God causes my salvation" or "God is my savior" or "God is the one who saves me" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Yahweh is my strength** - God causing someone to be strong is spoken of as if Yahweh were their strength. AT: "Yahweh makes me strong" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and song** - The word "song" here represents what a person sings about. AT: "and the one I joyfully sing about" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He has become my salvation** - "He has saved me"
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -79,7 +80,7 @@ has turned away, and you have comforted me.
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~
 

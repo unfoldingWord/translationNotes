@@ -55,12 +55,15 @@
 
 ===== translationNotes: =====
 
-  * **For my life is weary with sorrow** - Here "my life" refers to the writer. AT: "I have become very weak because I am sorrowful" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **For my life is weary** - Here "my life" refers to the writer. AT: "I have become very weak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **with sorrow ... with groaning** - "because of my sorrow ... because of my groaning"
   * **my years with groaning** - The phrase "is weary" is missing, but is implied. AT: "my years are weary with groaning" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **My strength fails** - Here "My strength" refers to the writer. AT: "I have become weak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **my bones are wasting away** - Here "my bones" refers to the physical health of the writer. AT: "my health is failing" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **people disdain me** - "people insult me"
   * **are appalled at my situation** - "are shocked at my condition"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -68,6 +71,6 @@
   * [[:en:bible:questions:comprehension:psa:031]]
 **[[:en:bible:notes:psa:031:008|<<]] | [[:en:bible:notes:psa:031:012|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check book1}}
+~~DISCUSSION~~{{tag>publish p2pass book1}}
 
 ~~NOCACHE~~

@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 16 Next to him, Nehemiah son of Azbuk, who ruled half of the district of Beth Zur, repaired the wall as far as the tombs in the city of David, to the pool that was man-made, and to the House of the Heroes. 
+\v 16 Next to him, Nehemiah son of Azbuk, who ruled half of the district of Beth Zur, repaired the wall as far as the tombs in the city of David, to the pool that was man-made, and to the House of the Heroes.
 \p
 \v 17 Next to him, several descendants of Levi who helped the priests repaired parts of the wall. Rehum son of Bani repaired one section. Hashabiah, who ruled half of the district of Keilah, repaired the next section on behalf of the people of his district.
 </usfm>
@@ -39,16 +39,14 @@
  
 ===== translationNotes: =====
 
-  * **Nehemiah** - A different Nehemiah from the person who authored this book
+  * **Nehemiah ... Azbuk ... Rehum ... Bani ... Hashabiah** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Nehemiah son of Azbuk, the ruler** - Nehemiah was the ruler, not Azbuk.
+  * **Nehemiah** - This is a different man named Nehemiah from the person who authored this book.
   * **ruler** - "chief administrator" or "leader" 
-  * **Nehemiah ... Azbuk ... David ... Rehum ... Bani ... Hashabiah** - These are names of males. (See: [[:en:ta:vol1:translate:translate_names]]) 
+  * **half the district** - "Half" means one part out of two equal parts. (See: [[:en:ta:vol2:translate:translate_fraction]])
   * **Beth Zur ... Keilah** - These are names of places. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **repaired to the place** - "repaired the wall up to the place" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **tombs of David** - "the tombs of David's royal house"
-  * **the house of the mighty men** - This may refer to the barracks where David housed his best troops.
+  * **repaired to the place ... Levites repaired** - These phrases refer to repairing the wall. AT: "repaired the wall up to the place ... Levites repaired the wall" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **mighty men** - "warriors"
-  * **After him** - "Just beyond him" or "In the next area"
-  * **the Levites repaired, including Rehum** - "the Levites repaired the wall. Among them was Rehum"
   * **for his district** - "representing his district" or "on behalf of his district"
  
 ===== Links: =====
@@ -64,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

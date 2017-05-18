@@ -45,7 +45,7 @@
 \q
 \v 18 God keeps man's life back from the pit,
 \q his life from crossing over to death.
-\b
+\m
 </usfm>
 
 
@@ -61,8 +61,12 @@
 
   * **General Information:** - Elihu continue speaking to Job.
 
-  * **then God opens the ears of men** - AT: "then God reveals things to people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **God keeps man's life back from the pit, his life from crossing over to death** - Both of these statements mean the same thing. AT: "God saves people from the grave and from death" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **then God opens the ears of men** - This speaks of God making people aware of things as if he were opening their ears so that they could hear. AT: "then God reveals things to people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in order to pull man back from** - This speaks of God keeps someone from doing something as if he were physically pulling him away from harm. AT: "in order to keep him from" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **God keeps man's life back from the pit ... his life from crossing over to death** - Both of these statements mean the same thing. AT: "God saves people from the grave and from death" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the pit** - The place where people go when they die is referred to here as "the pit." AT: "the place where dead people are" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **man's life back ... his life** - This is an idiom. AT: "man from dying and ... he keeps him" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **from crossing over to death** - Here "death" represents the place where people go when they die, that is, Sheol. AT: "from going to Sheol" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
  
 
@@ -73,6 +77,6 @@
   * [[:en:bible:questions:comprehension:job:33]]
 **[[:en:bible:notes:job:33:13|<<]] | [[:en:bible:notes:job:33:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit pit}}
+~~DISCUSSION~~{{tag>publish p2check pit}}
 
 ~~NOCACHE~~

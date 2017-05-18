@@ -16,8 +16,7 @@
 <usfm>
 \v 9 Then Abishai said to the king, "Your Majesty, this man is as worthless as a dead dog! Why should he be allowed to curse you? Allow me to go over there and cut off his head!"
 \p
-\v 10 But the king replied, "You two sons of Zeruiah, I want nothing to do with you. If he is cursing me because Yahweh told him to do so, then no one should ask him, 'Why are you cursing the king?'" 
-
+\v 10 But the king replied, "You two sons of Zeruiah, I want nothing to do with you. If he is cursing me because Yahweh told him to do so, then no one should ask him, 'Why are you cursing the king?'"
 
 \p
 </usfm>
@@ -36,18 +35,19 @@
 
   * [[:en:obe:kt:death]]
   * [[:en:obe:kt:curse]]
-  * [[:en:obe:kt:lord|master]]
+  * [[:en:obe:kt:lord]]
   * [[:en:obe:other:king]]
   * [[:en:obe:other:david]]
  
 ===== translationNotes: =====
 
-  * **Abishai ... Zeruiah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Why should this dead dog curse my master the king?** - Abishai asked this question to express his anger at the man. This rhetorical question can be translated as a statement. AT: "This worthless man must not speak to the king this way." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
-  * **this dead dog** - Here the man is being compared to a dog. AT: "this worthless man" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **What have I to do with you, sons of Zeruiah?** - This rhetorical question is asked to correct the sons of Zeruiah. It can be translated as a statement. AT: "I want nothing to do with you." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **Abishai** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:02:18|2:18]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Zeruiah** - Translate this man's name the same as you did in [[:en:bible:notes:2sa:02:12|2:13]]. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Why should this dead dog curse my master the king?** - Abishai asked this question to express his anger at the man. This rhetorical question can be translated as a statement. AT: "This dead dog must not speak to the king this way." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **this dead dog** - Here the man is being described as worthless by being compared to a dead dog. AT: "this worthless man" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **What have I to do with you, sons of Zeruiah?** - This rhetorical question is asked to correct the sons of Zeruiah. It can be translated as a statement. AT: "I do not want to know what you think!" (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
   * **Perhaps he is cursing me because** - "He may be cursing me because"
-  * **could** - "can" 
+  * **Who then could say to him, 'Why are you cursing the king?** - This is said as a rhetorical question to emphasize that the answer is "no one." This can be written as a statement. AT: "No one then can ask him, 'Why are you cursing the king?'" (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
  
  
 ===== Links: =====
@@ -55,14 +55,11 @@
   * [[:en:bible:notes:2sa:00:intro]]
   * [[:en:bible:notes:2sa:16:00]]
   * [[:en:bible:questions:comprehension:2sa:16]]
-
- 
-
 **[[:en:bible:notes:2sa:16:07|<<]] | [[:en:bible:notes:2sa:16:11|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass}}
 
 ~~NOCACHE~~

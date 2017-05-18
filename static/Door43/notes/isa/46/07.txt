@@ -22,7 +22,6 @@
 \q1 It cannot move!
 \q1 And when someone prays to it, it does not answer.
 \q2 So obviously it cannot rescue anyone from his troubles!
-\b
 
 
 \q1
@@ -32,7 +31,7 @@
 
 <usfm>
 \q1
-\v 7 They lift it on their shoulder and carry it; they set it in its place, and it stands in its place and does not move from it. 
+\v 7 They lift it on their shoulder and carry it; they set it in its place, and it stands in its place and does not move from it.
 \q1 They cry out to it, but it cannot answer nor save anyone from his trouble.
 </usfm>
 
@@ -42,7 +41,8 @@
 
 ===== translationNotes: =====
 
-  * **They lift it** - "They" refers to the people who worship idols and "it" refers to the idol that they have created.
+  * **They lift it** - "They" refers to the people who make idols and "it" refers to the idol that they have created.
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:isa:46]]
 **[[:en:bible:notes:isa:46:05|<<]] | [[:en:bible:notes:isa:46:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~

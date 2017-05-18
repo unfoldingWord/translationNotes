@@ -25,8 +25,7 @@
 \q2 God does not pity me at all.
 \q1
 \v 14 It is as though I were a wall that he is breaking through time after time;
-\q2 he rushes at me like a soldier who is attacking his enemy. 
-\b
+\q2 he rushes at me like a soldier who is attacking his enemy.
 
 
 \q1
@@ -55,9 +54,10 @@
 
 ===== translationNotes: =====
 
-  * **pierces my kidneys ... pours out my bile** - These are parts of Job's body that he mentions to describe himself. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **smashes through my wall** - Job's "wall" means his defenses in his speeches to protect himself. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **like a warrior** - Job describes God as a soldier that attacks Job. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **His archers surround me all around** - Job speaks of himself being the focus of God's attacks as if God has set him up as a target and God had arches surrounding him to attach him. AT: "It is as though his archers have me surrounded" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **God pierces my kidneys and does not spare me; he pours out my bile on the ground** - Job speaks of the pain he is feeling by comparing it to God piercing his body with arrow. Here "God" represents the arrows that he shoots. AT: "It feels like God's arrows have pierced my kidneys and my liver, spilling my bile on the ground. He does not spare me" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **smashes through my wall** - Job speaks of the pain that he feels by comparing himself to a wall that God smashes through. AT: "I feel like a wall that God smashes through" or "I feel like a wall that God breaks through" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he runs upon me like a warrior** - Job describes God as a soldier that attacks him. AT: "it is like he is a warrior who runs at me to attack me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -66,6 +66,6 @@
   * [[:en:bible:questions:comprehension:job:16]]
 **[[:en:bible:notes:job:16:11|<<]] | [[:en:bible:notes:job:16:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit archer pierce}}
+~~DISCUSSION~~{{tag>publish p2check archer pierce}}
 
 ~~NOCACHE~~

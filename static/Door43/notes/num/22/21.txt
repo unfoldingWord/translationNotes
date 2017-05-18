@@ -29,7 +29,9 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:balaam]]
   * [[:en:obe:other:donkey]]
+  * [[:en:obe:other:moab]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:other:angry]]
   * [[:en:obe:kt:angel]]
@@ -43,7 +45,7 @@
   * **God's anger was kindled** - The increase in God's anger is spoken of as if it was a fire starting to burn. This can be stated in active form. AT: "God became very angry" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **as someone hostile to Balaam** - "as an enemy to Balaam" or "in order to stop Balaam"
   * **with his drawn sword** - A sword is drawn from its sheath in order to be ready to use. AT: "with his sword ready to attack" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **The donkey turned off the road and went into a field** - This donkey did this to avoid the angel of Yahweh.
+  * **The donkey turned off the road and went into a field** - The donkey did this to avoid the angel of Yahweh.
   * **to turn her back** - Sometimes animals are referred to as "her" or "she." AT: "to turn it back"
 ===== Links: =====
 
@@ -52,6 +54,6 @@
   * [[:en:bible:questions:comprehension:num:22]]
 **[[:en:bible:notes:num:22:18|<<]] | [[:en:bible:notes:num:22:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2pass}}
 
 ~~NOCACHE~~
