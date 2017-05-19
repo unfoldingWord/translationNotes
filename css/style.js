@@ -83,9 +83,9 @@ var style = {
   },
   linkActive: {
     fontWeight: 'bold',
-    color: '#FFFFFF',
+    display: 'flex',
+    justifyContent: 'flex-end',
     margin: '10px 20px',
-    textAlign: 'right',
     cursor: 'pointer'
   },
   linkInactive: {
@@ -95,12 +95,31 @@ var style = {
     textAlign: 'right',
     cursor: 'default'
   },
-  title: {
-    textAlign: 'center',
+  checkInfo: {
+    flex: '0 0 100px',
+    display: 'flex',
+    margin: '0 10px',
+    color: 'var(--reverse-color)',
+    backgroundColor: 'var(--accent-color-dark)',
+    boxShadow: '0 3px 10px var(--background-color)',
+    borderRadius: '2px',
+  },
+  leftSide: {
+    flex: 1,
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
     fontSize: '16px',
     fontWeight: 'bold',
-    color: '#ffffff',
-    margin: '20px'
+    padding: '0 20px',
+    textAlign: 'center',
+  },
+  rightSide: {
+    flex: 2,
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'space-between',
+    borderLeft: '1px solid var(--reverse-color)',
   },
 }
 
