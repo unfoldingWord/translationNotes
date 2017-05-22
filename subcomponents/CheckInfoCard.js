@@ -13,10 +13,12 @@ class CheckInfoCard extends React.Component {
       return (
         <div style={styles.checkInfo}>
           <div style={styles.leftSide}>
-            {this.props.title}
+              <div style={styles.title}>
+                  {this.props.title}
+              </div>
           </div>
           <div style={styles.rightSide}>
-            <div style={{margin: '20px 20px 0'}}>
+            <div style={styles.phrase}>
               {phraseInfo}
             </div>
             <div onClick={this.props.showHelps ? null : this.props.openHelps}
