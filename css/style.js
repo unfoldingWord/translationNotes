@@ -85,18 +85,18 @@ var style = {
     fontWeight: 'bold',
     display: 'flex',
     justifyContent: 'flex-end',
-    margin: '10px 20px',
+    margin: '5px 20px',
     cursor: 'pointer'
   },
   linkInactive: {
     fontWeight: 'bold',
     color: 'var(--accent-color-dark)',
-    margin: '10px 20px',
+    margin: '5px 20px',
     textAlign: 'right',
     cursor: 'default'
   },
   checkInfo: {
-    flex: '0 0 100px',
+    flex: '0 0 120px',
     display: 'flex',
     margin: '0 10px',
     color: 'var(--reverse-color)',
@@ -109,18 +109,29 @@ var style = {
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    fontSize: '16px',
-    fontWeight: 'bold',
-    padding: '0 20px',
-    textAlign: 'center',
   },
   rightSide: {
     flex: 2,
     display: 'flex',
     flexDirection: 'column',
-    justifyContent: 'space-between',
+    justifyContent: 'center',
+    paddingTop: '10px',
     borderLeft: '1px solid var(--reverse-color)',
   },
+  title: {
+    maxHeight: '100px',
+    overflowY: 'auto',
+    padding: '0 20px',
+    fontSize: '16px',
+    fontWeight: 'bold',
+    textAlign: 'center',
+  },
+  phrase: {
+    maxHeight: '80px',
+    overflowY: 'auto',
+    padding: '0 20px',
+    textAlign: 'center',
+  }
 }
 
 module.exports = style;
