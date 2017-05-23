@@ -5,7 +5,7 @@ var style = {
     padding: '9px',
     minHeight: "390px",
     maxHeight: "390px",
-    backgroundColor: "#c4c4c4"
+    backgroundColor: "var(--border-color)"
   },
   targetVerseDisplayContent: {
     fontSize: "16px",
@@ -42,31 +42,31 @@ var style = {
     margin: '0 2.5px 5px 0'
   },
   currentWord:{
-    color: "#FFFFFF",
+    color: "var(--reverse-color)",
     padding: "0px",
     boxSizing: "border-box",
     fontSize: "20px"
   },
   tabStyling:{
     borderRadius: "0px",
-    backgroundColor: "#333333",
+    backgroundColor: "var(--background-color-dark)",
   },
   buttonsDivPanel:{
     width: "100%",
     height: "390px",
-    backgroundColor: "#747474",
+    backgroundColor: "var(--background-color)",
     boxSizing: "border-box",
   },
   buttonGlyphicons:{
-    color: "#FFFFFF",
+    color: "var(--reverse-color)",
     fontSize: "20px"
   },
   tHelpsOpen:{
     float: "left",
     marginTop: "50vh",
     zIndex: "999",
-    color: "#fff",
-    backgroundColor: "#000",
+    color: "var(--reverse-color)",
+    backgroundColor: "var(--text-color-dark)",
     padding: "10px 0px",
     marginLeft: "-15px",
     borderRadius: "5px 0px 0px 5px"
@@ -75,8 +75,8 @@ var style = {
     float: "right",
     marginTop: "50vh",
     zIndex: "999",
-    color: "#fff",
-    backgroundColor: "#000",
+    color: "var(--reverse-color)",
+    backgroundColor: "var(--text-color-dark",
     padding: "10px 0px",
     marginLeft: "-15px",
     borderRadius: "5px 0px 0px 5px"
