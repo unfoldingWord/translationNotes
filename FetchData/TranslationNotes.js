@@ -122,7 +122,12 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
           } else {
             continue;
           }
+          let index = filters.primary[type][currentCheck.chapter + ":" + currentCheck.verse].indexOf(currentCheck.phrase);
+          if (index > -1) {
+            filters.primary[type][currentCheck.chapter + ":" + currentCheck.verse].splice(index, 1); 
+          }
         }
+
           if (!checkObj[type]) checkObj[type] = [];
           checkObj[type].push({
             priority: 1,
@@ -181,7 +186,7 @@ function readFilters(bookName) {
         if (!primaryMatrix[category][chapterVerse]) {
           primaryMatrix[category][chapterVerse] = [];
         }
-        primaryMatrix[category][chapterVerse].push(line[4].replace("/<", ","));
+        primaryMatrix[category][chapterVerse].push(line[4].replace(/\/</g, ","));
       } else {
         if (!secondaryMatrix[category]) {
           secondaryMatrix[category] = {};
