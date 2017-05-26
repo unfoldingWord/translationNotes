@@ -1,85 +1,15 @@
 var style = {
-  translationHelpsContent: {
-    overflowY: "scroll",
-    minWidth: "100%",
-    padding: '9px',
-    minHeight: "390px",
-    maxHeight: "390px",
-    backgroundColor: "var(--border-color)"
-  },
-  targetVerseDisplayContent: {
-    fontSize: "16px",
-    overflowY: "scroll",
-    minHeight: '128px',
-    Width: '482px',
-    marginBottom: '5px',
-    padding: '9px'
-  },
-  checkStatusComponent: {
-    buttonGroup:{
-      padding: "0px",
-      width: "85px"
-    },
-    buttons:{
-      width:'100%',
-      borderRadius: "0px",
-      padding: "10px"
-    },
-    buttonPrevious: {
-      marginLeft: "-1px",
-      width:'100%',
-      borderRadius: "0px",
-      padding: "8px"
-    },
-    buttonNext:{
-      width:'100%',
-      borderRadius: "0px",
-      padding: "8px"
-    },
-  },
-  targetVerse:{
-    minHeight: '120px',
-    margin: '0 2.5px 5px 0'
-  },
-  currentWord:{
-    color: "var(--reverse-color)",
-    padding: "0px",
-    boxSizing: "border-box",
-    fontSize: "20px"
-  },
-  tabStyling:{
-    borderRadius: "0px",
-    backgroundColor: "var(--background-color-dark)",
-  },
-  buttonsDivPanel:{
-    width: "100%",
-    height: "390px",
-    backgroundColor: "var(--background-color)",
-    boxSizing: "border-box",
-  },
-  buttonGlyphicons:{
-    color: "var(--reverse-color)",
-    fontSize: "20px"
-  },
-  tHelpsOpen:{
-    float: "left",
-    marginTop: "50vh",
+  handleIcon:{
     zIndex: "999",
     color: "var(--reverse-color)",
     backgroundColor: "var(--text-color-dark)",
     padding: "10px 0px",
-    marginLeft: "-15px",
     borderRadius: "5px 0px 0px 5px"
   },
-  tHelpsClosed:{
-    float: "right",
-    marginTop: "50vh",
-    zIndex: "999",
-    color: "var(--reverse-color)",
-    backgroundColor: "var(--text-color-dark",
-    padding: "10px 0px",
-    marginLeft: "-15px",
-    borderRadius: "5px 0px 0px 5px"
+  handleIconDiv: {
+    flex: '0 0 15px',
+    display: 'flex',
+    alignItems: 'center',
   },
   linkActive: {
     fontWeight: 'bold',
@@ -132,6 +62,6 @@ var style = {
     padding: '0 20px',
     textAlign: 'center',
   }
-}
+};
 
 module.exports = style;
