@@ -1,12 +1,12 @@
 var style = {
-  icon:{
+  handleIcon:{
     zIndex: "999",
     color: "var(--reverse-color)",
     backgroundColor: "var(--text-color-dark)",
     padding: "10px 0px",
     borderRadius: "5px 0px 0px 5px"
   },
-  iconDiv: {
+  handleIconDiv: {
     flex: '0 0 15px',
     display: 'flex',
     alignItems: 'center',

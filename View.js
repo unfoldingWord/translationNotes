@@ -37,9 +37,9 @@ class View extends React.Component {
           />
         </div>
         <div style={{flex: this.props.showHelps ? '1 0 375px' : '0 0 30px', display: 'flex', justifyContent: 'flex-end', marginLeft: '-15px'}}>
-          <div style={style.iconDiv}>
+          <div style={style.handleIconDiv}>
             <Glyphicon glyph={this.props.showHelps ? "chevron-right" : "chevron-left"}
-                       style={style.icon}
+                       style={style.handleIcon}
                        onClick={this.props.toggleHelps} />
           </div>
           <div style={{ display: this.props.showHelps ? "flex" : "none", flex: '1 0 360px' }}>
