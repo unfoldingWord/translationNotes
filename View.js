@@ -3,7 +3,7 @@
  *  This class defines the entire view for translationNotes tool
  */
 import React from 'react'
-import { Row, Col, Tabs, Tab, Glyphicon } from 'react-bootstrap'
+import { Glyphicon } from 'react-bootstrap'
 import CheckInfoCard from './subcomponents/CheckInfoCard.js'
 import style from './css/style'
 
@@ -29,22 +29,22 @@ class View extends React.Component {
     }
     return (
       <div style={{display: 'flex', flex: 'auto'}}>
-        <div style={{flex: 3, display: "flex", flexDirection: "column"}}>
+        <div style={{flex: '2 1 1000px', display: "flex", flexDirection: "column"}}>
           {scripturePane}
           <CheckInfoCard phraseTitle={groupName} openHelps={this.props.toggleHelps} showHelps={this.props.showHelps} title={contextIdReducer.contextId.quote} file={contextIdReducer.contextId.information} />
           <VerseCheck
               {...this.props}
           />
         </div>
-        <div style={{flex: 1}}>
-          <div style={{height: "100vh"}}>
+        <div style={{flex: this.props.showHelps ? '1 0 375px' : '0 0 30px', display: 'flex', justifyContent: 'flex-end', marginLeft: '-15px'}}>
+          <div style={style.iconDiv}>
             <Glyphicon glyph={this.props.showHelps ? "chevron-right" : "chevron-left"}
-                       style={this.props.showHelps ? style.tHelpsOpen : style.tHelpsClosed}
+                       style={style.icon}
                        onClick={this.props.toggleHelps} />
-            <div style={{ display: this.props.showHelps ? "block" : "none", height: "100vh" }}>
-              <TranslationHelps currentFile={this.props.currentFile}
-                                online={this.props.statusBarReducer.online} />
-            </div>
+          </div>
+          <div style={{ display: this.props.showHelps ? "flex" : "none", flex: '1 0 360px' }}>
+            <TranslationHelps currentFile={this.props.currentFile}
+                              online={this.props.statusBarReducer.online} />
           </div>
         </div>
       </div>
