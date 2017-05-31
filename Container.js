@@ -20,16 +20,7 @@ class Container extends React.Component {
 
   currentFile(file, TranslationAcademyObject) {
     try{
-      let currentFile = TranslationAcademyObject[file].file;
-      let title = currentFile.match(/title: .*/);
-      if (title) {
-        title = ' ' + title[0].replace('title: ', '');
-      } else {
-        title = currentFile.match(/===== (.+) =====/g)[0].replace(/=/g, '');
-      }
-      currentFile = currentFile.replace(/---[\s\S]+---/g, '');
-      currentFile = '<h1>' + title + '</h1> \n' + currentFile;
-      return currentFile;
+      return TranslationAcademyObject[file].file;
     } catch (e) {
       return null;
     }
@@ -44,6 +35,7 @@ class Container extends React.Component {
       view = <View
         {...this.props}
         currentFile={currentFile}
+        dataList={sectionList}
         title = {contextId.groupId}
         showHelps={this.state.showHelps}
         toggleHelps={this.toggleHelps.bind(this)}
