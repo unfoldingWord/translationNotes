@@ -12,7 +12,7 @@ class View extends React.Component {
     //Modules not defined within translationNotes
     const { ScripturePane, VerseCheck, TranslationHelps } = this.props.modules;
     // set the scripturePane to empty to handle react/redux when it first renders without required data
-    let {contextIdReducer, groupsIndexReducer} = this.props;
+    let {contextIdReducer, groupsIndexReducer, dataList, currentFile} = this.props;
     let scripturePane = <div></div>
     // populate scripturePane so that when required data is preset that it renders as intended.
     if (this.props.modulesSettingsReducer.ScripturePane !== undefined) {
@@ -43,7 +43,8 @@ class View extends React.Component {
                        onClick={this.props.toggleHelps} />
           </div>
           <div style={{ display: this.props.showHelps ? "flex" : "none", flex: '1 0 360px' }}>
-            <TranslationHelps currentFile={this.props.currentFile}
+            <TranslationHelps currentFile={currentFile}
+                              dataList={dataList}
                               online={this.props.statusBarReducer.online} />
           </div>
         </div>
