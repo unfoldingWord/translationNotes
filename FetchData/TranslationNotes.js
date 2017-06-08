@@ -48,7 +48,7 @@ export default function fetchData(projectDetails, bibles, actions, progress, gro
       }
     }
     //assign gatewayLanguage into CheckStore
-    newStructure.title = api.convertToFullBookName(params.bookAbbr);
+    newStructure.title = convertToFullBookName(params.bookAbbr);
     //this is used to replace api.putDataInCommon
     addNewBible('ULB', newStructure);
     addNewBible('gatewayLanguage', newStructure);
