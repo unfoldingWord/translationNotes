@@ -3,6 +3,7 @@ const path = require('path');
 const HTMLScraper = require('../parsers/HTMLscraper');
 const Parser = require('../parsers/tNParser.js');
 const Door43DataFetcher = require('../parsers/Door43DataFetcher.js');
+const BooksOfBible = require('../utils/BooksOfBible');
 /**
 * Fetch data.
 * @param {Object} params - .
@@ -204,4 +205,14 @@ function readFilters(bookName) {
   } catch (err) {
     return null;
   }
+}
+
+/**
+* @description - Method to convert a book abbreviation to the full name
+* @param {string} bookAbbr - bible book name abbreviation.
+* @return {string} full book name string.
+*/
+function convertToFullBookName(bookAbbr) {
+  if (!bookAbbr) return;
+  return BooksOfBible[bookAbbr.toString().toLowerCase()];
 }
