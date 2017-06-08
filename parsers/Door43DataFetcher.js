@@ -15,7 +15,7 @@ const GITHUB_API_NOTES = "https://api.github.com/repositories/23808509/contents/
 	INVALID_BOOK_ABBREVIATION = "Invalid book abbreviation",
 	REQUEST_FAILURE = "HttpRequest failed";
 
-const AUTHENTICATION = window.ModuleApi.getAuthToken('git');
+const AUTHENTICATION = '';
 
 var suppress = true
 
