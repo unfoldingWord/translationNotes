@@ -8,11 +8,24 @@ import CheckInfoCard from './subcomponents/CheckInfoCard.js'
 import style from './css/style'
 
 class View extends React.Component {
+
+  componentWillMount() {
+    let articleId = this.props.contextIdReducer.contextId.groupId;
+    this.props.actions.loadResourceArticle('translationAcademy', articleId);
+  }
+
+  componentWillReceiveProps(nextProps) {
+    if (this.props.contextIdReducer !== nextProps.contextIdReducer) {
+      let articleId = nextProps.contextIdReducer.contextId.groupId;
+      nextProps.actions.loadResourceArticle('translationAcademy', articleId);
+    }
+  }
+
   render() {
     //Modules not defined within translationNotes
     const { ScripturePane, VerseCheck, TranslationHelps } = this.props.modules;
     // set the scripturePane to empty to handle react/redux when it first renders without required data
-    let {contextIdReducer, groupsIndexReducer, dataList, currentFile} = this.props;
+    let {contextIdReducer, groupsIndexReducer} = this.props;
     let scripturePane = <div></div>
     // populate scripturePane so that when required data is preset that it renders as intended.
     if (this.props.modulesSettingsReducer.ScripturePane !== undefined) {
@@ -27,14 +40,20 @@ class View extends React.Component {
     if (match && match[0]) {
       groupName = match[0].name;
     }
+
+    let { translationAcademy } = this.props.resourcesReducer.translationHelps
+    let articleId = groupId;
+    let currentFile;
+    if (translationAcademy && translationAcademy[articleId]) {
+      currentFile = this.props.resourcesReducer.translationHelps.translationAcademy[articleId];
+    }
+
     return (
       <div style={{display: 'flex', flex: 'auto'}}>
         <div style={{flex: '2 1 1000px', display: "flex", flexDirection: "column"}}>
           {scripturePane}
           <CheckInfoCard phraseTitle={groupName} openHelps={this.props.toggleHelps} showHelps={this.props.showHelps} title={contextIdReducer.contextId.quote} file={contextIdReducer.contextId.information} />
-          <VerseCheck
-              {...this.props}
-          />
+          <VerseCheck {...this.props} />
         </div>
         <div style={{flex: this.props.showHelps ? '1 0 375px' : '0 0 30px', display: 'flex', justifyContent: 'flex-end', marginLeft: '-15px'}}>
           <div style={style.handleIconDiv}>
@@ -43,9 +62,11 @@ class View extends React.Component {
                        onClick={this.props.toggleHelps} />
           </div>
           <div style={{ display: this.props.showHelps ? "flex" : "none", flex: '1 0 360px' }}>
-            <TranslationHelps currentFile={currentFile}
-                              dataList={dataList}
-                              online={this.props.statusBarReducer.online} />
+            <TranslationHelps
+              {...this.props}
+              currentFile={currentFile}
+              online={this.props.statusBarReducer.online}
+            />
           </div>
         </div>
       </div>
