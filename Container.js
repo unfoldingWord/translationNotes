@@ -17,7 +17,7 @@ class Container extends React.Component {
   }
 
   render() {
-    let view = <div />
+    let view = <div />;
     let { contextId } = this.props.contextIdReducer;
     if (contextId !== null) {
       view = <View

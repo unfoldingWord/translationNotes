@@ -25,12 +25,13 @@ class View extends React.Component {
     //Modules not defined within translationNotes
     const { ScripturePane, VerseCheck, TranslationHelps } = this.props.modules;
     // set the scripturePane to empty to handle react/redux when it first renders without required data
-    let {contextIdReducer, groupsIndexReducer} = this.props;
     let scripturePane = <div></div>
     // populate scripturePane so that when required data is preset that it renders as intended.
     if (this.props.modulesSettingsReducer.ScripturePane !== undefined) {
       scripturePane = <ScripturePane {...this.props} />
     }
+
+    let {contextIdReducer, groupsIndexReducer} = this.props;
     let groupId = contextIdReducer.contextId.groupId;
     let groups = groupsIndexReducer.groupsIndex;
     let match = groups.filter(function (item) {
