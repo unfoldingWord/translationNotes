@@ -16,6 +16,13 @@ class Container extends React.Component {
     this.setState({ showHelps: !this.state.showHelps });
   }
 
+  componentWillReceiveProps(nextProps) {
+    if (this.props.contextIdReducer && this.props.contextIdReducer !== nextProps.contextIdReducer) {
+      let articleId = nextProps.contextIdReducer.contextId.groupId;
+      nextProps.actions.loadResourceArticle('translationAcademy', articleId);
+    }
+  }
+
   render() {
     let view = <div />;
     let { contextId } = this.props.contextIdReducer;
