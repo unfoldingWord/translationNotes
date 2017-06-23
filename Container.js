@@ -12,8 +12,12 @@ class Container extends React.Component {
     };
   }
 
-  toggleHelps() {
-    this.setState({ showHelps: !this.state.showHelps });
+  componentWillMount() {
+    let {ScripturePane} = this.props.modulesSettingsReducer;
+    if (!ScripturePane) {
+      // initializing the ScripturePane settings if not found.
+      this.props.actions.setModuleSettings("ScripturePane", "currentPaneSettings", ["ulb-en"]);
+    }
   }
 
   componentWillReceiveProps(nextProps) {
@@ -21,6 +25,10 @@ class Container extends React.Component {
       let articleId = nextProps.contextIdReducer.contextId.groupId;
       nextProps.actions.loadResourceArticle('translationAcademy', articleId);
     }
+  }
+
+  toggleHelps() {
+    this.setState({ showHelps: !this.state.showHelps });
   }
 
   render() {
