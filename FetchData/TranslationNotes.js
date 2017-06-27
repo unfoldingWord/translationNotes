@@ -19,7 +19,7 @@ const BooksOfBible = require('../utils/BooksOfBible');
 export default function fetchData(projectDetails, bibles, actions, progress, groupsIndexLoaded, groupsDataLoaded) {
   return new Promise(function (resolve, reject) {
     const params = projectDetails.params;
-    const { addNewBible, setModuleSettings, addGroupData, setGroupsIndex, setProjectDetail } = actions;
+    const { addNewBible, setToolSettings, addGroupData, setGroupsIndex, setProjectDetail } = actions;
     setProjectDetail('bookName', convertToFullBookName(params.bookAbbr));
     /**
     * @description This fetches the data for translationHelps (TranslationAcademy
