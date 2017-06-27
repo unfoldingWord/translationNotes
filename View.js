@@ -54,7 +54,7 @@ class View extends React.Component {
             <TranslationHelps
               {...this.props}
               currentFile={currentFile}
-              online={this.props.statusBarReducer.online}
+              online={this.props.settingsReducer.online}
             />
           </div>
         </div>
