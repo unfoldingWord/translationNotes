@@ -32,12 +32,12 @@ export default function fetchData(projectDetails, bibles, actions, progress, scr
   return new Promise(function (resolve, reject) {
     const params = projectDetails.params;
     const tcManifest = projectDetails.manifest;
-    const { addNewBible, setModuleSettings } = actions;
+    const { addNewBible, setToolSettings } = actions;
     const { currentPaneSettings, staticPaneSettings } = getPaneSettings(tcManifest);
 
-    setModuleSettings(NAMESPACE, 'staticPaneSettings', staticPaneSettings);
+    setToolSettings(NAMESPACE, 'staticPaneSettings', staticPaneSettings);
     if (!scripturePaneSettings) {
-      setModuleSettings(NAMESPACE, 'currentPaneSettings', currentPaneSettings);
+      setToolSettings(NAMESPACE, 'currentPaneSettings', currentPaneSettings);
     } else {
       var oldCurrentPaneSettings = scripturePaneSettings.currentPaneSettings;
       var newCurrentPaneSettings = [];
@@ -50,7 +50,7 @@ export default function fetchData(projectDetails, bibles, actions, progress, scr
           newCurrentPaneSettings.push(match[0]);
         }
       });
-      setModuleSettings(NAMESPACE, 'currentPaneSettings', newCurrentPaneSettings);
+      setToolSettings(NAMESPACE, 'currentPaneSettings', newCurrentPaneSettings);
     }
     getTargetLanguage().then(() => {
       progress("scripturePane", 17);
