@@ -15,7 +15,7 @@ class Container extends React.Component {
     let {ScripturePane} = this.props.settingsReducer.toolsSettings;
     if (!ScripturePane) {
       // initializing the ScripturePane settings if not found.
-      this.props.actions.setToolSettings("ScripturePane", "currentPaneSettings", ["ulb-en"]);
+      this.props.actions.setToolSettings("ScripturePane", "currentPaneSettings", ["ulb"]);
     }
   }
 
