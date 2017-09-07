@@ -50,7 +50,7 @@ class View extends React.Component {
                        style={style.handleIcon}
                        onClick={this.props.toggleHelps} />
           </div>
-          <div style={{ display: this.props.showHelps ? "flex" : "none", flex: '1px' }}>
+          <div style={{ display: this.props.showHelps ? "flex" : "none", flex: '1' }}>
             <TranslationHelps
               {...this.props}
               currentFile={currentFile}
