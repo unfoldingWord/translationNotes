@@ -1,8 +1,8 @@
 /** @file CheckInfoCard.js
  * @description This component is a display component for the Check Info Cards.
  */
-import React from 'react'
-import styles from '../css/style.js'
+import React from 'react';
+import styles from '../css/style.js';
 
 class CheckInfoCard extends React.Component {
     render() {

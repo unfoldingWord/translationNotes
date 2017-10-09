@@ -43,7 +43,7 @@ var TNParser = function(book, bookAbbr, lang, progress) {
         let pieces = [];
         let pieceReg = new RegExp("\\*\\*([^*]+)\\*\\*\\s*-\\s*([^*]*)", "g");
         let temp;
-        while(temp = pieceReg.exec(verseText)) {
+        while((temp = pieceReg.exec(verseText))) {
           pieces.push({origText: temp[1], tNote: temp[2]});
         }
         let linkReg = new RegExp("\\[\\[:?\\w+:\\w+:(\\w+):\\w+:(\\w+)\\]\\]", "g");
@@ -101,11 +101,11 @@ var TNParser = function(book, bookAbbr, lang, progress) {
       progress(i++ / numChapters);
     }
     return bookData;
-}
+};
 // builds the link to the translationNotes markdown file
 // change this in the future if the link format changes
 var linkBuilder = function(vol, type) {
   return `https://git.door43.org/Door43/en-ta-translate-${vol}/src/master/content/${type}.md`;
-}
+};
 
 module.exports = TNParser;

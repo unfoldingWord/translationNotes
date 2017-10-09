@@ -2,10 +2,10 @@
  * @description:
  *  This class defines the entire view for translationNotes tool
  */
-import React from 'react'
-import { Glyphicon } from 'react-bootstrap'
-import CheckInfoCard from './subcomponents/CheckInfoCard.js'
-import style from './css/style'
+import React from 'react';
+import { Glyphicon } from 'react-bootstrap';
+import CheckInfoCard from './subcomponents/CheckInfoCard.js';
+import style from './css/style';
 
 class View extends React.Component {
 
@@ -13,10 +13,10 @@ class View extends React.Component {
     //Modules not defined within translationNotes
     const { ScripturePane, VerseCheck, TranslationHelps } = this.props.currentToolViews;
     // set the scripturePane to empty to handle react/redux when it first renders without required data
-    let scripturePane = <div></div>
+    let scripturePane = <div></div>;
     // populate scripturePane so that when required data is preset that it renders as intended.
     if (this.props.settingsReducer.toolsSettings.ScripturePane !== undefined) {
-      scripturePane = <ScripturePane {...this.props} />
+      scripturePane = <ScripturePane {...this.props} />;
     }
 
     let {contextIdReducer, groupsIndexReducer} = this.props;
@@ -30,7 +30,7 @@ class View extends React.Component {
       groupName = match[0].name;
     }
 
-    let { translationAcademy } = this.props.resourcesReducer.translationHelps
+    let { translationAcademy } = this.props.resourcesReducer.translationHelps;
     let articleId = groupId;
     let currentFile;
     if (translationAcademy && translationAcademy[articleId]) {

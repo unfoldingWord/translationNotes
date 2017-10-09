@@ -17,7 +17,7 @@ const GITHUB_API_NOTES = "https://api.github.com/repositories/23808509/contents/
 
 const AUTHENTICATION = '';
 
-var suppress = true
+var suppress = true;
 
 // ONLY USE getBook()
 class Door43DataFetcher {
@@ -33,7 +33,7 @@ class Door43DataFetcher {
 	 */
 	getBooks(url, callback = () => ({})) {
 		var _this = this;
-		var url = url || GITHUB_API_NOTES;
+		url = url || GITHUB_API_NOTES;
 		var request = new XMLHttpRequest();
 
 		/** Retrieves the bookAbbreviation and api link from
@@ -58,11 +58,11 @@ class Door43DataFetcher {
 				_this.bookList = bookObj;
 				callback(null, bookObj);
 			}
-		}
+		};
 
 		request.onerror = function () {
 			callback(REQUEST_FAILURE);
-		}
+		};
 
 		request.open('GET', url + "?" + AUTHENTICATION, true);
 		request.send();
@@ -209,11 +209,11 @@ class Door43DataFetcher {
 
 					callback(null, _this.bookList[bookAbbr]);
 
-				}
+				};
 
 				request.onerror = function () {
 					callback(REQUEST_FAILURE);
-				}
+				};
 
 				request.open('GET', link + "&" + AUTHENTICATION, true);
 				request.send();
@@ -244,11 +244,11 @@ class Door43DataFetcher {
 				chapterObj['verses'] = verseObj;
 				callback(null, chapterObj);
 
-			}
+			};
 
 			request.onerror = function () {
 				callback(REQUEST_FAILURE);
-			}
+			};
 
 			request.open('GET', link + "&" + AUTHENTICATION, true);
 			request.send();
@@ -276,11 +276,11 @@ class Door43DataFetcher {
 			var file = this.response;
 			verseObj['file'] = file;
 			callback(null, verseObj);
-		}
+		};
 
 		request.onerror = function () {
 			callback(REQUEST_FAILURE);
-		}
+		};
 
 		var link = verseObj['link'];
 		request.open('GET', link + (link.indexOf('?') == -1 ? '?' : '&') + AUTHENTICATION, true);
