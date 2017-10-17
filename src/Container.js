@@ -37,7 +37,7 @@ class Container extends React.Component {
         title = {contextId.groupId}
         showHelps={this.state.showHelps}
         toggleHelps={this.toggleHelps.bind(this)}
-      />
+      />;
     }
     return view;
   }

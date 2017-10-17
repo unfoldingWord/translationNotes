@@ -10,7 +10,7 @@ function usfmToJSON(usfm_in) {
   var usfm = usfm_in.replace(/\\s5|\\p/g, "");
 
   const chapterNumberExpression = new RegExp("^\\s*(\\d+)\\s+");
-  const verseNumberExpression = new RegExp("^\\s*(\\d+)\\s+")
+  const verseNumberExpression = new RegExp("^\\s*(\\d+)\\s+");
 
   let bookData = {bookAbbr: "???", chapters: []};
   let chapters = usfm.split("\\c ");

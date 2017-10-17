@@ -69,6 +69,6 @@ jas: 'James',
 '3jn': '3 John',
 jud: 'Jude',
 rev: 'Revelation'
-}
+};
 
 module.exports = Books;
