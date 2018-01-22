@@ -1,4 +1,4 @@
 
 test('We have tests', () => {
-    expect(true).toBeTruthy();
+    expect(false).toBeTruthy();
 });
