@@ -39,7 +39,7 @@
     "eslint": "4.15.0",
     "eslint-plugin-react": "7.5.1",
     "jest": "21.2.1",
-    "react-test-renderer": "15.6.2"
+    "react-test-renderer": "16.6.3"
   },
   "dependencies": {
     "lodash": "4.17.4",
