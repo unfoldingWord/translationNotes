@@ -43,6 +43,6 @@
   },
   "dependencies": {
     "lodash": "4.17.4",
-    "react-bootstrap": "0.32.0"
+    "react-bootstrap": "0.32.4"
   }
 }
