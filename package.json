@@ -1,8 +1,8 @@
 {
-  "name": "translationWords",
+  "name": "translationNotes",
   "version": "1.0.3",
-  "description": "A tool to comprehensively check the meaning of key terms in the Bible using a set of clear, concise definitions and including suggestions for translation.",
-  "title": "translationWords",
+  "description": "A tool to check a wide range of potential translation problems in the Bible, including grammatical constructions and figures of speech that can be difficult to translate, with explanations and suggestions for translation.",
+  "title": "translationNotes",
   "main": "index.js",
   "scripts": {
     "test": "eslint ./src ./index.js && jest"
@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/translationCoreApps/translationWords.git"
+    "url": "git+https://github.com/translationCoreApps/translationNotes.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/translationCoreApps/translationWords/issues"
+    "url": "https://github.com/translationCoreApps/translationNotes/issues"
   },
-  "homepage": "https://github.com/translationCoreApps/translationWords#readme",
+  "homepage": "https://github.com/translationCoreApps/translationNotes#readme",
   "display": "app",
   "devDependencies": {
     "babel-eslint": "8.2.2",
