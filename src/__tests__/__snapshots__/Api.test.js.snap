@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`load check data returns latest data in favor of context match 1`] = `
+Object {
+  "contextId": Object {
+    "groupId": "figs_metaphor",
+    "occurrence": 1,
+    "quote": "that he put before them",
+  },
+}
+`;
+
+exports[`load check data returns older data in favor of context match 1`] = `
+Object {
+  "contextId": Object {
+    "groupId": "figs_metaphor",
+    "occurrence": 1,
+    "quote": "that he put before them",
+  },
+}
+`;

@@ -1,5 +1,7 @@
-[![Build Status](https://travis-ci.org/translationCoreApps/translationNotes.svg?branch=master)](https://travis-ci.org/translationCoreApps/translationNotes)
-[![codecov](https://codecov.io/gh/translationCoreApps/translationNotes/branch/master/graph/badge.svg)](https://codecov.io/gh/translationCoreApps/translationNotes)
+[![Build Status](https://travis-ci.org/translationCoreApps/translationWords.svg?branch=master)](https://travis-ci.org/translationCoreApps/translationWords)
+[![codecov](https://codecov.io/gh/translationCoreApps/translationWords/branch/master/graph/badge.svg)](https://codecov.io/gh/translationCoreApps/translationWords)
 
-# translationNotes
-A tool to check a wide range of potential translation problems in the Bible, including grammatical constructions and figures of speech that can be difficult to translate, with explanations and suggestions for translation.
+# translationWords
+
+A tool to comprehensively check the meaning of key terms in the Bible using a set of clear, concise definitions and including suggestions for translation.
+
