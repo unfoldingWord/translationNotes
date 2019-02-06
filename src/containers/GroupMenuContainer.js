@@ -123,7 +123,6 @@ class GroupMenuContainer extends React.Component {
         icon: <EditIcon style={{color: "white"}}/>
       }
     ];
-
     const entries = generateMenuData(
       groupsIndex,
       groupsData,
@@ -132,7 +131,6 @@ class GroupMenuContainer extends React.Component {
     );
 
     const activeEntry = generateMenuItem(contextId, this.onProcessItem);
-
     return (
       <GroupedMenu
         filters={filters}
