@@ -40,9 +40,9 @@ class CheckInfoCardContainer extends React.Component {
       showHelps,
       toggleHelps
     } = this.props;
-    const {groupId, occurrenceNote = '', information} = contextId;
+    const {groupId, occurrenceNote, information} = contextId;
     const title = groupsIndex.filter(item => item.id === groupId)[0].name;
-    let phrase = occurrenceNote || information;
+    let phrase = occurrenceNote || information || '';
     phrase = phrase.replace(/\(See:.*/g,"");
     return (
       <CheckInfoCard
