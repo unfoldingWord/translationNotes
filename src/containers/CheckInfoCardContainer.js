@@ -35,21 +35,19 @@ class CheckInfoCardContainer extends React.Component {
   render() {
     const {
       translate,
-      translationHelps,
       groupsIndex,
       contextId,
       showHelps,
       toggleHelps
     } = this.props;
-
-    let {translationWords} = translationHelps ? translationHelps : {};
-    const {groupId} = contextId;
+    const {groupId, occurrenceNote, information} = contextId;
     const title = groupsIndex.filter(item => item.id === groupId)[0].name;
-    const checkInfoCardPhrase = this.getCheckInfoCardText(translationWords, contextId.groupId, translationHelps);
+    let phrase = occurrenceNote || information;
+    phrase = phrase.replace(/\(See:.*/g,"");
     return (
       <CheckInfoCard
         title={title}
-        phrase={checkInfoCardPhrase}
+        phrase={phrase}
         seeMoreLabel={translate('see_more')}
         showSeeMoreButton={!showHelps}
         onSeeMoreClick={toggleHelps} />

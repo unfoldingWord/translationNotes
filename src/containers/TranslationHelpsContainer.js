@@ -104,7 +104,6 @@ class TranslationHelpsContainer extends React.Component {
       toggleHelps,
       translate
     } = this.props;
-    debugger;
     const languageId = currentProjectToolsSelectedGL[currentToolName];
     const currentFile = tHelpsHelpers.getArticleFromState(resourcesReducer, contextId);
     const currentFileMarkdown = tHelpsHelpers.convertMarkdownLinks(currentFile, languageId);
