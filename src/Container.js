@@ -46,7 +46,6 @@ class Container extends React.Component {
     } = this.props;
 
     if (contextId !== null) {
-      // const glQuote = actions.getGLQuote(languageId, groupId, currentToolName);
       return (
         <div style={{display: 'flex', flexDirection: 'row', width: '100vw'}}>
           <GroupMenuContainer {...this.props.groupMenu} />

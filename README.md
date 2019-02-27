@@ -3,5 +3,5 @@
 
 # translationNotes
 
-A tool to comprehensively check the meaning of key terms in the Bible using a set of clear, concise definitions and including suggestions for translation.
+A tool to check a wide range of potential translation problems in the Bible, including grammatical constructions and figures of speech that can be difficult to translate, with explanations and suggestions for translation.
 
