@@ -1,6 +1,8 @@
 import {ToolApi} from 'tc-tool';
 import path from 'path-extra';
 import usfm from "usfm-js";
+import ospath from 'ospath';
+import fs from 'fs-extra';
 import {checkSelectionOccurrences} from 'selections';
 import {getGroupDataForVerse, sameContext} from './helpers/groupDataHelpers';
 
@@ -377,30 +379,38 @@ export default class Api extends ToolApi {
     this.props.tc.showIgnorableAlert('selections_invalidated', translate('selections_invalidated'));
   }
 
-  getAvailableCheckCategories(currentProjectToolsSelectedGL, bookId) {
+  getAvailableCheckCategories() {
     const {
+      tool:{
+        name:toolName
+      },
       tc: {
-        resources
+        currentProjectToolsSelectedGL,
+        resources:ResourceAPI,
+        // contextId: {reference: {bookId}}
       }
     } = this.props;
-    debugger;
-    /* resources/<lang>/translationHelps/translationsNotes/<version>/<categories not other>/groups/<book>/<group>.json */
-    let catFiles = [];
     const gatewayLanguage = currentProjectToolsSelectedGL[toolName] || 'en';
     const toolResourceDirectory = path.join(ospath.home(), 'translationCore', 'resources', gatewayLanguage, 'translationHelps', toolName);
-    const versionDirectory = resources.getLatestVersion(toolResourceDirectory) || toolResourceDirectory;
-    if (fs.existsSync(versionDirectory)) {
-      // sub categories are 4 levels of sub directories below version  
-      const reg = new RegExp('^([^\\' + path.sep + ']*$|.*.json$)');                      // doesnt have / or is json
-      catFiles = readdir.readdirSync(versionDirectory, {deep: 4})                  // everything under version
-        .filter(file => file.search(reg) >= 0)                                            // categories or groups
-        .filter(file => file.search(bookId) >= 0)                                         // for single project
-        .filter(file => file.search(/.*(articles|manifest.json|index.json).*/) < 0)       // none of these
-        .map(file => file.indexOf(path.sep) < 0 ? file :
-          file.substr(file.lastIndexOf(path.sep) + 1))                                    // basename
-        .sort().filter((val, idx, arr) => idx === arr.indexOf(val))                       // sort unique
-        .map(file => file.replace(".json", ""));                                          // Remove extension
-    }
+    const categoriesLocation = ResourceAPI.getLatestVersion(toolResourceDirectory) || toolResourceDirectory;
+    let catFiles = [];
+    catFiles = fs.readdirSync(categoriesLocation).filter((dirName) =>
+      fs.lstatSync(path.join(categoriesLocation, dirName)).isDirectory())
     return catFiles;
+    // const gatewayLanguage = currentProjectToolsSelectedGL[toolName] || 'en';
+    // const toolResourceDirectory = path.join(ospath.home(), 'translationCore', 'resources', gatewayLanguage, 'translationHelps', toolName);
+    // const categoriesLocation = ResourceAPI.getLatestVersion(toolResourceDirectory) || toolResourceDirectory;
+    // let catFiles = [];
+    // // sub categories are 4 levels of sub directories below version  
+    // const reg = new RegExp('^([^\\' + path.sep + ']*$|.*.json$)');                      // doesnt have / or is json
+    // catFiles = readdir.readdirSync(categoriesLocation, {deep: 4})                  // everything under version
+    //   .filter(file => file.search(reg) >= 0)                                            // categories or groups
+    //   .filter(file => file.search(bookId) >= 0)                                         // for single project
+    //   .filter(file => file.search(/.*(articles|manifest.json|index.json).*/) < 0)       // none of these
+    //   .map(file => file.indexOf(path.sep) < 0 ? file :
+    //     file.substr(file.lastIndexOf(path.sep) + 1))                                    // basename
+    //   .sort().filter((val, idx, arr) => idx === arr.indexOf(val))                       // sort unique
+    //   .map(file => file.replace(".json", ""));                               // Remove extension
+    // return catFiles;
   }
 }
