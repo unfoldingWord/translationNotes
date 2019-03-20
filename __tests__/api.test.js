@@ -1,7 +1,15 @@
 import Api from '../src/Api';
+jest.mock('../src/helpers/validationHelpers.js', () => ({
+  ...require.requireActual('../src/helpers/validationHelpers.js'),
+  sameContext: () => false,
+  getSelectionsFromChapterAndVerseCombo: jest.fn(() => {})
+}));
+jest.mock('fs-extra');
+import * as validationHelpers from '../src/helpers/validationHelpers';
 
 describe('api.validateBook', () => {
   it('should find that a verse has invalidated checks', () => {
+    const spy = jest.spyOn(validationHelpers, 'getSelectionsFromChapterAndVerseCombo');
     const props = {
       tool: {
         name: 'translationWords',
@@ -15,8 +23,8 @@ describe('api.validateBook', () => {
         },
         contextId: {reference: {bookId: 'tit'}},
         username: 'royalsix',
-        changeSelections: jest.fn(() => {}),
         project: {
+          _projectPath: 'my/project/path',
           getGroupData: jest.fn(() => {}),
           getCategoryGroupIds: jest.fn(() => {}),
           getGroupsData: jest.fn(() => ({
@@ -24,13 +32,12 @@ describe('api.validateBook', () => {
             [{"priority":1,"comments":false,"reminders":false,"selections":[{"text":"godlessness ","occurrence":1,"occurrences":1}],"verseEdits":false,"contextId":{"reference":{"bookId":"tit","chapter":2,"verse":12},"tool":"translationWords","groupId":"age","quote":"αἰῶνι","strong":["G01650"],"occurrence":1},"invalidated":false}]
           })),
         },
-        showIgnorableAlert: jest.fn(() => {})
+        showIgnorableDialog: jest.fn(() => {})
       }
     };
     const api = new Api();
     api.props = props;
     api.validateBook();
-    expect(props.tc.showIgnorableAlert).toHaveBeenCalled();
-    expect(props.tc.changeSelections).toHaveBeenCalled();
+    expect(spy).toHaveBeenCalled();
   });
 });

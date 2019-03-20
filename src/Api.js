@@ -1,8 +1,10 @@
 import {ToolApi} from 'tc-tool';
 import path from 'path-extra';
 import usfm from "usfm-js";
+import fs from 'fs-extra';
 import {checkSelectionOccurrences} from 'selections';
-import {getGroupDataForVerse, sameContext} from './helpers/groupDataHelpers';
+import {getGroupDataForVerse} from './helpers/groupDataHelpers';
+import {generateTimestamp, sameContext, getSelectionsFromChapterAndVerseCombo} from './helpers/validationHelpers';
 
 export default class Api extends ToolApi {
 
@@ -29,13 +31,9 @@ export default class Api extends ToolApi {
         targetBook
       }
     } = this.props;
-    let selectionsChanged;
     for (const chapter of Object.keys(targetBook)) {
       if (isNaN(chapter) || parseInt(chapter) === -1) continue;
-      selectionsChanged = this.validateChapter(chapter);
-    }
-    if (selectionsChanged) {
-      this._showResetDialog();
+      this.validateChapter(chapter);
     }
   }
 
@@ -48,49 +46,56 @@ export default class Api extends ToolApi {
   validateChapter(chapter) {
     const {
       tc: {
-        targetBook,
-        contextId: {reference: {bookId}},
+        targetBook
       }
     } = this.props;
-    let selectionsChanged = false;
     if (targetBook[chapter]) {
       const bibleChapter = targetBook[chapter];
       if (bibleChapter) {
         for (let verse of Object.keys(bibleChapter)) {
-          const verseText = bibleChapter[verse];
-          const contextId = {
-            reference: {
-              bookId,
-              chapter: parseInt(chapter),
-              verse: parseInt(verse)
-            }
-          };
-          selectionsChanged = selectionsChanged || this.validateVerse(verseText, false, contextId);
+          const targetVerse = bibleChapter[verse];
+          this._validateVerse(targetVerse, chapter, verse);
         }
       }
     }
-    return selectionsChanged;
+  }
+
+  validateVerse(chapter, verse) {
+    const {
+      tc: {
+        targetBook
+      }
+    } = this.props;
+    const bibleChapter = targetBook[chapter];
+    const targetVerse = bibleChapter[verse];
+    this._validateVerse(targetVerse, chapter, verse);
   }
 
   /**
   * verify all selections for current verse
-  * @param {string} targetVerse - new text for verse
-  * @param {Boolean} skipCurrent - if true, then skip over validation of current contextId
-  * @param {Object} contextId - optional contextId to use, otherwise will use current
-  * @param {Boolean} warnOnError - if true, then will show message on selection change
+  * @param {number} chapter
+  * @param {number} verse
   * @return {Function}
   */
-  validateVerse(targetVerse, skipCurrent = false, contextId = null, warnOnError = false) {
+  _validateVerse(targetVerse, chapter, verse) {
     let {
       tc: {
-        username,
-        changeSelections,
+        contextId: {reference: {bookId}},
+        username: userName,
         project: {
-          getGroupsData
+          getGroupsData,
+          _projectPath: projectSaveLocation
         }
       },
       tool: {name}
     } = this.props;
+    const contextId = {
+      reference: {
+        bookId,
+        chapter: parseInt(chapter),
+        verse: parseInt(verse)
+      }
+    };
     const groupsDataForVerse = getGroupDataForVerse(getGroupsData, contextId, name);
     let filtered = null;
     let selectionsChanged = false;
@@ -98,26 +103,56 @@ export default class Api extends ToolApi {
       const groupItem = groupsDataForVerse[groupItemKey];
       for (let checkingOccurrence of groupItem) {
         const selections = checkingOccurrence.selections;
-        if (!skipCurrent || !sameContext(contextId, checkingOccurrence.contextId)) {
+        if (!sameContext(contextId, checkingOccurrence.contextId)) {
           if (selections && selections.length) {
             if (!filtered) {  // for performance, we filter the verse only once and only if there is a selection
               filtered = usfm.removeMarker(targetVerse); // remove USFM markers
             }
             const validSelections = checkSelectionOccurrences(filtered, selections);
             if (selections.length !== validSelections.length) {
+              const selectionsObject = getSelectionsFromChapterAndVerseCombo(
+                bookId,
+                chapter,
+                verse,
+                projectSaveLocation,
+                checkingOccurrence.contextId.quote
+              );
+              //If selections are changed, they need to be clearded
               selectionsChanged = true;
-              changeSelections([], username, true, checkingOccurrence.contextId); // clear selection
+              const invalidatedCheckPath = path.join(projectSaveLocation, '.apps', 'translationCore', 'checkData', 'invalidated', bookId, chapter.toString(), verse.toString());
+              const invalidatedPayload = {
+                ...selectionsObject,
+                invalidated: true,
+                selections: [],
+                userName
+              };
+              this.writeCheckData(invalidatedPayload, invalidatedCheckPath);
+
+              const selectionsCheckPath = path.join(projectSaveLocation, '.apps', 'translationCore', 'checkData', 'selections', bookId, chapter.toString(), verse.toString());
+              const selectionsPayload = {
+                ...selectionsObject,
+                selections: [],
+                userName
+              };
+              this.writeCheckData(selectionsPayload, selectionsCheckPath);
             }
           }
         }
       }
     }
 
-    if (warnOnError && (selectionsChanged)) {
+    if (selectionsChanged) {
       this._showResetDialog();
     }
-    return selectionsChanged;
   }
+
+  writeCheckData(payload = {}, checkPath) {
+    const modifiedTimestamp = generateTimestamp();
+    const newFilename = modifiedTimestamp + '.json';
+    payload.modifiedTimestamp = modifiedTimestamp;
+    fs.outputJSONSync(path.join(checkPath, newFilename.replace(/[:"]/g, '_')), payload);
+  }
+
 
   /**
  * Returns the percent progress of completion for the project.
@@ -240,7 +275,6 @@ export default class Api extends ToolApi {
   getInvalidChecks(selectedCategories) {
     const {tc: {project}, tool: {name}} = this.props;
     let invalidChecks = 0;
-
     for (const category of selectedCategories) {
       const groups = project.getCategoryGroupIds(name, category);
       for (const group of groups) {
@@ -258,7 +292,6 @@ export default class Api extends ToolApi {
         }
       }
     }
-
     return invalidChecks;
   }
 
@@ -374,6 +407,6 @@ export default class Api extends ToolApi {
         translate
       }
     } = this.props;
-    this.props.tc.showIgnorableAlert('selections_invalidated', translate('selections_invalidated'));
+    this.props.tc.showIgnorableDialog('selections_invalidated', translate('selections_invalidated'));
   }
 }
