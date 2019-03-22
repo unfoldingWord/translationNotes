@@ -159,13 +159,13 @@ export default class Api extends ToolApi {
  * @param {string[]} selectedCategories -  an array of categories to include in the calculation.
  * @returns {number} - a value between 0 and 1
  */
-  getProgress(selectedCategories) {
+  getProgress() {
     const {tc: {project}, tool: {name}} = this.props;
     let totalChecks = 0;
     let completedChecks = 0;
-
-    for (const category of selectedCategories) {
-      const groups = project.getCategoryGroupIds(name, category);
+    const selectedCategories = project.getSelectedCategories(name, true);
+    for (const categoryName in selectedCategories) {
+      const groups = selectedCategories[categoryName];
       for (const group of groups) {
         const data = project.getGroupData(name, group);
         if (data && data.constructor === Array) {
