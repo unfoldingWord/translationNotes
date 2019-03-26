@@ -5,18 +5,14 @@
   "title": "translationNotes",
   "main": "index.js",
   "scripts": {
-    "test": "eslint ./src ./index.js && jest"
+    "test": "eslint ./index.js && jest --passWithNoTests"
   },
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx}",
       "!**/node_modules/**"
     ],
-    "coverageDirectory": "coverage",
-    "setupFiles": [
-      "./testSetUp/shim.js",
-      "./testSetUp/enzyme.js"
-    ]
+    "coverageDirectory": "coverage"
   },
   "repository": {
     "type": "git",
@@ -29,6 +25,8 @@
   "homepage": "https://github.com/translationCoreApps/translationNotes#readme",
   "display": "app",
   "devDependencies": {
+    "eslint": "^5.15.3",
+    "jest": "^24.5.0",
     "react-redux": "5.0.7",
     "tc-tool": "2.1.0"
   },
