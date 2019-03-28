@@ -139,7 +139,8 @@ const mapStateToProps = (state, ownProps) => {
       translate: ownProps.translate,
       translationHelps: getResourceByName(ownProps, 'translationHelps'),
       groupsIndex: getGroupsIndex(ownProps),
-      contextId: getContextId(ownProps)
+      contextId: getContextId(ownProps),
+      resourcesReducer: ownProps.tc.resourcesReducer
     },
     scripturePane: {
       translate: ownProps.translate,
