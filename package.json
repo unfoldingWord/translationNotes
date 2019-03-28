@@ -5,7 +5,7 @@
   "title": "translationNotes",
   "main": "index.js",
   "scripts": {
-    "test": "eslint ./index.js && jest --passWithNoTests"
+    "test": "eslint ./index.js && jest"
   },
   "jest": {
     "collectCoverageFrom": [
