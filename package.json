@@ -31,7 +31,7 @@
     "checking-tool-wrapper": "^0.4.0",
     "crowdin-api": "^2.0.2",
     "eslint": "^5.15.3",
-    "gulp": "^4.0.0",
+    "gulp": "^3.9.1",
     "jest": "^24.5.0",
     "react-dom": "^16.8.6",
     "react-redux": "5.0.7",
