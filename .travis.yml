@@ -9,8 +9,9 @@ before_install:
   - npm --version
 install:
   - npm i
-  - npm i -g jest eslint
+  - npm i -g jest eslint codecov
 before_script:
   - if [[ "$TRAVIS_BRANCH" == "master" || "$TRAVIS_BRANCH" == "develop" ]]; then gulp crowdin; fi
 script:
-  - eslint && jest
+  - eslint && jest --coverage
+  - codecov
