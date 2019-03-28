@@ -9,7 +9,7 @@
   },
   "jest": {
     "collectCoverageFrom": [
-      "src/**/*.{js,jsx}",
+      "**/*.{js,jsx}",
       "!**/node_modules/**"
     ],
     "coverageDirectory": "coverage"
