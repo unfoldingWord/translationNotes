@@ -28,7 +28,9 @@
     "@babel/plugin-proposal-class-properties": "^7.4.0",
     "@babel/preset-env": "^7.4.2",
     "checking-tool-wrapper": "^0.4.0",
+    "crowdin-api": "^4.0.0",
     "eslint": "^5.15.3",
+    "gulp": "^4.0.0",
     "jest": "^24.5.0",
     "react-redux": "5.0.7",
     "tc-tool": "2.1.0"
