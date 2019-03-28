@@ -13,5 +13,5 @@ install:
 before_script:
   - if [[ "$TRAVIS_BRANCH" == "master" || "$TRAVIS_BRANCH" == "develop" ]]; then gulp crowdin; fi
 script:
-  - eslint && jest --coverage
+  - eslint ./index.js && jest --coverage
   - codecov
