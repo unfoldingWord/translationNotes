@@ -15,6 +15,7 @@
     "save_button": "बचाना",
     "next_button": "आगला"
   },
+  "selections_invalidated": "Some selections are no longer valid and are removed.",
   "see_more": "और देखें",
   "select": "चुनना",
   "step2_check": "चरण 2. जांच",
