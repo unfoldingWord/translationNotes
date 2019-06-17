@@ -15,6 +15,7 @@
     "save_button": "Guardar",
     "next_button": "Siguiente"
   },
+  "nothing_to_select_description": "When selected, the check will be marked as complete. Use when the translation is correct but a selection cannot be made.",
   "selections_invalidated": "Some selections are no longer valid and are removed.",
   "see_more": "Ver más",
   "select": "Seleccionar",
