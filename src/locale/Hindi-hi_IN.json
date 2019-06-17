@@ -26,6 +26,8 @@
   "save_continue": "सहेजें और जारी रखें",
   "empty_verse": "कोई चयन नहीं किया जा सकता क्योंकि कविता खाली है।<br/>आप इस कविता को संपादित करके इसे ठीक कर सकते हैं।<br/>यदि वांछित है, तो आप टिप्पणी भी छोड़ सकते हैं या बुकमार्क कर सकते हैं।",
   "no_selection": "कोई चयन नहीं किया गया है।<br/>चयन बटन दबाए, फिर इसे चेक करने के लिए अनुवाद का चयन करें।",
+  "no_selection_needed_description": "No selection has been made.<br/>This check has been marked as:",
+  "no_selection_needed": "No selection needed",
   "please_select": "कृपया अनुवाद करने के लिए चयन करें:",
   "selection_invalidated": "इस चेक के लिए चयन अवैध था।",
   "invalidated_tooltip": "चयन किए गए शब्दों को संपादित किए जाने पर चयन को अमान्य कर दिया जाता है।",

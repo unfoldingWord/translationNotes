@@ -26,6 +26,8 @@
   "save_continue": "Salvar e Continuar",
   "empty_verse": "Nenhuma seleção pode ser feita porque o versículo está em branco.<br/>Você pode corrigir isso através da edição do versículo.<br/>Se desejar, você também pode deixar um comentário ou marcar esta verificação.",
   "no_selection": "Nenhuma seleção foi feita.<br/>Clique no botão Selecionar e selecione a tradução para essa verificação.",
+  "no_selection_needed_description": "No selection has been made.<br/>This check has been marked as:",
+  "no_selection_needed": "No selection needed",
   "please_select": "Por favor, selecione a tradução para:",
   "selection_invalidated": "A seleção para essa verificação foi invalidada.",
   "invalidated_tooltip": "Uma seleção é invalidada se as palavras selecionadas forem editadas.",
