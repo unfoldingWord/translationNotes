@@ -13,7 +13,8 @@
     "back_button": "Volver",
     "cancel_button": "Cancelar",
     "save_button": "Guardar",
-    "next_button": "Siguiente"
+    "next_button": "Siguiente",
+    "discard_changes": "Discard Changes"
   },
   "quote_invalid": "Invalid Original Language Quote for Check: '${quote}'",
   "nothing_to_select_description": "When selected, the check will be marked as complete. Use when the translation is correct but a selection cannot be made.",
@@ -232,5 +233,6 @@
   "ithpalpel": "Ithpalpel",
   "ithpolel": "Ithpolel",
   "ittaphal": "Ittaphal",
-  "morph_missing": "No se encontró la Morfología"
+  "morph_missing": "No se encontró la Morfología",
+  "unsaved_changes": "You have unsaved changes."
 }
