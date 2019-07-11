@@ -13,8 +13,10 @@
     "back_button": "वापस जाये",
     "cancel_button": "रद्द",
     "save_button": "बचाना",
-    "next_button": "आगला"
+    "next_button": "आगला",
+    "discard_changes": "Discard Changes"
   },
+  "quote_invalid": "Invalid Original Language Quote for Check: '${quote}'",
   "nothing_to_select_description": "When selected, the check will be marked as complete. Use when the translation is correct but a selection cannot be made.",
   "selections_invalidated": "Some selections are no longer valid and are removed.",
   "see_more": "और देखें",
@@ -231,5 +233,6 @@
   "ithpalpel": "Ithpalpel",
   "ithpolel": "Ithpolel",
   "ittaphal": "Ittaphal",
-  "morph_missing": "Morphology not found"
+  "morph_missing": "Morphology not found",
+  "unsaved_changes": "You have unsaved changes."
 }

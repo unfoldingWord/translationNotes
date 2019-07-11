@@ -64,7 +64,7 @@
     "bookmarked": "This check has been bookmarked for review",
     "not_bookmarked": "This check has not been bookmarked for review"
   },
-  "select_too_many": "Click a previous selection to remove it before adding a new one. To select more than ${maximum} words, highlight phrases instead of individual words.",
+  "select_too_many": "Click a previous selection to remove it before adding a new one. To select more than 4 words, highlight phrases instead of individual words.",
   "oops": "Oops!",
   "pane": {
     "current_project": "Current project",
