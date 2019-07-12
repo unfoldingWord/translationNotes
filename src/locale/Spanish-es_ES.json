@@ -64,7 +64,7 @@
     "bookmarked": "Esta verificación ha sido marcada para revisión",
     "not_bookmarked": "Esta verificación no ha sido marcada para revisión"
   },
-  "select_too_many": "Haz clic en una selección previa para eliminarla antes de añadir una nueva. Para seleccionar más de 4 palabras, resalta las frases en lugar de palabras individuales.",
+  "select_too_many": "Click a previous selection to remove it before adding a new one. To select more than ${maximum} words, highlight phrases instead of individual words.",
   "oops": "¡Uy!",
   "pane": {
     "current_project": "Proyecto actual",

@@ -64,7 +64,7 @@
     "bookmarked": "इस चेक को समीक्षा के लिए बुकमार्क किया गया है",
     "not_bookmarked": "इस चेक को समीक्षा के लिए बुकमार्क नहीं किया गया है"
   },
-  "select_too_many": "नया जोड़ने से पहले इसे हटाने के लिए पिछले चयन पर क्लिक करें। 4 से अधिक शब्दों का चयन करने के लिए, अलग-अलग शब्दों के बजाय वाक्यांशों को हाइलाइट करें।",
+  "select_too_many": "Click a previous selection to remove it before adding a new one. To select more than ${maximum} words, highlight phrases instead of individual words.",
   "oops": "ऊप्स!",
   "pane": {
     "current_project": "वर्तमान परियोजना",
