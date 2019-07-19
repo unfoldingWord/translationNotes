@@ -71,7 +71,7 @@
     "missing_verse_warning": "ಎಚ್ಚರಿಕೆ: ಈ ವಚನಕ್ಕೆ ಒಳಗೊಂಡಿದ ಪಠ್ಯ ಈ ಸತ್ಯವೇದದ ಅನುವಾದದಲ್ಲಿ ಸೇರಿಸಲ್ಪಡಲಿಲ್ಲ ${WARNING: This Bible version does not include text for this reference.}",
     "title": "ಕ್ರಮ 1. ಓದಿ ${Step 1. Read}",
     "expand_hover": "ವಿಸ್ತರಿಸಲಾಗಿರುವ ವಚನಗಳನ್ನು ನೋಡಲು ಇದನ್ನು ಒತ್ತಿರಿ ${Click to show expanded verses}",
-    "remove_resource": "ಮೂಲ ಸಂಪನ್ಮೂಲವನ್ನು ತೆಗೆದುಹಾಕಲು ಇದನ್ನು ಒತ್ತಿರಿ ${Click to remove resource}",
+    "remove_resource": "ಸಂಪನ್ಮೂಲವನ್ನು ತೆಗೆದುಹಾಕಲು ಇದನ್ನು ಒತ್ತಿರಿ ${Click to remove resource}",
     "add_resource": "Click to add a resource",
     "add_resource_label": "Add Resources",
     "select_language": "Select language",
