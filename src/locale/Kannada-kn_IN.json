@@ -1,7 +1,7 @@
 {
   "menu": {
-    "no_results": "ಫಲಿತಾಂಶಗಳು ಇಲ್ಲ ${No results}",
-    "invalidated": "ಅಸಮರ್ಥವಾಗಿಸು ${Invalidated}",
+    "no_results": "ಫಲಿತಾಂಶಗಳು ಇಲ್ಲ",
+    "invalidated": "ಅಸಮರ್ಥವಾಗಿಸು",
     "bookmarks": "ಪುಟ ಚಿಹ್ನೆ ${Bookmarks}",
     "selected": "ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ ${Selected}",
     "no_selection": "ಯಾವುದು ಆಯ್ಕೆ ಮಾಡಲಾಗಲಿಲ್ಲ ${No selection}",
