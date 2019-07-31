@@ -77,7 +77,7 @@
     "select_language": "ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
     "gateway_language": "ಉಪಯೋಗಿಸಲ್ಪಡುವ ಭಾಷೆ",
     "target_language": "ಲಕ್ಷ್ಯ ಭಾಷೆ",
-    "original_language": "ಮೂಲ ಭಾಷೆ ${Original Language}"
+    "original_language": "ಮೂಲ ಭಾಷೆ"
   },
   "lemma": "ಶೀರ್ಷಿಕೆ:",
   "morphology": "ರೋಪವಿಜ್ಞಾನ:",
@@ -114,8 +114,8 @@
   "third": "3ನೇ",
   "pronoun": "ಸರ್ವನಾಮ",
   "personal": "ವೈಯಕ್ತಿಕ",
-  "reflexive": "ಪ್ರತಿಫಲ ${Reflexive}",
-  "reciprocal": "ಪರಸ್ಪರ ${Reciprocal}",
+  "reflexive": "ಪ್ರತಿಫಲ",
+  "reciprocal": "ಪರಸ್ಪರ",
   "indefinite": "ಅನಿರ್ಧಿಷ್ಟ",
   "verb": "ಕ್ರಿಯಾಪದ",
   "transitive": "ಪರಿವರ್ತಕ",
