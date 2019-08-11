@@ -1,23 +1,23 @@
 {
   "menu": {
     "no_results": "No results",
-    "invalidated": "Invalidated",
-    "bookmarks": "Bookmarks",
-    "selected": "Selected",
-    "no_selection": "No selection",
-    "verse_edit": "Verse edit",
-    "comments": "Comments",
-    "menu": "Menu"
+    "invalidated": "अवैद्य केलेले",
+    "bookmarks": "वाचनखुणा",
+    "selected": "निवडलेले",
+    "no_selection": "निवड नाही",
+    "verse_edit": "वचन संपादित करा",
+    "comments": "टिप्पण्या",
+    "menu": "सूची"
   },
   "buttons": {
-    "back_button": "Go Back",
-    "cancel_button": "Cancel",
-    "save_button": "Save",
-    "next_button": "Next",
-    "discard_changes": "Discard Changes"
+    "back_button": "मागे जा",
+    "cancel_button": "रद्द करा",
+    "save_button": "जतन करा",
+    "next_button": "पुढील",
+    "discard_changes": "बदल रद्द करा"
   },
-  "quote_invalid": "Invalid Original Language Quote for Check: '${quote}'",
-  "nothing_to_select_description": "When selected, the check will be marked as complete. Use when the translation is correct but a selection cannot be made.",
+  "quote_invalid": "अवैध मूळ भाषा अवतरण तपासासाठी: '${quote}'",
+  "nothing_to_select_description": "निवडल्यास, तपास पूर्ण म्हणून चिन्हांकित केले जाईल. जेव्हा भाषांतर योग्य असेल तेव्हा वापरा परंतु निवडी केली जाऊ शकत नाही.",
   "selections_invalidated": "Some selections are no longer valid and are removed.",
   "see_more": "See more",
   "select": "Select",
