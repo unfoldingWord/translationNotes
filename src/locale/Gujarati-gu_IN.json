@@ -1,23 +1,23 @@
 {
   "menu": {
-    "no_results": "No results",
-    "invalidated": "Invalidated",
-    "bookmarks": "Bookmarks",
-    "selected": "Selected",
-    "no_selection": "No selection",
-    "verse_edit": "Verse edit",
-    "comments": "Comments",
-    "menu": "Menu"
+    "no_results": "કોઈ પરિણામ નથી",
+    "invalidated": "અમાન્ય",
+    "bookmarks": "બુકમાર્ક્સ",
+    "selected": "પસંદ કરવામાં આવેલ છે",
+    "no_selection": "કોઈ પસંદગી કરેલ નથી",
+    "verse_edit": "કલમ ઉમેરો",
+    "comments": "ટિપ્પણી",
+    "menu": "મેનુ"
   },
   "buttons": {
-    "back_button": "Go Back",
-    "cancel_button": "Cancel",
-    "save_button": "Save",
-    "next_button": "Next",
-    "discard_changes": "Discard Changes"
+    "back_button": "પાછા જાઓ",
+    "cancel_button": "રદ કરો",
+    "save_button": "સાચવો",
+    "next_button": "આગામી",
+    "discard_changes": "ફેરફારોને કાઢી નાખોો"
   },
-  "quote_invalid": "Invalid Original Language Quote for Check: '${quote}'",
-  "nothing_to_select_description": "When selected, the check will be marked as complete. Use when the translation is correct but a selection cannot be made.",
+  "quote_invalid": "અયોગ્ય મૂળ ભાષા જાણવા માટે તપાસો: '${quote}'",
+  "nothing_to_select_description": "જ્યારે પસંદ કર્યું હશે, ત્યારે તપાસને પૂર્ણ થયેલ એમ બતાવશે. જ્યારે અનુવાદ ખરું હોય ત્યારે ઉપયોગ કરો પરંતુ પસંદગી કરી શકાશે નહીં.",
   "selections_invalidated": "Some selections are no longer valid and are removed.",
   "see_more": "See more",
   "select": "Select",
