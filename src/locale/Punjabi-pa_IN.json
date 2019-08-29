@@ -5,16 +5,16 @@
     "bookmarks": "ਬੁੱਕਮਾਰਕਸ",
     "selected": "ਚੁਣਿਆ ਹੋਇਆ |",
     "no_selection": "ਕੋਈ ਚੋਣ ਨਹੀਂ |",
-    "verse_edit": "Verse edit",
-    "comments": "Comments",
-    "menu": "Menu"
+    "verse_edit": "ਆਇਤ ਸੋਧ ",
+    "comments": "ਟਿੱਪਣੀ ਕਰਨੀ |",
+    "menu": "ਮੀਨੂ"
   },
   "buttons": {
-    "back_button": "Go Back",
-    "cancel_button": "Cancel",
-    "save_button": "Save",
-    "next_button": "Next",
-    "discard_changes": "Discard Changes"
+    "back_button": "ਪਿੱਛੇ ਜਾਓ",
+    "cancel_button": "ਰੱਦ ਕਰਨਾ",
+    "save_button": "ਸੰਭਾਲੋ",
+    "next_button": "ਅਗਲਾ",
+    "discard_changes": "ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰੋ |"
   },
   "quote_invalid": "Invalid Original Language Quote for Check: '${quote}'",
   "nothing_to_select_description": "When selected, the check will be marked as complete. Use when the translation is correct but a selection cannot be made.",
