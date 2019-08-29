@@ -26,7 +26,7 @@
   "edit_verse": "ਸੋਧ ਆਇਤ",
   "save_previous": "ਸੰਭਾਲੋ ਅਤੇ ਪਿਛਲੇ",
   "save_continue": "ਸੰਭਾਲੋ ਅਤੇ ਜਾਰੀ ਰੱਖੋ",
-  "empty_verse": "No selection can be made because the verse is blank.<br/>You may fix this by editing the verse.<br/>If desired, you may also leave a comment or bookmark this check.",
+  "empty_verse": "ਕਿਸੇ ਵੀ ਚੌਣ ਨੂੰ ਬਣਾਇਆ ਨਹੀ ਜਾ ਸਕਦਾ ਕਿਓਂਕਿ ਆਇਤ ਖਾਲੀ ਹੈ |<br/> ਤੁਸੀਂ ਆਇਤ ਨੂੰ ਸੋਧ ਕੇ ਠੀਕ ਕਰ ਸਕਦੇ ਹੋ |\n<br/> ਜੇ ਲੋੜੀਂਦੀ ਹੈ, ਤੁਸੀਂ ਇਸ ਚੈੱਕ ਲਈ ਬੂਕਮਾਰਕ ਜਾਂ ਟਿੱਪਣੀ ਕੇਰ ਸਕਦੇ ਹੋ |  \n    ",
   "no_selection": "No selection has been made.<br/>Click the Select button, then select the translation for this check.",
   "no_selection_needed_description": "No selection has been made.<br/>This check has been marked as:",
   "no_selection_needed": "No selection needed",
