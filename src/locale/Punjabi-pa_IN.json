@@ -1,10 +1,10 @@
 {
   "menu": {
     "no_results": "ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ ",
-    "invalidated": "Invalidated",
-    "bookmarks": "Bookmarks",
-    "selected": "Selected",
-    "no_selection": "No selection",
+    "invalidated": " ਰੱਦ ਕੀਤਾ ਹੋਇਆ |",
+    "bookmarks": "ਬੁੱਕਮਾਰਕਸ",
+    "selected": "ਚੁਣਿਆ ਹੋਇਆ |",
+    "no_selection": "ਕੋਈ ਚੋਣ ਨਹੀਂ |",
     "verse_edit": "Verse edit",
     "comments": "Comments",
     "menu": "Menu"
