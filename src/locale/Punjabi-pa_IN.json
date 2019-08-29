@@ -16,7 +16,7 @@
     "next_button": "ਅਗਲਾ",
     "discard_changes": "ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰੋ |"
   },
-  "quote_invalid": "Invalid Original Language Quote for Check: '${quote}'",
+  "quote_invalid": "ਅਵੈਧ ਮੂਲ ਭਾਸ਼ਾ ਦਾ ਹਵਾਲਾ ਚੈਁਕ ਕਰਨ ਲਈ | ",
   "nothing_to_select_description": "When selected, the check will be marked as complete. Use when the translation is correct but a selection cannot be made.",
   "selections_invalidated": "Some selections are no longer valid and are removed.",
   "see_more": "See more",
