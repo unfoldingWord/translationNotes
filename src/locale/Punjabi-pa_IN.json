@@ -21,7 +21,7 @@
   "selections_invalidated": "ਕੁਝ ਚੋਣਾਂ ਵੈਧ ਨਹੀਂ ਹੁੰਦੀਆਂ ਹਨ ਅਤੇ ਹਟਾ ਦਿੱਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ.",
   "see_more": "\nਹੋਰ ਵੇਖੋ ",
   "select": " ਚੋਣ ਕਰੋ",
-  "step2_check": "Step 2. Check",
+  "step2_check": "ਕਦਮ 2. ਚੈੱਕ ਕਰੋ \n",
   "comment": "ਟਿੱਪਣੀ",
   "edit_verse": "ਸੋਧ ਆਇਤ",
   "save_previous": "ਸੰਭਾਲੋ ਅਤੇ ਪਿਛਲੇ",
@@ -69,7 +69,7 @@
   "pane": {
     "current_project": "ਮੌਜੂਦਾ ਪ੍ਰਾਜੈਕਟ ",
     "missing_verse_warning": "[ਚੇਤਾਵਨੀ: ਬਾਈਬਲ ਦੇ ਇਸ ਵਰਜ਼ਨ ਵਿਚ ਇਸ ਹਵਾਲੇ ਦਾ ਪਾਠ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ.]",
-    "title": "Step 1. Read",
+    "title": "ਕਦਮ 1. ਪੜ੍ਹੋ",
     "expand_hover": "Click to show expanded resource panes",
     "remove_resource": "Click to remove resource",
     "add_resource": "Click to add a resource",
