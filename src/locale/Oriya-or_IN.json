@@ -1,19 +1,19 @@
 {
   "menu": {
-    "no_results": "No results",
-    "invalidated": "Invalidated",
-    "bookmarks": "Bookmarks",
-    "selected": "Selected",
-    "no_selection": "No selection",
-    "verse_edit": "Verse edit",
-    "comments": "Comments",
-    "menu": "Menu"
+    "no_results": "କୌଣସି ଫଳାଫଳ ନାହିଁ",
+    "invalidated": "ଅବୈଧ ହୋଇଅଛି",
+    "bookmarks": "ବୁକ୍‍ମାର୍କ୍ସ",
+    "selected": "ଚୟନ କରାଯାଇଅଛି ",
+    "no_selection": "କିଛି ଚୟନ ହୋଇନାହିଁ",
+    "verse_edit": "ପଦର ସଂଶୋଧନ",
+    "comments": "ମନ୍ତବ୍ୟଗୁଡ଼ିକ",
+    "menu": "ମେନ୍ୟୁ"
   },
   "buttons": {
-    "back_button": "Go Back",
-    "cancel_button": "Cancel",
-    "save_button": "Save",
-    "next_button": "Next",
+    "back_button": "ପଛକୁ ଯାଆନ୍ତୁ",
+    "cancel_button": "ବାତିଲ/ରଦ୍ଦ କରନ୍ତୁ  ",
+    "save_button": "ସଂରକ୍ଷଣ କରନ୍ତୁ",
+    "next_button": "ପରବର୍ତ୍ତୀ",
     "discard_changes": "Discard Changes"
   },
   "quote_invalid": "Invalid Original Language Quote for Check: '${quote}'",
