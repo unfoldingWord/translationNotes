@@ -28,7 +28,7 @@
     "@babel/plugin-proposal-class-properties": "^7.4.0",
     "@babel/preset-env": "^7.4.2",
     "babel-eslint": "^10.0.1",
-    "checking-tool-wrapper": "^0.7.3",
+    "checking-tool-wrapper": "github:translationCoreApps/checking-tool-wrapper#feature-mannycolon-6448",
     "crowdin-api": "^2.0.2",
     "eslint": "^5.15.3",
     "gulp": "^3.9.1",
