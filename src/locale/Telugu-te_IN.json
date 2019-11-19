@@ -49,6 +49,7 @@
   "next_change_reason": "Next, select reason(s) for change",
   "first_make_change": "First, make changes to verse above",
   "close": "Close",
+  "load": "Load",
   "attention": "Attention:",
   "select_translation": "Please ${span} select ${span} the correct translation for your current check.",
   "can_skip": "If you are unable to perform this check, you may ${span} skip it ${span} and come back to it later.",
