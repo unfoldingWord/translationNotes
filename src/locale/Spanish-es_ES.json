@@ -49,6 +49,7 @@
   "next_change_reason": "A continuación, selecciona la(s) razón(es) para el cambio",
   "first_make_change": "Primero, haz los cambios al versículo de arriba.",
   "close": "Cerrar",
+  "load": "Load",
   "attention": "Atención:",
   "select_translation": "Por favor ${span} selecciona ${span} la traducción correcta para tu verificación actual.",
   "can_skip": "Si no puedes realizar esta verificación, puedes ${span} omitirla ${span} y volver a ella más tarde.",
