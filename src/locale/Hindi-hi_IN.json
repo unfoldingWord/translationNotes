@@ -14,11 +14,11 @@
     "cancel_button": "रद्द",
     "save_button": "बचाना",
     "next_button": "आगला",
-    "discard_changes": "Discard Changes"
+    "discard_changes": "परिवर्तनों को फेंक दें"
   },
-  "quote_invalid": "Invalid Original Language Quote for Check: '${quote}'",
-  "nothing_to_select_description": "When selected, the check will be marked as complete. Use when the translation is correct but a selection cannot be made.",
-  "selections_invalidated": "Some selections are no longer valid and are removed.",
+  "quote_invalid": "अमान्य मूल भाषा के लिए बोली की जाँच करें: '${quote}'",
+  "nothing_to_select_description": "जब चुना जाता है, की जाँच के रूप में चिह्नित किया जाएगा पूरा हो गया है. जब उपयोग के अनुवाद सही है, लेकिन एक चयन नहीं किया जा सकता ।",
+  "selections_invalidated": "कुछ चयन अब मान्य नहीं हैं और हटाए गए हैं।",
   "see_more": "और देखें",
   "select": "चुनना",
   "step2_check": "चरण 2. जांच",
@@ -28,8 +28,8 @@
   "save_continue": "सहेजें और जारी रखें",
   "empty_verse": "कोई चयन नहीं किया जा सकता क्योंकि कविता खाली है।<br/>आप इस कविता को संपादित करके इसे ठीक कर सकते हैं।<br/>यदि वांछित है, तो आप टिप्पणी भी छोड़ सकते हैं या बुकमार्क कर सकते हैं।",
   "no_selection": "कोई चयन नहीं किया गया है।<br/>चयन बटन दबाए, फिर इसे चेक करने के लिए अनुवाद का चयन करें।",
-  "no_selection_needed_description": "No selection has been made.<br/>This check has been marked as:",
-  "no_selection_needed": "No selection needed",
+  "no_selection_needed_description": "कोई चयन नहीं किया गया है ।<br/>यह चेक किया गया है के रूप में चिह्नित:",
+  "no_selection_needed": "कोई चयन नहीं की जरूरत है",
   "please_select": "कृपया अनुवाद करने के लिए चयन करें:",
   "selection_invalidated": "इस चेक के लिए चयन अवैध था।",
   "invalidated_tooltip": "चयन किए गए शब्दों को संपादित किए जाने पर चयन को अमान्य कर दिया जाता है।",
@@ -65,7 +65,7 @@
     "bookmarked": "इस चेक को समीक्षा के लिए बुकमार्क किया गया है",
     "not_bookmarked": "इस चेक को समीक्षा के लिए बुकमार्क नहीं किया गया है"
   },
-  "select_too_many": "Click a previous selection to remove it before adding a new one. To select more than ${maximum} words, highlight phrases instead of individual words.",
+  "select_too_many": "क्लिक करें, पिछले एक चयन को दूर करने के लिए इसे जोड़ने से पहले एक नया एक. का चयन करने के लिए अधिक से अधिक ${maximum} शब्दों, वाक्यांशों पर प्रकाश डाला के बजाय अलग-अलग शब्दों के साथ.",
   "oops": "ऊप्स!",
   "pane": {
     "current_project": "वर्तमान परियोजना",
@@ -234,6 +234,6 @@
   "ithpalpel": "Ithpalpel",
   "ithpolel": "Ithpolel",
   "ittaphal": "Ittaphal",
-  "morph_missing": "Morphology not found",
-  "unsaved_changes": "You have unsaved changes."
+  "morph_missing": "आकृति विज्ञान नहीं पाया",
+  "unsaved_changes": "आप बिना सहेजे गए परिवर्तन हैं."
 }
