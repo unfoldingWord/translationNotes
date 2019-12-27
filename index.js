@@ -1,9 +1,13 @@
-import Container from './src/Container';
-import {connectTool} from 'tc-tool';
 import path from 'path';
-import Api from './src/Api';
+import { connectTool } from 'tc-tool';
+import {
+  Api,
+  Container,
+  reducers,
+} from 'checking-tool-wrapper';
 
 export default connectTool('translationNotes', {
   localeDir: path.join(__dirname, './src/locale'),
-  api: new Api()
+  api: new Api(),
+  reducer: reducers,
 })(Container);

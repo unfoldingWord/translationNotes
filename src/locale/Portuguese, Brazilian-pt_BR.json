@@ -13,8 +13,12 @@
     "back_button": "Voltar",
     "cancel_button": "Cancelar",
     "save_button": "Salvar",
-    "next_button": "Próximo"
+    "next_button": "Próximo",
+    "discard_changes": "Discard Changes"
   },
+  "quote_invalid": "Invalid Original Language Quote for Check: '${quote}'",
+  "nothing_to_select_description": "When selected, the check will be marked as complete. Use when the translation is correct but a selection cannot be made.",
+  "selections_invalidated": "Some selections are no longer valid and are removed.",
   "see_more": "Ver mais",
   "select": "Selecionar",
   "step2_check": "Passo 2. Verificar",
@@ -24,6 +28,8 @@
   "save_continue": "Salvar e Continuar",
   "empty_verse": "Nenhuma seleção pode ser feita porque o versículo está em branco.<br/>Você pode corrigir isso através da edição do versículo.<br/>Se desejar, você também pode deixar um comentário ou marcar esta verificação.",
   "no_selection": "Nenhuma seleção foi feita.<br/>Clique no botão Selecionar e selecione a tradução para essa verificação.",
+  "no_selection_needed_description": "No selection has been made.<br/>This check has been marked as:",
+  "no_selection_needed": "No selection needed",
   "please_select": "Por favor, selecione a tradução para:",
   "selection_invalidated": "A seleção para essa verificação foi invalidada.",
   "invalidated_tooltip": "Uma seleção é invalidada se as palavras selecionadas forem editadas.",
@@ -43,6 +49,7 @@
   "next_change_reason": "Em seguida, selecione a(s) razão(ões) para alteração",
   "first_make_change": "Primeiro, faça as alterações no versículo acima",
   "close": "Fechar",
+  "load": "Load",
   "attention": "Atenção:",
   "select_translation": "Por favor, ${span} escolha ${span} a tradução correta para a sua verificação atual.",
   "can_skip": "Se você é incapaz de realizar esta verificação, você pode ${span} ignorá-la ${span} e voltar mais tarde.",
@@ -58,7 +65,7 @@
     "bookmarked": "Esta verificação foi marcada para revisão",
     "not_bookmarked": "Esta verificação não foi marcada para revisão"
   },
-  "select_too_many": "Clique em uma seleção anterior para removê-la antes de adicionar uma nova seleção. Para selecionar mais de 4 palavras, destaque frases em vez de palavras individuais.",
+  "select_too_many": "Click a previous selection to remove it before adding a new one. To select more than ${maximum} words, highlight phrases instead of individual words.",
   "oops": "Opa!",
   "pane": {
     "current_project": "Projeto atual",
@@ -227,5 +234,6 @@
   "ithpalpel": "Ithpalpel",
   "ithpolel": "Ithpolel",
   "ittaphal": "Ittaphal",
-  "morph_missing": "Morfologia não encontrado"
+  "morph_missing": "Morfologia não encontrado",
+  "unsaved_changes": "You have unsaved changes."
 }
