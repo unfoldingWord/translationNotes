@@ -62,7 +62,7 @@
     "no_verse_edits_found": "No Verse edits were found for this check",
     "comments_found": "Comments were found for this check",
     "no_comments_found": "No comments were found for this check",
-    "bookmarked": "This check has been bookmarked for review",
+    "bookmarked": "Эта проверка была добавлена в закладки для проверки",
     "not_bookmarked": "Эта проверка не была закладкой для пересмотра"
   },
   "select_too_many": "Щелкните предыдущее выделение, чтобы удалить его перед добавлением нового. Чтобы выбрать более ${maximum} слов, выделите фразу вместо отдельных слов.",
@@ -235,5 +235,5 @@
   "ithpolel": "Итполэль",
   "ittaphal": "Иттафаль",
   "morph_missing": "Морфология не найдена",
-  "unsaved_changes": "Остались несохраненные изменения."
+  "unsaved_changes": "Остались не сохраненные изменения."
 }
