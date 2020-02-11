@@ -16,6 +16,9 @@
     "next_button": "पुढील",
     "discard_changes": "बदल रद्द करा"
   },
+  "alignments_reset_wa_tool": "Changes have been detected in your project which have invalidated some of your alignments.\nThese verses display an icon of a broken chain next to the reference in the side menu.",
+  "invalid_verse_alignments_and_selections": "Changes have been detected in your project which have invalidated some selections and some alignments. These verses display an icon of a broken chain next to the reference in the side menu.",
+  "invalidation_checking": "Checking if this edit conflicts with saved selections and alignments...",
   "quote_invalid": "अवैध मूळ भाषा अवतरण तपासासाठी: '${quote}'",
   "nothing_to_select_description": "निवडल्यास, तपास पूर्ण म्हणून चिन्हांकित केले जाईल. जेव्हा भाषांतर योग्य असेल तेव्हा वापरा परंतु निवडी केली जाऊ शकत नाही.",
   "selections_invalidated": "काही निवडी यापुढे वैध नाहीत आणि काढल्या जातात.",
