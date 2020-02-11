@@ -7,7 +7,7 @@ import {
 } from 'checking-tool-wrapper';
 
 export default connectTool('translationNotes', {
-  localeDir: path.join(__dirname, './src/locale'),
+  localeDir: path.join('./src/tC_apps/translationNotes/src/locale'),
   api: new Api(),
   reducer: reducers,
 })(Container);
