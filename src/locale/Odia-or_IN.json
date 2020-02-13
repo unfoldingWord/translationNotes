@@ -10,8 +10,10 @@
     "menu": "ମେନ୍ୟୁ"
   },
   "buttons": {
+    "ok_button": "OK",
     "back_button": "ପଛକୁ ଯାଆନ୍ତୁ",
     "cancel_button": "ବାତିଲ/ରଦ୍ଦ କରନ୍ତୁ  ",
+    "reset_button": "Reset",
     "save_button": "ସଂରକ୍ଷଣ କରନ୍ତୁ",
     "next_button": "ପରବର୍ତ୍ତୀ",
     "discard_changes": "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ୟାନ କରନ୍ତୁ"
