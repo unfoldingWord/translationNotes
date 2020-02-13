@@ -10,8 +10,10 @@
     "menu": "Menu"
   },
   "buttons": {
+    "ok_button": "OK",
     "back_button": "Voltar",
     "cancel_button": "Cancelar",
+    "reset_button": "Reset",
     "save_button": "Salvar",
     "next_button": "Próximo",
     "discard_changes": "Discard Changes"
