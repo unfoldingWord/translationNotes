@@ -10,8 +10,10 @@
     "menu": "ಪರಿವಿಡಿ"
   },
   "buttons": {
+    "ok_button": "OK",
     "back_button": "ಹಿಂದಕ್ಕೆ ಹೋಗು",
     "cancel_button": "ರದ್ದು ಮಾಡು",
+    "reset_button": "Reset",
     "save_button": "ಉಳಿಸು",
     "next_button": "ಮುಂದಿನ",
     "discard_changes": "ಬದಲಾವಣೆಗಳನ್ನು ತ್ಯಜಿಸಿ"
