@@ -10,8 +10,10 @@
     "menu": "Меню"
   },
   "buttons": {
+    "ok_button": "OK",
     "back_button": "Назад",
     "cancel_button": "Отменить",
+    "reset_button": "Reset",
     "save_button": "Сохранить",
     "next_button": "Далее",
     "discard_changes": "Не сохранять"
