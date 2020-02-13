@@ -10,8 +10,10 @@
     "menu": "सूची"
   },
   "buttons": {
+    "ok_button": "OK",
     "back_button": "मागे जा",
     "cancel_button": "रद्द करा",
+    "reset_button": "Reset",
     "save_button": "जतन करा",
     "next_button": "पुढील",
     "discard_changes": "बदल रद्द करा"
