@@ -10,8 +10,10 @@
     "menu": "મેનુ"
   },
   "buttons": {
+    "ok_button": "OK",
     "back_button": "પાછા જાઓ",
     "cancel_button": "રદ કરો",
+    "reset_button": "Reset",
     "save_button": "સાચવો",
     "next_button": "આગામી",
     "discard_changes": "ફેરફારોને કાઢી નાખોો"
