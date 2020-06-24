@@ -60,6 +60,7 @@
   "can_skip": "ਜੇ ਤੁਸੀਂ ਇਹ ਜਾਂਚ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋ, ਤਾਂ ਤੁਸੀਂ ${span} ਇਸਨੂੰ ਛੱਡ ਸਕਦੇ ਹੋ${span} ਅਤੇ ਬਾਅਦ ਵਿਚ ਇਸ ਤੇ ਵਾਪਸ ਆ ਸਕਦੇ ਹੋ |",
   "skip": "ਛੱਡੋ",
   "click_show_expanded": "\nਫੈਲੀਆਂ ਆਇਤਾਂ ਨੂੰ ਦਰਸਾਉਣ ਲਈ ਕਲਿਕ ਕਰੋ",
+  "expand_verses": "Expand verses",
   "icons": {
     "selections_found": "ਇਸ ਚੈਕ ਲਈ ਚੋਣ ਲੱਭੀ ਗਈ ਸੀ |",
     "no_selections_found": "ਇਸ ਚੈਕ ਲਈ ਕੋਈ ਵੀ ਚੋਣ ਨਹੀਂ ਲੱਭੀ ਗਈ ਸੀ |",
@@ -78,6 +79,7 @@
     "title": "ਕਦਮ 1. ਪੜ੍ਹੋ",
     "expand_hover": "ਫੈਲੇ ਸਰੋਤ ਨੂੰ ਦਿਖਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ",
     "remove_resource": "ਸਰੋਤ ਨੂੰ ਹਟਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ",
+    "remove_resource_label": "Remove resource",
     "add_resource": "ਇੱਕ ਸਰੋਤ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ",
     "add_resource_label": "ਸਰੋਤਾਂ ਨੂੰ ਸ਼ਾਮਿਲ ਕਰੋ",
     "select_language": "ਭਾਸ਼ਾ ਚੁਣੋ",
