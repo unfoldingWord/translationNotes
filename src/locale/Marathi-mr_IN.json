@@ -60,6 +60,7 @@
   "can_skip": "तुम्ही तपासण्यास अक्षम असल्यास तुम्ही ${span} ${span} वगळू शकता आणि नंतर त्यावर परत येऊ शकता.",
   "skip": "वगळा",
   "click_show_expanded": "विस्तृत वचने दर्शविण्यासाठी क्लिक करा",
+  "expand_verses": "Expand verses",
   "icons": {
     "selections_found": "या तपासासाठी निवडी सापडल्या",
     "no_selections_found": "या तपासासाठी निवडी सापडल्या नाहीत",
@@ -78,6 +79,7 @@
     "title": "1 ली पायरी. वाचा",
     "expand_hover": "विस्तृत संसाधन काचेचे एक तावदान दर्शविण्यासाठी क्लिक करा",
     "remove_resource": "संसाधन काढण्यासाठी क्लिक करा",
+    "remove_resource_label": "Remove resource",
     "add_resource": "संसाधन जोडण्यासाठी क्लिक करा",
     "add_resource_label": "संसाधने जोडणे",
     "select_language": "भाषा निवडा",
