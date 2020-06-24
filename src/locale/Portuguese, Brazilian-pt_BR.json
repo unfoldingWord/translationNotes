@@ -60,6 +60,7 @@
   "can_skip": "Se você é incapaz de realizar esta verificação, você pode ${span} ignorá-la ${span} e voltar mais tarde.",
   "skip": "Ignorar",
   "click_show_expanded": "Clique para mostrar os versículos expandidos",
+  "expand_verses": "Expand verses",
   "icons": {
     "selections_found": "Foram encontradas seleções para esta verificação",
     "no_selections_found": "Nenhuma seleção foi encontrada para essa verificação",
@@ -78,6 +79,7 @@
     "title": "Passo 1. Leitura",
     "expand_hover": "Clique para mostrar os painéis de recurso expandidos",
     "remove_resource": "Clique para remover o recurso",
+    "remove_resource_label": "Remove resource",
     "add_resource": "Clique para adicionar um recurso",
     "add_resource_label": "Adicionar Recursos",
     "select_language": "Selecionar o idioma",
