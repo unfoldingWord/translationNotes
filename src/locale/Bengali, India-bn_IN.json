@@ -60,6 +60,7 @@
   "can_skip": "If you are unable to perform this check, you may ${span} skip it ${span} and come back to it later.",
   "skip": "Skip",
   "click_show_expanded": "Click to show expanded verses",
+  "expand_verses": "Expand verses",
   "icons": {
     "selections_found": "Selections were found for this check",
     "no_selections_found": "No selections were found for this check",
@@ -78,6 +79,7 @@
     "title": "Step 1. Read",
     "expand_hover": "Click to show expanded resource panes",
     "remove_resource": "Click to remove resource",
+    "remove_resource_label": "Remove resource",
     "add_resource": "Click to add a resource",
     "add_resource_label": "Add Resources",
     "select_language": "Select language",
