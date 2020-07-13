@@ -85,7 +85,8 @@
     "select_language": "ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
     "gateway_language": "ಉಪಯೋಗಿಸಲ್ಪಡುವ ಭಾಷೆ",
     "target_language": "ಲಕ್ಷ್ಯ ಭಾಷೆ",
-    "original_language": "ಮೂಲ ಭಾಷೆ"
+    "original_language": "ಮೂಲ ಭಾಷೆ",
+    "select_font_label": "Select Font"
   },
   "lemma": "ಶೀರ್ಷಿಕೆ:",
   "morphology": "ರೋಪವಿಜ್ಞಾನ:",

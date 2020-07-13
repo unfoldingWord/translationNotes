@@ -85,7 +85,8 @@
     "select_language": "Selecionar o idioma",
     "gateway_language": "Gateway Language",
     "target_language": "Target Language",
-    "original_language": "Original Language"
+    "original_language": "Original Language",
+    "select_font_label": "Select Font"
   },
   "lemma": "Lema:",
   "morphology": "Morfologia:",
