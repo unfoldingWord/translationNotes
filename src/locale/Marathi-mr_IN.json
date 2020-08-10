@@ -10,12 +10,17 @@
     "menu": "सूची"
   },
   "buttons": {
+    "ok_button": "OK",
     "back_button": "मागे जा",
     "cancel_button": "रद्द करा",
+    "reset_button": "Reset",
     "save_button": "जतन करा",
     "next_button": "पुढील",
     "discard_changes": "बदल रद्द करा"
   },
+  "alignments_reset_wa_tool": "Changes have been detected in your project which have invalidated some of your alignments.\nThese verses display an icon of a broken chain next to the reference in the side menu.",
+  "invalid_verse_alignments_and_selections": "Changes have been detected in your project which have invalidated some selections and some alignments. These verses display an icon of a broken chain next to the reference in the side menu.",
+  "invalidation_checking": "Checking if this edit conflicts with saved selections and alignments...",
   "quote_invalid": "अवैध मूळ भाषा अवतरण तपासासाठी: '${quote}'",
   "nothing_to_select_description": "निवडल्यास, तपास पूर्ण म्हणून चिन्हांकित केले जाईल. जेव्हा भाषांतर योग्य असेल तेव्हा वापरा परंतु निवडी केली जाऊ शकत नाही.",
   "selections_invalidated": "काही निवडी यापुढे वैध नाहीत आणि काढल्या जातात.",
@@ -55,6 +60,7 @@
   "can_skip": "तुम्ही तपासण्यास अक्षम असल्यास तुम्ही ${span} ${span} वगळू शकता आणि नंतर त्यावर परत येऊ शकता.",
   "skip": "वगळा",
   "click_show_expanded": "विस्तृत वचने दर्शविण्यासाठी क्लिक करा",
+  "expand_verses": "Expand verses",
   "icons": {
     "selections_found": "या तपासासाठी निवडी सापडल्या",
     "no_selections_found": "या तपासासाठी निवडी सापडल्या नाहीत",
@@ -73,12 +79,14 @@
     "title": "1 ली पायरी. वाचा",
     "expand_hover": "विस्तृत संसाधन काचेचे एक तावदान दर्शविण्यासाठी क्लिक करा",
     "remove_resource": "संसाधन काढण्यासाठी क्लिक करा",
+    "remove_resource_label": "Remove resource",
     "add_resource": "संसाधन जोडण्यासाठी क्लिक करा",
     "add_resource_label": "संसाधने जोडणे",
     "select_language": "भाषा निवडा",
     "gateway_language": "गेटवे भाषा",
     "target_language": "लक्षित भाषा",
-    "original_language": "मूळ भाषा"
+    "original_language": "मूळ भाषा",
+    "select_font_label": "Select Font"
   },
   "lemma": "लेम्मा:",
   "morphology": "नमुनाशास्त्र:",
