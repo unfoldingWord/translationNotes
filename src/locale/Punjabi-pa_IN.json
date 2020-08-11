@@ -10,12 +10,17 @@
     "menu": "ਮੀਨੂ"
   },
   "buttons": {
+    "ok_button": "OK",
     "back_button": "ਪਿੱਛੇ ਜਾਓ",
     "cancel_button": "ਰੱਦ ਕਰਨਾ",
+    "reset_button": "Reset",
     "save_button": "ਸੰਭਾਲੋ",
     "next_button": "ਅਗਲਾ",
     "discard_changes": "ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰੋ |"
   },
+  "alignments_reset_wa_tool": "Changes have been detected in your project which have invalidated some of your alignments.\nThese verses display an icon of a broken chain next to the reference in the side menu.",
+  "invalid_verse_alignments_and_selections": "Changes have been detected in your project which have invalidated some selections and some alignments. These verses display an icon of a broken chain next to the reference in the side menu.",
+  "invalidation_checking": "Checking if this edit conflicts with saved selections and alignments...",
   "quote_invalid": "ਅਵੈਧ ਮੂਲ ਭਾਸ਼ਾ ਦਾ ਹਵਾਲਾ ਚੈਁਕ ਕਰਨ ਲਈ | ",
   "nothing_to_select_description": "ਜਦੋਂ ਚੁਣਿਆ ਜਾਵੇਗਾ, ਤਾਂ ਚੈੱਕ ਨੂੰ ਮੁਕੰਮਲ ਹੋਇਆ ਦੇ ਤੌਰ ਤੇ ਵਰਤਿਆ ਜਾਵੇਗਾ | ਜਦੋਂ ਅਨੁਵਾਦ ਸਹੀ ਹੋਵੇ ਤਾਂ ਵਰਤੋ ਪਰ ਚੁਣਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ |.",
   "selections_invalidated": "ਕੁਝ ਚੋਣਾਂ ਵੈਧ ਨਹੀਂ ਹਨ ਅਤੇ ਹਟਾ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ.",
@@ -55,6 +60,7 @@
   "can_skip": "ਜੇ ਤੁਸੀਂ ਇਹ ਜਾਂਚ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋ, ਤਾਂ ਤੁਸੀਂ ${span} ਇਸਨੂੰ ਛੱਡ ਸਕਦੇ ਹੋ${span} ਅਤੇ ਬਾਅਦ ਵਿਚ ਇਸ ਤੇ ਵਾਪਸ ਆ ਸਕਦੇ ਹੋ |",
   "skip": "ਛੱਡੋ",
   "click_show_expanded": "\nਫੈਲੀਆਂ ਆਇਤਾਂ ਨੂੰ ਦਰਸਾਉਣ ਲਈ ਕਲਿਕ ਕਰੋ",
+  "expand_verses": "Expand verses",
   "icons": {
     "selections_found": "ਇਸ ਚੈਕ ਲਈ ਚੋਣ ਲੱਭੀ ਗਈ ਸੀ |",
     "no_selections_found": "ਇਸ ਚੈਕ ਲਈ ਕੋਈ ਵੀ ਚੋਣ ਨਹੀਂ ਲੱਭੀ ਗਈ ਸੀ |",
@@ -73,12 +79,14 @@
     "title": "ਕਦਮ 1. ਪੜ੍ਹੋ",
     "expand_hover": "ਫੈਲੇ ਸਰੋਤ ਨੂੰ ਦਿਖਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ",
     "remove_resource": "ਸਰੋਤ ਨੂੰ ਹਟਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ",
+    "remove_resource_label": "Remove resource",
     "add_resource": "ਇੱਕ ਸਰੋਤ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ",
     "add_resource_label": "ਸਰੋਤਾਂ ਨੂੰ ਸ਼ਾਮਿਲ ਕਰੋ",
     "select_language": "ਭਾਸ਼ਾ ਚੁਣੋ",
     "gateway_language": "ਗੇਟਵੇ ਭਾਸ਼ਾ",
     "target_language": "ਟੀਚਾ ਭਾਸ਼ਾ",
-    "original_language": "ਮੂਲ ਭਾਸ਼ਾ"
+    "original_language": "ਮੂਲ ਭਾਸ਼ਾ",
+    "select_font_label": "Select Font"
   },
   "lemma": "ਲੀਮਾ:",
   "morphology": "ਰੂਪ ਵਿਗਿਆਨ:",

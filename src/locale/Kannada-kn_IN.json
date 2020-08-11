@@ -10,12 +10,17 @@
     "menu": "ಪರಿವಿಡಿ"
   },
   "buttons": {
+    "ok_button": "OK",
     "back_button": "ಹಿಂದಕ್ಕೆ ಹೋಗು",
     "cancel_button": "ರದ್ದು ಮಾಡು",
+    "reset_button": "Reset",
     "save_button": "ಉಳಿಸು",
     "next_button": "ಮುಂದಿನ",
     "discard_changes": "ಬದಲಾವಣೆಗಳನ್ನು ತ್ಯಜಿಸಿ"
   },
+  "alignments_reset_wa_tool": "Changes have been detected in your project which have invalidated some of your alignments.\nThese verses display an icon of a broken chain next to the reference in the side menu.",
+  "invalid_verse_alignments_and_selections": "Changes have been detected in your project which have invalidated some selections and some alignments. These verses display an icon of a broken chain next to the reference in the side menu.",
+  "invalidation_checking": "Checking if this edit conflicts with saved selections and alignments...",
   "quote_invalid": "ದ ಮೂಲ ಭಾಷೆಯ ವ್ಯಾಖ್ಯೆದ ಪರಿಶೀಲನೆ ಅಸಮರ್ಥವಾಗಿದೆ: '${quote}'",
   "nothing_to_select_description": "ಆಯ್ಕೆ ಮಾಡಿದಾಗ, ಪರಿಶೀಲನೆ ಸಂಪೂರ್ಣವಾಗಿದೆ ಎಂದು ಗುರುತುಹಾಕಲ್ಪಡುತ್ತದೆ.",
   "selections_invalidated": "ಕೆಲವೊಂದು ಆಯ್ಕೆಗಳು ಇನ್ನುಮುಂದೆ ಸಮರ್ಥವಾಗಿರುವದಿಲ್ಲ ಅದರಿಂದ ಅವುಗಳನ್ನು ತೆಗೆದುಹಾಕಲ್ಪಟ್ಟಿದೆ.",
@@ -55,6 +60,7 @@
   "can_skip": "ಈ ಪರಿಶೀಲನೆಯನ್ನು ನೀವು ಈಗ ನಡೆಸಲಾಗದಿದ್ದರೆ, ನೀವು ${span} ಅದನ್ನು ಬಿಟ್ಟು ${span} ಮತ್ತೆ ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಹಿಂತಿರುಗಿರಿ.",
   "skip": "ಬಿಟ್ಟುಬಿಡು",
   "click_show_expanded": "ವಿಸ್ತರಿಸಲಾಗಿರುವ ವಚನಗಳನ್ನು ನೋಡಲು ಇದನ್ನು ಒತ್ತಿರಿ",
+  "expand_verses": "Expand verses",
   "icons": {
     "selections_found": "ಈ ಪರಿಶೀಲನೆಗೆ ಆಯ್ಕೆಗಳು ಕಂಡುಬಂದವು",
     "no_selections_found": "ಈ ಪರಿಶೀಲನೆಗೆ ಯಾವುದೇ ಆಯ್ಕೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
@@ -73,12 +79,14 @@
     "title": "ಕ್ರಮ 1. ಓದಿ",
     "expand_hover": "ವಿಸ್ತರಿಸಲಾಗಿರುವ ವಚನಗಳನ್ನು ನೋಡಲು ಇದನ್ನು ಒತ್ತಿರಿ",
     "remove_resource": "ಸಂಪನ್ಮೂಲವನ್ನು ತೆಗೆದುಹಾಕಲು ಇದನ್ನು ಒತ್ತಿರಿ",
+    "remove_resource_label": "Remove resource",
     "add_resource": "ಸಂಪನ್ಮೂಲವನ್ನು ಸೇರಿಸಲು ಇದನ್ನು ಒತ್ತಿರಿ",
     "add_resource_label": "ಸಂಪನ್ಮೂಲಗಳನ್ನು ಸೇರಿಸಿ",
     "select_language": "ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
     "gateway_language": "ಉಪಯೋಗಿಸಲ್ಪಡುವ ಭಾಷೆ",
     "target_language": "ಲಕ್ಷ್ಯ ಭಾಷೆ",
-    "original_language": "ಮೂಲ ಭಾಷೆ"
+    "original_language": "ಮೂಲ ಭಾಷೆ",
+    "select_font_label": "Select Font"
   },
   "lemma": "ಶೀರ್ಷಿಕೆ:",
   "morphology": "ರೋಪವಿಜ್ಞಾನ:",

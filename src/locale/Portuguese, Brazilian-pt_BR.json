@@ -10,12 +10,17 @@
     "menu": "Menu"
   },
   "buttons": {
+    "ok_button": "OK",
     "back_button": "Voltar",
     "cancel_button": "Cancelar",
+    "reset_button": "Reset",
     "save_button": "Salvar",
     "next_button": "Próximo",
     "discard_changes": "Discard Changes"
   },
+  "alignments_reset_wa_tool": "Changes have been detected in your project which have invalidated some of your alignments.\nThese verses display an icon of a broken chain next to the reference in the side menu.",
+  "invalid_verse_alignments_and_selections": "Changes have been detected in your project which have invalidated some selections and some alignments. These verses display an icon of a broken chain next to the reference in the side menu.",
+  "invalidation_checking": "Checking if this edit conflicts with saved selections and alignments...",
   "quote_invalid": "Invalid Original Language Quote for Check: '${quote}'",
   "nothing_to_select_description": "When selected, the check will be marked as complete. Use when the translation is correct but a selection cannot be made.",
   "selections_invalidated": "Some selections are no longer valid and are removed.",
@@ -55,6 +60,7 @@
   "can_skip": "Se você é incapaz de realizar esta verificação, você pode ${span} ignorá-la ${span} e voltar mais tarde.",
   "skip": "Ignorar",
   "click_show_expanded": "Clique para mostrar os versículos expandidos",
+  "expand_verses": "Expand verses",
   "icons": {
     "selections_found": "Foram encontradas seleções para esta verificação",
     "no_selections_found": "Nenhuma seleção foi encontrada para essa verificação",
@@ -73,12 +79,14 @@
     "title": "Passo 1. Leitura",
     "expand_hover": "Clique para mostrar os painéis de recurso expandidos",
     "remove_resource": "Clique para remover o recurso",
+    "remove_resource_label": "Remove resource",
     "add_resource": "Clique para adicionar um recurso",
     "add_resource_label": "Adicionar Recursos",
     "select_language": "Selecionar o idioma",
     "gateway_language": "Gateway Language",
     "target_language": "Target Language",
-    "original_language": "Original Language"
+    "original_language": "Original Language",
+    "select_font_label": "Select Font"
   },
   "lemma": "Lema:",
   "morphology": "Morfologia:",
