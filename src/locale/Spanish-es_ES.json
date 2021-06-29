@@ -10,10 +10,10 @@
     "menu": "Menú"
   },
   "buttons": {
-    "ok_button": "OK",
+    "ok_button": "Aceptar",
     "back_button": "Volver",
     "cancel_button": "Cancelar",
-    "reset_button": "Reset",
+    "reset_button": "Reiniciar",
     "save_button": "Guardar",
     "next_button": "Siguiente",
     "discard_changes": "Descartar cambios"
@@ -79,7 +79,7 @@
     "title": "Paso 1. Leer",
     "expand_hover": "Haz clic para ver ampliado los paneles de recursos",
     "remove_resource": "Haga clic para eliminar el recurso",
-    "remove_resource_label": "Remove resource",
+    "remove_resource_label": "Eliminar recurso",
     "add_resource": "Haga clic para añadir un recurso",
     "add_resource_label": "Añadir Recursos",
     "select_language": "Seleccionar idioma",
@@ -243,5 +243,5 @@
   "ithpolel": "Ithpolel",
   "ittaphal": "Ittaphal",
   "morph_missing": "No se encontró la Morfología",
-  "unsaved_changes": "You have unsaved changes."
+  "unsaved_changes": "Tienes cambios sin guardar."
 }
