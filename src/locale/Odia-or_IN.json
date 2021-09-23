@@ -10,10 +10,10 @@
     "menu": "ମେନ୍ୟୁ"
   },
   "buttons": {
-    "ok_button": "OK",
+    "ok_button": "ଠିକ୍‌ ଅଛି",
     "back_button": "ପଛକୁ ଯାଆନ୍ତୁ",
     "cancel_button": "ବାତିଲ/ରଦ୍ଦ କରନ୍ତୁ  ",
-    "reset_button": "Reset",
+    "reset_button": "ପୁନଃସେଟ୍",
     "save_button": "ସଂରକ୍ଷଣ କରନ୍ତୁ",
     "next_button": "ପରବର୍ତ୍ତୀ",
     "discard_changes": "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ୟାନ କରନ୍ତୁ"
@@ -79,14 +79,14 @@
     "title": "ପ୍ରଥମ ପଦକ୍ଷେପ. ପଢନ୍ତୁ",
     "expand_hover": "ବିସ୍ତାରିତ ସମ୍ବଳ ଫଳକଗୁଡିକୁ ଦେଖାଇବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ",
     "remove_resource": "ସମ୍ବଳକୁ ହଟାଇବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ",
-    "remove_resource_label": "Remove resource",
+    "remove_resource_label": "ସମ୍ବଳ ଅପସାରଣ କରନ୍ତୁ",
     "add_resource": "ସମ୍ବଳକୁ ଯୋଗ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ",
     "add_resource_label": "ସମ୍ବଳଗୁଡିକୁ ଯୋଗ କରନ୍ତୁ",
     "select_language": "ଭାଷା ଚୟନ କରନ୍ତୁ",
     "gateway_language": "ଗେଟ୍‍‍ୱେ ଭାଷା",
     "target_language": "ଲକ୍ଷ୍ୟ ଭାଷା ",
     "original_language": "ମୂଳ ଭାଷା",
-    "select_font_label": "Select Font"
+    "select_font_label": "ଫଣ୍ଟ ଚୟନ କରନ୍ତୁ"
   },
   "lemma": "ଲେମ୍ମା:",
   "morphology": "ପଦବିଜ୍ଞାନ:",
