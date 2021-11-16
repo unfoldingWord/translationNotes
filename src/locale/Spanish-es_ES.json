@@ -71,7 +71,7 @@
     "bookmarked": "Esta verificación ha sido marcada para revisión",
     "not_bookmarked": "Esta verificación no ha sido marcada para revisión"
   },
-  "select_too_many": "Click a previous selection to remove it before adding a new one. To select more than ${maximum} words, highlight phrases instead of individual words.",
+  "select_too_many": "Haz clic en una selección previa para eliminarla antes de añadir una nueva. Para seleccionar más de ${maximum} palabras, resalta las frases en lugar de palabras individuales.",
   "oops": "¡Uy!",
   "pane": {
     "current_project": "Proyecto actual",
@@ -86,7 +86,7 @@
     "gateway_language": "Idioma fuente",
     "target_language": "Idioma receptor",
     "original_language": "Idioma Original",
-    "select_font_label": "Select Font"
+    "select_font_label": "Seleccionar fuente"
   },
   "lemma": "Lema:",
   "morphology": "Morfología:",
