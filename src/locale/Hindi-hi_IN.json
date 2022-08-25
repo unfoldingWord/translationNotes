@@ -61,6 +61,7 @@
   "skip": "छोड़ें",
   "click_show_expanded": "विस्तारित छंद दिखाने के लिए क्लिक करें",
   "expand_verses": "Expand verses",
+  "pre_release": "Pre-release",
   "icons": {
     "selections_found": "इस चेक के लिए चयन पाए गए थे",
     "no_selections_found": "इस चेक के लिए कोई चयन नहीं मिला",
