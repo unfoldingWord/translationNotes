@@ -61,6 +61,7 @@
   "skip": "Пропустить",
   "click_show_expanded": "Нажмите, чтобы показать расширенно стихи",
   "expand_verses": "Развернуть стихи",
+  "pre_release": "Pre-release",
   "icons": {
     "selections_found": "Выбранное было найдено для этой проверки",
     "no_selections_found": "Для этой проверки не найдено ни одной отметки",

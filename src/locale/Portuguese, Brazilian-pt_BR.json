@@ -61,6 +61,7 @@
   "skip": "Ignorar",
   "click_show_expanded": "Clique para mostrar os versículos expandidos",
   "expand_verses": "Expandir versículos",
+  "pre_release": "Pre-release",
   "icons": {
     "selections_found": "Foram encontradas seleções para esta verificação",
     "no_selections_found": "Nenhuma seleção foi encontrada para essa verificação",

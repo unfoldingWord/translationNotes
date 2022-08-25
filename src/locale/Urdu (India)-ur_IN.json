@@ -54,6 +54,7 @@
   "can_skip": "If you are unable to perform this check, you may ${span} skip it ${span} and come back to it later.",
   "skip": "Skip",
   "click_show_expanded": "Click to show expanded verses",
+  "pre_release": "Pre-release",
   "icons": {
     "selections_found": "Selections were found for this check",
     "no_selections_found": "No selections were found for this check",
