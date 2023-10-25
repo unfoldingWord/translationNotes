@@ -7,7 +7,8 @@
     "no_selection": "Ninguna selección",
     "verse_edit": "Editar verso",
     "comments": "Comentarios",
-    "menu": "Menú"
+    "menu": "Menú",
+    "grouping": "Organize by Reference"
   },
   "buttons": {
     "ok_button": "Aceptar",

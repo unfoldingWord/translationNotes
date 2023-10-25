@@ -7,7 +7,8 @@
     "no_selection": "Не выбрано",
     "verse_edit": "Редактировать стих",
     "comments": "Комментарии",
-    "menu": "Меню"
+    "menu": "Меню",
+    "grouping": "Organize by Reference"
   },
   "buttons": {
     "ok_button": "OK",
